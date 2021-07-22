@@ -1,0 +1,178 @@
+Die Analyse überträgt den Fehler der Klimamodelle durch globale Projektionen der Lufttemperatur, mit einer formalisierten Version des "passive Erwärmung Modell" (PWM) GCM-Nachbildungen, wie hier von mir berichtet. Die Ausbreitung der Fehler durch eine GCM Temperaturprojektion zeigt seine Vorhersage-Zuverlässigkeit.
+Interessenten können meine Übersicht (2,9 MB pdf) konsultieren, die ich beim 2013 AGU Herbsttreffen in San Francisco präsentierte. Darin geht es um die sog. Fehlerfortpflanzung. Fehlerfortpflanzung ist ein Standardverfahren, um die Zuverlässigkeit eines experimentellen Ergebnisses, oder einer Modellvorhersage zu beurteilen. Allerdings wurden Klimamodelle noch nie so beurteilt.
+Hier folgt ein Beispiel: Die folgende Abbldung zeigt, was passiert, wenn sich der mittlere, aus dem Antrieb durch Wolken resultierende Langwellen-Fehler von ± 4 W/m² in den CMIP5-Klimamodellen fortpflanzt in einem Paar von Community Climate System Model 4 (CCSM4), die die globale Lufttemperatur projizieren.
+CCSM4 ist ein CMIP5-Level-Klimamodell von NCAR, mit dem Kevin Trenberth arbeitet, und wurde für den IPCC AR5 2013 verwendet, Judy Curry schrieb hier darüber.
+In Feld a zeigen die Punkte die Anomalie Projektionen des CCSM4 der repräsentativen Konzentrationspfade (RCP) 6.0 (grün) und 8,5 (blau)im AR 5. Die Linien sind die PWM-Emulationen der CCSM4 Projektionen unter Verwendung der Standard-RCP Antriebe von Meinshausen. [2] Die CCSM4 RCP Antriebe dürften nicht identisch mit den Meinhausen RCP-Antrieben sein. Die schattierten Bereiche sind die Bandbreite der Projektionen in allen AR5-Modellen (siehe Abbildung TS.15 AR5). Die CCSM4 Projektionen sind im oberen Bereich.
+In Feld b sind die Linien die gleichen zwei CCSM4 RCP Projektionen. Aber jetzt sind die schattierten Bereiche die Bereiche der Unsicherheit, die sich ergibt, wenn der langwellige Antriebsfehler durch Wolken von ± 4 W/m² durch die Projektionen in jährlichen Schritten propagiert werden.
+Die Unsicherheit ist so groß, weil mit ± 4 W/m² der jährliche Antriebsfehler ± 114 mal größer ist als der Jahresdurchschnitt von 0.035 W/m² durch den Anstieg der Treibhausgasemissionen seit 1979. Typische Fehlerbalken für CMIP5 Klimamodellprojektionen sind ±14°C nach 100 Jahren und ± 18°C nach 150 Jahren.
+Es ist damit sofort klar, dass Klimamodelle keine thermische Wirkung der Treibhausgasemissionen berechnen und uns nichts über zukünftige Lufttemperaturen sagen können. Es ist unmöglich, dass Klimamodelle jemals ein anthropogenes Treibhaussignal berechnen können; weder jetzt noch zu irgendeinem Zeitpunkt in der Vergangenheit.
+Die Fehlerfortpflanzung durch eine Berechnung ist eine einfache Idee. Sie ist offensichtlich logisch. Und ist von entscheidender Bedeutung. Das wird jedem Studenten von Physik, Chemie und Ingenieurswesen eingehämmert.
+Aber das entging dem Überblick jedes Einzelnen der promovierten Klima-Modellierer, die mir begegnet sind, im Gespräch oder in der Begutachtung.
+Damit komme ich zum Grund, warum ich hier schreibe. Mein Manuskript wurde viermal abgelehnt; zweimal von zwei hochrangigen Klima Zeitschriften. Ich habe mich mit insgesamt zehn Bewertungen auseinander gesetzt.
+Neun der zehn Bewertungen wurden eindeutig durch Klimamodellierer geschrieben, waren einheitlich negativ und verlangten Ablehnungen. Ein Kritiker war eindeutig kein Klima-Modellierer. Dieser eine empfiehlt die Veröffentlichung.
+Ich hatte meinen Anteil an wissenschaftlichen Debatten. Ein paar von ihnen nicht ganz liebenswürdig. Meine Forschung (mit Kollegen) hat vier "herrschende Paradigmen" verworfen und so bin ich damit vertraut, wie Wissenschaftler sich verhalten, wenn sie herausgefordert werden. Nichts davon bereitete mich auf die Standards im Spiel in der Klimaforschung vor.
+Ich starte mit der Schlussfolgerung und folge mit den entsprechenden Nachweisen: Nie, in all meinen Erfahrungen mit begutachteten Veröffentlichungen, die ich je erlebt habe, traf ich auf so viel Inkompetenz in einem Gutachter. Sehr viel Unfähigkeit ist offenbar einer bestimmten Klasse von Gutachtern gemeinsam
+Dem schockierenden Mangel an Kompetenz begegnete ich mit öffentlicher Bloßstellung als ein staatsbürgerliches Gut.
+Physikalische Fehleranalyse ist entscheidend für alle Wissenschaften, vor allem der experimentellen Physik. Es ist nicht übertrieben, es zentral zu nennen.
+Das Ergebnis Wert ± Fehler erzählt, was einer weiß. Ist der Fehler größer als das der Wert, weiß jemand nichts. Zum Beispiel war Geoff Sherrington eloquent (wortgewandt) über die Gefahren und Verzwicktheit der Versuchsfehler.
+Alle Naturwissenschaften befolgen diese Standards. Naturwissenschaftler sind an sie gebunden. Klimamodellierer machen dies nicht und begründen das auch nicht.
+• Weder respektieren noch verstehen sie den Unterschied zwischen Genauigkeit und Präzision.
+• Sie verstehen nichts von der Bedeutung oder des Verfahrens, Fehlerbereiche durchzurechnen.
+• Sie glauben, physische Fehlerbalken bedeuten, dass das Modell selbst zwischen den extremen Unsicherheiten oszilliert. (Ich mache keine Witze.)
+• Sie verstehen die Bedeutung physikalischer Fehler nicht.
+• Sie verstehen die Wichtigkeit eines eindeutigen Ergebnisses nicht.
+Unterm Strich? Klima-Modellierer sind keine Wissenschaftler. Klimamodellierung ist kein Zweig der Naturwissenschaft. Klima-Modellierer sind nicht in der Lage, die physikalische Zuverlässigkeit der eigenen Modelle zu bewerten.
+Die folgenden Unglaublichkeiten sind eine wörtliche Gutachter-Niederschrift; kursiv zitiert. Jeder Gedanke wird so geschrieben, wie der Begutachter es im Ernst meinte. Keine Anführungszeichen sind ihres Kontextes beraubt, und es ist auch nichts abgeschnitten zu etwas anderem als es der Begutachter meinte.
+Und denken Sie daran, dieses sind Argumente, die gewisse Redakteure von bestimmten hochrangigen Klima-Zeitschriften überzeugend gefunden haben.
+1. Genauigkeit und Präzision
+Die Unterscheidung zwischen Genauigkeit und Präzision steht im Mittelpunkt der Argumentation in diesem Manuskript und wird in der Einleitung definiert.
+Die Genauigkeit des Modells ist die Differenz zwischen seinen Vorhersagen und den entsprechenden Beobachtungen.
+Die Präzision des Modells ist die Varianz der Voraussagen, ohne Bezug auf Beobachtungen.
+Physikalische Bewertung eines Modells erfordert ein genaues Maßsystem.
+Es gibt nichts Grundlegenderes für die Wissenschaft selbst als die kritische Unterscheidung der Genauigkeit von Präzision.
+Hier Beispiele was Klimamodellierer über meine Arbeiten geschrieben haben:
+"Zu viel dieser Arbeit besteht aus philosophischen Tiraden (z. B. Genauigkeit vs. Präzision) …"
+"Der Autor glaubt, dass eine Wahrscheinlichkeitsverteilungsfunktion (pdf) nur Informationen über Präzision liefert und es keine Informationen über die Genauigkeit geben kann. Das ist falsch und wenn das wahr wäre, könnten die Statistiker zurücktreten."
+"Der beste Weg, um die Fehler der GCMs zu prüfen ist es, numerische Experimente laufen zu lassen, um die vorhergesagten Auswirkungen verschiedener Parameter zu sammeln…"
+"Der Autor behauptet schlicht, dass die Unsicherheiten in den veröffentlichten Schätzungen [dh. Modellgenauigkeit – P] nicht "physikalisch gültig“ sind [dh. nicht Präzise – P] -. Eine Meinung, die nicht allgemein geteilt wird "
+Zwar wird obiges wohl nicht allgemein geteilt unter den Klimamodellierern, aber immerhin
+Der erste Gutachter verachtet eigentlich den Unterschied zwischen Genauigkeit und Präzision. Und dies von einem vermeintlichen Wissenschaftler.
+Der Rest sind alternative Erklärungen, die Modellvarianz, dh, Präzision, = physikalische Genauigkeit.
+Der Genauigkeits-Präzisions Unterschied wurde im Manuskript ausgiebig dokumentiert und anhand der einschlägigen Literatur belegt, beispielsweise [3, 4].
+Die Gutachter ignorierten diese Literatur. Der letzte Gutachter tat es als bloße Behauptung ab.
+Jeder Gutachter der Klimamodelle, der die Genauigkeit-Präzision-Frage ansprach, konnte es genauso nicht begreifen. Ich bin noch keinem begegnet, der es versteht.
+2. Kein Verständnis der sich fortpflanzenden Fehler
+„Die Behauptung des Autors, dass die veröffentlichten Projektionen keine „Fortpfanzungsfehler enthalten " ist grundlegend falsch. Es ist eindeutig so, dass das Modell-Ensemble strukturelle Fehler haben kann, die die Projektionen verzerren. "
+D. h. der Prüfer nimmt an: Modell-Genauigkeit = weiter gereichter Fehler.
+"Die wiederholte Aussage, dass keines der vorherigen Papers Fortpflanzungsfehler in GCM Projektionen diskutiert, ist einfach falsch (Rogelj (2013), Murphy (2007), Rowlands (2012))."
+Nehmen wir uns die Beispiele der Gutachter der Reihe nach vor:
+Rogelj (2013) bezieht sich auf die wirtschaftlichen Kosten der Eingrenzung. Ihre Abbildung 1b umfasst globale Temperaturprojektion und Unsicherheitsbereiche. Die Unsicherheiten, "basieren auf einem 600-köpfigen Ensemble von Temperaturprojektionen für jedes Szenario …" [5]
+D. h. der Prüfer nimmt an: Modell-Genauigkeit = fort gepflanzter Fehler.
+Murphy (2007) schreibt: "Um die Auswirkungen der Modellfehler zu testen, ist es notwendig, Ensembles zu konstruieren, die plausible alternative Darstellungen der Systemprozesse der Erde testen." [6]
+D. h. der Prüfer nimmt an: Modell Genauigkeit = fort gepflanzter Fehler.
+Rowlands (2012) schreibt: "Hier präsentieren wir die Ergebnisse eines physikalischen Ensembles mit mehreren tausend Mitgliedern vorübergehend gekoppelter Atmosphäre-Ozean-Zirkulationsmodell-Simulationen“. Und weiter stellen wir fest, dass „physikalische Ensembles einen systematischen Ansatz bieten zur Quantifizierung der Unsicherheit in Modellen des Klimasystems als Reaktion auf äußere Antriebe, wenn auch in einer bestimmten Modellstruktur "[7]
+D. h. der Prüfer nimmt an: Modell Genauigkeit = fort gepflanzter Fehler.
+In keinem der Beispiele der Gutachter werden fort gepflanzte Fehler überhaupt erwähnt.
+Doch nicht nur das, sondern auch, dass nicht eines der Beispiele physikalische Fehler überhaupt diskutiert wird. Es ist alles Modell-Präzision.
+Dieser Gutachter weiß offensichtlich nicht, was ein Fortpflanzungsfehler überhaupt ist, was er bedeutet, oder wie er zu identifizieren ist. Dieser Begutachter weiß offenbar auch nicht, wie man physikalische Fehler als solche erkennt.
+Ein anderer Gutachter:
+"Beispiele für Fortpflanzung der Unsicherheit: Stainforth, D. et al, 2005:. Die Unsicherheit bei der Vorhersage der Reaktion des Klimas auf die steigende Konzentration von Treibhausgasen. Nature 433, 403-406.
+"M. Collins, RE Chandler, PM Cox, JM Huthnance, J. Rougier und DB Stephenson, 2012: Quantifizierung des künftigen Klimawandel. Nature Climate Change, 2, 403-409.
+Schauen wir mal nach:
+Stainforth (2005) stellt drei Grafiken vor; jede einzelne von ihnen zeigt Fehler als Projektions-Variante. [8]
+Hier ist Grafik 1
+Ursprüngliche Legende der Abbildung: "Grafik 1: Häufigkeitsverteilungen von T g (Farben zeigen Dichte von Trajektorien pro 0,1 K Intervall) durch die drei Phasen der Simulation. a) Häufigkeitsverteilung der 2017 verschiedene unabhängige Simulationen. b) Häufigkeitsverteilung der 414 Modellvarianten. In B wird T g im Verhältnis zum Wert am Ende der Kalibrierungsphase gezeigt, und wenn den Anfangszustand zeigende Ensemble-Mitglieder vorhanden sind, wurde ihr Mittelwert für jeden Zeitpunkt entnommen. "
+Hier ist, was sie über die Unsicherheit sagen: "Wir haben ein großes Ensemble (ein Ensemble von Ensembles) durchgeführt, um die Unsicherheit in einem hypermodernen Modell zu erkunden. Die Unsicherheit in der Modellantwort wird mit einem physikalischen Ensemble untersucht, in dem Modellparameter um alternative Werte gesetzt werden, letztere werden von Experten in der relevanten Parametrierung der Systeme als plausibel betrachtet. "
+Da ist es: Unsicherheit wird direkt als Modell Variabilität vertreten (Dichte von Trajektorien; physikalisches Ensemble).
+Die übrigen Grafiken in Stainforth (2005) leiten sich von dieser ab. Fortpflanzungsfehler werden nirgends angezeigt und werden nirgends erwähnt.
+Vermutung des Begutachters: Modellgenauigkeit = sich fortpflanzender Fehler
+Collins (2012) stellt fest, dass Anpassung von Modellparametern, bis die Projektionen sich den Beobachtungen nähern, ausreichen, um zu hoffen, dass ein Modell physikalische Gültigkeit hat. Fehlerfortpflanzung wird nie erwähnt. Collins‘ Abbildung 3 zeigt physikalische Unsicherheit als Modell-Variabilität bzgl. eines Ensemble-Mittelwertes. [9] Hier ist es:
+Abbildung 3
+Original-Legende: "Grafik 3: Globale Temperaturanomalien; a) Globale mittlere Temperaturanomalien, berechnet mittels eines EBM, getrieben durch historische Veränderungen in gut durchmischten Treibhausgasen und zukünftige Steigerungen nach dem A1B-Szenario aus dem IPCC-Sonderbericht zu Emissionsszenarien.
+Die verschiedenen Kurven werden durch Variation der Rückkopplungsparameter (Klimasensitivität) in dem EBM erzeugt. b, Änderungen der globalen Durchschnittstemperatur in 2050 gegenüber globaler Durchschnittstemperatur im Jahr 2000, … Das Histogramm auf der x-Achse stellt eine Schätzung der Erwärmung des zwanzigsten Jahrhunderts dar, die den Treibhausgasen zuzurechnenden sind. Das Histogramm auf der y-Achse zeigt die Beziehung zwischen der Vergangenheit und der Zukunft, um eine Projektion von zukünftigen Änderungen zu erhalten. "
+Collins 2012, Teil A: Modell Variabilität selbst; Teil b: Modellvariabilität (Präzision), als physikalische Unsicherheit (Genauigkeit) dargestellt. Fortpflanzungsfehler? Nirgends zu finden.
+Also, noch einmal, nicht einer diese von den Begutachtern gebrachten Beispiele von Fortpflanzungsfehlern schließt tatsächlich irgendeinen Fortpflanzungsfehler ein, noch wird ein solcher erwähnt.
+Es ist sicher anzunehmen, dass diese Klima-Modellierer überhaupt kein Konzept haben zu Fehlerfortpflanzung. Sie haben anscheinend kein Konzept von physikalischen Fehlern überhaupt.
+Jedes Mal, wenn Begutachter einen Fortpflanzungsfehler ansprechen, zeigen sie eine völlige Unkenntnis davon.
+3. Fehlerbalken bedeuten Modell Oszillation – wobei Klimamodellierer die Unwissenheit von Neulingen offenbaren.
+„Zu sagen, dass dieser Fehler darauf hinweist, dass die Temperaturen als Reaktion auf CO2 enorm abkühlen könnten, zeigt, dass ihr Modell unphysikalisch ist. "
+„Diese Analyse würde voraussagen, dass die Modelle zwischen Schneeball und Runaway-Treibhauseffekt wild hin und her schwingen.“
+"In der Tat, falls wir über Jahrtausende eine solche Fehlerfortpflanzung finden, wird die Unsicherheit schließlich größer sein als die absolute Temperatur auf der Erde, eine klare Absurdität."
+"Ein völlig gleichwertiges Argument [zu den Fehlerbalken] wäre es zu sagen, dass es (genau) einen 2K Bereich von vorindustriellen absoluten Temperaturen in GCMs gibt und deshalb die globale Mitteltemperatur jederzeit um 2K springen kann – das ist eindeutig Unsinn … "
+Verstehen Sie das? Diese Klima-Modellierer denken, dass die "±" Fehlerbalken implizieren, dass das Modell selbst schwingt (und fähig ist zu springen) zwischen den Extremen der Fehlerbalken.
+Oder das die Balken der propagierten Fehler selbst die physikalische Temperatur anzeigen.
+Kein Student im zweiten Jahr der Physik, Chemie oder Technik würde solche ignoranten Fehler machen.
+Aber die promovierten Klima-Modellierer machen diese Fehler ausnahmslos. Ein Zuschauer (Klima-Modellierer) tat es mündlich, während Fragen & Antworten nach meinem Seminar zu dieser Analyse.
+Das Schlimmste ist, dass sowohl das Manuskript als auch das unterstützende Dokument erklärt, dass Fehlerbalken eine Ignoranz der Bandbreite darstellen. Nicht einer dieser promovierten Rezensenten gab Hinweise darauf, irgendetwas davon gelesen zu haben.
+[4. im Original nicht vorhanden]
+5. Einzigartiges Ergebnis – ein unter Klimamodellierern unbekanntes Konzept
+Verstehen Klimamodellierer die Bedeutung und Wichtigkeit eines einzigartigen Ergebnisses?
+„Auf der Suche nach dem letzten glazialen Maximum, produzieren die gleichen Modelle einen globalen Wechsel zwischen 4 und 6 Grad kälter als der vorindustrielle Wert. Wären die Schlussfolgerungen dieser Studie richtig, würde diese Spanne (weil sie so viel kleiner als die geschätzten Fehler von +/- 15 ° C sind), fast ein Wunder sein. "
+In Wirklichkeit sind Klimamodelle viele Jahrhunderte lange Zeitskalen, die gegen die Paläoklima-Daten getestet werden (siehe die letzten PMIP Vergleichsprüfungen). Sie simulieren recht gut kleine Klimaschwankungen des Holozäns und sogar die Glazial-Interglazial-Übergänge. Doch dies ist mit den behaupteten Ergebnissen völlig unvereinbar.
+"Das offensichtlichste Zeichen dafür, dass die in diesem Manuskript vorgestellten Fehlerrahmen und Emulationsrahmen falsch sind ist, dass die verschiedenen GCMs mit bekannten unterschiedlichen Bewölkungsvorgaben (IPCC) sehr ähnliche Ergebnisse produzieren, wenn auch mittels einer Spreizung der Klimasensitivität."
+Schauen wir uns an, woher diese Begutachter ein solches Vertrauen bekommen. Hier ist ein Beispiel von Rowlands (2012) dessen, was die Modelle erzeugen. [7]
+Original-Legende: ". Grafik 1 | Evolution von Unsicherheiten in rekonstruierten globalen Mitteltemperatur-Projektionen unter SRES A1B im HadCM3L Ensemble" [7]
+Die variable schwarze Linie in der Mitte der Gruppe repräsentiert die beobachtete Lufttemperatur. Ich fügte die horizontalen schwarzen Linien mit 1 K und K 3 hinzu sowie die vertikale rote Linie am Jahresende 2055. Ein Teil der roten Linie ist in der ursprünglichen Gestalt, genauso wie der Präzisions-Unsicherheitsbalken.
+Diese Abbildung zeigt Tausende von gestörten [perturbed] Physik-Simulationen der globalen Lufttemperaturen. „Gestörte Physik" bedeutet, dass Modellparameter über ihren Bereich der physikalischen Unsicherheit variiert werden. Jedes Glied des Ensembles hat das gleiche Gewicht. Keines davon ist physikalisch korrekter als irgendeins der anderen.
+Der physikalische Energie-Zustand des simulierten Klimas variiert systematisch über die Jahre hinweg. Die horizontalen schwarzen Linien zeigen, dass mehrere physikalische Energiezustände die gleiche simulierte 1 K oder 3 K Temperatur-Anomalie herstellen.
+Die vertikale rote Linie zum Jahresende 2055 zeigt, dass der gleiche physikalische Energie-Zustand (Jahr 2055 Zustand) mehrere simulierte Lufttemperaturen erzeugt.
+Diese wandernden Projektionen stellen keine natürliche Variabilität dar. Sie zeigen, wie Parametergrößen über ihre Unsicherheitsbereiche die Temperatur-Simulationen des HadCM3L Modell selbst variieren.
+Die Abbildung belegt vollständig, dass Klimamodelle unfähig sind, eine einzige Lösung für jeden Klima-Energie-Zustand zu produzieren.
+Das bedeutet, dass den Beobachtungen ähnliche Simulationen nicht als akkurat bekannt sind, den wahren physikalischen Energie-Zustand des Klimas genau darzustellen. Sie haben zufällige, opportunistisch wunderbare off-setting Fehler.
+Das bedeutet wiederum, die Projektionen sind nicht aussagekräftig. Sie sagen uns nichts über mögliche zukünftige Lufttemperaturen.
+Es gibt keine Möglichkeit zu wissen, welche der Simulationen wirklich die korrekte zugrunde liegende Physik darstellt. Oder ob überhaupt eine von ihnen das tut. Und selbst wenn zufälligerweise eine von ihnen mit dem zukünftigen Verhalten des Klimas übereinstimmt, gibt es keine Möglichkeit festzustellen und damit zu wissen, dass es kein regelloser Zufall war.
+Modelle mit großen Parameterunsicherheiten können keine einzigartige Vorhersage produzieren. Die selbstbewussten Erklärungen der Gutachter weisen nach, dass sie kein Verständnis dafür haben oder warum es wichtig ist.
+Nehmen wir nun an, dass Rowlands, et al. die Parameter des HADCM3L Modell so zurecht gebogen haben, dass es die beobachtete Lufttemperatur präzise reproduziert.
+Würde es bedeuten, dass HADCM3L plötzlich die Möglichkeit erreicht, eine eindeutige Lösung für den Klima-Energiezustand zu produzieren?
+Würde es bedeuten, das HADCM3L plötzlich in der Lage ist, die korrekte zugrunde liegende Physik zu reproduzieren?
+Offensichtlich nicht.
+Optimierte Parameter verschleiern lediglich die Unsicherheit. Sie verstecken die Unzuverlässigkeit des Modells. Es ist kein Maß für die Genauigkeit, dass getunte Modelle zu ähnlichen Projektionen kommen. Oder das ihre Projektionen nah an Beobachtungen sind. Frisieren der Parameter setzt nur die Off-Sets-Fehler [?] und erzeugt eine falsche und tendenziöse Präzision.
+Jede einzelne der jüngsten Holozän- oder Glazial-Ära Temperatur-Nachhersagen ist ebenfalls nicht eindeutig. Keine von ihnen bestätigt die Genauigkeit eines Klimamodells. Keine von ihnen sagt uns irgendetwas über irgendeinen physikalisch realen globalen Klimazustand. Nicht ein einziger der Begutachter der Klima-Modellierer lässt ein Verständnis dieser Grundnorm der Wissenschaft erkennen.
+Jeder physikalischer Wissenschaftler würde (sollte) das wissen. Die Klima-Modellierer -Begutachter wissen es durchweg nicht.
+6. Eine besonders unerhörtes Beispiel in dem die Selbstgefälligen mit ihren eigenen Waffen geschlagen werden.
+Abschließend möchte ich ein letztes Beispiel erzählen. Das Essay ist bereits sehr lang und ein weiteres Beispiel mag des Guten zu viel sein.
+Aber ich habe beschlossen, dass es besser ist die Ermüdung des Lesers zu riskieren, als dass etwas unter Klimamodellierern als analytisches Denken durchgeht, und dies nicht öffentlich zu machen. Entschuldigt bitte, wenn es langweilig wird.
+Diese Letzte zeigt wirklich das miserable Verständnis der Fehleranalyse insgesamt in den Reihen der Klima-Modellierer. Los geht’s:
+„Ich werde (wieder) ein einfaches Beispiel dafür geben, warum diese ganze Übung eine Verschwendung von Zeit ist. Nehmen Sie ein einfaches Energiebilanzmodell, Solar in, Langwelle raus, einschichtige Atmosphäre, Albedo und Treibhauseffekt. dh sigma Ts ^ 4 = S (1-a) / (1 -lambda / 2), dabei ist Lambda die atmosphärische Emissivität, a die Albedo (0,7), S der einfallende Sonnenfluss (340 W / m ^ 2), sigma ist der SB Koeffizienten und Ts die Oberflächentemperatur (288K).
+Die Empfindlichkeit des Modells zu einer Zunahme des Lambda von 0,02 (gibt 4 W / m2 Antrieb) beträgt 1,19 ° C (keine Rückwirkungen auf Lambda oder a angenommen). Die Empfindlichkeit eines fehlerhaften Modells mit einem Fehler in der Albedo von 0,012 (gibt 4 W / m ^ 2 SW TOA Flussfehler) zu exakt dem gleichen Antrieb gibt 1,18 ° C.
+Dies ist der Unterschied, dass ein systematischer Fehler die Empfindlichkeit um zwei Größenordnungen kleiner macht, als die Wirkung der Störung. Das der Autor den Antwortfehler auf die mittlere Abweichung auch in einem solchen einfachen Modell gleich setzt, ist um Größenordnungen falsch. Es ist genau das gleiche mit dem GCM Emulator“.
+Die „Differenz", von der der Begutachter spricht, beträgt 1,19 C – 1,18 C = 0,01 C. Der Begutachter setzt voraus, dass diese 0,01 C die gesamte Unsicherheit ist, die das Modell aufgrund eines 4 W/m2 Offset-Fehlers in Albedo oder Emission erzeugt.
+Aber so ist es nicht.
+Der erste Fehler des Begutachters: Wenn 1,19C oder 1,18C durch einen W/m2 Offset-Antriebsfehler produziert werden, dann sind die 1,19C oder 1,18C Offset Temperaturfehler
+Zweiter Fehler: der Begutachter kennt die Differenz zwischen einem Offset Fehler (Statistik) und der Temperatur (eine thermodynamische Größe) nicht. Des Begutachters „Sensitivität“ ist tatsächlich „Fehler“.
+Dritter Fehler: Der Begutachter setzt eine 4 W/m2 energetische Störung mit einer ± 4 W / m2 physikalischen Fehlerstatistik gleich.
+Dieser Fehler zeigt übrigens erneut, dass der Begutachter nicht den Unterschied kennt zwischen einer physikalischen Größe und eine Fehlerstatistik.
+Vierter Fehler: Der Begutachter vergleicht die einstufige "Empfindlichkeits"-Berechnung mit einem mehrstufigen Fortpflanzungsfehler.
+Fünfter Fehler: Dem Begutachter ist die Allgemeingültigkeit offenbar unbekannt, dass physikalische Unbestimmtheiten Ausdruck eines Unsicherheitsbereiches sind; das heißt, "±" über einen gewissen Wert. Unsicherheiten sind nie konstante Offsets.
+Hilfssatz zu fünf: der Begutachter weiß anscheinend auch nicht, dass der richtige Weg die Unsicherheiten auszudrücken ± Lambda oder ± Albedo ist.
+Aber dann, ungünstig für den Gutachter, wenn die Unsicherheiten korrekt benannt sind, ist die vorgeschriebene Unsicherheit ± 4 W / m2 im Antrieb. Die Unsicherheit ist dann offensichtlich eine Fehlerstatistik und nicht eine energetische Verballhornung.
+Für diejenigen, die von diesem Unterschied verwirrt sind: keine energetische Störung kann gleichzeitig positiv und negativ sein. Erde an Modellierer, over. . .
+Das Beispiel des Begutachters wird mit der richtigen ± statistischen Schreibweise so ausgedrückt, 1,19 C und 1,18 C werden dann ± 1,19 C und ± 1,18 ° C
+Und das sind die Unsicherheiten für eine einstufige Berechnung. Sie sind in der gleichen Liga wie die einstufigen Unsicherheiten, die im Manuskript vorgestellt sind.
+Sobald des Rezensenten Antriebe der Unsicherheiten in eine mehrstufigen lineare Extrapolation tritt, d. h. eine GCM-Projektion, würden die ± 1,19 C und ± 1,18 C-Unsicherheiten bei jedem Schritt erscheinen und müssten dann durch die einzelnen Schritte als Summe der Wurzel ihrer Quadrate ("Root Sum Squares") ausgewiesen werden. [3, 10]
+Nach 100 Schritten (einer hundertjährigen Projektion) mit ± 1,18 C pro Schritt wird der Fehler zu ± 11,8 C.
+Also, richtig gemacht, validiert des Gutachters eigene Analyse das Manuskript so, dass der Gutachter es als "Zeitverschwendung“ ansieht. Guter Job.
+Der Gutachter
+● Kennt nicht die Bedeutung der physikalischen Unsicherheit
+● Unterscheidet nicht zwischen Modellantwort (Empfindlichkeit) und Modellfehler. Sein Fehler ist, nicht zu wissen, um zwischen einer energetischen Störung und einer physikalischen Fehlerstatistik zu unterscheiden.
+● er weiß nicht, wie man eine physikalische Unsicherheit ausdrückt…
+● …und kennt nicht den Unterschied zwischen einem einstufigen Fehler und einem Fortpflanzungsfehler.
+Daher noch mal, Klimamodellierer:
+● Weder respektieren sie, noch verstehen sie, den Unterschied zwischen Genauigkeit und Präzision.
+● Sie sind völlig unwissend über Fortpflanzungsfehler
+● Sie denken, die ± Balken der Fortpflanzungsfehler bedeuten, das Modell selbst schwingt.
+● Sie haben kein Verständnis für physikalische Fehler.
+● Sie haben kein Verständnis für die Wichtigkeit oder die Bedeutung eines eindeutigen Ergebnisses.
+Keinem aktiven physikalischen Wissenschaftler würde diese Menge an einzelnen Fehler unterlaufen, geschweige denn alle. Aber Klimamodellierer machen diese Fehler.
+Und diese lange Essay erschöpft nicht die Vielzahl der wirklich grundlegende Fehler im wissenschaftlichen Denken dieser Begutachter.
+Anscheinend ist solches Denken sehr überzeugend für bestimmte Herausgeber von Journalen.
+Angesichts all dessen kann man verstehen, warum die Klimawissenschaft in diesen traurigen Zustand gesunken ist. Ohne Einschränkung durch die beobachtbare Physik ist sie überall auf der Suche nach Bedeutungen, wo immer man hin will, und die Gewährung von Nachsicht in der Wissenschaft auf die durchgeknallte akademische Theoriebildung die in den Geisteswissenschaften so weit verbreitet ist. [11]
+Wenn bloße interne Genauigkeit und verschwommene Axiomatik ein Feld regieren, erhalten Begriffe wie „im Einklang mit, impliziert, müsste, könnte, möglich, wahrscheinlich“, definitives Gewicht. Alle sind frei verfügbar und auf ziemlich alles, was einer an Fantasie hat, anwendbar. Konstruieren Sie einfach Ihre Argumentation, um übereinstimmend mit Konsens zu sein. Es ist bekannt, dass das regelmäßig in Klimastudien geschieht, mit spezieller Erwähnung hier, hier, und hier.
+Man erkennt eine Erklärung dafür, warum politische Sentimentalisten wie Naomi Oreskes und Naomi Klein den Klima-Alarm so gemütlich finden. Es ist so sehr opportun für Polemik und geistlose Gerechtigkeit. (Was ist überhaupt mit Menschen namens Naomi? Gibt es hartgesottene skeptische Naomis draußen? Posten Sie hier. Lassen Sie es uns wissen.)
+In ihrer Ablehnung der Genauigkeit und Fixierung auf Präzision haben Klima-Modellierer ihr Gebiet vor der rücksichtslosen Gleichgültigkeit der physischen Beweise versiegelt und dadurch das kritische Urteil der Wissenschaft kurzgeschlossen.
+Klimamodellierung hat die Wissenschaft verlassen. Es wurde freie Kunst, ausgedrückt in Mathematik. Nennen Sie es eine schleifenförmige Gleichung.
+Die unausweichliche Schlussfolgerung ist, dass Klima-Modellierer keine Wissenschaftler sind. Sie denken nicht wie Wissenschaftler, und sie machen keine Wissenschaft. Sie haben keine Ahnung, wie man die physikalische Gültigkeit ihrer eigenen Modelle zu bewerten hat.
+Sie sollten nirgends in der Nähe wichtiger Diskussionen oder Entscheidungen zur wissenschaftsbasierten sozialen oder zivilen Politik sein.
+Erschienen auf WUWT am 24. Februar, 2015
+References:
+1. Lauer, A. and K. Hamilton, Simulating Clouds with Global Climate Models: A Comparison of CMIP5 Results with CMIP3 and Satellite Data. J. Climate, 2013. 26(11): p. 3823-3845.
+2. Meinshausen, M., et al., The RCP greenhouse gas concentrations and their extensions from 1765 to 2300. Climatic Change, 2011. 109(1-2): p. 213-241.
+The PWM coefficients for the CCSM4 emulations were: RCP 6.0 fCO₂ = 0.644, a = 22.76 C; RCP 8.5, fCO₂ = 0.651, a = 23.10 C.
+3. JCGM, Evaluation of measurement data — Guide to the expression of uncertainty in measurement. 100:2008, Bureau International des Poids et Mesures: Sevres, France.
+4. Roy, C.J. and W.L. Oberkampf, A comprehensive framework for verification, validation, and uncertainty quantification in scientific computing. Comput. Methods Appl. Mech. Engineer., 2011. 200(25-28): p. 2131-2144.
+5. Rogelj, J., et al., Probabilistic cost estimates for climate change mitigation. Nature, 2013. 493(7430): p. 79-83.
+6. Murphy, J.M., et al., A methodology for probabilistic predictions of regional climate change from perturbed physics ensembles. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 2007. 365(1857): p. 1993-2028.
+7. Rowlands, D.J., et al., Broad range of 2050 warming from an observationally constrained large climate model ensemble. Nature Geosci, 2012. 5(4): p. 256-260.
+8. Stainforth, D.A., et al., Uncertainty in predictions of the climate response to rising levels of greenhouse gases. Nature, 2005. 433(7024): p. 403-406.
+9. Collins, M., et al., Quantifying future climate change. Nature Clim. Change, 2012. 2(6): p. 403-409.
+10. Bevington, P.R. and D.K. Robinson, Data Reduction and Error Analysis for the Physical Sciences. 3rd ed. 2003, Boston: McGraw-Hill. 320.
+11. Gross, P.R. and N. Levitt, Higher Superstition: The Academic Left and its Quarrels with Science. 1994, Baltimore, MD: Johns Hopkins University. May be the most intellectually enjoyable book, ever.
+Link: http://wattsupwiththat.com/2015/02/24/are-climate-modelers-scientists/
+Übersetzt für das EIKE von Andreas Demmig und Chris Frey
+Über den Autor
+Pat Frank ist promovierter Chemiker und Spezialist in der Spektralanalyse. Er ist Verfasser mehrerer grundlegender paper über Fehlerfortpflanzung in meteorologischen Messsystemen z.B. dem hier. EIKE hat mehrfach über seine Erfahrungen berichtet. z.B. hier
+Aber immerhin können sich die Klima-Modellierer später damit rausreden, dass ihre Modelle (aufgrund der Fehler-Fortpflanzung) ja auch eine Abkühlung prognostizieren könnten, wenn der Wind wieder umschlagen sollte. Leute, die noch vor 40 Jahren eine Eiszeit befürchteten, haben später vor einer Erwärmung gewarnt. Warum soll das denn nicht wieder vorkommen ?
+Das eigentlich Argerliche daran ist, dass diese Klima-Modellieren in einem eigenen „Club“ leben und aufgrund ihrer Verbindungen zur Politik und das Wohlwollen der Medien es überhaupt nicht nötig haben, andere Meinungen zu akzeptieren. Damit sind wir dann voll im Sozialismus oder bei Orwells Wahrheits-Ministerium.
+Vielleicht versteht man bei EIKE nun auch die Notwendigkeit der wichtigen Differenzierung zwischen „Prognose“ und „Projektion“ bei Klimamodellen !!
+Ich verweise erneut auf diesen Link:
+http://tinyurl.com/lntru8c

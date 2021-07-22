@@ -1,0 +1,96 @@
+Die Forscher schätzen, dass die täglichen globalen CO2-Emissionen Anfang April 2020 gegenüber dem Durchschnittswert von 2019 um 17% gesunken sind. In der Spitze gingen die Emissionen in einzelnen Ländern durchschnittlich um –26% zurück. Die Auswirkungen auf die jährlichen Emissionen im Jahr 2020 hängen von der Dauer der Maßnahmen ab, mit einer niedrigen Schätzung von –4% und einer hohen Schätzung von –7% für das gesamte Jahr.
+Die folgende Grafik zeigt den von GCP berechneten CO2 – Rückgang (roter Graph). Die vertikale Achse zeigt die Emissionen pro fossilem CO2. Das sieht beeindruckend aus:
+Jetzt habe ich die publication by Le Quéré et al gelesen und die verwendete Methode war leicht zu verfolgen. Es handelt sich um eine Schätzung der CO2-Emissionen auf der Grundlage von Daten, die bis Ende April in über 70 Ländern, einschließlich des Großteils der USA und China, verfügbar waren. Sie untersuchten den Energieverbrauch, das Produktionsvolumen und die ergriffenen Korona Maßnahmen. Alles in allem sehr plausibel und sicherlich keine wissenschaftliche Tour de Force. Die Tatsache, dass dies bei Nature veröffentlicht werden konnte, wird daher hauptsächlich auf die politisch-soziale Belastung des Themas zurückzuführen sein.
+Ich bin sehr gespannt auf die Folgen der bemerkenswerten Reduzierung der CO2-Emissionen auf den CO2-Gehalt der Atmosphäre, denn darum geht es. Am 12. Februar schrieb ich in einem Beitrag darüber, dass zu diesem Zeitpunkt keine Auswirkungen auf den CO2-Gehalt in der Atmosphäre zu sehen waren. Aber das war noch zu früh in der Koronakrise. Es mag jetzt anders sein, aber die Autoren des vorliegenden Berichts selbst warnen davor, dass diese Effekte enttäuschend sein könnten:
+„ Beobachtungen der CO2-Konzentration in der Atmosphäre sind nahezu in Echtzeit verfügbar, aber der Einfluss der natürlichen Variabilität des Kohlenstoffkreislaufs und die Meteorologie ist groß und maskiert die Variabilität des anthropogenen Signals über einen kurzen Zeitraum“.
+Trotzdem suche ich nach einem Zeichen in der Atmosphäre, dass die Emissionen in den letzten Monaten so stark gesunken sind. Aber zuerst ein notwendiger Nebenschritt.
+Quelle: Robbie Andrew und Global Carbon Project
+Die obige Abbildung zeigt den CO2-Kreislauf auf der Erde. Die Zahlen sind in Gt (Gigaton) CO2 / Jahr angegeben. Es ist ersichtlich, dass die Gesamtemission von fossilem CO2 auf 35 Gt / Jahr geschätzt wird. Aber es gibt zwei Teile im Zyklus, die klein gedruckt sind, aber große Zahlen enthalten. Ich habe sie mit einer roten Linie markiert. Dies sind die natürlichen Emissionen (Aufwärtspfeile) von CO2 aus dem Land (440 Gt / Jahr) und aus den Ozeanen (330 Gt / Jahr). Beide haben einen Pfeil nach unten mit genau den gleichen Zahlen. Die verwendete Hypothese ist, dass diese Ströme im Gleichgewicht sind.
+Zählen wir: 35 Gt Fossil von insgesamt 35 +440 + 330 Gt bedeuten, dass ~ 4,3% des gesamten jährlichen CO2-Flusses in die Atmosphäre aus fossilen Brennstoffen stammen. Ungefähr die Hälfte davon wird von Land und Ozeanen wieder aufgenommen, lautet die Hypothese. Der Rest dieses – relativ geringen – menschlichen Beitrags wird nach der Hypothese nicht absorbiert und erhöht den atmosphärischen CO2-Gehalt. Dies bedeutet, dass der Anstieg des CO2-Gehalts in der Atmosphäre seit der Industrialisierung zu 100% auf den Menschen zurückzuführen ist. Weil die (enormen) natürlichen CO2-Flüsse von Land und Ozeanen nach derselben Hypothese ausgeglichen sind.
+Schauen wir uns nun (einen Teil) der Messungen des atmosphärischen CO2 an, die ab 1958 auf der Insel Mauna Loa in Hawaii durchgeführt wurden:
+Die rote Linie ist die gemessene CO2-Konzentration in ppm. Nach der Hypothese ist dieser Anstieg des CO2-Ausstoßes daher ausschließlich auf anthropogene CO2-Emissionen zurückzuführen. Es ist wahr, dass die natürlichen CO2-Ströme viel größer sind als die durch menschlichen Ursprung, aber wir wissen, dass die Hypothese besagt, dass diese natürlichen Flüsse in Richtung Atmosphäre zu 100% mit den Flüssen ausgeglichen sind, die von Land und Ozeanen absorbiert werden. Einige Leute denken jetzt, dass das sehr seltsam ist, dass ein kleiner Anstieg des menschlichen Einflusses die steigende CO2-Linie in der Atmosphäre verursacht. Das denke ich auch, aber es ist theoretisch möglich.
+Die rote Linie ist leicht gewellt, dies sind die natürlichen Schwankungen aufgrund saisonaler Veränderungen. Dies ist in der folgenden Grafik deutlich zu sehen:
+Es handelt sich um die Messungen des vergangenen Jahres. Jeder schwarze Punkt ist eine tägliche Messung. Die roten Linien sind die wöchentlichen Durchschnittswerte, die blauen Linien die monatlichen Durchschnittswerte. Die jährliche Schwankung ist das Ergebnis der Tatsache, dass die Vegetation im Sommer auf der nördlichen Halbkugel viel CO2 aus der Luft extrahiert, um zu wachsen.
+Im letzten Teil der Grafik in den Monaten Januar bis Mai 2020 versuche ich, eine flachere Entwicklung oder sogar eine Abnahme der Messdaten infolge der starken Abnahme der CO2-Emissionen zu sehen, aber ich sehe nichts. Das ist komisch, denn in der ersten Grafik dieses Beitrags ist dieser Rückgang wirklich spektakulär [gezeichnet].
+Nun ist es wahr, dass das Forscherteam selbst festgestellt hat, dass die Messungen in der Atmosphäre durch die natürliche Variabilität maskiert werden. Die mit Abstand größte natürliche Variabilität des CO2-Signals ist die saisonale Fluktuation. In der vorletzten Grafik hat NOAA mit dieser schwarzen Linie angegeben, wie das CO2-Signal ohne diese saisonalen Schwankungen aussehen würde. Sie finden die Zahlen auch auf der NOAA-Website, deren Daten als „Trend“ bezeichnet werden. Ich habe ein Diagramm daraus gemacht:
+Die Zahlen stammen vom 1. Januar 2010 bis zum 19. Mai 2020. Die blaue Linie zeigt die täglichen CO2-Werte, wobei die saisonalen Schwankungen entfernt wurden. Hier sehen Sie – nach der Hypothese – die Folgen der menschlichen CO2-Emissionen, wobei (fast) alle natürlichen Einflüsse beseitigt sind. Ich habe eine lineare Trendlinie darin gezeichnet, um zu sehen, ob sich der letzte Teil dieser Linie nicht nach unten biegt. Ich sehe nichts. Um sicherzustellen, dass ich auch den Unterschied zwischen der blauen Linie und der Regressionslinie grafisch dargestellt habe:
+In den letzten Monaten gab es keine Anzeichen für eine Reaktion des atmosphärischen CO2. Die Trendzahlen für 2020 liegen sogar über der Regressionslinie. Das verspricht etwas, wenn wir in den Niederlanden die CO2-Emissionen “ für das Klima “ um einen wahnsinnigen Betrag von vielen, vielen Milliarden Euro reduzieren. Und nicht zu vergessen die 1000 Milliarden Frans Timmermans.
+Beitrag übernommen mit freundlicher Genehmigung von Rob de Vos.
+https://klimaatgek.nl/wordpress/2020/05/21/co2-en-corona-2/#more-6249
+Übersetzung bearbeitet von Andreas Demmig
+[Franciscus Cornelis Gerardus Maria „Frans“ Timmermans ist ein niederländischer Politiker. Er ist seit dem 1. Dezember 2019 geschäftsführender Vizepräsident und Kommissar für Klimaschutz in der Kommission von der Leyen. Wikipedia]
+Dazu im Handelsblatt:
+EU will massiv auf Wasserstoff setzen
+Der Vizechef der EU-Kommission sieht den „Green Deal“ als Chance für Europa. Timmermans strebt eine führende Rolle beim Thema Wasserstoff an.
+gestiegen:
+https://www.esrl.noaa.gov/gmd/ccgg/trends/mlo.html
+Richard Gaul
+„Ich bin sehr gespannt auf die Folgen der bemerkenswerten Reduzierung der CO2-Emissionen auf den CO2-Gehalt der Atmosphäre, denn darum geht es.“
+Reduzierung der CO2-Emissionen ?
+Wir bewegen uns immer noch auf auf „Augenhöhe“ von ca. 2005
+bei den CO2-Emissionen !
+Brasilien gibt, in VERBINDUNG mit „Corona“ 17,15 Tote pro 100k an.
+Niederlande hatte diesbezüglich 35 Tote.
+Diese Raten beziehen sich wirklich nur auf Todesfälle, bei denen SARS‑CoV‑19 festgestellt wurde, aber nie und nimmer die Todesursache.
+Werden in Brasilien bei Patienten die G6PD-Mangel/Favismus haben, mit Chloroquin-Derivaten oder hohen Dosen von Vitamin C intravenös behandelt, käme das zusätzlich, mit Wahrscheinlichkeit, einem Todesurteil gleich. Die Ärzte dürfen nicht mehr den Empfehlungen folgen, sondern müssen jeden Fall einzeln betrachten.
+In Deutschland sterben jeden Tag 2500 Menschen, nicht mehr als sonst. Die aufgezeichneten Covid‑19 toten sind immer in dieser Zahl enthalten gewesen. Selbst wenn es, in diesem Fall, zu einer erhöhten Todesrate gekommen wäre, gäbe es keine Berechtigung, den Menschen die Freiheit zu nehmen.
+Die Politik sollte unser Sklave sein, uns helfen, aufklären und Auswege erarbeiten.
+Jedem Bürger muss frei gestellt bleiben wie er sich bewegen will, auch dann, wenn die Straßen mit Leichen überfüllt wären.
+1. CO2-Treibhauseffekt
+Obwohl das menschengemachte CO2 gar nichts mit der Klimaerwärmung zu tun hat, sind sich die meisten Klimawissenschaftler einig, dass doch! Hier operiert ein Hirnparasit mit dem Ziel, die umweltschädliche Menschheit durch Selbstauslöschung zu eliminieren!
+2. Corona-Pandemie
+Obwohl bereits weitgehend Herdenimmunität besteht, werden durch fortwährende Steigerung der Anzahl der Tests immer mehr Infizierte gefunden – und bei der Fehlerquote des Tests von ~1,5% funktioniert das sogar auch ganz ohne Viren. Auch hier operiert ein Hirnparasit mit dem Ziel, aus der umweltschädlichen Menschheit durch Impfung genmanipulierte Organismen zu machen, die sich durch Selbstauslöschung eliminieren.
+Und was sieht man davon im CO2 anstieg? Nahezu nichts. Es ist gar nicht nötig auf die kurze Phase des Lockdowns zu verweisen. Es ist schon länger klar, dass der Mensch nicht für den CO2 Anstieg in der Atmosphäre in dem Maße wie unterstellt verantwortlich sein kann.
+Wenn man andere Faktoren wie Temperaturänderung hinzuzieht, bleibt nichts übrig von den Behauptungen, auf die Verlass wäre.
+Beim Erwärmungstreiber CO2 wahrscheinlich nach einigen Jahren der kommenden Kälteperiode.
+Beim CO2- und Feinstaubalarm der DUH vielleicht etwas früher, wenn man die Messdaten am Stuttgarter Neckartor dem Herrn Resch um die Ohren haut.
+Bei Corona bestimmt sehr bald, wenn die Massenproteste für „black lives matter“ keine Explosion der Corona-Infektionen bewirken. Aber die von ARD und ZDF verkündeten Einsichten von Drosten und Wieler werden das schon irgendwie hindeichseln!
+Bereits die Beherrschung des kleinen Einmaleins zeigt sehr schnell, dass der bisherige kleine CO2-Einsparbetrag vollständig in den Messwertschwankungen untergeht.
+@M. Krüger: „Herr Rahmstorf hat auf Twitter deshalb auch mitgeteilt, dass man die Emissionen dauerhaft auf Null bringen muss, bevor man nach langer Zeit etwas sieht.“
+Damit gesteht er ein, dass man den Null-Emissions-Blödsinn getrost in der Toilette versenken kann. Denn so oder so, er führt zu garantiert gar nichts! Stattdessen kann man mit wachsendem CO2-Partialdruck in der Atmosphäre auf zunehmende Aufnahme durch Ozeane und Biosphäre (verstärktes Pflanzenwachstum) setzen, was weitaus effektiver ist. Und in nicht zu ferner Zukunft gehen die Fossilen sowieso zur Neige.
+Z.B. hat Roy Spencer, ähnlich wie schon andere Autoren, mit sehr realistischen Ergebnissen zu der steigenden CO2-Abgabe der Atmosphäre einen Maximalwert von ca. 540 ppm ausgerechnet, wobei er gemäß IEA-Schätzung sogar ein jährliches Anwachsen der CO2-Emissionen bis 2050 zulässt – danach konstant. Bestätigt wird sein Modell, weil es die über 60jährige Mauna Loa-Kurve exakt nachbildet.
+Hinzu kommt, dass die Klimawirksamkeit des anthropogenen CO2 weder vom IPCC noch von sonst jemandem vollständig verstanden wird. Die Gefahr, dass der ganze CO2-Einspar-Wahnsinn auch aus diesem Grund nichts bringt, ist durchaus real.
+Als zusätzliche Sicherheit gibt es ungleich wirksamere und preiswertere Verfahren des Geoengineering. Zwar total einsichtig und naheliegend, aber die Gesellschaft muss um jeden Preis transformiert werden – der grüne Wille geschehe! Amen.
+Herr Rahmstorf gesteht ja auch ein, dass Deutschland Beitrag am Klimawandel nur 0,05°C betragen kann.
+Und CO2 nicht so einfach aus der Atmosphäre verschwindet, sondern erst in Jahrhunderten, wie er meint.
+Trotzdem meint er wir müssen unsere Anstrengungen weiter intensivieren.
+Daran kann man halt sehen, dass der Mann weiß, wie es um das CO2 steht, er aber in einem Paralleluniversum lebt, in dem es nur darum geht CO2 auf NULL zu reduzieren.
+Und seine Jünger sehen das genauso. Da ist nichts zu machen. Alle Aufklärungsversuche von mir bzgl. diesen Widerspruches enden im blanken Hass von Herrn Rahmstorf und seiner Gefolgschaft.
+Natürlich darf Herr Prof. Rahmstorf nicht zugegeben, dass er auch nicht daran glaubt, was er predigt. Dann hätte es doch sofort kein Einkommen mehr (jedenfalls nicht beim PIK und der grünen Bundesbevormundung)
+Aus welchen Äußerungen Rahmstorfs entnehmen Sie denn, dass er nicht an das glaubt, was er „predigt“?
+(Und wie gehen Sie eigentlich selbst mit Irrtümern um? Ich dachte irgendwie, dass Sie z.B. Ihren Irrtum mit Greta und Obama korrigieren oder mal auf Kommentare zu Ihrer Frage „Warum sind die höchsten CO2 Konzentrationen nicht dort, wo die Industrien sind?“ eingehen. Statt dessem hat man das Gefühl, dass Sie da einfach die Augen zu machen und alles ignorieren …)
+„Die Hauptkomponenten eines IR-CO2-Sensors sind Lichtquelle, Messkammer, Interferenzfilter und IR-Sensor. IR-Strahlung wird von der Lichtquelle durch das gemes-sene Gas zum Sensor geleitet. Ein an der Vorderseite angebrachter Filter sorgt dafür, dass nur die Wellenlänge des gemessenen Gases den Sensor erreicht. Die Lichtintensität wird ermittelt und in einen Gaskonzentrationswert umgewandelt.“
+Wenn CO2 Moleküle in der Atmosphäre strahlen könnten (Photonen emittieren), wie immer wieder behauptet, warum geht man denn den Weg über die Absorption und nicht über die Emission???
+Nun, ganz einfach, weil da nichts zu messen gibt – CO2 kann weder die Erde noch sonst irgendetwas durch Strahlung erwärmen.
+Aber eine „never ending story“ scheint man auch bei EIKE zu lieben, warum auch immer!
+https://www.vaisala.com/sites/default/files/documents/VIM-G-How-to-measure-CO2-Application-Note-B211228DE.pdf
+Wie gesagt, die Heiztechniker kennen die Gasstrahlung und den Emissiongrad von CO2 und Wasserdampf bestens und berechnen damit den Bau ihre Konstruktionen. Ansonsten würde da so einiges hoch gehen, da die Temperaturen die kritische Temperatur überschreiten.
+Und immer wieder Ihre Ofenbauer, aus Padeborn oder Bielefeld?
+Welche Verhältnisse herrschen im Gasofen?
+Und welche Verhältnisse herrschen bodennah in der Atmosphäre?
+Auch die Ofenbauer stützen nicht Ihren Aberglauben vom „Treibhauseffekt“ – im Gegenteil!
+7. Juni 2020 um 9:14
+„Nun, ganz einfach, weil da nichts zu messen gibt – CO2 kann weder die Erde noch sonst irgendetwas durch Strahlung erwärmen.“
+Nun, ganz einfach, selber messen CO2 kann die Temperaturen erhöhen bei Sonneneinstrahlung.
+Das ist Betrug!
+Zum Fachbeitrag:
+„In der Spitze gingen die Emissionen in einzelnen Ländern durchschnittlich um –26% zurück.“
+Und welche Auswirkung am CO2-Gehalt der Atmosphäre? Nicht messbar!!
+Also wenn das nicht super-peinlich für die Klima-Hysteriker ist.
+Ist auch nur logisch, und dieser Fachbeitrag beweist das noch einmal sehr ausführlich.
+Der Mensch hat 4,3% Anteil am co2-Ausstoß, der Rest ist natürlichen Ursprungs. Die natürlichen Ursachen für den 95,7% Anteil am co2-Ausstoß bestimmen, wo die Reise hingeht. Der Mensch ist in diesem Geschehen nur der Statist und hat nichts zu melden.
+Sonne, Ozeane, Wolken, da spielt die Musik!
+Unter Biomasse verstehe ich das gesamte Leben auf der Erde, von der Bakterie bis zum Urwaldriesen, alle Pflanzen/Tiere, alles was lebt oder gelebt hat. Auch die „Reste“ von diesem Leben wie Kohlenwasserstoffe, Zucker, Holz, Erdöl und selbst die Braun-/Steinkohle gehört dazu.
+Vor 3,5 Milliarden Jahren betrug der co2-Anteil in der Atmosphäre 10 % (= 100.000 ppm) ! Das ist um den Faktor 250 höher als heute. Diese Biomasse hat den co2-Anteil in der Atmosphäre auf die aktuellen 400 ppm reduziert. Diese Biomasse ist natürlich auch heute noch maßgeblich am co2-Geschehen beteiligt.
+Die Evolution des irdischen Lebens hat den bekannten, genialen, ewigen Energiekreislauf hervorgebracht:
+Wasser +Kohlendioxid +Sonne (= Energieaufnahme)) -> Umwandlung in Kohlenwasserstoffe (z.B. Zucker als Energiespeicher,,) -> kalte/warme Verbrennung (= Energieabgabe) +Wasser +Kohlendioxid -> Wasser +Kohlendioxid +Sonne (= Energieaufnahme)) -> usw. der ewige natürliche Kreislauf.
+Um den flüchtigen, schwer zu bändigen Wasserstoff als Energieträger nutzen zu können, hat die Evolution des Lebens „einfach“ Kohlenstoff-Atome an den Wasserstoff drangehängt. Das sind die Kohlenwasserstoffe wie z.B. Zucker, einfach genial!
+Selbst ein Flugzeug, das Kerosin in seinen Triebwerken verbrennt, ist ein winziger Teil des ewigen Energiekreislaufs. Irgendwann wird das vom Flugzeug abgegebene Kohlendioxid wieder von einer Pflanze aufgenommen, und in Kohlenwasserstoff umgewandelt. Neues Leben entsteht.
+Dazu gibt es bei EIKE auch jede Menge an Fachbeiträgen, wie z.B.: „Was Sie schon immer über CO2 wissen wollten: Teil 5, ohne CO2 kein Leben auf der Erde“ vom 9. September 2019.
+Richtig muss es also heißen:
+Sonne, Ozeane, Wolken, Wasser und Biomasse, da spielt die Musik!
+https://de.wikipedia.org/wiki/Kohlenstoffzyklus
+So sieht es aus. Das wurde durch Verwitterung in der Erdkruste als Kohlenstoff eingelagert und kommt nur durch Vulkanismus wieder als CO2 in die Atmosphäre. Daher werden wir den CO2-Gehalt von einigen 1.000 ppm in der Atmosphäre ohne Vulkanismus auch nie mehr erreichen.
+Der grösste Teil der in der Erdkruste vorhandenen Kalk -und Dolomitgesteine ist biogen.
+Natürlich ist der CO2-Kreislauf dynamisch. Bei steigendem CO2, z.B. durch einen Vulkanausbruch, wird auch der Abbau steigen. Die Ozeane nehmen dann mehr auf, die Pflanzen konsumieren mehr CO2, etc. Diese Anpassung geschieht mehr mit steigendem CO2-Zuwachs. Das ist negatives Feedback oder Gegenkopplung. Jedenfalls ist bis zu einem CO2 Gehalt von ca. 1600 PPM das alles völlig in Ordnung. Selbst eine mpoderate Erwärmung der Erdathmosphäre ist für die menschliche Zivilisation eher förderlich
+Im Artikel wird von schwindendem C02 gesprochen. Wenn dies so wäre, würde natürlich niemand ein Ende des Ausstoßes fordern, weil gerade die Kontiuität für ein Wohlergehen der Menschheit günstig erscheint. Damit ist jeder zu schnelle Wandel kritisch zu betrachten. Und der Co2-Gehlat steigt unbetritten sehr schnell.

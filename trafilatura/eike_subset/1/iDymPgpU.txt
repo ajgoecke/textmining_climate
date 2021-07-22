@@ -1,0 +1,22 @@
+Wenn die Reihe also z. B. (1, 3, 7, 10) lautet, ist die neue Reihe, die die kumulative Summe der alten Reihe ist, (1, 4, 11, 21). Sie wird berechnet als
+- 1
+- 1 + 3 = 4
+- 4 + 7 = 11
+- 11 + 10 = 21
+Warum ist eine kumulierte Summe von Interesse? Sie kann zugrunde liegende Trends und Veränderungen in Datensätzen aufzeigen. Man nehme zum Beispiel die „Pazifische Dekadische Oszillation“ PDO. Dies ist eine langsame Veränderung im Pazifik, bei der der nördlichste Teil alternierend kühler und wärmer wird.
+Und hier eine Graphik des PDO-Index‚, einer Maßzahl für die Phase der PDO:
+Und was ist die „Große Pazifische Klimaverschiebung“, wenn sie stattfindet? Es war das Datum der ersten Verschiebung der Pazifischen Dekadischen Oszillation, die von Wissenschaftlern identifiziert wurde. (Als langjähriger kommerzieller Lachsfischer weiß ich die Tatsache sehr zu schätzen, dass die PDO zuerst in Aufzeichnungen von Lachsfängen im pazifischen Nordwesten bemerkt wurde … aber ich schweife ab). Aus dem Journal of Climate Artikel „The Significance of the 1976 Pacific Climate Shift in the Climatology of Alaska“:
+Im Jahr 1976 erfuhr die nordpazifische Region, einschließlich Alaska, eine dramatische Verschiebung zu einem Klimaregime, das einen großen Anstieg der Winter- und Frühlingstemperaturen und einen geringeren Anstieg der Sommer- und Herbsttemperaturen im Vergleich zu den vorangegangenen 25 Jahren sah“.
+Und was hat die pazifische Klimaverschiebung von 1976 mit den kumulierten Summen zu tun? Es wird deutlich, wenn wir die kumulative Summe des PDO-Index‘ wie unten gezeigt graphisch darstellen:
+Wie man sieht, zeigt die kumulative Summe des PDO-Index‘ eindeutig das Datum der Verschiebung des pazifischen Klimas in die warme Phase der PDO.
+Was können kumulative Summen noch tun? Sie können uns zeigen, ob zwei Datensätze in Beziehung zueinander stehen. Hier sind die kumulativen Summen von:
+zusammen mit der PDO:
+Diese vier Indizes des Klimas beruhen auf sehr unterschiedlichen Dingen. Der PDO-Index ist die erste Hauptkomponente der Meeresoberflächentemperaturen nördlich von 20°N. Der Southern Ocean Index basiert auf der Differenz des Luftdrucks zwischen Tahiti und Australien. Der NINO34-Index basiert auf den Meeresoberflächentemperaturen in der Region 5°N-5°S und 170°W-120°W. Und der Nordpazifik-Index basiert auf dem flächengewichteten Meeresspiegeldruck über der Region 30°N-65°N, 160°E-140°W.
+Und trotzdem zeigen sie alle deutlich die pazifische Klimaverschiebung von 1976 …
+Was können wir noch mit kumulativen Summen machen? Nun, wir können sie auch verwenden, um zu zeigen, welche Datensätze nicht zusammenhängen … hier sind ein paar Beispiele:
+Es gibt nicht viele Gemeinsamkeiten bei diesen drei. Und das zeigt, dass die Sonnenflecken und die Nordatlantische Oszillation auch nicht eng mit den in Abbildung 4 gezeigten El-Nino-Indizes zusammenhängen … und das war’s mit den kumulativen Summen für den Moment.
+Aktualisierung: Ein Kommentator wies mich darauf hin, dass ich die Atlantische Multidekadische Oszillation (AMO) nicht in die Analyse einbezogen hatte. Hier ist die Grafik:
+Anmerkung: Kumulative Summen sind sehr empfindlich gegenüber Anfangsbedingungen und Anomalien. Wenn es einen Aufwärtstrend in den Daten gibt, oder wenn der Nullpunkt niedriger ist als die Werte, wird eine kumulative Summe in den Himmel steigen und umgekehrt. Die Anomalie der gleichen Daten wird sich jedoch ganz anders verhalten. Alle obigen kumulativen Summen wurden zunächst als Anomalie um den Mittelwert des jeweiligen Datensatzes ausgedrückt. Für trendlose Indizes macht dies kaum einen Unterschied. Es stellt jedoch sicher, dass sie zu dem Wert zurückkehren, bei dem sie begonnen haben. Nimmt man sie als Anomalien um einen beliebigen anderen Nullpunkt, so ergibt sich je nach gewähltem Punkt ein Gesamttrend. Infolgedessen ist der Trend einer kumulativen Summe im Allgemeinen bedeutungslos, aber wie oben gezeigt, können die Variationen in der kumulativen Summe recht aussagekräftig sein.
+Link: https://wattsupwiththat.com/2021/04/09/adding-it-up/
+Übersetzt von Chris Frey EIKE
+4 Bemerkungen

@@ -1,0 +1,108 @@
+Was die Bildzeitung über die Edertalsperre schreibt
+Bild,de 05.07.2019: Wenn Sonne und Wind versagen Dieser See rettet Hessens Stromversorgung
+Edertal – Alle reden über grüne Energie, Hessen hat sie: Fast die Hälfte des bei uns produzierten Stroms stammt aus erneuerbaren Energien. Doch was ist, wenn weder Sonne scheint, noch Wind geht?
+Bild weiß wundersame Daten: 100.000 Haushalte können damit ein Jahr lang mit Strom versorgt werden
+Bild.de 05.07.2019: … Dann kommt einer der größten Energiespeicher Hessens zum Einsatz: das Pumpspeicherwerk Waldeck 2. Am Rande des Edersees lagern in einem 330 Meter hoch gelegenem Speicherbecken fünf Millionen Liter Wasser. 100.000 Haushalte können damit ein Jahr lang mit Strom versorgt werden …
+Was eine einfachste Dreisatzrechung ausweist
+Laut einem Exkursionsbericht der TU Darmstadt [1] hat das besagte, laut Bildzeitung so überaus „rettungsfreudige“ Speicherkraftwerkt die folgenden Leistungsdaten:
+Vollast: 480 MW,
+Vollastdauer: 8 Stunden,
+und somit einen Energieinhalt von 480 MW x 8 Stunden = 3.840 MWh
+Die mittlere Haushaltsgröße in Deutschland beträgt laut Umweltbundesamt: mittlere Haushaltsgröße 2 Personen
+Ein Zweipersonenhaushalt in einer Wohnung benötigt im Jahr:
+2.500 kWh ohne Warmwasserbereitung,
+3.000 kWh, wenn in einem Haus wohnend,
+3.600 kWh, wenn Warmwasser mit Strom erzeugt wird
+Wir nehmen als mittleren Haushalts-Jahresbedarf 3.000 kWh an. Damit lassen sich:
+3.840.000 kWh/3.000 kWh = 1.280 mittlere 2-Personen-Haushalte ein Jahr lang versorgen, oder die genannten, 100.000 Haushalte ungefähr 112 Stunden, oder 4,7 Tage lang.
+In Wirklichkeit sind es also nur 1,3 % der von Bild gemeldeten Anzahl „geretteter“ Haushalte
+1.280 mittlere Haushalte, anstelle der von Bild angegebenen, 100.00 sind lediglich – noch dazu aufgerundete – 1,3 %. Diese Diskrepanz zu den von der Bild-Zeitung genannten 100.000 Haushalten ist so groß, dass wirklich jegliche Toleranzen in der Betrachtung im Fehlerrauschen mehr als verschwinden.
+Es stellt sich damit aber die Frage: Ist die Bild-Redaktion wirklich so blöde, oder hält sie nur ihre Leser dafür? Allerdings ist beides ein Beleg für die inzwischen wirklich unterirdische, fachliche Qualität (oder eher: bewusste Verblödung) von Ökoenergie- und Klimaexpertisen [2], aufgrund deren unser einst weltweit hervorragendes Energiesystem von einer angeblichen „Intelligenz“ mit eiserner Konsequenz systematisch zerstört wird.
+Kein Wunder, dass da eine 16jährige, schulschwänzende Schülerin und die „Freitagshüpfer“ leicht mithalten können, ja solche „Experten“ (einschließlich unserer etablierten Bundestagsparteien und deren „unfehlbaren“ Kanzlerin) sogar „vor sich hertreiben“.
+Der Autor dankt einem EIKE-Blogleser für den Hinweis
+Quellen
+[1] TU Darmstadt: Das Pumpspeicherkraftwerk II Gruppe H Exkursionsbericht Wintersemester 2014/15
+[2] EIKE 16.August 2019: Bei Hitzewellen: Erneuerbarer Strom ja bitte. Oder: Wer rettet Deutschland und Frankreich vor dem Ökostrom?
+„Wir nehmen als mittleren Haushalts-Jahresbedarf 3.000 kWh an. Damit lassen sich:“
+Bei einer Solaranlage mit ca. 10 kWp (Dachfläche, Modulfläche 7m*7,45m ~ 52m²) sich der komplette Jahresstromverbrauch abgedeckt.
+Im Januar kommen ja nur um die 2,5% vom Jahresertrag deshalb bracht man 10kWp auf den Dach und eine Akku eine große Akku im Keller um auf 100% Solarstromabdeckung zu kommen.
+Jetzt gibt es aber noch Speicherverluste so braucht man in der Praxis 12 … 13 kWp auf dem Dach um auf 100% Solarstrom zu kommen.
+In der Praxis wird man das nicht mit einem „Großen“ Akku machen und das anders lösten das ist auch klar.
+Die Unsinnigkeit dieser Behauptung zeigt auch die folgende einfache Berechnung:
+Die potentielle Energie Epot von 6Mio Liter Wasser in h = 330 Metern Höhe errechnet sich wie folgt, wenn ich mich nicht verrechnet habe:
+Ein Liter Wasser hat eine Masse von 1 Kg. Die Gesamtmasse des Wassers
+beträgt also M = 6Mio Kg. Hiermit wird wegen Epot = M * g * h und der Erdbeschleunigung g = 9,81 m/s2:
+Epot = 6 * 106 Kg * 9,81 m/s2 * 330m = 1,942 * 1010 * Kg x m2/s2 =
+= 1,942 * 1010Nm = 1,942 * 1010 Ws = 5394,4 kWh
+Setzt man die Unwandlungsverluste von potentieller Energie in elektrische Energie Eel mit 25% an, so verbleiben Eel = 4045,8 kWh.
+Dies ist ein typischer Jahresverbrauch einer zwei- bis dreiköpfigen Familie.
+Müssten sich 100.000 Haushalte diesen Energiebetrag teilen, bliebe für jeden ein Betrag von 4045,8/100.000 kWh = 0,0405 KWh übrig, der vielleicht für das Rösten von einer oder von zwei Scheiben Toast reicht!
+Ein toller „Bild“-Beitrag, geschrieben von bildungsfernen Journalisten!
+Pumpspeicherwerk Waldeck 2 hat um die 4.740.000m³ Wassermenge und bei 330m komme ich auf um die 3.600.000kWh inklusive aller Umwandlungsverluste.
+Bei einem Stromverbrauch von um die 3500 kWh im Jahr können doch die 1000 Haushalte mit Strom versorgt werden.
+Herr Rainer Ziemann,
+Sie sollten die Zahlen aus der Realität verwenden und nicht die aus der Bild und auch nicht die von oder bei EIKE.
+Mit günstigen Strom Wasser nach oben pumpen und zu Zeiten wo Wind und Solar gringe mengen abliefen wider zum 5 bis 10 fachen Preis an der Strombörse verkaufen.
+So sieht doch das Geschäftsmodel der PSW aus.
+Der Sinn dieser Kraftwerke liegt woanders und das hat nichts mit Ihren Sympathien für unsinnige Machenschaften zu tun.
+Oh, ja, „gringe mengen abliefen“ Na, wieder etwas unkoordiniert!!!!!
+Das tolle „Geschäftsmodell“ dank „Energiewende“ sieht so aus:
+http://www.vernunftkraft-hessen.de/wordpress/2017/08/07/folgen-der-energiewende-deutsche-pumpspeicherkraftwerke-unwirtschaftlich/
+Gute Besserung!!
+25. August 2019 um 22:14
+„Negative Preise sind, durch verbrecherische Subventionen befohlene Fehlinvestitionen entstandener Müll aus krimineller Gesetzgebung,“
+Negative Preise kommen nur zustande wenn die konventionellen Kraftwerke und auch die Kernkraftwerke die Leistung nicht reduzieren.
+Das haben die Kraftwerksbetreiber selber in der Hand zu welchen Preisen das kWh abgesetzt werden kann.
+Trotz Ihrer mathematischen Künste: 1000 Haushalte, oder wenn Sie des Lesens kundig wären 1.280 Haushalte, sind nicht 100.000 Haushalte!!!!
+Original-Zitat: @Werner Müller 22.04.2017 – 12:15 in Freiewelt.net: >>Als Gott die Intelligenz verteilt hat war ich grad auf’m Klo, deshalb bin ich auch etwas unkoordiniert<<
+Gute Besserung!!
+26. August 2019 um 11:21
+„Trotz Ihrer mathematischen Künste: 1000 Haushalte, oder wenn Sie des Lesens kundig wären 1.280 Haushalte, sind nicht 100.000 Haushalte!!!!“
+Herr Otto Weber,
+das PSW reicht leicht für die 100.000 oder auch für 200.000 Haushalte um die Dunkelflauten zu überbrücken wenn die erneuerbaren weiter ausgebaut werden
+Das Pumpspeicherwerk wird ja ständig befüllt und wieder abgelassen und das etliche mahle im Jahr.
+Beim PSW ist das ja nicht so das man das mal voll macht und dann über die 356 Tage entleert.
+Wer lesen kann, ist im Vorteil!!!
+In dem Artikel ging es um die *)Falsch-Behauptung: wie viele Haushalte EIN JAHR LANG mit Durchschnittsverbrauch aus dem GESAMTEN Speichervolumen versorgt werden können UND NICHT, was Sie sich jetzt hilflos zusammenspinnen!!!
+*)>>Bild weiß wundersame Daten: 100.000 Haushalte können damit ein Jahr lang mit Strom versorgt werden. Bild weiß wundersame Daten: 100.000 Haushalte können damit ein Jahr lang mit Strom versorgt werden<<
+https://de.wikipedia.org/wiki/Pumpspeicherkraftwerk_Waldeck .
+Wie immer (zumindest für mich) ein guter Artikel von Ihnen. Einfachste Dreisatzrechnungen mag ich auch, weil ich sie kopfrechnen kann. Früher bezeichneten sie meine Lehrer als Milchmädchenrechnungen. Leider ist das heute aus gendertechnischen Gründen nicht mehr erlaubt! Ich kann Ihre „Berechnung“ vollkommen nachvollziehen! Allerdings beginnen Sie nicht am Anfang des Problemes: Sie zitieren die Bild mit einem Speichersee mit 5 Millionen Litern Wasser und 330 Meter Fallhöhe! Hat sich die Bild geirrt oder Sie? Millionen oder Milliarden, was ja auch bei diesem Beispiel keine Rolle spielt, obwohl es sich um den Faktor Tausend handelt.
+Ich bin aus Kärnten, sozusagen umgeben von wunderschönen Stauseen mit Flußkraftwerken und ebenso schönen alpin angelegten Stauseen mit Pumpspeicherkraftwerken.
+5 Millionen Liter Wasser hat der Schwimmteich unserer Dorfgemeinschaft (ca. 30 Mitglieder), darinnen hätten kubaturmäßig gerade zehn durchschnittliche Einfamilienhäuser Platz. Und das ist ein hessischer Stausee? Lustig, aber nicht wahr! Oder doch? Ich werde einen deutschen Stausee mit fünf Millionen Litern Wasser niemals googeln, mangels an Interesse!
+Nach meiner (mittlerweile mainstreammäßig nicht mehr erwünschten) Milchmädchenrechnung ist die THEORETISCHE Leistungsgewinnung aus 5 Millionen Litern Wasser und 330 Meter Fallhöhe: ca. 160 kW, ziehen wir jetzt ca. dreiviertel Verluste ab, verbleiben 40 kW! Hervorragend! Ich schäme mich (nicht), ein dieselbetriebenes deutsches Mittelklasse-Fabrikat mit 140 kW zu pilotieren. Und die Bild will mit der Leistung meiner Dieselkrücke fast Hessen damit versorgen? Ist das intelligent oder nur Mainstream?
+* Liebe EIKE-Redaktion:
+Sollten Sie, bevor Sie so hervorragend auf diverse Artikel reagieren, nicht auch auf deren doofen Grundlagen, zum Beispiel auf die 5 Millionen Liter Wasser reagieren?
+Ist es nicht sinnlos, auf Dummheiten mit Gescheitheiten zu reagieren. Wäre es nicht besser, auf Dummheiten zuerst einzugehen? Um dann mit Gescheitheiten darauf zu antworten?
+Unfaßbar: In Hessen gibt es einen Stausee, der eigentlich ein kleiner Fischteich ist, trotzdem versorgt er Hessen mit Energie, wie „schafft man das“?
+Mit freundlichen Grüßen
+Originalzitat Bild hier
+Aber Sie haben recht, die Verkleinerung des „größten Energiespeichers Hessens“ auf Schwimmbadgröße hätte auch aufgespießt werden können.
+Ihre Rechnungen am Ende kann ich nicht nachvollziehen. Für mich kommen ca. 4 000 KWh Energieinhalt heraus (KW als Einheit ist Unsinn, da dies eine Leistungangabe ist).
+Im Übrigen hilft googlen manchmal!
+Aber wie Recht Sie haben!
+Alle Probleme sind gelöst!
+Die Lösung liegt auf der Hand: Die Turbinen laufen ununterbrochen, wenn der Speicher gleichzeitig gefüllt wird.
+Da wird dann jedes Kilowatt benötigt, um überhaupt die Grundversorgung gewährleisten zu können. Und selbst das wird ab 2023 nicht mehr möglich sein.
+Leere Speicher, leere grüne Hirne, passt zusammen.
+Ich kann mich nicht an eine 10 tägiges absinken der Stromproduktion der Erneuerbaren erinnern in 2019.
+https://www.energy-charts.de/ren_share_de.htm?source=ren-share&period=daily&year=2019
+Der Börsenbreis ist bereit bis zum 26.8.2019 an 7 Tagen unter 1 Cent/kWh gewesen wo man das Speicherbecken füllen kann.
+Unter 2 Cent sind das sogar 20 Tage.
+An 21 Tagen lag der Preis bei über 5 Cent wo man verkaufen kann.
+https://www.energy-charts.de/price_avg_de.htm?price=nominal&period=daily&year=2019
+Selbstverständlich alles ordentlich nach Eignungsflächen und ausreichend Abstand zu Wohnbebauung und intitutionell beglaubigt – AMEN
+Mit freundlichen Grüßen!
+Christian Möser
+Zimmerer
+Auch ich habe da nur kurz gestutzt und weiter gelesen.
+Der Eder-Stausee hat ein Volumen von 200 Millionen Kubikmeter Wasser, also 200 Milliarden Liter, sagt Tante Wiki.
+Es ist das Pumspeicherwerk Waldeck gemeint, seine Oberbecken Waldeck I und waldeck II im Kellerwald haben 5,1 mio m³ Speicherinhalt. Genutzt wird das Wasser des Affoldener Sees (stellt das Unterbecken dar), er wird gespeist durch die Eder bzw. aus dem paar km Flußauf gelegenem Edersee.
+Im Stauwerk des Affoldener Sees ist ebenfalls noch eoin Laufwasserkraftwerk eingebaut.
+Ironie sollte man immer kennzeichnen, sonst versucht es noch jemand nachzurechnen.
+Man muss sich für die deutschen Ingenieure richtig schämen, dass diese da nicht drauf gekommen sind und sich von einer Trampolinspringerin so vorführen lassen.
+Aber es gibt ja Alternativen, die in den Rahmen passen:
+Immer wieder höre ich diese Bezeichnung von Personen:
+Aktivisten.
+Hauptsache, man ist aktiv und dabei noch öffentlichkeitswirksam. Da kommt es auf einen Dreisatz oder den Unterschied von Arbeit und Leistung gar nicht an.
+Solange die Meinung ins Weltbild passt…
+Beides!

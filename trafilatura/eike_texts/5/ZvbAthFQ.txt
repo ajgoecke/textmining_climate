@@ -1,0 +1,95 @@
+Das Ergebnis: Alles im grünen Bereich. Dies zu zeigen, war aber nicht der hauptsächliche Zweck der Arbeit, sondern es geht um ein Problem der Datenerfassung, das man vom allgemeinen Standpunkt aus als eher nebensächlich ansehen kann. Die Arbeit ist aber auch sehr informativ, was mögliche Einwirkungen auf die Gesundheit betrifft.
+Das Datenproblem ist jedoch ganz lehrreich, daher werde ich darauf eingehen, ehe ich zu der Gesundheitsfrage komme. Bei dem Datenproblem geht es um die Frage, wie man Strahlenexpositionen, die durch ein ganzes Spektrum von Radionukliden verursacht werden, anhand weniger oder nur eines Leitisotops erfassen kann. Es ist eine Warnung für Leute, welche glauben, Strahlenbelastungen ließen sich einfach auf irgendeinem Geigerzähler ablesen.
+Werden durch Bomben oder durch Unfälle in Kernkraftwerken Radionuklide in der Gegend verstreut, dann gibt es zunächst eine hohe Strahlenintensität durch kurzlebige Isotope wie Jod 131. Sie sind aber nach ein paar Wochen weg und haben daher für die Lebensdosis nur eine geringe Bedeutung. Langlebigen Isotopen wie Plutonium 239 ist man zwar lebenslang ausgesetzt, aber Menge und spezifische Aktivität sind unbedeutend. Wesentlich sind nur zwei radioaktive Isotope, Strontium 90 und Caesium 137. Sie haben einige Gemeinsamkeiten. Bei der Kernspaltung entstehen sie in ungefähr gleicher Menge, und sie haben etwa die gleiche Halbwertszeit um 30 Jahre. Das ist es aber schon mit den Gemeinsamkeiten. Caesium hat der menschliche Körper in etwa 70 Tagen zur Hälfte wieder ausgeschieden, Strontium erst nach Jahren. Da ist es zunächst erstaunlich, dass Sr 90 nur als 2,5mal so wirksam wie Cs 137 angesehen wird. Der Grund ist, dass Caesium vollständig vom Darm ins Blut übergeht, Sr 90 aber nur zu 20 – 30 %.
+Nun kommt der wesentliche Unterschied, um den es in der vorliegenden Arbeit geht: Cs 137 lässt sich einfach messen, Sr 90 aber nur mit großem Aufwand. Die sonst fleißigen Japaner haben sich deshalb die meisten Strontiummessungen erspart. Zwar haben sie zunächst in mehreren 100 Proben sowohl Caesium als auch Strontium bestimmt. Dabei stellte sich heraus, dass das wenig bewegliche Strontium nur geringfügig in der Gegend verstreut war. Die Strontiumaktivität lag immer um 0,3 % der Caesiumaktivität.
+Bei den fast eine Million Lebensmittelproben haben die Japaner daher meist nur Caesium (Cs 137) bestimmt und den Strontiumgehalt (Sr 90) als 0,3 % des Cs-Wertes berechnet. Das wird in Zukunft zu Fehlern führen, kritisieren die Autoren der vorliegenden Arbeit: Strontium hält sich länger als das leicht auszuwaschende Caesium. Damit erhöht sich das Sr/Cs-Verhältnis. Vor dem Unglück von Fukushima wurden die aus Kernwaffenversuchen stammenden Aktivitäten gemessen und dabei Sr/Cs-Verhältnisse über 0,1, sogar bis 2 gefunden. Bleiben die Japaner bei dem Verhältnis Sr/Cs von 0,003, dann werden sie in Zukunft die Strontiumaktivität als zu niedrig bewerten.
+Dies ist ein Beispiel für ein allgemeines Problem: Geigerzähler oder andere Gamma-Messgeräte zeigen selten die ganze Wahrheit. Sr 90 und einige andere Isotope erfassen sie überhaupt nicht.
+Nun zur Gefährlichkeit der Lebensmittel. Gemessen werden Becquerel, und die werden in Dosis umgerechnet. Die Ergebnisse müssen mit dem verglichen werden, was wir sowieso von Natur aus an Radionukliden im Körper haben, und mit der daraus resultierenden Strahlendosis. Die Aktivität hängt von der Körpermasse ab. Der niedersächsische Umweltminister, Herr Stefan Wenzel, sagte einmal im Zusammenhang mit der Zwischenlagerung radioaktiver Abfälle laut Hannoverscher Allgemeiner Zeitung vom 31.01.2015: „Frau Merkel und Kanzleramtschef Peter Altmaier müssen ihr Gewicht in die Waagschale werfen.“ Das macht bei Herrn Altmaier weit über 100 Kilogramm und damit über 10 Kilobecquerel. Bei Frau Merkel und anderen weniger eindrucksvollen Menschen sind es um 8.000 Becquerel. Als wesentliche Isotope sind zu nennen: Etwa 4.300 Bq Kalium 40, 3.000 Bq Kohlenstoff 14, 600 Bq Rubidium 87, dazu kommen noch ein paar andere wie Radium. Das bringt eine jährliche Strahlendosis von 0,3 Millisievert (mSv). Dazu erhalten wir etwa 1,7 mSv von außen und durch eingeatmetes Radon, sodass wir im Flachland auf etwa 2 mSv kommen.
+Ist Herr Altmaier einer höheren Strahlendosis ausgesetzt als Frau Merkel, da er doch erheblich mehr Radionuklide im Körper hat? Nein, Dosis rechnet pro kg. Im selben Strahlungsfeld erhalten eine Maus und ein Elefant die gleiche Dosis.
+Lebensmittel, wie auch der menschliche Körper, enthalten von Natur aus etwa 100 Bq an Radioaktivität. Da erscheinen die in Japan festgesetzten Grenzwerte für Cs 137 nicht hoch:
+In festen Lebensmitteln
+500 Bq/kg bis März 2012
+100 Bq/kg ab April 2012
+Trinkwasser und Getränke
+200 Bq/l bis März 2012
+10 Bq/l ab April 2012
+Nur in wenigen Prozent der untersuchten Lebensmittel wurden diese Grenzwerte überschritten, und das nur in speziellen Lebensmitteln, welche man nicht in großen Mengen zu sich nimmt: Getrocknete Teeblätter, Pilze, vor allem getrocknete, Sellerie, Wild, und kurzzeitig im Juli 2011, in Rindfleisch. Ab Herbst 2011 wurden in Rindfleisch keine über den Grenzwerten liegenden Aktivitäten mehr gemessen.
+Durch die Aufnahme von radioaktiven Stoffen steigt langfristig die Aktivität im Körper nicht an. Verspeist der Kannibale einen Mitmenschen, hat er damit seine Körperaktivität nicht verdoppelt. Er scheidet alles wieder aus und ist nicht radioaktiver als zuvor. Bei Caesium ist es nicht anders, da man in 70 Tagen die Hälfte schon wieder los ist. Von Strontium wird nur wenig in den Körper aufgenommen, aber was doch bleibt, verschwindet erst in Jahren vollständig. Schließlich ist man aber alles wieder los. Während des Aufenthalts im Körper erzeugt zusätzliche Radioaktivität jedoch Dosis. Ernährt sich jemand ausschließlich von Lebensmitteln mit 100 Bq/kg Cs 137, dann führt das zu einer zusätzlichen Dosis von 1 mSv pro Jahr. Das ist zunächst nicht einzusehen, denn in Lebensmitteln natürlich vorhandene Aktivität beträgt doch auch 100 Bq und erhöht unsere Körperdosis nicht in diesem Maße. Des Rätsels Lösung sind die Dosisfaktoren, mit denen man die Aktivität in Bq multipliziert, um die Dosis in mSv zu erhalten. Diese Faktoren berücksichtigen das Verhalten des betreffenden Isotops während der Verdauung und die Energien der Strahlenteilchen. Für Cs 137 ist der Faktor 1,35 ∙ 10-8 Sv/Bq, für das natürliche Kalium 40 lediglich 5,0 ∙ 10-9 Sv/Bq, also nur etwa ein Drittel.
+Was bedeuten diese Messergebnisse für die Einwirkung von Radionukliden aus Kernspaltung auf die menschliche Gesundheit im Allgemeinen und für Fukushima im Besonderen?
+Die Ermittlung der Aktivitäten ist nicht einfach, mit entsprechendem Aufwand aber bis zu geringsten Konzentrationen möglich. So wurden vor dem Unfall von Fukushima 0,5 Bq/kg Strontium 90 aus dem Fallout von Kernwaffenversuchen sicher nachgewiesen. Noch einmal zum Vergleich: Von Natur aus findet man in Pflanzen und Tieren etwa 100 Bq/kg, im Erdboden mehr. Das heißt, wo nichts gemessen wird, ist auch nichts. Leukämiehäufungen um kerntechnische Anlagen sind reine statistische Manipulationen, oder anders gesagt: Wirkungen ohne Ursache gehören in das Reich des Aberglaubens.
+Die Autoren der hier besprochenen Arbeit schreiben: „Es erscheint sehr unwahrscheinlich, dass mehr als ganz wenige Personen in Japan einer höheren inneren Strahlenexposition ausgesetzt waren als den erlaubten 1 mSv im Jahr.“ Dazu kommt zwar noch Bestrahlung von außen, aber anderswo leben viele Menschen von Generation zu Generation unter einer natürlichen Strahlenexposition von 10 mSv/Jahr und mehr, ohne dass man bei ihnen zusätzliche Krankheiten findet. So kommen alle seriösen Untersuchungen (WHO, UNSCEAR) zu dem Schluss: Es sind im Bereich von Fukushima keine gesundheitlichen Beeinträchtigungen durch Strahlung zu beobachten und auch für die Zukunft nicht zu erwarten. Dagegen haben die Unannehmlichkeiten der Umsiedlung und die Strahlenangst zu einer Reihe von Todesfällen geführt.
+Viel Unsinn kam in der Strahlen“schutz“gesetzgebung dazu, als Trittin Minister wurde und dann durch ihn eine Novellierung der Gesetze erfolgte (Vortrag von Herrn Dr. Henrichs auf der Tagung „Entwicklungen im Strahlenschutz“ im Herbst 2001 in München).
+Ein nächtes Thema wäre dann das Co-60-Ereignis von Taiwan: Strahlung im Niedrigdosisbereich ist nicht schädlich, sondern äußerst nützlich für Lebewesen, Krebs kann weitgehend verhindert werden (ich bin gerade beim formulieren,kommt alles demnächst hier bei EIKE).
+und
+Gy der Nachfolger von rad
+Gruß
+das „Konzept“ dieser Strahlenschutzoberbehörde ICRP, in dem auch ein Deutscher sitzt,
+Hans-Georg Menzel,
+ist, basierend auf der falschen LNT-Theorie,
+eine menschlich maximal erlaubte Gesamt-Lebensdosis von
+100 mGy = 0,1 Gy
+„Es wird angenommen, dass sich bis dahin kein Gewebe klinisch relevante funktionelle Beeinträchtigungen zeigt.“
+Dann wird „festgelegt“, dass das nur für eine „Bevölkerung“ gelten soll, nicht für Einzelpersonen, wie politisch klug doch die Natur ist.
+Das nennt sich dann „stochastische Wirkung“.
+Von den 100mGy Gesamtlebensdosis schließt man nun auf auf eine erlaubte Jahreshöchstdosis der „Bevölkerung“ von 1mSv pro Jahr, das darf auch etwas schwanken, soll aber „durchschnittlich“ in 5 Jahren nicht überschritten werden.
+Jetzt kommt das Problem der „beruflich exponierten“,
+(z.B. Ärzte) die natürlich dann nicht mehr richtig arbeiten könnten.
+Hier genehmigt man dann 20mSv pro Jahr, entsprechend 100mSv für 5 Jahre als Höchstwert.
+Also etwas abhängig von der Strahlungsart eigentlich schon fast die Lebensdosis der Bevölkerung in 5 Jahren.
+Über solche flächendeckenden globalen Strahlungsbeschränkungen, die sich heute noch auf die sehr unsicheren Nachuntersuchungen der beiden Atombomben in Japan berufen,
+kann ein praktisch tätiger Arzt nur einen Schreikrampf bekommen!
+Wer steckt dahinter, Herr Niemann und Herr Hinsch???
+Gerade haben die mutigen Holländer im J Clin Oncol. 2014 Dec 22. pii: JCO.2014.58.6693
+der American Society of Clinical Oncology
+eine Langzeitnachuntersuchung von mehr als 2500 Patienten publiziert, die wegen Krebstherapie eine Bestrahlung von 25 bis 46 Gy (Wirkdosis) erhalten haben, ohne dass sich ein erhöhtes Risiko für ein späteres 2.Karzinom ergeben hat.
+„No Increased Risk of Second Cancer After Radiotherapy in Patients Treated for Rectal or Endometrial Cancer in the Randomized TME, PORTEC-1, and PORTEC-2 Trials.“
+Was ist nun richtig:
+25 bis 46 Gy
+oder
+bei den Einheiten ist Ihnen wohl ein „Dreher“ passiert. Gray beschreibt die physikalische Dosis und Sievert die im Gewebe absorbierte Dosis.
+mfG
+o.k., so ist das klar: Das ist die Dosis (Energie/(kg Körpergewicht)), bis alles wieder ausgeschieden ist.
+Auf folgender Seite findet man:
+Bayerisches Landesamt für Umwelt
+„Was muss der Verbraucher beachten?“
+Für den Erwachsenen hat der Dosisfaktor (DF) für Cäsium-137 den Wert:
+1,3 x 10-8 Sv/Bq (= Sievert pro Becquerel)
+Beispiel: Dosis durch eine Mahlzeit von (Cs)-belastetem Wildbret mit 600 Bq/kg und unter der Annahme, dass eine Portion von 0,5 kg Wildbret verzehrt wird, wie folgt berechnet werden:
+Dosis = Dosisfaktor x Messwert x Nahrungsmittelgewicht = 1,3×10-8 Sv/Bq x 600 Bq/kg x 0,5 kg = 3,9 x 10-6 Sv
+MfG
+Danke (Herr Gerhard) Wedekind
+man sollte hier nicht um pea-nuts streiten, selbstverständlich enthält auch das Trinkwasser Radioaktivität und auch hier gibt es wie für den völlig uninteressanten „Durchschnittsmensch“ auch völlig uninteressante Durchschnitts-Strahlungsbelastung durch Trinkwasser.
+Uninteressant, weil die Schwankungen so hoch sind, dass biologisch ein „Durchschnitt“ keine verwertbare Erkenntnis bieten kann.
+Viel aussagekräftiger wären also sowohl für Mensch als auch für Trinkwasser HÖCHSTMENGEN,
+oder zumindest Mengen, bei denen messbare Gesundeheitseffekte existieren.
+Bei Wasser hängt die Radioaktivität nicht überraschend von der Wasserquelle ab.
+nennenswert erhöhten Aktivitäts konzentrationen natürlicher Radionuklide finden sich häufiger in Wässern aus granitisch geprägten Gebieten, wie z. B. im Erzgebirge, Vogtland, Fichtelgebirge, Bayerischen Wald, Oberpfälzer Wald, im Harz und im Schwarzwald.
+Dabei handelt es sich hauptsächlich um Radon, Uran, Blei und Polonium mit den dazu gehörigen Isotopen, natürlich auch um Kalium40 und um Tritium (H3), das aus der Luft (mit dem Regen) kommt.
+Beim „Strahlenschutz“ gibt es ja ähnlich wie beim Wetter (WMO in Genf) eine übernationale und nicht parlamentarisch kontrollierte, Nicht-Regierungs-Organisation,
+die bestimmt, was gefährlich ist.
+International Commission on Radiological Protection (ICRP)
+Einen wissenschaftlichen Anspruch haben die lange verloren.
+Deutschland ist daher weder wissenschaftlich orientiert, noch politisch souverain, weil alle Strahlenschutzmaßnahmen von dieser ICRP einfach übernommen werden
+http://www.icrp.org
+Es würde sich lohnen, hierüber mal auf EIKE kritisch zu berichten.
+Denn diese Empfehlungen (ICRP) von 2007 sind voller Widersprüche.
+An der LNT-Theorie wird unverdrossen festgehalten,
+nur bei den bis heute nicht nachgewiesenen Erbschäden hat man sich auf eine Dosisgrenze von 100mGy herabgelassen.
+Der Unterschied von Gray (Gy) und Sievert(Sv) ist der Unterschied von im (menschlichen Gewebe) absorbierten = wirksamen Strahlung (Gy) und der physikalischen Gesamtdosis (Sv).
+Im Röntgenfilm sieht man ja die Strahlung, die NICHT im Menschen stecken geblieben ist.
+mfG
+Das verspeisen von 100 Bq Cs-137 ergibt eine zusätzliche Dosis von 1,4 Mikro-Sievert. Und diese Dosis fällt an in der Zeit, in der das Cs im Körper verweilt. Das kann man mit den Dosiskoeffizienten ausrechnen (kann man auch „zu Fuß“ machen, anhand der Definitionen).
+Wenn ein Mensch täglich das ganze Jahr 1kg feste Nahrung zu sich nimmt, und diese Nahrung ent-hält immer 100Bq/kg, dann ergibt das eine Zusatzdosis von 0,5 Milli-Sievert, summiert über das ganze Jahr (1,4 mal 365 = 500). Aber wie genau stimmt das mit der Nahrungsaufnahme von 1kg pro Tag? Das weiß ich nicht so genau, es könnten auch 2kg pro Tag sein. Auf jeden Fall habe ich das irgendwann in meinen Unterlagen aufgeschrieben (gemessen habe ich es bei mir noch nicht). Und mit den 2kg Nahrung pro Tag stimmt die Angabe von Herrn Hinsch schon exakt. Und wie ist es mit der flüssigen Nahrung, das wäre noch zu diskutieren??? — Aber die weitere Diskussion bringt hier nix, es kommt hier wirklich nur auf die Größenordnungen an, und das bedeutet:
+Auch ständige Ernährung mit zusätzlich 100 Bq Cs-137/kg in der Nahrung ergibt eine vernachlässigbare Dosis.
+Zum Vergleich: Unser fliegendes Personal bekommt durch Höhenstrahlung im Mittel 2 Milli-Sievert im Jahr zusätzlich, das Maximum liegt bei 9 Milli-Sievert (nachzulesen in der Fachzeitschrift StrahlenschutzPRAXIS, man kann es auch selber abschätzen).
+bitte ersetzen Sie das Wort Strahlenbelastung durch das Wort Strahlenexposition, denn niemand wird durch diese Dosis belastet.
+MfG
+Irgendwie komme ich mit den Zahlen und den Einheiten durcheinander:
+„Ernährt sich jemand ausschließlich von Lebensmitteln mit 100 Bq/kg Cs 137, dann führt das zu einer zusätzlichen Dosis von 1 mSv pro Jahr. …“
+und
+„Für Cs 137 ist der Faktor 1,35 ? 10-8 Sv/Bq, …“
+Die Einheit sollte doch Sv/(Zeit mal Bq) sein, oder? Ist der Faktor für Cs 137 „1,35 ? 10-8 Sv/Bq“ also 1,35 ? 10-8 Sv/(Jahr Bq) oder 1,35 ? 10-8 Sv/(h Bq)?
+Beide Male ergibt sich nicht 1 mSv pro Jahr. Oder sind das Mikrosievert pro Jahr?
+Wie gesagt, ich komme durcheinander.
+MfG
+G.Wedekind

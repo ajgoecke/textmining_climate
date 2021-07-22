@@ -1,0 +1,605 @@
+Sehr geehrter Herr Limburg,
+ich habe das Interview mit Ihnen zu Ihrem Promotionsvorhaben gelesen. Das Verhalten der Universität Leipzig ist in der Tat skandalös, würde an anderen Universitäten jedoch ähnlich ablaufen. Die von Ihnen beschriebene kritiklose Einheitsmeinung zahlreicher Wissenschaftler und Fakultäten und den Versuch, jeglichen Kritiker mundtot zu machen, kann ich aus meiner Erfahrung an der Universität XYZ leider bestätigen. In meiner Fachgruppe ist unter den Kollegen das Thema "CO2 bedingter Klimawandel" ein Axiom, über das jegliche Diskussion abgeblockt wird und bei der ein Ausscheren aus der Einheitsmeinung die vollständige Marginalisierung zur Folge hat. Da ich aus geologischer Sicht keine unterstützende Argumente für die von den Kollegen (unter denen freilich wenige Meteorologe sind, der Rest eine bunte Mischung von Geowissenschaftlern, die alle beim Thema Klimawandel aber keine Zweifel haben) vertretene Einheitsmeinung habe, sondern aus der Erdgeschichte eher widersprechende Sachverhalte kenne, werde ich bei der Kommissionsauswahl für Promotionen und Berufungen vollständig übergangen.
+Dass der Versuch der Gleichschaltung der Meinungen derart gut funktioniert, liegt vor allem an dem Dressurakt, der bei der Bewilligung von Drittmitteln ausgeübt wird: fehlt in DFG-Projekten der obligatorische Hinweis auf Klimawandel und das entsprechende Glaubensbekenntnis, dann ist der Antrag chancenlos. Ich stelle daher seit Jahren keine DFG-Anträge mehr. Wir leben ganz offensichtlich in einer Phase der „Normalwissenschaft“, wie Thomas Kuhn dies bezeichnet, in der Ergebnisse schon vor der Forschung feststehen. Forschung zum Thema Klimawandel ist gewissermassen zum „cargo-cult“ geworden, bei dem bislang die Geldmittel noch reichlich fliessen. Mich tröstet der Umstand, dass der Paradigmenwechsel irgendwann stattfinden wird.
+Beste Grüsse,
+Ihr XYZ
+Geologe
+ja, klar wurde sich diese Frage schon gestellt, das ist ja gerade Klimaforschung. Vor hundert Jahre hat man schon mehr oder weniger physikalische Modellen aufgestellt, die Beobachtungen zu erklären. Letztlich kommen die GCMs natürlich der physikalischen Wirklichkeit am nächsten, denn diese enthalten den höchsten Detailgrad an Physik. Modelle wie Ihres wurden schon in den 20igern aufgestellt. Dort noch mit dem Nachteil, daß durchs notwendige „Analytischmachen“ (gab ja nicht die Möglichkeit des numerischen Lösens) das Modell noch einfacher sein mußte.
+„Dass die absorbierte Sonnenenergie nicht instantan abstrahlt wird, sieht man sehr schön auch daran dass die TOA abgestrahlte IR-Strahlung LWout(x) nicht Ihrem Ansatz folgt, sondern eine wesentlich geringere Abhängigkeit von x hat.“
+Meine Rechnung ist offensichtlich kein Modell für die Atmosphäre! Ich habe nur ausgehend von einem approximativen Ansatz für die beobachtbare Temperaturverteilung am Boden, die zugehörige thermische Abstrahlung dort berechnet und dann die beiden globalen Mittel von Temperatur am Boden und zugehöriger bolometrischer Temperatur verglichen mit dem Ergebnis, daß der Unterschied gering ist. Das gleiche hätte ich auch mit der Temperaturverteilung aus einem Klimaatlas machen können, mit qualitativ gleicher Schlußfolgerung. Das ist mir nur zu aufwendig, um Gerlich zu widerlegen, reicht schon der simple cos-Ansatz.
+Dies zeigt, daß Gerlichs Einwand für die realen Verhältnisse keine quantitative Relevanz haben! Aufgrund seines extremen solaren Ansatzes mit Modell c), kam Gerlich zu unrealistisch extremen Abweichungen.
+Hier mal eine Anleitung für die Abschätzung. Sie modellieren die Temperaturverteilung auf der Erde z.B. durch folgende Funktion T(x) = (A-B)*cos(x)+B, A = 27 °C+273,15 K, B = -30 °C+273,15 K, A ist die Temperatur am Äquator, B die an den Polen, x ist die geographische Breite (spielen Sie das Ganze auch mit anderen Werten und Verteilungsfunktionen durch).
+#106: NicoBaecker sagt:
+„Wie gesagt, diesen simplen Ansatz würde ich nicht Modell nennen, denn die Temperatur wird da ja vorgegeben und folgt nicht wie bei Harde/Ihnen aus der Strahlungsleistungsbilanz.“
+Lieber Herr NicoBaecker,
+da haben Sie schon recht. Aber wenn der simple Ansatz so gut funktioniert, sollte man sich fragen, welche Physik dahinter steckt. Die Sonneneinstrahlung erwärmt die Oberfläche. Die absorbierte Energie wird nicht instantan abgestrahlt, sondern geht erst in die Wärmespeicher Boden, Wasser und Atmosphäre: Sabs(x)= c(x)*delT. c(x) ist die Wärmekapazität, delT die Temperaturänderung. Da c(x) nahezu konstant ist, folgt delT(x) der absorbierten Solarenergie Sabs(x). Die Wärmespeicher Boden, Wasser und Atmosphäre geben die Energie wieder durch Strahlung an den Weltraum ab. Dieser Prozess ist relativ kompliziert und wird durch die GCM beschrieben. Dass die absorbierte Sonnenenergie nicht instantan abstrahlt wird, sieht man sehr schön auch daran dass die TOA abgestrahlte IR-Strahlung LWout(x) nicht Ihrem Ansatz folgt, sondern eine wesentlich geringere Abhängigkeit von x hat.
+Danke für die Informationen. Also nur eine atmosphärische Schicht. Wie parametrisieren Sie die vertikale Konvektion und was verstehen Sie unter „horizontaler Konvektion“?
+„Durch Vergleich mit den gemessenen Temperaturen sieht man die Defizite des Modells: Fehlen des Golfstroms, die Temperaturen von Arktis und Antarktis, Wüsten und Gebirgen werden schlecht dargestellt. Die Standard-Abweichung des Residuums SDR beträgt etwa +/-4 °C.“
+Das hatte ich nun auch geschätzt (für 2 Standard-Abweichungen) und deshalb hatte ich mich gewundert, daß Sie genauere Temperaturkarten forderten, als eine grobe Abschätzung liefern. Wie groß ist denn die zonale Standardabweichung für Ihre Modelltemperaturen, also wie variieren die Temperaturen in Ihrem Modell längs der Breitenkreise? Und wieviel Topographie haben Sie und warum?
+„Ihr Vorschlag #97 führt zu einer ähnlich großen SDR, die Physik dahinter ist sehr einfach: die von der Oberfläche absorbierte Sonnenenergie variiert im wesentlichen mit cos(x) und die Temperatur variiert mit der Höhe entsprechend der „Lapse rate“. Ich wundere mich dass es so einfach geht.“
+Wie gesagt, diesen simplen Ansatz würde ich nicht Modell nennen, denn die Temperatur wird da ja vorgegeben und folgt nicht wie bei Harde/Ihnen aus der Strahlungsleistungsbilanz.
+„Könnten Sie beschreiben, was Sie alles dabei berücksichtigen? Also die Modellphysik beschreiben?“
+Mein Modell ist ähnlich dem Modell von Harde 2014 „Advanced Two-Layer Climate Model for the Assessment of Global Warming by CO2.“ Es ist aber ortsaufgelöst (5°x5°-Raster). Bei der stationären Lösung wird die vertikale Konvektion berücksichtigt, bei der transienten Lösung horizontale und vertikale Konvektion. Eingangsparameter: Reflexion und Transmission der Atmosphäre sowie Reflexion der Oberfläche im Sichtbaren von CERES, im IR von CERES und MODTRAN. Die Strahlungsbilanz ist so weitgehend festgelegt. Man kann nur noch die Parameter für die Konvektion verändern, jeweils getrennt für Land und Ozean. Durch Vergleich mit den gemessenen Temperaturen sieht man die Defizite des Modells: Fehlen des Golfstroms, die Temperaturen von Arktis und Antarktis, Wüsten und Gebirgen werden schlecht dargestellt. Die Standard-Abweichung des Residuums SDR beträgt etwa +/-4 °C. Ihr Vorschlag #97 führt zu einer ähnlich großen SDR, die Physik dahinter ist sehr einfach: die von der Oberfläche absorbierte Sonnenenergie variiert im wesentlichen mit cos(x) und die Temperatur variiert mit der Höhe entsprechend der „Lapse rate“. Ich wundere mich dass es so einfach geht.
+„ich reite nicht auf den Anomalien herum, sondern ich brauche die ortsaufgelösten monatlich gemittelten Erdoberflächen-Temperaturen. Meiner Meinung nach ist die von mir in #91 beschriebene Methode der beste Weg. Man kann sie auch den CERES-Datensätzen entnehmen. Diese sind mittels Strahlungstransfer-Rechnung aus der IR-Abstrahlung berechnet. Beide Datensätze stimmen recht gut überein.“
+Ich denke, daß das für Ihre Modellgenauigkeit allemal ausreicht. Was erwarten Sie denn, wie genau Ihr Modell überhaupt die Temperaturverteilung hinbekommt? Wenn Sie keine Zirkulation mitrechnen, so kann das kaum genauer als 10 K in den Mittelbreiten werden.
+Ich würde an Ihrer Stelle erstmal mit einer simplen Kugel ohne Topographie anfangen und die Temperaturen aus einem Klimaatlas holen, gemäß der Formel auf NN reduzieren zun zonal mitteln. Ein Modell ohne Dynamik bekommt nicht mal diese Verteilung reproduziert, denke ich.
+„Geht man entsprechend Ihrem Beitrag #97 vor, ist die Abweichung zu den vorgenannten Datensätzen relativ groß.“
+Ja, logisch! Mein Ansatz mit dem simplen Cosinus hat den Namen „Klimamodell“ nicht verdient. Ich wollte damit nur zeigen, daß die Höldersche Ungleichung im Klimasystem keine große Ungleichheit erzeugt. Man kann aber die Temperaturen der Klimazonen mit komplexeren Funktionen natürlich besser fitten.
+„Da ist inzwischen sogar mein Modell schon besser.“
+Das glaube ich.
+Könnten Sie beschreiben, was Sie alles dabei berücksichtigen? Also die Modellphysik beschreiben?
+„Und warum reiten Sie also dann auf den Anomalien dann so rum?
+Schätzen Sie die Temperaturen doch selber ab, das geht auch selber allemal genauer als Ihr Modell benötigen würde. Die vertikale Abnahme könne Sie für Mitteleuropa mit für Ihre Zwecke hinreichender Genauigkeit mit 5-6 K/1000m annehmen. An den Polen weniger.“
+Lieber Herr NicoBaecker,
+ich reite nicht auf den Anomalien herum, sondern ich brauche die ortsaufgelösten monatlich gemittelten Erdoberflächen-Temperaturen. Meiner Meinung nach ist die von mir in #91 beschriebene Methode der beste Weg. Man kann sie auch den CERES-Datensätzen entnehmen. Diese sind mittels Strahlungstransfer-Rechnung aus der IR-Abstrahlung berechnet. Beide Datensätze stimmen recht gut überein. Ihren
+Vorschlag die Temperaturen selbst abzuschätzen halte ich nicht für empfehlenswert. Geht man entsprechend Ihrem Beitrag #97 vor, ist die Abweichung zu den vorgenannten Datensätzen relativ groß. Da ist inzwischen sogar mein Modell schon besser. GCM-Modelle sind natürlich noch besser, aber die sind schwieriger nachzuvollziehen.
+Was verstehen Sie unter „AGW-Modell“?
+Meinen Sie damit
+a) ein Modell, welches für jeden Punkt der Erdoberfläche eine gleiche Temperatur annimmt oder
+b) GCM‘s?
+GCM’s berechnen die Temperatur an jedem Punkt ihres Gitters. Und das dynamisch. Unser heutiges Verständnis des Klimas und des -wandels basiert zu einem großen Teil auf die Ergebnisse von GCMs.
+Ein Modell vom Typ a) ist hingegen klimawissenschaftlich bedeutungslos. Dieses Modell dient alleine nur der anschaulichen Erklärung.
+Gerlich hat dem Typ a) einen Typ c) gegenübergestellt. Dieses Modell c) geht von einer Erdoberfläche aus, bei dem jeder Punkt im lokalen thermischen Gleichgewicht mit der solare Einstrahlung steht. Dies führt dazu, daß u.a. die Nachtseite -273 °C kalt ist. Er vergleicht a) mit c) und streicht die (dramatischen) Unterschiede in der Temperaturverteilung und den jeweiligen globalen Mitteln hervor und daß man dies bereits mit Hilfe der Hölderschen Ungleichung sehen kann. Auch Gerlichs Modell c) ist aber klimawissenschaftlich offensichtlich bedeutungslos.
+Sie und er vergleichen also zwei klimawissenschaftlich bedeutungslose Modelle. Beide Modelle a) und c) sind quantitativ völlig untauglich und nur didaktisch verwendbar. Aber welches (a oder c) kommt nach Ihrem Urteil dem realen Klima zumindest qualitativ näher? Daß sie mit b) nicht mithalten können, ist klar.
+am Mittwoch, 27.04.2016, 22:08
+#95: Frau Ketterer mir reicht es auch langsam mit Ihnen, passen Sie auf, dass Ihre Drohungen kein Boomerang werden!
+[. . . ]
+Und die Formel für die CO2-Strahlung kennen Sie wirklich nicht?
+sigma T^4 [. . . ]“
+Hallo Doc,
+welche Drohungen?!?!
+Und was soll das für eine Formel für die CO2-Strahlung sein? CO2 ist ein real existierender Körper.
+„sigma T^4“ ist ein Teil das Stefan-Boltzmann Gesetzes. Sollte sicherlich „Iges = sigma T^4“ heißen. Aber klar doch der Bildungsstand in NRW ist ja so, dass bei Ihnen Lehrer auch mit solchen Wissensfragmenten seitens der Schüler zufrieden sind.
+Und das soll die CO2-Strahlung sein? Herr Doc beliebt zu scherzen. Schwarzkörperstrahlung ist idealisiert und nur theoretisch gültig, in der Praxis nur schwer (angenähert) zu realisieren.
+Es bleibt dabei: Die sogenannte Pyrgeometer-Formel ist nicht die Erfindung eines Herrn Philipona. Wenn Sie das weiter behaupten sehe ich folgende Erklärungsmöglichkeiten:
+a) Kognitive Resistenz Ihrerseits
+b) oder eine Lüge Ihrerseits
+c) Ein Missverständnis Ihrerseits (Siehe a)
+Aber möglicherweise habe ich eine Erklärungsmöglichkeit übersehen.
+„als mittlere Höhe eines 5°x5°-Oberflächenelements verwende ich die mittlere Höhe der Messstationen in diesem Oberflächenelement.“
+Ja, sinnvoller wäre die mittlere Topographie des Rasterquadrats als das Mittel der Stationen. Aber egal, ich kann mir kaum vorstellen, daß Sie ohne Berechnung der Zirkulation Ergebnisse bekommen, die es wert wäre, eine genaue Topographie zu berücksichtigen.
+„“Die Anomalien sind hingegen unsensitiver auf Höhenänderung als die Absolutwerte.“
+„Dann verlieren Sie aber eine wesentliche Information, dass die Temperatur von der Höhe abhängt.“
+Ja sicher, aber man ermittelt aber die Anomalien auch nicht für Modellverifikationen, sondern für den Temperaturtrend.
+„Das Haupt-Ziel meines Modells ist das Temperaturprofil der Oberfläche darzustellen nicht dessen Änderung.“
+Und warum reiten Sie also dann auf den Anomalien dann so rum?
+Schätzen Sie die Temperaturen doch selber ab, das geht auch selber allemal genauer als Ihr Modell benötigen würde. Die vertikale Abnahme könne Sie für Mitteleuropa mit für Ihre Zwecke hinreichender Genauigkeit mit 5-6 K/1000m annehmen. An den Polen weniger.
+Ich sprach von einem AGW-Modell!
+Nun ihr link, bravo, zeigt immerhin mit Verweis auf den Mond, was Sie bisher gnadenlos ignorieren, wenn das von mir immer wieder kommt, ich kann gar nicht mehr zählen wie oft,
+dass das 33°Grad Modell der Treibhausvertreter Kindergartenphysik ist, also völlig unbrauchbar.
+Das muss also falsch sein, Danke.
+Das sollte eigentlich schon reichen.
+Damit sind wir immerhin einen ganz mächtigen Schritt weiter bei der Wahrheitsfindung.
+Bei einem darin errechneten Temperaturunterschied zu einem Modell ohne Atmosphäre von 90°
+muss man erstmal alles vergessen, was man vorher behauptet hat.
+Die „globale Zirkulation“ fehlt leider auch in diesem Modell, das haben Sie doch nicht überlesen?
+Leider wird es dann sofort wieder Kindergartenphysik,
+wenn man nun(pro forma) versucht,in diese 90°C wieder eine (nicht messbare) Treibhausgegenstrahlung zu verstecken. Die beiden Autoren arbeiten ja für eine Rückversicherung.
+Denn diese „Gegenstrahlung“ müsste ja das Kunststück fertig bringen, am Tag zu kühlen und nur in der Nacht zu erwärmen (siehe Mond) und analog auch den Äquator kühlen und nur die Pole heizen.
+Also ist mit Gegenstrahlung AUS der Luft wirklich kein Blumenpott zu gewinnen, auch nicht im Modell.
+Und die Formel für die CO2-Strahlung kennen Sie wirklich nicht?
+sigma T^4
+war das nicht ein Schwarzkörper???
+allerdings ein ganz ganz intelligenter, der nur in einen Halbraum strahlt, nach unten.
+Wichtiger und unbestreitbar bleibt auch unterstützt durch den real existierenden Mond:
+wärmer ist besser,
+kälter ist schlechter,
+mehr CO2 ist besser,
+weniger CO2 ist schlechter
+für Natur UND Mensch
+da gibt es schlicht kein ja, aber
+Danke
+mfG
+„Hat Ihr 5-Grad-Modell eine Topographie, oder wird die Erdoberfläche als glatt angenommen?“
+Lieber Herr NicoBaecker,
+als mittlere Höhe eines 5°x5°-Oberflächenelements verwende ich die mittlere Höhe der Messstationen in diesem Oberflächenelement. Die von CRU verwendeten Wetterstationen mit Höhenangabe sind auf der Webseite von CRU aufgeführt. Dies ist wohl eine Fehlerquelle, wenn die Lage der Wetterstationen nicht repräsentativ für das Gebiet ist.
+„Die Anomalien sind hingegen unsensitiver auf Höhenänderung als die Absolutwerte.“
+Dann verlieren Sie aber eine wesentliche Information, dass die Temperatur von der Höhe abhängt. Das Haupt-Ziel meines Modells ist das Temperaturprofil der Oberfläche darzustellen nicht dessen Änderung.
+Hier mal eine Anleitung für die Abschätzung. Sie modellieren die Temperaturverteilung auf der Erde z.B. durch folgende Funktion T(x) = (A-B)*cos(x)+B, A = 27 °C+273,15 K, B = -30 °C+273,15 K, A ist die Temperatur am Äquator, B die an den Polen, x ist die geographische Breite (spielen Sie das Ganze auch mit anderen Werten und Verteilungsfunktionen durch). Dann berechnen Sie in T(x) in 5 Grad-Schritten vom Südpol bis Nordpol (-90 bis 90 Grad). Damit berechnen Sie das globale Mittel der Temperatur. Dazu müssen Sie freilich berücksichtigen, daß der Flächenanteil an der Kugel des 5 Grad breite Streifens zu den Polen hin abnimmt. Mit diesem Flächenanteil A(x) müssen Sie die Temperatur T(x) vorm Summieren erst multiplizieren (Wichtung), um zum globalen Mittel Tm zu gelangen. Da Sie so frech sind, überlasse ich Ihnen als Übungsaufgabe, A(x) zu berechnen.
+Als nächstes erstellen Sie die gleiche Tafel für die 4. Potenz von T(x), nennen wir diese Größe E(x)= T(x)**4 (ums idiotensicher zu machen, die 4. Potenz der Temperatur in Kelvin, nicht Grad Celsius!). Nach dem gleichen Verfahren wird davon das globale Mittel Em berechnet. Wir definierten nun Tr = 4te Wurzel aus Em. Die Größe Tr ist das globale Mittel der bolometrischen Strahlungstemperaturen. Sei D nun Tr-Tm.
+Hier ein paar Ergebnisse für verschiede A und B (in °C)
+A B Tm Tr D
+30 -80 9.45 12.45 3.00
+27 -30 17.80 18.66 0.86
+27 -40 15.66 16.82 1.17
+Also, selbst wenn es an den Polen jeweils -80°C kalt wäre, wäre die Differenz immer noch nur 3 K, was leicht zu korrigieren ist. Kurzum, Tm und Tr sind keine unabhängigen Größen, sondern eng korreliert. Sie können das Modell noch erweitern, indem Sie den Tagesgang berücksichtigen, dann werden die Differenzen noch größer. Aber eben auch nicht utopisch groß. Mit einer solchen Korrelation können Sie für die möglichen Klimaverhältnisse auf der Erde die eine Größe hinreichend genau in die andere umrechnen.
+Zum Schluß die Frage, was das soll, hat das irgendetwas mit der Qualität von heutigen Klimamodellen auf GCM Basis zu tun? Nein, selbstverständlich nicht, denn die setzen Strahlungstemperatur und Lufttemperatur nicht gleich, die Größen sind modellphysikalisch unabhängig voneinander.
+„Es gibt so ein paper nicht.“
+Ich habe doch schon geschrieben, daß der Effekt weniger als 1 Kelvin ausmacht. Übrigens selbstverständlich anders herum als ich irrtümlich schrieb, denn die 4. Wurzel aus dem Mittel der Temperatur hoch 4 ist größer als das Mittel der Temperatur, sehen Sie ja auch an der Hölderschen Ungleichung. Wieso sollte ein Klima-paper nun die Höldersche Ungleichung explizit verwenden? Die besagt doch nur, daß und in welche Richtung die beiden Werte ungleich sind. Wichtiger ist, wie groß der Unterschied im konkreten Fall dann auch ist, und den kann man ja leicht hinreichend genau abschätzen, indem man nach beiden Methoden rechnet und vergleicht. Mit „doch, denn um die Mathematik kommt man ja nicht herum.“ meinte ich, daß damit in den Modellrechnungen die mathematische Relation, die die Hölder-Ungleichung ausdrückt, implizit immer schon automatisch berücksichtigt ist.
+„Man hat schon Schwierigkeiten genug mit der „Temperatur“, die nur eine intensive Größe darstellt und für Energiebilanzen (extensiv) nicht taugt.“
+Ja, dann lassen Sie sich eben die Leistungsflüsse statt die Temperatur vom Modell ausplotten. Diese Größen berechnen GCM-Klimamodelle auch.
+„Dazu fehlt besonders für die Kontinente die Wärmeleitfähigkeit, die Wärmekapazität“
+In GCMs werden diese Materialparameter eingespielt, entsprechend der Verteilung der Materialien im Klimasystem. Also vor allem der Verteilung von Wasser, Boden, Eis, Luft.
+„ und natürlich wenn es um Strahlen geht, solche Dinge wie Reflexivität, Absorptivität und Emessivität, also physikalisch ein Ding der Unmöglichkeit, das berechnen zu wollen.“
+Nun, dafür gibt es Strahlungsmodelle. Auch kein grundsätzliches Problem, dies hinreichend genau zu berechnen.
+am Mittwoch, 27.04.2016, 10:08
+„#90: NicoBaecker wenn Sie wieder einmal „doch“ sagen OHNE ein einziges AGW-paper nennen zu können, lügen Sie vorsätzlich.
+Es gibt so ein paper nicht. [. . .]“
+Hallo Doc,
+Sie sollten mit Ihren StGB (§ 168) relevanten Äußerungen etwas vorsichtiger sein.
+Wenn mal von der substanzlosen Klassifizierung „AGW-paper“ absieht: Es gibt solche paper; diese sind per google schnell zu finden.
+Nachdem Sie weiterhin IHRE Pyrgeometer-Lüge verbreiten, liegt die Vermutung nahe, dass es bei Ihnen nicht einmal für (well educated) googlen reicht.
+http://dx.doi.org/10.1186%2F2193-1801-3-723
+Hat Ihr 5-Grad-Modell eine Topographie, oder wird die Erdoberfläche als glatt angenommen? Eine Fehlerquelle bei der Mittelung absoluter Temperaturen ist ja, daß man die Werte alle auf eine einheitliche Referenzhöhe umrechnen muß. Für die Umrechnung klimatischer Temperaturdaten auf unterschiedliche Höhe reicht eine lineare Regression. Die Anomalien sind hingegen unsensitiver auf Höhenänderung als die Absolutwerte.
+Es gibt so ein paper nicht.
+Man hat schon Schwierigkeiten genug mit der „Temperatur“, die nur eine intensive Größe darstellt und für Energiebilanzen (extensiv) nicht taugt.
+Dazu fehlt besonders für die Kontinente die Wärmeleitfähigkeit, die Wärmekapazität und natürlich wenn es um Strahlen geht, solche Dinge wie Reflexivität, Absorptivität und Emessivität,
+also physikalisch ein Ding der Unmöglichkeit, das berechnen zu wollen.
+Und da man wie Sie uns vorlügt, das berechnen zu können,
+muss man sich physikalisch auf Kindergartenniveau bewegen. Darin hat die AGW-Ideologie und Sie allerdings eine hohe Meisterschaft entwickelt mit viel bla, bla und institutionellem vorsätzlichen Betrug.
+mfG
+„In meinen Modellrechnungen verwende ich ein 5°x5° Raster und die Temperatur-Anomalien von HADCRUT4. Dankenswerterweise wird von CRU auch eine Datei zur Verfügung gestellt, die die mittlere Temperatur der Rasterelemente während der Referenzperiode von 1961-1990 angibt. Damit kann ich formal aus der Temperatur-Anomalie die Temperatur für jedes Rasterelement ausrechnen. Diese benötige ich zum Vergleich mit meinen Modellrechnungen. „
+Ok, aber mit den CRU-Daten bekommen Sie doch dann die Temperatur in jedem Rasterelement durch Anomalie+Referenztemperatur, oder? Oder wollen Sie unbedingt GISS nehmen? Wo ist das Problem?
+„Bei professionellen Klimasimulationen werden wohl auch nicht nur die gemessenen Anomalien mit den Rechnungen verglichen. Siehe z.B. die CERES-Datensätze.“
+Nein, sicher nicht. Das Modell bekommt ja Temperaturen raus (und selbstverständlich keine Anomalien), und die werden mit gemessenen Temperaturen verglichen. Dazu muß man beide Datensätze natürlich erstmal auf ein gleiches Raster bringen.
+„Kurzum, was wollen Sie eigentlich mit einem globalen Mittel der absoluten Temperatur, wenn die Erdoberfläche sowie an jedem Punkt eine andere absolute Temperatur hat?“
+In meinen Modellrechnungen verwende ich ein 5°x5° Raster und die Temperatur-Anomalien von HADCRUT4. Dankenswerterweise wird von CRU auch eine Datei zur Verfügung gestellt, die die mittlere Temperatur der Rasterelemente während der Referenzperiode von 1961-1990 angibt. Damit kann ich formal aus der Temperatur-Anomalie die Temperatur für jedes Rasterelement ausrechnen. Diese benötige ich zum Vergleich mit meinen Modellrechnungen. Bei professionellen Klimasimulationen werden wohl auch nicht nur die gemessenen Anomalien mit den Rechnungen verglichen. Siehe z.B. die CERES-Datensätze.
+doch, denn um die Mathematik kommt man ja nicht herum. Wenn man die thermische Abstrahlungsleistungsdichte an jedem Ort der Erdoberfläche aus der dort herrschenden Temperatur berechnet, diese Abstrahlungsleistungsdichte für den Globus mittelt und dann aus diesem Mittelwert die zugehörige Strahlungtemperatur durch Umkehrung der Formel berechnet, so ist dieser Wert nicht identisch mit dem Wert der über den Globus gemittelten Temperatur, sondern ca. 1 K kleiner, also ungleich. Die beiden methodisch unterschiedlich gewonnenen Mittel unterscheiden sich ein bißchen. Aber dieser Unterschied ist bekannt und läßt sich berücksichtigen.
+am Dienstag, 26.04.2016, 15:37
+#84: Student NicoBaecker, mag ja sein, dass Gerlich für Sie ein rotes Tuch ist, aber bleiben Sie höflich und zeigen Sie ein einziges AGW-paper in der diese Hölderschen Ungleichung berücksichtigt ist.
+Ein einziges!
+wollen Sie mir nun erzählen, daß Sie – ich nehme an, Sie haben eine naturwissenschaftliche Ausbildung – nun ein ernsthaftes Problem mit den Zitaten haben? Wenn ja, so müssen Sie mir erklären, wie Sie es geschafft haben, Naturwissenschaften durch Rezitieren erlernt zu haben?
+Also, was ich sagen will, ist: wenn Ihnen die Zitate Verständnisprobleme machen, so ist die Lösung, daß Textstellen rezitieren auch in den Klimawissenschaften nicht die richtige Methode zu naturwissenschaftlicher Erkenntnis ist!
+Ihre durch die Zitate suggerierte Position ist doch nun (korrigieren Sie mich, falls ich Ihnen Unrecht tue): das GISS behauptet, absolute Temperaturen sind unnötig, aber in der Physik benötigt man meistens absolute Temperaturen. Also macht das GISS nach Ihrer Auffassung keine Physik. Gebe ich Ihre Sichtweise da in etwa wieder? Diese Auffassung wäre sehr eigensinnig konstruiert und würde gemäß naturwissenschaftlichen Ansprüchen auf unzureichend, bequemer und spekulativer Argumentation beruhen.
+Kurzum, was wollen Sie eigentlich mit einem globalen Mittel der absoluten Temperatur, wenn die Erdoberfläche sowie an jedem Punkt eine andere absolute Temperatur hat? Wenn Sie eine von der absoluten Temperatur abhängige physikalische Größe berechnen wollen, so müssen Sie diese erst an jedem Punkt in Abhängigkeit von der dortigen Temperatur ausrechnen und dann diese Größe ggf. global mitteln. Brauchen Sie den globalen Mittelwert der absoluten Temperatur für ein 1D-Modell? Wenn ja, wieso wäre eine erste Näherung von 15°C fürs aktuelle globale Temperaturmittel nicht ausreichend?
+Was man eigentlich einen größeren Fehler, physikalische Gleichungen im Bereich von %-Abweichungen nach Potenzgleichungen zu entwickeln oder das Klimasystem eindimensional zu modellieren? Kann man allgemein nicht so sagen, aber ich würde sagen, für Ihr einfaches Modell ist Ihre Kritik an der Berechnungsgenauigkeit einer global gemittelten absoluten Temperatur fehlinvestiert.
+Ein einziges!
+Wenn Sie sich die Quelle ansehen , NASA-Giss, dann ist doch völlig klar, daß diese Anführer der AGWler nichts anderes sagen können und werden. XDeshalb sind die Äußerungen von Herrn Baecker auch nicht ernst zu nehmen.
+MfG
+„Ihre Entgegnung zu meiner Frage hat eher einen Charakter von Unkenntnis.“
+Auf Suggestivfragen (Antwort bzw. zu betätigende Behauptung bereits in der Frage vorgegeben) können Sie nur den Hinweis erwarten zu lernen korrekt Schlußfolgerungen zu ziehen.
+„Ein einfaches „Ja“ oder „Nein“ hätte ausgereicht“
+In Ihrer Vorstellungswelt, daß Suggestivfragen keine Behauptungen sind, schon. Das ist aber die Welt der Trolle. Desweiteren haben Sie ganz erhebliche Schwierigkeiten mit den Beweistechniken.
+Die Aussage „Lieber 5% Inflation als 5% Arbeitslosigkeit“ wird nicht dadurch richtig, daß das Statistische Bundesamt die Geldflüsse der Volkswirtschaft berechnen kann, den zeitlich variablen Geldwert und die Beschäftigungsqote. Und sie wird auch nicht richtig dadurch, daß es da mal einen statistischen Zusammenhang gab.
+„Ich habe dieses Beispiel gewählt, weil Sie argumentierten, daß Temperaturanomalien keine physikalische Bedeutung hätte, weil sie nicht als Messwert auftreten. Ihr Argument ist in dieser Allgemeinheit falsch, wie mein Beispiel zeigt. Denn die der Physik treten massenweise Größen auf, die nicht direkt zu beobachten sind, nicht mal theoretisch messbar sind.aber dennoch extrem sinnvoll sind, um die Welt physikalisch beschreiben.“
+Quelle: http://data.giss.nasa.gov/gistemp/abs_temp.html
+In 99.9% of the cases you’ll find that anomalies are exactly what you need, not absolute temperatures. In the remaining cases, you have to pick one of the available climatologies and add the anomalies (with respect to the proper base period) to it.
+Lieber Herr NicoBaecker,
+um zum Ausgangspunkt unserer Diskussion zurückzukehren stelle ich diese beiden Zitate an den Anfang. In alle physikalischen Gesetze, die ich kenne, geht die Temperatur ein, nicht die Temperatur-Anomalie. Beispiele: Strahlungsgesetze, Strahlungstransport (Stefan-Kirchhoff, Planck, Schwarzschild), Wärmeleitungsgleichung. Um solche Gleichungen anwenden zu können benötige ich Temperaturwerte. Ich bin offensichtlich leider eine 0,1%-Ausnahme.
+„Man müsste korrekterweise zuerst alle lokalen Rückstrahlungen ausrechnen und erst danach diese addieren und mitteln (Höldersche Ungleichung).
+Da das ein Ding der Unmöglichkeit ist, versucht man erst gar nicht, korrekt zu rechnen.“
+So ein Stuß. Natürlich kann man das und hat man das gemacht.
+Wenn man das macht, erkennt man auch, daß die Höldersche Ungleichung hierbei nur einen Unterschied von weniger als 1 Grad bewirkt. Können Sie leicht mit einem Tabellenkalkulationsprogramm und der Temperaturverteilung auf der Erde selbst überprüfen.
+Man müsste korrekterweise zuerst alle lokalen Rückstrahlungen ausrechnen und erst danach diese addieren und mitteln (Höldersche Ungleichung).
+Da das ein Ding der Unmöglichkeit ist, versucht man erst gar nicht, korrekt zu rechnen.
+Nach meiner Kenntnis ist es bisher auch trotz dem großen Heer der Satelliten nicht gelungen, die Erdabstrahlung ausreichend genau zu bestimmen, die ständig wechselnden Wolken sind wohl das Haupthindernis.
+Vielleicht weiß Herr Prof.Kramm mehr?
+mfG
+Zitat: Lernen Sie erst einmal Tatsachen zu ermitteln und daraus korrekt Schlußfolgerungen abzuleiten.
+Ihre Entgegnung zu meiner Frage hat eher einen Charakter von Unkenntnis. Wie sagen Sie immer so schön oder war’s jemand anderes – Das war ein Nullsatz. Und wenn Sie richtig gelesen hätten, dann war es als Frage formuliert. Eine Frage kann man schlecht als eine Unterstellung bezeichnen. Ein einfaches „Ja“ oder „Nein“ hätte ausgereicht. Wie heißt es – Sicheres Auftreten bei totaler Ahnungslosigkeit.
+Mfg
+Werner Holtz
+Lernen Sie erst einmal Tatsachen zu ermitteln und daraus korrekt Schlußfolgerungen abzuleiten.
+Mit der Methode „Unterstellung“ und Ableitung einer Schlußfolgerung werden Sie bei mir nichts. Das ist Methode Hund, Hundehäufchen und Hasen nicht gekriegt … . Oder Methode Fischmarktparker, dem das Auto wegen des Klimawandels abgeschleppt wurde …
+Zitat: Zirkelschluß, mehr ist dazu nicht zu sagen.
+Wenn ich Sie richtig verstehe, versagen nach ihrer Meinung die globalen oder planetaren Bilanzgleichungen?
+Mfg
+Werner Holtz
+„Temperaturen am Nordpol wie in Kalifornien waren eine mediale Übertreibung. Tatsächlich haben einige Bojen an Silvester in der Arktis zeitweise Temperaturen um 0°C gemessen. Dies erkläre ich mir so: Bojen schwimmen auf dem Meer und werden im Meereis eingefroren. Wird durch einen Sturm das Meereis gebrochen bricht es an „Sollbruchstellen“ wie einer Boje. Die Boje schwimmt dann wieder im offenen Meer. Die Messmethode ist also verbesserungswürdig.“
+Es ist kein Messproblem, wenn die Medien einen punktuellen Messwert als repräsentativ annehmen. Gegen falsche Interpretation hilft Ihnen auch kein dichteres Messnetz.
+„Im übrigen hatte dieser Sturm in der Arktis keinen Einfluss auf unsere Lebensqualität: wir hatten einen warmen Dezember 2015, keine vereisten Straßen und sparten Heizenergie. Einzig Schnee- und Eis-Fans wurden enttäuscht.“
+Deshalb fand ich Ihre Aussage ja auch albern.
+Lieber Herr Heinzow,
+„Nullsatz“ steht bei Ihnen synonym dafür, daß Sie der Diskussion nichts Sachbezogenes mehr zu bieten haben. Sie wiederholen Ihre mehrfach bereits als falsch belegten Behauptungen wie ein trotziges Kind.
+“Gavin Schmidt sagt:
+Note that regional mean anomalies (in particular global anomalies) are not computed from the current absolute mean and the 1951-80 mean for that region, but from station temperature anomalies. Finding absolute regional means encounters significant difficulties that create large uncertainties. This is why the GISS analysis deals with anomalies rather than absolute temperatures. For a more detailed discussion of that topic, please see „The Elusive Absolute Temperature“.
+Ist kein Widerspruch zu meinem.
+„Falsch. Die Anomalie ergibt sich aus der Temperatur durch Abziehen einer Referenztemperatur. Dadurch wird aber die Messunsicherheit nicht verringert!“
+Die Messunsicherheit der Primärdaten wird durchs Bilden der Anomalie nicht verringert, denn durch Abziehen einer Konstante ändert sich nichts. Aber die Genauigkeit des globalen Mittels hängt auch vom Verfahren ab, nicht alleine von der Genauigkeit der primären Messwerten. Darauf bezieht sich Gavin. Die Wahl der Konstante sollte idealerweise so sein, daß die Zeitreihe der Differenz der Temperaturen verschiedener Orte den Mittelwert null hat. Wenn man als Konstante aber ein regionales Mittel wählt, ist das i.A. nicht erfüllt. Daher hätte ein globales Mittel basierend auf Anomalien, die sich auf ein regionales Mittel beziehen, “larger uncertainties” als das globale Mittel nach der Methode beim GISS.
+Die Fortsetzung Ihrer unsubstantiierten Behautungen führt nicht dazu, daß die zutreffend werden.
+Es ist leider zu lange her, um präzise festsetllen zu können, wann auf dem Gymnasium der Mittelwert als mathematisches Konstrukt dran kam. Letztendlich viel zu unwichtig. Zeigt aber, auf welchem Niveau Ihr mathematisch-physikalisches Wissen sich befindet. Gefühlt irgendwo vor der mittleren Reife.
+„Die 4.Wurzel-Mittelung spielt beim NCR-Vergleich zwischen Änderung des globalen Mittels der surface temperature und der Änderung der Gleichgewichtstemperatur numerisch keine Rolle.“
+Wieder so ein Nullsatz ohne Bezug zu Ihrer absurden Gleichsetzung surface temperature = equilibrium temperature
+Typisches Troll-Verhalten oder Schreiben nach Handbuch für Forenstörer.
+„Endlich habe Sie meine obigen Erklärungen gelesen! Das haben Sie schön von mir gelernt.“
+Wenn der Wert der Global-Temperatur nicht den naturwissenschaftlichen Gegebenheiten und Gesetzmäßigkeiten entsprechen würde, dann müssten die Bilanzgleichungen auf globalen Maßstab versagen.“
+Zirkelschluß, mehr ist dazu nicht zu sagen.
+„Dazu ist es notwendig das Messnetz zu verbessern. Mediennachrichten wie Ende des vergangenen Jahres dass am Nordpol Temperaturen wie in Kalifornien herrschen sollte es nicht mehr geben.“
+#70: NicoBaecker sagt:
+Verstehe ich nicht. Das ist doch eine Frage der Medienkompetenz und nicht des Messnetzes. Und was hat das mit der Frage nach lebenswerten Temperaturverhältnissen zu tun?
+Lieber Herr NicoBaecker,
+Temperaturen am Nordpol wie in Kalifornien waren eine mediale Übertreibung. Tatsächlich haben einige Bojen an Silvester in der Arktis zeitweise Temperaturen um 0°C gemessen. Dies erkläre ich mir so: Bojen schwimmen auf dem Meer und werden im Meereis eingefroren. Wird durch einen Sturm das Meereis gebrochen bricht es an „Sollbruchstellen“ wie einer Boje. Die Boje schwimmt dann wieder im offenen Meer. Die Messmethode ist also verbesserungswürdig. Im übrigen hatte dieser Sturm in der Arktis keinen Einfluss auf unsere Lebensqualität: wir hatten einen warmen Dezember 2015, keine vereisten Straßen und sparten Heizenergie. Einzig Schnee- und Eis-Fans wurden enttäuscht.
+„Um die Messunsicherheit zu verringern wird deshalb zunächst die Temperaturanomalie z.B. einer Wetterstation berechnet“
+#70: NicoBaecker sagt:
+„Falsch. Die Anomalie ergibt sich aus der Temperatur durch Abziehen einer Referenztemperatur. Dadurch wird aber die Messunsicherheit nicht verringert!“
+Gavin Schmidt sagt:
+Note that regional mean anomalies (in particular global anomalies) are not computed from the current absolute mean and the 1951-80 mean for that region, but from station temperature anomalies. Finding absolute regional means encounters significant difficulties that create large uncertainties. This is why the GISS analysis deals with anomalies rather than absolute temperatures. For a more detailed discussion of that topic, please see „The Elusive Absolute Temperature“.
+Source: http://data.giss.nasa.gov/gistemp/
+Better ask the experts.
+Zitat: Die sog. „globale Mitteltemperatur“ ist bereits schon wegen der Ungleichung arithmetisches Mittel der Summe T1, T2 … Tn 4. Wurzel aus arithmetischem Mittel der Summe (T1)^4 …(Tn)^4 Quatsch.
+Herr Heinzow, niemand in den Naturwissenschaften rechnet mit dem arithmetischen Mittel. Alle Mittelwerte in den Naturwissenschaften sind Erwartungswerte.
+Der globale Erwartungswert (oder wahre Mittelwert) der Oberflächen-Temperatur (Global-Temperatur) beträgt 15,2°C. Der arithmetisch-globale Mittelwert der gemessenen Oberflächen-Temperaturen wurde 5,6°C ergeben.
+Wenn der Wert der Global-Temperatur nicht den naturwissenschaftlichen Gegebenheiten und Gesetzmäßigkeiten entsprechen würde, dann müssten die Bilanzgleichungen auf globalen Maßstab versagen. Versagen die Bilanzgleichungen auf planetaren oder globalen Maßstab?
+In einem Punkt stimme ich Ihnen aber 100%-ige zu, statistische Kennwerte und -funktionen, wie
++ Mittelwert
++ Varianz
++ Wahrscheinlichkeitsdichte
++ Autokorrelation
++ spektrale Leistungsdichte
+repräsentieren die gemittelten (zeitlich, räumlich oder Ensemble) statistischen Eigenschaften eines Signals. Dabei gehen Zeit-, Orts- bzw. Phaseninformationen verloren. Die Rekonstruktion des ursprünglichen Signals aus den statistischen Kennfunktionen ist nicht mehr möglich.
+Zitat: Mittelwerte sind mathematische Konstrukte und deshalb nicht meßbar.
+Die Temperatur, Dichte, Druck usw. ist ein „Mittelwert“ bzw. Erwartungswert. Sie können also keine dieser Größen messen.
+Mfg
+Werner Holtz
+„Mittelwerte sind mathematische Konstrukte und deshalb nicht meßbar.“
+Endlich habe Sie meine obigen Erklärungen gelesen! Das haben Sie schön von mir gelernt.
+„Die sog. „globale Mitteltemperatur“ ist bereits schon wegen der Ungleichung
+arithmetisches Mittel der Summe T1, T2 … Tn 4. Wurzel aus arithmetischem Mittel der Summe (T1)^4 …(Tn)^4 Quatsch.“
+Das globale Mittel der Temperatur ist als Oberflächenintegral definiert. Approximativ auch durch Summenbildung. Die 4.Wurzel-Mittelung spielt beim NCR-Vergleich zwischen Änderung des globalen Mittels der surface temperature und der Änderung der Gleichgewichtstemperatur numerisch keine Rolle.
+„Und deshalb ist das mit Ihrer „Gleichsetzung“ von surface temperature = equilibrium temperature ebenfalls Quatsch.“
+Ich habe Ihnen oben hinreichend oft schon erklärt, daß dies nicht gleichgesetzt wird (im Sinne eines Postulats), sondern die (hinreichend genaue numerische) Gleichheit der langfristig zeitlich gemittelten wie oben definierten gobalen Mittels der Änderung der surface temperature mit der durch die NCR-Gleichung definierten Änderung einer Gleichgewichtstemperatur empirisch nachgewiesen wurde! Sie durchblicken die Sachlage überhaupt nicht, wenn Sie gleuben, man hätte etwas einfach gleichgesetzt. Falsch, man hat die zwei Größen S‘ = globale zeitlich gemittelte Änderung der Temperatur und
+T‘ = Änderung einer Gleichgewichtstemperatur im gleichen Zeitraum vergleichen und herausgefunden, daß die Differenz zwischen S‘ und T‘ hinreichend klein ist.
+„Das ist eine gute Voraussetzung.“
+Autor: Pseudonym NicoBaecker
+„Und was hat das mit der Frage nach lebenswerten Temperaturverhältnissen zu tun?“
+Das ist die Nullsatzfrage des Monats. Zielt wahrscheinlich darauf ab, daß den Eisbären am Nordpol das nicht bekommen wird. Die würden da an Überhitzung sterben.
+„Um mich für oder gegen etwas zu entscheiden benötige ich sachliche Argumente.“
+Das ist eine gute Voraussetzung.
+„Die Satelliten-Datensätze UAH und RSS werden meist als Temperatur-Anomalien angeboten. Bei RSS kann man die Datensätze auch als Temperatur-Zeitreihen herunterladen. Das ist für mich ein Indiz dass mit den Mikrowellensonden wirklich Temperaturen gemessen werden.“
+Ja, grundsätzlich liefert das Verfahren absolute Temperaturen. Die Herausforderung ist hier die Stabilität unf Genauigkeit der Messung und das Konvertieren der Messgröße in ein vertikales Temperaturprofil. Man bekommt aber immer nur eine über die Vertikale gewichtet- gemittelte Temperatur. Diese läßt sich dann als Anomalie umschreiben.
+„Die Datensätze der Temperatur-Anomalien der Erdoberfläche von GISS, NOAA oder MetOffice verwenden an Land die von den Wetter-Stationen in 2m Höhe gemessenen Luft-Temperaturen und in den Ozeanen die Wasser-Temperatur. In der Arktis bzw. Antarktis ist die Flächendeckung des Messnetzes gering. Dies führt zu einer großen Messunsicherheit der globalen Oberflächen-Temperatur, insbesondere bei den historischen Daten.“
+Klar, die Herausforderungen der Stationsmessungen sind ganz andere. Aber nicht unbedingt schwierigere oder ungenauere als bei den Satelliten. Die Verfahren sind nicht vergleichbar. Worin besteht also Ihr sachliches Argument?
+„Um die Messunsicherheit zu verringern wird deshalb zunächst die Temperaturanomalie z.B. einer Wetterstation berechnet“
+Falsch. Die Anomalie ergibt sich aus der Temperatur durch Abziehen einer Referenztemperatur. Dadurch wird aber die Messunsicherheit nicht verringert!
+„und dann über den Globus gemittelt.“
+Richtig. Die Anomalien werden so gebildet, daß sie die Temperaturverläufe in einem Referenzniveau darstellen, z.B. 2 m über dem Boden oder einer Referenzhöhe über NN. Dies ist nötig, da Temperaturwerte ja stark vertikal abhängig sind.
+„In dieses Verfahren habe ich wenig Vertrauen.“
+Wieso? Das Verfahren ist leichter zu verstehen als Temperaturen aus den Satellitenmessungen abzuleiten.
+„Wesentlich ist für mich, ob die Temperatur der Erdoberfläche heute lebenswerte Verhältnisse ermöglicht.“
+Das ist eine biologisch-ökologische Frage und werden Sie für jede Spezies einzeln untersuchen müssen. Jedenfalls leben die heutigen Spezies deswegen, weil die Temperaturen in ihrem Lebensraum lebenswert waren. Interessanter ist hier die Frage, was passiert, wenn die Temperatur sich in wenigen Jahrzehnten um ein paar Grad erhöht.
+„Dazu ist es notwendig das Messnetz zu verbessern. Mediennachrichten wie Ende des vergangenen Jahres dass am Nordpol Temperaturen wie in Kalifornien herrschen sollte es nicht mehr geben.“
+Verstehe ich nicht. Das ist doch eine Frage der Medienkompetenz und nicht des Messnetzes. Und was hat das mit der Frage nach lebenswerten Temperaturverhältnissen zu tun?
+Wie peinlich, daß Sie einem abstrakten Begriff Subjektcharakter und damit Handlungsfähigkeit zuweisen.
+Ihre unsinnigen Unterstellungen werden nicht dadurch zutreffend, daß Sie sie ständig in verschiedenen Varianten aufwärmen.
+„Mehr trauen Sie sich nicht zu?“
+Es geht um Ihre Fähigkeiten und dem was Sie nicht gelernt haben. Denn in den vier Semestern Mathematik für Physiker geht es mitnichten um „Stochastik und Fehlerechnung“.
+Was denn auch beweist, daß Sie die jedenfalls nicht absolviert haben.
+Mittelwerte sind mathematische Konstrukte und deshalb nicht meßbar.
+Ein Physikprofessor in Hamburg hatte einen kleinen Rechenstab und rechnete vor: 2 mal 2 = 3,9 = aufgerundet vier.
+Fehlerrechnung lernt man üblicherweise bereits vor dem Abitur. Ohne diese Grundfähigkeiten könnte man die üblichen Schulversuche in Physik gar nicht vernüftig auswerten.
+Die sog. „globale Mitteltemperatur“ ist bereits schon wegen der Ungleichung
+arithmetisches Mittel der Summe T1, T2 … Tn 4. Wurzel aus arithmetischem Mittel der Summe (T1)^4 …(Tn)^4 Quatsch.
+Und deshalb ist das mit Ihrer „Gleichsetzung“ von surface temperature = equilibrium temperature ebenfalls Quatsch.
+„Der Duden sagt zu Wissenschaft:
+(ein begründetes, geordnetes, für gesichert erachtetes) Wissen hervorbringende forschende Tätigkeit in einem bestimmten Bereich
+jemandes Wissen in einer bestimmten Angelegenheit o.?Ä.“
+Mir ist schon klar, daß Sie den Begriff nur auf dem Level einer Duden-Definition kennen und zur praktischen Umsetzung in den Naturwissenschaften keine Befähigung zeigten.
+Selbst die Erklärung Ihrer drei Fehler kapieren Sie nicht. Sie haben Schwierigkeiten zwischen Wert und relativwert und Mittelwert und Einzelwert zu unterscheiden.
+„Vielleicht fangen Sie mal in der Anfängervorlesung Mathematik für Physiker von vorne mit der Wahrheitstafel an.“
+Mehr trauen Sie sich nicht zu? Naja, Stochastik und Fehlerechnung kommt ja auch etwas später im Studium, da hatten Sie ja schon kapituliert.
+Wie das so bei (Pseudonymen) Ihnen ist, kennen Sie die Bedeutung des Begriffs Wissenschaft nicht:
+Der Duden sagt zu Wissenschaft:
+(ein begründetes, geordnetes, für gesichert erachtetes) Wissen hervorbringende forschende Tätigkeit in einem bestimmten Bereich
+jemandes Wissen in einer bestimmten Angelegenheit o.?Ä.
+Damit ist Ihr Satz: „Wissenschaft darf sich auch vorbehalten, die Ergebisse zu werten und Ratschläge abzuleiten, zumal wenn die Wissenschaft erkennt, daß Laien fehlerhafte Schlüsse ziehen, weil sie die Ergebnisse nicht verstehen oder absurd umdeuten, siehe Sie.“
+wie üblich falsifiziert.
+Aber was soll man von Ihnen (Pseudonym) anderes erwarten, der Sie surface temperature mit Gleichgewichtstemperatur gleichsetzen.
+Vielleicht fangen Sie mal in der Anfängervorlesung Mathematik für Physiker von vorne mit der Wahrheitstafel an.
+„Ja und? Was hat das mit meßbaren Temperaturwerten zu tun?“
+Klar, daß Sie das nicht verstehen. Einer Ihrer Fehler ist daß Sie den globalen Mittelwert der Temperatur mit Temperaturmessungen an Orten in Relation setzen und fälschlich behaupten, die Klimawissenschaft würde behaupten, diese müssten gleich sein.
+Der globale Mittelwert ist aber eine abgeleitete Größe und ist ein Beispiel für eine nicht direkt beobachtbare Größe. Gleichsetzen von Stichprobenwert mit dem Mittelwert der Stchprobe ist allgemein unsinnig, daher ist Ihre Unterstellung bzgl. Temperatur als Ausführungsbeispiel ebenfalls unsinnig.
+„Sie müssen sich entscheiden, ob Sie auch in dieses Horn blasen wollen oder halbwegs rational argumentieren wollen.“
+Um mich für oder gegen etwas zu entscheiden benötige ich sachliche Argumente. Dazu muß ich etwas tiefer in die Materie eindringen. Die Messgröße ist die Temperatur und nicht die Temperaturanomalie. Die Satelliten-Datensätze UAH und RSS werden meist als Temperatur-Anomalien angeboten. Bei RSS kann man die Datensätze auch als Temperatur-Zeitreihen herunterladen. Das ist für mich ein Indiz dass mit den Mikrowellensonden wirklich Temperaturen gemessen werden. Mein Vertrauen in diese Datensätze ist dadurch wesentlich gestiegen. Die Datensätze der Temperatur-Anomalien der Erdoberfläche von GISS, NOAA oder MetOffice verwenden an Land die von den Wetter-Stationen in 2m Höhe gemessenen Luft-Temperaturen und in den Ozeanen die Wasser-Temperatur. In der Arktis bzw. Antarktis ist die Flächendeckung des Messnetzes gering. Dies führt zu einer großen Messunsicherheit der globalen Oberflächen-Temperatur, insbesondere bei den historischen Daten. Um die Messunsicherheit zu verringern wird deshalb zunächst die Temperaturanomalie z.B. einer Wetterstation berechnet und dann über den Globus gemittelt. In dieses Verfahren habe ich wenig Vertrauen. Es ist für mich auch völlig unwesentlich, um wie viel Grad sich die globale Temperatur im vergangenen Jahrhundert geändert hat. Wesentlich ist für mich, ob die Temperatur der Erdoberfläche heute lebenswerte Verhältnisse ermöglicht. Dazu ist es notwendig das Messnetz zu verbessern. Mediennachrichten wie Ende des vergangenen Jahres dass am Nordpol Temperaturen wie in Kalifornien herrschen sollte es nicht mehr geben.
+Es ist ja nicht so, dass der normal Mensch nichts von Wärme verstünde.
+Fahren und ziehen die Menschen nicht mehr in den Süden weil sie Angst vor der Wärme haben???
+Mit welchen „wissenschaftlichen“ Argumenten der Wunsch nach mehr Wärme falsch sein soll, konnte Sie bisher NICHT ANDEUTUNGSWEISE klar machen. Deshalb hat auch der kleine Bürger keine Angst davor und ärgert sich über Ihre Zumutungen.
+Merke:
+wärmer ist besser,
+kälter ist schlechter;
+mehr CO2 ist besser,
+weniger CO2 ist schlechter.
+Das was Sie „Wissenschaft“ nennen, ist so grotten-unwissenschaftlich für das 20. und 21.Jahrhundert, dass es nur vorsätzlich erfunden sein kann, um von einfachen Menschen, die zu sklavenähnlichen Untertanen degradiert werden, etwas zu verlangen, wozu es sonst keinerlei Rechtfertigung gibt.
+So etwas wie ein Parasitentum einer Minderheit gegen die Mehrheit. Dass viele Politiker und leider auch manche Wissenschaftler, eher eine Minderheit, zu den Parasiten gehören oder gehören wollen, auch ohne Argumente, ist nachvollziehbar aber nicht akzeptabel.
+Lug und Trug ist keine Basis für menschliches Zusammenleben.
+Statt großer Sprüche wie dieser Pseudowissenschaftler Schelmbuber, sagen Sie doch sachlich,
+was genau gefährlich an etwas mehr Wärme sein soll, da kommen Sie regelmäßig ins stottern.
+Der Arzt nimmt Rotlich um zu heilen und in jeder menschlichen Wohnung gibt es einen Ofen oder eine Heizung mit gefährlicher Wärme.
+Und wo denn diese gefährliche Wärme herkommen könnte, bleibt Ihr Geheimnis?
+Von CO2 in der Luft ganz sicher nicht.
+http://tinyurl.com/oybzywl
+Bei der Feuerwehr gilt CO2 nach wie vor als das beste Löschmittel, wenn es mal brennt.
+Merke:
+wärmer ist besser,
+kälter ist schlechter;
+mehr CO2 ist besser,
+weniger CO2 ist schlechter.
+mfG
+„die Wissenschaft in dem CO2 Anstieg, der sich zudem ohne Mensch nicht in dem Maße veränderte, eine kritische Entwicklung sieht,“
+Wissenschaft darf sich auch vorbehalten, die Ergebisse zu werten und Ratschläge abzuleiten, zumal wenn die Wissenschaft erkennt, daß Laien fehlerhafte Schlüsse ziehen, weil sie die Ergebnisse nicht verstehen oder absurd umdeuten, siehe Sie. Was man letztlich aber mit diesen Erkenntnissen macht, ist Sache der Gesellschaft.
+„Denn die der Physik treten massenweise Größen auf, die nicht direkt zu beobachten sind“
+Ja und? Was hat das mit meßbaren Temperaturwerten zu tun? Welches Problem hatte Newton, das dann ein anderer Physiker löste?
+„die Wissenschaft in dem CO2 Anstieg, der sich zudem ohne Mensch nicht in dem Maße veränderte, eine kritische Entwicklung sieht,“
+Welche Wissenschaft könnte das überhaupt?
+Desweiteren: Es sind Wissenschaftler, die eine Hypothese aufgestellt haben, den Beweis bisher aber schuldig blieben.
+Um das zu erkennen, braucht man nur die IPC-Berichte vollständig bzgl. dieser Frage zu lesen. Die gibt es sogar gedruckt, was das Lesen viel effizienter macht.
+„Mit Wellenfunktionen der Quantenmechnanik hat dies überhaupt nichts zu tun. “
+Ich habe dieses Beispiel gewählt, weil Sie argumentierten, daß Temperaturanomalien keine physikalische Bedeutung hätte, weil sie nicht als Messwert auftreten. Ihr Argument ist in dieser Allgemeinheit falsch, wie mein Beispiel zeigt. Denn die der Physik treten massenweise Größen auf, die nicht direkt zu beobachten sind, nicht mal theoretisch messbar sind.aber dennoch extrem sinnvoll sind, um die Welt physikalisch beschreiben.
+Die klimaskeptische Diskurs läuft auf Basis emotionsschürender Argumentationen und verwendet gerne dieses wissenschaftlich gesehen idiotische Argument. Sie müssen sich entscheiden, ob Sie auch in dieses Horn blasen wollen oder halbwegs rational argumentieren wollen.
+schon besser.
+Die Sache ist ganz einfach. Es gibt die Wissenschaft und es gibt den Menschen mit seinen Vorstellungen und Wünschen. Beim Thema rezenten Klimawandel ist der Mensch damit konfrontiert, daß die Wissenschaft in dem CO2 Anstieg, der sich zudem ohne Mensch nicht in dem Maße veränderte, eine kritische Entwicklung sieht, wenn der Mensch weiterhin so viel CO2 aus fossilen Quellen freisetzt.
+Nun gibt es Menschen, deren Reaktion auf dies Erkenntnis ist, diese Erkenntnisse mit unwissenschaftlichen Mitteln zu bekämpfen und denen ihre Vorstellungen und Wünsche wichtiger sind als objektiv gewonnene Erkenntnisse. Und die zudem viel daran setzen, andere Menschen von ihren Vorstellungen und Wünschen überzeugen zu wollen.
+In Ermangelung objektiver Argumente versuchen diese, mit Emotionen zu arbeiten. Sie versuchen, erstmal die wissenschaftliche Erkenntnisse so pervertiert darzustellen, daß daraus Ängste provoziert werden sollen. Mit Scheinargumenten sollen diese dann wieder beschwichtigt werden und die eignetliche wissenschaftliche Erkenntnis durch diese emotionale Eskalation und Deeskalation marginalisiert werden. Das Ziel ist, von einem rationalen Diskurs auf einen politisch-emotionalen Diskurs zu schwenken und so von einer rational getriebenen Entscheidung wegzuführen.
+Ihr Beispiel war von dieser Art. Sie müssen sich entscheien, ob Sie rational oder emotional argumentieren wollen. Wenn Sie mit mir diskutieren wollen, so geht daß nur, wenn Sie mir demonstrieren, daß Sie rational diskutieren wollen.
+„Nach der Logik wäre auch die Wellenfunktion der Quantenmechanik ein Konstrukt, um den Menschen Angst zu machen. Sie haben schon Vernünftigeres geschrieben……“
+Lieber Herr NicoBaecker,
+schauen Sie sich doch die Themenauswahl auf EIKE an: Stefan Kämpfe, Jürgen Kowatsch: Wärmerer April Grund zur Freude oder ein Vorzeichen der „Klimakatastrophe“? Die Autoren können zur Bewertung noch nicht einmal das Ende des Aprils abwarten, um die Ängste der Menschen zu beschwichtigen. Ein anderes Thema „Verweilzeit von CO2 in der Atmosphäre“ wurde vor einiger Zeit von Herrn Kaiser präsentiert. So ein Thema macht doch nur Sinn, wenn zu viel CO2 in der Atmosphäre der Menschheit schadet. Dies ist doch bisher nicht bewiesen. Eine höhere CO2-Konzentration mag zu einer höheren Erd-Oberflächentemperatur führen. Die Frage ist, wie groß der Effekt ist und wie gefährlich er für die Menschheit ist. Die Erhöhung der Erd-Oberflächen-Temperatur des vergangenen Jahrhunderts ging einher mit einem enormen Bevölkerungswachstum. Man weiß natürlich nicht, wie das Bevölkerungswachstum gewesen wäre, wenn die Temperaturen auf dem Niveau der „kleinen Eiszeit“ verharrten. Solange die Weltbevölkerung so enorm wächst, sollte man sich Gedanken machen, wie man die Menschen ernähren kann. Ich persönlich verschwende kein CO2, meine Enkel noch weniger, aber meine Enkel und ich möchten nicht in einer Welt der Angst leben. Mit Wellenfunktionen der Quantenmechnanik hat dies überhaupt nichts zu tun.
+„Im übrigen mildert i.d.R. rationales Denken und sachliche Aufklärung Ängste.“
+Da haben Sie ausnamsweise mal vollkommen Recht. Genau aus diesem Grund habe ich keinerlei Angst vor dem Klimawandel.
+„ „Nach dieser Definition ist ja eindeutig klar, das Xi nur eine Zeitabhängigkeit hat aber, keine Funktion über der Ort auf dem Globus ist.“
+„Herr Limburg hat Recht, Temperaturanomalien sind keine Messgrößen, keine physikalische Größen, sondern ein mathematisches Konstrukt um den Menschen Angst zu machen.“
+Nach der Logik wäre auch die Wellenfunktion der Quantenmechanik ein Konstrukt, um den Menschen Angst zu machen. Sie haben schon Vernünftigeres geschrieben……
+Daß Mathe vielen Menschen Angst macht, ist nichts Neues 😉 Ändert aber nichts daran, daß Limburgs und Ihre obige Behauptung offenkundig falsch ist. Im übrigen mildert i.d.R. rationales Denken und sachliche Aufklärung Ängste.
+Lieber Herr Heinzow, #54
+„Nein, denn da steht surface temperature und die ist nie im Gleichgewicht.“
+Ihre Irrtümer und phantasievolle Interpretationen habe ich oben aufgelistet. Es bringt nichts, wenn Sie Behauptungen widerlegen wollen, die Sie selber erfinden.
+„Nach dieser Definition ist ja eindeutig klar, das Xi nur eine Zeitabhängigkeit hat aber, keine Funktion über der Ort auf dem Globus ist.“
+Herr Limburg hat Recht, Temperaturanomalien sind keine Messgrößen, keine physikalische Größen, sondern ein mathematisches Konstrukt um den Menschen Angst zu machen.
+Ihre Unterstellungen waren auch schon mal besser und Ihre Lesekompetenz auch.
+Für Leute wie Sie gibt es ja die Beiträge aufbewahrt, per copy & paste zusammensetzen und schon wissen Sie – bei Ihrer inzwischen nur geringfügig von Null verschiedenen Lesekompetenz wahrscheinlich nur könnten Sie – daß Ihre Behauptung frei aus dem tropischen Himmel gegriffen wurde.
+„Wenn Sie meinen, dann belegen Sie, wie aus dem NCR-Report Ihre Schlußfolgerung abzuleiten sein sollte, daß die arithmetisch gemittelte „globale“ Temperatur mit der Temperatur „auf 10 °N und 30 °W in Meereshöhe + 2m“ gleichgesetzt werden könne?“
+„quantifiziert die Gleichung im NCR report die Änderung einer Gleichgewichtstemperatur.“
+Nein, denn da steht surface temperature und die ist nie im Gleichgewicht.
+„Ich habe keine sog. „wissenschaftliche Erkenntnisse“ des NRC interpretiert.“
+Wenn Sie meinen, dann belegen Sie, wie aus dem NCR-Report Ihre Schlußfolgerung abzuleiten sein sollte, daß die arithmetisch gemittelte „globale“ Temperatur mit der Temperatur „auf 10 °N und 30 °W in Meereshöhe + 2m“ gleichgesetzt werden könne? Das ist nicht abzuleiten und damit ist Ihre Schlußfolgerung falsch.
+Zudem ist es offensichtlich, daß der NCR report surface temperatur schreibt. Zum wiederholten Male: Da das offensichtlich ist, geht es darum auch nicht. Wie ich Ihnen bereits mehrmals erklärt habe, quantifiziert die Gleichung im NCR report die Änderung einer Gleichgewichtstemperatur. Um das zu kapieren, muß man nicht nur lesen können, sondern zudem die Gleichung noch verstehen, wozu Sie anscheinend nicht befähigt sind.
+Sie machen also drei Fehler:
+a) Ihre Behauptung ist falsch, daß ich den Begriff Gleichgewichtstemperatur per Übersetzung einführe statt de facto durch die NRC-Gleichung
+b) Ihre Behauptung ist falsch, daß sich die NRC- und meine Aussage auf Absolutwerte statt de facto Änderungen bezieht
+c) Ihre Behauptung ist falsch, daß sich die NRC- und meine Aussage auf punktweise Temperaturen statt de facto deren globale Mittelwerte bezieht
+Ich habe keine sog. „wissenschaftliche Erkenntnisse“ des NRC interpretiert. Leiden Sie an Halluzinationen?
+„Sie machen dann noch zwei weitere kapitalen Fehler, indem Sie die wissenschaftlichen Erkenntnisse, die der NRC wiedergibt, falsch interpretieren.“
+Sie sollten es lassen willkürlich irgendwelche Unterstellungen zu produzieren.
+In dem Zitat, um das es geht steht „surface temperature“.
+Wie festgestellt ist Ihre Lesekompetent in der Nähe von Null angekommen, monoton sinkend.
+„Die Realität ist, daß Sie surface temperature mit Gleichgewichtstemperatur übersetzt haben“
+Nein, Sie haben den wesentlichen Punkt immer noch nicht verstanden Die Gleichung des NRC quantifiziert die Änderung einer Gleichgewichtstemperatur dar und setzt sie mit der Änderung des globalen Mittels der surface temperature gleich. Ich habe dies nicht per Übersetzung gleichgesetzt, sondern der NCR hat den Bezug getan. So schwer zu begreifen ist das doch nicht.
+Wie das NRC nun zu der Schlußfolgerung kommt, daß die de facto angegebene Gleichung für die Änderung einer Gleichgewichtstemperatur tatsächlich auch (zumindest in ausreichender Näherung wie wir heute wissen) gleich ist mit der Änderung des globalen Mittels der surface temperature. Die Möglichkeit des Gleichsetzens der Änderung des globalen Mittels der Oberflächentemperatur mit der Änderung der Gleichgewichtstemperatur ist ja ein ganz wesentlicher wissenschaftlicher Erkenntnisschritt und keinesfalls selbsterklärend. Wenn Sie zu diesem Punkt nicht kommen, so entgeht Ihnen die eigentlich wissenschaftliche Erkenntnis, die hier in der Diss. zu rekapitulieren gewesen wäre.
+Sie machen dann noch zwei weitere kapitalen Fehler, indem Sie die wissenschaftlichen Erkenntnisse, die der NRC wiedergibt, falsch interpretieren. Einmal missachten Sie, daß sich die Aussage auf die Änderung bezieht und nicht, wie Sie es deuten, auf den Absolutwert. Zum zweiten missachten Sie, daß das Gleichsetzen nur für die globalen Mittelwerte (hinreichend genau) zutrifft. Sie konstruieren hingegen, daß dies an jedem Ort zutreffen sollte, was aber nicht zutrifft und eben aber auch nicht behauptet wird.
+Sie machen also drei Fehler:
+a) Ihre Behauptung ist falsch, daß ich den Begriff Gleichgewichtstemperatur per Übersetzung einführe statt de facto durch die NRC-Gleichung
+b) Ihre Behauptung ist falsch, daß sich die NRC- und meine Aussage auf Absolutwerte statt de facto Änderungen bezieht
+c) Ihre Behauptung ist falsch, daß sich die NRC- und meine Aussage auf punktweise Temperaturen statt de facto deren globale Mittelwerte bezieht
+Herr Limburg hat diese entscheidenden Unterschiede in seinem Diss.-Versuch auch nicht korrekt differenziert. Und dies wurde zu recht kritisiert. Diese Mängel sind so gravierend, daß eine Ablehnung der Diss. nur konsequent war.
+„Bringt Ihnen das was, wenn Sie persönliches Versagen und Unfähigkeit als Mobbing uminterpretieren? Aber Ihr Problem…“
+Ihre Lese- und Abstraktionskompetenz geht irgendwie asymptotisch gegen Null.
+Sie konnen nicht unterscheiden was eine objektivierte Zuordnung bestimmten Verhaltens in verschiedenen Wissenschaftsdisziplinen ist.
+„Der Punkt ist doch, daß diese Behauptung in dem zitierten Abschnitt (*)nicht aufgestellt wird.“
+Es geht um Ihre Teetasse, aber wie oben festgestellt ist Ihre Lesekompetenz monoton fallend.
+„Bekommen Sie es nicht hin, Ihre Einbildung von der Wirklichkeit zu trennen? Das müssen Sie erst lernen, sonst wird das nichts.“
+Die Realität ist, daß Sie surface temperature mit Gleichgewichtstemperatur übersetzt haben und mit einem Beispiel etwas beweisen wollen, obwohl Sie wissen können müssen, daß Beispiele nicht zum Beweis taugen, sondern allenfalls zur Falsifikation simpler Behauptungen.
+„(*) = „Wie das NRC …“
+Ihr Unfug wird nicht dadurch zutreffend, daß Sie ihn selbst zitieren. Beweisen Sie Ihren Unfug, pardon Hypothese, daß surface temperature = Gleichgewichtstemperatur ist.
+Bringt Ihnen das was, wenn Sie persönliches Versagen und Unfähigkeit als Mobbing uminterpretieren? Aber Ihr Problem…
+„Ich habe Ihnen einen Ort unter unendlich vielen genannt, wo Ihre Behauptung nicht zutrifft.“
+Der Punkt ist doch, daß diese Behauptung in dem zitierten Abschnitt (*)nicht aufgestellt wird. Bekommen Sie es nicht hin, Ihre Einbildung von der Wirklichkeit zu trennen? Das müssen Sie erst lernen, sonst wird das nichts.
+(*) = „Wie das NRC nun zu der Schlußfolgerung kommt, daß die de facto angegebene Gleichung für die Änderung einer Gleichgewichtstemperatur tatsächlich auch (zumindest in ausreichender Näherung wie wir heute wissen) gleich ist mit der Änderung des globalen Mittels der surface temperature. Die Möglichkeit des Gleichsetzens der Änderung des globalen Mittels der Oberflächentemperatur mit der Änderung der Gleichgewichtstemperatur ist ja ein ganz wesentlicher wissenschaftlicher Erkenntnisschritt und keinesfalls selbsterklärend.“
+„Nein, in Schilda wird elektromagnetische Strahlung in Säcken ins Rathaus = Zimmer transportiert. In realen Zimmern nicht.“
+Das hindert den heißen Tee nicht, im kühleren Raum abzukühlen, und daß dabei die Raumtemperatur für den Vorgang eine quantitative Rolle spielt, trotzdem der Tee diese nicht unbedingt annimmt. Ihre Argumentation, daß eine Gleichgewichtstemperatur für die Physik des Klimasystem keine Rolle spielt, weil diese als Messwert nicht auftritt, wird durch dieses Beispiel widerlegt.
+„Also nochmal der Aufruf: Fragen Sie, was Sie nicht verstehen!“
+Wie kommen ie auf die Idee, ich würde an Verstehenslosigkeit leiden?
+Es müßte doch erst mal Substanz her, bzgl. dessen, was angeblich nicht verstanden wird. Da sind Sie in der Bringschuld.
+„Wenn Sie verstehen wollen, was Sie falsch machen, schon. Ist wie in der Schule oder Uni…“
+Ihre Nullsätze sind wirklich beeindruckend. Juristen nennen das, was Sie da geschrieben haben unsubstantiiert. Wissenschaftler bezeichnen sowas als substanzlos und Soziologen stellen einen untauglichen Mobbingversuch fest.
+„Wo steht da was, von „10 °N und 30 °W in Meereshöhe + 2m erreicht Ihre Tasse Tee niemals die arithmetisch gemittelte „globale“ Temperatur.“? Träumen Sie, lesen Sie nicht oder verstehen Sie es nicht?“
+Ich habe Ihnen einen Ort unter unendlich vielen genannt, wo Ihre Behauptung nicht zutrifft. Zur Falsifikation nach der Wissenschaftstheorie reicht das.
+Aber die Wissenschaftstheorie wenden Sie ja nicht an.
+„Meinen Sie, daß die Umgebungstemperatur für den zeitlichen Temperaturverlauf des Tees darin keine Rolle spielt und sich der Tee nicht thermodynamisch bedingt diese Temperatur als Gleichgewichtstemperatur anstrebt?“
+Nein, in Schilda wird elektromagnetische Strahlung in Säcken ins Rathaus = Zimmer transportiert. In realen Zimmern nicht.
+„Ich muß nirgendwo ansetzen, um etwas zu verstehen“
+Wenn Sie verstehen wollen, was Sie falsch machen, schon. Ist wie in der Schule oder Uni…
+„denn es ist Ihre ja selbsterwählte Aufgabe etwas „verständlich“ zu machen. Nur da versagen Sie regelmäßig.“
+Konstruktive Kritik an meine pädagogischen Fähigkeiten nehme ich gerne entgegen. Das würde Sie auch in der sachgezogenen Diskussion halten und nicht regelmäßig nach Absurdistan abdriften lassen. Also nochmal der Aufruf: Fragen Sie, was Sie nicht verstehen!
+„Völlig daneben, denn z.B. auf 10 °N und 30 °W in Meereshöhe + 2m erreicht Ihre Tasse Tee niemals die arithmetisch gemittelte „globale“ Temperatur. Sie können sicher sein, daß ich das weiß, weil ich schon dort war. :-)))“
+Ich sehe, Sie haben keine ernsten Argumente. Aber Sie müssen sich nun nicht aufgefordert fühlen, den Kasper zu spielen. Mich interessiert nur, ob Sie meine zitierten Aussagen aus #42 verstanden haben. Ihren zitierten Sätzen nach zu urteilen, sind Sie noch weit davon entfernt oder Sie haben sie nicht gelesen. Nochmal:
+„Wie das NRC nun zu der Schlußfolgerung kommt, daß die de facto angegebene Gleichung für die Änderung einer Gleichgewichtstemperatur tatsächlich auch (zumindest in ausreichender Näherung wie wir heute wissen) gleich ist mit der Änderung des globalen Mittels der surface temperature.
+Die Möglichkeit des Gleichsetzens der Änderung des globalen Mittels der Oberflächentemperatur mit der Änderung der Gleichgewichtstemperatur ist ja ein ganz wesentlicher wissenschaftlicher Erkenntnisschritt und keinesfalls selbsterklärend.“
+Wo steht da was, von „10 °N und 30 °W in Meereshöhe + 2m erreicht Ihre Tasse Tee niemals die arithmetisch gemittelte „globale“ Temperatur.“? Träumen Sie, lesen Sie nicht oder verstehen Sie es nicht?
+„Und das mit dem Zimmer ist auch Quatsch. Das funktioniert nur in Schilda.“
+Meinen Sie, daß die Umgebungstemperatur für den zeitlichen Temperaturverlauf des Tees darin keine Rolle spielt und sich der Tee nicht thermodynamisch bedingt diese Temperatur als Gleichgewichtstemperatur anstrebt?
+„„In der Wissenschaft gilt, daß es keine Vorschriften gibt, was jemand zu untersuchen hat und was nicht. Das GG nicht gelesen?“
+Na, da haben Sie das GG an der Stelle nicht verstanden. Sie verwechseln Freiheit mit Willkür.“
+Sie wissen ja noch nicht einmal, was Freiheit und was Willkür ist.
+Ich gebe Ihnen mal nen Tip:
+Suchen Sie sich die entsprechende Rechtsprechung des BVerfG zur Definition von Willkür heraus. Sie können sicher sein, daß ich die kenne und unmittelbaren Zugriff darauf habe. Nur darf ich Sie daran nicht teilhaben lassen. Der Zugang zur Datenbank ist mir nicht gestattet, um Sie damit zu füttern, weil Sie ein Pseudonym sind.
+„Hier müssen Sie ansetzen, um den Sachverhalt wissenschaftlich zu verstehen.“
+Ich muß nirgendwo ansetzen, um etwas zu verstehen, denn es ist Ihre ja selbsterwählte Aufgabe etwas „verständlich“ zu machen. Nur da versagen Sie regelmäßig.
+“ Ein Beispiel, damit auch Sie das begreifen: Die Gleichgewichtstemperatur einer Tasse heißen Tees ist die Temperatur des umgebenden Zimmers (in ausreichender Näherung). Aber wenn Sie sie die schnell austrinken, wird sie nie die Raumtemperatur erreichen? Dennoch ist die Abkühlkurve des Tees wesentlich durch die Raumtemperatur bestimmt. Wenn Sie suggerieren wollen, daß ungemessene Größen in der Physik keine Rolle spielen, so irren Sie.“
+Völlig daneben, denn z.B. auf 10 °N und 30 °W in Meereshöhe + 2m erreicht Ihre Tasse Tee niemals die arithmetisch gemittelte „globale“ Temperatur. Sie können sicher sein, daß ich das weiß, weil ich schon dort war. :-)))
+Und das mit dem Zimmer ist auch Quatsch. Das funktioniert nur in Schilda.
+„In der Wissenschaft gilt, daß es keine Vorschriften gibt, was jemand zu untersuchen hat und was nicht. Das GG nicht gelesen?“
+Na, da haben Sie das GG an der Stelle nicht verstanden. Sie verwechseln Freiheit mit Willkür.
+Ich schrieb in #42
+„Wie das NRC nun zu der Schlußfolgerung kommt, daß die de facto angegebene Gleichung für die Änderung einer Gleichgewichtstemperatur tatsächlich auch (zumindest in ausreichender Näherung wie wir heute wissen) gleich ist mit der Änderung des globalen Mittels der surface temperature.
+Die Möglichkeit des Gleichsetzens der Änderung des globalen Mittels der Oberflächentemperatur mit der Änderung der Gleichgewichtstemperatur ist ja ein ganz wesentlicher wissenschaftlicher Erkenntnisschritt und keinesfalls selbsterklärend.“
+Hier müssen Sie ansetzen, um den Sachverhalt wissenschaftlich zu verstehen. Fragen oder passen Sie. Ein Beispiel, damit auch Sie das begreifen: Die Gleichgewichtstemperatur einer Tasse heißen Tees ist die Temperatur des umgebenden Zimmers (in ausreichender Näherung). Aber wenn Sie sie die schnell austrinken, wird sie nie die Raumtemperatur erreichen? Dennoch ist die Abkühlkurve des Tees wesentlich durch die Raumtemperatur bestimmt. Wenn Sie suggerieren wollen, daß ungemessene Größen in der Physik keine Rolle spielen, so irren Sie.
+„Daher hätte Limburg ja auch untersuchen müssen …“
+Ohne Herr?
+In der Wissenschaft gilt, daß es keine Vorschriften gibt, was jemand zu untersuchen hat und was nicht. Das GG nicht gelesen?
+„wie das NRC nun zu der Schlußfolgerung kommt, daß die de facto angegebene Gleichung für die Änderung einer Gleichgewichtstemperatur tatsächlich auch (zumindest in ausreichender Näherung wie wir heute wissen) gleich ist mit der Änderung des globalen Mittels der surface temperature.“
+„die de facto angegebene Gleichung für die Änderung einer Gleichgewichtstemperatur“
+Was soll das nun wieder sein? Eine Ergänzung eines Zitats in der Übersetzung? Ist auch eine Verfälschung.
+„Die Möglichkeit des Gleichsetzens der Änderung des globalen Mittels der Oberflächentemperatur mit der Änderung der Gleichgewichtstemperatur ist ja ein ganz wesentlicher wissenschaftlicher Erkenntnisschritt und keinesfalls selbsterklärend.“
+Sie wissen ganz genau, daß es keine Gleichgewichtstemperatur der Erdoberfläche geben kann. Und ein globales arithmetisches Mittel der 2m-Temperatur hat auch keinen Aussagewert. Ebensowenig wie das globale arithmetische Mittel des Bodenluftdrucks, auf Meereshöhe reduziert.
+Wenn Sie anderer Ansicht sind, können Sie ja beweisen, daß die beiden Mittel einen Aussagewert haben. Viel Vergnügen.
+„Was steht aber im Zitat?:
+“ „T´ is the change in surface temperature in response to a change in heat content“
+Richtig, das steht da. Daher hätte Limburg ja auch untersuchen müssen, wie das NRC nun zu der Schlußfolgerung kommt, daß die de facto angegebene Gleichung für die Änderung einer Gleichgewichtstemperatur tatsächlich auch (zumindest in ausreichender Näherung wie wir heute wissen) gleich ist mit der Änderung des globalen Mittels der surface temperature.
+Die Möglichkeit des Gleichsetzens der Änderung des globalen Mittels der Oberflächentemperatur mit der Änderung der Gleichgewichtstemperatur ist ja ein ganz wesentlicher wissenschaftlicher Erkenntnisschritt und keinesfalls selbsterklärend.
+Aber Limburg scheint diesen wissenschaftlich wichtigen Schritt gar nicht erkannt zu haben, und so suggeriert seine schlampige Analyse, der NCR würde diese Gleichheit einfach nur grundlos annehmen.
+Können Sie lesen?:
+„Ein zweites Beispiel folgt gleich unten auf Seite 24. Dort gibt er eine Formel aus NRC 2005 wieder und behauptet, damit wäre dort die Globaltemperatur definiert. Das stimmt aber offensichtlich auch nicht, denn in der Formel taucht nur die Abweichung der Temperatur bei Abweichung vom energetischen Gleichgewichtszustand auf. Mit dieser Formel ist die Gleichgewichtstemperatur nicht bestimmbar.“
+Was steht aber im Zitat?:
+“ „T´ is the change in surface temperature in response to a change in heat content“ “
+Da steht nix von Gleichgewicht etc. .
+„Es ist ein beliebter Trick von Forentrollen jemandem Behauptungen zu unterstellen, die sie nicht getätigt haben.“
+Da gehen Sie ja mit diesem Beispiel voran.
+„Sie haben surface temperature mit Gleichgewichtstemperatur übersetzt.“
+Falsch! Ich habe die physikalische Bedeutung von T‘ in der NCR-Formel erklärt. Wie man an der Formel sieht, ist dies die Änderung der Gleichgewichtstemperatur, die nötig ist, um wieder energetisch stationäre Bedingungen zu bekommen: d/dt =0.
+„Die Oberflächentemperatur (Erdoberfläche) an einem Ort ist nie im Gleichgewicht. Geht physikalisch nicht.“
+Ja, aber eine „Gleichgewichtstemperatur an einem Ort“ taucht in der Formel vom NRC ja offensichtlich gar nicht auf! Sind Sie nun Trollo oder oder überfordert?
+„Es geht um Ihre unsinnige Aussage: surface temperature = Gleichgewichtstemperatur.“
+Aha, das soll ich also ausgesagt haben? Offensichtlich träumen Sie!
+Diesen Zusammenhang hat das NRC gemacht, nicht ich.
+Meine Kritik an Herrn Limburg ist, daß seine Untersuchungen lediglich dieses Zitat vom NRC umfassen. Aus dem alleine ist aber der wissenschaftliche Nachweis, daß es einen Zusammenhang gibt, nicht zu entnehmen.
+Sie lenken ab!
+„Nein, das ist ja gerade der Punkt, denn das Limburg Zitat alleine erklärt den physikalischen Sachverhalt ja offensichtlich nicht vollständig.“
+Es geht um Ihre unsinnige Aussage: surface temperature = Gleichgewichtstemperatur.
+Nur darum und nicht um Herrn Limburgs Aussagen geht es.
+Es ist ein beliebter Trick von Forentrollen jemandem Behauptungen zu unterstellen, die sie nicht getätigt haben.
+Sie haben surface temperature mit Gleichgewichtstemperatur übersetzt. Und das ist nachweislich falsch.
+Die Oberflächentemperatur (Erdoberfläche) an einem Ort ist nie im Gleichgewicht. Geht physikalisch nicht.
+„Sie fälschen also Zitate? Das ist ja schlimmer als das, was der Freiherr gemacht hat.“
+Nein, das ist ja gerade der Punkt, denn das Limburg Zitat alleine erklärt den physikalischen Sachverhalt ja offensichtlich nicht vollständig. Oder wollen Sie etwa die Kreation von Pseudophysik durch geschicktes Zitieren rechtfertigen?
+„Ich habe diese Größe nicht „umetikettiert“, sondern sie so genannt, was die Formel zeigt.“
+Sie fälschen also Zitate? Das ist ja schlimmer als das, was der Freiherr gemacht hat.
+„Ich schrieb „Gleichgewichtstemperatur“, weil die Formel offensichtlich die Änderung dieser Größe quantifizert.“
+Unzulässiges Umetikettieren nennt man sowas in der Lebensmittelbranche, wenn einer mit Billigfleisch Kasse machen will. „
+Ich habe diese Größe nicht „umetikettiert“, sondern sie so genannt, was die Formel zeigt.
+„Was mich interessieren würde, was ist die eigentliche Leistung des Doktoranden? Man findet in der Arbeit jede Menge Abbildungen, Tabellen und einige Formeln. Aber die allermeisten von denen sind Zitate aus anderen Arbeiten.“
+Ich glaube, Herrn Limburg ist immer noch nicht klar, was „eigenständiges wissenschaftliches arbeiten“ praktisch bedeutet. In dem Originalblog hat er eine Bemerkung fallen lassen, die tief blicken läßt. Er sagte sowas wie, man müsse in einer Diss. eine eigene Meinung entwickeln und führte als Gegenbeispiel Guttenberg an. Das stimmt grundsätzlich, aber das Entscheidende dabei hat Limburg gar nicht verstanden. Denn das Wesen einer Diss. ist ja, daß man demonstrieren muß, daß diese Meinung wissenschaftlich begründet ist! Diese wissenschaftliche Begründung ist der wesentliche Teil der Diss., und die Qualität der Diss. hängt wesentlich davon ab, wie lückenlos und nachvollziehbar diese Begründung erfolgt. Herr Limburg definiert seine Thesen unklar und verteidigt sie konfus und unzusammenhängend mit einem strukturlosen und impulsiv wirkenden Potpourri von substanzlos erscheinenden Argumenten. Die Gutachter beklagen, daß seine Argumente nicht auf einer wissenschaftlich anerkannten Basis fußen – ich sehe das genauso, und ich bin mir sicher, daß dies jeder Experte, der fachlich und berufsethisch als Gutachter infrage käme, genauso sehen würde. Wenn also für das Diss.-Thema qualifizierte Gutachter Limburgs Begründungen als wissenschaftlich nicht ausreichend begründet sehen, so sollte man als Kandidat mal schleunigst nachfragen, was genau (!) denn der Kritikpunkt ist und wie er dies korrigieren kann. Das aber passiert gerade nicht, Limburg zeigt in seinen Randbemerkungen zu den Gutachten, daß seine Begründungen aus seiner Sicht keinen weiteren Tiefgang bedürfen und ausreichend seien. Hier zeigt sich ein grundlegendes Defizit bei ihm, zwischen wissenschaftlicher Begründung und plumper Meinung zu unterscheiden. Ein weiteres Indiz für sein völliges Unverständnis ist, daß er dem einzig selbstständig überprüften Teil der Diss. so wenig Gewicht gibt und in einen Anhang steckt. Dieser Teil macht wenige Seiten aus und betrifft nur ein paar triviale Mittelwertbildungen an einer Stichprobe Berliner Klimadaten, die zudem sowieso nur bekannte Trivialitäten ergab, die keinen Beweis für seine These darstellt (aus seiner Sicht natürlich schon, aber das liegt daran, daß seine These (1-1) auf seiner physikalisch unsinnigen Interpretation des globalen Mittelwertes der Lufttemperatur basiert).
+„Er ist damit aber viel, viel näher an der Klimatologie als Kirstein und Ewert, die ursprünglich als Gutachter vorgesehen waren. Könnte man ja auch mal erwähnen.“
+Wieso ist Wendisch naeher dran? Er hat doch mit seinem Gutachten dargelegt, dass er die Arbeit von Limburg fachlich nicht bewerten konnte.
+Der Blick auf sein Sozialisationsumfeld löst doch das Rätsel.
+Ich habe übrigens in der Diss. nur zweimal das Wort Temperaturerhöhung gefunden, was beweist, daß Wendisch, wenn Ihr Zitat stimmt (wovon ich ausgehe), die Diss gar nicht vollständig gelesen hat.
+„Man braucht also Zeitreihen von mindestens 60 Jahren, um ueberhaupt eine Klimaaenderung diagnostizieren zu koennen.“
+Im globalen Maßstab macht das Probleme, denn die Meßstationen (COOP-Meßnetz) in den USA wurden erst nach den 20er Jahren richtig kräftig ausgebaut. Weltweit dürfte das ähnlich gewesen sein. Mir ist auch noch keine Untersuchung untergekommen, in der jemand die Repräsentativität einer einzigen Station für eine größere Region untersucht hat. Man nehme also mal den Staat Iowa im Herzen der USA und bestimme die Station, die den Jahresmitteltemperaturverlauf aus dem flächengewichteten Mittel aller Meßstationen korrekt wiedergibt. M.E. eine unlösbare Aufgabe.
+„Zweitens geht es um eine energetische Bewertung, wobei zu hinterfragen ist, ob eine globale Mitteltemperatur z.B. von dem CO2-Gehalt in der Atmosphaere abhaengt, so wie es der NRC-Bericht von 2005 suggeriert. Allein schon eine solche Verknuepfung ist physikalisch sinnlos, denn nicht ein einziger der im System Erde-Atmosphaere wesentlichen Energiefluesse ist von einer globalen Mitteltemperatur abhaengig.“
+Nun ja, die Energieabflüsse ins All sind ebenso wie die Zuflüsse lokal. Da, wo regional (lokal) die höchsten Abflüsse stattfinden, ist es zwangsläufig auch meist am wärmsten. Dumm nur, daß das umgekehrt nicht immer und überall gilt.
+Aber das sollen ja die GCM berechnen können, mit einem Gitternetz der Auflösung von 1,875 ° in der Länge und 1,85 ° in der Breite. Zwei Gitterboxen in der Breite von Hamburg entsprächen demnach Schleswig-Holstein in der Fläche. Wer jetzt noch nicht überzeugt ist, der schaue sich das gestrige NOAA-Satellitenbild unter wetterzentrale.de an.
+„Wendisch bezeichnet sich selbst als Meteorologe mit Fachgebiet atmosphaerische Strahlung. Damit ist er nicht unbedingt ein Experte auf dem Gebiet der Klimatologie, was sein Gutachten in eklatanter Weise belegt.“
+Er ist damit aber viel, viel näher an der Klimatologie als Kirstein und Ewert, die ursprünglich als Gutachter vorgesehen waren. Könnte man ja auch mal erwähnen.
+Wendisch bezeichnet sich selbst als Meteorologe mit Fachgebiet atmosphaerische Strahlung. Damit ist er nicht unbedingt ein Experte auf dem Gebiet der Klimatologie, was sein Gutachten in eklatanter Weise belegt.
+Wendisch schreibt z.B.:
+„Auf der einen Seite bezeichnet der Autor die Genauigkeit der Bestimmung der globalen Mitteltemperatur als unzureichend, bzw. lehnt diese Groesse zur Bewertung von Klimaaenderungen ab. Andererseits versucht der Autor nachzuweisen, dass die globale Temperaturerhoehung (die er vorher als solche nicht akzeptiert hat) nicht durch CO2-Anstieg verursacht wird.“
+Damit versucht Wendisch einen Widerspruch aufzuzeigen, der gar nicht existiert. Offenbar wirft Wendisch zwei Fragen durcheinander, naemlich erstens die Frage nach dem Beleg fuer eine (globale) Klimaaenderung, und zweitens die Frage, ob eine Aenderung des globalen Klimas mit der CO2-Konzentration in der Atmosphaere verknuepft werden kann, so wie es z.B. die von Limburg zitierte Stelle aus dem Bericht des National Research Council von 2005 suggeriert. Diese Fragen kann man unabhaengig voneinander beantworten, denn die erste Frage zielt auf eine statistische Deutung und die zweite Frage auf eine energetische Deutung hin.
+Was Wendisch nicht wahrhaben will, ist folgendes:
+Erstens existiert kein globales Klima, was sich aus der Definition des Klimas durch die WMO von 1992 als „Synthesis of weather conditions in a given area, characterized by long-term statistics (mean values, variances, probabilities of extreme values, etc.) of the meteorological elements in that area“ ergibt. Es geht dabei um die statistische Beschreibung, weswegen ein Intervall von mindestens 30 Jahren erforderlich ist, um zumindest so etwas wie eine stochastische Verteilung der Daten gewaehrleisten zu koennen, eine Grundvoraussetzung der statistischen Beschreibung. Eine solche Statistik laesst sich nur fuer einen Ort bzw. einer Region durchfuehren, weswegen von „area“ gesprochen wird.
+Ein globales Mittel einer Groesse beruht aber nicht auf einem statistischen Mittel, sondern auf der Definition des Flaechenmittels. Um ein zeitlich-raeumliches Mittel durch ein zeitliches oder raeumliches Mittel ersetzen zu koennen, sind gemaess des Ergodentheorems gewisse Kriterien zu erfuellen. Eine globale Mittelung erfuellt diese Kriterien sicherlich nicht, denn eine globale Homogenitaet der Felder kann ja wohl nicht gewaehrleistet werden.
+Wenn man zudem eine Klimaaenderung diagnistizieren moechte, dann sind die Ergebnisse einer Klimaperiode mit denen einer Referenzperiode zu vergleichen, wobe sich diese Perioden nicht ueberlappen duerfen. Man bracuht also Zeitreihen von mindestens 60 Jahre, um ueberhaupt eine Klimaaenderung diagnostizieren zu koennen.
+Zweitens geht es um eine energetische Bewertung, wobei zu hinterfragen ist, ob eine globale Mitteltemperatur z.B. von dem CO2-Gehalt in der Atmosphaere abhaengt, so wie es der NRC-Bericht von 2005 suggeriert. Allein schon eine solche Verknuepfung ist physikalisch sinnlos, denn nicht ein einziger der im System Erde-Atmosphaere wesentlichen Energiefluesse ist von einer globalen Mitteltemperatur abhaengig. Mit Bezug auf eine empirische Beziehung von Budyko (1969) haben Schneider & Dickinson (1974) sowie Schneider & Mass (1975) einen Zusammenhang unterstellt, ohne allerdings eine wissenschaftliche Beweisfuehrung vorzunehmen. Die von Budyko genannten Werte wurden auch von Schneider & Mass (1975) drastisch veraendert, so dass man erst recht von keiner wissenschaftlichen Beweisfuehrung reden kann. Limburg hat dieses aufgezeigt, wobei er noch zurueckhaltend agiert hat.
+Wer seine egoistischen Interessen gegenueber den wissenschaftlichen Erkenntnissen einen hoeheren Stellenwert einraeumt, der ist nicht offen fuer eine kritische Hinterfragung des Status Quo und somit ungeeignet, ein Gutachten zu einer Dissertation wie die von Limburg anzufertigen.
+MfG
+S.Hader
+Sie haben einfach keine Ahnung von diesen Modellen. Diese Modelle lassen ueberhaupt keine Bewertung des Klimas in 50 oder 100 Jahren zu. Dafuer sind diese Modelle vollkommen ungeeignet.
+Wenn man dann auch noch anfaengt auf physikalisch unwichtigen Groessen wie die globale Mitteltemperatur zu adjustieren, dann ist das Erfuellen von Bilanzgleichungen wohl nur noch Gluecksache.
+ist es Iher Aufmerksamkeit entgangen, dass ich Ihnen im Thread „Licht am Ende des Tunnels“ in #88 eine Frage gestellt habe?
+Wäre nett, wenn Sie darauf eingehen würden.
+Danke!
+am Dienstag, 12.04.2016, 14:10
+„Aber so qualitative Aussagen wie
+„die sog. ‚globale Mitteltemperatur‘ zu nehmen hat nichts mit Wissenschaft zu tun“ sind sicher ueberzogen.“
+Wissenschaft hat etwas mit Einhaltung von Regeln zu tun. Und diese schreiben vor, daß derjenige, der solch einem Wert (arithmetisches Mittel von Punktmessungen) eine Bedeutung zumißt, auch zu beweisen hat, daß diese Bedeutung zutreffend ist. Das ist bei der sog. „globalen Mitteltemperatur“ nicht der Fall.
+Desweiteren gibt es keine Klimamodelle. Es handelt sich um Simulationsmodelle der globalen Zirkulation.
+„Ich hatte nicht behauptet, die Klimamodelle sind perfekt.“
+Was sind denn dann, die sog. „Klimamodelle“?
+Ich hatte nicht behauptet, die Klimamodelle sind perfekt. Aber so qualitative Aussagen wie
+„die sog. ‚globale Mitteltemperatur‘ zu nehmen hat nichts mit Wissenschaft zu tun“ sind sicher ueberzogen. Uebrigens schreibe ich nicht unter Pseudonym.
+„Was Sie behaupten, ist XXXXXX Zeug.“
+Etwas konkreter duerfte es schon sein. Die einfachen Argumente sind doch eigentlich nicht misszuverstehen. Und was soll die Mittelungsdiskussionen bei #12 mit Limbergs Dissertation zu tun zu haben? Glauben Sie wirklich, die Gutachter wuessten nicht zwischen intensiven und extensiven Groessen zu unterscheiden. Daneben spielt die Hesselbach-Mittelung bei der Temperaturmittelung sowieso keine Rolle. Auch werden kein Stroemungsfelder oder dynamischen Gleichungen besprochen.
+So ist also die „Globaltemperatur“ keine einem physikalischen Vorkommen entsprechende Temperatur.
+So wie im Falle einer aus zwei Messstellen ermittelten mittleren Temperatur, wenn die eine Messtelle 50°C anzeigt und die andere -50°C anzeigt, gemittelt ergibt sich 0°C welche für beide Messstellen nicht zu treffen.
+Womit auch Angaben über dort herrschendes Klima nicht gemacht werden können.
+Um dies einmal zu verdeutlichen: Es heisst nicht umsonst „bei“ 0°C gefriert Wasser – wenn ebendiesem dabei genügend Energie entzogen wird.
+Alleine aus dem Wert als Temperatur kann also nicht auf ein Klima geschlossen werden!
+Und schon garnicht, wenn die Verfahren zur Ermittlung der Temperatur so unterschiedlich sind, dass ein Fehler von +- 1°C, letztlich auch für zum Verfahren inhaltliche Fehler
+– wie z. B. Messung bei Windstille, teils bewölktem Himmel: also örtlich, aus dem Wettergeschehen mit großen Gegensätzen zu rechnen ist, – wie eben nunmal vergangenen Winter auch geschehen – angenommen werden muss.
+Dass man sich sogar mit den in den letzten 50 Jahren gemessenen Werten eigentlich in Heisenberg´scher Unschärfe bewegt.
+Hautsache nun aber, dass man sich darüber gar erzählt: Da ist gar was gemessen seht!
+Und jeder findet nicht dabei, dass es nur um Temperatur und nicht ums Wetter: eigentlich für Klima geht.
+Wozu auch Manche denken, sagen:
+„Ei was sind die denn blöd!“
+Herr Müller, Sie glauben nicht an Fernwirkungen ! Ist Telekonnektion kein Beleg
+für Fernwirkungen ? Ich bin kein Klimaexperte wie Sie – bitte klären Sie mich auf !
+„Ich schrieb „Gleichgewichtstemperatur“, weil die Formel offensichtlich die Änderung dieser Größe quantifizert.“
+Unzulässiges Umetikettieren nennt man sowas in der Lebensmittelbranche, wenn einer mit Billigfleisch Kasse machen will.
+Dafür gibt es dann noch einen Trollo verliehen. ie nächste durch den sog. „Klimawandel“ verursachte Sturmflut kommt bestimmt, denn wenn es jetzt wärmer wird, gibt es in den nächsten Monaten auch mehr Sturmfluten, die die Fischmarktparker unangenehm treffen werden.
+1. „Klimamodelle (sind) an Groessen wie die globale Mitteltemperatur adjustiert“. Warum nicht, man adjustiert die gemittelten Temperaturen an die Messungen und macht dann Tests auf die vergangene Entwicklung (Konsistenzcheck) und Vorausberechnungen, was zur Bestaetigung oder Widerlegung derselben fuehrt. Das ist Wissenschaft, und da gibt es betraechtliche Fortschritte in der Vorhersage.“
+Das ist eben keine Wissenschaft entsprechend den Regeln und Vorgaben der Wissenschaftstheorie. Klima ist per Definition lokal und in Klassen und Unterklassen aufgeteilt auf der Grundlage der Variabilität mehrerer Parameter und nicht nur der Temperatur.
+Dementsprechend müßte die Prognosefähigkeit eines „Klimamodells“ also an der Güte der lokalen Abbildung der gemessenen Realität bestimmt werden. Das ECHAM5-GCM kann beispielsweise lokal weder den Jahresgang der Minimum- und Maximumtemperatur nachbilden, noch den des Niederschlags. Beim Mittel aus TMIN und TMAX stimmt es dann, aber eben nur, weil TMAX zu niedrig und TMIN zu hoch errechnet wird.
+Womit also Ihre Aussage falsifiziert wurde.
+Die Güte eines GCM – die fälschlicherweise Klimamodelle genannt werden, ergibt sich aber auch daraus, wie Statistik bestimmter Phänomene der Zirkulation nachgebildet wird. Also Sturmhäufigkeit und Sturmstärke und Anzahl und Dauer der stationären Hochdruckperioden im Mitteleuropäischen und Pazifischem Raum. Auch da kann ein Versagen der GCM festgestellt werden.
+Die sog. „Globale Mitteltemperatur“ zu nehmen hat mit Wissenschaft nichts zu tun.
+[. . . ] Was ich nicht verstehe, ist, dass Wendisch es ablehnt, Mitglied der Promotionskommission zu werden, weil es um eine Promotion im Fach Geographie geht. Und dann wird er als Gutachter bestellt. Das riecht doch gewaltig nach Korruption in der Wissenschaft.
+Sehr geehrter Herr Kramm,
+ich sehe schon einen Unterschied, ob ein Meteorologe eine meteorologisch ausgerichtete Dissertation im Gebiet der Klimatologie begutachten soll oder ob er eine mündliche Prüfung im Fach Geographie abhalten soll. Dabei soll die mündliche Prüfung wesentlich über das Gebiet der Dissertation hinausgehen; da wird die Luft für Meteorologen möglicherweise sehr schnell dünn, da die fachliche Schnittmenge hier schon in der Dissertation ziemlich ausgeschöpft sein dürfte.
+Was Sie behaupten, ist XXXXXX Zeug. Machen Sie sich erst einmal kundig.
+„’surface temperature‘ = ‚Gleichgewichtstemperatur‘
+Ihr Englisch ist schlichtweg grottenschlecht“
+Ich schrieb „Gleichgewichtstemperatur“, weil die Formel offensichtlich die Änderung dieser Größe quantifizert. Daß die Autoren Gleichgewichtstemperatur mit surface temperature gleichsetzen, ist nicht mein Verdienst.
+Die Angriffe auf die Gutachten und auf den Kommentator Baecker greifen nicht:
+1. „Klimamodelle (sind) an Groesen wie die globale Mitteltemperatur adjustiert“. Warum nicht, man adjustiert die gemittelten Temperaturen an die Messungen und macht dann Tests auf die vergangene Entwicklung (Konsistenzcheck) und Vorausberechnungen, was zur Bestaetigung oder Widerlegung derselben fuehrt. Das ist Wissenschaft, und da gibt es betraechtliche Fortschritte in der Vorhersage.
+2. Temperaturmittelung: Da muss nicht Planck herangezogen werden, jeder Schueler macht heutzutage Versuche mit einer Mischtemperatur. Es muss ja nur ueber Luft mit so gut wie konstanter Waermekapazitaet gemittelt werden (leichte Abhaengigkeit von der Luftfeuchte zugegeben). Der Kandidat diskutiert ja dann auch Mittelwerte nach Essex et al. (2006), die Temperaturanomalie Xi (t), um im kommenden Absatz eine Paradox zu Konstruieren: „Xi am Ort r haengt auch von den Zustaenden an allen entfernten Positionen r_k ab. … Das ist physikalisch unhaltbar. Fernwirkende Mechanismen fuer thermodynamische Prozesse gibt es nicht.“ Was fuer eine unsinnige Behauptung!
+3. Die Temperatur im „radiative-convective equilibrium (RCE)“: Natuerlich folgt im Gleichgewicht: T‘ = lambda x f, aber dann beginnen erst die Aufgaben mit der Ableitung oder Messung von des „forcing f“ und des feedback parameters „lambda“. Interessanterweise schreibt der Kandidat in seiner Arbeit: „Diese Definition erleichtert zwar u.U. die Zuordnung einzelner Antriebe zur gemessenen oder gerechneten Veränderung T´, hilft aber bei der eigentlichen Ermittlung der
+Globaltemperatur T nicht weiter. Überdies unterstellt diese Definition eine reine Strahlungstemperatur, die der
+beobachteten Vielfalt der Temperaturquellen, zusätzlich zur Strahlungstemperatur, nicht gerecht wird.“ Aber nein, es handelt sich gerade um ein Gleichgesicht mit Strahlung und Konvektion zuerst beschrieben Chandrasekhar (1947). Und warum zusaetzliche Temperaturquellen, korrekt sind Waermequellen!
+Wissenschaften, ist ein Verbrechen, weil Menschen ohnehin sehr leicht selbst durch ihre eigenen Wünsche bereits indoktriniert werden können. Dies möchte ich durch folgende Geschichte, die sich tatsächlich zugetragen hatte und kein verspäteter Aprilscherz ist, veranschaulichen :
+vor etwa 15 Jahren hatte sich eine junge Frau sehnlichst ein Schaf als Haustier gewünscht.
+Kolleginnen hatten ihr statt dessen einen Pudel geschenkt aber vergessen zu sagen, dass der Pudel kein Schaf ist. Die junge Frau hatte somit in der Vorstellung, ihr sehnlichst gewünschtes Schaf vor sich zu haben, dem armen Hund immer frisches Gras mit ausgesuchten Kräutern zum fressen angeboten und sich gewundert, dass das Tier trotz zunehmender Gewichtsabnahme nicht fressen wollte. Der Hund ist nicht sehr alt geworden. Dies ist ein krasses Beispiel von Selbstindoktrination – daher ist es umso schlimmer, wenn Menschen bewußt falsch indoktriniert werden und ich verstehe den Ärger von Herrn Limburg sehr gut !
+dH/dt = f – T’/lambda
+sowie
+T‘ = lambda f‘
+im uebrigen ist der „climate sensitivity parameter“ lambda gleich dem Kehrwert des „feedback parameter“. Das ist in dem NRC-Bericht von 2005 nicht korrekt dargestellt.
+Zu dem Unterschied zwischen extensiven und intensiven Groessen ist noch folgendes anzumerken:
+Dieser Unterschied spielt auch eine Rolle, wenn es um das Mittelungskalkuel der Turbulenz nach Hesselberg (1926) geht. Intensive Groessen wie die Dichte und der Druck werden dabei im Sinne von Reynolds gemittelt. Ist p z.B. der instantane Luftdruck, so gilt nach Reynolds p = {p} + p‘, wobei {p} der Mttelwert und p‘ die Abweichung davon ist. Definitionsgemaess gilt: {p‘} = 0. Fuer die instantane Luftdichte gilt dementsprechend r = {r} + r‘ mit {r‘} = 0.
+Extensive Groessen wie die innere Energie, die Enthalpie oder die Entropie werden im Sinne von Hesselberg dichte-gewichtet gemittelt. Ist e eine extensive Groesse, so ergibt sich fuer das Hesselberg-Mittel, durch gekennzeichnet,
+= {r e}/{r} .
+Die Anweichung vom Hesselberg-Mittel wird durch e“ beschrieben. Definitionsgemaess gilt:
+[r e“} = 0.
+Kramm & Meixner (2000) sowie Lumley & Yaglom (2001) haben zu dem historischen Hintergrund des Hesselberg-Mittels einiges geschrieben.
+Die Vorteile des Hesselberg-Mittels liegen auf der Hand. Im Falle der Kontinuitaetsgleichung fuehrt die Reynolds-mittelung zu
+d{r}/dt + div ({r}{v} + {r‘ v‘})
+Hierin bedeutet d{r}/dt die lokale zeitliche Aenderung der mittlkeren Dichte nach der Zeit. Die Groesse v ist der Geschwindigkeitsvektor. Offensichtlich tritt durch die Mittelung noch ein weiterer Term unter dem Divergenzzeichen auf, der haeufig vernachlaessig wird, so z.B. in der Boussinesq-Approximation. Das fuehrt dann zu solch absurden Korrekturen wie die Webb-Korrektur. Im Falle des Hesselberg-Mittels ergibt sich
+d{r}/dt + div ({r})
+Das bedeutet, dass sich die Gestalt der Kontinuitaetsgleichung durch den Mittelungsprozess nicht aendert. Das Hesselberg-Mittel gestattet auch eine exakte Aufteilung der kinetischen Energie der Stroemung, naemlich in die kinetische Energie der mittleren Bewegung und die kinetische Energie der turbulenten Bewegung. Im Falle der Reynolds-Mittelung treten zusaetzliche Terme auf, die dann wiederum in der Boussinesq-Approximation vernachlaessigt werden.
+Hesselberg war einer der herausragenden wissenschaftlichen Assistenten von Vilhelm Bjerknes, dem Gruendungsdirektor des Geophysikalischen Instituts der Universitaet Leipzig, in dessen Tradition auch das Meteorologische Institut steht. Es ist gerade peinlich, wenn ausgerechnet im Falle von Limburgs Dissertation an der Universitaet Leipzig der Unterschied zwischen extensiven und intensive Groessen ausser Acht gelassen wird. Das kann man nur noch als Banausentum bezeichnen.
+Was ich nicht verstehe, ist, dass Wendisch es ablehnt, Mitglied der Promotionskommission zu werden, weil es um eine Promotion im Fach Geographie geht. Und dann wird er als Gutachter bestellt. Das riecht doch gewaltig nach Korruption in der Wissenschaft.
+„Ein zweites Beispiel folgt gleich unten auf Seite 24. Dort gibt er eine Formel aus NRC 2005 wieder und behauptet, damit wäre dort die Globaltemperatur definiert. Das stimmt aber offensichtlich auch nicht, denn in der Formel taucht nur die Abweichung der Temperatur bei Abweichung vom energetischen Gleichgewichtszustand auf. Mit dieser Formel ist die Gleichgewichtstemperatur nicht bestimmbar. “
+Offensichtlich koennen Sie nicht lesen, denn Limburg zitiert diesen NRC-Bericht wie folgt:
+„According to the radiative-convective equilibrium concept, the equation for determining global average surface temperature of the planet is
+dH/dt = f – T’/?
+where H. . .. . .is the heat content of the land-ocean-atmosphere system. . … Equation (1) describes the change in the heat content where f is the radiative forcing at the tropopause, T´ is the change in surface temperature in
+response to a change in heat content, and ? is the climate feedback parameter (Schneider and Dickinson, 1974), also known as the climate sensitivity parameter, which denotes the rate at which the climate system returns the added forcing to space as infrared radiation or as reflected solar radiation (by changes in clouds,ice and snow, etc.).“
+Als erstes stellt sich die Frage, ob Limburg korrekt zitiert hat. Da ich den Bericht kenne und ihn auch auf meinem Rechner habe, kann ich bestaetigen, dass Limburg diesen Bericht korrekt zitiert hat.
+Die zweite Frage lautet also, ob man dieses Gleichungssystem, was aus den Gln. (1-1) und (1-2) besteht, zur Definition der Globaltemperatur verwenden kann. Limburg hat zu Recht dieses Gleichungssystem als nicht zweckdienlich zur Definition der Globaltemperatur bewertet. Nur jemand, der keinen blassen Schimmer Ahnung von der Strahlungsphysik hat, wird dieses Gleichungssystem als akzeptabel bezeichnen.
+Dieses Gleichungssystem geht im uebrigen auf eine empirische Formel zurueck, die von Budyko (1969) stammt. Sie wurde von Schneider & Dickinson (1974) und vor allem von Schneider & Mass (1975) in physikalisch voellig falscher Art und Weise zu einem globalen Energiebilanzmodell zusammengezimmert, und zwar ohne darauf zu achten, dass alle Strahlungsgesetze wie z.B. das Stefan-Boltzmann-Gesetz nur lokal gueltig sind, aber nicht global. Auf diesem Fehler beruht schon die Quantifikation des sog. atmosphaerischen Treibhauseffekts mit 33 K, denn bei der Berechnung der effektiven Strahlungstemperatur einer Erde ohne Atmosphaere wird derselbe physikalische Unfug getrieben. Auch das Konzept der sog. Klimasensitivitaet beruht auf diesem physikalischen Unfug, denn die oben aufgelistete Gleichung tendiert fuer ein positives ? gegen einen stationaeren Zustand (Attraktor), was dH/dt = 0 beinhaltet. Wendet man die obige Gleichung einmal fue rdas ungestoerte und dann fuer das gestoerte System an, denn ergibt sich fuer ? = const. folgendes:
+T‘ = ? f‘
+wobei f‘ das sog. net „radiative anthropogenic forcing“ ist. Da f‘ = 3,7 W/m^2 fuer eine Verdopplung von CO2 berechnet wird, erhaelt man dann mit 0,69 K m^2/W nach Schneider & Mass (1975) eine Erhoehung der Globaltemperatur von 2,6 K.
+Das ist alles physikalischer Unfug. Und weil Limburg daran Kritik geuebt hat, wurde er, vornehm ausgedrueckt, abgeblockt.
+Man darf also festhalten, dass Sie mit Ihrer Kritik an der Limburgschen Darstellung nur Ihre eigene Inkompetenz dokumentieren.
+Da mir Ihre Argumentation auf Grund einer anderen Quelle bekannt vorkommt, darf ich vermuten, dass es sich bei NicoBaecker um ein Pseudonym handelt. Ich darf weiterhin vermueten, dass Limburgs Vorhaben, sich an der Univ. Leipzig zu promovieren, aus dem Umfeld von EIKE torpediert wurde, denn da ich die Fakulaet kenne, sind mir auch einige Querverbindungen bekannt.
+1) Offensichtlich weiss Wendisch nicht, dass die sog. Klimamodelle an Groessen wie die globale Mitteltemperatur adjustiert wurden bzw. werden. Darueber existiert seit 2012 auch eine Arbeit, in der dieses explizit dargelegt wird. Es handelt sich um die Arbeit von Mauritsen et al. (2012), „Tuning the climate of a global model“, die aus dem MPI f. Meteorologie stammt (siehe http://goo.gl/G4wyFI). Im Abstract dieser Arbeit heisst es:
+„During a development stage global climate models have their properties adjusted or tuned in various ways to best match the known state of the Earth’s climate system. These desired properties are observables, such as the radiation balance at the top of the atmosphere, the global mean temperature, sea ice, clouds and wind fields. The tuning is typically performed by adjusting uncertain, or even non-observable, parameters related to processes not explicitly represented at the model grid resolution. The practice of climate model tuning has seen an increasing level of attention because key model properties, such as climate sensitivity, have been shown to depend on frequently used tuning parameters. Here we provide insights into how climate model tuning is practically done in the case of closing the radiation balance and adjusting the global mean temperature for the Max Planck Institute Earth System Model (MPI-ESM). We demonstrate that considerable ambiguity exists in the choice of parameters, and present and compare three alternatively tuned, yet plausible configurations of the climate model. The impacts of parameter tuning on climate sensitivity was less than anticipated.“
+Und das ist gaengige Praxis. Ich habe mich beim Lesen dieser Arbeit nur noch darueber gewundert, mit welcher Unverfrorenheit man heutzutage den Verstoss gegen wissenschaftliche Standards verkuenden kann.
+Vor mehr als 25 Jahren brachte es Bruce Hicks, frueherer Direktor des NOAA- Air Resources Laboratory, in einer Buchbesprechung auf den Punkt. Er schrieb:
+»Some papers report on models that are developed, adjusted to fit a set of observations, and then ‘validated’ by comparison against the same data set. As a scientific community, we should urgently work on setting an appropriate punishment for those convicted of this crime.«
+2) Es ist schon ein Zeichen von Unvermoegen, was Visbeck zu Limburgs Aussage hinsichtlich der physikalischen Bedeutung der Globaltemperatur als arithmetisches Mittel verkuendet. Visbeck hat offensichtlich keine Ahnung davon, dass die Temperatur eine intensive Groesse ist. Er kritisiert also die korrekte Aussage von Limburg, weil er die einschlaegige Fachliteratur nicht kennt. Als Beispiel sei die Arbeit von Richard Tolman (1917), „The measurable quantities of physics“, genannt. Auch Planck hat schon auf diesen Sachverhalt hingewiesen, dass die Temperatur eine intensive Groesse ist. Konsequenterweise gibt es auch keine Bilanzgleichungen fuer die Temperatur, sondern nur eine prognostische Gleichung fuer die Temperatur, die entweder an Hand der lokalen Bilanzgleichung fuer die innere Energie oder der lokalen Bilanzgleichung fuer die Enthalpie hergeleitet wird.
+Ueber extensive Groessen wie die Energie darf auch aus physikalischen Gruenden gemittelt werden. Im Falle von intensiven Groessen ist das wenig sinnvoll. Den Unterschied kann man an folgendem Beispiel verdeutlichen:
+Ein Gefaess, was mit einem Liter Wasser der Temperatur T gefuellt ist, enthaelt eine gewisse Energiemenge. Schoepft man vorsichtig ein halbes Liter Wasser ab, so bleibt die Temperatur des Wassers in dem Gefaess gleich, aber seine Energiemenge verringert sich um die Haelfte.
+man darf wohl auf Grund Ihrer vielen Beitraege davon ausgehen, dass Sie nicht in der Lage sind, die Arbeit von Herrn Limburg zu beurteilen.
+’surface temperature‘ = ‚Gleichgewichtstemperatur‘
+Ihr Englisch ist schlichtweg grottenschlecht, finden Sie das nicht auch?
+Aus dem Leo: surface temperature [tech.] die Oberflächentemperatur
+Gleichgewichtstemperatur = equilibrium temperature [meteo.]
+Damit ist meine Frage beantwortet und es gibt einen Trollo verliehen.
+„Was bedeutet das denn hier für T? : „T´ is the change in surface temperature in response to a change in heat content“
+Eben, T‘ = die Temperaturänderung ist mit der Gleichung definiert und damit nicht die Gleichgewichtstemperatur T.
+Welche Gleichgewichtstemperatur T bei der Gleichgewichtsbedingung dH/dt = 0 besteht, ist mit der Gleichung nicht determiniert.
+„Ein zweites Beispiel folgt gleich unten auf Seite 24. Dort gibt er eine Formel aus NRC 2005 wieder und behauptet, damit wäre dort die Globaltemperatur definiert. Das stimmt aber offensichtlich auch nicht, denn in der Formel taucht nur die Abweichung der Temperatur bei Abweichung vom energetischen Gleichgewichtszustand auf. Mit dieser Formel ist die Gleichgewichtstemperatur nicht bestimmbar.“
+Mal wieder mit Unterstellungen unterwegs?
+Was bedeutet das denn hier für T? : „T´ is the change in surface temperature in response to a change in heat content“
+Pseudonym sagt: „…kein gewissenhafter Prüfer in einer naturwissenschaftlichen Fakultät…“
+Dann schaue man sich doch einmal an, was der Herr V. geschrieben hat:
+„Der zweite Teil der These stellt in Frage, ob die global gemittelte Temperatur sich systematisch mit der Erhöhung des C02 in der Atmosphäre ändert. Dieses ist eine überprüfbare Aussage im Rahmen gewisser Annahmen,
+Die Diskussion der Thesen beginnt mit einer Diskussion eines theoretischen Papers von Essex. Im Prinzip ist nichts gegen die Theorie einzuwenden, allerdings versucht Herr Limburg nicht anhand von konkreten Temperaturdaten der Erde zu zeigen, dass in der Tat die Wahl der Verfahren oder eine t Untermenge von Stationen unterschiedliche Trends der global gemittelten Temperatur (als Index im Sinne von Essex) erzeugen. Eine solche beispielhafte Berechnung wär£ wissenschaftlich interessant, nicht sehr aufwendig zu leisten, fehlt aber in der Arbeit.“
+Man muß sich hier ernsthaft fragen, ob der Mann sich dessen bewußt ist, was er da geschrieben hat: „Eine solche beispielhafte Berechnung wär£ wissenschaftlich interessant, nicht sehr aufwendig zu leisten, fehlt aber in der Arbeit.“ Das ist falsch, denn genau das ist wegen des begrenzten Zugangs zu den Daten – die ausnahmslos korrigiert werden müssen – nicht möglich. Bereits die Korrektur bzw. Elimination von offensichtlichen Ablese- und Übertragungsfehlern der COOP-Daten der NOAA bereitet immense Schwierigkeiten, zumal die Ablesezeiten inkonsistent sind, sowohl zeitlich als auch regional. Für die Ozeane, die immerhin 2/3 der Erdoberfläche ausmachen erst recht, denn Schiffe ankern nicht mitten auf dem Ozean.
+Letztendlich zeigt das hier nur, was aus den peer-reviews bekannt ist: Es geht z.B. eine Lernkurve durch, wo keine existieren kann (bei Windmühlen bei Wahl der falschen unabhängigen Variable) und alle Zitierenden schreiben den Unfug ab. Was denn zeigt, daß das Prüfverfahren grundsätzliche Mängel aufweist.
+Desweiteren gibt es einen Betreuer und eine Fakultät, der/die soweit ersichtlich, keine klar umrissenen Anforderungen an die Form und den Inhalt einer Diss. gestellt haben. Ein Prüfer, der eine eigene, längst widerlegte Vorstellung hinsichtlich der Möglichkeiten der Leichtigkeiten der Bestimmung von regionalen Temperturanomalien bzw. Zeitreihen behauptet und vom Prüfling so etwas global dargelegt erwartet, schießt weit über das Ziel hinaus. Er hat das genau nämlich nicht zu beurteilen.
+Wenn man dann akzeptierte Dissertationen von Medizinern mit drei bzw. sechs Seiten Umfang findet, stellt sich die Frage nach dem Wert oder Unwert solcher Arbeiten.
+Angesichts der Plagiatsgeschichten in Prominentenkreisen fehlt das, was eigentlich überall gilt, nur nur nicht in dem Raum der sog. „Wissenschaftsfreiheit“: Ein Verbindlicher Maßstab zur Beurteilung solcher Arbeiten, womit man letztendlich dann da landet, wo man keinesfalls landen sollte: Beim Richterrecht, denn Juristen (Gerichte) zu Normgebern zu machen ist der schlechteste aller Wege. Um Richter werden zu können, bedarf es nur der Erreichung von 50% der Maximalprüfungspunktzahl. So jedenfalls die Ausschreibungen in Niedersachsen.
+Abgesehen von den formalen Fehlern, würde kein gewissenhafter Prüfer in einer naturwissenschaftlichen Fakultät diese Arbeit zu einer erfolgreichen Dissertation zulassen können. Dazu wird in der Arbeit einfach zu viel ohne Nachweis behauptet. Ich glaube, Herr Limburg merkt gar nicht mehr, wie er sich in seine „Geschichte“ verbissen hat. Die Gutachter bemänglen diese unbelegten Behauptungen ja auch, aber selbst in den Limburgs Randbemerkungen zu den Gutachterbriefen kommt raus, daß ihm dieser Mangel gar nicht mehr bewußt wird.
+Hinzu kommt, daß Herr Limburg seine Mängel im Fachwissen nicht verbergen konnte. Ich nehme mal ein Beispiel (das nicht mal Fachwissen erfordert, sondern elementar falsch ist): auf Seite 24 kann man lesen, daß Herr Limburg davon ausgeht, daß die globale Temperaturanomalie Xi an Orten r des Globus angebbar sei. Dabei hat er die Definition von Xi nach Essex eine Seite vorher niedergeschrieben. Nach dieser Definition ist ja eindeutig klar, das Xi nur eine Zeitabhängigkeit hat aber, keine Funktion über der Ort auf dem Globus ist. Limburg beklagt ein „Paradox“, aber das hat er selber aufgrund dieses Fehlers konstruiert. Das Volumen einer Flasche Bier ist ja auch keine Funktion der Orte in dieser Flasche, sondern ein Maß für die Flasche als Ganzes.
+Anscheinend glaubt er auch, daß diese globale Temperaturanomalie für die lokalen Klimaauswirkungen (z.B. Schmelzen von Gletschern) verantwortlich sei. Auch dies ist falsch. Auch konstruiert man einen solche Zusamenhang nicht mit den Klimamodellen.
+Ein zweites Beispiel folgt gleich unten auf Seite 24. Dort gibt er eine Formel aus NRC 2005 wieder und behauptet, damit wäre dort die Globaltemperatur definiert. Das stimmt aber offensichtlich auch nicht, denn in der Formel taucht nur die Abweichung der Temperatur bei Abweichung vom energetischen Gleichgewichtszustand auf. Mit dieser Formel ist die Gleichgewichtstemperatur nicht bestimmbar.
+Ich habe ja lange geglaubt, daß man mich mit solchen Behauptungen veräppeln will, aber nun glaube ich eher, daß sie solchen Stuß wirklich auch selber glauben. Anders kann ich mir nicht erklären, wie das auch noch in einem ernstgemeinten Dissertationsversuch auftauchen kann.
+Schade, daß Sie ausgerechnet einen Link auf die Datenkrake GOOGLE gesetzt haben. Diese Firma wird von mir und allen, die noch etwas vom Datenschutz halten gemieden wie der Teufel das Weihwsser meiden soll.
+https://youtu.be/xgGrhWKd8oA

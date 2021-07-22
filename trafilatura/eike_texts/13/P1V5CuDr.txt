@@ -1,0 +1,135 @@
+Diese Geschichte fand ich auf WeatherZone.
+Da ich [es war, der vor zwei Jahren] die Daten der Gezeiten aus Fremantle, in einer aktuellen Peer-Review-Arbeit untersuchte (Parker, 2016), überprüfte ich sofort, ob sich die gemessenen Daten geändert hatten, um eine solche Behauptung zu begründen.
+Ich habe daher die relativen Meeresspiegeldaten von Fremantle in Australien – die besten Pegelmessungen des Indischen Ozeans, erneut heruntergeladen.
+Wie in folgender Abbildung 1 gezeigt, lassen die PSMSL-Daten, die heute am 6. Juni 2018 von https://www.psmsl.org/data/obtaining/stations/111.php heruntergeladen wurden, ungefähr dieselbe Anstiegsrate und dieselbe Beschleunigung vermuten.
+Abbildung 1 (oben) Fremantle, relativer mittlerer Meeresspiegel. Lineare und parabolische Fittings der PSMSL RLR Daten, wie sie vorhanden sind oder Lücken aufgefüllt.
+(unten) PERT (Perth) GPS-dome [Kuppel, … ~Antenne – nicht mein Fachgebiet, aber offensichtlich handelt es sich um GPS gestützte Bojen, der Übersetzer]. Bild reproduziert und modifiziert von SONEL [Link unten erläutert]
+Mit dem Datumsbereich Januar 1897 bis Dezember 2016 beträgt die relative Steigerungsrate +1,67 mm / Jahr und die Beschleunigung ist 0,006 mm / Jahr 2 (die üblichen wenige Mikrometer pro Jahr im Quadrat).
+Da die Vollständigkeit des Datensatzes 92% beträgt, habe ich beschlossen, die Lücken zu füllen, indem ich die Daten desselben Monats aus benachbarten Jahren interpoliere. Auf diese Weise berechnete ich eine relative Steigerungsrate von +1,70 mm / Jahr und eine Beschleunigung von +0,005 mm / a 2.
+Erwähnenswert ist, dass die Anstiegsrate des Meeresspiegels in Fremantle geringer ist, als die wahrscheinliche Rate des Absinkens des [GPS-gestützten Bojen-] Messinstruments, da SONEL für die nahe gelegene GPS-Kuppel von PERT (Perth) eine Senkungsrate von -2,09 ± 0,38 mm / Jahr berechnet .
+(Analyse in www.sonel.org/spip.php?page=gps&idStation=812),
+und im ähnlich nahen GPS von HIL1 (Hillarys), wo eine noch größere Senkungsrate von -2,78 ± 0,31 mm / Jahr gemessen wird
+(Analyse in http://www.sonel.org/spip.php?page=gps&idStation=1918).
+Das Perth-Becken ist tatsächlich Subsidenz ausgesetzt (Featherstone, Penna, Filmer & Williams, 2015; Featherstone, Filmer, Penna, Morgan & Schenk, 2012), und der Meeresspiegel steigt hier [scheinbar] weil das Land absinkt.
+[Subsidenz(Geologie), die großräumige Eintiefung eines Bereichs der Erde durch tektonische oder thermische Vorgänge. de.wikipedia]
+Daher, nichts Neues aus den Messungen.
+Was ist also die Neuheit?
+Bei der heutigen Analyse habe ich erneut die PSMSL- und die SONEL-Websites besucht und herausgefunden, wie die „adjustocene“ [Wortspiel: Manipulieren und Justiz] in den IPCC Projekten voranschreitet.
+- PSMSL verbindet nicht mehr die Fremantle-Gezeitenmessung-Information mit der SONEL-Seite der PERT-GPS-Dome.
+- SONEL, berechnet [per Computer] den absoluten Meeresspiegelanstieg durch Korrektur der relativen Steigerungsrate aus der Gezeitenmessung mit der Senkungsrate aus der GPS-Überwachung. Die absolute Anstiegsrate für Fremantle wird nicht mehr dargestellt.
+Wenn man sich die Bilder von Abbildung 2 unten anschaut, mit dem gleichen Zeitfenster für die Online-Grafik, ist der negative absolute Meeresspiegelanstieg von Fremantle, ähnlich wie der negative absolute Meeresspiegelanstieg einer japanischen Flut, verschwunden. [also Absenkung]
+Abbildung 2– Absolute Meeresspiegelanstiegsraten (relative Meeresspiegelanstiegsrate von der Pegelmessung, absolute vertikale Landbewegung (Geschwindigkeit) von Satelliten-GPS) in den Welt Tide-Messungen mit theoretisch gleichen Daten 1900 bis 2013, vor und nach Fremantle wurde eliminiert. Bilder sind reproduziert und modifiziert von SONEL, www.sonel.org .
+(oberes) Bild heruntergeladen am 6. Juni 2018.
+(unteres) Bild von Parker (2016).
+Das unbequeme Ergebnis für Fremantle wäre von den IPCC Wissenschaftlern nicht akzeptiert worden.
+Weitere Änderungen können entdeckt werden, wenn auch weniger offensichtliche.
+In vielen Regimen verschwinden Dissidenten. In der Klimadiktatur leiden unbequeme Daten unter der gleichen Behandlung.
+An australischen Universitäten, von Murry Shelby bis Bob Carter, von Peter Ridd bis zu mir selbst, sind Akademiker, die die politisch gewollten Geschichten nicht unterstützen, einfach gezwungen, auf die eine oder andere Weise wegzugehen oder gar nicht erst anzufangen, wie Björn Lomborg. Ich glaube nicht, dass irgendjemand innerhalb der australischen Universitäten erklären wird, dass der Meeresspiegel in Fremantle seit 1897 ohne signifikante Beschleunigungskomponente gestiegen ist, und in den nächsten 8 Jahren könnte der Meeresspiegel im Durchschnitt nicht einmal um 25 Millimeter, sondern nur um 16 Millimeter steigen …
+References
+Featherstone, W., Filmer, M., Penna, N., Morgan, L. & Schenk, A. (2012). Anthropogenic land subsidence in the Perth Basin: Challenges for its retrospective geodetic detection. Journal of the Royal Society of Western Australia, 95(1), pp.53-62.
+Featherstone, W.E., Penna, N.T., Filmer, M.S. & Williams, S.D.P. (2015). Nonlinear subsidence at Fremantle, a long‐recording tide gauge in the Southern Hemisphere. Journal of Geophysical Research: Oceans, 120(10), pp.7004-7014.
+Parker, A., (2016), The Sea Level Rate of Rise and the Subsidence Rate Are Constant in Fremantle, American Journal of Geophysics, Geochemistry and Geosystems, 2(4):43-50.
+https://files.aiscience.org/journal/article/pdf/70170032.pdf
+Erschienen auf WUWT vom 07. Juni 2018
+Übersetzt durch Andreas Demmig
+https://wattsupwiththat.com/2018/06/disappeared-tide-gauges-showing-negative-absolute-sea-level-rise-removed-from-data-base/
+Herr Fred F. Mueller,
+#####################
+beim technischen verständlich haben manche Leute eben ein kleines Problem.
+So, die Satellitenmessung und die Messung an Pegelstationen sind zwei vollkommen unterschiedliche Messverfahren und Messsysteme, da können nicht bis hinters Komma die selben Ergebnisse rauskommen.
+Pegelstationen betrachtet nur genau diesen Punkt und bei Satellitenmessung werden ganze Regionen aus und sind in der Genauigkeit in der Fläche wesentlich präziser.
+Währen die Messungen der Pegelstationen und der Satellitenmessung genau gleich hätte ich da leichte zweifel das dies zutreffen kann.
+Einfaches Beispiel, es werden genau 2000m mit den Bandmaß gemessen und anschließend mit einem Lasermessgerät und beide Endpunkte sind genau gleich, da sage ich das kann nicht sein.
+Übrigens Herr Herr Fred F. Mueller,
+als Quellenangabe sollt man nicht die eigenen Veröffentlichungen auflisten.
+Das spielt doch alles keine Rolle, das gleicht sich doch in Summe wieder aus, oder Sind Sie der Meinung das bei einigen Messstationen nur bei Westwind und bei anderen nur bei Ostwind gemessen wird.
+Sind Sie der Meinung das nur dann gemessen wird wenn die Meeresströmung passt, als so ist das man einen höheren Pegel aufschreiben kann.
+Bringt aber alles nichts, ist ja nur ein Einmaleffekt.
+Herr Rainer Küper,
+Sie haben ziemlich abenteuerliche Vermutungen.
+Was ausschlaggebend ist was macht der Durchschnitt aller Pegelstationen und der Satellitenmessung und da geht der Meeresspiegel nach oben.
+Schreiben Sie sich bei einer Technischen Universität ein und absolvieren Sie ein technisches Studium mit dem klassischen Abschluss als Diplom-Ingenieur.
+In 5 Jahren sprechen wir uns dann wieder.
+Herr Werner Mueller,
+Ihre Aussagen in Ehren. Haben Sie sich aber nie Gedanken gemacht, warum es ungenau sein soll, den Meerespegel direkt am Meer an der Küste zu messen, die Messung aber ganz genau wird, wenn man aus 100 km Entfernung vom Satelliten die wenigen mm Änderungen misst? Bei auch nur rudimentärsten Kenntnissen der physikalischen Messtechnik sollten einem da sofort die Alarmglocken klingeln.
+Und haben Sie auch nie nachgesehen, wie oft anhand der Satellitenmessungen ganz neue Erkenntnisse gewonnen werden, weil wieder ein Forscher(Team) neue Fehler in den Daten entdeckt und auf einmal richtig korrigiert hat.
+Eine Küste wird ausschließlich durch den Pegel an seiner Küste beeinflusst. Was ein Satellit als Mittelwert aus einem Kreis von 100 km mit allen Wellen und Gravitationsbuckeln nach endlos vielen, teils heuristischen – und an Küstenpegeln orientierten – Korrekturen als wahrscheinlich ermittelt, interessiert dort nicht. Und die Küstenpegel zeigen natürlich einen Anstieg, aber einen natürlichen von unter 2 mm/pa und keine beunruhigende Beschleunigung.
+Das ist doch vollkommen normal das bei der Landvermessung, Erdvermessung die Messmethoden ständig verfeinert werden um die Genauigkeit zu verbessern.
+Da macht die Vermessung der Meereshöhe keine Ausnahme.
+Der Mount Everest wurde schon mehrfach vermessen.
+Doch je nachdem, welche Messung man sich ansieht, schwanken die Höhenangaben zwischen 8.844 und 8.850 Metern.
+Der Grund dafür ist, dass es sehr unterschiedliche Methoden gibt, die Höhe eines Berges zu messen, das trifft natürlich auch auf die Meereshöhe zu.
+Entscheidend ist doch wenn man sich z.B. das Messsystem Pegelmesstationen ansieht, steigt da der Meeresspiegel längerfristig oder nicht.
+Das ist ist auch entscheidend bei der Satellitenmessung, wie sind das verändert.
+Es gibt und gab ja bereits 3 Satelliten wo sich auch die Messungen zeitlich überschnitten haben und bei allen drei Satteliten geht der Meeresspiegel nach oben.
+Seit 1993 ist der Meeresspiegel im weltweiten Durchschnitt jährlich um etwa drei Millimeter angestiegen. Die nun gemessene Beschleunigung könnte dazu führen, dass der Anstieg im Jahr 2100 zehn Millimeter pro Jahr beträgt. Das berichtet die Forschergruppe um Steve Nerem von der University of Colorado in Boulder in den „Proceedings“ der US-Nationalen Akademie der Wissenschaften („PNAS“).
+https://www.tagesschau.de/ausland/meeresspiegel-101.html
+Ihrer Mount-Everest-Logik zufolge, hätte der Wert des globalen Meeresspiegels eine Meßtoleranz von 6 Metern.
+Der tatsächliche Wert des globalen Meeresspiegels läge also z. B. zwischen 0 Meter und +6 Meter, oder z. B. zwischen minus 3 Meter und plus 3 Meter.
+Was stimmt denn nun? Ihre toleranzfreie Meßgenauigkeit im 1/10-mm-Bereich oder Ihre Mount-Everest-Meßtoleranz von sechs Metern? Was sagt Guugel dazu?
+Herr Rainer Küper,
+Sie haben immer noch nicht verstanden das verschiedene Messmetoden zu unterschiedlichen Ergebnissen führt.
+Speziell beim Mount-Everest sind unter anderen Luftdruckmessverfahren angewendet worden und die sind eben nicht so genau wie z.B. Satellitenmessungen.
+Luftdruckmessverfahren werden z.B. noch in der fliegerei eingesetzt aber nicht bei der Meeresspiegel Beobachtung.
+Interaktive Karte zur Abfrage der Pegel weltweit und Pegelveränderungen in der Vergangenheit.
+https://searise.correctiv.org/de/explore
+Da können Sie die einzelnen Pegelstände abfragen und wenn Sie die mit den Pegelstände und Tendenzen und Entwicklungen der Wasserhöhen von „Correktiv“ und vom Bundesamt für Seeschifffahrt und Hydrographie vergleichen sehen Sie, das die Angaben von „Correktiv“ nicht ideologiegetrieben sind sondern den Tatsachen entsprechen.
+Die Pegelstände steigen Weltweit tendenziell an.
+Meeresspiegels Pegel Bundesamt für Seeschifffahrt und Hydrographie:
+http://www.bsh.de/de/Meeresdaten/Vorhersagen/Wasserstand/Meeresspiegelschwankungen/Meercux.jsp
+und welche Schlussfolgerung wollen Sie daraus ziehen, dass der Meeresspiegel ansteigt? Weder die Pegelmessung noch die Satellitenaltimetrie liefert Ihnen irgend eine Begruendung.
+es ist immer wieder extrem amüsant, wenn Leute hier was schreiben, zu dem ihnen offensichtlich die notwendigen wissenschaftlichen und technischen Kenntnisse fehlen.
+Man kann diesen Leuten nur empfehlen sich mal damit zu beschäftigen, mit welcher Methodik die Höhe des Mount Everest gemessen wurde, der bekanntlich weit im Landinneren Asiens in Nepal. Ist nämlich gar nicht so einfach die Höhe innerhalb eines Kontinents auf den mm genau zu bestimmen. Der hat wahrscheinlich noch nie gesehen, wie beispielsweise die Straßenhöhen bestimmt werden.
+mfg
+TH
+Ja der Meeresspiegel steigt.
+Interaktive Karte zur Abfrage der Pegel weltweit und Pegelveränderungen in der Vergangenheit.
+https://searise.correctiv.org/de/explore
+Da gehen die Wasserstände tendenziell nach oben.
+Durch die Plattentektonik u.s.w. manche extrem nach oben aber auch welche nach unten, nur in Summe steigt der Meeresspiegel.
+Aus Erdgeschichtlicher Sicht gab und gibt es ja immer Veränderungen, nur ist die Geschwindigkeit und die 7 bis 11 Milliarden Mensch auf der Erde ist ein Problem.
+Die Anzahl der Erdbevölkerung wird zunehmen und die Landfläche wir kleiner werden.
+Sind nur 1 Milliarde Menschen auf der Erde unterwegs sowie um ca. 1800 ist das kein Problem wenn man einige Millionen Quadratkilometer unter gehen.
+Ihre Entscheidung, die „überflüssigen“ Menschen zu vernichten, ist grundlegend falsch.
+Wer ist denn der schuldige für die Erhöhung der, nach Ihrer Meinung, bedrohlichen Meeresspiegelerhöhung? Ich denke mal, auch nach Ihrer Meinung, das anthropogen erzeugte CO2.
+Oder?
+Genau das scheinen die Experten nicht zu befolgen .
+Man könnte Ihnen zu leicht auf die Schliche kommen
+Die Daten ermöglichen nicht nur einen Blick in die Vergangenheit – sie zeigen auch, wie sich die Pegel in Zukunft wahrscheinlich entwickeln werden.
+https://searise.correctiv.org/de/#main
+das angeblich objektive „Correktiv“ vertritt aggressiv die Theologie vom „katastrophalen menschengemachten Klimawandel“. Deren Berichte zu diesem Thema sind nicht fakten-, sondern ideologiegetrieben. Die hübschen Animationen sind nichts als der Zuckerguss über dem giftigen Inhalt. Und die Herrschaften sind nicht etwa altruistisch, sondern lassen sich von Spendengeldern der Klimaindustrie bezahlen. Ein reiner Propagandaverein.
+Mfg
+Schon mal versucht herauszufinden, wer die Autos finanziert? Auch meist die Banken. In meinem Fall haben die allerdings nie finanziert, denn per Barzahlung waren die billiger …
+Genau so vertrauenerweckend wie Greenpeace.
+Anerkennenswert! Dahinter steckt Wissen und Geld.
+Was man mit Geld für einen Unfug machen kann.
+Das sieht echt professionell aus, nur leicht daneben, neben der Realität.
+Egal, aber gut gemacht.
+So gut, dass man es einfach glauben muss.
+Der Glaube versetzt Berge.
+Man kann es ja sehen.
+haben Sie meine Berichte über die bewussten Pegel-Falschdarstellungen von Correctiv – die man bezüglich Seriosität mit der DUH gleichsetzen kann – nicht gelesen?
+https://tinyurl.com/Correcktiv-Betrug-Manila-Pegel
+https://tinyurl.com/Correctiv-Betrug2
+https://tinyurl.com/Correctiv-Betrug1
+Dann würden Sie das hier wohl nicht so publizieren. Oder Sie fanden Fehler in meinen Darstellungen – dann her damit.
+– Topex, Jason-1, Jason-2: Satellitenmessprogramme (+-0,4mm/Jahr)
+diese Satellitendaten wurden bei EIKE bereits mehrfach als Fake entlarvt, weil sie nicht mit den Realitäten der Pegelstationen übereinstimmen. Siehe auch den Kommentar von Hr. Herbst etwas weiter untern.
+Mfg
+Ein globaler Meeresspiegel als Solitärwert ist nicht ermittelbar. Die Erde ist nicht ideal-rund. Die Ozeane schwappen hin und her. Dort steigt der Wasserspiegel. In anderen Ozeanbereichen fällt er. Meeresströmungen und Windeinflüsse verändern die Höhe des Wasserspiegels. Es wird punktuell gemessen. Die Toleranzen des Meß- und Auswertegeschehens sind ungleich Null. Temperaturkompensationen, Luftdruckverhältnisse und Signallaufzeiten sind zu berücksichtigen. Das Ganze wird mit Hilfe komplizierter, mathematischer Verfahren verwurstet, die sich Menschen ausgedacht haben und die damit zwangsläufig nicht fehlerfrei sein können.
+Fazit: Der „Globale Meerespiegel“ ist das Ergebnis toleranzbehafteter Messungen einer räumlich und zeitlich in Bewegung befindlichen, kartoffelähnlichen Oberfläche mit Hilfe menschengemachter Auswertemethoden, die fehlerbehaftet sind. Was soll man von solchen Ergebnissen halten?
+Sie haben völlig recht mit ihrer Kritik. Den globalen Msp gibt es so wenig wie eine globale Mitteltemperatur, und seine Berechnung ist mit noch viel mehr Unsicherheiten behaftet als diese. Näheres z.B. hier Ab Seite 101.
+„Die wissenschaftliche Expertengruppe der Vereinten Nationen, die sich mit den Folgen des Klimawandels beschäftigt, hat 2007 für dieses Jahrhundert einen Anstieg des Meeresspiegels um 18 bis 59 Zentimeter vorhergesagt“ Quelle: https://www.senatspressestelle.bremen.de/detail.php?gsid=bremen146.c.24417.de&asl=bremen146.c.25714.de
+Das wären 2 bis 6,34 mm Anstieg pro Jahr. Eine genial genaue Vorhersage des Meeresanstiegs und dem, was man tun muß.
+Meine, eigentlich zu beinahe jedem Artikel passende, Meinung
+Was die Politik hören will, liefern die ,am Subventionstopf hängenden, Wissenschaftler.Und die , die das Sagen haben, (da kann Jeder seiner eigenen„Verschwörungstheorie“anhängen) sagen den Politikern,was die hören sollen wollen.Egal was! Ob steigende Meeresspiegel, steigende Temperaturen, steigende Emissionen bei stetig sinkenden Grenzwerten. Es ist wie beim Limbatanz ., die Stange wird immer tiefer gelegt, bis eine Einhaltung der Vorgaben nicht mehr möglich ist. Das wird dann als verantwortliches Handeln den Bürgern und Wählern vermittelt.
+Zitat von Ernst August Prinz von Hanover der sagte
+„Professoren, Huren und Tänzerinnen kann man überall für Geld haben. Sie gehen dorthin, wo man ihnen einige Groschen mehr bietet.“
+Vermutlich tat er den Tänzerinnen bitteres Unrecht.
+aber besser macht es das auch nicht
+Alle Pegelstationen weltweit als Graph und mit Anstieg / Absenkung pro Jahr finder man auf sea-level.info. Das schönste Beispiel für den Pazifik findet sich auf Hawaii/Honolulu. Anstieg in 118 Jahren: 25 cm. = 1,48 mm/Jahr.
+Ich denke das ist eher Wortspiel auf Adjust und Holoscene. Also dem Aktuellen Zeitalter des Adjustierens.
+Sonst wäre wohl Adjustice treffender.
+Da werden doch hoffentlich keine »Enten« zu »Braten« geworden sein …
+1. Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+2. Ich musste jede Menge Steuerzeichen aus Ihrem Text entfernen. Bitte anderen Browser verwenden.

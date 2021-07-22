@@ -1,0 +1,124 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Siliziumkarbid: die Rettung der „verbrannten“ Lithium-Technologie?" author="Axel Robert Göhring" date="2019-10-22" source="https://eike-klima-energie.eu/2019/10/22/siliziumkarbid-die-rettung-der-verbrannten-lithium-technologie/" hostname="eike-klima-energie.eu" excerpt="von AR Göhring Selbst die Propheten des menschgemachten Klimawandels lehnen Elektroautos mit Lithium-Batterien wegen der unsozialen Abbaubedingungen und der technischen Probleme als Ersatz für fossile Brennstoffe ab. Nun melden verschiedene Medien, daß Siliziumkarbid für die Steuer-Elektronik die Lösung sein könnte." categories="Energie" tags="" fingerprint="jlIpBw0DSzw2ggl4T5pkTRZu5ds=">
+  <main>
+    <p>Nicht mißverstehen: Die Akkumulatoren sollen weiterhin aus Lithium-Salzen bestehen. Ändern soll sich die Zusammensetzung der elektronischen Platinen in der Steuerung eines Elektro-Autos. Der kleine Elektronik-Fan weiß, daß Halbleiter-Bauteile wie Trans-Widerstände (Transistoren) meist aus dotierten Halbmetallen wie Silizium, Germanium oder Gallium bestehen. Die Fremdatom-Dotation erzeugt „Elektronenlöcher“ oder -„Berge“ im Material, die dafür sorgen, daß das Halbmetall als Mikroschalter eingesetzt werden kann; die Grundvoraussetzung für Rechenvorgänge.</p>
+    <p>Nun soll laut Zuliefer-Firma Bosch verstärkt Siliziumkarbid (SiC) als Halbleitermaterial in den Schaltplatinen für die Leistungselektronik von Elektroautos eingesetzt werden, da das Material größere Einsparungen erlaube und somit die Reichweite der Teslas &amp; Co. deutlich erhöhe.</p>
+    <quote>
+      <p>„Mit einer Batterieladung können Autofahrer so sechs Prozent weiter fahren.“</p>
+      <p>„SiC-Halbleiter werden die Elektromobilität nachhaltig verändern.“</p>
+    </quote>
+    <p>Sagt Bosch. Ein Leser meinte einmal in unserem Kommentarbereich, daß der E-Golf seiner Tochter rund 180 km tatsächliche Reichweite habe. Machte knapp elf Kilometer mehr Reichweite mit SiC. Na super, das macht den Unterschied.</p>
+    <p>Was machen Siliziumkarbid-Schaltungen besser als herkömmliche? Da die Umwandlung des Akku-Gleichstromes in Wechselstrom für die Elektromotoren mit hohen Spannungen und Stromstärken geschehe, müssen die Schaltungen gekühlt werden. Die elektrische Leitfähigkeit von SiC sei größer, dadurch könnten die Trans-Widerstände öfter schalten und entwickelten weniger Abwärme. Man spare durch das Karbid also viel Kühlungs-Aufwand.</p>
+    <p>Der kritische Leser und Technikfan weiß den Fortschritt deutscher Ingenieurskunst wohl zu würdigen; allein, ein Quantensprung ist die SiC-Technik sicher nicht. 6% mehr Reichweite sind irrelevant, sowohl für den Käufer wie auch für „das Klima“, sofern man an die Theorie glaubt. Die zahlreichen Grundprobleme behebt die Karbid-Technologie in keinster Weise, als da wären: natur- und menschenschädlicher Abbau des Lithiums, ewige Ladezeiten der Akkus, hohes Gewicht der E-Autos, geringe Energiedichte der Akkus im Vergleich zu Benzin/Diesel, Stromgewinnung aus Windrad-Zappelstrom (bzw. Kernkraft und Kohle, für die grüne Fraktion). Fazit: Die Siliziumkarbid-Technologie lindert die Kinderkrankheiten der Akkutechnik nur ein bißchen und ist eher als PR-Aktion von Bosch &amp; Co. zu verstehen. Mich überzeugt das nicht.</p>
+  </main>
+  <comments>
+    <p>Die meisten E-Autos starten doch von zuhause mit einer vollen Akku von der eigenen PV ist dich das günstigste.</p>
+    <p>Schnellladen, nachladen unterwegs das ist sagen wir mal an 2 bis 5% aller Fahrten nur nötig.</p>
+    <p>Heute muss man da die Tankstelle fahren beim E-Auto werden so manche E-Fahrzeuge über Wochen über Monate keine E-Tankstelle besuchen.</p>
+    <p>Klar wenn Sie Nachtschicht arbeiten. Dann hängen Sie Ihre Karre morgens an die hauseigene PV-Anlage und wenns nicht gerade den ganzen Tag regnet oder schneit ist abends der Akku voll. Und wie siehts beim großen Rest der Erwerbstätigen aus?</p>
+    <p>Jede Menge an Rentner und Hausfrauen haben auch Autos unter Umständen auch E-Autos.</p>
+    <p>Der große Rest fährt nur durchschnittlich 36km am Tag die Akku schafft 200 bis 400km.</p>
+    <p>Der große Rest der Erwerbstätigen arbeitet an ca. 220 Tagen in Jahr und an ca. 154 Tagen nicht, man muss nicht jeden Tag den Akku auflagen.</p>
+    <p>Für was müssen 1 Mio Schnellladesäulen gleichzeitig Strom liefern? Die 40 Mio Herde werden auch nicht gleichzeitig angeschaltet, nicht mal 10% davon.</p>
+    <p>//Antwort:</p>
+    <p>Wenn 10 Mio E-Fahrzeuge zugelassen sind und man eine Ladeinfrastruktur für 10% zeitgleiche Schnellaufladung vorhalten will braucht man 1 Mio Ladesäulen. Simple Mathematik</p>
+    <p>Durchschnittlich werden 40km pro Tag gefahren, d.h. durchschnittlich alle 9 Tage geladen, wenn man eine Batteriegröße 75kWh annähme. 150kW ist (wenn überhaupt) nur in einem kleinen Bereich der Ladekurve möglich – deswegen ist man auf langer Strecke mit kleinen kurzen Pausen auch schneller. Das Tesla Model 3 (75kWh) kann nur 10 Minuten bei 150kW laden.</p>
+    <p>//Antwort:</p>
+    <p>Hören Sie auf mit Ihren sinnlosen Durchschnittswerten!! Der Dorfteich ist im Mittel nur 1 m tief, trotzdem ist die Kuh versoffen… Der LEISTUNGSBEDARF lässt sich eben nicht aus dem Mittelwert des Energieverbrauchs ermitteln sondern stellt immer einen Augenblickswert dar an dem sich die Ladeinfrastruktur technisch orientieren muss. 0,16 h x 150 kW = 24 kWh! Ein Witz, wenn das die tolle „Schnelllademobilität“ sein soll. Nur eine weitere „Mobilitätslüge“….</p>
+    <p>Für die angenommenen 1 Mio mal 150kW müssten also zufällig 2% der (hypothetischen) 47 Mio eAutos mit großen Batterien die gleichen 10 Minuten treffen (&lt;0.2% Zeitabdeckung wenn 8..17Uhr betrachtet wird). Das gilt aber nur, wenn jeder Fahrer ein Fahrzeug mit großer Batterie fährt. Das halte ich schon für arg konstruiert.</p>
+    <p>//Antwort:</p>
+    <p>Also ist die „Schnellladung“ nur auf 10 Minuten begrenzt und das nur bei &lt; 2% der Autos! Hört sich aber gaaaanz anders an als die tolle Werbung in Sachen Reichweiten die man sonst so lesen kann! Ein weiterer Mobilitätsbetrug also. Schnellladung und große Batterien sind also nur für eine Minderheit der E-Autos vorgesehen, eine andere Schlussfolgerung lässt Ihre Aussage nicht zu. Ohne mich!</p>
+    <p>Ich glaube auch nicht, dass 1 Mio Schnellladesäulen benötigt werden, sicherlich nicht einmal 5% davon. Mit den oben angenommenen Fahrzeugen (75kWh Batterie, um überhaupt 150kW Schnellladen zu können) ist bereits eine Strecke von 350..400km problemlos möglich, d.h. ein Schnellladen im Wesentlichen für Strecken darüber wichtig.</p>
+    <p>//Antwort:</p>
+    <p>75 kWh an der Haussteckdose = 75kWh / 3,7 kW = 20 h Ladezeit. Für 350 – 400 km Reichweite! Unter optimale Bedingungen natürlich, Batterie -5°C kalt und Fahrten mit Heizung und Licht, dann bleiben bestenfalls &lt; 200 km Reichweite übrig. Unzumutbar, dazu muss man mich zwingen, freiwillig niemals.</p>
+    <p>Hersteller wie VW haben auch bereits jetzt schon Fahrzeuge mit größerer Batterie für 2021 in der Pipeline, um den "Bedürftigen" auch hier einer längere Tagesstrecke ohne Schnellladen zu ermöglichen.</p>
+    <p>//Antwort:</p>
+    <p>Guter Mann, größere Batterien == längere Ladezeiten oder mehr Schnellladesäulen. Was denn jetzt ? Die Physik überlisten oder doch nur eine ggüb. heute eingeschränkte Mobilität akzeptieren?</p>
+    <p>Wenn man von "Vollelektrifizierung des Personenverkehrs" spricht, so bewegt man sich auch so aufs Jahr 2045..2050 zu, da die Übergangsdauer bei fiktiven 100% eAutos in der Neuwagenflotte bereits ca 15 Jahre dauern würde. In dem Fall wäre auch Zeit und finanzieller Anreiz da, um z.B. ein Batteriewechselsystem oder Brennstoffzellefahrzeuge für kilometerleistungsstärkere Fahrer anzubieten.</p>
+    <p>//Antwort:</p>
+    <p>Und am Ende, wie immer, Spekulationen auf die Zukunft, 2050 sind alle Gesetze der Physik überwunden, bis dahin fahre ich aber lieber weiter mit dem Verbrennungsmotor…</p>
+    <p>Haben Sie schon mal an einer Tankstelle Schlange gestanden? Nein, Sie waren nie in der DDR.</p>
+    <p>Meine 2% haben Sie, glaube ich, auch etwas falsch verstanden. Ich bin von der fiktiven „Worst Case“ ausgegangen, dass jedes Auto in Deutschland mit 150kW superchargen könnte. Dann wären Ihre 1 Million am Supercharger etwa 2% davon. Im Schnitt bräuchten aber, wenn all diese Fahrzeuge nur superladen würden, nur 0,2% gleichzeitig einen Schnelllader. Also nicht Schnellladen für wenige, sondern für alle.</p>
+    <p>Die aktuellen Werte für das Nachladen von Reichweite sind 120km im 5 Minuten, bzw. 200km in 10 Minuten. Der Supercharger kann anfangs mit 250kW und nach 10 Minuten noch mit 150kW laden. Bei aktuellen Elektroautos ist es günstig mehre kleine Stopps einzulegen (vgl. Fiktive Reise in Kommentar vom 24. OKTOBER 2019 UM 22:29).</p>
+    <p>Die Reichweite für 75kWh Model 3 ist nach WLTP 530km. Testverbrauch (Autozeitung, Bild) ist 460km. Reichweite bei 120km/h und 10°C: 410km, Reichweite bei 120km/h und 0°C (Model 3 auf Minusgrade durchgekühlt, Test nextmove): 350km. Meine Angaben waren nicht für optimale Bedingungen – da war schon alles mit drin.. Im übrigen weiß ich nicht, wie Licht ein markanter Verbraucher werden soll.</p>
+    <p>Größere Batterie = bessere Belastbarkeit an den Superchargern möglich. Ein Akku muss nicht immer schnellgeladen werden / vollgeladen sein / leergefahren werden. Ich bewege mein Auto in der Regel um 40..70% mit Laden an der Steckdose – außer ich weiß, dass ich eine längere Strecke fahre. Bei spontanen Trips hilft der Supercharger (bzw. bei mir 10..15 Minuten beim IKEA). 20h Laden an der Steckdose ist also auch eher selten und daneben zwar nicht problemlos, aber prinzipiell bei einem 23h-Stehzeug möglich.</p>
+    <p>Die unüberwindbaren physikalischen Gesetze (jenseits „simpelster Mathematik“ die am Elektroherd scheitert) müssen Sie mir nochmals zeigen. Ein Glück, dass beim Verbrennerboom um die vorletzte Jahrtausendwende bereits schon alle Tankstellen, Pipelines und befestigten Straßen standen. Nicht auszudenken, was passiert wäre, wenn man mit Apotheken und Destination-Tankstellen an Hotels und Gaststätten oder mit schwer verletzten Armen durchs Kurbeln gestartet wäre..</p>
+    <p>Wo der Deutsche erstmal 20 Jahre plant, bevor man in den Markt geht, hat er dann auch was zu jammern wenn andere schneller im Vermarkten sind.</p>
+    <p>E-car fährt mit Strom aus der Steckdose!Der Hammer:Es kostet nur 5000€!</p>
+    <p>Allerdings schlägt die Verlängerungsschnur mit 30000€ zu Buche!</p>
+    <p>Und eine Ladung 1000€….:-)</p>
+    <p>Nehmen Sie als Beispiel Winglets für Flugzeuge. Die sparen gerademal 4% Sprit ein, und dennoch werden sie genutzt, weil oft auch wenige Prozente and größerer Effizienz einen Unterschied machen können.</p>
+    <p>Flugzeuge mit Strahlturbine erfüllen ihren Zweck – billig viele Menschen schnell und weit zu transportieren. Verbesserungen machen den Flieger noch billiger.</p>
+    <p>E-Autos erfüllen ihren Zweck, das „Klima zu retten“ oder so, niemals. Verbesserungen einerr Totgeburt sind sinnlos.</p>
+    <p>„Transwiderstände“ ist nicht sinnvoll, sondern „Transistoren“. Diese werden hier als Schalter eingesetzt.</p>
+    <p>„Elektonenlöcher oder -Berge“: Die Dotierung erzeugt freie Elektronen oder Elektronenmangel (Fachbegriff: Löcher); beide Arten können einen Strom ermöglichen. „Elektronenberge“ gibt es nicht.</p>
+    <p>Wie schon weiter oben angegeben, darf SiC wesentlich heißer werden als Silizium (wohl 500 °C statt 200 °C), was eine weniger aufwändige Kühlung gestattet. Aber Verlustleistung ist das trotzdem.</p>
+    <p>Je höher die Schaltfrequenz ist, desto höher ist generell die Verlustleistung (die Begründung lasse ich mal weg). Mag trotzdem sein, dass sich günstiger Resultate erreichen lassen. Allerdings ist mir nicht bekannt, dass es in nennenswertem Umfang SiC-Schaltungen gibt oder Thema wäre. Preisvergleich? Lebendauer/Ausfallhäufigkeit?</p>
+    <p>Germanium ist in der Leistungselektronik wenig sinnvoll, da nur 90 °C zulässig sind. Gallium wird in Verbundhalbleitern eingesetzt, z. B. GaAs (LEDs, Transistoren), ist schneller und gestattet etwas (!) höhere Temperaturen, ist aber auch teuerer.</p>
+    <p>In Gansefüße gesetzt, um Verwechslung mit Fachbegriffen zu vermeiden. Wir nutzen die Eingaben unserer Leser als Infoquelle. Schwarmintelligenz</p>
+    <p>https://lite.qwant.com/?q=Sliziumkarbid+Leistungselektronik</p>
+    <p>Wie der Wasserstoff.</p>
+    <p>„menschenschädlicher Abbau des Silizium“ Silizium wird in Sandgruben abgebaut.</p>
+    <p>„ewige Ladezeiten“ die Ladezeit eines Akkus beträgt ohne Wasserkühlung durchgehend 30..60 Minuten (vgl C-Rate) unabhängig von der Akkugröße. Gekühlt sind je nach Chemie 4-6C für etwa die Hälfte des Ladezykluses möglich.</p>
+    <p>„hohes Gewicht der E-Autos“: ein 4- bis 6-Zylinderaggregat mit Doppelkupplungsgetriebe und Ansaug- sowie Abgasstrang wiegt etwa soviel wie eine Batterie mit 150km Reichweite und entsprechendem Elektromotor mit Elektronik und Einganggetriebe. Das Gewicht ist im Gegensatz zum Verbrenner auch kein Verbrauchstreiber.</p>
+    <p>SiC ist keine PR Aktion (so wie sie z.b. im tesla model 3 eingesetzt wird), nur wurde in der falsche Teil der Pressemitteilung betrachtet: SiC kann höhere Temperaturen aushalten. Damit ist die Entwärmung einfacher und benötigt weniger Material – damit schrumpft die Leistungselektronik + Gehäuse – damit ist der Einbau flexibler und bis zu 10 Liter mehr Platz für die Batterie – damit lässt sich auch mehr aus dem Magnetkreis des Motors herausholen. Laderegler ließen sich leichter ins Ladekabel verstecken und Ladestationen werden kleiner und leichter.</p>
+    <p>Deutsch (Lesen / Rechtschreibung): 6</p>
+    <p>Chemie (Schnelladung von Akkus): 6</p>
+    <p>Mathematik (Vergleich Autos mit 150km und 1000 km Reichweite): 6</p>
+    <p>Physik (Gewicht spielt bei E-Autos keine Rolle usw.): 6-</p>
+    <p>Aber vielleicht können Sie ja mal ein Viedeo verlinken, in dem Sie Ihren Namen tanzen.</p>
+    <p>MfG</p>
+    <p>Mathematik 6 (Wertebereich Deutscher Schulnoten unbekannt bzw ignoriert)</p>
+    <p>Deutsch 5 (Argumente nicht ausgeführt, Herleitung unklar)</p>
+    <p>Gewichtsabhängigkeit des Verbrauchs: Eine Suche nach Messungen z.B. von Hr. Dirk Uwe Sauer (2015) oder des Center Automotive Research (2017) hilft. Zuladung von bis zu 300kg hat nicht zu merklicher Verbrauchssteigerung geführt (+0,6% beim Tesla). Ab 60km/h überwiegt der mit der Geschwindigkeit quadratisch zunehmende Luftwiderstand.</p>
+    <p>150km/1000km Reichweite: Mag sein, dass es Personen mit einer Reichweitenanforderung von über 100’000km per anno gibt. Für viele ist aber 300..500km ausreichend (zusätzliches Batteriegewicht zu meinem Verbrennervergleich: ca. 200kg) – vor allem, wenn innert 5 Minuten 100km, bzw innert 30 Minuten 350km geladen werden kann.</p>
+    <p>Schnellladung von Akkus: von verfügbaren Teslas sind 4C als Spitzenladegeschwindigkeit bekannt, bis zu 6C ist in der nächsten Generation vorgesehen. Constant Voltage – Constant Current Charging ist mir ein Begriff. Gerne freue ich mich auf eine detaillierte Ausführung Ihrerseits, auch als Einzel- oder Gesellschaftstanz im „Viedeo“.</p>
+    <p>Freundlichste Grüße</p>
+    <p>Die 1000 km Reichweite beziehen sich auf eine Fahrt, irgendeine Jahreszahl sehe ich da nicht. Z.B. Frankfurt-Riviera. Wenn bei einem E-Auto 150 km Reichweite draufsteht, dann kommen Sie damit vielleicht 80 km weit. Mir ist allerdings kein normales E-Auto mit einer solchen Reichweite bekannt. Das Akkupaket eines EGolfs wiegt 350 kg, Schnellladung hat der aber nicht.</p>
+    <p>Der eGolf kann in 30 Minuten von 10% – 70% laden (40kW) – das ist für meine Anwendungen ausreichend. Der Verbrennerantriebsstrang des Golf wiegt 100 kg Verbrennermotor (1.6l) + 40..70 kg (Doppelkupplungs)Getriebe + 20 kg Abgasstrang + 50 kg Tank. Kardanwelle, Startergenerator etc. nicht mit berücksichtigt.</p>
+    <p>Durchschnittlich werden 40km pro Tag gefahren, d.h. durchscnittlich alle 9 Tage geladen, wenn man eine Batteriegröße 75kWh annähme. 150kW ist (wenn überhaupt) nur in einem kleinen Bereich der Ladekurve möglich – deswegen ist man auf langer Strecke mit kleinen kurzen Pausen auch schneller. Das Tesla Model 3 (75kWh) kann nur 10 Minuten bei 150kW laden.</p>
+    <p>Für die angenommenen 1 Mio mal 150kW müssten also zufällig 2% der (hypothetischen) 47 Mio eAutos mit großen Batterien die gleichen 10 Minuten treffen (&lt;0.2% Zeitabdeckung wenn 8..17Uhr betrachtet wird). Das gilt aber nur, wenn jeder Fahrer ein Fahrzeug mit großer Batterie fährt. Das halte ich schon für arg konstruiert.</p>
+    <p>Ich glaube auch nicht, dass 1 Mio Schnellladesäulen benötigt werden, sicherlich nicht einmal 5% davon. Mit den oben angenommenen Fahrzeugen (75kWh Batterie, um überhaupt 150kW Schnellladen zu können) ist bereits eine Strecke von 350..400km problemlos möglich, d.h. ein Schnellladen im Wesentlichen für Strecken darüber wichtig. Hersteller wie VW haben auch bereits jetzt schon Fahrzeuge mit größerer Batterie für 2021 in der Pipeline, um den "Bedürftigen" auch hier einer längere Tagesstrecke ohne Schnellladen zu ermöglichen. Wenn man von "Vollelektrifizierung des Personenverkehrs" spricht, so bewegt man sich auch so aufs Jahr 2045..2050 zu, da die Übergangsdauer bei fiktiven 100% eAutos in der Neuwagenflotte bereits ca 15 Jahre dauern würde. In dem Fall wäre auch Zeit und finanzieller Anreiz da, um z.B. ein Batteriewechselsystem oder Brennstoffzellefahrzeuge für kilometerleistungsstärkere Fahrer anzubieten.</p>
+    <p>„…Zuladung von bis zu 300kg hat nicht zu merklicher Verbrauchssteigerung geführt…“</p>
+    <p>Komisch, bei meinem (Benzin-) Auto macht es einen merklichen Unterschied, ob ich allein oder mit vier weiteren Personen im Wagen fahre.</p>
+    <p>Vielleicht gelten beim E-Auto aber andere physikalische Gesetze?</p>
+    <p>Im Ernst: Wenn man mit konstanter Geschwindigkeit fährt, ergibt sich logischerweise kein merklicher Verbrauchsunterschied. Im realen Verkehr (bremsen, anfahren) sieht das ganz anders aus!</p>
+    <p>„…Spitzenladegeschwindigkeit bekannt, bis zu 6C…“</p>
+    <p>Möglich, aber das ist die Sicht vom Auto aus.</p>
+    <p>Wie sieht das aus der Sicht der Ladeinfrastruktur aus?</p>
+    <p>Sand ist SiO2. Silizium ist überall. Dennoch ist die Herstellung von Siliziumkarbid aufwändig. Man stellt es zur Zeit nur in Asien her, da die Umweltauflagen einen Prozess hier in Europa zu teuer gemacht haben. Die Kohlenstoffbilanz von Siliziumkarbid ist gruselig. Eine komplette Sackgasse, wenn sie mich fragen.</p>
+    <p>Sie schreiben eine Zuladung würde bei einem Tesla nur zu 0,6% zur Verbrauchssteigerung beitragen. Ab 60 km/h würde der Luftwiderstand zuschlagen. Wo um Himmels Willen haben sie Physik gelernt? Natürlich geht das Gewicht des Fahrzeuges in diese Luftwiderstands Zunahme mit ein. Es ist die zu bewegende träge Masse. Keine Ahnung was genau Herr sauer und das CAR da gemessen haben, aber es wird die Physik nicht auf den Kopf stellen, da bin ich sicher. Warum wohl verbrauchen SUVs mit der gleichen Maschine mehr als die entsprechenden Limousinen. Bis ca. 60 km/h ist alles ziemlich gleich, genau wie beim Tesla. E-Autos können die Masseträgheit und den Reibungswiderstand nicht überwinden, noch nicht.</p>
+    <p>Vergleicht man Fahrzeuge gleichen Typs, E/Diesel/Benziner, so ist das E, je nach Batterie immer schwerer. Gleiches Gewicht erreichen sie nur, wenn sie die Reichweite drastisch beschränken und eine kleine Batterie nehmen.</p>
+    <p>150 km Reichweite sind für viele vollkommen ausreichend, da haben sie Recht. Für viele aber nicht. Ich fahre häufig 600 km eine Tour. Mit E-Auto undenkbar, weil es kaum Stationen gibt, die mir 100km in 5 oder auch 10 Minuten geben. Wird es auch in absehbarer Zeit nicht geben, denn die Investition in die fetten Kupferkabel, die man für solche Stationen benötigt, sind äußerst heftig.</p>
+    <p>Sollten wir wirklich auf E-Mobilität mit 20 Millionen PKW kommen, wird definitiv weltweit das Kupfer knapp. Die fummeligen Kabel, die heute überall liegen, reichen für solche Belastungen nicht aus. Damit sind wir dann auch bei der Schnellladung von Akkus. Alles wunderbar, alles sehr teuer, alles sehr von stabilen Netzen abhängig, von Strom im Überfluss und von dicken fetten Kupferkabeln. Überall.</p>
+    <p>Da bin ich mal gespannt.</p>
+    <p>„Natürlich geht das Gewicht des Fahrzeuges in diese Luftwiderstands Zunahme mit ein.“ können Sie nochmal kurz die Formel für den Luftwiderstand nachschauen? Wo ist da die Massenabhängigkeit genau? „Wo um Himmels Willen haben sie Physik gelernt?“</p>
+    <p>SUVs verbrauchen gerade im Vergleich zu Limousinen deswegen mehr, weil sie einen schlechten Luftwiderstand haben. Je länger die Luft entlang der Längsachse eines Körpers zum ablösen hat, desto weniger Wirbel werden abgelöst, desto weniger Energie wird dissipiert, desto kleiner der Luftwiderstand (vgl. Widerstandsbeiwert einer Halbkugel und eines Tropfens). Daneben ist die projizierte Fläche beim SUV größer und auch die größere Bodenfreiheit wirkt sich negativ auf die Luftreibung aus.</p>
+    <p>Für 550..600km – z.B. Ruhrpott nach Berlin -wäre aktuell nur ein Model 3 mit 350..400km praktikabel. Dazu gibt es alle 170km oder weniger einen Supercharger – Deutschlandweit sind es aktuell 1500 Ladepunkte über 100kW, davon ca 400 Tesla-Supercharger. Auf dem 5,5..6stündigen Weg müsste 2x je 12 Minuten schnellgeladen werden (entspricht jeweils ca. 150..200km).</p>
+    <p>„Vergleicht man Fahrzeuge gleichen Typs, E/Diesel/Benziner, so ist das E, je nach Batterie immer schwerer.“ Die Frage ist aber dann: will der Nutzer lieber die Außenmaße eines Golfs mit 20% mehr Kofferraum, mehr Beinfreiheit als ein Tiguan und spritzigem Ansprechen, wenn er dafür 1..2% seiner Reichweite opfert?</p>
+    <p>„mit 20 Millionen PKW […] wird definitiv weltweit das Kupfer knapp“: Laut Studie der International Copper Association (ICA) werden die 27 Millionen Elektroautos und -Busse im Jahr 2027 die weltweite Produktion des Kupfers um etwa 6% steigern. Knapp ist anders.</p>
+    <p>Die Investitionen in die Kupferkabel sind im Vergleich zu den Kosten der Erdarbeiten und der Station vernachlässigbar.</p>
+    <p>Mittelfristig werden sich höhere Spannungsniveaus (vgl. Porsche und Toyota) durchsetzen. Diese benötigen bei gleicher Leistung weniger Kupfer.</p>
+    <p>Das Gewicht, das Sie transportieren, bestimmt auch die Energie, die Sie datür benötigen, solange es Reibung gibt. Die Naturgesetze gelten auch für E-Autos . Fahren Sie ein E-Auto?</p>
+    <p>spätestens, wenn Sie mit einem E-Auto bergauf fahren, spielt die Masse (vulgo Gewicht) eine Rolle.</p>
+    <p>Spätestens wenn ich damit wieder herunterfahre, bekomme ich von der für das Zusatzgewicht notwendigen Vortriebsenergie einen Großteil (60..70% bei Reku) bis fast alles (alles außer Rollreibungsanteil beim Ausrollen) wieder zurück. Wie bei Frau Langer angegeben ist der Rollreibungsanteil ab ca. 60km/h kleiner als die Luftreibung.</p>
+    <p>Ja, ich fahre ein Elektroauto als einziges Fahrzeug und bin damit auch regelmäßig 120km täglich gependelt.</p>
+    <p>Abfahrt 2,3km, gleichmässige 4-5% Gefälle, Rekup.-Gewinn: 700m, nach Anzeige. Ich finde ein schlechtes Geschäft (Fahrzeug E-Niro).</p>
+    <p>Gruss D. Sauerwald</p>
+    <p>genau diese Antwort habe ich erwartet! Um beim Bergabfahren die Rekuperation machen zu können, müssen Sie aber zuerst mal den Gipfel erreichen, sonst erfolgt die Rekuperation im Rückwärtsgang.</p>
+    <p>„…Mich überzeugt das nicht.“</p>
+    <p>Mich als Techniker auch nicht!</p>
+    <p>Da aber hier oftmals viel Wert auf Genauigkeit gelegt wird: „…ein Quantensprung ist die SiC-Technik sicher nicht…“</p>
+    <p>Doch, ist sie, wenn man an die eigentliche, ursprüngliche Bedeutung denkt.</p>
+    <p>Ja ich weiß, Quantensprung ist ein „Autoantonym“.</p>
+    <p>Tja, aus Sicht der Menschen ist der Quantensprung winzig. Aber sehen Sie es mal aus der Sicht des Elektrons….</p>
+    <p>Danke Herr Göhring. Ja, ein Perspektivwechsel eröffnet zuweilen</p>
+    <p>neue Horizonte.</p>
+    <p>War glaub ich von Max Planck</p>
+    <p>„menschenschädlicher Abbau des Siliziums“</p>
+    <p>sollte nicht an Stelle von Silizium Lithium stehen?</p>
+    <p>Weil Silizium doch als Oxid im Sand reichlich und leicht verfügbar ist.</p>
+    <p>Richtig! Danke, verbessert.</p>
+    <p>Dreckfuhler. Lithium war gemeint</p>
+    <p>Nichtsdestotrotz wird schon viele Jahre an Metall-Luft-Batterien geforscht. Manche sind Einwegzellen, manche wieder aufladbar. Wie z. B. die Eisen-Luft-Batterie, an der u. a. in Deutschland geforscht wird.</p>
+  </comments>
+</doc>

@@ -1,0 +1,151 @@
+Kohlen-zwei-Sauerstoff ist ein lineares Molekül und das schwächste bekannte Treibhausgas, das die Atmosphäre im Modell ein bißchen aufheizt. Im Modell – in der Atmosphäre ist der Treibhauseffekt immer noch nicht nachgewiesen. Klimaforscher behaupten zu beiden Phänomenen das Gegenteil.
+Daher verlangt die Brüsseler Regierung der Europäischen Union ab 1. Januar von europäischen Autoherstellern, sogenannte Flotten-Grenzwerte für Kohlendioxid einzuhalten.
+Limits für die wesentlich stärkeren Treibhausgase Methan oder Wasserdampf gibt es seltsamerweise nicht, obwohl ein Verbrennungsmotor mit jedem Molekül CO2 mindestens ein Molekül heißes Wasser ausstößt:
+2 C8H18 (Oktan, 100% Superbenzin) + 25 O2 → 16 CO2↑+ 18 H2O↑
+Hinzu kommt, daß „klimafreundliche“ Autos mit E-Motor und Lithiumakkumulator bei der Herstellung wesentlich mehr Kohlendioxid-Emissionen verursachen als eines mit Kolbenhubmotor. Aber egal, es geht ja ums Steuersäckel-Füllen, und nicht um die Rettung von irgend etwas.
+Wie sieht der Flottengrenzwert aus? Pro Kilometer darf das neu zugelassene Durchschnittsauto mit mittlerem Leergewicht von 1,392 Tonnen eines Herstellers 95 Gramm CO2 produzieren, und zwar in der gesamten EU plus Liechtenstein, Island, Norwegen. Hersteller von teuren und damit schweren Wagen wie Daimler dürfen etwas mehr emittieren; analog die preiswerten Hersteller mit leichteren Autos wie PSA. Damit soll der Verbrauch beim Fahren reduziert werden, da pro verbrauchtem Liter Benzin über 2 Kilogramm Kohlendioxid frei werden. Jedes neuzuzulassende PKW-Modell wird im Prüfstand getestet, bis 2017 nach dem NEFZ-Verfahren (Neuer Europäischer Fahrzyklus), heute nach dem WLTP1 (Worldwide harmonized light vehicle test procedure). Das WLTP1-Verfahren ist für die Hersteller ungünstiger, da erfahrungsgemäß höhere CO2-Werte gemessen werden.
+Da Elektroautos und Plugin-Hybride zumindest beim Fahren kein Kohlendioxid ausstoßen, sind sie rechnerisch günstig. Aber nur, wenn sie auch gekauft werden; was erfahrungsgemäß kaum geschieht, da die reichweitenschwachen (Teil-)Stromer, die man nur in Großstädten an wenigen Stellen laden kann, unbeliebt sind. Ohne Steuervergünstigungen der Regierungen will die elektrisch betriebenen Status-Symbole keiner haben. Es darf also mit happigen Rabatten für E-Fahrer gerechnet werden, die alle anderen bezahlen dürfen.
+Die strengen EU-Flottenwerte erreichte im letzten vollen Berechnungsjahr nicht ein Hersteller, da SUV-Geländewagen immer beliebter, und Dieselfahrzeuge, die weniger CO2 emittieren, unbeliebter geworden sind. Heißt: Auf alle Hersteller kommen wahrscheinlich 100Millionen-, oder gar Milliardenstrafen zu. Die Koreaner von Hyundai zum Beispiel müssen ein Viertel der Emissionen im Vergleich zu 2018 einsparen. Schafft ein Hersteller tatsächlich das verlangte Ziel von rund 95 Gramm CO2 pro Kilometer, bekommt er für 2030 gleich den nächsten Grenzwert aufgedrückt: noch einmal minus 37,5 Prozent Emissionen. Dafür müßte man wahrscheinlich komplett auf Stromautos umstellen, wie Volkswagen, was aber nicht möglich ist, da zumindest in Deutschland die volatilen Erneuerbaren Energien gar nicht genügend Kraft liefern; erst recht nicht 24 Stunden am Tag, sieben Tage die Woche, 365 Tage im Jahr. Ebenso ist nicht damit zu rechnen, daß es bis dahin eine ausreichende Anzahl Schnelladestationen mit 22kW und mehr geben wird.
+Heise.de rechnet daher mit einer Renaissance des Diesels, der mit seinen Katalysator- und Filtersystemen weniger CO2 ausspuckt als ein Ottomotor. Zudem werden die Hersteller „Mild-Hybride“ promovieren, deren offizielle Emission rechnerisch nur bei etwa 50 Gramm liegt. Zum Glück hat die Industrie hinter den Kulissen weitere Erleichterungen herausschlagen können. 1. So können sie die verbrauchstärksten 5% der verkauften PKW herausfallen lassen. 2. E-Autos und Pluginhybride zählen doppelt. 3. Stromsparende Einbauten wie LED-Scheinwerfer werden berücksichtigt. 4. Die Hersteller können Bilanz-Konglomerate bilden und sich gemeinsam veranlagen lassen.
+Ein pikanter Gedanke, den die Kollegen von Heise nicht vergessen zu äußern: Ein tonnenschwerer Akku-SUV, dessen Ladestrom zum Gutteil von Kohlekraftwerken kommt, geht mit „0“ in die Rechnung ein. Ein kleiner, leichter Polo oder Lupo mit Verbrenner hingegen, dessen Produktion schon weniger CO2 in die Atmosphäre bläst als die eines Dreitonnen-Teslas, schlägt hingegen voll zu Buche. „Perverse Auswüchse“, kommentiert der Heise-Redakteur. Recht hat er. Aber gut, was will man von einem bürokratischen Koloß wie der EU-Verwaltung und -Regierung erwarten, die nur den Interessen von Lobbygrüppchen dient, und die zudem demokratisch bestenfalls formal legitimiert ist?
+Alle aktuellen Handys werden schnell geladen und vertragen das mehr als 600 mal. Bei einer Reichweite von 300km entspricht das 180’000km nur Schnellladen – mehr als die durchschnittliche Kilometerleistung eines Autos. Elektroautos haben ein Thermomanagement mit Klimatisierung der Zellen und – im Gegensatz zum Mobiltelefon – aktuell noch viel Masse zum thermischen Ausgleich. Zumal die Schnelllader wohl eher in Ausnahmen (z.B. bei Strecken von durchgängig mehr als 250km) genutzt werden.
+Ich hatte meinen PKW-Akku schon mehrmals am Schnelllader bis 150kW. Das BMS regelt den Strom so, dass ein „um die Ohren fliegen“ ebenso wahrscheinlich ist, wie beim Explosionsmotor.
+Wenn man einem Tesla Fahrer fragt, so würde der erklären, dass das geschriebene so nicht stimmt. Es geht um 2 Anschlüsse (A und B) , nicht um 4. Wenn schon drei andere an 1A, 1B und 2A laden, dann erhält 3A immernoch die maximale Leistung. Wenn nicht, dann kommt es auf den Ladezustand des parallel Ladenden an, da die maximale Ladeleistung nur etwa 10 Minuten anliegt.
+Auch in den Anfängen des Verbrenners waren die meisten Tankstellen bei Hotels und Gaststätten.
+Die Stromzuteilung gibt es bei meiner Siedlung bereits. Gerne können auch Sie einen eAuto Fahrer fragen, ob er ein Problem damit hat, ob das Auto schon um 23 Uhr oder erst um 1 Uhr von 200km Reichweite auf 250km gekommen ist. Selbst bei Schnarchladern (um die es bei der Stromzuteilung nicht ging) sind über Nacht 200km wieder aufgeladen.
+Auf die ad hominem Argumente und der schönen Analyse meiner Persönlichkeit gehe ich nicht ein, das führt zu keinem sinnvollen Austausch. Ad hominem, Weglassen, simple Verallgemeinerungen und vermeintlich opferbezogene Kampfrethorik (bis zu „Schimpfkannonade[n]im Kneipen-Stammtisch-Stil“) führen in Foren zur Ablenkung statt zur Diskussion des Themas. Das nehme ich mir auch gern selbst zu Herzen und werde es vermeiden.
+Ich meine damit im übrigen nicht die Stromsperren. Für diese, sowie andere soziale, gesundheitliche und marktspezifische Aspekte (von Mietpreisen, Organhandel und den Arbeiter als Marktsklaven zu Wohlstandsspreizung, Konjunkturschwankungen und Monopolisierung) sehe ich aber in der freien Marktwirtschaft wenig Lösungen. Auch in Amerika haben etwa ein Drittel der Bevölkerung (und damit mehr als die letzten Jahrzehnte) Schwierigkeiten mit der Bezahlung der Energieversorgung trotz niedriger Kosten. Und das heißt nicht, dass ich eine Diktatur oder Sozialismus bevorzuge. Es gibt mehr als schwarz und weiß.
+[…] Doch kann diese enorme Summe von 17.000 Euro überhaupt stimmen? Offenbar ja: „Die Kosten für den Austausch der Batterie hängen davon ab, ob ein Austauschteil verbaut werden kann (Kosten ca. 8600 Euro) oder ein Neuteil (17.000 Euro) zuzüglich der Werkstattkosten (ca. 30 Arbeitswerte für den Austausch)“, sagt Daimler-Sprecher Dietmar Göllner auf Anfrage von FOCUS Online. […] (Quelle: Focus Online)
+Sie können ja gerne in 5 bis 6 Jahren noch einmal ihre Erfahrungen schildern. Mich persönlich würden diese interessieren.
+Für mich kommen E-Autos mit der aktuellen Batterietechnik absolut nicht in Frage:
+– durch die Produktion von Lithium-Ionen-Batterien für Elektroautos werden pro Fahrzeug ca. 17 Tonnen CO2 imitiert.
+– durch den Lithiumabbau in Südamerika für die Batterie eines (!) E-Autos werden bis zu 80.000 Liter Wasser vernichtet. Der indigenen Bevölkerung wird damit ihre Lebensgrundlage entzogen – und schon heute leidet diese enorm unter dem Lithiumabbau.
+– bis heute sind Lithium-Ionen-Batterien nicht wirtschaftlich recycelbar.
+Ein E-Auto ist Alles nur nicht ökologisch oder nachhaltig.
+Weiterhin ist bei anderen Herstellern der Tausch oder die Deaktivierung einzelner defekter Akkumodule möglich, was zu einem Bruchteil der Kosten führt.
+Die angegebene Wassermenge entspricht etwa 8 neuen Jeans oder 5kg Rindfleisch (halbe Scheibe Wurst pro Tag). etliche Quellen kommen mit 10..15kg Lithium (80kWh Batterie) aber nicht auf 80’000l, sondern eher auf unter 40’000l. 40’000l ist auch etwa die Menge an Rohöl, die in Sibirien jede halbe Stunde / Stunde aus den undichten Leitungen tropft. Ich bin aber auch dafür, dass die Bevölkerung – egal ob die Chanten in Sibirien oder die Atacameños – an den Gewinnen beteiligt werden muss. Bei Lithium ist das bei aktuellen Kosten von ca. 500 Euro pro Batterie (80kWh) für den Endkunden verschmerzbar. Und ob das Verdampfen von Wasser in einer Salzwüste (z.B. größtes Abbaugebiet Salar de Atacama: https://goo.gl/maps/WjCuYSj9UuuK1ZKG8) oder die Abklingbecken der Frackingreste in einem der größten Waldgebiete (Alberta: https://goo.gl/maps/jCMDYqvamdrLiH3c9) schlimmer sind?
+Die Produktion von großen Lithium-Ionen-Batterien (80…100kWh) liegen nach der „alten Schwedenstudie“ vermeintlich bei 17t CO2 und nach der neuen (2019) bei 7t. Dabei ist zu berücksichtigen, dass die energieintensiven Arbeitsschritte (Lithiumerz-Aufbereitung und Trocknung der Zelle) in den letzten Jahren verbessert wurden. Im Übrigen wurde hochgerechnet, dass 1 Liter Diesel mit dem Energieinhalt von 10kWh zur Produktion etwa 40kWh benötigt.
+Bis heute sind Gebäude, Straßen und CO2 nicht wirtschaftlich recycelbar, also lieber Alternativen suchen… Könnte bei Lithium – im Gegensatz zu den vorherig genannten – aber vielleicht auch ein bisschen an dem noch fehlenden Angebot an zu recycelnden Großbatterien liegen.
+„Ein Auto ist Alles nur nicht ökologisch oder nachhaltig.“
+, … wo doch auch die ESA weiss
+#
+#
+, es ist doch nur des Wassers Eis und Dampf was Klima treibt!
+Durch menschliche Aktivitäten haben sich die Atmosphäre und das Verhalten der wärmerhaltenden Elemente verändert. …
+… und kann atmosphärische Komponenten genauer verfolgen, insbesondere Wasserdampf- und Eiswolken.
+gefunden auf
+https://www.astronews.com/news/artikel/2019/09/1909-020.shtml
+Ergebnis: der E-Golf stößt bis 225tsd. Km mehr CO2 als der Diesel aus! Vorhin in der Tagesschau war es natürlich anders herum. Angeführt wurden auch die Kosten laut einer Grünen beauftragten Studie, die natürlich niedriger liegen als beim Kolben Auto. Natürlich wurde die 6000€ Kaufprämie mit eingerechnet, eine Restwert Betrachtung fand aber nicht statt!
+Wer kauft ein E-Auto mit 150tsd km auf der Uhr mit platten Batterien? Neue sind dann mehr wert als die Karre. Einen Diesel mit dieser Laufleistung konnte man bis vor … noch gut verkaufen. Also wieder Milchmädchen Rechnungen für doofe Bundesbürger.
+Herr Karsten Leibner,
+können Sie bitte den Vortrag von Herrn Sinn verraten wo ein E-Auto der Golfklasse mit einem Diesel neuster Bauart verglichen wird ?
+Zumindest die E-Auto Besitzer die ich kenne fahren größtenteils nicht mit dem aktuellen Strommix sonder mit Solarstrom der kostet denen um die 5 bis 10 Cent und beim aktuellen Strommix aus dem Stromnetz um die 28 bis 40 Cent/kWh.
+Da macht das laden mit dem aktuellen Strommix keinen Sinn,
+dass sollte Herr Sinn mal zur Kenntnis nehmen.
+Und Sie geben damit an anstatt den Grünen Verursacher zu brandmarken.
+Pfui
+Ich wünsche Ihnen von Herzen ein ordentlichen Blackout mit den schlimmsten Folgen. Dann können Sie ihre Solaranlage knutschen, so viel Sie wollen, es wird Ihnen nicht helfen.
+„E-Karren-Kumpels von allen Deutschen bezahlt wird“
+Da sind die E-Karren-Kumpels schauer als die anderen Deutschen.
+Hoffen wir für ihn, dass er im Inneren einem klugen Plan folgt und seine eitlen, zutiefst feigen und korrupten Schäfchen an den anderen Unis besser einschätzen kann.
+„Unsere“ Wissenschaft fabriziert nur Müll. Und fast keiner will kluge Fragen stellen.
+https://youtu.be/sVc3gsKiTaA
+Energiewende, Verkehrswende… das dicke Ende kommt noch.
+Ich weiß nicht, ob so etwas tatsächlich in Serie hergestellt wird, oder ob die Mühle selber gebastelt ist. Erinnert an den Trabi-Schrauber aus Leipzig, der in den 1980er Jahren den ersten (und letzten) E-Trabi baute. Fährt immer noch!
+Ich muß mal den Chef fragen, ob wir uns nicht so einen Hybrid „mit allem“ für EIKEs Fuhrpark zulegen können. Hätte was – als Negativ-Werbung.
+(Hinweis: Es gibt keinen EIKe-Fuhrpark. Als Klimaleugner schützen wir das Klima und mieten immer nur.)
+Und mir ist das mit den Preisen Sch… egal, denn ich tanke sowieso immer nur um 30.- € ! Hahahahaha
+– wenn wir Deutschen ab morgen alle nur noch Fahrrad fahren, reduzieren wir damit den globalen CO2 Ausstoß um 0,4 % auf 99,6 %
+– durch die Produktion von Lithium-Ionen-Batterien für Elektroautos werden pro Fahrzeug ca. 17 Tonnen CO2 imitiert.
+Warum dann die CO2 Steuer?
+Ganz einfach: Es kommen in den nächsten 10 Jahren geschätzte 60 Milliarden Euro (!) an Vermeidungskosten auf uns zu. Deshalb wird von der Bundesregierung händeringend versucht, die EUROPÄISCHEN Klimaziele einzuhalten, egal wie viel CO2 dadurch am anderen Ende der Welt ausgestoßen wird. Und für die drohenden Vermeidungskosten müssen wir langsam die Kollekte füllen.
+[…] Denn Deutschland ist nach der EU-Effort-Sharing-Entscheidung und der EU-Climate-Action-Verordnung rechtlich dazu verpflichtet auch im Non-ETS die Emissionen bis 2020 um 14 Prozent und bis 2030 um 38 Prozent im Vergleich zu 2005 zu senken. Von 2013 bis 2030 ist dazu für jedes Jahr ein Emissionsbudget festgelegt. In jedem Jahr, in dem das Budget überschritten wird, muss Deutschland aus anderen Ländern, die ihr Budget nicht ausgeschöpft haben Emissionsrechte zukaufen. Durch das Verfehlen der Ziele im Non-ETS könnten bei realistischen Vermeidungskosten von 100 Euro je Tonne bis 2030 Kosten von mehr als 60 Milliarden Euro auf die Steuerzahler zukommen. […] (Quelle: background.tagesspiegel)
+Zur Erklärung: ETS: europäischer Emissionshandel (Handel mit CO2 Zertifikaten). Non-ETS: nicht vom EU-ETS erfasste Sektoren wie Verkehr, Gebäude und Landwirtschaft.
+Dann braucht es auch die Steuer nicht!
+Jedoch haben wir – noch nicht – das Erdgas dazu
+und
+es kommt der Strom für die Stromer auch nicht von Wind und Sonne.
+Mehr als die Hälfte der Autos haben dort keine EU-kennzeichen und gar keine Plaketten!!!
+Also die gesammte Gesellschaft incl. Zulassungsbehörden verstösst gegen EU Recht zu Autos und Abgase! Und es stört keinen, incl. Brüssel!
+Man muss es also nur wollen und den Schwachsinn aus Brüssel ablehnen. Wenn aber alle geschlossen wie der DUH denken bzw. nicht gegen den Eisernen Griff der Grünen Pest handeln wollen, dann eben nicht.
+Im Mittelalter zurück wird die Mehrheit wohl aufwachen. Ich bin vorher weg.
+Können wir so einen Quatsch hier im Forum lassen?
+Genauso daneben wie die Forderung eines Hirnis neulich, Klima“leugner“ umzukloppen.
+Hat man hier eigentlich nicht nötig…
+Die von Ihnen zitierte Gegenseite nimmt es tatsächlich ernst. Hat man ja wieder beim korrupten WDR hören und sehen dürfen. Unsere Omis sind gefährlich. Davor fielen die gleichen Kommunisten beim WDR über die Polizei her. Wieviele von diesen Falschspielern sind zurückgetreten?
+Meine Worte hingegen, sind als eine Art Rückkopplung zu verstehen. Ich habe noch nie jemanden etwas Böses getan. Es soll die extrem kriminelle Geisteshaltung in Brüssel verdeutlichen. Das sind unfähige Verbrecher, die nur Wohlstand und Wohlfahrt zu zerstören wissen. EU-Recht ist wie einige hier bereits andeuteten, längst zu Unrecht geworden. Diese EU ist derart krank, es schützt die Verbrecher in zweierlei Weise. Der Kriminelle darf seine Tat begehen, ohne behelligt zu werden, vielfach, und nach der Tat wird das Opfer weiter verhöhnt und der Verbrecher im Grunde nicht bestraft. Haben Sie noch mehr Fragen?
+Der wirtschaftliche Schaden ist immens und wo sind die tollen und fähigen Chefs, mit profunden Wirtschaftskenntnissen, die das verhindern wollen? Sie? Mit Lachgas oder was?
+Wer sieht, dass Recht EINDEUTIG zu Unrecht wird und nichts tut, macht etwas falsch. Das ist in dieser EU längst der Fall. Deshalb freut es mich sehr, dass ein von so vielen unterschätzter Boris Johnson etwas fertig gebracht hat, was seine Feinde arrogant, dreist und intrigant nicht für möglich gehalten haben.
+In Brüssel, Berlin, Paris xxxxxxxx. Und Sie wollen denen Blumen schicken, wahrscheinlich. Anstatt einer Bestrafung. Of course.
+https://archive.org/stream/DasGegenteilIstWahrBandIUndBandIIFreimaurerischenCIANSAReligionEsoterikNewAgeOkk/Das-Gegenteil-ist-wahr-Band-I%20und%20Band%20II%20Freimaurerischen-CIA-NSA-Religion-Esoterik-New-Age-Okkultismus-Themen-Lug-und-Trug-L%C3%BCge-Betrug-List-T%C3%A4uschung#page/n969/mode/2up
+https://de.wikipedia.org/wiki/Installierte_Leistung#Installierte_Leistung_in_Deutschland
+etwa 20 GWel brach liegen, also nicht genutzt werden.
+Könnten doch von jetzt auf gleich etwa 80 mio. Tonnen CO2 eingespart werden, wenn man 10 GWel nur über Erdgas darstellen würde und auf die Braunkohle verzichten würde!
+Also soviel Tonnen einsparen würde wie der Autoverkehr im Jahr aufbringt.
+Was ja wohl von der Frau Merkel so geplant war!
+Was sich im Verkehrssektor sparen lässt sind doch nur Peanuts, und der demnächst teurere Preis für Benzin und Diesel ist ja dann nur Abzocke!
+Ich hoffe nur, daß der Schlafmichel so sehr in seinem Bett friert, daß er vom Zähneklappern endlich aufwacht und den Fenstersturz zu Prag in einer neuen Form aufführt. (Man würd ja noch mal träumen dürfen)
+Der Grüne Sozialismus der Merkel Regierung hat nur eine Zukunft für uns Deutsche…die Zukunft des Mangel und der ARMUT!
+– „CO2, das schwächste bekannte Treibhausgas“: es gibt schwächere Treibhausgase, z.B. verschiedene FCKWs
+– „in der Atmosphäre ist der Treibhauseffekt immer noch nicht nachgewiesen“: „First Direct Observation of Carbon Dioxide’s Increasing Greenhouse Effect at the Earth’s Surface“ (https://newscenter.lbl.gov/2015/02/25/co2-greenhouse-effect-increase/)
+– „[Die] Europäische[] Union [verlangt] ab 1. Januar […] Flotten-Grenzwerte für Kohlendioxid einzuhalten.“: Die Flotten-Grenzwerte sind bereits seit einigen Jahren einzuhalten, nur dass es ab nächstes Jahr langsam richtig teuer wird.
+– „[e]Autos [verursachen] bei der Herstellung wesentlich mehr Kohlendioxid-Emissionen [, als Autos] mit Kolbenhubmotor.“: Stimmt, aber wie sieht es über die durchschnittliche Lebensdauer aus? Stichwort: 42kWh Energieaufwand für 6 Liter Diesel (https://www.springerprofessional.de/elektromobilitaet/dieselmotor/endenergiebezogene-analyse-diesel-versus-elektromobilitaet/16673694)
+– „[eAutos werden] erfahrungsgemäß kaum [gekauft]“: eAutos werden erfahrungsgemäß kaum gebaut.. . Bisher werden interessierte Kunden überwiegend mit Wartezeiten von 9..11 Monaten von potentiellen eAutos abgehalten.
+– „Stromer [kann] man nur in Großstädten an wenigen Stellen laden“: es gibt seit 2019 mehr Ladestationen (mit einem oder mehr Anschlüssen) als Tankstellen. Tendenz: in 3 Jahren könnte es mehr Ladeanschlüsse als Zapfsäulen geben.
+– „Die strengen EU-Flottenwerte erreichte im letzten vollen Berechnungsjahr nicht ein Hersteller“: sondern zwei? Tesla? Renault?
+– „1. […] 2. E-Autos und Pluginhybride zählen doppelt“: Die meisten Rabatte gelten nur für 2020. Wie heise richtig geschrieben hatte, hat sich hier die Autolobby mit Sahnehäubchen durchgesetzt.
+– „Heise.de rechnet […] mit einer Renaissance des Diesels“: heise schreibt im Konjunktiv von einem kleinen Comeback.
+– „[…] komplett auf Stromautos umstellen [… ist] nicht möglich […, da] die volatilen Erneuerbaren Energien gar nicht genügend Kraft liefern [… und] eine ausreichende Anzahl Schnelladestationen mit 22kW und mehr [fehlt]“: VW geht davon aus, dass 70..95% der Ladungen mit 11kW oder weniger durchgeführt werden, davon 50% mit weniger als 4kW (Stand Dez 2019). Das deckt sich mit meinem Alltag. Mit dem Ansatz gibt es nicht wirkliche Showstopper bzgl. Stromerzeugung mit Erneuerbaren (und den bis mindestens bis 2035 laufenden Netzstabilisierungsanlagen).
+Im übrigen: Wenn schon vieles direkt und indirekt übernommen wird, warum wird dann nicht wenigstens die Quelle des heise Artikels angegeben?
+Wenn das bei heise Fachleute sein sollten, dann heißen Sie seit Neuestem: Lügenbaron.
+In der Oktanformel steckt ein Fehler (auch jetzt immer noch). Finden Sie ihn? Ich bin gespannt.
+„Tendenz: in 3 Jahren könnte es mehr Ladeanschlüsse als Zapfsäulen geben“
+An einer herkömmlichen Tankstelle ist ein Auto nach spätestens 5 Minuten betankt! Wenn alle batterieelektrisch fahren würden reichen eine Million e-Tankstellen nicht aus, weil der Ladevorgang selbst an Schnellladesäulen mindestens 2 Stunden dauert!
+Außerdem sind die örtlichen Netze vom Kabelquerschnitt gar nicht für diese Strommengen ausgelegt. Die kompletten Ortsnetze müssten erneuert werden.
+Kennen Sie eigentlich den Effekt, dass Akkus ihre Kapazität verlieren?
+Das bedeutet, dass nach spätestens 5 Jahren der Akku hinüber ist.
+Dann können sie für mehrere Tausend Euro einen neuen kaufen. Das sollten Sie in der Energieberechnung ebenfalls mit einbeziehen.
+Wandern Sie doch einfach nach Afrika aus. Dort können Sie ganz im Einklang mit der Natur leben.
+eine weiterer Aspekt: der Ladepunkt, den ich ansteure, darf nicht belegt sein,
+sonst addiert sich die Verweildauer und ich muss noch ’nen Kaffee mehr trinken.
+Gruss D. Sauerwald
+Ich sehe sie kennen sich bei Schnellladern aus: aktuell werden 350kW Schnelllader für den Langstreckenbereich ausgerollt. Bei Tesla sind es schon seit einiger Zeit über 200kW. Selbst den 2 Jahre alten eGolf bekomme ich mit einem 40kW Lader in gut unter zwei Stunden von 0 auf 100% voll.
+Zumal auf einer schnellen Langstreckenfahrt eher selten voll geladen wird.
+Ein Ladevorgang ist i.d.R. nicht von 0 auf 100%, sondern von 10..20% auch 80..100%, bzw. auf Langstrecke von 20% bis 50..60%. Fragen Sie einen Langstrecken-eAuto Fahrer wie lange er an einer einzelnen Ladesäulen verbringt, es werden nicht mehr als 15…20 Minuten sein. Jenseits der Langstrecke werden auch keine Schnelllader, sondern Schnarchlader von 3..11kW benötigt. Diese wäre dann in Parkhäusern, Firmenparkplätzen und überall dort, wo Autos 90% ihres Lebens stehen.
+Für das Übertag-/Übernacht-Laden sollen in den nächsten 3 Jahren keine großen Investitionen notwendig sein: so soll z.B. das Eon Netz nach Simulationen ohne großen Aufwand 2 Millionen Eautos vertragen.
+Auch komisch, dass bei keinem der bisherigen Fahrzeuge (eGolf seit 2014, Tesla seit 2012, BMW i3 seit 2014, die Zoe seit 2013) davon berichtet wird, daß alle Akkus heute „hinüber“ sind. Natürlich gibt es ein kalendarisches Altern – auf einer Skala von 8..15 Jahren. Der Verschleiß stellt sich auch nicht plötzlich auf der Fahrt zur Arbeit ein und vermasselt einen Termin-gefüllten Tag. Außerdem bedeutet das auch nicht, dass der Akku danach nicht mehr zu fahren ist, wie z.B. bei einem Defekt in Zylinderkopf oder Getriebe eines VerbrennerPKWs. Und was für einen reichweitentreibenden eAuto-Besitzer nicht mehr ausreicht, kann für einen innerstädtischen Fahrer noch genügend sein.
+Warum hier gerne Leute wahlweise in den Dschungel, nach Afrika oder auf die Bäume zurück empfohlen werden, ist mir unklar. Ebenso könnte man dies libertären, alternativen Personen nahelegen: kein drangsaliernder Staat an allen Ecken, keine grünversiften Lügenmedien, kein EEG, kein Ausländerproblem.
+Angemessen wären 500 KW Lader, die technisch möglich sind. Der Haken, 2 Autos würden 1 MW Leistung ziehen, 2.000 der komplette Block von Phillipsburg, der morgen abgeschaltet wird. Sie können auch gern mit 350 KW rechnen, dann sind es halt 3.000 Autos. Es sind hier über 40 Mio, eine Mio die gleichzeitig tanken eher die Regel als die Ausnahme.
+Da nun nicht nur Phillipsburg ausgeschaltet wird, werden Sie wohl in absehbarer Zeit die 40 KW-Dose nicht mehr betreiben können, und mit 2 KW nur dann die Haare föhnen, wenn die grünen Khmer ihnen dafür Strom zuteilen.
+Mein Mobil braucht keine Dose, kommt mit einem Kanister aus. Das schätzen knapp 80 Mio Deutsche, daher wird der Elektrospuk bald vorbei sein.
+Jede Schnelladung ist purer Stress für Akkumulatoren. Er sorgt dafür dass die Lebensdauer deutlich verkürzt wird. Laden Sie mal Ihren PKW-Akku mit so viel Strom. Der wird Ihnen um die Ohren fliegen.
+Fragen Sie mal einen Teslafahrer, wie viel Ladung verfügbar ist, wenn schon 3 andere am Laden sind. Bei vier Fahrzeugen braucht man dann mit den 200KW schon die vierfache Zeit!
+Googeln sie doch mal nach „tesla ladestation california“,da gibt auch sehr lustige Youtube-Videos dazu.
+Man könnte auch alternativ an jedem Ladepunkt auch ein Hotel errichten, um die Wartezeit zu überbrücken. Das schafft dann wenigstens Arbeitsplätze. So, wie eben im Mittelalter an den Pferdestationen die Wirtshäuser.
+Zitat Deutering: „Für das Übertag-/Übernacht-Laden sollen in den nächsten 3 Jahren keine großen Investitionen notwendig sein: so soll z.B. das Eon Netz nach Simulationen ohne großen Aufwand 2 Millionen Eautos vertragen.“
+Dann schauen Sie mal hier: https://bit.ly/368AAXO Das nennt man Stromzuteilung
+Zitat Deutering: „Warum hier gerne Leute wahlweise in den Dschungel, nach Afrika oder auf die Bäume zurück empfohlen werden, ist mir unklar.“
+Dass Ihnen das unklar ist war mir bewußt. Wenn alle Ihre Träume wahr werden sind wir in derselben wirtschaftlichen Lage wie große Teile Afrikas heute.
+Zitat Deutering: „kein drangsaliernder Staat an allen Ecken, keine grünversiften Lügenmedien, kein EEG“
+Wenn Sie heute die ÖffentlichRechtlichen mit dem Staatsfernsehen der DDR vergleichen, gibt es kaum noch Unterschiede. Grünversiften Lügenmedien stimmt also zum großen Teil. Wobei das Weglassen von Informationen noch der viel größere Part ist.
+Die Etablierten Altparteien der Bundesrepublik sind vergleichbar mit dem Antifaschistisch-demogratischen Block der DDR. Drangsalierung stimmt daher auch (EEG ist die schlimmste Drangsalierung)
+Und in den Schulen wird erzogen und umerzogen in Manier der Jungpioniere und FDJ.
+Die Kanzlerin war(ist) ja eine AgitProp-FDJ-Sekretärin. Entsprechend ist heute noch die Politik der Kanzlerin.
+Zitat Deutering: „kein Ausländerproblem”
+Das ist Ihre persönliche Meinung.
+Ich habe so den Eindruck, dass Sie zu der Kaste gehören, die auf Staatskosten oder Staatsnah gutes Geld verdient und Ihnen die ganze EEG-CO2Preis-Veggi-Bevormundung finanziell nichts ausmacht.
+Googeln Sie mal nach Stromabschaltungen in Deutschland, dann wissen Sie was ich meine. Einfach nur eine Schande für unser Land.
+Dafür gibt es – neben einer Besetzterkennung und der im Artikelbild dargestellten Anhänger Variante mit Range Extender oder Zusatzbatterie – weitere Lösungsmöglichkeiten. Eine attraktive Idee finde ich mobile Ladestationen mit eingebauter Batterie. Diese kann bei hinreichender Größe zumindest Stoßzeiten dämpfen.
+xxxxxxxxxxxxxxx
+Es ist unfaßbar. Der dreckige, Menschen verachtende Kommunismus, kommt durch die Hintertür, durch eine Handvoll Menschen, über Brüssel und Straßburg. Ein Verbrechen.
+Man führt Krieg gegen den Menschen, ohne jegliche Not. Einfach so.
+In Belgien zerstört man von 2018 bis 2025 ein Drittel des Autofuhrparks, erbarmungslos. Alles für das Klima.
+Was verstehen diese Volltrottel in Brüssel von Wissenschaft, vom Wetter, vom Klima? Null komma nix. Das ist nur eine hinterhältige, absolut dümmliche, zerstörerische Intrige. Das Klima ist nur Vorwand. Die sehr gut verdienenden Idioten lachen über den, der weniger gut verdient und verhöhnen uns.
+Hoffentlich wird diese Entscheidung zu einem erbarmungslosen Bumerang für diese xxxxxxxxxxxxx in Brüssel, Paris und Berlin.
+Katalonien will auf circa vier Millionen Autos jetzt eine Klimasteuer einführen. 22 Milliarden entzieht, stiehlt der spanische Staat den Bürgern zusätzlich und jährlich, wegen dem verdammten Klima. Das Geld landet dann nur auf sozialistischen, linken Parteikonten, welches wiederum nur dazu dient, die eigenen xxxxxxxxxxxxxx Truppen weiter am Leben zu halten. Eine Art Todesspirale. Fleiß und Arbeit lohnen nicht mehr.
+Wer nicht mitspielt wird diskriminiert, gegängelt, dessen Karriere zerstört und fliegt aus dem System. Hier wird eine linke Superdiktatur aufgebaut. Aber wozu? Die können außer stehlen und terrorisieren nichts. Jobs schaffen indem man bis gestern sehr gesunde Wirtschaftssektoren kaputt reglementiert? Welch eine Verhöhnung.
+Man kann seine Meinung mitteilen, aber der Beitrag ist thematisch und empathisch verwerflich.
+BITTE LÖSCHEN !
+Keiner wird persönlich angegriffen.
+Sollte man aushalten können.
+Wenn auf Antifa-Seiten direkt zur Gewalt aufgerufen wird, finde ich das viel schlimmer.

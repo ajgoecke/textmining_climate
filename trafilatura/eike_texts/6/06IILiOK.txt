@@ -1,0 +1,51 @@
+Reinhard Marx
+Wir betrachten wieder die Verbrennung von Cetan mit einem Luftüberschuß von 40 %, λ = 1,4, wie in meinen Beitrag „Stickoxide und der Dieselmotor (1)“ bereits gezeigt.
+Das Abgas enthält:
+_______________________________________________________
+75,3 %vol Stickstoff 73,4 %gew N2 1,251 g/l
+5,6 %vol Sauerstoff 6,3 %gew O2 1,429 g/l
+9,2 %vol Kohlendioxid 14,1 %gew CO2 1,977 g/l
+9,8 %vol Wasserdampf 6,1 %gew H2O 0,894 g/l
+0,08 %vol Stickstoffmonoxid 0,08 %gew NO 1,34 g/l
+100,0 % 100,0 % 1,22 g/l
+_______________________________________________________
+Seine Menge beträgt 18,1 Nm3/kg Kraftstoff oder 15,2 Nm3/l; es kann mit einer Dichte von ρ = 1,22 g/l bei Normalbedingungen (0°C und 760 Torr) gerechnet werden, allerdings ohne Wasserkondensation.
+Wenn jetzt die Betrachtungsweise einer spezifischen Emission von CO2 und NO je Kilometer eingeführt wird, wie es leider üblich geworden ist, müssen zunächst Fahrbedingungen festgelegt werden.
+Das Fahrzeug habe einen Verbrauch von 6.000 ml/100 km, dann werden je km 60 ml ( ̴50 g) verbrannt; diese ergeben eine Abgasmenge von 15,2 dm3/ml x 60 ml/km = 912 dm3/km, also einen knappen Kubikmeter, der 1,1 kg wiegt. Entsprechend den oben angeführten Gewichtsanteilen ergibt sich nun eine spezifische Emission je Kilometer von 156 g CO2 und 890 mg NO. Letzteres würde sich allerdings in der Kälte zu NO2 oxidieren, wodurch das Gewicht auf 1365 mg/km anwüchse. Das entspräche einer Emissionskonzentration von 1.230 ppm NO2 oder 800 ppm NO, wovon ja die Betrachtung ausgegangen war. Die Zahlen ändern sich entsprechend, wenn mehr oder weniger Kraftstoff je Fahrstrecke verbraucht wird.
+Bei dieser Rechnung wurde also angenommen, dass das Abgas bei 700°C etwa die 800 ppm NO enthält; die Angaben des TÜV-Essen sprechen aber von 600-800 ppm, was sowohl über- als auch unterschritten werden könnte. Ähnlich ungenau sind dann auch die obigen Angaben.
+Was bisher aber noch gar nicht berücksichtigt wurde, ist die Tatsache, dass NO mit abgefangenem Ruß im Partikelfilter des Abgassystems reagiert, denselben zu CO2 oxidiert, das Filter dabei reinigt und selbst zu Stickstoff wird – die Größenordnung dieses Einflusses ist mir momentan nicht bekannt. Wohl aber weiß man, dass die Harnstoffeinspritzung nach dem Partikelfilter (bei > 180°C) zu einer weiteren starken Herabsetzung des NO-Gehaltes führt; man kann nach einer solchen Behandlung mit 100-300 mg NOx/km rechnen. Die weitere Entwicklung der Harnstoffbehandlung lässt auf noch geringere Werte in der Zukunft hoffen, die in der Größenordnung von 50 mg/km liegen könnte (Prof. Koch, TH Karlsruhe).
+Statt 1230 ppm hätten wird nun also noch ca. 180 ppm und liegen damit um den Faktor 7 unter dem unbehandelten Abgas; dieser wird sich nochmals um das Vierfache verbessern lassen, so dass sich letztlich eine praktisch 30-fache Erniedrigung ergeben wird.
+Wenn zur Erreichung des vorgeschriebenen Immissionswertes von 40 µg/m3 früher eine Verdünnung um den Faktor 25.000 als erforderlich errechnet war, wird es jetzt nur noch etwa das 800-fache sein. Da die geforderte Immission bisher nur maximal um den Faktor 2 überschritten wurde, dürften die geplanten Nachrüstungen mit Hardware mehr als genug sein – die Verbesserung nur durch eine optimierte Software bestehender Motore wäre wahrscheinlich auch bereits ausreichend.
+Soviel zur Emission eines Dieselmotors.
+Es sei nun etwas zu den festgesetzten maximalen Grenzkonzentrationen der Schadstoffe gesagt.
+Der Immissionswert für NO2 von 40 µg/m3 wurde schon in meinem ersten Bericht als übertrieben tief bezeichnet.
+In der Zwischenzeit sind andere Berichte veröffentlicht, die die Gefährlichkeit von Stickoxiden (und auch Feinstaub) in der genannten Höhe in keiner Weise bestätigen und hundertfache (!) Konzentrationen noch für unbedenklich erachten (Prof. Köhler, Lungenfacharzt, vormals Präsident der Deutschen Gesellschaft für Pneumologie). Damit käme man in den Bereich der für NO2 aufgestellten MAK- oder, wie es jetzt heißt, AGW-Werte. Dieser betrug in Deutschland für NO2 bis zum Jahr 2004 noch 9.500 µg/m3. Die Bearbeitungskommission für solche Grenzwerte befürwortete damals, den Wert um eine Zehnerpotenz zu erniedrigen, also 950 µg/m3 zu fordern; allerdings war diese Zahl lange Jahre noch nicht rechtsverbindlich, erst 2014, also 10 Jahre später, erfolgte diese Einstufung endgültig – die Kommission hat es sich also nicht leicht gemacht und lange daran geforscht.
+In der Schweiz gilt immer noch ein hoher Grenzwert für MAK von NO2: 6.000 µg/m3.
+In den USA hat das EPA eine Immissionskonzentration von 100 µg/m3 festgelegt, wobei vereinzelte Stundenwerte bis zu 190 µg/m3 auftreten dürfen – auch in Deutschland sind kurzzeitige Erhöhungen bis 200 µg/m3 erlaubt. Insgesamt ist dort aber generell das 2½-fache gegenüber Deutschland erlaubt; das bedeutet, hätten wir auch diesen Grenzwert, gäbe es überhaupt kein Problem mit den Dieselabgasen in unserem Land !
+Ich hatte in meinem ersten Bericht gesagt, dass das unverdünnte und unbehandelte Abgas mit 0,08vol % NO und 9,2 %vol CO2 absolut toxisch sei, wenn man es einatmete. Ein Leser fand diese Bemerkung übertrieben – ich möchte dazu noch etwas ausführen:
+Ein Gehalt von 0,08 % NO würde in der Tat bei kurzer Exposition kaum gefährlich sein, wenn man den früher sehr hohen MAK-Wert und die Bewertung von Herrn Professor Köhler betrachtet. Anders ist es mit dem CO2; das aus der Lunge ausgeatmete Gas enthält etwa 4 % davon. Eine eingeatmete Luft mit 8 % CO2 wirkt in kurzer Zeit tödlich („erstickend“), so dass unsere 9,2 % wirklich sehr gefährlich sind, das Abgas muss schnell verdünnt werden, um in erträgliche Konzentrationen zu kommen. Diese liegen bei 9 g/m3 oder 0,7 %gew in Deutschland (MAK-Wert), so dass eine mehr als 10-fache Verdünnung schnell erfolgen muss, was aber kein praktisches Problem darstellt.
+Wenn in einem kleinen, unbelüfteten Raum sich viele Personen längere Zeit aufhalten, entsteht „dicke Luft“, man sagt, es fehle Sauerstoff und belüftet. Der Sauerstoff fehlt aber gar nicht, sondern es ist das ausgeatmete CO2 der Anwesenden, das das Wohlbefinden beeinträchtigt, und wird dann durch die Belüftung ausgetrieben.
+Könnte es nicht auch sein, dass in unseren Großstädten mit viel Verkehr und bei Windstille die „schlechte Luft“, die ja wirklich zu bemerken ist, mehr dem CO2 als allen anderen Beimengungen zuzuschreiben ist ?? Das CO2 riecht zwar nicht, was von anderen Verbrennungsrückständen aber doch zu sagen ist, auch wenn sie in unschädlichen Mengen vorkommen. Und CO2 kommt gleichermaßen von allen Verbrennungsmotoren, nicht nur vom Dieselmotor !
+Manche Verwaltungen von Großstädten, in denen die geographische Lage und eine ungünstige Wettersituation zu gesundheitlichen Problemen geführt hat, halfen sich dadurch, dass Fahrverbote dergestalt verhängt wurden, dass täglich abwechselnd Fahrzeuge mit geraden oder ungeraden Zulassungsnummern fahren durften – unabhängig von der Art und Größe ihres Antriebsmotors.
+Schluß-Bemerkung
+Armes Kohlendioxid !
+Erst schreit die halbe Welt, dass Du das Klima schlecht machst – Du seist ein „Klimakiller“ (eine Unmöglichkeit per se),
+im Gegenteil, Du ermöglichst das Pflanzenwachstum und beschleunigst es – und jetzt hänge ich Dir noch an, Du würdest die Luft in den Städten ungenießbar machen!
+Reinhard Marx
+Formal gilt also in Teilbereichen, dass der Grenzwert nach oben offen ist. Gerade bei Sprengungen und Dieseln unter Tage werden höhere Werte erreicht, die allerdings nicht mal gemessen werden. Letztlich stellt man spezifizierte Lüftung sicher.
+https://www.bgrci.de/fileadmin/BGRCI/Downloads/Vortraege_Veranstaltungen/150327_NOx_Expositionen_im_Tunnelbau.pdf
+Möglicherweise trägt auch der Schweizer Grenzwert dieser Sachlage Rechnung. Aus den obigen Einschränkungen geht formal hervor, dass seit Oktober 2017 der AGW für den Tunnelbau dem Standard entsprechen müsste, vermutlich ist man aber einer Neufestlegung nicht nachgekommen.
+Man sieht aber eine gewisse Schizophrenie, vor allem, wenn Epidemiologen mit sogenannten linearen Modellen arbeiten: Mortalität und Morbidität beginnt bei einer Konzentration von Null und geht linear nach oben. Tunnelbauer müssten also wegen der Stickoxide umfallen wie die Fliegen, selbst wenn sie sich vor Staub gut schützen.
+Das erinnert an die Strahlungsexposition: Am Arbeitsplatz gilt ein Grenzwert, beim Patienten ALARP und Risikoabschätzung, beim Lagern von freigemessenem AKW-Müll gibt es Aufstände, auch wenn man lange Zeit unterhalb der Exposition eines Ferienfluges bleibt.
+„Wenn zur Erreichung des vorgeschriebenen Immissionswertes von 40 µg/m3 früher eine Verdünnung um den Faktor 25.000 als erforderlich errechnet war, wird es jetzt nur noch etwa das 800-fache sein. Da die geforderte Immission bisher nur maximal um den Faktor 2 überschritten wurde, dürften die geplanten Nachrüstungen mit Hardware mehr als genug sein – die Verbesserung nur durch eine optimierte Software bestehender Motore wäre wahrscheinlich auch bereits ausreichend.“
+Dabei vergessen Sie aber, dass wir auch ohne den kompletten Autoverkehr in den Städten eine „Hintergrundbelastung“ von NO2 aus anderen Quellen haben. Im Winter sind das, wenn ich mich recht erinnere, 32 µg/m3 und im Sommer 20 µg/m3 , auch wenn wir alle Fahrrad fahren. Der Spielraum für das Auto mit Verbrennungsmotor ist also viel kleiner.
+Der Skandal und es ist ein Politik- und Medienskandal, kein Umweltskandal, ist, dass unsere Medien und die Politik beim Stickoxid 4 Punkte systematisch verschweigen (Meinungsmache durch Lückenpresse):
+1. Unsere Autos und die Luft in den Städten werden immer sauberer.
+2. Der Grenzwert für Stickoxide ist absurd niedrig.
+3. Würden die EU-Messregeln angewendet, gäbe es keine Grenzwertüberschreitungen.
+4. Fahrverbote sind deshalb völlig überflüssig, ja, sie sind durch NICHTS gerechtfertigt.
+mit 4 Punkten alles auf den PUNKT gebracht.
+Jedoch, die Politik wird es nicht weiter berühren, diese nur auf ihre
+Posten und „Kohle“ stieren. ( hier ist Kohle plötzlich unverzichtbar).
+Bald wird es heißen,
+..Leute spannt die Pferde ein, die „DEUTSCHE LUFT“ muss werden wieder rein.

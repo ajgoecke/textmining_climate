@@ -1,0 +1,366 @@
+Im Rahmen der im Jahre 2014 definierten Energiewende macht der Zubau an Windenergie im Konzert der alternativen Energien den überragenden Anteil aus (1):
+Solarenergie 2,5 GW (brutto)/a
+Windenergie onshore 2,5 GW (netto)/a
+Windenergie offshore 6,5 GW bis 2020 15 GW bis 2030
+„Sonstige“ (Biogas, etc.) rd. 100 MW (brutto)/a
+Der Zubau der Windenergie offshore für die Zeit nach 2030 ist noch nicht festgelegt. Angaben zum Leistungsangebot über konventionelle Stromerzeuger werden nicht gemacht.
+Aus diesen Angaben errechnen sich bis 2050 folgende Stromerzeugungskapazitäten:
+Aus diesen Zahlen wird der ungeheuere Ausbau an Kapazitäten für die alternativen Energien im Jahre 2050 deutlich: 283 GW bei einem Leistungsbedarf für Deutschland, der schwankend in der Regel zwischen etwa 40-80 GW liegt (vgl. später).
+Eingespeiste Stromleistung über Wind und Solar und erforderliche Stromspeicherung gemäß den angegebenen Nutzungsgraden des „Sachverständigenrates für Umweltfragen“ (SRU)
+Nach dem „Sachverständigenrat für Umweltfragen“ (SRU) wird der Nutzungsgrad (Leistungsäquivalent) der alternativen Energien im Sondergutachten von Januar 2011 wie folgt angegeben:
+Solar 14,9% Wind onshore 26,2% Wind offshore 49,4%
+Auf der Basis der „Energiewende 2014“ würde sich daraus eine eingespeiste Kapazität für die im Jahre 2050 installierten Leistungen über die alternativen Energien wie folgt errechnen:
+Zunächst bleibt festzuhalten, dass bei den vom SRU definierten Nutzungsgraden für Wind und Sonne die mittlere eingespeiste Leistung den Leistungsbedarf übersteigt. Dies wird aber im Folgenden nicht weiter diskutiert, da die Nutzungsgrade von Wind und Solar deutlich zu hoch angesetzt worden sind. In diesem Kapitel soll lediglich das Problem der unabdingbaren Stromspeicherung behandelt werden.
+Die mittlere eingespeiste Leistung über Wind und Sonne von 61,5 GW liegt größenordnungsmäßig etwa mitten im Bereich des Leistungsbedarfs in Deutschland zwischen etwa 40-80 GW, die „Sonstigen“ spielen eine untergeordnete Rolle, der verbleibende Rest bis zu der Spitzenleistung von 80 GW muß nach der „Energiewende 2014“ im Jahre 2050 über Erdgas beigestellt werden.
+Durch die Fluktuation der Wind- und Solarstromerzeugung ist das Leistungsangebot von 61,5 GW aber nur ein Mittelwert. In Wirklichkeit schwankt das Stromangebort über Wind und Solar in weiten Grenzen. Im Winter, wenn die Solarstromerzeugung gegen Null geht, bestimmt die Schwankung des Windstromangebotes die Grenzen des Leistungsangebotes (Bild 1; Gesamtleistung von März 2011 auf eine Stromleistung von 40 GW hochgerechnet), im Sommer die Wind- und Solarstromleistung (Bild 2). (2,3)
+Bild 1: Gesamtwindleistung von März 2011, hochgerechnet auf eine Stromleistung von 40 GW
+Aus Bild 1 wird deutlich, dass bei einem fluktuierenden Leistungsangebot über Wind zwischen 0 und 180 GW zur Erstellung einer mittleren Stromleistung von 40 GW (bzw. einer äquivalenten Strommenge) das über dem Mittelwert anfallende Leistungsangebot gespeichert und unterhalb des Mittelwertes wieder eingespeist werden muß- hier in Ermangelung von Stromspeichern 20 GW über Erdgas.
+Muß das Erdgas durch Stromspeicher ersetzt werden, errechnet sich im Mittel für den Tag folgende Speicheranzahl:
+20 GW x 24h = 480 GWh bzw. 480 GWh/8,4 GWh = 57 Speicher der Goldisthal-Größe
+(der 20 GW/1,05 GW x 24h/8h = 57 Speicher)
+Das größte deutsche Pumpspeicherwerk Goldisthal hat eine Leistung von 1,05 GW und kann diese Leistung über 8 Stunden liefern: 8,4 GWh (Kosten 600 Mio. € bei einer Bauzeit von elf Jahren).
+Natürlich scheidet der Bau von Pumpspeicherwerken in Deutschland aus. Da andere Stromspeicher wegen ihres niedrigen Wirkungsgrades und damit ihren hohen Kosten (z.B. „Power-to-Gas“) ausscheiden, wird im Folgenden zur Beschreibung des Ausmaßes der zu speichernden Strommenge der Goldisthalspeicher „quasi als Maßeinheit“ verwandt.
+Bild 2: Einspeiseleistung Wind+Solar, Kraftwerke größer 100 MW, Export-Import sowie Leistungsbedarf im April 2014
+Bild 2 zeigt das Leistungsangebot über Wind und Sonne sowie u.a.den Leistungsbedarf im Mai 2014 bei einer Stromerzeugung über die alternativen Energien von etwa 25%, die aber im Jahre 2050 dann im Zeitalter der „Dekarbonisierung“ (Verzicht auf die Verbrennung von Kohlenstoffträgern) definitionsgemäß 100% betragen muß, d.h.dass die hier sichtbaren Wind- + Solarspitzen mit dem Faktor 4 mal zunehmen sind. Aus dem Bild lassen sich dann Leistungsschwankungen zwischen 0 und 140 GW abgreifen, die im Zeitalter der „Dekarbonisierung“ nicht mehr über konventionelle Stromerzeuger ausgeglichen werden können (nebenbei sei bemerkt, dass die Netzkapazität in Deutschland bei etwa 80 GW liegt).
+Bei der weiten Spreizung der Stromleistungen über Wind und Solar um den Mittelwert ist der Ansatz der Speicherung der halben Leistung bzw. Strommenge für einen kurzen Zeitraum bei den Wetterverhältnissen in Deutschland in erster Annäherung gerechtfertigt. (Eine Rechtfertigung der Speicherung der halben Leistung wäre nicht mehr gegeben, wenn die Streubreite der Stromleistung aus Wind und Sonne näher um den Mittelwert schwanken würde). Für eine exakte Berechnung der Speicheranzahl müßte über einen längeren Zeitraum eine statistische Auswertung der Wetterverhältnisse in Deutschland vorgenommen werden. Erschwerend kommt weiter hinzu, dass die Berechnung der Anzahl an Speichern durch das stochastische Verhalten des Strombedarfes wie der fluktuierenden Stromerzeugung über Wind und Sonne mathematisch nicht möglich ist. (4) Wie sich aber bei der Betrachtung der erforderlichen Stromspeicherung über einen längeren Zeitraum herausstellen wird, löst sich dieses Problem von selbst (vgl. später).
+Die zwingende Erfordernis der Stromspeicherung soll schließlich auch noch einmal anhand des im IWES-Windreport 2014 ausgewiesenen Zubaus von Windstrom in den einzelnen Bundesländern bis 2024 aufgezeigt werden (Bild 3).(5)
+Bild 3: Zubau Wind in den einzelnen Bundesländern von 2014 bis 2024
+Danach soll die Windenergie von 2014 bis 2024 von 34,8 auf 97,9 GW ausgebaut werden. Wird diese praktische Verdreifachung des Windausbaus basierend auf der Leistung über Wind und Solar und den Wetterverhältnissen im Mai 2015 hochgerechnet – wobei sowohl die Leistung über den Wind als auch über Solar mit dem Faktor 3 multipliziert wurde- und vergleicht man das Leistungsangebot im Jahre 2024 mit dem heute benötigten (Bild 4) (6), so zeigt sich auch hier die zwingende Forderung nach Stromspeichern. Da aber technisch ausgereifte und kostenmäßig vertretbare Stromspeicher in überschaubarer Zukunft nicht zur Verfügung stehen werden, (7) stellt sich die Frage, wie diese Energiewende funktionieren soll.
+Bild 4: Wind- und Solarleistung im Mai 2015 und Werte hochgerechnet mit dem Faktor 3 für Mai 2024
+Bei einer Verdreifachung der täglichen Fluktuation alleine über den Solarstrom ergeben sich nämlich Leistungsspannen zwischen 0 und etwa 100 GW. Werden die Wind- und Solarspitzen addiert, so errechnen sich Spitzenwerte bis 170 GW.
+Wie bereits erwähnt, stellt diese hier angesetzte Verdreifachung der Stromangebotes über die alternativen Energien Wind und Solar bei weitem noch nicht die für das Jahr 2050 festgelegten Kapazitäten laut „Energiewende 2014“ dar. (s.o.-vgl. auch (4))
+Wenn nun nach der „Energiewende 2014“ und nach den Angaben der Nutzungsgrade für Wind und Sonne des SRU täglich 61,5 GW bzw. die äquivalente Strommenge aufgebracht wird (vgl.oben), muß dann nach diesen Ausführungen die Hälfte des Leistungsangebotes über Wind und Sonne gespeichert werden können:
+61,5/2 = 30,8 GW
+bzw…… 30,8 GW x 24h = 739 GWh/Tag bzw. 739/8,4 = 88 Speicher (Goldisthal)
+Kann die Leistung von 30,8 GW nicht über Speicher aufgenommen werden,müssen die Wind- und Solaranlagen hälftig still gesetzt werden mit für Deutschland nicht bezahlbaren Stromkosten (8).
+Wie bereits erwähnt, ist die Berechnung des Bedarfes an täglichen Stromspeichern nicht exakt möglich. Dieses Problem löst sich aber von selbst, da gerade im Winter bei wenig Sonne und Wind durch bestimmte Wetterlagen teilweise 14 Tage kein Strom über Wind und Sonne erzeugt werden kann. Es müssen dann
+14 Tage x 61,5 GW x 24h = 20.664 GWh
+entweder über Erdgas abgedeckt oder gespeichert werden:
+20.664 GWh /8,4 GWh = 2.466 Speicher (vgl. auch (4)).
+Dadurch ist die Diskussion um die Frage nach der Anzahl Speicher pro Tag obsolet geworden.
+Im eingeläuteten Zeitalter der „Dekarbonisierung“ muß auf Erdgas verzichtet werden, d.h. der Bau dieser Stromspeichern ist unerläßlich, worauf im folgenden Kapitel eingegangen wird.
+Eingespeiste Stromleistung über Wind und Sonne und erforderliche Stromspeicherung gemäß den tatsächlichen Nutzungsgraden im Jahre 2014
+Im Gegensatz zu den Angaben des SRU liegen aber in 2014 die Nutzungsgrade der Solaranlagen bei nur 10,3%, die der Windanlagen onshore bei 16,8%, während die der Windanlagen offshore in der Nordsee von 40% in 2009 auf etwa 20% in 2014 abgefallen sind (Bild 5).(9)
+Bild 5: Abfall Nutzungsgrad Wind offshore von 2009 bis 2014
+Dies deutet auf große technische Schwierigkeiten bei den Offshore–Anlagen hin, was nicht verwundert, da ein konventionelles Kraftwerk z.B. mit 1000 MW zwangsläufig weniger Störungsquellen und damit Wartungsaufwand erfordern wird als bei gleicher eingespeister Leistung 1000 Windkraftanlagen offshore. Denn gebräuchliche Anlagen mit 5 MW Nennleistung und einem Nutzungsgrad von 20% speisen 1 MW ein (An jede Windanlage ist dann ein Kraftwerk (Generator) angeschlossen).
+Forschungsarbeiten zu diesem Thema haben ergeben, dass Windanlagen onshore pro Jahr 1-2% ihrer Leistungen einbüßen, Windanlagen offshore sogar 6% durch den höheren Verschleiß und die vermehrten Ausfallzeiten (9).
+Errechnet man nun über die im Jahre 2050 gemäß der "Energiewende 2014" festgelegten Erzeugungskapazitäten der alternativen Energien die möglichen eingespeisten Leistungen anhand der in 2014 erzielten Nutzungsgrade, so ergeben sich folgende Werte:
+Damit liegt die täglich angebotene Leistung über die alternativen Energien gemessen an den angegebenen illusorischen Nutzungsgraden des SRU (73,7 GW) mit 50 GW erwartungsgemäß deutlich niedriger.
+Eingespeiste Stromleistung über Wind und Sonne und erforderliche Stromspeicherung gemäß „Energiewende 2014“
+Da nach der „Energiewende 2014“ im Jahre 2050 Strom nur noch aus alternativen Energien und Erdgas erzeugt werden soll, errechnet sich eine eingespeiste Leistung über alternative Energien im Mittel von nur 50 GW, über Wind und Solar von 37,8 GW.
+Durch die niedrigeren Nutzungsgrade über Wind und Solar wird über die fluktuierenden Stromerzeuger Wind und Solar nur noch täglich im Mittel 37,8 GW beigestellt, wobei sich ein erforderliches Speichervolumen von zunächst nur noch
+37,8/2 (42,1/2) = 18,9 (21,1) GW
+ergibt entsprechend
+18,9 GW x 24h = 454 GWh bzw. 454 GW/8,4 GW = 54 Speicher.
+Bei einer täglich aufzubringenden Strommenge von etwa 1.507 GWh entsprechen
+37,8 GW x 24h = 907 GWh
+gerade einmal 60%, einschließlich der „Sonstigen“ (12,2 GW x 24h = 293 GWh) dann
+80% der täglichen erforderlichen Stromerzeugung, d.h. (1 507-(907+293=) 307 GWh/Tag müssen über Erdgas aufgebracht werden.
+Für eine Überbrückung von 14 Tagen müssen dann
+14 Tage x 307 GWh = 4.298 GWh über Erdgas
+und
+14 Tage x 37,8 GW x 24h = 12.700 GWh
+entweder zusätzlich über Erdgas aufgebracht oder gespeichert werden:
+12.700 GWh : 8,4 GWh = 1.512 Speicher (vgl. auch (4)).
+Diese Zusammenhänge und ihre Bedeutung im Zeitalter der „Karbonisierung“ werden im nächsten Kapitel behandelt.
+Eingespeiste Stromleistung über Wind und Solar und erforderliche Stromspeicherung im Zeitalter der „Dekarbonisierung“
+Wenn aber dann die auf dem G7-Gipfel in Elmau eingeläutete „Dekarbonisierung“ greift (Verzicht auf die Verbrennung von Kohlenstoffträgern), muß dann die über Erdgas abgedeckte Leistung zwangsläufig zusätzlich über Wind- und Solarstrom dargestellt werden, nämlich in der Spitze
+80 GW – 50 GW= 30 GW (s.o.).
+Um diese Spitzenleistung von 80 GW darstellen zu können, sind dann weitere
+269,5 GW x 30 GW/37,8 = 213,9 GW
+über Wind- und Solarstrom zu installieren (oder die Mehrleistung müßte über mehr Speicher beigestellt werden).
+Das bedeutet, dass sich die zu installierende Leistung über Wind und Sonne von ursprünglich 269,5 GW insgesamt auf
+269,5 GW + 213,9 GW = 483,4 GW
+erhöht, einschließlich der „Sonstigen“ auf 496,9 GW insgesamt ( der Flächenbedarf wäre gewaltig (vgl.(4)).
+Für diese Spitzenleistung von 80 GW täglich wären dann insgesamt
+37,8/2 + 30/2 = 18,9 + 15 = 33,9 GW bzw.
+33,9 GW x 24h = 813,6 GWh/Tag bzw.
+813,6 GWh/8,4 GWh =96,8 Speicher
+über eine Stromspeicherung abzudecken.
+Die Anzahl Speicher bei einer winterlichen 14-tägigen Windflaute würde sich erhöhen auf:
+14 Tage x (37,8+30) GW x 24h = 22 781 GWh bzw.
+22 781 GWh/8,4 GWh = 2.712 Speicher, ein technisches und wirtschaftliches Desaster.
+Wenn sich Deutschland weiter an einem am Weltuntergang orientierten Ökologismus beteiligt, verabschiedet es sich mit einer nicht bezahlbaren und nicht gesicherten Stromerzeugung als Industrienation und kehrt zurück zum Agrarstaat. Eine Abwanderung der Industrie aus Deutschland hat schon längst begonnen.
+Mit den oben dargestellten Zusammenhängen ist auch die häufig zu hörende Aussage, dass Wind offshore grundlastfähig sei, in den Bereich der Illusionen einzuordnen. Das zeigt auch Bild 6, in dem die Stromerzeugung über Wind in den Ländern Schweden,Dänemark, Frankreich und Deutschland von Januar und Februar 2015 dargestellt ist.
+Bild 6: Windstromerzeugung in den Ländern Schweden, Dänemark, Frankreich und Deutschland von Januar bis Februar 2015
+Schlußbetrachtung
+Bevor nun die große „Dekarbonisierung“ (G7-Gipfel in Elmau) praktisch als „Neue Energiewende“ eingeläutet wird ( die weltweite Verringerung des CO2-Ausstoßes durch den Verzicht auf das Verbrennen von Kohle, Öl und Erdgas von 40-70% gegenüber 1990 bis Mitte und 100% bis Ende dieses Jahrhunderts) sollte doch zunächst einmal die technische Grundvorraussetzung diskutiert werden, wie eine ausreichende Möglichkeit der Stromspeicherung geschaffen werden kann, um dann die damit verknüpften hohen Kosten ebenfalls abschätzen zu können, bevor Deutschland mit alternativen Stromerzeugern zugepflastert wird. Dies gilt für die „Energiewende 2014“ und um so mehr für die eingeläutete „Dekarbonisierung“.
+Grund für diese „Dekarbonisierung“ ist das durch nichts zu begründende „Zwei-Grad Ziel“, obwohl die Temperaturen seit etwa 19 Jahren nicht mehr ansteigen trotz zunehmender CO2-Gehalte in der Atmosphäre und der Tatsache, dass alle Warmzeiten nach der letzten Eiszeit wärmer waren als die jetzige, ohne nennenswerten anthropogenen CO2-Ausstoß.
+Es stellt sich die Frage, wie lange wir uns diese fortlaufenden Vorstellungen von Energiewenden noch leisten können und dabei einem am Weltuntergang orientierten Ökologismus folgen, der primär auf der Ausbreitung von Angst und Schrecken fußt und harte Fakten negiert (wie sagte noch der Soziologe Niklas Luhmann: „Wer Angst hat, ist moralisch im Recht“).
+Wenn sich nun z.B. Eon über einen Auftrag von 1,9 Mrd. € aus UK freut, um dort vor der südenglischen Küste einen Windpark mit 116 Anlagen und ca. 400 MW Nennleistung zu bauen und zu betreiben, so können nach Spaltung von Eon in einen die konventionellen Kraftwerks-Kapazitäten einschließlich Kernkraftwerke enthaltenden Teil und einen die alternativen Energien enthaltenden bei den oben ausgewiesenen Nutzungsgraden solche Aktivitäten nur noch als eine Flucht nach vorne angesehen werden. Ähnliches gilt für andere Unternehmen.
+Don Quijote hielt Windmühlen für vielarmige Riesen und stellte sich zum Zweikampf. Es spricht viel dafür, dass die ständig zunehmende Zahl an Erbauern von Windanlagen offshore einen ähnlichen Kampf gegen die Windmühlen auszutragen haben wie einst Don Quijote de la Mancha in Miguel de Cervantes spätmittelalterlichem Roman.
+Zusammenfassung
+Ausgehend von der in 2014 definierten Energiewende werden die Nutzungsgrade der Stromerzeuger Wind und Solar nach dem Sondergutachten des „Sachverständigenrates für Umweltfragen“ (SRU) aus dem Jahre 2011 verglichen mit den in 2014 erzielten tatsächlichen Nutzunsgraden und die Konsequenzen für den Ausbau der Stromerzeugungskapazitäten für Wind und Sonne sowie die erforderliche quantitative Stromspeicherung beschrieben.
+Ausgehend von den vom SRU definierten Nutzungsgrade bei einer im Jahre 2050 zu installierenden Leistung über die alternativen Energien nach der „Energiewende 2014“ von 283 GW ergeben sich eingespeiste Leistungen von 73,7 GW (61,5 GW über Wind und Solar, 12,2 GW über „Sonstige“), nach den tatsächlichen Nutzungsgraden in 2014 von nur 50 GW (37,8 GW über Wind und Solar, 12,2 GW über „Sonstige“) bei einer täglich erforderlichen Leistung zwischen 40 und 80 GW.
+Da die im Sondergutachten des SRU angegebenen Nutzungsgrade von 14,9% für Solar, 26,2% für Wind onshore und 49,4% für Wind offshore zu sehr von der Wirklichkeit abweichen, wird dieser Fall in der Zusammenfassung nicht weiter verfolgt.
+Basierend auf der „Energiewende 2014“ und den Nutzungsgraden aus 2014 müssen durch die Fluktuation der Stromerzeuger Wind und Solar zur möglichen Nutzung von Wind und Solar in 2050 für eine tägliche Leistung von 37,8 GW
+37,8 GW/2 = 18,9 GW
+über Stromspeicher abgedeckt werden, wozu
+18,9 GW x 24h = 454 GWh bzw. 454 GWh/8,4 GWh = 54 Speicher
+der Goldisthalgröße zur Verfügung stehen müssen (natürlich scheidet der Bau von Pumpspeicherwerken in Deutschland aus. Da aber andere Speicher aus Gründen zu hoher Kosten ausscheiden, wird hier zur Beschreibung der unerläßlichen Stromspeicherung der Goldisthalspeicher „quasi als Maßeinheit“ verwandt; Leistung 1,05 GW, die über 8h geliefert werden kann= 8,4 GWh).
+Bei einem täglichen Strombedarf in Deutschland von rd. 1.507 GWh/Tag (550 000 GWh/a) werden einschließlich der „Sonstigen“ 50 GW x 24h = 1 200 GWh/Tag im Mittel über die alternativen Energien entsprechend 80% des täglichen Strombedarfes erzeugt, d.h. es müssen im Mittel 307 GWh über Erdgas abgedeckt werden.
+Zur Überbrückung einer 14-tägigen Windflaute im Winter müssen dann 14 Tage x 307 GWh/Tag = 4.298 GWh über Erdgas aufgebracht werden und
+14 Tage x 37,8 GW x 24h = 12.700 GWh
+zusätzlich über Erdgas beigestellt oder gespeichert werden:
+12.700 GWh/8,4 GWh = 1.512 Speicher.
+Aber im Zeitalter der „Dekarbonisierung“ (Verzicht auf die Verbrennung von Kohlenstoffträgern) ist der Einsatz von Erdgas nicht mehr möglich.
+Im eingeläuteten Zeitalter der „Dekarbonisierung“ muß daher die gesamte Strommenge von 550.000 GWh/a über die alternativen Energien erzeugt werden.
+Die alternativen Energien müssen dann so ausgelegt sein, dass sie auch die täglichen Leistungsspitzen von 80 GW abdecken, wovon 37,8 GW über Wind und Solar und 12,2 GW über „Sonstige“ nach den obigen Darstellungen bereits beigestellt werden. Es müssen aber dann durch den zwangsläufigen Verzicht auf Erdgas zusätzlich 80 GW – (37,8 GW+12,2 GW) = 30 GW über Wind und Sonne erzeugt werden.
+Dazu muß die zu installierende Leistung über die alternativen Energien von 283 GW ausgehend auf 496,9 GW angehoben werden.
+Von den 67,8 GW über Wind und Solar muß dann die Hälfte (33,9 GW) über Stromspeicher fließen, entsprechend 96,8 Speicher.
+Für eine 14-tägige Windflaute im Winter ergibt sich dann eine Speicherzahl von
+14 Tage x 67,8 GW x 24h = 22 781 GWh
+22 781 GWh/8,4 GWh = 2 712 Speicher– ein Desaster.
+Das wäre für Deutschland die Abkehr vom Industriestaat hin zum Agrarstaat.
+Bevor Deutschland mit alternativen Energien zugepflastert wird, sollten doch zunächst einmal die technischen und kostenmäßigen Grundvorraussetzungen dieser „Energiewende 2014“ diskutiert werden, bevor schon wieder eine „Neue Energiewende“ der„Dekarbonisierung“ aus der Taufe gehoben wird.
+Literatur
+1.Erneuerbare-Energien-Gesetz (EEG) 2014, nicht amtliche Lesefassung des EEG in der ab 1.8.2014 geltenden Fassung (unter Zugrundelegung der Bundestagsbeschlüsse vom 27.6. und 4.7.2014)
+2. www.oellerer.net (vgl. auch 4)
+3. Schuster, R.: Mitteilung vom 4.5.2014 (vgl.auch 4)
+4.Beppler,E.: „Energiewende 2014- ein Debakel“; BoD; ISBN 978-3-7386-9418-5
+5.IWES-Report 2014, Seite 16
+6.Schuster,R.: Verdreifachung der Windstromleistung bis zum Jahre 2024 und Betrachtung des Überschussstroms anhand eines Beispieles
+7.Douglas,H.; F.Endres: „Energiewende ohne Stromspeicher unmöglich, mit Speichern unbezahlbar“; EIKE 17.4.2015
+8.Schuster,R.: Offshoretechnik im Vergleich
+9.Kipp,R.: „Warum der Wind niemals „keine Rechnung“ schreibt und Windkaft teuer bleibt“; EIKE; 29.5.2015
+10.Beppler,E,: „Energiewende – Zweite industrielle Revolution oder Fiasko?“; BoD; ISBN: 978-3-7322-0034-4
+11.Schuster,R.: Einspeisung Windenergie in Schweden, Dänemark,Frankreich und Deutschland
+„Das glaube ich nicht. Die können ganz schnell auf den Subventionskarren aufspringen und auch wieder runter.“
+RWE-Chef Terium: „Zur Zeit kriegen wir kein Geld“
+Dem RWE-Konzern fehlen Finanziers für seine Investitionen. „Wir brauchen Geld für Wachstum. Zur Zeit kriegen wir das nicht“, sagte Vorstandschef Peter Terium der „Frankfurter Allgemeinen Zeitung“.
+http://shuu.de/t3H
+Zumindest RWE springt auf keinen „Subventionskarren“ auf.
+Gruß
+„Das glaube ich nicht. Die können ganz schnell auf den Subventionskarren aufspringen und auch wieder runter.“
+Dafür braucht man aber Geld und kluge Leute……….
+E.on verbucht Rekordverlust von sieben Milliarden Euro….
+http://shuu.de/tuK
+Gruß
+#14 Buehner „Das glaube ich nicht.“
+Hallo Herr Buehner,
+RWE hat ja den Euro Stoxx 50 bereits verlassen und bei FinanzNachrichten.de hab ich diese Überschrift gefunden „RWE gehört aus dem DAX geschmissen“
+Abwarten ob ihre optimistische Einschätzung in #14 o.k. ist.
+Gruß
+Werner
+#44
+Sie zitieren mich falsch und sind völlig off topic 🙁
+Die weiteren Kommentare muss ich mir leider deshalb verkneifen.
+„Da es aber absehbar keine andere Technologie gibt“
+Behaupten Sie völlig unsubstantiiert. Aber so ist das halt bei Leuten, die noch im religiösen Mittelalter leben, wo es weder Dampfmaschine noch Galaxien noch die Relativitätstheorie gab, sondern nur die Prophezeiungen der Priesterkaste, die in Saus und Braus lebte und sich Monumente der Macht schuf, auf Kosten der Bevölkerung.
+Die Lösung des Problems der zukünftigen Primärenergiebereitstellung ist die Kernfission mit Brutreaktoren und später die Kernfusion. Der Stellarator wird irgendwann funktionieren, nur verhindern das die Ökopriester, weil man mit Ablaßhandel und Angstmache mehr Geld verdienen und mehr Macht ausüben kann.
+Alle Befürworter der sog. „EE“ haben und hatten ihre Wurzeln und Finanzierung im Osten östlich des sog. „Eisernen Vorhangs“. Mutti gehört übrigens auch zu denen.
+„Und schwupps kommt man bei 30% – X an.“
+Wenn Sie den Gesamtwirkungsgrad meinen – ja. Da es aber absehbar keine andere Technologie gibt, die x TWh speichern kann, muss man das als Gundlage nehmen und nicht Technologien mit 80 oder 90% Wirkungsgrad.
+Genau darauf wollte ich in #4 hinaus.
+MfG
+„den Faktor 2,85 haben Sie richtig ausgerechnet, Herrn Heinzow wird’s freuen;-).“
+Wie das denn so ist: Die Kompression wurde doch glatt vergessen. Druckluftspeicherkraftwerk Huntdorf hat einen Wirkungsgrad von 42%. Und GuD-Kraftwerke haben im Teillastbereich geringere Wirkungsgrade. Hinzu kommt der Energiebedarf zur Gewinnunng von CO2 aus den Abgasen der GuD-Kraftwerke + Speicherung.
+kostet so an die 10% Wirkungsgrad. Und schwupps kommt man bei 30% – X an.
+Hallo, Herr Pesch,
+den Faktor 2,85 haben Sie richtig ausgerechnet, Herrn Heinzow wird’s freuen;-).
+Dass das „irre“ ist, ist unbestritten :-)!
+Aber der GESAMTwirkungsgrad bezieht sich auf die Stromspeicherung, nicht auf die Gaserzeugung.
+am Sonntag, 20.09.2015, 09:43
+„Power to Gas“ hat einen Gesamtwirkungsgrad von 35% und von daher einen Preismultiplikationsfaktor von 1/0,35 = 2,85 auf die eingestellte kWh – und das ohne Anlagekosten. Von Gewinn noch gar nicht gesprochen! Damit kostet dann 1 kWh „Windgas“ das 10-fache von dem was für Erdgas ab Übergabepunkt Deutsches Gasnetz bezahlt werden muss! So etwas können sich nur komplett Irre ausdenken, passt aber, genau die regieren uns ja….
+„Ich bin nicht der Meinung, dass der Solar- oder Windstrom kostenlos ist. Er ist sogar teuer. Allerdings machen Abschaltungen ihn noch teurer.“
+Der erste meteorologische Herbstmonat neigt sich dem Ende zu und es wird Zeit wieder daran zu erinnern, daß derartige Beiträge an der Herbsthitparade der Trollotrivialitäten teilnehmen.
+Autor . Klink schafft es gleich mit drei Beiträgen in die Vorschlagsliste:
+2. „Allerdings gilt in der Marktwirtschsft auch: Wer sich für ein teures Produkt entscheiden möchte, darf das, wenn er es sich leisten kann und Anderen nicht schadet.“
+3. „Was die Chemie betrifft, ist das natürlich eine Optimierungsaufgabe: Kostendegression durch Größe vs. Kostensteigerung durch Transport“
+Ach ja, demnächst beginnt wieder die Saison der „Klimageschädigten vom Fischmarkt“.
+Fehlt noch der Preis:
+Der Sieger darf diese Lied von Richard Germer vorsingen:
+http://tinyurl.com/qeqclcq
+Hallo Herr Dehren,
+Eins vorweg:
+Ich bin nicht der Meinung, dass der Solar- oder Windstrom kostenlos ist. Er ist sogar teuer. Allerdings machen Abschaltungen ihn noch teurer. Auch speichern ist teuer, klar. Die Frage ist also, wie werden sich die Kosten weiter entwickeln (und nicht: Hurra, wir machen Strom um jeden Preis ohne fossile Energieträger)! Allerdings gilt in der Marktwirtschsft auch: Wer sich für ein teures Produkt entscheiden möchte, darf das, wenn er es sich leisten kann und Anderen nicht schadet.
+Ich bin für weniger Ideologie und mehr Markt, auch bei Kohle und Kernkraft. Es ist ja nicht so, dass wir dort mehr Markt hätten – und das ist nicht nur in der BRD so :-(.Energie reimte sich schon immer auf Ideologie, sogar schon zu Zeiten von Tesla, Edison und Siemens.
+Was die Chemie betrifft, ist das natürlich eine Optimierungsaufgabe: Kostendegression durch Größe vs. Kostensteigerung durch Transport. Natürlich spielen auch Sicherheitsabstände eine Rolle. Die Versuchsanlage in Stuttgart war ein Container, die Anlage von Audi in Werlte hat knapp 5MW.
+Was Power2Liquids betrifft, schauen Sie mal bei Sunfire.
+Ich will hier nicht Werbung machen, aber momentan sehe ich für unsere Klimazone keine andere Lösung, wenn man wirklich anstrebt, auf andere Energierohstoffe zu verzichten. In den Tropen oder dünn besiedelten wasserreichen Gebirgsregionen geht es auch anders :-).
+MfG
+„Die Speicherung oder Umwandlung von Überschussstrom aus Solar- und Windstrom sollte nahe der Erzeugungsstelle erfolgen, um das Stromnetz nicht stärker zu belasten.“
+Hallo, Herr Klink!
+Das ist von den Energiewendern zwar schön gedacht, aber unmöglich durchzuführen.
+Man stellt sich das hauptsächlich für Windgas vor, so nach dem Motto, in jeden Windpark einen Container, der elektrolysiert und methanisiert.
+Gassynthese ist eine Verfahren, das seit über 100 Jahren grosstechnisch durchgeführt wird. Der erste Weltkrieg wäre nach 2 Jahren zu Ende gewesen, wenn nicht die Herren Haber und Bosch bei der BASF die Ammoniaksynthese zum Einsatz gebracht hätten. Fürs Schiesspulver.
+Im WKII wurde in Leuna nach Fischer-Tropsch aus Synthesegas Benzin hergestellt.
+Das sind alles Verfahren, die unter hohem Druck und hohen Temperaturen mit Katalysatoren ablaufen, das geht nur im ganz Grossen und garantiert nicht nahe der Erzeugungsstelle.
+Noch eine weitere Irrmeinung der Wender:
+Überschussstrom ist kostenlos.
+Überschussstrom kostet natürlich genau soviel wie eingespeister Strom.
+„…sondern bei Solarenergie, was natürlich grundsätzlich längere Speicherzeiten bedeutet.“
+Nur nicht konkret werden, oder simpel gesagt: Sie können es nichr ausrechnen, was benötigt wird.
+„Außerdem hat Gas u.a. den Vorteil, dass gleichzeitig die Wärmeenergie genutzt werden kann.“
+Auch so eine Behauptung ohne Substanz. Fernwärmenetze zu Heizzwecken können bestenfalls mit einer Minimumtemperatur von 95 °C betrieben werden (Hamburg betreibt sein Netz mit 130 °C). Das rentiert sich aber erst für Städte mit Einwohnerzahlen ab 100.000. Und dann braucht man zwei Kraftwerke der Redundanz wegen und zusätzlich noch ein Heizwerk als dritte Reserve. sonst wird es schnell sehr kalt. Die Hambueger kennen das, wenn ein Kessel des Heizkraftwerkes Wedel ausfällt.
+Sie sollten nicht die Werbeaussagen von technisch und ökonomisch ungebildeten Politikern (Trittin, Höhl, Merkel, Gabriel Hendricks etc.) abschreiben und nachplappern.
+Was nicht geht, geht nun einmal nicht. 70% Ausschuß kann sich keine Volkswirtschaft leisten. Wozu auch, wenn es sich um Hirngespinste von Aoziologen, Mathematikern, Juristen, Lehrer etc. handelt, die noch nicht einmal die simple Mathematik des Hernn Riese beherrschen.
+Hallo Herr Heinzow,
+dass der Wirkungsgrad der Stromspeicherung als Gas schlecht ist, habe ich schon in #4 erwähnt. Dennoch ist zu beachten, dass der Bau von tausenden PSW nicht möglich und Milliarden von Akkuspeichern auch kaum bezahlbar sein dürften. Die Reserven liegen natürlich nicht bei der Windkraft (auch wenn im Winter mehr Wind weht, als Sonne scheint), sondern bei Solarenergie, was natürlich grundsätzlich längere Speicherzeiten bedeutet.
+Außerdem hat Gas u.a. den Vorteil, dass gleichzeitig die Wärmeenergie genutzt werden kann.
+BTW liegt der Wirkungsgrad von Kohleverstromung auch nicht höher, wenn man die Gewinnung analog mitbetrachtet (Sie erinnern sich?).
+Der Wirkungsgrad der Speicherung als Gas lässt sich BTW steigern, wenn man das Gas nicht mit Luft (Abgasverluste), sondern mit dem aus der Hydrolyse anfallenden Sauerstoff verbrennt.
+Hallo, Herr Dehren,
+ein wenig haben wir un sicherlich missverstanden:
+Die Speicherung oder Umwandlung von Überschussstrom aus Solar- und Windstrom sollte nahe der Erzeugungsstelle erfolgen, um das Stromnetz nicht stärker zu belasten. Bei Akkuspeichern ist das möglich, bei Lagerspeichern kaum. Da Gasspeicher wegen ihrer Größe auch zentraler sind, ist es dann zwar nicht das Stromnetz, aber das Gasnetz, was stärker beansprucht / ausgebaut werden müsste.
+MfG
+„In D 50 GW zusatzliches Netz zu bauen ist wohl genauso illusorisch wie für 20 TWh Speicher anzulegen.“
+Die sog. „Windgastechnik“ erreicht bestenfalls 30% Wirkungsgrad. Grob nach Milchmädchen gerechnet benötigt mann also die dreifache Erzeugubgsleistung, um die 620 TWh Strom liefern zu können. Windmühlenvollaststunden seien mit 2000 angesetzt, was 310 GW effektive Erzeugungsleistung voraussetzt. Und dafür benötigt man ein zweites Netz. Verbindung der Windmühlen mit den Elektrolyse- und Hydriereinrichtungen. Macht über 60000 Windmühlen mit 5 MW Nennleistung. Macht eine Windmühle auf 6 km².
+Sehr geehrter Herr Klink,
+ich denke, Sie haben meinen Kommentar nicht
+richtig verstanden.
+Das Erdgasnetz ist natürlich gut ausgebaut und wäre bestens geeignet, als Verteiler von „Windgas“ zu dienen.
+Es geht um die Versorgung mit Strom zur Auffüllung der Speicher.
+Egal ob das die norwegischen Seen sind oder nicht vorhandene Pumpspeicher in D oder Windgasproduzenten, – der Strom muss dorthin geführt werden und zwar ZUSÄTZLICH zur täglichen Verbrauchsnorm.
+Wenn die Speicher bei Dunkelflaute mit 30-50 GW belastet werden, müssen sie auch mit diesen Leistungen wieder aufgeladen werden.
+Über das Stromnetz, das dafür nicht ausgebaut ist.
+Sehr geehrter Herr Dehren,
+Ihr Einwand ist berechtigt. Eine gewisse Entzerrung ist durch das Gasnetz und die vorhandene Speicherkapazität von ca. 230 TWh (die wohl noch auf knapp 400TWh ausgebaut werden soll) gegeben. Aber die Gasspeicherung ist eben auch nicht gerade dezentral, der Ausbau beider Netze würde ebenfalls hohe Kosten verursachen, deren Sinn zweifelhaft ist (insbesondere bei Offshore-Wind ist auch die Netzanbindung ein Problem).
+„Ökonomie ist nicht nur Kostenrechnung (Was ist mit OffGrid und Elektromobilität?…?)“
+Sie können ja mal ein e-Mobil vorrechnen. Und mal erklären, warum es in den Metropolen wie Hamburg statt O-Bussen und Straßenbahnen stinkende und lärmende Dieselbusse gibt.
+„Für Kurzzeitspeicher (Stunden) wird man andere Techniken nutzen, mit besserem Wirkungsgrad), die kommen dann noch dazu bzw. (bzw. können auch den Langzeitspeicherbedarf etwas verringern, wenn der Netzbetreiber Zugriff hat).2
+Machen Sie sich doch nicht lächerlich. Was meinen Sie, was ein Langzeitspeicher so an Kapitalkosten verursacht? Und dann noch dessen Inhalt!
+Kostenrechnung ist wohl nicht Ding?
+„Aber dass der „krasseste“ Winter die Bemessungsgrundlage (für Langzeitspeicher im Netz) ist, ist nun (#11) Konsens.“
+Mit Ihren rudimentären Kenntnissen in Meteorologie sollten Sie nicht anfangen zu diskutieren.
+Zur Zeit von Dunkelflauten müssen Speicher 30 bis 50 GW Leistung bringen. Ok.
+Wenn anschliessend der Wind wieder weht, müssen die Speicher bis zur nächsten Flaute aufgefüllt sein. Natürlich auch am besten mit 50 GW, die bei Starkwind ohne weiteres als Überschuss anfallen werden. Bei dreifachem Ausbau.
+Aber für diese ZUSÄTZLICHEN 50 GW müssen auch ZUSÄTZLICHE Leitungen vorhanden sein, da das Netz ja schon mit der normalen Last arbeitet, für die es gebaut wurde.
+In D 50 GW zusatzliches Netz zu bauen ist wohl genauso illusorisch wie für 20 TWh Speicher anzulegen.
+Hallo, Herr Heinzow,
+we agree to disagree, was die Methodik betrifft. Ökonomie ist nicht nur Kostenrechnung (Was ist mit OffGrid und Elektromobilität?…?)
+Aber dass der „krasseste“ Winter die Bemessungsgrundlage (für Langzeitspeicher im Netz) ist, ist nun (#11) Konsens.
+Für Kurzzeitspeicher (Stunden) wird man andere Techniken nutzen, mit besserem Wirkungsgrad), die kommen dann noch dazu bzw. (bzw. können auch den Langzeitspeicherbedarf etwas verringern, wenn der Netzbetreiber Zugriff hat).
+Nun, den Langzeitspeicher (ein anderer ist momentan nicht in Sicht), den gibt es schon, da hat hat sich Gazprom gerade eingekauft…
+Dass diese Variante (unnötig) überaus teuer ist, da sind wir uns auch einig. Rechenspiele sind billiger :-).
+@admin :-), Danke, klingt auch mehr nach Mark Twain..
+“ und dass der optimale Speicherbedarf wichtiger ist, als der Mindestspeicherbedarf,“
+Mindestspeicherbedarf + Reserve ist die entscheidende Größe.
+„Meine Zweifel betreffen die Rückkopplung von Kosten und Bedarf für alle Energieträger und Ausrüstungen auf diese Größen.“
+Es gibt in der Kostenrechnung keine Rückkopplungen. Rückkopplung gibt es nur in der Physik. 😉
+„Auch für eine Iteration brauchen Sie die entsprechenden Daten und Modelle. Garbage in – garbage out….und ohne Konvergenz keine eindeutige Lösung!“
+Für Berechnungen nach den Methoden von Adam Riese braucht man keine Modelle.
+Was simpel ist, bleibt simpel. im Prinzip ist das eine Badenwannenflußrechnung oder der etwas erweiterte Dreisatz. Dreisatz hatte unsereins irgendwann auf dem Gymnasium in den Klassen 5 bis 7. Kann mich gar nicht mehr daran erinnern, so simpel ist der.
+Das GiGo-Prinzip wenden übrigens die „Freunde“ der sog. „EE“ an. Liegt daran, daß die die Realität nicht wahrnehmen können, mangels intellektueller Leistungsfähigkeit in den Gebieten Mathematik (bis zur 10. Klasse), den Naturwissenschaften und der Ökonomie (simple Kostenrechnung nach dem Dreisatzprinzip).
+Und wer ernkurven nicht von Fixkostendegression unterscheiden kann, sollte die Finger von der Ökonomie lassen.
+Bin schwer beeindruckt 😉
+Auch für eine Iteration brauchen Sie die entsprechenden Daten und Modelle. Garbage in – garbage out….und ohne Konvergenz keine eindeutige Lösung!
+Das gilt für den SRU, wie für den Autor oder Sie, das ist kein Vorwurf, sondern nur Realität. Da muss man weder Glauben noch Unredlichkeit unterstellen;-).
+Und es geht nicht bloß um diese Windmühlen, ist schon etwas komplexer.
+„Prognosen sind schwierig, vor allem, wenn sie die Zukunft betreffen.“
+Karl Valentin
+Hallo, Herr Heinzow,
+nicht, dass Sie mich missverstehen:
+Dass der Jahresgang entscheidend ist und die 14tägige Flaute eher Symbolik dafür ist, und dass der optimale Speicherbedarf wichtiger ist, als der Mindestspeicherbedarf, da stimme ich völlig mit Ihnen überein.
+Meine Zweifel betreffen die Rückkopplung von Kosten und Bedarf für alle Energieträger und Ausrüstungen auf diese Größen.
+Eine Machbarkeitsstudie heißt ohnehin nicht, dass das auch umgesetzt wird :-)! Manchmal gibt es auch Vernunft.
+MfG
+„natürlich kann man genau rechnen, riskante Annahmen und auf diesen beruhende Abweichungen in Folgerechnungen/weiteren Annahmen können jedoch schon zu beträchtlichen Fortpflanzungsfehlern führen.“
+Sowas passiert nur Leuten, die an irgendetwas ideologisch glauben und sonst von der Materie keine Kenntnis haben. Den Speicherbedarf nebst Erzeugungskapazitäten inklusive Kosten zu berechnen ist nun wirklich für einen BWLer mit den dafür notwendigen meteorologischen Kenntnissen und denen der Physik nicht besonders anspruchsvoll. Der Hauptaufwand besteht darin sich die notwendigen Daten über die Stromnachfrage und die zeitlichen Schwankungen der Windgeschwindigkeiten und der Solarstrahlung zu beschaffen. Der Rest läßt sich ohne Probleme in einer der simplen Programmiersprachen wie FORTAN, PASCAL oder C iterativ lösen.
+Habe das diesbezügliche Programm auf einer Fahrt nach Wiesbaden zu einer Anhörung geschrieben und validiert. Ist nicht besonders schwierig.
+Die Windmühlentechnik mag vielen komplex vorkommen, sie ist aber lertztendlich primitiv. Liegt wohl daran, daß das Bildungsniveau in eutschland seit 1968 im ständig beschleunigten Sinkflug ist.
+Richtig! und der „Gipfel“ ist jetzt die Vorstellung, dass für die KE-Betreiber ein Rettungsschirm nötig sein könnte (SZ von heute, 16.9.15). In Anbetracht der Aktienkurse von EON und Co durchaus realistisch.
+Hallo, Herr Heinzow,
+natürlich kann man genau rechnen, riskante Annahmen und auf diesen beruhende Abweichungen in Folgerechnungen/weiteren Annahmen können jedoch schon zu beträchtlichen Fortpflanzungsfehlern führen.
+Im konkreten Fall z.B. wenn angenommen wird, dass Überschüsse im Sommer verworfen werden, aber im Winter wg. Strommangel (mittelfristiger?) Speicherbedarf oder zusätzlicher Bedarf an Erzeugungskapazität) festgestellt wird. Das kann gute Gründe haben, ist aber spekulativ, da die Entscheidungsgrundlage ökonomischer Art ist: Ist verwerfen und Neuerzeugen billiger oder speichern?
+Deshalb ist es alles Andere als egal, welche Speichertechnologie verwendet wird:
+– ultrakurz (Kondensatoren, Schwungmassen)
+– kurz (PSW, Akkus,Wasserstoff, Wärme)
+-lang (Methan)
+Speicherbedarf ist deshalb auch nicht so einfach addierbar!
+Wenn der Staat die Kraftwerke vor den wirtschaftlichen Zusammenbruch retten will und hier einspringt bzw. unterstützend wirken will, dann kann es dieser Staat nur über die Subventionsschiene machen. Und staatliche Subventionen sind genauso unwirtschaftlich, wie die Energiewende/EEG.
+Sie brauchen eine Marktwirtschaftliche Basis, um ein Produkt langfristig erfolgreich,wertschöpfend für die Gesellschaft am Markt halten zu können.
+Das DDR System hat auch ALLES Verstaatlich/Subventioniert und was ist in 40 Jahren DDR-Staatswirtschaft aus dem Land/Gesellschaft geworden…..Genau!
+Diese staatliche Kommunistische Ideologie hat die Politik dazu verleitet ihre Gesellschaft in Mangel und Armut zu unterdrücken.
+Nein, mir tun die Mitarbeiter, Lieferanten, Aktionäre usw. in keinster Weise leid. Wer meint, die Maßnahmen gegen die „CO2-Katastrophe“ unterstützen zu müssen und lauthals die Energiewende zu fordern, hat es m.E. wirklich nicht besser verdient, als seinen Job zu verlieren und Kaufkraftverlust zu erleiden. Mein Mitleid mit diesen Menschen hält sich in Grenzen. Ich habe alle Aktienanlagen bereits vor Jahren abgestoßen – leider auch mit Verlust. Und solange die AfD sich am mainstream orientiert, wird sie ihrem Namen nicht gerecht. RWE, EON und Co haben genug Mitarbeiter mit Sachverstand und genügend Malocher, die jeden Samstag auf die Straße gehen könnten. Und was geschieht? Nichts. Man ergibt sich dem grünen Wahn und sucht sein Heil in den „Erneuerbaren“. Dann haben sie es nicht besser verdient. Wie ich gegen Ende des Jahres hier auslegen werde, werde ich ab 70 Ct/kWh für den Strom dazu übergehen, den Strom in unserem Haus selber zu machen. Das ist ca. die Grenze, ab der sich die Investition in ein Stromaggregat mit Speicherbatterie rechnen könnte, und vielleicht entwickelt sich im Bereich der Stromaggregate in den kommenden Jahren noch etwas. Wer meint, Physik und Chemie durch Ideologie und Mehrheitsbeschlüsse außer Kraft setzen zu können, hat es m.E. nicht besser verdient.
+Technisch kann ich mir sehr viel vorstellen, aber ich habe es nun oft genug erlebt, dass wir in Forschungsprojekten die Grundlagen neuer Prozesse entwickeln, die Industrie begeistert ist, aber die meisten Ergebnisse finanziell in der Umsetzung einfach nicht darstellbar sind. Ca. 95 % der Forschungsergebnisse verschwinden sowieso in den Schubladen, weil sie auf dem Markt nicht umsetzbar sind. Ohne die „CO2-Katastrophe“ wäre das Thema „Energiewende“ in Deutschland längst durch. Und die Privatkäufer von Elektroautos werden nach 6 Jahren – unweigerlich – die Konsequenzen spüren.
+Nein, ich habe mit RWE, EON, Exxon und wie sie alle heißen keinerlei Mitleid. Meine persönliche Meinung ist, dass es diese Firmen und deren Mitarbeiter nicht besser verdient haben. Und langsam denke ich: „Wenn die Deutschen diese Narretei wollen, dann kriegen sie eben diese Narretei.“ Meine Bereitschaft, mich für die Deutschen noch einzusetzen, sinkt von Tag zu Tag. Ich kann den Deutschen nicht helfen, ich erlebe es regelmäßig im dienstlichen und privaten Umfeld.
+„BTW Tidenkraft“
+Nun ja, wenn man den Jadebusen mit einem Gezeitenkraftwerk versehen würde, könnte man gerade mal den Stromverbrauch der Stadt Wilhelmshaven erzeugen, allerdings nur den der siebziger Jahre.
+„Also ist die 14-Tage-Flaute plausibel.“
+Plausibilität ist ein anderes Wort für Glauben oder Gläubigkeit.
+Da man das anhand der bekannten Nachfrage- und Angebotsdaten im 15 Minutentakt und Kenntnis der Naturgesetze berechnen kann, empfehle ich Ihnen das mal für das Jahr 2014 zu tun. Sie werden erkennen, was der Jahresgang für Folgen zeitigt im Vergleich zur hypothetischen „Flaute“.
+„Das Problem, bei Windflaute im Winter ist offensichtlich groß, aber die Rechnungen sind doch sehr spekulativ.“
+Anhand der jetzt installierten Nennleistung (Hochrechnung für die Vergangenheit) kann man mit den veröffentlichten 15 Minuten Nachfrage und Einspeisungsdaten (der sog. „EE“-Anlagen) sehr wohl die notwendige Speicherkapazität für alle Speichertechnologien berechnen. Um das mit PSKW zu managen bedarf es sechs Speicherseen (mit je dem Volumen des Bodensees) mit 400m effektivem Höhenunterschied.
+Diese Berechnung basiert auf den bekannten Naturgesetzen, ist also keine Spekulation.
+Was skandierten noch die Dresdner Pegida- Demonstranten zum Wahrheitsgehalt der Presse? Interessant, was nun in Leipzig von den Energiewende- Gläubigen geschwafelt werden wird.
+Hoffentlich kann jemand von EIKE dort mithören, mir hat schon gereicht, was ich in Cottbus von den Klima- Alarmisten und Energiewende- Fans anhören musste (Ausnahme o. g. Vattenfall- Vertreter).
+Übrigens, zur technisch/ökonomischen Unmöglichkeit der Energiewende reichen allein die Äußerungen von Prof. Endres (ohne Speicher unmöglich, mit Speichern unbezahlbar) sowie die ausführlichen Berechnungen von Dr. Ahlborn, die diese These mit technisch und statistisch untermauerten Fakten bestätigen.
+An Admin,
+wenn ein Herr M. zu einer christlichen Zeit, um 19:33 Uhr, so viele Rechtschreibefehler produziert und damit die Äußerungen vieler Hochschul- und Gymnasiallehrer zur katastrophalen Bildung in unserem Land beweist, sollte hier nicht korrigierend oder sperrend eingegriffen werden? Damit werden doch die Beiträge anderer und auch die von admin herabgewürdigt.
+„Ich gehe davon aus, dass RWE, EON und Co die nächsten 5 bis 10 Jahre nicht überstehen, zumindest verabschieden die sich vom DAX.“
+Das glaube ich nicht. Die können ganz schnell auf den Subventionskarren aufspringen und auch wieder runter. Ich hoffe nur, dass es eine Einsicht gibt bevor alles in Deutschland den Bach heruntergeht! Zur Zeit triumphiert die Dummheit.
+„Die EEG-Anlagen heben ja keinen Bernstoffeinsatz / Brennstoffkosten, da ist auch der Gelegentliche verficht auf einige kWh die man eigentlich ernten könnte auch kein Beinbruch.“
+Ich zitier mal Richard Germer:
+„So was Dummes, so was Dummes ist mir lange nicht …“
+Oder: „Wärst Du Dussel doch im Dorf geblieben …“
+„Es gilt ausnahmslos sicherzustellen, daß die jährlichen und dekadischen Fluktuationen der potentiellen Wind- und Solarenergie abzudecken sind. Wegen des kubischen Zusammenhangs zwischen Windgeschwindigkeit und nutzbarer kinetischer Energie sind 10% weniger Windgeschwindigkeit über Monate oder Jahre hinweg von der Wirkung her fataler als eine lächerliche Flaute von 14 Tagen.“
+Hallo, Herr Heinzow,
+also, die installierte Leistung sollte schon so sein, dass im Sommer ein erheblicher Überschuss an Solarenergie besteht und im Winter der Durschnittsbedarf plus 20% gedeckt ist. Also ist die 14-Tage-Flaute plausibel.
+Einen Meteoriteneischlag der über Jahre (oder Dekaden) die Sonne verdunkelt, sollte man nicht in die Kalkulation nehmen.
+BTW Tidenkraft und Erdwärme gibt’s auch im Winter nachts bei Windstille.
+„Sie vergessen bewusst den Zwang der Vorrangeinspeisung. Ohne diesen Zwang wäre der Zappelstrom unverkäuflich. Miese Qualität, hoher Preis.“
+Hallo Admin,
+Das ist doch genau die Baustelle, die den 4 Großen das Genick bricht, ob das gut oder schlecht ist, spielt da keine Rolle.
+Die haben ja nicht mitgemacht bei der Zappelstrom Herstellung und sind an der eigenen Situation selber schuld.
+Wenn Unternehmen glauben die können bestehen bei verädertet Rechtslage ist das ein Fehler der bestraft werden muss in der Wirtschaft.
+Ich gehe davon aus das RWE, EON und Co die nächste 5 bis 10 Jahre nicht überstehen, zumindest verabschieden die sich vom DAX.
+Admin, in meinen Beitrag (#2) ist die Grundüberlegung das nicht jedes Überschüssige kWh aus EEG-Anlagen gespeichert werden muss.
+Die EEG-Anlagen heben ja keinen Bernstoffeinsatz / Brennstoffkosten, da ist auch der Gelegentliche verficht auf einige kWh die man eigentlich ernten könnte auch kein Beinbruch.
+Gruß
+Werner
+Wenn Deutschland wieder ein Agrarstaat mit (Urban Farming) ist, dann werden sicherlich auch die Probleme, die es derzeit mit der Integration von Menschen aus fremden Kulturen gibt, quasi von selbst verschwinden.:-)
+es könnte aber auch sein, dass die Regierung diese Energiekonzerne als „systemrelevant“ einstuft (z.B. wegen der Rückstellungen für die Endlagerung) und Gegenmaßnahmen ergreift – ich weiss aber noch nicht wie das aussehen könnte.
+Ich frage mich immer wiede, wieso von 14-tägigen oder längeren Flauten dahergelabert wird.
+Es gilt ausnahmslos sicherzustellen, daß die jährlichen und dekadischen Fluktuationen der potentiellen Wind- und Solarenergie abzudecken sind. Wegen des kubischen Zusammenhangs zwischen Windgeschwindigkeit und nutzbarer kinetischer Energie sind 10% weniger Windgeschwindigkeit über Monate oder Jahre hinweg von der Wirkung her fataler als eine lächerliche Flaute von 14 Tagen.
+Demgemäß ist der Speicherbedarf nebst Erzeugungskapazität größer. Die installierte Erzeugungsleistung der Speicherkraftwerke muß demgemäß der jetzigen Engpaßleistung entsprechen. Die Speicher-„Energie“ erzeugende Kapazität muß demgemäß der Erzeugungsleistung (installierte Leistung minus Minimalstromnachfrage bei Flaute und Nacht) entsprechen.
+die Demokratie ist vorbei, auch wenn unsere Parteienoligarchie noch so etwas wie Demokratie spielt. Wir haben eine linksgrüne (Sie können die Begriffe auch umdrehen) Ökodiktatur und wenn Berlin nicht die diktatorischen Maßnahmen ergreift, dann tut Brüssel dies. Man muß nur einmal lesen, das Brüssel allen Staaten die wirtschaftlichen Maßnahmen vorschreiben kann. Desweiteren wird gerade die meinungsfreuheit abgeschafft. Wer nicht in die Jubelorgien in Bezug auf die illegalen Einwanderer einstimmt, da kommt der Gummiparagrapf der „Volksverhetzung“. Die Ökosozialisten haben fast ihr Ziel erreicht, dabei merken diese nixcht, daß sie auch nur für das internationale Finanzkapital arbeiten.
+MfG
+„Die Volkswirtschaftlichen Werte = Marktwirtschaftlicher Wohlstand = soziale Gesellschaft wird durch diese Politik der Bundesregierung Merkel Stück für Stück VERNICHTET.“
+Damit man nicht vergißt, wer das zu verantworten hat:
+CDU
+GRÖBUKAZ
+Angela Merkel
+Inneres
+Thomas de Maizière
+Finanzen
+Wolfgang Schäuble
+Verteidigung
+Ursula von der Leyen
+Gesundheit
+Hermann Gröhe
+Bildung und Forschung
+Johanna Wanka
+Kanzleramtsminister
+Peter Altmaier
+CSU
+Landwirtschaft
+Christian Schmidt
+Verkehr und Digitales
+Alexander Dobrindt
+Entwicklung
+Gerd Müller
+SPD
+Stellvertreter der Bundeskanzlerin / Wirtschaft und Energie
+Sigmar Gabriel
+Auswärtiges
+Frank-Walter Steinmeier
+Justiz und Verbraucher
+Heiko Maas
+Arbeit und Soziales
+Andrea Nahles
+Familie
+Manuela Schwesig
+Umwelt und Bau
+Barbara Hendricks
+Allerdings ist die zur Zeit einzig machbare Speichertechnologie für diesen Fall (viele GWh für Monate) Power2Erdgas (und die geht nur mit Gasinfrastruktur). Den Wirkungsgrad muss man dann also auch noch berücksichtigen.
+Ich habe keinerlei Mitleid mit RWE, EON und Co: Die hätten den Mut besitzen sollen, klipp und klar zu sagen (genügend Experten haben sie), dass die Abschaltung der Kern- und Kohlekraftwerke nicht möglich ist. Die Angestellten tun mir auch nicht leid, denn wer als RWE-Mitarbeiter für die „Energiewende“ stimmt, hat wohl wenig verstanden. Den Bach runter gehen die Unternehmen nun sowieso. Ganz ähnlich verhält es sich mit Siemens, da tut mir auch niemand leid. Und nach allen Angriffen gegen mich, die ich in letzter Zeit erlebte, tun mir die Deutschen, die lauthals die Energiewende fordern, auch nicht mehr wirklich leid. Wer meint, Meinungen bzw. Ideologie stehen über Naturwissenschaften/Technik, wird eben früher oder später die Quittung dafür erhalten. Ich kann den Menschen wohl nicht helfen – ich habe es aber mehrfach versucht.
+Herrn Bepplers Beitrag geht – leider – gar nicht auf die Netzstabilisierung ein. Mit der GW/TWh-Betrachtung alleine ist es nicht getan. Sigmar Gabriel, der sein Haus in Goslar übrigens keineswegs „klimaneutral“ heizt, ist das m.E. sowieso alles egal, ihn interessieren andere Menschen m.E. nicht, er will eben gewählt werden.
+Na ja, Goslar ist derart rot-grün, dass sie ihm wie die Lemminge folgen. Ich weiß nicht, was sein Handeln noch mit SOZIAL-Demokratie zu tun haben soll. Ich war mal SPD-Mitglied, für mich ist diese Partei nicht mehr wählbar. Ich warte darauf, dass die AfD, nachdem sie sich von ihrem, diktatorische Züge tragenden ehemaligen Vorstand verabschiedet hat, die Initiative ergreift. Mainstream-Gedanken kann ich der AfD nicht empfehlen, dafür gibt es ja schon das rot-grün-link-gelb-schwarze Bündnis.
+Da ist „einlagern“ von EEG-Strom auch noch kein Thema, höchstens ein Verteilungsproblem.
+Bei Überangebot an EEG-Strom kann man ja auch EEG-Anlagen abschalten, den Fernzugrief für die Abschaltung haben ja die Netzbetreiber, sonst gibt’s ja auch keine EEG-Vergütung.
+Gruß
+Werner
+Die deutsche Politik ist weder ein Freund der Energiewirtschaft bzw. Volkswirtschaft, weder ist diese Wirtschaftspolitik einer CO2 freien Ideologie ein Freund der Gesamtwirtschaft.
+Mit Mangel und Armut wird es dann auch keine Wirtschaft und Investoren mehr geben.
+Die politischen Grün-Sozialistischen Rahmenbedingungen mit ihren marktfeindlichen und damit gesellschaftsfeindlichen Gesetzen, Verordnungen und Bevormundungen geben keine Basis für ein wirtschafts Wachstum mehr her. Die Volkswirtschaftlichen Werte = Marktwirtschaftlicher Wohlstand = soziale Gesellschaft wird durch diese Politik der Bundesregierung Merkel Stück für Stück VERNICHTET.

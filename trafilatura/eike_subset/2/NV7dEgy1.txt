@@ -1,0 +1,180 @@
+Das hier übersetzte Original mit den Zusatzinformationen nimmt in WORD mehr als 40 Seiten ein. Also habe ich hier einen Auszug der langen Übersetzung auf den Server geladen. Mehr Details finden Sie in dem „hochgeladenen“ und übersetzten PDF. – Einleitung durch den Übersetzer
+Die Langversion meiner Übersetzung finden Sie als PDF
+Die oben angesprochene Studie finden Sie hier in englischer Sprache
+https://www.bsg.ox.ac.uk/sites/default/files/2020-11/BSG-WP-2020-032-v9.pdf.
+In der Studie der Hinweis auf aktuelle updates: https://covidtracker.bsg.ox.ac.uk/
+…
+Original Bericht Neil Lock auf
+https://wattsupwiththat.com/2020/12/06/covid-19-the-second-wave-in-europe/
+Die von Neil Lock angesprochene Definition der Original Studie, Kap. 4 finden Sie als PDF in Deutsch
+Variation in goverment response to covid-16
+…
+Vor einem Monat habe ich die Geschichte der COVID-19-Epidemie in vierzehn westeuropäischen Ländern verglichen. Zu diesem Zeitpunkt wurde die „zweite Welle“ des Virus, die sich seit drei oder vier Monaten in der gesamten Region gebildet hatte, von den Regierungen als Entschuldigung genommen, wieder mit der Einführung von Sperren zu beginnen. Also dachte ich mir, dass ich die Situation in ungefähr einem Monat überprüfen würde. Dieser Monat ist nun abgelaufen. Hier ist der Rückblick. Vielleicht, nur vielleicht, habe ich jetzt genug Daten, um eine Vorstellung davon zu bekommen, welche Sperrmaßnahmen wirksam waren und welche nicht.
+Hier die Liste der betrachteten Länder:
+- Österreich
+- Belgien
+- Dänemark
+- Frankreich
+- Deutschland
+- Irland
+- Italien
+- Luxemburg
+- Niederlande
+- Portugal
+- Spanien
+- Schweden
+- Schweiz
+- Vereinigtes Königreich
+Die Datenquellen sind dieselben wie zuvor: Our World in Data und die Blavatnik School of Government, beide an der Universität Oxford. Die Daten, die ich verwende, wurden am 3. Dezember veröffentlicht und sie enthalten Zahlen bis einschließlich 2. Dezember.
+In der letzten Woche hat sich die Sammlung auf „Unsere Welt in Daten“ erheblich geändert. Die meisten Daten vor der dritten Januarwoche wurden gelöscht. Einige Länder – zumindest Frankreich, Deutschland und Schweden – haben die Gelegenheit genutzt, viele ihrer Daten zu löschen und neu zu schreiben, einige davon bis zum Beginn der Epidemie. Und die Daten für britische Abhängigkeiten (Jersey, Guernsey, Isle of Man, Gibraltar) und dänische Abhängigkeiten (Färöer, Grönland) sind vollständig verschwunden. Ich hätte erwartet, dass diese Daten im Mutterland konsolidiert wurden. Aber zumindest für Großbritannien sehe ich keine Beweise dafür.
+…
+Außerdem haben die Schweden im November ihre Daten zur Stringenz der Sperrung komplett neu geschrieben und nun sieht es so aus, als ob ihr Lockdown seit Monaten nicht annähernd so leicht war, wie wir angenommen hatten. Nach all dem werde ich wiederholen, was ich schon oft gesagt habe: Es sind die besten Daten, die ich habe, also werde ich sie verwenden.
+Fälle
+…
+Hier ist die Grafik der täglichen Fälle pro Million zum Monatsende:
+Um dies ins rechte Licht zu rücken: Derzeit liegen nur Spanien, Irland und Frankreich unter den 200 neuen Fällen pro Million Einwohner pro Tag, bei denen die WHO das Virus als endemisch ansieht und keine Aufhebung des Lockdown in Betracht gezogen werden sollte. Vier weitere Länder, darunter Großbritannien, liegen jedoch nur geringfügig darüber.
+…
+Hier sind die Rt-Werte aufgeführt, die jedes Land im Verlauf der Epidemie geliefert hat. Mit Ausnahme von Schweden sind die Rt-Sätze im November gesunken:
+Großbritannien ist eines von nur vier Ländern mit einer RT-Rate unter 1 zum Ende November.
+Tests
+Die Anzahl der gefundenen [Inzidenz-] Fälle, hängt zumindest teilweise von der verfügbaren Testkapazität ab. Hier sind die kumulativen Tests, die pro 100.000 Einwohner in jedem Land durchgeführt wurden (mit Ausnahme von Schweden und Frankreich, in denen keine kumulativen Testzahlen angegeben sind):
+Luxemburg und Dänemark liegen mit der Anzahl der Tests, bezogen auf je 100.000 Einwohner weit vor den anderen. Tatsächlich ist die Anzahl der seit Beginn der Epidemie in Luxemburg durchgeführten Tests mehr als doppelt so hoch wie die Anzahl der Bevölkerung!
+Todesfälle
+…
+und ich habe ein Histogramm der Todesfälle pro Million angehängt, Daten zum 30. November. Sie können hier sehen, welche Länder begonnen haben, die zweite Welle zu „erobern“, und welche nicht.
+….
+Die vierte und letzte Grafik zeigt die kumulierten Todesfälle pro Fall über den gesamten Verlauf der Epidemie.
+Großbritannien (rosa Linie) schneidet bei den Todesfällen je Fall nicht gut ab. Es hat nach Italien das zweitgrößte Anzahl Todesopfer pro Tag. Und Großbritannien steht jetzt mit rund 3,6% an der Spitze der Liste der Todesfälle pro Fall über die gesamte Epidemie gesehen. Todesfälle pro Fall sind meines Erachtens ein fairer Indikator für mangelnde Qualität im Gesundheitssystem eines Landes. Aufgrund mangelnder Testkapazität und einer weniger wirksamen Behandlung derjenigen, die einen Krankenhausaufenthalt benötigen, wird dies tendenziell zu einer Erhöhung beider Dinge führen.
+…
+Im Original kommen hier Betrachtungen zu den einzelnen Ländern.
+…
+Deutschland
+…
+Die wahrscheinlichsten Ursachen für diese jüngste Stabilisierung scheint der 15. Oktober zu sein „Bleiben Sie zu Hause: Empfohlen“ und „Travel. Empfohlen nicht zu reisen“ Die Deutschen tun normalerweise das, was ihnen gesagt wird! Der 2. November: Beschränkung Gruppengröße, und die Schließung von einigen Arbeitsplätzen haben Rt reduziert, aber sie scheinen nicht so weit auf das Wachstum der Inzidenz Fälle viel Wirkung gehabt zu haben. Und für einen Großteil des Novembers lag Rt weit über 100%, aber die Anzahl der neuen Fälle wuchs nicht konstant.
+…
+Einige vorläufige Schlussfolgerungen
+In vielen Fällen ist es schwierig, eine starke Korrelation zwischen dem Erfolg gegen das Virus und einer bestimmten Sperrmaßnahme herzustellen. Ein Grund dafür ist, dass Regierungen gerne viele verschiedene Vorschriften erlassen, die alle am selben Datum beginnen. Daher ist es schwierig festzustellen, welche funktionierten und welche nicht. Die folgenden Schlussfolgerungen können daher nur vorläufig sein.
+Obwohl Schulen als Brutstätte für das Virus bekannt sind, konnte ich keine Beweise dafür finden, dass Schulschließungen, entweder empfohlen oder vorgeschrieben, allein während der zweiten Welle zu einem signifikanten Rückgang des Fallwachstums geführt haben.
+Arbeitsplatzschließungen scheinen in Belgien oder den Niederlanden nicht vorteilhaft gewesen zu sein, und ihre Wirksamkeit in Deutschland ist zweifelhaft. Es gibt jedoch Hinweise darauf, dass sie in Italien einen Unterschied gemacht haben, und vielleicht auch in Portugal und der Schweiz.
+In den meisten Ländern wurden (und werden) Großveranstaltungen abgesagt. Wenn ein Land diese Maßnahme gelockert hat, scheint sich eine erneute Einführung häufig positiv auf die Anzahl neuer Fälle ausgewirkt zu haben. Zumindest in Irland, Luxemburg, den Niederlanden und Spanien. Es scheint jedoch keinen klaren Vorteil zu geben, diese Maßnahme in Belgien erneut durchzusetzen.
+Die Reduzierung der maximalen Versammlungsgröße auf 10 oder weniger scheint in Österreich, Belgien, Italien, Spanien und Großbritannien wirksam gewesen zu sein. Das einzige Land, in dem es keinen großen Unterschied gemacht zu haben scheint, sind die Niederlande.
+Die Einstellung öffentlicher Verkehrsmittel, scheint während der zweiten Epidemiewelle kein wesentlicher Faktor gewesen zu sein.
+Die Anforderungen für den Aufenthalt zu Hause scheinen einen signifikanten Effekt gehabt zu haben. Allein die Empfehlung, zu Hause zu bleiben, hat in Österreich, Deutschland und Großbritannien Auswirkungen. In Belgien, Spanien und vielleicht auch in Luxemburg scheint es einen Unterschied gemacht zu haben, zu Hause zu bleiben.
+Auch Reisebeschränkungen machen einen Unterschied. Selbst eine Empfehlung, nicht zu reisen, hat sich in Deutschland und den Niederlanden positiv ausgewirkt. Obligatorische Reisebeschränkungen waren in Irland und wohl auch in Spanien wirksam. Und eine Mischung aus beiden hat wahrscheinlich in Großbritannien Wirkung gezeigt.
+Die einzigen Länder, die ihre internationalen Reiseregeln im Oktober oder November geändert haben, sind Deutschland, die Schweiz und Italien. Ich würde erwarten, dass die Auswirkungen dieser Änderungen vernachlässigbar waren, da internationale Reiseverbote und Quarantänen in Zeiten, in denen das Virus in einem Land auf einem niedrigen Niveau ist, weitaus größere Auswirkungen haben würden, als wenn es – wie jetzt – höher ist als im Rest der Welt.
+Aus Belgien, Frankreich, Spanien und dem Vereinigten Königreich geht hervor, dass Masken für die breite Öffentlichkeit keine positiven Auswirkungen haben. In der Tat ist es angesichts der Daten nicht von der Hand zu weisen, dass das Tragen von Gesichtsbedeckungen in der Öffentlichkeit tatsächlich noch zur Verbreitung des Virus beiträgt.
+https://wattsupwiththat.com/2020/12/06/covid-19-the-second-wave-in-europe/
+Übersetzt durch Andreas Demmig
+Fundstücke zum Thema
+Review report Corman-Drosten et al. Eurosurveillance 2020
+Die externe Begutachtung des RTPCR-Tests zum Nachweis von SARS-CoV-2 durch Fachkollegen zeigt 10 wichtige wissenschaftliche Mängel auf molekularer und methodischer Ebene: Konsequenzen für falsch positive Ergebnisse.
+https://cormandrostenreview.com/report/
+….
+Das blieb natürlich nicht unwidersprochen, hier auf Focus online
+Internationale Forscher stecken hinter Papier
+Schmidt-Chanasit zerlegt Anti-Drosten-Gutachten: „Desinformationskampagne“
+… Mit der Corona-Pandemie erleben auch Verschwörungstheorien einen Aufschwung. Nun kursiert ein seltsames Papier in den sozialen Medien, in dem behauptet wird, Christian Drostens PCR-Test funktioniere nicht. Was es mit der These auf sich hat, erklärt Virologe Jonas Schmidt-Chanasit in einem aktuellen Interview.
+https://www.focus.de/gesundheit/news/internationale-forscher-stecken-hinter-papier-virologe-schmidt-chanasit-haerte-kann-man-nicht-einfach-mit-wirksamkeit-gleichsetzen_id_12752954.html
+…
+Da darf der universelle Unheilsprophet nicht fehlen
+Harald Lesch rechnet mit Corona-Egoisten ab: „Zeigt, dass Ethik-Unterricht versagt hat“
+https://www.focus.de/gesundheit/coronavirus/bei-ttt-harald-lesch-rechnet-mit-corona-egoisten-ab-zeigt-dass-ethik-unterricht-versagt-hat_id_12742344.html
+Und hier mein derzeitiges liebstes Fundstück:
+Botschafter warnen Simbabwe vor Freiheitseinschränkungen wegen Corona
+Düsseldorf, 28.08.2020
+Wie handelsblatt.com berichtet, haben die Botschafter Deutschlands, Kanadas, Norwegens, der USA, der Niederlande, Polen und Großbritannien, die Regierung von Simbabwe ermahnt, die Rechte der Bürgerinnen und Bürger nicht im Namen der Corona-Krise einzuschränken.
+https://www.transparency.de/aktuelles/detail/article/botschafter-warnen-simbabwe-vor-freiheitseinschraenkungen-wegen-corona/
+https://unternehmer-stehen-auf.de/
+https://www.youtube.com/watch?v=gQK3hhk_qPg
+Lustiges zum 3. Advent:
+Wir sind die 99 Prozent, steckt euch die Maske in den Ar***
+https://www.youtube.com/watch?v=aKSSOgs2-Ns
+Zum Video. Schicke ich zur Erheiterung mal an meine Bekannte. Wer sich lächerlich machen will, der macht das halt so.
+a) wir haben keine Pandemie – jedenfalls nicht in dem Sinne, den Sie glauben (= religiöse Probleme), somit keine 1. Welle, schon gar keine 2. Welle und auch keine Gott-weiß-wie-viele-Wellen-noch-kommen-werden
+b) die Virentheorie ist nur eine Theorie = Fiktion (keine Fakten)
+c) die Infektionstheorie ist nur eine Theorie = Fiktion (keine Fakten)
+d) Impfen war schon imme ein „Angriff mit einer tödlichen Waffe“ (Dr. C.)
+e) wir haben etwa 6-8 Millionen Depressive im Lande (= Strahlenopfer)
+f) wir haben etwa 8-24 Millionen Schallopfer im Land (=VAD + WTS = Windturbinenerkrankungen)
+Also… glauben (= Religosität, eventuell gar religiöser Wahn) Sie wirklich, also jetzt echt ganz wirklich, daß die genozidal gewordenen Herrscher an Bevölkerungsschutz interessiert sind? Glauben Sie das echt? Es gibt hilfreiche Videos auf Youtube zur Entkalkung der Zirbeldrüse und zur Entgiftung und Ausleitung von Schwermetallen und zur Beseitigung von Elektrosmog – für bzw. gegen Schall gibt es nichts – außer 8 Meter dicke Hausmauern, die hat wohl kaum Einer!
+das menschliche Gehirn hat nun mal die allgemeine Fehlfunktion, dass es zwischen „richtig“ und „falsch“ nicht nach der Wirklichkeit beurteilt, sondern nach dem eigenen Weltbild. manchmal kommt es dazu, dass das eigene schiefe Weltbild auf Druck der Wirklichkeit sich verändert, ist aber eher selten…
+Wenn man so fasziniert ist vom ewig prophezeiten und endlich eintretenden Weltuntergang (oder zumindest einen halben in Form einer Pandemie) wie unser Herr Krüger, dann läßt man sich nicht einfach mit paar Fakten den Triumpf ausreden…
+Musste schon paar Mal jemanden beim letzten Weg begleiten und habe erlebt, wie man mit puren Überlebenswillen den Tod um viele Monate im Vergeich zu Prognose verschiebt, und auch, dass nach innere Aufgabe es nicht mehr Tage, sondern Stunden dauert. Bin nicht der Einzige, der so etwas erlebt hat. Es gibt schöneres, als mit Kopfschmerzen und leichtes Fieber zu arbeiten, ich konnte mir aber nie die Bettruhe leisten, also habe ich mich ein Tag gequält und das Virus war weg.
+Herr Krüger hat sich über mich lustig gemacht, dass Einstellung wichtiger ist als alles andere… Lassen sie ihn vor angst sterben….
+Positives Lebensgefühl und gutes Essen reicht für die übergroße Mehrheit, nur die, die von Natur aus körperlich benachteiligt sind müssen sich mehr Gedanken machen.
+ich wünsche allen Gute Laune und keine Angst vor Viren!
+Kann mich nicht entsinnen. Ich mache mich aber tatsächlich über Leute bei den Querdenkern lustig, die mit Aluhut und Fischernetzen übern Kopf, Zorro-Masken, etc, auftreten. Zumindest finde ich es sehr erheiternd. Auch Videos von diesen Leuten.
+Ich persönlich sehe mich als Klima- und Corona-Realist. Natürlich gibt es Klimawandel, nur die Größe der vom IPCC und PIK und Co. prognostizierten Klimasensitivität und die Kipppunkte zweifle ich an. Lehrbuchwissen nicht.
+Corona und Covid-19 zweifle ich nicht an. Der Virus existiert und auch seine Wirkung auf das Nervensystem und die Organe. Der PCR-Tests und Antikörper-Tests sind hinreichend gut, da die Zahl der Neuinfektionen und die darauf folgende Übersterblichkeit weltweit gut übereinstimmt. Zudem erzeugt Covid-19 Symptome, die nicht typisch für eine normale Grippe etc. sind.
+Die Impfungen halte ich auch für hinreichend gut und wirkungsvoll. Nebenwirkungen wie Autoimmunreaktionen und eine fehlende Langzeitwirkung, wie bei Vorgängerimpfstoffen (mRNA-Impfstoffen) wurden bisher nicht belegt! Zudem kommen diese neuen Impfstoffe schon lange bei Schweinen, etc. gegen Corona zum Einsatz!
+Das sind die Fakten, die ich als Wissenschaftler unmittelbar nachprüfen kann.
+Wenn dann Leute mit wilden Verschwörungstheorien ankommen wie Genozid, 5G, Gates, Sterilisationen, Chippen, etc.. dann finde ich das erheiternd und belustigend. Aber sie können sich gerne selbst zu Witzfiguren machen, wenn Sie mir das nicht abnehmen wollen?
+die wirkliche weltpolitische Problematik mit Coronavirus SARS CoV-2 haben in diesem Forum vor allem Herr Gürol Salk und Herr Matthias Kegelmann beschrieben und dokumentiert. Herr Michael Krüger begreift nicht die strategischen Ziele Chinas bei dieser Pandemie und Frau Sabine Interthal ist zu sehr in Verschwörungstheorien befangen, um den wirklichen Skandal zu erfassen. Ich möchte dies daher nochmals kurz darstellen :
+1) China ist der strategische Gewinner dieser Pandemie : China hat als totalitärer Staat in einer Welt mit demokratischen Staaten tatsächlich Dank des Coronavirus SARS-CoV-2 einen gewaltigen ökonomischen Vorteil. Während die mehr oder weniger demokratischen Staaten der Erde durch ein Hickhack von Lockerungen und Shutdowns/ Lockdowns ihre Wirtschaft sukzessive ruinieren, ist es für China als totalitärer Staat kein Problem, durch längeres Wegsperren von Menschen in Quarantäne dafür zu sorgen, dass z.B. ein PCR-Test keine RNA-Bruchstücke von Coronaviren oder deren „Verwandten“ mehr anzeigt und man der eigenen Bevölkerung sowie der Weltöffentlichkeit weismachen kann, dass man die Covid-19 Pandemie besiegt hat. Das Entscheidende dabei ist, dass China jetzt ohne Shutdowns / Lockdowns seine Industrie wieder hochfahren kann, was für den demokratischeren Teil der Welt nicht möglich ist. Nur naive Menschen wie Herr Krüger loben daher China für seinen Erfolg in der Pandemie während eigentlich nur Taiwan gelobt werden dürfte, welches als demokratischer Staat die Probleme mit Lockdowns oder Shutdowns vermeiden konnte.
+2) Die Impfung mit mRNA–Impfstoffen ist so schnell nicht möglich : Patentrechte erlauben es nur den Unternehmen, die diese Impfstoffe entwickelt haben, diese auch zu produzieren. Deshalb wird trotz Aufbau vieler Impfzentren, die z.B. in Deutschland abgesehen vom Impfstoff bereits fertig eingerichtet sind, eine „flächendeckende Impfung“ noch einige Zeit dauern, weil nicht so viel Impfstoff zur Verfügung steht. Außerdem wird der Impfstoff zunächst in ärmeren Ländern auf Wirksamkeit und Nebenwirkungen getestet (offiziell wird dies so begründet, dass man nicht egoistisch den Impfstoff nur der eigenen Bevölkerung zugute kommen lassen will sondern sich solidarisch mit der Weltgemeinschaft zeigen möchte – ein Schelm, wer schlechtes dabei denkt). Spaß beiseite. Wir haben tatsächlich nur die Wahl zwischen Teufel und Belzebub ! Entweder wir lassen uns mit einem nicht korrekt auf Nebenwirkungen getesteten Impfstoff impfen oder wir müssen weiterhin unter Lockdowns / Shutdowns leiden ! Dies alles zum Wohl der zukünftigen Weltmacht China Frau Interthal, Hand aufs Herz : Was ist Ihnen lieber : weiter lange Lockdowns oder Shutdowns oder eine mit Risiken behaftete Impfung ? Eine andere Wahl haben weder Sie noch ich noch Herr Georgiew noch…. ! Auswandern nach China – das wäre sehr naiv !
+Tagelang immer nur das eine Thema, alles andere im Forum weggeblendet. Endlich mal eine reelle tödliche Gefahr für die Menschheit, da muss man unbedingt pausenlos darüber sabbern und sich aufgeilen, dass diesmal nicht alles nur eingebildet ist….
+Natürlich gibt es das Virus. Wie Millionen andere auch. Natürlich ist es manchmal tödlich, wie Tausende andere auch. Und wenn man ein Schnipsel Erbinformation von einem Virus findet, der mit dem Schnipsel von Cov 19 identisch ist, ist man Cov 19 krank??? Wie schlicht muss man denn naturwissenschaftlich im Kopf funktionieren, um den Unfug zu glauben. Hat Ihnen niemand beigebracht, dass die DNA von Mensch und Maus zu 97% identisch ist? Nur wenn mann die Erbinformation aller, auch die bisher Millionen noch nicht entdeckte Viren auswendig kennt, kann man Sequenzen bestimmen, die nur bei cov 19 einzigartig sind. Dann schlägt der Test nicht mehr bei Cola an. So ist es nur ein Drosten-Spielchen für Dumpfbacken.
+Da es sich um Viren und nicht um Bakterien handelt, sind die chemischen Kampfstoffe wesentlich uneffektiver, es kommt vor allem auf das Immunsystem an. Das hat Ihnen auch niemand erzählt.
+Das ganze wird so hochgespielt, damit Mister Pfitzer und die Wallstreet Milliarden machen und in Deutschland ganz besonders, weil Lady Kastner den Maulkorb für das Volk nicht nur im übertragenen Sinne haben will, sondern auch gut sichtbar mit Polizeigewalt durchsetzen will. Damit wir merken, dass wir nur mit ihrer Zustimmung den Mund öffnen dürfen.
+Sie sollten sich ein ich-habe-vor-Corona-große-Angst-Forum suchen, da wird man Sie ehren.
+ich wollte eigentlich nur deutlich machen, dass eine sinnvolle Disskuson mit Herrn Krüger über die Pandemie nicht möglich ist. Sein Lebensinhalt ist wohl geworden, Blogger vor den Gefahren von Corona zu warnen. Dass ich nicht jede Behauptung von Frau Interthal glaube steht auf einem anderen Blatt.
+Bei allem Respekt vor Ihrem medizinischen Wissen erlaube ich mir eine andere Meinung. Man kann das Virus nicht (mittels Impfung) besiegen, sondern muss lernen, damit zu leben. Den größten Teil erledigt die Natur selbst. So wie Indianerstämme bei der Ankuft der Europäer durch das Schupfenvirus ausgerottet wurden und heute nur noch Nase putzen, so passen sich Wirt und Virus auch diesmal an. Die gattung Homo ist bekanntlich ohne Impfung Millionen Jahren mit Viren klar gekommen. Und ich setze mehr auf mein Immunsystem, dass definitiv auch vom eigenen Willen abhängig ist, als auf Impfung.
+Über den politischen Teil des Poblems werde ich in der aktuellen Eike-Artikel schreiben, da passt es besser.
+MfG
+Peter Georgiev
+Endlich! Die Impfung kommt! Auf dem rechten Weg in die Pandemie
+https://www.youtube.com/watch?v=dMRncpIYiGA
+Notbremse am 3. Advent: die Kanzlerin rettet uns!
+https://www.youtube.com/watch?v=Yeq_LTf7ZwQ
+Dr. Fiechtner ist absolut echt, er ist Arzt und Gynäkologe oder Onkologe und wie er diese widerwärtige, wahnsinnige *otze (sorry, Entgleisungen passieren mir tatsächlich nie, aber das ist echt zuviel!) hinter sich ertragen kann, ohne gewalttägig zu werden,
+grenzt an ein Wunder, es ist mir ein Rätsel (obwohl ich normal sehr friedfertig bin, jedenfalls bis vor etwa 2 Jahren 🙂 Das hat sich jetzt etwas verschoben, seit ich bemerkt habe, dass sie die Herrscher durch ihre willigen grünen Schwachköpfe und geldgierigen Windbauern großflächigen Genozid betreiben… jedenfalls:
+Wutrede von Dr. Heinrich Fiechtner: „Ein Impfstoff braucht Jahre, um entwickelt zu werden“
+https://www.youtube.com/watch?v=TL-FeZVQUH4
+Was ist denn das für eine Diskussion zwischen Ihnen – von beiden Seiten reine Emotionen ohne Fakten ! Wenn Frau Interthal der Meinung ist, dass es keine Viren gibt, ist dies genauso Bullshit wie die Behauptung von Herrn Krüger, dass Herr Fiechtner ein Aluhutträger sei. Sie beide müssen es lernen, mit anderen Meinungen vernünftig umzugeben. Ich zitiere als Beispiel einmal einen ehemaligen Kollegen von mir, der zu vielen Themen eine sehr dezidierte Meinung hatte aber eben auch Humor besaß und selbstkritisch war. Als ihm jemand einmal vorwarf, dass er sehr intolerant sei, antwortete er. “ Im Gegenteil, ich bin sogar sehr tolerant. Ich akzeptiere jede Meinung. Diese muss nur mit meiner Meinung übereinstimmen. ((-))“ Haben Sie beide Humor? Wenn ja, dann haben Sie dieses Zitat auch gut verstanden !
+Das nicht, er trägt aber schon mal selbstgehekelte Masken, etc.. In den Videos, die und deren Kanal von youtube gelöscht wurde.
+Für mich ist das Kabarett.
+https://www.youtube.com/watch?v=FF5B_rZUBWg
+Der sollte damit in der Anstalt im zdf auftreten.
+Wer sich optimal schützen will, der muß seinen Einkauf komplett desinfizieren und sich von den sog. „Lieben Mitmenschen“ fern halten. Aber selbst in der Uni halten einige Typen untereinander nicht den Abstand ein. Obwohl da die Sitzbereiche mehr als zwei Meter voneinander entfernt sind gibt es Laberheinis die zu den Studienkollegen hingehen und direkt aus weniger als 50 cm mit denen labern, der eine mit Lappen vorm Gesicht, der andere an seinem Sitzplatz ohne. Das Ergebnis meiner Beobachtungen ist: Die Dummheit mancher Typen ist halt grenzenlos. Und dementsprechend wird die Zahl der Infektionen weiter nach oben gehen, und das rapide.
+das „Partymachen“ geht auch dann nicht, wenn wir das Virus „im Griff“ haben. Hier besteht ein grundlegender Irrtum, weil dieses Virus bleibt, wie auch die anderen Corona-Viren. Was nicht bleiben sollte, ist die Angst vor diesem Virus, denn wir müssen mit ihm leben. Haben Sie schon einmal darüber nachgedacht, warum wir diesem Virus so viel Aufmerksamkeit schenken und dabei außer acht lassen, dass sehr viel mehr Menschen an anderen Krankheiten sterben? An Pneumokoken ca. 40 000 Menschen pro Jahr, Krankenhauskeimen ca. 20 000 Menschen; noch weitere Beispiele gefällig. Dieses Virus ist in seinen Auswirkungen – und hier meine ich Todesfälle – ein „kleines Problem“, wobei ich nicht meine, dass es im Einzelfall nicht zu dramatischen Auswirkungen gesundheitlicher Art führen kann.
+Bedenken Sie das wir mit einem harten Lockdown den Ast absägen auf dem wir alle sitzen? Unser aller Lebenserwartung ist verbunden mit wirtschaftlichen Wohlstand. Früher erreichten nur wenige Menschen das Alter der meisten Corona Verstorbenen.
+Warum nicht die gefährdeten Menschen besser schützen. Geld direkt fürs Gesundheitssystem ausgeben. Ihr Beispiel China hat nicht nur einen Lockdown gemacht sondern auch in kurzer Zeit ein Krankenhaus aufgebaut und medizinische Einsatztrupps ins Krisengebiet geschickt. Dort hat man aber nie die komplette Wirtschaft lahm gelegt. Aus gutem Grund. Gesundheit kostet Geld das verdient werden muss.
+Auch die Nachverfolgung ist dort anders als hier mit technischen Mitteln effektiver möglich und scheitert nicht an der Zahl 50. Taiwan ist zudem eine Insel. Geschlossene Grenzen sind auch wichtig. Siehe aktuell die Grenznähe der deutschen Risikogebiete.
+Ausserdem bin ich überzeugt das man mehr auf lokale Maßnahmen und pass genau setzen sollte. Beispiel ich war im einem grossen Elektronik Geschäft ein Weihnachtsgeschenk kaufen. Auf 100 m2 der einzige. Dieser soll geschlossen werden? Warum nicht Einkauf in einem kleinen Fachmarkt mit Terminvereinbarung und größtmöglicher Sicherheit. Zum Beispiel Tapeten im Malergeschäft? Wie ist es im Supermarkt in den auch die Risikogruppen einkaufen müssen. An den Kassen ist Schluß mit Abstand da die meisten Läden nicht so gebaut wurden das dies möglich ist. Einfache Maßnahmen wie telefonische Bestellung (70+ Generation bewegt sich nur selten im Internet) und Abholung auf dem Parkplatz oder gegebenenfalls Bringdienst schützt vor unnötigen Kontakt. Supermärkte sollen ja offen bleiben trotz der viel höheren Kundendichte.
+Wobei ich mich persönlich als ehrenamtlicher Helfer gemeldet habe durch den Sportverein, der Kirche und dem Landkreis. Mein Angebot Einkäufe zu erledigen wurde von der Risikogruppe überhaupt nicht angenommen. Den anderen Freiwilligen geht es ähnlich. Die Kommunikation der Politik sollte auch der Risikogruppe klar machen diese Möglichkeit zu nutzen um uns alle vor Schaden zu bewahren.
+Als ehemaliger FSJ ler/Zivi wäre ich auch bereit im Krankenhaus oder Pflegeheim ehrenamtlich zu helfen um das Personal zu entlasten so gut es geht. Einen Aufruf sich zu melden ist mir bis jetzt nicht bekannt. Wobei ich überzeugt bin das viele dies gerne machen würden.
+Als nicht Unternehmer oder Beschäftigten in den betroffenen Bereichen ist es leicht einen Lockdown zu Verlangen. Aber ungefähr so als wenn man jemand anders verpflichtet seinen Arm zu verlieren beim Versuch jemanden zu retten, der dann unter Umständen trotzdem sein Leben verliert. Womit wir bei etwas sind das man Trolly Problem nennt. Moral ist immer subjektiv und an Bedingungen geknüpft. Wäre ich bereit meinen Arm zu opfern um alles zu tun mein Kind zu retten? Ja. Jemand Fremden schon weniger. Ist es leichter jemand anders auf die Schienen der anfahrenden Bahn zu schubsen um vermeintlich jemand zu retten? Es sieht so aus.
+Bis jetzt wurde garnichts getan was einfach umsetzbar wäre. Es wird auch nicht versucht das mildeste Mittel zu finden. Auch wenn es einige zuerst trifft am Ende sind alle vom grossen Hammer getroffen. S
+Dann weiß man wie man eine Covid-19-Pandemie in den Griff bekommt. Und was hilft.
+1. Masken, Abstand, Hygiene, sozial Distancing
+2. Nachverfolgung durch Gesundheitsämter und Apps, etc.
+3. Bei steigenden Zahlen einen harten Lockdown durchführen, damit die Nachverfolgung wieder funktioniert
+4. Wenn man die Lage wie die genannten Länder oben wieder in den Griff hat, dann kann man wieder Party machen
+Europa und die USA zeigen, wie man es nicht macht. Verlierer mit anderen Verlieren zu vergleichen und draus Schlüsse ziehen wollen, bringt da wenig.
+Und Schüler benehmen sich in der Schule und lassen danach die Sau raus, wie ich jeden Tag selbst erlebe.
+Hinzu kommen Laternenumzüge, Glühweinbuden und Cornering!
+die Situation entspricht der, welche wir in jedem Sommer/Herbst/Winter/Frühjahr haben.
+Es sterben Menschen. Offenbar haben wir eine erhöhte Aufmerksamkeit auf Pflegeheime. Dort sterben die Menschen meist in kurzem Durchlauf – woran auch immer. Bisher hat es meist Niemanden interessiert, wenn die Ü-80 „verschwunden“ sind.
+Ihre Hinweise, wie man Covid-19 in den Griff bekommt bleiben, nach wie vor, vollkommene Brühe.
+Jeder, der mit PSA zu tun hat weiß, daß der Maskenwahn völliger Blödsinn ist.
+Die Keimlappen wirken gegen Viren, wie ein Maschendrahtzaun gegen Fliegen.
+Bei P2, oder p3 Masken ist das nur unwesentlich besser. Allerdings haben Sie da einen erheblichen Atemwiderstand. Das ist ein erhebliches Gesundheitsrisiko.
+Bei Verwendung solcher Filterklassen ist nach 2 Stunden eine halbe Stunde Pause zwingend vorgeschrieben. Nicht aus Geigel, oder Blödheit, sondern aus Gesundheitsgründen.
+Ich habe vorgestern einen Fernsehbeitrag gesehen, wo zwei ältere Leute wild pumpend den Fragen von Reportern Antwort standen.
+Diese Masken schützen vor Staub. Kein normal denkender Mensch würde sie für eine andere Situation verwenden. Aber diese Menschen gefährden sich damit, weil sie ihren Körper überlasten.
+Im übrigen gibt es eigentlich keine Rückverfolgung von Kontakten mehr. Grundsätzlich ist dies auch fraglich, da Corona-Viren nicht an den Menschen gebunden sind, sondern frei in der Tierwelt rotieren.
+Deshalb ist es auch vollkommen egal, wie hart Sie irgendeinen shutdown fahren.
+Die „Grippewelle“ geht bis April – mit oder ohne shutdown.
+Und wo bitte gibt es bei Ihnen Lampionumzüge, oder Glühweinstände?
+Bewegen Sie sich nur im Netz, oder gehen Sie auch mal vor die Tür?
+Aber in einem Punkt haben Sier recht. Die große Party kommt sowieso.
+In den üblichen Brennpunkten wird die Bereitschaftspolizei, wie immer, die Sylvesternacht verbringen.
+Viele Grüße
+S. Eulitz
+Ich habe zufällig die 29. Folge des ACU gesehen, mit Viviane Fischer udn Dr. Füllmich, u Gast zur Befragung Herr Dr. Ly, deutsche Herkunft und seit Jahren als Seuchenarzt in Krisenländern unterwegs, zur Zeit in Thailand in diversen Krankenhäusern. Der PCR-Test, welcher genau kann ich nicht sagen, wird jedenfalls nur gezielt eingesetzt bei eindeutigen Symptomen von Kranken, bzw, mögl. Infizierten mit Symptomen. Nicht wie in D wöchentlich bei Millionen zufällig ausgesuchten, symptomfreien Menschen, dementsprechend gering sind auch die „Fälle, Infinzierten und Kranken“ die mit COVID-19 infiziert sind. Wenn man das weiß und vergleicht, dann kann sich jeder Idiot an 2 Fingern abzählen, warum das „Infektionsgeschehen“ dort und in Europa so weit auseinanderklafft. Von den dauerhaften klimatischen Bedingen dort in Thailand mal ganz abgesehen, aber hätte man hier in diesem warmen Sommer nicht angefangen mit dieser idiotischen Testerei millionenfach pro Woche, wäre die „Pandemie“ der falsch Positiven vorbei gewesen, vor Monaten schon!
+Diese ganzen Diagramme da oben gehen von offiziellen Zahlen des RKI oder Johns Hopkins aus, vermute ich,und beruhen auf der Vermutung, dass die über den PCR-Test gemeldeten Positiv-„Fälle“ allesamt auch Positiv sind. Schön! Ein paar Zeilen darunter steht folgendes:
+Was heißt das konkret für die Zahlen und Diagramme oben im Artikel?
+Die Grundlage der Erhebungen, der statistischen Auswertungen und der Diagramme ist äusserst zweifelhaft, man muss annehmen, dass diese Zahlen der positiven Tests bewusst oder unbewusst manipuliert sind. Was das für die Auswertungen oben heißt muss ich wohl nicht extra erwähnen. Wie gesagt, ich habe nur Grundwissen was PCR und Statistik u.ä. angeht, aber logisch denken kann ich noch!
+Epoch Times von heute:
+Kritik an PCR-Test-Studie von Corman und Drosten – 22 Wissenschaftler fordern Widerruf
+https://www.youtube.com/watch?v=PnGF_B-xJ_k

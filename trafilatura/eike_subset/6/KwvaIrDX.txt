@@ -1,0 +1,112 @@
+Bild rechts: Graphik Steven Goddard
+In dem Beitrag mit den April-Daten wurden in den Schlussfolgerungen folgende Fragen gestellt: „Warum laufen die neuen Satelliten- und Beobachtungs-Datensätze in unterschiedliche Richtungen? Kann man sich irgendeinen Grund vorstellen, dass beide gleichzeitig korrekt sein können?“
+Prof. Robert Brown von der Duke University hat zu diesen Fragen eine exzellente Antwort hier gegeben. Um dieser Antwort die gebührende Aufmerksamkeit zu verschaffen, folgt hier der vollständige Kommentar:
+Rgbatduke 10. Juni 2015
+Die beiden Datensätze sollten nicht divergieren. Punkt! Es sei denn, unsere Kenntnisse über die thermische Dynamik der Atmosphäre sind falsch. Das heißt, ich werde meine „Meinung“ hinzufügen und belegen, dass diese auf einfacher Atmosphärenphysik beruht, die sich in jedem relevanten Lehrbuch findet.
+Dies bedeutet nicht, dass sie nicht systematisch differieren, sondern es bedeutet einfach, dass die zunehmende Divergenz ein starker Beweis eines Bias‘ ist bei der Berechnung des Oberflächen-Datensatzes. Dieser Bias kommt nicht wirklich überraschend angesichts der Tatsache, dass jede neue Version von HadCRUT und GISS insgesamt Gegenstand von Abkühlung in der Vergangenheit und/oder Erwärmung in der Gegenwart ist. Das ist genauso unwahrscheinlich wie wenn man zehn- oder zwölfmal eine Münze wirft und sich jedes Mal ,Zahl‘ für beide Produkte zeigt. Tatsächlich, wenn man hier die Null-Hypothese aufstellt, dass „die Korrekturen der globalen Temperaturanomalien unverzerrt“ sind, beträgt der p-Wert dieser Hypothese weniger als 0,01, geschweige denn 0,05. Falls man beide wesentlichen Erzeugnisse zusammen betrachtet, ist er sogar kleiner als 0,001. Mit anderen Worten, es steht absolut außer Frage, das die Daten von GISS und HadCRUT mindestens an diesem Punkt hoffnungslos korrumpiert sind.
+Eine Art und Weise, mit der sie korrumpiert sind, ist der bekannte Wärmeinsel-Effekt (UHI), bei dem städtische Daten oder solche von unangemessen aufgestellten Wetterstationen eine lokale Erwärmung zeigen, die nicht der räumlichen Mitteltemperatur in der umgebenden Landschaft entspricht. Dieser Effekt ist substantiell und eindeutig erkennbar, wenn man beispielsweise bei Weather Underground hineinschaut und die Temperaturverteilung an persönlichen Wetterstationen (PWS) in einem Gebiet betrachtet, in dem sich sowohl innerstädtische als auch ländliche Messpunkte befinden. Die städtischen Temperaturen zeigen konstant eine Temperatur, die um 1 bis 2 K höher liegt als in der umgebenden Landschaft. Temperaturen an Flughäfen haben oftmals das gleiche Problem, da sich die Messpunkte willkürlich direkt neben den großen asphaltierten Rollbahnen befinden. Primär werden sie dazu gebraucht, um den Piloten und den Fluglotsen zu helfen, Flugzeuge sicher landen zu lassen, und nur sekundär werden die dort gemessenen Temperaturen fast unverändert als „die offizielle Temperatur“ jenes Ortes verwendet. Anthony Watts hat hierzu systematische Untersuchungen angestellt, und es handelt sich um ein ernstes Problem bei allen wesentlichen Anomalien der gemessenen Temperaturen.
+Das Problem mit dem UHI besteht darin, dass er systematisch zunimmt, unabhängig davon, was das Klima macht. Städtische Zentren wachsen immer weiter, mehr Einkaufszentren werden gebaut, mehr Straßen zugepflastert, und all das dehnt sich immer mehr aus, womit der Abstand zwischen den schlecht aufgestellten offiziellen Wetterstationen und der nächstgelegenen unberührten Landschaft immer größer wird.
+HadCRUT trägt dem UHI in keiner Weise Rechnung. Falls es das tun würde, müsste die Korrektur im gesamten Datensatz eine mehr oder weniger gleichmäßige Subtraktion sein, die proportional zur globalen Bevölkerung ist. Diese Korrektur wäre natürlich eine abkühlende Korrektur und nicht eine erwärmende, und während es unmöglich ist zu sagen, wie groß diese Korrektur ist, wenn man sich nicht durch die unbekannten Details wühlt, wie HadCRUT berechnet wird und aus welchen Daten.
+…
+Bei GISS ist es sogar noch schlimmer. UHI-Korrekturen werden zwar angebracht, doch endet dies entweder neutral oder negativ. Das ist so, anstatt dass der UHI, der relativ zur Vergangenheit eine abkühlende Korrektur erfordert im Vergleich zur Schätzung unverzerrter globaler Temperaturen, zu einer Erwärmungs-Korrektur führt. Als ich das erkannte, war ich sprachlos – und voller Bewunderung für das Team, dass diese Untersuchung durchgeführt hatte. Ich möchte, dass sie für mich meine Steuern berechnen. Am Ende kommt heraus, dass die Regierung mir Geld schuldet.
+In der Wissenschaft jedoch stehen sowohl GISS als auch HadCRUT (und auch alle anderen Temperaturen schätzenden Institutionen, die gleiche Verfahren anwenden) vor einem ernsten, ernsten Problem. Sicher können sie Schlagzeilen ausstreuen, bei denen die Gegenwart umgeschrieben und der Stillstand hinweg geschrieben wird. Sie können ihre politischen Herren zu Gefallen sein und ihnen ermöglichen eine skeptische (und empfindliche!) Öffentlichkeit davon zu überzeugen, dass wir hunderte Milliarden Dollar ausgeben müssen, um ultimativ die Emission von CO2 zu stoppen, was gut über eine Billion Dollar anwachsen könnte, wenn wir dem Rest der Welt „helfen“ müssen, Gleiches zu tun. Sie können die Alarmisten in ihrem Glauben bestärken, dass ihre wissenschaftliche Verlogenheit dem höheren Ziel dient, den „Planeten zu retten“. Aber die Wissenschaft ist unabhängig von ihren menschlichen Wünschen oder Notwendigkeiten! Eine fortgesetzte Divergenz zwischen jedem wesentlichen Temperaturindex einerseits und RSS/UAH andererseits ist unfasslich und ein einfacher Beweis, dass die Temperaturindizes korrumpiert sind.
+Um es direkt zu sagen, die Divergenz ist schon jetzt groß genug, um die Augenbrauen zu heben, und wird nur ein wenig durch die Tatsache kaschiert, dass RSS/UAH nur etwas über 35 Jahre lang sind. Falls die Betreiber von HadCRUT und GISS TEMP nur ein Minimum an Verstand hätten, würden sie intensiv daran arbeiten, die Gegenwart abzukühlen, um sie besser zu den Satellitendaten passend zu machen, anstatt sie nach oben zu korrigieren und die schon jetzt wachsende Divergenz noch größer werden zu lassen. Kein Atmosphärenphysiker wird eine systematische Divergenz zwischen beiden akzeptieren angesichts der Tatsache, dass beide notwendigerweise eine Adiabate aufweisen, die sowohl gut verstanden als auch direkt messbar ist (z. B. mit Wetterballonen). Mit diesen wiederholten Messungen konnten die genauen Zusammenhänge zwischen den Temperaturen am Boden und in der unteren Troposphäre auf vorhersagbare Weise validiert werden. Die [Feucht-]Adiabate beträgt im Mittel 6,5°C pro 1000 m. Temperaturen der unteren Troposphäre beispielsweise aus RSS erfassen hauptsächlich die Schicht der Atmosphäre um 1500 m über Grund und glätten von Natur aus sowohl mit der Höhe als auch mit der Umgebung (d. h. es werden nicht Temperaturen an bestimmten Punkten gemessen, sondern die gemittelte Temperatur eines Volumens über einem Gebiet auf der Erdoberfläche). Damit wichten sie die lokale Erwärmung über städtischen Gebieten korrekt in der tatsächlichen globalen Anomalie, und sie sollten auch gewichtet werden, um die durch CO2 verursachte Erwärmung zu schätzen.Letzteres kann man aber besser in ungestörten ländlichen Gebieten oder noch besser in vollständig unbewohnten Gebieten durchführen wie der Sahara (wo es nicht wahrscheinlich ist, dass es eine starke Wasserdampf-Rückkopplung gibt).
+RSS und UAH werden direkt und regelmäßig durch Ballonaufstiege bestätigt und mit der Zeit auch untereinander. Sie sind nicht zwanglos oder ungeprüft. Sie werden allgemein akzeptiert als genaue Repräsentationen von LTTs (und des atmosphärischen Temperaturprofils allgemein).
+Es verbleibt aber die Frage, wie akkurat/präzise diese Messungen sind. RSS durchläuft einen ausgeklügelten Monte Carlo-Prozess zur Ermittlung von Fehlerbandbreiten, und zusammengefasst lässt sich sagen, dass sie wahrscheinlich auf 0,1 bis 0,2°C von Monat zu Monat genau sind (ähnlich den Fehlerbehauptungen bei HadCRUT4). Sie sind jedoch viel genauer, wenn man über Monate oder Jahre glättet, um einen Trend abzuschätzen, da allgemein erwartet wird, dass der Fehler nicht einem Bias unterliegt. Auch dies nimmt man für HadCRUT4 an, aber all das bedeutet nur, dass eine Trend-Differenz ein ernstes Problem der Konsistenz darstellt angesichts des Umstandes, dass sie durch die ALR [?] verbunden sein müssen und die Präzision sogar Monat für Monat angemessen ist, um es zu über 95% sicher zu stellen, …
+[Hier weiß ich einfach nicht weiter. Der Satz lautet im Original: „Again this ought to be true for HadCRUT4, but all this ends up meaning is that a trend difference is a serious problem in the consistency of the two estimators given that they must be linked by the ALR and the precision is adequate even month by month to make it well over 95% certain that they are not, not monthly and not on average.“ Anm. d. Übers.]
+Falls die Divergenzen weiter anwachsen, möchte ich vorhersagen, dass das gegenwärtige Grummeln über die Anomalie zwischen den Anomalien sich zu einem absoluten Aufruhr verstärken wird, der sich nicht legen wird, bis die Anomalie-Anomalie gelöst ist. Der Auflösungsprozess – falls die Götter es gut mit uns meinen – wird eine ernsthafte Bewertung der aktuellen Reihe von „Korrekturen“ an HadCRUT und GISS TEMP sein, was der Öffentlichkeit vor Augen führen wird, dass diese Korrekturen ausschließlich nach oben erfolgt waren sowie auch die Tatsache, dass der UHI ignoriert oder als negativ berechnet worden ist.
+rgb
+Weitere Informationen zu GISS und UHI gibt es hier. [Die Qualität der umfassenden Arbeiten von Kowatsch und Kämpfe zu diesem Punkt wird aber nicht erreicht. Anm. d. Übers.].
+——————————————
+In den folgenden Abschnitten sollen wie zuvor die jüngsten Fakten gezeigt werden. Die Informationen werden in drei Abschnitten und einem Anhang dargelegt. Der erste Abschnitt wird zeigen, wie lange einige Datensätze keine Erwärmung mehr zeigen. Im Moment haben nur die Satellitendaten flache Verläufe über mehr als ein Jahr. Im zweiten Abschnitt wird gezeigt, wie lange viele Datensätze keine statistisch signifikante Erwärmung mehr zeigen. Im dritten Abschnitt wird gezeigt, wie sich das Jahr 2015 derzeit im Vergleich zum Jahr 2014 sowie den wärmsten Monaten und Jahren jemals macht. Für drei der Datensätze war 2014 das wärmste Jahr. Im Anhang werden die Abschnitte 1 und 2 auf andere Weise illustriert. Graphiken und eine Tabelle sollen den Sachverhalt verdeutlichen.
+Abschnitt 1
+Diese Analyse verwendet den jüngsten Monat, für den Daten verfügbar sind bei WoodForTrees.com (WFT). Alle Daten bei WFT sind auch auf den unten genannten speziellen Quellen verfügbar. Wir beginnen mit der Gegenwart und gehen zurück bis zum am weitesten in der Vergangenheit liegenden Monat, wo die Neigung mindestens etwas negativ in mindestens einer Berechnung ist. Falls also die Neigung von September 4 X 10↑-4, aber von Oktober -4 X 10↑-4 ist, lassen wir die Zeit ab Oktober laufen, so dass uns niemand vorwerfen kann, unehrlich zu sein wenn wir sagen, dass die Neigung ab einem bestimmten Monat flach verläuft.
+1. Bei GISS ist die Neigung in keiner nennenswerten Periode flach.
+2. Bei Hadcrut4 ist die Neigung in keiner nennenswerten Periode flach.
+3. Bei Hadsst3 ist die Neigung in keiner nennenswerten Periode flach.
+4. Bei UAH ist die Neigung flach seit März 1997 oder seit 18 Jahren und 4 Monaten (bis Juni nach Version 6.0)
+5. Bei RSS ist die Neigung flach seit Januar 1997, also seit 18 Jahren und 6 Monaten (bis Juni).
+Die nächste Graphik zeigt einfach die Linien, um Obiges zu illustrieren. Die Länge der Linien zeigt die relativen Zeiten, in denen die Neigung Null ist. Zusätzlich zeigt die aufwärts geneigte blaue Linie oben, dass der CO2-Gehalt während dieses Zeitraumes stetig zugenommen hat.
+Graphik: www.WoodForTrees.org – Paul Clark
+Wenn man zwei Dinge plottet so wie ich es getan habe, zeigt nur das Linke eine Temperaturanomalie.
+Die tatsächlichen Zahlen sind bedeutungslos, da die beiden Neigungen im Wesentlichen Null sind. Für CO2 werden keine Zahlen gezeigt. Einige haben gefordert, dass das Protokoll der CO2-Konzentration geplottet werden soll. Allerdings gibt es diese Option bei WFT nicht. Die aufwärts gerichtete CO2-Linie allein zeigt, dass während der CO2-Gehalt während der letzten 18 Jahre stetig zugenommen hat, die Temperaturen flach verlaufen sind für verschiedene Zeiträume in beiden Datensätzen.
+Abschnitt 2
+Für diese Analyse stammen die Daten von Nick Stokes Trendviewer, verfügbar auf der Website http://moyhu.blogspot.com.au/p/temperature-trend-viewer.html”. Diese Analyse zeigt, wie lange es Nicks Kriterien zufolge keine statistisch signifikante Erwärmung mehr gegeben hatte. Die Daten reichen in jedem Datensatz bis zur jüngsten Aktualisierung. In jedem Falle zeigt sich die untere Fehlergrenze negativ, so dass eine Neigung Null im gezeigten Monat nicht ausgeschlossen werden kann.
+Nicks Kriterien zufolge hat es in vielen Datensätzen keine statistisch signifikante Erwärmung seit 11 bis 22 Jahren mehr gegeben. C1 steht für das Vertrauenslimit im 95%-Niveau.
+Details für die Datensätze:
+For UAH6.0: Since October 1992: Cl from -0.009 to 1.742
+This is 22 years and 9 months.
+For RSS: Since January 1993: Cl from -0.000 to 1.676
+This is 22 years and 6 months.
+For Hadcrut4.3: Since July 2000: Cl from -0.017 to 1.371
+This is 14 years and 11 months.
+For Hadsst3: Since August 1995: Cl from -0.000 to 1.780
+This is 19 years and 11 months.
+For GISS: Since August 2003: Cl from -0.000 to 1.336
+This is 11 years and 11 months.
+Abschnitt 3
+Dieser Abschnitt zeigt Daten über 2015 und andere Informationen in Gestalt einer Tabelle. Die Tabelle zeigt fünf Datensätze, und zwar UAH, RSS, Hadcrut4, Hadsst3, and GISS.
+Die Zeilen enthalten Folgendes:
+1. 14ra: Dies ist die Endposition für das Jahr 2014 in jedem Datensatz.
+2. 14a: Mittlere Anomalie für 2014.
+3. Jahr: Dies zeigt das wärmste Jahr jemals für jeden einzelnen Datensatz. Man beachte, dass die Satelliten-Datensätze das Jahr 1998 als das wärmste Jahr zeigen, die anderen aber das Jahr 2014.
+4. ano: Das Mittel der monatlichen Anomalien des darüber genannten wärmsten Jahres.
+5. mon: Dies ist der Monat, in dem jeder einzelne Datensatz die höchste Anomalie zeigt. Die Monate werden mit den ersten drei Buchstaben eines jeden Monats gekennzeichnet sowie den letzten beiden Ziffern der Jahreszahl.
+6. ano: Die Anomalie des darüber genannten Monats
+7. y/m: dies ist der längste Zeitraum, in dem die Neigung nicht positiv ist, gezeigt als Jahre/Monate. So bedeutet 16/2, dass die Neigung 16 Jahre und 2 Monate lang Null betrug. Zeiträume kürzer als ein Jahr werden nicht gezählt und als „0“ dargestellt.
+8. sig: Dies ist der erste Monat, in dem die Erwärmung Nicks Kriterien zufolge nicht statistisch signifikant ist. Den ersten drei Buchstaben des Monatsnamens folgen die letzten beiden Ziffern für die Jahreszahl.
+9. sy/m: Diese Spalte zeigt die Jahre und Monate in Zeile 8. Abhängig vom Zeitpunkt der letzten Aktualisierung können die Monate um einen Monat abweichen.
+10. Jan: Anomalie des Januars 2015 für jenen speziellen Datensatz.
+11. Feb: Anomalie des Februars 2015 für jenen speziellen Datensatz.
+12. bis 15. Entsprechend die Monate 2015 bis Juni-Daten
+16. ave: Dies ist die mittlere Anomalie aller Monate bis heute, berechnet durch Addition aller Zahlen geteilt durch die Anzahl der Monate.
+17. rnk: Dies ist die Stellung des Jahres 2015, die jeder Datensatz einnehmen würde ohne Berücksichtigung der Fehlerbalken und unter der Annahme keiner Änderungen.
+Falls man alle jüngsten Anomalien selbst nachvollziehen möchte:
+For UAH, version 6.0 was used. Note that WFT uses version 5.6. So to verify the length of the pause on version 6.0, you need to use Nick’s program.
+http://vortex.nsstc.uah.edu/data/msu/v6.0beta/tlt/tltglhmam_6.0beta2
+For RSS, see: ftp://ftp.ssmi.com/msu/monthly_time_series/rss_monthly_msu_amsu_channel_tlt_anomalies_land_and_ocean_v03_3.txt
+For Hadcrut4, see: http://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.4.0.0.monthly_ns_avg.txt
+For Hadsst3, see: http://www.cru.uea.ac.uk/cru/data/temperature/HadSST3-gl.dat
+For GISS, see:
+http://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts+dSST.txt
+Um alle Punkte ab Januar 2015 als Graphik zu sehen, siehe die folgende WFT-Graphik. Man beachte, dass die UAH-Version 5.6 gezeigt ist. Die Version 6.0 ist bei WFT noch nicht gezeigt.
+www.WoodForTrees.org – Paul Clark
+Wie man sieht, beginnen alle Linien an der gleichen Stelle im Januar 2015. Dies macht es einfach, den Januar 2015 mit der jüngsten Anomalie zu vergleichen.
+Anhang
+Hier werden alle Daten für jeden Datensatz getrennt zusammengefasst. [Ich verzichte hier auf eine Übersetzung, weil es sich doch nur um eine Aufstellung von Zahlen handelt. Die Aussage zu Beginn ist von mir fett hervorgehoben. Anm. d. Übers.]
+RSS
+The slope is flat since January 1997 or 18 years, 6 months. (goes to June)
+For RSS: There is no statistically significant warming since January 1993: Cl from -0.000 to 1.676.
+The RSS average anomaly so far for 2015 is 0.304. This would rank it as 6th place. 1998 was the warmest at 0.55. The highest ever monthly anomaly was in April of 1998 when it reached 0.857. The anomaly in 2014 was 0.255 and it was ranked 6th.
+UAH6.0
+The slope is flat since March 1997 or 18 years and 4 months. (goes to June using version 6.0)
+For UAH: There is no statistically significant warming since October 1992: Cl from -0.009 to 1.742. (This is using version 6.0 according to Nick’s program.)
+The UAH average anomaly so far for 2015 is 0.204. This would rank it as 4th place. 1998 was the warmest at 0.483. The highest ever monthly anomaly was in April of 1998 when it reached 0.742. The anomaly in 2014 was 0.170 and it was ranked 6th.
+Hadcrut4.4
+The slope is not flat for any period that is worth mentioning.
+For Hadcrut4: There is no statistically significant warming since July 2000: Cl from -0.017 to 1.371.
+The Hadcrut4 average anomaly so far for 2015 is 0.685. This would set a new record if it stayed this way. The highest ever monthly anomaly was in January of 2007 when it reached 0.832. The anomaly in 2014 was 0.564 and this set a new record.
+Hadsst3
+For Hadsst3, the slope is not flat for any period that is worth mentioning. For Hadsst3: There is no statistically significant warming since August 1995: Cl from -0.000 to 1.780.
+The Hadsst3 average anomaly so far for 2015 is 0.500. This would set a new record if it stayed this way. The highest ever monthly anomaly was in August of 2014 when it reached 0.644. The anomaly in 2014 was 0.479 and this set a new record.
+GISS
+The slope is not flat for any period that is worth mentioning.
+For GISS: There is no statistically significant warming since August 2003: Cl from -0.000 to 1.336.
+The GISS average anomaly so far for 2015 is 0.82. This would set a new record if it stayed this way. The highest ever monthly anomaly was in January of 2007 when it reached 0.97. The anomaly in 2014 was 0.75 and it set a new record. (Note that the new GISS numbers this month are quite a bit higher than last month.)
+If you are interested, here is what was true last month:
+The slope is not flat for any period that is worth mentioning.
+For GISS: There is no statistically significant warming since November 2000: Cl from -0.018 to 1.336.
+The GISS average anomaly so far for 2015 is 0.77. This would set a new record if it stayed this way. The highest ever monthly anomaly was in January of 2007 when it reached 0.93. The anomaly in 2014 was 0.68 and it set a new record.
+Schlussfolgerung
+Vor zwei Monaten war die NOAA das fünfte Rad am Wagen. Seit GISS es NOAA und HadCRUT4 nachgemacht hat, fühlte man sich dort offenbar berufen, den Anpassungen zu folgen, wie es hier dokumentiert ist.
+Link: http://wattsupwiththat.com/2015/08/14/problematic-adjustments-and-divergences-now-includes-june-data/
+Übersetzt von Chris Frey EIKE
+herzlichen Dank für Ihre Übersetzungshilfe, nur fürchte ich, auch die Übersetzung inhaltlich nicht ganz zu verstehen. Da muss ich mal meinen Freund Hans-Dieter Schmidt fragen.
+Ihre angefügte Erläuterung macht das Ganze aber schon deutlich klarer. Auch dafür vielen Dank!
+Chris Frey, Übersetzer
+„Again this ought to be true for HadCRUT4, but all this ends up meaning is that a trend difference is a serious problem in the consistency of the two estimators given that they must be linked by the ALR and the precision is adequate even month by month to make it well over 95% certain that they are not, not monthly and not on average.“
+Das sollte auch für HadCRUT4 zutreffen, aber das endet dann darin, dass eine Trend-Differenz ein ernstes Problem hinsichtlich der Konsistenz der beiden Schätzverfahren sind. Denn diese muss gekoppelt sein mit der ALR ( Adiabatic Lapse Rate – Adiabatischer Temperaturgradient). Die Präzision entspricht sich bei einer Monat-zu-Monat-Vergleich und belegt damit gut, dass sich diese bei 95%-Konfidenz-Niveau weder täglich, noch monatlich, noch im Durchschnitt von den gemessenen Bodentemperaturen unterscheiden.
+Soweit die Übersetzung. Dazu die Anmerkung:
+Satellitengestützte Fernerkundung weist die Temperatur der ‚lower Troposphere‘ auf. Dies ist ein sinusförmig gewichteter Höhenbereich mit dem Mittel von 1500 m. Die Kritik am Vergleich sagte, das hier eigentlich was anderes gemessen wurde als das, was an den Bedenstationen gemessen wird. Der Artikel sagt: Stimmt nicht. Die Messungen entsprechen sehr genau den Bodentemperaturen. Das wurde durch empirische Daten mit statistischer Signifikanz getestet.
+Natürlich folgt die Temperatur dem atmosphärschen Temperaturgradienten, der durchschnittlich dem feuchtadiabatischen Gradienten entspricht. Der reale Temperaturgradient weicht aber wetterbedingt von den theoretischen Gradienten ab. Darum wäre es zumindest ein denkbarer Fehler, wenn sich statistisch signifikant dieser Gradient verschieben würde – was durchaus denkbar wäre. Das könnte dann – wenn die Vermutung zutäfe – erklären, warum sich die Trends unterscheiden. Es wäre duch die kontinuierliche Veränderung der ALR erklärbar.
+Der Artikel behandelt das Argument und weist nach, dass durch Ballonmessungen belegt wurde, dass der ALR aber statistisch konstant blieb. Darum scheidet dieses Argument als mögliche Erklärung aus.

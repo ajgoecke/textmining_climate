@@ -1,0 +1,181 @@
+Alle Tabellen und Daten stammen überwiegend von https://www.eurobserv-er.org/ und sind vom Autor zusammengestellt
+Installed GW = installierte Nennleistung
+Output GW = Durchschnittsleistung – aufs Jahr gerechnet, wenn diese Leistung kontinuierlich abgerufen werden könnte
+Diese einfachen Berechnungen werden genutzt um die einfache Frage beantworten:
+„Wie viel würde es ungefähr kosten, die gleiche Menge Strom zu erzeugen, die von der gegenwärtigen Flotte wetterabhängiger erneuerbarer Energien der EU (28) unter Verwendung herkömmlicher Erzeugungstechnologien (Kern- oder Gasfeuerung) erzeugt wird? Und wie vergleichen sich diese Zahlen?“.
+Dementsprechend quantifiziert der Beitrag das Ausmaß der Steuerverschwendung und die Belastung der Stromrechnungen, die durch die Nutzung der wetterabhängigen erneuerbaren Energien der EU (28) verursacht werden, wie sie Ende 2019 installiert waren. Sie kombiniert die von US Energy veröffentlichten Vergleichskosten für Erzeugungstechnologien, veröffentlicht im Jahr 2020 mit Informationen zur Nennleistung (Typenschild) der installierten wetterabhängigen erneuerbaren Anlagen der EU (28) und ihrer tatsächlichen Produktionsleistung ab 2019. Auf diese Daten zur Leistung erneuerbarer Energien Ende 2019 kann über EurObserv’ER zugegriffen werden.
+Nach diesem Kalkulationsmodell, betragen die ungefähren Kosten für die EU(28):
+- Die Kapitalkostenverpflichtung für die derzeit installierten erneuerbaren Energien in der EU beträgt ~ 520 Mrd. EUR.
+- Gegenüber Gasfeuerung […-Menge Strom aus Gaskraftwerken] ergibt das Mehrkosten um ~ 450 Mrd. EUR und ~ 85 Mrd. EUR gegenüber den Kosten für Kernkraftwerke.
+- Die langfristige Kostenbindung der derzeitigen EU (28) für die Erzeugung erneuerbarer Energien mit einer installierten Leistung von ~ 65 Gigawatt beträgt ~ 2.000 Mrd. EUR. Gegenüber einer Stromerzeugung aus Gasfeuerung sind das ~ 1.800 Mrd. EUR Mehrkosten und ~ 980 Mrd. EUR Mehrkosten gegenüber Kernkraft.
+[In meinen Worten wiederholt: der Autor hat festgestellt, dass alle Erneuerbaren einer Gesamtleistung auf Jahr gesehen von 65,3 GW entsprechen. Multiplikation mit den Jahresstunden: 65,3 GW mal 8750 Std. ergibt die abgegebene Energie in ~ 572 TWh – denken Sie daran, dass Wind und Sonne nur volatil liefern
+Der Autor lebt in Frankreich, das inzwischen keinerlei Kohlekraftwerke mehr betreibt. Er betrachtet daher nur die gasbetriebenen und nuklearen Kraftwerke im Vergleich – der Übersetzer]
+Wie später zu sehen ist, zeigen diese Schätzungen, dass die Nutzung wetterabhängiger erneuerbarer Energien in der EU (28) das 7- bis 9-fache der Nutzung von Erdgas zur Stromerzeugung und etwa das 1,2- bis 2-fache der Kernenergie kostet.
+Die Auswirkungen der schlechten Produktivität wetterabhängiger erneuerbarer Energien werden in diesen beiden Kreisdiagrammen dargestellt:
+Die in der EU (28) installierten wetterabhängigen erneuerbaren Energien, haben nach Typenschild eine Kapazität von ~ 344 GW, produzierten jedoch im letzten Jahr in Summe nur so viel, wie es einer Kapazität 65 GW entspricht, was eine Produktivität von insgesamt ~ 19% ergibt.
+Vergleichendes Kostenmodell für Stromerzeugungstechnologien
+Die Vergleichskosten basieren auf Daten der US- EIA [Energie Information Behörde], die im Januar 2020 aktualisiert wurden.
+Die in diesem Modell verwendeten Werte ignorieren den oben genannten „EIA Technological Optimism Factor“, der die Vergleichskosten von Offshore-Windenergie (um etwa 9 Mrd. EUR / Gigawatt: langfristig) und in viel geringerem Maße die Kernenergie nachteilig beeinflussen würde. Diese Kosten sind in der folgenden Tabelle zusammengefasst und in Mrd. EUR / Gigawatt umgerechnet.
+In der US-EIA-Tabelle sind die overnight capital costs [vergleichende Annahme der Projektkosten, ohne Finanzierung, Zinsen u.ä, als ob „das Projekt über Nacht“ fertig gestellt wurde] jeder Technologie aufgeführt. Außerdem die Wartungskosten auf 60 Jahre Betrieb hochgerechnet, ausgedrückt als Mrd. EUR / Gigawatt. Für diese Vergleiche werden 60 Jahre gewählt, da dies der Lebensdauer der aktuellen Generation von Kernkraftwerken nahe kommen sollte.
+Die obigen Vergleichsdaten sollen die verzerrenden Auswirkungen der staatlichen Steuer- und Subventionspolitik zur Unterstützung wetterabhängiger erneuerbarer Energien realistisch vermeiden. Oft wird behauptet, dass erneuerbare Energien die Kostenparität mit herkömmlichen Erzeugungstechnologien erreichen können. Die Befürworter von wetterabhängigen erneuerbaren Energien scheinen die Produktivitätsunterschiede bei der konventionellen und verfügbar planbaren Stromerzeugung immer bequem zu vergessen [„dispatchable“ – im Weiteren als prägnanter Ausdruck genutzt, der Übersetzer]
+Die oben den erneuerbaren Energien zugewiesene Lebensdauer ist durchaus großzügig, insbesondere für Offshore-Wind- und Solarphotovoltaik. Es hat sich gezeigt, dass sich die Produktionskapazität aller erneuerbaren Technologien im Laufe ihrer Lebensdauer erheblich verschlechtert.
+Die jüngsten EIA -Aktualisierungen für 2020 berücksichtigen vollständig alle Kostensenkungen oder Minderangebote für erneuerbare Technologien, insbesondere für Solarmodule. Die Kosten für Solarmodule selbst können sich verringern, aber diese Preissenkung kann nur etwa 1/4 der gesamten Installationskosten betreffen. Preisbestimmend sind die anderen Kosten der Solaranlagen, diese (Neben-) Kosten bleiben unveränderlich und steigen mit der Inflation.
+Mit hoher Gewissheit kann man daher annehmen, dass diese Ergebnisse eine gültige vergleichende Analyse der tatsächlichen Kosteneffizienz wetterabhängiger erneuerbarer Energien liefern. Es ist zu beachten, dass im Gegensatz zu echten Mikroprozessortechnologien, das „Mooresche Gesetz“ nicht auf Solarmodule angewendet werden kann. Da die Sonnenenergie, die sie sammeln, von geringer Konzentration und diffus ist, müssen sie von großer Fläche sein, um nennenswerte Energie sammeln zu können. [Die im Laborversuch gefundene Verbesserung der Umwandlung von Sonnenergie in Strom ergibt nur noch marginale Verbesserungen, eine fortschreitende Miniaturisierung der Fläche daher für die Solar-PV-Technologie irrelevant.]
+Zum Thema: https://www.manhattan-institute.org/green-energy-revolution-near-impossible
+Die oben gezeigten tatsächlichen Kosten der Stromerzeugung berücksichtigen jedoch nicht die Produktivität der Erzeugungstechnologien. Die nachstehende Tabelle zeigt daher die realen Vergleichskosten von wetterabhängigen erneuerbaren Energien, wenn die Produktivität der Erzeugungstechnologien berücksichtigt wird, die 2019 erzielt wurde.
+Darüber hinaus lassen diese Vergleichszahlen alle anfallenden Kosten für die Nutzung wetterabhängiger erneuerbarer Energien unberücksichtigt. Die obigen Ergebnisse beinhalten nur die Kapital- und Betriebskosten der Erzeugungsanlagen selbst, wobei die gemessene Produktivitätsfähigkeit jeder Erzeugungstechnologie, d.h. die tatsächlich erzeugte elektrische Energie berücksichtigt wird.
+Die oben angesprochenen Nebenkosten, die unvermeidlich mit Windkraft und Solarenergie verbunden sind, ergeben aus:
+- Unzuverlässigkeit sowohl hinsichtlich der Kontinuität [Beginn und Zeitdauer] als auch des abgegebenen Stromes [Leistungsvariabilität].
+- die Nicht-dispatchablity von erneuerbaren Energien: Der Wind weht nicht und die Wolken verziehen sich nicht auf Bestellung, wenn dies erforderlich ist.
+- Ungünstiger Zeitpunkt der Stromerzeugung, der oft nicht mit der Nachfrage koordiniert werden kann: Beispielsweise fehlt im Winter praktisch meist Solarenergie, oft nur 1/9 der abgegebenen Leistung als in der Sommerperiode mit geringerer Nachfrage.
+- lange Übertragungsleitungen zu entfernten Standorten, die sowohl kostspielige Leistungsverluste bei der Übertragung als auch erhöhte Wartung verursachen
+- zusätzliche Infrastruktur für den Anschluss abseits gelegener oder dafür nicht vorgesehener Standorte erforderlich
+- Unbedingt notwendige Backup-Kraftwerke, die unplanbar einspringen müssen. Aber oft im unökonomischen Stand-by laufen (müssen).
+- Jede elektrische Speicherung mit Batterien, würde sehr erhebliche zusätzliche Kosten verursachen. Langfristige Kapazitäten (einige Tage) sind für ein ganzes Land nicht real [Hardware] und nicht wirtschaftlich machbar
+- Den Wechselrichtern der Wind- und Solar-PV Anlagen fehlt die inhärente Trägheit zur Aufrechterhaltung der Netzfrequenz
+- wetterabhängige erneuerbare Energien können keinen sicheren „Schwarzstart“ nach einem größeren Netzausfall bewirken
+Weiterhin wird gerne verschwiegen, dass diese Kostenanalysen nicht Folgendes berücksichtigen:
+- unvermeidliche Umweltschäden und Zerstörung von Wildtieren durch wetterabhängige erneuerbare Energien
+- Der sonst so gerne beschworene „CO2-Fußabdruck“ wetterabhängiger erneuerbarer Technologien: Sie sparen während ihrer Lebensdauer möglicherweise nie so viel CO2, wie sie wahrscheinlich für die Beschaffung, Herstellung, Installation, Wartung und den eventuellen Abbruch von Materialien benötigen. Realistisch betrachtet, hängen alle diese Anlagen vollständig von der Verwendung erheblicher Mengen fossiler Brennstoffe für die Herstellung und den Betrieb ab.
+- Der Ertrag aus der vorher investierten Energie: Wetterabhängige erneuerbare Energien produzieren während ihrer Lebensdauer möglicherweise nicht so viel Energie, wie für ihre ursprüngliche Herstellung und Installation erforderlich war. Sie bieten sicherlich nicht die reguläre überschüssige Energie, die ausreicht, um die vielfältigen Bedürfnisse eines entwickelten Industrielandes zu befriedigen.
+Renewables K.O.-ed by EROI?
+Weitere Grafiken finden Sie auf
+https://edmhdotme.wordpress.com/uk-eu28-renewables-productivity/
+https://edmhdotme.wordpress.com/the-excess-costs-of-weather-dependent-renewable-power-generation-in-the-eu28w/
+(Auf seiner Webseite ist die jeweils aktive Schlagzeile fett markiert, dann nach unten scrollen)
+***
+Wer sich das Original ansieht, erkennt, dass noch sehr viel mehr Grafiken und Information gespeichert sind.
+In Teil 2 nehme ich mir den folgenden Part zum Kostenvergleich der Installationen nach europäischen Ländern vor.
+Übersetzt durch Andreas Demmig
+„Der sonst so gerne beschworene „CO2-Fußabdruck“ wetterabhängiger erneuerbarer Technologien: Sie sparen während ihrer Lebensdauer möglicherweise nie so viel CO2, wie sie wahrscheinlich für die Beschaffung, Herstellung, Installation, Wartung und den eventuellen Abbruch von Materialien benötige“
+Ein kWh Solarstrom benötigt einen Materialeinsatz von ca. 0,006kg
+Ein kWh Steinkohlestrom hat einen Materialverbrauch von ca. 0,25kg
+(Der Materialeinsatz für den Bau und Betrieb vom Steinkohlekraftwerk kommt noch dazu)
+Da ist PV um das 40 bis 45-fache geringer beim Material.
+Sie verstehen auch den Unterschied zwischen
+Materialeinsatz und
+Materialverbrauch?
+Das Material bei PV wird in der Regel nach Ende der Lebenszeit zu 80 bis 90% recycelt und steht der nächsten Menschengeneration wieder zur Verfügung.
+Beim Materialverbrauch von Braunkohle und Steinkohle ist das Material verbrannt.
+Andreas Demmig veröffentlicht bei EIKE am 25. Juli 2020
+„Wetterabhängige erneuerbare Energien produzieren während ihrer Lebensdauer möglicherweise nicht so viel Energie, wie für ihre ursprüngliche Herstellung und Installation erforderlich war.“
+Ein Kohlekraftwerk kann niemals mehr Energie der Menschheit bereitstellen als wie für die Herstellung und Installation und Betrieb erforderlich ist.
+Um 1 kWh Strom zu bekommen an der Steckdose vom Endverbrauche müssen ca. 3kWh Energie in Form von Kohle eingekauft werden.
+Wetterabhängige erneuerbare Energien produzieren während ihrer Lebensdauer mehr Energie für die Menschheit als die Menschheit für die Herstellung und Installation und Betrieb aufwänden muss.
+Auf der EIKE Webseite finden sich in den Artikeln “Die Mehrkosten für die Erzeugung wetterabhängiger erneuerbarer Energie in der EU (28): 2020 – Teil 1 + Teil II“ zahlreiche FALSCHE ODER IRREFÜHRENDE Quellenangaben. EurObserv’ER / Observ’ER wird dabei als einzige Quelle für zahlreiche Energie- oder Wirtschaftsdaten zitiert.
+Die Behauptung: “Alle Tabellen und Daten stammen von https://www.eurobserv-er.org/ “ ist FALSCH!
+Das europäische Projekt EurObserv’ER beobachtet und beschreibt seit 1999 in kostenlos bereitgestellten Marktberichten (Barometer) den Ausbau der erneuerbaren Energien in der Europäischen Union. Als deutscher Projektpartner des EurObserv’ER Konsortiums stelle ich hiermit klar:
+• EurObserv’ER / Observer ist NICHT die QUELLE für die dargestellten Zahlen und Graphiken.
+• Ein großer Teil der Daten, die in den Tortendiagrammen, Grafiken oder Tabellen dargestellt werden, stammen NICHT AUS EurObserv’ER Publikationen, weder aus den jährlich veröffentlichten thematischen Marktberichten (Barometern), noch aus dem Jahresbericht “The state of renewable energies in Europe” (https://www.eurobserv-er.org/19th-annual-overview-barometer)
+• Insbesondere alle Daten zu fossilen Energieträgern, zur Kernkraft und vergleichende Kostenstrukturen stammen NICHT VON EurObserv’ER.
+• Die korrekten Quellen für die dargestellten Graphiken und Behauptungen sind mir (und scheinbar auch dem Autor und Übersetzer) NICHT BEKANNT.
+• Etwaige EurObserv’ER Daten zu installierten erneuerbaren Energien (etwa PV oder Windkraft in der EU) stammen von EurObserv’ER, NICHT jedoch von unseren französischen Projektpartner Observ’ER.
+Ich fordere Sie daher auf, die fälschlich bis missbräuchlich genannten Quellenangaben zu korrigieren, und auch in Zukunft zusammenkopierte Daten NICHT ALS EurObserv’ER Daten zu kennzeichnen und mit anderen Quellen zu vermischen.
+EurObserv’ER stellt der interessierten (und auch kritischen) Öffentlichkeit alle Daten zu erneuerbaren Energien kostenlos zur Verfügung auch für eigene Veröffentlichungen. Verwenden Sie EurObserv’ER Daten jedoch nur, wenn wir diese auch wirklich veröffentlicht haben!
+Roman Buss
+Wir haben Ihre Behauptung dem Autor zur Klärung und Stellungnahme zugesandt.
+Sehr geehrter Herr Buss,
+unser Autor widerspricht Ihrer Darstellung. Allerdings hat der die angegebenen Dimensionen z.B. GW, TW oder ä. umgerechnet.
+Im wesentlichen schreibt er folgendes:
+The data on installations is taken directly from EurObserER Wind and Solar barometers for end 2018
+The name plate data is converted from MW to GW by dividing by 1000
+Output data is converted from TeraWatt hours to equivalent Gigawatts by multiplying by 1000 and dividing by the number of hours in the year 8760
+Their headline European installations and Weather Dependent Output give the following productivity / capacity factors as at end 2018
+Wind power including offshore 24%
+Solar PV 12%
+The values used for their actual data on installations and output they are favourable toward Weather Dependent Renewables (WDR) because they take no account of their intermittency and variability nor for the occasions when WDR overproduce and the power they generate is wasted or sold elsewhere often at a negative price.
+The comparative cost data is not supplied by Eurobserver but that US EIA data source is clearly noted in your translation of the post
+That data is derived from this table from the US Energy Information Administration for comparative costs of power generation types in the USA
+https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf
+Screenshot 2020-09-21 at 12.16.53.png
+Falls Ihnen das nicht reicht, dann kontaktieren Sie uns bitte per Mail.
+z.B. Solarstrom ist doch mit Abstand am günstigsten zu bekommenden je kWh.
+Matthias Kegelmann
+26. Juli 2020 um 21:33.
+a. Die 50 Milliarden US-Dollar Überbesteuerung bezieht sich ALLEIN auf die USA, und das PRO JAHR!!
+b. Alle anderen Angaben, zu den 28 Industrienationen, zu den BRIC-Staaten sind EBENFALLS als PRO JAHR zu begreifen.
+Die Zahlen haben es also in sich. Das ist eine Schweinerei. Vor allem in Deutschland. Ein Staat bestraft seine Bürger und erschwert diesen die Mobilität. Sehr viele Menschen sind damit nicht einverstanden. So eine Politik ist kontraproduktiv, Menschen verachtend.
+Die Heuchelei und die Unfähigkeit der grünen Kommunisten ist ebenfalls gigantisch. Und im Lügen sind die Linken vermutlich Weltmeister. Von kompetenten, ehrlichen, faschmännischen Studien hat diese Brut keine Ahnung.
+Zitat (via antigreen.blogspot.com vom 26. Juli 2020):
+The CO2 Coalition of 55 climate scientists and energy economists today released a detailed economic study of subsidies and taxes on fossil fuels in the United States and internationally. Written by Coalition Director Dr. Bruce Everett, who taught energy economics at Georgetown University and the Fletcher School at Tufts University, the 26-page White Paper is titled[:]
+Do Government Policies Favoring Fossil Fuels Hamper the Development of Wind and Solar Power?
+1. Haben Sie die Studie selbst gelesen und überprüft, auf Fehler? Nein. Werfen Sie das Papier vom RWI in den Müll, als Altpapier.
+2. Selbst wenn das stimmen sollte, was auf keinen Fall wahr ist, dann ist Ihr Beitrag ein Argument für Kohle und (!) Kernkraft. Sie haben also ein Eigentor geschossen. Gratulation.
+3. Sie sind auf einen albernen, dümmlichen, betrügerischen Trick der Winkeladvokaten der viel schlimmer subventionierten Wind- und PV-Industrie hereingefallen, die den Hals nicht voll kriegen können.
+4. Viele Länder „subventionieren“ Kohle und Kernkraft, aber die meisten dieser Länder besteuern im Gegenzug noch weit mehr, sehr viel mehr. Kommen Sie noch mit?
+Hier das Zitat (From the CO2 Coalition: info@co2coalition.org, via antigreen.blogspot.com vom 26. Juli 2020):
+The study concludes that: „Although most countries do offer some subsidies to fossil fuels, the massive taxes imposed by most governments are generally far higher, resulting in a net increase in the price of fossil fuels. Taking into account all taxes and subsidies, fossil fuels in the United States are overtaxed $50 billion per year. The 28 other largest industrial democracies are overtaxed $363 billion, and the BRIC countries (Brazil, Russia, India, and China) are overtaxed $104 billion. The primary exceptions to this rule are found in oil-producing developing countries that offer their citizens heavily subsidized motor fuels but are not likely candidates for renewable energy.“
+[Zitatende]
+[Sinngemäße Übersetzung]
+Die Studie kommt zum Schluß: obwohl viele Länder deren fossiler Industrie einige Subventionen anbieten, die sehr starke steuerliche Belastung durch die meisten Regierungen ist weit höher, das führt zu einem Anstieg der Preise für fossile Kraftstoffe, Brennstoffe. Wenn man alle Steuern und Subventionen einbezieht, dann sind fossile Kraftstoffe (Benzin usw.) mit 50 Milliarden US-Dollar ÜBERBESTEUERT!! Die anderen 28 größten Industrieländer der Welt sind mit 363 Milliarden US-Dollar ÜBERBESTEUERT!!, und die sogenannten BRIC-Staaten (Brasilien, Rußland und China) mit 104 Milliarden US-Dollar ÜBERBESTEUERT!. Einige vorrangige Ausnahmen diese Regel betreffend, finden sich in Schwellenländer, die Rohöl gewinnen und diese Energieform ihren eigenen Bürgern subventioniert anbieten und keine Interesse an sogenannten [überteuerten, unnützen] grünen Energieformen haben, keine Kandidaten dafür sein dürften.
+Sie sollten sich folgendes merken: grüne Studien sind keinen Pfifferling wert, sondern meistens „getürkt“. Fast immer. Also immer. 😉
+„1. Haben Sie die Studie selbst gelesen und überprüft, auf Fehler? Nein. Werfen Sie das Papier vom RWI in den Müll, als Altpapier.“
+Sie Herr Matthias Kegelmann,
+bringen grundsätzlich keine Quellenangaben, können nur schreiben
+„Werfen Sie das Papier vom RWI in den Müll, als Altpapier.“
+Das ist einfach zu wenig Herr Kegelmann an Sachverstand.
+2013 hat das ingenieur.de mal für das Jahr in der EU nachgerechnet.
+„Nur 30 Milliarden Euro gaben die EU-Staaten im Jahr 2011 zur Förderung der Ökoenergie aus. Für die Subventionierung der Energieerzeugung aus Atomkraft, Kohle und Gas brachten sie jedoch mit 61 Milliarden Euro mehr als das Doppelte auf.“
+https://www.ingenieur.de/technik/wirtschaft/politik/kernkraft-erhaelt-deutlich-subventionen-erneuerbaren-energien/
+Herr Matthias Kegelmann, bleiben Sie sachlich und untermauen Sie Ihre Behauptungen mit Quellenangaben.
+– nur noch die Subventionen der Kernkraft mit mehr als 170 Milliarden Euro hat die Steinkohle übertroffen.
+Der Grundstock für mehr Wohlstand und Naturschutz.
+Dafür wurden bereits mehr als 500 Mrd. für den Aufbau einer unzuverlässigen und teuren Stromerzeugung, besser Strom-Parasiten zu nennen, von den Bürgern zwangsweise aufgebracht.
+Durch den Abbau bzw. das Verbot Kohle / Kernkraft sind obige Subventionen nun verloren.
+Nu Deutschland hatte auch vor dem EEG hohe Strompreise in Internationalen Vergleich.
+Der Zähler läuft auch noch 2009, die Großen kassieren.
+Den Stromkonzernen geht es trotz Krise blendend:
+23 Milliarden Euro nur der Profit sollen es allein in 2009 gewesen sein.
+https://www.sueddeutsche.de/wirtschaft/milliardengewinne-fuer-energiekonzerne-der-zaehler-laeuft-die-grossen-kassieren-1.1013868
+Herr Andreas Demmig,
+bringen Sie doch mal für die 500 Mrd. eine Quellenangabe.
+Die Kleine Anfrage der Abgeordneten Karsten Hilse, Steffen Kotré, Dr. Rainer Kraft, weiterer Abgeordneter und der Fraktion der AfD – Drucksache 19/5692 – da steht auf Seite 2.
+„Bisher wurden an die Erzeuger dafür rd. 261 Mrd. Euro abgeführt. Zieht man den Markterlös von im Schnitt rd. 15 Prozent ab, so wurden die Verbraucher bisher mit insgesamt 221 Mrd. Euro belastet.“
+https://dip21.bundestag.de/dip21/btd/19/060/1906097.pdf
+Gerade mal die hälfet Ihrer 500 Mrd. wurde in ca. 18 Jahren EEG aufgewendet.
+Und betrachten Sie mal die Tabelle auf Seite 3, unten für die zukünftige Entwicklung.
+Kreativ gerechnet.
+https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/eeg-in-zahlen-pdf.pdf%3F__blob%3DpublicationFile
+hier finden Sie auf Seite 5 die Tabelle
+„EEG-Gesamtvergütungszahlungen in Millionen Euro“
+Summenzeile zusammengerechnet ca. 330 Mrd. Das ist erstmal die Hausnummer, die mich interessiert.
+Es stehen allereding noch ein paar mehr Posten als die EEG- Umlage auf ihrer Stromrechnung, verursacht durch das *erneuerbare- Energien- Gesetz*: Offshore- Haftungsumlage, KWK- Umlage, Umlage NEV, Umlage Abschaltbare Lasten.
+Desweiteren treten Kostenbestandteile auf, verursacht durch die *EE*, die nicht explizit auf der Rechnung ausgewiesen sind, z.B. zusätzliche Kosten durch notwendige Eingriffe zur Netzstabilisierung. Da sind wir auch schon bei ca. 600 Mill/ Jahr angelangt.
+Alles in allem ist sind die 500 Mrd., die uns bis jetzt die *EE* gekostet haben sollen, schon eine realistische Größenordnung. Ihre (oder die der BR) *Hälfte* ist leider nur auch die Hälfte an Wahrheit.
+Aber egal, wie man es betrachtet oder schönrechnet: Wir werden gezwungen riesige Summen auszugeben für eine zufällige, NICHT- bedarfsgerechte Energiebereitstellung.
+Die Einsparungen an Co2 sind marginal selbst bei nur Betrachtung von D, in der Welt sowieso, die Wirkung aufs Klima NULL.
+Fazit: Dumm, Dümmer, *Grün*.
+Verstehe ich Sie richtig, Herr Schulz? Soweit ich weiß, mussten Kernkraftwerke zuletzt eine saftige Brennelemente-Steuer berappen. Sie behaupten aber, das Geld ist in die andere Richtung geflossen, nämlich als Subvention ZU den Kernkraftwerken.
+Sie erlaube, dass ich da nicht mitkomme.
+Chris Frey
+Die Kernbrennstoffsteuer (umgangssprachlich Brennelementesteuer) war eine nachträglich als verfassungswidrig eingestufte Steuer in Deutschland, die von Betreibern von Kernkraftwerken in den Jahren 2011 bis 2016 erhoben wurde.
+Im Juni 2017 ordnete das Bundesverfassungsgericht die Rückzahlung der eingenommenen Gelder an incl. Zinsen.
+https://de.wikipedia.org/wiki/Kernbrennstoffsteuer
+Sie sagen das die Steuer von den Betreibern der Kraftwerke erhoben wurden.
+Das ist so falsch ausgedrückt. Die Steuer ist offensichtlich eingeführt worden, um die Energieproduktion aus Kernbrennstoffen künstlich zu verteuern.
+Damit ist die Aussage von Herrn Frey so richtig.
+Chris Frey“
+Ja Herr Chris Frey,
+Sie erlauben, dass ist Richtig das Sie nicht mitkommen.
+Die saftige Brennelemente-Steuer musste zurückgezahlt werden mit saftigen Zinsen für den Steuerzahler.
+https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2017/bvg17-042.html
+Durch den Einsatz von Kernkraftwerken könnte man problemlos folgende Ziele erreichen:
+1.) co2-Einsparung
+2.) Umweltschutz
+3.) sichere Energieversorgung
+4.) niedrige Energie-Kosten
+Aber darum geht es bei der „Energie-Wende“ gar nicht, sondern ausschließlich um MAXIMALE Kosten, je höher, desto besser! Ziel ist der maximal mögliche Finanztransfer vom Stromkunden/Steuerzahler in Richtung „GRÜNES Syndikat“. Das sind diejenigen, die vollkommen sinnbefreit unsere Landschaften mit 200 m hohen Windmühlen zupflastern wollen. Der Profit muss stimmen, nur das zählt! Damit die Superreichen noch reicher werden!
+Korrupte/unfähige Politiker und gutgeschmierte Medien, das ist alles, was die skrupellosen „GRÜNEN Blutsauger“ brauchen, um Milliarden/Billionen zu scheffeln.
+In Deutschland wird alles weggesprengt und stillgelegt, was dem „GRÜNEN Syndikat“ im Wege steht:
+– siehe auch EIKE: „KKW Philippsburg II, Restwert etwa 3 Milliarden Euro, gesprengt!“
+– Bundestag beschließt am 3.7.2020 den Kohleausstieg bis 2038
+Deswegen sind „Mehrkosten für die Erzeugung wetterabhängiger erneuerbarer Energie in der EU“ immer hoch willkommen! Wie z.B. das „GRÜNE Knallgas“, welches das Potential hat, den Strompreis zu verzehnfachen!
+Fast die gesamte Energie in der Atmosphäre, den Ozeanen und der Erdoberfläche wird bzw. wurde von der Sonne geliefert.
+Daß der Mensch es geschafft hat die früher von den Pflanzen und Tieren umgewandelte und in chemischen Substanzen gespeicherte Energie für sich zu nutzen ist ohne Frage ein Wunder. Und daß es ihm vor etwas weniger als 80 Jahren gelang die in Metallkernen gespeicherte Energie zu nutzen, ist auch ein Wunder.
+Aber Energie läßt sich nicht erneuern.
+Das, was Windmühlen machen, ist die durch Druckdifferenzen den atmosphärischen Gasen gespendete kinetische Energie in kinetische Energie der bewegbaren Teile der Windmühlen umzuwandeln. Das konnten aber bereits schon unsere Vorfahren entlang des Nils und anderer Flüsse rund um die Welt.
+Insofern sind diejenigen, die von „Erneuerbaren Energien“ was dahersabbeln, meist dummdreiste Lügner.
+Und diejenigen, die diese Dinger betreiben, sind ohne jeden Zweifel extreme Schädiger der Tier- und Umwelt.
+Und wie dumm Menschen sind, kann man anhand des Unfalls an einer Autobahnbrücke in HH erkennen:
+Vollsperrung auf der A1 Schwertransport kollidiert mit neuer Brücke
+Letztendlich nicht zu fassen, daß sowas passieren kann.

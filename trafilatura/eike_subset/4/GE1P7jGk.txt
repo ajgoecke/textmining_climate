@@ -1,0 +1,179 @@
+Analyse der Oberflächentemperatur nach GISS
+Die schwer fassbare Absolute Oberflächen-Lufttemperatur (SAT)
+Bei der GISTEMP-Analyse geht es ausschließlich um Temperaturanomalien und nicht um die absolute Temperatur. Temperaturanomalien werden berechnet auf Grundlage der Referenzperiode 1951 bis 1980. Der Grund für die Arbeit mit Anomalien anstatt mit der absoluten Temperatur ist, dass die absolute Temperatur kurzfristig markant variiert, während monatliche oder jährliche Temperaturanomalien repräsentativ für ein viel größeres Gebiet sind. Tatsächlich haben wir gezeigt (Hansen und Lebedeff 1987), dass Temperaturanomalien bis zu Entfernungen in der Größenordnung von 1000 km stark korrelieren.
+Frage: Was genau ist mit SAT gemeint?
+Antwort: Ich bezweifle, dass es eine allgemeine Übereinstimmung bzgl. der Antwort auf diese Frage gibt. Selbst an der gleichen Stelle kann die Temperatur nahe dem Boden sehr unterschiedlich sein zur Temperatur in einer Höhe von 5 ft [ca. 1,5 m] und wieder unterschiedlich zur Temperatur in 10 ft oder 50 ft [ca. 3 m bzw. 15 m] über dem Boden. Vor allem bei vorhandener Vegetation (z. B. im Regenwald) kann die Temperatur über der Vegetation sehr unterschiedlich sein zur Temperatur unter der Obergrenze der Vegetation. Ein vernünftiger Vorschlag scheint es mir zu sein, die mittlere Temperatur der ersten 50 ft [ca. 15 m] entweder über dem Erdboden oder über der Obergrenze der Vegetation zu verwenden. Um die SAT zu messen, müssen wir darin übereinstimmen, was das ist, und – soweit ich weiß – wurde bislang kein solcher Standard vorgeschlagen oder allgemein übernommen. Selbst falls man den Standard von 15 ft übernehmen sollte, kann ich mir nicht vorstellen, dass ein 50 ft hoher, an einer Wetterstation aufgestellter Mast in der Lage wäre, die wahre SAT an dieser Stelle zu ermitteln.
+Frage: Was meinen wir mit täglichen SAT-Mittelwerten?
+Antwort: Noch einmal: es gibt keine universell akzeptierte Antwort. Sollten wir die Temperatur alle 6 Stunden messen und das Mittel bekannt geben; sollten wir das alle 2 Stunden tun, stündlich oder mittels einer Maschine in jeder Sekunde? Oder sollen wir einfach den Mittelwert aus Höchst- und Tiefsttemperatur nehmen? An einigen Tagen können verschiedene Methoden zu drastisch unterschiedlichen Ergebnissen führen.
+Frage: Welche SAT berichten die lokalen Medien?
+Antwort: Die Medien berichten von einem bestimmten Thermometer einer nahe gelegenen Wetterstation. Diese Temperatur kann sich sehr von SAT unterscheiden, selbst an jener Stelle und hat mit Sicherheit nichts zu tun mit der wahren regionalen SAT. Um die wahre regionale SAT zu messen, müssten wir viele 50 ft hohe Masten mit Thermometern aufstellen, die gleichmäßig über das gesamte Gebiet verteilt werden, eine offensichtliche praktische Unmöglichkeit.
+Frage: Falls die SATs, über die berichtet wird, nicht die wahren SATs sind, warum sind sie dennoch nützlich?
+Antwort: Die berichtete Temperatur ist nur für eine Person wirklich bedeutsam, die zufällig die Wetterstation besucht genau in dem Moment, wenn die berichtete Temperatur gemessen wird, mit anderen Worten, für niemanden. Allerdings wird zusätzlich zu den berichteten SATs erwähnt, ob es sich gegenwärtig um ungewöhnlich hohe oder niedrige Werte handelt, wie stark sie von der Normaltemperatur abweichen und ob diese Information (die Anomalie) bedeutsam für das ganze Gebiet ist. Außerdem, wenn wir eine bestimmte Temperaturangabe hören (z. B. 70°F [ca. 18°C]), übersetzen wir das instinktiv in warm oder kalt, aber der Schlüssel zur Übersetzung ist abhängig von Jahreszeit und Gebiet. Die gleiche Temperatur kann ,warm‘ im Winter und ,kalt‘ im Juli bedeuten. Wir meinen mit ,warm‘ automatisch ,wärmer als normal‘, d. h. wir übersetzen absolute Temperaturen automatisch in Anomalien, ob uns das nun bewusst ist oder nicht.
+Frage: Wenn SATs nicht gemessen werden können, wie werden SAT-Karten konstruiert?
+Antwort: Dies kann man nur mit Hilfe von Computermodellen machen, und zwar den gleichen Modellen, mit deren Hilfe man die tägliche Wettervorhersage erstellt. Wir können das Model laufen lassen mit den wenigen gemessenen verfügbaren Daten und den Rest mit Schätzungen (auch Extrapolationen genannt) auffüllen. Dann können wir das Modell lange genug laufen lassen, so dass die ursprünglichen Schätzungen keine Rolle mehr spielen, aber auch nicht zu lange, um zu vermeiden, dass die Ungenauigkeiten des Modells relevant werden. Dies kann gemacht werden, wenn man mit den Bedingungen aus vielen Jahren anfängt, so dass das Mittel (eine ,Klimatologie‘ genannt) hoffentlich eine typische Karte für den bestimmten Monat oder Tag des Jahres repräsentiert.
+Frage: Was mache ich, wenn ich absolute SATs brauche und keine Anomalien?
+Antwort: In 99,9% aller Fälle wird man sehen, dass Anomalien genau das sind, was man braucht, nicht absolute Temperaturen. In den verbleibenden Fällen muss man eine der verfügbaren Klimatologien herauspicken und die Anomalien hinzufügen (hinsichtlich der geeigneten Bezugsperiode). Für das globale Mittel erzeugen die Modelle, denen man am meisten vertraut, einen Wert von grob 14°C, aber der Wert kann sich genauso gut auch zwischen ca. 13°C und 15°C bewegen; und im regionalen und noch mehr im lokalen Maßstab ist die Lage noch schlimmer.
+Link: http://notrickszone.com/2015/01/17/2005-james-hansen-no-agreement-on-what-is-surface-air-temperature-few-observed-data-filled-in-with-guesses/#sthash.6WSS5pf1.dpbs
+Übersetzt von Chris Frey EIKE
+was kommt denn raus, wenn man eine Zahl mit 0 multipliziert?
+mfG
+„fällt vom Zentrum (Abstand 0) von 1 bis 1200 km linear auf 0 ab!“
+In der Vorstellungswelt der Leute. Die Realität sieht anders aus: http://tinyurl.com/cyzufgt
+Und wenn man dann vom Wasser aufs Land geht ist bereits nach ein paar km Schluß mit der behaupteten Linearität.
+Weiterhin bemerkt der verehrte Herr H. Urbahn in #22, folgendes, (Zitat): „Eine globale Anomalie ist genauso ein Unsinn wie eine globale Durchschnittstemperatur.“
+Wieso antworten Sie diesem Herrn nicht? Herr Urbahn setzt Ihnen klare Grenzen.
+Der obige Artikel ist ziemlich deutlich, in der mathematischen Sprache gedacht, äussert präzise. Worauf stützen Sie dann noch Ihre Hoffnung? Was führen Sie im Schilde?
+Wenn man verschweigt, daß die Temperaturdaten für die Anomalie noch gewichtet werden, hat man entweder das Verfahren nicht verstanden oder das paper nie gelesen oder streut absichtlich Nebelkerzen. Auf page 13,349 steht explizit:
+„W_n decreases linearly from 1 at the subbox center to 0 at a distance D, where we have taken D=1200 km as a representative direction-independent distance over which the temperature changes exhibit strong correlation.“
+Die Temperaturdaten werden also noch mit Gewichten W_n multipliziert, das Gewicht ist 0 (in Worten „null“) in 1200 km Abstand (dort ist etwa der Korrelationskoeffizient auf 0,5 gegenüber der Temperaturreihe im Zentrum), fällt vom Zentrum (Abstand 0) von 1 bis 1200 km linear auf 0 ab!
+#17: U. Langer sagt: am Freitag, 30.01.2015, 10:01
+Sehr geehrte(r) Frau/Herr Ketterer,
+[. . . ], dass Sie in Ihren Kommentaren eine dermaßen dicke Lippe riskieren und dann daran scheitern, den Dreisatz auf ein Intervall anzuwenden.
+An Ihrem Ergebnis erkennt man übrigens, dass Sie sich nicht „nur verrechnet“ haben, sondern dass Sie wirklich mathematisch überfordert sind. 🙂
+Sehr geehrte(r) Frau/Herr Langer,
+Falls Sie Rechtschreibungsfehler bei mir finden (was nicht unwahrscheinlich ist) dürfen Sie diese gerne behalten.
+Nur würde ich mich dafür interessieren auf welche Abweichung Sie kommen. IMHO stimmt meine Rechnung (von Rundungsungenauigkeiten abgesehen).
+Nachtrag vom 02.02.2015:
+Herr Langer, haben SIE sich möglicherweise eine zu dicke Lippe riskiert?!?
+Ihre Darlegung wo ich „mathematisch überfordert“ sein sollte, steht noch aus: Solange von Ihnen da keine Antwort kommt sind Ihre Einwürfe nichts weiter als d.mmes Geschwätz.
+„Mein Tip: Lesen, lesen, lesen!“
+Ich habe mal Ihr http://tinyurl.com/kbmat9y gelesen. Auf Seite 108-9 (nach der Zählung von EE) sind mir gleich Inkonsistenzen aufgefallen.
+Da ist die Temperaturanomalie definiert als:“ Every anomaly temperature is ?ti = ti(Mit Querstrich drüber)– T(Mit Querstrich drüber)“, mit i sind ja dann wohl die Jahre gemeint,
+zu der die Anomalie angegeben wird. Nach der Definitionsformel von T(Mit Querstrich drüber) ist auf Seite 108 muß es sich bei T(Mit Querstrich drüber) als das 30jährige Jahresmittel handeln,
+welches sich dort aus dem Mittel über die Monatsmittel über 30 Jahre ergibt (12×30=360 Summanden: „where T(Mit Querstrich drüber) is here the thirty year average annual mean values;
+ti(Mit Querstrich drüber) is the yearly average station temperature“. Demnach sind ?ti bzw. ti(Mit Querstrich drüber) die Anomalie des bzw. das Jahresmittel im Jahre i.
+D.h. nicht monatsbezogene Daten. Ist das richtig?
+Dann betrachten Sie den Fehler epsilon von T(Mit Querstrich drüber), der sich nach Fehlerpflanzung aus den Fehlern epsilon_n (fälschlich mit Index i bezeichnet) der 360 Monate (30×12) ergibt. Soweit ok.
+Dann haben Sie noch den Fehler ei von ti(Mit Querstrich drüber). Wenn ich Sie richtig interpretiert habe, so ist dieser doch folgerichtig durch die epsilon_n der 12 Monater des Jahres i per Fehlerfortpflanzung gegeben. Stimmen Sie mir da zu?
+Demnach ist das Verhältnis epsilon/ei von der Größenordung der Faktor 1/wurzel(30), richtig? Und damit ist sigma_i/ei etwa wurzel (1+1/30) = 1,016, sigma_i also nur ca. 1,6% größer als ei, korrekt?
+In einem gerade erschienen Beitrag auf Bishop Hill zeigt sich wieder einmal wie aus einem negativen Trend in den Rohdaten einer Meßstatation ein positiver Trend nach der „Homogenisierung wird.
+2. Eine globale Anomalie ist genauso ein Unsinn wie eine globale Durchschnittstemperatur.
+MfG
+Ihre (!) Kernaussage ist auf deutsch gesprochen: FALSCH.
+Sie wissen nicht worüber Sie reden. Im Grunde kennen Sie die christliche Ideologie gar nicht (richtig). Auf die Energiewende übertragen, verehrter Herr Marc Hofmann, wären Sie ein Troll, eindeutig. Und Sie träumen, und zwar gewaltig.
+Mit sehr freundlichen Grüssen
+P.S.: Die weltliche Kirche ist KEIN Sündenpool, Ihnen mangelt es an Präzision. Und Sie sind (wohl jetzt) ein Heiliger? Seien Sie vorsichtig, die Heuchelei wartet mit der Dummheit schon an der nächsten Ecke. Sehen Sie sich vor. (Die Beweise, Sie belastend, befinden sich in meinem Besitz). Ich bin entsetzt und mir stehen die Haare zu Berge, ob Ihrer gewaltigen Ignoranz, die auch noch erwünscht ist. Vermögen Sie mir zu sagen, wo Sie (!) diesen grossen Schmu herhaben? Ich bräuchte die Quellen Ihres Nicht-Wissens, für meine Arbeit. Danke sehr. Welche (einfältigen) Zeugen könnten Sie anführen?
+Sehr geehrte(r) Frau/Herr Ketterer,
+Sie schreiben:
+„Allein soch die Von Dr.Paul so geliebte Trockenadiabate ergibt im Bereich er „erlaubten“ Thermometerexposition (1,25 bis 2m) ein potentielle Abweichung von 0,008K.“
+Mal abgesehen von Ihrer genialen Reschtschraibhunk finde ich es schon beachtlich, dass Sie in Ihren Kommentaren eine dermaßen dicke Lippe riskieren und dann daran scheitern, den Dreisatz auf ein Intervall anzuwenden.
+An Ihrem Ergebnis erkennt man übrigens, dass Sie sich nicht „nur verrechnet“ haben, sondern dass Sie wirklich mathematisch überfordert sind. 🙂
+Sehr geehrte(r) Frau/Herr Langer,
+Falls Sie Rechtschriebefehler bei mir finden (was nicht unwahrscheinlich ist) dürfen Sie diese gerne behalten.
+Nur würde ich mich dafür interessieren auf welche Abweichung Sie kommen. IMHO stimmt meine Rechnung (von Rundungsungenauigkeiten abgesehen).
+Danke für die klaren Worte 😉
+Der Kern meiner Aussage in #13 ist….
+Die Weltliche Kirche ist ein Sündenpool.
+Die Christlichen Werte haben einiges in sich mit dem man sich selbst und die natürlichen Prozesse/Abläufe verbinden kann.
+Der christliche Glaube und die heidnischen vor Christlichen menschlichen Naturritale haben sich in unseren Breitengraden sehr gut mit einander arrangiert bzw. in sich gefunden.
+Wenn man mal von Menschen und Tieropfern zu religösen Zwecken absieht.
+1. Die Kernaussage ist: Das rot-grüne Gift ist die (!) Kriegserklärung schlechthin gegen alle (!) christlichen Werte. Und die christliche Ideologie ist mit dem grünen Gedankengut unvereinbar. Sollten Sie einem Menschen begegnen, der (frech) behauptet, Christ und Grüner zu sein, dann muss bei Ihnen der (moralische) Geigerzähler stark ausschlagen. Sie haben dann jemanden vor sich, der Sie belügt und sehr stark mit feindlicher Software verseucht ist. Virusinfektion. Er ist Grüner und kein Christ. Beispiele hierfür sind, bspw. Winfried Kretschmann (Baden-Württemberg), die Bischöfe von München und Stuttgart.
+2. Lassen Sie sich niemals durch Begriffe und Definitionen blenden und täuschen. Worte können in die Irre führen, die Füsse können das nicht.
+3. […] [Der zu Unrecht davongejagte Limburger Bischof war ein Erzfeind der Energiewende.]
+4. Was war denn Ihre Kernaussage in 13?
+Danke. 🙂
+Sie schreiben:
+„Allein soch die Von Dr.Paul so geliebte Trockenadiabate ergibt im Bereich er „erlaubten“ Thermometerexposition (1,25 bis 2m) ein potentielle Abweichung von 0,008K.“
+Mal abgesehen von Ihrer genialen Reschtschraibhunk finde ich es schon beachtlich, dass Sie in Ihren Kommentaren eine dermaßen dicke Lippe riskieren und dann daran scheitern, den Dreisatz auf ein Intervall anzuwenden.
+An Ihrem Ergebnis erkennt man übrigens, dass Sie sich nicht „nur verrechnet“ haben, sondern dass Sie wirklich mathematisch überfordert sind. 🙂
+MfG
+Und last but not least: Wir reden hier von der absoluten Temperatur, die meteorologisch bestimmt werden soll und deren Höhe – neben anderen Eigenschaften der Luft am Messort- die Einergieinhalte derselben bestimmt. Entscheidend also für die Energieinhalte, damit -flüsse und die Modellrechnungen ist.
+Und die ist nunmal als die Temperatur definiert, die in einer Höhe von 1.25 bis 2 m herrscht und daher auch dort gemessen werden muss.
+Das ist zwar alles ziemlich kompliziert, lieber Herr Ketterer, aber als studierter Meteorologe sollten Sie das schon mal irgendwo und irgendwann gelernt haben. Warum dann nicht auch zugeben?
+mfG
+Admin
+Sehr geehrter Admin (Herr Limburg nehme ich an),
+Danke für Ihre Antwort, nur wie kommen Sie auf die Idee, ich hätte Meteorologie studiert?
+Herr Paul tritt hier immer sehr „erzieherisch“ auf und stellt Dinge als Tatsache hin, von denen er nur bedinngt etwas versteht (ich sage nur Pyrgeometer). Dann behauptet er, „meteorologischen Temperaturmessung handelt es sich bekanntlich um die Lufttemperatur in 2m Höhe.“
+Sie sagen doch selbst richtigerweise, dass die 2m nicht überall eingehalten werden und dass es eine zulässige Abweichung hiervon gibt. Auch bei der Ermittlung der sogenannten „Tagestemperatur“ gibt es mehrere gültige Verfahren. Solange das Verfahren am Standort beibehalten wird und man nun Stationen vergleichen möchte, die verschiedene Thermometerhöhen und verschiedene „Mittelwertalgorithmen“ haben, kann die Betrachtung der Anomalien sinnvoller sein als die Diskussion über die Absolut-Werte.
+Überrascht hat mich Ihre Bemerkung: „Damit begründet er auch auf die Schnapsidee, dass innerhalb eines Durchmssers von 2400 km – egal was dazwischen liegt, eine einzige Station genügt, um den Temperaturgang zu kennen.“ Aus der von Ihnen angegebenen Quelle konnte ich das nicht herauslesen. Da das Hansenl/Lebedeff (1987) paper mehr als 30 Seiten lang ist wäre einen Seitenangabe angebracht.
+Kommentar:
+Kommentar:
+1. Die bis vor kurzem gültigen allgemeinen Aufstellbedingungen für die modifizierte Englische Hütte besagen, dass die Thermometer gemäß früherer WMO-Vorschrift in 1,25 bis 2 m Höhe über Grund [SPARKS, 1972] angebracht sein sollen und vor direkter Sonneneinstrahlung und Windeinfluss durch einen mit Lamellenwänden ausgestatteten, weißen Kasten zu schützen sind.
+Richtig!
+2……
+Cum grano salis auch richtig.
+Deswegen sagte ich ja Herrn Dr. Paul, das die Lufttemperatur NICHT exakt auf 2m definiert ist. Allein soch die Von Dr.Paul so geliebte Trockenadiabate ergibt im Bereich er „erlaubten“ Thermometerexposition (1,25 bis 2m) ein potentielle Abweichung von 0,008K. Wenn man dann noch in Betracht zihet, dass in den unteren 5 m der Atmosphäre der T-Gradient bei Sttrahlungwetterlagen oft weit mehr ist als die 0,1K pro 10m, dann wird klar, weswegen Hanssen (und viele andere auch) es vorzieht mit Anomalien zu Arbeiten als mit absoluten T-Angaben.
+War ja anscheinend eine schwere Geburt , werter Admin.
+Eine Bitte, wenn Sie darauf schon plädieren, dass man sich vernünftig und verständlich Unterhalten soll, dann bringen Sie mal ihr geschriebenes mit 2 bis 2 verständlichen Sätzen auf den Punkt bzw. was ist der Kern ihrer Aussage?
+Danke!
+Kritik ist etwas, was im Originaltext ausdrücklich erwähnt wird. [Dies ist nachprüfbar!]
+Kritik ist etwas, was jeder Mensch anwenden muss und sollte, steht im Originaltext. [Dies ist ebenso nachprüfbar!]
+Kritik ist überlebenswichtig.
+Und wer (immer) prüft, also unterscheidet, der kommt der Lüge auf die Schliche.
+Richtig zu prüfen kostet sehr (!) viel (!) Zeit. Und man muss (!) wissen wie (!) zu prüfen ist. Und auch (teilweise sehr viel) Geld.
+Der obige Artikel, von dem Autor Pierre Gosselin, enthält sehr viele Aussagen. Wer von den Lesern prüft diese nach? Wer investiert darin Zeit? Also, was kann der Leser nur tun? Dem Glauben zu schenken. Oder Ablehnung. Es ist purer Glaube. Was denken Sie, wieviele sogenannte Wissenschaftler prüfen jede wichtige Aussage, des obigen Textes, nach? Das Lesen genügt nicht. Njet, njet.
+Jetzt zu Ihrer Antwort (#13).
+1.
+Ihre (!) Rituale und Ihre zeitliche Übereinstimmung. Also, verehrter Herr Marc Hofmann, das ist kein Beweis. Das sagt rein gar nichts. Sie reissen eher die Dinge auseinander, aus dem Kontext.
+Für Sie wäre es von weit grösserem Nutzen, beschäftigen Sie sich mit dem Fach Intrigen. Werden Sie darin ein Experte, dann wäre viel mehr gewonnen. Im Abendprogramm der öffentlich-rechtlichen Sender, und in den Privaten ebenso, erhalten Sie viel Anschauungsmaterial. Lernen Sie daraus. Intrigen sind gang und gäbe, täglich, Tag für Tag. Auch und vor allem im Gebäude der Wissenschaft. Natürlich. Auch in der Wissenschaft werden unliebsame Meßergebnisse (sehr gerne) unter den Tisch fallen gelassen. Und dies geschieht sehr oft. Wie wir ja beim Wetter sehen können. Wer tanzte früher um irgend etwas herum und bat um Einflussnahme auf das Wetter und Regen? :))
+Ihre (!) Kritik an den Ritualen können Sie sich schenken. Das war nix. Sie haben wohl dem Feind zugehört, und sich von dem übers Ohr hauen lassen. Ihr rein privates und subjektives Problem. Das (!) spricht nicht gegen die weltliche Kirche. Die bösartige Infiltration, jedoch, ist eine unangreifbare Tatsache, Faktum.
+2.
+Dann zu Ihrer Basis. Dann sind Sie ja noch christlich beeinflusst. Wunderbar. Sie haben diese Atome nicht aus der Hand gegeben. Das ist überlebenswichtig. Bleiben Sie unbedingt dabei. Aber, Sie machen woanders vielleicht Fehler. Sie prüfen zu wenig und sind viel zu unkritisch. Sie wollen ein Amateur sein, in diesem Bereich, wenn ich es recht überblicke. In der einseitigen Kirche der Physik tummeln sich auch falsche Propheten. 😉
+3. Zitat: “ Ich glaube nicht an die weltliche Kirche, sondern an christliche Werte. Als Basis dienen hier die 10 Gebote.“
+Der Richter fragt Sie jetzt, noch ein weiteres Mal. Herr Zeuge, Marc Hofmann, ist das Ihr Ernst? Wirklich? Haben Sie sich nicht verschrieben?
+Wenn (!) dem wirklich so sein sollte, dann sollen Sie wissen (es ist nachprüfbar), der Ehrenmann aus Limburg, hat genau (!) das Gleiche gesagt, wie Sie, verehrter Herr Marc Hofmann. Rede ich deutlich? Fallen Sie jetzt bitte nicht vom Stuhl. Das sind Tatsachen, also überprüfbar, wenn man nicht faul sein will. Und was geschah, mit diesem Ehrenmann?
+Er musste (!) gehen. Und das ist eine Perversion. Der Anfang vom Tod. Ein Skandal. Der eindeutige (!) Nachweis, dass er nicht(!) wegen (!) dem Geld gehen musste, liegt zum einen in München und in einem Vorort von Stuttgart begründet, um einige konkrete Beispiele herauszugreifen. Denn, hier hat die Freimaurer-Presse des Springer-Verlags und die andere Pressemeute, obwohl von allem wissend, natürlich, absichtlich (!) nichts sagen wollen. Und warum? Weil München und Stuttgart christliche Werte längst nicht mehr hochhalten und nicht daran glauben. Und was haben solche Menschen in der christlichen Kirche noch verloren? Nichts. Wieso gehen diese dann nicht hinaus? Tja, ich weiss warum. Und Sie könnten es auch herausfinden, wenn Sie wollten. De facto ist es heute so. Menschen, die christliche Werte öffentlich hochhalten werden diskriminiert und verfolgt, in diesem unsrigen Land. Tatsache. Und es findet keine öffentliche Diskussion darüber statt. Und das macht einem (schon) grosse Sorge. Die einzige (!) Fabrik, die aufrichtige und wahrheitsliebende Menschen produziert, soll zerstört werden. Was soll dann noch aus diesem Land werden?
+Noch einmal durch die Blume, auch aus Achtung vor den Regeln dieses Forums. Das rot-grüne Gift ist die (!) Kriegserklärung schlechthin gegen alle (!) christlichen Werte. Die erhabensten, die es geben kann. Es gibt keine besseren Werte. Tatsache.
+Ein schönen Tag noch, weiterhin.
+P.S.: Eine (wahrhaft) offene und ehrliche Diskussionskultur muss dies ertragen wollen. Das ist nämlich pure Wissenschaft. Und mit der perversen Gedankenpolizei werde ich spielend fertig. 😉
+Nur mal soviel Einblick in meine Glaubenswelt….
+Ich glaube nicht an die weltliche Kirche, sondern an christliche Werte. Als Basis dienen hier die 10 Gebote.
+Mit den weltlichen Kirchenritualen (Weihnachten, Ostern, Pfingsten, Erntedank, Allerheiligen usw.) kann ich mich auch nur arrangieren, weil diese Ritale zetilich mit den „Natur-Ritualen-Religion) in unseren Breitengrade eine Übereinstimmung findet.
+Weihnachten = Geburt und das Licht der Welt = Wintersonnwende.
+Ostern = Tod und Auferstehung = Frühling, die Zeit der Aussaat (das Korn muss in die Erde=Tod um neues Leben = Auferstehung hervor zu bringen).
+Pfingsten = der heilige Geist = Wachstummonat (Mai,Juni).
+Erntedank = Flur und Feldprozessionen = der Dank und die Einfuhr einer guten Ernte (September/Oktober).
+Allerheiligen = das Gedenken an das Vergehen, den Tod von Angehörigen = das innehalten und das nachdenken über das, was war und kommen wird.
+#4: Sehr geehrter Herr Stefan Mayer, es ist noch alles sehr viel schlimmer. 🙁 Wenn Sie wüssten.
+Woran erkennt man (denn) jeden Lügner? 😉 Also, nicht nur diesen nicht-kathol. Papst.
+Sorry ist off Topic:
+Ich schätze mal in diesen Kreisen am zu großzügig ausgestatteten Badezimmer?!?
+Dieser (falsch spielende) Papst weiss es eben nicht. Und Sie begehen mehrere Denkfehler.
+1.
+Was Sie als „Natur“ bezeichnen ist die Schöpfung, noch immer. Und nein, die Kirche hat gar nichts gemacht, denn sie ist unabhängig, und wird es immer sein, von der einseitigen Kirche der Physik. Was kann diese eitle (naturwissenschaftliche) Kirche der Katholischen lehren? Absolut nichts.
+2.
+Zitat: „[…] jetzt wo die Erde doch keine Scheibe mehr ist, sondern Rund, […]“
+So, eine Bitte an Sie. Beweisen Sie das Zitat, bitte. Belegen Sie doch mal, was Sie sich da erträumen. Von wem stammt diese Behauptung? Können Sie das? Sie werden vor einem nicht überwindbarem Problem stehen. Woher wissen (auch) Sie was Sie wissen? Das war eine Lüge, die die Gegner der Christen in Umlauf gesetzt haben. Die christliche Ideologie hat das niemals behauptet, wir wissen, dass die Erde fast perfekt rund ist. Und lange bevor die Verleumder lesen und schreiben konnten.
+3.
+Auch Sie muss nur eines zu denken geben, vor allem. Wie kann es sein, dass der falsche Franziskus mit einem Al Gore kungelt? Hier ist der Hund begraben. Mit der christlichen Kirche hat dies absolut nichts zu tun. Vorsicht für Verallgemeinerungen. Ihre Vorgehensweise hat mit richtigem Denken nichts zu tun.
+4.
+Die falschen Propheten. Ja, das stimmt, was Sie schreiben. Aber, Sie unterschlagen ein K.O.-Kriterium, welches auch Sie erledigt. Die falschen Propheten laufen mittlerweile überall herum. Und im Falle der Katholischen Institution, die Sie überleben wird, natürlich, wenn Sie eines Tages ins Gras beissen müssen, ob Sie wollen oder nicht, seien wir mal realistisch, handelt es sich um bösartigste Infiltration, durch den rot-grünen Feind, einem tödlichen Gift. Soviel Fairness darf doch sein. Wo ist das Problem? Es gibt keines, wenn man in allen (!) Bereichen wahrhaftig bleiben will.
+Das Problem hat mit der Kirche absolut nichts zu tun. Es ist nur bezogen, auf ganz wenige Menschen, innerhalb der Hierarchie, und diese versuchen, die Kirche von innen heraus zu zerstören. Oder, sind Sie noch nicht dahinter gekommen, (vgl. Ihre eigenen Recherchen, bspw.), warum der Ehrenmann aus Limburg gehen musste? Mit diesem aufrichtigen Menschen hätte es niemals eine Umwelt-[..] geben können. So ein Unsinn. Während abertausende Christen, nicht nur, aber mehrheitlich sehr wohl, massakriert werden, weltweit, speziell Naher Osten, Afrika, hat dieser verlogene Franziskus nichts besseres zu tun, als sich mit menschenverachtenden Aussagen selbst geistig zu richten?
+Die Weltregierung der UN waltet schon seit langer Zeit (erfolgreich), im Verborgenen. Hier ist der Hund begraben, nur dort. Und es ist die Giftpflanze der (!) Freimaurer (!), die hier am wirken ist. Freimaurer wollen um jeden Preis, Frieden und Harmonie erzwingen. Dafür töten diese Verbrecher fleissig. Täglich.
+Einen schönen Tag noch.
+Es ist der Geist der Lüge, der sich seiner, dieses katholischen Papstes, bemächtigt hat. Das gilt als sicher.
+Wichtig wäre in Erfahrung zu bringen, wer (!) ihn dabei hilft, seinen (absolut unchristlichen) Text niederzuschreiben, und wer (!) ihn dabei „berät“. Wir dürfen davon ausgehen, diese Kriminellen haben beste Verbindungen zur UN, bzw. den Halunken hinter der UN-Bühne, diejenigen die das Tageslicht scheuen, eine Gruppe wohlbekannter Mörder, auch der Massen. Natürlich. Die Indizien sind sehr stark und es gibt auch hierfür Beweise. Eindeutige (!) Beweise.
+MfG
+Die (wichtigste) Frage ist, wie kommt ein angeblicher Christ dazu einen absolut unchristlichen Beitrag schreiben zu wollen?
+Woran erkennt man (denn) jeden Lügner? 😉 Also, nicht nur diesen nicht-kathol. Papst.
+Der Papst wird mir immer unsympatischer….er behauptet zwar, er habe keine Ahnung davon, wie Klima entsteht aber er weis ganz genau, dass der Mensch ein Schuld daran trägt, wenn die Natur das tut, was diese schon immer getan hat.
+Somit hat die Kirche mal wieder den Menschen als Bösen Sünder auserkoren…jetzt wo die Erde doch keine Scheibe mehr ist, sondern Rund, muss eben ein neues Produkt der Sündenvergebung in Form des Klima herhalten.
+Al Gore und der Franziskus…beide leben in ihrer eigenen Energie-Luxuswelt = Kohle, Gas, Oel, CO2 Ausstoss, Rohstoffe und merken nicht einmal wie heuchlerisch, unglaubwürdig und lächerlich Sie sich gegenüber uns Vernunft und Verstand Bürger (Aufgeklärte Gesellschaft) eigentlich machen/aufführen.
+Wasser predigen und selbst den besten Wein saufen….das konnten diese falschen Propheten = Geisel der Menschheit schon immer.
+„Consequently, many different designs of thermometer screens are in use throughout the world each with its own specific characteristics.“
+angepaßte Screen designs sind ja nichts Neues, damit die Lufttemperatur möglichst genau gemessen wird. Ihr Argument beweist damit gar nichts. Bringen Sie einfach Fakten in Form eine quantitativen Untersuchung, der DWD-Berichts 238 gibt Ihnen eine Orientierungshilfe, wie so was mindestens auszusehen hat.
+am Dienstag, 27.01.2015, 19:41
+#1: F.Ketterer in Simpel-Sprache:
+„What else is new?“
+Bei der Definition der meteorologischen Temperaturmessung handelt es sich bekanntlich um die Lufttemperatur in 2m Höhe. [. . . ]
+Soso, Sie glauben also die Messung der Lufttemperatur sei in der Meteorologie mit einer Messhöhe von 2m definiert? Sie verallgemeinern in unzulässiger Weise. Es ist doch gut, dass der Hansen Text hier nochmals wiedergegeben wird.
+Mancher mag ihn hier lesen, mancher der Lesenden versteht ihn dann auch- nicht alle wie Sie es uns so schön deutlich machen Dr. Paul.
+–> http://tinyurl.com/l9ook8s
+(„Marxistischer“ Papst bringt US-Konservative auf die Palme)
+Und wenn dann Al Gore mit Pharrell Williams die „größte Kampagne aller Zeiten“ veranstaltet:
+–> http://tinyurl.com/ncad4v9
+Übelst. Was für ein Jahr…
+Vielleicht nicht neu, aber schön, dass hier auch mal Klimawissenschaftler eins zu eins zu Wort kommen. Schön, bitte mehr.
+„What else is new?“
+Bei der Definition der meteorologischen Temperaturmessung handelt es sich bekanntlich um die Lufttemperatur in 2m Höhe.
+Das kann ein Satellit selbstverständlich NICHT messen.
+Muss man ab und zu mal dran erinnern.
+Denn die Luft strahlt nun mal nicht selbst,
+es strahlt nur DURCH die Luft.
+mfG
+„Selbst falls man den Standard von 15 ft übernehmen sollte, kann ich mir nicht vorstellen, dass ein 50 ft hoher, an einer Wetterstation aufgestellter Mast in der Lage wäre, die wahre SAT an dieser Stelle zu ermitteln.“
+Hier sollte an beiden Stellen 50ft stehen, damit die Übersetzng mit dem Original übereinstimmt.
+Aber mal ganz allgemein gefragt:
+„What else is new?“
+MfG

@@ -1,0 +1,69 @@
+Bild rechts: Sonneneinstrahlung an der Obergrenze der Atmosphäre (TOA Top of Atmosphere)
+The HockeySchtick schreibt:
+Eine neue Studie findet großen Rechenfehler zur Sonnenstrahlung an der Obergrenze der Atmosphäre in den Klimamodellen.
+Eine neue, in den Geophysical Research Letters veröffentlichte Studie findet erstaunlich große Fehler in den am weitesten verbreiteten „state of the art"-Klimamodellen durch falsche Berechnung der Sonneneinstrahlung und der Sonnenzenitwinkel an der Oberfläche der Atmosphäre.
+Die Autoren stellen fest,
+Die jährliche Sonneneinstrahlung an der Oberseite Atmosphäre (TOA) sollte unabhängig von Längengraden sein. Doch in vielen der CMIP5 Modelle [Modelle der Projektphase 5] finden wir, dass die einfallende Strahlung zonale Schwingungen mit bis zu 30 W / m² von störenden Schwankungen erzeugt. Diese Funktion kann die Interpretation der regionalen Klima und den Tagesgang der CMIP5-Ergebnisse beeinflussen.
+Das IPCC behauptet, der angebliche Strahlungsantrieb alles vom Menschen verursachten CO2 seit 1750 wäre 1,68 W / m². Die Autoren haben im Vergleich dazu entdeckt, dass die bis zu 30 W / m² von „unechten Variationen" durch fehlerhaften Berechnung der Sonnenzenitwinkel sind bis zu 18 mal größer sind als die gesamten angeblichen CO2-Strahlungsantriebe seit 1750
+Warum ist dieser erstaunliche, große Fehler von grundlegenden astrophysikalischen Berechnungen nicht bereits Milliarden von Dollar vorher gefunden worden, und wie stark hat dieser Fehler die Ergebnisse aller Modellstudien in der Vergangenheit beeinflusst?
+Die Studie fügt den Hunderten von Anderen aufgezeigten großen Fehlern weitere Fehler hinzu gegen physikalische Grundlagen, die den so genannten State-of-theArt-Klimamodellen anhaften, einschließlich von Verstößen gegen das zweite Gesetz der Thermodynamik (hier). Darüber hinaus, auch wenn die “Parameterisierungen” (ein schickes Wort für Schummelfaktoren) in den Modellen korrekt waren (sie sind es nicht), müsste die Rastergröße der Modelle eine Auflösung um 1 mm oder weniger haben, um die turbulenten Wechselwirkungen und Klima korrekt zu simulieren (das IPCC verwendet Rastergrößen von 50 bis 100 km, 8 Größenordnungen größer). Wie Dr. Chris Essex zeigt, würde ein Supercomputer für eine einzelne 10 Jahres-Klimasimulation mit dem notwendigen 1 mm Rastermaß länger als das Alter des Universums brauchen, um die Physik des Klimas richtig zu modellieren.
+Link zur Studie: On the Incident Solar Radiation in CMIP5 Models
+(Über die Sonneneinstrahlung in CMIP5 Modellen]
+Linjiong Zhou, Minghua Zhang, Qing Bao, and Yimin Liu1
+Die jährliche Sonneneinstrahlung an der Oberseite Atmosphäre (TOA) sollte unabhängig von Längengraden sein. Doch in vielen der CMIP5 Modelle [Modelle der Projektphase 5] finden wir, dass die einfallende Strahlung zonale Schwingungen mit bis zu 30 W / m2 von störenden Schwankungen erzeugt. Diese Funktion kann die Interpretation der regionalen Klima und Tagesgang CMIP5 Ergebnisse beeinflussen.
+Diese Schwingung wird auch in der Gemeinschaft der Erdsystemmodelle (CESM) gefunden. Wir zeigen, dass diese Funktion durch zeitliche Intervallfehler bei der Berechnung des Sonnenzenitwinkel verursacht ist. Der Intervallfehler kann zonale Schwingungen der Oberfläche netto kurzwelligen Strahlung von etwa 3 W / m2 bei klarem Himmel verursachen, wenn ein stündliches Intervall für die Strahlung verwendet wird, und 24 W / m2 bei einem 3-stündigen Intervall.
+Erschienen auf WUWT am 10 März, 2015
+Übersetzt durch Andreas Demmig für Eike
+Link zum Original: http://wattsupwiththat.com/2015/03/10/whoops-study-shows-huge-basic-errors-found-in-cmip5-climate-models/
+Anmerkung des Übersetzers:
+Dieser kurze Beitrag hat mir Spaß gemacht, vor allem die Kommentare.
+Einige wenige vom Anfang möchte ich Ihnen hier zur Unterhaltung zweckfrei näherbringen, Namen weggelassen, nur der Text:
+• Warum verknüpfst Du den Längengrad und die Sonneneinstrahlung an der Obergrenze? Das ist einfach verrückt.
+• Die Sonne scheint nicht in der Nacht (Einfache Antwort auf eine einfache Frage)
+• Die Sonne scheint in der Nacht, sie scheint kontinuierlich. Es ist nur so, dass die Erde sich vom Licht wegdreht!
+• Unter der Sonne ist es aber immer 12:00 Uhr, nicht wahr?
+• Die Modelle warten nicht bis die Sonne über den Jordan ist
+„“nur geringe systematische Auswirkungen“
+Soso, man kann also die Auswirkungen quantifizieren?“
+Können Sie nicht lesen? Darum geht es doch im paper.
+„Oder liegt es am Tuning = ‚Was nicht paßt wird passend gemacht?'“
+Selbstveräppeln kann man sich zu Spaß aber wäre wohl kaum geeignet für ein wissenschaftliches paper.
+die Modelle des obigen Artikels sind hier zu finden.
+http://cmip-pcmdi.llnl.gov/
+„im Modell schon“
+Hallo Herr Urbahn,
+Sie haben natürlich recht.
+Ich bezog mich auf die „Realität“, die „Modelle“ haben mit der Wirklichkeit ja erwiesenermaßen nichts zu tun.
+MfG
+im Modell schon, da hat man es ja extra reingeschrieben (siehe die Aussage von J. Mitchell, IPCC -Leitautor und Chef des brit. Met-Office) nur in der Wirklichkeit nicht.
+mfG
+„Quellcode der Klimamodelle“
+Ohne den dazugehörigen Rechner nützt der Quellcode herzlich wenig.
+Außerdem ist die Bezeichnung „klimamodell“ unzutreffend. Es handelt sich um General oder Global) Circulation Models, also Simulationsmodelle der globalen Zirkulation der Erdatmosphäre (mit oder ohne Ozean, Land, … ).
+Dazu noch ziemlich grob gerastert … .
+„nur geringe systematische Auswirkungen“
+Soso, man kann also die Auswirkungen quantifizieren? Oder liegt es am Tuning = ‚Was nicht paßt wird passend gemacht?‘
+„der anthropogene Effekt im radiative forcing taucht im Modell so wie in der Realität auf mit einigen W/m2 im globalen Mittel, Trend steigend auf.“
+Jaja, Baecker
+das ist natürlich Quatsch, weil gar nix auftaucht. Und wenn nix auftaucht, so steigt auch nix.
+Klingt einfach, ist auch so!
+es handelt sich schon um zonale Schwingungen, also längenkreisabhängige. Aber wie das Abstract ja schon ankündigt, haben diese Oszillationen trotz ihrer vergleichsweise hohen Amplituden nur geringe systematische Auswirkungen aufs Modellklima, der anthropogene Effekt im radiative forcing taucht im Modell so wie in der Realität auf mit einigen W/m2 im globalen Mittel, Trend steigend auf.
+nur ein Bsp.:
+„Die jährliche Sonneneinstrahlung an der Oberseite Atmosphäre (TOA) sollte unabhängig von Längengraden sein. Doch in vielen der CMIP5 Modelle [Modelle der Projektphase 5] finden wir, dass die einfallende Strahlung zonale Schwingungen mit bis zu 30 W / m² von störenden Schwankungen erzeugt. Diese Funktion kann die Interpretation der regionalen Klima und den Tagesgang der CMIP5-Ergebnisse beeinflussen.“
+Das ist nicht nur unheimlich schlecht übersetzt, man lese bitte selbst nochmals…
+sondern auch gänzlich falsch, denn: zonal hat nichts mit meridional zu tun, das zumindest hätte dem „Übersetzer“ (ein Hilfsausdruck) auffallen müssen. Oje Oje….
+schon das Bild im Beitrag ist nicht korrekt.
+Im Beitrag „Närrische Klimaspielereien im Potsdam-Institut PIK“ hier auf EIKE hat dieses Herr Werner Moß (#11) mal sehr treffend beschrieben.
+Zitat: Wieso, die Erde ist doch eine Scheibe! Wäre sie eine Kugel, würden wir alle runterpurzeln. Die Erde ist eine Scheibe, die in gleichmäßiger Durchschnittsdämmerung von der Sonne beschienen wird, da sind sich fast alle Klimawissenschaftler fast einig. Da dreht sich keine Kugel, …
+Mfg
+Werner Holtz
+und keine GEMESSENE Größe.
+Falsch dazu, weil das Modell von einer nicht vorhandenen Strahlungsfähigkeit von CO2 in der Troposphäre ausgeht,
+was man wieder messen kann.
+mfG
+Das Abstract lautet:
+“Annual incident solar radiation at the top of atmosphere (TOA) should be independent of longitudes. However, in many Coupled Model Intercomparison Project phase 5 (CMIP5) models, we find that the incident radiation exhibited zonal oscillations, with up to 30 W/m2 of spurious variations. This feature can affect the interpretation of regional climate and diurnal variation of CMIP5 results. This oscillation is also found in the Community Earth System Model (CESM). We show that this feature is caused by temporal sampling errors in the calculation of the solar zenith angle. The sampling error can cause zonal oscillations of surface clear-sky net shortwave radiation of about 3 W/m2 when an hourly radiation time step is used, and 24 W/m2 when a 3-hour radiation time step is used.”
+Dies ist offenbar ein Fehler im Zeitverhalten, aber die Oszillationen mitteln sich zeitlich weg. Daher ist der Vergleich der maximalen Abweichung von 30W/m2, der nur temporär auftritt, mit dem radiative forcing also offensichtlich unsinnig. Das ist so als wenn man den Meeresspiegelanstieg um 3mm/Jahr dadurch widerlegen wollte, indem man darauf hinweist, daß in dem Moment gerade eine Welle den Wasserstand um mehrere cm absenkt und im nächsten Augenblick wieder ansteigen läßt. Ein zeitlich konstanter Abweichungsfehler von 30W/m2 hätte natürlich eine „Klimakatastrophe“ im Modell verursacht, das ist aber offensichtlich nicht passiert.
+vielen Dank für die Übersetzung. leider enrhält der Artikel einen Fehler, der auch so schon im Orginal stand: in dem Abschnitt beginnend mit: die Studie fügt den mit… ist die Angabe der Größenordnungen falsch. Es sind nicht 6 Größenordnung sondern 8 (1mm bis 100 km).
+Bitte korrigieren
+MfG

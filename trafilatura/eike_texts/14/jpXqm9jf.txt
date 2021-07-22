@@ -1,0 +1,664 @@
+Ich habe bei einem begutachteten Journal eine Studie eingereicht, und bemerkenswerterweise hat sich das Journal dankbar geäußert und sie ins Netz gestellt, während die Begutachtung läuft. Hier folgt diese Studie. Aber es war nicht einfach, bis zum folgenden Punkt zu kommen: Ich denke, dass das in der Studie von mir Beschriebene von großer Bedeutung für die Klimawissenschaft ist, wie vielleicht aus einigen Formulierungen darin hervorgeht. Darum war ich erpicht darauf, sie in einem begutachteten Journal veröffentlicht zu sehen – dem IPCC zufolge sollten nur begutachtete Studien herangezogen werden. Das erste Journal, bei dem ich die Arbeit eingereicht hatte (November 2019) brauchte zwei Monate, um mir mitzuteilen, dass die Studie außerhalb der von dem Journal umfassten Thematik liege – eine seltsame Behauptung. Das zweite Journal brauchte vier Monate, um mich zu benachrichtigen, das man bisher keinen Begutachter gefunden hätte und dass die Studie eines anderen Formats für Quellenangaben sowie einiger kleiner anderer Formatänderungen bedarf. Also zog ich die Studie zurück. Ich habe ein paar Verbesserungen an der Studie vorgenommen während dieses Zeitraumes, aber ich bezweifle, ob das hinsichtlich der Begutachtungen ins Gewicht fällt.
+Die Studie: Wolkenrückkopplung – so es sie überhaupt gibt – ist negativ
+Autor: M. Jonas
+ABSTRACT
+Nahezu alle vom IPCC herangezogenen Klimamodelle zeigen eine starke positive Wolken-Rückkopplung. Hierbei handelt es sich um den Prozess, bei dem eine sich ändernde Temperatur an der Erdoberfläche die Wolkenbedeckung beeinflusst, was wiederum die Temperatur beeinflusst. In dieser Studie werden alle monatlichen Satellitendaten im Zeitraum Juli 1986 bis Juni 2017 analysiert, um die Klimamodelle auf diesen Punkt hin abzuklopfen. Wie erwartet zeigten sich über diesen Zeitraum steigende Trends der Wassertemperatur und zurückgehender Wolkenbedeckung. Aber die Analyse zeigte auch eine unerwartete Relation zwischen Wassertemperatur und Wolkenbedeckung: steigende Wassertemperaturen sind verbunden mit zunehmender – und nicht abnehmender – Wolkenbedeckung während der folgenden paar Monate. Außerdem neigt die Zunahme der Bewölkung dazu, einen größeren Anteil der Sonneneinstrahlung abzuhalten als sie die Ausstrahlung von den Ozeanen behindern. Die unvermeidliche Schlussfolgerung daraus lautet, dass die Wolken-Rückkopplung negativ ist. In jedem Falle kann die beobachtete Abnahme der Bewölkung über den Ozeanen im Zeitraum 1986 bis 2017 nicht einer Rückkopplung durch steigende Temperaturen geschuldet sein. Die Implikationen für Klimamodelle sind verheerend.
+1. INTRODUCTION
+Die Ozeane bedecken etwa 70% der Erdoberfläche und speichern in den obersten 3 Metern mehr Wärme als die gesamte Atmosphäre. Folglich liegt der Schlüssel zum Verständnis eines globalen Klimawandels untrennbar in den Ozeanen.
+Spencer und Braswell (13), welche Satellitendaten und Modelle ausgewertet hatten, berichteten, dass die Diagnose der atmosphärischen Rückkopplung im Klimasystem ein nach wie vor ungelöstes Problem darstellt. Sie schreiben: „Die Größenordnung der Reaktion der Temperatur im Klimasystem auf ein aufgedrücktes Energie-Ungleichgewicht ist heute noch genauso unbekannt wie vor Jahrzehnten schon“. Zieht man jedoch ausschließlich Satellitendaten über einen längeren Zeitraum heran, löst diese Studie eines der großen Aspekte bzgl. Rückkopplungen, nämlich das Signal der Wolken-Rückkopplung. In die Studie gehen ausschließlich empirische Daten ein. Genauer, sie verwendet Daten aus dem gesamten Zeitraum, von der gesamten Ozeanfläche – und es gehen keinerlei Modellwerte ein.
+Das IPCC (5) definiert Klima-Rückkopplung als eine Wechselwirkung zwischen Prozessen, wenn „ein initaler Prozess Änderungen bei einem zweiten Prozess bewirkt, welche wiederum den ersten Prozess beeinflussen“. Und es stellt fest, dass eine Möglichkeit, dies zu quantifizieren, darin besteht, „es als Reaktion des Klimasystems auf eine globale Temperaturänderung“ zu betrachten. Wolken-Rückkopplung ist also der Prozess, durch welchen die Bewölkungsmenge durch eine sich ändernde Temperatur beeinflusst wird, was wiederum die Temperatur beeinflusst. Man beachte, dass die Wolken-Rückkopplung nicht abhängig ist von der ursprünglichen Ursache der Temperaturänderung.
+Rückkopplungen aufgrund der Temperatur waren schwierig von anderen Auswirkungen auf die Temperatur zu trennen, läuft doch der initiale Prozess „fast simultan mit der Temperaturänderung“, aber für den zweiten Prozess gilt, dass es „eine substantielle zeitliche Verzögerung zwischen Antrieb und der Reaktion der Temperatur gibt infolge der Wärmekapazität der Ozeane“ (13).
+Ziel dieser Studie ist es zu erkennen, ob die Auswirkungen der Wassertemperatur (SST) auf die Bewölkung erkannt werden können. Hierzu werden SST-Änderungen verglichen mit späteren Änderungen der Bewölkungsmenge.
+2. Verfahren
+Monatliche Gitterpunkts-SST-Daten [gridded monthly SST data] wurden heruntergeladen vom NOAA/OAR/ESRL PSD in Boulder. Jedes Gitterquadrat ist 1 Längengrad mal 1 Breitengrad groß.
+In gleichem Umfang wurden monatliche Wolken-Daten (Wolkenbedeckung in % und optische IR-Daten) vom International Satellite Cloud Climatology Project (ISCCP) im NASA Goddard Institute for Space Studies (GISS) heruntergeladen. Nur Ozean-Daten wurden verwendet ohne Daten vom Festland und an den Küsten.
+Daten der beiden Datensätze wurden nur für die Monate und die Gebiete verwendet, in denen sowohl die Wolken- als auch die SST-Daten vollständig waren. SST-Daten in Gebieten und Monaten fehlten aufgrund der Bedeckung mit Meereis.
+Für jeden Monat wurden die SST und die Wolkenbedeckung über die gesamte Ozeanfläche gemittelt. Für die SST wurden die einzelnen Temperaturwerte in Kelvin umgerechnet, vor der Mittelwertbildung auf die 4. Potenz angehoben und dann wieder in Grad C umgerechnet. Dadurch wurde sichergestellt, dass sich die berechneten durchschnittlichen SSTs korrekt auf die von der Meeresoberfläche ausgehende Strahlung bezogen.
+Für jeden Monat nach dem ersten Jahr wurde die globale Veränderung der SST gegenüber dem Vorjahr berechnet (hier als „dSST“ bezeichnet). Diese wurden dann über eine unterschiedliche Anzahl von Monaten gemittelt, und jeder Durchschnitt wurde im Vergleich zum Endmonat des gemittelten Zeitraums aufgezeichnet. Die globale jährliche Veränderung der Wolkenbedeckung („dCloud“) wurde für die gleiche Anzahl von Monaten gemittelt, aber für spätere Perioden, die sich nicht mit dem für den dSST verwendeten Zeitraum überschneiden. Zu Vergleichszwecken wurde dCloud für den gleichen Monat wie die zugehörige dSST aufgezeichnet, und zwar für jede Kombination aus der Anzahl der gemittelten Monate und der Anzahl der Monate später. Der lineare Trend von dCloud gegen dSST wurde dann für jede Kombination unter Verwendung der Standardtabellenfunktion Trend berechnet (NB der Trend war von dCloud gegen dSST, nicht gegen die Zeit).
+3. Grundgedanken
+Wie Spencer und Braswell feststellten (13), ist die Rückkopplungs-Reaktion auf die Temperatur „fast simultan mit der Temperaturänderung“. Eine Änderung der SST sollte daher sehr bald danach zu einer Änderung der Wolkenbedeckung (d.h. Wolkenrückkopplung) führen. Es besteht daher die Möglichkeit, dass eine Wolken-Rückkopplung in den monatlichen Daten festgestellt werden kann. Der relevante Vergleich, der vorgenommen werden muss, ist der zwischen einer Änderung der SST und einer Änderung der Wolkenbedeckung im folgenden Monat oder in den folgenden Monaten.
+Diese Studie verwendet Veränderungen von Jahr zu Jahr und behandelt alle Kalendermonate gleich, um jegliche Möglichkeit saisonaler Effekte zu vermeiden. Sie vermeidet sich überschneidende Zeiträume für dSST und dCloud, um die Möglichkeit zu minimieren, dass der Einfluss von Wolken auf die SST die Ergebnisse beeinflusst. Und weil nach einem schnellen Effekt gesucht wird, begrenzt sie jeden betrachteten Gesamtzeitraum (vom ersten dSST-Monat bis zum letzten dCloud-Monat) auf nicht mehr als 12 Monate.
+Es ist unwahrscheinlich, dass sich der Effekt einer Änderung der Wolkendecke innerhalb eines Monats oder innerhalb weniger Monate in den SST-Daten niederschlägt [13], so dass ein Vergleich der Daten in umgekehrter Richtung – Änderung der Wolkendecke im Vergleich zur SST-Änderung im folgenden Monat oder in den folgenden Monaten – wahrscheinlich nicht zielführend ist. Es ist jedoch bekannt, dass Wolken einen kühlenden Effekt auf das Klima haben, siehe zum Beispiel Pokrovsky (8), der einen (globalen) Erwärmungseffekt von 0,07°C pro Abnahme der Bewölkung um 1% berechnet.
+4. Ergebnisse
+4.1 Wolkendecke
+In allen Fällen mit dCloud bis zu 9 Monate später als dSST, war der lineare Trend von dCloud gegen dSST positiv, und dies war ein starkes und konsistentes Muster. Mit anderen Worten, den Monaten mit höherem dSST folgten tendenziell Monate mit höherer dCloud, und niedrigerem dSST folgten tendenziell niedrigere dCloud.
+Die linearen Trends von dCloud gegenüber dSST sind in Abbildung 1 und grafisch in Abbildung 2 dargestellt.
+Lineare Trends der globalen mittleren dCloud vs. dSST – ungewichtet (d. h. in gleich großen Gebieten) +/- 2*Sigma
+Abbildung 1. Lineare Trends der globalen durchschnittlichen dCloud im Vergleich zu dSST, mit 95% Vertrauensniveau. Jeder Monat wird über die unter „Monate gemittelt“ angegebene Anzahl von Monaten gemittelt. Die dCloud-Werte gelten für die angegebene Anzahl von Monaten später.
+Abbildung 2: Wie Abbildung 1, nur graphisch. Die Grenzen des 95% Vertrauensniveaus sind eingezeichnet.
+Man beachte, dass von den Trends erwartet werden kann abzufallen mit zunehmenden „Monate später“ infolge des Einflusses der dazwischen liegenden Monate.
+Die Trends sind eindeutig erkennbar in Graphiken mit dem Vergleich von dCloud und dSST und reflektieren die Daten als Ganzes und nicht nur einige Ausreißer. Einige Beispiele zeigen die Abbildungen 3, 4 und 5.
+Abbilung 3: dSST für 1 Monat im Vergleich zu dSST im folgenden Monat
+Abbildung 4: dSST gemittelt über 3 Monate im Vergleich zu dSST während der folgenden drei Monate
+Abbildung 5: dSST gemittelt über 6 Monate im Vergleich zu dCloud über die folgenden 6 Monate.
+Die Graphiken der Abbildungen 3, 4 und 5 sind alle im gleichen Maßstab.
+4.2 Licht-Undurchlässigkeit von Wolken
+Wolken größerer optischer Dichte unterbinden mehr Strahlung – sowohl was die Sonneneinstrahlung als auch die Ausstrahlung der Ozeane betrifft. Obige Analyse wurde neu berechnet, wobei Wolken gewichtet nach Lichtundurchlässigkeit einbezogen wurden. Die Lichtundurchlässigkeit, so wie sie in dieser Studie betrachtet wird, leitet sich folgendermaßen aus der optischen Dichte [optical depth] ab:
+Die optische Dichte d wird gegeben durch
+d = ln(Fr/Ft)
+wobei
+d = die optische Dichte,
+Fr = flux received,
+Ft = flux transmitted.
+Das Verhältnis q der von den Wolken beeinflussten Strahlung –
+q = (Fr–Ft)/Fr
+wird hier als „Licht-Undurchlässigkeit“ [opacity] genommen. q kann aus der Formel von d abgeleitet werden als
+q = 1 – e(-d)
+Die Lichtundurchlässigkeit q kann legitimerweise arithmetisch gemittelt werden über Wolkenanteile.
+Wenn die Wolkendaten nach Lichtundurchlässigkeit gewichtet werde, ergibt sich die Tabelle dCloud vs. dSST so:
+Lineare Trends des globalen Mittels von dCloud vs. dSST – gewichtet nach Lichtundurchlässigkeit +/- 2*Sigma
+Abbildung 6. Lineare Trends der globalen durchschnittlichen dCloud gegen dSST mit 95% Vertrauensniveau, wie in Abbildung 1, aber mit nach Lichtundurchlässigkeit gewichteter Wolkendecke.
+Wie aus den Abbildungen 1 und 6 ersichtlich, tendiert die erhöhte Bewölkung in Verbindung mit erhöhter SST auch dazu, für mehrere Monate eine größere Lichtundurchlässigkeit zu haben. Es gibt also nicht nur eine erhöhte Wolkenfläche, sondern auch eine erhöhte Wolkenmenge (gemessen an ihrer Fähigkeit, Strahlung abzufangen).
+4.3 Auswirkung auf einfallende und ausgehende Strahlung
+Um den relativen Einfluss der Wolkenveränderungen auf die ein- und ausgehende Strahlung zu bestimmen, wurde die Analyse neu berechnet, wobei die Wolken gewichtet wurden (a) mit der Opazität multipliziert mit der einfallenden Sonnenstrahlung (monatliche Sonnenstrahlungsdaten aus [2]) und (b) mit der Opazität multipliziert mit der ausgehenden Meeresstrahlung (aus SST). Es ist zu beachten, dass ein Unterschied zwischen (a) und (b) in erster Linie aus den unterschiedlichen Verteilungen der einfallenden Sonnenstrahlung und der ausgehenden Meeresstrahlung nach Breitengraden resultieren würde, nicht aus Variationen der Sonnenleistung.
+Die Tabelle von dCloud vs. dSST würde dann das Aussehen wie in den Abbildungen 7 und 8 bekommen.
+Lineare Trends der globalen durchschnittlichen dCloud vs. dSST – gewichtet nach Opazität der Wolken und Sonneneinstrahlung +/- 2*Sigma
+Abbildung 7. Lineare Trends der globalen durchschnittlichen dCloud vs. dSST mit 95% Vertrauensniveau, wie in Abbildung 1, aber mit Wolkendecke gewichtet mit der Opazität multipliziert mit der einfallenden Sonnenstrahlung.
+Lineare Trends der globalen durchschnittlichen dCloud im Vergleich zum dSST – gewichtet nach Wolkendecke und Meeresstrahlung +/- 2*Sigma
+Abbildung 8. Lineare Trends der globalen durchschnittlichen dCloud vs. dSST mit 95% Vertrauensniveau, wie in Abbildung 1, aber mit Wolkendecke gewichtet mit Opazität multipliziert mit ausgehender Meeresstrahlung.
+In den ersten Monaten sind alle mit der einfallenden Sonnenstrahlung gewichteten Trends höher als die mit der ausgehenden Meeresstrahlung gewichteten Trends. Dies zeigt, dass die Zunahme der Wolkendecke in Verbindung mit der Zunahme der SST eine größere Auswirkung auf die einfallende Strahlung hat als auf die ausgehende Strahlung. Mit anderen Worten, sie sind eine Nettoabkühlung.
+5. CONCLUSION
+Die Daten zeigen, dass es eine positive Korrelation zwischen Veränderungen des SST und späteren Veränderungen der Wolkendecke gibt. Wie oben erwähnt, ist bekannt, dass Wolken einen globalen Kühleffekt haben, und die Analyse hat gezeigt, dass Änderungen der Wolkendecke in Verbindung mit Änderungen des SST-Anstiegs die Wolken tatsächlich einen stärkeren Kühleffekt haben. Die unausweichliche Schlussfolgerung ist, dass jede Rückkopplung von Wolken negativ ist.
+Diese Schlussfolgerung hat tiefgreifende Auswirkungen auf die Klimamodelle. Alle Modelle, auf die sich der IPCC bezieht, sind mit positiver Wolkenrückkopplung parametrisiert – „die GCMs sagen alle eine positive Wolkenrückkopplung voraus“ – und sie schreiben fast die Hälfte der gesamten anthropogenen globalen Erwärmung der Wolkenrückkopplung zu [9]. Dies ist ein möglicher Grund dafür, dass die meisten Klimamodelle die globale Erwärmung überschätzen [4] [12], obwohl Anagnostopoulos [1] sagt, dass es viel bedeutendere Probleme gibt.
+Eine weitere Schlussfolgerung mit tiefgreifenden Auswirkungen auf die Klimamodelle ist, dass die beobachtete Abnahme der Bewölkung zwischen 1986 und 2017 keine Rückkopplung durch steigende Temperaturen war und dass sie stark genug war, um schließlich jede negative Wolkenrückkopplung aufzuheben. Der IPCC-Bericht [9] legt nahe, dass die Modelle nicht die Möglichkeit erkennen, dass Wolken ein anderes Verhalten als eine Rückkopplung haben können: in den Key Uncertainties sagen sie von Wolken nur: „Es bestehen weiterhin große Unsicherheiten darüber, wie Wolken auf den globalen Klimawandel reagieren könnten“. Diese Studie zeigt, dass Wolken ein bedeutendes Verhalten zeigen, welches in den Modellen nicht berücksichtigt wird.
+Die Auswirkungen auf die Klimamodelle sind verheerend. Es muss hinterfragt werden, ob sie für ihren Zweck geeignet sind.
+6. DISKUSSION
+6.1 Interpretation
+1. Die Änderungen der Wolkendecke wie in Abbildung 1 werden verursacht durch Änderungen der Wassertemperatur (SST). Falls das wirklich so ist, dann ist die Wolken-Rückkopplung negativ.
+2. Die Änderungen der Bewölkung und die SST-Änderungen werden beide durch einen unbekannten Faktor ausgelöst (d. h. Korrelation ist nicht Kausalität). Falls das der Fall ist, dann ist die Wolken-Rückkopplung Null, oder
+3. Es kommt eine Kombination der Punkte 1 und 2 in Betracht. Falls das der Fall ist, dann ist die Wolken-Rückkopplung nicht so negativ wie nach Punkt 1, aber immer noch negativ.
+6.2 Andere Interpretationen
+Jede andere Interpretation als die oben genannten erscheinen außerordentlich unwahrscheinlich und würden in jedem Fall die vom IPCC herangezogenen Klimamodelle völlig außer Kraft setzen. Zum Beispiel:
+(a) Wenn eine Zunahme der SST tatsächlich zu weniger Wolken führt, dann müssten ein oder mehrere unbekannte Faktoren mit größerer Wirkung in die entgegengesetzte Richtung wirken, d.h. ein oder mehrere unbekannte Faktoren müssten nach einer Zunahme der SST mehr Wolken erzeugen, obwohl eine Zunahme des SST dazu führt, dass es weniger Wolken gibt.
+(b) Falls eine Zunahme der SST zwar mehr Wolken verursacht, Wolken aber tatsächlich eine erwärmende und nicht eine abkühlende Wirkung haben, dann müssten ein oder mehrere unbekannte Faktoren längerfristig wirken, um sowohl die Wolkendecke zu verringern als auch die SST zu erhöhen.
+Wie bereits erwähnt, sind diese beiden Möglichkeiten äußerst unwahrscheinlich und können mit Sicherheit ausgeschlossen werden. Insbesondere die Alternative (b) scheint durch die obige Analyse unter Verwendung von Gewichtungen der ein- und ausgehenden Strahlung ohnehin ausgeschlossen zu sein.
+6.3 Quantifizierung
+Es wäre verlockend, die negative Wolken-Rückkopplung zu quantifizieren, indem man die linearen Trends zwischen dCloud und dSST, wie oben berichtet, und die linearen Trends von SST und Wolkenbedeckung über den analysierten Zeitraum verwendet.
+Eine solche Quantifizierung wäre zum jetzigen Zeitpunkt nicht zu rechtfertigen, denn solange die beteiligten Prozesse nicht einigermaßen gut verstanden sind, wären sie viel zu unzuverlässig. Es gibt einen offensichtlichen möglichen Prozess für eine negative Rückkopplung von Wolken: Wenn sich die Ozeane erwärmen, geben sie mehr Wasserdampf in die Atmosphäre ab, der dann in den nächsten Monaten weitere Wolken bildet. Dieses Konzept wird durch die Beobachtung eines erhöhten Wasserkreislaufs durch Durack [3] gestützt. Der Prozess muss jedoch erst anhand der hier gewonnenen Erkenntnisse bewertet werden, bevor er als der relevante Prozess angenommen werden kann.
+6.4 Was kommt als Nächstes?
+Eine Quantifizierung des Cloud-Feedbacks ist eindeutig erforderlich, wie in 6.3 Quantifizierung.
+Aber es sind auch weitere Untersuchungen zum Verhalten von Wolken erforderlich:
+Diese Studie zeigt, dass die beobachtete Abnahme der Bewölkung zwischen 1986 und 2017 keine Rückkopplung durch steigende Temperaturen war. Daraus folgt, dass ein Teil der Zunahme des SST in diesem Zeitraum durch eine davon unabhängige Verringerung der Wolkendecke verursacht worden sein könnte. Herauszufinden, was die Ursache für die Verringerung der Bewölkung war, wäre ein großer Fortschritt für die Klimawissenschaft. Einige Arbeiten sind bereits durchgeführt worden, z.B. [6] [14].
+Auf einer allgemeineren Ebene: Es ist überdeutlich, dass die Klimamodelle das Verhalten von Wolken nicht abbilden können. Es muss daher ernsthaft in Frage gestellt werden, ob die Modelle, so wie sie derzeit aufgebaut sind, jemals überhaupt einen Wert für die Vorhersage des zukünftigen Klimas haben werden. Es wäre vernünftig, den Rat von Anagnostopoulos [1] zu berücksichtigen, dass ein Paradigmenwechsel notwendig ist.
+6.5 Allgemeine Trends
+Graphiken der SST (Grad Celsius) und Bewölkung (%) zeigen die Abbildungen 9 und 10. Diese stützen die Aussagen im Abstract: „Wie erwartet: die Trends für den gesamten Zeitraum sind steigende SST und abnehmende Bewölkung“.
+Abbildung 9: SST-Daten über den untersuchten Zeitraum mit linearem Trend
+Abbildung 10: Bewölkungs-Daten über den untersuchten Zeitraum mit linearem Trend.
+Die Datenquellen für die SST und die Bewölkung werden in Abschnitt „2. Verfahren“ genannt.
+References
+1. Anagnostopoulos GG et al 2010: A comparison of local and aggregated climate model outputs with observed data. Hydrological Sciences Journal 55(7), 1094–1110.
+https://doi.org/10.1080/02626667.2010.513518
+2. Coddington et al 2015: NOAA Climate Data Record (CDR) of Total Solar Irradiance (TSI), NRLTSI Version 2 [monthly TSI]. NOAA National Centers for Environmental Information doi:10.7289/V55B00C1. Data downloaded Jan 2020 from https://www.ncei.noaa.gov/data/total-solar-irradiance/access/monthly/
+3. Durack et al 2012: Ocean Salinities Reveal Strong Global Water Cycle Intensification During 1950 to 2000. Science 27 Apr 2012 Vol. 336, Issue 6080, pp. 455-458 DOI: 10.1126/science.1212222
+4. Fyfe J et al 2013: Overestimated global warming over the past 20 years. Nature Climate Change 3,767–769 (2013) doi:10.1038/nclimate1972
+5. IPCC 2007: Annex I, Glossary, in Climate Change 2007: Synthesis Report. Contribution of Working Groups I, II and III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, Pachauri, R.K and Reisinger, A. (eds.)]. IPCC, Geneva, Switzerland, 104 pp.
+6. Kamide Y 2007: Effects of the Solar Cycle on the Earth’s Atmosphere (in Handbook of the Solar-Terrestrial Environment). Springer, Berlin, Heidelberg.
+https://doi.org/10.1007/978-3-540-46315-3_18
+7. Nagaraja MP 2019: Climate Variability. NASA Science. Accessed 18 Nov 2019 at https://science.nasa.gov/earth-science/oceanography/ocean-earth-system/climate-variability/
+8. Pokrovsky OM 2019: Cloud Changes in the Period of Global Warming: the Results of the International Satellite Project. Russian Academy of Sciences;
+https://doi.org/10.31857/S0205-9614201913-13
+9. Randall DA et al 2007: [Climate] Models and Their Evaluation. In: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon S et al (editors.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+10. Reynolds RW et al 2002: An improved in situ and satellite SST analysis for climate. Journal of Climate, 15, 1609-1625. Data accessed 26-30 Aug 2019 at https://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.html
+11. Rossow WB and Schiffer RA 1999: Advances in understanding clouds from ISCCP. Bulletin of the American Meteorological Society, 80, 2261-2288, doi:10.1175/1520-0477(1999)080<2261:AIUCFI>2.0.CO;2. Data accessed 26 Aug 2019 at https://www.ncei.noaa.gov/data/international-satellite-cloud-climate-project-isccp-h-series-data/access/isccp/hgm/
+12. Spencer RW 2013: STILL Epic Fail: 73 Climate Models vs. Measurements, Running 5-Year Means. (hier)
+13. Spencer RW and Braswell WD 2011: On the Misdiagnosis of Surface Temperature Feedbacks from Variations in Earth’s Radiant Energy Balance. Remote Sensing 2011, 3(8), 1603-1613; https://doi.org/10.3390/rs3081603
+14. Svensmark J et al 2016: The response of clouds and aerosols to cosmic ray decreases, Journal of Geophysical Research – Space Physics, 2016, DOI: 10.1002/2016JA022689.
+ENDE DER STUDIE
+Die Studie kann verändert werden müssen, um dem Begutachtungs-Verfahren zu genügen. Aber in der Zwischenzeit handelt es sich bei der oben vorgestellten Studie um genau diejenige, welche dem Journal eingereicht worden war.
+Die „Iris”-Theorie
+Richard Lindzen et al. stellten im September 2000 die Hypothese auf, dass die Erde eine „adaptive Infrarot-Iris“ haben könnte, die eine signifikante negative Rückkopplung auf Änderungen der Oberflächentemperatur liefert – die „Iris“-Theorie. Wenn ich diese Arbeit richtig verstanden habe, dann unterstützt meine obige Arbeit die „Iris“-Theorie nicht, denn die „Iris“-Theorie basiert auf der Oberflächenerwärmung, die in den Tropen zu weniger Wolken eines bestimmten Typs führt, während ich festgestellt habe, dass die Daten mit der Zunahme der Oberflächentemperatur eine Wolkenzunahme assoziieren.
+Nebenbei: Meine Ergebnisse widerlegen auch nicht die „Iris“-Theorie, denn die „Iris“-Theorie basiert auf einer spezifischen Wolkenreduktion in einem begrenzten Gebiet, während meine Analyse nur globale SST- und Wolkendaten verwendet.
+Im Januar 2002 argumentierten Bing Lin et al. gegen die „Iris“-Theorie, indem sie sagten, dass die Änderungen der Bewölkung in Wirklichkeit eine Erwärmung und nicht eine Abkühlung darstellten und dass daher die Rückkopplung, auf welche Bezug genommen wurde, positiv und nicht negativ war.
+Mein Beitrag unterstützt das Argument von Bing Lin nicht mehr als das von Richard Lindzen, und zwar aus dem gleichen Grund: Bing Lin bezieht sich auf die gleiche Wolkenreduktion.
+Übrigens: Argumente, die auf verschiedenen Wolkentypen basieren, werden nicht funktionieren, wenn jemand sie zu benutzen versucht, um meine Ergebnisse zu widerlegen. Das liegt daran, dass auf eine Erwärmung die Bewölkung zunimmt. Wenn der betreffende Wolkentyp es irgendwie schafft, dies zu einer positiven RückKopplung zu machen – trotz meiner Feststellung einer erneuten Wolken-Opazität – dann wird die positive Rückkopplung noch mehr Wolken erzeugen, die noch mehr positive Rückkopplungen ergeben werden, usw., usw. Aber … auf längere Sicht, wenn die Oberflächentemperatur steigt, gibt es weniger Wolken, nicht mehr, so dass mein Argument in 6.2 (b) zutrifft.
+Und eine letzte Bemerkung: Alles, was ich getan habe war, die Daten zu analysieren. Ich stelle keine Theorien auf, ich verwende keine Modelle, und ich verwende keine ausgeklügelten statistischen Tricks oder Rosinenpickerei, um die Daten zu einem zweifelhaften Ergebnis zu manipulieren. Es werden alle verfügbaren Daten verwendet, und das einzige angewandte Verfahren ist die einfache gewichtete (und ungewichtete) Mittelung. Das Diagramm der Wolkenänderung gegen die Temperaturänderung geht in die „falsche“ Richtung. Punkt.
+Link: https://wattsupwiththat.com/2020/06/05/cloud-feedback-if-there-is-any-is-negative/
+Übersetzt von Chris Frey EIKE
+(1) Warum ist die Wolken-Bedeckung nicht homogen?
+(2) Warum gibt es keine CO2- bzw. Wasserdampf-Wolken?
+(3) Warum ist der globale Wolken-Bedeckungsgrad etwa 70% (2/3) ?.
+(3) Wie groß wäre der Wolken-Bedeckungsgrad einer Ozean-Erde (100% Ozean-Bedeckung)?
+(4) Folgt der Wolken-Bedeckungsgrad aus dem Ozean-Bedeckungsgrad?
+(5) Hat der Ozean-Bedeckungsgrad etwas mit der Kugel-Form der rotierenden Erde zu tun oder ist es eine Laune der Natur?
+2. Weil Bedinungen fuer CO2 Kondensation eher auf dem Mars auftreten. Wolken sind auch teils Wasserdampf. Nur Wasserdampf ist keine Wolke, kann man auch nicht sehen oder?
+3. Das ist geschaetzt und kann wohl mit Satellitenaufnahmen neuerdings besser bestimmt werden.
+3 noch mal und 4: Nur Ozeane haetten vielleicht mehr Wolken. Gute Frage.
+5. Ich denke das ist der Geology, Topology, Plattentektonik und der Masse von Wasser geschuldet.
+Zu 2. Die Konzentration von CO2 und Wasserdampf kann man im IR „sehen“. Lateral variiert sie entsprechend der Quellen- und Senken auf der Oberfläche. Aufwind und Advektion führen zu lateraler Vermischung und zur Abnahme der Konzentration entsprechend der barometrischen Höhenformel. Wenn Wasserdampf den Sättigungs-Dampfdruck überschreitet ist Kondensation möglich (siehe 1).
+Zu 3. Aktueller globaler Wolkenbedeckungsgrad siehe
+https://www.eike-klima-energie.eu/2020/06/11/wolkenrueckkopplung-falls-es-sie-ueberhaupt-gibt-ist-negativ/#comment-253685
+Zu 4 und 5. Ist nach meinem Kommentar (siehe 3) zu vermuten, es wäre aber interessant wie groß er bei 100% Ozean ist.
+Zu 6. Das nehme ich auch an. Die Vorstellung dass Gezeitenkräfte die Platten-Tektonik beeinflussen ist abwegig.
+https://www.eike-klima-energie.eu/2020/06/11/wolkenrueckkopplung-falls-es-sie-ueberhaupt-gibt-ist-negativ/#comment-252044
+Zum globalen Wolken-Bedeckungsgrad möchte ich noch einige Literaturhinweise beitragen. Roedel/Wagner 2011 Physik der Atmosphäre gibt den globalen Wolken-Bedeckungsgrad noch mit 0,5 an. Bei Stubenrauch 2013 Assessment of global cloud datasets from satellites findet man die Zusammenfassung: „Fig. 1, varies between 0.56 (POLDER) and 0.74 (HIRSNOAA).This range is mainly explained by different instrument sensitivity and by retrieval methodology. The main findings concerning total cloud amount are as follows: Global total cloud amount (Fig. 1) is about 0.68 (±0.03) when considering clouds with optical depth > 0.1.“
+Ergänzend finde ich aus CERES-Daten im Jahresmittel 2001-2019 NH 64,5%,Glb 67,4% und SH 70,4 %. Der Ozean-Anteil variiert von 59% NH, 70% Glb, 81 % SH. Ost-West-Hemisphären variieren im Ozean-Anteil und im Wolken-Bedeckungsgrad in gleicher Weise.
+Nur zu 6
+Die Gravitiationskraefte von Mond und Sonne wirken auch auf die Erdkruste und den Erdmantel. Man kann es vielleicht nicht so krass sehen wie in den Ozeanen, aber die Wirkung ist da. Ich hatte mal gelesen, das Erdbeben und Vulkane auch auf Konstellationen von Mond und Sonne reagieren. Auf alle Faelle wird die Erdkruste auch gestaucht und gezogen im taeglichen Wechsel.
+https://www.leifiphysik.de/astronomie/planetensystem/ausblick/wirkungen-der-gezeitenkraft-auf-die-erde
+Der „Strahlungsantrieb“ für jede CO2-Verdoppelung an TOA (berechnet aus HITRAN-Spektren) beträgt nach IPCC 3,7 W/m². Dieser tritt auf wenn man plötzlich (bevor sich die Boden- und Lufttemperatur sowie die Abstrahlung ändert) die CO2-Konzentration verdoppeln würde. Man kann sich das ebenso als ein externes Forcing vorstellen, also als wenn die solare Einstrahlung (mit Albedo) sich im globalen Mittel dauernd um 3,7 W/m² erhöhen würde.
+Daraus ergibt sich am Boden (wegen Hin- und Herstrahlung) mit dem Faktor 390/240=1/Eps und S-B bei 288 K der Basiswert für den TE von deltaT=deltaS/S/4*T/Eps = 1,11 Grad. Dazu nimmt IPCC aber al gusto einen Feedbackfaktor 2,7 an und kommt so auf 3,0 Grad. Der tatsächliche Verdoppelungswert am Boden ist nur etwa 0,6 Grad – soweit sich die Wolkenbedeckung nicht ändert. Durch diesen geringfügigen TE (der übrigens den 2.HS der Thermodynamik NICHT verletzt) reduziert sich das CO2 auf ein SCHEINPROBLEM. Seit vorindustrieller Zeit ergibt sich damit im Gleichgewicht 0,6*ln(410/280)/ln(2)=0,33 Grad.
+Hmm… Mal angenommen, Sie haben die Energiebilanz gefunden (Sie sagen leider nicht, ob und welche Sie für das hier betrachtete Problem gefunden haben) und stellen fest, die ist nicht ausgeglichen und es fliesst mehr Energie zu als ab. Was passiert da Ihrer Meinung nach mit dem System, das durch diese Bilanz beschrieben wird?
+Werner, dem Sie „fundiertes Wissen im Bereich Thermodynamik“ attestieren, unterstellt mir wieder Dinge („die Gegenstrahlung fügt ein mehr an Energie zu), die ich nicht gesagt habe, um dieser Frage wieder mal auszuweichen. Daher würde mich Ihre Antwort auf die Frage interessieren…
+Ein jedes Kind eines Naturvolkes kann Ihnen glaubhaft versichern, die Wolken wärmen zwar im Winter, aber im Sommer kühlen sie. Es ist mir auch aufgefallen. Es ist zumindest so weit klar, dass die Wolken sowohl wärmen als auch kühlen und es gibt kein Grund, dass es beim CO2 anders sein sollte. Die Energiebilanz durfte anders sein am Tage als in der Nacht, im Sommer als im Winter, früh oder abends, heute oder morgen. Das geben Ihre 3 Zahlen und paar Fachbegriffe nicht her.
+Ich versuche mal, das konstruktive aus dem Kommentar zu entnehmen und auf meine Frage anzuwenden. Korrigieren Sie mich bitte, wenn ich Sie falsch verstanden haben sollte.
+Sie sind der Meinung, dass man die Energieströme nicht genau genug kennt, um Aussagen über Defizite/Überschüsse machen zu können.
+Wenn man sie genau genug kennen würde und bei der Bilanzierung würde ein mehr an Energie auf der Erde herauskommen, dann würden Sie auch davon ausgehen, dass sich die Erde dadurch erwärmen würde.
+Soweit korrekt?
+Würde es Ihrer Meinung nach einen Unterschied machen, ob mehr Energie aufgenommen wird (weil die Sonnenaktivität steigt oder die Wolkenbedeckung abnimmt, oder …) oder ob weniger Energie abfliesst? Ich frage das, da Werner da anscheinend einen Unterschied sieht: Unausgelichene Bilanz aufgrund stärkere Einstrahlung – Erwärmung. Unausgegliche Bilanz aufgrund geringerer Abstrahlung – nichts, die Energie löst sich in Luft auf (im Widerspruch zum ersten Hauptsatz).
+Ich fange wie so oft ganz weit entfernt an. Als kleiner aufgeweckter Junge, aufgewachsen weiter südlich am Meer, habe mich immer gefragt, warum sich der dort vorhandene schwarze Sand sich schnell so extrem erhitzt, dass man bei Unkenntnis sich Blasen an den Füßen holen kann, während das Wasser bei gleichen Sonneneinstrahlung im Frühsommer relativ kühl bleibt. Ärgerlich.
+Die Strahlungsintensität in W/m2 beschreibt nur, wie viel Joule Energie pro Sekunde jeden Quadratmeter trifft, aber nicht im Geringsten, was mit dieser Energie passiert. Meine Kinderfüße wussten schon, dass schwarzer Sand mehr von dieser Energie aufgenommen hat als weißer, Wasser noch weniger u.s.w. Abhängig von Wetter, Uhrzeit, Material u.s.w. ist die Energieaufnahme an jedem Quadratmeter und jede Sekunde unterschiedlich, und wer diesen prozess beschrieben hat, lügt sich in die eigene Tasche.
+Zu Ihrer Frage: Energie, die von den Wolken (oder CO2) zurückgestrahlt wird, verläßt in dieser Sekunde erstmal nicht die Atmosphäre in Richtung Weltraum, das ist richtig. Aber was passiert damit danach, dass weiß niemand. Gut, sie trifft wieder die Erdoberfläche. Aber wenn sie beim ersten Auftreffen nicht absorbiert wurde, warum sollte sie sich beim 2. mal anders verhalten? Vielleicht pendelt sie bis unendlich zwischen Erde und Wolken ohne Energie abzugeben? Dann hätte Herr Werner Schulz recht.
+Entscheidend ist nicht die Strahlenfluß zwischen Wolken und Erde, sondern letztendlich zwischen Erde und All, die sich nicht messen läßt.
+Die Strahlung, die die Erde trifft ist örtlich und zeitlich ziemlich unterschiedlich und ein Mittelwert ist dafür nur bedingt aussagekräftig. Wie viel Energie von der Oberfläche oder Atmosphäre absorbiert wird, wieder örtlich und zeitlich extrem unterschiedlich, läßt sich gar nicht berechnen. Wie viel Energie davon letztendlich die Erde in Richtung Weltraum verläßt, kann man weder messen, noch berechnen.
+Die Rückstrahlung von Wolken zu Erde ist nur ein kleiner Teilaspekt vom Gesamtprozess mit geringer Relevanz. Diesen Rückstrom als hundertprozentig erderwärmend festzulegen, ist definitiv falsch.
+Hier ein Erklärungsversuch, basierend auf Logik und sattelfeste Bilanzbetrachtung, ohne Anspruch auf Richtigkeit:
+Ich lege jetzt fest, dass heute die Wolken 30% der Strahlen durchlassen und 70% rückstrahlen, die Erde 30% absorbiert und 70% zurückstrahlt (örtlich und zeitlich natürlich schwankend zw. 0 und 100, hier nur als Beispiel). Die auf der Erde ankommende Energie wird also zu 70% zurück zu Wolken geschickt, davon passieren 30% (von gesamt 21%) und 70% (von gesamt 49%) treffen wieder die Oberfläche. Es werden noch mal 30% (14,7%) absorbiert und 70% (34%) in Richtung Wolken geschickt. Und so weiter, bis der größte Teil zurück im All ist, und ein geringerer Teil die erde erwärmt.
+Das ganze natürlich nicht mit konstanten Anteilen und immer zusammen mit neu, später eingestrahlte Sonnenenergie. Läßt sich nicht messen.
+Die einzige Möglichkeit der korrekten Bilanz wäre, die ins All zurückgestrahlte Energie exakt zu messen, was unmöglich ist. Die Rückstrahlung von Wolken als Energie, die auf der Erde verbleibt festzulegen, ist falsch.
+Die Energiemenge, die von der Sonne auf die Erde gestrahlt wird und nicht ins All zurückgestrahlt wird, erwärmt die Erde. Strahlungen innerhalb der Atmosphäre, von links nach rechts, von oben nach unten und zurück verändern die Energiebilanz nicht. Erst wenn diese Energie von der Erde aufgenommen wird, oder andererseits die Atmosphäre Richtung All entweicht, erscheint diese auf der rechten oder linken Seite der Bilanz.
+Sofern hat Herr Schulz mit einem anderen Erklärungsansatz absolut recht.
+Dem würde ich zustimmen. Herr Schulz verneint das jedoch explizit, in dem er z.B. schreibt:
+Insofern kann ich nicht verstehen, dass Sie Herrn Schulz zustimmen, wenn Sie doch anscheinend anderer Meinung sind als er:
+Habe ich Sie missverstanden? Habe ich Herrn Schulz missverstanden? Ist Ihnen diese Aussage von Herrn Schulz entgangen?
+ich gebe zu, ich verstehe den Erklärungsversuch von Herrn Schulz nicht vollständig, zumal Strahlenphysik definitiv nicht meine Stärke ist. Formulierungsfeinheiten haben mich noch nie interessiert, ich überprüfe eher die Kernaussage auf schlüssige Energiebilanz.
+Der Vorgang der Rückstrahlung selbst erwärmt die Erde nicht! Punkt! Hat Herr Schulz das gemeint, hat er Recht.
+Andererseits werden Sonnenstrahlen von der Erde zum Teil reflektiert, ansonsten wäre sie nicht von der ISS aus zu sehen, andererseits erwärmen die Strahlen zum Teil die Erde, was meine Kinderfüße schon bemerkt haben. Es spricht nichts dagegen dass von Wolken reflektierte Strahlen das Gleiche tun, zum Teil reflektiert werden, zum Teil zu Erwärmung führen. Meint Herr Schulz den Gesamtprozess, so habe ich eine andere Meinung, verstehe aber seine Argumentation nicht.
+Dabei müssen wir es belassen bezüglich die Herrn Schulz.
+Ihre Meinung über die von mir aufgestellte Energiebilanz, betreffs der Rückstrahlung, dass diese im Prozess der Rückstarhlung an sich die Bilanz nicht verändert, sondern erst im weiteren Verlauf des Prozesses sich entweder in Wärmeenergie auf der Erde umwandelt oder endgültig ins All zurückgestrahlt wird, würde mich interessieren.
+Meine Grundaussage zusammengefasst wäre dann, die exakte Wärmeenergie läßt sich aus den Strahlensalat nicht ermitteln.
+MfG
+Wenn ich von der Energiebilanz der Erde spreche, meine ich Erde und Atmosphäre zusammen, die ich diesbezüglich als Einheit sehe. Im von Ihnen zitierten Text schreibt Herr Schulz von der „Erwärmung der Oberfläche“, was wörtlich ein ganz anderer Prozess bedeutet. Es ist nicht ausgeschlossen, dass meine Überlegungen und Ausschnitte seiner Texte unterschiedliche Prozesse beschreiben…
+sie interpretieren meine Aussagen falsch.
+Es war eine Antwort auf ihre falsche Aussage:
+„Es fliessen also 0.9W/m² mehr Energie zu als ab.“
+Daruafhin sagte ich, das laut dem Diagram es genau anders ist.
+„Es fliesst die gleiche Menge an Energie zu und weniger wieder ab“
+Quantitativ ist die Energiemenge, die von der Sonne kommt naemlich als konstant zu sehen. Wie gesagt das bezieht sich auf die sogenannte Energiebilanz. Bei Kiehl und Trennberth wird also so getan als wenn weniger Energie wieder abfliesst. Damit ist meine Aussage zum Diagram richtig
+Das wiederspricht aber dem Gleichgewicht und ist zusaetzlich ein Witz weil ja damit einen Erwaermung vorgegauckelt wird, die aber so nicht begruendbar ist.
+Wenn sie Aussagen aus dem Kontext nehmen, fangen sie an falsch zu interpretatieren.
+So wie Herr Georgiev es bestaetigt, kann die Gegenstrahlung keine Erwaermung erzeugen. Das koennen sie noch hundertmal von mir hoeren weil es stimmt.
+„Wenn ich von der Energiebilanz der Erde spreche, meine ich Erde und Atmosphäre zusammen, die ich diesbezüglich als Einheit sehe. Im von Ihnen zitierten Text schreibt Herr Schulz von der „Erwärmung der Oberfläche“, was wörtlich ein ganz anderer Prozess bedeutet. Es ist nicht ausgeschlossen, dass meine Überlegungen und Ausschnitte seiner Texte unterschiedliche Prozesse beschreiben…“
+Sie sprechen einen wichtigen Punkt an.
+Es gibt mehrere Teilsysteme an deren Grenzen Waermeuebergang berechnet werden koennen.
+Herr Mueller sieht zwar das der Verlust von Waerme durch Strahlung an der Oberflaeche durch die sogenannte Rueckstrahlung gegeben ist, aber was er nicht versteht ist, das die „Globale Erwaermung“ nur stattfinden kann, wenn der Waermeverlust aus Atmosphaere und von der Oberflaeche DIREKT ins Weltall geringer ist, als was von der Sonne kommt.
+Der Waermeaustausch zwischen der Oberflaeche und der Atmoshaere, hat mit dieser Bilanz nichts zu tun.
+mfg
+Werner
+(Ich versuche dem ganzen mal was positives abzugewinnen …)
+Ich stimme dem zu. Es besteht also Übereinstimmung zwischen Herrn Georgiev, Schulz und mir und lasse das erst mal so stehen. Ich werde mir einen Link auf diesen Kommentar setzen für den Fall, dass Werner wieder mal ein Reset macht und alles wieder vergisst …
+Ich habe nie etwas anderes gesagt. Waere das so, dann hätten sie doch einen Link gespeichert.
+Was sie hier treiben ist durchschaubar, bin ich es doch seit Jahren schon, der ihnen versucht anhand der Grundlagen der Thermodynamik, die Unmöglichkeit zu erklären, dass die sogenannte Rückstrahlung eine Erwärmung bewirken kann.
+Gut das sie jetzt einsehen, dass das nicht so ist!
+Dann haben Sie das Pech, dass hier noch jemand mit Ihrem Namen schreibt. Der stellt nämlich immer Fragen in den Raum, die das Gegenteil suggerieren. Für den kann die Verringerung des Energieabflusses nicht zu einer Erwärmung führen:
+Vielleicht können Sie ja mal mit Ihm reden? Vielleicht kennen Sie ihn ja und treffen in gelegentlich …
+Sie schreiben weiter:
+Es wäre nett, wenn Sie das mit einem Zitat kombinieren könnten, damit klar ist, was ich geschrieben habe und was Ihre Schlussfolgerungen sind. Sonst geraten Sie am Ende noch durcheinander und wundern sich dann, wenn ich was sage, was im Widerspruch zu Ihren Schlussfolgerungen steht. In dem Text, auf den Sie sich beziehen, steht nichts von Rückstrahlung (Ich glaube, ich habe den Begriff hier in dieser Diskussion nicht einmal erwähnt).
+Die Kommentare von Herrn Schulz sind offensichtlich nach dem Motto „wie soll ich nur wissen, was ich denke, bevor ich lese, was ich poste“ verfasst. Vielleicht ist es aber auch sein alter ego.
+Schöne – und mittlerweile entspannte – Grüße aus dem Bregenzerwald
+Pepi
+Lesen sie noch mal aufmerksam den Beitrag von Herr Georgiev hier:
+https://www.eike-klima-energie.eu/2020/06/11/wolkenrueckkopplung-falls-es-sie-ueberhaupt-gibt-ist-negativ/#comment-252882
+„Es wurde der „Nachweis erbracht“ dass ein kalter Körper einen anderen doch erwärmen kann, siehe die Suppe in der kalten Mikrowelle. Ich als Thermodynamiker beweise das Gegenteil, in dem ich den Stecker ziehe! Sie geben mir sicher Recht, die Suppe bleibt dann kalt! Am Anfang des gesamten Prozesses steht nun mal etwas, das deutlich wärmer ist, nur dadurch kann die Suppe warm werden.“
+Die Sonne ist die Wärmequelle. Die Atmosphaere war, ist und bleibt eine Wärmesenke. Nur weil sie angebliche Energiebilanzen, die Strahlstärken als Einheit angeben mit Heizleistungen verwechslen, ändert sich nichts an der Tatsache, das die Sonne die Wärmequelle fuer die Erde ist, die Oberfläche ist zum Hauptteil die Wärmequelle für die Atmosphäre und Wärme verlässt die Erde aus der Atmosphäre und von der Oberfläche.
+Mit einem haben sie allerdings recht, sie haben keine sinnvollen Angaben gemacht auf die man sich beziehen kann.
+Das würde auch nicht zu dem Bild passen das ich von ihnen habe!
+entspannen sie weiter, sie haben keine Ahnung worum es geht oder?
+Ich kann ihrem Beitrag jedenfalls nichts sinnvolles entnehmen.
+mfg Werner
+Sie haben Recht, dass ich keine Ahnung habe. Habe ja geschrieben, dass ich mich in Zukunft mit anderen Dingen beschäftige werde.
+Mein neues Hobby: Ich beschäftige mich ab jetzt sehr intensiv mit einem der letzten Rätsel der Physik:
+„Welche Farbe hat die Gravitation?“
+Und dann – nachdem dieses Rätsel gelöst ist – werde ich mich damit beschäftigen, welche Auswirkungen hat das auf das Klima.
+Hochachtungsvoll
+Josef Winder
+Mit mindestens einem der beiden anderen Werner Schulz habe ich das schon vor langer Zeit geklärt: Ja, die Sonne ist die Energiequelle für die Erde; erlischt sie, wird es auf der Erde sehr kalt, egal welche Vorgänge in der Atmosphäre stattfinden.
+Warum Sie das jetzt hier ins Spiel bringen und so tun, als gäbe es da einen Dissenz drüber – keine Ahnung. Stimmen Sie sich bitte mit den anderen Werner ab, bevor Sie hier lang und breit ausdiskutierte Argumente bringen und damit von den eigentlichen Themen ablenken.
+Und was ist mit den andern beiden Wernern? Würde irgend einer der beiden vielleicht etwas zu den offensichtlichen Widersprüchen zwischen ihren Argumenten sagen und damit mal bei der Sache bleiben?
+nichts fuer ungut.
+Sie haben zu viel Werner.
+Ruhen sie sich aus.
+halten sie diesen Gedanken fest.
+Die Gegenstrahlung fuegt der Oberflaeche nicht mehr Waerme zu!
+Um etwas zu erwaermen muss man mehr Waerme zufuehren.
+Ergo kann die Gegenstrahlung die Oberflaecche nicht erwaermen.
+Was sie dann aber auch nicht kann, ist die Erde von -18 Grad C auf 15 Grad C durch geringere Abkuehlung zu erwaermen.
+Es geht nicht!
+Das ist einfache Thermodynamik, die sie auch verstehen, wenn sie nur wollen.
+Lieber Gruss Werner!
+Dass Sie so etwas loben hervorheben müssen, zeigt, wie schlecht es um die Diskussionskultur hier bestellt ist. Es ist das normalste von der Welt, zu dem zu stehen, was man gesagt hat, auch wenn das mal falsch gewesen sein sollte. Leider kann ich die Original-Diskussion hier nicht verlinken, da die Webseite offline ist. Da hätte man sehen können, dass es darum ging, dass man einem Topf mit Deckel weniger Energie zuführen muss, um die gleiche Temperatur zu erreichen/zu halten als bei einem Topf mit Deckel bzw. die Temperatur bei gleicher Energiezufuhr im Topf mit Deckel höher ist (solange es ncht kocht) bzw. wenn es kocht im Topf mit Deckel stärker kocht. Eigentlich Dinge, die man aus dem täglichen Umgang kennt. Werners initiale Reaktion: Das kann nicht sein, da die Herdplatten ja gar nicht an sind – ich hatte es nicht geschrieben. Von da an ging es nur noch abwärts …
+Und das ist dann der Gipfel zu unterstellen, man wisse nicht, dass die Temperatur des kochenden Wassers gleich sei … Diskussionskultur ala Werner …
+Na gut! Sie graben also die selben falschen Argumente aus.
+An welcher Stellen wird der THE damit erklaert das weniger Energie ankommt?
+Sie muessen auch nicht weniger Energie zufuegen, um das Wasser zum Kochen zu bringen.
+Die Energiemenge, die man braucht, um das Wasser zum Kochen zu bringen ist immer die gleiche. Dabei ist ihnen damals nicht aufgefallen, das sich die Temperatur bei der Wasser kocht nicht aendert. Wie wollen sie in ihrem Beispiel eine Erwaermungswirkung darstellen, wenn sich die Temperatur in beiden Faellen (mit oder ohne Deckel) auf etwa 100 Grad C begrenzt??? Schon vergessen das man Konvektion und Verdampfung mit einrechnen muss, beides Energieuebertragungsarten die in der reellen Atmosphaere nicht unterdrueckt sind???
+Wir suchen nach einem Mechanismus, der angeblich die Erde waermer macht! Das gibt ihr Beispiel mit dem Topf und Wasser nicht her, das Model stimmt nicht!
+Die Energiemenge, um die Temperatur zu aendern aendert sich nicht. Die Kochtemperatur aendert sich nicht.
+Das einzige das sie an einem Kochtopf erklaeren koennen, ist das es vielleicht etwas schneller geht. Versuchen sie das mal in Einklang zu bringen mit der Klimadiskussion.
+Dazu sollten sie die einschlaegige Versuche kennen, die die Maximaltemperaturen untersuchen und wann diese auftreten. Leider gibt es keinen Nachweis, das das CO2 den Tagesgang der Temperaturen auch nur um einen Deut verruecken. Es gibt auch keinen Nachweis, das die Maximaltemperaturen hoeher sind.
+Herr Mueller, falls sie ein Beispiel mit einer Isolierung auf die Atmosphaere anwenden wollen nehmen sie das folgende:
+Eine Hauswand strahlt entsprechend seiner Temperatur Energie nach innen ab. Das ist die Gegenstrahlung.
+Eine dicke Wand und eine duenne Wand haetten die gleichen Strahleigenschaften. Warum hat die dicke Wand bessere Isoliereigenschaften als die duenne Wand?
+Ich habe in dem Artikel, auf den Sie sich beziehen extra nochmal alle drei Varianten aufgelistet, die diskutiert wurden. Sie ignorieren das wieder mal und erfinden Dinge.
+Um das nochmal deutlich zu machen: Es ging um die Frage, welchen Einfluss eine Verringerung des Energieabflusses auf den Zustand eines Systems hat – in dem Falle ein Topf mit Wasser auf einer angeschalteten Herdplatte. Ich wollte verdeutlichen, dass ein Topf ohne Deckel auch Energie über Konvektion und Verdampfung verliert, bei einem Topf mit Deckel sind diese Energieverluste eingeschränkt. Daher muss man einem Topf ohne Deckel gerade diese durch Konvektion/Verdampfung an die Umgebung abgegebene Energie zusätzlich zuführen, um den gleichen Zustand wie bei einem Topf mit Deckel zu erreichen. Eigentlich total trivial und im täglichen Leben immer wieder zu beobachten …
+der Erfinder sind sie. Weil sie muessen mir einen Topf mit oder ohne Deckel nicht erklaeren.
+Was sie mir erklaeren koennen, ist wie sie darauf kommen, das ein fester Deckel ein sinnvolles Model fuer die Atmophaere sein soll. Diesen Deckel gibt es so gar nicht. Wie sie feststellen unterdrueckt der Deckel direkte Konvektion und Verdamfung, das gibt es zwischen Oberflaeche und Atmosphaere nicht!
+Und bedenken sie das in unsrem Beispiel damals habe ich sie darauf hingewiesen, das sie ein zeitliches Problem haben, das ihr Beispiel einen kontinuierlichen Heizprozess nimmt. Auch diesen gibt es nicht fuer jedwede Lokalitaet haben sie seasonale und taegliche Aenderungen.
+Der vollstaendigkeit halber noch mal die weiteren Fehler ihres Modelles.
+Wasser kocht in beiden Faellen bei der gleichen Temperatur, bei gleichem Druck.
+Sie koennen also nur zeitlich einen Versatz in der Temperaturentwicklung fesstellen.
+Der Versuch zu erklaeren was der Abfluss von weniger Energie zu einer Erwaermung fuehren kann ist fehlerhaft, da sie gar nicht alle Kuehlstroeme in Betracht ziehen. Sie sind der Meinung das ein Waermestrom von Null durch Strahlung automatisch eine Erwaermung ist. Sie vergessen das in der Atmosphaere auch Waermeleitung nur einen geringen Waermestrom erlaubt. Sie muessen also auch diesem Umstand einen Treibhauseffekt nachsagen. Das tun sie aber nicht.
+Zu allerletzt muss sich erst etwas auf einen gewisse Temperatur Erwaermen, um sich weniger abzuekuehlen. Erklaeren sie mir bitte wie das gehen soll.
+Sie werden fesstellen, das beim Topf und auch auf der Erde die Energiequelle entsprechend die Leistung haben muss die Erwaermung herbeizufuehren.
+Die Sonne erwaermt diese Erde und der Herd den Topf. Wenn sie etwas anderes in ihrem Leben beobachten, lassen sie es mich wissen.
+Den Herd muessen auch sie anmachen.
+Zeigen Sie mir eine Stelle, an der ich behauptet habe, der Topf sei ein sinnvolles Modell für die Atmosphäre. Es steht im vorangegangen Kommentar extra nochmal da, worum es ging, ich zitiere mich selbst einfach nochmal:
+Zu der Diskussion, ob und wie sich das auf Vorgänge in der Atmosphäre übertragen läßt, sind wir nie gekommen …
+Sie haben aber keine Antwort wie ein Verringerung nur eines Wärmestroms eine Erwärmung von -18 Grad C auf 15 Grad C herbeiführen soll.
+Warum sollte ich so etwas diskutieren, wenn Sie nicht mal bereit sind, sachlich über so etwas einfaches wie einen Topf auf einem Herd zu diskutieren? Aber wenn Sie ernsthaft daran interessiert sind, diese Frage u dikutieren, fragen Sie doch Ihren Namensvetter Werner Schulz, der ist auf der richtigen Spur, wenn er schreibt:
+Wenn es ein Ungleichgewicht zwischen Ein- und Ausstrahlung gibt und mehr zu als abfliesst, kommt es zu einer Erwärmung …
+sie haben da was missverstanden. Die Treibhaustheorie sagt ja ganz eindeutig dass die Oberfläche mehr Energie abstrahlt als sie von der Sonne erhält. Also muss sich die Erde zwangsweise Abkühlen. Nicht mal das haben sie verstanden.
+Sie haben auch bisher nicht überzeugend dargestellt, das sie einen Kochtopf verstehen. Sie sind zum Glück der Meinung, das es keinen Bezug zu den atmosphärischen Verhältnissen gibt. Nun da stimmen wir einigermassen überein.
+Auf diesem also von ihnen (un)angebrachten Beispiel, reiten sie gerne rum. Es bezeugt, das sie sich mit Thermodynamik nicht wirklich auseinandergesetzt haben. Sie versuchen mir was zu unterstellen, siehe weiter oben, was nicht stimmt gibt. Traurig diese Art von Diskussionsstil.
+Hatten sie eine Gelegenheit, mit Ihrem Namensvetter Werner Schulz darüber zu diskutieren? Der könnte Ihnen vielleicht erklären
+* wann sich etwas abkühlt (wann es zu einer Erwärmung kommt hat er richtig beschrieben, also wird er sicher auch wissen, wann der umgekehrte Fall eintritt)
+* dass es „mehrere Teilsysteme an deren Grenzen Waermeuebergang berechnet werden koennen“ gibt und Sie hier gerade die Schnittstelle Erdboden/Atmosphäre betrachten und dabei Dinge in der Betrachtung vergessen
+Sagen Sie bitte Bescheid, wenn Sie Gelegenheit hatten, mit ihm zu diskutieren und teilen Sie uns das Ergebnis mit.
+https://www.eike-klima-energie.eu/2020/06/11/wolkenrueckkopplung-falls-es-sie-ueberhaupt-gibt-ist-negativ/#comment-253684
+Der Vollständigkeit halber aber die folgende Beobachtung.
+Die klassische werner-Herangehensweise … Bringt man konstruktive Dinge, verweist auf Erklärungen, Definitionen, Quellen, Veröffentlichungen wird es ignoriert, werden selektiv Dinge herausgepickt, entstellt, scheinbar wiederlegt, … hat man mal wieder den Kanal voll und zeigt dieses Herangehen auf, ist man nicht konstruktiv und hat keine Erklärungen. Ist ihnen das nicht irgendwann mal zu blöd?
+Ihr Link hat nichts zur Erklaerung des Forcings beigetragen. Sehr offensichtlich gehen sie immer, wenn sie keine Argumente mehr haben dazu ueber die Art der Diskussion in Frage zu stellen.
+Ich stelle das jetzt auch mal Grundsaetzlich in Frage!
+Wenn sie keine Argumente haben, dann brauchen sie doch nichts zu schreiben.
+Sehr seltsam, aber Herr Petersen kauft ihnen das ab.
+Sehr bedenklich.
+19. JUNI 2020 UM 4:07
+„Radiative forcing, a measure, as defined by the Intergovernmental Panel on Climate Change (IPCC), …“
+Britannica geht davon aus das das eine Definition des IPCC ist. Finden sie andere Quellen“
+Brtannica bestätigt meine Erklärung, was unter radiative forcing verstanden wird. Unter „Definieren“ versteht man auch im Englischen übrigens ebenso wie im Deutschen nicht „erfinden“ oder „einführen“.
+Ich weiß nicht, wer den begriff radiative forcing nun zum ersten mal mit diesem Begriff eingeführt hat, spielt aber auch keine rolle, denn es kommt nur darauf an, was damit gemeint ist, nämlich der externe antrieb des klimasystems. Dass der radiativ ist, ist eh klar und Meteorologen seit mindestens 60 Jahren klar.
+Ich habe nur noch ein paar Fragen an sie:
+Strahlt Wasserdamopf oder nicht? Wie soll Wasserdampf ein Feedback erzeugen, wenn es in kein radiatives Forcing hat?
+Warum kann man Wolken ein radiatives Foorcing zuordnen, die auch als Feedback gelten aber Wasserdampf nicht?
+Aber vor allem.
+Wenn die Bodenabstrahlung vom CO2 absorbiert wird und zurueckgestrahlt wird dann ist bei gleicher Temperatur von Boden und CO2, der Waermestrom gleich NULL.
+Wenn sie jetzt das Absorptionsverhalten von CO2 aendern, dann wird einzig mehr Bodenstrahlung abgefangen, mehr zurueckgestrahlt. Der Waermefluss zwischen Boden und CO2 in der Atmosphaere ist bei gleicher Temmperatur immer noch NULL.
+Koennen sie erklaeren wie thermodynamisch dieses Forcing funktioniert?
+mfg Werner
+„Strahlt Wasserdamopf oder nicht?“
+Ja, wie jede Materieform bei den Wellenlängen, in denen sie elektromagnetische Dipolstrahlung emittieren kann (vom molekularen Aufbau abhängig). Je höher die Temperatur desto stärker.
+„Wie soll Wasserdampf ein Feedback erzeugen, wenn es in kein radiatives Forcing hat?“
+Über seine thermische Abstrahlungseigenschaften.
+„Warum kann man Wolken ein radiatives Foorcing zuordnen, die auch als Feedback gelten aber Wasserdampf nicht?“
+Der forcing anteil der Wolken ist nicht gleichzusetzen mit ihrem feedback. Wolken haben mehrfachen Klimaeinfluss.
+Grundsätzlich versteht man unter forcing externe Faktoren. Unter Wolkenforcing summiert man nur die Wolkenwirkung, die durch (externe) Aerosole beeinflusst wird. Zusätzlich dazu gibt es das Wolken-feedback durch alle anderen forcings.
+„Wenn die Bodenabstrahlung vom CO2 absorbiert wird und zurueckgestrahlt wird dann ist bei gleicher Temperatur von Boden und CO2, der Waermestrom gleich NULL. Wenn… . “
+Dies wäre nur richtig, wenn sich Boden und CO2 gegenseitig ohne Verluste Wärmestrahlung zustrahlen würden. Dann bliebe die Energie im Gesamtsystem aus beiden Systemen erhalten. Nach dem Entropiesatz fließt zwischen zwei Systemen gleicher Temperatur keine Wärme, und dies besagt speziell für Strahlungsenergie auch das Kirchhoffsche Strahlungsgesetz.
+Da aber die Atmosphäre zum Weltraum offen ist und auch dorthin abstrahlt, sind die Vorausetzungen für diese Schlußfolgerung nicht gegeben.
+„Koennen sie erklaeren wie thermodynamisch dieses Forcing funktioniert?“
+Radiative forcing hat nichts mit Tempertur zu tun. Auch ein Spiegel im All, der Sonnenstrahlung auf die Nachtseite der Erde bringen würde, wäre ein radiative forcing, welche zu einer Klimaänderung führe.
+Werner möchte nicht verstehen, dass sich die Temperatur eines Körpers nicht nur ändert, wenn man die Energiezufuhr erhöht, sondern auch ändern kann, wenn man den Energieabfluss verringert. Egal was Sie versuchen, er wird irgend etwas an Ihrer Erklärung finden, was er verdrehen kann. Bei so selbserklärenden Beispielen wie Deckel auf einen Topf setzen weicht er z.B. darauf aus, dass man nicht erwähnt hat, dass die Herdplatte unter dem Topf an ist.
+Überlegen Sie sich also, ob Sie da Zeit und Nergie investieren wollen …
+sie geben sogar zu das sie fahrlaessig geschrieben haben, das das Wasser im Topf waermer wird mit Deckel.
+Was sie vergessen zu erwaehnen, ist, das sie nicht wussten das Wasser bei der gleichen Temperatur kocht. Egal ob mit Deckel oder ohne. Jedenfalls bei dem Topf den sie meinten.
+Leider wird Wasser nicht waermer sondern sie verrringern die Kochzeit. Viel Spass das Herrn Petersen noch etwas naeher zu erklaeren und dann auf das Klimazystem umzumuenzen. Suchen sie schon mal den Deckel.
+Vielleicht sind es ja die Wolken, was aber im Hauptbeitrag verneint wird.
+mfg Werner
+Das Wort Radiativ im Forcing hat als Grundlage, dass die sogenannten Treibhausgase thermische Strahlung abgeben koennen.
+Aber schauen wir mal auf die Definition im 4. Bericht:
+„Radiative forcing or climate forcing is the difference between insolation absorbed by the Earth and energy radiated back to space.“
+OK. In den verschiedensten Energiebudgets sieht man wie hoch die Differenz ist.
+Insolation wird gerne auf die gesamte Oberflaeche umgelegt. Dann zieht man noch die Reflektion ab und herraus kommt 1362 W/m2/4*0.7 = 238 W/m2.
+Geht man von einem ausgeglichenen Budget aus, dann ist das auch der Waermestrom der wieder in den Weltraum geht. Bei Kiehl und Trennberth werden 0.9 W/m2 zurueckgehalten. http://www.cgd.ucar.edu/staff/trenbert/trenberth.papers/BAMSmarTrenberth.pdf
+Offensichtlich ist das radiative Forcing 0.9 W/m2 laut der obigen Definition.
+Falls sie das die Zahlen des IPCC nicht wiederfinden, dann sind wir schon zwei die fragen, wie das gehen soll.
+Da kommt uns dann vielleicht die naechste Definition zu Hilfe:
+TAR6 https://www.ipcc.ch/site/assets/uploads/2018/03/TAR-06.pdf
+„The term “radiative forcing” has been employed in the IPCC
+Assessments to denote an externally imposed perturbation in the
+radiative energy budget of the Earth’s climate system. Such a
+perturbation can be brought about by secular changes in the
+concentrations of radiatively active species (e.g., CO2, aerosols),
+changes in the solar irradiance incident upon the planet, or other
+changes that affect the radiative energy absorbed by the surface
+(e.g., changes in surface reflection properties).“
+Zum einen finden sie auch hier einen Hinweis, das der IPCC diesen Begriff eingefuerhrt wurde. Falls sie wissenschaftliche Arbeiten finden, die diesen Begriff davor gepraegt haben, bitte hier einstellen.
+Zum zweiten handelt es sich bei dem Radiativen Forcing um einen Pertubation. Das heisst eine Aenderung, eine Aenderung der Radiativen Eigenschaften durch zum Beispiel bei Wasserdampf und CO2 durch Konzentrationsaenderung. Man braucht also vielleicht zwei Energiebilanzen ala Trennberth um das Radiative Forcing sichtbar zu machen? Habe ich noch nie gesehen!
+Stellen wir erst mal fest, beim Radiativen Forcing sollte es sich um eine messbare Aenderung im Strahlungsverhalten handeln.
+Sowohl Wasserdampf als auch CO2 als Treibhausgase zeigen diese Strahlungsaenderung bei Konzentrationsaenderung.
+Nun am Ende einer Pertubation, was denken sie wie sieht die Energiebilanz aus? Wird nun aus den 0.9 W/m2 eine etwas groessere Zahl? Oder wird die Energiebilanz am Ende so aussehen, das soviel wie reinkommt auch wieder rausgeht?
+Immerhin wirkt die Perturbation in beide Richtungen. Also oben geht doch auch mehr raus? Und je waermer die Oberflaeche, desto mehr Waerme geht durch das Atmosphaerische Fenster verloren.
+Was sie da von Waermeverlusten erzaehlen ist unverstaendlich. Haben sie eine formelle Ausbildung in Thermodynamik? Was fuer Verluste meinen sie denn?
+Dann bringen sie das Kirchhoffsche Strahlungsgesetz das ueberhaupt keine Aussage ueber zwei Systeme macht. Machen sie sich bitte kundig bevor sie hier weiter schreiben.
+Fuer den Waermeaustausch durch Strahlung zwischen Oberflaeche und Atmosphaere benutzen sie einen Spektralrechner und den Satz fuer Waermeuebetragung durch Stahlung. Vergessen sie nicht, das Strahlung nur einen Geringteil der Waermeuebertragung ausmacht.
+Ihr Beispiel mit dem Spiegel erinnert mich daran, das der Einfluss des Mondes auf das Klima durch seine Rueckstrahlung noch in keiner Arbeit aufgetaucht ist.
+Zumindestens muesste der Mond einen Treibhauseffekt haben, nein?
+Herr Petersen, sie sind weit davon entfernt hier Erklaerungen geben zu koennen.
+Am Wenigsten erwarte ich eine sinnvolle Erklaerung warum Wasserdampf nicht beim Radiativen Forcing auftaucht.
+Hier ein Ueberlegung. Wasserdampf kommt in der Atmosphaere in so hoher Konzentration vor, das der Mensch mit seinem Anteil keine Aenderung der Strahlungseigenschaften verursachen kann.
+Jetzt stellt sich nur noch die Frage wie das Wasserdampffeedback funktioniert . . . ?!
+Dies ist eine „schöne“ Definition, die bei näherer Betrachtung nicht viel aussagt. Die globalen monatlichen Mittelwerte des Stahlungs-Ungleichgewichts TOA variieren nach CERES etwa von -10…+10 W/m². Erst die Jahres-Mittelwerte liegen in der Nähe von Null Da die Mess-Unsicherheit der Satelliten-Daten größer ist als die besagten 0,9 W/m² werden die Daten mit Hilfe von Daten der Wärme-Aufnahme der Ozeane „justiert“. Ich habe aus den Satelliten-Daten von CERES viel gelernt und bedaure es eigentlich dass diese Messungen für „politische“ Zwecke „zweckentfremdet“ werden.
+mittlerweile weiss ich, das sie Klimadaten sinnvoller auswerten können als so mancher Klimafolgenforscher. Ihre Stärke dabei ist, das sie sich nicht von Propaganda beeinflussen lassen.
+Was sie oben über die Definition des Forcings sagen ist richtig.
+Forcing sollte anhand einer physikalisch messbaren Wirkung festgelegt werden können. Aber scheinbar wird diese wieder mal mit Mittelwerten begründet. Wir kommen dann auch zurück auf Messunsicherheiten und Angaben von Trends oder ähnlich gelagerten Werten, wie dem Forcing.
+Bei einer Unsicherheit von -10…+10 W/m² wie kommt man da auf die einzelnen Forcings? Abgesehen von den 0.9 Wm2 und dessen Berechnung, fallen unter die oben genannte Definition des Forcings eigentlich nur Wolken und Schwankungen in der Strahlkraft der Sonne.
+Alles andere hat gar keinen Einfluss auf die “ difference between insolation absorbed by the Earth and energy radiated back to space.““
+mfg Werner
+Ich schrieb es ja schon zu den „Temperaturen“: Eindeutige Fachterminologie ist sehr wichtig, wenn man sich fachlich unterhalten will. Das scheint hier nicht gegeben.
+Und was auch wieder auffällt: Da werden Strahlungswerte auf ein paar Zehntel W/qm verkauft, obwohl die Messunsicherheit ± 10 W/qm beträgt und das Ganze noch über terrestrische Daten „justiert“ werden muß! Da höre ich jetzt schon den Herrn Petersen, der mir gleich wieder erklären wird, dass dieses Handeln „wissenschaftlich“ ist…..
+Prinzipiell habe ich ja nix dagegen, wenn man aus vorhandenen Daten oder mit im Augenblick unzureichenden Methoden versucht, „Trends“ oder andere Zusammenhänge zu identifizieren als Anhaltspunkt für weitere Untersuchungen, aber ohne „Quellenkritik“ sollte man vermeiden, „Rechengenauigkeit“ zur absoluten Genauigkeit zu stilisieren. Ich bin immer wieder entsetzt, was in der sog. „Klimaforschung“ für Schindluder getrieben wird.
+Das sind keine Unsicherheiten, die Unsicherheiten sind viel geringer.
+Die globalen monatlichen Mittelwerte des Stahlungs-Ungleichgewichts TOA sehen nach CERES EBAF TOA so aus
+http://www.gigapico.de/CERES_EBAF_TOA_Imbalance_monthly_20003_201912.jpg
+und das gleitende 12 Monate-Mittel so:
+http://www.gigapico.de/CERES_EBAF_TOA_Imbalance_12m_running_mean_20003_201912.jpg
+Bild 1 lässt sich mit Hilfe eines einfachen Energie-Bilanz-Modells einigermaßen nachvollziehen, Bild 2 nicht. Das „Radiative Forcing“ von etwa 0.9 W/m² ist in Bild 2 als künstlicher „bias“ zu erkennen wie in meinem vorherigen Kommentar beschrieben.
+also ich korrigiere, die eigentlich ermittelten globalen monatlichen Mittelwerte des Stahlungs-Ungleichgewichts TOA variieren nach CERES etwa von -10…+10 W/m²
+Wie passen die Forcings da rein?
+„Wie passen die Forcings da rein?“
+Um die Mess-Ergebnisse von Bild 1 zu interpretieren schlage ich ein ortsaufgelöstes Energie-Bilanz-Modell mit Land und Ozeanen unterschiedlicher Wärmekapazität und mit meridionalen Wärme-Strömen in der Atmosphäre vor.
+ich sehe wir sind zurueck zum eigentlichen Thema.
+Das ortsaufgelöstes Energie-Bilanz-Modell braucht fuer die Loesung die Ausgangstemperatur. Man kann sich dann iterativ herrantasten, wird unter Umstaenden aber keine eindeutige Loesung erhalten.
+Ich wuerde als generelle Loesung einen anderen bekannten Ansatz vorschlagen.
+Zur Berechnung der theoretischen Abstrahltemperatur wird in der Literatur ein Wolkenalbedoeffekt von 15% angegeben. Dieser stuetzt sich auf gemittelter Wolkenbedeckung usw usf. Im Grunde genommen hat man hier schon die Wirkung der Wolken festgestellt.
+Ohne Wolken veringert sich die Albedo, das heisst mehr Energie erscheint in der Energiebilanz –> Waermer
+Je mehr Wolken desto mehr Sonnenstrahlung wird reflektiert, desto weniger Energie erscheint in der Bilanz. –> Kaelter
+Bild 1 und der Hauptartikel wuerde diese Sichtweise stuetzen.
+„Das ortsaufgelöstes Energie-Bilanz-Modell braucht fuer die Loesung die Ausgangstemperatur.“
+Mein (langweiliges) Energie-Bilanz-Modell konvergiert abhängig von der Ausgangstemperatur schneller oder langsamer, aber das Ergebnis ist im wesentlichen immer das Gleiche. Wolken haben ich leider nicht im Modell berücksichtigt.
+was haben sie in ihrem Model drin? Welche Groessen berechnen sie?
+Welchen Ort berechnen sie?
+„Koennen sie erklaeren wie thermodynamisch dieses Forcing funktioniert?“
+Die Antwort auf Ihre Frage kann man ins Deutsche in etwa so übersetzen:
+Kann ich nicht, aber es „…führt zu einer Klimaänderung…“, weil ich es so in meinen Modellen hinterlegt habe.
+Habe nicht die Geduld aufgebracht, alle Petersen-Geschwurbel aufmerksam zu studieren, beim Querlesen ist mir keine einzige konkrete Atwort aufgefallen, nur Besserwisserei.
+Da sein Model besser funktioniert als das natürliche Sonnensystem, ist Hopfen und Malz verloren, lassen Sie ihn radial forcen und das Klima antreiben….
+Man könnte auch einfach auf die Ausführungen von Herrn Lüdecke und des Fachbeirates verweisen, oder auf diverse Vorträge auf Eike-Konferenzen, oder auf diverse Experimente, die Teilaspekte beleuchten, oder auf Artikel bekannter Skeptiker, z.B. Singer Climate .* Are Giving Us Skeptics a Bad Name. Es gibt jede Menge Quellen auch auf skeptischer Seite, die einem diese Fragen beantworten würden, wenn man denn Interesse hat.
+Man kann Modellen und dem, was sie leisten können, skeptisch gegenüber stehen. Aber auf der Ebene, auf der Werner hier diskutiert …
+wenn sie auf der hohen Ebene nicht mitdiskutieren koennen, dann lassen sie es doch einfach. Sie sind Herrn Dietze ueber den Mund gefahren und haben sich blamiert und ihrer weiteren Kommentare waren alle in ihnen unliebsame Mitforisten gelenkt.
+Sie trollen in meine Richtung anstatt sich auf das Thema zu konzentrieren.
+Der Link den sie bringen traegt jedenfalls nicht zur Aufklaerung des Forcings bei.
+Und scheinbar haben sie selber keine Erklaerung.
+In der Form in der sie sich auf andere verlassen, die ihrer Meinung nach eine Erklaerung haben, verlassen sie sich auch auf die Definitionen des IPCC ohne sie aber verstanden zu haben.
+Klaeren sie mal den Misstand auf den ich oben angebracht habe.
+Herr Georgiev bringt das Dilemma auf den Punkt:
+Kann man erklaeren wie thermodynamisch dieses Forcing funktioniert?
+Die Antwort: Kann man nicht, aber es „…führt zu einer Klimaänderung…“
+Genau dieses Problem sollten sie angehen anstatt die Diskussion durch pesoenliche Angriffe immer gleich unter die Guertellinie abgleiten zu lassen.
+beim Beitrag habe ich mir etwas gedacht, obwohl es auf den ersten Blick nicht so aussieht.
+Mein Hauptfach beim Studium war Energieumwandlung, die Grundlagen habe ich so verinnerlicht, dass ich bei jedem Prozess automatisch die Energiebilanz suche und in der Regel auch finde. Eike ist ein wenig die Spielwiese der Strahlenphysiker, die sich mit unterschiedliche Sichtweisen bewerfen, mit Modellen „beweisen“ wollen und dabei manchmal das große Ganze aus dem Blick verlieren. Kleines Beispiel: Es wurde der „Nachweis erbracht“ dass ein kalter Körper einen anderen doch erwärmen kann, siehe die Suppe in der kalten Mikrowelle. Ich als Thermodynamiker beweise das Gegenteil, in dem ich den Stecker ziehe! Sie geben mir sicher Recht, die Suppe bleibt dann kalt! Am Anfang des gesamten Prozesses steht nun mal etwas, das deutlich wärmer ist, nur dadurch kann die Suppe warm werden.
+Wenn man nur einen Teil des Prozesses betrachtet, kann man auf falsche Schlußfolgerungen kommen, vor allem wenn man sich dabei noch mit Computerspielen selbst Sand in die Augen streut. Übrigens, schauen Sie sich mal den thermodynamischen Inhalt der Antwort von Herrn Petersen an? Finden Sie etwas? Er und ich sind übrigens alte Freunde, er beschimpft mich als „von Naturwissenschaft keine Ahnung“ und ich lache ihn wegen seiner Strahlen- und Computerspielerei aus.
+MfG
+Peter Georgiev
+Wollen Sie sich damit etwa entschuldigen?
+Das Problem in Modellen (und definitiv bei Herrn Mueller) scheint zu sein, dass man annimmt, das ein Einzelwaermestrom von Null eine Erwaermung ausloesen kann. Die belegbaren Waermestroeme von der Oberflaeche weg wie Konvektion, Wasserverdunstung und Strahlung im Atm. Fenster, werden ignoriert, und am Ende muss aber eine Erwaermung rauskommen, weil das das gewuenschte Ergebnis ist.
+Dabei weiss auch Herr Petersen, das das nicht geht, und mehr als Null als Waermestrom in Richtung Oberflaeche durch Strahlung aus der Atmosphaere kann auch er nicht belegen.
+Damit kann weder das Radiative Forcing funktionieren noch der THE der ja angeblich die Oberflaechentemperatur durch geringere Abkuehlung aufwaermen koennen soll.
+Herr Mueller hat uebrigens keine formelle Ausbildung in Thermodynamik und ist ein Laie.
+Herr Petersen, der hier nicht unter seinem richtigen Name firmiert, hat einen einen hoeheren Akademischen Grad, dem er hier aber nicht gerecht wird.
+Zumindestens sollte man erwarten, das er in der Thermodynamik besser recherchiert bevor er etwas rausposaunt.
+Insofern haben sie unrecht und er weiss es (noch) nicht besser.
+Sie schrieben selbst, dass laut Kiel/Trenberth ein Ungleichgewicht von 0.9 W/m2 besteht (und haben auch gelesen, das es bei den gegeben Annahmen 3,7W/m² bei einer Verdopplung des CO2-gehaltes sind). Es fliessen also 0.9W/m² mehr Energie zu als ab. Diese Energie kann nicht einfach verschwinden, sondern führt in der Regel zu einer Erwärmung.
+Es ist also kein Wärmestrom von 0 und ich denke auch nicht, dass ein Wärmestrom von 0 zu einer Erwärmung führen könnte, wie Sie das wieder mal unterstellen.
+Ihren Beiträgen ist zu entnehmen, dass Sie fundiertes Wissen im Bereich Thermodynamik haben, bei den Herren, mit denen sie diskutieren, ist das Gegenteil sichtbar. Man kann das intensive Studium der Grundlagen nicht mit einer lockeren Diskussion bei Eike ersetzen. Sie werden es nicht kapieren. Den Grundfehler der Diskutanten ist, dass sie die Welterklärung auf Strahlenbilanzen reduzieren, und thermodynamische Zusammenhänge, die sie naturgemäß nicht exakt kennen können, aus ihren Überlegungen als unwichtig ausschließen. Damit „beweisen“ sie was sie wollen, die Natur sieht es aber anders.
+MfG
+Peter Georgiev
+Im Gegenzug hat Herr Mueller gleiche wieder bewiesen das er die sogenannte Energiebilanz nicht versteht.
+Es fliesst die gleiche Menge an Energie zu und weniger wieder ab.
+Es muss so sein, weil das CO2 laut Diagram den Zufluss gar nicht beeinflusst.
+Was Herr Mueller denkt, ist das die Gegenstrahlung ein mehr an Energie zufügt, was physikalisch immer noch genauso unmöglich ist, wie vor Jahren als ich versucht habe, ihm das zu erklären.
+Dazu muss man wissen, das die solare Einstrahlung eine zusaetzliche Waermemenge ist, aber die Gegenstrahlung ist das nicht.
+Die 0.9 W/m2 koennen sich also nur aus der Sonne ergeben aber nicht aus der Differenz der Strahlungsströme Oberfläche und Atmosphäre.
+Es gibt keinen Wärmestrom von der Atmosphäre zur Oberfläche. Alles was es gibt ist elektromagnetische Strahlung, aber bezüglich des Wärmeübertragunggesetzes geht der Wärmestrom vom Boden zur Atmosphäre.
+Die sogenannten THG verringern zwar den Wärmeverlust durch Strahlung, aber sie können die Oberfläche nicht erwärmen.
+Verstehen sie das Herr Mueller??? Ich glaube nach Jahren der Diskussion sind sie auf ihrem falschen Verständnis stehengeblieben.
+„Nahezu alle vom IPCC herangezogenen Klimamodelle zeigen eine starke positive Wolken-Rückkopplung. Hierbei handelt es sich um den Prozess, bei dem eine sich ändernde Temperatur an der Erdoberfläche die Wolkenbedeckung beeinflusst, was wiederum die Temperatur beeinflusst.“
+Als Laie frage ich mich folgendes: Wolken entstehen und verschwinden recht schnell. Warum untersucht man nicht einfach die Änderung der Wolken-Bedeckung beim Übergang von Tag zur Nacht? Dazu wäre aber das Studium der Land-Temperaturen geeigneter, da sich auf den Ozeanen die Temperaturen bei Tag und Nacht nur wenig unterscheiden. Aber wahrscheinlich habe ich den Kern der Sache mal wieder nicht richtig verstanden.
+http://real-planet.eu/WSPBild3.gif
+Somit ist die Existenz einer „Wolkenrückkopplung“ mit dem CO2 sehr unwahrscheinlich.
+Mfg
+Werner Holtz
+15. Juni 2020 um 9:09
+Herr Winder, Sie müssen die Sache erstmal verstehen.
+Welches radiative forcing durch die Solarkonstante haben wir denn, wenn die Solarkonstante konstant ist, hm?
+Der Kommentar von Herrn Winder war sicherlich sarkastisch gemeint, pure Verzweiflung im Angesicht von Werners Statements …
+Ich habe in meinem Kommentar nur den – mir bisher unbekannten – „tractatus logico mathematicus“ von Werner Schulz praktisch angewandt.
+Zwei Wochen Diskussionen mit Herrn Schulz – in einem anderen thread -haben mir gereicht…
+Herr Müller hat die Diskussion in seinem unten stehenden Kommentar 12.6.20 17:44 verlinkt.
+Ich habe so fertig, dass ich nicht einmal mehr die Diskussion verlinken will…(ist im Kommentar von Herrn Müller eh verlinkt).
+Ich wünsche Ihnen sehr viel Kraft und v.a. gute Nerven für die Diskussionen mit Herrn Schulz.
+Ich habe fertig!
+Liebe Grüße aus dem Bregenzerwald
+Pepi
+Mit diesem Statement zeigt Werner wieder mal sehr deutlich, dass er entweder wirklich keine Ahung hat, wovon er da spricht, oder nur sehr geschickt rumtrollen will.
+Vielleicht sollten sich alle im Interesses einer konstruktiveren Diskussion einfach mal bemühen, werner zu ignorieren. Es kommt eh nichts vernünftiges bei einer Diskussion mit ihm heraus …
+Ergänzend finde ich aus CERES-Daten im Jahresmittel 2001-2019 NH 64,5%,Glb 67,4% und SH 70,4 %. Der Ozean-Anteil variiert von 59% NH, 70% Glb, 81 % SH. Ost-West-Hemisphären variieren im Ozean-Anteil und im Wolken-Bedeckungsgrad in gleicher Weise.
+Niemand, noch nicht einmal „gestandene Wissenschaftler“ haben es verstanden, wie man eine Sensitivitätsanalyse für ein System korrekt durchführt. Alle Sensitivitätsanalysen vom Erd-System, die ich bisher gesehen habe, entsprechen nicht den mathematisch-physikalischen Anforderungen und sind somit gegenstandslos. Würde man eine mathematisch-physikalisch korrekte Sensitivitätsanalyse durchführen, würde man nämlich etwas erkennen, was jedweden THE und die „Klimasensitivität vom CO2“ ins kaum messbare verschwinden läßt.
+Mfg
+Werner Holtz
+Die erste Anforderung wäre, dass man mit einer präzisen Bilanz mit den notwendigen Parametern für das System arbeiten muss.
+Siehe: Wissenschaftliche Normung / Das Genauigkeitswesen in der technischen Normung – J. Ickert
+Betrachtet man mal ein einfaches System, bei dem die Energiebilanz durch das Stefan-Boltzmann-Gesetz beschrieben wird P = A*σ*ε*T^4, wobei die Parameter folgende Werte haben A = 1 m^2, σ = 5,670374*10^-8 W/(m^2*K^4), ε = 0,96, T = 288K und P = 374,50092 W.
+Frage: Ermitteln sie die Sensitivität der Parameter in bezug zur Temperatur T der Energiebilanz vom System?
+Bin mal gespannt, wer die Frage beantworten bzw. eine Sensitivitätsanalyse durchführen kann.
+Mfg
+Werner Holtz
+Bevor Sie sich auf eine Diskussion mit Herrn Holtz einlassen, stöbern Sie mal etwas in den Kommentaren hier. Da kommen so lustige Dinge ein Vergleich der Abstrahlung an TOA in den Tropen und von der Erdoberfläche eines Ortes in Deutschland im Januar um zu begründen, dass die Abstrahlung des Bodens kaum durch die Atmosphäre gedämpft wird. Oder eingestrahlte Energie wird signifikant größer, wenn man bei der Berechnung der auf die Erdoberfläche eingestrahlten Energie von einer Kreisfläche zu einer Kugelfläche wechselt.
+falls sie nichts zu tun haben ausser andere Mitforisten zu denigrieren kommentieren sie einfach mal diese Arbeit.
+https://link.springer.com/article/10.1140/epjp/s13360-020-00471-z
+An Herrn Dr. Spencer haben sie ja sicherlich nichts auszusetzen.
+Machen sie einmal einen positiven Beitrag.
+mfg Werner
+Da ist mir ein Fehler unterlaufen.
+sie haben die Arbeit gelesen.
+Da ich hier der Troll bin und sie der belesene Erklaerer, darf ich von ihnen verlangen, das sie sich zu der Arbeit mal aeussern.
+Sie werden der Rolle, die sie denken, dass sie sie haben, nicht gerecht!
+Welche Arbeit? Und wie kommen Sie darauf, dass ich sie gelesen habe?
+Ich muss nicht auf jeden Kommentar anspringen (vor allem nicht, wenn er sich auf ein Papier hinter einer Bezahlschranke bezieht ohne jeglichen Hinweis darauf, was drin steht und warum das relevant sein sollte).
+Zum einen ist die Annahme enthalten, dass die Veränderung der Wolkenbedeckung einige Monate nach einer Erwärmung der darunterliegenden Meeresoberfläche einzig und alleine auf das Wolkenfeedback zurückzuführen ist. Daran habe ich große Zweifel, über die Jahrzehnte hinweg zeigt bei zunehmender Temperatur einen negativen Trend bei der Wolkenbedeckung, das passt nicht.
+Der Autor könnte das testen: Die Daten der Modelle sind ja frei zugänglich, er könnte dieselbe Auswertung mit den Modelldaten wiederholen und dann mal schauen, ob die erhaltenen Werte zu den Modellwerten für das Wolkenfeedback passen.
+Der zweite Pferdefuß liegt darin, dass das Wolkenfeedback mehr ist als der Einfluss der Wolkenbedeckung. Wassertröpfchen wirken ja auch über den Treibhauseffekt erwärmend. Als Faustregel gilt: Niedrige Wolken wirken insgesamt kühlend, hohe Wolken insgesamt erwärmend. Die Wolkenbedeckung, die der Autor untersucht, ist hauptsächlich aus den niedrigen Wolken bestimmt, der Einfluss höherer Wolken wird vom Autor nicht untersucht.
+Beides zusammen stimmt mich sehr skeptisch, ich würde da nicht mit einer Veröffentlichung rechnen, da muss nachgearbeitet werden.
+Allein dies bringt zusammen mit der von IPCC in der unteren Troposphäre nicht berücksichtigten Wasserdampfüberlappung eine Reduktion des Strahlungsantriebs auf 44% bei einer konstanten Wolkenbedeckung. Wasserdampf- sowie Wolkenfeedback durch Temperaturänderungen ist ein zusätzliches Thema. Eigentlich ist es ein Witz dass IPCC den Strahlungsantrieb des CO2 ohne Wolken benutzt, dann aber ein positives Feedback der nicht vorhandenen Wolken postuliert.
+Das ist kein „zusätzliches Thema“, genau das ist das Thema des Artikels, bei dem ich gerne bleiben würde.
+es ist kaum anzunehmen, daß Ihr Argument in Klimamodellen nicht Berücksichtigung fände, wenn es valide wäre.
+es ist Herr Dietze und das Argument ist richtig.
+Sie könnten dagegen argumentieren indem sie sagen, das entsprechend der Absorption der Langwellenstrahlung in den ersten 15-20 m vom Boden über der Oberfläche die Wolken keine Rolle spielen, da sie weit hoeher liegen.
+Dann gehen sie aber davon aus, das Wolke gar keine Rolle spielen, in welchem Falle sie unrecht haben!
+Ich möchte dann noch speziell wissen, was das zur Erforschung der Folgen des Klimawandels gegründete Institut, das PIK, dazu zu sagen hat.
+Also beim Eingeben von „Wolken Rückkopplung“ ein Artikel von 2009, der die gefähtlichen Kipppunkte dazu beschreibt.
+Wenn man nur „Wolken“ eingibt, werden 18 Artikel angezeigt. Drei davon eigene Untersuchungen, auch Simulationen. 15 Artikel befassen sich mit Fremdzitaten, Tagungen und Preisverleihungen.
+Darunter 2 Artikel mit der Würdigung von Herrn Rahmstorf für sein Kinderbuch „Wolken, Wind und Wetter“. Da kommt immerhin das Wort Wolken vor.
+Da kann man nur sagen:
+Ein Berg mit 350 Mitarbeitern kreißt und gebiert eine Maus…
+Diese nicht berücksichtigten Effekte ergeben bereits eine Reduktion auf etwa 44%. Weiter wird von IPCC ein extrem überhöhter und fälschlich aus Eisbohrkernen (solar-ozeanische Ausgasungssensitivität, die mit Gegenstrahlung nichts zu run hat) ermittelter Feedback-Faktor von 2,7 benutzt. Die Tatsache dass selbst MODTRAN für CO2-Verdoppelung mit Wolken, Standardatmosphäre und Feedback am Boden nur 0,5-0,7 Grad (also 0,6 Grad statt 3 Grad) berechnet, wird ignoriert.
+Diese nicht berücksichtigten Effekte ergeben bereits eine Reduktion auf etwa 44%. Weiter wird von IPCC ein extrem überhöhter und fälschlich aus Eisbohrkernen (solar-ozeanische Ausgasungssensitivität, die mit Gegenstrahlung nichts zu run hat) ermittelter Feedback-Faktor von 2,7 benutzt. Die Tatsache dass selbst MODTRAN für CO2-Verdoppelung mit Wolken, Standardatmosphäre und Feedback am Boden nur 0,5-0,7 Grad (also 0,6 Grad statt 3 Grad) berechnet, wird ignoriert.“
+Viel Text, viele Behauptungen, Null Wahrheitsgehalt.
+Es gibt bodennah keine „Rückstrahlung“ aus CO2, Modran ist eine Datenbank veröffentlicht vom amerikanischen Militär um die Lenkwaffenentwicklung anderer Länder zu erschweren und das Wissen um deren möglicher Einsatzhöhen möglichst lange geheim zu halten.
+Dietze, daß das IPCC Müll verbreitet entschuldigt nicht den Müll, den Sie hier unter die Leute bringen wollen
+Welchen meinen Sie?
+Die hier aus IPCC WG I AR4 2007 z.b. (AR5 ist ähmlich, finde nur spontan keinen direkten link auf eine abb)
+https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/figure-2-22.html
+zeigt die Forcings von CO2 u.a. inklusive ihrer Feedback Effekte, Wolken und Wasserdampf Rückwirkung also eingeschlossen.
+Herr Petersen, wie kommen Sie denn darauf? Insider wissen dass dies nicht der Fall ist. Das C02-Forcing von 2007 mit 2,4 W/m² aus Ihrem Link kann man z.B. nachprüfen mit 3,7*ln(380/280)/ln(2)/Eps=2,6 W/m². Im AR5 waren es von 1750-2011 z.B. 1,8 W/m².
+3,7 W/m² ist der „Strahlungsantrieb“ des IPCC für CO2-Verdoppelung an TOA ohne Wolken, Wasserdampf und Feedback, berechnet aus hochpräzise gemessenen HITRAN-Spektren und das Eps (240/390) repräsentiert die Verstärkung durch Hin- und Herstrahlung in der unteren Troposphäre. Mit 3,7/Eps und Stefan-Boltzmann erhält man +1,11 Grad am Boden – aber nicht die +3,0 Grad welche sich erst mit dem Faktor 2,7 ergeben. Der richtige Wert ist nur 1/5 davon.
+12. Juni 2020 um 13:10
+Ich würde denken, hier liegt ein Missverständnis vor, da am Anfang des Kapitels, in dem das Diagram enthalten ist, Radiative Forcing wie folgt definiert wird:
+Das im Diagramm enthaltende Cloud Albedo ist die Wirkung von Aerosolen auf Wolken …
+Ok wollte darauf hinweisen, dass die Definition des IPCC feedbacks ausschliesst („with surface and tropospheric temperatures and state held fixed at the unperturbed values“) und daher Sverre Petersen entweder unglücklich formuliert hat oder einem Irrtum unterliegt (so er es denn geschrieben hat).
+Ich wollte Ihnen diesbezüglich nicht widersprechen, habe aber wohl nicht klar genug formuliert. Tut mir leid …
+es ist augenscheinlich das beim IPCC Wasserdampf in seiner Wirkung ignoriert wird.
+Es gibt nicht eine Angabe des Radiativen Forcings von Wasserdamfes. Selbst fuer das sogenannte Feedback durch Wolken wurde ein Radiatives Forcing angegeben.
+Und es muss eines geben. Da Wasserdampf Strahlung des Erdbodens absorbiert und damit den Strahlungshaushalt an der Troposphaere beeinflusst.
+Wenn die Definition fuer Radiatives Forcing vom IPCC gemacht ist und Wasserdampf ausschliesst, dann ist erwiesen, das der IPCC Wasserdampf ignoriert.
+Werner Schulz schrieb am 12. Juni 2020 um 16:43
+Das wird durch endlose Wiederholung nicht richtiger. Ich wiederhole mich jetzt hier nicht gross (IPCC: Wasserdampf 60% Anteil am Treibhauseffekt, größter Anteil an den Feedbacks …). Sie können einfach in der alten Diskussion weitermachen und müssen dieses Thema hier nicht auch noch zumüllen …
+das Wasserdampffeedback findet man unter Feedbacks, nicht unter Forcings. Der Wasserdampfgehalt der Atmosphäre wird ja durch die Temperatur geregelt, er folgt also der Temperatur.
+Wasserdampf hat den Effekt, dass er als Treibhausgas erwärmend wirkt. Was vielen unbekannt ist, ist der zweite Effekt, dass Wasserdampf die lapse rate verringert, ein negatives Feedback. Beide Feedbacks zusammen ergeben das Gesamtfeedback des Wasserdampfs.
+Wasserdampf findet man sehr wohl unter Forcings. Sie sollten sich mit der einschlägigen „Literatur“, also dem IPCC Reporten, besser beschaeftigen.
+Wasserdampf taucht da glatt in der Stratosphäre unter Forcings auf.
+https://en.wikipedia.org/wiki/IPCC_Fourth_Assessment_Report#/media/File:Radiative-forcings.svg
+Beim Wikipedia steht dann zwar drin das Wasserdampf ausgeschlossen ist, aber das ist in der Definition des 4. AR nicht angegeben.
+Schaut man sich den Werdegang an, ist das Fehlen von Werten für den Wasserdampf augenscheinlich. Wenn der IPCC jetzt in der Definition Wasserdampf gänzlich ausgrenzt, dann zeigt das nur wie ignorant der IPCC mit dem wichtigsten Treibhausgas der Erde umgeht.
+Ansonsten noch einen Hinweis, dass die verringerte Lapsrate ein negatives Feedback sein soll ist falsch.
+Die feuchtadiabatische Lapserate ändert die Trockenadiabatische von 9,8 Kelvin pro Kilometer auf 5 Kelvin pro Kilometer oder so. Das heisst es macht die Atmosphäre wärmer.
+Die Lapserate ist übrigens keine Feedback sondern eine unabhängige Größe, die
+von der Spezifischen Wärmekapazität und der Gravitation bestimmt wird.
+Der Wasserdampf in der Strato ist darum bei den forcings drinnen, weil er direkt durch den Menschen entsteht – v.a. anthropogenes Methan, welches in der Strato zu Wasserdampf wird. Die Details sind extrem kompliziert – Stratosphärenchemie..
+Man kann sicher darüber diskutieren, ob es nun wirklich ein direkter Einfluss ist oder salopp ausgedrückt nur ein – „direkter Einfluss über Umwege“ ist, der in die forcings gehört. Aber das sind Haarspaltereien.
+Aber egal, der Wasserdampf in der Strato ist nur ein „Nebenaspekt“.
+sie bestätigen eigentlich nur noch, was ich die ganze Zeit sage.
+Die niedlichen Angaben über Forcings enthalten also ihrer Meinung nach nur Anthropogene Einflüsse. Dass das nicht stimmt habe ich ihnen schon erklärt.
+Weder kommt Methan nur aus natürlichen Quellen, noch ist es ein direkter Einfluss.
+Aber offensichtlich ignoriert der IPCC die natürlichen Einflüsse, entsprechend ihres Mandates den menschengemachte Klimawandel zu beweisen.
+Das Wolken und Wasserdampf einen weitaus höheren Einfluss auf das Klima haben, können sie in vielen wissenschaftlichen Arbeiten lesen.
+Damit ist die Diskussion um Forcings erledigt, da diese nebensächlich sind, so wie übrigens der menschengemachte Einfluss auf das Klima.
+Ich habe meine Zahlen über Wasserdampf Forcing jetzt gefunden. Die Arbeit dazu erschien 2006 während der IPCC 4 AR 2007 erschienen ist, aber keinen Bezug darauf nimmt.
+mfg Werner
+Sie haben vollkommen Recht!
+Ich habe mir gerade mal die Grafik mit den forcings angeschaut, in denen das forcing der Sonne nur mit rd 0,1 Watt/m“ angegeben ist! Die Solarkonstante liegt jedoch – soweit ich weiß – bei 1.367 Watt/m²!!! Der Einfluss der Sonne wird somit vom IPCC vollkommen unterschlagen!!!
+Somit ist endgültig bewiesen, dass die Reporte des IPCC vollkommener Unsinn
+sind, und daher jedigliche weitere Diskussion sinnlos ist und ich mir ein anderes Hobby suchen muss.
+Roma locuta, causa finita. Das wars somit.
+mfg
+Josef Winder
+sie haben nicht verstanden was Radiatives Forcing ist.
+Die 0.1W/m2 sind die Abschwächung der Solarstrahlung durch die Satelliten im Umlauf um die Erde. Alles menschengemacht.
+Gruss
+Werner
+„Das im Diagramm enthaltende Cloud Albedo ist die Wirkung von Aerosolen auf Wolken …“
+Diese Aussage ist falsch. Die Aussage muss heissen, das der Cloud Albedo Effekt als Teil des Radiativen Forcings von Aerosolen (Total Aerosols) gezählt wird.
+Ja, ich habs dann auch gemerkt, das feedback ist in der climate sensitivity, nicht primär im forcing. Aber ganz so ei fach ist das auch nicht, wie Sie schreiben. Nehmen Sie Herrn Müllers Hinweis auf und lesen Sie im IPCC nochmal genau nach. Im übrigen ist die Formel die sie verwenden ja nur ein Fit an die numerischen Modellergebnisse.
+können sie offenlegen welche meiner Folgerungen falsch sein soll?
+Sie antworten hier auf ihren eigenen Beitrag.
+Und was sie schreiben macht keinen Sinn. Wie folgt der Wasserdampf denn irgendwelchen radiativen Forcing???
+Belegen sie das bitte mit einer Arbeit.
+Welche radiative Wirkung hat Wasserdampf? Immerhin ist der THE zu 60% dem Wasserdampf geschuldet.
+Fragen sie Herrn Mueller. Der kann ihnen das bestaetigen.
+der Wasserdampf in der Stratosphäre entsteht durch Methan, ist also auch anthropogen aber kein feedback.
+Ihre lapse rate ist die der trocken-adiabatischen Zustandsänderung, die in der Atmosphäre nur unter idealen Bedingungen relevant ist, real muss man die Phasenübergänge des Wassers bei Vertikalbewegungen berücksichtigen und bekommt eine von der Wasserdampfkonzentration abhängige lapse rate, die ist hier gemeint.
+Können sie erklären wie Wasserdampf einmal kein Feedback sein soll aber sonst schon? Ozon taucht inder Grafik in der Stratosphäre auf, ist aber sicherlich nicht menschengemacht.
+Es gibt uebrigens Angaben ueber Radiatives Forcing von Wasserdampf in der Troposphäre. Sollten sie sich mal damit beschäftigen. Diese Angaben fehlen beim IPCC. Warum?
+Und warum schneiden sie das Thema Lapse Rate an? Da habe ich Herr Winder aufklären müssen. Mit Ihnen bestand das Thema nicht?
+Aber falls sie denken ich habe da noch Aufklärungsbedarf, ich hore gerne zu!
+Werner Schulz
+14. Juni 2020 um 11:42
+„Die Lapserate ist übrigens keine Feedback sondern eine unabhängige Größe, die
+von der Spezifischen Wärmekapazität und der Gravitation bestimmt wird.“
+Sverre Petersen
+12. Juni 2020 um 19:36
+Herr Schulz, Ihrer Folgerung ist falsch. Der Wasserdampf folgt jedweder radiative forcing Ursache, aber gehört nicht zu den langlebigen Treibhausgasen. Wasserdampf ist ja ein dynamisches Element im Klimasystem, welches von dem angetrieben wird.
+haben sie ihre Wissenschaftsausbildung jetzt ganz vergessen?
+Zum Thema Lapse Rate empfehle ich ihnen ein Literaturrecherche.
+https://archive.org/details/NASA_NTRS_Archive_19630003300
+Was sie da über Wasserdampf schreiben ist eine Zusammenwürfelung von Ungereimtheiten. Am unglücklichsten ist die Aussage: „Welches von dem angetrieben wird.“
+Was wird wovon angetrieben? Das Klima vom Wasserdampf oder Wasserdampf vom Klima?
+Beides wäre eine grobe und falsche Verallgemeinerung von Fakten.
+Sie sollten sich mehr Zeit für ihre Recherche nehmen.
+wir reden hier über Wolken, und die gibt es in der Troposphäre. Die vom IPCC angegebenen Forcings beziehen sich auf TOA (top of atmosphere), also an der Stelle des Übergangs von der Troposphäre zur Stratosphäre, es stimmt schon alles.
+warum erscheint dann Black Carbon in der Grafik? Liegt in der Stratosphaere Schnee?
+Und was ist mit Tropospheric Ozon? Und wie spielt die Solarstrahlung da rein?
+Muss man beim CO2 erst warten bis es in der Stratosphäre angekommen ist?
+Sie bauen Luftschlösser, da Landnutzung definitiv nicht in der Stratosphäre erfolgt.
+Bevor sie noch mal was sagen:
+https://en.wikipedia.org/wiki/IPCC_Fourth_Assessment_Report#/media/File:Radiative-forcings.svg
+Diese Grafik zeigt ganz sicher nicht nur Einflüsse an der Tropopause.
+Ja, unser Klimageschehen und unser Wetter spielt sich in der Troposphäre ab. Ich habe keinen blassen Schimmer, warum Ihnen die Stratosphäre so wichtig ist, Sie haben damit angefangen und ich wollte Sie nur wieder „erden“.
+dann muss man konsternieren, das der Focus auf Stratospharisches Forcing, so wie es der IPCC betreibt, eine Luftnummer ist, da das Klima in der Troposphäre stattfindet.
+Der Focus Stratosphäre ist der IPCC grafik geschuldet und nicht meine Idee. Mir geht es darum, das mit Diagrammen wie oben vom IPCC vorgetäuscht wird, das CO2 einen weit groesseren Einfluss auf das Klima hat, als es wirklich ist.
+Die Diskussion um das Wolken Rückkopplung spielt da mit rein.
+Herr Mueller und Herr Winder nehmen die Definition des IPCC und verteidigen das Konzept „Forcing“ und „Rueckkopplung“ das der IPCC selbst so erfunden hat.
+Damit ist es möglich zum Beispiel Wassserdampf in der Atmosphaere, welches das wichtigste Treibhausgas ist, in die zweite Reihe zu setzen. Es soll nunmehr abhaengig vom Radiativen Forcing sein.
+Es entbehrt nicht einer gewissen Ironie, das Herr Winder auf einmal mit der Solarkonstante ankommt, was zeigt wie Unsinnig das Konzept Radiatives Forcing ist.
+Immerhin verdampft Wasser nicht wegen x W/m2 Forcing sondern weil die Sonne entsprechend Kraft hat.
+Wie verstellt Herr Mueller die Diskussion darstellt, können sie weiter oben lesen.
+Empfehle das sie Ihre eigene Meinung bilden.
+mfg Werner
+Das ist eine exzellente Beschreibung des Ergebnisses unserer Diskussion.
+Hier ist die zentrale Übersicht des IPCC aus dem AR5 über die Forcings: http://www.realclimate.org/images/ipcc_rad_forc_ar5.jpg
+Keine Ahnung, warum Sie nun ständig über die Stratosphäre sprechen und es dann wieder abstreiten. Ich bin da nur noch verwirrt und konsterniert.
+falls sie noch mal Zeit haben, vielleicht noch mal einige Kommentare nachlesen.
+Weder streite ich etwas ab noch reite ich auf der Stratosphäre rum.
+Mein Punkt ist, das bei der IPCC Graphic der Einfluss von Wasserdampf mit einem Wert fuer das sogenannte Radiative Forcing in der Troposphäre fehlt.
+Damit wird so getan, als wenn a) Der Mensch keinen Einfluss auf den Wassergehalt der Atmosphäre nimmt und das b) mit dem wirksamsten Treibhausgas Wasserdampf
+Mittlerweile begnüge ich mich damit festzustellen, das es wissenschaftliche Arbeiten gibt, die Zahlen dazu bereitstellen aber zahlenmäßig beim IPCC ignoriert werden, was wahrscheinlich darauf zurückzuführen ist, das die beim IPCC definierten „Rückkopplungen“ die wichtigeren Einstellgrößen in Sachen Temperatur sind.
+Zum Beispiel:
+https://link.springer.com/article/10.1140%2Fepjp%2Fs13360-020-00471-z
+https://link.springer.com/article/10.1007%2Fs13143-020-00196-0
+https://www.nature.com/articles/s41598-020-57917-8
+„Mein Punkt ist, das bei der IPCC Graphic der Einfluss von Wasserdampf mit einem Wert fuer das sogenannte Radiative Forcing in der Troposphäre fehlt.“
+Und da wurde Ihnen schon vor Tagen erzählt, dass der Einfluss des Wasserdampfes sehr wohl vom IPCC beachtet wird, er wird dort aber nicht unter den Forcings aufgeführt, sondern als Feedback betrachtet, wofür es gute Gründe gibt.
+Ist das bei Ihnen so üblich, dass die Diskussion nicht weiterkommen darf, sondern sich ständig im Kreise weiterdrehen muss? Ich schließe mich der Meinung von Herrn Müller weiter oben an, Diskussionen mit Ihnen sind tatsächlich völlig nutzlos.
+Es gibt keinen sinnvollen Grund, dass Wasserdampf in der Troposphäre nicht bei den Forcings auftaucht.
+Die Trennung in Radiatives Forcing und Feedbacks, mit Definition des IPCC, dient einzig und allein dazu eine menschengemachten Klimaeinfluss vorzutäuschen, den es so nicht gibt.
+Sie sind aber scheinbar nicht daran interessiert, einen Nutzen aus einer einfachen Beobachtung der fehlenden Grösse, dem Radiativen Forcing von Wasserdampf, beim IPCC zu ziehen.
+Suchen sie selbst: https://www.ipcc.ch/site/assets/uploads/2018/03/TAR-07.pdf
+Vielleicht übersetzen sie mal den zweiten Abschnitt des Executive Summaries:
+„Atmospheric feedbacks largely control climate sensitivity.
+Important progress has been made in the understanding of those
+processes, partly by utilising new data against which models can
+be compared. Since the Second Assessment Report (IPCC, 1996)
+(hereafter SAR), there has been a better appreciation of the
+complexity of the mechanisms controlling water vapour distribution. Within the boundary layer, water vapour increases with
+increasing temperatures. In the free troposphere above the
+boundary layer, where the greenhouse effect of water vapour is
+most important, the situation is less amenable to straightforward
+thermodynamic arguments. In models, increases in water vapour
+in this region are the most important reason for large responses to
+increased greenhouse gases. “
+Der letzte Satz, abgesehen davon, dass er sich auf Modelle bezieht, tut meines Erachten so, als wenn Wasserdampf entweder kein Treibhausgas ist ansonsten ist diese Aussage Unsinn, da Wasserdampf ja eine Treibhausgas ist und eine Erhöhung des Wasserdampfgehaltes entsprechend eine Erhöhung der Treibhausgaswirkung sein muss.
+Ich lese die Reports vielleicht anders, aber sie diskutieren hier als wenn sie sie gar nicht gelesen haben.
+mfg
+Werner
+15. JUNI 2020 UM 13:25
+„Was wird wovon angetrieben? Das Klima vom Wasserdampf oder Wasserdampf vom Klima?“
+Na, bei einem feedback trifft beifes zu. Der Wasserdampf tritt in der Teoposphäre wie gesagt deshalb nicht als forcing auf, weil er nicht als extern ins Klimasystem vorgegeben werden kann, sondern eben eine Reaktion (mit wiederum feedback) auf andere foecings ist.
+Spielen Sie doch in Gedanken durch, was im Klimasystem passieren würde, wenn man den Wasserdampfgehalt instantan um x% erhöht? Wirkt das qualitativ genauso als wenn man die sonneneinstrahlung um y% erhöht?
+Wasserdampf kann man „nicht als extern ins Klimasystem vorgegeben werden kann, sondern eben eine Reaktion (mit wiederum feedback) auf andere foecings ist. „???
+Reden sie von Modellen?
+Wasserdampf ist real in der Atmosphäre vorhanden. Der kommt da durch Verdampfung hin. Meistens braucht man dafür Oberflächenwasser und Energie von der Sonne. Eine Änderung vom Wasserdampfgehalt sollte doch mit einer Änderung der Absorptionseigenschaften einhergehen. So wie beim CO2 auch. Ich frage mal vorsichtig, Wasserdampf hat doch radiative Eigenschaften? Ich dachte immer das es so ist!
+Alle weiteren Effekte von Wasserdampf sind beim Radiativen Forcing erst mal nicht interessant.
+Ich nehme an, was sie mit Feedback meinen, ist der Eigenschaft von Wasserdampf geschuldet, dessen Kondensationstemperatur in der Atmosphäre liegt und es zum Phasenwechsel kommt. Falls sie anstatt einem Gedankenexperiment Realwerte gelten lassen, arbeiten sie doch einfach mit Äquatorialafrika und der Sahara.
+Vielleicht können sie so darstellen was sie meinen.
+in der Grafik sieht man keinen Wasserdampf.
+mfg Werner
+18. JUNI 2020 UM 6:33
+„Die Trennung in Radiatives Forcing und Feedbacks, mit Definition des IPCC, dient einzig und allein dazu eine menschengemachten Klimaeinfluss vorzutäuschen, den es so nicht gibt.“
+Das ist falsch. Der begriff radiative forcing ist keine Erfindung des IPCc sondern in der Klimawissenschaft geläufig. Zudem gibt es natürliche radiative forcings, z.b durch vulkanausbrüche oder Veränderungen der Sonnenstrahlung, letzeres hat gegenüber 1750 auch einen nichtanthropogenen Einfluss über diesen Zeitraum, den der IPCc auch angibt.
+Na dann schauen sie mal!
+https://www.acs.org/content/acs/en/climatescience/atmosphericwarming/radiativeforcing.html
+„The best understood radiative forcings are due to variations in solar energy input and changes in greenhouse gas atmospheric concentrations, because their radiative forcings can be computed using the experimentally verified concepts outlined in the multilayer atmosphere model and its application to Earth’s atmosphere.“
+Wasserdampf ist das wichtigste Treibhausgas. Die Konzentrationsänderung bewirkt eine Aenderung des „Radiativen Forcings“.
+„The computations to determine the radiative forcing for a greenhouse gas require a detailed knowledge of its IR absorption and emission properties. These are available from the HITRAN database. “ Und wir kennen diese für Wasserdampf.
+„The complete story is, however, not just one of radiative forcing by greenhouse gases. Other radiative forcings, albedo changes, for example, and feedbacks, especially from increasing water vapor, also occur.“
+Sie können Englisch?
+Dann lesen sie das aufmerksam:
+https://www.britannica.com/science/radiative-forcing
+„Radiative forcing, a measure, as defined by the Intergovernmental Panel on Climate Change (IPCC), …“
+Britannica geht davon aus das das eine Definition des IPCC ist. Finden sie andere Quellen?
+mfg Werner
+18. JUNI 2020 UM 10:40
+„Herr Petersen,
+Reden sie von Modellen?“
+Wenn Ihr Hirn modelliert wird schon, kommt darauf an, woher Ihre Gedanken kommen.
+Das ist ja nun trivial, bei dem 1D Stahlungstransferprogrmm Modtran handelt es sich ja auch um kein Klimamodell, weches die komplexen Rückkooplungen in unserem Klimasystem berücksichtigt. Modtran liefert natürlich keine realistischen Gleichgewichtstemperaturen auf radiative forcing.
+was sie hier sagen macht sogar Sinn.
+Die ganze Diskussion ueber die radiativen Forcings sind fuer die Katz, weil eigentlich die Rückkopplungen das Klima machen.
+Laut IPCC sind die Rückkopplungen durch Wasserdampf und Wolken gegeben.
+Die treibenden Faktoren sind also Wasserdampf und Wolken?
+Das sie Modtran hier so abwerten ohnen weitere Untermauerung ist gewagt. Aber das man durch Radiatives Forcing ueberhaupt Temperaturen ermitteln kann ist zweifelhaft.
+Laut ihnen muss man ja nur auf die sogenannte Rückkopplungen schauen.
+Wie ist denn der Zusammenhang von Forcing und „Rückkopplung“? Kennen sie da Arbeiten die das darstellen?
+Ich ziehe schon in Zweifel ob eine Abnahme des Wolken-Bedeckungsgrads im Zeitraum 1986-2017 überhaupt beobachtet wurde. Solche Beobachtungen sind nur über Satelliten möglich. Es wurden die Messungen mehrerer Satelliten zusammengefügt. Dies ist äußerst fragwürdig. Auch ist es fragwürdig sich auf Ozean-Daten zu beschränken. Ich habe den von CERES veröffentlichten globalen Gesamt-Wolken-Bedeckungsgrad im Zeitraum 200207-201912 analysiert. Mittels Ausgleichsrechnung erhalte für den Wolken-Bedeckungsgrad in %
+Aqua 200207..200306 67,3; 201901..201912; 66,8
+Terra 200207..200306 68,1; 201901..201912; 68,1
+EBAF-TOA 200207..200306 67,5; 201901..201912; 67,4
+Ich folgere daraus dass der Wolken-Bedeckungsgrad von 2002 bis 2019 im Rahmen der Messgenauigkeit der Satelliten Terra und Aqua konstant geblieben ist. Einfache Interpretation eines Laien: Der Wolken-Bedeckungsgrad bildet die Oberflächen-Verteilung von Land und Ozean im Groben ab. Winde treiben die Wolken aufs Land. Auch das geringer werden Meereis kann dieses einfache Bild nicht erschüttern, da die Änderung des Meereis-Anteils gering war und Eis auch verdunsten kann.
+In den letzten drei Jahrzehnten hat sich die Meeresoberflächentemperatur (SST) im östlichen Äquatorialpazifik verringert, was zur Verringerung der globalen Erwärmungsrate beiträgt. Die meisten CMIP5-Modellsimulationen mit historischem Strahlungsantrieb reproduzieren diese pazifische La Niña-ähnliche Kühlung jedoch nicht. Basierend auf der Annahme „perfekter“ Modelle haben frühere Studien darauf hingewiesen, dass Fehler bei simulierten internen Klimaschwankungen und / oder externen Strahlungsantrieben die Diskrepanz zwischen den Simulationen mit mehreren Modellen und der Beobachtung verursachen können. Die genauen Ursachen bleiben jedoch unklar. Jüngste Studien deuten darauf hin, dass die Beobachtung der Erwärmung des SST in den beiden anderen Ozeanbecken in den letzten Jahrzehnten und des Thermostatmechanismus im Pazifik als Reaktion auf einen erhöhten Strahlungsantrieb ebenfalls eine wichtige Rolle für die Kühlung nach La Niña spielt. Wir untersuchen eine alternative Hypothese, wonach häufige Verzerrungen aktueller Klimamodelle die Fähigkeit der Modelle beeinträchtigen und auch zu dieser Diskrepanz zwischen Simulation und Beobachtung bei mehreren Modellen beitragen können. Unsere Ergebnisse legen nahe, dass ein unterschätzter Erwärmungskontrast zwischen den Becken in den drei tropischen Ozeanen, ein überschätzter Oberflächenwärmestrom und eine unterschätzte negative Rückkopplung der lokalen SST- Wolken im äquatorialen Pazifik eine El- Niño- artige Erwärmung in den Modellen begünstigen könnten. Die Auswirkungen der drei gängigen Modellverzerrungen heben sich nicht gegenseitig auf und erklären gemeinsam ~ 50% der Gesamtvarianz der Diskrepanzen zwischen der Beobachtung und den Ensemble-Simulationen der einzelnen Modelle des pazifischen SST-Trends. Die vielen wissenschaftlich anerkannten Fachartikel von Dr. Jing-Jia Luo, kann ich dem deutschen wissenschaftlichen Sykophantentum, oder doch Komödiantentum, wärmstens empfehlen.
+Die Forscher sind heute trotz der gigantischen Rechenleistung ihrer Supercomputer nicht in der Lage, für die Modelle die nötigen Parameter für verdunstendes, aufsteigendes oder kondensierendes Wasser zu bestimmen, was ja Wolken in der Realität tun. Die Klimamodell-Forscher müssten mit mehr oder weniger plausiblen Faustregeln arbeiten.Dr. Jing-Jia Luo erwähnt hierzu auch die prognostizierten Temperaturen in der Arktis (Nordpol), wo verschiedene Modelle teilweise mehr als zehn Grad (10°C!) voneinander abweichen. Das lässt, auch laut Dr. Nakamura, jede Prognose zur Eisbedeckung der Arktis wie Kaffeesatz-Leserei erscheinen. In der Klimaforschung hat ein Prozess des Umdenkens begonnen. Als Sackgasse erweist sich hier die den aufwändigen und dennoch wenig zuverlässigen mathematischen Klimamodellen zugrunde liegende Vorstellung vom „Treibhaus Erde“. Denn die Beweislage in Sachen Klimaentwicklung ist bei weitem nicht so eindeutig, wie interessierte Kreise vorgeben.
+Schon die Angaben über die möglicherweise mit dem CO2- Anstieg zusammenhängende Entwicklung der Durchschnittstemperatur über den Landflächen des Globus sind äußerst umstritten, denn sie stützen sich auf ein Netz meteorologischer Messstationen, das nicht zum Zwecke der Klimaforschung, sondern für die regionale Wetterbeobachtung, zum Beispiel in der Umgebung von Großflughäfen eingerichtet wurde. Die Messstationen befinden sich deshalb überwiegend in der Nähe großstädtischer Wärmeinseln. Es ist wohl kein Zufall, dass die insgesamt zuverlässigeren Satellitenmessungen für die letzten Jahrzehnte keinen eindeutigen Temperaturtrend zeigen. Angesichts dieser Datenlage wäre es naiv, den ausschließlich mit Computerberechnungen und nicht mit der Erhebung von Messdaten befassten Klimaforschern kein Eigeninteresse zu unterstellen, zumal es dabei um beträchtliche Summen öffentlicher Forschungsgelder geht. Statt sich von Computersimulationen blenden zu lassen, ist es deshalb an der Zeit, die Monopolstellung, die Computermodelle in der Debatte um die richtige Klimapolitik“ erlangt haben, kritisch zu hinterfragen. Dabei hilft auch Schulwissen und gesunder Menschenverstand.
+Für mich müssten erst einmal die wichtigsten Klimamodelle mithilfe statistischer Methoden auf den Grad ihrer Übereinstimmung mit Messdaten überprüft werden.
+Welche Satellitenmessungen? Habe ich jetzt schon öfter gelesen. Aber die von mir gesichteten Satellitendaten (Roy Spencer, REMSS) bestätigen das leider nicht. Zumindest bei REMSS haben da offenbar auch „Adjustierungen“ mitgewirkt…
+Zum Artikel selbst: Danke für die Bewölkungsdaten in Abb. 10! Vermehrte Sonneneinstrahlung, vermutlich, wie auch im Artikel für möglich gehalten, mittels Svensmark-Effekt zu erklären, passen doch bereits für sich genommen wunderbar mit der Temperaturentwicklung in dem betrachteten Zeitraum zusammen!
+Schon abenteuerlich, wenn die Klimamodelle da die Wirkungskette höhere Temperaturen (natürlich aufgrund anthropogener CO2-Zunahme) – mehr Wasserdampf und dann auch noch weniger Wolken als positive Rückkopplung zusammenwursteln. Wirkt so, als würde man das physikalische Unverständnis bei der Wolkenbildung für total abwegige Konstrukte nutzen, um auf Biegen und Brechen das vorgegebene CO2-Alarm-Szenario zu erzeugen! Ist ja n o c h schlimmer als ich befürchtet hatte!
+Es kann nur die Bewölkung sein, die das System seit Milliarden von Jahren stabilisiert! Höchst verdienstvoll, dass dies der Autor mittels sorgfältiger Untersuchungen nachweist!
+Das Tragische dabei: Ein Klimadogma, verkündet von den Klimapäpsten des IPCC und frenetisch befolgt und fanatisch verteidigt durch Politik, Medien, der Straße und zahllosen Geldanlegern, gerät dadurch nie und nimmer ins Wanken! Hat aber alle Attribute, um zu einer Jahrtausend-Lachnummer zu werden!

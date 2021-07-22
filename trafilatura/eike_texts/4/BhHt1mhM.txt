@@ -1,0 +1,96 @@
+Der 25. Solarzyklus ist im Oktober mit einer starken Entwicklung der Sonnenflecken in Erscheinung getreten. Lag die Sonnenfleckenzahl im September noch bei 0,7, belief sie sich im Oktober schon bei 14,4. Es wird nun spannend, zu verfolgen, ob der Zyklus so schwach wird, wie prognostiziert.
+Die Energiewende wird an der Windenergie scheitern
+Die Ziele der deutschen Energiewende sind energiepolitisch schlicht: Nach dem Ausstieg aus der Kernenergie bis 2022 folgt der Ausstieg aus der Kohle bis 2035, parallel und vollständig bis 2050 erfolgt der Verzicht auf Öl und Gas. Die Energie für Strom, Wärme, Mobilität und Industrielle Prozesse des klimaneutralen Deutschland sollen geliefert werden durch Windenergie, Solarenergie und wenige Prozente an Wasserkraft und Biomasse, so jedenfalls die Pläne der Bundesregierung, die von allen wesentlichen gesellschaftlichen Akteuren unterstützt werden.
+Ist das realistisch?
+Heute liefern Wind und Photovoltaik etwas weniger als 30 % der 600 Terawattstunden an Strom (1 Terawattstunde Twh sind 1 Milliarde Kilowattstunden Kwh). 126 Twh liefert die Windenergie und 46 Twh die Photovoltaik.
+Für 600 TWh werden bei gleichem Mix 439 Twh Wind und 161 Twh Solar benötigt. Wir nehmen der Einfachheit halber an, dass diese Menge an Strom mit den größten Anlagen, nämlich 5 Megawatt-Anlagen erzeugt werden solle, die in einem Abstand von 1000 m platziert werden. Bei einem Jahresnutzungsgrad von 25 % produziert eine Anlage durchschnittlich 5 MW x 0,25 x 8760(Stunden) = 10950 Mwh =0,01095 Twh. Für 439 Twh benötigt man also 40 000 Anlagen. Dafür benötigt man eine Fläche von 200 km x 200 km.
+Aber wir sind noch nicht am Ende.
+Die Windenergie wird produziert, wenn der Wind bläst, nicht wenn der Verbraucher ihn benötigt. Bei einer Stromversorgung in Deutschland, die sich allein auf volatile Quellen stützt, können 36 % des jährlich erzeugten Stroms direkt verbraucht werden (Quelle: Dr. Ahlborn). Der Rest ist Überschusstrom, der gespeichert werden muss. Hier bietet sich aus wirtschaftlichen Gründen allein die Speicherung in Wasserstoff an. Dazu müssen eine gigantische Zahl an Elekrolyseuren errichtet werden. Es ist aber völlig unwirtschaftlich, die Kapazität nach den extremen Spitzen der Starkwindereignisse zu dimensionieren, daher müssen etwa 12 % der Windenergie abgeregelt werden. So verbleiben 52 % des erzeugten Stromes, der in Wasserstoff gespeichert werden kann. Durch Elektrolyse von Wasserstoff, Speicherung/Methanisierung und Rückverstromung bleiben von den 52 % nur 15,6 % übrig. Die Kette erzeugt einen Verlust von 2/3 der eingesetzten Strommenge.
+36 % plus 15,6 % ergeben rd. 50 % des erzeugten Windstroms, die nutzbar sind. Wir brauchen also doppelt so viele Anlagen. Die Fläche für die 80 000 Windkraftanlagen beträgt 80 000 km², das entspricht einer Fläche von sind 283 km x 283 km.
+Aber wir sind noch nicht am Ende.
+Bislang haben wir mit 2 x 439 Twh nur den Strombedarf, aber nicht Verkehr und Wärmeversorgung abgedeckt.
+Auch beim Verkehr (heute 600 Twh) und Wärme(heute 1200 Twh) gibt es Speicher- und Umwandlungsverluste, wenn der dafür notwendige Strom durch Wind und Solar erzeugt wird.
+Wir betrachten hierfür nur noch den Wind, denn bei der Photovoltaik ist der Jahresnutzungsgrad mit 10 % Jahresvolllaststunden deutlich kleiner und der Flächenverbrauch um ein Vielfaches höher.
+Wir nehmen zugunsten der Energiewendeplaner an, dass der Verkehr tatsächlich durch Batterieautos erfolgen kann, woran füglich gezweifelt werden kann. Schwerlastverkehr, Schiffsverkehr oder den Flugverkehr auf Strom umzustellen, ist schon abenteuerlich. Eher werden hier synthetische Kraftstoffe eingesetzt werden müssen. Aber auch hier ist die Strombilanz vernichtend. Wie Detlef Ahlborn zeigen konnte, verbraucht allein der Frankfurter Flughafen vor Corona 14,7 Millionen Liter Kerosin am Tag, das sind umgerechnet 4,3 Millionen Tonnen im Jahr. 4,3 Millionen Tonnen Kerosin entsprechen einem Energiewert von 47 Twh. Wollte man Kerosin aus Strom mit Hilfe von Wasserstoff synthetisieren (angenommener Wirkungsgrad 50 %) , werden also 100 Twh Strom benötigt. Allein für den Frankfurter Flughafen also fast so viel, wie die deutsche Windenergie heute erzeugt (126 Twh).
+Wir nehmen zugunsten der Energiewende-Vertreter an, dass sich sämtlicher Verkehr mit Strom durchführen lässt und somit nur ein Viertel der heute von 600 Twh verbrauchten Energiemenge benötigt wird (da Stromautos um diesen Faktor effizienter sind) So werden aus 600 Twh 150 Twh. Wir wollen allerdings auch Auto fahren, wenn kein Wind weht. Daher muss auch dieser Strom, wie oben gezeigt, größtenteils über die Kette Wasserstoff, Speicherung, Wiederverstromung geführt werden, so dass sich der Strombedarf verdoppelt: 300 Twh.
+Wir nehmen weiter an, dass sich der heutige Wärmebedarf von 1.200 Twh durch Elektrifizierung (Wärmepumpe) auch auf ein Viertel reduzieren lässt, so dass auch hier wegen der notwendigen Zwischenspeicherung des Windstroms über Wasserstoff die notwendige Verdoppelung der Windenergie zu 600 Twh führt. Nützt man synthetisches Gas aus Windstrom/Wasserstoff/Gas direkt, kommt man zu einer noch schlechteren Ausbeute, da hier die Effizienz der Wärmepumpe wegfällt.
+Verkehr und Wärme führen also im günstigsten Fall zu einem Windstrombedarf von 900 Twh. Das ergibt einen Flächenbedarf von weiteren 80 000 km², so dass wir bei 160 000 km² angekommen sind.
+Aber wir sind noch nicht am Ende, denn der schwierigste Teil ist noch ungelöst.
+Die Prozessemissionen aus Stahl-, Chemie- und Zementindustrie (10 % des CO2-Ausstoßes) erfordern nach Schätzungen der Industrie 600 Twh. Das ist leicht nachvollziehbar, wenn man sich an das obige Beispiel des Frankfurter Flughafens erinnert. Und Kunststoffe, Pharmaka, Dämmstoffe, Farben, Lacke, Klebstoffe, Wasch-und Reinigungsmittel sind dann nur noch auf dem Wege CO2 plus Wasserstoff herstellbar.
+Der Ersatz der industriellen CO2-Emissionen führt somit noch einmal zu 55 000 km² Windkraftanlagen, so dass wir bei 215.000 km² angekommen sind. 2/3 von Deutschland sind nun in einem Abstand von 1000m mit 200 Meter hohen Windkraftanlagen bestückt, egal ob da eine Stadt steht, eine Fluss oder eine Autobahn verläuft, ob es dort einen Wald, einen See oder ein Naturschutzgebiet gibt.
+Können wir uns, kann die Politik sich ein solches Deutschland vorstellen?
+Wer wissen will, welche Auswirkungen Windkraftwerke in großer Zahl auf das Aussterben von Greifvögeln, Fledermäusen, dem Rückgang von Insekten schon heute haben, kann dies in unserem Buch „Unerwünschte Wahrheiten“ nachlesen. Dort findet er auch die verschwiegene Tatsache, dass Windparks zu einer erheblichen Erwärmung in ihrem Einwirkungsgebiet führen von etwa 0,5° Celsius, da die rotierenden Flügel der Windkraftanlagen das starke Temperaturgefälle in der Nacht ausgleichen und wärmere Luft zurück zum Erdboden schaufeln. Zahlreiche Studien belegen eine erhebliche Austrocknung der Böden in den Windfeldern.
+Doch die Politik verweigert die Diskussion über die Umweltverträglichkeit eines massiven Ausbaus der Windkraftanlagen. Kürzlich hat der Deutsche Bundestag beschlossen, dass bei Klagen gegen Anlagen, die höher als 50 Meter sind, die sogenannte aufschiebende Wirkung von Widerspruch und Anfechtungsklage entfällt. So kann Deutschland ohne lästigen Widerspruch zu einem einzigen großen Windfeld gemacht werden.
+Es ist fast überflüssig darauf hinzuweisen, daß wir über astronomische Kosten sprechen. Elekrolyseure und Power-to-gas-Anlagen sind ja nicht kostenlos zu betreiben. Aus heutiger Sicht muss mit einem zehnfach höheren Strompreis gerechnet werden.
+Die Folgen für Arbeitsplätze und Wohlstand kann sich jeder selbst ausmalen.
+Ich schlage vor, wir probieren einfach, wie weit wir mit dem Ausbau Erneuerbarer Energien kommen. Ein Anteil Erneuerbarer Energien von weit über 50 % bei der Stromversorgung wurde doch ebenfalls vor wenigen Jahrzahnten als völlig unmöglich dargestellt. Heute ist das in Deutschland fast schon der Regelfall.
+Also keine Sorge vor der Zukunft. Alles wird noch besser.
+Silke Kosch
+Ich schlage vor die Windquirrle dort aufzustellen, wo die meisten Ökodeppen wohnen: direkt in den Städten.
+Was ist das für eine Aussage wenn man sich die Messweste von DWD für Oktober bedrachtet, stellt man fest das bei den 10 wärmsten Oktober ab 1881 bereits 4 von den 2000er Jahre dabei sind, 2007, 2008, 2018 und 2020.
+Nun könnte man sagen „Wärmeinseleffekt“ und der Mensch heizt seine Messtationen durch die in der Umgebung vorhandene beheizte Bebauung auf.
+Nur ist der Primärenergieverbrauch in Deutschland ab ca. 2005 leicht rückläufig somit auch die Freisetzung menschengemachter Wärme in die Umgebung.
+https://www.umweltbundesamt.de/daten/energie/primaerenergieverbrauch#entwicklung-und-ziele
+Januar +0,77, wärmste
+Februar +0,8, in Europa +3,9, global zweitwärmster
+März +0,68, zweitwärmster nahezu gleichauf mit März 2016
+April +0,70, wärmste gleichauf mit 2016
+Mai +0,83, wärmster
+Juni +0,53, zweitwärmster
+Juli +0,49, drittwärmster
+August +0,44, viertwärmster
+September +0,63, wärmster
+Oktober +0,62, drittwärmster.
+Wenn jemand handfeste Indizien hat, dass diese Werte allesamt manipuliert, gefälscht, auf falscher Grundlage erhoben oder sonstwie unbrauchbar sind, dann werde ich mich hier zum Thema Klima nicht mehr äußern.
+das die Temperaturen seit Jahren ansteigen ist doch kein Geheimnis und das das CO2 da die treibende Kraft ist kann man doch leicht selbst testen.
+Das die Daten von Copernikus und auch vom DWD passen ist doch auch unstrittig.
+Beim DWD kann man ja auch selbst mit sehr einfachen mitteln überprüfen ob die einzelne Messtation die korrekte Temperatur messen und mit in die Statistik einfließt.
+Der DWD hat ja in jeder Messtation zwei Temperaturmessungen und diejenige mit der Niedrigstehen Temperatur wird in die Statistik aufgenommen.
+Weshalb zwei Temperaturmessungen?
+1. Wenn ein Messsystem ausfällt man noch die Daten von anderen hat.
+2. Wenn es zu Abweichungen kommt erkennt man das eines der Messsystem schadhaft ist.
+Dieser Herr will über seinen behaupteten anthropogen Klimawandel durch CO₂ eine Legitimation für Kernkraft erwirken.
+Niemand hat etwas gegen Kernkraft.
+Nur die von ihm behauptete Verbrennung der Erde, wegen des anthropogen eingebrachten CO₂ und die Notwendigkeit dieses „Lebensgas“ zu verklappen, ist nicht nachvollziehbar.
+Man betrachte einfach den Trend der Klimasensitivität über die Jahre, und das von den schlimmsten Vertretern dieser Kaste – selbst bei denen ist, langsam aber sicher, die Luft für dieses Argument heraus.
+Wie bei jeder Wandlung von Energie – hier kinetische Energie der Luftmolekühle (Wind mit Masse der Moleküle und Geschwindigkeit) in mechanische Energie (Rotation mit Drehzahl und Drehmoment) – entstehen auch hier Verluste. Für dreiflügelige Windräder (es sind dies alles andere als Turbinen) liegt der Wirkungsgrad dieser Energieumwandlung rund bei 40%. Aus 100% kinetischer Energie des Windes werden also 40% in mechanische Energie und diese wiederum unter weiteren Verlusten in elektrische Energie umgewandelt. 60% der Arbeit des Windes sind bereits Verluste und Verluste sind auch beim Wind im Endzustand Wärme.
+Jedes sich drehende Windrad heizt also grundsätzlich die Atmosphäre durch die mit der Wandlung „Windenergie in mechanische Energie“ verbundenen Verluste mit einem größeren Betrag auf, als es Nutzen erzeugt.
+Solche physikalischen Zusammenhänge sind natürlich nichts für Politiker, Herrn Trittin oder unser Pseudo-Physikerin als Bundeskanzlerin. Dabei schickt allerdings der Wind auch für die unerwünschte und nachteilige Erwärmung der Atmosphäre keine Rechnung!
+Es ging mir darum darzustellen, dass elektrische Energie aus Windrädern längst nicht so umweltfreundlich ist, wie es oft unbedarft dargestellt wird. Also, Windräder verhalten sich nicht besser als Kohlekraftwerke, sie erzeugen beide im Betrieb Verlustwärme und haben sogar gemeinsam, dass weder Wind noch Kohle Rechnungen schicken. Mein Apfelbaum schickt übrigens auch keine Rechnung. Und wenn man an das so schädliche CO2 glaubt, ist auch das Windrad bei seiner Erstellung samt 1000 Tonnen Betonfundament und Stahlarmierung nicht CO2-frei. Ob das Greta oder Luisa in etwa rechnen können, bezweifle ich.
+Herr Peter Puschner, Prof. Dr.-Ing.
+Strom aus Windkraftanlagen haben die mit Abstand geringsten Umweltbelastungen das wurde bereits in verschiedenen Studien und Untersuchungen ermittelte und das nicht nur in Deutschland auch weltweit kommen diesen Ergebnis.
+Auch das was Sie bringen mit den Betonfundament und Stahlarmierung also dem Materialeinsatz ist Quatsch.
+Eine Windkraftanlage liefert in unter 1 Jahr mehr Energie als für den Bau und betrieb aufgewendet werden musste.
+Ein Kohlekraftwerk kann niemals mehr Energie den Menschen liefern als der Mensch für den Bau und betrieb bereitstellen muss.
+Nur bringen die Kohlekraftwerke zusätzliche Wärme, Energie und Wasserdampf in die Umgebung die seit Millionen von Jahren in der Kohle gespeichert ist.
+Ein Windrad kann niemals mehr Wärme, Energie in die Umgebung abgeben als in der Luftströmung bereits vorhanden ist.
+Und zu mindeste mir ist bekannt das die Energie vom Wind am ende hauptsächlich durch „Reibung“ zu Wärmer wird, mit oder ohne Windkraftanlage.
+Herr Burger,
+die Windkraftanlagen können nicht zusätzlich erwärmend wirken. Die im Wind vorhandene Energie kann man ja nicht erhöhen nur einen Teil wird bei den Windkraftanlagen im Stromlabel als elektrische Energie abgeführt.
+Bei den Fossilen Kraftwerken werden für 1kWh Strom noch zusätzlich ca. 2kWh an Wärme freigesetzt.
+Noch schlimmer ist das die Wärme zum größten Teil als Wasserdampf freigesetzt wir und Wasserdampf verstärkt noch den Temperaturanstieg.
+https://www.eike-klima-energie.eu/2017/01/19/10-ikek-die-achilles-ferse-der-klima-modelle-wasserdampf-verstaerkung/
+oder
+https://www.eike-klima-energie.eu/2012/06/03/neue-studie-wasserdampf-rueckkopplung-ist-stark-negativ/
+Deshalb sind auch Kernkraftwerke keine Option wenn man den Temperaturanstieg begrenzen möchte.
+Dann ist doch eine Veröffentlichung beim Europäisches Institut für Klima & Energie eine Fake-News.
+Herr Dr. Roland Ullrich 6. November 2020 um 20:53 schreibt bei EIKE.
+„Zunahme des Wasserdampfes zulassen, also eine positive Wasserdampf-Rückkopplung.“
+Dr. Roland Ullrich 2. November 2020 um 14:11
+„Und wenn man wie in seiner Arbeit bei höherer Temperatur mehr Wasserdampf in der Atmosphäre erwartet, dann erhält man natürlich eine positive Wasserdampf-Rückkopplung“
+von Richard Lindzen 26. Mai 2020
+„Der Wasserdampf behindert ganz wesentlich Infrarotstrahlung, die die Erdoberfläche verlassen will, was dazu führt, dass sowohl die Oberfläche und (durch Energieübertragung) auch die Luft in Oberflächen-Nähe aufgeheizt wird“
+Deshalb sind auch Kernkraftwerke keine Option wenn man den Temperaturanstieg begrenzen möchte.
+Tatsächlich befürchte ich, der Klimawahn (wie schon Atomangst und Waldsterben) steckt uns Deutschen tief in den Genen. Sogar, wenn es an das „Heilige Blechle“ geht, wird kein bisschen gemurrt. Wo steuert das Land hin? Deutsche Romantik und Mittelalter? Die Menschheit schrumpft, der Planet wird „gerettet“, es winkt das grüne Paradies…
+Currently: 57.28°F/14.04°C
+Deviation: 0.08°F/0.04°C
+Stations processed last hour: 80902
+Last station processed: Yongsan, South Korea
+Update time: 2020-11-17 14:00:44 UTC
+Und es wurde noch nicht einmal erwähnt, dass sich die Windräder, je größer die Anzahl und damit ihre Nähe zueinander ist, gegenseitig den Wind wegnehmen. Zudem sind die windhöffigsten Gebiete bereits belegt, was dazukommt, wird in immer schwächeren Windzonen gebaut.
+Man kann also durchaus annehmen, dass die Anzahl der Windräder noch weit unterschätzt wird, da kommen schätzungsweise noch mal 50% dazu.
+Also ihr grünwählenden Städter, auch ihr werdet nicht verschont bleiben, das Luxuswohngebiet Stuttgart-Killesberg eignet sich hervorragend für die Vogelschredder.
+Aber natürlich wird es nie soweit kommen, spätestens nach den ersten tagelangen Blackouts werden die ersten Unbelehrbaren dazulernen müssen. Es wird schmerzhaft, aber heilsam werden, auch wenn die Hardcore-Klimakämpfer es dann auf die wenigen noch vorhandenen Kohlekraftwerke schieben werden.
+Wenn ich diese bescheuerte Idee mit Dekarbonisierung ohne Kernkraft bis 2050 besonders in Talkshows von Politikern vorgetragen sehe, denke ich: Lebe ich in einem Paralleluniversum oder träume ich und möchte schnell wieder aufwachen!
+Werner Burger schrieb am17. November 2020 um 12:14
+In den Kopernikus-Daten ist es global der „drittwärmste“ Oktober, beim hier im Artikel gezeigten UAH-Datensatz der „zweitwärmste“ nach 2017. Von den 10 „wärmsten“ sind 7 in den letzten 10 Jahren, 1998, 2003, 2005 sind 6. bis 8.

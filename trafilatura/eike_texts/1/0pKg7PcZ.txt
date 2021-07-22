@@ -1,0 +1,344 @@
+Auswertung Windstromerzeugung 2014
+Die Auswertung der Anlagendaten ergibt zu Jahresbeginn 2014 einen Bestand von 396 Windrädern mit 675 MW Nennleistung. Im Mai 2014 wurde eine WKA mit 3 MW Nennleistung neu errichtet, so dass sich am Jahresende ein Bestand von 397 Windrädern mit 678 MW Gesamt-Nennleistung ergibt.
+Alle WKA in Baden-Württemberg erzeugten 2014 insgesamt 699.564 MWh Strom. Das entspricht einer jahresdurchschnittlichen Windstromeinspeisung von 79,9 MW oder 11,8% Verfügbarkeit der installierten Gesamtkapazität von jahresdurchschnittlich 676,9 MW. Im Jahresverlauf ergaben sich somit 1033,8 Volllaststunden. Das ist zwar eine erheblich höhere Erzeugung gegenüber dem windschwachen Vorjahr (809,5 Vollaststunden), im Vergleich zum restlichen Bundesgebiet erzeugte ein Windrad in Baden-Württemberg aber nur wenig über zwei Drittel (1482,5 Stunden nach Fraunhofer, ISE) der Leistung, die die gleiche WKA im restlichen Bundesgebiet erzeugt hätte.
+Die monatliche Stromerzeugung varierte zwischen 27.179 MWh im September und 113.841 MWh im Dezember. Die Einspeiseleistung bewegte sich zwischen 0 MW (Windstille), was in jedem Monat vorkam, und 569 MW (= 83,9%), die am 11. Dezember 22:15 und 20. Dezember 17:45 erreicht wurden. Die Windeinspeisung verteilt sich im Detail wie folgt auf die einzelnen Monate:
+Tabelle 1: Installierte Windräder und Windstromerzeugung 2014
+Soll Windstrom eine Versorgungsaufgabe in der Energiewirtschaft übernehmen, muss eine feste Einspeiseleistung, beispielsweise die jahresdurchschnittliche Einspeiseleistung von 79,9 MW für jeden Zeitpunkt des Jahres sichergestellt werden (Grundlast). Aktuell gleichen in Schwachwindzeiten konventionelle Kraftwerke fehlenden Windstrom aus. Herrscht umgekehrt ein Überangebot an Windstrom, muss dieser an der Strombörse in Leipzig europaweit veräußert werden.
+Die als eigentliches Ziel der Energiewende formulierte Einsparung von CO2 kann aber nur möglich werden, wenn die Glättung des schwankenden Windstroms an den Bedarf nicht mehr durch fossile Kraftwerke sondern durch Speicherung überschüssigen Stroms erfolgt. Die einzige derzeit für Großanlagen verfügbare Technologie sind Pumpspeicherwerke. Aufgrund ihres großen Platzbedarfs sowie der hohen Herstellungskosten und gravierenden Natureingriffe sind sie aber ungeeignet und neue Speichertechniken für großtechnischen Einsatz werden gesucht. Ob und wann solche Stromspeicher in der erforderlichen Menge verfügbar sein könnten, ist derzeit nicht abzusehen.
+Um den Speicherbedarf zum Ausgleich der Schwankungen des Windstroms zu bestimmen, müssen ständig Einspeisung und gewünschte gesicherte Versorgung verglichen und die Abweichungen addiert werden. Der monatlich saldierte Wert ist in der Tabelle als ‘Kumulierter Speicherbedarf’ und als Graph in Diagramm 2 widergegeben. Der größte Füllstand des Speichers ergab sich nach dem windreichen Frühjahr am 14. Mai 19:30 mit 52.069 MWh, das größte Defizit bestand nach dem windschwachen Herbst am 10. Dezember um 6:00 mit -68482 MWh. Um eine autarke Windstromversorgung sicherzustellen, wäre in 2014 also ein Stromspeicher mit einer Kapazität von 120.551 MWh Kapazität erforderlich gewesen. das sind 17,2% der gesamten Windstromerzeugung.
+Windstromeinspeisung 2014
+Diagramm 1: Windstromeinspeisung (rot) und installierte Nennleistung (grün) im Verlauf 2014
+Kumulierter Speicherbedarf Windstrom 2014
+Diagramm 2: Speicherbedarf zur Sicherung der mittleren Jahreseinspeiseleistung 79,9 MW
+Betriebsstunden nach Windstromleistung
+Da Stromspeicher in der notwendigen Größe auf unabsehbare Zeit nicht verfügbar sein werden, ist in Tabelle 2 die Anzahl der Betriebsstunden zusammengestellt, in denen Windstrom bestimmte Quoten der installierten Kapazität erreicht. Hier ist zu ersehen, dass konventionelle Kraftwerke auch weiterhin die meiste Zeit des Jahres fehlenden Windstrom ausgleichen müssen.
+339,75 Stunden (= 14,2 Tage = 3,9%) waren windstill (0 MW), es wurde kein Windstrom erzeugt.
+1403,50 Stunden (= 58,5 Tage = 16,0%) blieb die Einspeiseleistung unter 7 MW (1%).
+3614 Stunden (= 5 Monate = 41,3%) blieb die Erzeugung unter 5% und
+5308 Stunden (= 7,4 Monate = 60,6%) blieb Windstrom unterhalb 10% der Nennleistung.
+An nur 294,3 Stunden (3,4%) übertrafen die Windräder in BaWü 50% der installierten Leistung:
+Tabelle 2: Betriebsstunden der verschiedenenen Windstromeinspeisungsleistungen 2014
+Diagramm 3:Betriebsstunden der verschiedenenen Windstromeinspeisungsleistungen 2014
+Abschließende Betrachtungen
+In Diagramm 1 fällt auf, dass mit Ausnahme des September und November in jedem Monat mehrtägige Zeiten mit besonders starker Windstromerzeugung sich mit mehrtägigen Phasen sehr geringer Windstromausbeute abwechseln. Besonders ausgeprägt sind diese Gegensätze im April, Oktober und vor allem im Dezember 2014. Hier wird nach zunächst 10 Tagen weitgehender Flaute in knapp 3 Wochen ein in über 3 Monaten seit Anfang September aufgebautes Windstromdefizit wieder abgebaut. Diese Zeiten mit stark abweichender Windstromerzeugung vom Jahresdurchschnitt sind auch deutlich an großen Änderungen der Speicherbedarfskurve in Diagramm 2 zu erkennen.
+Diagramm 2 liefert aus der Differenz zwischen dem größten Stromspeicherdefizit und -überschuss den Gesamtspeicherbedarf, der erforderlich wäre, damit die Windkraftanlagen Baden-Württembergs gesicherte 79,9 MW Stromerzeugungsleistung bereitstellen könnten. Im Januar, Februar, März, Mai und Dezember lag die monatliche Windstromproduktion teils erheblich über dem Jahresmittel; im April und von Juni bis November lag sie durchgängig darunter. Infolge solcher langandauernden Abweichungen der Monatsproduktion vom Mittel ergab sich für 2014 ein Stromspeicherbedarf von 120.551 MWh, was über 1/6 der gesamten Windstromerzeugung des Jahres entspricht.
+Diagramm 3 zeigt die windstrom-typische Leistungs-Zeit-Verteilung. Es fällt auf, dass Windkraft die überwiegende Zeit des Jahres nur sehr geringe Leistungen erzeugte. Über 60% der Zeit lag die Einspeisung unter 10% der Nennleistung und nur 3,4% der Zeit übertraf sie die halbe Nennleistung. Die meist schwache Windstromerzeugung wird auch daran deutlich, dass die jahresdurchschnittliche Einspeiseleistung von 79,9 MW nur 11,8% der insgesamt installierten Nennleistung der Winddräder entspricht. Das ist gleichbedeutend mit 1033,8 Volllaststunden, mit denen die Windstromausbeute in Baden-Württemberg 2014 zwar erheblich über dem windschwächeren Vorjahr mit 809,5 Volllaststunden lag, sie blieb aber weit unter dem Durchschnitt von 1482,5 Volllaststunden (16,9%) für alle Windkraftanlagen in Deutschland (nach Fraunhofer Institut ISE, www.ise.fraunhofer.de).
+Um Windstrommangel mit den Überschusszeiten zu bedarfsgerechter Stromerzeugung zu glätten, werden Stromspeicher benötigt, die nach Abzug der Wirkungsgradverluste 120 GWh Kapazität bereitstellen. Das ist eine Strommenge, die der 12fachen Kapazität des Schluchsee-Kraftwerks (10.000 MWh) oder der 600fachen Kapazität der Schwarzenbach-Talsperre (200 MWh) entspricht.
+Pumpspeicher
+Um bei 80% Wirkungsgrad moderner Pumpspeicherwerke die jahresdurchschnitttliche Windleistung zu sichern, muss die Windleistung um 10% erhöht werden. Dies erfordert den Bau weiterer rund 30 Windräder mit 67,7 MW Leistung für 135 Millionen Euro, die die Speicherverluste ausgleichen. Für den überschüssigen Windstrom müssen dann noch 10 PSW von der Größe des geplanten PSW Atdorf (Kapazität 13 GWh, 1,6 Milliarden Euro, www.schluchseewerk.de/index.php/projekt-atdorf) also Gesamtkosten von rund 16,1 Milliarden Euro aufgewendet werden. Das ist der fast 12fache zusätzliche Investitionsaufwand, den der Bau der Windräder selbst erfordert hat. Die bedarfsgerechte Glättung des für sich alleine nicht netztauglichen Windstroms mit Pumpspeicherwerken würde diesen also auf das 13fache verteuern!
+Li-Akkumulatoren
+Soll die Glättung mit verlustfrei angenommenen Akku-Speichern wie der kürzlich vorgestellten ‘Ökostrombatterie’ in Schwerin (25.000 Li-Ion-Akkus, 5 MWh Kapazität, 6 Millionen Euro, www.wemag.com) erfolgen, wären 24.110 solcher Anlagen mit Gesamtkosten von 144,7 Milliarden Euro erforderlich! Die extremen Kosten dieser Anlagen spiegeln die von Akkumulatoren bekannte geringe Energie-Effizienz wider. Ein Kommentar über die Sinnhaftigkeit solcher Speicher, die die Windstromkosten also auf das über 100fache steigern würden, erübrigt sich. Überlegungen zur Plausibilität hätte man auch im Bundeswirtschaftsministerium anstellen können, bevor man eine derart energie-ineffiziente und sinnlose Anlage mit 1,3 Millionen Euro Steuergeld subventionierte.
+Windgas:
+In jüngerer Vergangenheit wird zur Stromspeicherung ein ‘Windgas’ oder ‘Power-to-Gas’ genanntes Verfahren vorgeschlagen. Überschüssiger Windstrom soll durch Elektrolyse in synthetisches Methan gewandelt werden, das im Erdgasnetz zwischengespeichert und bei Windstrommangel in Gas- Kraftwerken rückverstromt werden kann. Es ist jedoch zu beachten, dass bei dem gesamten Prozess selbst unter idealen Bedingungen prinzipiell nur ein Wirkungsgrad von 33% erreicht werden kann. Um die jahresdurchschnittliche Windstromleistung von 79,9 MW zu sichern, müsste deshalb zunächst die Windstrom-Nennleistung um weitere 338,5 MW vereineinhalbfacht werden, was eine Investition von knapp 0,7 Milliarden Euro erfordern würde. Der Bedarf an Anlagen zur P2G-Synthetisierung ergibt sich dann aus der Differenz zwischen der zu sichernden Grundleistung (79,9 MW) und der größten Windstromeinspeisung (569 MW x 1,5) zu 774 MW. E.ON betreibt im brandenburgischen Falkenhagen eine P2G-Pilotanlage (www.powertogas.info). Der Betreiber schätzt, dass bei großtechnischer Umsetzung solche Anlagen mit 2,5 Millionen Euro je MW realisierbar wären. Das würde weitere 2 Milliarden Euro Investition für die Windgaserzeugung erfordern. Da man für die Speicherung auf die bestehende Infrastruktur des Erdgasnetzes zurückgreifen kann und nur wenige Erdgas-Speicher neu errichten müsste, scheint mit den zusätzlichen noch zu installierenden Gas-Kraftwerken mit 79,9 MW Leistung ein gesamtes Investitionsvolumen möglich, das unter idealen Voraussetzungen eine Vervierfachung der Windstromkosten bedeutete. Damit könnte Windgas großtechnisch tatsächlich die günstigste Stromspeichertechnik werden, dennoch sind solche Kosten auf unabsehbare Zeit wirtschaftlich nicht zu bewältigen und belegen, dass auch dieses Verfahren energie-ineffizient ist, denn hohe Kosten sind immer eine Folge geringer Effizienz.
+Windstrom kann aus diesem Grund auf unabsehbare Zeit keinen Beitrag zum Ersatz konventioneller Kraftwerke leisten. Diese bleiben unverzichtbar – laufen durch die stark schwankende Einspeisung von Windstrom aber zunehmend unwirtschaftlicher, so dass der Aufbau der doppelten (Wind-)Strominfrastruktur tatsächlich nur große Mengen an Ressourcen und Energie vernichtet.
+Wie unwirtschaftlich und folglich energie-ineffizient Windstrom tatsächlich ist, wird deutlich, wenn man den enormen Investitions-Aufwand für Windkraftanlagen und ihren riesigen Flächenverbrauch mit dem neuen hochmodernen Block 8 des Karlsruher Steinkohlekraftwerks vergleicht. Diese Anlage benötigt weniger als 100 Hektar Anlagen-Fläche und ist direkt im Ballungsgebiet gelegen, wo das Gros der Energie gebraucht wird. Das Kraftwerk wurde für 1,2 Milliarden Euro errichtet, was in etwa auch der Investition für die 397 Windräder (676,9 MW, 1033,8 Volllaststunden in 2014) Baden-Württembergs entspricht. Das RDK8 verfügt über 912 MW Strom- und 220 MW Fernwärme-Erzeugung und kann in über 8000 Volllaststunden mehr als 9.000.000 MWh Strom und Fernwärme im Jahr erzeugen. Es liefert damit die über 13fache Energiemenge, die die 397 Windräder Baden-Württembergs im Jahr 2014 erzeugt haben.
+Um die Jahresenergiemenge des RDK8 mit Wind herzustellen, müsste man bei äußerst optimistischer Annahme von 2000 Volllaststunden 1875 Windräder ‘Modell Straubenhardt’ (2,4 MW, 5 Mill. Euro) errichten. Das würde mit 9,3 Milliarden Euro den fast 8fachen Investitionsaufwand und einen Flächenbedarf von 187.500 Hektar Wald mit 37,5 Millionen zu fällenden Bäumen bedeuten!
+Strom und Fernwärme aus dem RDK8 werden planbar und bedarfsgerecht erzeugt. Damit auch Windstrom versorgungssicher wird, brauchen Windräder Kohle- oder Gaskraftwerke zum Ausgleich. Die Kraftwerke aber laufen als Lückenbüßer in verschwenderischem Stotterbetrieb. Windkraft erspart deshalb weder konventionelle Kraftwerke noch deren Brennstoff! Dies ließe sich erst vermeiden, wenn Strom-Speicherung zum Einsatz käme. Bei Windgas müsste dann die Zahl der Windräder wegen der Wandlungsverluste auf 2813 WKA ausgebaut werden. Insgesamt vervierfachten sich die Kosten der Windstrom-Investition so auf 37 Milliarden Euro. Trotz des kaum noch zu bewältigenden Flächenbedarfs von 2813 Windrädern auf die 36.000 km2 Landesfläche, also eine gleichmäßige Bedeckung des Landes mit 200m hohen Windrädern im Abstand von je 3,5 km, wäre damit erst 1/5 des Strombedarfs von 45 TWh von Baden-Württemberg gedeckt. Die gleiche Versorgungsleistung erbringt alleine das 1,2 Milliarden Euro billige RDK8.
+Anmerkung:Hier finden Sie das Datenmaterial für eine mögliche Überprüfung durch Zweifler oder für weitergehende Auswertungen auf der Webseite der BI unter http://www.gegenwind-straubenhardt.de/Auswertung%20Wind%20BW%202014%20Daten.pdf
+Die Panikmacher, die nur Negatives bei einer Erderwärmung sehen, sagten die Massenhafte Wanderung von Süden nach Norden voraus! Die wird wohl eher (und ist bereits), unserer Willkommenskultur mit Unterstützungszahlungen wegen, eintreten, als aus klimatischen Gründen.
+Ich glaube nicht, daß Herr Jonas Schimke von Anderen Geld möchte, aber er unterstützt eine Politik die das fordert um ihr Ziel, Verarmung der Mittelschicht, durchzusetzen. Sie sieht, vorigen Vorwurf, es (noch) nicht ein, sie ist, wie wir „Klima“ Skeptiker uneinsichtig.
+Könnte nicht ein meßbarer Beweis für die erwärmende Wirkung des CO2 erbracht werden, indem man in einen Eisblock das Gas einleitet und beobachtet, wie schnell er schmilzt? Sollte aber das Thermometer ein absinken der Temperatur anzeigen, dann ist der Film, der das dokumentieren sollte, bestimmt ein Fake.
+mit freundlichen Grüßen
+S.Bernd
+Auch Sie Herr Gewiese, sollten die Arbeit vonT. Quirk
+Source and Sinks of Carbondioxide“ erschienen in Energy and environment vol. 20 P. 103-119 lesen, bevor Sie solche Propagandfilmchen unterjubeln wollen.
+MfG
+Im Gegenteil!!!
+1) eine Erderwärmung ist wünschenswert und keine Gefahr
+2) eine Erderwärmung findet auch nach „offiziellen“ Messungen der AGW-Verteter seit über 15 Jahren nicht statt
+3) Es gibt um so mehr KEINEN messbaren Hinweis über einen Einfluss von CO2 auf die Temperatur.
+AGW ist daher Lug und Trug und geht JEDEN an,
+der dafür auch noch zu zahlen hat.
+Wer von anderen Geld möchte, wie Sie, sollte wenigstens Manieren haben.
+mfG
+„. Natürlich lässt sich nicht ausschleißen, dass irgendwann eine bescheuerte Regierung gespeicherten Strom mit mehr als 75 cent/kWh subventioniert“
+Keine Angst, ist nur eine Frage der Zeit…
+Grüße
+interessanter Film! Ich fürchte nur, hier werden Sie keinen Klimaskeptiker damit überzeugen. Die haben alle ein Brett vor dem Kopf und blenden systematisch alles aus, was ihnen ihre Vorurteile zerstören könnte, siehe Paul und Heinzow, um nur die Spitze der Ignoranz zu nennen.
+(Und in den Krieg ziehen?)
+Schön blöd.
+Denken Sie einfach daran, dass dort noch mehr Kritik an der AGW-Lüge wie bei EIKE betrieben wird.
+mfG
+http://tinyurl.com/4c7fxoz
+freundliche Grüße
+„Wenn sie auch manchmal in Rage geraten über die uneinsichtigen Parker am Hamburger Fischmarkt.“
+Wenn es E-Autos wären, die da absöffen, hätte ich nichts dagegen. Die enthalten kaum umweltverschmutzende Stoffe. Und würden die anschließend verschrottet, täte es der Umwelt gut, denn deren Energie- und Ressourcenverbrauch ist höher, als der von Benzinern und Dieseln.
+„Die Öffentlichkeitsarbeit in den Widerstandsgruppen gegen Windkraftanlagen wird qualitativ immer besser.“
+So lange die Bürger von ihren zivilrechtlichen Abwehrrechten keinen Gebrauch machen, sondern nur verwaltungsrechtlich vorgehen, nützt das nichts.
+Wer gesundheitliche Schäden geltend machen will hat nur die Möglichkeit sich rechtzeitig beste Gesundheit bescheinigen zu lassen, um dann im Falle eines Falles das spezifische Auftreten nachweisen zu können.
+Nachweis Schlafstörungen: Langjährige Schlafaufzeichnungen ohne Windmühlen und dann mit Windmühlen. Setzt allerdings installation eines Heimschlaflabors voraus. Ist zwar nicht ganz billig, aber billiger als der totale Wertverlust des Eigenheims in ländlicher Umgebung.
+Hallo agn,
+Herr Mueller, Ihre Ausführungen zu aktuellen Kompressionsspeichern sind leider richtig. Obwohl schon mindestens seit den 80ern bekannt (wenn nicht schon viel viel länger, aber 1985 habe ich so eine Anlage erstmals gesehen – nicht in einer Forschungseinrichtung, sondern im Dauerbetrieb im Keller einer Arztpraxis) sein dürfte, dass es einfach besser geht.
+Es ist simpel: Man komprimiert eine Gasblase, indem eine Flüssigkeit bewegt wird (also wie ein Pumpspeicherwerk ohne Oberbecken ;-)).
+Weder die New Yorker Feuerwehr noch die Ingenieure von Huntdorf sind scheinbar auf diese simple Lösung gekommen.
+Inzwischen (2014) gibt es eine kleine Deutsche Firma, die sowas mit Druckgasflaschen und Hydraulikpumpe für Kleinanwender anbietet.
+Kleiner Hinweis für Herrn Heinzow – das hat ein DDR-Klempner gebaut ;-).
+Auch die klassichen Pumpspeicherwerke würde ich als Lageenergiespeicher bezeichnen. In diesem Sinne hatte ich es gemeint.
+Auch Kryospeicher (Gasverflüssigung) mit Abwärmenutzung bei der Verdampfung sollen tolle Wirkungsgrade erreichen, aber damit habe ich mich noch nicht befasst.
+freundliche Grüße
+mit Verlaub, Ihnen gebührt der Name für einen Trollenjäger nicht.
+Wenn sie auch manchmal in Rage geraten über die uneinsichtigen Parker am Hamburger Fischmarkt.
+In unserer Zwergenschule war die Fördermaschine, das Beispiel schlechthin für Alles Tun.
+Heute gibt es Maschinen mit einer Antriebsleistung von 12 MW.
+Im täglichen Betrieb konnte ich 2 mal am Tag die Beschleunigung von 1 m/s ins Quadrat erleben.
+Mit demselben Wert, nur in umgekehrter Richtung wurde dann 2 mal abgebremst.
+Wie Sie richtig immer wieder aufmerksam machen ,stinkt der Fisch vom Kopf.
+Dieses Phänomen gilt nicht nur für die nähere Umgebung des Fischmarktes.
+Die Öffentlichkeitsarbeit in den Widerstandsgruppen gegen Windkraftanlagen wird qualitativ immer besser.
+In meiner unmittelbaren Umgebung kann ich es hautnah miterleben.Hier arbeiten auf einmal Grüne und unbelehrbare Schullehrer zusammen, um den Schattenschlag vor Ihrem Schlafzimmer zu verhindern.
+Herr Heinzow, Sie wissen, dass die volkswirtschaftliche Gesamtrechnung dem Bundesbürger vorenthalten wird.
+Es wird täglich seit 1990 durch Veröffentlichungen das BIP als Maß aller Dinge erklärt.
+Die eigentliche Volkswirtschaftliche Leistung ist aber die Außenhandelsbilanz.
+Zur Zeit werden hier jährlich 200 Mrd. Euro erwirtschaftet, die nie mehr bezahlt werden.
+Das ist für ein Land ohne nennenswerte Rohstoffe ein gutes Ergebnis.
+Da ist dieses Experiment mit den EE zwar unnötig, kann aber auch in der Zukunft heilsam wirken,
+wenn die Dummheit des engagierten Weiterführens abgebrochen wird.
+Der Hinweis auf die Fördermaschine soll diesmal die Wirkung der Massenträgheit demonstrieren.
+Würden sich unsere Eliten mal in den Bedienstand einer solchen Maschine setzen, anstatt im Förderkorb mitzufahren, ginge das eine oder andere Licht auf.
+Viele Grüße aus der Lüneburger Heide
+Mit herzlichem Glückauf
+PS: den Effekt kann man auch in einem großen Fahrstuhl erleben(z.B. Funkturm)
+noch eine Idee zu #58:
+aus meiner Sicht handelt es sich um Auswendiglerner, die eine Lust zum Schreiben und Lesen wiederentdeckt haben.
+Jeder Mensch hat ein garantiertes Recht auf Meinungsäußerung und Meinungsfreiheit.
+Als Inhaber eines gültigen deutschen Personalausweises, ist auch das Zuhören eine Selbstverständlichkeit,wenn es die Zeit erlaubt.
+Herr Klink,
+Sie schreiben: „Hier stimme ich ihnen zu: zu jeder Windkraftanlage sollte Speicherkapazität verfügbar sein, um Netzstabilität zu sichern – und um Überschussstrom verwerten zu können, statt abzuschalten.“
+Wunderbar, da sind wir völlig einer Meinung, das freut mich wirklich.
+Sie scheiben: „Abgesehen davon halte ich unser Land für „gesättigt“ was diese dreitürigen GroßWKA betrifft, das ist nicht der Windkraft letzter Schluss!“
+Auch da stimme ich Ihnen bedingt zu, nur dass ich nicht den Begriff „gesättigt“ verwenden würde. Ich würde dazu raten, sie alle abzubauen, sie bringen keinen Nutzen und nur Kosten.
+Leider hat das unsere Politik nicht im Sinn. Man will die Zahl der WKA in den nächsten 35 Jahren ungefähr verzehnfachen. Dagegen sollte man Widerstand leisten.
+Mfg
+Herr Klink,
+Sie schreiben: „Mit dem zunehmenden Wegfall der sog. Grundlastkraftwerke werden Kompressions- und Lageenergiespeicher (Pumpspeicherwerke mit und ohne geod. Niveauunterschiede) zukünftig nachts Solarstrom bereitstelken, wenn der Wind nicht weht“
+Kompressionsspeicherung ist eine energetische Sackgasse, mit physikalisch bedingten Wirkungsgraden unter aller Diskussionswürdigkeit. Zunächst einmal wird sowieso geschummelt, da in der Realität (Huntdorf) Gas zugeführt wird, es handelt sich also um eine Kombination aus Druckluftspeicher und Gaskraftwerk. Dafür gilt laut Wikipedia: Um 1 kWh elektrischer Energie zu erzeugen, müssen 0,8 kWh el. Energie und 1,6 kWh Gas aufgebracht werden.
+Das sind 41 % Wirkungsgrad, unter optimalen Bedingungen. Völlig indiskutabel.
+Lageenergiespeicher (Felszylinder), eine Idee der Firma Heindl, sind technischer Schwachsinn, aber man kann ja mal versuchen, unbedarfte Politiker zu finden, die für ein entsprechendes Projekt Fördergelder lockermachen….
+Beides ist durch Fachleute schon so oft ad Absurdum geführt worden, dass es nervt, wenn mal wieder jemand diesen Unsinn hier breittritt. Bitte informieren Sie sich mal im Internet.
+Mfg
+„Wenn sich das EEG auf die staatliche Förderung von aussichtsreichen Zukunftstechnologien beschränken würde, würde ich es nicht einmal abschaffen wollen.“
+Autor: Michael Klink #49
+Die Kreativität der sich dumm stellenden Trollos in Bezug auf Unsinnsbehauptungen ist offenbar unbegrent. Deren Behauptungen sind übrigens ein direktes Maß für die technische und ökonomische Dämlichkeit der Adressaten, von der diese Trollos ausgehen. Nur wer sind diese Adressaten? Ein A. Schlohr? Eine Katrin Meinhardt, ein Hofmann,M., … ? Wohl eher ein NicoBaecker, J. Ebel, S. Hader, H. Diehl oder H. Haraldsen.
+„Die Argumentation des Herrn Klink erscheint in der Ausdrucksweise logisch und
+wird begeistert vorgetragen.“
+Trollos haben keine Argumente. Deren Masche besteht darin sich doof zu stellen.
+Die Masche der Marktingabteilungen der Stromkonzerne ebenfalls. Die passen ihre Aussagen (Werbebotschaften) der zunehmenden technischen und ökonomischen Verdummung des deutschen Volkes an.
+Derzeit findet keine Klimakatastrophe statt, sondern eine Bildungskatastrophe, die sogar die Professorenschaft in der Ökonomie erreicht hat.
+Es gibt ja nicht wenige darunter, die glauben, daß die Windmühlen im dänischen Design mit ihren Glasfaserverbundrotorblättern innovative Technik seien und daß deshalb auch volkswirtschaftlicher Nutzen nebst dauerhafter Arbeitsplätze entstehen. Sowas ist letztendlich Folge des in Deutschland inzwischen besonders ausgeprägten Fachidiotentums.
+Wenn dann Trollenjäger loslegen, sieht der unbedarfte Mitleser den Wald vor lauter Bäumen nicht mehr.
+Das wird man in einem Forum, wie diesem, m.E. dem ´unbedarften Mitleser´ nicht ersparen können.
+MfG
+Sehr geehrter Herr Jakob,
+diese Erklärung auf der Homepage von Amprion hat seine Tücken.
+Auch Ihr Verweis auf Wikipedia enthält viele Ungenauigkeiten und Irreführungen.
+Dem interessierten Leser ohne Vorkenntnisse fällt dieses Phänomen nicht auf, weil es im Prinzip logisch aufgebaut ist.
+Das Resultat: Die Argumentation des Herrn Klink erscheint in der Ausdrucksweise logisch und
+wird begeistert vorgetragen.
+Zitat: „[…] Und was Grundlast ist, war bei uns schon in der 6. Klasse dran (kein Witz) […].“
+Wenn dann Trollenjäger loslegen, sieht der unbedarfte Mitleser den Wald vor lauter Bäumen nicht mehr.
+Bei Wikipedia geht die Meinung aktuell soweit, daß Windkraftanlagen Grundlastfunktion übernehmen.
+Zitat: „[…] Windkraftanlagen können je nach Windgeschwindigkeit den größten Teil der Grundlastenergie liefern. […].“
+Die Windkraftanlagen werden den Grünen in Baden-Würtem-Berg zum Verhängnis.
+Wenn die anderen Parteien nicht aufpassen, wird Sie das gleiche Schicksal treffen.
+In den 70er Jahren hatte ich mal ein interessantes Gespräch mit einem gleichaltrigen Mafiosi.
+Das Thema war die Schwarz-Weiss Malerei (pessimistische Grundstimmung)
+Das Resultat der Unterhaltung:
+Erst die künstlerisch erzeugten Grautöne lassen den Betrachter die Botschaft
+des Bildes erkennen.
+Im Europäischen Stromnetz sind sekundengenau ca. 250.000 Megawatt Leistung online.
+Sie garantieren eine individuelle Nutzung der Elektrischen Energie nach persönlichen Interessen.
+Nur im Zusammenspiel aller Kraftwerke wird diese Dienstleistung erbracht.
+Mit herzlichem Glückauf
+Hier stimme ich ihnen zu: zu jeder Windkraftanlage sollte Speicherkapazität verfügbar sein, um Netzstabilität zu sichern – und um Überschussstrom verwerten zu können, statt abzuschalten.Abgesehen davon halte ich unser Land für „gesättigt“ was diese dreitürigen GroßWKA betrifft, das ist nicht der Windkraft letzter Schluss!
+MfG
+Hallo, Herr Müller,
+„Herr Hader, Sie beweisen sich mal wieder als Troll. Hier ist des Öfteren bereits dargelegt worden, dass Pumpspeicherkraftwerke inzwischen zunehmend aus dem Markt gedrängt werden, weil ihnen das bisher übliche Geschäftsmodell – nachts mit günstigem Grundlaststrom speichern, mittags Spitzenlaststrom verkaufen – durch die erratisch zu den unmöglichsten Zeiten auf die Börsen drängenden EE-Strommengen kaputt gemacht wird. Eine besonders negative Rolle spielt dabei Suolarstrom, weil der genau dann in der mittäglichen Spitzenlastzeit anfällt, wenn die Pumpspeicher eigentlich ihr Geld verdienen müssten.“
+Mit Verlaub, ich denke, hier irren Sie:
+So recht sie damit haben, dass nunmehr die Solaranlagen einen großen Teil der wichtigen Regelenergie bereitstellen (außer im Winter), sosehr denken Sie zu kurz:
+Mit dem zunehmenden Wegfall der sog. Grundlastkraftwerke werden Kompressions- und Lageenergiespeicher (Pumpspeicherwerke mit und ohne geod. Niveauunterschiede) zukünftig nachts Solarstrom bereitstelken, wenn der Wind nicht weht.
+BTW wäre das schon der Fall, wenn man 2012 nicht die Solareinspeisevergütung gekappt und die Einfuhrzölle auf Solarmodule eingeführt hätte (TTIP läst schon grüßen…).
+Milliardeninvestitionen (Geld von lKeinanlegern und Steuersubventionen) wurdjen zu nagelneuem Schrott – in Deutschland mehr als in China.
+Versehen Sie mich nicht falsch – es konnte so nicht weitergehen. Nur – man hätte die Einspeisevergütung viel eher, aber langsamer senken müssen, dann wär – vielleicht – etwas Vernünftiges herausgekommen – wenn man statt an Offshore, Biogas und Stromtrassen an Speicher gedacht hätte…
+MfG
+Hallo, Herr Müller,
+I
+„Herr Hader, Sie beweisen sich mal wieder als Troll. Hier ist des Öfteren bereits dargelegt worden, dass Pumpspeicherkraftwerke inzwischen zunehmend aus dem Markt gedrängt werden, weil ihnen das bisher übliche Geschäftsmodell – nachts mit günstigem Grundlaststrom speichern, mittags Spitzenlaststrom verkaufen – durch die erratisch zu den unmöglichsten Zeiten auf die Börsen drängenden EE-Strommengen kaputt gemacht wird. Eine besonders negative Rolle spielt dabei Suolarstrom, weil der genau dann in der mittäglichen Spitzenlastzeit anfällt, wenn die Pumpspeicher eigentlich ihr Geld verdienen müssten.“
+Mit Verlaub, ich denke, hier irren Sie:
+So recht sie damit haben, dass nunmehr die Solaranlagen einen großen Teil der wichtigen Regelenergie bereitstellen (außer im Winter), sosehr denken Sie zu kurz:
+Mit dem zunehmenden Wegfall der sog. Grundlastkraftwerke werden Kompressions- und Lageenergiespeicher (Pumpspeicherwerke mit und ohne geod. Niveauunterschiede) zukünftig nachts Solarstrom bereitstelken, wenn der Wind nicht weht.
+BTW wäre das schon der Fall, wenn man 2012 nicht die Solareinspeisevergütung gekappt und die Einfuhrzölle auf Solarmodule eingeführt hätte (TTIP läst schon grüßen…).
+Milliardeninvestitionen (Geld von lKeinanlegern und Steuersubventionen) wurdjen zu nagelneuem Schrott – in Deutschland mehr als in China.
+Versehen Sie mich nicht falsch – es konnte so nicht weitergehen. Nur – man hätte die Einspeisevergütung viel eher, aber langsamer senken müssen, dann wär – vielleicht – etwas Vernünftiges herausgekommen – wenn man statt an Offshore und Stromtrassen auch an Speicher gedacht hätte…
+MfG
+Sehr geehrter Hr. Klink,
+ich fürchte, Sie haben eine etwas zu optimistische Vorstellung von den tatsächlichen Verhältnissen im Stromnetz. Auch scheinen Sie mir ein wenig in die (eventuell möglichen) Möglichkeiten „smarter“ Vernetzung verliebt zu sein. Beides funktioniert aber angesichts der Realitäten einer von Wind und Wetter abhängigen Stromerzeugung, wie sie für die Zukunft vorgesehen ist, eben leider nicht.
+Haben Sie sich schon mal mit dem Begriff „Gradient“ bei der Stromerzeugung aus EE-Quellen beschäftigt? Da gehen innerhalb von Viertelstunden Gigawatt Leistung mal eben ins Netz oder auch vom Netz. Und was zurzeit bei nur 8,x % Windstromanteil noch verkraftbar ist, wird bei künftig über 70 % Windstromanteil völlig unbeherrschbar sein.
+Wenn dann die Gigawatt nicht so kommen wie in den tollen „Smart Grid“-Träumen unserer PC-gläubigen jungen Generation angedacht, wo wollen Sie dann bei stillstehenden konventionellen Kraftwerken den fehlenden Strom herholen? Und sagen Sie nicht „Speicherung“, weil das ebenso ins Reich der grünen Blütenträume ohne Realitätsbezug gehört wie der übrige Schmarrn.
+Mfg
+ich komme noch einmal auf Ihre (und meine) Forderung für einen freien Strommarkt zurück.
+(#37)
+Das müsste im Internetzeitalter dann so funktionieren:
+Kunde:
+Ich möchte ein Angebot für morgen, 1 kWh zwischen 00:30 und 05:30, Windstrom oder Solarstrom oder Laufwasserstrom
+Lieferant 1:
+Angebot Windstrom BW 8 Cent, Durchleitungspreis 2,4 Cent, Abnahme 02:30 bis 02:55 Uhr
+Angebot Solarstom BB 11 Cent, Durchleitungspreis 1,6 Cent, Abnahme 01:00 bis 02:10.
+usw.
+Lieferant 2:
+usw.usf.
+Bei Sofortabnahme sinken ggf. die Produktionskosten (keine Speicherung) aber dafür ist evtl. die Netzauslastung der Preistreiber. Auf Sommer/Winter Werk-/Feiertag gehe ich jetzt nicht ein.
+Es geht natürlich einfacher, aber weniger marktwirtschaftlich mit zeitvariablem Tarif eines Anbieters.
+(Abwicklung über Managersoftware)
+Die Grundlast ergibt sich über die Leitungs- und Erzeugungskostenminimierung, nicht mehr über den tatsächlichen Momentanbedarf.
+Also
+„Soll Windstrom eine Versorgungsaufgabe in der Energiewirtschaft übernehmen, muss eine feste Einspeiseleistung, beispielsweise die jahresdurchschnittliche Einspeiseleistung von 79,9 MW für jeden Zeitpunkt des Jahres sichergestellt werden (Grundlast).“ Zitat obiger Atikel
+gilt nur noch eingeschränkt.
+MfG
+#46 „Da zählen Sie einige Misstände auf. Dann einigen wir uns doch einfach darauf, dass man das EEG sofort und ersatzlos abschafft. Soll doch jedes Unternehmen, das Strom produzieren möchte, dies auf eigenes Risiko nach dem selbst gewählten Verfahren tun und den so erzeugten Strom auf einem gemeinsamen Markt feilbieten. In einer Marktwirtschaft wäre dies so üblich.“
+Würde ich auch gut finden (der Kunde sollte aber freie Auswahl haben), allerdings waren und sind Energiepreise aus verschiedenen Gründen weltweit keine Marktpreise.
+Aber es geht doch schon wieder langsam in Richtung Markt, zu wenig natürlich!
+Wenn sich das EEG auf die staatliche Förderung von aussichtsreichen Zukunftstechnologien beschränken würde, würde ich es nicht einmal abschaffen wollen.
+MfG
+Hallo, Herr Jacob,
+mag sein, dass das ein ernstes Thema ist, aber ich denke, im Kontext ist klar, was ich ausdrucken wollte. Und was Grundlast ist, war bei uns schon in der 6. Klasse dran (kein Witz). Allerdings war die Energiepolitik damals noch etwas anders, aber schon immer ideolgisiert….
+Sicher werden die vernetzten Stromkunden immer Grundlast haben, aber tendenziell tut sich schon etwas: Die Grundlast 2014 immerhin 48 GW wird zunehmen weniger von Grundlaskraftwerken (2014, 3. August: 13,2 GW) erbracht. Insofern reden wir hier doch alle vom gleichen Problem. Auch wenn wir manchmal aneinander vorbei reden.
+MfG
+Ich denke nicht, daß ihre Albernheit den Fragen, die hier diskutiert werden, angemessen ist.
+Wenn Sie nachts auf einem Bahnhof stehen und der ist unbeleuchtet – mangels Strom – und es kommt kein Zug – mangels Strom – finden Sie das lustig??
+Denn wer fragt schon Grundlast nach? Allenfalls ein paar Geräte im Ständby
+ach ja? Soso
+Wiki gibt die Grundlast mit ca. 40GW, klimaretter.info sogar mit 45GW gegenüber ca. 90GW max. Nachfrage für D!
+tinyurl.com/mrjk5ru
+Da zählen Sie einige Misstände auf. Dann einigen wir uns doch einfach darauf, dass man das EEG sofort und ersatzlos abschafft. Soll doch jedes Unternehmen, das Strom produzieren möchte, dies auf eigenes Risiko nach dem selbst gewählten Verfahren tun und den so erzeugten Strom auf einem gemeinsamen Markt feilbieten. In einer Marktwirtschaft wäre dies so üblich.
+#39 Sehr geehrter Herr Manz:
+da bin ich ganz bei Ihnen und muss genau das, was Sie beschreiben auch bei uns beobachten und in einer BI damit umgehen. Das besonders Paradoxe dabei ist, dass sowohl Windstrom für sich alleine als auch Solarstrom für sich alleine genommen noch weit unwirtschaftlicher sind, als beide zusammen. Wie schon Prof. Sinn in seiner empirischen Ausarbeitung des Speicherbedarfs zeigte, können in der Kombination Wind-Solar die extremen jahreszeitlichen Schwankungen, vor allem der dramatische Erzeugungseinbruch von Solarstrom im Winter gemildert werden und verringern den theoretischen Gesamt-Speicherbedarf. Allerdings fällt auch dieser ‚Ausgleich‘ in den Jahren sehr unterschiedlich aus und funktionierte beispielsweise baden-württembergweit 2013 überhaupt nicht (Jan-Mär gab es neben kaum Solarstrom mit 4,7% auch kaum Windstrom mit 5,5%!!) und bundesweit war der Ausgleich auch nicht so, wie beispielsweise 2012 (siehe Prof. Alt, FH Aachen, kennen Sie sicher).
+Was sich mir nie erschließen wird, ist, dass die meisten Menschen ganz genau rechnen und ganzheitlich denken können, wenn sie ein Haus bauen oder eine Modernisierungsmaßnahme durchführen müssen. Da kann jeder ganz genau rechnen was der Vollwärmeschutz kostet und wieviel Öl er dann einsparen könnte. Die meisten lehnen auch Elektromobilität ab, weil Sie wissen, dass die enorm teure Batterie eben zum ‚Krfatstoffverbrauch‘ des Fahrzeugs dazugehört und dieses dann ganz und gar nicht mehr sparsam ist. Warum aber setzt plausibles Denken bei der Stromversorgung kollektiv komplett aus?
+Aus http://tinyurl.com/kvyrxhm
+„Blei-Akkumulatoren sind zum Beispiel als Blei-Säure-Akkumulatoren in vielen Bereichen wie in der Fahrzeugtechnik langjährig im Einsatz und erprobt. Sie sind vergleichbar günstig, haben dafür aber auf Grund eines schlechteren Wirkungsgrades hohe Verluste bei der Be- und Entladung. Im Gegensatz zu Blei-Gel-Akkumulatoren gellten Blei-Säure-Akkumulatoren auf Grund der Säurefüllung als Sondermüll.
+Als Kompletteinheit fallen Kosten von ca. 1.500 €/kWh Speicherkapazität an. Blei-Säure- oder Blei-Gel-Akkumulatoren haben eine Lebensdauer von etwa 2.000 Ladezyklen. Bei ca. 200 Zyklen pro Jahr müssen Sie also nach 10 Jahren ersetzt werden.“
+Wenn sie 2000 mal eine kWh der Batterie entnehmen dann sind die 1500 €/kWh verbraten.
+Das macht folglich 1500/2000 = 0,75 €/kWh =75 cent/kWh nur für das Speichern des Stroms.
+Merken sich die Zahl 75. Natürlich lässt sich nicht ausschleißen, dass irgendwann eine bescheuerte Regierung gespeicherten Strom mit mehr als 75 cent/kWh subventioniert
+Seit wann ist präsentierte Dummheit lustig?
+Herr Hader, Sie beweisen sich mal wieder als Troll. Hier ist des Öfteren bereits dargelegt worden, dass Pumpspeicherkraftwerke inzwischen zunehmend aus dem Markt gedrängt werden, weil ihnen das bisher übliche Geschäftsmodell – nachts mit günstigem Grundlaststrom speichern, mittags Spitzenlaststrom verkaufen – durch die erratisch zu den unmöglichsten Zeiten auf die Börsen drängenden EE-Strommengen kaputt gemacht wird. Eine besonders negative Rolle spielt dabei Solarstrom, weil der genau dann in der mittäglichen Spitzenlastzeit anfällt, wenn die Pumpspeicher eigentlich ihr Geld verdienen müssten.
+Dass Sie dies einfach ignorieren und in solchen Diskussionen immer und immer wieder mit altbekannten und längst widerlegten Unwahrheiten hausieren gehen, beweist eindeutig, dass Sie hier nicht als Mitdiskutant, sondern als hauptamtlicher Störer unterwegs sind.
+Mfg
+Der direkte Beweis für die These des Zusammenhangs zwischen Schulbildung und wirtschaftlichem Erfolg eines Landes. Vor 25 Jahren ging die „DDR“ wegen Insolvenz unter, wobei die Insolvenz vom marxistischen Bildungssystem verursacht wurde. 25 Jahre danach hat sich nicht viel geändert. Ein in der „DDR“ Sozialisierter hat immer noch nicht begriffen – nach 25 Jahren, daß jedes Produkt nur zu Mindestkosten hergestellt werden kann – eine fatale Bildungslücke.
+Kein Wunder, daß in der ex-„DDR“ die Windmühlen sprießen und die Länder wirtschaftlich nicht auf einen grünen Zweig kommen, in denen besonders viele stehen.
+Herr Heinzow,
+der Motor läuft wärmegeführt, im Sommer ist Solarstrom im Überfluss vorhanden.
+BTW – es kann auch ’ne Brennstoffzelle sein, die ist leiser.
+LG
+Nicht gratis, aber preiswerter als die veranschlagten 9ct/kWh. Pumpspeicherwerke kaufen ja auch nicht den Strom zu irgendwelchen Durchschnitts- oder Festpreisen ein, sondern dann, wenn er an der Strombörse sehr preiswert zu haben ist und veräußern ihn dann, wenn er für einen guten Preis absetzbar ist. Das ist deren Geschäftsidee.
+Sie haben meinen Kommentar 20# nicht gänzlich erfasst. Unsere Orte ähneln sich mehr als es den Anschein hat, wie so viele Gemeinden in diesem Land in diesen Tagen. Der Witz oder das Beschämende der Ökostromgläubigen in meinem Ort (und sicher nicht nur hier) ist, mit völlig berechtigten Gründen gegen 200m WKA-Anlagen zu sein, aber vom Unfug der Energiewende nicht zu lassen. Mit „Es war nicht alles schlecht“ wird ja gerade wieder die DDR im Staats-TV auf den Spartenkanälen durchgenudelt. Auch dort wird die (nachvollziehbare) Selbsttäuschung der Betroffenen aufgegriffen, auf Staatsfunkweise. Ob jemals in der Zukunft die aus meiner Sicht auch wegen heute fehlender System-Vergleichsmöglichkeiten weitaus subtilere Selbstbetrug der Menschen im bundesdemokratischen DL nicht nur bei der Energiewende sondern tragischerweise viel mehr umfassend thematisiert wird?
+Der Vergleich Todestrafe / Energiewende ist gewagt, eine andere Herangehensweise womöglich besser. Man kann sich „nur“ für diese Strafe entscheiden oder konsequent dagegen sein. Das man als Gegner der Strafe dennoch emotional auf besonders grausame und abartige Taten reagiert und die Tat ähnlich bestrafen will, als Angehöriger der Opfer noch eher, ist menschlich und keineswegs verwerflich. Das belibt es auch, wenn ein Bekenntnis zu christlichen, zu humanistischen Werten und Traditionen, zu Heimat nicht verloren geht. Übertragen auf die Energiewende gilt das Gleiche. Verbeispielt an meinem Gartenlaubensolarlicht und dennoch Gegner der Energiewende. Den „Anreiz“ 20 Jahre Einspeisevergütung für ökonomischen Gesetzen widersprechenden und gesellschaftlich sprengenden Zappelstrom zu kassieren, ist und bleibt mir allgemeingefährlich. Wie so vieles in und an diesem Staat.
+Meine andere Betrachtung als hier üblich mit technischen-finanziellen Aspekten, Schuldzuweisungen, Bildungsmisere etc. oder die selbst gern von mir aufgegriffene Systemfrage ist mir wichtig. Es liegt an uns selbst. Nicht an Merkel, Trittin oder Ihren Gemeinderatsmitgliedern, die noch an Wunderwaffen glauben. Klar, es ist keineswegs so einfach wie gerade geschrieben. Durch die Strukturen, Abhängigkeiten, Hierarchien, durch die geschaffenen Tatsachen ist (m)eine eigene Ohnmacht, vielleicht auch ein Spur trotzige, bisweilen beleidigende Überheblichkeit spürbar.
+Dennoch: Wollen wir weiter unsere Heimat denen überlassen, denen Heimat am A… vorbeigeht, wenn es um „höhere Ziele“ und „Mehrheiten“ geht? Mit ein bißl schwanger geht das jedenfalls nicht. Mit ich bin etwas dagegen und doch dafür auch nicht.
+Hallo, Herr Jacob,
+danke für den Ball, Sie haben Recht, es sollte Grundlust heißen, denn es ist Angebot, nicht Nachfrage – und es ist eine Lust, eine 1.000MW-Dampfturbine surren zu hören ;-).
+Denn wer fragt schon Grundlast nach? Allenfalls ein paar Geräte im Ständby – aber die könnte man ja wirklich an einen Akku hängen ;-).
+Ich hoffe, Sie fanden das flapsige auch etwas lustig 🙂
+„2. Dezentral ist effektiver
+Mit Gas kann geheizt und Strom erzeugt werden, das hebt den Wirkungsgrad und ermöglicht die Nutzung auch mobil im Ottomotor oder Brennstoffzelle usw.“
+Immer wieder diese Trollogeschichten. Rechnen Sie doch mal vor, wie sich der Wirkungsgrad eines Kolben-Gasmotors mit Heizungsanschluß im Jahresgang verhält. Im Sommer braucht man einen Kühlturm, denn da braucht niemand eine Heizung.
+BWLer lernen bereits im 1. Semester, daß es optimale Betriebs- und Maschinengrößen gibt. Wie man die berechnet, lernen die später. Jedem Häusle in der Stadt den Mopedmotor ist garantiert teurer, als ein GuD-Kraftwerk mit Wärmeauskopplung und Fernwärmenetz.
+Deshalb mein Tip für Sie: Erst Gehirn einschalten und rechnen, bevor die Replytaste betätigt wird.
+„welchen er eigentlich nicht machen darf,“
+Sein Problem – als Ökonom – besteht darin, daß er die Agency-Costs bei der Übernahme der Ausarbeitungen seiner Mitarbeiter nicht bedacht hat. Bei seiner umfassenden Tätigkeit kann er nicht alles überblicken. Und seine Mitarbeiter können ja auch nicht erkennen, was da so alles falsch in den IPCC-Reporten ist.
+Kämen Sie auf die Idee, daß seitens eines hochangesehenen nationalen Wetterdienstes als geprüft herausgegebene Meßdaten – nein, nicht die homogenisierten – Tausende von Fehlern enthalten, z.B. daß die Minimumtemperatur eines Tages höher ist, als die Maximumtemperatur? Oder daß die Ablesezeit nicht 7 Uhr am Morgen war, sondern 18 Uhr am abend? Oder die Maximumtemperatur im Januar in den Great Plains 80 °F beträgt? Im Sommer kann es da schon mal vorkommen, daß die Minimumtemperatur 22 °F betrug.
+Also überdenken Sie ihr Urteil über Prof. Sinn noch einmal.
+Hallo, Herr Falkenberg,
+ich möchte nicht rechnen, aber ich versuch’s mit Prosa:
+Das EEG in seinem ursprünglichen Ansatz ging davon aus, dass alternative Energieproduktion langfristig gefördert werden müsse, um einen olötzlichen Mangel an konventionellen Energieträgern gleitend begegnen zu können. Wan genau die Parität zwischen Photovoltaik – Start AFAIR 1DM/kWh und Marktpreis konv. Energie (0,05DM/kWh erreicht werden würde (wenn je) war nicht klar, die Machbarkeit sollte getestet werden.
+Leider wurde das ganze mit dieser Klimadiskussion überfrachtet und – wie erwähnt völlig losgelöst von dem Gedanken der Versorgungssicherheit bei wachsendem Anteil (Speicherproblem) angegangen.
+Weitere, schlimmere Ergänzungen sind aus meiner Sicht aber Biogas und -sprit aus Ackerbau und Emissionshandel mit CO2.
+Den Atomausstieg finde ich grundsätzlich richtig, aber etwas zu stark von Tagespolitik geprägt. Aber das ist persönliche Sicht, im Zhg. mit meiner Sicht auf das EEG zu erwähnen.
+Dass die Kosten dann auf den Einzel- und Kleinverbraucher zwangsweise umgeschlagen wurden und die Einspeisevergütung zu spät, aber auch zu plötzlich gesenkt wurde und dass Offshore und Ferntransport auch noch bevorzugt werden, sehe ich auch als falsche Anreize.
+Schade, es ist als ob jemand von einem Thron herunterfallen will oder muß. Ich hielt ihn für einen der besten Wissenschaftler auf seinem Gebiet. Jedoch, das ist jetzt nicht mehr zu halten.
+Mit sehr freundlichen Grüssen
+Aber die Grundlast ist eben unflexibel…
+Die Grundlast ist ist keine ANGEBOTskategorie, sondern eine NACHFRAGEkategorie!
+MfG
+Entschuldigung, ich meinte
+#16, nicht #12
+„Sie wollen gar nicht wissen, welches Gesocks ich hier teilweise in den Prüfungen sitzen habe …“
+Nein, will ich nicht, weil ich es weiß. In einem Seminar ging es um um die ökonomische und ökologische Rentabilität des sog. „Ökolandbaus“, der ja 1. keine besseren Produkte hervorbringt als konventionelle Landwirtschaft und 2. mehr Landfläche und Ressourcen pro Produkteinheit verbraucht, einmal vom „Natürdüngerproblem“ abgesehen, der zur Ntratverseuchung führt. Kurze Rede langere Sinn: Es kam wie es kommen mußte, weil ja Ökomaiuslandbau vor Genmais geschützt werden muß. Einige Studies wußten noch nicht einmal, wie die Gene bei Getreide übertragen werden.
+Es ist schlichtweg grausam zu beobachten, mit welchem Bildungsstand heutzutage eine Studienberechtigung erworben werden kann.
+viele Denk- und wenig Rechenfehler 🙂
+1. Systembetrachtung
+Man muss über Strom hinausdenken:
+Wir brauchen Energie für Wärme und Antriebe, wir setzen fossile/biol. Brennstoffe (chemisch/biochemisch gespeicherte Energie), atomare und kinetische (Wasser, Wind,…) sowie Srahlungsenergie ein.
+Zwischen Energieträger und Verbraucher liegen diverse Umwandlungs- und Übertragungsverluste.
+Ist bekannt – ich schreibe das aber, weil z. B. Gas (egal ob fossil oder „erneuerbar“) eine viel bessere Ergänzung zu Wind- und Solarstrom (es macht auch keinen Sinn, nur Wind allein zu betrachten!) als z. B. Strom aus der Dinosaurierzeit (aus einem Kohle-Kondensationskraftwerk) oder noch älter (Atome aus Supernovae von vor > 5Mrd Jahren. Es liegt nicht am Alter :-). Aber die Grundlast ist eben unflexibel in Raum (z.B. als Antrieb für’s Motorrad) und Zeit (schlecht regelbar).
+Da sind wir auch schon bei
+2. Dezentral ist effektiver
+Mit Gas kann geheizt und Strom erzeugt werden, das hebt den Wirkungsgrad und ermöglicht die Nutzung auch mobil im Ottomotor oder Brennstoffzelle usw.
+Es wäre also Unsinn, Windgas nur zur Stromerzeugung zu nutzen. Gas ist ein Langzeit- und Ferntransport-Speicher, Sommerüberschussstrom wird Winterheiz(und Strom-)energie.
+und da fehlt noch
+3. und damit haben Sie sich beschäftigt, die Kurzzeitspeicherung (ganz kurz: Kondensatoren, Schwungmassen, mitelkurz galvan. Akkus und Kompressions-/Lagespeicher).
+Ihr Starterakku ist BTW nicht zyklenfest und nach 30 Ladezyklen Schrott – aber es gibt Besseres.
+Achja – Preise:
+Kohle und Atom werden auch sowohl politisch be- als auch entlastet, das ist eine lange Geschichte.
+Hier reicht es wohl erst mal. Das Thema ist eben komplex, da kommt man schnell zu Milchmädchenrechnungen und falschen Prognosen – auch wenn man nicht ideologisch herangeht :-).
+Sehr geehrter Herr Kühne, haben Sie auch diese wichtige Stelle davor wahrnehmen wollen? Die ist außerodentlich.
+Zitat: „[…] Und eines vorweg und das hat ja auch schon Klaus Schmidt schon gesagt. Der Treibhauseffekt als solcher steht hier nicht in Frage. Und ich bin auch zutiefst überzeugt, äh, daß er stattfindet und eine große Bedrohung für die Menschheit ist. Es gibt in wirklich und daß das so ist möchte ich ihnen hier kurz demonstrieren. [Grafik taucht auf]. An nur einer Zahlenreihe. Äh, oder zwei. Äh, die stammen aus Eiskernbohrungen an der Antarktis, wo man 3.200 Meter tief gebohrt hat und in frühere Schneeschichten, sozusagen reinkommt und achthundert tausend Jahre zurück in der Erdgeschichte bohren kann. […].“
+[Minuten 7.30-8.24, in etwa. Versuch einer Transkription]
+Originalton Hans-Werner Sinn, über Quelle: http://tinyurl.com/q5amtuq
+Was lernt ein methodisch und systematisch arbeitender Mensch daraus? Das kann doch alles nicht wahr sein.
+Ganz einfach: Diese Leute sind gute Auswendiglerner und beherrschen danach nur ein winziges Segment – dieses oft sehr gut. Einen ganzheitlichen Blick besitzen sie aber nicht. Ich diskutierte unlängst mit einem physikalischen Chemiker und war entsetzt, welches physikalische Grundverständnis ich vorfand bzw. eben nicht. Und bei Wirtschaftlichkeits-Berechnungen, wohlgemerkt für die Gesamtgesellschaft, schließen solche Leute die EEG Subvention mit ein, so, als ob die EEG-Milliarden vom Himmel fallen und nicht von der gleichen Gesellschaft vorher aufgebracht werden.
+#20 Sehr geehrter Herr Manz:
+wenn nicht die kritische Haltung der Parteien bei Ihnen wäre, hätte man denken können, wir wohnten im gleichen Ort. Bei uns aber gibt es eine große Koalition der Ökostrom-Romantiker. Es gibt sogar Mitglieder im Gemeinderat, die die ‚Schweriner Batterie‘ aus voller Überzeugung als realistische Speicherlösung nennen.
+#22 Sehr geehrter Herr Klink:
+Seien Sie doch so nett und rechnen Sie uns einfach etwas vor. Pauschalaussagen, wie: ‚Wenn man das perpetuum mobile nur richtig fördern würde, dann hätten wir bald eines‘ reichen mir nicht! Ich habe mich recht ausführlich mit der Thematik Speicherung auseinandergesetzt und komme bei P2G zum mit Abstand günstigsten Kosten-Nutzen-Verhältnis. Doch schon hier ver4fachen sich die Kosten für Windstrom und übertreffen die Kohleverstromung dann um gut das Zehnfache.
+Die Politik war seit 2000 zumindest klug genug, die Finger von diesem Problem zu lassen, das in absehbarer Zeit ganz offensichtlich überhaupt nicht gelöst werden kann. Das Scheitern der Stromspeicherung wäre aber schneller aufgefallen und damit die ganze Energiewende für alle Bürger sichtbar infragegestellt.
+Wir haben nur ein Problem….das EEG und damit die Gier, die im EEG verankert ist, steht dem gesunden Menschenverstand im Weg.
+Tenor ist doch weiterhin….mit der Energiewende lässt sich für Otto-Normalverbraucher Geldverdienen. Und zwar noch mehr als die „Bösen Konzerne“ es können. Land auf Land ab wird so über Medien, Politik und Co. für diese asoziale und peride angelegte Energiewende = EEG geworben.
+Die Gier = Sehnsucht der Menschen nach den Profit-Goldesel im Keller bzw. auf den Dach…wird durch das EEG erst ermöglicht. Und solange es das EEG erlaubt, Dumping-Einspeisevergütungen und Einspeisevorrang zu Gunsten der EE-Erzeuger und zum Nachteil des Bürger/Unternehmer, wird sich an dieser Sachlage auch nichts ändern.
+Pferdekutschen und Segelschiffe könnten auch schon längst als Massenwaren in der Gesellschaft reißenden Absatz finden, wenn dies im EEG mit bedacht gewesen wäre. Der garantierte Preis des Staates -Preisfestsetzung des Staates ala DDR- kann alles bewirken…..nur nicht die Wirtschaftlichkeit und damit die Wertschöpfung und damit den Fortschritt und den Wohlstand für eine auf den Markt basierende Gesellschaft.
+Das EEG ist absolut Markt-Gesellschaftsfeindlich und damit ein Selbstsabotageakt einer Bundesregierung am eigenen Versprechen „Zum Wohl des Volkes“ zu regieren/handeln.
+Vor nicht allzulanger Zeit bin ich auf einer Austellung mit einem Mitarbeiter eines Energieversorgers ins Gespräch gekommen, der da heftig Werbung für die Energiewende gemacht hat. So von wegen 1 GW Windräder ersetzt schon ein KKW etc. Ich habe dem etwas Skepsis entgegengehalten und dazu waren wir schnell beim Begriff „Nutzungsgrad“ in Zusammenhang mit den Windrädern. Den Begriff kannte er nicht, auch nicht auf Nachfragen. Es war schon fast etwas peinlich und um ihm eine Brücke zu bauen sagte ich: ja man kann nicht überall Fachmann sein, sie sind vermutlich Kaufmann oder so. Nein nein sagte er, ich bin Ingenieur.
+Sehr geehrter Herr Falkenberg,
+Leider falsch: „Rational denkende Menschen erreichen Sie aber beispielsweise mit der Herleitung von Kosten, insbesonder wenn diese ganz offensichtlich nicht mehr zu bewältigen sind, was auf alle aktuell diskutieren Speicherverfahren zutrifft.“
+Die Menschen sind inzwischen durch die Schulen (und den Lehrern dort!) aufgrund der „Unterrichtsreformen“, wozu auch die Schlechtschreibreform zählt, verblödet, daß denen nicht klar ist, daß bei der Speicherung Energie verloren geht bis zu 70%) und dann bereits der Strom zu 9 Ct/kWh 9 dividiert durch 0,3 = 27 Ct/kWh kostet. Hinzukommen dann noch die Kosten für die Speichereinrichtung und die Reumwandlung in Strom. Und die Leute sind inzwischen so dämlich, daß die glauben überschüssiger Windmühlenstrom sei gratis. Wir haben inzwischen eine Bildungskatastrophe ungeheuren Ausmaßes produziert. Die Ratio zählt nicht mehr. Es zählt nur noch der Glaube an das, was google, Wiki … auf den Bildschirm zaubern und irgendwelche Gurus in den Studios der Volkspropagandamaschinerie erzählen.
+Technologien gibt es in allen Größenordnungen – von der Zink-Luft-Batterie über Hydropneumokompression bis Erdgaskavernen. Nur auf dem Markt sieht es noch mau aus.
+Ja, der Wirkungsgrad ist ein Thema – aber wenn Sauerstoff und Kohlendioxid, ggf. auch Wasserstoff im Kreislauf genutzt werden, kann man z.B. Gasturvinen statt mit Luft mit einem Sauerstoff-Kohlendioxid-Gemisch betreiben und erhöht den Wirkungsgr erheblich – bei „Nullemission von NOx.
+Und der kommt noch aus der „guten alten Zeit“. Sie wollen gar nicht wissen, welches Gesocks ich hier teilweise in den Prüfungen sitzen habe und auf welchem intellektuellen Niveau die lieben Energiewende-Kollegen agieren. Die Universitätslandschaft hat bei den Themen CO2/Energiewende so versagt wie noch nie, nicht einmal beim sog. „Waldsterben“ war es so schlimm wie heute. Leider dauert es diesmal länger, bis die CO2-Lüge aufgeflogen ist.
+Zu den Trollos: Ich bin wirklich gespannt, ob ich von den Trollos nun für meine Weitsicht gelobt werde, oder ob jemand einen Denkfehler sieht. Ich hoffe ja, dass die sich hier melden und meinen Beitrag kommentieren.
+Ich habe privat mir eine PV/Akku betriebene Leuchte für das Gartenhaus besorgt. Das Verhältnis von Preis und Einsatzdauer steht in keinem Verhältnis, eine Taschenlampe hätte weiter gereicht. Noch übler wird es, da die Hütte einen Stromanschluss hat und eine an Netz angeschlossene, billigere Lampe möglich ist. Ach, ich will halt auch die Welt retten… und mache jeden Blödsinn mit…
+Nein das sicher nicht, weder das Retten noch das Mitmachen. Mit der Offenbarung meines eigenen Handelns soll eines deutlich werden: Wenn ich mir privat einen Blödsinn leiste, ist es meine Sache. Wenn das Ganze gesellschaftlich über das zur Verfügung stehende Instrumentarium Staat, Parteien, Demokratie etc. abläuft, hat das eine ganz andere Qualität und Folgen. Wenn in der eigenen Familie, vielleicht noch im Freundeskreis fünfe gerade sein lassen, Hobby und Liebhaberei betrieben werden kann; schwanger bleibt auch schwanger; darf es im großen Maßstab nicht mehr. Es gibt hier nur entweder / oder – entweder für oder gegen die Energiewende. Alles andere ist unglaubwürdig und St. Florian.
+„die sich fuer Experten halten. Wo ist der Denkfehler ? Wo sind die Rechenfehler ?“
+Sie nehmen doch noch an, daß die Trolle hier die benennen werden?
+Hatte da gestern einem von der AfD zugehört. Grausam, was der als verrenteter Physiker und BWLer von sich gab. Der glaubte (jedenfalls sagte er das) doch tatsächlich die Kostenberechnungen des IPCC bzgl. des billligen Stroms mit Windmühle & Co hergestellt.
+Man muß sich ernsthaft fragen, wie die Leute den Prüfungsanforderungen entsprochen haben können.
+Wenn Sie unentschiedene Menschen davon überzeugen wollen, dass ein Windkraftprojekt bzw,. Windkraft ganz allgemein sinnlos ist, dann müssen Sie belastbare Fakten liefern. Mit unbelegten Aussagen wie ‚Batterien können dies und das nicht leisten‘ überzeugen Sie niemanden. Rational denkende Menschen erreichen Sie aber beispielsweise mit der Herleitung von Kosten, insbesonder wenn diese ganz offensichtlich nicht mehr zu bewältigen sind, was auf alle aktuell diskutieren Speicherverfahren zutrifft.
+#11 Sehr geehrte/r r. Engler:
+Schade, dass die zahlreichen Windkraftfreunde und Kohlegegner in unserem Land keine Filter für Kern- und Kohlestrom in ihren Stromanschluss schalten können. Dann würden diese Menschen (fast) täglich bemerken, welche Realität sich mit dem Begriff ‚Zappelstrom‘ verbindet.
+#12 Sehr geehrter Herr Oberdörfer:
+Lassen Sie uns bei kritischer Betrachtung des Power-to-Gas (P2G) doch großzügig sein. Irrsching 5 erreicht 60% Wirkungsgrad, nehmen wir also noch ein wenig mehr an, dann liefert der gesamte P2G-Speicher-Prozess maximal 33% Wirkungsgrad. Um den Strom aus den 25.000 deutschen Windrädern mittels P2G grundlastfähig zu machen, bräuchten wir also 37.500 Windräder, wobei die zusätzlichen 12.500 nur dazu dienen, die Speicherverluste auszugleichen.
+Welch ein gigantischer Ressourcen- und Naturverbrauch! Welch ein Irrsinn!
+Vorstellen kann man sich so einiges….ich stelle mir zb. gerade vor, wie dass dann so ist, wenn unsere Volkswirtschaft auf Grund des „Erneuerbaren Energie Wirtschaftsboom“ dann aus allen nähten platzt und mit der Produktion von Windmühlen und Photovoltaik und Biogasanlagen nicht mehr hinter herkommt und auf Grund dessen immer mehr Strom/Energie für ihre Produktionsstätten benötigt. Wächst da so ein EE-Batterie-Versorgungssystem dann auch mit oder ist das dann von der Politik gedeckel bzw. wie weit kann dann so ein EE-Batterie-Versorgungsnetz überhaupt in Deutschland wachsen, bis an an seine geographischen Grenzen stösst? Mit dem Wirtschaftswachstum ist es dann ganz schnell vorbei. Nicht nur das EEG setzt dem Wachstum/Wohlstand grenzen, sondern auch Wind und Sonne.
+Somit wären wir dann mal wieder in der Mangel und Armutsgesellschaft angelangt.
+Och, vorstellen kann ich mir das schon, die Batterie muss nur groß genug sein. Man nehme eine typische etwas größere Autobatterie, z.B. kostet eine etwas bessere 110 Ah 12 V Batterie bei VARTA inkl. Märchensteuer rund 250 EUR. Diese Batterie hat einen nutzbaren Energieinhalt (auf dem Papier) von ca. 1,4 kWh bei einer Ladeschlussspannung von 13,8 Volt und einer Entladeschlussspannung von 12 Volt. Sie liefert locker 1 kW Leistung. Für 1 GW Leistung (äquivalent zu einem „Atommeiler“) brauchen wir nun 1 Million dieser Batterien, also 10^6 * 10^3 Watt = 1 GW. Die Kosten alleine für die Batterien betragen dann so ca. 250 Millionen EUR für ein Batterie-Kraftwerk, das einen „Atommeiler“ ersetzen kann. Gegenüber den 8 Milliarden Euro für einen 1,6 GW „Atommeiler“ ist das doch wirklich günstig, oder ? Das machen wir nun 80 mal und ersetzen alle Kohle-, Gas- und Atommeiler durch ein solches Batterie-Kraftwerk, kostet uns in der Installation mit der ganzen Elektrotechnik drumherum ca. 40 Milliarden Euro – sind doch „peanuts“ für den „Klimaschutz“. Da die Batterien des Batteriekraftwerks nach spätestens einer Stunde leer wären, installieren wir bei einem Verfügbarkeitsgrad von 12% 580 GW Windkraftanlagen, was über das Jahr gerechnet ca. 70 GW mittlere Leistung liefern würde, und diese WKA´s haben nur die Aufgabe, die Batterien zu laden, die Schwankungen durch den Zappelstrom gleichen wir über die Batterien also aus. Die Windkraftanlagen kosten in der Installation so ca. 1,3 Billionen EUR. Ach ja, und bei dieser Gelegenheit stellen wir unser Wechselstromnetz auf Gleichspannung um, regeln also nicht mehr auf Frequenz sondern auf Spannung, und bauen, bis alle Geraete im Haushalt mit Gleichstrom laufen, in jeden Haushalt einen Wechselrichter ein. Und wenn wir das erst mal geschultert haben (wir reden ja nur von einem kleinen Billionen EUR Betrag, ist der Strom selbstverständlich kostenlos.
+Nun die Frage an alle Experten und solche, die sich fuer Experten halten. Wo ist der Denkfehler ? Wo sind die Rechenfehler ?
+Aha, das ist neu. Gemeinsam in einem Satz sogar sensationell (fern jeder Realität).
+Zumindest im letzten Jahrzehnt schwarz(gelb)er Herrlichkeit eindeutig ebenso falsch.
+Wie können Sie nur so gemein an die“ Kathedralen des Fortschritts“( O Ton Kretschmarrn BW MP )anpinkeln?
+Sorry, danke. Habe den Punkt mit einem Komma verwechselt.
+Noch Fragen, Kienzle? Oder Merkel, Gabriel, Roth, Hofreiter und EKD?
+Das eine ist die Mathematik aber das andere ist der Prozess. Mit der Mathematik kann man einiges rechnen und darstellen. Da gebe ich ihnen recht. Aber die Mathematik ersetzt nie einen Prozess-Verstand.
+Deshalb wird eine Batterie nie die Funktion eines Grundlast-Kraftwerkes einnehmen können und damit ist der Erneuerbare Energieversorgungsprozess schon gescheitert. Beim Strom-versorgungs-System-Prozess ist nämlich jede Sekunde wichtig….mit einen Viertel-Stunden-Takt kommt man da nicht weiter.
+Manche Befürworter glauben, Speicher stünden ab morgen zum Ausgleich der schwankenden Einspeisung zur Verfügung. Leider wissen diese Menschen nicht, dass – entgegen mancher Pressemeldung – weder die Technik in absehbarer Zeit im erforderlichen Umfang bezahlbar sein wird, noch welch gigantischen Strommengen überhaupt gespeichert werden müssten. Deshalb wurde fernab irgendwelcher Schätzungen der Speicherbedarf aus allen 35040 15minütigen Einspeisewerten konkret für die reale Windstromerzeugung 2014 ermittelt.
+#7 Sehr geehrte/r Frau/Herr Kuhne:
+699.594 MWh = 699594 MWh = 699,594 GWh.
+Ihre Empfehlung des Vortrags von Prof. Sinn ist sehr zu empfehlen! Interessant darin fand ich auch sind die Äußerungen des ehemaligen bayrischen Wirtschaftsministers in den folgernden Diskussion als Anschauung, über welches technische Verständnis ein in der Thematik ehemals verantwortlicher Politiker verfügt bzw. nicht verfügt.
+Könnt ihr im Artikel noch ergänzen, wie sich die Kapazitätsbetrachtungen auf die CO2-Gesamtbilanz (und damit Energienettogewinn) über die Lebensdauer auswirken, als Kontrapunkt zu der Studie hinter folgendem Link:
+http://tinyurl.com/pqnomxu
+Diese geht nämlich von >35% Nutzung binnen 20 Jahren aus und berücksichtigt nicht die o.g. weiteren Anlagen zur Konstantstromerzeugung (von den Kabeln mal ganz abgesehen).
+Danke!
+Zu Stromspeichern siehe Prof. Sinn, ifo-Institut, „Energiewende ins Nichts“
+http://tinyurl.com/q5amtuq ab ca. Minute 32 oder http://tinyurl.com/qd8ytfq ab ca. Minute 38.
+http://youtu.be/BVz7ODkMtNw
+In einen Erneuerbaren Energieversorgungssystem, in dem unser Kraftwerkmixpark (Kohle, Gas, Kernkraft, Oel) nicht mehr vorkommen, werden die Speicher automatisch zu Grundlast-Kraftwerken. Ansonsten würde das EE-Versorgungssystem nicht funktionieren. Und einen Speicher einen Kraftwerk gleichzusetzen, dazu bedarf es schon einer sehr rosaroten Brille.
+Ein Speicher bleibt ein Speicher und wird nicht übernacht zu einen rund um die Uhr funktionierenden Grundlast-Erzeuger (Kraftwerk).
+Dabei halten sich die Aufwendungen für das Pferd im Rahmen. Die sogenannten Erneuerbaren sorgen hingegen für gigantische Kosten und Belastungen, ohne daß sie einen eigenständigen Beitrag zur Stromversorgung leisten könnten. Denn sie sind immer auf ein stabiles Netz angewiesen, in das sie einspeisen können. Sonst schalten sie zum Eigenschutz einfach ab.
+Mit größter Anstrengung wird nun nach Lösungsmöglichkeiten für Probleme gesucht, die es ohne den Zufallsstrom aus Wind und Sonne gar nicht gäbe. Wenn wir eines Tages alle wieder nüchtern sind, werden wir das EEG abschaffen und den erneuerbaren Unfug ersatzlos zurückbauen. Auch in B-W.

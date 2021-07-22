@@ -1,0 +1,42 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Über die Suche nach Erwärmung in den USHCN-Daten" author="Leland Park" date="2016-03-22" source="https://eike-klima-energie.eu/2016/03/22/ueber-die-suche-nach-erwaermung-in-den-ushcn-daten/" hostname="eike-klima-energie.eu" excerpt="Leland Park Vor der Einführung der heutzutage praktizierten Klimawissenschaft wurde in der Grundlagen-Physik unterschieden zwischen den Termen Wärme und Temperatur, weil sie zwar in Beziehung zueinander stehen, aber nicht das Gleiche sind. Die klassische Zustandsgleichung zeigt die die prinzipielle Relation. Dem zufolge ergibt sich die Relation zwischen dem Wärmegehalt einer Substanz und Änderungen von deren Temperatur zu: Q = m * c * DeltaT, wobei m für die Masse und c für die Wärmekapazität der zu messenden Substanz steht." categories="Klima" tags="" fingerprint="gt+LbF+5cfVadNpT9AMuZsv1UDU=">
+  <main>
+    <p>Vom United States Historical Climatology Network USHCN haben wir eine Zeitreihe von Temperaturmessungen, die vom 19.Jahrhundert bis heute reicht. Die „monatlichen“ Versionen der USHCN-Daten sind zusammengesetzt aus jährlichen Stationsaufzeichnungen, die sowohl monatliche als auch Jahresmittelwerte enthalten. Diese Aufzeichnungen können herangezogen werden zur Konstruktion von Temperaturänderungen an jeder USHCN-Messstation. Die in Abbildung 1 (rechts!) gezeigte Funktion ist ein Komposit aus Netzwerk-Mittelwerten der schrittweisen Änderungen der Maximum-Temperatur (jährliche mittlere Höchsttemperatur). Die Anzahl der tatsächlichen Messstationen variiert, lag jedoch im Zeitraum 1930 bis 1940 bei etwa 1100 Stationen.</p>
+    <p>Abbildung 1 (rechts!): Mittel der sich von Jahr zu Jahr ändernden, nicht adjustieren Höchsttemperatur.</p>
+    <p>Aus dieser Abbildung kann man viele Dinge herauslesen:</p>
+    <p>• In den nicht adjustierten Aufzeichnungen der Höchsttemperatur zeigt sich kein eindeutiger Erwärmungstrend</p>
+    <p>• Die Wärmeänderung zwischen Erwärmungs- und Abkühlungsphasen verläuft zyklisch</p>
+    <p>• Die Änderung der Höchsttemperatur verläuft ordentlich während der gesamten USHCN-Historie, trotz signifikanter lokaler Differenzen zwischen vielen USHCN-Stationen untereinander.</p>
+    <p>• In der Verteilung der der Wärme-Änderungen ist eine komplexe Dynamik offensichtlich.</p>
+    <p>Abbildung 2: Histogramm von Änderungen der Maximum-Temperatur in den USHCN-Aufzeichnungen</p>
+    <p>Abbildung 2 zeigt ein Histogramm der gleichen Daten, die zu der Funktion in Abbildung 1 oben rechts beitragen. Die Tatsache, dass dieses Histogramm symmetrisch um die 0-Achse ist bestätigt, dass es keinen langzeitlichen Erwärmungs- (oder Abkühlungs-)Trend gibt. Wir wissen das, weil es in diesem Spezialfall unnötig ist Werte für die Masse und die Wärmekapazität zu haben.</p>
+    <p>Q = m * c * ΔTmax = m * c * [0] = 0</p>
+    <p>Energiebilanz</p>
+    <p>Interessanterweise sagt uns die gleiche Analyse mit den Daten der Minimum-Temperatur viel über die Energiebilanz mit der Zeit. Dies deshalb, weil die Minimum-Temperatur den Punkt repräsentiert, an dem die nächtliche Abkühlung aufhört und die tägliche Erwärmung einsetzt. Die Temperaturänderungs-Analyse für die Minimum-Temperatur zeigt Abbildung 3:</p>
+    <p>Es zeigt sich das gleiche Bild wie in Abbildung 1, nämlich dass es keinen eindeutigen Trend mit Erwärmung oder Abkühlung gibt in der Funktion der Tiefsttemperatur-Änderung. Nochmals bestätigt wird dies durch das Histogramm der Daten in Abbildung 4:</p>
+    <p>Abbildung 4: Histogramm der Tiefsttemperatur-Änderung von Jahr zu Jahr</p>
+    <p>Das Fehlen eines Erwärmungs- oder Abkühlungstrends für die jährliche Minimum-Temperatur wird wieder durch die Wärmegleichung gegeben:</p>
+    <p>Q = m * c * ΔTmin = m * c * [0] = 0</p>
+    <p>Welche Erwärmung auch immer stattfindet während der täglichen und jahreszeitlichen Erwärmungszyklen – sie wird vollständig ausgeglichen durch die korrespondierenden täglichen und jahreszeitlichen Abkühlungszyklen. Anderenfalls würde es in den Daten der Minimum-Temperatur eine Änderung des Trends geben. Man vergesse nicht, dass alle Abbildungen auf der Grundlage jährlicher Mittelwerte erstellt worden sind, so dass sich jahreszeitliche Effekte in der Analyse herausmitteln.</p>
+    <p>Analyse von adjustierten Daten der Maximum-Temperatur</p>
+    <p>Die gleiche Analyse mit adjustierten Versionen der Minimum-Temperaturdaten zeigt identische Ergebnisse. Wie bei den nicht adjustierten Daten gibt es keinen eindeutigen Trend der Wärmeänderung. Tatsächlich gibt es nur marginale Differenzen hinsichtlich der Amplitude der Erwärmungs- und Abkühlungszyklen.</p>
+    <p>Abbildung 5: Version von Abbildung 1 mit adjustierten Daten</p>
+    <p>Die reale „globale Erwärmung“</p>
+    <p>Die Klimawissenschaft sucht nach der globalen Erwärmung in Computermodellen, die so programmiert sind, dass sie genau diese erzeugen – in geringem Umfang. Inzwischen zeigen die Beobachtungsdaten eine massive Erwärmung. Jedermann (auf der Nordhemisphäre) weiß, dass es im Winter kälter ist als im Sommer. Die Erwärmung von Winter zu Sommer ist ein natürliches jahreszeitliches Phänomen, der später von der Abkühlung von Sommer zu Winter abgelöst wird. Diese jährlichen Zyklen haben als Ursache die sich ändernde Stellung des Planeten relativ zur Sonne.</p>
+    <p>Abbildung 6: Mittlere jahreszeitliche Erwärmung von Winter zu Sommer (Januar bis Juli) in den USHCN-Daten</p>
+    <p>Abbildung 6 zeigt die Verteilung der jahreszeitlichen Erwärmung über die Zeit auf der Grundlage der Temperaturdifferenz zwischen Januar und Juli. In den USA beträgt die jahreszeitliche Erwärmung etwa 45°F [ca. 25 K] mit einer Bandbreite zwischen 40°F und 55°F [ca. 22 K bis 30 K]. Das ist eine massive Erwärmung und eine große Variation. Sie ist viel größer als das vermeintliche Auslöse-Niveau für globale Erwärmung! Und doch spielt das für die Klimawissenschaftler überhaupt keine Rolle.</p>
+    <p>Das Mysterium der Klimawissenschaft ist, dass massive, regelmäßige jahreszeitliche Erwärmungszuyklen nicht der Erwähnung wert sind, während geringste Änderungen der jährlichen Temperaturen einen katastrophalen Klimawandel signalisieren sollen. Das verstehe, wer will.</p>
+    <p>Überlegungen zu diesen Analysen</p>
+    <p>Da die Beweisführung durch Daten nicht gerade eine Spezialität derjenigen ist, die den Konsens unterstützen, folgen hier ein paar Dinge, die bzgl. der Evaluierung der Analysen angesprochen werden könnten:</p>
+    <p>• Treibhauseffekte, so es sie gibt, können mit diesen Methoden nicht erkannt werden.</p>
+    <p>• Städtische Wärmeinseln sind in diesem Analyseverfahren nicht signifikant, obwohl sie real sind.</p>
+    <p>• Die Verwendung jährlicher Mittelwerte minimiert die Signifikanz kurzfristiger Wetterabläufe.</p>
+    <p>• Die [Jahres?-]Mitteltemperatur ist kein messbarer Parameter, lässt das Verhalten von Maximum- und Minimum-Temperatur verschmelzen, darum wird sie in diesen Analysen nicht herangezogen.</p>
+    <p>• Die Verwendung inkrementeller Änderungen der Maximum- bzw. Minimum-Temperatur normalisiert effektiv die anderenfalls ungleichen Stationsdaten und erlaubt Zusammenfassung.</p>
+    <p>Reference: “monthly” versions of USHCN data hier: http://cdiac.ornl.gov/epubs/ndp/ushcn/monthly_doc.html</p>
+    <p>Link: http://wattsupwiththat.com/2016/03/16/searching-for-warming-in-ushcn-data/</p>
+    <p>Übersetzt von Chris Frey EIKE</p>
+  </main>
+  <comments>
+    <p>MfG</p>
+  </comments>
+</doc>

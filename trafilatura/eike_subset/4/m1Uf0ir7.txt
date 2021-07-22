@@ -1,0 +1,78 @@
+Das europäische Stromnetz ist ein meist verlässliches, aber auch fragiles System. Es bringt sich diesbezüglich hin und wieder in Erinnerung.
+Freitag, 8. Januar 2021, 13:04:55 Uhr (MEZ)
+Zu diesem Zeitpunkt kam es im europäischen Höchstspannungsnetz (ENTSO-E) zu einem deutlichen Frequenzeinbruch. Innerhalb von 14 Sekunden erfolgte ein Frequenzabfall von 50,027 auf 49,742 Hertz.
+Damit wurde der Regelbereich mit einer Untergrenze von 49,8 Hertz verlassen, eine ernsthafte Gefahr bestand noch nicht. Die in diesem Fall vorgesehenen Maßnahmen – Einsatz positiver Regelenergie, Stopp des eventuellen Pumpbetriebes in Pumpspeicherwerken – reichten aus, nach wenigen Sekunden die Frequenz wieder über die 49,8 Hertz nach oben zu bringen. In folgendem Bild wurde der oben gelb angegebene Bereich nur kurzzeitig nach links überschritten, dennoch war es der stärkste Frequenzeinbruch seit November 2006 (der damals zu einem großflächigen Blackout in Westeuropa führte):
+Zunächst gab es Unklarheit zur örtlichen Herkunft der Störung, die sich aber bald dem Versorgungsgebiet der Transelectrica im Nordwesten Rumäniens, auf Transsilvanien und Siebenbürgen, zuordnen ließ. Zu den Ursachen gibt es noch keine Erkenntnisse, eher offene Fragen: Ein Kraftwerksausfall, selbst mehrerer Blöcke, hätte einen solchen Einbruch kaum verursachen können. Missverständnisse im Handelsgeschehen können auch ausgeschlossen werden, denn der Zeitpunkt lag deutlich nach der vollen Stunde. Eine großflächige Abschaltung des regionalen Netzes in Rumänien wiederum hätte die Frequenz nach oben und nicht nach unten abweichen lassen. Gesicherte Informationen muss man abwarten.
+Bei deutschen Netz- und Kraftwerksbetreibern liefen entsprechende Meldungen aus der Leittechnik auf. In Frankreich, das zu diesem Zeitpunkt viel Strom importierte, wurden Verbraucher aufgefordert, ihren Bezug zu verringern.
+Gridradar.net äußerte sich zu begünstigenden Faktoren. Zum einen ist derzeit die Last pandemiebedingt geringer, was zur Folge hat, dass weniger konventionelle Kraftwerke am Netz sind. Dadurch sinkt der Effekt der rotierenden Massen, die im Netzverbund die Mikroschwankungen wegbügeln und die in einem solchen Störfall die erste Verteidigungslinie bilden. Ein 500-Megawatt-Braunkohleblock bringt zum Beispiel mit seinem Turbosatz 170 Tonnen Schwungmasse – vom Turbinen-Hochdruckteil bis zum Generator-Induktor – auf die Waage. Diese Masse an Stahl und Kupfer und einer Drehzahl von 3.000 Umdrehungen pro Minute stellt eine erhebliche Schwungmasse dar. Gekoppelt über das Netz sind also mehrere tausend Tonnen Massenträgheit mit dem entsprechenden Drehmoment wirksam.Mit der sinkenden Zahl in Betrieb befindlicher Turbo-Generator-Sätze geht nicht nur die Massenträgheit, sondern auch die Menge der verfügbaren Primär- und Sekundärregeleistung zurück, die nur von konventionellen Kraft- und Pumpspeicherwerken bereit gestellt werden kann. Die innerhalb weniger Sekunden erforderliche Primärregelleistung könnte auch durch Großbatterien erbracht werden, dies jedoch zu erheblichen Kosten und gegenwärtig sind sie nicht in nennenswerter Zahl verfügbar.
+Was leisteten die massenhaft installierten Wind- und Solaranlagen in Deutschland im fraglichen Zeitraum? Bei einer Netzlast von 66,26 Gigawatt (GW) um 13 Uhr lieferten sie gemäß Einspeisevorrang des EEG alles, was sie konnten: 4,34 GW Windstrom (6,5 Prozent des Bedarfs) und 2,12 GW Solarstrom (3,2 Prozent)1. Da sie in keiner Form an der Netzregelung und Netzdienstleistungen beteiligt sind, waren sie bezüglich der Störung weder betroffen noch beteiligt. Sie waren, um eine populäre Kanzlerinnenformulierung zu gebrauchen, „nicht hilfreich“. Eine frequenzstabilisierende Wirkung durch die Massenträgheit der Rotoren der Windkraftanlagen gibt es nicht, da die Netzkopplung elektrisch über Umrichter erfolgt. Der erzeugte Gleichstrom wird in eine digitalisierte Sinuskurve überführt und als Drehstrom abgeführt, bei zu starker Abweichung von der Netzfrequenz schalten sich die Anlagen ab.
+Nun soll ausgerechnet der massenhafte Ausbau dieser Technologien das künftige Stromversorgungssystem dominieren. Die Fragen der rotierenden Massen, der Frequenzhaltung und der Spannungsregelung wird im Zusammenhang mit dem fortschreitenden Zubau volatiler Einspeiser schon lange in der Branche diskutiert. Nur im politischen Raum mit der ausschließlich CO2-zentrierten Sicht auf die Energieversorgung nicht. Schon längst hätte man den „Erneuerbaren“ Systemverantwortung übertragen müssen.
+Unterdessen steigt die Anfälligkeit des Systems durch immer höhere Komplexität, durch die erhöhte Einspeisung von Strom in die unteren Spannungsebenen (dezentrale Erzeugung, vor allem regenerativ), durch verstärkten Handel, durch stärkere Erzeugungsschwankungen und Verringerung der gesicherten Einspeisung.
+Einige Störungen aus jüngerer Vergangenheit zeigen verschiedene Ursachen. Bedenklich dabei ist, dass einige Ereignisse nicht oder nicht vollständig aufgeklärt werden konnten:
+14. Dezember 2018: Abschaltungen von Teilen der deutschen Aluminiumindustrie („Prognosefehler bei den erneuerbaren Energien aufgrund einer komplexen Wetterlage“).
+10. Januar 2019: Frequenzabfall auf 49,8 Hz – zwei gestörte Kraftwerke in Frankreich, in Verbindung mit einer defekten Messstelle im Netz. Dennoch hätte es diesen Einbruch nicht geben dürfen
+24. Januar 2019: Überfrequenz von fast 50,2 Hz, Ursache unbekannt, evtl. hat sich das Netz „aufgeschaukelt“.
+3. April 2019: Frequenzabfall 49,84 Hz – Ursache unklar
+20. Mai 2019 „Alarmstufe rot“ bei Swissgrid
+6., 12. und 25. Juni 2019: bis zu 7 GW Unterdeckung im deutschen Netz – Auswirkung des „Mischpreisverfahrens“ – Spotmarktpreis höher als Regelenergiepreis, Bilanzkreisverantwortliche haben gepokert. Inzwischen sind die Regularien geändert.
+7. Juni 2019 Datenpanne bei der europäischen Strombörse EPEX, dadurch Entkopplung des europäischen Marktes. Ursache war vermutlich ein „korruptes“ Datenpaket.
+8. Januar 2021 Unterfrequenz 49,742 Hz ?
+(Aufzählung nicht vollständig)
+Wie man sieht, können die Störungsursachen vielfältig sein und unglückliche Kombinationen verschiedener Ursachen unabsehbare Folgen haben. Dass die richtunggebende Politik dies wahrgenommen hat, ist nicht zu erkennen.
+Daten aus: https://energy-charts.info/
+Der Beitrag erschien zuerst bei TE hier
+Weiterhin heißt es:
+Die genannten Stromausfälle in Flensburg sind darauf zurückzuführen, dass der Netzbetreiber dort zeitweise nicht das in Deutschland vorgeschriebene n-1 Prinzip einhält. So ist es in der Vergangenheit dazu gekommen, dass singuläre Ereignisse Stromausfälle verursacht haben. In dem genannten Fall war ein Hochspannungskabel bei der Legung beschädigt und dann scheinbar unfachmännisch geflickt worden. In einem davor liegenden Fall geriet ein Kleintier in eine Schaltanlage und leitete einen Kurzschluss ein, dem die Anlage, wie Medienberichte zeigten, nicht standhielt und demzufolge große Zerstörung wegen unzureichender Kurzschlussauslegung nach sich zog. In beiden Fällen konnte wegen fehlender Netzanbindung an das deutsche Netz über Stunden nicht wieder versorgt werden. In Flensburg meidet man seit jeher die Netzanschlusskosten an das deutsche Netz, obwohl man hinsichtlich der KWK Förderung einer der größten Nutznießer der deutschen Energiewende ist. In der Folge führt das zu einer unsicheren Stromversorgung bei gleichzeitig hohen Strom- und Wärmepreisen im bundesweiten Vergleich.
+Bei dem Ereignis kam es zu einem kritischen Frequenzeinbruch und einer Netzaufsplittung im europäischen Verbundsystem. „Der Normalbereich (49,8 – 50,2 Hz) wurde dabei erstmals seit dem 4. November 2006 mit 49,746 Hz unterschritten und stellt damit die zweitschwerste Großstörung im europäischen Verbundsystem (ENTSO-E RG-CE) dar“, heißt es.
+2006 hatte die Abschaltung zweier Hochspannungsleitungen in Deutschland zu einem Frequenzabfall geführt. Daraufhin fiel in mehreren europäischen Ländern der Strom aus.
+Ich kann dem Bericht nur Zustimmen! Auch müssen die Regelkreise am Abend wieder ausgeglichen sein – was reinkommt muss auch wieder rausgehen um die Netzstabilität nicht zu gefährden.
+Und da kommt die Frage auf, ob Sie Ihren Titel an der Baumschule erworben haben, oder einfach nur ein xxxxxxxx sind?
+Letztmalige: Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+Nun ja, 6Kva für 1000 Euros…….. Wenns ein ungeregelter ist, ok ….. ansonsten sollten sie bei Honda und Konverter bleiben, müssen da aber viel mehr bezahlen.
+Für 1000 gibts nichts was wirklich durchhält, lasse mich aber gerne belehren wenn sie können.
+Zudem ist es ja mit dem Agregat nicht getan……… es muss auch eine Installation erfolgen. Das Netz sollte man abschalten und mit dem Agregat betreiben können. ( Schalter Umschalter usw.) Und er sollte Lärmgeschützt werden, wegen der Nachbarn.
+Bei der Katastrophe in New-Orleans waren Leute die vorgesorgt hatten, einen hohen Risiko ausgesetzt. Diejenigen die nichts hatten, glaubten nämlich es sei durchaus ihr recht „on anderen gerettet“ zu werden, sprich deren Vorräte zu-geteilt zu bekommen.
+Stromaggregate die starke Lastschwankungen ausgleichen müssen, leben nicht lange, umso mehr wenn es Billigprodukte sind.
+Also wenn sie Waschen, nur waschen, wenn sie Kochen eben nur das….. das sollte intelligent ausgeglichen werden. Und heizen sollten sie nicht vergessen. Ist es kalt überstehen sie nicht lange ohne. Ich gebe ihnen da nur 3-4 Tage.
+Ansonsten, schade das es den Blackout nicht gab, wirklich schade.
+Ich habe vorgesorgt, kann Heizen, Kochen usw. ganz ohne Stromaggregat.
+Und ich kann mich wehren sollte das nötig sein.
+Aber es wäre den Menschen zu wünschen, dabei würden die Idioten aller Klasswen sehr viel mehr lernen wie sonst.
+Zur Intelligenz sei gesagt: Im Beitrag steht, dass ich damit lediglich den Strom für die Heizung bereit stelle, und das auch nur für zweimal eine Stunde am Tag. Schön, dass Sie in Ihrem Beitreag darauf hinweisen, dass man das Heizen nicht vergessen sollte.
+Im Übrigen denke ich, dass Sie mal Reste Ihrer Höflichkeit rauskramen sollte, und mich mit der üblichen Anrede anschreiben sollten.
+Bei mir stehen auch ein Dieselaggregat und über 100 Liter aus dem gleichen Grund in der Garage. Für Diesel gibt es Zusätze, die ihn lagerfähiger machen. Wir haben zwei Dieselautos, da läßt sich der Bestand auch gut umwälzen.
+Fürs Kochen habe ich einen Petromax im Schuppen und Holzvorräte, Wasser ist auch kein Problem (Brunnen).
+Ihre Umwälz-Pumpen scheinen aber recht alt zu sein. Meine Hocheffizienzpumpen, die ich seit einigen Jahren habe, ziehen nur um die 5 – 7 Watt. Kurzzeitiger Hauptverbraucher unserer Heizung ist der Zünder der Pelletheizung mit 650 Watt.
+ich glaube nicht !!
+Der ultimative Diesel eines bekannten Anbieters enthält nach Angaben auf deren Webseite keinen Bio Anteil. Damit sollte sich das Problem der Lagerfähigkeit erledigt haben. Bedenken Sie auch die Begehrlichkeiten Ihrer Nachbarn und die maximal zulässige Menge, die Sie in Ihrem Gebäude lagern können/dürfen. Mit 100l überstehen Sie einen 2wöchigen Blackout nicht.
+Bitter, daß man in einem der (noch) reichsten Länder dieser Welt über so eine Frage überhaupt nachdenken muß
+Auch ich habe einen Generator 6 kVA, allerdings Benziner.
+Den gab es mal günstig gebraucht, ehemals THW.
+Wer wie ich Ahnung von Elektrik hat, klemmt den schnell mal im Notfall an die Verteilung an.
+Den Sprit lagere ich im Blechkanister 20 Liter.
+Sowohl V-Power als auch Ultimate sollten frei von Biosprit sein, somit lange lagerfähig.
+Gerade bei Benzin gibt es ein Problem beim Lagern, in DL sind 20 Liter zulässig.
+20 l in der Garage, 20 l im Keller, 20 l im Gartenhäuschen…
+Geht es nur um die Zentralheizung, würde ich eher zu einem kleinen einphasigen Generator mit Konverter raten, weil die spannungs- und frequenzstabil sind.
+Nachteil, man sollte hohe Einschaltströme vermeiden, z.B. Baustrahler oder Maschinen.
+Sofern moderner Bauart, sind die Dinger klein, leicht, leise und spritsparend.
+Wo bekommt man im Notfall Diesel her?
+Bei uns in der Gegend gibt es einige Genossenschaften.
+Die im Nachbardorf hat den Tank oberirdisch, Zapfen ohne Strom möglich.
+Zudem haben Bauern meist nicht gerade kleine Dieselvorräte.
+Nicht selten haben selbst kleinere Speditionen ein eigenes Tanklager.
+Hat der Nachbar eine Ölheizung, jedoch kein Notstromaggregat, wird es einfach.
+Der bekommt Strom und liefert dafür Heizöl, den Treibstoff.
+Admin, ist der Kommentar ohne Steuerzeichen oder andere Ungereimtheiten?
+Geschrieben habe ich den im Editor eines Forums, dann hier hineinkopiert.
+Mein Vorschlag Inverter-Stromerzeuger war nicht direkt für Sie gedacht, allgemein.
+Ein kleiner Inverter-Stromerzeuger reicht locker für eine Zentralheizung plus Kleinverbraucher.
+Heizungsanlagen mit Pumpen (EFH) kommen normalerweise mit einer Phase aus.
+Sie haben sich bestimmt Gedanken zum Tagesgang gemacht, ich auch.
+Ich lebe in einem größeren Einfamilienhaus mit Seniores.
+Da sollte schon etwas Luxus sein, z.B. Waschmaschine und Geschirrspüler.
+Funktioniert Wasser noch, wollen wir auch mal duschen und Seniora Haare fönen.
+Zudem ist unser Hausanschluss dreiphasig, da gehen Aggis ab etwa 5 kVA los.
+Der Generator ist eine Synchronmaschine, verdaut auch Blindlast.
+Bei etwa halber Last, Zentralheizung plus Waschmaschine, komme ich auf ca. 3 l/h.
+Meine Gedanken mögen als Anregung für (spätere) Mitleser dienen!

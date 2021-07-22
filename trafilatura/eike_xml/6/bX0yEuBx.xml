@@ -1,0 +1,87 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Schweden baut Straßen mit Stromschiene für Autos, kostet rund 1 Mio € per km – um die globale Erwärmung zu bekämpfen" author="Andreas Demmig" date="2018-04-18" source="https://eike-klima-energie.eu/2018/04/18/schweden-baut-strassen-mit-stromschiene-fuer-autos-kostet-rund-1-mio-e-per-km-um-die-globale-erwaermung-zu-bekaempfen/" hostname="eike-klima-energie.eu" excerpt="MICHAEL BASTASCH Schweden hat die erste elektrifizierte Straße der Welt öffentlich zugänglich gemacht, aber es war nicht billig." categories="Energie" tags="" fingerprint="eBL5ZszVyKnjC5qGLlmLUqaBVIc=">
+  <main>
+    <p>Die knapp 2 km der elektrifizierten Straße kosteten laut Berichten rund 2,5 Millionen Dollar. Schweden baut die Straßen als Teil seines Ziels zur Reduzierung der globalen Erwärmung, die Emissionen im Verkehrssektor sollen bis 2030 um 70 Prozent reduziert werden.<lb/>Mit rund 500.000 km Straßen in Schweden, einschließlich 20.000 km Autobahn, wäre die Elektrifizierung aller Straßen eine unglaublich kostspielige Angelegenheit. Es ist billiger als 500.000 km öffentlicher Nahverkehr zu bauen, aber auch in den Folgekosten extrem teuer.<lb/>Was auch nicht berichtet wird, sind die Kosten für die Instandhaltung und Elektrifizierung der Straßen, die von Elektroautos genutzt werden können, um sich beim Drüberfahren aufzuladen. Das Konsortium, das hinter dem Projekt steht, sagte, dass auch traditionelle Fahrzeuge mit Gasantrieb auch in der Lage sein könnten, die Straße zu nutzen, um ihre Batterien aufzuladen, so die Firmengruppe, die die Straße gebaut hat.</p>
+    <p>„An der Oberfläche gibt es keinen Strom“, erzählt Hans Säll, CEO von eRoadArlanda (ein schwedisches Straßenbauunternehmen) dem The Guardian. „Es gibt zwei Fahrspuren, gerade so wie eine Steckdose in der Wand.Die Energie ist fünf oder sechs Zentimeter weiter unten. Aber wenn die Straße mit Salzwasser überflutet wird, haben wir festgestellt, dass die Spannung an der Oberfläche nur ein Volt beträgt. Da könnten Sie barfuß darauf laufen.“</p>
+    <p>Ganz offensichtlich würden Hybrid- und Elektrofahrzeuge von Straßen zum wiederaufladbaren der Antriebsbatterie am meisten profitieren, obwohl sie nur einen kleinen Teil der schwedischen Fahrzeugflotte ausmachen. Die Schweden haben seit 2011 mehr als 50.000 leichte Hybrid- und Elektrofahrzeuge gekauft.<lb/>Allerdings machten Hybrid- und Elektrofahrzeuge in 2017 nur 5,2 Prozent der Pkw-Neuzulassungen aus. Und das mit großzügigen Zuschüssen für Elektrofahrzeuge.<lb/>Erschienen auf The Daily Caller am 13.04.2018<lb/>Übersetzt durch Andreas Demmig<lb/>http://dailycaller.com/2018/04/13/worlds-first-electrified-road/<lb/>* * *<lb/>Technische Zusatzinformation<lb/>Andreas Demmig<lb/>Wie oben beschriebene eRoad funktioniert, wird u.a. hier beschrieben.</p>
+    <p>Ein Stromabnehmer am Fahrzeug, erkennt beim Drüberfahren, dass eine Stromschiene in der Fahrbahn eingebaut ist. Die Position soll dann selbsttätig gefunden werden, Der Stromabnehmer senkt sich ab – schiebt den Schleifkontakt nach unten bis zur Stromschiene.</p>
+    <p>Das Schienensystem erkennt wo ein Fahrzeug sich darüber befindet und schaltet nur ein Stück Stromschiene ein. Wie lang dieses aktive Stück ist, habe ich nicht gefunden, offenbar ist das Stück aktivierte Stromschiene länger als ein LKW. Es müssen also in jeder der Sektionen Sensoren sein und Leistungsschütze die Stromzuführung schalten.</p>
+    <p>Bei Ausweich- oder Überholmanövern, soll sich der Stromabnehmer wieder automatisch lösen und anheben. (schnell genug?) Es versteht sich dann von selbst, dass der Fahrer längere Zeit auf der Spur bleibt. Arlanda schreibt: Damit ist das Reichweitenproblem der E-Autos gelöst, denn die Batterien brauchen nur die nächste elektrifizierte Straße zu erreichen.</p>
+    <p><lb/>Schütze (Kontakte) für die Stromführenden Abschnitte deshalb, damit die Spannung sicher abgeschaltet ist. Leistungshalbleiter, z.B. IGBTs wären verschleißärmer, schalten aber nicht galvanisch ab – also keine sichere Trennung. Es muss verhindert werden, dass z.b. kein Lebensmüder mit einem Eisendraht an die Stromschiene kommt.<lb/>Ähnliches gibt es bei Straßenbahnen schon vor seit längerer Zeit. Aus ästhetischen Gründen soll in der Fußgängerzone keine Oberleitung gespannt werden. Bordeaux und Dubai haben solche Systeme. Allerdings keine Schlitze in der Oberfläche, sondern flache und glatte Strombahnen in der Mitte der Schienen (gab es schon bei Werner-von-Siemens erster elektrischer Bahn in Berlin, 1879, mit dritter Schiene 150 V, Prinzip „Märklin“)</p>
+    <p>Kontaktbehaftete Schlitzzuführungen in Straßen wurden bei Straßenbahnen schon vor langer Zeit in verschiedenen Städten der Welt getestet, haben sich wegen sehr hoher Bau- und Wartungskosten, sowie hohe Störanfälligkeit (Schmutz, Steine, Salzwasser) nicht durchgesetzt. Bei der eRoad ist mir nicht klar, wo das Wasser hin abläuft – und so gut, dass es Schmutzteile, kleinere oder größere Gegenstände und Holzstöckchen mit nimmt, vielleicht wird täglich gereinigt?</p>
+    <p>Dubai erscheint mir noch am besten geeignet (Kosten nicht betrachtet), denn dort regnet es maximal eine Woche im Jahr, und Schnee ist nur bei kommender Eiszeit zu befürchten.</p>
+    <p>Ergänzung:</p>
+    <p>U-Bahnen und Metros nutzen oft eine Stromschiene neben der Schiene auf eigenem Gleiskörper. Vorteil: Höhere Leistungabnahme und niedrigere Tunnel.</p>
+    <p>Bombardier hat mit berührungsloser Übertragung experimentiert. Die Übertragunsverluste sind jedoch enorm (Energie macht rund ein Drittel der Kosten für einen Straßenbahn oder Metrobetrieb aus)</p>
+  </main>
+  <comments>
+    <p>Auch Deutschland wird davon wohl nicht verschont. 2017 vereinbarten Angela Merkel und Schwedens Stefan Löfven den Bau einer 12 km langen Teststrecke in 2018. Allerdings soll die Strecke in Deutschland Oberleitungen bekommen statt Schienen …</p>
+    <p>Ich halte das elektrifizieren der Strasse fuer eine gute Idee, z.B. auf Autobahnen, Highways und besonderen Landstrassen, sofern die Technik sicher ist.</p>
+    <p>Danke vielmals fuer den Artikel</p>
+    <p>Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.</p>
+    <p>Warum finden Sie die Elektrifizierung der Straße für eine Gute Idee? Welchen Mehrwert bringt diese Elektrifizierung der Straße für Sie persönlich und im allgemeinen für die Gesellschaft gegenüber der Mobilität durch einen Verbrennungsmotor?</p>
+    <p>Bitte gewöhnt euch halt an, eure Sichtweisen auch zu begründen….sachlich und anschaulich darzu legen. Danke!</p>
+    <p>Das Ganze erinnert mich an die Carrera-Autorennbahn aus den 70ern („slot cars“).</p>
+    <p>Das muß vermutlich in ausgiebigen Tests unter strenger wissenschaftlicher Begleitung herausgefunden werden …</p>
+    <p>Egal wie, es ist an den Haaren herbeigezogener Unsinn. Drehen jetzt alle durch?</p>
+    <p>Hatte die Carrera-Autorennbahn aus den Siebziger Jahren nur einen Schlitz?</p>
+    <p>Das nachfolgende Auto fährt also einfach um den Pannenwagen herum.</p>
+    <p>Merke: Die Autos fahren nicht auf Schienen. Sie haben Batterien und die Stromschienen sollen nur deren Aufladen während der Fahrt ermöglichen.</p>
+    <p>Man nimmt den Strom also nicht direkt ab sondern speist diesen erst in einen Akku/Batterie und dann wird dieser Strom aus den Akku/Batterie wieder ausgespeist…wenn da mal der Akku/Batterie nicht zur weißglut (überhitzt) gebracht wird…</p>
+    <p>Wenn man ein Schienensystem aufbaut, dann macht es wenig Sinn über den Umweg von Batterie/Akku (Speichern) zu gehen sondern man sollte hier schon aus Kostengründen/Effektivität den direkten Weg nehmen. Eine Batterie/Akku kann hier nur als Not-Energie Puffer dienen…wie bei der Umfahrung des Unfallort.</p>
+    <p>Aehm… nein.</p>
+    <p>Es ist zum einen nicht geplant ALLE Strassen und Fahrtwege damit auszustatten (es waere auch gar nicht moeglich). Ergo ist die Schiene einfach eine lange Ladestation, an der waehrend der Fahrt der Akku geladen wird.</p>
+    <p>„man sollte hier schon aus Kostengründen/Effektivität den direkten Weg nehmen.“</p>
+    <p>Nein. Der elektrische Strom legt keinen Umweg zurueck. Batterien und Motor und Netzanschluss sind parallel ‚direkt‘ miteinander verbunden. Auf so kurze Distanz gehen die Verluste gegen Null.</p>
+    <p>Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.</p>
+    <p>Das ist ja irre!</p>
+    <p>„Zwei Dinge sind unendlich, das Universum und die menschliche Dummheit,</p>
+    <p>aber bei dem Universum bin ich mir noch nicht ganz sicher.“</p>
+    <p>Albert Einstein</p>
+    <p>Dass die beschriebene Lösung die für das Bewältigen einer Steigung benötigte Antriebsenergie für ein E-Auto mit einer durchaus ‚gewichtigen‘ Batterie auch nur annähernd bereitzustellen vermag, kann man getrost ebenso ausschließen, wie die Akzeptanz der grotesken Einschränkungen, die einem Nutzer dieser Technik zugemutet werden, der die Bewegungsfreiheit seines PKW im bisherigen, normalen Straßenverkehr gewohnt ist.</p>
+    <p>Ergo – ein vermutlich verspäteter Aprilscherz ohne Wert.</p>
+    <p>Es handelt sich dabei um einen Mann, der sich als Frau ausgibt. Transgender nennen sie sich wohl selber?</p>
+    <p>Solche Leute, die nicht das akzeptieren, als was der Herrgott sie geschaffen hat, sind mir zutiefst suspekt….</p>
+    <p>Ob Mann, Frau, beides oder nichts. Es kommt auf die Taten an.</p>
+    <p>Das ergibt dann 1,9 MWh pro Fass, einen Tagesverbrauch von 4,6 TWh und einen Jahresverbrauch von 1680 TWh in Form von Öl. Der Stromverbrauch belauft sich derweil auf 590 TWh. Öl liefert also nominell rund 3mal so viel Energie wie Strom.</p>
+    <p>Ich sage nominell, weil ja noch der Faktor Wirkungsgrad ins Spiel kommt. Setzen wir den bei lediglich 33% für die Verbrennung von Öl an, und mit 100% beim Strom, dann würde sich der Stromverbrauch immer noch verdoppeln, wollte man das Erdöl zu ersetzen.</p>
+    <p>Da Wind- und Solarstrom bekannter Maßen sinnlos sind, darf man fragen aus welchen Quellen denn nun die doppelte Menge Strom kommen soll..</p>
+    <p>Was fällt Ihnen eigentlich ein?</p>
+    <p>Nein, dürfen Sie nicht!</p>
+    <p>Genau!</p>
+    <p>Nach der Arbeit legen Sie sich in den kühlen Keller, um keine Energie zu verbrennen. Und sagen Sie Ihren Angehörigen, dass Sie auf keinen Fall das Auto bewegen sollen, denn genau Ihr Auto homogenisiert gerade das Stromnetz Deutschlands (oder sogar Europas?).</p>
+    <p>Es gibt doch auch so schon genügend gute Gründe gegen Elektromobilität. Da muss man die Dinge nicht noch schlechter darstellen als sie schon sind.</p>
+    <p>Aber sonst lieben Sie schon ihre Freiheit…ihre Eigenverantwortung und Selbstbestimmung?! Sie wollen sich vorschreiben lassen, wann Sie mit ihren Auto fahren können und auch noch wohin Sie fahren dürfen?! Ich weis nicht…das die meisten Deutschen immer noch der Diktatur so anhängend sind….SELBER DENKEN, FREIHEITS DENKEN, SELBSTBESTIMMTES DENKEN….all dies ist mit der Energiewende/EEG/E-Mobilität nicht zu haben….Energiewende/EEG/E-Mobilität heißt Überwachung, staatliche Kontrolle, NGO Politik….also ALLES das, was einer freien Gesellschaft/Denken widerspricht.</p>
+    <p>Nachts wird weniger Strom verbraucht?</p>
+    <p>Das denken Sie!</p>
+    <p>Da scheint keine Sonne und meistens gibt es keinen Wind.</p>
+    <p>Dann muss doch, dummerweise, zu 100 % der böse, konventionell erzeugte Strom abgenommen werden.</p>
+    <p>Pfui!</p>
+    <p>Und damit wollen Sie die E‑Autos laden?</p>
+    <p>Die Welt geht unter!</p>
+    <p>@ Marc Hofmann: Nein, ich möchte mir nicht vorschreiben lassen, wann ich mit meinem Auto wohin fahre. Auch halte ich die Energiewende für politisch geistesgestört (um es mit Hans-Werner Sinn zu sagen). Das einzige was ich sagen wollte ist, dass nicht jeder sein Auto nach der Arbeit an ein Schnellladesystem hängen würde, sondern nur derjenige, der es gleich wieder braucht. Probleme dürfte es eher geben, wenn sich viele gleichzeitig zum Urlaub in den Süden aufmachen und irgendwo am Brenner nachladen müssen.</p>
+    <p>Sie sind Off-Road-Fahrer? Ich werde beim Autofahren permanent gezwungen dem Verlauf der Straße zu folgen. Ob das Lenken nun mit meinen Händen, per Schiene oder durch autonomes Fahren erfolgt, ist mir ziemlich egal.</p>
+    <p>Dann fahren Sie doch daher, wo die Akkus nicht geladen werden. Und immer schön geradeaus.</p>
+    <p>Vorschlag: E-Autos fahren umsonst, aber Diesel und Benziner zahlen horrende Beträge, damit die Kosten wieder reinkommen und die nächsten Kilometer gebaut werden können.</p>
+    <p>Vielleicht ist das Beste aus Schweden ihr Lachs in vielen Variationen.</p>
+    <p>Die Lachse bekommen Stromschienen angelegt, damit sie sich beim Schwimmen aufladen und die Maschinen, die sie am Lebensende verarbeiten, den Strom wieder abnehmen können.</p>
+    <p>Wo kriegen die tollen E-Autos den Strom her, wenn 20 cm Schnee auf der Straße liegen, was in Schweden monatelang der Normalfall ist?</p>
+    <p>Aber was reg ich mich auf! Ein paar Verkehrstote mehr muss man sich schon mal gönnen, wenn man die Welt rettet!</p>
+    <p>Und die Lebensdauer der Busse war kaum länger als die normalen Busse.</p>
+    <p>Straßenbahnen und andere Schienenfahrzeuge sind gut 30 Jahre und länger im Einsatz.</p>
+    <p>O-Busse sind nur wegen Ökologie wieder in Gespräch gekommen.</p>
+    <p>Ich würde für die Innenstadt dann lieber noch billig gebaute Batterie Busse nehmen – im Sommer!</p>
+    <p>Für die Stosszeiten!</p>
+    <p>Das Thema ist dann aber die Personal Vorhaltung.</p>
+    <p>PS Thema des Berichts ist aber die Idee, durch auffräsen von Straßen und verlegen einer Stromschiene viel Geld zu verdienen (denken Sie mal an Beleuchtungssysteme).</p>
+    <p>Übrigens, die Fahrradfahrer mit den dünnen Reifen werden sich über so etwas kaum freuen.</p>
+    <p>http://www.faz.net/aktuell/rhein-main/hessen-startschuss-fuer-ersten-ehighway-15347900.html</p>
+    <p>Für LKWs finde ich die Idee gar nicht so schlecht, besser als mit Stromschienen.</p>
+    <p>Der Michel bezahlt. Das ist es und sonst nichts.</p>
+    <p>All das läßt sich sicher in den Griff bekommen. Ich fürchte nur, das Klima in Schweden wird es nicht merken, und daß Schweden ein Hitzeproblem hätte, wäre mir auch neu …</p>
+    <p>Man muss doch gar nicht so weit fahren. In Salzburg fahren seit Langem O-Busse (Oberleitungs-Busse). Das System scheint ausgereift. Warum wird darüber nicht mal berichtet?<p/><p/></p>
+    <p>In Berlin gab es das bis zu den sechziger Jahren auch noch. Aber dann wurden diese Busse durch Disel-Busse ersetzt. Die damals noch im Westteil Berlins fahrende Straßenbahn wurde wenig später ebenfalls abgewickelt. Die Hintergründe sind mir aber unklar – ich war noch ein Kind.</p>
+    <p>Chris Frey</p>
+    <p>Diese O-Busse in Salzburg sind ja nichts anderes als Straßenbahnen. Die Salsburge sparen sich mit den O-Bussen einfach nur die Anschaffungskosten für das Schienensystem und die Unterhaltskosten für dieses System. Ansonsten ist das O-Bus System genauso ein STARRES System wie das Straßenbahnsystem oder eben das Schienen-Auto-System.</p>
+    <p>Die Schienen oder die Oberleitungen…also die „Stromversorgung“ machen diese System unflexibel und starr…nix mit mal kurz ausweichen, überholen…kollektiv wird hier alles und jeder getacktet….woran mich das nur wieder einmal erinnert…</p>
+  </comments>
+</doc>

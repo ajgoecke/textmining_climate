@@ -1,0 +1,241 @@
+Teil 2
+1 Speicher für Elektroenergie
+Hinweis: Im ScienceScepticalBlog erschien 2013 ein Artikel[18]:
+„Aufwind nur für den Strompreis? Deutschlands Energiewende und die Realität“.
+Er beschreibt ebenfalls unser Thema, ist auch heute noch aktuell und empfehlenswert.
+Diese Ausarbeitung behandelt ausschließlich Speicher mit Rückverstromung, sonst wäre sie zu lang (und zu aufwendig) geworden. In diesem Kapitel wird gelistet, welche Speichertechnologien zur Lösung brauchbar sind. Als Basis dienen dazu im Wesentlichen die Studien „Erstellung eines Entwicklungskonzeptes Energiespeicher in Niedersachsen“[1] und Hartmann et al[24]. Die „Niedersachsen-Studie 2014“[1] dient als Vorlage für die Niedersächsische Landesregierung. Man kann davon ausgehen, dass das darin über Speichertechnologien Beschriebene aktueller Wissenstand ist.
+1.1 Im Großmaßstab sinnvolle Speichertechnologien
+Die Niedersachsen-Studie 2014[1] schreibt:
+In dieser Studie werden Technologien analysiert, die Potenzial für die mechanische und chemische Energiespeicherung im Netzmaßstab aufweisen. Im Rahmen der Studie werden folgende konventionellen Speichertechnologien detailliert betrachtet:
+· Pumpspeicherwerk (PSW)
+· Druckluftspeicher (AA-CAES)
+· Wasserstoffspeicher (H2-Speicher)
+Bei einem Einsatz als Kurzfrist- und Mittelfristspeicher sind Pumpspeicherwerke heute nach wie vor die günstigste Technologie, dicht gefolgt von adiabaten Druckluftspeichern. Als Langfristspeicher sind adiabate Druckluftspeicher heute die wirtschaftlich vorteilhafteste Speichertechnologie.
+Wasserstoffspeicher sind heute aus ökonomischer Sicht (noch) nicht konkurrenzfähig. Die direkte Speicherung von Wasserstoff in Kavernen ist vorteilhafter als die Einspeisung von Wasserstoff bzw. E-Methan (methanisierter Wasserstoff) in das Erdgasnetz.
+Ausblick 2030:
+Auch zukünftig (selbst bei optimistischen Annahmen bezüglich der technischen Entwicklung der Wasserstoffspeicher) sind beim Einsatz als Kurz- und Mittelfristspeicher Pumpspeicher und adiabate Druckluftspeicher die günstigere Technologie. Bei einem Einsatz als Langfristspeicher hingegen stellen Wasserstoffspeicher die klar vorteilhafteste Technologie dar. Soll in Zukunft Strom im großen Maßstab über längere Zeit (in Langfristspeichern) gespeichert werden, so geht trotz der unbestritten vorhandenen Nachteile (niedriger Wirkungsgrad und hoher leistungsspezifischer Investitionsaufwand) auch unter ökonomischen Gesichtspunkten kein Weg an Wasserstoffspeichern vorbei.
+Auf der Regierungsseite steht es so:
+BmBF[19], Netze und Speicher
+Um den Strombedarf auch künftig zuverlässig decken zu können, müssen diese Leistungsschwankungen ausgeglichen werden. Hier setzen die Speichertechnologien an: Der in Spitzenzeiten erzeugte, aber nicht verbrauchte Strom wird gespeichert, so dass er nicht verloren geht. Vielversprechende Ansätze der derzeitigen Forschung an dauerhaften Energiespeichern sind zum Beispiel elektrische Speicher wie Lithium-Ionen-Batterien, stoffliche Speicher, bei denen die Energie zum Beispiel durch die Erzeugung von Wasserstoff oder Methan gespeichert wird, oder thermische Speicher, etwa in Verbindung mit der Solarthermie.
+Der BUND schreibt, BUND 2010[3]
+Stellungnahme zur Frage der Stromspeicherung 2010:
+Sinnvoll ist ein Konzept, das vorrangig auf kleinere lokale, dezentrale Speicherung z.B. auf Batteriebasis20 sowie mit Biomasse-KWK setzt mit einer kurzfristigen regionalen Zwischenspeicherung auf der Basis Druckluft/Pumpspeicher und überregionalen Langfristspeicherung mit Pumpspeichern/ Wasserstoff oder Methan verbindet.21 Hierzu sind Systemstudien zur Optimierung der Speicherstrategien durchzuführen.
+Wir stellen fest
+Man ist sich bei den Groß-Speichertechnologien in etwa einig.
+Damit hört diese aber schon auf. Von den in der Niedersachsen-Studie genannten, drei Haupttechnologien wird auf der Regierungsseite nur eine erwähnt. Die zwei auf der Regierungsseite zusätzlich genannten, werden in der Niedersachsen-Studie für einen großtechnischen Einsatz nicht einmal der Betrachtung Wert gehalten.
+Der BUND sieht zusätzlich Biogas als sinnvoll an. Dabei hat der NABU in seiner Studie
+NABU 2011[20] „Agrargasanlagen und Maisanbau“ dargestellt, dass Agrargasanlagen vom Wirkungsrad her schlichtweg ein Desaster sind und zusätzlich massivste Umweltprobleme verursachen.
+BE e.V. A. Hauer[6]. Die o.g. Autoren gehen von einem benötigten Einsatz an konventioneller Energie von 60 – 106 % aus, d.h. bei langen Transportwegen kann der Betrieb der Anlage sogar mehr Energie verbrauchen als Strom ins Netz eingespeist wird.
+2 Kosten der Elektroenergie- Speicherung
+Vor den im Teil 3 kommenden Zahlen zu einzelnen Speichertechnologien anbei eine Übersicht zur Rentabilität von Speichersystemen. Beim Sichten der Literatur musste der Verfasser feststellen, dass dies enorm schwierig und nur ansatzweise möglich ist. Kosten scheinen beim Umsetzen des EEG wirklich keine Rolle zu spielen, weshalb sie fast nirgends angegeben werden.
+2.1 Basisinfo Stromspeicher
+Stromspeicher rechnen sich nicht
+Niedersachsen-Studie 2014[1]
+… Im heutigen Strommarkt ist es schwierig, Investitionen in großtechnische Speicher zu rechtfertigen. Die Wirtschaftlichkeit ist bei den derzeitigen Strompreisen und den Erlösen aus dem Regelenergiemarkt nicht oder nur äußerst schwer darstellbar. Ein Anreiz zum Bau von Speichern müsste durch eine Änderung der energiewirtschaftlichen Rahmenbedingungen geschaffen werden.
+Was sagt das: So lange es noch erlaubt ist, Strom durch bewährte, aber eben „dreckige“ und nicht-ökokonforme Kraftwerke zu erzeugen (Ökokirchen-Neusprech), lohnen sich Stromspeicher nicht. Es wäre nach wie vor billiger, überflüssigen Ökostrom nicht einzuspeisen (obwohl der nicht eingespeiste Strom als „Strom-Verhinderungsprämie“ durchs EEG voll bezahlt wird) oder ans Ausland zu verschenken.
+Dass das nicht-Einspeisen von Ökostrom eine zukunftsfähige Lösung wäre, ist nicht nur die Meinung des Verfassers. Auch andere sind schon darauf gekommen:
+TAB 2012[21].Bei starken Stromerzeugungsspitzen scheint eher die Abregelung der Stromerzeugung die sinnvollste Alternative zu sein. Diese Abregelung würde voraussichtlich in nicht unerheblichen Umfang erfolgen. So könnte es nach Abschätzungen des Energie-Forschungszentrums Niedersachsen (efzn) notwendig werden, bis 2017 rund 35 TWh Strom aus erneuerbarer Energieerzeugung abzuregeln.
+Die Niedersachsen-Studie 2014[1] weiß aber (den EEG-typischen) Rat. Man müsste doch nur ein weiteres Subventionsfass aufmachen.
+Zum EEG-Glück bietet einfaches Abwarten jedoch auch eine Lösung. Durch die zwangsweise Abschaltung von immer mehr konventionellen Kraftwerken muss die daraus bisher billig und problemlos generierte Grundlast in Zukunft zwangsweise aus Speichersystemen sichergestellt werden. Man kommt einfach nicht mehr daran vorbei – und die Kosten spielen automatisch keine Rolle mehr.
+Anm.: Im Ökosinn sind das natürlich keine Kosten. Denn die Speicher helfen ja mit, den Ökostrom weiter auszubauen. Und der ist nun mal erforderlich, um die Welt zu retten. Also sparen sie indirekt das teuflische CO2 ein. Eine Verrechnung mit CO2-Zertifikaten liegt da nah, FENES, OTH 2013[5] BE e.V. A. Hauer[6]. Wenn eine Tonne CO2 erst einmal wie geplant 20 EUR kostet, wird der Zertifikate-Kosten-Einspareffekt höher. Dann kosten auch die Speicher auf einmal nichts, sondern erwirtschaften CO2-Zertifikate-Verrechnungs-Gewinne – und die EEG-Welt ist wieder in Ordnung -.
+Und bevor der Verbraucher so viel bezahlen muss, wie in [8] dargestellt, wird die Politik doch wohl einlenken? Aber man sollte sich nicht sicher sein – die Welt vor etwas retten zu wollen, hat Deutschland bisher immer konsequent durchgezogen – und immer bitter bezahlt.
+Kommentar eines kritisch eingestellten Energie-Fachmannes zur Strom-Speicherung.
+F. Endres 2015[8]. In Deutschland werden ca. 30 GW Grundlast benötigt, um diese Bedingung zu erfüllen. Weder Windkraft- noch Solaranlagen können rund um die Uhr eine konstante Grundlast liefern, von der Phasensynchronität ganz zu schweigen. Will man dieses Ziel erreichen, muss man das Netz so umbauen, dass Speicher zwischen 20 und 100 TWh vorhanden sind.
+Wenn man in Deutschland alle Möglichkeiten, Pumpspeicherkraftwerke zu bauen, nutzt, erreicht man vielleicht 0,15 TWh an Speicherkapazität, das ist natürlich viel zu wenig. Es bleiben dann nur noch chemische und elektrochemische Speicher übrig, die in der Größenordnung bis 100 TWh sogar denkbar sind.
+Das ist technisch alles vorstellbar, nur wird der dann zu zahlende Strompreis alleine aufgrund der Alterung der Anlagen oder chemischen Verbindungen irgendwo zwischen 1 und 2 EUR pro kWh liegen. Ich erwarte, dass in einem solchen Szenario auch Batterien (Akkus) für die Netzstabilität erforderlich sind, weil die Elektrolyseanlagen ein stabiles Netz benötigen. In jedem dieser Szenarien werden die wiederkehrenden Kapitalkosten (wegen Alterung) den Strompreis auf weit über 1 EUR/kWh treiben – das wäre unvermeidbar. Der Traum vom kostenlosen Strom, wenn erst einmal genügend Windkraft- und Solaranlagen aufgestellt sind, wird für unabsehbare Zeit ein Traum bleiben.
+Wie immer, gibt es auch gegensätzliche Ergebnisse
+Osthessen News vom 02.06.2015, Artikel: „Energiewende kann nur mit den Menschen vor Ort gelingen!“. Hans-Josef FELL* über Ausstieg, Umstieg und Wirtschaftsmächte bei einem Vortrag vor der Energiegenossenschaft Vogelsberg eG, als Redner zu ihrer Generalversammlung.
+Auszug: Die Energiewende werde als zu teuer in Misskredit gebracht, anderslautende wissenschaftliche Berechnungen kämen kaum zum Zuge, bedauerte der Politiker, der seit Jahrzehnten als Streiter für die Energiewende unterwegs ist. „Ohne Ökostrom wäre in Deutschland der Strompreis um 11 Mrd. Euro teurer“, legte Fell dar, Windenergie und Solarstrom seien heute diejenigen Energien mit den niedrigsten Stromerzeugungskosten.
+*Der grüne Ex-MdB ist heute Präsident der Energy Watch Group und Botschafter für 100% Erneuerbare Energien.
+Zur Erinnerung anbei Herrn Trittins (damals Umweltminister) Vorhersage:
+BMUB Berlin, 30.07.2004 Mitteilung Nr. 231/04 2004[14]:
+"Es bleibt dabei, dass die Förderung erneuerbarer Energien einen durchschnittlichen Haushalt nur rund 1 Euro im Monat kostet – so viel wie eine Kugel Eis."
+3 Basisinfo Einspeisekosten Ökostrom
+Um Rechnen zu können, muss man die EEG-Vergütungen wissen. Diese verändern sich durch immer neue Regulierungsänderungen laufend, sind aber (langsam) abnehmend. Aktuell kann man mit den folgenden Werten Kostenabschätzungen durchführen.
+Quelle Schnurbein 2012[9], Tabelle 1
+Diese Darstellung deckt sich in etwa mit dem bei WIKIPEDIA Erneuerbare-Energien-Gesetz
+angegebenen 13 ct/kWh Mittelwert.
+3.1 Vorab-Übersicht Strom-Speicherkosten
+Übersicht Speichertechnologien
+Hartmann et al. 2012[24]. Es zeigt sich, dass vor allem Pump- und Druckluftspeicher geringe Kosten im Tagespeicherbetrieb und Wasserstoff-, Druckluft- und Power-to-Gas Speicher (P2P) die niedrigsten Kosten im saisonalen Betrieb aufweisen. Die Kosten der mobilen Batteriespeicher liegen dagegen deutlich höher als die der anderen Speichertechnologien.
+Übersicht Speicherkosten der verschiedenen Speichertechnologien
+Anbei eine globale Übersicht aus Hartmann et al. 2012[24]. Beachten, dass es die Nettokosten der Speicherung sind, also ohne Strombezugskosten. Mobile Batteriespeicher (E-Autos als Backup) sind am teuersten.
+Bild 8.1
+3.2 Erklärung zur Preisbasis bei der Berechnung von Speicherkosten (in Teil3)
+In den folgenden Detailausführungen sind die Speicherkosten als Vollkosten der vom Speicher in das Netz zurückgespeisten Elektroenergie angegeben. Benannt werden diese als Rückspeisekosten, bzw. Stromeinspeisungskosten.
+Diese Vollkosten beinhalten
+· Bezugs-Kosten für den in den Speicher eingespeisten Strom incl. der aufgrund der Wirkungsgradverluste zusätzlich einzuspeichernden Strommenge.
+· Kosten der Stromspeicherung
+Bezugskosten
+Bei den Kostenangaben mit Strombezug aus Hartmann et al. 2012[24] ist dieser Bezug immer mit 4,8 €ct/kWh bepreist, da für den zu speichernden Strom ein Mischpreis angenommen wurde. Jedoch repräsentiert dieser Wert ungefähr auch die in ferner Zukunft mögliche EEG-Vergütung und auch grob den Maximal-Abgabepreis für konventionellen Kraftwerksstrom.
+Aktuell und noch für längere Zeit liegt die mittlere, reguläre EEG-Vergütung jedoch bei ca. 13 €ct/kWh. Es wurde deshalb versucht, die Speicherkosten auch mit diesem Strom-Bezugspreis anzugeben. Leider sind die Kosten mit Strombezug nicht einfach zu berechnen. Die zugefügten, eigenen Abschätzungen mit 13 €ct/kWh sind deshalb nur grobe Hochschätzungen.
+Warum werden Bezugskosten eingerechnet
+Beim EEG gibt es keinen „geschenkten“ Strom (siehe dazu auch Schnurbein 2012[9], Kapitel Strombilanz).
+Unabhängig davon, was dieser auf irgend einem Spotmarkt kostet oder ob er verschenkt wird, oder erst gar nicht eingespeist – der Stromkunde hat immer die EEG-Einspeisevergütung dafür zu bezahlen. Diese stellt damit in allen Fällen den Wert eines vom Ökokraftwerk eingespeisten Strom genau dar und gilt sowohl für Strom aus Spitzeneinsppeisung, wie auch für Grundlaststrom.
+Der Betreiber eines Stromspeichers bekommt also niemals wirklich Strom geschenkt, selbst wenn er dafür nichts bezahlt. In vielen Publikationen wird der Einpeisestrom jedoch mit keinen oder sehr geringen Kosten angesetzt, um die Speicherkosten zu „retuschieren“.
+Weiter geht es dann im Teil 3
+4 Quellen für Teil 1 – 3
+[1]
+Niedersachsen-Studie 2014. Innovationszentrum Niedersachsen GmbH, Juli 2014. Studie 7983P01/FICHT-12919463-v19:“Erstellung eines Entwicklungskonzeptes Energiespeicher in Niedersachsen“
+[3]
+Stellungnahme BUND 2010. BUND, 27. August 2010: „Stellungnahme zur Frage der Stromspeicherung im Rahmen der Netzintegration von Strom aus erneuerbaren Energien“
+[4]
+Bölkow-Studie 2010. Ludwig_Bölkow_Systemtechnik GmbH (LBST), 22. April 2010: „Energiespeicher in Stromversorgungssystemen mit hohem Anteil Erneuerbarer Energien“
+[5]
+FENES, OTH 2013. Regensburg 05.11.13: „Energiespeicher für die Energiewende Zusatzkosten vs. Zusatznutzen? Ringvorlesung Kraftakt Energiewende II“
+[6]
+BE e.V. A. Hauer. Bundesverband Energiespeicher e.V., Andreas Hauer: „Energiespeicher Technologien und Anwendungen“
+[7]
+VCI Zwischenbericht 2013. Ein Zwischenbericht des Verbands der Chemischen Industrie (VCI), 8.Oktober 2013: „Zukunft der Energiespeicher“
+[8]
+F. Endres 2015. TU Clausthal 13.04.2015, Interview mit Prof. Dr. rer. nat. Frank Endres, Institut für Elektrochemie: „Hintergründe zur Energiewende Batterien ohne Power und Windanlagen mit Gesundheitsgefahren“
+http://www.deutscherarbeitgeberverband.de/aktuelles/2015_04_13_dav_aktuelles_interview_energiewende.html
+[9]
+Schnurbein 2012. Vladimir von Schnurbein: „Die Speicherung überschüssigen EE-Stroms durch synthetisches Methan.“
+ENERGIEWIRTSCHAFTLICHE TAGESFRAGEN 62. Jg. (2012) Heft 9
+[10]
+Energie GmbH 2014. Leipziger Institut für Energie GmbH, 29. Januar 2014: Kurzexpertise „Wirtschaftlichkeit Batteriespeicher Berechnung der Speicherkosten und Darstellung der Wirtschaftlichkeit ausgewählter Batterie- Speichersysteme“
+[11]
+Fachausschuss erneuerbare Energien 2010. Fachausschuss ForschungsVerbund Erneuerbare Energien, Juni 2010: „Nachhaltiges Energiesystem 2050 Eine Vision für ein nachhaltiges Energiekonzept auf Basis von Energieeffizienz und 100% erneuerbaren Energien“
+[14]
+BMUB 2004. BMUB, 30.07.2004 Mitteilung Nr. 231/04: Erneuerbare-Energien-Gesetz tritt in Kraft
+http://www.bmub.bund.de/presse/pressemitteilungen/pm/artikel/erneuerbare-energien-gesetz-tritt-in-kraft/
+[15]
+Ahlborn 2013. Dr. – Ing. Detlef Ahlborn 2. Juli 2013: „Wie viele Windräder braucht das Land?“
+[16]
+Ahlborn. Blog Vernunftkraft. Dr. – Ing. Detlef Ahlborn, „Windkraft-Verfügbarkeit“
+[17]
+Agora Energiewende Agorameter: Stromerzeugung und Energieverbrauch
+http://www.agora-energiewende.de/service/aktuelle-stromdaten/?tx_agoragraphs_agoragraphs%5BinitialGraph%5D=powerGeneration&tx_agoragraphs_agoragraphs%5Bcontroller%5D=Graph
+[18]
+ScienceScepticalBlog 2013. ScienceScepticalBlog, 25. März 2013: Fred F. Mueller „Aufwind nur für den Strompreis? Deutschlands Energiewende und die Realität“
+http://www.science-skeptical.de/energieerzeugung/aufwind-nur-fur-den-strompreis-deutschlands-energiewende-und-die-realitat/009573/
+[19]
+BmBF. Bundesministerium für Bildung und Forschung: „Energietechnologien für die Zukunft, Netze und Speicher“.
+http://www.bmbf.de/de/16753.php
+[20]
+NABU 2011. NABU Schleswig-Holstein 5. September 2011. Agrargasanlagen und Maisanbau. Eine kritische Umweltbilanz
+[21]
+TAB 2012. TAB Arbeitsbericht Nr. 147, April 2012: „Endbericht zum Monitoring: Regenerative Energieträger zur Sicherung der Grundlast in der Stromversorgung“
+[22]
+Heller 2013. science-skepticalm Peter Heller, 24. November 2013: „Technikfeindlichkeit am Beispiel Elektromobilität“
+[23]
+Pettinger 2013. Hochschule Landshut 12.08.2013. Prof. Dr. Karl-Heinz Pettinger: „ Batteriespeicherung für Heimanwendungen“
+[24]
+Hartmann et al. 2012. Stuttgart, 2012: „Stromspeicherpotenziale für Deutschland“
+[25]
+WIKIPEDIA: Erneuerbare-Energien-Gesetz
+http://de.wikipedia.org/wiki/Erneuerbare-Energien-Gesetz
+[26]
+science-skeptical 2014. science-skeptical Blog, 19. Dezember 2014 Artikel: „Ein Fazit zu den Erneuerbaren Energien – Produktion 2014 und ein Blick in die Zukunft“.
+http://www.science-skeptical.de/energieerzeugung/windkraft/ein-fazit-zu-den-erneuerbaren-energien-produktion-2014-und-ein-blick-in-die-zukunft/0013226/
+[27]
+EIKE 2015. EIKE Blogbeitrag, 07.03.2015: „Münchner Stadtwerke mal wieder – Burn, burn, Bürgergeld“
+http://www.eike-klima-energie.eu/news-cache/muenchner-stadtwerke-mal-wieder-burn-burn-buergergeld/
+Warum sind Sie der Meinung, dass ich kein Arbeiter bin….wer mit Axt und Handsäge sein Holz zum Heizen macht, der weis wie angenehm der Fortschritt ist, den uns die Energieträger Oel (Benzin), Kohle, Gas und Uran (Strom) gebracht haben.
+Mir scheint, Sie, Fr. Meinhardt, sollten in der Realen Welt etwas mehr zupacken (arbeiten) und sich nicht so sehr in einer Sprache/Satzgestaltung üben, die ihr ganzes Wissen beansprucht/ausmacht…? 😉
+„[…] dass jeder eine andere Sichtweise/Standpunkt hat als man selbst.“
+Das ist ja der Grund, warum es heute mehr Doktoren gibt als echte Arbeiter. Nein, Herr Marc H., das ist der Tod, was Sie da predigen. Der Mond kann nur eine einzige Form annehmen. Schade, daß Sie das bis heute nicht wissen wollten. Die arm(selig)e Aufklärung.
+MtG
+P.S.: Diesem (auf einem anderen Gebiet einen) Troll (spielenden) hätten Sie zurufen müssen:
+Ach ja? Wirklich? Der Edenhofer ist gar kein Katholik mehr. Wieso schummeln Sie mal wieder? 🙂 Und woher glauben Sie so viel über dessen Leben zu wissen? Spionieren Sie dem nach? Ach ja? Seit wann tun Sie so etwas? Das schickt sich aber nicht. Und haben Sie den jemals bei der Beichte sehen können? Das ist aber komisch und unlogisch. Da, Sie sehen, Sie können überhaupt nicht gut rechnen. So!! Sie sind auf dem Gebiet schlimmer als ein Amateur.
+Der Mond kann nur ein einzige Form annehmen. Ist doch logisch verehrter Herr Marc H. Alles andere ist schrecklich. Und wenn ein BMW-fahrender guter Physiker auf anderem Gebiet auch nicht rechnen kann, eindeutig nicht, dann müssen Sie das erkennen können und auch den Mut das so zu sagen. 😉
+Mit anderen Sichtweisen oder so kommt man da nicht weit. Unterstellt, ich habe Sie nicht mißverstanden.
+„Warum nicht….wenn man weis, dass in jedem Menschen ein „Psycho“ verborgen ist.“
+Viele derer, die es mit LSD etc. versucht haben, hatten später keine Einsicht mehr.
+“ versuchen Sie einfach daran zu denken, dass jeder eine andere Sichtweise/Standpunkt hat als man selbst. “
+Es gibt keinen Grund derart seine Ressourcen zu verschwenden.
+„Der Mensch ist doch ständig auf der Suche nach etwas.“
+Das ist möglich, aber ziemlich unwahrscheinlich. Was die Ordensleute etc. angeht, kommt es darauf an, ob der machtgierig und voller Sendungsbewußtsein ist, wie der Orden des Papstes, oder sich halt dem Predigen verschrieben haben, wie die Dominikaner.
+Warum nicht….wenn man weis, dass in jedem Menschen ein „Psycho“ verborgen ist. 😉
+Ein Herr Edenhofer braucht anscheinend einen Orden, dem er anhängen kann und einen Ort, an dem er sich seiner Sünden entledigen kann.
+Dieser Orden, verschaft diesen Menschen anscheinend halt…vielleicht auch Macht und Einfluss auf andere Menschen, vielleicht auch Geld bzw. gibt ihm dieser Orden nur die Aufmerksamkeit, nachdem dieser Mensch solange gesucht hat…
+Der Mensch ist doch ständig auf der Suche nach etwas.
+Das zu vertiefen würde aber jetzt etwas mehr Zeit in anspruch nehmen. Halten Sie einfach die Augen und Ohren offen. Hören Sie sich ihren Gegenüber an und versuchen Sie einfach daran zu denken, dass jeder eine andere Sichtweise/Standpunkt hat als man selbst.
+„die Realität aus verschiedenen ideologischen Sichtweisen sich zu betrachten“
+Eines wird Ihnen nicht gelingen, die Sichtweise eines Schizophrenen oder eines Despoten einzunehmen. Gleiches gilt auch für den Betrüger … . Sich das Wissen aneignen zu wollen, ist Verschwendung von Ressourcen.
+Verstehen Sie die Motivation von Herrn Edenhofer einem Orden beizutreten und jetzt als braver Katholik einmal wöchentlich in die Kirche zu gehen und einmal jährlich die Sünden zu beichten?
+Um sich in seinen Leben ein „Umfassendes Wissen“ anzueigngen gehört es zwigend dazu, die Realität aus verschiedenen ideologischen Sichtweisen sich zu betrachten. Kein Mensch teilt zu 100% die Ansichten eines anderen Menschen. Um so mehr ich aber die verschiedenen Ansichten der Menschen weis, um so mehr Wissen werde ich erlangen. Dies setzt jedoch die Fähigkeit der „Sichtweisenflexibilität“ voraus ohne seinen inneren Kompass zu verlieren.
+Offensichtlich ist die Wahrheit über eine korrekte Kostenrechnung unerwünscht.
+mfG
+Admin
+„und laut dt. Strafrecht ..“
+Hat unsereins in dem Zusammenhang was von Strafrecht geschrieben oder sich darauf bezogen?
+Republikflüchtlinge zu erschießen war ja kein Mord gemäß H. Burowski, denn das waren ja keine Menschen sondern Republikflüchtlinge.
+„“Vogel-„, „Fledermaus-“ und „Insektenmord“,“
+Mord ist ein Tötungsdelikt, und laut dt. Strafrecht ausschließlich auf das Töten von Menschen bezogen. Die Verwendung in Zusammenhang mit Tieren ist als ökofaschistische Propaganda zu werten.
+Weil ihr theoretisches Konstrukt nicht wirtschaftlich ist und ein Kraftwerkmixpark = Stromversorgungsnetz auf Basis von Kohle, Gas und Uran technisch unkomplizierter (zuverlässiger) und damit wirtschaftlich besser ist.
+Die wirtschaftliche Wertschöpfung (Speicher+Zuverlässigkeit) ist im Energieträger Kohle, Gas und Uran vorhanden.
+So einfach ist das.
+Das mit knackig für die Dummen haben die Propagandisten vom Typus Schnitzler & Co auch berkannt und deshalb diese Begriffe gewählt.
+Verbieten solche Begriffe? Nein, sagen was da an Geisteshaltung und Ziel dahinter steckt ist die richtige Antwort.
+Euthanasie klingt harmlos, Ökostrom auch. Aber was steckt hinter dem Begriff Euthanasie? Massenmord.
+Und hinter Ökostrom?
+Vogel-, Fledermaus- und Insektenmord, Naturzerstörung durch überflüssige Monokulturen und Verseuchung des Grundwassers durch Verfaulungsreste. Weitere Beispiele gefällig?
+Wie wäre es mit Gefangeneneigentumsverwaltung = Raubmordverwertungsstelle.
+Man kann alles bagatellisieren, nur man sollte es nicht zulassen.
+Herr Heinzow,
+Ihre Einlassungen finde ich nicht ganz zielführend.
+Einmal können Sie das Wort „Ökostrom“ ja gerne verbieten lassen. Es grenzt die Erzeugungsart aber eindeutig ab, weshalb ich es in der Publizierung hilfreich fand, da „knackig“.
+Den Einwand mit der Kostenrechnung verstehe ich nicht. Sie haben Teil 3 bisher nicht lesen können (dort kommen die Kosten), wissen aber schon jetzt, dass es “ein Schmarrn“ ist. Zudem versuche ich mich gar nicht in Kostenrechnung, sondern habe ganz bewusst von einer – von einer Landesregierung publizierten – Studie abgeschrieben. In diesem Teil 2 steht nur die Erklärung, wie sich die Strom-Bezugskosten und dann die Kosten des zurückgelieferten Stromes zusammensetzen. Wenn Sie meinen, dass das – weil von einem Ingenieur – dilettantisch ist, steht es Ihnen frei, im Blog eine kaufmännisch richtige Darstellung zu hinterlegen.
+Was das Abschreiben betrifft. Dass ich das privat selbst ermittle, wofür Heerscharen von Fachleuten viel Geld bekommen, erwarten Sie hoffentlich nicht. Falls Sie ebenfalls publizieren, wissen Sie, wie viele Tage man daran sitzt, ca. 300 Hauptseiten und zusätzlich viele Nebenpublikationen durchzusehen, zu verstehen , zu vergleichen und dann daraus Daten zu generieren, die keine groben Fehler haben. Da bekommt das „Abschreiben“ eine ganz andere Bedeutung.
+Was eine „Kostenschätzung fernab von der Methode Milchmädchen“ sein soll, hätte ich gerne genauer erklärt bekommen. Bisher kam ja noch keine Kostenabschätzung. Ich konnte in den von mir verwendeten Studien keine offensichtlichen Mängel finden, ausser, dass es selbst für die Fachleute mit Ihren Recherchemöglichkeiten oft nicht möglich ist, überhaupt sinnvolle Zahlen zu erlangen und hochzurechnen, weshalb oft Spannweiten angegeben sind wie es allgemein üblich ist. Diese mit viel Aufwand und mühsam erstellten Abschätzungen stellen dann eben das dar, was aktuell möglich ist – und sie sind im Gegensatz zu vielen Publizierungen von NGOs so beschrieben, dass sie nachvollzogen werden können. Deshalb sind sie für manche sicher interessant und das ist der Sinn dieser Publizierung.
+Sofern Sie jedoch bessere Publizierungen zu Speicherkosten haben und in diesen die Kosten (noch) umfangreicher und vor allem genauer (vielleicht haben deren Rechner mehr Stellen) – eben nicht nach Methode „Milchmädchen“ ermittelt sind, nennen Sie diese einfach. Perfekt wäre es dann, eine Publizierung zur Genauigkeit von Speicherkostenberechnungen aufzusetzen (das würde mich auch interessieren) und an EIKE zu geben.
+Was ist die Kernfunktion eines Speichers im Rahmen der Energiewende? Er muss der Solar- und Windkraft-Produktion dem Netz Energie entziehen oder Energie zuführen. Was ich dabei nicht verstehe ist, warum immer geglaubt wird dass diese Funktion unbedingt in einer Anlage beheimatet sein muss. Warum nicht verteilt?
+Energie entziehen:
+– …
+– konventionelle Kraftwerke abregeln
+– Lasten aktivieren
+– Heizen (Temperatur Sollwert wenige Grad anheben)
+– Biomasse Erzeugung abregeln
+– zum Schluss auch Wind und Solarstrom abregeln
+Energie zuführen:
+– Kraftwerke hochregeln
+– Lasten abschalten
+– Weniger heizen (Temperatur Sollwert etwas runter)
+– Biomasse hochfahren
+Das reicht nicht für 100% erneuerbare, aber es wird sehr lange die günstigste Form eines Speichers sein.
+Liebe Grüße,
+Nina K.
+Manche Leser die schon länger bei EIKE sind werden sich noch erinnern.
+Textauszug:
+„Ringwallspeicher und geotechnische Speichersysteme für die Herausforderungen der Energiewende“
+Quelle: http://tinyurl.com/q5j9ncw
+Erst die Übernahme des Propagandabegriffs Ökostrom und nun auch noch eine Kostenschätzung fernab von der Methode Milchmädchen.
+Es wird richtig schlimm, wenn Ingenieure sich in Kostenrechnung versuchen und irgendwo abschreiben:
+„dass es die Nettokosten der Speicherung sind“
+So ein Schmarren.
+Ökostrom gibt es nicht!
+Und das, was aus Propagandagründen so genannt wird, ist schädlicher als der konventionell erzeugte Strom.
+Herr Wedekind,
+lesen Sie dazu einfach in den angegebenen Haupt-Fundstellen nach. Was den von Ihnen zitierten Wirkungsgrad, Problemen und Tatsache, dass bisher teilweise nur kleine Versuchsprojekte existieren betrifft, genau so steht es da drin. Auch, dass der adiabatische Druckluftspeicher wegen der notwendigen Zwischenspeicherung großer Wärmemengen mit 600 … 800 GRD Temperatur nicht im Ansatz für Langfristspeicherung geeignet ist.
+Man hat aber keine besseren Speichertechnologien! – Aber die Hoffnung, diese verwendungsreif „Forschen“ zu können. Geld (und Forschungsinstitute, die sich darauf stürzen) sind ja in beliebiger Menge vorhanden.
+Ich bin im Artikel nicht auf Technologie und – Probleme eingegangen – er ist so schon lang genug. Dafür gibt es Bücher und die Fundstellen (Quelle 1 ist 197 Seiten lang), welche es umfangreich beschreiben.
+Zudem löst die Ökokirche alle Probleme, an denen Fachleute bisher scheiterten ganz unkonventionell, aber effektiv.
+Der Grüne Minister für Umwelt und Diverses beschreibt es in (1) so: „Hierfür müssen im Dialog mit den Verantwortlichen und der Bevölkerung Antworten gefunden werden.“ Fachleute erwähnt er nicht.
+Sie zitieren: „Bei einem Einsatz als Kurzfrist- und Mittelfristspeicher sind Pumpspeicherwerke heute nach wie vor die günstigste Technologie, dicht gefolgt von adiabaten Druckluftspeichern.“
+Die adiabaten Druckluftspeicher halte ich für einen Flop:
+Bei dem Druckluftspeicherwerk Huntorf wird die Anlage von 72 [atm] bis hinunter auf 46 [atm] gefahren. Ohne Kühlung der Luft würden durch eine direkte adiabatische Kompression Temperaturen von ca. 940 [C] in der Kaverne erreicht werden, was aus materialtechnischen Gründen ganz sicher nicht funktioniert. Deswegen muß zwischengekühlt werden, bei der die Wärme verlorengehen muß, was den Wirkungsgrad dieser Anlage gewaltig reduziert (meinen Schätzungen nach auf grob 41%).
+Bei adiabatischen Speichern wird die Luft nicht zwischengekühlt(!), damit die Wärmeenergie nicht verlorengeht. Damit dürfte die maximale Betriebstemperatur der komprimierten Luft die Begrenzung der Anlage sein:
+Der Betriebsdruck berechnet sich (bei einem Kompressionswirkungsgrad von 1) dann zu p = T/T0^(3.5), wobei T0 die Außentemperatur in [K] ist. Nehmen wir einmal an, daß die Kaverne 400 [C] aushält (da ungefähr schmilzt Blei), dann kämen wir gerade mal auf ca. 20 [atm] maximalen Betriebsdruck. Das würde riesige Kavernen erfordern.
+MfG
+G.Wedekind
+Herr Krause,
+ich wollte Ihnen auch nur sagen, dass die zwei von mir angezogenen Hauptstudien die Aufwände, Potentiale, Probleme und Kosten mit eigentlich aller gewünschten, technischen Zusatzinfo listen. Zudem ermitteln und bewerten sie sehr neutral. Für auch an der Detailtechnik Interessierte lohnt es aich also, dort reinzusehen.
+ich wollte Ihnen keinesfalls unterstellen, dass ihr Artikel in Richtung „tendenziös“ ausgerichtet ist.
+Mir geht es in meiner Kritik prinzipiell um Studien, welche offensichtlich ohne jegliche Beachtung ökonomischen Denkens erstellt werden.
+RWE und Co. machen es uns vor: die Planungen für ADELE laufen seit Jahren, aber umgesetzt wird dieser Blödsinn wohl nie…Warum? weil RWE es sich nicht leisten kann, weiteres Geld in der ohnehin schwierigen Lage zu verbrennen! Realisiert werden können solche Projekte nur, wenn Mutti die staatliche Anweisung herausgibt – nun baut mal schön! Aber auf Kosten des Steuerzahlers! Anders werden diese feuchtewn Träume nicht wahr…
+mfg
+Die wertevernichtende Energiewende = EEG beginnt langsam auch in den anderen Branchen zu wirken.
+Eine Investitionsentscheidung zieht die anderer nach sich. Und keiner wird mehr in Deutschland investieren ohne dass dieser beim Staat nach Subventionen nachfragt und sich damit ein Stück weit absichert. Gegen die Willkürentscheidung einer außer Rand und Band geratenen Grün-Sozialistischen Regierungspartei schützen versprochene Subventionen oder Gesetze nur sehr begrenzt. Siehe Kernkraftausstieg.
+Die Bundesregierung unter der Führung der Grün-Sozialistischen Merkel-Union hat sich den Schuh angezogen, den Markt staatlich regelen und diktiern zu wollen. Dies kann nur schiefgehen, weil der Markt sich nichts vorschreiben lässt.
+Wohlstand für Alle braucht einen deregulierten Markt, der offen und frei seine Kreativität, Innovation und Wissenschaft zum Wohle Aller entfalten kann. So wie die Religion nichts im Staat zu suchen hat (außer einigen Grundsätzen) so hat der Staat nichts im Markt zu suchen (außer einigen Grundsätzen/beschränkten Rahmenbedingungen zu setzen).
+Hochtief lässt Pläne für Pumpspeicherkraftwerk ruhen
+http://tinyurl.com/olmlma6
+Herr Krause,
+Alle Zitate stammen aus Studien. Diese sind leicht verfügbar, so dass man Details dazu nachlesen (und in den Blog setzen) kann. Ich habe für die Hauptaussagen bewusst die „Niedersachsen-Studie“ und die darin verwendete Hauptquelle angezogen. Einmal ist diese aktuell und zweitens hat Niedersachsen einen Grünen Umweltminister, der das Vorwort dieser Studie unterschrieben hat. Es ist damit praktisch ausgeschlossen, dass diese Studie beschönigend darstellt (und meine Recherche tendenziell wäre).
+Alle Speicher – ausser Pumpspeicher – haben noch erheblichen Forschungsaufwand vor sich. Dieser bezieht sich aber auf die Realisierungen und nicht auf die Kosten, was meine Recherche aufzeigen sollte.
+Fazit: Die Speicher funktionieren (im Großmaßstab) noch nicht. Aber die Kosten des damit irgendwann zu speichernden Stromes lassen sich sogar für die zukünftig denkbaren Entwicklungsstände gut abschätzen – und sind damit bereits heute diskutierbar.
+folgende Aussage irritiert mich ein wenig – Zitat:
+Bei einem Einsatz als Kurzfrist- und Mittelfristspeicher sind Pumpspeicherwerke heute nach wie vor die günstigste Technologie, dicht gefolgt von adiabaten Druckluftspeichern. Als Langfristspeicher sind adiabate Druckluftspeicher heute die wirtschaftlich vorteilhafteste Speichertechnologie. /Zitat Ende.
+ADELE Staßfurt hat meines Wissens bisher keine belastbaren Werte zur adiabatischen Speicherung geliefert, da es ja noch nicht einmal fertiggestellt ist…Ein zweiter Aspekt dabei ist, dass die Kosten zum Bau von ADELE mindestens das Dreifache eines vergleichbaren PSW kosten werden. Es kann natürlich auch noch mehr werden;)

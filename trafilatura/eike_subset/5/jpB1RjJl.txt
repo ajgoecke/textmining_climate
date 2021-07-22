@@ -1,0 +1,110 @@
+Das Ding ist ein fliegendes Wunder, dessen technische Komplexität man nicht würdigt, weil es schon für ein paar hundert Euro zu haben ist. Es ist ein Produkt glücklichen Zusammentreffens grandioser Innovationen der jüngeren Zeit: leistungsfähige kleine Elektromotoren, schnelle Datenübertragung per Funk, leichte Batterien, künstliche Intelligenz, Satellitennavigation und die extreme Miniaturisierung digitaler Elektronik.
+Was kann so ein Wunderding dann leisten? Amazons Drohne etwa soll Pakete bis zu zwei Kilogramm in 15 Kilometern Umkreis liefern. Dafür ist sie 20–30 Minuten unterwegs. Es ist anzunehmen, dass der dankbare Empfänger dann, quasi als Trinkgeld, der Drohne eine Batterieladung aus der Steckdose spendiert, bevor die sich dann autonom auf den Heimweg macht.
+Eine 100-Tonnen-Stubenfliege
+So kompliziert das elektronische Gehirn dieses kleinen Flugzeugs ist, so simpel ist seine Mechanik. Wie ein Tisch auf vier Beinen steht, so hängt die Drohne an vier Rotoren, von denen jeder elektrisch angetrieben wird. Die individuelle elektronische Regelung derer Drehzahl kontrolliert, wie das Gerät fliegt und wohin die Reise geht.
+Das ist alles viel einfacher als beim guten alten Helikopter, der fast nur aus beweglichen Teilen besteht: die Blätter des großen Rotors müssen bei jeder Drehung gekippt werden; der Propeller am Heck ist über Getriebe mit dem Motor verbunden, und der genaue Anstellwinkel seiner Schaufeln muss verhindern, dass der Rumpf anfängt zu rotieren.
+Was läge also näher, als der unkomplizierten Drohne ein „Upscaling“ zu verpassen, sodass man nicht nur Pakete von Amazon, sondern lebendige Passagiere transportieren könnte? Das wäre außerdem voll im Trend: E-Antrieb, kein CO2 und kaum Lärm. Und, wie wir vom kleinen Bruder wissen, könnte das Ding auch ohne Pilot fliegen.
+Aber kann man so eine Maschine einfach 10- oder 100-mal so groß bauen? Fliegt sie dann noch? Nun, in der Natur gibt es ja auch große und kleine Flieger: Vögel und Insekten. Vielleicht kann man von denen etwas lernen. Ein erfolgreiches Produkt der Evolution ist ja die beliebte Stubenfliege. So eine Kreatur ist vielleicht 10 mm lang und wiegt ein zehntel Gramm. Vergrößern wir sie um den Faktor 1.000, dann würde sie 10 Meter groß und würde 100 Tonnen wiegen. Ja, so schwer würde sie, weil sich ihr Volumen, und damit ihre Masse, um den Faktor 1.000 hoch drei vervielfachen.
+Gewichtsmäßig kommt unsere Megafliege damit oberhalb der kleinen Boeings und Airbusse zu liegen, die immerhin 30–40 Meter Spannweite haben. Unser kafkaeskes Geschöpf mit 10 Metern Spannweite wäre nach unseren Überlegungen also kaum flugfähig. Das Beruhigende ist, dass die Natur etwas derartiges auch nicht hervorgebracht hat.
+Der Vergleich sollte uns aber nicht am Experimentieren hindern, er ist nur ein Hinweis darauf, nicht allzu optimistisch zu sein.
+Lufttaxi bringt Passagiere von der City zum Flughafen
+Die Firma Airbus, aktuell der erfolgreichste Flugzeugbauer weltweit, wagte sich an dieses Projekt. Mit mehreren Millionen Starthilfe vom Bund und vom Staat Bayern machte man sich an die Entwicklung einer Megadrohne: etwa zehnmal so groß wie das Ding von Amazon und tausendmal so schwer. Mit den Prädikaten nachhaltig, klimafreundlich, elektrisch und europäisch hatte man alles zu bieten, was die Politik gerne hört. So konnte man auch weiterhin mit deren Wohlwollen und Unterstützung rechnen.
+Die finanziellen Risiken für Airbus waren also gering, man konnte sich höchstens noch in Sachen Technik blamieren. Das aber sollte grandios gelingen.
+Konkret hatte man versprochen, ein elektrisches Lufttaxi zu entwickeln, das Passagiere von der City zum Flughafen bringt, unbehindert von möglichen Staus auf der Autobahn. Man gab ihm den Namen „CityAirbus“ und startete 2015 mit einer Machbarkeitsstudie, die offenbar positiv ausfiel. Details der Entwicklung und technische Daten finden Sie hier und hier.
+Im März 2019, vier Jahre später, wurde dann in Ingolstadt mit barockem Prunk in Gegenwart aller erdenklicher Prominenz – unter ihnen Staatsministerin Bär, Airbus-Vorstand Schoder und Verkehrsminister Scheuer – das Ergebnis vorgestellt: ein sogenannter „Prototyp Demonstrator“. Der Verkehrsminister forderte in seiner Rede dazu auf, bei neuer Technologie nicht nur über Verbote, sondern insbesondere über Chancen zu diskutieren. Dazu sollte es gleich einen Anlass geben. Da darf Markus Söder nicht fehlen, der ebenfalls verkündete er werde sich eines Tages in einem elektrisch betriebenen und automatisch gesteuerten Lufttaxi über die Münchner Staatskanzlei erheben.
+Die Marx Brothers in Ingolstadt
+Die Vorführung des „Demonstrators“ war nicht nur enttäuschend, sondern im höchsten Grade grotesk. Vor all den Honoratioren im Sonntagsanzug, teils von weit angereist, vor dem Bürgermeister mit Goldkette, spielte sich ein peinliches Debakel ab: Das Gerät, die verkörperte Hoffnung auf nachhaltigen Personennahverkehr, hob kaum vom Boden ab und fing dann an zu rauchen. Es war wie eine Szene aus einem Film von Charlie Chaplin oder den Marx Brothers.
+Das mag gewiss ein Vorführ-Effekt gewesen sein; da geht nach Murphy’s Law all das schief, was schiefgehen kann. Daraus wollen wir den Ingenieuren von Airbus keinen Vorwurf machen. Die Panne brachte aber wohl den einen oder anderen Entscheider dazu, etwas genauer hinzuschauen, was da gemacht wurde. Nach einigem Nachdenken wurde dann im Oktober 2020 bekannt, dass das Projekt eingestellt werden soll.
+Ein bisschen Physik
+Dass Entwicklungsvorhaben scheitern, ist nichts Neues, es ist der Preis des Fortschritts. Was aber hier abgezogen wurde, war etwas Ungeheuerliches. Airbus hatte die 100-Tonnen-Stubenfliege gebaut! Das ganze Projekt war von Anfang an aussichtslos; um das zu erkennen, brauchte man keinen „Demostrator“ für viele Millionen zu bauen, man hätte es auf der Rückseite eines Briefumschlags ausrechnen können.
+Zur Erläuterung etwas Physik.
+Das „normale“ Flugzeug fliegt, weil der Fahrtwind an den Tragflächen Auftrieb („Lift“) erzeugt, der das Gewicht des Fliegers kompensiert. Dieser Lift aber hat seinen Preis, nämlich den Luftwiderstand („Drag“), der von Motoren überwunden werden muss. Konstrukteure bemühen sich natürlich, Flugzeuge mit großem Lift und kleinem Drag zu bauen. Bei Airlinern hat man ein Verhältnis Lift/Drag in der Gegend von 15 (mehr dazu auch hier).
+Die Ingenieure bemühen sich ebenfalls, das Gewicht niedrig zu halten, denn je schwerer das Flugzeug, desto größer ist der Drag, desto mehr Sprit verbrennen die Motoren. Das ist anders als beim Auto, da ist der Luftwiderstand vom Gewicht unabhängig. Deswegen baut man Flugzeuge aus Aluminium oder Plastik und nicht aus Stahl, wie die Autos.
+Bei Helikoptern – und Drohnen sind nichts anderes – wird der Lift nicht durch den Fahrtwind erzeugt, sonst könnten sie ja nicht in der Luft stehen bleiben. Hier kommt der Lift vom Impuls des vertikalen Luftstroms, den der Rotor erzeugt. Dabei wird enorm viel Energie verbraucht, weswegen man bei Helis mit den Kilos so geizig ist, wie es nur geht – noch geiziger als bei Flugzeugen.
+Rechnung auf einem Briefumschlag
+Analysieren wir einen typischen, bewährten Helikopter, etwa den Robinson R44, von dem bisher über 6.000 Stück gebaut wurden. Der hat Platz für 4 Personen, wiegt maximal 1.100 kg und hat einen Motor von 183 kW = 245 PS. Damit kann er zwei Stunden lang mit 200 km/h fliegen und verbraucht gut 100 Liter Sprit, das sind 75 kg. Dabei läuft sein Motor nicht immer mit voller Leistung, eher mit 75 Prozent. Der gesamte Energiebedarf für die Reise ist dann 183 kW x 0,75 x 2 Stunden = 275 Kilowattstunden.
+Das wäre doch schon ein cooles Lufttaxi, allerdings macht es Krach und spuckt CO2 aus. Wollten wir den R44 jetzt auf politisch korrekten E-Antrieb umrüsten, dann bräuchten wir eine Batterie mit den erwähnten 275 kWh. Die holen wir uns aus dem E-Auto von Elon Musk, dem Tesla. Die hat 85 kWh – und wiegt 540 kg. Drei davon brächten dann fast die gewünschten Kilowattstunden an Bord, aber gleichzeitig die eher unerwünschten 3 x 540 kg = 1620 kg. Damit läge die Batterie alleine schon eine halbe Tonne über dem Gewichtslimit des armen R44 und sie wöge so viel wie 20 Passagiere!
+Hatten wir nicht gesagt, beim Heli muss man mit den Kilos geizen wie eine Hollywood-Diva vor ihrem Lauf über den roten Teppich? Elektro und Heli passen nicht zusammen! Was beim Auto nur mühsam geht, beim Flugzeug nicht wirklich, das geht beim Helikopter schon ganz und gar nicht.
+Diese kleine Rechnung kann ein Ingenieur, der Zugang zu Internet und Taschenrechner hat, auf dem Rücken eines Briefumschlags in der Mittagspause machen. Das hätte mehr gebracht als besagte „Machbarkeitsstudie“ von 2015.
+Warten auf ein Wunder
+Das von Airbus dann also geplante und als „Demonstrator“ gebaute elektrische Lufttaxi hatte folgende Kenndaten: Gesamtgewicht etwa 2.200 kg, Batterie 110 kWh und 700 kg; Antrieb: 8 (in Worten acht) Elektromotoren vom Typ Siemens SP200D mit je 100 kW Leistung; Reisegeschwindigkeit 120 km/h; Nutzlast 4 Passagiere.
+Wenn die acht Motoren mit 75 Prozent Leistung laufen, wie wir beim R44 angenommen haben, dann würden sie kontinuierlich 8 x 75 kW = 600 kW ziehen und die erwähnte 650 kg schwere Batterie wäre in 11 Minuten leer. Angesichts dieser Tatsache ist es fraglich, ob man von „Reisegeschwindigkeit“ reden kann, denn die „Reise“ würde nur aus Abheben und Landen bestehen, dann wäre der Akku leer und müsste jetzt für ein paar Stunden lang an die Steckdose.
+Ungeachtet dieser Fakten hat man bei Airbus und Zulieferern dennoch beherzt am „Demonstrator“ gebaut. Man hat für viel Geld all das konstruiert, was man konnte, und für das, was man nicht konnte – die Energieversorgung – da hoffte man auf ein Wunder. Aber bekanntlich geschehen Wunder nur dem, der sie nicht erwartet.
+Pisa in der Chefetage
+Man kann davon ausgehen, dass mehr als ein Entwickler bei Airbus unsere Rechnung gemacht und seinem Chef dann gezeigt hat. Und der wiederum hat die Sache „eskaliert“, also seinem Chef gezeigt, bis schließlich jemand ein Machtwort sprach: „Ihr Ingenieure dürft nicht immer nur Probleme sehen, ihr müsst euch auch mal den Hut des Managers aufsetzen. Es wäre unverantwortlich, sich aus diesem strategischen und nachhaltigen Geschäftsfeld zurückzuziehen.“
+Und so wurden die armen Entwickler zum Opfer einer Kette der Inkompetenz und mussten gehorsam viele Stunden ihres Berufslebens investieren, um die Attrappe einer Passagierdrohne zu bauen. Und so, wie diese unverrückt auf ihren Kufen stehen wird, so steht die Arbeit daran unverrückbar auf der Lüge, dass das Ganze schon irgendwie Sinn macht.
+Hier zahlen wir nun den Preis für den Verfall von Leistung und Disziplin in unserer Ausbildung. Was in der Schule durch miserable Ergebnisse bei den Pisa-Studien offensichtlich wird, das setzt sich im anspruchslosen Massenbetrieb der Universitäten fort und produziert Führungskräfte, die in der Praxis total überfordert sind. Die versuchen dann zu überleben, indem sie Leistung durch Haltung ersetzen. Und das funktioniert sogar, weil ihre Chefs das genauso machen (siehe auch hier bei Indubio).
+Pisa im Ministerium
+Noch fragwürdiger ist allerdings die Haltung der Politik. Nach welchen Kriterien wird hier das Geld der Steuerzahler vergeben? Herr Minister Scheuer etwa vergab 15 Millionen für das Projekt. Sie sagen, das sind doch Peanuts? Mal sehen: Das deutsche Steueraufkommen pro Kopf beträgt jährlich circa 10.000 Euro. Da wurde also 1.500 Personen in Deutschland ein Jahr lang monatlich 800 Euro abgenommen, um den Demonstrator zu finanzieren. Für die Betroffenen jedenfalls sind das keine Peanuts.
+Der Bundesminister für Verkehr und digitale Infrastruktur war nach seinem Lehramtsstudium in die Politik gegangen. Hatte er persönlich die Kompetenz, um die Chancen des Lufttaxis realistisch einzuschätzen? Wenn nicht, so hätte er doch unter den 1.200 Mitarbeitern seines Verkehrsministeriums einen Fachmann für Luftfahrt gehabt. Was hat der ihm wohl geraten? Oder hat der Minister auf „erfahrene“ externe Berater vertraut, auf Zwanzigjährige, die nach dem Master gleich bei Roland Berger oder McKinsey angeheuert haben?
+Ein Minister wird sich immer herausreden, sein Ressort sei so komplex, dass weder er noch irgendjemand alle Fragen beantworten, alle Details durchschauen könnte.
+Das mag schon sein, aber er sollte dann in seiner Position zumindest schon mal von Management gehört haben. Dann hätte er gelernt, dass man beim Management von Investitionsprojekten erst die Risiken reduziert, bevor man das Geld ausgibt. Bei unserer Megadrohne ist die Batterie das zentrale Risiko, sie ist der Show-Stopper.
+Leichtsinn auf Kosten anderer
+Statt sich mit diesem Problem zu konfrontieren, hat sich sein Ministerium aber vorgemacht, dass das schon nicht so schlimm wäre, wenn man nur die Maschine hübsch anmalt. Und so spuckte man die 15 Millionen gerade mal aus und Airbus war dankbar.
+Weder der Minister hatte sein eigenes Geld aufs Spiel gesetzt noch würde Airbus gepfändet, wenn das Ding nicht fliegt. Die beiden Geschäftspartner konnten sich gegenseitig mit dem Geld der Anderen gütlich tun und in Szene setzen. Das ist Leichtsinn auf Kosten anderer, und das ist ein sehr verwerflicher Charakterzug.
+Noch schlimmer: die leichtfertige Vergabe von Mitteln für Forschung und Technik züchtet die falschen Interessenten heran. Es mehren sich die smarten Profiteure, die mit gekonnter PR für ihre aussichtslosen Start-ups mit schicken englischen Labels die vielen Millionen abgreifen.
+Fortschritt geht anders. Es wäre besser, wenn unsere Minister halb so viel Geld hätten, aber dafür doppelt so kompetent wären. Und das gilt auch für die Ministerinnen.
+Dieser Artikel erschien zuerst auf Hans Hofmann-Reineckes Blog Think-Again. Sein Bestseller „Grün und Dumm“ ist bei Amazonerhältlich.
+Aus den 183 kW werden also für den Akku(hub)schrauber eher rund 60kW.
+Wenn net, was bringt denn dann so a Paraplui für alle Fäll für’n Zusatzgewicht? Also, samma net so schiach, für 9 Minuten tät i’s a!
+Im Grunde fände ich die Drohnentechnik auch sehr schön, auch wurde sie vom Autor prima beschrieben. Aber zur Ernüchterung braucht es nicht mal einen Taschenrechner: Hauptproblem ist die viele Energie, die man allein schon braucht, um oben zu bleiben. Und der Akku macht’s nicht leichter…
+Ist die Paketauslieferung per Drohne nicht logistischer Unfug? Ausgenommen die wenigen Orte, wo es Sinn macht. Davon will Amazon noch reicher werden?
+Die aktuelle Amazon-Werbung im Fernsehen belügt frech den Zuschauer. Mein Kenntnisstand ist der, alle Tech-Unternehmen die NUR auf die marxistische Umweltenergie-Karte setzen, schaden sich massiv selbst. Die Kunden werden sauer und verlangen Schadensersatz.
+Es war der Kunstfreund Alfred H. aus Österreich, der damals auch auf den Wind setzte. Möge allen Nachfolgern das gleiche Schicksal bestimmt sein.
+Aufgrund der physikalischen Grenzen hat es bis heute niemand geschafft, ein Fluggerät zu konstruieren, das mit einer Dampfmaschine angetrieben wird und in dem die Passagiere zur Unterhaltung Kohle schaufeln müssen. Das elektrische „Flugtaxi“ wird trotzdem seine Nischen finden, ich betone: Nischen. Es gibt sehr weit entwickelte Modelle, die etwa einen Notarzt über den Stau hinweg schnell zu einem Unfallopfer auf der Autobahn bringen – wesentlich wirtschaftlicher als ein konventioneller Heli.
+Sorry, aber ich kann nicht anders. Volker & Annalena kriegen das schon hin. Wetten?
+Volker & Annalena kriegen nix hin. Abwarten und Tee trinken. Planwirtschaft kann niemals funktionieren. Und selbst wenn diese Luschen die Planwirtschaft genau aus diesem Grund forcieren, um den „Großen Reset“ à la Klaus Schwab durchzubringen, die Sache ist derart komplex, früher oder später jagt irgend jemand diese Spinner in der EU davon.
+Die marxistische Linke spottet ja über den Bürger. Die Zerstörer wollen „alles“ kaputt machen um dann erneut als Retter aufzutauchen (vgl. Lügenpresse als Helfer) und dem Bürger das geben, was er nicht will: menschenverachtende linke Utopien.
+Total gestörte menschliche Kommunikation.
+https://www.youtube.com/watch?v=oYADEb1m4PM
+Dein Kopf ist gefüllt mit lauter grünen Träumen, und da hab‘ ich dich geseh’n.
+Und im Bundestag begann für dich ein Märchen, das soll nie mehr vergeh’n.
+Steig‘ in den Tesla heut nacht, Annalena; er ist in Grünheide gemacht.
+Fahr mit ihm bis zu den Sternen – in der Nacht, wenn der Kobold erwacht.
+Steig in den Tesla, mein Schatz, immer wieder, den hat der Elon gemacht.
+Lithium-Antrieb ist klasse, so viel Gigabyte sind eine Pracht.
+Jedes AKW wird jetzt gesprengt auf Erden, nur noch Wind und Sonnenschein.
+Wird das deutsche Land Kartoffelacker werden – durch die Grünen allein.
+Steig‘ in den Tesla heut nacht, Annalena; er ist in Grünheide gemacht.
+Fahr mit ihm bis zu den Sternen – in der Nacht, wenn der Kobold erwacht.
+Steig in den Tesla, mein Schatz, immer wieder, den hat der Elon gemacht.
+Lithium-Antrieb ist klasse, so viel Gigabyte sind eine Pracht.
+Steig‘ in den Tesla heut nacht, Annalena; er ist in Grünheide gemacht.
+Fahr mit ihm bis zu den Sternen – in der Nacht, wenn der Kobold erwacht.
+Neben Cargolifter wären in Brandenburg noch mindestens:
+BER (Flughafen);
+Lausitzring;
+Chipfabrik in Frankfurt/Oder, danach kam die Kripo, später von Conergy übernommen. Die Firma Conergy wurde im Jahr 2019 aufgelöst;
+Landesentwicklungsgesellschaft (LEG).
+Der Steuerzahler hat ein großes Herz. Betrüger haben den Steuerzahler sehr lieb.
+Wenn Tesla ein ähnliches Schicksal erleiden sollte, verzeihe ich den Betrügern in Brandenburg alles.
+Allerdings hat diese EU sehr viele Brandenburgs. Anscheinend versucht auch Söder (und seine Anti-C-SU) Brandenburg mit Bayern links zu überholen.
+Übrigens hat diese EU zwei Parlamente. Wir sind schon irgendwie einsame Weltspitze. Nur Reiche können sich solche Sachen gestatten.
+Wäre vielleicht eine erstrebenswerte Aufgabe für Svenja Schulze. Dann hätte auch der Spiegel mal wieder eine vernünftige Journalistenaufgabe und braucht nicht jede kritische Stimme gleich rechts zu verordnen, um sich nicht mit anderen soliden Erkenntnissen auseinander setzten zu müssen.
+Was ist denn falsch daran, oder schlecht recherchiert?
+Nur bedingt vergleichbar, aber denken Sie mal an Otto Lilienthal oder Berta Benz …. als die Flieger fliegen lernten, tollkühne Frauen in Benzinkutschen ….
+Es ist immer noch nicht zu verstehen, warum die klare Beweisführung, dass dieser „Demonstrator“ und/oder sein nun vorzeitig verstorbener Prototyp kein Angebot für ein „Flugtaxi“ sein kann, falsch sein soll.
+It’s the battery, stupid. Könnte man in Anlehnung an Bill Clinton feststellen.
+Und deren Begrenzung basiert auf dem Naturgesetz der elektrochemischen Spannungsreihe, wie auch auf der bekannten Tatsache, dass Verbrenner den größten Teil ihres Treibstoffes aus der Luft entnehmen.
+Billie the Clinton, der gelernte Rechtsverdreher und Azubi in Wirtschaftsfragen, hat im Jahr 2008 die weltweite Finanzkrise ausgelöst, mit seinem eingebildeten „Humankapital“.
+Das war nur ein Dummy.
+https://youtu.be/B22ia6tmQFw
+Der Erstflug war aber auch nicht viel besser. Da hob das Ding nur kurz und wackelig ab.
+Falls ihnen weitere Aussage von Airbus fehlen, recherchieren sie diese und stellen sie hier ein.
+Wenn sie denken es gibt interessante oder wichtige Punkte die noch fehlen, nur zu.
+Her damit!
+Honecker und Ulbricht rotieren vor lauter Dank gegenüber ihrer Nachfolgerin , der überzeugten „DDR“lerin Angela Kasner und jetziger Merkel, in ihren Gräbern. Wie gut ist es, daß mir niemand die uralte Lizenz wegnehmen kann. Soweit kommt es noch, daß allgemein zugrifflich wird, wer wo wann welchen Führerschein hat. Und es geht auch niemanden von Polit- und Beamtentypen an, daß unsereiner auch durch die Lüfte rauschen darf.
+Erstaunlich ist, daß die Menschen die Total-„DDR“-Kontrolleurin auch noch wählen konnten. Ich hab die einmal in HH aus 5 Meter Entfernung ne Rede halten sehen. Das zeigte Alles bzgl. derer „Vertrauenswürdigkeit“. Wobei „Alles“ von 0 bis 100% gehen kann. Aber das muß jeder selbst beurteilen, wo diese Frau hingehört.
+100%
+Exzellenter Beitrag!!!
+Das ist kompletter Bullshit. Elektrik in der Luft ist alles, nur nicht „klimafreundlich“. Aber angesichts der Dummerhaftigkeit der meisten Bundesbürger, insbesondere bestimmter Politiker,Innen können die Ökokriminellen allen Unfug behaupten, die Dummerhaften glauben alles.
+Es tut zwar nichts zur Sache, aber um der Wahrheit willen: Dieses Zitat geistert seit vielen Jahren durchs Netz, konnte Fischer aber nie zweifelsfrei zugeordnet werden, weder auf Deutsch noch auf Englisch. Fischer hat zwar manchen Unfug von sich gegeben, diesen aber zu 99,9 Prozent nicht.
+Ich bastel und fliege seit ca. 5 Jahren mit/ an Drohnen.
+Baue ich einen doppelt so leistungsstarken Akku ein, so ist der auch doppelt so schwer und frist ein Mehr an Flugzeit wieder auf. Die Flugzeit erhöht sich nicht.
+Meine neuste Drohne mit GPS erreicht ca. 10 Minuten Flugzeit. Dann muss man einen neuen, vollen Akku einbauen.
+Drohnen sind nur für Kurzstreckenflüge bei gutem Wetter geeignet.
+Anders würde das mit Verbrennungsmotoren und Brennstoffzellenantrieb aussehen.
+Zudem arbeitet bei Sturm das Gyroskop zur Stabilisierung nicht mehr gut genug und Insekten fliegen oft auf Drohnen zu und greifen diese an, so dass sich die Propeller mit Totinsekten zusetzen. Das sieht dann so aus!
+https://youtu.be/nr_kUSdwzEE
+Mit Drohnen-Taxis wird also nichts. Habe ich auch schon vor einigen Jahren im ScSk-Blog zu einem Artikel von Herrn Heller geschrieben.
+Zudem sind Drohnen laut, die Propeller können Leute Köpfen und wirbeln Dreck, Staub und Laub auf. Das wird die Leute in Wohngebieten auch nicht erfreuen.

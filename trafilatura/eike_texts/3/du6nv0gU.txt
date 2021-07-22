@@ -1,0 +1,61 @@
+Wenn demnächst der Hausarrest endet und Corona hoffentlich bezwungen ist, dann wird es Kritik und Beifall geben. Manche werden sagen: „Seht Ihr, es war alles halb so schlimm. War nur eine ganz normale Grippe. Den wirtschaftlichen Schaden durch den Shutdown hätten wir uns sparen können.“ Vom anderen Ende des Spektrums werden wir hören: „Wir haben die schlimmste Bedrohung für Leib und Leben seit 1945 überstanden – ein phantastischer Erfolg. Dank an die Regierung für das professionelle Krisenmanagement und an die Bevölkerung für ihr Verständnis.“
+Ich möchte hier eine Krise analysieren, die sich vor 25 Jahren anbahnte und zu deren Vorbeugung weltweit Hunderte Mrd. Dollar ausgegeben wurden. Die zeitliche Distanz erlaubt es, die Angelegenheit eher historisch als politisch zu betrachten. Und noch etwas: es gab damals eine „Kontrollgruppe“. Es gab Länder, welche auf jegliche Gegenmaßnahmen verzichteten und deren Schicksal zum Vergleich herangezogen werden kann.
+Dem Computer ausgeliefert
+Gegen Ende des 20. Jahrhunderts waren Computer bereits allgegenwärtig. Auf den PCs war Windows 2000 installiert, was Sie vielleicht heute noch benutzen, die Festplatten hatten bis zu 1000 Megabyte und die Prozessoren tickten mit einem halben Gigahertz.
+Es gab damals aber auch noch ältere Hard- und Software aus den 60er und 70er Jahren, die vorwiegend in den Rechenzentren von Banken, Industrie und Behörden installiert waren.
+Diese Rechner hatten vergleichsweise sehr wenig Speicherplatz und die Programmierer mussten mit Daten geizen, wo es nur ging. Eine verbreitete Sparmaßnahme war es, Jahreszahlen nur zweistellig zu schreiben. Es wurde als selbstverständlich angenommen, dass beispielsweise 89 nichts anderes bedeutet als 1989. Dann nahte das Jahr 2000 und Fachleute erkannten, dass diese Abkürzung jetzt zu Missverständnissen führen könnte. Der pfiffige Nerd David Eddy erfand für dieses Problem die Abkürzung Y2k = Year 2 Kilo, d.h. Jahr 2000. Damit war ein griffiges Label gefunden – eine wichtige Voraussetzung, damit eine Krise Fahrt aufnimmt. Der Y2k Bug verbreitete sich schneller als der Borkenkäfer.
+Der Bug und das überzogene Konto
+Wo liegt nun die konkrete Bedrohung durch Y2k? Sie liegt darin, dass die Jahreszahl auf Erden von 1999 auf 2000 umschlägt, was im Kalender des Computers aber als Wechsel von 99 auf 00 dargestellt wird. Stellen Sie sich vor, Sie hätten Ihr Konto überzogen und Ihre Bank berechnet die fälligen Zinsen. Dazu muss man die Anzahl der Tage kennen die verstrichen sind, seit Sie in den roten Zahlen sind.
+Der Computer nummeriert jeden Tag des Jahres; also Neujahr 1, Heilig Abend 358 (wir haben gerade kein Schaltjahr), und Sylvester 365. Nehmen wir an es ist Weihnachten 1989, Sie hätten in letzter Sekunde noch wild Weihnachtseinkäufe gemacht und Ihr Konto geplündert. Am ersten Februar werden Sie Ihre Schulden bezahlen – plus Zinsen. Wie viele Tage sind das?
+Der Rechenvorgang im Computer, manchmal auch „Algorithmus“ genannt, läuft so ab:
+Konto ausgeglichen am 1. Februar = Tag 32 minus Überziehung am Tag 358 macht also
+32 – 358 = – 326 Tage.
+Wie bitte? Ach ja, wir hatten die Jahreszahlen vergessen; es kommen noch
+(90 – 89) x 365 = 365 Tage dazu.
+also: 32 + 365 – 358 = 39 Tage
+So lange hatten Sie Ihr Konto überzogen.
+Hätte das Ganze nicht 1989 stattgefunden, sondern 1999 und Ihre Bank hätte den selben Algorithmus laufen lassen, und dann wäre nicht ein Jahr Differenz eingerechnet worden sondern 00 – 99 = -99 Jahre. Das wären – 36.135 Tage gewesen und die Zinsrechnung hätte ein absurdes Resultat ergeben. So einen Quatsch würden Sie als Kunde nicht akzeptieren und die Bank könnte sich das nicht leisten.
+2000 und das Ende der Welt
+Solch ein Malheur könnte sich zum Jahrhundertwechsel in allen alten Computern abspielen und alle möglichen mehr oder weniger dramatische Folgen haben. Der Mann am Radar würde die Jets nicht mehr richtig lotsen und die Herz- Lungen Maschinen in Krankenhäusern würden verrückt spielen.
+Solche dystopischen Szenarien malte man sich aus, bis der totale Kollaps unausweichlich schien: Stillstand der Erde und Atomkrieg ausgelöst durch den Y2k Bug. Kombiniert mit der visionären Kraft von Un-Heilsaposteln, die für das Ende des Millenniums ohnehin den Weltuntergang prophezeit hatten, gewann das Thema an Dynamik und Y2k schwoll zu einer globalen Krise.
+Um den Kollaps abzuwenden wurden Entwickler und Programmierer, welche sich mit den veralteten Systemen auskannten, aus dem Ruhestand geholt. Sie arbeiteten Tag und Nacht, um sicherzustellen, dass man gut ins neue Jahrtausend käme. Findige Firmen schossen aus dem Boden und boten Y2k Zertifizierung an. Durch sie wurde dem Klienten bestätigt, dass seine Systeme fit für den Jahrhundertwechsel wären.
+Y2k und das Verfallsdatum
+Zu dieser Zeit arbeitete ich als Berater – nicht in Sachen Y2k – bei einer Pharma-Firma. Da waren solche Zertifizierer am Werk, welche die Produktion für ein paar Wochen still gelegt hatten. Bei der Herstellung von Arzneimitteln muss jeder kleinste Schritt dokumentiert werden: Von welchem Lieferanten kam das Acetonitril, was war die Nummer der Charge, wer bediente in diesem Moment die Abfüllvorrichtung, etc.
+Und so gab es für die Inspektoren unendlich viel Arbeit. Jedes Maschinchen, das im Verdacht stand, einen Chip in sich zu tragen, wurde unter die Lupe genommen. Beim Label-Drucker für die Pillenschachteln hatte ich dafür Verständnis. Da soll ja nicht als Verfallsdatum der 1. Juni 1903 stehen. Aber auch die Kaffeemaschine mit Digitaluhr und Datumsanzeige musste gründlich untersucht werden.
+Die Firma wurde schließlich rechtzeitig zertifiziert und man rutschte reibungslos über die Zeitenwende. Wäre es auch ohne den ganzen Y2k Aufwand glatt gegangen? Wer weiß.
+Lebenslauf einer Krise
+Die Y2k Krise startete, wie viele andere, mit einer technisch-sachlichen Beobachtung. Die Konsequenzen wurden dann, eine Etage höher, von Managern beurteilt und bekamen dabei politischen Spin. Schließlich forderte Präsident Clinton seine Leute auf, den eigenen Laden in Sachen Y2k in Ordnung zu bringen. Mit jeder Eskalationsstufe hatte das Thema an Gewicht gewonnen und an Sachlichkeit verloren.
+Jetzt mussten große Unternehmen diesem Weg folgen, auch wenn die Experten im eigenen Hause vielleicht anderer Meinung waren, und kleinere Firmen wurden dann unwillkürlich von dem Sog erfasst. Die Sache kostete die USA geschätzte 100 Mrd. Dollar und weltweit waren es 450 Mrd. – das wären ca. 60 Dollar pro Kopf der Weltbevölkerung gewesen, einschließlich der vielen kleinen Babys in Asien und Afrika.
+War das Geld gut ausgegeben? Fakt ist, dass außer einigen anekdotischen Pannen, wie hundertjährigen Ausleihzeiten von Videos (was für Filme müssen das gewesen sein!) keine Y2k Crashs bekannt wurden. Keine Flieger sind vom Himmel gefallen und keine Atomraketen haben sich selbständig gemacht. Beide Seiten können nun behaupten recht gehabt zu haben. Die einen: „Haben wir doch gleich gesagt, dass nicht passieren würde“; und die anderen: „Hätten wir nicht rechtzeitig…dann…“
+Y2k Leugner
+Nun hat es aber Länder gegeben, die das ganze Y2k ignorierten – Russland und die Ukraine. Sind dort Züge entgleist und Atomkraftwerke explodiert? Sind die Aeroflot Maschinen hilflos durch den Himmel geirrt? Soviel man weiß ist nichts derartiges geschehen. Der Jahreswechsel 2000 hat weder für die Ukraine noch für Russland Störungen mit sich gebracht.
+Und im Rest der Welt wäre es wohl ohne die kostspieligen Y2k Programme auch glatt verlaufen. Y2k war ein „non event“, ob mit oder ohne Krisenmanagement. Darüber herrscht heute Einigkeit. Haben sich aber erst einmal die obersten Würdenträger einer Krise angenommen, dann bekommt diese ein Eigenleben, dann tritt die ursprüngliche Absicht, die Vermeidung von Schaden, in den Hintergrund. Dann wird die Krise zur Bühne, auf der Entscheidungsträger ihre Kompetenz dartun.
+Und Corona? Es ist verwunderlich, dass bei dem Erfahrungsschatz aus Jahrhunderten in Sachen Seuchen, bei minutiöser Aufzeichnung und Analyse derer Verläufe, etwa durch das Robert Koch Institut, dass es dennoch, wie man der öffentlichen Diskussion entnimmt, keine Einigkeit der Experten über die Behandlung eines solch zentralen gesundheitlichen Problems gibt.
+Es ist anzunehmen, dass auch diese Krise in ihrer Entstehungsphase einen politischen Spin bekam, in Deutschland und weltweit, und dass die Erkenntnisse der modernen Medizin und die wissenschaftliche Logik durch politisches Kalkül an die Wand gedrückt wurden. Und dass die Therapie, die den Völkern verordnet wurde suboptimal ist; dass sie nicht dem aktuellen Stand der Wissenschaft entspricht.
+Wollen wir trotzdem das Beste hoffen.
+Dieser Artikel erschien zuerst bei www.think-again.org und im Buch „Grün und Dumm“ https://think-again.org/product/grun-und-dumm/
+Damals arbeitete ich in einer relativ kleinen Firma.
+Vereinzelt hatten wir sogar noch DOS-Rechner.
+Probleme konnte Software bereiten, die für DOS geschrieben wurde.
+Wirklich was passiert ist nicht.
+Wir kontrollierten die Uhren, RTC BIOS.
+Der älteste Rechner altes Lager stellte sich nicht von DM auf Reichsmark um!
+Ärgerlicher wurde es kurz danach bei der Umstellung von DM auf Euro.
+Bei einem firmeneigenen Rechnungsprogramm fehlte der Quellcode.
+Mir gelang es, dieses notdürftig von DM auf Euro umzustellen.
+Ich musste direkt die EXE-Datei bearbeiten, waren ein paar Anläufe.
+Und der „Wechsel“ beunruhigte alles und jeden…… aber konkrete Anhaltspunkte wurden trotzdem nicht gefunden.
+Schlussendlich liess man die Dinge laufen…….. und nichts geschah.
+Alles problemlos.
+Nun ja, seitdem hatten wir Ebola, SARS, MERS, Vogelgrippe, Schweinegrippe, BSE, Denque, Ozonloch, Klimaerwärmung….usw. usf.
+Und sind wir untergegangen?
+„… dass die Jahreszahl auf Erden von 1999 auf 2000 umschlägt“ ist noch richtig, aber damit hat weder ein Jahrhundert- noch ein Jahrtausendwechsel stattgefunden, auch wenn es von den meisten Menschen und Medien so gefeiert wurde.
+Tatsächlich wurde erst das letzte Jahr sowohl des alten Jahrhunderts als auch des alten Jahrtausends eingeläutet. Wer es nicht glaubt, der beschaffe sich einen alten Abakus und schiebe darauf die Kugeln. Das Ende des Millenniums ließ nämlich noch ein volles Jahr auf sich warten. Erst danach konnte man „gut ins neue Jahrtausend“ kommen.
+Pardon, es gibt Dinge, die müssen einfach auch einmal gesagt werden.
+Man hatte natürlich am 31.12.1999 neugierig Fernsehen geschaut. Das neue Jahr beginnt im Osten. Silvester in Australien, Japan? Die Lichter brannten weiter. östliches Russland, China, Ost-Europa, alles paletti. Welch ein Jammer für die Alarmisten. Sie konnten sich in ihre Löcher verkriechen und mussten sich was Neues ausdenken. Das haben sie allerdings geschafft!
+Der heutige Klima-Alarmismus funktioniert besser. Die Alarmisten warnen vor einer fiktiven Gefahr und bescheren uns hinterrücks eine reale, den Zusammenbruch der Wirtschaft wegen der CO2-Restriktionen.
+Bei Corona handelt es sich immer hin um ein echtes Problem, das aber individuell zu lösen nicht und nicht durch ein wirtschaftliches Selbstmord-Programm.
+WF http://www.system-denken.ch http://www.klima-schwindel.com
+Da von oben angeordnet, war argumentieren nicht erlaubt. Zum Beispiel kann man sofern wirklich ein Problem wäre, Uhren zurücksetzen …
+Alle Abteilungen mussten mögliche Gefahren zentral melden und Maßnahmen versichern. Zentral wurde alles eisern kontrollt. Task-Forces und zu Neujahr Hotlines und Krisenstäbe wurden gebildet …
+Dann kam der besagte 1.1., in Australien war das Feuerwerk und während sich bei uns alles auf den (möglichen) Untergang vorbereitete, geschah … nichts.

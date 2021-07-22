@@ -1,0 +1,119 @@
+[*Falls jemand eine treffende Übersetzung für das Multifunktionswort „Tools“ hat, bitte ich um Vorschläge. Mir selbst fällt keine ein. Anm. d. Übers.]
+Zunächst aber ein paar Anmerkungen:
+Anmerkung 1: Diese Arbeit ist noch nicht abgeschlossen. Ich habe zwar bereits eine abzuarbeitende Liste („to-do list“), aber Vorschläge und Korrekturen sind nichtsdestotrotz willkommen.
+Anmerkung 2: Diese Tools stelle ich der Gemeinschaft frei zur Verfügung. Es werden keine Gebühren wegen deren Nutzung erhoben.
+Anmerkung 3: Diese Tools sind ideologisch neutral.
+Einer der Anlässe zur Einrichtung dieser Site war der berühmte Blog WoodForTrees von Paul Clark, welcher einige ähnliche Tools für Temperaturdaten bietet. Paul ist lebenslang ein „grüner“ Aktivist, aber zu seinen Gunsten muss man sagen, dass die Brauchbarkeit seiner Site unabhängig ist von seiner Ideologie.
+Die Daten zeigen, was die Daten zeigen, unabhängig von meiner Meinung, von Pauls oder irgendjemandes anderen Meinung. Ich hoffe, dass diese Tools nützlich sind für jeden, der bzgl. des Meeresspiegels forscht, unabhängig von deren Ansichten zu Klimathemen.
+Nichtsdestotrotz betrachte ich selbst mich der Vollständigkeit halber als ein „lukewarmer“. Ich bin Unterzeichner der Global Warming Petition. Meiner Ansicht nach zeigt die Wichtung der Beweise, dass anthropogene globale Erwärmung real, moderat und gutartig ist, und dass anthropogene CO2-Emissionen vorteilhaft sowohl für die Landwirtschaft als auch natürliche Ökosysteme sind.
+Übersicht über die Site
+Wenn man die Website SeaLevel.info aufruft, wird man mit einem Bild von Kitesurfern auf Maui und ein Menü links begrüßt [siehe Bild oben!]
+1. Auf der „Homepage” kann man nach unten scrollen, um die jüngsten Verlautbarungen zu lesen, zumeist über die Site selbst. Es gibt auch Links zu den üblichen „About“- und „Contact“-Seiten
+2. Die Seite „Resources” ist eine große Zusammenstellung klimabezogener Ressourcen mit Betonung auf Meeresspiegel. Darunter sind Suchmaschinen, Glossare, ein Spickzettel mit Klima-Konversions-Faktoren sowie Links zu anderen Websites (z. B. WoodForTrees). Es gibt (natürlich) sehr viele den Meeresspiegel betreffende Informationen, aber auch über Meereis, Überschwemmungen, Klimaberichte, Klimazyklen, Temperaturen, Treibhausgase, Energie und weiteres.
+3. Die Seite „Blogs etc.” ist eine Liste mit Top-Klimablogs plus einigen anderen nützlichen Klimasites sowie ein wenig auch so eine Art Knittelvers. Ich habe Blogs von beiden Seiten der Klimadebatte gelistet, jedoch unter Ausschluss einiger prominenter, die so stark zensiert sind, um Abweichlertum zu vermeiden, dass ich sie als nutzlos beurteile (oder schlimmer).
+4. Die Seite „Papers” [Studien] listet etwa 120 Studien und Beiträge, unterteilt in vier Kategorien: Beschleunigung des Meeresspiegel-Anstiegs, wie lang eine Aufzeichnungsreihe sein sollte, bevor eine langzeitliche Trendanalyse möglich ist, „Wissenschaft (ist ein Durcheinander)“ und „Andere“.
+5. Die Seite über „Feedbacks” [Rückkopplungen] enthält Informationen über Rückkopplungs-Systeme allgemein und Klima-Rückkopplungen im Besonderen. Damit ist beabsichtigt, eine vollständige Liste aller bedeutenden klimabezogenen Rückkopplungs-Mechanismen zu erstellen, seien sie nun bekannt oder hypothetisch. Ich habe einen Grad in Systemwissenschaft von vor langer Zeit. Diese Disziplin untersucht derartige Dinge, und ich kann mich immer noch an Einiges erinnern.
+6. Die Seite „Data” ist Thema des restlichen Teils dieses Artikels.
+Die Data-Seite
+Bei SeaLevel.info gibt es Messungen des Mittleren Meeresspiegels (MSL) von über 1200 Messpunkten. (Gegenwärtig stammen alle Daten von PSMSL und NOAA). Auf der Daten-Seite kann man:
+1. Nach einer Tiden-Messstation suchen
+2. Mit Excel kompatible Tabellen ansehen oder herunterladen.
+3. Übersichts-Seiten anschauen, die mit den Tabellen korrespondieren.
+Alles fängt an mit ein paar Links:
+1.Suche. Nach einem Tiden-Messpunkt kann man suchen mittels der PSMSL-Stationsnummer, der NOAA-Stationsnummer oder mittels des Standortes (z. B. „Honolulu“). Gegenwärtig wird nur ein Messpunkt gefunden; ich plane, die Fähigkeit hinzuzufügen, eine Liste mit allen Stationen zu finden (z. B. die Suche nach „NC, USA“ und die darauf folgende Auflistung aller Messpunkte in North Carolina).
+2(a). Tabellen Falls man auf „Spreadsheets & thumbnails” klickt (oder ein wenig herunterscrollt), kommt man in den Bereich, wo man eine Tabelle mit Messdaten des Meeresspiegels von verschiedenen Messpunkten findet, die mit Microsoft Excel kompatibel ist, oder eine „thumbnail“-Seite mit kleinen Versionen der MSL-Graphiken für die zugehörigen Messpunkte:
+Obwohl alle Tabellenblätter normale Websites sind, gibt es eingebettet Informationen, und zwar im excel-kompatiblen HTML-Format einschließlich Formularen zum Berechnen von Mittelwerten o. Ä. sowie ungerundete Zahlen. Die Tabellenblätter sind kompatibel mit Excel 2003 und höher.
+Der einfachste Weg, ein Tabellenblatt herunterzuladen und es mit Excel zu bearbeiten ist es, in das Feld „Open“ die URL des Tabellenblattes anstelle des Filenamens setzen. Hier folgt ein Screenshot von einem der Tabellenblätter, wie es im Internet (nicht in Excel) erscheint. Diese Tabellenblätter sind ziemlich groß, deshalb ist dieser Screenshot stark gestutzt, sowohl der Länge als auch der Breite nach:
+Dieser Auszug zeigt die ersten 11 Spalten des Tabellenblattes mit Werten von 13 Tidenmesspunkten in Nordeuropa (Gesamtzahl der Messpunkte in diesem einen Blatt 375).
+Man muss zum Ende jedes Blattes scrollen, um zusammenfassende Informationen zu erhalten (Mittelwerte und Mediane).
+Klickt man auf die Überschrift der Spalte, erscheint nur diese. Klickt man auf einen Link in der Spalte „Location“, wird man zur Analyse-Seite von sealevel.info von jenem Messpunkt geführt. Klickt man auf einen Link in der Spalte „NOAA stn“, kommt man zur NOAA-Seite für jenen Messpunkt. Der Klick auf einen Link in der Spalte PSMSL stn“, führt einen zur PSMSL-Seite jenes Messpunktes.
+In den Spalten „Trend“ und „±95% CI (trend)” sieht man das Ergebnis einer linearen Regression (d. h. Anpassung einer Linie an die Daten) für diese 13 Messpunkte. An vier dieser Messpunkte sinkt der Meeresspiegel, an sieben Punkten steigt er, und an den anderen beiden zeigt sich kein signifikanter Trend (d. h. das 95%-Vertrauensintervall ist größer als der lineare Trend).
+In den Spalten „Accel“ und „±95% CI (accel)” sieht man das Ergebnis einer quadratischen Regression (womit man Beschleunigung oder Verlangsamung erkennen kann) An zwei dieser 11 Messpunkte hat sich der Anstieg des Meeresspiegels geringfügig beschleunigt, an einem weiteren geringfügig verlangsamt. An den anderen 10 Messpunkten zeigte sich keine statistisch signifikante Beschleunigung oder Verlangsamung.
+Unten auf dem Tabellenblatt sind die berechneten Mittelwerte und Mediane für das gesamte Blatt gelistet.
+Lädt man das Tabellenblatt herunter, kann man mit Excel interessante Tests durchführen. Man könnte zum Beispiel Messpunkte löschen, die Daten aus weniger als 50 Jahren enthalten (wird doch in der Literatur erwähnt, dass mindestens 50 bis 60 Jahre mit Daten erforderlich sind, um einen handfesten Meeresspiegel-Trend an einem einzelnen Messpunkt zu erhalten). Die Zellen mit Mittelwerten und Medianen werden durch Excel-Formeln bestimmt, so dass sie automatisch angepasst werden, wenn man solche Änderungen vornimmt.
+2(b): Thumbnails: Korrespondierend mit den Tabellenblättern gibt es Seiten mit „Miniaturbildern“ mit kleinen Versionen der Graphiken für alle in der Tabelle gelisteten Tidenmesspunkte. Beispiel:
+In diesem Screenshot erkennt man, dass der Cursor auf das ersten Miniaturbild springt mit Angabe der Stationsnummer und dem Namen des Messpunktes. Klickt man auf eines der Miniaturbilder, kommt man zur Analyse-Seite für jenen Messpunkt.
+Die Analyse-Seiten der jeweiligen individuellen Messpunkte
+Für jeden Messpunkt, den man auf die eine oder andere oben beschriebene Weise anklickt, kommt man zur Analyse-Seite für eben jenen Messpunkt. Hier folgt als Beispiel Honolulu, dargestellt mit Standardoptionen:
+Es gibt viele verfügbare Optionen. Man kann:
+a) eine Graphik der Messungen des Meeresspiegels an jener Stelle erstellen (natürlich). Das ist die blaue Kurve.
+b) Den Links zu den NOAA- bzw. PSMSL-Seiten für jenen Messpunkt folgen.
+c) Den Links zu folgen zum „nächsten“ oder „vorherigen“ Messpunkt.
+d) Lineare und quadratische Regressionen berechnen.
+e) Graphische Präsentationen der linearen und/oder quadratischen Regressionen betrachten.
+f) Vertrauens- und/oder Vorhersage-Intervalle für die Regressionen betrachten.
+g) Einen überlagerten Graphen der CO2-Messungen ein- oder ausblenden, um zu sehen, welche Auswirkungen CO2 auf Steigen oder Fallen des Meeresspiegels an jener Stelle hat.
+h) Glättungen an den Graphen des Meeresspiegels vornehmen.
+i) Das Aussehen der Graphik adjustieren (Farbwahl, Liniendicke usw.)
+j) Die Daten-Bandbreite adjustieren, die in den Regressions-Berechnungen verwendet wurden.
+k) Die Datenquelle wählen (PSMSL und/oder NOAA)
+l) Die verwendete Graphik kennzeichnen.
+Man beachte die Ergebnisse der Regression (d):
+Wie man sieht, werden Neigung und Beschleunigung berechnet zu:
+Neigung = 1,434 ±0,211 mm pro Jahr
+Beschleunigung = -0,01004 ±0,01454 mm pro Jahr².
+Aus der Neigung kann man ablesen, dass der Meeresspiegel über die 110 Jahre lange Historie jenes Messpunktes mit einer mittleren Rate von 1,434 ±0,211 mm pro Jahr gestiegen ist (was übrigens ein sehr normaler Wert ist).
+Das Minus-Zeichen vor der „Beschleunigung“ zeigt, dass sich die Rate des Meeresspiegel-Anstiegs auf Honolulu verlangsamt hat, aber 0,01 mm pro Jahr² ist eine sehr kleine Zahl (welche, falls sie über das Jahrhundert erhalten bleibt, zu einer Rate des Anstiegs um nur 1 mm pro Jahr führen würde), und dass das Vertrauensintervall größer ist als die Rate der Verlangsamung. Darum sollte man von jenem Messpunkt korrekt als „keine statistisch signifikante Beschleunigung oder Verlangsamung aufweisend“ berichten (was ebenfalls typisch ist).
+Die verschiedenen Optionen, die man auswählt, werden alle Teil der URL für die Website. Zum Beispiel, falls man die Option „Liniendicke“ wählt, wird dies der URL hinzugefügt. Daher ist dies der Link zum gleichen Graphen, aber mit dickeren Linien:
+http://www.sealevel.info/MSL_graph.php?id=1612340&thick
+Hier folgt der Graph ohne den eingeblendeten CO2-Graphen (das „&co2=0” am Ende unterdrückt diesen):
+http://www.sealevel.info/MSL_graph.php?id=1612340&thick&co2=0
+Hier folgt er in Schwarz-Weiß mit dicken Linien (Viele andere Farbgebungen lassen sich auch anbringen):
+http://www.sealevel.info/MSL_graph.php?id=1612340&thick&colors=2
+Schwarz-Weiß ist nützlich, um die Graphen zum Ausdrucken auf Schwarz-Weiß-Druckern aufzubereiten. Das sieht so aus:
+Hier folgt fast das Gleiche, aber mit einer 3-Monate-Glättung. Die Glättung beeinflusst nicht die Regressionsanalysen (außer bei den Vorhersage-Intervallen), aber der Graph sieht dann hübscher aus:
+http://www.sealevel.info/MSL_graph.php?id=Honolulu&colors=2&thick&boxcar=1&boxwidth=3
+Man beachte, dass wir in dieser URL den Stationsnamen („id = Honolulu“) anstelle der Stationsnummer (“id=1612340”) genannt haben. Man kann auch die PSMSL-Stationsnummer (“id=155”) oder den früheren Stationscode (“id=760-031”) eingeben. Alle erzeugen den gleichen Graphen:
+Hier folgt er mit einer quadratischen anstatt einer linearen Regression. Außerdem habe ich den Graphen mit Daten erst ab dem Jahr 1930 erstellt und mit bis zum Jahr 2100 ausgedehnten Regressionskurven versehen, mit einem anderen Farbschema und mit minimaler Glättung:
+http://www.sealevel.info/MSL_graph.php?id=Honolulu&quadratic=1&thick&co2=0&linear=0&lin_ci=0&quad_pi=0&quad_ci=1&colors=3&g_date=1900/1:2099/12&c_date=1930/1:2019/12&boxcar=1&boxwidth=2
+Das sieht so aus:
+Man beachte, dass ich in jenem Screenshot mit dem Cursor auf einen Punkt auf dem Graphen gegangen bin, um den genauen Wert zu erkennen (in diesem Falle das obere Ende des 95%-Vertrauens-Intervalls für 2100).
+Man beachte weiter, dass der lineare Trend etwas unterschiedlich ist (weil wir Daten vor 1930 ausgeschlossen haben). Die aus den Berechnungen ausgeschlossenen Daten werden mit einer helleren blauen Schattierung dargestellt, und eine rote Fußnote wird der Seite hinzugefügt:
+‡Hellblaue Daten sind in den Regressionsberechnungen nicht enthalten.
+Diese Version ist fast die gleiche, aber mit hinzugefügtem CO2-Graphen in grün, und die Vertrauensintervalle wurden ersetzt durch Vorhersageintervalle (gepunktet orange):
+http://www.sealevel.info/MSL_graph.php?id=Honolulu&quadratic=1&thick&linear=0&lin_ci=0&g_date=1900/1:2099/12&c_date=1930/1:2019/12&boxcar=1&boxwidth=2&quad_pi=1&quad_ci=0&colors=3
+Anmerkung: auf der rechten Seite der Site befindet sich ein Link zu einem kurzen Video von Dr. Gerard Verschuuren, in welchem der Unterschied erklärt wird zwischen „Vertrauensintervall“ und Vorhersageintervall“.
+Achtung:
+Diese Tools können Regressionen und Graphen erzeugen für über 1200 Messpunkte, aber auf viele Einzelgraphen habe ich gar nicht geschaut. Die Durchführung von Regressionsberechnungen und die Erzeugung von Graphiken ohne händische „Nachprüfungen“ enthält Fallstricke.
+Zum Beispiel wurden einige MSL-Daten an manchen Messpunkten von PSMSL und/oder NOAA als von fragwürdiger Genauigkeit identifiziert, und diese Tools tragen dem nicht Rechnung.
+Auch Erdbeben können manchmal extreme Verzerrungen in den Trend bringen. Man betrachte das Beispiel von Seward, Alaska:
+Am 27. März 1964 war es zum Großen Alaska-Erdbeben gekommen (Magnitude 9,2!). In Seward stieg der Meeresspiegel ruckartig um einen ganzen Meter. Wenn man also den MSL-Trend für Seward berechnet, sollte man mit den Daten nach diesem Ereignis beginnen, etwa so:
+http://www.sealevel.info/MSL_graph.php?id=9455090&c_date=1964/5:2019/12&co2=0&thick:
+Man beachte, dass die NOAA dies für ihre Website für Seward gemacht hat:
+Wenn man also diese Tools für die Analyse von MSL-Daten heranzieht, rate ich, auch auf die Links zu NOAA und PSMSL zu klicken, um deren Seiten bzgl. der interessierenden Messpunkte zu betrachten. Vor allem rate ich, im besonderen auf Warnungen vor fragwürdigen Daten zu achten, auf offensichtliche Änderungen der Messzeitpunkte und auf Erdbeben.
+Zukunft
+Es gibt viele weitere Ecken und Kanten bei diesen Tools. Meine Liste notwendiger Vorarbeiten wird immer länger, und vielleicht tragen ja noch Leser zu dieser Liste bei.
+Fakten sind unendlich stur: Welche Wünsche oder Neigungen man auch immer hat, oder welche Leidenschaften in uns stecken – all dies kann Fakten und Beweise nicht verändern, geschweige denn aus der Welt schaffen. – John Adams
+Trugschlüsse hören nicht auf, Trugschlüsse zu sein, nur weil sie in Mode kommen. – G. K. Chesterton
+Herr, errette mich von den Lügenmäulern, von den falschen Zungen! – Psalm 120, Vers 2 [direkt aus der Luther-Bibel. Keine Übersetzung!]
+www.sealevel.info
+Link: https://wattsupwiththat.com/2017/01/21/new-website-gives-you-the-real-deal-on-sea-level-rise-and-rates/
+Übersetzt von Chris Frey EIKE
+ich bin grundsätzlich ein sehr optimistischer Mensch. Mein Optimismus erhielt allerdings schwere Dämpfer, als Merkel 2011 meinte, die deutschen KKWs wegen Tsunamigefahr stilllegen zu müssen.
+Seit dieser Zeit wird die Verspargelung mit Windrädern in solch gnadenloser, undemokratischer Weise durchgepeitscht, die einen erschaudern lässt. Gemeinden haben kein Mitspracherecht mehr bei Industrieanlagen in den eigenen Wäldern, Gemeinderäte müssen auf Anweisung des Regierungspräsidiums ihre Anti-Windrad-Beschlüsse widerrufen, in BW werden Widräder an Stellen geplant, die in der Windhöffigkeitsskala ganz unten stehen. Da werden dann überdimensionale Windradkolosse mit leistungsschwachen Turbinen hingestellt, nur um die Förderungswürdigkeit zu erhalten. Auf gesundheitliche Belange der Bevölkerung wird keine Rücksicht genommen, die TA-Lärm, die eigentlich für 100m Windräder gedacht ist, wird auf 230m Riesen angewendet, die Bürgermeister werden mit enormen Pachterträgen gelockt, die der Stromkunde bezahlen muss, usw.usw.
+Der Beschluss der CDU mag ja optimistisch stimmen, alllerdings müsste sie dann die Wahlen gewinnen, was ich seit Schulz bezweifle, der wird ja von der Bevölkerung wie ein kleiner Gott verehrt. Wenn der gewinnt, wird die zweifellos folgende rot-rot-grüne Regierung noch eine Schippe bei der Energiewende drauflegen, und dann Gute Nacht.
+Und da soll man nicht pessimistisch sein!
+Aso mittleren Meesersspiegelanstieg aller langjährigen Stationen ohne Gelände-erhebung oder Senkung hat Herr Burton 1,51mm/Jahr errechnet.
+ein paar Minuten.
+Ich gebe Ihnen zu 100% Recht.
+Wenn einer mehrmals sagt, „das können wir ganz genau berechnen, das sind so undefähr …“,
+und jedesmal kommt ein anderer Betrag raus, dann weiß man mit wem man es zu zun hat.
+Einem Scharlatan! Die sog. Klimafolgenforschung ist der größte Betrug an der Menschheit,
+den sich die zwanghaften, geistig kranken, Transformer je einfallen haben lassen.
+Ich könnte ……, nein das sage ich jetzt nicht, sonst geht das hier nicht mehr durch.
+Das wäre aber evtl. noch die Rettung. X:-((
+Steter Tropfen höhlt den Stein
+1. warum schütten sich die scheichs in dubai künstliche inseln auf
+2. wieso kaufen sich die richtig „geldigen“ noch grundstücke/häuser direkt am meer (key west, etc)
+3. warum kaufen reedereien noch insel zur nutzung >
+http://tinyurl.com/zbxdcu3
+http://tinyurl.com/glh8dyb
+Das macht doch eigentlich keinen sinn…. oder… vielleicht steigt das meer ja an den o. g. stellen NICHT, sondern nur in hamburg (wie schon so oft in den „qualitätsmedien“ abgebildet).
+Der Wahnsinn geht unvermindert weiter und der deutsche Michel wird im Herbst den netten Herrn Schulz wählen, der mit rot-rot-grünem Elan die Schlagzahl noch weiter erhöhen wird, bevor spätestens 2022 der große Knall kommt, bei dem selbst die größten Deppen aufwachen werden.
+Diese Webseite ist ein schönes Beispiel, wie Internet eigentlich gedacht war von der Konzeption her.Leider haben die profitgierigen Kaufleute und Geschäftemacher dieses System verkommen lassen.
+Und wenn es auch mühsam erscheint, wird diese Art der Informationsaufarbeitung seinen Weg finden.
+Noch eine Bemerkung zum Kommentar von Herrn Geiselhart.
+Was hier bei EIKE permanent am Pranger steht, mit welchen Horrorscenarien Angst geschürt wird um den modernen Ablasshandel zu forcieren, sollten wir nicht noch mit pessimistischen Bemerkungen verstärken.
+Ich frage mich seit 10 Tagen, warum diese seriöse Mitteilung kein Gehör findet??
+http://tinyurl.com/jcn6p2x
+Mit herzlichem Glückauf

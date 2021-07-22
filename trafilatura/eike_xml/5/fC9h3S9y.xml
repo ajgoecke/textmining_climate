@@ -1,0 +1,13 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Kommentar Registrierung funktioniert wieder!" author="Admin" date="2016-12-25" source="https://eike-klima-energie.eu/2016/12/25/kommentar-registrierung-funktioniert-wieder/" hostname="eike-klima-energie.eu" excerpt="EIKE Redaktion Die Registrierung für Kommentare samt Bestätigungs-Mail Versand war durch Aufspielen eine Updates gestört. Sie funktioniert jetzt wieder." categories="Allgemein" tags="" fingerprint="Zu5y2lnjPwCQ6+9mQAxd2ClUfko=">
+  <main>
+    <p>Die Feiertage sind nicht nur Tage der Besinnung und des Feierns, sondern auch Zeit für notwendige Wartung, Fehlerbehebung etc. Nach Umstellung auf WordPress haben sich einige kleiner und gößere Mängel gezeigt, die jetzt Schritt für Schritt behoben werden. Zudem wurden eine Reihe von Wünschen an uns herangetragen und Empfehlungen für eine bessere Funktion gegeben, die wir jetzt Stück für Stück angehen und je nach Möglichkeit und Aufwand umsetzen wollen.</p>
+  </main>
+  <comments>
+    <p>Überprüfen wir, Danke.</p>
+    <p>Wir überprüfen das. Der Hauptgrund ist, dass im Kommentarbereiche Formatierungen des Textes per Mausklick eingeführt werden können. Damit ist html erlaubt, und wenn dann per copy &amp; paste Texte, die html codes enthalten, eingegeben werden, sind die sichtbar. Mal sehen, was wir da machen können.</p>
+    <p>mfG</p>
+    <p>1. Nehmen sie einen nicht formatierenden Editor. Unter Windows ist dazu der Klassiker das Notepad.</p>
+    <p>2. Schreiben sie weiter in Word, fügen sie den Text dann aber in Notepad ein. Kopieren sie erneut und fügen sie ihn dann in EIKE ein.</p>
+    <p>Schnell und einfach ist natürlich Lösungsvorschlag 1.</p>
+  </comments>
+</doc>

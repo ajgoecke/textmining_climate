@@ -1,0 +1,68 @@
+Die Meisten kennen sich mit der Anwendung linearer Regression bzgl. globaler Erärmung aus. Man wähle einen Start- und einen Endzeitpunkt und berechne die Neigung der Regressionslinie aus den Zeitpunkten und Temperaturanomalien in den Datensätzen. Was könnte dabei falsch laufen?
+Eine der allgemeinen Vorwürfe im Zusammenhang mit der globalen Erwärmung lautet, dass Start- und Endzeitpunkt cherry-picked sind, um ein bestimmtes Ergebnis zu erzielen. Vorwürfe gibt es auch hinsichtlich der Länge des Trends, der zu kurz sei, um ein signifikantes Ergebnis zu bekommen (d. h. Trends kürzer als 10 Jahre oder sogar kürzer als 30 Jahre).
+Wie wäre es, wenn wir ein Verfahren nutzen könnten, um diese Vorwürfe zu umgehen?
+Um das Problem Cherry-Picking zu umgehen, betrachten wir alle möglichen Start- und Endzeitpunkte des untersuchten Zeitintervalls. Um das Problem von Kurzzeittrends zu umgehen, betrachten wir nur Trends mit einer Länge von mindestens 10 Jahren.
+Beispiel: Man stelle sich vor, wir wären interessiert am Zeitintervall von Januar 1975 bis Dezember 1999. Dieses Intervall ist 24 Jahre und 11 Monate lang. Wir teilen den Zeitraum Januar 1975 bis Dezember 1999 auf in ALLE möglichen Trends von mindestens 10 Jahren.
+Wenn ich sage JEDEN möglichen Trend von mindestens zehn Jahren, meine ich JEDEN möglichen Trend von 10 Jahren. Für das Zeitintervall Januar 1975 bis Dezember 1999 gibt es 16.920 mögliche Trends, und in diesem Verfahren werden sie ALLE verwendet.
+Beispieltrends von Januar 1975 bis Dezember 1999:
+Das kann jetzt überwältigend aussehen, aber mit Excel und einem modernen Computer können alle Berechnungen ziemlich einfach durchgeführt werden.
+Es gibt viele Möglichkeiten, die Ergebnisse darzustellen. Der einfachste Weg ist eine „Streu“-Graphik der Erwärmungsrate zur Trendlänge. Wie sieht die Graphik jeder möglichen Kombination von Erwärmungsrate und Trendlänge aus für den Zeitraum Januar 1975 bis Dezember 1999? Dazu betrachte man Graphik 1:
+Diese Graphik enthält eine Menge Information, muss aber ein wenig interpretiert werden. Zum Beispiel, wie ändert sich der Erwärmungstrend in Abhängigkeit von der Trendlänge?
+Aus der Graphik:
+Die Erwärmungsrate für 10-Jahre-Trends variiert von -0,20°C bis +0,80°C pro Jahrhundert
+Die Erwärmungsrate für 15-Jahre-Trends variiert von +0,65°C bis +2,20°C pro Jahrhundert
+Die Erwärmungsrate für 20-jahre-Trends variiert von +1,02°C bis +1,61°C pro Jahrhundert
+Die Erwärmungsrate für 24 Jahre und 11 Monate variiert überhaupt nicht, weil es nur eine gibt, nämlich die über den gesamten Zeitraum, und die beläuft sich auf 1,71°C pro Jahrhundert.
+Diese Ergebnisse entsprechen möglicherweise ziemlich den Erwartungen der meisten Menschen. Eine Lektion lautet, man sei sehr kritisch gegenüber 10-Jahre-Trends. Man bekommt fast jede Erwärmungsrate, die man haben will, aus einem 10-Jahre-Trend. Man beachte, dass ein 10-Jahre-Trend unter bestimmten Umständen bedeutsam sein kann, aber im Allgemeinen gibt es 10-Jahre-Trends überall.
+Allgemein werden Erwärmungstrends mit zunehmender Trendlänge stabiler. Aber nicht immer. Man betrachte die Erwärmungsraten für eine Trendlänge von 22 Jahren. Es gibt eine sehr kleine Bandbreite von Erwärmungsraten, die von +1,43°C bis +1,52°C pro Jahrhundert variieren. Aber wenn sich der Trend auf 23 Jahre verlängert, erweitert sich die Bandbreite von Erwärmungsraten erheblich. Warum?
+Ebenso: Nach einer ziemlich stabilen Erwärmungsrate von etwa 1,48°C pro Jahrhundert bei einer Trendlänge von 22 Jahren endet das Intervall mit einer Erwärmungsrate von +1,71°C pro Jahrhundert über das gesamte Intervall. Was hat die Erwärmungsrate so plötzlich um über 15% zunehmen lassen, obwohl die Trendlänge nur um 3 Jahre größer geworden ist?
+Ich werde diese zwei Fragen zu beantworten versuchen mittels der „Streu“-Graphik und einer Graphik der Temperaturanomalien über das Intervall. Falls man mit meiner Antwort nicht übereinstimmt, dann lasse man mich wissen, was sonst die Antwort ist. Zu Beginn des Intervalls war ein La Nina-Ereignis im Gange, von 1975 bis 1977. Am anderen Ende des Intervalls findet sich der große El Nino von 1997 bis 1999. Ist der Trend lang genug, um von beiden Ereignissen gleichzeitig beeinflusst zu werden, wird die Neigung der Regressionslinie durch den El Nino am einen Ende und die La Nina am anderen Ende zunehmen. Wenn also die Trendlänge über 22 Jahre hinausgeht, gibt es einen Doppel-Schub für die Erwärmungsrate, was in der „Streu“-Graphik auch ziemlich gut herauskommt.
+Betrachtet man die „Streu“-Graphik für ein einzelnes Zeitintervall, gibt es nur eine mögliche Anwendung dieses Verfahrens. Ein Vergleich der „Streu“-Graphiken anderer Zeitintervalle ist eine weitere interessante Möglichkeit. Es ist dieses Verfahren, dass ich anwenden werde um zu beweisen, dass Karl et al. in ihrer Studie über den „Stillstand“ falsch lagen („Mögliche Artefakte von Daten-Verzerrungen während des derzeitigen Stillstands der globalen Erwärmung“).
+Zunächst betrachte man Graphik 2. Sie ist aufgebaut wie Graphik 1, zeigt aber jede mögliche Kombination von Erwärmungsraten und Trendlängen für ein anderes Zeitintervall, nämlich von Januar 1950 bis Dezember 1974. Diese Graphik sieht einerseits so aus wie die Graphik des Zeitraumes Januar 1975 bis Dezember 1999, ist aber auch andererseits unterschiedlich.
+Um einen Vergleich dieser beiden Streu-Graphiken einfacher zu machen, fasse ich sie zu einer Graphik zusammen. Dies bedeutet, dass eine der Graphiken ein wenig von der anderen Graphik überdeckt, und zwar dort, wo sie sich überlappen. Falls erforderlich, kann man das noch verbessern durch das Plotten lediglich des Umrisses jeder Graphik, aber mich interessiert mehr der Bereich, in dem sich die Graphiken nicht überlappen. Darum lassen wir den Überlappungsbereich erst einmal außen vor.
+Siehe Graphik 3 – alle Kombinationen von Erwärmungsraten und Trendlängen, die es in den Zeitintervallen 1975 bis 1999 bzw. 1950 bis 1974 gibt, für Trendlängen von mindestens zehn Jahren.
+Jetzt ist es einfacher, die Unterschiede zwischen den beiden Graphiken zu erkennen. Sie sehen von der Form her ähnlich aus, aber die grüne Kurve ist abgeleitet aus der orangenen Kurve. Warum das? Die Betrachtung der Erwärmungsrate für das gesamte Zeitintervall einer jeden Graphik liefert die Antwort.
+Die orangene Kurve zeigt einen 24-Jahre-und-11-Monate-Trend von 1,71°C pro Jahrhundert. Das ist eine Rate globaler Erwärmung, die NICHT niedrig ist.
+Die grüne Kurve zeigt einen Trend in einem gleich langen Zeitintervall von 0,28°C pro Jahrhundert. In diesem Zeitintervall gibt es nicht viel globale Erwärmung.
+Man beachte, dass es keine Überlappung der beiden Graphiken gibt für Trendlängen über etwa 15 Jahre. Dies stützt den Gedanken, dass diese beiden Zeitintervalle sehr unterschiedliche Profile von Erwärmungsraten zeigen.
+Und jetzt die GROSSE Frage: Falls man diese beiden Zeiträume addiert, also 1950 bis 1974 bzw. 1975 bis 1999, und die Erwärmungsrate für das Gesamtintervall, also 1950 bis 1999 berechnet – wie groß würde die Erwärmungsrate sein? Das habe ich getan, und eine lineare Regression über das Gesamtintervall zeigt eine Erwärmungsrate von +1,12°C pro Jahrhundert. Gut und schön, aber was repräsentiert dieser Wert von +1,12°C pro Jahrhundert tatsächlich?
+Es ist NICHT die Erwärmungsrate normaler anthropogener globaler Erwärmung.
+Es ist NICHT die Erwärmungsrate, wenn es KEINE anthropogene globale Erwärmung gibt.
+Es ist eine künstliche mittlere Erwärmungsrate über ein Zeitintervall, als die anthropogene globale Erwärmung etwa die Hälfte der Zeit präsent war und während der anderen Hälfte der Zeit fehlte.
+Unglücklicherweise haben Karl et al. diesen Wert verwendet als ihre „normale“ anthropogene Erwärmungsrate, und auf der Grundlage dieses Wertes haben sie gefolgert, dass die Erwärmungsrate von 2000 bis 2014 NICHT das Bestehen eines „Stillstands“ der globalen Erwärmung stützt.
+Kurzer Blick auf die Studie von Karl et al.:
+Karl et al. haben die NOAA-Daten adjustiert, um der mittleren Differenz von 0,12°C Rechnung zu tragen zwischen Messungen der Wassertemperatur von Bojen und von Schiffen. Diese „Korrektur“ hatte ihren Einfluss auf Temperaturtrends mit dem größten Einfluss auf die Trends von 2000 bis 2014 (welches der „Stillstands“-Zeitraum sein sollte).
+Karl et al. haben also die neuen Erwärmungsraten 1950 bis 1999 bzw. 2000 bis 2014 berechnet. Sie erhielten:
+Erwärmungsrate 1950 bis 1999: +1,13°C pro Jahrhundert.
+Erwärmungsrate 2000 bis 2014: +1,16°C pro Jahrhundert.
+Daraus zogen Karl et al. ihre Schlussfolgerung: Da sich die Erwärmungsrate von 2000 bis 2014 praktisch nicht von der Erwärmungsrate im Zeitraum 1950 bis 1999 unterscheidet, wird das Bestehen eines „Stillstands“ der globalen Erwärmung NICHT gestützt.
+Ich stelle NICHT die Adjustierungen von Karl et al. der Wassertemperatur in Frage. Ich bin nicht qualifiziert genug, um diese Adjustierungen zu bewerten. Darum verwende ich die adjustierten NOAA-Daten so, wie sie da stehen. Spezielle Anmerkung: Ich verwende die NOAA-Daten. Falls ich in den NOAA-Daten einen „Stillstand“ finde, kann man mir nicht vorwerfen, die falschen Daten zu benutzen.
+Ich spreche auch NICHT über die Ergebnisse der Berechnungen von Karl et al. Ich bekomme Ergebnisse, die ihren sehr ähnlich sind.
+Mein Anliegen ist die Verwendung der Erwärmungsrate von 1950 bis 1999. Karl et al. schrieben dazu Folgendes:
+Unsere neue Analyse zeigt jetzt den Trend im Zeitraum 1950 bis 1999, ein Zeitraum, der in breiter Übereinstimmung eine signifikante anthropogene Erwärmung aufweist mit 0,113°C pro Dekade, was praktisch ununterscheidbar ist vom Trend im Zeitraum 2000 bis 2014 (0,116°C pro Dekade)“
+Nun ist 1975 bis 1999 ein Zeitintervall mit einer signifikanten anthropogenen globalen Erwärmung. Aber 1950 bis 1974 ist ein Zeitintervall mit nur sehr geringer anthropogener globaler Erwärmung.
+Fügt man diese beiden Intervalle zusammen zum Zeitraum 1950 bis 1999, haben Karl et al. ein Intervall erzeugt, dass im Grunde eine anthropogene globale Erwärmung halber Stärke zeigt (halb mit, halb ohne Erwärmung). Aber Karl et al. verwendeten diesen Wert als ihre „normale“ anthropogene Erwärmungsrate, wenn sie den Vergleich mit dem Zeitraum 2000 bis 2014 durchführen.
+Falls die Erwärmungsrate 2000 bis 2014 zu der Erwärmungsrate 1950 bis 1999 passt (was der Fall ist), dann bedeutet das, dass 2000 bis 2014 ebenfalls eine anthropogene globale Erwärmung halber Stärke aufweist.
+Es gibt zwei einfache Wege zu erklären, wie 2000 bis 2014 anthropogene globale Erwärmung halber Stärke haben kann.
+1) Der Zeitraum 2000 bis 2014 könnte aus zwei Teilen bestehen, wobei in einem Teil anthropogene globale Erwärmung auftritt, im anderen Teil aber NICHT (wie 1950 bis 1999). Aber ich glaube nicht, dass dies der Fall ist.
+2) Die vernünftigere Erklärung ist, dass der Zeitraum 2000 bis 2014 eine geringere Erwärmungsrate zeigt als die „normale“ anthropogene globale Erwärmung. Die Erwärmungsrate betrüge etwa 50% der „normalen“ Erwärmungsrate. Das kann man nennen, wie man will (Verlangsamung, Stillstand, Pause). Wie auch immer man es nennt, die Daten zeigen, dass es existiert.
+Während also Karl et al. versucht haben, alle Welt davon zu überzeugen, dass es KEINEN Stillstand gebe, haben sie in Wirklichkeit einen starken Beweis geliefert, dass der „Stillstand“ sehr wohl existiert (wenn erst einmal ihr Fehler den Zeitraum 1950 bis 1999 betreffend korrigiert ist).
+Link: http://wattsupwiththat.com/2016/02/21/a-new-way-of-looking-at-the-pause-why-karl-et-al-got-it-wrong-about-the-pause-part-1/
+Übersetzt von Chris Frey EIKE
+Muss man immer wiederholen um letzendlich dann zu wissen was gemessen, wie genau:
+weil ja schon bereits unterschiedliche Häufung von Messpunkte, also von Messstationen, also dem örtlich mengenmässig Unterschiedlichen Vorkommen auf dem Erdenball diesen Ergebnissen einen Strich durch die Rechnung macht. Weil keiner hat die Wichtung dafür wo halt mal zu oft die Sonne lacht.
+Oder es halt kühler ist aus Wolkenmacht.
+Was so machner zu Zehntel grad will haben sich erdacht,
+Wozu seit Heisenberg schon lange
+Mensch halt „Unschärf“
+sagt.
+Dass man fragen kann was willst Du mit ’nem halben Grad
+aus Messungen wo’s vorher die Genauigkeit nicht gab‘.
+Fehlerrechnung nicht gemacht?
+– gemäß Totalem Diffenrential
+– welch‘ ich einmal sah
+zu fragen dann: Was wollen die zu Klima messen dann,
+wozu allein die Temp’ratur nicht reicht
+oh mann!
+MfG
+Ich rate jedem, sich die „Methoden“ der Berechnungen der „Globaltemperatur“ anzuschauen.

@@ -1,0 +1,122 @@
+Interessant ist schon mal die Erschließung völlig neuer Marktsegmente durch die Reaktorleistung (hier 10 MWth und 4 MWel) und die nutzbare Temperatur (hier 750 °C). Diese neue Klasse wird als MMR (.micro modular reactor) bezeichnet. Wie schon die Bezeichnung „Uran-Batterie“ andeutet, wird ferner eine ununterbrochene Betriebszeit von mindestens 5 – 10 Jahren vorgesehen. Hiermit wird das Marktsegment der Kraft-Wärme-Kopplung auf der Basis von „Schiffsdieseln“ und kleinen Gasturbinen angestrebt. Ein sich in der Industrie immer weiter (steigende Strompreise und sinkende Versorgungssicherheit durch Wind und Sonne) verbreitendes Konzept. Hinzu kommen die Inselnetze in abgelegenen Regionen (Kleinstädte), Bergwerke und Produktionsplattformen auf dem Meer, Verdichterstationen in Pipelines usw. Hierfür kann ebenfalls auch die hohe Betriebstemperatur — selbst bei reiner Stromproduktion — von Vorteil sein, da sie problemlos Trockenkühlung (Wüstengebiete) erlaubt.
+Die treibende Kraft hinter diesem Projekt ist — in diesem Sinne sicherlich nicht ganz zufällig — das Konsortium URENCO. Ein weltweiter Betreiber von Urananreicherungsanlagen. Solche Kaskaden aus Zentrifugen brauchen kontinuierlich gewaltige Mengen elektrische Energie. Man sucht also selbst nach einer Lösung für die immer teurere Versorgung.
+Der Reaktor
+Wieder ein neuer „Papierreaktor“ mehr, könnte man denken. Ganz so ist es aber nicht. Man hat von Anfang an auf erprobte Technik gesetzt. Es ist reine Entwicklungsarbeit — insbesondere für die Nachweise in einem erfolgreichen Genehmigungsverfahren — aber keine Forschung mehr zu leisten. Insofern ist der angestrebte Baubeginn 2024 durchaus realisierbar.
+Fangen wir mit dem Brennstoff an. Es sind [TRISO] (TRISO) Brennelemente vorgesehen. Dieser Brennstofftyp ist bereits in mehreren Ländernerfolgreich angewendet worden. Diese Brennelemente überstehen problemlos Temperaturen von 1800 °C. Dadurch sind solche Reaktoren inhärent sicher. Gemeint ist damit, daß die Kettenreaktion auf jeden Fall infolge des Temperaturanstiegs zusammenbricht und eine Kernschmelzedurch die Nachzerfallswärme (Fukushima) ausgeschlossen ist. Man braucht somit keine Notkühlsysteme, dies spart Kosten und vor allem: Was man nicht hat, kann auch nicht kaputt gehen oder falsch bedient werden. Der Sicherheitsgewinn ist dadurch so groß, daß sich alle denkbaren Unfälle nur auf den Reaktor und sein schützendes Gebäude beschränken. Nennenswerte Radioaktivität kann nicht austreten und damit beschränken sich alle Sicherheitsanforderungen nur noch auf das Kraftwerksgelände selbst. Eine „revolutionäre Feststellung“, der sich die Genehmigungsbehörden langsam anschließen. Dies hat erhebliche Auswirkungen auf die möglichen Standorte, Versicherungsprämien etc. Ein nicht mehr umkehrbarer Schritt auf dem Weg zu einem „normalen Kraftwerk“ oder einer „üblichen Chemieanlage“. Die Errichtung solcher Reaktoren in unmittelbarer Nähe zu Städten (Fernwärme) oder Industrieanlagen (Chemiepark, Automobilwerk etc.) ist nur noch eine Frage der Zeit.
+Als Kühlmittel ist Helium vorgesehen. Der Reaktorkern wird aus sechseckigen Brennelementen als massiver Block aufgebaut. Mit dieser Technik besitzt GB eine jahrzehntelange Erfahrung. Kein Land besitzt mehr Betriebsjahre mit Reaktorgraphit. Der Vorteil gegenüber einem Kugelhaufen sind definierte Kanäle für das Kühlmittel und die Regelstäbe. Vor allen Dingen ergibt sich aber kein Staubproblem aus dem Abrieb der Kugeln während des Betriebs. Die notwendigen Rohrleitungen und das Gebläse zur Umwälzung des Heliums bleiben sauber. Dies erleichtert etwaige Wartungs- und Reparaturarbeiten. Der komplette Reaktor kann in einer Fabrik gebaut und getestet werden und mit einem LKW einsatzbereit auf die Baustelle gebracht werden.
+Als Brennstoff dient angereichertes Uran. Die Anreicherung (< 20% U235) erlaubt einen mehrjährigen Betrieb ohne einen Brennstoffwechsel („Batterie“). Ob der Brennstoff vor Ort im Kraftwerk gewechselt werden muß oder der gesamte Reaktor zurück zum Hersteller gebracht werden kann, ist noch nicht abschließend geklärt (Strahlenschutz). Der Ansatz einer „Batterie“ verringert jedenfalls die Größe eines etwaigen Brennelementenlagers am Kraftwerk und schließt eine mißbräuchliche Nutzung praktisch aus (Proliferation). Damit ist ein solches Kraftwerk auch problemlos in „zwielichtigen Staaten“ einsetzbar. Ferner verringert sich der Personalaufwand im Kraftwerk. Ein solches Kraftwerk wäre halbautomatisch und fernüberwacht betreibbar. Was den Umfang des erforderlichen Werkschutzes anbelangt, sind die Genehmigungsbehörden noch gefragt. Eine Chemieanlage — egal wie gefährlich — kommt heutzutage mit einem üblichen Werkschutz aus, während von Kernkraftwerken erwartet wird, eine komplette Privatarmee zu unterhalten. Alles Ausgeburten von „Atomkraftgegnern“ um die Kosten in die Höhe zu treiben. Verkauft wird so etwas als Schutz gegen den Terrorismus.
+Der konventionelle Teil
+Man plant keinen Dampfkreislauf, sondern eine Gasturbine als Antrieb des Generators. Kein ganz neuer Gedanke, aber bisher ist z. B. Südafrika an der Entwicklung einer Heliumturbine gescheitert. Helium ist thermodynamisch zu eigenwillig und außerdem ist bei einem Kugelhaufenreaktor mit einer radioaktiven Staubbelastung zu rechnen. Bei der U-Battery hat man sich deshalb für einen sekundären Kreislauf mit Stickstoff entschieden. Vordergründig kompliziert und verteuert ein zusätzlicher Wärmeübertrager zwischen Reaktorkreislauf (Helium) und Turbinenkreislauf (Stickstoff) das Kraftwerk, aber man hat es sekundärseitig nur noch mit einem sauberen und nicht strahlenden Gas zur beliebigen Verwendung zu tun. Stickstoff ist nahezu Luft (rund 78% N2) und man kann deshalb handelsübliche Gasturbinen verwenden. Auch an dieser Stelle erscheint das wirtschaftliche Risiko sehr gering. Der Wärmeübertrager Helium/Stickstoff übernimmt lediglich die Funktion der Brennkammer eines Flugzeugtriebwerkes (Leistungsklasse). Bei der vorgesehenen hohen Temperatur von 750°C des Stickstoffs bleibt nach der Turbine noch jegliche Freiheit für die Verwendung der Abwärme (Fernwärme, Prozessdampf etc.). Die immer noch hohe Temperatur am Austritt einer Gasturbine erlaubt problemlos eine Kühlung mit Umgebungsluft ohne große Verschlechterung des Wirkungsgrades. Ein immenser Vorteil für alle ariden Gebiete.
+Die Projektierer
+Eine zügige Verwirklichung scheint durch die Zusammensetzung der beteiligten Unternehmen nicht unwahrscheinlich: Amec Foster Wheeler (über 40000 Mitarbeiter in 50 Ländern) mit umfangreicher Erfahrung in Öl- und Gasprojekten. Cammel Laird als Werft. Laing O’Rourke als Ingenieurunternehmen. Atkins für Spezialtransporte. Rolls Royce als international führender Produzent von Gasturbinen (Flugzeuge und Schiffe), darüberhinaus mit umfangreicher Erfahrung in der Kerntechnik.
+Bemerkenswert ist die Ausweitung des Projektes auf den Commonwealth. Kanada und Indien sind bereits dabei. Läßt der „Brexit“ hier grüßen? Nach bisherigem Stand der Dinge, könnte der erste Reaktor in Chalk River in Kanada gebaut werden. Dies ist auch kein Zufall, da in Kanada bereits über 200 potentielle Standorte für einen solchen MMR ermittelt wurden. Für diese potentiellen Kunden ist bereits ein neuartiges Geschäftsmodell in Arbeit: Sie bezahlen nur die gelieferte Wärme und und die elektrische Energie. Das Kraftwerk wird dann von einer Zweckgesellschaft finanziert, gebaut und betrieben. So kann dem Kunden das wirtschaftliche Risiko abgenommen werden. Es ist nicht anzunehmen, daß irgendein Bergwerk oder eine Ölraffinerie bereit ist in das „Abenteuer Kerntechnik“ einzusteigen. Andererseits sind solche sog. „Betreibermodelle“ in der einschlägigen Industrie lange bekannt und erprobt.
+Noch ein paar Daten
+Der Reaktor hat einen Durchmesser von etwa 1,8 m und eine Länge von etwa 6 m. Er ist damit problemlos auf einem LKW transportierbar. Das Helium soll einen Betriebsdruck von ca. 40 bar haben und eine Austrittstemperatur von 750 °C. Damit ergibt sich eine notwendige Wandstärke von unter 100 mm. Dies ist wichtig, weil hierfür keine speziellen Schmieden bzw. Rohlinge erforderlich sind. Nur wenige Unternehmen weltweit können demgegenüber Druckbehälter für Leichtwasserreaktoren schmieden.
+Als Brennstoff soll auf knapp 20% angereichertes Uran (high assay, low enriched uranium (HALEU)) verwendet werden. Damit werden die TRISO-Kügelchen hergestellt, die zu Tabletten mit einer Höhe von ca. 40 mm und einem Außendurchmesser von ca. 26 mm gepreßt werden. Aus diesen werden die sechseckigen Brennelemente mit einer Kantenlänge von 36 cm und einer Höhe von 80 cm aufgebaut. Sie enthalten alle Kanäle für Regelstäbe, Instrumentierung usw. Der Kern des Reaktors besteht aus je 6 Brennelementen in 4 Lagen übereinander. Er beinhaltet etwa 200 kg Uran. Dies reicht für einen ununterbrochenen Vollastbetrieb von 5 Jahren.
+Eine Doppelblockanlage (2 x 4 MWel) erfordert einen Bauplatz von ca. 10 x 12 m (Reaktoren, Wärmeübertrager und Turbinen im „Keller“, Halle für Wartungsarbeiten darüber). Hinzu käme noch Platz für Schaltanlagen, Kühler, Büros etc.
+Es wird von Baukosten zwischen 45 bis 78 Millionen € für eine Doppelblockanlage ausgegangen (5600 bis 9750 €/KW). Das mag auf den ersten Blick hoch anmuten, aber man bewegt sich mit dieser Leistung von 8 MWel im Marktsegment der sog. Dieselmotoren-Kraftwerke. Hinzu kommen in entlegenen Standorten noch die meist höheren Kosten für den Dieselkraftstoff. Der für die „U-Battery“ ermittelte Strompreis von 9 Cent/KWh dürfte somit für den angepeilten Kundenkreis sehr attraktiv sein.
+Inzwischen gibt es eine sehr enge Kooperation zwischen Kanada und GB. Ein paralleles, aber kooperatives Genehmigungsverfahren zeichnet sich ab. Weiterhin sind Indien, Japan, Polen, USA und Neuseeland bereits mit im Boot. Vielleicht schon die erste Morgendämmerung, wohin die Reise von GB nach dem Brexit geht? Jedenfalls nicht in das Rest-Europa, in dem unsere Kanzlerin so gut und gerne lebt.
+1000Euro/kWp kostet das Modul allein.
+Plus 200 Euro Wchselrichter
+Plus 130 Euro Montagesystem
+Plus mind. 500 Euro (wenn nich 1000Euro) Anschluss ans Netz
+In Summe also ca 1900 Euro Ausgaben um so ein System für 1kWp aufzubauen.
+Nun wie schnell würde das sich rentieren?
+Ertrag aus 1kWp ca 1000kWh/Jahr
+Wenn man das mit 30cent rechnet, d.h. 300 Euro gespart.
+Das klappt so aber NUR bei Insellösung!
+Bei Netzanschluss zahlt man Steuer darauf!
+D.h. man bekommt vielleicht 20cent pro Eingenbedarf-kWh
+Pro Jahr spart man 200Euro.
+Dann rentiert sich die Anlage erst in 9 Jahren!!!
+Erzählen Sie uns bitte keine Märchen.
+Dadurch, dass Behauptungen wiederholt werden, wächst der Wahrheitsgehalt nicht.
+Statt Behauptungen widerzukäuen, sollte eine Kostenrechnung vorgelegt werden, die alle Faktoren enthält.
+Wer Solarstrom erzeugt und selbst nutzt, bezahlt dafür weder EEG-Umlage noch Netzkosten.
+Der Solarstromer schmarotzt von den Investitionen der Gemeinschaft, die dem Solarstromer die Elektrizitätsversorgung wetter-, tageszeit- und jahreszeitunabhängig garantieren, die der Solarstromer immer dann als selbstverständlich in Anspruch nimmt, wenn seine Solarpaddel nichts liefern, für die er aber nur bezahlen will, wenn bei ihm die Paneele dunkel sind.
+Auch hier muss der Grundsatz des Bundesverfassungsgerichtes gelten, der zum Staatsfunk entschieden wurde: Es ist nicht wesentlich, ob Jemand ein öffentliches Angebot nutzt oder nicht. Es wird öffentlich angeboten und deshalb muss dafür auch bezahlt werden.
+Deshalb muss die Forderung lauten: Selbst erzeugte Elektrizität ist mit der EEG-Umlage und mit den Netzkosten zu belasten.
+Momentan ist es immer noch sinnvoll, den vormals teuersten Mittagsstrom mit jetzt billigem Solarstrom zu ersetzen. Erst nach und nach ist die Installation von Speichern sinnvoll. Dies geschieht aber bereits heute schon in mehr als einem Drittel der neuen Eigenverbrauchsinstallationen, mit der Folge, dass immer mehr die teuren Morgen-und Abendspitzen abgedeckt werden. Langfristig ein Trend, der einer Ungleichbehandlung entgegenwirkt, netzausgleichend wirkt und Neidreaktionen überflüssig macht, ja sogar einen Netzausbau reduzieren kann.
+https://www.pv-magazine.de/2018/04/25/erneuerbare-in-osteuropa-billiger-als-die-geplanten-atomkraftwerke/
+https://www.energy-charts.de/power_de.htm
+Richtig!
+Es wird höchste Zeit, den „Alternativen Energien“, mit ihren überaus erfolgreichen Betrugsmodellen, den Garaus zu machen.
+Es gibt keinen teuren Strom, außer den, von den alternativen Fakestrom-Erzeugern, verteuerten.
+Teuer wird der billige Strom durch die sogenannten „alternativen Energien“.
+Wer Tschernobyl in einem Satz mit alternativer Energie nennt, ist ein ganz bewusst vorgehender und xxxxxxxxxxxx, der plump manipulieren will.
+Dieses in höchst xxxxxxxxxx Weise, weil Leid und Menschenleben missbraucht werden, um eine Lüge durchzusetzen.
+Das ist höchst primitive Manipulation, bewusste Verdrehung der Wahrheit,
+Bitte mäßigen Sie sich sich.
+Ich beneide Sie.
+Hier, ruhig und gelassen zu sein, ist sehr schwer.
+Selbst wenn Sie es tausendmal wiederholen, Unsinn bleibt Unsinn.
+Wer nur dann für vorgehaltene rund-um-die-Uhr-Netz-Leistungen zahlt, die leistungs- und energiemäßig den Worst-case abdecken müssen, wenn die Eigenerzeugung nicht ausreicht und Leistung aus dem Netz bezogen werden muss, schmarotzt von den Leistungen der Allgemeinheit, solange EEG-Umlage und Netzkosten nicht gleichmäßig auf jede Kilowattstunde verteilt werden, die innerhalb der Elektrizitätsgemeinschaft Deutschland verbraucht werden.
+Dazu gehört auch die Abschaffung der Befreiung von der EEG-Umlage für Unternehmen.
+Frankreich hat über 50 Kernkraftwerke, die nach Ihren Vorstellungen ja die teuerste Form der Elektrizitätsproduktion sind, und – dem Himmel sei Dank – noch immer nur wenig Solar- und Windelektrizität. Ergebnis: Halb so hohe Haushaltsstrompreise wie in der Nation der vorreitenden Sonnenfänger und Windmüller.
+Vermutlich werden Sie einwenden, die Strompreise in Frankreich seien von Staats wegen subventioniert. Weit gefehlt, Jünger des Erneuerbaren Unsinns, sie sind nicht subventioniert.
+Vermutlich werden Sie einwenden, Frankreich habe nur uralte Schrottreaktoren, die deshalb billige Elektrizität herstellen können. Weit gefehlt, Jünger des Ereuerbaren Unsinns, die Anlagen sind zwar alt, aber technisch tip-top. Laufzeitverlängerungen bis 60 Betriebsjahre sind am Werden.
+Was übrigens auch für die deutschen Kernkraftwerke gilt und möglich wäre, wenn nicht in einer durchwachten Nacht im März 2011 Angela Merkel die Eingebung gekommen wäre, Deutschland würde von Tsunamis und Erdstößen japanischer Seebeben so überschwemmt und durchgerüttelt werden, dass die Kernkraftwerke auf deutscher Scholle zusammenbrechen und das Land verwüsten würden und sie deshalb allesamt nach dem Zurechtbeten einer Kommission für Ethisches stillzulegen seien.
+Da Deutsche und mehr oder weniger Assimilierte der Obrigkeit alles glauben, glauben sie auch an Tsumamis und anderen Blödsinn im Lande und beten eine Elektrizitätsversorgung an, die von Petrus und den Jahreszeiten abhängig ist.
+Man könnte sagen, Deutschsein ist das Synonym für maximalen Quark.
+Q.e.d., siehe Strompreise und Einspeise- und Lastverläufe im deutschen Elektrizitätsnetz.
+Danke für den guten Vorschlag. Züchten Sie Tomaten und lassen Sie die Finger von der Elektrizitätswirtschaft. Von der verstehen Sie nichts.
+Tomaten kann man bunkern – Strom nicht.
+Wir brauchen bei „Kernkraftwerken …. Anpassung derselben an das real vergleichsweise geringe Risikopotenzial“, denn Kernkraftwerke sind KEINE RISIKOTECHNIK. Ich habe das hier bei EIKE mehrfach begründet.
+Und „Wenn die Kerntechnik z.B. in einem künftigen Kalifat Berlin wieder gefragt sein sollte, werden die neuen Kernreaktoren aus Russland, China, oder Indien kommen.“ So sieht es für Deutschland wohl aus.
+Ups ist wieder da.
+Da aktuell in Europa keine neuen realen Kernkraftwerkskonzepte entwickelt werden, beschäftigen sich die staatlichen Forscher, meist Physiker, kaum Ingenieure mit immer fantasiereicheren Reaktortypen die regelmässig auf dem Papier bleiben. Deshalb spricht man von Papierreaktoren.
+Üblicherweise benötigt ein Kernreaktor eine Betriebsgenehmigung. Aktuell bedarf es für eine solche in Europa/USA einiger 100.000 Seiten Dokumentation und vieler 100 Mio. $ Kosten. Das Genehmigungsverfahren ist in den meisten Ländern in einen standortspezifischen und einen reaktorspezifischen Teil geteilt. Wenn man solche U Batterien in Serie bauen würde, so würden entsprechend der aktuellen Situation „nur“ jeweils einige 100 Mio. $ Genehmigungskosten für die Standortprüfung anfallen. Einen 4 – 10 MW Reaktor könnte man dann auch aus Gold herstellen.
+In der Realität haben sich Kernkraftneubauten weit von jeder Wirtschaftlichkeit entfernt. Gem. eigener Annahme liegen die Gründe in den komplexen Genehmigungsverfahren, Zertifizierungen, Prüfungen, Tests, Dokumentationen die solche Anlagen um ca. den Faktor 4 verteuern.
+In den angelsächsischen Staaten gibt es viele Initiativen zugunsten kleiner in Serie gebauter Reaktoren die angeblich wirtschaftlicher sein sollen als die grossen LWR. Meines Erachtens ist dies abwegig und der geringen technischen Erfahrung der Initianten geschuldet.
+Meines Erachtens bedarf es einer Überprüfung der Anforderungen, Zertifizierungen, Prüfungen und Dokumentationen von Kernkraftwerken und der Anpassung derselben an das real vergleichsweise geringe Risikopotenzial. Notwendig ist ein Zielpreis für ein 1200 MWe Kernkraftwerk von < 4 Mrd. € um wirtschaftlich interessant zu sein. Wenn erst wieder grosse Leistungskraftwerke entstehen könnte ein 2. Schritt in Richtung grosser Schiffsantriebe und Reaktoren für abgelegene Standorte, Beispiel Russland sein.
+Holger Narrog
+Sind auch deutsche Investoren, Entwickler, Förderer, Wissenschaftler oder der Bund in irgendeiner Weise beteiligt?
+„https://dual-fluid-reaktor.de/“ ist vom Netz.
+Dieses interessante Projekt wäre eigentlich auch einer Förderung wert.
+Weltweit ja, aber mit deutscher Beteiligung findet man keine Hinweise.
+Es ist wirklich nicht so, dass es keine Kernkraft mehr gäbe.
+Es kann doch nicht alles an Deutschland vorbeigehen.
+Deutschland war bis in die 80er Jahre führend in der Kerntechnik. Aufgrund der Hinwendung der Gesellschaft zur Ökoreligion hat sich Deutschland bewusst von dieser Technologie verabschiedet. Die meisten einstigen Fachleute sausen mit dem Rollator durch die Gegend oder schauen vom Himmel herab.
+Es gibt noch einige Firmen in Nischen die Teile für Kernkraftwerke fertigen, es gibt noch ein paar KKW eine Urananreicherungsanlage….
+Wenn die Kerntechnik z.B. in einem künftigen Kalifat Berlin wieder gefragt sein sollte, werden die neuen Kernreaktoren aus Russland, China, oder Indien kommen.
+Holger Narrog
+Schrecklich!
+Das stimmt mich traurig, denn „made in germany“ gibt es jetzt nicht mehr.
+Qualitativ haben wir uns in allen Bereichen (Produktion) angepasst, sind also schlechter geworden.
+Ich will die Talfahrt aufhalten.
+Eine Technik, die Strom im optimalen Fall, für teure 9 Ct/KWh erzeugen kann, wird sich wohl kaum wirtschaftlich durchsetzen. Bei grösserer Bevölkerungszunahme bestehen aber vielleicht Einsatzmöglichkeiten in Spitzbergen, Grönland, Nordkanada und Falkland.
+Liebend gerne soll sich jeder sein Eigentum mit Kollektoren zupflastern.
+Das sollte jeder, für den Eigenbedarf, bis er vollkommen autark ist, dürfen und bezahlen.
+Natürlich müssen Wartung und Entsorgung, schließlich muss man ja keine Energie mehr kaufen, selbst getragen werden.
+Man will ja kein Schmarotzer sein.
+Die Netzeinspeisung muss allerdings schnellstens verboten werden.
+Wer seinen eigenen Strom für ca. 10 Ct/KWh (wg. kleiner Fläche) solar erzeugt, der muß nicht ca. 30 Ct./KWh für gekauften, extrem Steuer- und umlagebelasteten Strom ausgeben.
+Industriestrom ist fast komplett umlagefrei und somit fast so billig wie der Börsenstrompreis, das letzte Jahrzehnt mit 3 – 6 Ct-KWh somit extrem günstig.
+Stromproduktionskosten sind abhängig von der Erzeugungsart. Also neue grosse Solaranlagen ca. 5 Ct/KWh, neue Windanlagen ca. 5-8 Ct/KWh alles incl. Versicherung und kompletten Rückbaukosten. Neue Kohlekraft 5-7 Ct/KWh. Neue Kernkraft 11-24 Ct/KWh allerdings ohne Entsorgungskosten und ohne Versicherung, da keine Versicherung der Welt ein Kernkraftwerk mit allen möglichen Folgeschäden versichert. Versicherungsmathematik ist eine sehr seriöse Wissenschaft und Versicherungen versichern nahezu alles, es sei denn, es rechnet sich nicht.
+Beispiel: nehmen wir den Preis nur von einem günstigsten Solarpanel: 300Wp kostet ca. 150Euro (ohne Versand). Fläche 1,5m2
+Wir rechnen auch keine Kosten für den Wechselrichter.
+Sonneneinstrahlung 1000kWh/m2
+Pro Jahr bringt das: 1000kWh/m2 * 0,1 (Wirkungsgrad 10%) *1,5m2 = 150kWh
+Gerechnet auf 10 Jahre (Garantiezeit) => 1500kWh
+D.h. in 10 Jahren habe ich 1500kWh für 150Euro => 10cent/kWh
+Rechne ich noch den Wechselrichter dazu (150 Euro?), dann sind es 20cent/kWh.
+Wenn ich noich Installationskosten dazu nehme, dann steigt der Preis noch weiter.
+In Ausschreibungen werden KEINE Stromproduktionskosten angegeben, sondern Zuschlagswert – also das was man dafür bekommt, wenn man den Strom ins Netz einspeist.
+Was ist denn an meier Rechnung falsch? Für Privatmann kommt man niemals selbst auf 10c/kW – mindestens 30cent/kWh für eine Insellösung. Das lohnt sich aber gar nicht, denn: sich selbst versorgen kann man damit nicht (Kühlschrank soll auch in der Nacht laufen! Waschmaschine läuft nur ab und zu und braucht um 1kW-Leistung, und dafür braucht man eine Fläche von mind 10m2 auf dem Dach – wer hat denn so viel Platz?). Die Beschaffungskosten rentieren sich in 10 Jahren nicht! Oder was ist an meiner Rechnung falsch?
+Geben Sie dann Ihre „Milchmädchen“-Rechnung -die kann dann jeder überprüfen und abnicken, wenn sie stimmt.
+14. September 2018 um 16:00
+„Für Privatmann kommt man niemals selbst auf 10c/kW – mindestens 30cent/kWh für eine Insellösung.“
+Hallo A. Shevchenko,
+wer macht in Deutschland eine „Insellösung“ beim Strom, so gut wie alle bewohnten Grundstücke sind an Stromnetz angeschlossen.
+Die Leute machen sich mit PV-Anlagen das kWh zwischen -5 bis 7 Cent und das ist unschlagbar günstig, der Rest kommt aus dem Netz für ca. 30 Cent/kWh.
+A. Shevchenko sagt …..
+„braucht um 1kW-Leistung, und dafür braucht man eine Fläche von mind 10m2 auf dem Dach – wer hat denn so viel Platz?2“
+Auf 10m² kann man ca. 1,9 kWp Leistung errichten und die bringen im Jahr ca. 1900 kWh Strom.
+A. Shevchenko sagt …..
+„Die Beschaffungskosten rentieren sich in 10 Jahren nicht! Oder was ist an meiner Rechnung falsch?“
+Die Beschaffungskosten, Materialkosten bei PV-Anlagen sind ca. 660€/kWp incl. MwSt. und bei Eigenverbrauch ist die PV nach ca. 2,5 Jahren bei den Materialkosten kostenneutral.
+Man hat aber noch weiter Kosten bei der Errichtung einer PV-Anlage ist auch klar.
+In den ersten 4 Jahren werden die vermiedenen Netzstromkosen genommen um die PV-Anlage ab zu bezahlen, Kostenneutralität herzustellen.
+Ab den Jahr 5 kostet das kWh dann nur noch 1 bis 2 Cent von der PV-Anlage.
+Die nichts bringen.
+Traurig aber wahr!

@@ -1,0 +1,100 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Kraftwerks-Experte erklärt: Das Ökostrom-Dilemma: Warum bei Elektroautos oft Kohle-Strom im Akku landet" author="Admin" date="2020-02-05" source="https://eike-klima-energie.eu/2020/02/05/kraftwerks-experte-erklaertdas-oekostrom-dilemma-warum-bei-elektroautos-oft-kohle-strom-im-akku-landet/" hostname="eike-klima-energie.eu" excerpt="von Frank Hennig Elektroautos liegen im Trend und werden bei der CO2-Bilanz bevorzugt. Dabei übersieht man allerdings einen wichtigen Punkt. Kraftwerks-Experte Frank Hennig erklärt, warum das Tanken von &quot;Grünstrom&quot; oft nur ein PR-Trick ist." categories="Energie" tags="" fingerprint="VbScJqM8XYKSzPeQccFhuGGZKx8=">
+  <main>
+    <p>In diesen aufgeregten Zeiten mit CO2-zentrierter Weltsicht werden heftige Diskussionen über die ökologischen Auswirkungen der Mobilität geführt. Dabei geht es dann meist nicht um Schadstoffe (Stickoxide, Feinstaub) oder Lärm, sondern vor allem um die CO2-Emissionen. Selbst die Elektroautos, die während der Fahrt kein CO2 emittieren, bekommen sie in die Bilanz geschrieben, weil ihre Herstellung und auch ihr Fahrstrom Emissionen verursachen.</p>
+    <head rend="h2">Heiß diskutiert: Der „CO2-Rucksack“ des Elektroautos</head>
+    <p>Jedes Fahrzeug, das eben vom Band rollte und noch keine Straße gesehen hat, ist aus offizieller Sicht schon ein Klimasünder. Handelt es sich um ein E-Mobil mit einem entsprechend großen Akku, sind diese Emissionen durch die energieintensive Produktion des Stromspeichers besonders hoch. Das heißt, es bekommt sofort einen CO2-Rucksack verpasst, der größer als der eines Verbrennerfahrzeugs ist.</p>
+    <head rend="h2">Über den Gastautor</head>
+    <p>Frank Hennig, Autor des Buches „Dunkelflaute oder warum Energie sich nicht wenden lässt“, ist Diplomingenieur für Kraftwerksanlagen und Energieumwandlung und verbrachte sein Arbeitsleben in den Kraftwerken eines großen Stromunternehmens. Er war viele Jahre Betriebsrat und für die Öffentlichkeitsarbeit zuständig, was ihn zum Studium der PR an der Deutschen Presseakademie führte. Heute ist er als Autor für „Tichys Einblick“ sowie in der technischen Fortbildung als Referent tätig. Er ist geborener Görlitzer und lebt in der Niederlausitz.</p>
+    <p>Während des praktischen Betriebs geht man dann aber davon aus, dass die Bilanz geringer ist als beim Benziner oder Diesel, weil die Emissionen der entsprechenden Stromproduktion im Durchschnitt geringer seien. Da gibt es dann in diversen Studien Geraden verschiedener Steigung, die irgendwo bei einer bestimmten Fahrstrecke einen Schnittpunkt zeigen, ab dem das E-Fahrzeug ökologischer im Sinne niedriger CO2-Emissionen sei.</p>
+    <head rend="h2">In Norwegen geht die Öko-Rechnung auf</head>
+    <p>Das ist sachlich richtig, solange, wie in Norwegen, fast ausschließlich Ökostrom getankt wird. Steigende Last im Stromnetz führt dort dazu, dass die Schieber an den Stauwerken der Wasserkraftwerke etwas weiter geöffnet werden.</p>
+    <p>Für Deutschland setzt man den durchschnittlichen Energiemix mit der durchschnittlichen CO2-Emission an, die bei etwa 600 Gramm pro Kilowattstunde liegt. Das kann man so machen, ist aber nicht korrekt.</p>
+    <head rend="h2">Wie unser Stromnetz funktioniert</head>
+    <p>Um das zu zeigen, müssen wir uns näher ansehen, wie das Stromnetz funktioniert (siehe Grafik).</p>
+    <list>
+      <item>Hier ist beispielhaft der Verlauf der Netzfrequenz über etwa zwei Minuten dargestellt (blaue Linie). Sie schwankt leicht um die Sollmarke von 50 Hertz, das ist kein Grund zur Sorge. Die stabile Frequenz ist ein Zeichen des Gleichgewichts zwischen Produktion und Verbrauch.</item>
+      <item>Störgrößen wie höhere Last, Ausfall eines Kraftwerks oder Änderung der Windgeschwindigkeit und damit Änderung der Windstromeinspeisung müssen ausgeregelt werden.</item>
+      <item>Zum kurzfristigen Ausgleich dienen die Primär- und die Sekundärregelungen der Kraftwerke, zu denen diese gegenüber dem Netzbetreiber vertraglich verpflichtet werden. Im Bild ist die abgerufene Primärregelleistung an der zweiten Zahl (145) und der roten Linie zu sehen. Diese Leistung kann auch negativ sein, wenn heruntergeregelt werden muss.</item>
+    </list>
+    <p>Welche Erzeuger können nun Primärregelleistung bereitstellen? Das sind alle konventionellen Kraftwerke, seien es Wasserkraft-, Gas-, Kohle- oder Kernkraftwerke. Windkraft- und Photovoltaikanlagen tragen dazu aufgrund fehlender Regelfähigkeit nicht bei. Sie liefern zwar übers Jahr in Deutschland schon mehr als 40 Prozent der Stromproduktion, tragen aber keinerlei Systemverantwortung.</p>
+    <head rend="h2">Wind- und Sonnenstrom bekommen „Vorrang“ im Netz</head>
+    <p>Das Stromnetz wird nach Maßgabe des Erneuerbaren-Energien-Gesetz betrieben, das heißt unter dem Einspeisevorrang der Erneuerbaren – und für diese unabhängig vom Bedarf. Alle Ökostromanlagen, abgesehen von der konventionellen Wasserkraft, liefern ständig ihre gesamte Produktion ab.</p>
+    <p>Kommen nun künftig E-Fahrzeuge in größerer Zahl auf die Straßen, werden diese vor allem vermutlich ab den Nachmittagsstunden, zur Feierabendzeit und nachts geladen. Dadurch wird das Netzgleichgewicht durch zusätzliche Last gestört. Die Frequenz sinkt ab.</p>
+    <head rend="h2">Konventionelle Kraftwerke halten Netzfrequenz stabil</head>
+    <p>Um das zu kompensieren, greift zunächst die Primärregelung der Kraftwerke ein (vollautomatisch) und versucht, den kleinen Frequenzeinbruch innerhalb von 30 Sekunden auszubügeln. Die Turbogeneratoren ziehen in der Leistung an, so dass die Frequenz wieder auf den Sollwert steigt. Ist dies nach etwa 30 Sekunden nicht gelungen, weil das Ungleichgewicht zu groß ist, greift die Sekundärregelung der Kraftwerke ein, indem ebenfalls automatisch ein neuer Leistungssollwert innerhalb einer vereinbarten Reserve vorgegeben wird. Führt auch dies nach etwa 15 Minuten noch nicht zum Erreichen des Sollwerts, wird ein neuer Leistungsbefehl erteilt. Bleibt ein Defizit auch danach noch bestehen, müssen die Fahrpläne der Kraftwerke angepasst werden, denn alle konventionellen Kraftwerke fahren nach vorgegebenen Fahrplänen.</p>
+    <head rend="h2">Windenergie ist fürs Stromnetz problematisch</head>
+    <p>Übrigens wurden im Jahr 2017 an 320 von 365 Tagen die Fahrpläne geändert, was allerdings nichts mit der Elektromobilität zu tun hatte, sondern vor allem mit nicht eingetretenen Windprognosen. Da die Windgeschwindigkeit in der dritten Potenz in die elektrische Leistung der Windkraftanlagen eingeht, wirken sich bereits geringe Abweichungen der Windprognose auf die tatsächlich eintretende Einspeisung deutlich aus.</p>
+    <p>Die Erneuerbaren sind an der Netzregelung nicht beteiligt, sie können auf Kommando keine zusätzliche Leistung einspeisen. Gemäß EEG geben sie ständig ihre volle Leistung ab.</p>
+    <head rend="h2">E-Autos: Windstrom im Tank – oder eher Kohle?</head>
+    <p>Natürlich kann es passieren, dass just in diesen Minuten steigenden Verbrauchs durch die E-Mobilität der Wind auffrischt, dann kommt auch Windstrom in den „Tank“. Wenn wir aber vom späten Nachmittag reden, ist die Wahrscheinlichkeit größer, dass die Sonne untergeht und der wegfallende Sonnenstrom durch konventionellen Strom ersetzt werden muss. Der Sonnenuntergang ist allerdings in den Fahrplänen der Kraftwerke eingeplant. Generell nutzt die Photovoltaik der E-Mobilität wenig, denn die übliche Nutzungsart von E-Fahrzeugen wie auch von allen anderen besteht darin, tagsüber zu fahren. Geladen wird vor allem nachts.</p>
+    <head rend="h2">Fazit</head>
+    <p>In unserem gegenwärtigen Energiemix muss jede Steigerung des Bedarfs wie durch das (neue) Verbrauchssegment E-Mobilität von regelfähigen, also konventionellen Kraftwerken bedient werden. Mit Ausnahme der Wasserkraft können das die Erneuerbaren aber nicht leisten. Dieser zusätzlich produzierte Strom hat aber einen höheren spezifischen CO2-Anteil als die 600 Gramm pro Kilowattstunde des gesamten Mixes, da Wind- und Solarstrom nicht enthalten sind. Die Konsequenz ist für die erhoffte Energiewende bitter: In den Akkus der E-Mobile wird vor allem Kohle- oder Atomstrom landen.</p>
+    <p>Der Umstieg auf die E-Mobilität bringt demnach keine Emissionsminderung, wenn der zusätzlich entstehende Bedarf durch konventionelle, Emissionen verursachende Technologien bedient werden muss. Erst wenn so viele regenerative Erzeugung im Netz ist, dass sie regelbar eingesetzt werden kann und Systemverantwortung trägt, macht der massenhafte Einstieg in die Elektro-Traktion aus Sicht der Emissionen Sinn.</p>
+  </main>
+  <comments>
+    <p>Das weiss jeder der sich im wesentlichen mit der Materie auskennt.</p>
+    <p>Es stellt sich nur eine Frage, woran liegt es das es Heerscharen</p>
+    <p>gibt die anderes verbreiten und glauben?</p>
+    <p>Was ist es, absichtlich böswillig oder schiere Dummheit???</p>
+    <p>Herr Kirchner,</p>
+    <p>auch wenn im Winter die Stauseen in Norwegen gefrieren liefer die noch Strom sind doch nur die ersten cm an der Oberfläche die Gefrieren das Wasser darunter bleibt doch flüssig.</p>
+    <p>Weshalb in Norwegen der Strom im Winter knapp ist liegt hauptsächlich an zwei Sachen.</p>
+    <p>1. In Norwegen heizen einige noch mit Strom.</p>
+    <p>2. Die Stauseen sind zu beginn des Winters nicht vollständig gefüllt.</p>
+    <p>Deshalb wird auch die HGÜ-Leitung von Deutschland nach Norwegen gebaut, dass im Sommer nicht so große Mengen an Wasser über die Turbinen aus den Stauseen abgelassen werden müssen.</p>
+    <p>Ein simpler Vergleich der Wirkungsgrade hilft hier wesentlich mehr:</p>
+    <p>Ein Auto mit Verbrennungsmotor liegt in den Grenzen des Carnot-Prozesses und wird im Realbetrieb bei optimistisch geschätzt 20% landen.</p>
+    <p>Ein Auto mit Elektromotor liegt grob geschätzt bei 80% (Wirkungsgrad Leistungselektronik, Elektromtor, Ladeverluste, etc.). Der Strom dafür wird aber in einem modernen Kohlekraftwerk mit ca. 46% Wirkungsgrad erzeugt. Effektiv landen wir hier bei über 36%.</p>
+    <p>Vergleich man die Qualität der Abgasreinigung, so fällt die weitaus bessere und vor allem 24/7 überwachte Einhaltung der Grenzwerte im Großkraftwerk auf. Beim Automobil wird man dies wohl kaum in der Realität sicherstellen können.</p>
+    <p>-&gt; Elektrautos können aus technischer Sicht durchaus sinnvoll sein, ohne das man den aktuell von gewissen Seiten praktizierten Hype unterstützen muss.</p>
+    <p>Am Ende wird sich schlichtweg die bessere technische Lösung durchsetzen.</p>
+    <p>Zumindest kann man sich Strom für 7 Cent/kWh selber machen mit PV und Benzin oder Diesel nicht!</p>
+    <p>Ein Blick auf den Wettermast in Hamburg zeigt das doch direkt:</p>
+    <p>Windgeschwindigkeit mittags unter 5 m/s über alle Höhen. Und da das für Gesamtnorddeutschland gilt, ist das mit dem Windstro = NULL gültig.</p>
+    <p>Das heute mal ausnahmslos die Sonne schien ändert nix an der Unzulänglichkeit der sog. Ökostromversorgung.</p>
+    <p>Wenn man 2010 mal über 25% Erneuerbaren Strom gekommen ist das eine Ausnahme gewesen.</p>
+    <p>https://www.energy-charts.de/ren_share_de.htm?source=ren-share&amp;period=daily&amp;year=2010</p>
+    <p>Nur 64 Tage im gesamten Jahr wurden die 25% überschnitten.</p>
+    <p>Wenn man 2019 mal unter 25% Erneuerbaren Strom gekommen ist das eine Ausnahme gewesen.</p>
+    <p>https://www.energy-charts.de/ren_share_de.htm?source=ren-share&amp;period=daily&amp;year=2019</p>
+    <p>Nur 11 Tage im gesamten Jahr wurden die 25% unterschritten.</p>
+    <p>Herr T. Heinzow,</p>
+    <p>um so mehr Erneuerbare Leistung am Netz ist desto sichererer wird die Versorgung.</p>
+    <p>Die Konventionellen müssen immer weniger an MWh liefern.</p>
+    <p>Werden Leistung von Solar verdreifacht auf 150GW und die Windkraft verdoppelt auf 100GW sind nur noch einige schnell reagierende Gaskraftwerke nötig.</p>
+    <p>Bei Windstille und Dunkelheit ist der gesamte WKA + PV Anteil = Null</p>
+    <p>Und was das „schnell reagieren“ angeht, kein anderes Kraftwerk kann so schnell reagieren wie die Kernkraftwerke, und die sollen ja als erste weg. Daher meine Prognose, der anstehende blackout kommt nicht wegen zu geringer Kraftwerksleistung sondern wegen nicht mehr beherrschbarer Leistungsgradienten aus Wind und Sonne.</p>
+    <p>pflastert nur die Landschaften zu.</p>
+    <p>Dumm nur wenn der Wind dann doch sehr schwach weht, dann nützen auch 150 GW installierter Leistung nichts, wenn sie nur 15 GW liefern.</p>
+    <p>Sie schreiben schlichtweg Bullshit.</p>
+    <p>Es gibt nirgendwo auf der Welt eine sichere Stromerzeugung mit Windmühlen und Solarpanels.</p>
+    <p>Und daran wird sich auch niemals was ändern. Windmühlen und Solarpanels sind komplett unsinnige Stromerzeuger. Extrem teuer und komplett unzuverlässig. Heute morgen zwischen 8 und 10 betrug die Windgeschwindigkeit in allen Höhen bis 280m weniger als 2,5 m/s. Und die Solarstrahlung betrug zwischen NUll und 30 Watt pro m².</p>
+    <p>Wie wollen denn Deppen wie Sie mit den Quatschdingern den notwendigen Strom bereitstellen, denn das passiert ständig mit dem Ausfall des Windes und der Solarstrahlung, insbesondere im Winter, wenn die Sonne eh nur 8 Stunden am Himmel zu sehen sein könnte. Wissen Sie eigentlich wieviel Wasserkraftspeichervolumen mit mit 400m Höhenunterschied benötigt würde um die Stromversorgung Deutschlands mit Windmühlen zu ermöglichen?</p>
+    <p>Was sind Sie? Ein math.-nat. ungebildeter Bürger oder ein gezielt handelnder Falschinformierer?</p>
+    <p>Nun muss mir nur noch jemand erklären, wie das technisch zu verwirklichen ist.</p>
+    <p>Erst wenn Ökostrom über 100% liegt, verbrauchen zusätzliche Verbraucher Ökostrom. Sonst müssen Konventionelle hochgefahren werden.</p>
+    <p>Und so weit werden wir nicht kommen.</p>
+    <p>Daher meine Prognose dass der zu erwartende Blackout nicht wegen fehlender Kraftwerksleistung sondern wegen nicht mehr beherrschbarer Leistungsgradienten der Windräder eintritt. Schuld sind dann die Kohle- und (wenn noch vorhanden) die Kernkraftwerke denn deren Strom hat die Leitungen verstopft…..</p>
+    <p>genauso wird es kommen, da kommt es dann, will man Frau Kemfert glauben, zu so was wie „Molekülquetschungen“ in den Leitungen. Und wenn dieser Planet in den nächsten Jahren wegen Sonnenschwächelns eine Abkühlung erfahren sollte (wovon ich ausgehe), werden die Ökos diesen Rückgang für ihren Kampf gegen CO2 reklamieren.</p>
+    <p>Das einfachste Szenario für einen Blackout sehe ich in einer Dunkelflaute Situation bei gleichzeitiger mehrtägiger starken Kälte, bei der Emanuel – bevor er seine Landsleute frieren lässt – Hernn Kretschmann den Saft abdreht. Dann könnte es in Baden Würstelberg zum Dominoeffekt kommen. (Ich darf als gebürtiger Stuttgarter so lästern).</p>
+    <p>Die Aussage mit den verstopften Leitungen stammt m.W. von ner grünen Frau. Und wenn das stimmt, dann zeigt das die mathematisch-naturwissenschaftlich-technische Ungebildetheit von Frauen generell. Ausnahmen bestätigen die REgel. So gibt es ja immerhin 1 Frau unter 14 Verkehrspiloten in Deutschland.</p>
+    <p>@T. Heinzow:</p>
+    <p>Sie können es nicht lassen.</p>
+    <p>Offensichtlich gibt es Männer, die nicht bemerken, dass sie sich papageiartig wiederholen.</p>
+    <p>Und dass das Zahlenverhältnis so ist (was ich überhaupt nicht bezweifele), hat vermutlich z.T. auch mit Männern wie Ihnen zu tun.</p>
+    <p>Vielen Dank für diesen Artikel.</p>
+    <p>Was ich leider noch nicht ganz verstanden habe, ist der Zusammenhang der Netzfrequenz und der bereit gestellten elek. Leistung.</p>
+    <p>Warum sinkt die Frequenz wenn mehr Leistung abgerufen wird?</p>
+    <p>Nach meiner Kenntnis sinkt bei höherem Verbrauch die Spannung einer Quelle.</p>
+    <p>Wäre für Links zu diesem Thema sehr dankbar.</p>
+    <p>Gruß</p>
+    <p>Tim</p>
+    <p>Wenn Sie mit einem PKW aus der Ebene kommend einen Berg hinauf fahren, sinkt die Drehzahl des Motors – es sei denn Sie geben Gas (=mehr Wirkleistung).</p>
+    <p>Der Spannungsabfall im induktiven Wechselstromnetz wird durch die Blindleistung kompensiert.</p>
+    <p>In einem Wechselstromnetz gilt also:</p>
+    <p>Wirkleistung = Frequenz</p>
+    <p>Blindleistung = Spannungshaltung</p>
+    <p>Ihre Kenntnis gilt nur für ein Gleichstromnetz.</p>
+    <p>Quelle: Fachbücher oder „Google“</p>
+  </comments>
+</doc>

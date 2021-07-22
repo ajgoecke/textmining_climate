@@ -1,0 +1,498 @@
+Für solche Wettervorhersagen wird ein sehr großer wissenschaftlicher Aufwand getrieben. Im Bereich der Meteorologie gibt es zahlreiche Institute, in denen hochkarätige Wissenschaftler tätig sind. Diesen stehen Computersysteme der Spitzenklasse zur Verfügung, da enorme Datenmengen in kürzester Zeit verarbeitet werden müssen. Die entsprechenden Programme sind sehr aufwendig und werden ständig überarbeitet und verbessert. Dennoch gibt es immer wieder unerfreuliche Überraschungen, und Vorhersagen über Zeiträume von mehr als drei Tagen sind von eher begrenzter Brauchbarkeit. Selbst im 24-h-Bereich kommt es gar nicht so selten vor, dass die Wetterprognosen erheblich danebenliegen.
+Bild rechts: Der Wind, das himmlische Kind – führt die Meteorologen immer mal wieder an der Nase herum
+Bedeutung von Wetterprognosen für die Netzgebühren
+Die Planbarkeit des Stromaufkommens aus „erneuerbaren“ Quellen ist deshalb von Bedeutung, da der Einsatz von Grund-, Mittel- und Spitzenlastkraftwerken im Voraus geplant werden muss. Großkraftwerke sind aufgrund ihrer Größe träge und können nicht abrupt ein- oder ausgeschaltet werden. Nur Pumpspeicherkraftwerke lassen sich innerhalb von 1-2 Minuten hochfahren, reine Gaskraftwerken benötigen dafür es schon etwa 15 Minuten. Bei Kohlekraftwerken kann dies je nachdem, ob sie schon mit vorgewärmtem Kessel im „Hot Standby“ bereitstehen oder gar aus der Kaltreserve hochgefahren werden müssen, einige Stunden bis einige Tage dauern. Vor diesem Hintergrund können sich Irrtümer der Wettervorhersage als sehr teuer erweisen.
+Grundlage der Einsatzplanung der Netzbetreiber sind die Prognosen über den zu erwartenden Verlauf des Tagesbedarfs. Diesen Bedarf kann man heute mit zufriedenstellender Sicherheit prognostizieren und die Einsatzpläne der konventionellen Kraftwerke darauf abstimmen. Anders sieht es dagegen mit der schwankenden Erzeugung aus Windenergie- und Solaranlagen aus. Probleme bereiten vor allem kurzfristige Schwankungen im Bereich von 0–48 Stunden, weil in diesem Zeitbereich Abweichungen oft durch Regelenergie ausgeglichen werden müssen.
+Diese Regelenergie muss separat beschafft werden und stellt daher einen zusätzlichen Kostenfaktor dar. Zudem kann es bei größeren Prognoseabweichungen zu Spannungsschwankungen kommen, durch die in Extremfällen sogar die Netzsicherheit in Gefahr geraten könnte [SOWI]. Laut der gleichen Quelle hat deshalb die Bundesnetzagentur die Verteilnetzbetreiber bereits im Januar 2011 aufgefordert, die Prognosemethoden ihrer Solarstromeinspeisung zu verbessern.
+Prognosequalität bei Wind: Anspruch…
+Schaut man sich das Prospektmaterial von Prognosefirmen an, die Vorhersagen für die Leistungsabgabe von Windparks feilbieten, so stehen dort Aussagen wie: „Für beliebige Standorte und Regionen in Deutschland, Europa und weltweit“ (liefern wir) „eine zuverlässige Windleistungsprognose der zu erwartenden Windleistung – und zwar bis zu 10 Tage im Voraus und mit einer zeitlichen Auflösung von bis zu 15 Minuten [WIPR]. Weiter heisst es dort: „Die Windleistungsvorhersage beruht auf der optimalen Kombination verschiedener Wettermodelle, der Einbindung der lokalen Gegebenheiten in der Umgebung der Windparks sowie der numerischen Wettervorhersage. Auf der Grundlage ausgewählter Windparks wird die gesamte Windstromeinspeisung einer Region ermittelt. Hierbei werden die repräsentativen Standorte so gewählt, dass sie die regionale Verteilung der Windenergieanlagen sehr genau widerspiegeln. Die Genauigkeit der Vorhersage variiert mit der Wettersituation“. Letzterer Satz lässt natürlich etwas aufhorchen. Doch kann man bei Wikipedia dazu beruhigende Aussagen wie folgende finden: „Die Genauigkeit der Vorhersage für ganz Deutschland beträgt für den Zeitraum einer Vorhersage ca. 95 Prozent (normierte Standardabweichung ca. 5 %). Ein hoher Wert ist wichtig, weil somit Regelenergie und damit Kosten eingespart werden können [WIKI]. Klingt im Prinzip ganz ordentlich. Doch wie sieht das in der Realität aus?
+Bild 1. Prognose für das Aufkommen an Windstrom am 30. November 2014 im Vergleich zur tatsächlichen Produktion (Daten: EEX)
+…und Wirklichkeit
+Dazu werfen wir einen Blick auf die Prognosen für das Aufkommen an Wind- und Solareinspeisung am 30.11. 2014 sowie auf die entsprechenden Ist-Zahlen. Diese Werte waren bisher leicht überprüfbar, da sie von der Strombörse EEX bereitgestellt wurden und dort über Jahre hinweg im Archiv abgerufen werden konnten(1) [EEX]. Die für den entsprechenden Tag geltenden Prognosen wurden jeweils zum Tageswechsel bereitgestellt und spiegelten den jeweils aktuellsten Stand der heute verfügbaren Prognosefähigkeiten wider. Vor allem die Werte für den Vormittag sind daher Kurzzeitprognosen über 6 bzw. 12 Stunden, so dass die erzielte Genauigkeit Rückschlüsse auf die Voraussagequalität gerade auch in diesem Kurzzeitbereich zulässt. Für das Windstromaufkommen des 30.11.2014 zeigt Bild 1 den Tagesverlauf für die Prognose im Vergleich zur tatsächlichen Produktion. Die entsprechenden Absolut- und Prozentualwerte der Abweichungen zeigt Bild 2. Man erkennt, dass der Fehler bereits bis zur Mittagszeit bei bis zu 1.250 MW bzw. 17 % liegt. Das entspricht nahezu der Leistung von zwei Kohlekraftwerken. Nach einem kurzen Einbruch um die Mittagszeit herum ging es mit der Prognoseabweichung dann jedoch nochmal so richtig nach oben, mit einem Maximum von knapp 2.700 MW bzw. 28 % etwa gegen 15.00 Uhr. Anders ausgedrückt: Allein für die Fehlprognose beim Wind mussten demnach konventionelle Kraftwerke mit der Leistung von vier Kohlekraftwerken nahezu im Alarmstart hochgejagt werden.
+Bild 2. Tagesverlauf der absoluten Abweichung in fehlenden MW eingespeister WEA-Leistung (rot, linke Vertikalachse) sowie die prozentuale Abweichung (rechte Vertikalachse) am 30. November 2014 (Daten: EEX)
+Prognosefehler Solar
+Noch beschämender für die Qualität der Wetterprognosen stellt sich die Situation dar, wenn man sich statt der Windprognose diejenige für Solarstrom ansieht, Bild 3.
+Bild 3. Prognose für das Aufkommen an Solarstrom am 30. November 2014 im Vergleich zur tatsächlichen Produktion (Daten: EEX)
+Während laut Prognose in der Mittagszeit eine Solarleistung von rund 5.600 MW zu erwarten war, speisten die Solarpaneele um die Mittagszeit leidglich 1.760 MW ein. Die Differenz von bis zu 3.800 MW bzw. 81 % ist sogar noch größer als bei der Windenergie und entspricht der Leistung von mehr als fünf weiteren Kohlekraftwerken, Bild 4. Zwar fiel das Maximum des Prognosefehlers zeitlich nicht mit dem der Windenergie zusammen, so dass im Endeffekt nicht noch mehr Kraftwerke zugeschaltet werden mussten, doch hätte es der Wettergott an diesem Tag ohne weiteres auch in der Hand gehabt, beide Defizite gleichzeitig auftreten zu lassen.
+Bild 4. Tagesverlauf der absoluten Abweichung in fehlenden MW eingespeister Solarleistung (rot, linke Vertikalachse) sowie die prozentuale Abweichung (rechte Vertikalachse) am 30. November 2014 (Daten: EEX)
+Düstere Zukunftsaussichten
+Das, was über das deutsche Stromversorgungssystem am 30. November 2014 hereingebrochen ist, lässt für die Zukunft schlimmes befürchten. Mit dem weiter massiv voranschreitenden Ausbau der sogenannten „erneuerbaren“ Energien muss die Kapazität der Windenergie gegenüber dem Stand vom November 2014 nochmals um den Faktor 9,16 gesteigert werden. Statt der aktuell vorhandenen 35.400 MW wären dann insgesamt 324.100 MW am Netz. Mit diesem Faktor müsste auch der Prognosefehler multipliziert werden. Statt bei maximal 2.700 MW läge dann der Prognosefehler für den Windenergieertrag bei bis zu 24.700 MW, die kurzfristig zusätzlich ans Netz gebracht werden müssten. Das Vorhalten einer derartig massiven Reserve wäre weder technisch noch wirtschaftlich zu bewältigen.
+Das hier vorgestellte Beispiel zeigt jedoch vor allem eines: Trotz hochmoderner Prognoseinstrumente für das Wettergeschehen und des damit verknüpften Leistungsangebots aus Wind- und Solarenergie werden die Prognosefehler unweigerlich weiter anwachsen.
+Dies bedeutet wiederum eine entsprechende Zunahme des Einsatzes von Regelenergie, der vollumfänglich auf die Netzgebühren aufgeschlagen wird. Das EEG und seine Umsetzung bewirken daher Preiserhöhungen nicht nur im Bereich des EEG-Zuschlags sowie aufgrund der Netzausbaukosten, sondern zusätzliche Aufschläge für die Beschaffung der zur Stabilisierung der Netze erforderlichen Regelenergie. Zusätzlich zum EEG-Zuschlag sind deshalb auch die Netzentgelte massiv auf Steigflug vorprogrammiert.
+Bild 5. Bei Annahme gleicher Wetterverhältnisse wie am 30.11.2014 würde der Prognosefehler am 30.11.2050 bei bis zu 24.700 MW liegen.
+Folgerungen für die Glaubwürdigkeit von Klimaprognosen
+Die hier dargelegten Prognoseabweichungen legen zudem geradezu zwingend eine weitere wesentliche Schlussfolgerung nahe: Sie rechtfertigen erhebliche Zweifel an der Gültigkeit der uns seitens der sogenannten Klimaforschung präsentierten Langzeitprognosen über die Klimaentwicklung kommender Jahrzehnte. Laut Wikipedia basieren Klimamodelle auf Meteorologiemodellen, wie sie auch zur numerischen Wettervorhersage verwendet werden. Diese Modelle werden jedoch „für die Klimamodellierung erweitert, um alle Erhaltungsgrößen korrekt abzubilden. In der Regel wird dabei ein Ozeanmodell, ein Schnee- und Eismodell für die Kryosphäre und ein Vegetationsmodell für die Biosphäre angekoppelt“ [WIKL]. Wenn allerdings bereits die Zuverlässigkeit von Meteorologiemodellen über Zeiträume von weniger als 24 Stunden so gering ist, dass derartig massive Abweichungen auftreten wie am hier vorgestellten Beispiel nachgewiesen, dann fragt man sich, was nach zusätzlicher Befrachtung durch weitere mit Unsicherheiten belastete Modelle noch an Glaubwürdigkeit vorhanden sein dürfte. Und man fragt sich vor allem, woher Herrschaften wie Edenhofer, Schellnhuber oder Rahmstorf die geradezu missionarische Überzeugung nehmen, mit der sie ständig ihren Klimaalarmismus in die Welt trompeten.
+Fred F. Mueller
+Anmerkung der Redaktion:
+Doch hier und hier versucht der vielmals gescheiterte IPCC Klimamodellierer und Chef des Hamburger Max-Planck-Insitutes für Meterologie Prof. Jochem Marotzke die verlorengegangene Glaubwürdigkeit seiner Klimamodelle mit immer neuen Entschuldigungen zu retten. Sein Schlusssatz im Welt-Artikel lautet:"Langfristig können wir uns auf die Klimamodelle verlassen", sagt Marotzke. "Und diese sagen, dass die Erwärmung auf uns zukommt.“. Solchen Leuten, die mit ähnlichen Prognosen aus der Wirtschaftswissenschaft an das Geld anderer Menschen kommen wollte, pflegte der Ökonom John Maynard Keynes zuzurufen: "Langfristig sind wir alle tot." Diese Prognose hat gegenüber allen anderen den Vorteil zu stimmen.
+Wir werden über diese letzten Verteidigungsversuche des J. Marotzke in Kürze berichten
+(1) Wie verlogen und auf Täuschung der Öffentlichkeit unsere Energiepolitik inzwischen ist, kann man aus der Tatsache erkennen, dass EEX diese Daten – einschliesslich des Archivs – seit kurzem nicht mehr der Öffentlichkeit zugänglich macht, sondern sie hinter einer Bezahlschranke verbirgt und ausserdem potenzielle Nutzer durch Knebelverträge binden will. Die sogenannte „Transparenz“, mit der man immer noch großspurig hausieren geht, ist nur noch bewusste und verlogene Intransparenz gegenüber dem Bürger. Es wäre sinnvoll, wenn sich mal die eine oder andere Bürgerinitiative mit den rechtlichen Möglichkeiten beschäftigen würde, ob und wie man hier echte Transparenz erzwingen könnte.
+Quellen
+[EEX] http://www.transparency.eex.com/de/
+[EIKE] http://www.eike-klima-energie.eu/climategate-anzeige/energiewende-land-unter-im-stromsee-nur-hohe-nutzungsgrade-machen-sinn/
+[SOWI] http://de.wikipedia.org/wiki/Solarstromprognose
+[WIPR] http://www.energymeteo.de/leistungen/previento.php?gclid=CIHnpMzxsMICFWXHtAodDi0AXQ
+[WIKI] http://de.wikipedia.org/wiki/Windleistungsvorhersage
+[WIKL] http://de.wikipedia.org/wiki/Klimamodell
+Kraftwerksbetreiber betreiben Kraftwerke.
+Davon, daß eine Betreiberfirma ein neues Geschäftsfeld aufmacht, ändert sich nicht die Bilanz im alten Geschäftsfeld.
+#29: Hans Diehl
+Die Börsenpreise fallen, weil durch das EEG die Gewinne durch Müllstrom schon bei der Produktion entstehen! Der Erlös durch Verkauf spielt eine untergeordnete Rolle.
+Der Verkauf von Waren dauerhaft unterhalb unterhalb der Herstellungskosten führt in der Marktwirtschaft zu Bankrott. Soll heißen, Müllstromproduktion hat nichts mit Marktwirtschaft zu tun.
+Herr Hader, Ihre Argumente zeigen, dass Sie keine richtige Vorstellung davon haben, wie ein Netz stabil gehalten werden muss und wie Großkraftwerke funktionieren. Und Sie haben keine Vorstellung davon, was los ist, wenn statt 29 GW Windenergie bei entsprechendem Zubau dann eben vielleicht 290 GW an einem Netz anstehen, das maximal 80-85 GW aufnehmen kann.
+Unter solchen Voraussetzungen ist eine Sachdiskussion mit Ihnen sinnlos. Wenn Großkraftwerke unvorhergesehen vom Netz genommen werden müssen, weil Windstrom das Netz verstopft, entstehen große Probleme. Davon bekommen Sie natürlich in der jetzigen Situation nichts mit, die Steckdose funktioniert ja noch. Die Ignoranz, mit der Sie die entsprechenden Hinweise von Fachleuten abtun, ist jedoch unangebracht.
+Die Stabilisierung des Netzes erfordert beispielsweise eine ständige Präsenz von rund 28 GW konventioneller Kraftwerkskapazität. Um diese vorzuhalten, müssen Belegschaften vor Ort, die Kessel unter Dampf und die Turbinen am Netz gehalten werden. Sonst ist die Frequenzhaltung nicht zu gewährleisten. Da ist nichts „einzusparen“, nur die Kosten vervielfachen sich.
+Was die Verzehnfachung der Windenergie angeht: Sie müssen halt ein wenig rechnen. 2014 hatten wir einen Windenergie-Anteil von ca. 8 %. Da andere EE-Technologien nicht mithalten können – was hier schon mehrfach dargelegt wurde – müssen in Zukunft die Windenergiekapazitäten ausgebaut werden. Meine Schätzung sind ca. 324 GW bis 2050. Bis dahin wird es in Deutschland weder Kraft-Wärme-Kopplung noch Wasserkraft noch Biogas mehr geben, die werden bei diesen EE-Kapazitäten vom Markt gefegt. Das haben allerdings die meisten Kommunen, die viel Geld in Heizkraftwerke investiert haben, noch gar nicht begriffen. Bleiben noch Fotovoltaik (viel zu teuer, nur tags und nur von April bis Oktober verfügbar) und Wind. Das können Sie überschlägig leicht selbst nachrechnen, siehe den Beitrag von Hr. Schuster über „Faulpelze“, da haben Sie die benötigten Zahlen. Und vergessen Sie nicht den Aufschlag von 130 TWh für die geplante Elektromobilität, mit der man unser Volk ja auch noch beglücken will.
+Und was Ihren letzten Satz zur Kernenergie angeht: Das habe ich überhaupt nicht ins Spiel gebracht. In den nächsten 20 Jahren wird man in Deutschland über Kernenergie kaum diskutieren können. Also müssen wir mit Kohle und Gas Strom machen, es wird uns nichts anderes übrigbleiben. Irgendwann wird es in Deutschland möglicherweise Zusatzbriefmarken mit dem Aufdruck „Notopfer Wiederaufbau der Kernkraft“ geben, so wie vor langer Zeit zum Thema „Notopfer Berlin“. Aber das werden wir höchstens im Altersheim noch erleben.
+Mfg
+örchens, am Freitag der Nachrichtenagentur dpa. Um die Netzstabilität in den Höchstspannungsleitungen sicherzustellen, mussten teilweise konventionelle Kraftwerke im großem Umfang heruntergefahren werden.“
+Genau das ist gewollt, Reduzierung von Laufzeiten der konv.Kraftwerke und Einsparung von fossilen Brennstoffen.
+„Auch Windanlagen wurden vom Netz genommen.“
+Auch das ist eine logische Folge, wenn man mehr EE ans Stromnetz anschließt.
+„So Herr Hader, das sind ein paar Zahlen und Fakten, die Ihnen doch eigentlich auch bekannt sein dürften.“
+Absolut. Nur was hat das mit einem erhöhten Risiko eines landesweiten Stromausfalls zu tun? Als ich Ihnen sagte, dass Sie mit Zahlen und Fakten argumentieren sollten, meinte ich damit nicht, dass sie blindlings irgendwelche Daten hier nennen, die zwar stimmen, aber nicht im Kontext zum Thema stehen. Leistungsanpassungen von konventionellen Kraftwerken gehören zum Stand der Technik. Das mit einem erhöhten Risiko eines Stromausfalls gleichzusetzen, ist schon eine merkwürdige Denkweise. Wenn Ihre These tatsächlich stimmen würde, dass stärkere Windenergieeinspeissungen zu mehr Instabilitäten im Netz führen, müssten in den letzten Jahren die Stromausfallzeiten in Deutschland zugenommen haben. Das haben sie nicht, bis ins Jahr 2009 sanken die Ausfallzeiten, während sie danach nahezu konstant blieben. Ein Land wie Frankreich, welches kaum Windkraftwerke aufzubieten hat, hat hingegen viermal längere Ausfallzeiten.
+„Aber offensichtlich fehlt Ihnen die Fantasie sich vorzustellen, was los sein wird, wenn wir – wie von unserer Politik beschlossen – den Anteil der Windenergie gegenüber dem jetzigen Stand nochmals VERZEHNFACHEN werden.“
+Klar, wenn Sie es so sehen wollen, um Schwarz zu sehen, benötigt man Phantasie. Will man aber eine realistische Einschätzung haben, ist sie eher nur störend. In dem Sinne bin ich lieber phantasielos. Im übrigen gibt es keine Pläne und Szenarien mit einer Verzehnfachung der heutige Windenergie, selbst nicht in den 80%- und 100%-EE-Plänen.
+„Sie erinnern mich an jenen klugen Menschen, der vom Ufer aus auf den zugefrorenen Streifen in Richtung Flussmitte gegangen ist und auf Warnungen mit der Aussage reagierte: „Was wollt ihr denn, bisher hat doch alles bestens geklappt…..““
+Lustigerweise ist das eine Sichtweise, die man bei der Kernenergie permanent ablehnt. ^^
+Herr Hader, zur Gefährdung der Netze sagen Sie: „Warum nahmen dann die Ausfallzeiten in Deutschland nicht zu, wenn das Netz angeblich den Bach runtergeht? Argumentieren Sie doch mal mit Zahlen und Fakten und nicht mit Vermutungen und Metaphern.
+Ich verweise einfach mal auf einen Artikel im Handelsblatt vom Dezember letzten Jahres: „Das Sturmtief „Billie“ hat im Norden und Osten Deutschlands für Windenergie im Überfluss gesorgt und das Stromnetz vor große Herausforderungen gestellt. Über 29.000 Megawatt Windenergie seien zeitweise in das deutsche Stromnetz eingespeist worden. Das sei mehr als jemals zuvor in diesem Jahr, berichtete die Sprecherin des Netzbetreibers Tennet, Ulrike Hörchens, am Freitag der Nachrichtenagentur dpa. Um die Netzstabilität in den Höchstspannungsleitungen sicherzustellen, mussten teilweise konventionelle Kraftwerke im großem Umfang heruntergefahren werden. Auch Windanlagen wurden vom Netz genommen. Ein Sprecher des Netzbetreibers 50Hertz berichtete, zeitweise sei allein im Netzgebiet des Unternehmens die Leistung der konventionellen Kraftwerke um über 5600 Megawatt gedrosselt worden. Das entspricht ungefähr der Leitung von fünf Kernkraftwerken.“ http://tinyurl.com/oozrx63
+So Herr Hader, das sind ein paar Zahlen und Fakten, die Ihnen doch eigentlich auch bekannt sein dürften. Aber offensichtlich fehlt Ihnen die Fantasie sich vorzustellen, was los sein wird, wenn wir – wie von unserer Politik beschlossen – den Anteil der Windenergie gegenüber dem jetzigen Stand nochmals VERZEHNFACHEN werden.
+Sie erinnern mich an jenen klugen Menschen, der vom Ufer aus auf den zugefrorenen Streifen in Richtung Flussmitte gegangen ist und auf Warnungen mit der Aussage reagierte: „Was wollt ihr denn, bisher hat doch alles bestens geklappt…..“
+Gegen eine solche Geisteshaltung kann man mit rationalen Argumenten nichts ausrichten.
+Mfg
+Man muss auch genau hinschauen, wovor sie warnen. Instabilitäten im Netz sind nicht gleichbedeutend mit einem flächendeckenden Blackout. Ich denke sehr wohl, dass die Agenturen und Netzbetreiber wissen, was sie da sagen. Doch ob sie auch jeder richtig versteht, ist noch was anderes. Tennet sagte zum Beispiel, dass der Aufwand größer geworden ist, um die Netze stabil zu halten. Das bezweifelt auch keiner. Man sprach von Kosten von 150 Mill Euro für Tennet im Jahr 2012 (siehe auch http://tinyurl.com/at4fldf). Übertragen auf die rund 20 Millionen Stromkunden macht das 7,50 Euro pro Kopf. In dem Fall würde ich mal eine reine Kosten-Nutzen-Rechnung machen.
+„Die Netzstabilität hat mit dem Strompreisniveau selbst zunächst einmal nichts zu tun, das sollte man nicht durcheinanderbringen.“
+Nun, ich weiß nicht, ob es entsprechende Studien gibt, aber speziell USA und Frankreich werden immer wegen den niedrigen Strompreisen bewundert. Über die Netzinstabilitäten und -infrastruktur in den USA sprach ich schon. Frankreich hat vier mal höhere Ausfallzeiten als Deutschland. Dänemark hingegen, ein Hochpreisland hat wie Deutschland geringe Ausfallzeiten. (http://tinyurl.com/n39haea) Das sollte einen wenigstens zum Nachdenken bringen, warum die Länder mit den höchsten Strompreisen die verfügbarsten Netze haben.
+„In Deutschland hat die „Energie ist zu billig“-Mentalität dazu geführt, dass Staat und interessierte Wind- und Solarprofiteure sich am Verbraucher mästen. Das Netz geht dadurch inzwischen den Bach runter.“
+Warum nahmen dann die Ausfallzeiten in Deutschland nicht zu, wenn das Netz angeblich den Bach runtergeht? Argumentieren Sie doch mal mit Zahlen und Fakten und nicht mit Vermutungen und Metaphern.
+die von Ihnen permanent verlinkte Studie der FAU führt sich ja selbst ad Absurdum. Folie 38:
+„In den nächsten Jahren bestünde erheblicher Ersatzbedarf an konventionellen Kraftwerken“
+und die Antwort in dieser genialen Studie:
+„Erneuerbare sichern unsere Energieversorgung!“
+Wer das glaubt, der glaubt auch an den Osterhasen und den Weihnachtsmann (wobei die Existenz dieser Figuren wahrscheinlicher ist als die Richtigkeit dieser Studie).
+Das Aufsummieren irgendwelcher Strommengen ist typisch für energietechnische Analphabeten und Anumeriker – und Sie gehören erwiesenermaßen auch zu dieser Spezies.
+Herr Burowski,
+Sie reiten nach wie vor auf den Zahlen herum, die bei „Regelleistung.net“ zu finden sind. Auf meine Hinweise, dass ich diesen Zahlen nicht traue, antworten Sie lapidar: „Sorry, das ist mir zuviel Verschwörungstheorie. „Vermutlich“, „Wahrscheinlich“ – tut mir leid, solange Sie nur Vermutungen oder Wahrscheinliches zu bieten haben, wenn es um Fakten geht, die Ihnen nicht in den Kram passen, sind Sie nicht ernst zu nehmen.“
+Herr Burowski, ich hätte da noch einen Komplizen anzubieten, der – zumindest aus Ihrer Sicht – wohl genausowenig ernst zu nehmen und als Verschwörungstheoretiker einzustufen ist: Ein Unternehmen namens McKinsey.
+Laut einem Artikel im „Handelsblatt vom 3.9.2014 bewertet McKinsey „das Erreichen zentraler Ziele der Energiewende in Deutschland bis 2020 (als) nicht mehr realistisch“. Dies ergebe sich aus den aktuellen Daten des Energiewende-Index (EWI) von McKinsey & Company. Damit analysiert die Unternehmensberatung seit zwei Jahren alle sechs Monate den Status der Energiewende in Deutschland Anhand von 15 Indikatoren.
+Und zu diesen Kriterien gehören auch die Kosten der Netzeingriffe: „Netzeingriffe haben stark zugenommen, da z.B. Strom aus fluktuierenden erneuerbaren Energien (Solar und Wind) bevorzugt eingespeist wird. Entsprechend sind die Kosten für Netzeingriffe je MWh Strom aus fluktuierenden erneuerbaren Energien gestiegen und betrugen zuletzt rund 2 EUR/MWh oder absolut 165 Mio. EUR – eine Steigerung von mehr als 100% gegenüber 2008“.
+VERSCHWÖRUNG, VERSCHWÖRUNG, VERSCHWÖRUNGEN ÜBERALL…..
+Mfg
+Herr Hader,
+was mich bei Ihnen immer wieder verwundert ist die Tatsache, dass Sie sich trotz Ihrer Kenntnisse in Detailfragen dann doch verheddern, wenn es darum geht, den Sprung von der Betrachtung einzelner Bäume zum Wald zu vollziehen.
+Bundesnetzagentur, Übertragungsnetzbetreiber und die Stromwirtschaft selbst warnen seit Jahren immer dringlicher vor den Konsequenzen, wenn immer mehr konventionelle Kraftwerke aus dem Netz verdrängt werden. Halten Sie diese Warnungen für leichtfertig? Weiss ein Unternehmen wie Tennet nicht, wovon man spricht, wenn es davor warnt?
+Da nutzt auch Ihr Verweis auf die USA nichts. Die Netzstabilität hat mit dem Strompreisniveau selbst zunächst einmal nichts zu tun, das sollte man nicht durcheinanderbringen. Die Netzarchitektur in den USA, einem Riesenland mit gigantischen Entfernungen und teils weit auseinander liegenden Ballungszentren, ist seit jeher schwächer und anfälliger als die im eher kleinen, überschaubaren Deutschland. Auf der anderen Seite hat der Staat die Stromwirtschaft nicht so gnadenlos gemolken wie bei uns.
+In Deutschland hat die „Energie ist zu billig“-Mentalität dazu geführt, dass Staat und interessierte Wind- und Solarprofiteure sich am Verbraucher mästen. Das Netz geht dadurch inzwischen den Bach runter. Es war jedoch ursprünglich von seiner Architektur her viel stabiler als das in den USA. Man kann allerdings auch den dicksten Baum umlegen, wenn man nur lange genug Span um Span abträgt, so wie ein Biber einen Baum fällt. Irgendwann wird das passieren, unabhängig davon, wieviel der Strom dann gerade kostet. Das ist jedem, der Gesamtzusammenhänge zu sehen vermag, schlicht und erbärmlich klar. Warum Sie ausserstande zu sein scheinen, das zu erkennen, ist mir ein Rätsel.
+TIMBER…
+Mfg
+@ # 56 Heinz Diehl
+Herr Diehl, auch wenn es mir leid tut, dass ich Ihre kindliche Freude an diesem aus Ihrer Sicht schönen Werk von Hr. Prof. Karl brutal zerstören muss – der Beitrag ist nichts weiter als ein Machwerk, ein Beispiel dafür, wie sich Wissenschaftler heute prostituieren.
+Ich muss gestehen, ich habe mich bei der Lektüre der Originalarbeit so geärgert, dass ich schon drauf und dran war, dazu etwas zu schreiben, aber das hat mir freundlicherweise Hr. Kipp von Science Skeptical abgenommen, siehe http://tinyurl.com/pn8odm3
+Mein Vorschlag an den Admin wäre, diese Replik auch hier bei EIKE zu übernehmen.
+@Herr Müller
+Man muss nicht einmal Wissenschaftler sein, um das nachzuvollziehen, was die da an der Uni Erlangen endlich mal öffentlich machen.
+Sie brauchen nur Daten von der EEX, und die sinnvoll aneinander zu reihen, und schon haben Sie das Ergebnis.
+Schau Sie sich mal die Folie 31 der Studie an. http://tinyurl.com/leflmaf
+Da sieht man die Säule „Rekonstruierter mittlerer Börsenpreis „ohne“ Wind und PV“ von 9,07 Cent
+Und siehst die Säule „ Tatsächlicher mittlerer Börsenpreis“ von 3,78 Cent.
+Das bedeutet, Wind und PV senken den Börsenpreis um 5,29 Cent.
+Wer bezahlt die 5,29 Cent gegenwärtig, der Verbraucher, über die Umlage. Denn die ist u.a. die Differenz zwischen jeweiligem Börsenpreis und EE Vergütung.
+Und wo bleiben die 5,29 Cent, wenn sie nicht an die Kunden weitergereicht werden.
+Sie gehen im Marktgeschehen unter. Nicht mehr und nicht wenige versuch ich hier deutlich zu machen.
+Was den Herrn Kipp betrifft. Der scheint mit der Studie etwas überfordert zu sein, wenn er nicht erkennt wo die 5,29 Cent/Kwh herkommen
+Zitat Kipp:
+Beziffert wird diese Preissenkung mit 5,29 Cent pro KWh. Woher die Zahl kommt wird nicht klar, man kann sie für recht hoch halten. Die Preise beim Day-Ahead-Handel haben in den letzten 12 Jahren stark geschwankt, aber der Unterschied zwischen dem höchsten und niedrigsten Preis betrug in diesem Zeitraum maximal 4 Cent/kWh. Begründet wird der starke angenommene Anstieg damit, dass mit dem Abschalten der Kernkraftwerke in Deutschland das Gleichgewicht zwischen Angebot und Nachfrage stark gestört worden wäre, was sich eben in den Preisen widerspiegelt.
+Herr Diehl, auch wenn es mir leid tut, dass ich Ihre kindliche Freude an diesem aus Ihrer Sicht schönen Werk von Hr. Prof. Karl brutal zerstören muss – der Beitrag ist nichts weiter als ein Machwerk, ein Beispiel dafür, wie sich Wissenschaftler heute prostituieren.
+Ich muss gestehen, ich habe mich bei der Lektüre der Originalarbeit so geärgert, dass ich schon drauf und dran war, dazu etwas zu schreiben, aber das hat mir freundlicherweise Hr. Kipp von Science Skeptical abgenommen, siehe http://tinyurl.com/pn8odm3
+Mein Vorschlag an den Admin wäre, diese Replik auch hier bei EIKE zu übernehmen.
+Mfg
+Das Lastenmanagement zur Stabilisierung der Stromnetze genutzt wird, ist mittlerweile ein alter Hut und schon längst Stand der Technik. Es sagt nichts über die Wahrscheinlichkeit aus, mit der wir in den nächsten Jahren einen flächendeckenden Stromausfall erleben werden. Auch nicht, wie viele Eingriffe generell im Stromnetz unternommen werden. Wenn man diese Eingriffe sehr gut beherrscht, kann die Zahl auch auf das 10- bis 100 fache steigen, ohne das wirklich eine nennenswerte Blackout-Gefahr besteht. Es wird ja immer der billige Strom in den USA gelobt und als Wettbewerbsvorteil gesehen. Dabei übersieht man, dass das amerikanische Stromnetz um Größenordnungen instabiler ist, angefangen von Netzschwankungen um einige hundert Millisekunden bis hin zu flächendeckenden Stromausfällen über Stunden und Tage. Fragen Sie mal Leute aus dem Customer Support von Maschinenherstellern, die in den USA gearbeitet haben, die werden ihnen echte Horrorgeschichten erzählen, da leben wir mit unserem Netz im Land der Glückseligen.
+Man beschwert sich über Klimalarmismus in den Medien, merkt aber nicht, dass man auf dieselbe Art Blackout-Alarmismus betreibt, durch Übertreibung und Panikmache.
+„Warum lenken Sie denn wieder vom Wesentlichen ab, und gehen nicht auf die Untersuchung von der Uni Erlangen/Nürnberg ein.“
+Herr Diehl, warum lenken sie vom Hauptthema ab? Ich habe auf ihre Behauptung/Lüge geantwortet, dass die EE-Betreiber nur 2,54 ct der EEG-Umlage erhalten.
+Zu der Studie hab ich mich nicht geäußert.
+Das ist so, als würde ich behaupten, Herr Diehl wäre von Beruf Maurer, dann sagen sie, dass sie Rentner sind und ich sage: warum lenken sie denn vom Hauptthema ab? Das Hauptthema ist doch die Entwicklung der Baupreise in Deutschland.
+So „diskutieren“ sie hier ständig. Naja, jeder macht sich eben so lächerlich, wie er kann.
+„Welchen Kostenanteil durch Primärenergie hat denn beispielsweise ein Softwareunternehmen, wenn es ein neues Produkt entwickelt, oder ein Lehrer vor seinen Schülern steht oder Landlust ihr neues Heft herausbringt? Wo steckt in den Primärenergiekosten die menschliche Arbeitskraft?“
+Weil das nicht kurz erklärt werden kann sollte man den Artikel „Das Kosten- Energie-Äquivalenzgesetz als Fundament menschlichen Wirtschaftens“ studieren. Dieser Artikel ist erschienen in „ENERGIEWIRTSCHAFTLICHE TAGESFRAGEN 61.Jg.(2011) Heft 12
+„Die Lösung des Rätsels — „Entropie erzeugt Unordnung, das Leben benötigt und beinhaltet Ordnung“ hat die fähigsten Köpfe der Naturwissenschaftler nahezu 100 Jahre lang erfolglos beschäftigt. Erst Mitte des 20. Jahrhunderts gelang es die scheinbare Widersprüchlichkeit aufzuklären. 1968 und 1977 wurden die Arbeiten mit dem Nobelpreis gewürdigt.“
+Der Kommentar zu :
+„Und immer noch so weit weg“
+Diese Aussage hätte von der Mehrheit der Bevölkerung kommen können, die ziemlich ahnungslos ist und noch immer an die Energiewende glaubt. Auszug:
+Die Essener Aluminium-Hütte Trimmet hat in den letzten 12 Monaten durch Herunterfahren gleich zweimal uns vor einem Blackout gerettet. Trimmet frisst so viel Strom wie die Städte Essen, Dortmund und Bochum zusammen. Das wirkt wie eine Abschaltung von zwei
+Kraftwerken. Das Herunterfahren wird mit einer Bereitschaftspauschale und zusätzlich mit bis zu 400 Euro pro MW vergütet und gehört zum Notfallplan. Das Herunterfahren wurde notwendig, weil die Netze durch plötzlichen Abfall der Windenergie „kurz vor dem Kollaps“ standen. Bevor es die „erneuerbaren Energien“ gab, wurde jährlich 10-mal korrigierend in die Netze eingegriffen, die sich wie folgt geändert haben: 2012 knapp 1000, 1. Halbjahr 2013 1098, 2. Halbj. 1585, 1. Halbj. 2014 1831. Insgesamt wird in diesem Jahr die Anzahl der Eingriffe auf über 3500 steigen! Dabei ist es nicht so, dass die Eingriffe sich nahezu gleichmäßig verteilen, es ist nur eine Frage der Zeit, bis die „Netzregulierer“ zeitlich überfordert sind oder vor lauter Stress Bedienungsfehler fabrizieren. Das bedeutet, die Stromversorgung ist in Deutschland überhaupt nicht mehr sicher wie früher, sie ist sogar sehr gefährdet und damit könnten wir unmittelbar vor einem Netzzusammenbruch stehen.- Mit ein bisschen Nachdenken erkennen auch die Wind- und Sonnenstrombefürworter, dass uns der verzögerte aber nicht gestoppte Ausbau von Wind- und Solaranlagen unweigerlich näher an den Blackout heranführt.
+„Energiewende, immer näher an den Backout heran“ ist zu lesen im „Offener Brief an Axel Bojanowski, Spiegel vom 18.11.2014
+Hans Diehl meint:
+„Herr Jensen versucht,- warum auch immer – in # 53, mit vielen Worten zu verschleiern, was man mit zwei Sätzen deutlich machen kann
+Fakt ist, „Je niedriger die Börsenpreise desto höher die Umlage.“
+Herr Diehl, besser hätten sie mal wieder ihre Verwirrtheit nicht zum Ausdruck bringen können, als mit dieser Antwort.
+@Herr Jensen
+Warum lenken Sie denn wieder vom Wesentlichen ab, und gehen nicht auf die Untersuchung von der Uni Erlangen/Nürnberg ein.
+Hier noch mal zur Erinnerung.
+http://tinyurl.com/oqazlqp
+Die Einsparungen in Höhe von 31,6 Milliarden Euro überkompensierten das, was die Stromverbraucher nach dem Erneuerbaren Energien Gesetz (EEG) 2013 als Vergütung für den Ökostrom bezahlen mussten. Rund 20,4 Milliarden Euro waren das in etwa – blieb also unter dem Strich eine Entlastung von 11,2 Milliarden Euro, so die Forscher. Zitat Ende.
+Für alle die hier mit lesen, erlaube ich mir meine – von Herrn Jensen unterstellte – „Verwirrtheit“ zu widerlegen.
+Schauen Sie sich bei der genannten Studie die Folie 31 an. Da sehen Sie die beiden Balken, einmal
+Rekonstruierter mittlerer Börsenpreis „ohne“ Wind und PV von 9,07 Cent und zum andern, tatsächlicher mittlerer Börsenpreis, von 3,78 Cent
+Genau in dieser Differenz spiegelt sich, das „Paradoxon“ das da lautet „Je niedriger der Börsenpreis, desto höher die Umlage“
+Mit anderen Worten, die geringeren Einnahmen, die auf der konventionellen Seite, wegen der EE erzielt werden, müssen die Verbraucher über eine höhere Umlage kompensieren.
+Ist doch wirklich nicht so schwer zu verstehen, wenn man „will“ oder ????
+Bevor nun jemand die Studienmacher in Frage stellt, berücksichtigt bitte, dass die von Daten und Zahlen der EEX ausgegangen sind.
+„Herr Jensen versucht,- warum auch immer – in # 53, mit vielen Worten zu verschleiern, was man mit zwei Sätzen deutlich machen kann
+Fakt ist, „Je niedriger die Börsenpreise desto höher die Umlage.“
+Herr Diehl, besser hätten sie mal wieder ihre Verwirrtheit nicht zum Ausdruck bringen können, als mit dieser Antwort.
+Denn in meiner Antwort ging es nicht um den Zusammenhang von EEG-Umlage und Börsenpreisen, sondern um ihre mehrfache Lüge, dass die EE-Anlagen-Eigentümer nur 2,54 ct der EEG-Umlage bekommen.
+Und die vielen Worte sind nötig, weil sie es einfach nicht verstehen wollen. Und verchleiert wird da auch nix, sondern ich erkläre ihnen mit einfachen Worten das EEG-System. Wenn sie das verwirrt, spricht das nicht für sie.
+Aber wir kennen ja inzwischen ihre Verwirrtheit.
+Fakt ist, „Je niedriger die Börsenpreise desto höher die Umlage.“
+Nach Adam Riese kompensieren die Verbraucher alles, was irgend wo wegen der niedrigen Börsenpreise verloren geht.
+Welches Potential da in der Vergangenheit im Dunkeln gehalten wurde hat man jetzt an der Uni Erlangen-Nürnberg näher beleuchtet. Ein Diskussionspapier wie es heißt.
+Man darf gespannt sein auf die Diskussion.
+Schaut mal zu welchem Ergebnis man da gekommen ist.
+http://tinyurl.com/oqazlqp
+Die Einsparungen in Höhe von 31,6 Milliarden Euro überkompensierten das, was die Stromverbraucher nach dem Erneuerbaren Energien Gesetz (EEG) 2013 als Vergütung für den Ökostrom bezahlen mussten. Rund 20,4 Milliarden Euro waren das in etwa – blieb also unter dem Strich eine Entlastung von 11,2 Milliarden Euro, so die Forscher.
+„Sie haben einen Denkfehler in Ihrer Betrachtung. Der EE Einspeiser bekommt nicht die gesamte Umlage. Die Umlage besteht aus 6 Komponenten,
+Siehe hier auf Seite 4 http://tinyurl.com/qzqsvl4
+Eine davon, die Grüne, mit den 2,54 Cent bekommt der EE Einspeiser.
+Herr Diehl: DAS IST FALSCH!!!
+Die EEG-Umlage geht bis auf einen vernachlässigbaren Anteil für IT- und Verwaltungskosten komplett an die EE-Anlagenbetreiber!
+Die bekommen nicht nur 2,54 ct/kWh! Die bekommen 6,24 ct/kWh.
+Ihre Behauptung wird durch Wiederholung nicht wahr!
+Nochmal für sie zum gaaaaanz langsaaaaam mitlesen:
+Sie als Anlagenbetreiber erhalten zB 20 ct/kWh von ihrem VNB!
+Der leitet ihren Strom an den ÜNB weiter und erhält die 20 ct zurück.
+Der ÜNB verkauft den Strom an der Börse, sagen wir für 5 ct/kWh. Da er aber 20 dafür bezahlt hat, wird die Differenz von 15 in die EEG-Umlage gepackt. Und somit hat der ÜNB am Ende seine 20 ct zurück, die er vorher an sie als Anlagenbetreiber bezahlt hat.
+Damit ist klar (und es sit wirklich ganz simpel und einfach), dass die EEG-Umlage nur zur Bezahlung der EEG-Vergütung verwendet wird. Sie geht fast komplett an die Anlagenbetreiber!
+Dieses System ist so einfach geregelt zu begreifen, dass da auch kein Raum für Interpretationen oder sonstwas übrig ist, außer man hat es nicht verstanden, so wie sie!
+Und deswegen lügen sie immer wieder und wieder. Schauen sie sich die Komponenten an und belegen sie ihre Behauptung, warum zB die Nachholung aus dem Vorjahr, der Liquiditätspuffer und die Marktprämie nicht an die EE-Betreiber ausgezahlt werden sollen!
+Gerade die Marktprämie ist nun explizit nur für die Anlagenbetreiber gedacht!
+Die Nachholung aus dem Vorjahr sind Vergütungen, für die nicht geug Umlageim Vorjahr eingenommen wurde. Der Liquiditätspuffer dient der Reduzierung der unterjährigen Zinslast, wenn in den Sommermonaten mehr EEG-Vergütung bezahlt werden muss als über die monatliche Umlage in die Kasse der ÜNB rein kommt.
+Und ihre Differenz aus den Börsenpreisen ist keine selbständige Komponente, wie sie es nennen, sondern nur der rechnerische Anteil, um den die Umlage steigt, weil der Börsenpreis gesunken ist. Das ändert aber überhaupt nichts an der Tatsache, dass auch dieser Anteil an die EEG-Betreiber geht. Genaugenommen müssen sie diese Differenz auf ihre 2,54 ct draufrechnen und dann haben sie die laufenden Vergütungen nach EEG. Dazu kommen dann die anderen Bestandteile. Und alle gehen in Summe an die EE-Anlagenbetreiber!
+Das habe ich ihnen hier und auch bei SMA schon hunderte Male erklärt. Sie tragen nichts weiter dazu bei, als immer wieder die falsche Behauptung zu machen: die Anlagenbetreiber erhalten nur 2,54 ct der Umlage.
+Und diesen Unsinn, den sie verbreiten, können sie auch nicht begründen!
+Aber egal, ich bin ja da, um das richtigzustellen!
+Und ihr Hinweis an Herrn Jacob: „Denken Sie mal in Ruhe drüber nach.“ schreiben sie sich doch bitte mal selbst auf ihre to-do-Liste.
+Aber vorher Hausaufgaben machen und das System verstehen und dann in Ruhe drüber nachdenken!
+Herr Diehl, ist Ihnen eigentlich klar, dass die EEG-Umlage eigentlich nichts mit den Vergütungssätzen zu tun hat die bei den EE-Erzeugern ankommen?!
+Mein Gehalt besteht auch aus verschiedenen Bestandteilen, sagt aber nichts darüber aus, wie viel ich im Monat für Bananen ausgebe…
+Wie man die Bestandteile der EEG-Umlage auch immer benennt, die Fördersätze der EEG-Erzeuger bleiben davon doch gänzlich unberührt und stehen auf einem anderen Blatt!
+Nur 2,54 ct fließen an die EE-Einspeiser?!
+Dann frage ich mich, wie z.B. ein Offshore Vergütungssatz von 15,4 ct/kWh (oder 19,4 ct/kWh) garantiert werden kann.
+Gibt es dafür Erklärungsmodelle ?!
+Hilfsweise lösen wir es doch ganz einfach so, dass die EE-Einspeiser wirklich nur Ihre 2,54 ct + Börsenwert bekommen, dann wären wir sie in 1-2 Monaten alle los…
+Herr Diehl, es ist doch wurscht ob ich an einen EEG-Einspeiser pro kWh
+a) 4Ct Börsenpreis und 10Ct Umlage – oder
+b) 3Ct Börsenpreis und 11Ct Umlage zahle.
+In beiden Fällen habe ich zusammen 14Ct gezahlt, die der EEG-Einspeiser erhält.
+@Herr Jacob
+Sie haben einen Denkfehler in Ihrer Betrachtung. Der EE Einspeiser bekommt nicht die gesamte Umlage. Die Umlage besteht aus 6 Komponenten,
+Siehe hier auf Seite 4 http://tinyurl.com/qzqsvl4
+Eine davon, die Grüne, mit den 2,54 Cent bekommt der EE Einspeiser.
+Um bei Ihrem Beispiel zu bleiben.
+Wenn nun der Börsenpreis von 4 Cent auf 3 Cent fällt, steigt die Umlage auf 11 Cent.
+Der Einspeiser bekommt aber deshalb nicht mehr, sondern die Erhöhung fließt in die Umlagen Komponente blau, 1,47 Cent Rückgang der Börsenpreise.
+Der Verbraucher bezahlt somit eine höhere Umlage, die ausschließlich den gesunkenen Börsenpreisen geschuldet ist. Und mit diesen gesunkenen Börsenpreisen, können Stromhändler lukrative Geschäfte machen.
+Denken Sie mal in Ruhe drüber nach.
+Herr Burowski,
+Sie haben offensichtlich meinen Aufsatz nicht richtig gelesen. Dort steht:
+„Grundlage der Einsatzplanung der Netzbetreiber sind die Prognosen über den zu erwartenden Verlauf des Tagesbedarfs. DIESEN BEDARF KANN MAN HEUTE MIT ZUFRIEDENSTELLENDER SICHERHEIT PROGNOSTIZIEREN UND DIE EINSATZPLÄNE DER KONVENTIONELLEN KRAFTWEREK DARAUF ABSTIMMEN: ANDERS SIEHT ES DAGEGEN MIT DER SCHWANKENDEN ERZEUGUNG AUS WINDENERGIE- UND SOLARANLAGEN AUS. Probleme bereiten vor allem kurzfristige Schwankungen im Bereich von 0–48 Stunden, weil in diesem Zeitbereich Abweichungen oft durch Regelenergie ausgeglichen werden müssen. Diese Regelenergie muss separat beschafft werden und stellt daher einen zusätzlichen Kostenfaktor dar. Zudem kann es bei größeren Prognoseabweichungen zu Spannungsschwankungen kommen, durch die in Extremfällen sogar die Netzsicherheit in Gefahr geraten könnte [SOWI]. Laut der gleichen Quelle hat deshalb die Bundesnetzagentur die Verteilnetzbetreiber bereits im Januar 2011 aufgefordert, die Prognosemethoden ihrer Solarstromeinspeisung zu verbessern.
+Speziell diesen Aspekt habe ich untersucht, weil dieser sich mit zunehmender Skalierung der „EE-Stromerzeugung“ in den nächsten Jahren um einen Faktor von etwa 10 multiplizieren wird, während die Abweichungen im Tagesverbrauch bei mehr oder weniger gleichbleibendem Stromverbrauch (Prognose) mehr oder weniger konstant bleiben dürften.
+Dass das Problem existiert und sich sogar die Bundesnetzagentur darüber Gedanken macht, geht ja aus den von mir zitierten Quellen eindeutig hervor.
+Was den von Ihnen favorisierten Ansatz angeht: Bitte, nur zu, dürfen Sie von mir aus gerne machen. Wäre mal was anderes, wenn Sie selbst Arbeit abliefern würden, statt immer nur an der Arbeit anderer herumzukritteln.
+Mfg
+Welchen Kostenanteil durch Primärenergie hat denn beispielsweise ein Softwareunternehmen, wenn es ein neues Produkt entwickelt, oder ein Lehrer vor seinen Schülern steht oder Landlust ihr neues Heft herauspringt? Wo steckt in den Primärenergiekosten die menschliche Arbeitskraft?
+„Diese Stellungnahme ist zuerst erschienen in meinem Beitrag im Nov. 2014: „Energiewende, immer näher an den Blackout heran.““
+Und immer noch so weit weg.
+„Herr Burowski, es sollte doch selbst Ihnen klar sein, dass Bild 2 auf den Daten von Bild 1 basiert, indem zunächst die absolute und dann die prozentuale Abweichung (zwischen den Prognose- und Ist-Werten aus Bild 1) kalkuliert wurde. Soviel mathematisches Verständnis hätte ich bei Ihnen eigentlich vorausgesetzt. Oder soll ich Ihnen die entsprechenden Dreisätze vorbuchstabieren?“
+Darf ich mir zu Ihrer Antwort die dazugehörige Frage selber stellen oder liefern Sie noch eine nach?
+„Was ihre Aussage zur „tatsächlich Regelenergieerzeugung“ angeht, so habe ich Ihnen bereits mehrfach dargelegt, dass die von Regelleistung.net veröffentlichten Daten m.E. geschönt sind.“
+Sorry, das ist mir zuviel Verschwörungstheorie.
+„Primärregelenergie wird schlicht nicht nachgewiesen, …“
+Beträgt laut Monitoringbericht der Bundesnetzagentur etwa 1/4 der SRL. Damit ist zumindest die Größenordnung klar.
+…und bei der Tertiärregelleistung wird vermutlich nur das aufgeführt, was tatsächlich über die Ausschreibungen beschafft wurde. Es ist aus meiner Sicht ziemlich wahrscheinlich, dass man inzwischen immer mehr Regelleistung kurzfristig an der Börse bezieht, so dass sie in der „Regelleistungs“-Statistik gar nicht auftaucht. Im Moment fehlt mir nach wie vor die Zeit, diesen Aspekt tiefergehend zu untersuchen.
+„Vermutlich“, „Wahrscheinlich“ – tut mir leid, solange Sie nur Vermutungen oder Wahrscheinliches zu bieten haben, wenn es um Fakten geht, die Ihnen nicht in den Kram passen, sind Sie nicht ernst zu nehmen.
+Wenn Sie unterstellen, dass ich „wiedermal durch Weglassen von Zusammenhängen etwas vereinfachen wolle“, dann antworte ich Ihnen, dass Sie erstmal beweisen sollten, dass und welche Informationen ich verfälscht oder weggelassen haben soll. Ihre Aussagen haben aus meiner Sicht den Tatbestand der Verleumdung und der üblen Nachrede schon ziemlich deutlich tangiert.“
+Hsrr Müller, Sie sind doch der Experte für Energieversorgung, dann müssten Sie doch selber die weggelassenen Zusammenhänge kennen.
+Als Strom noch ausschließlich konventionell erzeugt wurde, gab es die Verbraucher, deren Verbrauch per Lastkurve prognostiziert wurde. In der Realität wich der tatsächliche Verbrauch mehr oder weniger von der Lastkurve ab und musste durch Regelenergie ausgeglichen werden.
+Jetzt gibt es im gleichen Netz einen Erzeuger(Wind/Solar), dessen Erzeugung prognostizert wird, aber gleichfalls mehr oder weniger von der Prognose abweicht.
+Um die tatsächlich benötigte Regelenergie zu bestimmen, müssen beide Abweichnungen gleichzeitig betrachtet werden, da sie sich gegenseitig aufheben oder verstärken können. Diesen grundlegenden Zusammenhang haben Sie nicht berücksichtigt, muss man aber, wenn man zu nachvollziehbaren Aussagen zur Regelenergie kommen will.
+Also eine Kurve Abweichung Solar/Wind, eine Kurve Abweichung Verbraucher und eine, die beide Kurven addiert. Sehen Sie das anders?
+Zahlen zum Energieverbrauch und Lastkurven können Sie aus dem Internet downloaden.
+Herr Burowski, es sollte doch selbst Ihnen klar sein, dass Bild 2 auf den Daten von Bild 1 basiert, indem zunächst die absolute und dann die prozentuale Abweichung (zwischen den Prognose- und Ist-Werten aus Bild 1) kalkuliert wurde. Soviel mathematisches Verständnis hätte ich bei Ihnen eigentlich vorausgesetzt. Oder soll ich Ihnen die entsprechenden Dreisätze vorbuchstabieren?
+Was ihre Aussage zur „tatsächlich Regelenergieerzeugung“ angeht, so habe ich Ihnen bereits mehrfach dargelegt, dass die von Regelleistung.net veröffentlichten Daten m.E. geschönt sind. Primärregelenergie wird schlicht nicht nachgewiesen, und bei der Tertiärregelleistung wird vermutlich nur das aufgeführt, was tatsächlich über die Ausschreibungen beschafft wurde. Es ist aus meiner Sicht ziemlich wahrscheinlich, dass man inzwischen immer mehr Regelleistung kurzfristig an der Börse bezieht, so dass sie in der „Regelleistungs“-Statistik gar nicht auftaucht. Im Moment fehlt mir nach wie vor die Zeit, diesen Aspekt tiefergehend zu untersuchen.
+Wenn Sie unterstellen, dass ich „wiedermal durch Weglassen von Zusammenhängen etwas vereinfachen wolle“, dann antworte ich Ihnen, dass Sie erstmal beweisen sollten, dass und welche Informationen ich verfälscht oder weggelassen haben soll. Ihre Aussagen haben aus meiner Sicht den Tatbestand der Verleumdung und der üblen Nachrede schon ziemlich deutlich tangiert.
+Mfg
+Diese gesenkten Börsenpreise, werden zum Nachteil der Verbraucher, weil sie, die von denen zu zahlende Umlage, erhöht.
+Das ist eine Verdrehung des Sachverhalts!
+Die nichtprivilegierten Verbraucher zahlen die VERGÜTUNG! für die EE-Einspeiser gemäß EEG so oder so! Und diese Vergütung könnte mit einem höheren Börsenpreis und einer niedrigen Umlage zustande kommen oder mit einem niedrigen Börsenpreis und einer höheren Umlage.
+Herr Diehl, es ist doch wurscht ob ich an einen EEG-Einspeiser pro kWh
+a) 4Ct Börsenpreis und 10Ct Umlage – oder
+b) 3Ct Börsenpreis und 11Ct Umlage zahle.
+In beiden Fällen habe ich zusammen 14Ct gezahlt, die der EEG-Einspeiser erhält.
+was konkret wollen Sie in der Abbildung 2 eigentlich durch den prozentualen Verlauf der Abweichung zum Ausdruck bringen? Ein Zusammenhang zum absoluten Verlauf besteht nicht, da jedem Absolutwert jeder beliebige Prozentwert zugeordnet werden kann. Unter Umständen kann der prozentuale Verlauf eine waagerechte Linie sein, während der absolute Verlauf irgendein Verlauf ist. Die beiden Verläufe sind nicht aufeinander abbildbar.
+„Anders sieht es dagegen mit der schwankenden Erzeugung aus Windenergie- und Solaranlagen aus. Probleme bereiten vor allem kurzfristige Schwankungen im Bereich von 0–48 Stunden, weil in diesem Zeitbereich Abweichungen oft durch Regelenergie ausgeglichen werden müssen. “
+Wenn ich mir die tatsächliche Regelenergieerzeugung vom 30.11.2014 ansehe und mit Ihrer Prognose vergleiche, jagt es bei mir die blaue und die rote Kurve gerade durch die Decke. Es ist kein Zusammenhang zwischen der tatsächlichen Regelenergieerzeugung und der Prognoseabweichung Wind/Solar von tasächlicher Produktion Wind/Solar zu erkennen.
+Könnte es sein, dass Sie wiedermal durch Weglassen von Zusammenhängen etwas vereinfachen wollen?
+Ich kennen viele Unternehmer, auch solche die Kraftwerksbetreiber als Klienten haben. Nennen Sie uns doch mal einen Namen, wir rufen da an.
+Auch ich will stinkreich werden, indem ich z.B. eine Strategie kontra Volatilität nachmache (welche ich mit eg. AKWs so nicht brauchte), oder?
+Als Steuerrechtler folge ich immer dem Grundsatz, dass ein Blick in’s Gesetz die Rechtsfindung erleichtert…
+§ 19 Förderanspruch für Strom
+(1) Betreiber von Anlagen, in denen ausschließlich erneuerbare Energien oder Grubengas eingesetzt werden,
+haben für den in diesen Anlagen erzeugten Strom gegen den Netzbetreiber einen Anspruch
+1. auf die Marktprämie nach § 34, wenn sie den Strom direkt vermarkten und dem Netzbetreiber das Recht
+überlassen, diesen Strom als „Strom aus erneuerbaren Energien oder aus Grubengas“ zu kennzeichnen
+(geförderte Direktvermarktung), oder
+2. auf eine Einspeisevergütung nach § 37 oder § 38, wenn sie den Strom dem Netzbetreiber zur Verfügung
+stellen und soweit dies abweichend von § 2 Absatz 2 ausnahmsweise zugelassen ist.
+Wo genau stehen da die Stromhändler (oder konventionelle Stromerzeuger) ?!
+Wie wäre es mit einer konkreten Quellenabgabe Ihrer revolutionären Erkenntnisse?
+@ Herr Peters
+Die von Ihnen aufgeführten – und einige weitere – gesetzlichen Vorgaben führen dazu, dass der EE Strom an der Strombörse vorrangig verfügbar ist, und in Folge dessen dort die Preise senkt.
+Diese gesenkten Börsenpreise, werden zum Nachteil der Verbraucher, weil sie, die von denen zu zahlende Umlage, erhöht.
+Die Stromhändler dagegen profitieren von diesen gesenkten Börsenpreisen, weil sie die nutzen können, um lukrative Geschäfte zu machen.
+Und nun zu den konventionellen Kraftwerksbetreibern. Die haben wegen der niedrigen Börsenpreisen zwangsläufig weniger einnahmen. Deshalb werden die auch zu Stromhändlern, weil sie dadurch, die geringeren Erlöse an der Börse, mit dem Handel wieder ausgleichen können.
+Dann gibt es noch die Möglichkeit der „Ertragsoptimierung“ mit der folgenden Studie untersucht.
+http://tinyurl.com/obkax2y Siehe ab Seite 8 Ertragsoptimierung und der Einfluss auf die EEG Umlage.
+Da werden relativ teurere Langzeitverträge immer dann mit Strom vom Spotmarkt bedient, wenn der Preis dort unter dem der Langzeitverträge liegt. Was durch die EE immer öfter der Fall ist.
+Genau darauf beruht die Tatsache, dass konventionelle Kraftwerksbetreiber auch zu Händlern werden, weil sie dadurch, die weniger Erlöse an der Börse,mit dem Handel wieder rein holen können.
+Schauen Sie hier:http://tinyurl.com/l2dzmnj
+All diese Spielchen basieren auf den von den EE bewirkten niedrigen Börsenpreisen, für die die Verbraucher eine höhere Umlage bezahlen.
+Meine Zustimmung zu Ihrem Zitat, in dem Sie mal wieder richtige und falsche Dinge durcheinandergebracht hatten, bezog sich lediglich auf die Tatsache, dass die Kraftwerksbetreiber über den Stromhandel ihre Mindereinnahmen wegen der niedrigen Börsenpreise wieder hereinholen wollen.
+@Herr Müller
+Nicht mehr und nicht weniger Ihrer Aussage, habe ich Herrn Jensen entgegen gehalten.
+Der sagt nämlich das sei falsch.
+„die ganze, sich im Kreis drehende, Diskussion“
+Welche Diskussion? Unsereins sieht da keine.
+Nicht nur Parteien vertreten die Meinung, durch Reduzierung der Stromerzeugung aus Kohlekraftwerken und stärkerem Ausbau der „erneuerbaren Energien“ werde weniger CO2 in die Luft gepustet. Weit gefehlt!
+Eine grundlegende Untersuchung der Uni Stuttgart aus dem Jahre 2010(brachte Dr. Klaus Peter Krause, EIKE, ans Tageslicht) durch die Arbeitsgruppe „S. Wissel et al.“ erbrachte nach den Regeln der Betriebswirtschaftslehre:
+Die Kosten für reine Neuanlagen im Jahre 2015:“Ökostromerzeugung kostet DREI bis SIEBENMAL so viel wie Stom aus Braunkohle!Strom aus Windenergie 11,8 bis 14 Cent je Kilowattstunde (kWh), Strom aus Solarenergie 22,7 bis 31,8 Cent und Strom aus Braunkohle 3,7 Cent je kWh.( in den ermittelten Kosten von Wissel sind auch die Entsorgungskosten enthalten). Sämtliche Kosten, die durch menschliches Tun und menschliche Bedürfnisse entstehen, lassen sich letztlich auf den notwendigen Energieeinsatz zurückführen.(Formuliert hat es Heinz Schütte. S. ist promovierter Chemiker, hat auch Physik und Pharmakologie studiert.)
+Dazu schrieb Prof. Dr. Carl Otto Weiss:“Für eine Einschätzung der Energie- und CO2-Verschwendung der EE muss man sich nur den Zusammenhang zwischen Energieverbrauch und Kosten vor Augen halten. Die Herstellung eines Produktes oder einer Dienstleistung sind nämlich fast ausschließlich die Kosten für die Primärenergie, welche für ihre Herstellung aufgewendet werden muss.“
+Anmerkung: Höher als drei- bis siebenmal müssen in unserem spezifischen Fall der Energiewende die Kosten liegen, weil z.B. das Stromnetz enorm umgekrempelt werden muss, nur wegen der „erneuerbaren Energien“.
+Diese Stellungnahme ist zuerst erschienen in meinem Beitrag im Nov. 2014: „Energiewende, immer näher an den Blackout heran.“
+Sie sind nicht nur begriffsstutzig, sondern auch dummdreist.
+Meine Zustimmung zu Ihrem Zitat, in dem Sie mal wieder richtige und falsche Dinge durcheinandergebracht hatten, bezog sich lediglich auf die Tatsache, dass die Kraftwerksbetreiber über den Stromhandel ihre Mindereinnahmen wegen der niedrigen Börsenpreise wieder hereinholen wollen.
+Dass ich nicht mit allen Aspekten Ihrer Aussage einverstanden war, hatte ich durch den Zusatz „im Prinzip“ kenntlich gemacht.
+Mir zu unterstellen, ich hätte dadurch Ihren Unsinn über die EEG Umlage bestätigt, erfordert schon eine Menge Chuzpe – und offenbart zugleich, für wie dumm Sie die Leser dieses Forums halten.
+Sie sind anscheinend so von sich überzeugt, dass Sie nicht merken, wie sehr Sie damit hier anecken. Hier ein paar entsprechende Kommentare von anderen Forumsteilnehmern (http://tinyurl.com/oxo4c2k):
+T.Heinzow: „Die über 3 Milliarden, nach deren Verbleib Sie fragen werden also von den Verbrauchern zu viel bezahlt.“ Irgendwer sagte was von analoger Bandschleife … .
+Hans Meier: „Ich finde Sie sehen realistisch, wie hier einerseits ein paar Akteure (Diehl&Harris) fleißig „Stöckchen werfen“ um sich dafür als provozierende Schreiber honorieren zu lassen.“
+Peter Jensen sagt: „Herr Diehl, sie versuchen wieder, sich aus einer Sackgasse rauszuwinden, in die sie sich aufgrund ihrer Unkenntnis selbst hineinmanövriert haben und verdrehen dabei wieder die Tatsachen.“
+Peter Jensen: „Nun Herr Diehl, sie machen es natürlich nicht, wie Herr Jacob, denn sie verbreiten wiederholt Lügen! Nun nach ein paar Wochen kramen sie eben ihre alte Lüge mit den 2,54 ct raus. Schon tausendmal von uns widerlegt, schon tausendmal von ihnen nicht begründet worden… aber sie kommen immer wieder mit demselben Unsinn.“
+Heinz Eng sagt: „Bullshit in Minutentakt verbreiten…is für manch Zeitgenosse ein Zeichen für Intelligenz und Durchsetzungsvermögen“
+Peter Jensen sagt: „Das ist eine klassische Lüge“
+Bert Robel sagt: „Ihre komplett unlogischen, unbelegten und völlig inhaltslosen Forenkommentare“…
+Einen Nutzen haben Sie allerdings dennoch: Dank Ihrer freundlichen Mitarbeit bekommt hier jeder Leser erstklassigen Anschauungsunterricht zum Thema, was ein Forentroll ist und wie er vorgeht.
+Mfg
+Als Steuerrechtler folge ich immer dem Grundsatz, dass ein Blick in’s Gesetz die Rechtsfindung erleichtert…
+§ 19 Förderanspruch für Strom
+(1) Betreiber von Anlagen, in denen ausschließlich erneuerbare Energien oder Grubengas eingesetzt werden,
+haben für den in diesen Anlagen erzeugten Strom gegen den Netzbetreiber einen Anspruch
+1. auf die Marktprämie nach § 34, wenn sie den Strom direkt vermarkten und dem Netzbetreiber das Recht
+überlassen, diesen Strom als „Strom aus erneuerbaren Energien oder aus Grubengas“ zu kennzeichnen
+(geförderte Direktvermarktung), oder
+2. auf eine Einspeisevergütung nach § 37 oder § 38, wenn sie den Strom dem Netzbetreiber zur Verfügung
+stellen und soweit dies abweichend von § 2 Absatz 2 ausnahmsweise zugelassen ist.
+Wo genau stehen da die Stromhändler (oder konventionelle Stromerzeuger) ?!
+Wie wäre es mit einer konkreten Quellenabgabe Ihrer revolutionären Erkenntnisse?
+Das würde doch die ganze, sich im Kreis drehende, Diskussion eindeutig bereichern.
+‚…Aber selbst Morgen können sich aus politischen Gründen schon Brennstoffkosten ändern, oder nicht mehr zur Verfügung stehen. Ganz zu schweigen vom Ende der fossilen Rohstoffe…‘
+Wenn sich morgen die Energiekosten ändern, dann verteuern sich alle Produkte – auch Windmühlen und PV-Module, die leben bekanntlich nicht sehr lange und müssen immer wieder neugebaut werden.
+Steinkohle ist noch für derzeit nachgewiesene (siehe Bundnesamt für Geodäsie und Rohstoffe http://www.bgr.de) über 1000 Jahre in erreichabren Vorräten vorhanden, Öl und Gas für über 100 Jahre. Ich denke es ist Größenwahnsinn, die Innovationen der Zukunft zu ignorieren und aus heutigem technischem Verständnis den Bedarf an Rohstoffen für mehr als 50 Jahre zu bewerten. Größenwahnsinn passt aber zu Deutschland, damit haben wir Erfahrung, immer wieder.
+Und in diesem Fall würde er genauso falsch liegen wie sie.
+Denn es ist kein Fall denkbar, in dem ein Stromhändler EEG-Umlage kassiert. Oder in dem ein Kraftwerksbetreiber die EEG-Umlage aus Ausgleich für gesunkene Börseneinnahmen erhält!
+Das ist einfach absurd! Die Behauptung ist FALSCH!
+Niemand anderes als die Netzbetreiber erhalten die EEG-Umlage und die bezahlen daraus die laufenden EEG-Vergütungen. Kein Stromhändler/konventioneller Kraftwerksbetreiber erhält die EEG-Umlage.
+Also bitte, schildern sie mir anhand der Realität einen Fall, der ihre Behauptung bestätigt!
+Ansonsten bleibt es wie immer nur ein Lüge von ihnen. Denn auf Nichtwissen können sie sich da nicht berufen, denn die Zahlungsflüsse im EEG sind wirklich simpel.
+Das war ja endlich mal ne Antwort mit der man was anfangen kann!
+Danke Herr Diehl.
+Mir fehlt dazu natürlich der Weitblick.
+„Schon morgen könnte……“
+Meine Hochachtung Herr Diehl, Sie hätten es wirklich weit bringen können.
+Herr Diehl, erklären sie bitte dem interessierten Leser, wie ein Stromhändler an die EEG-Umlage kommt!
+@Herr Jensen
+Da müssen Sie sich mal bei Ihrem Koalitionspartner dem Herrn Müller schlau machen.
+Der hat,s nämlich kapiert.
+Schauen Sie mal was der geschrieben hat.
+Zitat:Fred F. Müller sagt. # 23
+Herr Diehl, Sie schreiben: “Die großen Kraftwerksbetreiber werden immer öfter auch zu Stromhändler, weil sie sich da über die EEG Umlage die Mindereinnahmen wegen der niedrigen Börsenpreise wieder rein holen können.“
+Das ist im Prinzip so, hilft in der Sache aber nicht weiter.
+Wissen Sie, es gab mal eine nette Anekdote über einen Biologielehrer, von dem die ganze Schule wusste, dass sein Steckenpferd die Gattung der Würmer war. Wer zu ihm in die Prüfung kam, brauchte nur irgendwie die Kurve hin zum Thema „Würmer“ zu kriegen und konnte dann (bestens vorbereitet) seine Sachkenntnis beweisen und sich so eine gute Note sichern.
+Beispiel: Prüfthema „Elefant“
+„Der Elefant hat einen langen, sehr beweglichen Rüssel. Wenn er diesen dreht und krümmt, erinnert er auffällig an einen Wurm. Die Gruppe der Würmer gliedert sich in….“
+Sie schreiben zu meinem Hinweis auf das Sterben der konventionellen Kraftwerke aufgrund der übersubventionierten „EE“-Stromerzeuger: „Die EE geben aber auch was zu rück, in dem sie die Börsenpreise senken“….
+Es gibt heutzutage leider gänzlich uncharmante Zeitgenossen, denen dann Worte wie „Thema verfehlt, Sechs, setzen“ auf der Zunge liegen.
+Nichts für ungut
+Mfg
+„Nicht ganz richtig, die großen Kraftwerksbetreiber werden immer öfter auch zu Stromhändler, weil sie sich da über die EEG Umlage die Mindereinnahmen wegen der niedrigen Börsenpreise wieder rein holen können. “
+Herr Diehl, erklären sie bitte dem interessierten Leser, wie ein Stromhändler an die EEG-Umlage kommt!
+Ich brauche ihre Antwort eigentlich gar nicht abzuwarten, denn diese Antwort gibt es nicht! Stromhändler kassieren keine EEG-Umlage!
+EE-Anlagenbetreiber kassieren die EEG-Umlage.
+Beim Stromhandel fällt nicht einmal EEG-Umlage an. Aber um das zu wissen, müssten sie das Gesetz kennen. Das ist aber ihr großes Problem.
+Sie haben nur gefährliches Halbwissen. Und das füllen sie dann mit Lügen auf. Wie die Lüge, dass Stromhändler EEG-Umlage kassieren.
+Aber trotzdem, versuchen sie ruhig mal, ihre (falsche) Behauptung zu begründen. Denn sie halten die ja für richtig.
+„Einzig der eingesparte Brennstoff, abzueglich der zusaetzlichen spezifischen Kosten pro erzeugter Stromeinheit in den Bedarfs-Stromerzeugern liesse sich als Nutzen emitteln. Die zusaetzlichen Kosten sind aber hoeher als die Brennstoffeinsparung.“
+Ja Herr Ehlig, so einfach könnte das Leben das sein. Zwei Sätze die eine Tatsache beschreiben, die eigentlich jede weitere Diskussion erübrigen. Nicht zu erwarten das Trolle wie Diehl solche einfachen, grundlegenden Erkenntnisse versuchen zu wiederlegen.
+Die versuchen sich lieber gleich am Merrit Order Effekt oder als Wetterpropheten.
+Richtige Experten eben.
+@Herr Weber
+Da haben Sie natürlich Recht, für jemanden der nur von heute auf morgen denkt, sind das einfache Erkenntnisse.
+Aber selbst Morgen können sich aus politischen Gründen schon Brennstoffkosten ändern, oder nicht mehr zur Verfügung stehen. Ganz zu schweigen vom Ende der fossilen Rohstoffe.
+Vollkommen richtig. Ob wirklich Brennstoffe eingespart werden steht noch auf einem ganz anderen Blatt. Wahrscheinlich könnte man sogar den gesamten lausigen Stromanteil von ca. 10%, den rund 25.000 Vogelschredder erzeugen, mit der gleichen Menge Braun- und Steinkohle herstellen, die jetzt auch mit z.T. schlechtem Wirkungsgrad verfeuert wird. Dazu müsste man natürlich modernisierte oder neue Kohlekraftwerke kontinuierlich in ihrem optimalen Arbeitspunkt betreiben. Stattdessen sind noch Anlagen in Betrieb, die sagenhafte Wirkungsgrade von deutlich unter 20% haben, weil sich die Modernisierung nicht lohnt. Wer einen Braunkohlentagebau und Kraftwerke betreibt, schüttet sicher lieber einfach ein paar Eimer Kohle mehr in die Hütte als eine neue zu bauen. Das Flöz schickt ja keine Rechnung……
+Die ganze Energiewende ist einfach nur krank.
+P.S. Ich warte immer noch auf eine Erklärung von unserer Koryphäe Diehl auf 4#.
+Der versucht sich stattdessen schon wieder an Herrn Müller, den er doch eh nicht versteht.
+Herr Diehl, Sie schreiben: “Die großen Kraftwerksbetreiber werden immer öfter auch zu Stromhändler, weil sie sich da über die EEG Umlage die Mindereinnahmen wegen der niedrigen Börsenpreise wieder rein holen können.“
+Das ist im Prinzip so, hilft in der Sache aber nicht weiter. Jeder große Konzern hat Bereiche, in denen er Gewinne erwirtschaftet, und solche, in denen die Geschäftslage mau ist und auch in Zukunft immer mauer werden wird.
+@Herr Müller
+Grundsätzlich verständlich was Sie sagen.
+Herr Ehlig schreibt in seinem Posting allerdings so, als ob Gewinne an die EE umverteilt würden, was so nicht ganz richtig ist. Ohne Zweifel werden auf EE Seite Gewinne gemacht. Mit anderen Worten die EE werden an den Gewinnen in der Stromwirtschaft beteiligt.
+Die EE geben aber auch was zu rück, in dem sie die Börsenpreise senken. Mit diesen niedrigen Börsenpreisen werden Geschäfte gemacht, u.a. auch die Konzerne, wenn sie zu Stromhändler werden. Stromhändler nämlich können über die Umlage die niedrigen Börsenpreise von den Verbraucher über eine höhere Umlage wieder rein holen.
+So gesehen findet da eine „interne“ Umverteilung seitens der konventionellen Stromwirtschaft statt, was zwangsläufig eine Umstrukturierung derer Geschäftsmodelle zur Folge haben wird.
+EON hat ja schon begonnen.
+Letztendlich sind die Verbraucher diejenigen die das bisher noch bezahlen..
+Selbst die Argumente der Einsparung von Brennstoffen sind sehr fraglich. Zum Ausgleich der Leistungsschwankungen von Wind und Sonne benötigen wir schnellreagierende Gasturbinen. Deren Wirkungsgrad liegt aber –im Gegensatz von GuD (60%)– nur bei max. 40%. Die Kosten für höheren Verschleiss sind dabei noch gar nicht berücksichtigt. Von dieser Seite also schon eher Mehr- als Minderkosten.
+Dann kommt da noch ein anderer Fakt hinzu. Ertragsoptimierte GuD’s in der Leistungsklasse 800 MW sind heute technischer Standard. Die grössten Gasturbinen spielen in der Liga 300 MW. Also annähernd 3 Gasturbinen für 1 GuD.
+„Die Rechnung bezahlt, wie Sie richtig erkannt haben, das einfache Volk, über die Umlage.“
+Welch grandiose Erkenntnis, die nur die halbe Wahrheit ist, denn das Volk – nicht nur das einfache – zahlt die Gesamtrechnung. Und die wäre bezogen auf die Herstellungskosten für den Strom nur halb so hoch wie die derzeitige mit dem Unfug sog. „erneuerbare Energien“ und der Subventionierung von Wirtschaftsschädlingen.
+Nur reicht Ihr vorgegebenes Intelekt nicht, um diese Erkenntnis auch statt Ihrer Nullsatzpropaganda zu verbreiten. Ein echter Trollo eben.
+„ Wer richtig vorhersagt, hat recht! Gibt’s da irgendwelche Zweifel?“
+Ja, ich zweifle daran, daß man dies wissenschaftlich so stehen lassen kann. Auch wenn der Pragmatiker unter den Forecastern dies als einziges Ziel seiner Vorhersagetätigkeit sehen mag. Auch die Wettervorhersage hat sich seit Bjerknes den wissenschaftlichen Methoden gestellt, und da zeigt sich, daß so manche der altklassischen Regeln der Synoptik nichts weiter als Raten unter Empirikern waren. Und es zeigt sich objektiv, daß die NWV in einigen Parametern dem Menschen überlegen ist, auch wenn manche dies nicht wahrhaben will.
+Ihr Spruch ist gleichwertig mit der Aussage „wer heilt hat recht“. Auch dies kann man wissenschaftlich so nicht stehenlassen, denn es schließt ja die Glückfälle ein, die durch Würfeln und nicht durch Wissen zufällig richtig waren. Wobei ich nicht in Abrede stellen will, daß Würfeln auch mal angesagt ist, wenn man nichts besseres hat.
+„Auch für Sie, Herr Schmidt: Bitte sachlich bleiben!“
+Seit wann sind die unsinnigen Glaubenssätze und Nullsätze des Pseudonyms H. Diehl sachlich?
+„Einzig der eingesparte Brennstoff, abzueglich der zusaetzlichen spezifischen Kosten pro erzeugter Stromeinheit in den Bedarfs-Stromerzeugern liesse sich als Nutzen emitteln. Die zusaetzlichen Kosten sind aber hoeher als die Brennstoffeinsparung.“
+Ja Herr Ehlig, so einfach könnte das Leben das sein. Zwei Sätze die eine Tatsache beschreiben, die eigentlich jede weitere Diskussion erübrigen. Nicht zu erwarten das Trolle wie Diehl solche einfachen, grundlegenden Erkenntnisse versuchen zu wiederlegen.
+Die versuchen sich lieber gleich am Merrit Order Effekt oder als Wetterpropheten.
+Richtige Experten eben.
+Herr Diehl, Sie schreiben: “Die großen Kraftwerksbetreiber werden immer öfter auch zu Stromhändler, weil sie sich da über die EEG Umlage die Mindereinnahmen wegen der niedrigen Börsenpreise wieder rein holen können.“
+Das ist im Prinzip so, hilft in der Sache aber nicht weiter. Jeder große Konzern hat Bereiche, in denen er Gewinne erwirtschaftet, und solche, in denen die Geschäftslage mau ist und auch in Zukunft immer mauer werden wird.
+Letztere wird man früher oder später aufgeben. Darauf weist der Beschluss von E.ON zur Aufspaltung in zwei Teilkonzerne bereits hin. Auch Vattenfall will sich ja bekanntlich von seinen Braunkohleaktivitäten trennen.
+Dann hat man zwei Fliegen mit einer Klappe geschlagen: Der Konzern ist die Verlustbringer los und Deutschland seine konventionellen Kraftwerke. Statt Strom produziert man dann nur noch Dienstleistungen.
+Wenn es dann bei Dunkelflaute mal eng wird, dann springen die nicht vorhandenen norwegischen Pumpspeicherkraftwerke ein und liefern Strom über die nicht vorhandene 80-GW-Seekabelverbindung bis nach Südbayern. Und die Stromhandelsabteilungen von E.ON und RWE verdienen dann unendlich viel Spielgeld und halten damit Deutschland über Wasser….
+Das schönste ist: Dann brauchen wir gar nicht mehr die Parole auszugeben, dass der letzte das Licht ausmacht. Es wird dann in ganz Deutschland nicht einfach nur dunkel sein, sondern zappenduster.
+Mfg.
+Ihre Fragen sind mir einfach zu dämlich! Ich werde darauf nicht mehr antworten. Der Autor Herr Mueller hat jedenfalls sofort verstanden, was ich meine, wie sein Kommentar #3 belegt.
+. Die großen Kraftwerksbetreiber können sich aufgrund der Umverteilung der Gewinne an die NIE-Lobby und der dadurch geringen Gewinnmargen in der Bedarfsstromerzeugung keine Extravaganzen mehr leisten
+Für das einfache Volk, weil es alle Rechnungen bezahlen muss
+@Herr Ehlig
+Nicht ganz richtig, die großen Kraftwerksbetreiber werden immer öfter auch zu Stromhändler, weil sie sich da über die EEG Umlage die Mindereinnahmen wegen der niedrigen Börsenpreise wieder rein holen können.
+Die Rechnung bezahlt, wie Sie richtig erkannt haben, das einfache Volk, über die Umlage.
+Wer also glaubt, die Wettervorhersage würde je 100% erreichen, der hat sie nicht alle. Und wenn ich weiß, dass meine US-Kollegen den Sturm so eingeschätzt haben, wie er dann war, dies aber nicht sagen durften, bringt mich das auf die Palme.
+@Herr Schmidt
+Dann habe ich sie glücklicherweise noch alle. Ich glaube nicht an die 100%
+Darum geht es aber auch nicht. Vordergründig werden in dem Artikel doch die gravierenden Abweichungen dargestellt
+Zu den bis zu 80% Abweichungen haben Sie nichts gesagt, oder soll man das mit dem Hinweis auf die US Kollegen verstehen.??
+Was für eine dämliche Frage. Merken Sie sich: Jedes Ereignis, das in der Zukunft liegt, ist eine Vorhersage (nicht nur beim Wetter). Jede Vorhersage ist eine Wahrscheinlichkeitsaussage, die niemals 100% erreicht.
+Wer also glaubt, die Wettervorhersage würde je 100% erreichen, der hat sie nicht alle. Und wenn ich weiß, dass meine US-Kollegen den Sturm so eingeschätzt haben, wie er dann war, dies aber nicht sagen durften, bringt mich das auf die Palme.
+Wer richtig vorhersagt, hat recht! Gibt’s da irgendwelche Zeifel?
+Lieber Herr Mueller,
+wie immer ein guter, für Laien verständlicher Artikel. Gestatten Sie mir als Meteorologen eine kleine Korrektur.
+Sie schreiben im Subheader „der von den US-Meteorologen falsch eingeschätzte Sturm…“
+Die US-Meteorologen haben den Sturm richtig eingeschätzt, aber aus internen Quellen weiß ich, dass Politiker die Katastrophe unbedingt haben wollten. Und sicher gibt es auch dort Meteorologen, die… das sind ja auch nur Menschen.
+@Herr Schmidt
+Was für mich als Laie jetzt nicht verständlich ist, dass ein Meteorologe einen Artikel, der vordergründig die Unzulänglichkeit der Wettervorhersage behandelt, so besonders gut findet.
+Herr Harris,
+es ist mir ja schon fast peinlich, aber ich muss Ihren „heile-Welt-es-ist-alles-in-Ordnung“ Ausführungen tatsächlich schon wieder einen jähen Abgang verpassen.
+Was Ihnen anscheinend völlig abgeht, ist die Zukunftsperspektive. Was heute noch beherrschbar zu sein scheint, wird schneller als Sie denken zur Makulatur werden. Oder warum haben Sie die Studie der Prognos AG mit keinem Wort erwähnt? Wenn Ihnen die Fähigkeit abgeht, aus der Vergangenheit und Gegenwart Rückschlüsse auf die Zukunft zu ziehen, dann tun Sie mir leid. Dann gehören sie in die Abteilung Besenschwinger und Schaufelbetätiger und sonst nirgendwohin. Die 20 % sind heute gerade noch beherrschbar, aber wie soll das mit 80 % EE gehen?
+Zwischen EEX, Bundenetzagentur und sonstigen Quellen gibt es teils erhebliche Abweichungen. Sie scheinen felsenfest an die Bundesnetzagentur zu glauben, ich bin nach bisherigen Erfahrungen mit der Kompetenz von Bundesbehörden in Energiefragen davon weniger überzeugt. Aber wie ich bereits erwähnte, das ist aus meiner Sicht kein Streitthema, auch wenn die Abweichungen doch zu denken geben sollten. Vielleicht kann ja ein anderer Forist dazu etwas Erhellendes beitragen.
+Was Ihre Aussage zum aktuellen Kraftwerkspark der BRD angeht, so fehlt Ihnen auch in diesem Punkt jede Fähigkeit zur Projektion in die Zukunft. Bereits mit den aktuell anstehenden Stilllegungen wird dieser Bestand auf unter 100 GW absinken, mit rapide weiter fallender Tendenz. Davon befinden sich außerdem stets etliche GW wegen Revision außer Betrieb.
+Und jetzt die Preisfrage: Wieviele dieser Kraftwerke sind Schnellstarter, die innerhalb von kürzester Zeit (max. 2h) hochgefahren werden können, wenn die Prognosen mal wieder so richtig danebenliegen? Wer hält die zu welchen Kosten auf hot standby, d.h. mit Feuer unter dem Kessel und voller Belegschaft, wenn konventionellen Kraftwerken immer mehr die Luft abgedrückt wird?
+Noch, Herr Harris, haben wir trotz der Aktivitäten von Ihnen und Ihresgleichen tatsächlich eines der sichersten Stromversorgungssysteme der Welt. Aber so langsam rücken die Einschläge näher. Interessanterweise musste die Sendung von Güter Jauch heute wegen eines Stromausfalls abgesagt werden. Würde mich interessieren warum.
+Weiter angenehme Träume. Aber Sie sollten das Zeugs, das Sie zurzeit nehmen, vielleicht wechseln. Es trübt den Blick auf die Realität.
+Mfg
+Die Kraftwerksbetreiber hatten immer einige Gasturbinen in Bereitschaft stehen, um im Notfall (Gefahr von Netzausfällen) in Minuten leistungswirksam zu sein. Allerdings werden diese GT-Anlagen sehr ungern betrieben, da es viel zu schade ist, Gas zur Stromerzeugung zu verwenden, weil viel zu teuer.
+Das galt für Zeiten, als die Energieversorgung noch sicher funktionierte und die großen Kraftwerksbetreiber auch für die Netzstabilität unmittelbar verantwortlich waren. Heute haben wir ein anderes Bild:
+1. Kraftwerke und Netze wurden per EU-Vergaben getrennt. Damit sind die Stromerzeuger nicht mer für die Netzstabilität zuständig.
+2. Die großen Kraftwerksbetreiber können sich aufgrund der Umverteilung der Gewinne an die NIE-Lobby und der dadurch geringen Gewinnmargen in der Bedarfsstromerzeugung keine Extravaganzen mehr leisten (gesellschachftliche Verantwortung, Strategie für die Zukunft oder so).
+Das muß unweigerlich dazu führen, daß die Unternehmen der Bedarfsstromerzeugung sich nur noch mit Kosteneinsparung beschäftigen (Neuorganisation, Umverteilung von Ressourcen, Ausgliederungen und Abwiklungen, Verkäufe). Sie werden keine Investitionen in energiefressende GT-Anlagen investieren, weil sich das nicht rechnet, es sei denn der Staat organisiert den notwendigen Gewinn durch Umverteilung (Subventionierung). Das gleiche gilt für die Flexibilisierung von Bestandsanlagen.
+Die Verantwortung für die Netzstabilität hat nun der Staat zu tragen, da er durch seine Eingriffe in den Markt, die Stabilität des Systems ins Wanken gebracht hat.
+In dreierlei Hinsicht ist diese Entwicklung eine bittere Pille:
+1. Für die Gesellschaft insgesamt, weil unter dem Deckmantel der Weltrettung die größte Energieverschwendung seit dem 2. Weltkrieg organisiert wird.
+2. Für das einfache Volk, weil es alle Rechnungen bezahlen muß.
+3. Für die Ingenieure und sonstige denkenden Menschen in der Energiebranche, die seit vielen Jahren an der Vervollkommnung und Optimierung der Stromerzeugungs- und Verteilungsanlagen in Deutschland gearbeitet haben. Effizienz ist nicht mehr gefragt, es geht nur noch um Geld.
+Lieber Hr. Becker,
+danke für Ihren sehr berechtigten Hinweis. Leider ist es aufgrund der Blockade von zeitlich hoch aufgelösten Daten für die deutsche Stromproduktion fast unmöglich, Zahlen für den Kurzzeitbereich (Sekundenauflösung) zu bekommen. Analysen zum 15-h-Bereich habe ich ja schon in früheren Artikeln vorgelegt.
+Inzwischen hat EEX seinen gesamten diesbezüglichen Datenbereich für die Oeffentlichkeit unzugänglich gemacht (Bezahlschranke, Knebelvertrag).
+Transparenz im Namen, Intransparenz in der Tat. Eigentlich sollte mal Hr. Prof. Elicker checken, ob sich das mit dem gesetzlichen Auftrag als „Transparenzplattform“ vereinbaren lässt. Wer kennt Prof. Elicker und kann ihn mal darauf ansprechen?
+Mfg
+Guten Abend Herr Müller
+Zitat: „Und 20 % sind schon ein Problem, wenn es um eine stabile Stromversorgung geht. „
+Nein, das ist falsch. Abweichungen zwischen prognostizierter Einspeisung und realer Einspeisung heben keine Auswirkung auf die stabile Stromversorgung. Es sind mehr als ausreichend Kraftwerke vorhanden. Der Aufwand mit den Prognosen wird getrieben, um möglichst keine Regelenergie einkaufen zu müssen. Denn die ist teuer.
+Zitat: „Meine Zahlen stammen von der EEX und dürften daher einigermaßen belastbar sein.“
+Nein, die Zahlen von EEX sind unvollständig. Die Kraftwerksliste 2014 finden Sie auf dieser Seite:
+http://t1p.de/wz7s
+Dort gibt es auch eine Tabelle „Auswertung Kraftwerkstatus“ mit der Summe der installierten Kraftwerke. Für Steinkohle- + Erdgaskraftwerke ergibt sich eine Summe von etwa 55 GW.
+Zitat: „
+Wie wollen Sie dann bei 85 GW Spitzenbedarf im Winter Deutschland mit Strom versorgen, wenn Wind und Sonne mal wieder keine Lust haben?“
+Diese Frage würden Sie nicht stellen, wenn Sie sich über den aktuellen Kraftwerkspark der BRD informiert hätten. Wie Sie den verlinkten Tabellen entnehmen können, sind aktuell über 120 GW an Kraftwerksleistung (ohne Solar, ohne Wind, incl. Pumpspeicher) installiert. Mindestens die 23 GW, die nach Ihren Angaben bald wegfallen, sind offensichtlich überflüssig.
+Sie können also auch zukünftig mit der Gewissheit einschlafen, in dem Land zu leben, welches mit die sicherste Stromversorgung der Welt hat. Ob das trotz oder wegen der Energiewende der Fall ist, ist mir persönlich gleich.
+http://t1p.de/a2xy
+http://t1p.de/idhd
+Gute Nacht
+Ben Harris
+Die elektrische Leistung einer WKA steigt bekanntlich mit der 3. Potenz der Windgeschwindigkeit. Daraus folgt unweigerlich, das der Prognosefehler der Leistung 3mal grösser ist als der der Windgeschwindigkeit.
+Glaubt hier irgendwer, man könnte den Wind kurzzeitig auf 5%/3 = 1.7% vorhersagen, oder auf 20%/3 = 6.7%? Dazu könnte ein Meteorologe ja mal Stellung nehmen.
+Die Netzkosten werden in der Tat dramatisch zunehmen, denn darin werden nicht nur die Regelleistung, sondern auch viele anderen verdeckten Kosten der EE versteckt werden.
+Herr Harris,
+entschuldigen Sie, dass ich Ihren „heile-Welt-es-ist-alles-in-Ordnung“ Ausführungen ein weiteres Mal einen jähen Abgang verpassen muss.
+1: Es ist prinzipiell richtig, dass es bei jeder Statistik zu Ausreißern kommt. Das von mir ausgewählte Ereignis ist jedoch nicht aussergewöhnlich, sondern eher symptomatisch und von mir vor allem deshalb herausgegriffen, weil es zeitnah zur Erstellung des Artikels stattfand. Eine statistische Auswertung würde vermutlich ergeben, dass die reale Standardabweichung der Prognosen eher bei > 20 % als 5 % liegen dürfte. Das würde ich für realistisch halten, denn es liegt in der Größenordnung der Abweichungen bei Wettervorhersagen, und darauf basieren ja letztlich die Ertragsprognosen. Es wäre ja auch ungewöhnlich, wenn das Ergebnis einer mathematischen Berechnung eine höhere Zuverlässigkeit hätte als seine entscheidende Eingangsgröße. Und 20 % sind schon ein Problem, wenn es um eine stabile Stromversorgung geht.
+2: Sie schreiben: „Die zur Zeit installierte Leistung an Steinkohle- und Erdgaskraftwerken liegt bei 55 GW. Der Teil, der ausschließlich zur Stromerzeugung genutzt wird, kann prima zum Ausgleich der fluktuierenden erneuerbaren Stromerzeuger genutzt werden. Da können wir also auch bei einem weiteren Ausbau der Erneuerbaren Energien völlig entspannt sein.“
+Herr Harris, nach meiner Zählung landen wir bei lediglich 17 GW Gaskraftwerkskapazität und 24 GW Steinkohlekapazität. Allerdings gibt es da erhebliche Abweichungen zwischen den einzelnen Quellen: Meine Zahlen stammen von der EEX und dürften daher einigermaßen belastbar sein. Aber sei es drum.
+Ihrem naiven Optimismus bezüglich der Verfügbarkeit konventioneller Kraftwerke muss ich allerdings den Todesstoß versetzen. In Deutschland steht in den nächsten Jahren die Stilllegung von 23 GW Kraftwerkskapazität an (Fossil + Kernkraft). So warnt beispielsweise die Prognos AG in einer Studie, dass sich mit der Abschaltung der letzten Kernkraftwerke schon ab 2020 eine Deckungslücke abzeichnet, die rasch anwachsen und bis 2050 rund 32 GW bzw. 38 % des Maximalbedarfs erreichen dürfte. http://tinyurl.com/m7p7gds
+Wie wollen Sie dann bei 85 GW Spitzenbedarf im Winter Deutschland mit Strom versorgen, wenn Wind und Sonne mal wieder keine Lust haben?
+Wissen Sie, Herr Harris, dafür, dass Sie hier vor kurzem so schnodderig-arrogant behaupteten, „dass ich mich mit dem Thema Erneuerbare Energien und Energiemanagement recht gut auskenne, also informiert bin, während Sie aufgeschnappte Einzelinformation wirr zusammenwürfeln und „die Welt nicht mehr verstehen“, liefern Sie hier ein recht trauriges Bild weitgehender Ignoranz und Unkenntnis der Fakten ab.
+Weiter angenehme Träume.
+Mfg
+‚… es werden einfach ein paar Gas-Kraftwerke zu- oder abgeschaltet…‘
+Dass Sie nicht ganz zusammenhängend denken können, haben wir unlängst ja schon an Ihren Ausführungen zur E-Mobilität feststellen können. Da haben Sie den Energieaufwand für eine ja nicht grundlos 10.000 Euro teuren Li-ION-Batterie, der zum Elektro-Mobil dazugehört, einfach mal unter den Tisch fallen lassen. Auf eine sachliche Antwort warte ich heute noch. Stattdessen sind Sie in der Versenkung verschwunden und tauchen hier wieder mit neuen ‚Weisheiten‘ auf.
+Nehmen Sie den Gesamt-Energieaufwand, weit über 100.000 Windräder erstellen, Netze ausbauen, Grundlastkraftwerke trotzdem in vollem Umfang weiter ständig bereithalten (denn Wind schwankt und fällt sogar komplett aus) und deren Brennstoff und vergleichen Sie den dann mit dem Aufwand der bisherigen Stzromerzeugung. Der fällt ziemlich negativ aus, was man schön am Strompreis sieht. Für das EEG und sonstige EE-Abgaben, die inszwischen den halben Strompreis (Netze und Verwaltung abgezogen)ausmachen, gibt es schlappe 8% Windstrom udn 5% Solarstroms. Die mehrkosten, diesen bedarfsgerecht ins Netz zu bringen sieht der deutsche Stromzahler gar nicht. Die 13% Zappelstrom kosten also weit mehr als die Hälfte Erzeugungskosten! Welch dämliche negative Energiebilanz!
+Übrigens, die Gas-Kraftwerke, die Sie mal schnell ein- und ausschalten können, sind Gar-Turbinen-Kraftwerke. Deren Wirkungsgrad ist aber nur 40%. Vergluichen kit einem GuD-Kraftwerk mit 60% Wirkungsgrad, das Sie aber nicht mal eben schnell ein- und ausschalten können, wie Sie glaubenm, verbaten wir damit 1,5mal soviel Erdgas wie nötig.
+Wenn man sich äußert, sollte man auch ein wenig die Zusammenhänge verstehen. Daran mangelt es Ihnen aber ganz gewaltig – egal ob zur Elektro-Mobilität oder Stromversorgung.
+a. Welche Art von Verteilung wird von Ihnen (und der rot-grünen unverantwortlichen Position) hier unterstellt?
+b. Zitat: “ Die Genauigkeit der Vorhersage für Windenergieleistung liegt in Deutschland bei 95%. […]“
+Wo sind hierfür die Beweise?
+Mit sehr freundlichen Grüssen
+P.S.: Den weniger gut informierten Leser einfach so mir dir nichts in das nicht unbedingt notwendige und zeitreibende Nirwana immer tieferer Detailebenen locken zu wollen, Nebelkerzen im Grunde, werden nicht (!) zum gewünschten Ziel führen.
+Ihnen ein noch sehr viel schöneren Sonntag.
+Zitat: „Prognoseabweichungen von bis zu 80 % sind kein Pappenstiel, sondern ein Armutszeugnis, wenn vorher eine Genauigkeit von 5 % versprochen wurde.“
+Die Genauigkeit der Vorhersage für Windenergieleistung liegt in Deutschland bei 95%. Sie stellen Zusammenhänge zwischen Zahlen her, die nichts miteinander zu tun haben. Auch eine Vorhersagegenauigkeit von 95% schließt nicht aus, dass eine einzelne Stichprobe zu 95% neben dem Erwartungswert liegen kann.
+Zitat: „Wieviele Gaskraftwerke wollen Sie denn zu- oder abschalten, wenn in Zukunft bis zu 25 GW Leistung zu kompensieren sind?“
+Soviel wie erforderlich sind, um die Versorgung zu sichern. Das muss man doch auch, wenn kein Wind weht. Die zur Zeit installierte Leistung an Steinkohle- und Erdgaskraftwerken liegt bei 55 GW. Der Teil, der ausschließlich zur Stromerzeugung genutzt wird, kann prima zum Ausgleich der fluktuierenden erneuerbaren Stromerzeuger genutzt werden. Da können wir also auch bei einem weiteren Ausbau der Erneuerbaren Energien völlig entspannt sein.
+Ich hoffe, das hilft Ihnen weiter.
+Ich wünsche einen schönen Sonntag
+Ben Harris
+Ach Gottchen….die paar GW, die mal so eben ungeplant ab oder zugeschaltet werden müssen….is ja alles nich so wild für Ökos in der warmen Altbauwohnung…..HAUPTSACHE man kann seine Öko-Religion schön ausleben.
+1 GW = 1000 MW, also im Normalfall die Leistung eines Großkraftwerkes…..das mal eben so, weil Mutter Natur sich wieder nicht an die Wettermodelle gehalten hat….hoch und runter gefahren werden muss.
+Der Parasit/Schmarotzer erdreistet sich, seinen Wirt Vorschriften machen zu wollen…..denn ohne uns Konventionellen….könntet ihr euer Windstrom in der Pfeife rauchen…oder euch Mittags ein Ei braten…..wenn dann die PV-Anlage im Inselbetrieb laufen kann……ansonsten hängt ihr weiter an unseren Zitzen und saugt Milch und Honig in euch rein, währenddessen wir mit Essig abgespeist werden.
+Solange ihr euern Zufallsstrom nicht selber speichert und somit marktfähig macht……seid ihr weiterhin nur dreiste Läuse im Pelz der RICHTIGEN Energieversorger…..Basta.
+Und nein…..vom völlig unnötigen Netzausbau, damit wir euern Schrottstrom entsorgen können, fang ick garnich erst an…..denn dann könnte es richtig laut hier werden.
+Mach ruhig weiter hier bei EIKE, damit jeder sehen kann, wie blöd die Propagandaabteilung der EE-Verbände in Wirklichkeit ist…..
+Energie-Ossi……..der Typ, der Deutschland trotz EEG immer noch mit Strom versorgt.
+Ja ja. Die nicht vorhandenen Gasturbinen, die auch wegen Unwirtschaftlichkeit keiner bauen wird.
+Herr Harris,
+entschuldigen Sie, dass ich Ihren „heile-Welt-es-ist-alles-in-Ordnung“ Ausführungen einen jähen Abgang verpassen muss.
+1: Prognoseabweichungen von bis zu 80 % sind kein Pappenstiel, sondern ein Armutszeugnis, wenn vorher eine Genauigkeit von 5 % versprochen wurde. Ich weiss ja nicht, was und wo Sie arbeiten, aber in einem üblichen Produktionsbetrieb hätten Sie nach einer solchen Fehlleistung eine richtig feine Zigarre verpasst bekommen. Und wenn man mir ein Auto verkauft, das angeblich 160 km / h laufen soll, dann aber bei 32 km/ h schlapp macht, ist ein Besuch beim Anwalt fällig. Landläufig spricht man dann von Betrug.
+2: Ihr Hinweis auf „den letzten Wintersturm“ ist ein durchsichtiges Ablenkungsmanöver. Ich habe mit Bedacht einen Tag genommen, wo eben kein wirklicher Starkwind herrschte. Wie Sie der Leistungskurve entnehmen können, wurden maximal 10 bis 12 GW erzeugt, das ist angesichts der Gesamtkapazität von ca. 35 GW ein knappes Drittel. Also nix mit Sturm und Abschaltungen. Und mit angeblich überlasteten Leitungen. Pech, mein Gutester, Sie sollten erst die Sachlage checken und dann wilde Theorien von sich absondern.
+3: Wieviele Gaskraftwerke wollen Sie denn zu- oder abschalten, wenn in Zukunft bis zu 25 GW Leistung zu kompensieren sind? Wo sollen die herkommen, wer soll die betreiben? Zurzeit werden gerade Gaskraftwerke reihenweise abgeschaltet, weil sie wegen der Energiewende nur noch Verluste bringen. Meinen Sie, man kann die in Zukunft einfach aus der Luft zaubern?
+Was Sie hier produzieren, sind Ausreden der billigsten Art.
+Angenehme Alpträume noch
+Mfg
+die Mühe, die sich der Autor gemacht hat, die Diagramme zu zeichnen, ist ja löblich, aber die hätte er sich sparen können.
+1. Selbstverständlich gibt es Fehler bei den Prognosen. Es wird halt Wetter prognostiziert
+2. Die Daten von EEX als Grundlage zu nehmen, ist für einen Vergleich prognostizierte Werte – eingetretene Werte, wertlos. Die wirklich produzierte Strommenge aus Windkraft enthält auch die Windkraftanlagen, die „freiwillig“ abgeschaltet waren. Beim letzten Wintersturm trat das deutlich zutage, als der Unterschied Prognose zu Realität fast 10 GW betrug. Es hätte viel mehr Windstrom produziert werden können, aber die Leitungen waren ausgelastet.
+3. Wo ist das Problem wenn der Unterschied zwischen Prognose und Realität um ein paar Gigawatt beträgt? Es werden einfach ein paar Gaskraftwerke ab- oder zugeschaltet.
+Gute Nacht
+Ben Harris
+Also dient die NIE-Stromerzeugung nur der Kapitalverwertung und dem Profit – Kapitalismus im eigentlichen Sinn.
+Lieber Hr. Schmidt,
+Danke für diese Insiderinformation. Leider trifft das Verhalten solcher schwarzen Schafe unweigerlich stets die ganze Zunft der Meteorologen, vor allem, wenn die falsche Botschaft von offiziellen Stellen verbreitet wird. Ich denke da auch an die klägliche Rolle der World Meteorological Organisation in Genf, die stets vorne mit dabei ist, wenn der „Klimawandel“ beschworen wird.
+Aber in anderer Sache: Ich habe in nächster Zeit vor, mich auch mit einigen Aspekten der Meteorologie und Klimaforschung zu beschäftigen, mit dem Ziel, bestimmte Zusammenhänge in Artikeln auf möglichst einfache und leicht verständliche Weise darzustellen. Dazu könnte ich Hilfe von einem Fachmann gebrauchen, um Gedankengänge zu diskutieren und fachliches Hintergrundwissen beizusteuern. Hätten Sie eventuell Interesse? Falls ja, geben Sie bitte Hr. Limburg eine Nachricht mit Ihren Kontaktdaten (über m.limburg(at)eike-klima-energie.eu), damit wir vielleicht mal abklopfen können, ob ein solches Projekt für Sie interessant sein könnte.
+Mfg
+wie immer ein guter, für Laien verständlicher Artikel. Gestatten Sie mir als Meteorologen eine kleine Korrektur.
+Sie schreiben im Subheader „der von den US-Meteorologen falsch eingeschätzte Sturm…“
+Die US-Meteorologen haben den Sturm richtig eingeschätzt, aber aus internen Quellen weiß ich, dass Politiker die Katastrophe unbedingt haben wollten. Und sicher gibt es auch dort Meteorologen, die… das sind ja auch nur Menschen.
+Wie ich schon in einem Kommentar zu dem Beitrag von Caruba geschrieben habe: Selbst hier aus der Distanz war erkennbar, dass ein guter Wintersturm, aber lngst kein Blizzard zu erwarten war.
+Aber alles, was Sie im Folgenden zu Wetterprognosen schreiben, kann ich nur ganz dick unterstreichen – auch nach über 40 Jahren im Wettervorhersage- und Warndienst! Leider gehen Kenntnisse aus der Synoptik als Pendant zur numerischen Vorhersage immer mehr verloren.
+Dipl.-Met. Hans-Dieter Schmidt

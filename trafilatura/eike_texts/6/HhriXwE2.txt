@@ -1,0 +1,424 @@
+Im Land beschäftigt sich inzwischen eine große Zahl von Bürgern, Politikern und Interessenvertretern mit dem Thema Energie. Die Meisten haben aber sicherlich bisher wenig Berührung mit deren Grundlagen gehabt, oder diese längst vergessen. Deshalb nimmt der Autor die Darstellung der Novemberwerte zum Anlass, die Daten diesmal nicht (nur) mit lockeren Sprüchen zu kommentieren, sondern in einem Crashkurs das Energie-Basiswissen zu vermitteln welches man benötigt, um in Inititativen oder gegenüber Politikern und „Experten“ als ausgewiesener Energiefachmann zu gelten. Es ist deshalb ausdrücklich erlaubt, diesen Artikel als Informationsmaterial zu verwenden.
+Eine Erklärung der energietechnischen Begriffe ist als Anhang zugefügt.
+Hinweis:
+In dieser Darstellung wird die anteilige Leistung aus Wasserkraft und Biogas nicht berücksichtigt. Der im Artikel verwendete Begriff „Ökoenergie“ schließt also die in Zukunft anteilig erheblich reduzierten Beiträge von Laufwasser und Biogas nicht mit ein. Aktuell ist ihr Beitrag aber (noch) nicht zu vernachlässigen und generiert eine Ökoenergie-Einspeisung während der verblüffend langen „Leistungspausen“ von Solar und Windenergie.
+Begründung: Der weitere Ausbau an Ökoenergie ist praktisch ausschließlich über Solar und Wind möglich, weshalb in Zukunft deren Ganglinien-Verlauf die Energieversorgung bestimmt.
+Datenquellen: Die Energiedaten werden von Herrn Schuster aus verschiedenen (offiziellen) Quellen abgezogen und in einer Datenbank zusammengesetzt. Eine Vergleichsauswertung (des Autors) mit den stündlich auflösenden und mit Korrekturen beaufschlagten Daten von Agora-Energiewende zeigt Abweichungen bei den auf niedrige Stundenwerte bezogenen Daten sowie dem Verbrauch. Solche Abweichungen sind nicht vermeidbar, da es keinen „amtlichen“ Datensatz gibt und alle Hochrechnungen und Schätzungen beinhalten.
+Ganglinien der Novemberwerte
+In dieser und den meisten „Energie-Publizierungen“ sieht man die schönen Bilder mit den Verlaufsdarstellungen. Solche Grafiken lassen sich von jedem (ohne Registrierung) direkt auf "Agora Energiewende" für alle gewünschten Zeitbereiche einfachst mittels Buttons einstellen und ansehen. Das macht richtig Spass, weil es super funktioniert.
+Energie und Leistung anhand von Ganglinien dargestellt
+Das Bild 1 (und die meisten folgenden-siehe oben rechts) zeigt die sogenannten „Ganglinien“, also die zeitlichen Verläufe von Verbrauch, Bereitstellungen und Einspeisungen an Elektroenergie für den November. Die Darstellungen sind summierte Werte.
+Leistung ist der Augenblickswert und Energie der Augenblickswert multipliziert mit der Zeit. In Ganglinien zeigen die Begrenzungslinien von Verläufen deshalb immer den Leistungswert für diesen Moment. Die zugehörige Energie über Zeitabschnitte steht in den Tabellen. Wenn Energie als Kurvenverlauf gezeigt wird (das Zeitintegral der Leistung), wird es immer explizit angegeben.
+Bild 2 zeigt dazu die Monats-Eckwerte tabelliert in Zahlen.
+Dargestellt sind:
+· Die versprochene Öko-Leistung (installierte Leistung) als rote, waagerechte Linie.
+· Die benötigte Leistung in Braun
+· Die wirklich bereitgestellte Öko-Leistung in Gelb und Blau (summiert dargestellt, die gelbe Solar-Linie ist deshalb auf die blaue Wind-Linie aufgesetzt und nicht „dahinter“)
+Bild1 (rechts oben) Elektroenergie-Verbrauch und Ökostrom-Einspeisung im November 2015
+Bild 2 Ökostrom Bereitstellungsdaten / Verbrauch November 2015
+Fazit der November-Einspeisung
+Von der versprochenen Leistung wurden wirklich bereitgestellt:
+Wind: 33,3% (Oktober: 12,3 %)
+Solar: 4 % (Oktober: 6,7 %)
+Solar + Wind: 19,4 % (Oktober 9,6 %)
+Vom Energiebedarf des Monats konnten durch Ökoenergie eingespeist werden:
+Solar + Wind: 27,7 % (Oktober 14,5 %)
+Der November ist damit bezüglich der Öko-Energieeinspeisung wesentlich günstiger als der Oktober, weil der Wind mehr geblasen hat. Aber selbst wenn man mit den stark beschönigenden Mittelwerten rechnet, ist auch der November für die Ökoenergie desaströs.
+Man muss sich überlegen was es bedeutet, dass alleine von einem Monat zum nächsten die lieferbare Öko-Energiemenge um fast 100 % schwankt.
+Verteilung der Ökostrom-Einspeisung über Zeitbereiche
+Die in Bild 1 ersichtliche, zeitlich nicht dem Verbrauch entsprechende Lieferung der Öko-Energie ist in der Tabelle von Bild 3 klassifiziert.
+Bild 3 Zeitliche-Klassifizierung der Öko-Energielieferungen bezogen auf den Summenwert
+Was sagen die Daten der Tabelle von Bild 3
+Windkraft und Solar habe eine installierte Leistung von 83.586 MW. Für diese Anschlussleistung muss die gesamt Netz-Infrastruktur und in Zukunft auch Speichertechnik ausgelegt sein. Doch deren Verfügbarkeit sah (im windreichen November) wie folgt aus:
+– Während 24,10 % des Monats standen maximal 10 % der versprochenen Leistung zur Verfügung (Bezug: installierte Leistung)
+– Nicht in der Tabelle: Während 8,6 % des Monats waren es maximal 5 %
+– Während 53,60 % des Monats standen maximal 20 % der versprochenen Leistung zur Verfügung
+– Nur während 1,8 % des Monats standen mehr als 40 % der versprochenen Leistung zur Verfügung
+Der (geringe) Nutzen der Ökoenergie
+Trotz des weit über der benötigten Leistung liegenden Installationswertes an Ökoenergie wurde nicht im Entferntesten auch nur ein konventionelles Kraftwerk eingespart – denn das ist mit dieser Ökoenergie unmöglich.
+Man sieht dies beim Betrachten der gelieferten Energie (Bild 3.1). Ein konventionelles Kraftwerk kann die Planleistung bereitstellen und damit über die Monatssumme die Planenergie liefern (blaue Linie). Die Ökostrom-Lieferanten haben zwar ebenfalls hohe Planleistungen, können davon als Energie (Leistung x Zeit) aber nur Bruchteile wirklich einspeisen (im November 20 %, und das auch nur zu nicht planbaren Zeiten).
+Bild3.1 Energieeinspeisung (Leistungsangebot x Zeit) bezogen auf die installierte Wind + Solarleistung (Planwert) für den November
+Blaue Linie: Leistung x Zeit eines gleichen konventionellen Kraftwerkes. Grüne Linie: Leistung x Zeit der Ökoeinspeisung von Wind + Solar
+Für das Jahr 2050 ist ein Ausbau der Ökoenergie und Abschalten der konventionellen Kraftwerke geplant (Dekarbonisierung). Die Ökoenergie soll dann praktisch die Vollversorgung Deutschlands mit Elektroenergie ermöglichen.
+Wir simulieren den November im Jahr 2050 anhand der von unserer Regierung angegebenen Planwerte
+Daten im Planjahr 2050
+Die Ausbauplanung weist für 2050 die folgenden Ausbaufaktoren aus (Quelle: Fraunhofer IWES 29. März 2012 Bericht: BMU – FKZ 03MAP146, Scenario 2011 A):
+– Windenergie: Faktor 2,25
+– Solarenergie: Faktor 1,75
+– Wind + Solar: Faktor 2
+Somit beträgt die zum Jahr 2050 geplante Gesamtleistung von Wind + Solar 187,6 GW (Anm.: Dieser Wert ist höher als in der IWES-Studie, Tabelle 2 gelistet, da der aktuelle Ausbau den damals für 2015 vorhergesehenen übersteigt). Der mittlere Bedarf für den November 2050 wird mit 70 GW, entsprechend 50.400 GWh (Daten Agora) als ungefähr gleich angenommen, obwohl unsere Regierung Verbrauchs-Reduzierungen als Zwangsmaßnahme plant. Mit dem geplanten Ausbau können Wind und Solar dann in einem vergleichbaren November 2050 bereitstellen:
+– 24 % des Monats maximal 24 % der benötigten Leistung von 70 GW (die wirkliche Bereitstellung ist niedriger, da der Wert selten 24 % erreicht)
+– 54 % des Monats maximal 48 % der benötigten Leistung von 70 GW (die wirkliche Bereitstellung ist niedriger, da der Wert selten 48 % erreicht)
+Für die zu liefernde Energie sieht es wie folgt aus (Bild 3.2)
+Bild3.2 November 2050, Energie-Einspeisung Wind und Solar
+Berücksichtig man zusätzlich die Wasser und Biogaseinspeisung, sieht es wie folgt aus:
+– Für 2050 beträgt die Planleistung von Laufwasser und Biogas vom aktuellen Stand mit den beim IWES angegebenen Faktoren hochgerechnet ca. 7,97 GW, entsprechend 5.738 GWh / Monat. Bezogen auf den November-Bedarf sind dies 11,4 %
+– Damit würden die heute für das Jahr 2050 geplanten Ökostrom-Lieferanten beim gleichen November insgesamt
+46,4 % + 11,4 % = ca. 58 % der benötigten Energie liefern
+Wie man bei diesen Ergebnissen darauf kommen kann, alle konventionellen Kraftwerke abzuschalten und Deutschland zu dekarbonisieren, bleibt ein Rätsel der deutschen Energiegeschichte (und – Politiker).
+Bild 4 zeigt, wie es im November mit den Extremwerten aussah. Da die Ökowissenschaft inzwischen die grausame Erkenntnis akzeptieren musste, dass die Sonne nicht daran denkt nachts solaren Ökostrom zu liefern, bestimmt der Wind die Extreme. Von einer „Mittelung“ der Windstrom-Einspeisung in Deutschland, nach der dieses Problem – ganz Deutschland ohne Wind – gar nicht vorkommen darf (irgendwo weht immer Wind) ist weit und breit nichts zu sehen.
+Bild 4 Minimale und maximale Windleistung im November
+Die Ökostrom-Einspeisungen im Detail
+Die Solarstrom-Ganglinien im November
+Bild 5 Solardaten November 2015
+Violette Linie: Verbrauch; Gelb: Von Solar gelieferte Einspeiseleistung
+Bild 6 Solarstrom- Daten November 2015 tabelliert
+Fazit
+Was sagen die Daten der Tabelle von Bild 6
+– Während 57,6 % des Monats stellte Solar überhaupt keine Leistung bereit (nachts scheint keine Sonne)
+– 36,8 % des Monats waren es maximal 20 % der Nennleistung
+– Nur 5,6 % des Monats waren es mehr als 20 % der Nennleistung
+– Im Monatsmittel stellte Solar etwa 4 % der Nennleistung zur Verfügung
+Obwohl Solarenergie im Jahr 2014 alleine 48 % der EEG Kosten verursachte (Quelle: WIKIPEDIA), liefert sie keinen nennenswerten Energieanteil. Ein Ausbau an Solarenergie zur Verbesserung der Ökostrom-Bilanz ist vollkommen sinnlos.
+Die Windstrom-Einspeisung im November
+Bild 7 Einspeisung Windenergie im November 2015
+Violette Linie: Verbrauch; Blau: Von Wind gelieferte Einspeiseleistung
+Bild 8 Winddaten November 2015 tabelliert
+Fazit
+Was sagen die Daten der Tabelle von Bild 8
+– Während 16,5 % des Monats stellte Wind maximal 10 % seiner Nennleistung bereit
+– 28,9 % des Monats waren es maximal 30 % der Nennleistung
+– Nur 23,6 % des Monats waren es mehr als 50 % der Nennleistung
+– Im Monatsmittel des windreichen November stellte Wind 33,3 % der installierten Leistung wirklich zur Verfügung
+Die Windenergie ist nicht in der Lage, die katastrophalen Daten von Solar zu kompensieren. Dazu sind die windarmen Zeiten erheblich zu lang. Selbst um dieses mehr als magere Ergebnis zu erhalten, sind bereits wesentliche Flächen von Deutschland als Ökopark umgebaut. Und die Grünen fordern, dass dies flächendeckend in ganz Deutschland geschieht.
+Bild 9 Die Natur für neue Energien als „Öko-Park“ umgerüstet. Bsp.: NRW Paderborn-Dahl.
+Quelle Windwahn
+Kosten
+Es gab Zeiten, da konnte man auch in Deutschland grundlastfähigen und bedarfs-regelbaren Strom für 30 EUR / MWh beziehen. Das könnte auch heute noch so sein, doch „Dank“ EEG sind diese Zeiten vorbei.
+Trotzdem ist Strom an der Strombörse auch billiger zu bekommen. Allerdings nur zu Zeiten, wo es so viel davon gibt, dass ihn niemand haben will. Für den privaten Stromkunden ist der Börsenstrompreis aber unwichtig, denn er muss immer den hohen EEG-Preis bezahlen (siehe dazu im Anhang unter „Abregeln“).
+Es dürfte die Zeit kommen, wo es keine negativen oder niedrigen Strompreise mehr gibt – die das optische Erscheinungsbild der Ökoenergie so massiv stören -. Man braucht nämlich die Ökoenergie nur abregeln, heißt die Einspeisung abschalten. Das macht man nur aktuell noch ungern, weil es für den Verbraucher so wirkt wie:
+Abregeln erklärt für DUMMIES:
+Der Gast bestellt im Lokal Essen – es wird gekocht, aber vor dem Gast weggeschmissen – Der Gast bekommt aber die Rechnung und muss es bezahlen. Begründung: Das Essen hätte geliefert werden können.
+Negativer Börsenpreis erklärt für DUMMIES:
+Der Gast bestellt im Lokal Essen – es wird gekocht und der Gast muss es bezahlen – das Essen wird aber einem Fremden gegeben – der Gast bekommt zusätzlich eine Strafgebühr aufgebrummt, weil der Fremde zusätzlich Geld für die Annahme des Essens verlangte. Begründung: Das Essen hätte der Gast gesundheitlich bestimmt nicht vertragen.
+Bild 10 Börsenstrompreise im November
+Bild 11 Tabelle der jährlichen Summierung von Stunden mit negativen Börsenpreisen.
+Bild 12 Kostenstruktur der Ökoenergie im November
+Bild 13 Kostenstruktur der Ökoenergie im November tabelliert
+Erklärung zur Tabelle von Bild 13
+EEG-Wert:
+· An die Ökoenergie-Lieferanten gezahlte Einspeisevergütung aufgrund der EEG-Gesetzgebung
+EEX-Wert:
+· Wert dieses Ökostromes an der Börse (wahrer Marktwert)
+Wind + Solar EEG-Wert:
+· Als Einspeisevergütung für Ökostrom (durch das EEG zwangsweise vom Verbraucher) bezahlte Summe
+Wind + Solar Börsenwert:
+· An der Börse für den Ökostrom erwirtschaftete Summe (wahrer Marktwert des Ökostroms)
+Differenz EEX-Wert – EEG-Wert:
+· Vom Verbraucher über dem Marktwert bezahlte EEG-Zwangsvergütung an die Wind- und Solarparkbetreiber
+Fazit
+Alleine im November betrug die EEG-Nettosubventionierung der Ökostrom-Einspeisung fast 1 Milliarde EUR.
+Die enormen Zusatzkosten in der bereitzustellenden Infrastruktur, für die (technisch nicht möglichen) Speicher und die parallel im Stand-by mitlaufenden konventionellen Kraftwerke, welche die langen Einspeisepausen überbrücken helfen, sind dabei nicht eingerechnet.
+Zusatz Speicherproblematik
+Umfassende Details dazu wurden vom Autor im EIKE-Artikel "Elektro-Energiespeicherung" beschrieben. Wie es sich aktuell mit der als „Lösung“ propagierten Pumpspeicherung verhält, zeigt das folgende Bild. Wenn man betrachtet, das in Deutschland praktisch kein Pumpspeicher- oder Wasserkraftwerk in größerem Umfang mehr errichtet werden kann (kein „Wutbürger und Umweltschutz-Verein“ lässt das mehr zu) lässt sich das kommende Problem der Ökostrom-Speicherung ahnen.
+Bild 14 Umfang der aktuell durch Wasserspeicher bereitstellbaren Speicherleistung
+Violett: Stromverbrauch; Blau: Leistungslinie von Pumpspeicher und Speicherwasser in Deutschland
+*Alle Daten wurden freundlicher Weise von Herrn Rolf Schuster bereitgestellt.
+Anhang mit Erklärungen
+Leider bleibt es auch modernen Energie-Experten nicht erspart, ein paar Begriffe zu lernen. Nichts gilt als peinlicher, als diese zu verwechseln oder gar falsch zu interpretieren.
+Die Leistung
+Leistung berechnet sich nach der Formel:
+– Elektrische- Leistung = Spannung x Strom (V x A = W; meistens in Megawatt oder Gigawatt angegeben)
+– Leistung ist also die „Momentaufnahme“ des Augenblicks, da die Zeit fehlt
+Damit ist elektrische Leistung inzwischen vor allem eine Planungsgröße, wie das folgende Beispiel zeigt:
+Beispiel Leistung:
+Im Bild 1 sieht man die rote Linie mit 85.583 MW. Das ist die elektrische Leistung, welche für Solar und Windkraft in Deutschland angegeben werden. Laut Angaben der Betreiber sind sie in der Lage, diese zu liefern. Damit diese versprochene Leistung eingespeist werden könnte, muss die gesamte Verteilnetz-Infrastruktur entsprechend dimensioniert, also ausgebaut sein.
+Doch leider liefert die Ökoenergie in Wirklichkeit die meiste Zeit nur einen Bruchteil der versprochenen Leistung und die versprochene Planleistung praktisch nie.
+Das Leitungsnetz mit seiner kompletten Infrastruktur muss bildlich gesprochen deshalb als Autobahn ausgebaut werden, obwohl für die wirkliche benötigte Menge an „Leistungsträgern“ locker eine Landstraße reichen würde.
+Der Unterschied zur „alten = konventionellen“ Anschluss-Leistung
+Bei konventionellen Kraftwerken ist die Leistungsangabe ebenfalls eine Planungsgröße. Allerdings können sie diese auch wirklich „auf Knopfdruck“ bereitstellen (siehe Bild 3.1). Deshalb war es früher sinnvoll, Kraftwerke und vor allem auch das Verteilnetz nach der „versprochenen“ Leistung zu dimensionieren. Eine teure Über-Dimensionierung wie mit der Öko-Energie-Einspeisung war nicht erforderlich.
+Anmerkung:
+Im Blog wurde bemängelt, dass bei Ökoenergie mit Installationsleistung gerechnet wird. Dabei ist gerade die Betrachtung der Differenzen zwischen versprochener und wirklich angebotener Leistung besonders wichtig, denn sie zeigt wesentliche und fast unlösbare Problematiken der Ökoenergie. Ein Grund, warum es von Befürwortern konsequent „unter den Tisch gekehrt“ wird.
+Das Abregeln
+Selbst verständlich ist der Politik bekannt, dass die enorme Differenz zwischen versprochener und wirklich lieferbarer Öko-Leistung vorhanden ist und Probleme bereitet. Der Ökostrom hat aber eine eigene (Finanzierungs-)Physik. Damit gelang es, das Problem wie folgt zu lösen:
+Ist die anbietbare Leistung größer als die benötigte (und steht kein Speicher zur Verfügung), wird die Einspeisung verhindert (in Neusprech: „Abregeln“). Das passiert immer häufiger, wenn im Norden ein Sturm weht oder mittags die Sonne besonders ungetrübt scheint, aber bei der Hitze das Volk keine großen Mittagsmenüs kochen will.
+Leider hat diese Regelung einen Haken: Die nicht abgenommene Energie (Leistung x Zeit) muss vom Stromkunden trotzdem an den Bereitsteller bezahlt werden.
+Die Energie
+Energie berechnet sich nach der Formel:
+– Elektro- Energie = Leistung x Zeit = (Spannung x Strom) x Zeit
+– Dimensionen: Leistung = W x Stunden; meistens in Megawatt-Stunden MWh oder Gigawatt-Stunden GWh angegeben
+– Energie ist hier die „Rückschau“, was in der vergangenen Zeitspanne wirklich geleistet und nicht nur versprochen wurde.
+Damit ist auch die Energie inzwischen vor allem eine Planungsgröße, wie das folgende Beispiel zeigt:
+Beispiel Energie:
+Im Bild 1 verspricht die rote Leistungslinie mit 85.583 MW im November die Abgabe einer Energie von 85.583 MW x 720 Stunden = 60.179,80 GWh. Das ist die Elektroenergie, welche sich für Solar und Windkraft in Deutschland aufgrund der Leistungsangaben ergeben.
+Wirklich lieferbar war aber der Wert in Bild 2 (Tabelle) von 11.692 GWh.
+Damit konnten im November von der versprochenen Öko-Energie in Wirklichkeit nur 19,43 % geliefert werden.
+Vorrangeinspeisung
+In Deutschland hat das EEG festgelegt, dass immer zuerst die angebotene Ökoenergie eingespeist werden muss. Konventionell erzeugter Strom darf niemals dem Ökostrom „den Weg“ versperren. Das auch in Talkshows oft unwidersprochen verkündete Gerücht, der billige oder „dreckige“ konventionelle Strom würde die Leitungen für Ökostrom „verstopfen“ ist eine glatte Lüge.
+Die Darstellung mittels Ganglinien
+Das Bild 1 zeigt die sogenannten „Ganglinien“, also die zeitlichen Verläufe von Verbrauch, Bereitstellungen und Einspeisungen an Elektroenergie für den November.
+Bild 2 zeigt daraus die Monats-Eckwerte tabelliert in Zahlen.
+Dargestellt werden im Detail
+· Inst. Leistung Wind + Solar (Hellblau mit roter Linie)
+Das ist die Leistung in MW ( 1 MW = 1.000 kW), welche rechnerisch bereitgestellt werden könnte, falls der Wind zu 100 % weht und die Sonne zu 100 % scheint.
+· Load = Verbrauch
+Das ist die zu diesem Zeitpunkt für bezahlende Kunden abgenommene Energie in GWh (1 GWh = 1.000 MWh)
+· Solarenergie Einspeisung ist
+Das ist die zu diesem Zeitpunkt wirklich eingespeiste Solarenergie
+· Windenergie Einspeisung ist
+Das ist die zu diesem Zeitpunkt wirklich eingespeiste Windenergie
+Ökostrom-Einspeisung
+An der Anschlussstelle des Versorgungsnetzes liefert ein Ökokraftwerk elektrischen Strom ins Netz. Deshalb spricht man von Ökostrom-Einspeisung.
+Der Strom alleine sagt aber nichts über die Leistung aus. Man muss dazu immer auch die an diesem Punkt herrschende Spannung wissen, weil nur dann die Leistung berechnet werden kann (Leistung = Strom x Spannung = W).
+Erweitert man das mit der Zeit, über die diese Leistung geliefert werden konnte, hat man die gelieferte Energie (Energie = Strom x Spannung x Zeit = Leistung (W) x Zeit (h) = Wh).
+Und ich hoffe und bete das es genug Leute gibt die das Kreuz an der richtigen Stelle machen.
+Wenn ich bei Facebook CDU ,SPD ,GRÜNE mir die Kommentare durchlese ( UND DAS MACH ICH SCHON SEID MONATEN) bekomme ich Hoffnung.
+Wir haben nicht alle Tassen im Schrank!
+Eingebrockt haben uns das Alles unsere armseligen, unglaublich dummen Politiker, die wir bei den nächsten Wahlen in die Wüste schicken müssen!
+EEG-Einspeisung im November 2015 ca. 36%
+Konventionelle Kraftwerke November 2015 ca. 64% ca.
+Das Verhältnis EEG zu Konventionell ist ca. 1/3 zu 2/3 und das im November (Dunkelflaute).
+Meine Ölheizung (Ölbrenner) hat ca. 20kW Leistung und schlaft nicht mal 800 Betriebsstunden im Jahr.
+Da steht der Brenner ja auch über 90% der Zeit.
+Die Leistungsabgabe bei PV oder Wind ist da wesentlich besser.
+Gruß
+glauben Sie wirklich, was Sie da schreiben oder sind Sie einfach ein Troll?. Wenn Sie wirklich das meinen, was Sie hier sagen, dann bräuchten die von Ihnen favorisierten Stromerzeugungsformen weder eine staatlich Absatzgarantie noch die völlig überhöhten staatlich garantierten Preise. Nur durch diesen „EE“-Unfug haben wir zusammen mit Dänemark die höchsten Strompreise in der Welt. Also Herr Naumann lassen Sie diesen Orwellschen Neusprech sein und versuchen Sie uns nicht für dumm zu verkaufen.
+Lieber Hr. Naumann,
+Sie konstruieren Widersprüche, wo es keine gibt. Nordrhein-Westfalen ist schon seit weit mehr als einem Jahrhundert das entscheidende Ballungszentrum im Westen Deutschlands mit großen Städten ebenso wie mit Schwerindustrie. Wichtige Braunkohletagebaue liegen 30-40 km von Köln entfernt, und unmittelbar benachbart liegen Städte wie Düsseldorf, Duisburg, Oberhausen oder Essen. Sehr praktisch, dass man da Anfang des 20. Jahrhundert auch noch Strom aus Braunkohle produzieren konnte.
+Wenn Sie hier faseln, „auf mit der Schwerindustrie in den energiereichen Norden“, dann offenbaren Sie nur ein gerütteltes Maß an Unverstand. Sie haben offensichtlich niemals ein Stahlwerk, ein Walzwerk oder eine Aluminiumhütte von innen gesehen. Wenn die sich aus dem Ruhrgebiet verabschieden, dann nicht an die Küste, sondern nach Übersee, und zwar für immer, denn mit ihnen wird uns auch das Know-how-verlassen. Viele Unternehmen haben bereits aufgehört, hier zu investieren.
+Was die Versorgungssituation mit Strom angeht, so hat diese die Eigenart, dass man als Verbraucher sehr lange nichts merkt, weil die Versorger verpflichtet sind, zu liefern. Egal wie. Also werden Wartungsintervalle gestreckt und längst überholungsbedürftige Anlagen am Laufen gehalten. Das ganze System ist inzwischen hart auf Kante genäht. Eine Menge nicht mehr rentabler Kraftwerke ist im Süden zur Stilllegung angemeldet, man verbietet es ihnen aber, weil man bei den entsprechenden Stellen sehr wohl weiß, was dann passieren würde.
+Wenn ich mit Verantwortlichen rede und mir die vorgelegten Zahlen anschaue, ist das überdeutlich erkennbar. In den nächsten Jahren werden dennoch weitere grundlastfähige Kraftwerke vom Netz gehen. Irgendwann wird es knallen. Kann man auch ohne weiteres nachlesen, wenn man sich dafür interessiert. Wem aber Wunschdenken genügt, der wird es erst merken, wenn es zu spät ist.
+Was Ihre „Erntefaktor“- bzw. EROI-Betrachtungen angeht, gehe ich davon aus, dass Sie falsch gerechnet haben. Ich komme sowohl bei Wind als auch bei Solar auf erbärmlich schlechte Werte. Und dass Sie die Kosten für die am Markt privilegierten „EE-Erzeuger“ bestreiten, zeugt ebenfalls nur davon, dass sie nicht rechnen können bzw. die im Internet frei zugänglichen Zahlen nicht zur Kenntnis zu nehmen geruhen. Wurde hier alles etliche Male vorgerechnet. Und von „Markt“ zu reden, wenn die EE-Betreiber gesetzlich garantierte Privilegien genießen, ist schon als besondere Frechheit zu bezeichnen.
+Was mich am Rande mal interessieren würde wäre die Frage, welche Art von Verbrauchern mit PV-Inselanlagen „abseits des EEG“ zurechtkommen sollen. Was machen die denn bei Nacht und im Winter?
+Mfg
+Sie betreiben nur Rabulismus und Wortklaubereien.
+Trotz Ihres Wortschwalles hier können auch Sie kein Konzept vorlegen, wie die sogenannten EE die Versorgungssicherheit und Netzstabilität sicherstellen können – und das bei bezahlbaren Preisen.
+Diese völlig nutzlose Energieform wird immer am Tropf der konventionellen Kraftwerke/Netze und des Privilegs der Einspeisevergütung hängen.
+Und JA(!) dafür sollten sich die EE-Gewinnler schämen, aber Gier frisst Hirn.
+Sehr geehrter Herr Burowsk,
+sofern Sie sich mit den Energiedaten auskennen wissen Sie, dass es keine amtlichen gibt.
+Wahrscheinlich kann man sie kaufen (Agora soll es angeblich machen), aber selbst diese sind dann Rohdaten, weshalb Agora seine aktuellen für die Anzeige korrigiert und diese dann später rückwirkend über das Gesamtjahr noch mal. Wer Privat welche erhalten will, muss sie sich aus den verschiedenen Quellen holen und selbst zusammensetzen – eine heiden-Arbeit. Dies macht Herr Schuster, der mir seine Daten zur Verfügung stellt.
+Gerade beim von Ihnen bemängelten Verbrauch steckt zudem die größte Diskrepanz. Es gibt den Nettobedarf und die Export-/Importdaten. Bei Agora werden diese zum Nettobedarf als Verbrauch addiert, aber zusätzlich auch korrigiert. Da die Höhe bei Agora in etwa der Addition von Load + Export/Import in „meinen“ Daten entspricht, verwende ich diese, wissend, dass es erhebliche Abweichungen geben kann. Bei Agora können Sie diese gar nicht richtig erkennen, da die Grafiken Tagesmittel anzeigen.
+Fazit:
+Sie finden keinen Datensatz, der übereinstimmt. Weder bei Agora, beim Fraunhofer IWES, noch „bei mir“. Unsere Regierung und Forschungsinstitute scheint das nicht zu stören.
+Aber: Es ist auch vollkommen egal – denn die Tendenz und die Aussagen bleiben trotz der Unterschiede immer die Gleichen.
+Ganz aktuell zeigt sich, dass die Hochrechnungen des IWES von 2012 für 2015 völlig daneben lagen und das wird den Hochrechnungen für 2030 und 2050 genau so passieren. Es reichen also ganz grobe Schätzungen, um das Thema in „amtlicher Genauigkeit“ zu bewerten. Nur Puristen mäkeln an den (nirgends nachprüfbaren) Zahlen, wenn ihnen die Aussagen nicht gefallen. Solche Chefs hatten wir früher in der Firma auch öfters. Der Inhalt interessiert mich nicht, aber Sie haben in der Folie den Stileguide verletzt, das darf bitte nicht mehr vorkommen.
+Sie liegen falsch mit Ihrem Satz „Wir bräuchten weder neue Kraftwerke noch neue Leitungen, wenn es die Grünsozis nicht gäbe“, denn es war die Atomlobby im Verein mit der FDP, die uns diese verfahrene Energiepolitik eingebrockt hat
+Die KTG Rheinland öffnete mit ihrem Offenen Brief an MdBs vom 14. Dezember 1978 die Büchse der Pandora, stellte das Ultimatum, Kohlekraftwerke dürften erst dann wieder verantwortet werden, „wenn das CO2-Problem genau so gründlich untersucht und die Geringfügigkeit des Risikos für die nachkommenden Generationen nachgewiesen wäre, wie es schon heute für die nukleare Entsorgung der Fall ist“ – so wörtlich. Die KTG berief sich auf die Christenpflicht.
+Clement wollte als Wirtschaftsminister Schröders das EEG sogar ganz abschaffen, die FDP fiel ihm in den Rücken.
+Die FDP tat alles, den großen EVUs das Geschäft mit dem Strom abzuluchsen, um es den Stadtwerken in die Hände zu legen, wohl wissend, daß sie damit ihrer Klientel, den Finanz-Haien, Tür und Tor öffneten. Sie händigten dieser skrupellosen Gruppe den sichersten Investitionsbereich aus: die Daseinsvorsorge. Es ist der einzige Bereich, in dem jede Preiserhöhung – und damit jede Rendite – erpreßt werden kann im wahrsten Sinne des Wortes, denn ohne Strom und ohne Wasser geht nichts mehr, dafür geben die Leute zwangsläufig ihr letztes Hemd.
+Je weniger die Energiewende funktioniert, um so mehr kann nun optisch daran geflickt werden. Selbst die unsinnigsten und unwirtschaftlichsten Investitionen können als „notwendig“ hingestellt werden. Mit dem Zulauf an Investorengeldern vergößert sich das Schmarotzen, wird mehrheitsfähig, das verlogene Etikett „ethisch“ tut sein Übriges.
+So kann das Unrecht des Schmarotzen zu demokratischer Legitimation kommen, zum Staatsziel erhoben werden – wir sind bereits kurz davor, der Papst hat vorab schon den Segen erteilt.
+Es ist das Werk der Atomlobby – das möchte ich hier noch einmal ausdrücklich feststellen!
+Selbst den Papst hat die IEA ins Boot geholt, die „Internationale Energieagentur“, ohne die wir weder Schellnhuber noch Edenhofer hätten.
+Wir haben es mit Klerikalfaschismus zu tun, der Links-und Rechts-Faschismus als Dachverband überwölkt – im wahrsten Sinne des himmlischen Begriffs.
+Sehen sie, und schon haben wir einen der typischen Widersprüche hier: Weiter oben behaupten Sie: „Früher baute man Kraftwerke da, wo auch die Verbrauchsschwerpunkte waren“
+Plötzlich wird daraus: „Die Braunkohlekraftwerke stehen da, wo sie stehen, weil es dort Braunkohle gibt“
+Was stimmt denn jetzt? Oder koinzidiert das Vorkommen von Braunkohle rein zufällig schon immer mit den vorhandenen Verbrauchsschwerpunkten?
+Wohl eher nicht.
+Faktisch ist der Verbrauchsschwerpunkt Ruhrgebiet entstanden, weil die Industrie dem damals adäquaten Angebot an Energieressourcen gefolgt ist. Heute sind die Energieressourcen eben andere, also auf mit der Schwerindustrie in den energiereichen Norden. Wäre übrigens Strukturpolitisch auch sehr hilfreich.
+Und dann kommt wieder die Schwarzweißmalerei und die Drohung mit Toten, das ist wirklich langweilig. „Alternativlos“ ist doch eher der typische Merkel-Spruch, die ja hier nicht mehr so en vogue ist. Oder der olle Filbinger anno 1976. Komischerweise gibts in BW immer noch Licht, ganz ohne AKW wyhl.
+Niemand, aber wirklich niemand will derzeit ALLE konventionellen Kraftwerke vom Netz nehmen. Aber jedes Jahr ein paar weniger – das ist problemlos möglich und passiert ja auch. Ganz Ohne Tote.
+Für den namentlich unbekannten Admin: Ich habe bewusst „Erntefaktor“ geschrieben und nicht EROI, da ich den betriebswirtschaftlichen Aspekt für kurzsichtig halte. Langfristig und humanitär-volkswirtschaftlich gedacht haben nur EE-Kraftwerke einen Erntefaktor >1, konventionelle Kraftwerke brauchen ihre Ressourcen auf und generieren IMMER weniger elektrisch Energie, als vorne in chemischer/nuklearer Form reingesteckt wird. Nebenbei wirds bei Atom auch ziemlich knapp, wenn die Erzkonzentration unter ~0.01% fällt. Merkt aber keiner, weil die Uranaufbereitung vor allem fossile Energie frisst.
+Aber das sind alles Binsenweisheiten und sie können davon ausgehen, das ich 99% ihrer Argumente schon kenne – und falsifiziert habe. Schon vor drei Jahren auch hier. Ich bin auch immer noch kein Grün-Sozi und betreibe ausschließlich PV-Inselanlagen abseits des EEG. Diese ad hominem-Attacken waren aber auch vor drei Jahren schon üblich hier.
+Nein, lieber Admin: an diesem Satz von ihnen ist alles Zorn, aber nichts wahr:
+„Dass die EE Gewinner schamlos…“ – falsch: zu recht schämen sich EE-Anbieter nicht, wofür?
+„…mit Staatshilfe die vielen Millionen Stromverbraucher ohne jeden Gegenwert…“ – grob falsch: Es werden pro Jahr ~200 TWh generiert, das sind schon ein paar Taler an Wert. z.B. für das Restaurant in meiner Sporthalle eine Ersparnis von 50% ihrer Stromrechnung
+„…um jährlich knapp 30 Mrd € (Tendenzs stark steigend)…“ – falsch, Fantasiezahlen. Mindestens schrecklich ungenau. Und EE sind in den letzten drei Jahren nochmals rund 10-20% billiger geworden.
+„… abkassieren – ist Ihnen offenbar entgangen, bzw. Das ist Ausbeutung!…“ – falsch, das nennt sich Markt!
+„Sie profitieren vermutlich davon. “ – auch falsch, s.o.
+Aber das mit dem Gratisticket für Australien, da würd ich gern nochmal drauf zurück kommen…:-)
+Es würde eigentlich ausreichend, wenn auf Wikipedia über das „EIKE“ die rede von Atomkraftwerken ist; aber es heißt Kernkraftwerk! Denn in Reaktoren werden keine Atome, sondern Atomkerne gespalten und mutiert. Alpha-Strahlung macht den Kern um zwei Protonen und zwei Neutronen leichter; bei der Beta-Minus- und Beta-Plus-Strahlung findet jeweils eine Mutation eines Protons oder Neutrons statt. Gammastrahlung selbst entsteht aus einem angeregten Zustand des Atomkerns, oder wenn ein Elektron und Positron aufeinander knallen.
+Und zu beachten ist auch, dass im menschlichen Körper – bei einem Gewicht von 75kg – rund 1,2 Milliarden radioaktive Zerfälle innerhalb von 2 Tagen stattfinden. An Strahlung bekommt der Körper dann alles von der Alpha- bis zur Gammastrahlung ab.
+»„Es ist auch noch lang nicht ausdiskutiert, ob wir besser Speicher oder eher Leitungen bauen. Ein europäisches Verbundnetz von Portugal bis zur Ukraine exisiert ja schon.“«
+Gegenwärtig werden Stromsperren an den Landesgrenzen gebaut, damit der sehr ungleichmäßige elektrische Strom nicht ständig zu Problemen führt. Man kann wohl mit Recht behaupten, dass es die größte Herausforderung ist, das Energienetz noch stabil zu halten.
+»„Tja, und dann gibt da grade aktuell Tihange und Dole. Voll planbar und zuverlässig 🙂 Schön, das die Betreiber uns versichern, das uns das Kraftwerk diesmal zum Glück nicht verseucht hat; aber das will ich gar nicht wissen.“«
+Also ein Gegner der Kernfission – ohne Grundwissen im Bereich der Prüfverfahren von Druckbehälter und vielen anderen Dingen! Das Argument bei Tihange ist seitens der Kernkraftgegner: „Der Druckbehälter hat über 3.000 Risse und wird deswegen explodieren.“ Dass allein die Menge jedoch keine Rolle spielt, berichtet natürlich niemand; vom Mikroriss bis zum Größeren, ist alles dabei.
+»„ich erhebe keinerlei Anspruch eines Copyrights für meine Aussagen; die sind alle Gemeinfrei.“«
+Es wäre sehr zu begrüßen, wenn es bestehen würde.
+»„Aber warum versucht man uns hier immer zu verkaufen, das sei entweder technisch oder wirtschaftlich unmöglich?“«
+Wie es gegenwärtig gemacht wird, ist es auch unmöglich! Glauben sie etwa, dass es Biogas-Anlagen und E10 ohne die Unterstützung des Auslands gäbe? Für Ersteres importieren Betreiber sogar etliche Tonnen günstiges Speiseöl aus China – also ein Lebensmittel; im Grunde dasselbe wie mit dem Mais und Sonnenblumen, wie auch Gras für Tiere.
+Wir haben in Deutschland rund 8.800 Biogas-Anlagen, und diese Menge soll sogar noch verdoppelt werden. Nun sind wir gegenwärtig nicht mal autark, in Zukunft aber noch viel weniger.
+#9: Frank Naumann sagt: »„Nennen sie mir EIN EINZIGES Kraftwerk, das IMMER Volllast arbeitet (und einen einzigen Verbraucher mit konstantem Bedarf).“«
+Gibt es weder bei Werken noch bei Anlagen. Bei der Photovoltaik haben wir sogar den Effekt, dass die Effizienz, beziehungsweise, tatsächliche Leistung wegen des ständigen Verschleiß permanenten abnimmt.
+»„Die Bilanz unserer mittlerweile weitgehend stillgelegten Flotte an Atommeilern ist doch mehr als bezeichnend und genug, um diese Argumentation lächerlich erscheinen zu lassen.“«
+Die Kraftwerke liefen vor einigen Jahren nie unter Volllast. Dies erklärt womöglich auch, wieso über Jahre hinweg der deutsche Markt mit 14 Prozent aus Kernkraftwerken versorgt werden konnte.
+Jetzt kommt bestimmt gleich noch die Aussage, dass man ein Befürworter der Kernenergie ist, obwohl man eine neutrale Position einnimmt.
+“ sonst wird es für viele einfach nicht mehr lesbar und gerade die will man doch erreichen“
+Die Lesbarkeit wird nicht besser durch die Übernahme von Propagandabegriffen. Sie können ohne Probleme nachweisen, daß Windmühlenstromerzeugung schädlich ist.
+“ Leider passieren mir trotz Sorgfalt sogar auf meinem Fachgebiet Fehler“ ==> „Irren ist menschlich“ Buch eines Psychiaters, der nie hinterfragte, was sein Mentor zwischen 1936 und 1945 so getrieben hat.
+„Es ist auch etwas ganz anderes, im Blog „mal auf den Putz zu hauen“ als in einem Artikel.“
+Die Wahrheit zu benennen ist nie „mal auf den Putz hauen“.
+„Auch hat EIKE den Anspruch seriös zu sein und daran muss auch ich mich orientieren.“
+Seriosität beinhaltet die Benennung der Wahreheit und endet spätestens bei der Übernahme (Nichtkennzeichnung) von Propagandabegriffen.
+Bei einem Vortrag in Berlin über die sog. „Erneuerbaren Energien“ in Form der Offshore-Windstromerzeugung fragte mich der Stahlpräsident, wieso ich von sgenannten „Erneuerbaren“ sprach.
+Ich erklärte ihm, daß es die nun einmal physikalisch nicht gibt und es sich um Propaganda bzw. Marketing für ein schlechtes und überteuertes Produkt handele.
+Als Ökolandwirtschaft (Ressourcenschonend?, Umweltschonend?, bessere Produkte?) Thema eines Umweltökonomischen Seminars waren, durften die Studies versuchen „Biomöhren“ von „Chemiemöhren“ zu unterscheiden. Ergebnis: Sie konnten „Bio“ nicht von konventionell unterscheiden.
+Die Wahrheit in diesem Seminar war auch, daß die Studies nicht wußten, wie Gene bzw. veränderte Gene (Sichwort Monsanto-Patente) sich in der Umwelt ausbreiten bzw. was der Transportmechanismus ist.
+Kennzeichnen Sie also alles, wo Öko draufsteht aber kein Öko drin ist, entsprechend. Dann sind Ihre Artikel auch seriös.
+auch Ihre überarbeitete Version weist Widersprüche auf.
+1.) Bild 1: Der Spitzenverbrauch von 70 GW erscheint mir für den Monat November als zu niedrig. Eine Überprüfung bei Agora ergab, dass der Spitzenverbrauch im November bei etwa 85 GW lag. Auch Ihren Quellenhinweis auf entso-e kann ich nicht nachvollziehen – es gibt dort, bei Auflösung stündlich und länderbezogen, noch gar keine (Verbrauchs)Daten vom November. Können Sie bitte Ihre Datenquelle für den Verbrauch offenlegen?
+2.) Bild 2: Was wollen Sie mit dem Verhältnis erzeugte Leistung Wind+PV zu installierter Leistung Wind+PV aussagen? Eine Aussage gegen eine konstante Leistung macht nur bei Betrachtungen im Grundlastbereich Sinn. Würde Wind+PV tatsächlich permanent ihre installierte Leistung zur Verfügung stellen, würde diese die benötigte Leistung immer übersteigen.
+Einzig Sinn macht das Verhältnis erzeugte Leistung Wind+PV zu verbrauchte Leistung Wind+PV, da es nur ein Stromversorgungsnetz gibt, in dem Verbraucher und Erzeuger gleichzeitig sind.
+PS: Herr/Frau Admin: Wie sind Ihre Zensurbemühungen zu diesem Beitrag zu bewerten? (23.12., 22:32 Uhr und 26.12., 14:32 Uhr) Darf ich davon ausgehen, dass Sie Andersdenkenden das grundgesetzlich zustehende Recht auf freie Meinungsäußerung aberkennen?
+Ich mache Ihnen folgenden Vorschlag; ich baue im nächsten Jahr eine Internetseite auf, in der die von Ihnen zensierten Beiträge stehen, entsprechend der Zeitachse im dazugehörigen Thread referenziert werden können und über SEO in Suchmaschinen so platziert werden, dass sie möglichst nah am EIKE-Thread stehen. Sind Sie damit einverstanden?
+Lieber Hr. Naumann,
+für mich als jemand, der sich mit den Notwendigkeiten einer kontinuierlichen Stromversorgung beschäftigt hat, fällt es wirklich schwer, Ihre unbedarften und weitgehend kenntnisfreien Ausführungen zu kommentieren. Wie erklärt man einem Blinden, was Farben sind? Oder gar jemandem, der gar nicht blind ist, aber hartnäckig glaubt behaupten zu müssen, dass Schwarz Weiß sei und umgekehrt?
+Die Braunkohlekraftwerke stehen da, wo sie stehen, weil es dort Braunkohle gibt. Es würde wirtschaftlich sonst keinen Sinn machen, der Transport wäre zu teuer. Glücklicherweise sind in der Nähe auch energieintensive Industrien und Ballungszentren. Auch das Leitungsnetz entspricht völlig dem aktuellen Bedarf. Wir bräuchten weder neue Kraftwerke noch neue Leitungen, wenn es die Grünsozis nicht gäbe.
+Braunkohlekraftwerke sind für die Grundlast gebaut, d.h. für Dauerlauf mit möglichst voller Leistung. Andere Betriebsweisen sind nicht nur unwirtschaftlich, sondern schaden auch den Anlagen. Ein Kaltstart dauert bei so einem Brocken mehrere Tage. Die können Sie nicht einfach den Launen von Wind und Wetter folgen lassen.
+Andererseits sind sie unverzichtbar, wenn – wie im Artikel gezeigt – mehr als 80.000 MW Solar und Wind gerade keine Lust haben, zusammen mehr als 376 MW in ein Netz einzuspeisen, das 70-80.000 MW benötigt. Sie haben ja gar keine Ahnung davon, was passieren würde, wenn man in dieser Situation die Braunkohle-, Steinkohle- und Kernkraftwerke komplett vom Netz nehmen würde. Es gäbe Tote in den Krankenhäusern, Stillstände in den Fabriken und einen Totalausfall der gesamten Volkswirtschaft. Und danach wäre es für Sie sehr unüberlegt, Ihre hier geäußerten Sprüche nochmals in der Öffentlichkeit loszulassen.
+Ich bedaure manchmal, dass die E-Wirtschaft nicht das Gleiche machen kann wie die Piloten oder die Lokführer. Der Lerneffekt schon nach wenigen Stunden oder Tagen würde uns enormen Schaden ersparen und zugleich dafür sorgen, dass Australien einen plötzlichen Zustrom hoch qualifizierter Zuwanderer bekäme, die sich mit Soziologie, Philosophie, Politologie oder Kommunistologie usw. sowie mit der Profitmaximierung ihrer PV-Dachanlage besten auskennen.
+Ihnen würde ich sogar ein Gratisticket spendieren.
+Mfg
+ich erhebe keinerlei Anspruch eines Copyrights für meine Aussagen; die sind alle Gemeinfrei.
+Es ist bestens bekannt, wofür man zusätzliche Leitungen benötigt – nämlich vor allem um bei kurzfristigen Windspitzen im Norden – Die Riesenbrocken an Braunkohle nicht abstellen zu müssen, die leider die ganze Mitte Deutschlands okkupieren- Im Stromnetz gedacht.
+Das ist von der Betriebsführung offenbar nicht möglich. Der Zusatzbedarf, der dann im Süden entsteht hat einen ganz einfachen Grund: Das aktuelle Leitungsnetz kann nicht die Minimalproduktion der Braunkohle transpoortieren und gleichzeitig den Windstrom. Also schmeißt man lokale Kraftwerke an. Details dazu beim neutralen Udo Leuschner: http://bit.ly/1Osv4nY
+Es ist auch noch lang nicht ausdiskutiert, ob wir besser Speicher oder eher Leitungen bauen. Ein europäisches Verbundnetz von Portugal bis zur Ukraine exisiert ja schon.
+Der VDE meint dazu: Speicher machen derzeit wirtschaftlich überhaupt keinen Sinn, und deshalb ist es auch total müßig mit aktuellen Preisen über die eventuellen Kosten zu diskutieren. Auch die Bewältigung der Erzeugungs- und Last(!!!!)-Schwankungen ist derzeit unproblematisch, obgleich sich die „liberalisierten“ Netzbetreiber das mit einer Garantieredite von 9% bezahlen lassen. So´n Beamtenposten mit privatwirtschaftlichem Anstrich wünsch ich mir auch.
+#13: Herr Kuntz
+Wofür einen neuen Begriff einführen, wenns schon einen sehr präzisen und passenden gibt? Wenden Sie Ockhams Rasiermesser an und verkomplizieren sie die Dinge nicht unnötig. Es sei denn sie wollen Verwirren und nicht Informieren. Installierte Leistung ist prima, hat aber wie jeder weiß fast nix mit der elektrischen Arbeit zu tun, die im jeweiligen Kraftwerk umgesetzt wird.
+Die installierte Leistung eines beliebigen Atomkraftwerks liegt um den Faktor drei über der Nennlesistung(el). Also oft rund 5000 MW thermisch. Klugerweise haben die Atomkraftwerker damit nicht geklotzt, sondern sind bescheiden bei der elektrischen Leistung geblieben, Allerdings dann wieder etwas ungenau gerne beim Brutto. Das nützt aber auch niemand was. Interessieren tut nur, was nach Abzug aller betriebsbedingten Aufwendungen rauskommt. Die Gewinnung und AUfbereitung von Atombrennstäben plus ihre Entsorgung und Lagerung der unrbauchbaren Reststoffe zählt dazu. Und dann sieht die Bilanz (alias: Erntefaktor) schon nicht mit so prima aus. Genaue und allgemein anerkannte Zahlen hab ich da leider nie zu gefunden – ein Schelm, wer böses dabei denkt, für Windrädchen gibts das nämlich.
+Die vielzitierte Legende von den 97% Vollast ist natürlich auch falsch. Jedes Atomkraftwerk geht in die Jahreswartung und zwar für meist 3-6 Wochen. Da fehlen schon mal 10% der 8760 Jahresstunden. 97% ist die technische Bereitschaft. Generiert wird viel weniger. Unser bestes Atomkrafwerk Isar/Hou hatte bis 2012 grade mal 67% seiner potentiellen („versprochenen“) elektrischen Arbeit geliefert (355 TWh vs. 520 TWh „versprochene“ Arbeit in geplanten 40 Jahren). Meine Favoriten Hamm-Uentrop, Mülheim-Kärlich kommen auf 3, bzw, 2% und von Niederaichbach, Kahl und gar Kalkar sprechen wir lieber gleich gar nicht.
+Tja, und dann gibt da grade aktuell Tihange und Dole. Voll planbar und zuverlässig 🙂 Schön, das die Betreiber uns versichern, das uns das Kraftwerk diesmal zum Glück nicht verseucht hat; aber das will ich gar nicht wissen. Ich erwarte auch, das bei meinem zitierten VauWehchen ein Reifen platzt und ich NICHT zu schaden komme. Der Ärger, nicht mehr weiterfahren zu können ist groß genug. Wenn ich dann beim Reifenhändler anrufe, und der antwortet: „wat willse denn, du bist noch gesund“ würd ich den mal schnell um die Ecke zitieren.
+Fazit: Ja, Sonne und Wind sind regional und zeitlich sehr unterschiedlich; Das berücksichtigt man ja auch bei der Planung des EE-Stromsystems. Im Markt leider noch nicht hinreichend.
+Aber warum versucht man uns hier immer zu verkaufen, das sei entweder technisch oder wirtschaftlich unmöglich? Ökologisch und vor allem wirtschaftlich unmöglich ist es, weiterhin jeden letzten Dreck aus der Erde zu kratzen und ihn einfach zu verbrennen. Das funktioniert doch nur, weil Kohle, Erdöl und leider auch Erdgas in politschen Systemen gewonnen werden, die sich einen Dreck um soziale Gerechtigkeit (Kolumbien, Russland, Indonesien), Umweltverschmutzung (China, USA, Russland, Australien) oder Menschenrechte kümmern (Russland, Saudi-Arabien, Irak; Die Länderliste bitte nach Gusto ergänzen).
+EE werden in Deutschland erzeugt – ohne das jemand dafür ausgebeutet oder unterdrückt wird. Reicht das nicht schon als Argument?
+Sehr geehrter Herr Heinzow,
+ich bemühe mich in meinen Publizierungen schon um lockere Sprüche und zeige auch deutlich meine Sichtweise. Aber irgendwo hat das Grenzen, sonst wird es für viele einfach nicht mehr lesbar und gerade die will man doch erreichen.
+Es ist auch etwas ganz anderes, im Blog „mal auf den Putz zu hauen“ als in einem Artikel. Leider passieren mir trotz Sorgfalt sogar auf meinem Fachgebiet Fehler – den rein privat erstellten Artikeln sieht man die Arbeit und Schwierigkeiten nicht an und einige erkennen sie auch nicht an. Und dann kommt es eben aus dem Wald so zurück, wie man vorher hineingeschrien hat. Ein kluger Autor lernt daraus (zumindest ein bisschen). Auch hat EIKE den Anspruch seriös zu sein und daran muss auch ich mich orientieren.
+„Der Tenor:
+da wird geschrieben, wir wären doof !!!
+Der Tenor: wir wären einer Propaganda aufgesessen, die Ihresgleichen im 1000 jährigen Reich gleichkommt.“
+Lehrer sind überwiegend nicht zur Selbsterkenntnis -kritik befähigt bzw. haben sie verlernt. Sie dürfen nicht übersehen, daß sie den überwiegenden Teil ihres Daseins mit Menschen verbringen, die ihnen an Wissen und Befähigung naturgemäß unterlegen sind. Treffen diese Menschen auf Leute, die ihnen überlegen sind, haben die ein Problem mit ihrer Selbstfindung.
+Das ist übrigens eines der Phänomene, die sie in Krankenhäusern beobachten können, wenn sie lange und oft genug dort im Bett liegen und die entsprechende Ausbildung haben, um die dortigen sozialen Strukturen empirisch erfassen zu können.
+Es kommt sofort zum Konflikt, wenn der Patient mehr Bildung aufweist als der Arzt, also z.B. das Recht der sozialen Sicherung (Ansprüche auf AHB bei Frakturen mit Gelenkbeteiligung gegenüber RV-Träger), und darauf achtet, daß er optimal mit Hilfsmitteln versorgt wird.
+Ärzte verhalten sich (szial) nicht anders als Lehrer … .
+„Letzte mal vor drei Jahren hier reingeschaut, aber es gibt einfach keinen Erkenntniszuwachs.“
+Lieber Herr Naumann, dann schauen Sie heute, 26. 12. 2015 mal auf http://www.eex-transparency.com/ nach. Der Börsenstrompreis ist negativ. Der Privatkunde kriegt davon aber nichts mit. Im Gegenteil der Strom wird im nächsten Jahr wieder teurer. Sie sind wahrscheinlich der glückliche Eigentümer von Wind- oder Solarstromanlagen.
+„man sollte nicht allzu päpstlich sein.“
+Der Papst ist ein perfektes Vorbild für Heuchler. Kritik an der Realität der Propaganda ist keine Heuchlei.
+„Für mich hat der Begriff „Ökostrom“ nicht mehr Propagandacharakter sondern steht synonym für eine langsam kritischer betrachtete Weltanschauung.“
+Da irren Sie sich ganz gewaltig, denn warum konnte das NS-SED-Gedankengut so lange in den Köpfen der Menschen existieren? Weil man weiterhin die Begriffe der Propaganda (und sogar die NS-SED-Gesetze und Verordnungen) benutzte.
+„Es wird nicht mehr lange dauern, bis der Begriff zu einem „Unwort“ mutiert (ist).“
+Das wird nicht passieren.
+Alkohol = Trinkalkohol = Äthanol = Ethanol mutierte zu Bio-Alkohol = Bio-Ethanol und das Benzin mit dem Zeug gemischt heißt E-10, E-5. Das, obwohl dieser Alkohol nie aus anderen Kohlenwasserstoffen synthetisiert wurde. Im Chemieunterricht wurde die alkoholische Gärung nebst Destillation gelernt.
+Perfekte Propaganda, um einen Stoff, der als Treibstoff unnütz ist, verkaufsfähig zu machen. Eben wirtschaftlich gesehen schlichtes „Marketing“ oder politisch Propaganda.
+“ … auch wenn man nicht ewig mit Vollast fahren darf.“
+Die Dinger sind dafür technisch ausgelegt. Ausnahme z.B. Flugzeugkolbentriebwerke, wo es für die Höchstleistung tatsächlich eine Begrenzug gibt (bzw. gab)(Steht im Betriebshandbuch drin).
+„Weit über 50 % mögen die aber schon gern, um etwas zu verdienen.“
+Das hat mit Technik nur sehr wenig zu tun, sondern ist fast reine BW.
+„Das erklärt, warum früher Strom noch billig war und wo die neuen Energien wirklich stehen.“
+Und wieder verwenden Sie Propaganda. Daß man mit Windmühlen zu Uropas Zeiten keinen Strom erzeugt hat, hat schlichtweg ökonomische Gründe. Windmühlen stellen kinetische Energie bereit. Solarzellen erzeugen elektrische Potentialdifferenzen und Faulgasanlagen erzeugen chemische Potentialdifferenzen. Pflanzen übrigens auch.
+Da ist nix neu dran. Auch an Staudämmen.
+Und das sollten Sie auch herausstellen, denn an dieser Technologie ist nichts neu, nichts öko und auch nichts alternativ. Und „sauber“ ist der Strom auch nicht.
+am Samstag, 26.12.2015, 00:30
+#9 Frank Naumann
+Ich fahre hingegen mit durchschnittlich 10 kWh (mechanisch) pro 100 km – nutze also nur 15% der von VW versprochenen 105 PS. Wie Dumm von mir…
+Nun ist es aber so, dass Sie bei Bedarf jederzeit die von VW versprochenen 105 PS abrufen können.
+Versuchen Sie mal bei einem Windrad einfach so bei Bedarf die Nennleistung abzurufen.
+mfG
+Dafür gibt es doch das „smart grid“. Im neuen „Öko-Deutschland“ läuft nur noch die Waschmaschine wenn der Wind weht und/oder die Sonne scheint. Wenn beides Pause macht, was soll’s, meine Großeltern wechselten auch nur einmal pro Woche die Kleidung. Das macht dann die „große Transformation“ sogar riechbar….
+Ihre mühevolle Ausarbeitung über die Zusammenhänge und Abhängigkeiten der WEA und
+Photovoltaik-Panelen im Verbundnetz Europas, ist ein wichtiger Baustein unserer Öffentlichkeitsarbeit auf der EIKE-Plattform.
+Mich freute ihr Kommentar #13 , der klarstellt mit welcher Intension und Strategie Sie an die Aufgabe herangehen.
+Auf der EIKE – Plattform lesen viele Menschen die Artikel und die angehängten Kommentare dazu.
+Die gewollte Übermittlung des Wissens über die Wirkung der EE-Wandler im Europäischen Stromnetz funktioniert nur , wenn beim Lesen Begeisterung und Verständnis ,im Sinne von Begreifen, eintritt.
+Sonst ist jede noch so gut gemeinte Mühe für die Katz !!
+Viele Pädagogen aus meinem Bekanntenkreis versuchen sich auf der EIKE-Plattform schlau zu machen.
+Der Tenor:
+da wird geschrieben, wir wären doof !!!
+Der Tenor: wir wären einer Propaganda aufgesessen, die Ihresgleichen im 1000 jährigen Reich gleichkommt.
+Fazit: in den persönlichen Gesprächen wurde klar, dass der Pferdefuß beim Verständnis des Übergangs von Mechanik zur Dynamik liegt.
+Mit vereinfachten Modellen und dem so Tun, als wird der Elektrische Strom mit Schubkarren durch Deutschland gefahren , ist diesen Menschen nicht geholfen.
+Alternative zu #9 Frank Neumeier(Naumann)
+Die Hersteller von WEA sind verpflichtet, vergleichbare Leistungsangaben Ihrer Produkte zu machen.
+Diese Leistungsangaben gelten in der Regel für Dauerbetrieb ab einer gewissen Windgeschwindigkeit.
+Da die Windgeschwindigkeit je nach Wetterlage variiert, werden die notwendigen Leistungswerte und damit die Elektrische Arbeit für den erforderlichen Zeitraum nicht erbracht.
+In Ihrem letzten Absatz geben Sie den Bewies, die Problematik der EE_Wandler erkannt zu haben.
+Die theoretische max.Leistung kann nur wetterbedingt zum Einsatz kommen, wenn es erforderlich wäre.
+Bei Ihrer Beispiel mit dem Motor Ihres Fahrzeugs ,ist die vorausschauende Fahrweise ein Garant für minimalen Kraftstoffverbrauch.
+Sie können aber bei Bergfahrten nur mit konstanter Geschwindigkeit weiterfahren, wenn Sie aufs Gas treten.
+Und diese Eigenschaft haben EE-Wandler nur bei passendem Wetter.
+Mit herzlichem Glückauf
+PS: Dummies hab ich für mich übersetzt als Platzhalter für Crashtests.
+… natürlich brauchen wir doppelte Stromleitungen. Wenn im Süden die Sonne scheint und im Norden die Winde wehen, muss der Strom ja irgendwo hin. Wir schicken den Sonnenstrom nach Norden und den Windstrom nach Süden – gleichzeitig.;)
+Und es gibt ja wegen der Erneuerbaren Energien zukünftig auch „zu viel produzierten Strom“. Damit wird dann der Mond angestrahlt, weil es ja keine Speicher gibt. So haben wir zukünftig bei Sturm immer Vollmond.:)
+Das ist die Logik der Leute, die an Erneuerbare-Energien-Phobie leiden. 😉
+Werner Bjoern
+Ich fahre hingegen mit durchschnittlich 10 kWh (mechanisch) pro 100 km – nutze also nur 15% der von VW versprochenen 105 PS. Wie Dumm von mir…
+Nun ist es aber so, dass Sie bei Bedarf jederzeit die von VW versprochenen 105 PS abrufen können.
+Versuchen Sie mal bei einem Windrad einfach so bei Bedarf die Nennleistung abzurufen.
+mfG
+Sehr geehrter Herr Heinzow,
+man sollte nicht allzu päpstlich sein. Für mich hat der Begriff „Ökostrom“ nicht mehr Propagandacharakter sondern steht synonym für eine langsam kritischer betrachtete Weltanschauung. Es wird nicht mehr lange dauern, bis der Begriff zu einem „Unwort“ mutiert (ist).
+#9 Frank Neumeier
+Ihren Einwand zur „versprochenen Leistung“ kann ich überhaupt nicht teilen. Was bedeutet die Angabe „installierte Leistung“ in Ihren Augen? Warum gibt man die an? Fragen Sie doch einen EEG-Befürworter, wie er den Begriff liest und testen Sie ob er weiß, was davon wirklich rauskommt.
+Bei einem konventionellen Kraftwerk kann man installierte Leistung sehr wohl als versprochene Leistung bezeichnen. Sie ist eindeutig planbar und sofern der Nachschub klappt und die Mannschaft nicht streikt auch abrufbar, auch wenn man nicht ewig mit Vollast fahren darf. Weit über 50 % mögen die aber schon gern, um etwas zu verdienen.
+Für Wind und Solar ist das alles definitiv nicht der Fall.
+Beispiele (Quelle: Forschungsradar Erneuerbare Energien – Studienvergleich: Entwicklung der Vollaststunden von Kraftwerken in Deutschland) :
+Die verbliebenen Kernkraftwerke liefen 2011 z.B. zu 97 % des Jahres mit Volllast (ca. 8500 Vollaststunden). Braunkohlekraftwerke 2005 noch zu ca. 80% (ca. 7000 Vollaststunden)
+Das erklärt, warum früher Strom noch billig war und wo die neuen Energien wirklich stehen.
+Auch sollte man Grundlast und Regellast trennen. Sinn der Darstellung ist aufzuzeigen, dass die Hauptträger der „Neuen Energien“ beides nicht können.
+Sie sollten vielleicht doch öfter mal bei EIKE vorbeischauen, um Ihre Vorurteile zu revidieren.
+Zudem ist der Artikel kein Lehrbuch sondern bewusst „populär“ angelegt, sonst liest ihn keiner.
+Lieber Hr. Naumann,
+sagen Sie mal, für wie ungebildet halten Sie eigentlich die Leser hier? (Zitat Copyright Frank Naumann)
+Ganz einfacher Sachverhalt: Früher baute man Kraftwerke da, wo auch die Verbrauchsschwerpunkte waren. Das minimierte die erforderlichen Leitungskapazitäten.
+Heute baut man z.B. „EE“-Kraftwerke in die Nordsee, während im Süden Strom fehlt. Wenn die Dinger dann zuviel liefern, muss man Strom speichern. Wo macht man das? Wo stehen Speicher? Man faselt doch seitens der Grünlinken immer von den „Batterien Europas“ in den Alpen und in Norwegen. Dann muss man den Strom erst dorthin und dann wieder zurück transportieren, er läuft nicht von selbst dorthin. Also braucht man zusätzliche Stromleitungen. Und zwar mit geradezu unglaublichen Zusatzkapazitäten, weil die Windmonster ihre volle Leistung nur von Zeit zu Zeit liefern, ansonsten dagegen die Leitungskapazität nur zu durchschnittlich 18 % (Wind Onshore) oder gar nur 8 % (Sonne) nutzen.
+Wenn Sie diese einfachen und leicht nachzuvollziehenden Sachverhalte nicht begreifen, dann sagt das eine Menge über Sie aus. Wenn Sie, statt Ihre Beschränkung zu erkennen, dafür auch noch die Autoren und Leser hier beschimpfen, sagt das noch mehr über Sie aus. Aber nichts Schmeichelhaftes.
+Ihre Ausführungen lassen darauf schliessen, dass Sie Betreiber einer Solaranlage sind. Ihre Philosophie scheint zu sein, „Hauptsache die Knete für mich stimmt, auf das Geschimpfe der geschröpften Mitmenschen antworte ich mit Beleidigungen“.
+Sie erinnern mich an ein Erlebnis vor einigen Jahren, als ein Hundebesitzer seinen Liebling in den gepflegten Vorgarten eines Nachbarn sch…. liess und auf die Vorhaltungen der empörten Hausfrau mit gröbsten Beschimpfungen und Beleidigungen reagierte.
+Kommen Sie bitte bald wieder. Sie eignen sich hier hervorragend als Negativbeispiel, an dem man die ganze Dummheit und den grenzenlosen Egoismus von Ihnen und Ihresgleichen entlarven kann.
+Mfg
+„… für wie ungebildet halten sie eigentlich die Leser hier“
+Bildung kann man messen, deshalb bedarf es da keiner wie auch immer gearteten Spekulation. Bei Ihnen ist das ganz einfach. Ihre Aussagen derart prägnant, daß die Zuordnung zum Bildungsniveau nicht schwer ist. Allerdings fehlt den diesem Bildungsniveau Zugeordneten generell die Möglichkeit der Selbsterkenntnis.
+Die Bilanz unserer mittlerweile weitgehend stillgelegten Flotte an Atommeilern ist doch mehr als bezeichnend und genug, um diese Argumentation lächerlich erscheinen zu lassen:
+Die „versprochene Leistung“ unserer Atomkraftwerke wurde bestenfalls zu 51% erfüllt. (korrekt gehts auch um elektrische Arbeit). Näheres dazu bei AGEB und in einer Exceltabelle ihrer eigenen Provenienz.
+Andere Kraftwerkstypen schlagen sich eher schlechter, weils eben Unnütz ist, mitten in der Nacht 8000 MW aus Frimmersdorf rauszuholen, nur so als Beispiel. Und weils noch nutzloser ist, zwei funkelnagelneue BoA-Blöcke ans Netz zu hängen, die dann nach wenigen Wochen mal eben in Sekunden abkacken….
+Ay, NEEE. Die „versprochene“ Leistung nennt sich korrekt Prognose und hat genau nix zu tun mit ihrer waagerechten Linie in Grafik 1. Nicht für WInd- und SOlarenergie und auch nicht für ALLE anderen Kraftwerke.
+Aber vermutlich steigen die Autoren auch nur ins Auto, wennn man permanent Vollgas fahren kann…..
+Ich fahre hingegen mit durchschnittlich 10 kWh (mechanisch) pro 100 km – nutze also nur 15% der von VW versprochenen 105 PS. Wie Dumm von mir…
+Selbst wenn ich mir das ganze Dach meiner Mietwohnung vollpflastern würde, würde ich nie den Anschlusswert des Hauses überschreiten. Und selbst wenn? DANN Fließt eben nicht der Kraftwerksstrom zu mir und gleichzeitig meine Erzeugung ins Netz, sondern genau NULL!
+am Mittwoch, 23.12.2015, 21:20
+„Ökostromthematik“
+Warum, Herr Kuntz, verwewnden Sie den Propagandabegriff „Ökostrom“?
+Sie wissen doch sehr genau, daß diese Form der Strombereitstellung alles andere als ökologisch erfolgt und durchweg die Ökosysteme schädigt.
+Wer die Propagandabegriffe benutzt hat bereits verloren. Gehen Sie 82 Jahre zurück, als man über den Rundfunk (Volksempfänger) und die Printmedien begann das Volk zu beeinflussen.
+Einer der Begriffe war Länder ohne Völker und Völker ohne Länder … . Es gab natürlich auch „planwirtschaftliche Maßnahmen“ oder „Evakuierungen“ zur Freimachung von Lazarettbetten … .
+Aus Terroristen werden „Kämpfer“ oder Dschihadisten etc..
+Ich habe den Eindruck, dass die meisten Leute gar nicht erkennen können, das diese bekloppte Erhöhung des Aufwandes, das eigentliche Ziel einer dreisten und täuschenden Lobby ist.
+Diverse Seilschaften wie http://goo.gl/A9pSyp wollen doch unbedingt den Aufwand durch Dezentralisierung, mit einer Vervielfältigung der Kosten fördern und Stricken darum gemeinsam mit politischen Funktionären in Seilschaften an Verkaufs-Förder-Programmen und begründen diesen Blödsinn mit Klima-Hilfe.
+Das mag einem als Ingenieur völlig bescheuert vorkommen.
+Einem Marketing-Strategen mit besten Kontakten in die Politik, geht es allerdings immer nur darum, selbst keine Risiken einzugehen, sonder auf Andere zu verlagern, und weil man sich dazu Haftungs-Verordnungen vom Parlament besorgen kann, geschieht es auch.
+Der unsäglich bescheuerte teure Mehraufwand mit den sogenannten Erneuerbaren wird dabei durch zwei Vorschriften für die Investoren rentabel gemacht.
+Einmal, mit 20 Jahre Vergütungen ohne Rücksicht auf die Verwertbarkeit der wetterabhängigen Stromschübe und dann noch, mit der Zusage, alle so zusätzlich verursachten Kosten, als Umlage auf den Verbraucher-Strom-Preis aufzuladen.
+Auch hier bei EIKE stehen die technischen Verrücktheiten der Energie-Wende häufig ganz im Mittelpunkt, wobei aber die strategischen Konzepte der Investoren, die ihre politischen Damen tanzen, bzw. als Professionelle labern lassen, um in der Öffentlichkeit diese Romantik, der so beruhigenden und entspannenden Windparks, als landschaftlich liebliches Panorama einer grünen Intelligenz zu loben, die nachts sogar noch rot blinkt. (Ist „grünes“ Rotlicht-Milieu)
+Bei den doofen Kraftwerken, wo nur gefährlicher Dampf aus dicken Kühltürmen quillt, da sieht man doch nix was sich dreht.
+Das ist es doch, das Niveau was unsere UBA-Damen sogar als Werbespot präsentieren https://goo.gl/89HAqo und damit ihre Marketing-Strategie sichtbar werden lassen.
+Die politische Gefangennahme der Verbraucher, die gar keine Alternative mehr haben, ist ein echt feudales Marketing-Modell, quasi die „Klima-Königs-Klasse“ was mit Hilfe der Medien, erfolgreich dekoriert und serviert wird.
+Im Vertrauen darauf, dass die Komplexität der bedarfsgerechten Stromerzeugung, nur von wenigen verstanden wird, dass sich die Wirtschaftler ruhig verhalten, randalieren bestenfalls die alten Ingenieure, wegen der technischen Verrücktheiten.
+Wir sind halt in einer echt elitären Minderheit und eigentlich wünschen wir uns, Sicherheit und Wohlstand in Frieden zu erhalten, um noch viele frohe Weihnachten zu erleben.
+Sehr geehrter Herr Smolla,
+Sie werden damit leben müssen, dass die Energiedaten insgesamt und gerade beim Stromverbrauch deutliche Unterschiede aufweisen. Laut meiner Nachfrage bei Agora resultiert es vor allem auch durch unterschiedliche Bewertungen der Import- / Export-Werte und weil die Öko-Einspeisungen aus Stichproben hochgerechnet werden. Ich habe einen offiziellen und berichtigten Datensatz von 2014 von Agora bekommen (aktuellere bekommen sie nicht) und daraus Tageswerte mit Angaben des eigenen und denen in „amtlichen“ Studien (z.B. von Fraunhofer IWES) verglichen. Die Abweichungen sind im Detail drastisch, über Zeiträume gleichen sie sich aber aus.
+Der verwendete Datensatz (nicht von mir erstellt) ist aus den Daten der Netzbetreiber addiert und nicht korrigiert (wie es Agora macht). Es dürften die besten privat und ohne Beschaffungskosten ermittelbaren – aktuellen – Daten sein. Mein Vergleich der Datenverläufe mit den Agora-Bildern zeigt ausreichende Übereinstimmung. Für eine Darstellung der Ökostromthematik ist die Genauigkeit damit auf jeden Fall ausreichend, da selbst größere Abweichungen an allen Kernaussagen definitiv nichts ändern.
+Bild 2: Die Minimumleistung von Wind war 39 MW und von Solar 0 MW, Summe 376 MW ?
+Bei Max und Mittelwert summieren sich die Werte von Wind und Solar, bei MIN nicht.
+Danach:
+Fazit der November-Einspeisung
+Von der versprochenen Leistung wurden wirklich bereitgestellt:
+Wind: 33,3%
+Solar: 4 %
+Solar + Wind: 19,4
+Wie sind diese Zahlen zu deuten, denn der Verweis auf Mittelwerte ist in diesem Zusammenhang sachlich wertlos. Er lässt sich nicht mit einem Zeitbetrag multiplizieren, um auf einen Betrag für die Energie zu kommen.
+Vor kurzem besuchte ich eine Podiumsdiskussion zur Energiewende. Fazit: fast alles bestens, außer ein paar Kleinigkeiten.
+Versorgungssicherheit: Absolute Sicherheit kann es nicht geben und Stromausfälle gab es früher auch.
+Wohin mit dem überschüssigen Strom: Zum Beispiel gibt es dafür u.a. die Lösung das Wasser in Fernheizungsnetzen elektrisch aufzuheizen und damit andere Energie zu sparen…
+Beeinträchtigung der Anwohner und des Tourismus durch Windparks: Beeinträchtigungen gibt es auch durch andere Infrastrukturprojekte wie Autobahnen, Flugplätze oder durch Industrieanlagen. Es gibt immer einige Benachteiligte.
+Probleme sah man allerdings bei der Akzeptanz bezüglich des noch erforderlichen umfangreichen Netzausbaus. Es gibt bereits Forderungen von Grundeigentümern, die für einen Hochspannungsmast den gleichen Betrag haben wollen wie für ein Windrad (z.B. 40.000 € statt der bisher üblichen 400 € für einen Mast), schließlich diene dieser genauso der Energiewende wie ein Windrad.
+Windräder und Leitungsmasten scheinen sich schon gegenseitig im Wege zu stehen. Denn wer auf sein Grundstück einen Leitungsmast gestellt bekommt, kann an dieser Stelle keine Vergütung mehr für ein Windrad kassieren. Und es werden noch viele, viele Windräder gebraucht…
+Es wird immer spannender.
+„Bildlich gesprochen: Wo bisher nur Einbahnstrassen nötig waren, braucht man jetzt eine zweite Fahrspur für den Gegenverkehr.“
+Nicht nur, man braucht auch noch Parkplätze äh Müllhalden für den zuviel produzierten Strom …
+könnten Sie bitte den Unterschied bei den Daten für den Stromverbrauch zwischen Bild 2 (load D = 42.332 GWh) und Bild 3.2 (Verbrauch = 50.400 GWh) erklären, bzw. aus welchem Grund Sie verschiedene Datensätze benutzen?
+Der Unterschied liegt etwa in der Grössenordung der durch KKW erzeugten Strommenge!
+Wie Sie im Hinweis am Anfang schreiben gibt es keine „amtlichen“ Daten, ein Verweis auf die benutzten Quellen wie Sie es in Ihrer Artikelserie über Stromspeicher getan haben wäre daher sehr hilfreich.
+Die Datenlage gerade beim Stromverbrauch ist wirklich sehr verwirrend, einen Einblick über die möglichen Zahlen gibt die Tabelle „Stromaufkommen und -verbrauch“ in http://tinyurl.com/ozzbwak des BMWi.
+MfG
+S.Smolla
+Das ist ja noch nicht das einzige Problem.
+Bildlich gesprochen: Wo bisher nur Einbahnstrassen nötig waren, braucht man jetzt eine zweite Fahrspur für den Gegenverkehr.
+Wasserkraft = PSW und das sind eigentlich Energiesenken und in D nicht weiter ausbaubar.
+„Biogas“ = Agroindustrie-Gas und sowohl teuer als auch stark umweltbelastend; nix Öko…
+„Restmüll“ = totaler Irrsinn, seit wann ist Müll denn Öko?? Nur weil regelmäßig die Tonnen an der Straße stehen??
+„Power to Gas“ = nur was für Ökos und Journalisten die noch nicht einmal eine Wirkungsgradrechnung kennen.
+Bleiben also nur noch der wetterabhängige Strom aus Wind und Sonne. Eigentlich nur wertloser Zufallsstrom der via EEG teuer bezahlt wird. Wie blöde ist eigentlich das Volk sich diesen technischen Rückschritt als Weg in die Zukunft verkaufen zu lassen….

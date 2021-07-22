@@ -1,0 +1,71 @@
+Wird der Luft über der Wasseroberfläche CO2 hinzugefügt, wird erwartet, dass sich die Chemie des Wassers ändert, und der Schwerpunkt liegt beim pH-Wert des Säuregehaltes. Ich denke, dass die Änderung des pH-Wertes, wenn dieser sich im Gleichgewicht befindet, ziemlich leicht erfasst werden kann mit einem billigen, tragbaren pH-Meter mit einer Auflösung von 0,01, aber die gemessene Größenordnung des Effektes scheint signifikant geringer als in der neueren wissenschaftlichen Literatur genannt. In diesem Beitrag geht es zumeist um die Art der Durchführung des Experimentes nebst dessen Ergebnissen.
+Aufbau des Experimentes
+Eine schematische Übersicht des Experiment-Aufbaus zeigt die folgende Abbildung. Ein luftdichter 2-Liter-Vorratsbehälter enthält Luft und Meerwasser sowie tragbare, batteriebetriebene Instrumente zur Messung des pH-Wertes und des atmosphärischen CO2-Niveaus. Letzteres kann verändert werden mittels Einleitung von zusätzlichem CO2. Ein magnetischer Rührapparat mischt beides fortwährend.
+Den tatsächliche Experiment-Aufbau zeigt das folgende Foto. Der pH-Messer ist weiß und der CO2-Messer grau. Dessen Röhrchen zur Einleitung von Luft ist unmittelbar über der Wasseroberfläche erkennbar. Die Technologie der Einlagerung von Lebensmitteln bietet der luftdichte 2-Liter-Container, der Plastik-„Tisch“ hält den CO2-Messer gerade über CO2 Wasseroberfläche, und eine Schutzhülle verhindert, dass der CO2-Messer nass wird. Ein Loch darin stellt die Luftzufuhr sicher. Weitere Details am Ende des Beitrags.
+Der ursprüngliche Plan war, einen kleinen tragbaren Elektro-Ventilator zur Durchmischung der Luft einzusetzen, doch stellte sich heraus, dass die Batterien nach einer Stunde leer waren. Diese Zeit reichte nicht, um ein pH-Gleichgewicht zu erreichen, was etwa 10 Stunden dauert.
+CO2-Herstellung und -Zuführung
+CO2 wurde erzeugt mittels Hinzufügen von Essig zu Natron in einem Becher (mit Spritzschutz). Dann wurde es mittels einer ungebrauchten Spritze in die Apparatur injiziert:
+In einem zugfreien Raum kann man sich das im Becher erzeugte CO2 als eine relativ dichte Flüssigkeit vorstellen, welche dort verbleibt. Es kann in eine geeignete Vorrichtung gesaugt und dem 2-Liter-Glascontainer hinzugefügt werden. Ziel ist eine Anreicherung der Luft mit etwa 1000 ppm CO2, also ein Teilchen pro Tausend, d. h. 2 ml CO2 bei atmosphärischem Luftdruck, welcher einfach hergestellt und eingefangen werden kann.
+Meerwasser
+Meerwasser-Stichproben von jeweils etwa 450 ml wurden an der Küste nahe Weymouth in Dorset geschöpft, das liegt an der Südküste von England. In der Brandungszone gab es einigen Seetang, was den pH beeinflussen könnte. Jede Stichprobe wurde im „Labor“ eine Nacht lang in einer versiegelten, 500 ml fassenden Glasflasche gelagert, um das Meerwasser auf die Lufttemperatur dortselbst zu bringen.
+Vorläufige Ergebnisse
+Jedes Experiment erstreckte sich über 12 Stunden, was in etwa der beobachteten Zeit entspricht, die zur Erreichung eines pH-Gleichgewichtes erforderlich ist. Dabei wurde alle 15 Minuten eine Messung durchgeführt. Die Läufe begannen am Vormittag bis etwa 22 Uhr, über einen Zeitraum also, in welchem die Lufttemperatur im Labor ziemlich konstant bleibt.
+Die folgende Graphik zeigt frühe Ergebnisse für 3 Läufe, einen ohne Zuführung von CO2 (oberste Kurve), eine mit Zufügung von CO2 bis zu einer Anreicherung von etwa 820 ppm (dargestellt in blau mit einer konstanten +0,2-Verschiebung aller pH-Werte, und schließlich das Ergebnis für eine Anreicherung bis etwa 1500 ppm:
+Diskussion
+Falls die gegenwärtige Rate der CO2-Zunahme in der Atmosphäre von etwa 2,4 ppm pro Jahr andauert, dann wird der Gehalt zum Ende des 21. Jahrhunderts etwa 600 ppm betragen mit einer Änderung des pH-Wertes von Meerwasser um etwa 0,15. Das ist deutlich weniger als die in der wissenschaftlichen Literatur angeführten Werte. Man beachte, dass die pH-Änderung um 0,15 im Meerwasser mit einem pH von 8,8 ermittelt worden ist, was sich am oberen Ende der beobachteten Bandbreite befindet. Die Wasserstoff-Ionen-Konzentration bei einem pH von 7,8 ist zehnmal höher als bei einem pH von 8,8, so dass die Änderung in Meerwasser mit einem pH von 7,8 sogar niedriger liegen kann als 0,15.
+EQUIPMENT DETAILS
+· pH meter: Hanna Instruments HI 98108
+· CO2 meter: Kane-alert- CO2
+· Magnetic Stirrer: Hanna Instruments HI 190M
+Anmerkung
+Wasser in einem geschlossenen Behälter ergibt 100% Relative Feuchtigkeit, und Kondesation könnte eventuell die Leitfähigkeit des Messinstruments beeinflussen. Daher wurde alles nach jeder Messung sorgfältig getrocknet.
+Weitere Informationen
+Auf dieser Website kann man die Entwicklungen verfolgen und auch Kommentare abgeben.
+Link: https://wattsupwiththat.com/2019/05/17/an-ocean-acidification-experiment/
+Übersetzt von Chris Frey EIKE
+1. Eine Versauerung muss nicht notgedrungen in den sauren Bereich führen. Jede herbeieführte Absenkung des pH-Wertes kann so benannt werden. Und es wurde ein Absinken des pH-Wertes in den Weltmeeren beobachtet, also ist die Aussage korrekt.
+2. Die Organismnen in den Weltmeeren haben sich an stabile Verhältnisse angepasst. Schon eine geringfügigere Abweichung kann Schaden anrichten, bei der einen Art mehr, bei der anderen weniger. Die notwendige Menge an CO2 in der Luft, damit Korallen und Schalentiere direkt ihre Schalen verlieren werden wir kaum jemals erreichen. Dennoch führt bei manchen Arten ein Absinken des pH-Wertes um 0,15 bereits zu geringeren Vermehrungsraten von 30%, bei 0,3 sogar zu 50%. Es ist sehr schwer abzuschätzen, was das Verzerren von Vermehrungsraten für das Ökosystem bedeutet, aber eins steht fest, nichts Gutes.
+Ansonsten netter Beitrag.
+Sie sehen das Oxymoron?
+Ansonsten Netter Kommentar. Annalena hat Sie sicher lieb….
+Ich würde das Thema nicht unter den Teppich kehren.
+1. es wurde ein Absenken des pH Wertes in den Weltmeeren beobachtet?
+Dazu ist zu sagen, das selbst beim IPCC gesagt wird das viel zu wenig Daten vorliegen
+Dazu lesen sie das entsprechende Kapitel vom IPCC Report.
+2. Dennoch führt bei manchen Arten ein Absinken des pH-Wertes um 0,15 bereits zu geringeren Vermehrungsraten von 30%, bei 0,3 sogar zu 50%.
+Welche Arten, wo beschrieben, Welche Arten sind nicht betroffen oder haben sogar einen Vorteil?
+Danke
+Das bezweifle ich, besonders, da sich in den Meeren der pH- Wert äusserst langsam ändert, anders als im Versuch. Diese sehr langsame Änderung auf Zeitskalen mehrerer Jahrzehnte kann in einem Feldversuch schlecht dargestellt werden. Man wird also auf diese verzichtet haben und evtl. Plankton- Vermehrungsraten -*Beginn* der Nahrungskette- bei sprunghaften pH- Wechseln in isolierten Systemen beobachtet haben.
+Ich wäre in einem solchem Fall ziemlich skeptisch, solcherart gewonnene Ergebnisse als übertragbar auf das reale Ökosystem anzusehen.
+Benennen Sie doch bitte exemplarisch solche Arten, und ggfs. die Versuche dazu.
+ich möchte Einspruch erheben. Es gibt in unseren Weltmeeren nicht DIE stabilen Bedingungen und viele Organismen können sich sehr gut an die unterschiedlichsten Bed. anpassen. Also: „schon geringfügige Abweichungen“ können sie vergessen. Die Ostsee hat z.B. ganz andere Bedingungen, wie der Atlantik. Dorsche, Heringe usw. wandern trotzdem. Allein in tieferen Zonen herrschen andere Bedingungen u. die Orga. steigen auf u. runter. Es gibt zahlreiche Wanderer zw. Süß- u. Salzwasser (Aal, Lachs, Forelle, Hai, Krabben) u. ganze Biotope im Grenzbereichen mit heftigen Änderungen. Wenn Sie mal in Norge beim Angeln waren u. sie finden einen Süßwassereinlauf, dann sollten sie dorthin fahren, da stehen die Fische! An den schwarzen Rauchern herrschen stark wechselnde Bedingungen auf engstem Raum u. wimmelndes Leben. Die Raucher brechen ein u. erlöschen. Trotzdem können die Orga abwandern und sich wieder ansiedeln. In Korallenriffen gibt es Korallen, die an die verschiedensten Bed. angepasst sind, höhere Temp. aushalten etc. Je nach Bed. vermehren sich dann die versch. Spezies. Korallenriffe können sich komplett mit den Klimazonen „verschieben“. Wenn sie ablaichen, treibt es mit dem Plankton u. bildet neue Riffe an geeigneten Stellen. Das war schon immer so. Das waren nur ein paar Beispiele. Natürlich gibt es wie überall, Orga, die an Nischen angepasst sind. Hatte selbst jahrelang ein Meerwasseraqaurium u. immer Probleme den ph hoch zu bekommen, hatte immer 7,5-7,8. Hat keinen Bewohner gestört. Die Amphirions (Clown Fische) haben regelmäßig abgelaicht.
+tut mir leid Ihnen sagen zu müssen, dass Sie von den Verhältnissen im Meer wohl nicht allzuviel verstehen, wenn Sie behaupten: „Die Organismnen in den Weltmeeren haben sich an stabile Verhältnisse angepasst. Schon eine geringfügigere Abweichung kann Schaden anrichten, bei der einen Art mehr, bei der anderen weniger.“
+Was bitteschön sollen bei den Meeren „stabile Verhältnisse“ ein? Temperatur? Von Minusgraden bis zu weit mehr als 100 °C an Schwarzen Rauchern. Salzgehalt? Von extrem salzig in manchen tropischen Randmeeren mit hoher Verdunstung bis zu Brackwasser in Flussmündungen. pH-Werte können um einen ganzen Skalenwert abweichen, je nach Ort und Zeit. CO2-Gehalt? In weiten Grenzen, beispielsweise da, wo vulkanisches CO2 ständig hochblubbert, u.a. in bestimmten Bereichen des Mittelmeers. Dort ist das Wasser bis zum Stehkragen mit CO2 gesättigt, trotzdem kann man dort wunderschöne Korallen, Fische usw. beobachten. Ionenangebot? Dito, je nach entsprechender Fracht von Zuflüssen.
+Hr. Schrage, Sie haben sich wieder mal als nichtsahnender, aber dafür glaubensfester Troll entlarvt. Schönen Tag noch.
+Das CO² im Meerwasser gast aus!
+Ich kennen das zu gut aus der MineralwasserIndustrie. (meinem ehemaligen Arbeitsort)
+Dort wird das Wasser stark gekühlt und mit 100% CO² Gas im Gegenstromverfahren mit CO² angereichert, ansonsten ist keine Aufgasung möglich.
+Wenn das Meerwasser in den Nordmeeren mehr CO² aufnimmt ist es tropischen Meeren wieder ausgegast.
+Die Tabellen für die Sättigunsgehalte kann man bei Gasherstellern wie „Linde“
+– „Air Liquide“ oder vom Fachverband Kohlensäure-Industrie E.V Koblenz erhalten.
+B.Lucke
+Die Versauerung der Meere ist ein Hirngespinst.
+Aber wozu nimmt Wasser CO2 auf, was nutzt CO2 im Meerwasser, wozu wird es dort dringend gebraucht, so wie wir die „Absonderungen“ der CO2-Nutzer im Ozean dringend brauchen?
+Fragen Sie doch mal Biologen oder Meereswissenschaftler, aber bitte nicht Wegener-Institut (was der wohl von der halten würde, wenn wir es noch erfahren würden?)
+Was soll’s. Ich habe dermaßen die bewusste Klappe voll im Wissen, daß all das nichts nutzen wird: din beruehmte Wand des Belsazars. Da stand alles, klar und deutlich – aber lesen und wahr-nehmen, wollte es keiner.
+Und ich erinnere mich, da gab es doch den Publius Terentius: Wahrheit erzeugt Hass. Oder: Cum ratione insanire – mit Vernunft unvernünftig handeln.
+Was noch sagte G.B.Shaw: „Der einzige Mensch, der sich vernünftig benimmt, ist mein Schneider. Er nimmt jedesmal neu Maß, wenn er mich trifft, während alle anderen immer noch die alten Maßstäbe anlegen in der Meinung, sie paßten auch heute noch.“
+Noch etwas zur gffl. Erbauung bzw. zur FFF-Bewegung: „Wo jeder lärmend sich einmengt, wird man niemals zur Vernunft kommen.“ Das wird immerhin Buddha zugeschrieben.
+Man beachte die Temperaturabhaengingkeit vom pH Wert, die unabhaengig von der CO2 Luftkonzentration exisitiert. Also unbedingt Temperaturen mit angeben.
+Um reelle Aussagen zu bekommen muss man aber noch andere Prozesse mit einbeziehen.
+Obenan das Binden von CO2 durch biologische Prozesse.
+Um ein einfaches visuelles Resultat zu bekommen, kann man das Experiment mit Atemluft und Thymolblau versuchen oder BromThymol.
+Der Effekt auf Klimaforscher, Gruenglaebige und Schulschwaenzer ist erstaunlich. Der Farbwechsel kann ganz einfach als Versauerung eingeordnet werden und braucht keine weitere Erklaerung.
+Die „Versauerung“ der Meere ist „sichtbar“.
+So gesehen an hiesieger Universitaet, ein weiterer Naepper, Schlepper Bauerfaengertrick der Klimaunwissenschaft.
+Wachsam bleiben.
+Thymole haben den Farbwechsel schon im basischen Bereich also nix „sauer“.
+Und Atemluft 100 mal mehr CO2 Konzentration!
+Ich demonstriere das Phänomen auch gern in einem mit Stopfen verschlossenen 2-l-Glaskolben mit 1 l künstlichem Meerwasser (3,5 %, Leitungswasser, Meersalz aus dem Supermarkt, nicht jeder wohnt am Meer). In den Gasraum wird einfach mit einer kleinen Injektonsspritze (Medizinbedarf) 0,4 ml CO2 aus der Druckgasflasche (ich weiß, das hat auch nicht jeder) eingespritzt, also die CO2-Konzentration in der Atmosphäre verdoppelt. Da sieht man, wie wenig das ist. Die Auswertung kann bei Zeitmangel mit dem Ergebnis einer früheren Versuchsdurchführung demonstriert werden.
+Dann muss natürlich noch das Thema Pufferwirkung strapaziert werden, man betreibt ja keine Zaubershow.
+Und danach kommt garantiert einer mit grimmigem Gesichtsausdruck angelatscht: „Aber, ich glaub‘ das nicht …“

@@ -1,0 +1,89 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Wir proben den Schwarzfall: Modell eines Inselnetzes mit Kopplung an das Verbundnetz" author="Wolfgang Müller" date="2015-03-20" source="https://eike-klima-energie.eu/2015/03/20/wir-proben-den-schwarzfall-modell-eines-inselnetzes-mit-kopplung-an-das-verbundnetz/" hostname="eike-klima-energie.eu" excerpt="Nein, die heutige Sonnenfinsternis ist nicht gemeint, obwohl sie zu einem Dunkelfall führen könnte. Unser Autor Michael Treml hat einfach mal durchgespielt was passiert, wenn ein Inselnetz an die Grenzen seiner Möglichkeiten des Einsatzes von Windkraft, Speicher, Dieselgenerator und Verbundnetz geraten ist und wieder starten muss. Probieren Sie es auch! Mit Update (Phasenschieber) vom 28.3.15" categories="Energie" tags="" fingerprint="H94EIwhK5lhzBb+SN2qDqWiLg4Y=">
+  <main>
+    <p>Michael Treml, Bremen</p>
+    <p>Für alle, die mal ein Inselnetz fahren wollen, ist hier ein Softwaremodell mit einer Windkraftanlage, einem Dieselgenerator, einem Speicher und einer Verbundnetzkupplung. Dazu ist das Programm Projekt1.exe zu starten. Wie man es installiert erfährt man am Ende dieses Beitrags. Es erscheint dann das Fenster mit den Rahmen Windkraftanlage, Speicher , Dieselgenerator, Inselnetz und Verbundnetz. Beim Start des Programms ist das Inselnetz schwarzgefallen:</p>
+    <p>Die Anzeigen "Schwarzfall und Netz ist unsicher" stehen an. Es ist jetzt das Netz neu aufzubauen. Die Windanlage kann nur auf ein stabiles Netz geschaltet werden. Deshalb ist der Generatorschalter und die Anwahl nicht aktivierbar. Am einfachsten schaltet man den Kuppelschalter zum Verbundnetz ein und hat damit eine sichere Versorgung der Insel. Die Hinweise Schwarzfall und Netz ist unsicher kann man jetzt durch Klicken auf die beiden Textfelder löschen. Man wählt jetzt die Nennleistung der Windanlage über die Optionbutton1 bis Optionsbutton4. Der Startwert ist 500 kW. Der Generatorschalter der Windanlage sowie der Speicherschalter sind jetzt aktiv. Die Anzeige Netzfrequenz im Rahmen Inselnetz zeigt jetzt 50 Hz. Mit dem Scrollbar Netzlast kann man jetzt die Netzlast wählen, die Anzeige ändert sich in 1kW oder 10kW Schritten. Wir stellen jetzt 110 kW ein. Da die Insel noch keine eigene Erzeugung hat wird die Leistung voll vom Verbundnetz getragen. Die Anzeige Übergabeleistung im Rahmen Verbundnetz zeigt jetzt –110 kW und entspricht der Netzlast mit negativem Vorzeichen um die Richtung der Leistung zum Inselnetz anzuzeigen.</p>
+    <p>Jetzt kann die Windanlage gestartet werden. Dazu schaltet man den Generatorschalter ein. Damit verbindet man den Inverter der Windanlage mit dem Netz. Die Steuerung der Windanlage stellt jetzt durch Messung der Netzimpedanz fest ob das Netz sicher ist. Dann schaltet man die Anwahl ein. Damit wird die Windanlage angewiesen automatisch je nach Windverhältnissen zu arbeiten. Das bedeutet :</p>
+    <p>1. Einschalten der Erzeugung bei Windgeschwindigkeiten ab 4 m/s. Die Leistung ist proportional dem Kubik der Windgeschwindigkeit.</p>
+    <p>2. Begrenzung der Windleistung auf die Nennleistung bei Windgeschwindigkeit von mehr als 13 m/s durch Rotorblattverstellung.</p>
+    <p>3. Abschaltung der Erzeugung bei Windgeschwindigkeit von mehr als 25 m/s und Sicherung der Anlage.</p>
+    <p>4. Wiederanfahren der Erzeugung bei Windgeschwindigkeit von weniger als 25 m/s.</p>
+    <p>5. Automatisches Ausschalten der Anlage bei Windgeschwindigkeit von weniger als 4 m/s.</p>
+    <p>Mit dem Scrollbar Windgeschwindigkeit kann jetzt die Anlage auf Leistung gebracht werden. Die Anzeige Windgeschwindigkeit ändert sich in 0.1m/s oder 1m/s Schritten. Wir stellen jetzt 7 m/sec ein. Die Generatorleistung ist jetzt 78.06 kW. Die Generatorleistung wird von der Übergabeleistung abgezogen, verbleibt also im Inselnetz. Die Anzeige Übergabeleistung zeigt jetzt –31,94 kW (110 kW – 78,06 kW).</p>
+    <p>Im Modellnetz ist der Betreiber der Windanlage verpflichtet einen Speicher vorzuhalten. Dieser soll die Auswirkung der volatilen Erzeugung der Windanlage auf das Inselnetz und Verbundnetz durch Ladung und Entladung auf einem Wert halten, der dem Mittelwert der Erzeugungsleistung der letzten Woche entspricht. Diese Mittelwertberechnung kann nicht Bestandteil dieses Programm sein. Deshalb kann dieser Mittelwert mit dem Scrollbar Mittelwert eingestellt werden. Die Anzeige Mittelwert ändert sich in 1kW oder 10 kW Schritten. Beim Programmstart ist der Mittelwert 100kW und der Füllstand 50 kWh. Der Speicher kann nur von der laufenden Windkraftanlage geladen werden.</p>
+    <p>Wir schalten jetzt den Speicherschalter ein. Die Speicheranlage will jetzt die Summe aus Windleistung + Entladung – Ladung auf 100kW bringen. Der Speicher geht auf Entladung von 21,94 kW. Die Summe aus Entladung und Windleistung ist jetzt 100kW und der Füllstand des Speichers wird langsam entladen. Die Erzeugung der Insel ist jetzt 100kW, die Netzlast ist aber 110 kW. Also müssen 10 kW vom Verbundnetz kommen. Anzeige Übergabeleistung = -10,00 kW.</p>
+    <p>Jetzt ist die Insel gut versorgt und wir freuen uns. Jetzt kommt der Haken an der Sache. Der Verbundnetzbetreiber verlangt das mindestens 10% der Netzlast im Stundenmittel vom Verbundnetz bezogen werden müssen, weil der ja die Kabel zur Insel finanzieren und betreiben muss. Das bedeutet das die Übergabeleistung –11 kW sein müßte. Wir stellen jetzt den Mittelwert auf 99 kW und haben dann –11kW Übergabeleistung.</p>
+    <p>Und wieder haben wir Pech denn der Wind schläft ein, wie stellen die Windgeschwindigkeit schrittweise herunter auf 3m/sec, und die Windanlage wird abgeschaltet. Der Speicher bringt jetzt 99 kW Leistung, aber der Füllstand fällt rapide. Wir wollen nicht solange warten und klicken auf den Commandbutton Leer. Damit stellen wird den Füllstand auf 5% der Kapazität. Mit dem Commandbutton Voll stellt man den Füllstand auf 95% der Kapazität. Der Speicher ist jetzt leer und geht jetzt in Stillstand. Die Übergabeleistung geht auf –110 kW. Der Strombezug ist jetzt teurer als die Erzeugung mit dem eigenen Dieselgenerator.</p>
+    <p>Vor dem Start des Dieselgenerators wählt man die Nennleistung des Aggregats durch Click auf die Optionsbutton 400 kW oder 2000 kW an. Wir starten jetzt den Dieselgenerator durch einen Click auf den Commandbutton Start. Der Diesel läuft an und erreicht nach kurzer Zeit 750 U/min entsprechend 50.000 Hz. Die Maschine wird in Synchronlauf gebracht und der Generatorschalter wird freigegeben. Durch Click auf die Checkbox Generatorschalter schalten wir den Dieselgenerator ans Inselnetz. Jetzt müssen wir ihn in der Leistung hochfahren. Man stellt dazu durch Click auf den Scrollbar den Drehzahlsollwert höher. Der Drehzahlsollwert ändert sich in Schritten von 0,1 U/min oder 1 U/min. Bei 751,9 U/min hat die Maschine eine Leistung von 101,33 kW . Die Übergabeleistung ist jetzt –8,67 kW.</p>
+    <p>Jetzt probieren wir den reinen Inselbetrieb. Wir Clicken auf Kuppelschalter und schalten damit die Verbindung zum Verbundnetz ab. Die Übergabeleistung ist jetzt 0.0 kW. Die Inselnetzfrequenz wird jetzt vom Dieselgenerator bestimmt. Wir haben jetzt eine Dieselleistung von 110 kW bei 49,989 Hz.</p>
+    <p>Jetzt kommt wieder Wind auf . Die Summe aus Windleistung + Ladung – Entladung darf jetzt nicht größer werden als die Leistung des Dieselgenerators, sonst geht er über Rückwatt in Störabschaltung. Vorsorglich stellen wir den Mittelwert auf 40 kW, denn wenn Wind aufkommt wird der leere Speicher bei einer Windleistung von mehr als 40kW geladen. Wir stellen jetzt die Windgeschwindigkeit auf 7 m/sec. Die Windleistung ist jetzt 78,06 kW, also über dem Mittelwert. Der Speicher wird geladen mit 38,06 kW. Der Dieselgenerator hat jetz eine Leistung von 70 kW. Die Netzfrequenz liegt auf 50,039 Hz. Solange der Speicher nicht voll ist kann jetzt der Wind sein Spiel treiben wie er will. Wir probieren es und stellen die Windgeschwindigkeit schrittweise auf 13 m/sec. Jetzt ist die Windanlage auf Vollast mit 500 kW und lädt den Speicher mit 460 kW. Das ist alles sehr schön, aber was passiert wenn der Speicher voll ist ?</p>
+    <p>Das probieren wir jetz aus. Wir clicken auf den Commandbutton Voll . Der Speicher ist vollgeladen und geht in Stillstand und wir haben dann eine Leistung von 570 kW am Netz, Windleistung + Generatorleistung, aber nur eine Last von 110 kW. Das treibt die Frequenz in kürzester Zeit nach oben. Der Dieselgenerator wirft seine Last von 70 kW ab. Bleiben jetzt noch 500 kW am Netz. Der Dieselgenerator wird jetzt von der Windanlage bei steigender Frequenz angetrieben und geht nach 5 sec in Rückwatt. Notaus !</p>
+    <p>Das ist dann der Schwarzfall.</p>
+    <p>Man wählt jetzt das Programm ab und startet neu. Dann hat man wieder die Startwerte. Man kann dann alle möglichen Szenarien durchspielen und sich seinen letzten Nerv stehlen lassen.</p>
+    <p>Ich wünsche allen viel Spass.</p>
+    <p>Wie kommt man jetzt zu dem Programm ?</p>
+    <head rend="h1">Update vom 28.3.15</head>
+    <p>Hallo Freunde,</p>
+    <p>die erweiterte Software ist fertig.</p>
+    <p>Wie kommt man jetzt zu dem Programm ?</p>
+    <p>Estellen Sie ein Verzeichnis mit dem Namen zB. „Inselnetz“</p>
+    <p>In dieses Verzeichnis laden Sie die auf</p>
+    <p>http://filehorst.de/d/bniFFksg</p>
+    <p>befindliche Datei „Paket.RAR“ herunter.</p>
+    <p>Diese Datei müssen Sie entpacken, zB. mit WinRAR oder WinZIP . Darin befinden sich die Dateien</p>
+    <p>1. Projekt1.CAB</p>
+    <p>2. Setup.exe</p>
+    <p>3. SETUP.LST</p>
+    <p>4. Fenster1.jpg</p>
+    <p>5. Projekt1.doc</p>
+    <p>6. Projekt1.pdf</p>
+    <p>Dann starten Sie Setup.exe</p>
+    <p>Es folgt ein für Windows bekanntes Setup.</p>
+    <p>Ich wünsche Spaß am Programm und keinen Nervenzusammenbruch.</p>
+    <p>Michael Treml , Bremen</p>
+  </main>
+  <comments>
+    <p>die erweiterte Software ist fertig.</p>
+    <p>Wie kommt man jetzt zu dem Programm ?</p>
+    <p>Estellen Sie ein Verzeichnis mit dem Namen zB. „Inselnetz“</p>
+    <p>In dieses Verzeichnis laden Sie die auf</p>
+    <p>http://filehorst.de/d/bniFFksg</p>
+    <p>befindliche Datei „Paket1.RAR“ herunter.</p>
+    <p>Diese Datei müssen Sie entpacken, zB. mit WinRAR oder WinZIP . Darin befinden sich die Dateien</p>
+    <p>1. Projekt1.CAB</p>
+    <p>2. Setup.exe</p>
+    <p>3. SETUP.LST</p>
+    <p>4. Fenster1.jpg</p>
+    <p>5. Projekt1.doc</p>
+    <p>6. Projekt1.pdf</p>
+    <p>Dann starten Sie Setup.exe</p>
+    <p>Es folgt ein für Windows bekanntes Setup.</p>
+    <p>Ich wünsche Spaß am Programm und keinen Nervenzusammenbruch.</p>
+    <p>Michael Treml , Bremen</p>
+    <p>Sie haben Recht, die Versionsdarstellung ist nicht aktuell. Tut mir leid, aber man macht das ja nicht jeden Tag.</p>
+    <p>Man findet die richtige Version unter :</p>
+    <p>http://filehorst.de/d/bFcvirJh</p>
+    <p>Die Unterdrehzahlmeldung in rot quittiert man durch Klick auf das Textfeld. Der Generatorschalter wird erst</p>
+    <p>wieder freigegeben wenn man den Diesel wieder anfährt</p>
+    <p>und er 50 Hz Generatorfrequenz anzeigt.</p>
+    <p>Demnächst folgt eine neue Softwareversion mit einem Phasenschiebertransformator. Ich werde das in diesem EIKE-Beitrag als Kommentar bekannt machen.</p>
+    <p>Weiter viel Spaß mit dem Programm.</p>
+    <p>Mfg.</p>
+    <p>Michael Treml</p>
+    <p>Bremen</p>
+    <p>Ich werde warten bis Sie Herr Tremel den Phasen Schieber drinn haben.</p>
+    <p>Könnten Sie es dann bitte wieder hier veröffentlichen.</p>
+    <p>Wenn Sie dem wind noch etwas eigenleben vepassen wird es übrigens erst richtig interesant.</p>
+    <p>Schent vast in richung Leitstellen Simulation zu gehen.</p>
+    <p>Gruß aus Karlsruhe</p>
+    <p>ich freue mich von Ihnen zu hören und hoffe</p>
+    <p>Sie bei bester Gesundheit in Bremen anzutreffen.</p>
+    <p>Ich plane das Programm um die Funktion des Phasenschiebertransformators zu erweitern.</p>
+    <p>Von dem wird ja auch viel Unsinn in deutschen Köpfen gedacht gedacht.</p>
+    <p>Kollegiale Grüsse sendet</p>
+    <p>Michael Treml</p>
+    <p>ich hoffe, dass die Inselnetzfähigkeit in Bremen weiterhin Bestand haben wird.</p>
+    <p>Herzliche Grüße</p>
+    <p>Und was ist mit den Ausfallzeiten zb. bei technischen Defekt oder turnusmäßigen Wartungen…;)</p>
+  </comments>
+</doc>

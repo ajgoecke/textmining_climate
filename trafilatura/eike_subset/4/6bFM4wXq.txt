@@ -1,0 +1,337 @@
+In den Medien liest man oft über die enorme „Praxistauglichkeit“ von Stromern. Genannt wird dann oft der Marktführer Tesla mit seinen beeindruckenden Daten. Vergessen wird dabei zu erwähnen, dass man dafür fast 100.000 EUR ausgeben muss und ein Tesla fast 800 kg alleine an Akkugewicht mit sich herumschleppt. Gut, dafür fährt man sein Autoleben lang mit kostenlosem Strom – sofern eine Tesla-Elektrotankstelle immer in Reichweite ist – und Tesla selbst erwirtschaftet seit seinem Bestehen ausschließlich Verluste, die bisher noch der Eigentümer für sein Lieblingsspielzeug bezahlt.
+Manchmal würde man aber doch gerne wissen, wie die Wirklichkeit wenigstens ungefähr aussieht. Deshalb anbei eine kleine Zusammenfassung was die Zeitschrift Auto Motor Sport durch Testfahrten des TÜV Süd[5]* ermittelt hat.
+Wie weit kommt man mit einem Elektroauto*
+Im Kapitel „Reichweiten-Testergebnisse“ sind die Test-Angaben aus [5] zusammengefasst. Vorab dazu die Daten des BMW i3 um die Unterschiede in den verschiedenen Betriebsmodi und mit Berücksichtigung der Batterie-Alterung zu zeigen:
+Elektroauto BMW i3
+Herstellerangabe: Reichweite (kombiniert): 190 Kilometer. Kundenorientierte Reichweite: bis zu 160 Kilometer
+Bild 1 Reichweiten des Elektroautos BMW i3 bei optimaler Temperatur von +23 °C nach[5] mit Ergänzungen durch den Autor
+Die Werte der Tabelle Bild 1 gelten bei Sommertemperatur von +23 °C. Bei einer Wintertemperatur von -7 °C muss vor allem wegen der Heizung und erheblichen Batterieverlusten mit einer zusätzlichen Reichweitenverringerung zwischen 10 … 30 % gerechnet werden. Ähnliches gilt auch, wer im Sommer eine Klimaanlage gewohnt ist.
+Was ebenfalls oft vergessen wird ist die Ladetechnik. Nur bei sehr langsamer Ladung lässt sich ein so hoch-sensibler Hochleistungsakku auf 100 % laden. Bei der propagierten Schnellladung – wobei das „Schnell“ schon bei 5 Stunden beginnt – sind realistisch ca. 80 % Lademenge möglich. Und Entladen sollte man den Akku tunlichst auch nicht ganz, weshalb ein Akku mit 20 % Restenergie als leer betrachtet werden kann. Beachtet die ein Nutzer – um die Lebensdauer des teuren Akkus zu schonen – reduziert sich die nutzbare Reichweite natürlich von Beginn an drastisch.
+Den modernen Bürger stört das aber nicht. Das Öko-Institut e.V. hat in einer Studie herausgefunden, dass der öko-konforme Zukunfts-Bürger ab dem Jahr 2030 keinen Wunsch mehr nach Reichweite haben wird, bzw. einen Mobilitätsradius von 25 km zugestanden bekommt, da er sich zu CO2-Vermeidung vollkommen den dann notwendigen (Energiespar-) Maßnahmen unterwirft:
+Öko-Institut e.V[14]:
+Die Flexibilität der batteriebetriebenen Elektrofahrzeuge im Jahr 2050 ist in den Szenarien hoch: Die Fahrzeuge sind während der Standzeiten meist netzgekoppelt und alle Nutzer von batterieelektrischen Fahrzeugen akzeptieren Lastmanagement bei der Batterieladung, sobald die Batterie bis zu einem Mindestladestand von 50 km Reichweite aufgeladen ist.
+Zusammenfassung: Einflüsse auf die Reichweite
+Temperatur
+· Die Temperatur hat erheblichen Einfluss auf die Speicherkapazität. Und vor allem die Innenraumheizung oder Klimaanlage benötigt viel Energie welche dem Motor fehlt.
+Beim BMW i3 ist das wie folgt beschrieben: „Reichweite abhängig von unterschiedlichen Faktoren, insbesondere: persönlicher Fahrstil, Streckenbeschaffenheit, Außentemperatur, Heizung/Klimatisierung, Vortemperierung.“
+· Die Ladeverluste der Batterien nehmen mit sinkender Temperatur drastisch zu und können bei -7 °C bereits 48 % [9] erreichen
+Batterie-Alterung
+· Grob rechnet man mit einer Kapazitätsminderung von -10 … 17 % nach 3 Jahren und ca. -20 …-30 % nach 7 … 10 Jahren. Hersteller empfehlen nach -20 … -30 % Kapazitätsverlust die Batterie zu tauschen[1].
+Ladezyklus
+· Batterien für Elektroautos soll man nie ganz voll laden und nie ganz leer fahren, sonst erhöht sich der Verschleiß. Empfohlen wird der 80/20% Wert für die Lade-/Entlademenge[1]. Bei Schnellladung kann nur auf ca. 80 % geladen werden.
+Fahrgeschwindigkeit
+· Sie hat starken Einfluss auf den Stromverbrauch. Deshalb wurde im Test der Verbrauch auf der Autobahn getrennt gemessen
+In den Tabellen der Bilder 4 und 5 des Kapitels „Reichweiten-Testergebnisse“ sind Testwerten aus realen Verbrauchsmessungen und der Vergleich mit den Herstellerangaben zusammengefasst. Zusätzlich sind die bei Elektroautos mit zu beachtenden Änderungen durch Verschleiß und Betriebsarten exemplarisch eingerechnet um zu zeigen, welchen erheblichen (beim „normalen“ Auto vollkommen unwichtigen) Einfluss solche auf die Reichweite haben. Für die Tabellen wurden die Daten aus [5] verwendet, weitere Daten finden sich in [1].
+Anhand der realen Reichweitenwerte erkennt man, warum bisher nur sehr wenige auf die Idee gekommen sind, auf Elektroautos umzusteigen.
+Die Daten sind so schlecht, dass man auf die tollsten Lösungen kommt, wie Stromer mit zusätzlicher Benzinheizung[1]
+um im Winter wenigstens etwas Reichweite zu erhalten. Es ist auch empfehlenswert, eine heizbare Garage zu besitzen, um die Batterie nicht der Kälte auszusetzen. Im Sommer sollte sie auch nicht zu warm werden, also Parken dann möglichst nur unter einem Dach. Wer die heizbare Garage nicht hat, benötigt als Minimum eine eigene Ladestation, um nachts langsam laden zu können und im Winter die Batterie und den Innenraum bei Kälte vor Fahrtbeginn vorzuheizen.
+Da das reguläre Laden selbst bis zur Füllung auf 80 % zwischen 5 … 8 h dauert (Angaben BMW) und Schnelladen immer noch 20 … 30 Minuten (was aber der Batterie nicht gut tut), gibt es „Reichweiten-Extensions“, bei denen ein Benzinmotor während der Fahrt über einen Generator den Akku nachladen kann (BMW i3).
+Laden
+Die bisherigen Elektroautos habe eine Akku-Kapazität von ca. 20 kWh. Das ist erkennbar zu wenig, um vernünftige Reichweiten zu erhalten. Der neue Opel Ampera-e welcher 2017 auf den Markt kommen soll bekommt deshalb einen Akku mit 60 kWh[15].
+Im Bild 2 sind die erforderlichen Ladeleistungen dargestellt. Es ist offensichtlich, dass man mit der Haushaltssteckdose in der Garage nicht weit kommt. Der Investitionsbedarf zur Schaffung der erforderlichen Lade-Infrastruktur ist deshalb gigantisch. Für die Elektroinnungen und Tiefbaufirmen (zum Verlegen entsprechend dicker Leitungen an die Elektrotankstellen) ein ideales Konjunkturprogramm – und ein Grund, warum auch aus dieser Ecke niemals ein Protest kommen wird.
+Bild 2 Laden von Elektroautos bei warmen Temperaturen. Energie- und Zeitbedarf (bei Schnelladung mit 20 %, bei Langsamladung mit 10 % Ladeverlust berechnet)
+Wem nutzt ein Elektroauto?
+Auch ein Elektroauto benötigt Energie zum Fahren. Kommt diese aus dem Haushaltsnetz, bleiben die Kosten nicht wesentlich unter denen sparsamer Benziner (Bild 6). Beim Laden an einer kostenpflichtigen Ladesäule liegt der Strompreis sowieso über dem eines Benziners[8]. Und beim Laden in Kälte wo der Batterie-Wirkungsgrad fast auf 50 % sinkt, wird es dann erheblich mehr.
+Würde jemand mit einem Benziner so langsam fahren wie ein Stromer mit Zwischenaufladung, käme er sogar mit Haushaltsstrom (für den Stromer) netto auf vergleichbare Energiekosten. Und betrachtet man, dass der sündhaft teure Akku nach ca. 7 … 10 Jahren ausgetauscht werden muss, kommen Kosten von vielen tausenden EUR dazu, welche den Verkaufswert des alten Autos drastisch – wenn nicht auf gar auf 0 – reduzieren und die Kilometerkosten bei Geringfahrern fast verdoppeln können.
+Elektroautos nutzen deshalb derzeit im Wesentlichen Verbände und die Industrie um ihre politische Korrektheit auszuweisen sowie Kommunen die kein Geld haben, aber dem Bürger zeigen dass zur Rettung vor irgend etwas zusätzliche Ausgaben in behördlich betriebene Elektroautos unabdingbar sind. Und Vorzeige-Parteimitgliedern der Grünen: Ein solcher (Angestellter bei einer städtischen Behörde) fuhr täglich mit einem Elektroauto ähnlich dem in Bild 3 gezeigtem vom preiswerten Wohnort im Umland zur Arbeit, wo er es auch auf Kosten der Stadt laden konnte. Nun ging er vor einigen Wochen in Pension und die Lokalzeitung (des Autors) würdigte sein Umwelt-Engagement und vorbildhafte Nutzung der zukunftsweisenden Elektromobilität.
+Bild 3 Elektroauto der ersten Generation
+Ein Stromer nutzt demnach nur Personen:
+· Welche eine eigene Solaranlage haben und zum (aktuellen) kWh-Preis von ca. 11 ct einspeisen können, oder von einer der kostenlosen Kommunen-Ladesäulen den „Saft“ bekommen.
+Jedoch: Von der eigenen Solaranlage kann man nur tagsüber und wenn die Sonne scheint billig laden. Muss man es nachts machen, kommen die Kosten des Speicherakkus im Haus dazu. Der erhöht den wahren kWh-Preis sofort auf das 2 … 3-Fache.
+· Welche sich das Elektroauto als reinen Zweitwagen für Kurzstrecken mit viel Lade-Wartezeit leisten (können). Denn zur wirklichen gewohnten Mobilität sind weder die Reichweite noch der Stauraum ausreichend.
+· Welche ihre „Situierung“ zeigen wollen, dies aber nicht mit einem ideologisch verpönten Porsche „dürfen“. Für dieses Klientel bietet sich die Oberklasse der Elektroautos als idealer Ausweg an.
+Zudem werden sie zwingend benötigt, um den gesetzlich vorgegebenen Flottenwert an Stickoxyden für die deutsche Autoindustrie einzuhalten – und für unsere Regierung, um die Welt vor dem Klimatot zu retten.
+Aus diesem Grund wird wie inzwischen in der Politik üblich eine gnadenlose Subventionsorgie verbunden mit einer Verbotsorgie für konventionelle Mobilität starten. Niemand von der „technischen Intelligenz“ wird sich trauen, dagegen seinen Verstand entgegenzusetzen – und die Industrie-Vorstände werden wieder durch Informationsverbot sicherstellen, nichts von Entwicklern mit Verstand zu erfahren um unterschriftsfähig ahnungslos zu bleiben.
+Immer dasselbe Spiel – Subventionieren und es den Bürger zahlen lassen
+Die grandiose Idee, mit den angedachten 1 Millionen Elektroautos EEG-Strom zwischenzulagern ist klammheimlich in den Hintergrund gerückt, beziehungsweise noch mit Restvernunft begabte „EEG-Fachleute“ reden nicht mehr davon. Außer e.on, dessen Vorstand zunehmende Begeisterung daran findet, seinen Konzern selbst kaputt zu machen. Während e.on Mitarbeiter den Konzern retten sollen, indem sie Solaranlagenbesitzern aufs Dach steigen "… Solar-Profis prüfen Ihre Solaranlage" verkündet e.on weiterhin:
+[11] e.on: Elektroautos als Energiespeicher
+In den letzten Jahren und Jahrzehnten galt in der Energiewirtschaft: Ein Kraftwerk produziert nur dann Strom, wenn der Kunde ihn braucht – also nach Bedarf. Erneuerbare Energieträger wie Windkraft oder Photovoltaik funktionieren allerdings nicht auf Abruf, sie sind abhängig vom Wetter, konkret von Windintensität oder Sonnenscheindauer. Elektroautos könnten nun einen wichtigen energiewirtschaftlichen Beitrag zur Nutzung von Erneuerbaren Energien leisten. Die Akkus vieler Elektroautos bilden nämlich zusammen einen großen dezentralen Speicher, der einen Puffer für die wetterabhängig schwankende Stromproduktion aus Erneuerbaren Energien bilden kann. Dazu müssen sie über eine intelligente Schnittstelle mit dem Stromnetz verbunden werden. Wenn viel Strom, beispielsweise aus Photovoltaikanlagen bei Sonnenschein, zur Verfügung steht, fließt er in die Batterien der Fahrzeuge. Dann kann er später entweder zum Autofahren dienen oder sogar aus dem parkenden Auto zurück ins Stromnetz fließen – wenn der Bedarf da ist.
+Die Schnellladung – “auftanken” in wenigen Minuten
+Mit Ladeleistungen von bis zu 50 Kilowatt können geeignete Elektroautos, wie zum Beispiel der Peugeot iOn, an diesen Stationen in 20 bis 30 Minuten die Batterie wieder aufladen. Der zum Laden verwendete Strom wird ausschließlich umweltfreundlich in unseren deutschen Wasserkraftwerken erzeugt. Schnellladestationen befinden sich derzeit noch in der Testphase und sind noch nicht am Markt erhältlich.
+Kleine Sichtung der e.on Werbeaussagen
+Wenn man nachrechnet fällt auf: Mit dem ausschließlich umweltfreundlichen aus deutschen Wasserkraftwerken erzeugtem Strom lassen sich rein hypothetisch 82.000 der geplanten 1 Mio Elektroautos gleichzeitig schnell laden (angedacht sind später allerdings 6 Mio E-Autos[14]):
+Deutschlands Wasserkraftwerke: 4100 MW installierte Gesamtleistung[12] / 50 kW Ladestrom = 82.000 Elektroautos gleichzeitig
+Wobei „wenige Minuten“ auf 20 … 30 Minuten zu dehnen, auch keine Prospektgenauigkeit mehr ist.
+Bei mindestens 1 Millionen (später 6 Mio) angedachter Stromer ist das nicht viel. Und während der Ladezeit betrüge die zwingend benötigte Grundlastreserve der gesamten Wasserkraftwerke Deutschlands 0 W!!! – man müsste diese dann zusätzlich mittels Gaskraftwerken erzeugen -.
+Und wo bekommen die vielen EVUs, welche ihren Kunden ebenfalls „reinen Wasserkraftstrom“ verkauft haben diesen dann her wenn er gerade vollständig in Stromer fließt? Vielleicht mittels Zertifikaten aus China. Man merkt, bei e.on darf man dem Vorstand wohl wie bei VW auch nicht widersprechen.
+Mercedes und BMW sind da realistischer. „sie“ wissen, dass die Akkus der Stromer ein gewaltiges Entsorgungsproblem aufwerfen und diese extrem teuer machen – das EEG seine Profiteure aber niemals im Stich lässt. Also verschiebt man die alten Akkus in das „EEG“ und lässt sich von dort die Kosten bezahlen. Damit ist auch die Politik glücklich, denn es erfordert keine Steuern, sondern nur das Geld der Stromkunden.
+Daimler schenkt Akkus ein zweites Leben
+Der Autobauer Daimler baut in Nordrhein-Westfalen einen Batteriespeicher, in dem gebrauchte Batterien von Elektroautos weiterverwertet werden. Der Stuttgarter Autohersteller Daimler will die gebrauchten Batterien von Elektroautos zur stationären Energiespeicherung nutzen. Hierzu hat der Konzern nun im westfälischen Lünen (Kreis Unna) mit dem Bau des weltweit größten Batteriespeichers begonnen.
+Den Spatenstich für den Bau, der auf dem Gelände des Recyclingunternehmens Remondo entstehen soll, übernahm am Dienstag Daimler-Konzernchef Dieter Zetsche. „Das könnte neue Geschäftsfelder erschließen“, sagte er zum Baubeginn. Ab Anfang nächsten Jahres sollen in einer großen Halle 650 gebrauchte Antriebsakkus aus Elektroautos als Speicherelemente dienen. Insgesamt wird dabei eine Stromkapazität von 13 Megawattstunden gebündelt, die je nach Bedarf in das Stromnetz eingespeist werden kann. Damit könnte nach Angaben der Initiatoren der Strombedarf der Stadt mit etwa 85 000 Einwohnern eine Stunde lang gedeckt werden. Die Wiederverwertung stehe ganz im Zeichen der Elektromobilität, die erst zu einer runden Sache werde, wenn die gesamte Verwertungskette abgebildet sei, heißt es in einer Mitteilung des Konzerns.
+Daimler plant bereits weitere Einrichtungen. Auch die Konkurrenz arbeitet daran: Der Münchner Autobauer BMW setzt zusammen mit Bosch und Vattenfall sein „Second Life Batteries“-Projekt um.
+Dass man in der gleichen Pressemitteilung baren Unsinn redet – wen interessiert das im Tollhaus EEG? Die Batterien speichern auch gleich „ … regenerative Energien aus …. Biomasse“. Biomasse ist mit Wasserkraft die einzige grundlastfähige Grünstromeinspeisung und benötigt Vieles, aber ganz sicher keine Akkuspeicherung. Aber wenn man schon beim Fabulieren ist macht mehr Unsinn auch nichts mehr aus.
+Mit dem Speichervolumen scheint man es auch nicht so genau zu nehmen, oder man nimmt die grüne Energie(Mangel-)welt des Jahres 2050 schon vorweg. Aktuell haben die Elektroautos zwischen 18 … 22 kWh Speichervermögen[12]. „Verschoben“ werden diese aber erst, wenn sie bei 70 % der Kapazität angelangt sind. Das wären bei 650 Akkus demnach:
+Mittelwert 20 kWh x 0,7 x 650 = 9,1 MWh, und keinesfalls der angegebene Neuwert von 13 MWh.
+Und damit soll man 85.000 Haushalte 1 h lang versorgen können. Nachrechnen ergibt:
+9.100 kWh / 85.000 Haushalte = 0,108 kWh Energie / Haushalt x 1 h, also eine „Verbrauchserlaubnis“ von 108 W / Haushalt
+Die 85.000 betroffenen Haushalte werden sich über diese extreme Stromrationierung bedanken. Bei jedem Einschalten einer Lampe muss man sich mit dem Nachbarn absprechen. Kochen mit einer Herdplatte von 1 kW fällt ganz aus, außer man wohnt in einem Mietshaus und kann dort die 9 Nachbarn während der Kochzeit zur 0-Energie-Ruhe motivieren. Aber ein Redakteur dem auffiele was Industrie-Vorstände heutzutage für einen Unsinn publizieren muss wohl erst wieder neu geboren werden.
+Auf jeden Fall ist das Elektroauto der Beginn einer erneuten EEG-Subventionswahnsinns-Welle von ungeheurem Ausmaß – die sogar die geübte Kreativität unserer Politiker beim Ausdenken der Subventionen aktuell noch überfordert.
+Allerdings macht Norwegen vor, dass Politiker um sicher in den Ökohimmel zu kommen keine Grenzen kennen.
+taz.de[13]: Elektroauto-Boom in Norwegen. Mit bis zu 70.000 Euro subventioniert
+Beim Kauf eines Elektroautos verzichtet der Staat auf die 25-prozentige Mehrwertsteuer, auf Zulassungsgebühren, Import- und Zollabgaben – und gewährt bei der Einkommensteuer eine höhere Kilometerpauschale. Und mindestens bis 2017 gilt freie Fahrt an allen Mautstationen.
+In der Hauptstadt und anderen größeren Orten dürfen in der Innenstadt die Busspuren benutzt werden; freies Parken auf öffentlichen Parkplätzen ist garantiert. Außerdem haben mehr als 1.500 Ladestationen Staatszuschüsse erhalten. In zwei Jahren soll das Netz dieser Stromtankstellen auf den Fernverkehrsstraßen so engmaschig sein, dass es niemals mehr als 50 Kilometer bis zur nächsten sind.
+Berechnungen, wonach die Staatskasse den Käufer eines Luxus-Elektroautos wie des Tesla S mit umgerechnet 60.000 bis 70.000 Euro subventioniert, haben nun zu einer Debatte geführt, ob die staatliche Förderung nicht übertrieben sei.
+Man muss unsere Grünen da einmal wirklich loben. Nach ihrem bewährten Prinzip „wozu braucht man in der Politik viel Hirn, viel verbieten reicht doch“ ist ihre Lösung bekannt einfach und pragmatisch: „Grüne wollen Autos mit Verbrennungsmotor ab 2036 verbieten“.
+Allerdings ist unsere IPCC-Sprechpuppe, Umweltministerin Frau Hendricks mit ihrem fast schon krankhaftem CO2- und Klimarettungs-Wahn ebenfalls wieder ganz vorne dran und dabei das Prinzip der Grünen zu übernehmen:
+Frankfurter Allgemeine: Umweltministerin fordert Strafabgabe beim Kauf von Spritschluckern
+Bundesumweltministerin Barbara Hendricks (SPD) will Autos mit hohem Spritverbrauch beim Neukauf mit einer Strafabgabe belegen. Bei einem Kohlendioxid-Ausstoß von 95 Gramm pro Kilometer, wie er bei kleineren Fahrzeugen auftritt, wäre ein einmaliger „Umweltbeitrag“ von 50 Euro zu zahlen. „Bei über 200 Gramm, da wäre man bei einem Porsche Cayenne, könnten 1000 Euro fällig werden“, sagte Hendricks dem Nachrichten-Magazin Spiegel.
+Die Einnahmen sollen zur Finanzierung von Kaufprämien für Elektroautos dienen, mit denen die Bundesregierung die schleppende Nachfrage ankurbeln will. … Die Autokonzerne will Hendricks zu einer Quote für E-Autos verpflichten, beginnend mit drei Prozent aller Neuwagenverkäufe.
+Reichweiten-Testergebnisse
+Bilder 4 und 5 Legende
+Reichweiten bei einer Umgebungstemperatur von +23 °C und -7 °C, Abweichungen immer bezogen auf die Herstellerangaben
+A: Gemessene Reichweite (TSECC) im Neuzustand [5] / Differenz des gemessenen Wertes zur Herstellerangabe (NEFZ)
+Berechnung: Vom Hersteller angegebene Reichweite – gemessene Reichweite
+B: Reichweite im Neuzustand [5], wenn der Batterie-Lebensdauer-optimale Ladezyklus 80 / 20 % verwendet wird
+Berechnung: A x 0,6
+C: Reichweite im Neuzustand bei konstanter Fahrt mit 120 km/h auf der Autobahn[5] und Einhalten des optimalen Ladezyklus
+Berechnung: 120 km/h Wert x 0,6
+G: Reichweite nach ca. 7 Betriebs-Jahren, wenn die Kapazitätsverminderung durch Alterung und Ladezyklen-Verschleiß von -30 % berücksichtigt wird (Ende der Batterie-Lebensdauer und Aufforderung zum Batterietausch) beim Einhalten des optimalen Batterie-Ladezyklus
+Berechnung: (A – 30 %) x 0,6
+H: Reichweite nach 7 Betriebs-Jahren bei konstanter Fahrt mit 120 km/h auf der Autobahn und Einhalten des optimalen Batterie-Ladezyklus
+Berechnung: C – 30 %
+Bild 4 Reichweiten und Verbrauchswerte von Elektroautos bei +23°C. Daten vom Autor zusammengefasst, Quellen und Berechnung siehe „Bild 4 und 5 Legende“
+Bild 5 Reichweiten und Verbrauchswerte von Elektroautos bei -7 °C. Daten vom Autor zusammengefasst. Quellen und Berechnung siehe „Bilder 4 und 5 Legende“
+Bild 6 Elektroautos Energiebedarf und Energiekosten (ohne die hohen Zusatzkosten durch den Akkutausch nach spätestens 10 Jahren)
+Zusatz
+Wer sich über Batterie-Technologien etwas umfassender informieren möchte, dem sei ein Artikel von Peter Heller im ScienceScepticalBlog empfohlen: „Technikfeindlichkeit am Beispiel Elektromobilität“. Man lasse sich durch die Überschrift nicht täuschen. Gemeint ist die gewollte Unkenntnis über physikalisch begründete Grenzen und daraus folgendes Fabulieren und Fordern von nicht machbaren Lösungen.
+*Schutz und Warnhinweise
+Dieser Artikel basiert auf den Daten der aktuellen Elektro-Auto-Generation. In der Zukunft (siehe die Daten des geplanten Opel Ampera-e [15]) ist mit erheblichen Veränderungen zu rechnen.
+Datensatz
+Die verwendeten Daten sind nicht nach Norm-gemäßen Testverfahren ermittelt, weshalb die Angaben je nach Testdurchführung oder persönlicher Fahrweise erheblich voneinander abweichen. Sie können obwohl erst etwas über ein Jahr alt durch die regelmäßig versprochenen enormen technisch denkbaren Entwicklungen und Verbilligungen in Kürze schon überholt sein. Zudem ist aufgrund ständiger Modellwechsel /-Modifikationen kein längerfristiger Vergleich möglich. Regelmäßige Gesetzesänderungen verändern regelmäßig Angaben zur Kostensituation. Zudem passen Elektroautos fahrende Bürger (notgedrungen) ihr Fahr-Verhalten an die technischen Gegebenheiten an und können dadurch Leistungsangaben wesentlich verändern (z.B. im Winter fahren mit polartauglicher Kleidung und Handschuhen um Heizungsenergie im Auto zu sparen, vorwiegendes Fahren bei Tageslicht um keinen Beleuchtungsstrom zu benötigen, Fahren vorwiegend zu verkehrsarmen Zeiten mit viel Abstand zum Vordermann um anstelle zu Bremsen mittels Rekuperations-Auslauf die Rückenergie „einzusammeln“ usw.).
+Alle Angaben sind deshalb unverbindlich und niemals richtig.
+Quellen
+[1]
+Verbrauch und Reichweite von Elektroautos
+http://sedl.at/Elektroauto/Verbrauch
+[2]
+T-online.de 29.07.2014: Sechs Stromer im Test So lange halten Elektroautos wirklich durch (Anm.: Datentabellen dazu in [5])
+http://www.t-online.de/auto/alternative-antriebe/id_70376144/elektroautos-so-lange-halten-tesla-bnmw-und-co-wirklich-durch.html
+[4]
+DAMTC 26.11.2014: E-Auto-Batterie verliert nach drei Jahren 17 Prozent Kapazität
+http://www.oeamtc.at/portal/e-auto-batterie-am-pruefstand+2500+1619041
+[5]
+auto motor sport, Test Elektroautos durch den TÜV Süd, Ergebnistabellen
+http://www.t-online.de/auto/alternative-antriebe/id_70380202/tid_embedded/sid_42302474/si_1/elektroauto.html
+[6]
+heise online 22.01.2016: E-Autos verbrauchen viel mehr Strom als angegeben
+http://www.heise.de/newsticker/meldung/E-Autos-verbrauchen-viel-mehr-Strom-als-angegeben-3081667.html
+[7]
+E-Auto.TV 19.08.2014: Verbrauch, Ladeverlust und Wirkungsgrad im E-Auto
+http://e-auto.tv/verbrauch-ladeverlust-und-wirkungsgrad-im-e-auto.html
+[8]
+T-online 11.02.2015, ZDF, Presseportal: Ladestationen für Elektroautos im Test: Bezahltarife machen Strom teuer
+http://www.t-online.de/auto/alternative-antriebe/id_72854296/ladestationen-preise-fuer-strom-teurer-als-verbrenner.html
+[9]
+@heise AUTOS: Reichweite von Elektroauto sinkt im Winter drastisch
+http://www.heise.de/autos/artikel/Reichweite-von-Elektroauto-sinkt-im-Winter-drastisch-1393950.html?artikelseite=2
+[10]
+Stuttgarter Zeitung, 03. November 2015: Elektromobilität Daimler schenkt Akkus ein zweites Leben
+http://www.stuttgarter-zeitung.de/inhalt.elektromobilitaet-daimler-schenkt-akkus-ein-zweites-leben.36fcd038-f751-409e-96b9-cdef29b24c69.html
+[11]
+e.on Homepage Energiezukunft: Elektroautos als Energiespeicher
+https://www.eon.de/pk/de/energiezukunft/erneuerbare-energien/technologie/energiespeicherung/elektroautos-speicher.html
+[12]
+BDW: Insgesamt haben alle Wasserkraftanlagen in Deutschland zusammen eine installierte Leistung von 4100 Megawatt (MW).
+2015 lag die Produktion bei 20500 GWh
+http://www.wasserkraft-deutschland.de/wasserkraft/installierte-leistungstromproduktion.html
+[13]
+taz.de: Elektroauto-Boom in Norwegen Mit bis zu 70.000 Euro subventioniert
+[14]
+Öko-Institut e.V., eMobil Studie September 2014: 2050 Szenarien zum möglichen Beitrag des elektrischen Verkehrs zum langfristigen Klimaschutz
+[15]
+Süddeutsche Zeitung Nr. 36/2016
+Das Elektrofahrzeug ist dagegen steuerfrei bis 31.12.2020, danach jährlich 56 Euro.
+Und wollen Sie wirklich wissen,
+wie der LKW (Diesel) besteuert wird und
+was alles noch auf Benzin und und Diesel draufkommt? Da ist die „Energiesteuer“ oft höher als der Produktpreis
+und auf diese Steuer wird dann nochmals die Mehrwertsteuer aufgeschlagen.
+Der Autofahrer mit Ausnahme des Elektroautofahrers natürlich, bezahlt also auch für den Nicht-Autofahrer mit, eigentlich gesetzwidrig.
+Und Schäuble möchte jetzt für die Autofahrer noch was draufpacken für die „Flüchtlinge“, die ins Land gelockt werden.
+Sehr geehrter Herr Landvoigt, mit derselben Begründung müssten Sie aber auch gegen Fahrer von Dieselfahrzeugen sein. Diese werden im Vergleich zu Benzinkraftstoffen steuerlich begünstigt und auch damals hat man Umweltaspekte mit ins Spiel gebracht.
+Weiss auch kaum jemand…
+a. Vgl. #30. Fussnoten sind extrem gefährlich (für Sie).
+b. Daten. Die Grundgesamtheit beachten, und nicht nur Ihnen genehm erscheinende Daten. Also keine (willkürlichen und erlesene) Stichproben. Njet, njet. Wenn, dann (hier nur) die Grundgesamtheit.
+c. Quellenangaben nicht vergessen.
+d. Subventionen? Einfach den Hahn abstellen. Dann gibt es auch keine E(sel)-Autos mehr. Irgendwann, ist das Geld futsch.
+Lauter gutmenschliche Tesla-Owner haben sich da gegenseitig auf die Schulter geklopft.
+Dann suchte mal wieder einer dieser Owner „Rat“ bei der Community. Er wollte aus Nordbayern nach Kroatien fahren. Deshalb suchte er in Kärnten ein Hotel mit „Lademöglichkeit“, denn diese enorme Strecke von 900 Kilometern liess sich mit diesem „Luxusauto“ ja nicht so einfach fahren.
+Ein Hotel zu finden war nicht so einfach, und es kamen wirklich tolle Vorschläge:
+„Ganz in der Nähe vom Hotel xy kannst Du über nacht laden, von da kannst Du dann ein Taxi nehmen, sind nur 5 km bis ins Hotel!“
+Ich hatte Mitleid mit dem Kerl, also machte ich folgenden Vorschlag: Da ich mein Auto in der Zeit nicht brauchte, bot ich ihm freundlich an, sich meinen umweltfreundlichen Benziner auszuleihen (ich wohnte fast an seiner Fahrstrecke) kostenlos, für die gesamte Zeit seines Urlaubes. Dann kann er den Urlaub geniessen ohne irgendwelchen Ladezirkus, fettigen Fritten bei McDoof weil da gerade der Supercharger steht, und gefährliche „Windschattenfahrten“ hinter irgendwelchen Reisebussen mit seinem 770 PS Ungetüm. (hab ich natürlich so nicht geschrieben, war ja ein ernstgemeintes Angebot)
+Als Dank wurde ich dann im Forum gesperrt, dabei wollte ich nur einem armen Elekromobilisten einen „CO2-neutralen-Urlaub“ ermöglichen. Denn so eine zusätzliche Hotelübernachtung, was das für zusätzliche Energie verschwendet!
+Aber das fanden die selbsternannten Umweltrettern mit ihren 770 PS Beschleunigungswundern wohl nicht so wichtig!
+„Ein Mercedes ist bereits ein „perfektes“ Produkt“
+Dann würde ich an ihrer stelle einen Mercedes kaufen ist doch O.K.
+Katrin Meinhardt sagt in #21
+„c. Solange Sie Ihre Rohdaten nicht offenlegen, beweisen Sie gar nix.“
+Welche Daten benötigen Sie genau?
+Katrin Meinhardt sagt in #21
+„Ein Mercedes ist immer besser als ein Tesla. Immer. Alles andere kann nur Propaganda sein.“
+Wie sind den die Verkaufszahlen im Mutterland von Tesla im Vergleich zu Mercedes, da sind die Verkaufszahlen für 2014 in den USA.
+1. Mercedes-Benz S-Klasse – 25.276
+2. Tesla Model S – 17.300
+3. BMW 7er – 9.744
+4. BMW 6er – 8.647
+5. Lexus LS – 8.559
+6. Audi A7 – 8.133
+Weltweit hat Tesla die Verkäufe seines Model S im ersten Halbjahr 2015 gegenüber dem Vorjahr um 54 Prozent oder 7516 Fahrzeuge auf 21.552 Fahrzeuge gesteigert.
+Das sind natürlich Peanuts, vergleicht man die kalifornische E-Auto-Schmiede insgesamt mit deutschen Autokonzernen, entscheiden ist der Anstieg und da können die Deutschen Autobauer weder technologisch noch konzeptionell mithalten.
+Mercedes ist nur noch eine Erscheinung aus der guten alten Zeit im Vergleich zu einem Tesla, technologisch.
+Katrin Meinhardt sagt in #21
+„a. Sie haben das Konzept der Subvention NICHT verstanden.“
+Grundsätzlich muss man Subvention nicht zwingend verstehe, man muss nur erkennen ob man die Subventionen nutzen kann oder nicht, das reicht für den Bundesbürger aus.
+Fred F. Mueller sagt in #25
+„Wenn Sie 100 km hin und ebensoviel zurück fahren müssen, gehen dafür mindestens 2 Stunden drauf.“
+Weshalb den irgendwo hinfahren zum Aufladen.
+Die Frau fährt zu ALDI zum Einkaufen ja ohnehin und da zapft die Frau für 30 bis 45 Minuten den kostenlosen Strom an.
+Die Tesla Supercharger liegen ja in der Regel an Autobahnen und sind ideal um auch 1000 km zu Reisen.
+Da gibt es ja im „unterblog . de“ einige Erfahrungsberichte über Tesla aus erster Hand, nachladen, Fernreisen mit Tesla usw.
+Ich mach auch mit dem Verbrenner ohnehin alle 2 bis 3 Stunden eine Pause bei Autofahrten auf der Autobahn für 15 bis 30 Minuten was essen und WC, Tanken und da kann man ja auch analog das nachladen erdigen.
+Die Tesla Supercharger liefern in 30 Minuten ca. 270 km Reichweite und man kann seine Reise fortsetzen.
+mfg
+Natürlich über das Leitungsnetz – genau wie jetzt in dem Augenblick, wo ich am Rechner sitze. Abgerechnet wird dann nach dem jeweils aktuellen Börsenstrompreis zzgl. „Versand“. Sagt Ihnen der Begriff Marktwirtschaft etwas?
+Zitat #24: „In einem Artikel sind mir ist allerdings vom TÜV gemessene Werte lieber.“
+Da sind sie aber sehr anspruchslos. Wenn ich mir ein neues Auto kaufe und möchte etwas über den wirklichen Verbrauch in der Praxis erfahren, sind mir die Angaben eines Instituts oder eines Tests viel zu wenig. Test kann man je nach eigenem Gusto so anlegen, dass im Vergleich zum „echten Verbrauch“ mal viel zu viel oder viel zu wenig raus kommt. Da nutze ich lieber die Erfahrungen von vielen hundert Autofahrern, die teilweise über Jahre ihre Verbrauchswerte öffentlich machen. Schauen Sie doch mal bei spritmonitor.de vorbei. Da geht ein ideologisch gefärbter Verbrauch einfach unter.
+Zitat #25: „Es ist also völlig korrekt, wenn der stattdessen per Kabel im eigenen Haus bzw. Unternehmen benutzte Strom mit den realen Bezugspreisen berechnet wird.“
+Nein, das ist völlig falsch. JEDER Tesla-Fahrer wird anteilmäßig an den kostenlosen Säulen aufladen. Dieser Anteil ist bei jenen klein, bei anderen groß – aber 0 ist er nie. Es reicht also völlig, einen realen Durchschnittsverbrauch anzugeben. Alles Weitere ist Bevormundung. Wie, wo und zu welchen Kosten einzelne E-Car-Nutzer aufladen, kann man denen getrost überlassen.
+Werner Björn
+Wer schon mal europäische Fahrwerks-Technik von sportlichen, bzw. sehr gewichtigen Oberklasse-Fahrzeugen gesehen hat, dem fällt sofort das „Tesla-Fahrwerk“ ins Auge https://goo.gl/XghsZy
+Ich hab im ersten Moment gedacht ich seh`nicht recht, was da im „Spitzen-Tesla“ verbaut ist, das ist ja absolut dreist und erbärmlich wenig im Vergleich zu internationaler, und vor allem europäischem Standart, was Sicherheit durch solide Fahrwerks-Ausstattung angeht. Da kommt also der eklatante Unterschied zwischen einem amerikanischen Nobel-Elektro-Auto Tesla von Elon Musk zum Vorschein und wo er technisch bei seiner Konstruktion dramatisch spart.
+Naja, die US-Höchst-Geschwindigkeit ist niedrig, auf allen Straßen geht`s gemächlich zu und meist immer geradeaus.
+Also wozu braucht man denn dann ein robustes „deutsches Fahrwerk“ wie z. B. http://goo.gl/XluRzR zu sehen ist.
+Weiter werden die Tesla-Fahrer sicherlich auch nicht auf deutschen Autobahnen wo es noch geht, entspannt mit 180 km/h oder mehr dahingleiten ohne sich durch ein „hoppeliges Primitv-Fahrwerk“ verunsichert in Stress bringen zu lassen.
+Wer will mit einer so elend schweren Akku-Kiste überhaupt hohe Geschwindigkeiten fahren, wenn dabei die Reichweite völlig abstürzt, was ja schon bei den viel leichteren „Elektro-Mäusen“ hier http://goo.gl/v9s5Da
+in aller Deutlichkeit aufgefallen ist.
+Das die Damen Krautzberger und Hendricks, die ja schon mit der „Käpt`n-Blaubär-Klima-Katastophen-Storry“ eine absurde Albernheit ohne zu kichern verbreitet haben, nun auch noch die Akku-Kisten mit Druck und anderer Leute Steuergeld in den Markt zwingen wollen, zeigt, wir haben bedrohliches politisches Personal, was jeden Macht-Missbrauch und jeden Wettbewerbs-Verstoß begehen will, um einzig ihre Hybris auszukosten und von Finanz-Investoren hofiert werden.
+am Sonntag, 21.02.2016, 16:23
+Der richtige Weg ist es, die Besitzer von Elektrofahrzeugen zu animieren, dann die Fahrzeugaccus aufzuladen, wenn die Börsenstrompreise im Keller sind und Strom für den Endverbraucher für 5 Cent/kWh angeboten werden kann. Das ist der Fall wenn viel fluktuierender Strom im Netz ist, wie z. B. jetzt gerade wo über 50 % des Stroms aus Erneuerbaren Energien stammt.
+Werner Björn
+############################################,
+Wer montagmorgens pünktlich zur Arbeit erscheinen muss, muss spätestens die Nacht zum Montag aufladen – egal zu welchem Preis! Aber vielleicht gehören Sie zu den Leuten die noch nie einer geregelten Arbeit nachgegangen sind, und von daher die Lösungen kennen die im realen Leben nicht funktionieren. Typisch Öko eben….
+Lieber Hr. Björn,
+zwar liefert Tesla (noch) Strom kostenfrei an seinen Ladestationen, aber die sind halt nicht für jeden Nutzer gleich um die Ecke. Wenn Sie 100 km hin und ebensoviel zurück fahren müssen, gehen dafür mindestens 2 Stunden drauf. Wissen Sie, was bei einem gewerblich genutzten Fahrzeug diese zwei Mitarbeiterstunden kosten?
+Es ist also völlig korrekt, wenn der stattdessen per Kabel im eigenen Haus bzw. Unternehmen benutzte Strom mit den realen Bezugspreisen berechnet wird.
+Sie fragen: „Die Frage bleibt, warum sich der Autor nicht die Mühe macht, durchschnittliche Verbräuche in den entsprechenden Internetportalen abzufragen?“
+Lieber Hr. Björn, unterhalb des Artikels finden Sie eine Liste mit dem Titel: „Quellen“. Ich weiss jetzt zwar nicht, von welchem Planeten oder von welcher Wolke Sie kommen und wie dort die Gepflogenheiten sind, aber hier auf der Erde ist die darunter aufgeführte Liste massgeblich. Da sollten Sie reinschauen, das meiste davon ist übrigens aus dem Internet abgerufen.
+Es ist zwar schön, wenn Sie feststellen, dass die Börsenstrompreise gerade im Keller sind, aber dass Strom für den Endverbraucher für 5 ct. angeboten werden könne, ist – wie Sie sehr wohl wissen, schliesslich posaunen Sie ja ständig pro EE hier herum – nichts weiter als eine unverschämte Lüge. Allein schon der auf jede kWh aufgeschlagene EEG-Zuschlag ist höher, hinzu kommen Netzgebühren und ca. 15 ct. Steuern. Hören sie doch bitte auf, uns hier für dumm verkaufen zu wollen.
+Mfg
+Hallo,
+ich finde Ihren Vorschlag zum billigen Strombezug geradezu genial. Bin da noch nie drauf gekommen, obwohl der billige Strom eigentlich nur so faulenzend in den Leitungen rumliegt. Deshalb noch die Bitte um Information, wie man den billigen, teilweise sogar gegen Zuzahlung nachgeworfenen Strom über die eigene private Steckdose leitet. Oder meinen Sie was in der EIKE-Publizierung „Schlaraffenland im EEG-Paradies – Wie man die Verbraucher gegeneinander ausspielen und dann austricksen kann“ beschrieben wurde.
+Zur „Mühe“ nicht in Foren nachzusehen. Aus den hunderten verschiedenster Forenangaben mag sich jeder seine persönlich passende heraussuchen. In einem Artikel sind mir ist allerdings vom TÜV gemessene Werte lieber.
+„Warum müssen normale Autos Prospektdaten einhalten, Elektroautos jedoch nicht?“
+Da weder Verbrenner noch Elektroautos die Verbrauchsangaben in den Technischen Daten einhalten, zeugt die Frage von Unwissenheit.
+Die Frage müsste lauten: Warum ist es den Autoherstellern erlaubt, Verbrauchswerte in den Technischen Daten anzugeben, die im realen Betrieb grundsätzlich deutlich überschritten werden?
+Die Antwort ist: Weil die mächtigste der Lobbybranchen in Deutschland – die Autolobby – an der Gesetzgebung zu den Gebrauchsangaben maßgeblich mitwirkt.
+Zitat aus dem Artikel: „Alle Angaben sind deshalb unverbindlich und niemals richtig.“
+Richtig sind die Angaben offensichtlich nicht aber teilweise lustig. So werden die Kosten für eine Fahrt im Tesla fiktiv angegeben, weil Tesla den Strom kostenlos liefert. Solche fiktiven Kosten mag ich. Davon könnte ich nicht genug bekommen.
+Die Frage bleibt, warum sich der Autor nicht die Mühe macht, durchschnittliche Verbräuche in den entsprechenden Internetportalen abzufragen?
+BMWi3, Verbrauch 16 kWh/ 100 km, Kosten (stichprobenartig): 3,20 €/100 km
+TeslaS: Verbrauch 20,83 kWh/ 100 km, Kosten (stichprobenartig): 1,80 €/100 km
+VW e-Golf: Verbrauch 18 kWh/100 km, Kosten (stichprobenartig): 3,85 €/100 km
+Den Kauf von e-cars durch Kaufprämien zu fördern halte ich für falsch. Der richtige Weg ist es, die Besitzer von Elektrofahrzeugen zu animieren, dann die Fahrzeugaccus aufzuladen, wenn die Börsenstrompreise im Keller sind und Strom für den Endverbraucher für 5 Cent/kWh angeboten werden kann. Das ist der Fall wenn viel fluktuierender Strom im Netz ist, wie z. B. jetzt gerade wo über 50 % des Stroms aus Erneuerbaren Energien stammt.
+Werner Björn
+Bezog sich nicht auf #9 sondern auf #19
+a. Sie haben das Konzept der Subvention NICHT verstanden. Tun Sie das erst einmal. Daran scheitern Sie. Da kommen Sie nicht hinüber. Niemals. Das ist ein K.O.-Kriterium.
+b. Sie haben den obigen Artikel, hoppla, völlig übersehen, vom verehrten Autor, Herr Kuntz? All Ihre Fragen werden darin beantwortet. Und die zig (!!) Aussagen darin. Auf die, auf jede, müssen Sie eingehen WOLLLEN. Schreiben Sie darüber eine Dissertation oder wenigstens eine 20-50-seitige Seminararbeit.
+c. Solange Sie Ihre Rohdaten nicht offenlegen, beweisen Sie gar nix.
+d. Daten und Interpretation sauber trennen.
+Ein Mercedes ist immer besser als ein Tesla. Immer. Alles andere kann nur Propaganda sein. (Vgl. EIKE-Archiv, Deutsche Nationalbiliothek, Uni-Bibs, weltweit).
+Mein aufrichtiges Beileid
+In Göttingen gab es mal die beste Atomforschung, weltweit (!!) (vgl. Oppenheimer & Co.). Leute kamen aus aller Welt um dort mitzulernen. Heute ist es ein Ort von Perversen und Dummköpfen. Warum? Wie konnte das denn geschehen? Vgl. „Vatikan“ der New Age-Bewegung (Neue Weltordnung) in Freiburg i. Br., Tübingen. Da sitzen die, die (falschen) Hindus, die x-mal wiedergeboren (Hahahahahaha) werden wollen, und dann in das (kosmische) NICHTS eintauchen wollen. [Was für ein Wahnsinn!!] Das sind wahre Genies. Mit denen kann und will ich nicht mithalten. Niemals, nur über meine Leiche. Ja ja. Der Marxist ist eine Wahnsinnsmaschine. Eingehen in das Nichts. Irre. Hochintelligent. Noch nie tot gewesen, dafür haben Marxisten im Gegenzug immer eine sehr große Klappe. Dramatisch und hochgefährlich, für diese Genies. Dabei hätte es eine Entschuldigung getan. Aber, nein, die woll(t)en nicht. Sture Leue.
+Das ist jetzt keine Andeutung gegen Ihre Person. Ich kenne Sie viel zu wenig. Der Rest dürfte jedoch stimmen. Unzählige Datenreihen (Rohdaten usw.) haben das ergeben. Gerade sind die wieder dabei, Europa in Schutt und Asche zu legen. Spanien, Portugal, Italien, Frankreich. Wenn das Geld futsch ist, in eine andere Tasche geflossen, dann enden die Subventionen (vgl. #14, bspw.). 🙂
+Ein Mercedes ist bereits ein „perfektes“ Produkt. Wozu ein E(sel)-Auto? Das ist ineffizient. Schicken wir die Schamanen auf den Mond. Das ist billiger. Ohrfeigen müssen wieder erlaubt sein. All dies, weil ein Wetterfrosch jetzt auf dem Chefposten sitzen DARF. Irre.
+Sie bestätigen doch damit nur die Subventionsorgie. Und wie immer, wer davon profitiert findet das toll und ganz „natürlich“.
+„Mein“ Städtchen hat Schulden. Aber für kostenlosen Strom für E-Autos ist immer Geld da. Der Bürgermeister wünscht sich nämlich sehnsuchtsvoll, dass in der Stadt ausschließlich Elektroautos fahren sollen (Info im städtischen Mitteilungsblatt). Zwar wird der Nachverkehrstarif jährlich teurer so dass es sich inzwischen wieder lohnt, dem Auto in die Stadt zu fahren und im Parkhaus zu parken. Der städtische Versorger beeilt sich jedoch E-Tankstellen zu errichten von denen das Stück ca. 50.000 EUR kostet. Der Strom kostet natürlich auch nichts, denn der kommt aus der riesigen Solaranlage des Versorgers, welche noch ca. 10 Jahre 45 ct/kWh EEG-Vergütung bekommt. Und nachts kommt er aus der riesigen Biogasanlage des Versorgers. Auch diese stellt als grüner Strom natürlich keine Rechnungen, sondern bringt Gewinn (da sei der Inbetriebnahme Erfolgsmeldungen ausbleiben, darf das allerdings bezweifelt werden). Komischer Weise wird der Nahverkehr immer schneller noch teurer. Aber man soll ja in Zukunft nicht mehr mit dem BUS oder U-Bahn, sondern gefälligst mit dem E-Auto in die Stadt fahren. Leider werden Visionen bei uns nicht therapiert, sondern in der Politik inzwischen voll ausgelebt.
+Über die E-Kampagne von Aldi Süd mag jeder seine Meinung haben. Aber diese wird bestimmt sofort enden, wenn der E-Stromhype einen negativen Touch bekommt – oder die Aldi-Manager wahrnehmen, dass das doch Geld kostet. Es ist nicht selten, dass die 2. Inhaber-Generation einen Betrieb vor die Wand fährt.
+du hast natürlich Recht das der tatsächlichen Stromkosten keine wesentliche Rolle spielt beim E-Auto.
+Bei deinem Tesla, die haben ja die kostenlosen Ladestationen und sind über ganz Europa verteilt, so 602 Supercharger-Stationen mit 3.519 Supercharger-Ladeplätzen zur Zeit.
+Vermutlich nicht auf unbestimmte Zeit, aber was man hat das hat man erst mal.
+Da kamst du ja vom Nordkap bis nach Rom fahren ohne einen Euro „Spritkosten“.
+Bei 300 bis 400km (max. 500km) Reichweite sind da auch 95% aller Fahrstrecken ohne nachladen möglich, die man so im Alttag zurücklegt und Urlaubsreisen nach England Frankreich, Norwegen, Spanien usw. sind auch kein Thema mit dem Tesla.
+Auch gibt es für die andern E-Autos, hunderte vermutlich sogar tausende kostenloser Lademöglichkeiten, da kannst du auch nachladen, dauert aber da Stunden.
+Einfach mal in die einschlägigen Internetseiten schauen wo man überall kostenlos Tanken kann.
+z.B. bei ALDI SÜD gibt es jetzt neu die Möglichkeit, ganz einfach kostenlos Strom zu tanken.
+Katrin Meinhardt sagt in #8
+„Wertentwicklung ist erheblich und der Tesla verliert recht schnell. Versuchen Sie mal Ihren (??) Wagen zu verkaufen.“
+Hab nachgeschaut (im Netz) bei gebrauchten Tesla und bei gebrauchten Mercedes und da ist der Preisverfall bei vergleichbaren Eckdaten (km, Baujahr, Neupreis) bei Mercedes wesentlich Größer.
+Katrin Meinhardt sagt in #8
+„Das Tanken ist nicht kostenlos. Ich zahle das, Hannes. Und bevor ich etwas zahlen soll, will ich gefälligst gefragt werden, also mitentscheiden.“
+Sie müssen ja nicht kostenlos Tanken, dazu zwingt Sie ja keiner.
+Auch können Sie selber entscheiden ob Sie einen Tesla oder Mercedes oder ein vollkommen anders Fahrzeug kaufen, das in ihrer Situation am günstigsten ist.
+Katrin Meinhardt sagt in #8
+„Nutzen Sie den Wagen nur für den Zigarettenkauf um die Ecke?“
+Bei einer Reichweite von bis zu 500 km kann Hannes vermutlich nach Polen fahren zum Zigarettenkauf.
+Die Reichweite des Tesla Model S soll in den nächsten zwei Jahren auf 1.000 Kilometer erhöht werden. Ob das tatsächlich bis 2017, 2018 klappt ist eigentlich nicht entscheiden nur das er klappt und davon kann man ausgehen.
+So verrückte haben ja bereits mit dem heutigen Standartmodell 728,7 km mit einer Ladung geschafft als Testfahrt. Allerdings mit einer Durchschnittsgeschwindigkeit von 39 km/h.
+Da sind die von Tesla angekündigten 1000 km in den nächsten Jahren auch machbar wenn ein Privatmann heute bereits ca. 700 Km hinbekommt.
+mfg
+hier gilt ja das Gleiche wie bei der Windkraft. Die Installierte Leistung steht bei weitem nicht so einfach zur Verfügung. Siehe Wasserkraftwerke in der Mosel. Von 4 Turbinen läuft da oftmals höchstens eine. Sonst reicht der Wasserdurchsatz der Model nicht um die Schifffahrt am Laufen zu halten. Schiffe durch die Schleusen.
+Ohnehin das Problem bei Wasserkraft aus Fluessen. Zuviel wasser führt zu geringem delta H, also gegenläufig der Stromproduktion. Bei zu wenig Wasser, also großem delta H, also Trockenheit muss das Wasser in den Flüssen bleiben um den Grundwasserspiegel nicht allzusehr abzusenken.
+TESLA MOTORS: $2.391 billion total
+$1.29 billion — Nevada tax incentives for Gigafactory
+$45 million — Value of discounted Department of Energy loan
+$90 million — California Alternative Energy and Advanced Transportation Financing Authority
+$517.2 million — Sale of California and other regulatory credits
+$284 million — Estimated value of federal income tax credits for eligible U.S. buyers of Model S sedans
+$38 million — Value of California rebate for California buyers of Model S sedans
+$126 million — California Self-Generation Incentive Program
+$647,626 — California job training reimbursement
+am Samstag, 20.02.2016, 11:52
+Gegenueber einem „Twike“ mit 800kg Batterie wenigstens genug Gewicht zu bergab ’schnell‘ rollen koennen.
+Denn das Elektroauto der ersten Generation „Twike“, schaffte bergab mal gerade 40 km/h – ohne dabei die Batterien wieder aufladen zu koennen.
+Haben die sich also doch ein wenig weiterentwickelt:-)), das also Berg- und Talfahrt aus Energieerhaltung funktioniert.
+##############################################,
+Nein, das Perpetuum Mobile ist noch nicht erfunden; aber die Ökos arbeiten daran…..
+Ich hab‘ ein Haus, ein kunterbuntes Haus
+ein Äffchen und ein Pferd, die schauen dort zum Fenster raus.
+Ich hab‘ ein Haus, ein Äffchen und ein Pferd,
+und Jeder, der uns mag, kriegt unser 1×1 gelehrt.
+2 x 3 macht 4 –
+widdewiddewitt und 3 macht 9e !
+Ich mach‘ mir die Welt – widdewidde wie sie mir gefällt …
+Hey – Pippi Langstrumpf hollahi-hollaho-holla-hopsasa
+Hey – Pippi Langstrumpf – die macht, was ihr gefällt.
+ohne irrsinnige ohhbama Subventionen wäre diese Schrottfirma tesla lange insolvent…
+Der nächste Hammer ist dieses Ökoverblödungsinstitut. 2030 fahre ich also niemals nicht mehr nach Berlin rein, was 40km wären oder mal nach Potsdam, 100km und Geschäftsreisende werden gebeamt, von Scotty. Warum dürfen solche kriminellen Irren überhaupt noch frei rumlaufen und werden nicht auf offener Straße eingefangen und dann in die Gummizelle geworfen?
+Wenn E-Autos funktionieren würden, dann würde man den Dreck auch fahren, seit Jahrzehnten. Dann würde Tesla nicht immer rotere Zahlen schreiben und die Regierungskriminellen nicht über noch mehr Subventionen nachdenken.
+Ach, bevor ich es vergesse, bei Youtube gibt es ganz „schlaue“ Idioten, die erzählen einem folgendes: Vor dem 1. Weltkrieg wurde schon sooooo viel E-Mobilität genutzt. Irgendwelche Busse und Lkw in Berlin z.B., die am Tage fuhren und in der Nacht geladen wurden. Dann kam der Krieg und da brauchte man fronttaugliche Technik, deshalb kam der Verbrennungsmotor auf und das böse Militär hat dann dafür gesorgt, daß es dabei blieb. Vielleicht finde ich ja die zugehörige Quelle mal wieder, dann verlinke ich das Video hier bei EIKE.
+Denn das Elektroauto der ersten Generation „Twike“, schaffte bergab mal gerade 40 km/h – ohne dabei die Batterien wieder aufladen zu koennen.
+Haben die sich also doch ein wenig weiterentwickelt:-)), das also Berg- und Talfahrt aus Energieerhaltung funktioniert.
+Und wie das halt so ist: die Erste Mercedes „Kutsche“ fuhr ja auch nur aus Lenken koennen
+, oder doch nicht wahr?
+Leider ist da kein Ende in Sicht. Heute steht in „meiner“ Zeitung zum Ampera-e: „nach einer Stunde an der Steckdose sind die Akkus zu 80% aufgeladen.
+Dass dafür über 8 voll belastete Drehstrom-Leistungssteckdosen erforderlich wären und der Akku dabei wohl explodiert „weiss“ der Redakteur natürlich nicht. Weshalb muss man sich mit Elektrotechnik auskennen, nur weil man darüber berichtet.
+Bei der Inbebtriebnahme einer Solartankstelle stand in der gleichen Zeitung: bei Sonne kommt der Strom vom Dach und sonst aus der Steckdose.
+Heute reicht zum Technik-Redakteur Kindergartenphysik als Fachausbildung.
+am Samstag, 20.02.2016, 03:04
+Ich fahre einen Tesla und da sind mir die Prospektdaten, zumindest vom Verbrauch eigentlich egal.
+Das „Tanken“ ist ja kostenlos an den Supercharger Ladestationen.
+Der Tesla ist günstiger als ein vergleichbarer Mercedes, nicht von den Anschaffungskosten, da ist der Stern und Tesla eigentlich gleich, nur bei den Unterhaltskosten da sind Welten dazwischen.
+##################################,
+Daran sieht man schon, Tesla ist ein Schneeballmodell, welches irgendwann krachend zusammenbricht. Kein seriöser Unternehmer wird solche „free lunch“ Köder auslegen um darauf ein langfristiges Geschäftsmodell aufzubauen. PROKON lässt grüßen….
+Sie vergleichen einen Tesla mit einem Mercedes (hochwertiger Verbrennungsmotor)? Die unterschiedliche Wertentwicklung ist erheblich und der Tesla verliert recht schnell. Versuchen Sie mal Ihren (??) Wagen zu verkaufen.
+Das Tanken ist nicht kostenlos. Ich zahle das, Hannes. Und bevor ich etwas zahlen soll, will ich gefälligst gefragt werden, also mitentscheiden. Außerdem sieht der Plan dies nur am Anfang vor. Später fällt das wohl weg, zwangsläufig.
+Einen Tesla mit einem Mercedes vergleichen zu wollen ist nicht in Ordnung. Das sind zwei völlig verschiedene Welten. Der Mercedes klar und deutlich besser.
+Nutzen Sie den Wagen nur für den Zigarettenkauf um die Ecke? Oder auch beruflich? Haben Sie das Geld dafür selbst erarbeitet, oder sich bezahlen lassen? Sollten Sie mal einen Unfall haben oder bauen (was ich Ihnen natürlich nicht wünsche), dann bin ich gespannt.
+MfG
+Auf dem Mond ist ein Tesla hingegen äußerst nützlich. Da schon. Da passen die Dinger sehr gut hin.
+Das „Tanken“ ist ja kostenlos an den Supercharger Ladestationen.
+Der Tesla ist günstiger als ein vergleichbarer Mercedes, nicht von den Anschaffungskosten, da ist der Stern und Tesla eigentlich gleich, nur bei den Unterhaltskosten da sind Welten dazwischen.
+Gruß
+ein schöner und gut recherchierter Beitrag, der eindeutig aufzeigt, wie die wohlstandsverblödeten deutschen Eliten sich anschicken, das Land mit grösstmöglichem Anlauf vor die Wand zu setzen.
+Mfg
+Für 150 Mrd. kWh/a bräuchte man nur 12 Kernkraftwerke des Siemens-Konvoi-Typs mit 1.400 MW elektrischer Leistung, wie z. B. das Kernkraftwerk Isar 2.
+Alternativ bräuchte Deutschland 12 mal rd. 6.000 Windkraftwerke = rd. 72.000.
+Das wäre 1 Windkraftwerk pro 5 Quadratkilometer, überall, auch in besiedelten Gebieten, auch in Berlin-Mitte, dem Regierungsviertel. Nur Mut. Wir schaffen uns.
+„Aus diesem Grund wird wie inzwischen in der Politik üblich eine gnadenlose Subventionsorgie verbunden mit einer Verbotsorgie für konventionelle Mobilität starten. Niemand von der „technischen Intelligenz“ wird sich trauen, dagegen seinen Verstand entgegenzusetzen – und die Industrie-Vorstände werden wieder durch Informationsverbot sicherstellen, nichts von Entwicklern mit Verstand zu erfahren um unterschriftsfähig ahnungslos zu bleiben.“
+GENAU so kommt es schon, in unserer Lokalzeitung war auch wieder ein Propaganda-Artikel. Ich kann nur raten: „Rette sich, wer kann!“
+Ich habe Zweifel, dass dieses dem kollektiven grünen Wahn verfallende Land noch zu retten ist. Auf die Kosten der 60 kWh-Batterie des Ampera-2 und deren Lebensdauer bin ich gespannt.
+http://tinyurl.com/jf6klx4
+Warum auch nicht ? Noch ist dies ein relativ freies Land!
+(Zahlen vom Bundesverkehrsamt)
+Alle Pkw in Deutschland kommen auf eine Fahrleistung von 611 Mrd. Kilometer
+Demnach haben die rund 43 Millionen Pkw in Deutschland im Berichtsjahr insgesamt 611 Milliarden Kilometer zurückgelegt und machen damit mit Abstand den größten Anteil (87 %) der Gesamtfahrleistung aller in Deutschland zugelassenen Fahrzeuge aus. Insgesamt legten deutsche Kfz im Jahr 2013 705 Milliarden Kilometer zurück. 31,6 % davon leisteten junge Pkw zwischen null und drei Jahren. 1,5 % wurden von Pkw mit Hybrid-Antrieb geleistet.
+Und jetzt rechnen wir Gesamtfahrleistung mal Verbrauch in kwh bei einer vollständigen Elektrifizierung des deutschen Automobilparks.
+Ergebnis bei angenommenen 20 kwh pro 100 km und 705 Milliarden gefahrener Kilometer Nutzfahrzeuge und PKW:
+150 Milliarden kwh zusätzlich (der Nutzfahrzeugbedarf wurde aufgeschlagen)
+Wir werden sehr, sehr viele Kraftwerke benötigen um die grünen E-Auto-Träume zu realisieren.

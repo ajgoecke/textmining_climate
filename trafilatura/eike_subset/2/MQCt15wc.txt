@@ -1,0 +1,266 @@
+Das Fatale daran ist, so der Autor, dass sie ihren jeweiligen Glauben von ihrem Erwartungshorizont abhängig machen. Genau das trifft heute für viele zu, die sich mit keiner oder minimaler Kenntnis über Elektrotechnik und deren Gesetzmäßigkeiten eine schöne Welt der Energieerzeugung vorstellen, allein, weil sie der Auffassung sind, damit Gutes zu tun.
+Ähnlich wie derzeit die deutsche Sprache verkehrt wird, weil man meint, der Gattungsbegriff verstoße gegen die Gleichberechtigung von Mann und Frau (oder Frau und Mann), wird mit sprachlichen Floskeln („Liebe Mitbürgerinnen und Mitbürger“) auch im Energiebereich versucht, erfolgreich zu agieren. Eines der bekanntesten Beispiele lieferte hierzu Herr Trittin, der die sog. Energiewende an einer Kugel Eis pro Monat festmachte. Diese besagte Kugel hat jedoch eine Dimension bekommen, dass sie kein Mensch je vertragen könnte. Die Fortsetzung findet sich dann in Sätzen, wie „Wind und Sonne schicken keine Rechnung“ und „Irgendwo weht der Wind immer“. Beim ersteren Satzkonstrukt wäre es konsequent, wenn Wind und Sonne zusätzlich die Rechnung für die Erstellung von Wind- und Solarkraftwerken und deren Instandhaltung gleich mit übernehmen würden. Der zweite Satz ist bereits in der Formulierung falsch, richtig wäre einzig – wenn man eine großflächige Totalflaute außer Acht
+lässt – „Immer weht der Wind irgendwo“. Wenn nämlich der Wind irgendwo immer weht, wäre es sicher ergebnisorientiert, wenn man nur dort Windräder aufbauen würde.
+Das was durch die verfahrene Politik in Unkenntnis elektrotechnischer Grundlagen aus dem Ruder läuft, wird nun ebenfalls durch sprachliche Kunstwerke vertuscht. Begriffe wie „Zappelstrom“ und „Stromautobahnen“ sollen dem Normalbürger Perspektiven eröffnen, das dasjenige, was von den Grundlagen her nicht umsetzbar ist, durch weitere Hilfskonstrukte korrigiert und wirtschaftlich funktionsfähig und sinnvoll gemacht werden kann.
+Das Studium der Publikation „Wie sauber sind die weißen Riesen“ von H.-J. Wagner (Lehrstuhl Energiesysteme und Energiewirtschaft, Institut für Energietechnik, Ruhruniversität Bochum) hat mich inspiriert, einmal ein Excel-Blatt aufzumachen und die erforderlichen Energien zu kalkulieren, da die dort angegebene energetische Amortisationszeit von lediglich einigen Monaten bei mir Skepsis ausgelöst hat.
+Orientierung lieferte die in der Publikation gezeigte Abbildung 5, die Angaben für ein 1,5 MW Anlage enthält. In meiner Energiebilanz für ein 2 MW Windrad habe ich mit der Eisengewinnung aus Erz im Hochofen begonnen, gefolgt vom Materialaufwand für Gondel und Nabe, Generator, Umrichter, Fundament mit Zementbrennen, Armierungsstahl, Verarbeitungs- und Umformenergie, was zusammen zu immerhin 5,5 GWh führt. Reduziert man dieses Ergebnis linear auf ein 1,5 MW Windrad entsprechend der zitierten Publikation, ergeben sich 3,46 GWh, die mit dem publizierten Wert in Einklang stehen, auch wenn die berücksichtigten Terme etwas unterschiedlich sind.
+Das, was die Publikation aus welchen Gründen auch immer verschweigt und zu dem phantastischen Ergebnis weniger Monate Amortisationszeit führt, ist die von der Windgeschwindigkeit abhängige Leistung. Die Publikation setzt dauerhaft die Nennleistung von 1,5 MW an, was zwar rechnerisch möglich ist, aber in krassem Missverhältnis zur Realität steht. Bekanntlich nimmt die Leistung einer Windkraftanlage in 3. Potenz mit der Windgeschwindigkeit zu. Die angegebenen 1,5 MW sind aber die Grenzleistung, bevor das Windrad abgeschaltet werden muss. Derartige Arbeitspunkte kommen nur wenige Minuten oder Stunden innerhalb eines Jahres vor. Entscheidend ist also das über das Jahr sich ergebende Windprofil, davon hängt ab, ob die mittlere Leistung 10 %, 5 % oder noch weniger von der Nennleistung beträgt.
+Entsprechend der Publikation ergibt sich rechnerisch bei einer durchgängigen Windgeschwindigkeit von 13,5 m/s eine energetische Amortisationszeit von 0,3 Jahren unter Bedingungen, die es in der realen Welt nicht gibt. Auch bei einer unrealistischen durchgängigen Windgeschwindigkeit von 6 m/s beträgt die energetische Amortisationszeit 3,4 Jahre, was der Leistungsabhängigkeit in der 3. Potenz von der Windgeschwindigkeit geschuldet ist. Ohne nun die Windprofile je Region zu differenzieren, lässt sich ein vom Windprofil abhängiges „eta“ einführen, welches regional unterschiedlich ist und sich zwischen 2 % und 8 % bewegt. Die daraus errechenbaren energetischen Amortisationszeiten liegen bei 6 bis zu 12 Jahren und sind nur für jedes einzelne Windrad vor Ort bestimmbar.
+Geht man von einer Lebensdauer von 20 Jahren aus, so kann die für die Erstellung der Windkraftanlage erforderliche Energie als Hypothek betrachtet werden, die das Windrad in rund 10 Jahren erst einmal zurückzahlen muss, bevor ein nutzbarer Energiebeitrag für den freien Verbrauch zur Verfügung steht. Bezogen auf das Gesamtsystem kann man das auch als einen Wirkungsgrad von rund
+50 % bezeichnen, indem man Nutz-Energie zur aufgewandten Energie ins Verhältnis setzt.
+Dabei sind die Energien für Erdarbeiten, Zuwegung, Transporte, Systeme für die Netzanbindung und Netzregelung usw. nicht einmal einbezogen. Das alles mit einer Kugel Eis je Monat bewerkstelligen zu wollen, spricht dafür, dass interessierte Leute die Menschen mit politischen Aussagen von der Wahrheit entfernt halten wollen. Das ist insofern einfach, da diese Leute zu keiner Zeit zur Verantwortung gezogen werden können und damit geneigt sind, ihre Ideologie zusammen mit einem immensen Unwissen politisch oder vorsätzlich irreführend erfolgreich an den Mann zu bringen. Hier darf ich wieder auf die Formulierungen des anfangs zitierten Buches verweisen.
+Prof. Dr.-Ing. Peter Puschner
+(Dipl.-Ing der Elektrotechnik, promovierter Maschinenbauer, Honorar-Professor)
+„Wie sauber sind die weißen Riesen“ von H.-J. Wagner (Lehrstuhl Energiesysteme und Energiewirtschaft, Institut für Energietechnik, Ruhruniversität Bochum)
+Energiebilanzen gehören dank der beruflichen Einbindung in schweißtechnische Prozesse zum Alltag des Autors, sie sind sozusagen sein Handwerkszeug, um z. B. autonom arbeitende Punktschweißprozesse für die Automabilindustrie bewerkstelligen zu können.
+Lösen wir uns nach Frequenzplan vom Verbundnetz. Viel Spaß beim Netzaufbau und Flaute.
+Es sei mal daran erinnert, was der Verband der Windindustrie damals nach Fukushima (natürlich das Atomunglück) von sich gegeben hat:
+WINDENERGIE-VERBAND,
+… Von jetzt auf gleich ist die Umstellung im Energiemix allerdings nicht möglich. „In zwei bis drei Jahren können wir aber so weit sein“, sagte Albers. Und Potenzial zum Ausbau der Anlagen an Land sei ausreichend vorhanden. Der Studie zufolge sind bundesweit acht Prozent der Landfläche nutzbar, Wälder und Schutzgebiete inklusive seien es sogar bis zu 22 Prozent. Potenzial sehen die IWES-Experten dabei vor allem in den bislang windunfreundlichen Bundesländern im Süden Deutschlands. In Bayern zum Beispiel seien bislang erst Anlagen mit einer Leistung von 520 Megawatt installiert. „Möglich sind dort aber bis zu 41.000 Megawatt“, erklärt Kurt Rohrig, der stellvertretende Leiter des IWES. Aber auch in Baden-Württemberg sei noch mehr möglich.
+Rechne ich einfach mal obige Werte für Bayern, so ergibt sich eine Zahl von mehr als 13.600 WKAs bei 3MW !
+https://www.welt.de/wirtschaft/energie/article13081001/Die-Windkraft-kann-Atomenergie-muehelos-ersetzen.html
+Der zweite Punkt ist, dass sie davon ausgehen, dass jede einzelne kWh gespeichert werden muss. Das wird so nicht geschehen.
+Der dritte wesentliche Punkt ist, dass sie davon ausgehen, dass in Zukunft nur noch veraltete WEA mit 2 MW errichtet werden. Das wird so nicht geschehen.
+Genau genommen gehe ich davon aus, dass nur die zusätzlichen kWh gespeichert werden müssen. Zumindest beim Strom ist das gar nicht so falsch, da wir jetzt schon Zeiten haben, in denen wir uns fast ausschließlich mit „Erneuerbaren“ versorgen könnten.
+Durch Repowering ändert sich natürlich die Anzahl der Windräder. Ok., dann haben wir halt nicht 2 Mio. Windräder, sondern „nur“ 1 Mio., dafür aber Riesenmonster.
+dann liefern Sie doch mal eine realistische Betrachtung für eine Vollversorgung mit EE und lassen Sie uns daran teilhaben, was denn geschehen wird.
+Sollte eine EE-Vollversorgung jedoch wie von Friedel Ermel postuliert ausschließlich über PV + Wind erfolgen, dann wird sich auch das gesamte nachfolgende Energiesystem ändern. Sämtliche Heiz- und Bewegungsenergie muss dann über PV/Wind-Strom bereitgestellt werden. Dies über Umwandlung von Strom in Diesel, Öl, Gas zu machen, wäre Wahnsinn. Viel logischer wäre es den Heizkessel durch eine Heizpatrone oder Wärmepumpe zu ersetzen und Verbrennermotoren durch Elektromotoren zu ersetzen. So entfallen automatisch ein Großteil der Verluste im Verbrennungsprozess. Hierdurch sinkt der Energiebedarf von 3000 TWh auf unter 1.000 TWh. Selbst bei guter Kombination von PV und Wind und sehr hoher Auslastung der Windräder wird noch 10% des Stroms halb kurzfristig / halb langfristig speichern müssen. Langfristig wird wohl PtG bedeuten und selbst mit Abwärmenutzung/H2-Direktntzung noch hohe Verluste haben.
+Biomasse, Wasser, Erdwärme werden wohl irgendwo auf dem heutigen Niveau bleiben.
+Also müssten Wind und PV wohl fast 1.000TWh bereitstellen.
+Mit heute bestellbarer Technologie könnte ich mir folgende Zahlen vorstellen:
+30.000 Onshore WEA (~5 MW @ ~3.000 Vh)
+gut 5.000 Offshore WEA (mind. 12 MW)
+Rest: 200 bis 300 GW PV
+Spannend bleibt wo man die 300 Meter WEAs aufstellen soll
+1. Je mehr und je größere Windräder man hinstellt, desto mehr nehmen die sich gegenseitig den Wind weg -> massive Verluste.
+2. Die windhöffigsten Gebiete sind bereits belegt, sehr teure, große Anlagen im Süden notwendig, Wirtschaftlichkeit ist ein Fremdwort.
+3. Auch bei flächendeckender Installation erfolgt keine Glättung der Leistungsverläufe, bei Dunkelflauten strebt der Ertrag gegen null, oft für mehrere Tage und Wochen.
+4. Wegen Sektorkopplung in Zukunft doppelte Strommenge erforderlich (Durchschnittsleistung von 160GW notwendig). Da Wind/PV laut Plan mindestens 60% von diesen 160GW = 96GW liefern sollen, müssen bei Flaute ca. 90GW mehrere Tage lang anderweitig bereit gestellt werden. Kurzfristig können Gas-KW ca. 20GW zusätzlich liefern, aus dem Ausland noch mal 20GW, dann fehlen noch 50GW, in 7 Tagen sind das 8,4TWh, die die Speicher liefern müssen. Das sind 8,4 Milliarden KWh. Wenn Sie für Akkuspeicher 100€/KWh ansetzen, was sehr günstig angesetzt ist, landen Sie bei 840 Milliarden Euro allein für einen 8 Jahre lang haltbaren Speicher, pro Jahr also 84 Milliarden. Für Power to Gas to Power mit 30% Wirkungsgrad müssten Sie noch mal 50% mehr Windräder bauen plus die PtG-Anlagen plus weitere Gas-KW.
+Merken Sie, wie irrsinnig diese Pläne sind, die uns da schmackhaft gemacht werden sollen.
+Mir schmecken sie auf jeden Fall nicht!
+Punkt 1 wurde hier schon diskutiert. Mir fehlen aber noch konkrete Bsp für die massiven Verluste
+Punkt 2: Ich dachte auch, bald ist es vorbei mit den WEA. Aber nach der Diskussion hier, gibt es ab Nabenhöhen von 140m viel viel mehr geeignete Flächen als bei den alten WEA
+Punkt 3: Völlig richtig, wobei es bei kurzen Zeiträumen und großen Betrachtungsgebieten schon zu einer Glättung kommt. Die Kälte Dunkelflaute wird aber gar nicht verhindert.
+Punkt 4: Das ist genau der Knackpunkt bei einer völligen EE-Versorgung. Aber was ich nicht versteh, warum wird bei Eike immer wieder gesagt, dass man die Dunkelflaute mit Batterien und Pumpspeichern nicht bdienen kann. Hat das irgendwer jemals ernsthaft behauptet? Das sind doch beides nur kurzfristige Speicher
+Flächenfrage: Dies beantwortete seinerzeit Prof. Dr. Dr. h.c. mult. Hans-Werner Sinn, Präsident des ifo Instituts, 16. Dezember 2013, im YouTube Video „Energiewende ins Nichts“. So wäre denn die gesamte Fläche Bayerns für WKA’s im technischen, nicht im gesetzlichen, Mindestabstand platziert erforderlich.
+30.000 Windräder Annahme: Laut Quelle: statista „Kumulierte Nennleistung der Onshore-Windenergieanlagen in Deutschland in den Jahren 1995 bis 2017 (in Megawatt)“ waren es im Jahre 2017 = 50.678 WKA’s.
+Man macht immer wieder den gleichen Fehler bei seinen Überlegungen…man geht von Theorie aus und projektiert die Ergebnis in die Praxis. Man rechnet MW und GW…Arbeit und Leistung…hin und her…man errechnet theoretische Wert und meint damit die Praxis abbilden zu können. Bei Kraftwerken der Dispostionellen Energieträgern von Kohle, Gas, Oel und Uran können die Berechnung der Theorie 1:1 in die Praxis übernommen werden…bei den Berechnungen der Energieträger Wind, Sonne, Biomasse und Wasser ist dies nicht der Fall…hier kann nicht 1:1 übernommen werden, weil die theoretischen Werte sich in der Praxis nicht niederschlagen…das liegt an der Praxis…und die lautet Laune des Wetter….Will sagen…
+Kraftwerke (Theorie) sind mit den Energieträger (Praxis) Kohle, Gas, Oel und Uran 1:1 berechenbar/einzuhalten = zuverlässig.
+Sog. Erneuerbare Energieerzeuger (Theorie) sind mit den Energieträger (Praxis) Wind, Sonne, Biomasse, Wasser NICHT 1:1 berechenbar/einzuhalten = unzuverlässig.
+Eine mehrwertschaffende fortschreitende Industrie-Wohlstands-Sozialgesellschaft braucht aber als Basis eine ZUVERLÄSSIG Strom-Energieversorgung.
+Riesenbericht über den Braunkohleabbau Hambacher Forst. Selbst Aufrufe zum Gesetzesbruch werden verbreitet. Über die Rodungen für die Windräder hingegen, kein Wort. Angekündigt wird der Bericht aber nicht; warum wohl….
+https://www.welt.de/wissenschaft/plus181233204/Klimawandel-Wieso-glauben-Millionen-Menschen-nicht-an-den-Klimawandel.html
+Zwar hinter einer Bezahlschranke, aber der Titel genügt …
+Wieso Millionen Menschen nicht an den Klimawandel glauben….
+Es folgen die „99% aller Klimaforscher…“
+Welch ein Irrenhaus!
+1. Die Hauptherausforderung des umweltschädlichen Windstroms ist dass dieser entsprechend den Launen des Wetters eingespeist wird. In einem Netz in dem Einspeisung und Verbrauch in jedem Augenblick gleich sein müssen ist solcher Strom wertlos. Damit ergibt sich keine energetische Amortisation.
+2. Der Aufwand eine Windmühle zu errichten besteht nur zu einem Bruchteil aus dem Energieaufwand von Stahl und Beton. Eine Vollenergierechnung muss die Arbeitslöhne (werden in Energie umgesetzt), die administrativen Aktivitäten (z.B. Flug des Verkäufers zu potentiellen Kunden), Genehmigungsverfahren umfassen. Die beste und manipulationssicherste Energiebilanz ist der Preis. In diesem sind alle Aufwendungen enthalten. Aktuell betragen die Einnahmen aus der Vermarktung umweltschädlichen EEG Stroms nur wenige Prozent der Subventionszahlungen. Damit ist die Energiebilanz negativ.
+Holger Narrog
+Sie haben die Zusammenhänge mit einem Satz treffsicher analysiert: „Die beste und manipulationssicherste Energiebilanz ist der Preis“. Ich bitte um Nachsicht, wenn ich – zum wiederholten Mal – auf meine Website verweise, um den physikalischen und den daraus resultierenden ökonomischen Hintergrund Ihrer Aussage für interessierte Leser nachvollziehbar verständlich zu machen und die von Ihnen getroffene Aussage zu bestätigen. http://www.kosten-energie-aequivalenzgesetz.com
+Dr. Heinz Schütte
+Sie haben gesagt, dass sie das zusammengerechnet haben. Was für Zahlen kommen dabei raus?
+Ich glaube mit Begriffen wie Monster, Selbstmord etc. verschafft man sich bei der anderen Seite kein Gehör. Da kommt dann nur zurück: „passt scho, es gibt ja Batterien, PtG usw.“
+https://www.zeit.de/wissen/umwelt/2018-08/klimawandel-globale-erderwaermung-zweifel-argumente-klimamodelle
+Meine Kommentarfunktion bei ZON wurde ja wegen Klimaleugnens gesperrt, es ist aber immer schön zu lesen wie ein „Wissenschaftsjournalistin“ schon an den Hauptsätzen der Themodynamik scheitert…
+Stimmt, das kann man sagen – wenn man keine Ahnung hat. Dass die Dame damit ein Perpetuum mobile der 2. Art beschreibt scheint in ihrem Studium des „Wissenschaftsjournalismus“ irgendwie untergegangen zu sein. Wir schaffen das….
+Übrigens, was die Wissenschaftsjournalistin über die Umwandlung von kurzwelliger Strahlung in Wärme behauptet, hört man zwar immer wieder, allein mir fehlt der Glaube. Zumindest, was die Dimension angeht. Man kann mal probieren, mit einem kräftigen Baustrahler einen schwarzen Gegenstand hinter einem wassergekühlten Aquarium (Absorption der Infrarotstrahlung) zu erwärmen. Ohne Aquarium, kein Problem. Mit Aquarium, keine Erwärmung mehr messbar. Es muss überwiegend der Infrarotanteil der Sonnenstrahlung sein, der die Erdoberfläche erwärmt.
+Und gibt es dann noch andere Strahlung ? weil das CO2 ja „bevorzugt“ diese nimmt ? will es die anderen nicht umwandeln ? Fragen über Fragen …
+Das ist aber die durchschnittliche Auslastung ALLER Windmühlen in ALLEN Standorten. Damit dieser Durchschnittswert zustande kommt muss es natürlich auch Windmühlen mit niedrigerer Auslastung (Altanlagen) und höherer Auslastung (modernere Anlagen geben).
+Außerdem kann man eine allgemeine Statistik nicht auf einen speziellen Einzelfall (Standort, Anlagentyp) anwenden.
+MfG
+Sehr geehrter Herr Fritz, was dabei herausgekommen ist, sehen Sie nach einem Jahr Laufzeit.
+Ich versichere Ihnen, das ist nicht viel.
+Wenn Sie dann, bei zu guter Windlage, die Kosten für die Überproduktion abziehen, erkennen Sie noch deutlicher das asoziale an den WKA.
+Viel zu teuer.
+Im Verhältnis zum diktierten Scheinertrag sehr schädlich für die Umwelt.
+Zusätzlich zur Unproduktivität eine massive, unnötige Verteuerung der Netzkosten.
+Nutzlos.
+Es gibt nicht einen Grund, kein Argument für diese asoziale „Technologie“.
+aber ihre Berechnungen hier nach Tabelle und Annahme !(wie bei den Klimamodellen !) von mittlerer Windgeschwindigkeit von 6m/s kommen Sie auf Auslastungen in Ihrem 2 Beispielen von 28 und 34 %. Wow ! und das sollen mittlere Lagen sein ? in der Ostsee oder Nordsee ?
+Bei so einer Auslastung würde ich ja auch gleich Anteilseigner werden.
+es handelt sich nicht um Annahmen, sondern um belegte Werte, offensichtlich sind sie über die Windverteilung im Binnenland überhaupt nicht informiert. Lesen sie zur Einführung vielleicht den Beitrag von C. Hansen vom 22. 08. 8:58. oder informieren sie sich mal selbst anhand einschlägiger Unterlagen.
+Gebiete mit 6 m/s in 140 m oder mehr Nabenhöhe sind selbst im Binnenland verbreitet und durch Windmessungen in Nabenhöhe belegt.
+Aus den technischen Daten einer WEA (Leistungskurve) lässt sich dann anhand physikalischer Zusammenhänge der Jahresertrag ermitteln. Dabei ergeben sich nun mal die von mir angegebenen Zahlen.
+So erreicht eben eine N 131-3.3 unter diesen Bedingungen einen Nutzungsgrad von rund 3.000 Volllaststunden (VLh) oder 34 %. Das lässt sich faktisch nicht widerlegen, schon gar nicht durch dümmliche Polemik. Mit solchen Zahlen gehen die Projektierer hausieren, hat doch das DEWI vor Jahren 2.000 VLh als Wirtschaftlichkeitsgrenze definiert, also werden die VLh getuned um eine Wirtschaftlichkeit vorzutäuschen.
+Der Trick: man kombiniert gigantische Rotoren, die bei niedrigen Geschwindigkeiten mehr Leistung aus dem Wind holen (die Leistung hängt ja in 2. Potenz von dem Rotordurchmesser ab) mit relativ leistungsschwachen Generatoren. Diese Uneffektivität dieser Riesen ist der Angriffspunkt, natürlich zusammen mit der Volatilität, der die Windkraftbefürworter in Bedrängnis bringt, über ihre Polemik lachen sie sich allenfalls kaputt.
+mich hat nur die Ernsthaftigkeit amüsiert mit der Sie die banale Äußerung machten dass allgemeine Statistik nicht auf den Einzelfall übertragbar sei. Logisch !!
+Weiterhin habe ich die 6m/s nirgendwo angezweifelt. Sie phantasieren und folgern daraus Uninformiertheit. Sie machen sich das mit dieser freien Interpretation ziemlich einfach. Ich habe nur das Ergebnis Ihrer Rechnung angezweifelt, dass man 28 oder gar 34% Auslastung in mittleren Lagen hätte. Hier nehme ich die Gesamtstatistik eines Gebietes und wenn die aussagt, dass eben der Ertrag bei 17 oder 18% liegt, dann ist das aussagekräftig. Was soll ich mittlere Windgeschwindigkeiten nehmen. Doch nur wenn ich Windräder verkaufen will um eine Prognose des Ertrages zu stellen. Das interessiert mich wenig. Interessant ist was bringt das Windrad, und da nehme ich einfach – wie jeder andere auch – die allgemeinen Daten der Netzbetreiber her. Jahresarbeitsleistung geteilt durch 8760 Stunden. Rechnen Sie den Verbrauch Ihres Autos auch umständlich über die Daten des Herstellers aus, oder teilen Sie nach dem Tanken nicht auch Liter durch km. Da kommt auch was anderes raus wie der Hersteller angibt.
+was soll ich mit den bedeutungsschweren aussagelosen Sätzen von Herrn Hansen anfangen ?? Sie geben vielleicht Tipps, oder war das Ironie ?
+in den von mir verwendeten offiziellen Zahlen, Quelle Fraunhofer Institut und destatis, sind Einzelheiten, wie sie von Ihnen angesprochen werden, nicht aufgeschlüsselt und mir persönlich auch nicht bekannt.
+Dr. Heinz Schütte
+Der Windstrom ist marktwirtschaftlich überhaupt kein marktgängiges Produkt, sondern wertlos, da er niemals bedarfsgerecht geliefert werden kann und dazu noch wesentlich teurer ist als der mit herkömmlichen Mitteln erzeugte Strom. Erst durch das EEG wird dieser Strom gewaltsam in den Markt gedrückt, mit allen hier schon vielfach beschriebenen negativen Folgen. In unserer heutigen hochtechnisierten Gesellschaft ist die zuverlässige Stromversorgung die erste und wichtigste Bedingung. Deshalb kann man für eine Investition, die kein verwendbares Produkt herstellt, gar keine Amortisation ausrechnen. Ich wundere mich nur, wer bei dieser unseriösen Rechnerei alles mit dabei ist.
+Richtig!
+P.S.: steht das F im Namen für „Feldmarschall“?
+Müssten die Hersteller von Windrädern diese Produktion und Errichtung (inklusive aller Vorprodukte) ausschließlich mit Strom aus ihren Windrädern machen, stünde heute kein einziges Windrad.
+Gleiches gilt für die Hersteller von PV-Anlagen.
+Deshalb ist auch jeder Vergleich von Stromgestehungskosten zwischen EE und Konventionellen Blödsinn.
+Ja, vom Ende!
+„Wichtig ist hier in jedem Fall die Weiterleitung des Stromes zu den Endverbrauchern, als auch die Speicherung.“
+Investitionen in Weiterleitung von Zufallsstrom sind wirtschaftlicher Humbug und Speicherung ist in der notwendigen Menge nicht möglich. Ihr Satz ist eine reine Luftblase.
+„Jedoch muss die Politik Prioritäten setzen und erforderlichenfalls per Gesetz den Weg für den Bau von Stromtrassen frei machen. Das Warten auf die Einsicht der Bürger ist hoffnungslos.“
+Schon mal was von Demokratie gehört???
+„Niemand möchte verzichten und somit ist nicht mit einer freiwilligen Bechränkung zu rechnen.“
+Aus dem Grund brauchen wir die linksgrünen Ökofaschisten der Merkelbande, die den Bürgern mal die Hammelbeine langziehen…
+„Und die anderen Länder wollen auch mehr, höher, schneller, weiter. Das kann nicht funktionieren.“
+Hä??? Warum nicht???
+„Da muss der Weltklimarat eindeutige Vorgaben machen, da müssen die Länder, allen voran auch Deutschland, Europa und die USA mitziehen und Einschnitte in unser Leben bringen.“
+Jaaaaaa! Faschisten an die Macht! Kasteit uns! Bitte!
+„Wir bauen Flughäfen, die nicht fertig werden, weil die Kapazität während des Bauens immer weiter hoch geschaubt wird. Ist das nicht total falsch. Wer wird in zukunft noch fliegen können, ja dürfen??“
+Mamma mia! Nur die Reichen und Parteibonzen werden noch fliegen dürfen, wenn das was Sie hier fordern umgesetzt wird.
+So ein Geschwurbel findet man sonst nur auf SPON und anderen Ökofaschistenportalen. Glückwunsch!
+Das kann nur fein formulierte Ironie – haarscharf angelehnt an unsere ÖRen – sein.
+Kein Mensch mit wachem Verstand und / oder finanziellem Partizipieren am System kann das Ernst meinen.
+Das Windrad, finanziell nüchtern betrachtet und das ist entscheidend.
+Bei den EEG Ausschreibungen der Bundesnetzagentur ist bei der Windkraft der niedrigster Gebotswert (mit Zuschlag) 3,80 ct/kWh an Vergütung gekommen.
+https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Ausschreibungen/Wind_Onshore/BeendeteAusschreibungen/Ausschreibungen2018/Ausschreibungen2018_node.html
+Das schafft kein Neubau von einem AKW oder Kohlekraftwerk für ca. 4 Cent/kWh.
+Beim AKW-Neubau sind wir ja bei über 11 Cent/kWh, siehe England.
+Beim Steinkohlekraftwerk sind bereits nur an Brennstoffkosten ca. 1,5 Cent die in einem kWh Strom stecken.
+Vor allem deren Eigentümerstruktur. Wetten das sind alles Strukturen mit Zugriff auf Steuergelder.
+Die STAWAG Aachen betreibt alle ihre Windräder defizitär, baut aber weiter munter zu.
+http://www.aachener-nachrichten.de/lokales/aachen/fundamente-fuer-die-windkraftanlagen-im-muensterwald-gegossen-1.1923458
+Die Stadt Aachen steht ja für die Verluste gerade. Da kann man jedes politisch gewünschte Angebot abgeben, „Energiewende“ eben….
+Ach ja, die Frage nach den Ergebnissen der Windmessungen am Standort wurde mit dem Hinweis „Betriebsgeheimnis“ beantwortet. Der Steuerzahler muss ja nicht alles wissen….
+Da ist leicht der vierfache KWh-Preis drin.
+Die 3,8ct/KWh können gar nicht kostendeckend sein, reines hasardieren. Hier ein kurzer Überschlag für ein 4,2MW-Rad:
+Annahmen: 2500 Volllaststunden (VLS) -> 28,5% Auslastung, Preis z.B. Enercon E-141: 5,5 Mill.€
+Erzeugte Energiemenge/Jahr bei 2500VLS: 10 GWh = 10.000.000 KWh
+Rohertrag bei 3,8ct/KWh: 380.000€
+Man rechnet mit Betriebskosten von 2,5ct/KWh: 262.500€
+Es verbleibt ein Nettoertrag von: 136.500€
+Amortisationsdauer: 40,3 Jahre
+Erst ab 5,1ct ist eine Amortisation innerhalb von 20 Jahren möglich, wenn alles gut geht.
+Der Grund ist der relativ fixe Betriebskostensatz von 2,5ct/KWh.
+https://tinyurl.com/y9agjh5v
+Durch effektivere, höhere WKA könnte man die Anzahl der VLS erhöhen, allerdings erzeugen solche Riesen-WKAs gewaltige Wirbelschleppen bis zu 100km Länge, so dass die dahinter stehenden WKAs nicht mehr auf diesen Wert kommen können. Ausserdem sind die windhöffigsten Standorte bereits besetzt, so dass auch schlechtere Standortqualität keine Steigerung der VLS zulässt.
+Die offiziellen Vorhersagen zur Windenergie sind allesamt unrealistisch und können durch gegenseitige, sich negativ auswirkende Abhängigkeiten niemals erfüllt werden, eine weitere Kostenreduktion ist aufgrund des oben gesagten nicht möglich, die anfangs erwähnten Zusatzmaßnahmen lassen Windenergie niemals wirtschaftlich werden!
+Da passt das dazu:
+Ergebnisse der sechsten Ausschreibung für Windkraft an Land
+Zuschlagswerte um 30% gestiegen; EEG-Vergütung höher als vor der Reform 2017.
+Die sechste Ausschreibung für Windkraft an Land (01. August 2018) zeigt, dass das Ausschreibungsverfahren zur Farce geworden ist: Alle zugelassenen Gebote haben einen Zuschlag erhalten! Weil es keinen Wettbewerb gab, konnten auch 7 Projekte aus Baden-Württemberg einen Zuschlag erhalten.
+Der durchschnittliche Zuschlagswert hat sich gegenüber der Ausschreibung vom 01.Februar 2018 von 4,73 ct/kWh auf 6,13 ct/kWh, also um 30% erhöht und liegt nur noch 2,5% unter dem zulässigen Höchstwert.
+Der höchste Zuschlagswert entspricht dem zulässigen Höchstgebotswert von 6,30 ct/kWh. Bei den vorangegangenen Ausschreibungsrunden lagen die höchsten Zuschlagswerte bei 5,78 ct/kWh; 4,29 ct/kWh; 3,28 ct/kWh; 5,28 ct/kWh und 6,28 ct/kWh. Gegenüber dem bisher tiefsten Wert beträgt die Steigerung 92%!
+Die tatsächlich gezahlte EEG-Subvention wird auf Basis des Zuschlagswertes mit einem Korrekturfaktor ermittelt; Windkraftprojekte an windschwachen Standorten bekommen eine um bis zu 29% höhere Vergütung (paradox!): Dies bedeutet die tatsächliche EEG-Vergütung kann bis zu 8,13 ct/kWh betragen.
+Zum Vergleich: Windkraftprojekte, die vor dem 01.01.2017 genehmigt wurden und im 2. Quartal 2018 in Betrieb gingen, erhalten eine EEG-Vergütung von „nur“ 7,31 ct/kWh.
+Das Ziel der EEG-Reform 2017 den Strompreisanstieg aufgrund der EEG-Umlage zu verlangsamen ist wohl gescheitert, vielmehr ist mit einem beschleunigten Preisanstieg zu rechnen.
+Bei der 6. Ausschreibungsrunde wurden 670 MW ausgeschrieben. Teilnahmeberechtigt an der Ausschreibung waren 1.288 MW; tatsächlich wurden aber nur 86 Gebote für 667 MW abgegeben. Das Angebot der Ausschreibung war somit höher als die Nachfrage; dies ist bereits zum zweiten Mal der Fall. Das bedeutet auch das schlechteste (höchste) Gebot erhielt noch einen Zuschlag. Das Ausschreibungsverfahren blieb somit wirkungslos. (Was für ein „Zufall“, dass die Nachfragemenge genau der Angebotsmenge entsprach!).
+Der Ausbaukorridor im Jahr 2018 beträgt 2.800 MW; für die verbleibende Ausschreibungsrunde (01.10.) steht somit noch ein Angebot von 760 MW zur Verfügung, diesem steht eine potentielle Nachfrage an genehmigten Projekten von 621 MW gegenüber. Dies bedeutet, dass auch weiterhin mit einem Angebotsüberhang zu rechnen ist und das Ausschreibungsverfahren wirkungslos bleibt.
+Verschärft wird diese Situation noch durch die Erhöhung des Höchstwertes für Gebote von 5,00 ct/kWh auf 6,30 ct/kWh (+26%) durch die Bundesnetzagentur.
+https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Energie/Unternehmen_Institutionen/Ausschreibungen/Onshore/Festlegung17_1.pdf?__blob=publicationFile&v=1
+Bei dieser Situation ist damit zu rechnen, dass die Windkraftindustrie nun durchstartet und verstärkt Projekte zur Genehmigung bringt.
+Aber auch hierfür wurde schon vorgesorgt. Der Bundesrat hat (auf Antrag der CDU/FDP-Landesregierung NRW) für 2018 eine zusätzliche Sonderausschreibung von 1.400 MW gefordert und CDU/CSU und SPD haben in ihrer Koalitionsvereinbarung für 2019 und 2020 zusätzliche Sonderausschreibungen von jeweils 2.000 MW vereinbart. Es ist also weiterhin damit zu rechnen, dass das Ausschreibungsverfahren wirkungslos bleibt.
+Das Ausschreibungsverfahren soll offensichtlich ganz bewusst ausgehöhlt werden, um der Windkraftindustrie ihre Pfründe zu sichern. Der Windkraftindustrie stehen Goldene Zeiten bevor, Natur, Landschaft und Anwohnern droht dagegen der Super-Gau! (Laßt Euch von den aktuellen Pressemeldungen zur schlechten wirtschaftlichen Lage der Windkraftindustrie nicht beeindrucken –Jammern gehört zum Geschäft (siehe unten). Von 1.288 MW haben nur 667 MW an der Ausschreibung teilgenommen – so groß kann die Not also nicht sein.)
+Die Windkraftindustrie hat sich unser Land zum Untertan gemacht!
+Folgende 7 Windkraftprojekte (19 WKA / 72 MW) aus Baden-Württemberg erhielten einen Zuschlag:
+73345 Drackenstein (Planet Energy);
+73345 Drackenstein (Alb-Elektrizitätswerk);
+77793 Wolfach / Kirnbach (E-Werk Mittelbaden);
+88348 Bad Saulgau / Braunenweiler + Bierstetten (Uhl Windkraft);
+89520 Heidenheim (Enercon);
+89520 Heidenheim / Königsbronn (EnBW);
+89520 Heidenheim / Nattheim (Enercon)
+Detaillierte Informationen auf der Homepage der Bundesnetzagentur:
+https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2018/20180817_Onshore18-3.html?nn=265778
+Bei genauerer Betrachtung der Gestehungs- und Betriebskosten dieser Anlagen ist ein wirtschaftlicher Betrieb unter 10ct/KWh nicht möglich. Die Energiewendephantasten träumen immer von Preissenkungen durch Massenproduktion und orientieren sich dabei an Massenware wie TVs und Smartphones, für die natürlich ganz andere Voraussetzungen gelten. Windräder sind mehr oder weniger Einzel-/Handanfertigungen.
+Warum wohl ist Enercon in solch eine Schieflage geraten, obwohl sich die Windradpreise, auch leistungsskaliert, kaum geändert haben.
+Mit einer Senkung der Vergütungspreise ist nicht mehr zu rechnen, das Gegenteil dürfte der Fall sein, Wunschträume wie die von Herrn Stemmer werden zerplatzen wie eine Seifenblase, die zukünftigen Zusatzkosten für Speicher und Netze, spätestens nach der Stilllegung der KKWs und Kohlekraftwerke, werden den Strompreis weiter explodieren lassen.
+Ich bin gespannt, wie lange das die Leute noch mitmachen, irgendwann dürfte selbst dem Deutschen Michel ein (elektrisches) Licht aufgehen, und zwar genau dann, wenn diese Lichter ausgehen.
+Die Vergütung für die alten 1,5 MW-Anlagen betrug 9 ct
+Die etwas größeren Anlagen vor letzten Ausschreibung haben noch 7,3 ct benötigt.
+Die 2 bis 3 MW großen Anlagen aus der letzten Ausschreibung mit vorhandener Genehmigung benötigen 6,3 ct.
+Die Anlagen ohne Genehmigung aus den Ausschreibungen davor wetten auf die zukünftigen 5 MW-Anlagen und bieten Preise von 4 ct
+Mal gucken, ob die 4 ct ausreichen. Dauert ja noch 2-3 Jahre bis die Genehmigung da ist
+https://magazin.tu-braunschweig.de/m-post/windparks-erzeugen-lange-wirbelschleppen/
+Die Forschungen laufen noch, bei den kleineren Offshore Anlagen wurden eindeutig 70km Nachläufe festgestellt, bei den wesentlich höheren Onshore werden 100km vermutet.
+Die Effekte sind bei jeder Windgeschwindigkeit vorhanden und natürlich umso größer, je dichter die Windräder stehen und je stärker der Wind weht, genaueres wird wie gesagt noch erforscht, es deutet sich aber Bemerkenswertes an.
+Die Messungen sind ja schon sehr alt. Aber irgendwie gibt es keine endgültigen Ergebnisse. Irgendwie komisch
+Einen Punkt verstehe ich jedoch nicht. Bei Eike wurden für die 20 Jahre alten Windräder in vielen Artikeln Auslastungen von 14 bis 20% angeben (1.200 bis 1.700 Volllasstunden jährlich). Dies ergibt bei der 1,5 MW-Anlage 1,8 bis 3 GWh/a, also eine energetische Amortisationszeit von gut einem bis max 2 Jahre für die 1,5 MW Anlage.
+Warum sind die Werte im Text um ein Vielfaches schlechter?
+Interessant wäre noch ein Vergleich der Kosten eines Kohle-, Gas-, oder Kernkraftwerkes bis zur Armortisation. Eine Gegenüberstellung würde verdeutlichen.
+Üblicherweise wird der Ertrag durch eine aus der mittleren Jahreswindgeschwindigkeit ermittelten Weibullverteilung ermittelt. Für das Binnenland ist ein Formparameter k=2 eine sehr gute Näherung. Mit dieser Weibullverteilung und der Leistungskurve einer WEA ergibt sich dann der Jahresertrag. Hierfür stehen im Internet sogenannte Ertragsrechner zur Verfügung z. B. hier:
+https://wind-data.ch/tools/powercalc.php
+So ergibt sich z. B. für eine biedere 1,5 MW Anlage Vensys 77 (77 m Rotordurchmesser, 1,5 MW Nennleistung) bei einer mittleren Windgeschwindigkeit von 6 m/s (Entspricht einem besseren Binnenstandort) ein Jahresertrag von rund 3,7 GWh pro Jahr.
+Damit wären jene 3,48 GWh in knapp 11 Monaten eingefahren.
+MfG
+Willy Fritz
+Wenn sie glauben, dass der Hase tot ist, wenn sie einmal rechts und einmal links vorbeischießen, würden sie als Jäger verhungern. Soviel zu ihrer Statistik.
+Nehmen Sie doch einfach die Nennleistung und dann den Wert den das Windrad über 365 Tage abgegeben hat. Es müssen ja nicht einzelne Räder sein, sondern auch der Ertrag eines Windparkes. Allein die Zahl von 14, 15 oder 20% Auslastung müsste genügen.
+Jep!
+In Verbindung mit der Leistungskurve der WEA werden die Teilerträge der einzelnen Windklassen zum Gesamtertrag aufsummiert. So tragen die häufig vorkommenden niedrigen Geschwindigkeiten wenig zum Gesamtertrag bei, die eher selten vorkommenden hohen Windklassen dagegen deutlich mehr. All das wird bei einem Ertragsrechner berücksichtigt.
+Mittlerweile gibt es WEA die deutlich über 20% Auslastung liegen und so eine Breitbandstatistik ist nicht auf den Einzelfall anwendbar.
+MfG
+Das ist für Sie was? Ein Erfolg?? Es bleiben ja dann immer noch deutlich über 70% die durch andere Kraftwerke bedient werden müssen! Nachfrageorientierte Leistungsbereitstellung eh immer nur Null, der Wind weht wann und wie er will…
+Sie sind auch nur ein Schildbürger der das Licht in Säcken in’s Rathaus tragen will.
+In einem Punkt muss ich den Klima-Katastrophikern und den willfährigen Schmieren-Medien aber zustimmen: Der Deutschen „Klimaschutz“-Verhalten ist heuchlerisch. Nun gut, der Focus und die „Mainstream-Medien“ verhöhnen nun auch noch die, die sie bezahlen (https://tinyurl.com/ybuto5pf). Ich hoffe, dass der Focus, die FAZ, die den Müller-Jung wieder auf die Piste lies, und die anderen immer mehr Leser verlieren. Mich ärgert schon, dass ich durch Anklicken der Focus-website denen über Werbung Geld in die Kassen spüle.
+Ja, ja, die Medien definieren nun ja auch, was „richtige“ Wissenschaft ist – schlimmer war es in diesem Punkt „beim Erich“ auch nicht.
+Ich will meine Frage erweitern…ist eine Stromversorgung auf Basis von Sonne, Wind und Speicher möglich…kann dieses System den Anforderung der 21. Jahrhundert gerecht werden/standhalten?!
+Da es sich um langfristige Investitionen handelt ist der Zinssatz wesentlich höher als bei sonstigen wirtschaflichen nvestitionen. 6% Zinssatz sind m.E. der niedrigste noch akzeptable Zinssatz, den ein Windmühlenbetreiber wird zahlen müssen. Wenn eine Windmühle pro kW Nennleistung 2000 € kostet sind das bei 3000 kW (3 MW) 360 000 €/Jahr die allein für die Zinsen aufzuwenden sind. Hinzu kommen noch die 300 000 € die den Investoren pro Jahr zurückzuzahlen sind. Damit wäre man schon mal 660 000 € pro Jahr, die eingenommen werden müssen. Nimmt man eine Netto-Einnahme von 9 Cent pro kWh an, muß die Windmühle 660000/0,09 = 70,7 Millionen kWh Strom erzeugen, um das Geld einzunehmen, welches gebraucht wird um rentabel zu sein. Damit ist nachgewiesen, daß Windmühlen ökonomisch nicht rentabel sein können, trotz des mehr als doppelten so hohen Preises wie für den aus Kohlekraftwerken.
+was solls, das olk ist dumm und die meisten Politiker im Bundestag auch.
+Eine Nordex N131-3.3 MW kostet etwa 6 Mio € das mit dem Payback kommt also hin.
+An einem mittleren Binnenstandort mit 6 m/s mittlerer Windgeschwindigkeit bringt sie einen Ertrag von 9,7 Mio kWh/a.
+Außerdem ist der Zinssatz geringer als 6%.
+um 17:00 Uhr hatte Ihr Windrad rund 2500 Volllaststunden im Jahr, 5 Stunden später sind es schon knapp 3000 Volllaststunden. Das lässt hoffen, dass Sie spätestens morgen die magische 10000-Stunden-Marke knacken werden.
+MfG
+In meiner Antwort an T. Heinzow bezog ich mich auf seine Ausführungen hinsichtlich einer 3 MW Anlage und brachte ein entsprechendes Beispiel. Es sind zwei völlig verschiedene Windräder.
+Im übrigen: mehr als 8760 Volllaststunden sind nicht möglich.
+MfG
+Ich bin häufig im Windpark.
+Da stehen die WKA, im wahrsten Sinne des Wortes.
+Wenn die Nordex auf 3 Millionen kWh/a kämen, wäre das schon ein guter Wert.
+Man kann ja sagen, es ist für einen guten Zweck und der Preis spielt deshalb keine Rolle.
+Selbst, wenn so ein Windpark CO2 einsparen würde, wäre es sinnlos. CO2 ist nicht klimarelevant und keine Stellschraube, mit der man mal eben das langfristige Wetter justieren kann und das weltweit.
+Strom muss billig sein und immer billiger werden.
+Da sind WKA unbrauchbar, selbst wenn nur der Preis, ohne die Schädlichkeit, berücksichtigt wird.
+Rechnen Sie weniger sondern nehmen Sie gemessene Werte.
+„In meiner Antwort an T. Heinzow bezog ich mich auf seine Ausführungen hinsichtlich einer 3 MW Anlage und brachte ein entsprechendes Beispiel. Es sind zwei völlig verschiedene Windräder.“
+Es ist völlig irrelevant, welche Nennleistung die Schmarotzer haben. Ihr Betrieb ist ökonomisch für den Staat kapitalvernichtend, von den Umwelt- und Gesundheitsproblemen der Menschen mal abgesehen, die aber das Hauptübel sind.
+Zwischen den 80 Metern und heutigen Nabenhöhen von 150 Metern liegt ja ein Unterschied von 2 m/s!
+http://www.windenergie-im-binnenland.de/img-o/Windprofilvergleich.svg
+Ich dachte eigentlich das wäre hier bekannt
+Ich hab mal den Windatlas von Baden-Württemberg durchgesrcollt (https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/2_Presse_und_Service/Publikationen/Energie/Windatlas.pdf). Ab Seite 26 werden die mittl. Geschwindigkeiten bei den verschiedenen Nabenhöhen dargestellt. Wenn man die 6 m/s aus dem Text von Herrn Puschner als Grenzwert für die energetische Amortisation und die Wirtschaftlichkeit ansetzt, dann gibt es ab einer Nabenhöhe von 140 m tatsächlich etliche potentielle Standorte.
+Wenn das schon für Baden-Würthenberg gilt, dann wirds wohl in ganz DE weitergehen mit den Windrädern
+Seit Jahren unterstütze ich Bürgerinitiativen in BW in technischen Fragen wie Windhöffigkeit, Ertragserwartung, Wirtschaftlichkeit, dieser Zeit habe ich einige offizielle Windgutachten zu Gesicht bekommen, ich weiß also durchaus wovon ich spreche.
+Die meisten Politiker sind sicher nicht dumm, im Gegenteil. Aber sie sind korrupt. Das ist das Problem.
+Ich komme zu erheblichen abweichenden Zahlen. Die 6% Zinsen werden nur auf das Eigenkapital gezahlt. Das Fremdkapital ist deutlich niedriger. Der mittlere Zins liegt bei 20% EK eher bei 3%. Zudem wird jedes getilgt. Üblicherweise rechnet man bei einer linearen Tilgung vereinfacht so: 600.000€ x 3%/2 x 20 Jahre= 90.000 € über die Laufzeit (wegen Endfälligkeit etc aber auch nicht ganz korrekt).
+Dafür bekommen die Anlagen aber auch nicht mehr 9 ct, sondern eher 4 ct. Damit erklärt sich auch, warum die Anlagenbauer nun Anlagen mit doppeltem Ertrag bei ungefähr gleichen absoluten Preis anbieten müssen.
+Leider ist es mit der Allgemeinbildung in diesem Land nicht mehr weit her.
+Das ist aber nur Teil 1 der fehlenden Berechnung – was kein Vorwurf ist -, denn da durch den Ersatz des Kohlekraftwerksstroms die Wirkungsgrade der konventionellen Kraftwerke sinken wird da auch mehr CO2 pro kWh emittiert. Und wenn konventionelle Kraftwerke abgeschaltet werden müssen kommt noch die Emission hinzu, die frei gesetzt wird, bis das konventionelle Kraftwerk wieder Strom abgeben kann. Damit dürfte sich ergeben, daß Windmühlen nur da Emissionen während ihrer Lebensdauer reduzieren, wo tatsächlich die Windgeschwindigkeit hoch genug ist und das ist nur im engen Küstenbereich der Fall.
+Ansonsten dürfte die CO2-Emission dank der Windmühlen höher sein als ohne.
+Glauben Sie eigentlich den Müll, den Sie da von sich geben?
+2. Die Schwankungen der EE werden in D vor Allem durch die Steinkohle- und in geringerem Umfang auch durch Gas- und Kernkraftwerke ausgeregelt. Wasser-KW regeln praktisch gar nicht weil deren Betreiber froh sind, wen sie mal Wasser haben und die verfügbaren Kapazitäten viel zu gering sind – auch inkl. Speicher-KW.
+Sie sollten mal beim Agorameter nachschauen.
+https://d-nb.info/1098308662/34
+2. Referenz Agorameter 13,08-17.08
+Kernenergie regelt gar nichts, die läuft einfach immer. konstant 9 GW
+Die Diskussion ist eigentlich hinfällig, denn Sie schießen sich damit ins eigene Knie. Denn erstens mussten die Kraftwerke schon immer geregelt werden, ob nun mit oder ohne EE. Zweitens sorgen die EE sogar dafür, dass die konventionellen Kraftwerke weniger geregelt werden müssen. Im Sommer liegt die Spitzenlast um den Mittagsbereich herum. Gerade dann, wenn Solarstrom ebenfalls am meisten produziert. Die Spanne, die Steinkohle abgedeckt hat, schwankte zwischen 5-11 GW. Gäbe es keinen Solarstrom, hätte sie eine Spanne von 5-37 GW abdecken müssen.
+Kernkraftwerke sind jedoch hervorragend als Anlagen für die Erbringung der Netzsystemdienstleistungen Primär- und Sekundärregelung und für die Spannungshaltung als Blindleistungserzeuger geeignet, und sie werden bei Anforderung des ÜNB entsprechend den vertraglichen Vereinbarungen auch so eingesetzt.
+Das sind Tatsachen, selbst wenn tausend Unkundige das Gegenteil behaupten.
+1. Ein Ingenieur aus XY hat Ihnen also bestätigt…. – und was ist unter 50%.
+Die von Ihnen verlinkte Arbeit hat in der Zusammenfassung den entscheidenden Satz: In Summe erreicht das optimierte TBK-Kraftwerk (Trockenbraunkohle) im Auslegungspunkt einen um ca. 5,4 Prozentpunkte höheren Nettowirkungsgrad…“.
+Aha!: Im Auslegungspunkt – und was ist jenseits dieses Punktes?
+2. KKW werden sehr wohl geregelt – betrachten Sie mal ein ganzes Jahr:
+Dez. 17: 10GW; Juni 18: unter 6GW überlagert von gleichzeitigen kurzfristigen Regelvorgängen, die beim Agorameter nur bedingt sichtbar sind – siehe 3.
+3. Dass die EE dafür sorgen, dass die konventionellen KW weniger geregelt werden müssen, ist wohl ein Witz! Falls Ihnen der Begriff „Reispatch“ etwas sagt, können Sie hier
+https://www.netztransparenz.de/EnWG/Redispatch
+den durch die EE steigenden Bedarf ablesen.
+Z.B: KKW Isar2: Hat am 22.8.18; 19.8.; 14.8.; usw geregelt, suchen Sie selbst!
+Die gesamten Redispatch-Kosten liegen für D inzwischen bei >1Mrd Euro p.a.; Tendenz steigend.
+Alle Ihre Informationen stammen wohl aus einer Krabbelgruppe der Grünen.
+Sie lesen nur, was Sie wollen, oder? Die Arbeit handelt von der Optimierung von Kraftwerksprozessen durch Änderung im Verfahren. Und die erhöhte Effizienz kommt durch diese Veränderungen. Das Ergebnis hat NICHTS mit Voll -oder Teillast zu tun.
+2. wollen wir jetzt überpedantisch sein? In aller Regel werden Atomkraftwerke mit als Letztes zum Regeln benutzt. Nue wenn es wirklich notwendig ist.
+Dr. Heinz Schütte
+Dass die physikalisch-technischen Grundlagen der Stromwirtschaft > 90% der Bevölkerung unbekannt sind ist normal. Was nicht normal ist, ist die Weigerung vieler Menschen – und fast aller Journalisten und Politiker – die Fakten zu akzeptieren wenn man sie ihnen erklärt. Hier beginnt das Feld der (Öko)Ideologie wo das Primat des Glaubens vorherrscht. Hitler soll die Berichte über den sowjetischen Aufmarsch an der Weichsel 1944 als „den größten Bluff seit Dschingis Khan“ bezeichnet haben. Analog dazu fantasiert die aktuelle Deutsche Politik vom Atom- und Kohleausstieg, 100 % EE Versorgung und dem Ende des Verbrennungsmotors zu Gunsten des E-Antriebs. So wie die „Endsiegphantasien“ immer absurder wurden mit fortschreitender militärischer Niederlage des Deutschen Reiches werden heute die „Energiewendephantasien“ immer absurder mit fortschreitenden Kosten und Netzstabilitätsproblemen durch die „Energiewende“. Aber in Deutschland muss wohl erst das Licht ausgehen ehe vielen ein Licht aufgeht…..
+Ein hierbei noch nicht berücksichtigter Aspekt ist der Aufwand im Bereich des zusätzlichen Netzausbs sowie der – de facto aufgrund der fehlenden Kapazitäten gar nicht realisierbaren – Speicherung. Dazu kommen noch die Verluste bei den konventionellen Kraftwerken zur Stabilisierung des Netzes. Auch „leben“ WKA nicht wirklich 20 Jahre. Würde man all dies auch noch einbeziehen, dann stellt sich heraus, dass Windenergieanlagen reine Energiesenken sind, die am konventionellen Netz parasitieren. Unsere „Kugel Eis“ hat den Preis von 500 Mrd € schon längst überschritten und nähert sich der Billion €.
+Mfg
+Ein Großteil unserer Mitbürger scheitert schon am Dreisatz.
+Fragen, wie etwa:
+Wieviel Wattstunden hat eine GWh?
+Was ist eine Terawattstunde?
+Was ist der Unterschied zwischen Energie und Leistung?
+führen nur zu Kopfschütteln. Das eröffnet Freiräume für Prediger und Demagogen aller Coleur
+Wieviel Wattstunden hat eine GWh?
+Was ist eine Terawattstunde?
+Was ist der Unterschied zwischen Energie und Leistung?
+führen nur zu Kopfschütteln.“
+Leider richtig.

@@ -1,0 +1,290 @@
+Man versucht, diesem Problem inzwischen mit verfeinerten statistischen Methoden wie der trendbeseitigenden Fluktuationsanalyse (DFA)[3] zu begegnen. Doch auch damit ist das wirkliche Basisproblem der ungenauen, historischen Daten nicht lösbar, schlimmer noch, gerade diese Methode ist auf genaue Vergangenheitsdaten angewiesen.
+Video (leider nur in Englisch) von Pat Frank (Juli 10, 2016, Omaha, Nebraska.) als Ergänzung zu den im Beitrag behandelten immensen Unsicherheiten, die den historischen Temperaturdaten zwangsläufig und unabänderlich innewohnen. (Details dazu u. hier und hier und hier) Im Video zeigt der Vortragende unmissverständlich und unwiderlegbar auf, dass bei Anwendung der Fehlertheorie mit ihrem Fehlerforpflanzungsgesetz jegliche Klima-Modellaussage völlig bedeutungslos wird. Weil ihre berechneten Änderungen z.B. der Temperatur, z:B. allein auf Grund der ungenauen Kenntnis der Wolkenbedeckung 140 mal kleiner ist als die unvermeidbare Unsicherheit, die aufgrund des Gesetzes der Fehlerforpflanzung zwangsläufig entsteht. Und der Fehler durch die Wolkenbedeckung ist nur einer von vielen Fehlern.
+Hinweis: Wer sich konkreter über diese statistische (DFA) Methode informieren möchte, findet in [6] und vor allem [4] gut erklärende Basisinformation. In [4] sind zudem zwei Temperaturmessreihen in Asien als Beispiele detailliert analysiert und dabei gezeigt, wie weit Trendaussagen abhängig von der verwendeten statistischen Methode differieren können (Anm.: dieses Beispiel aus [4] ist in der Dissertation [8] aufgegriffen und mit Zusatzinformation ergänzt) .
+Trotzdem sind die Ergebnisse interessant, da sie die enormen – und wesentlich größer als bisher angenommenen – statistischen Unsicherheiten der Temperaturreihen aufzeigen.
+Beispiel Messreihe von Bajtyk (Mongolei).
+[4] Tab. 3; 1915-2001: Bajtyk
+– Lineare Trendanalyse: 0,7°C auf 100 Jahre;
+– DFA-basiertes Verfahren: 0,0 – 0,5°C auf 100 Jahre
+Zusätzlich ist dort auch gezeigt, dass die zwei nur 320 km weit entfernte Temperaturstationen Karakol eine deutlich abweichende Trendaussage liefert. Dort beträgt der Trend:
+Station Karakol: +1 °C +-0,2 in 100 Jahren
+Nach der DFA-Trendanalyse begann der Klimawandel – wenn man ganz sicher sein will – erst nach 1990
+In der Dissertation [8] wurde nach der DFA Methodik errechnet, ab wann ein von der Vergangenheit unabhängiger, neuer Temperaturtrend sicher besteht. Er beginnt mit dem Jahr 1990.
+[8] In diesem Fall hat man für die näher diskutierten Rekonstruktionen Detektionsjahre id im Bereich von 1990 (Mann1999), 1993 (Briffa2000), 1994 (McIntyre2003) und 1995 (Esper2002) bis 1998 (Moberg2005) und 2002 (Jones1998).
+Die Dissertation zeigt aber auch die mit der verbesserten Statistik nicht gelöste Problematik der historischen Ungenauigkeiten, denn Rekonstruktionsanalysen mit „geraden“ historischen Verläufen führen natürlich auch zum früheren „Beleg“ eines Klimawandel-Trends.
+[8] Diese Analyse zeigt auch, wie wichtig es ist, über präzise Rekonstruktionen zu verfugen. Denn nur auf ihrer Basis kann die gegenwärtige Klimaerwärmung untersucht werden.
+Was gerade global berechnet wurde, zeigt sich ebenfalls deutlich an den Temperaturverläufen in Deutschland (Bild 1) und auch von England (Bild 2). Erst ab dem Jahr 1990 beginnt der wirklich steile Temperaturanstieg. Dies gilt sowohl für die Globaltemperatur (Bild 1), wie auch im Detailverlauf der Station Potsdam (Bild 3), die wegen ihrer seltenen, langen Zeitreihe für Analysen gerne verwendet wird..
+Um zu zeigen, über welche großen Zeitintervalle der Temperaturverlauf nicht mit dem anthropogenen CO2-Eintrag korreliert, ist auch dies anhand der Temperaturreihen von Deutschland und England dargestellt (Bild 2).
+Bild 1 Bild 1 Temperaturverlauf Deutschland 1750 – 2016, Jahreswerte (blau, linke Temperaturskala), gleitender 30-Jahre Mittelwert (rot, rechte, gedehnte Temperaturskala). Vom Autor anhand der DWD Daten erstellt
+Bild 2 Temperaturverlauf Deutschland (dunkelgrün) und Zentralengland (gelb) gleitende 30-Jahre Mittelwerte. Startwert Deutschland auf das Jahr 1783 mit dem Wert von England normiert. Die rechte Temperaturachse gilt für England, der Wert von Deutschland liegt um 1,33 Grad niedriger. Darüber eine Verlaufsgrafik des anthropogenen CO2-Eintrags (schwarz) kopiert. Grafik vom Autor erstellt.
+Die Temperaturreihe von Potsdam
+In globalen Kurven sind solche Artefakte aufgrund der vielen Mittelungen stark „verwischt“, in Einzelkurven zeigen sie sich deshalb deutlicher.
+Das folgende Bild 3 zeigt den Temperaturverlauf der Station Potsdam (Anm.: Der Verlauf der Station Berlin Dahlem ist praktisch identisch). Genau mit der Wiedervereinigung 1989 zeigt sich nach einer langen, horizontalen Stagnation der Beginn eines deutlichen Trends, den auch sowohl der Verlauf von Deutschland und auch von England in Bild 2 aufweisen.
+Bild 3 Temperaturverlauf Messstation Potsdam 1883 – 2015 (DWD-Stations-ID 3987) vom Autor aus den Daten erstellt.
+Jahresmittel (schwarz), gleitendes Jahresmittel (gelb), gleitendes 30-Jahre Mittel (rot, Hinweis: rechte Temperaturachse),
++-0,5 °C Mittelwerttoleranz (grüner Doppelpfeil)
+Um zu zeigen, wie unspektakulär sich dies ohne gedehnte Temperaturachsen darstellt, sind die gleichen Verläufe im Bild 4 bezogen auf die 0-Grad Achse gezeigt. Jeder Leser versuche einmal, die der Welt noch zugestandenen +0,6 Grad Temperaturerhöhung (sind dann +1,5 Grad seit Beginn der Industrialisierung) darin als Problem zu entdecken, wie es unserm Bundestag mit der einstimmigen Verabschiedung des Klimaschutzgesetzes am 22.09.2016 gelang.
+Bild 4 Gleiche Daten wie Bild 1, aber bezogen auf 0 Grad und einheitliche Skalierung
+In einer statistischen Studie [7] wurde der Fehlerbereich des Mittelwertes der Temperaturreihe Potsdam berechnet und mit +-0,5 °C angegeben.
+[7] If the Potsdam anomalies were identically independently distributed data, this error would be about 0.07◦C. For AR(1) data with the given auto-correlation time, it would be about 0.2°C, for a pure long range correlated data set it would be about 0.3°C, and for the model which ﬁts best the data it is 0.5°C.
+As particular results, we found that the 95% conﬁdence intervals for 30-year averages of the Potsdam temperatures (Darwin temperatures) are almost as large as (even larger than) the whole warming eﬀect of the past 100 (50) years. Although the physical con sequences of increasing greenhouse gas concentrations are undebatable, this work shows that a quantitative assessment of climate change from observed data is still challenging.
+The results shown for Potsdam and Darwin admit with low but ﬁnite probability both the absence of climate change as well as a warming of already much more than 1 °C, and without the past 5 years of data, the same analysis shows much less signiﬁcance for warming.
+[Übersetzung von Chris Frey: Falls die Anomalien von Potsdam identische unabhängig verteilte Daten wären, läge dieser Fehler bei etwa 0,07°C. Für die Daten im AR 1 mit der gegebenen Autokorrelationszeit wäre er etwa 0,2°C, für einen reinen, langfristig korrelierten Datensatz etwa 0,3°C und für das Modell, das am besten zu den Daten passt, wäre er 0,5°C.
+Im Einzelnen fanden wir, dass die 95%-Vertrauensintervalle für 30-jährige Mittelwerte der Temperaturen von Potsdam (und der von Darwin) fast genauso groß (sogar noch größer) sind als der gesamte Erwärmungseffekt der letzten 100 (50) Jahre. Obwohl die physikalischen Konsequenzen zunehmender Treibhausgas-Konzentrationen nicht zur Debatte stehen, zeigt diese Arbeit, dass eine quantitative Abschätzung des Klimawandels aus Messdaten immer noch eine Herausforderung ist.
+Die Ergebnisse für Potsdam und Darwin räumen mit geringer, aber eindeutiger Möglichkeit ein, dass sowohl das Fehlen eines Klimawandels als auch eine Erwärmung von schon jetzt mehr als 1°C abgeleitet werden kann, und ohne die Daten der letzten 5 Jahre würde die Analyse viel weniger Signifikanz für eine Erwärmung zeigen.]
+Danach wäre der 30-Jahre Mittelwert der Station Potsdam erst in den letzten Jahren gerade eben aus dem statistischen Fehlerbereich einer horizontalen Verlaufslinie herausgekommen und die Wahrscheinlichkeit, dort wieder hineinzulaufen sehr hoch (sofern wie angenommen die jüngsten Temperaturspitzen zyklisch bedingt sind).
+Fazit
+Genauere statistische Trendanalysen zeigen, dass die Fehlerbänder der Temperaturkurven wesentlich größer sind als bisher (aus der Stichprobenstatistik berechnet) angenommen. Sie zeigen zudem, dass der belegbare Beginn der Warmphase erst mit den 90er Jahren des letzten Jahrhunderts wirklich begann und man kann zeigen, dass eine starke Korrelation des warmen Klimawandel-Beginns mit dem Ende des kalten Krieges besteht (sowie wie auch mit dem Steigen der US-Postgebühren). Ein gutes Beispiel, wie viel Unsinn selbst starke Korrelationen über die wirklichen Zusammenhänge aussagen können, allerdings auch eine Tatsache, die zum Grübeln über die AGW-Theorie Anlass gibt.
+Wer sich schon immer gewundert hat (wie der Autor), wie zu offensichtlich mindestens ungenauen Proxi- und Temperaturverläufen extrem enge Vertrauensbereichs-Bänder hinterlegt sind (weil sie der Computer so berechnet hat, der von statistisch einwandfreien Daten ausging) mit der Wirklichkeit nicht überein stimmen können, findet sich hier bestätigt.
+Anm.: Das Thema der Temperaturstufen wurde in [2] bereits mit vielen Beispielen dargestellt.
+Nachtrag
+Zum Verlauf von globalen Temperaturkurven ein Anhang.
+Die Temperaturstationen werden laufend ausgetauscht (wie im ersten Absatz beschrieben) und verändert. Anfang der 70er Jahre des letzten Jahrhunderts begann man jedoch, die Stationszahl extrem auszudünnen und zwar vor allem in ländlichen (also kühleren!) Gebieten[10]. Die Auswirkungen auf die Temperatur korrelieren erkennbar deutlich und ist besonders um das Jahr 1990 auffallend. Dies könnte manche Erklärungen für den „sonderbaren“ Verlauf von Temperaturkurven liefern.
+Bild 5 NASA GISS Globaltemperatur (Screenshot der GISS Animation) und vom Autor darüber kopiert die Grafik mit Anzahl und Art der Temperaturstationen aus [10]. Hinweis: die Verlängerungen der Stationsanzahl mit den dunkelgrün gestrichelten Linien sind vom Autor ohne Datenhintergrund rein fiktiv zugefügt.
+Bild 6 NASA Giss US Landdaten (Screenshot der Giss Animation) und vom Autor darüber kopiert die Grafik mit Anzahl und Art der Temperaturstationen aus [10]. Hinweis: die Verlängerungen der Stationsanzahl mit den dunkelgrün gestrichelten Linien sind vom Autor ohne Datenhintergrund rein fiktiv zugefügt.
+Quellen
+[1] EIKE 11.05.2016: Die Problematik der Temperaturrekonstruktion Eine beispielhafte Sichtung dazu anhand des Projektes PAGES 2k
+http://www.eike-klima-energie.eu/news-cache/die-problematik-der-temperaturrekonstruktion-eine-beispielhafte-sichtung-dazu-anhand-des-projektes-pages-2k/
+[2] EIKE 06.11.2015: Langfrist-Temperaturverläufe Deutschlands: Das Phänomen der „Temperaturstufen“
+http://www.eike-klima-energie.eu/news-cache/langfrist-temperaturverlaeufe-deutschlands-das-phaenomen-der-temperaturstufen/
+[3] EIKE 23.09.2016:Konfidenz-Intervalle für zeitliche Mittelwerte bei langfristigen Korrelationen: eine Fallstudie zu Anomalien der Temperatur auf der Erde
+http://www.eike-klima-energie.eu/news-cache/konfidenz-intervalle-fuer-zeitliche-mittelwerte-bei-langfristigen-korrelationen-eine-fallstudie-zu-anomalien-der-temperatur-auf-der-erde/
+[4] Zentrum für internationale Entwicklungs- und Umweltforschung der Justus-Liebig-Universität Gießen
+Discussion Paper Ivo Mossig* und Diego Rybski 2005: Die Erwärmung bodennaher Luftschichten in Zentralasien Zur Problematik der Bestimmung von Trends und Langzeitkorrelationen
+[5] EIKE 09.09.2016: Hat die barbusige Dame um 1830 gegen den Klimawandel gekämpft? Eine ganz aktuelle Studie legt es nahe
+http://www.eike-klima-energie.eu/news-cache/hat-die-barbusige-dame-um-1830-gegen-den-klimawandel-gekaempft-eine-ganz-aktuelle-studie-legt-es-nahe/
+[6] Horst-Joachim Lüdecke 26.Feb. 2013: Klimatrends in Temperaturreihen
+[7] Max Planck Institute for the Physics of complex SystemsM. Massah, H. Kantz 2016: Conﬁdence intervals for time averages in the presence of long range correlations, a case study on earth surface temperature anomalies
+[8] Institut für Theoretische Physik Gießen, Diego Rybski Dissertation 2006: Untersuchung von Korrelationen, Trends und
+synchronem Verhalten in Klimazeitreihen
+[9] EIKE: US Klimainstitut (GISS) verfälscht rückwirkend Temperaturdaten!
+http://www.eike-klima-energie.eu/klima-anzeige/us-klimainstitut-giss-verfaelscht-rueckwirkend-temperaturdaten/
+[10] WUWT 2009: How bad is the global temperature data?
+How bad is the global temperature data?
+Eine Diskussion zur Sache findet nicht statt. Aber die längst bekannten Personen präsentieren einmal mehr ihre längst bekannten Ideen, warum es denn an der Erdoberfläche wohl wärmer ist als es eigentlich sein sollte.
+Dabei ist doch eigentlich nicht zu übersehen, dass der Materie an der Erdoberfläche nur durch Strahlung von oben Wärme zufließt, die sie nach oben über Strahlung, Verdunstung, Konvektion und Wärmeleitung wieder abgibt. „Interne“ Strahlungsquellen sind bekanntlich Wasser, Eis gewürzt durch kleine Beiträge mehr als zweiatomiger Gase. „Externe“ Strahlungsquelle ist die Sonne. Ihre Strahlung ist (zum Glück) „überwiegend“ ein durchlaufender Posten. – Viel Dreck in der Atmosphäre kann allerdings sogar dazu führen, dass z. B. Dinosaurier auf weitere Mitwirkung verzichten (müssen).
+zu Ihrer Korrektur in 1):
+Das erklärt sich aus der Antwort auf Ihre 2. Frage
+Zu 2.
+Anhand der Dokumente ist belegbsr, daß Pestel, Weizsäcker, Gottstein die CO2-Idee in Richtung USA transportiert haben, zu Kissinger, auch mit Hilfe der Kissinger- und Weizsäcker-Freundin Marion Gräfin Dönhoff.
+Pestel gehörte zum Wissenschaftsstab der NATO, Gottstein war Sonderbeauftragter der deutschen Botschaft in Washington und Hochaktiver im internationalen Pugwash-Kreis.
+„die 2. HS Akrobaten (Stehlik & Co) glauben wahrscheinlich auch, dass eine nächtliche Wolkenbedeckung die Oberfläche nicht wärmer halten kann. Ist doch die Wolke in ein paar km Höhe viel kälter, als der Boden…“
+Dieses anonyme Mitglied der AGW Sekte glaubt an alles möglich wie Zum Beispiel, dass CO2 als Gas so sein müsste, wie eine Wolke.
+Das ist physikalischer Quatsch, eine Flüssigkeit wie ein Wolkentröpfchen ist kein Gas. Das Wolkentröpfen ist aber eine flüssiger Mini-Ozean und daher zu einem Mini-Treibhauseffekt fähig. Das global relevante Treibhaus der Erde ist aber nicht die wärmende Nachtwolke, sondern der immer deutlich wärmere Ozean!
+Die AGW Sekte betrügt, wo sie kann!
+„Der Treibhauseffekt beruht auf der Absorption der Wärmestrahlung beim Durchgang durch die Atmosphäre aufgrund der Treibhausgase, was in Kombination mit der thermischen Schichtung in der Atmosphäre dazu führt, daß der Erdboden nicht so kühl sein kann wie ohne Treibhausgase bei direkter Abstrahlung ins Weltall.“
+Das ist gleichzeitig das immer falsche Tag- und Nachtgebet der AGW Sekte.
+Die Atmosphäre ist nahe der Erdoberfläche ein viel wirkungsvolleres Kühlhaus als das Weltall. Jede unmittelbare körperliche Berührung überträgt mehr Energie als die Strahlung zwischen zwei Körpern. Die wirkungsvollste Energieübertragung ist die Verdunstung. Keine Feuerwehr löscht durch Strahlungsentzug, sondern durch Wasser, das verdunstet! Selbst die aufsteigende Thermik warmer Luft transportiert mehr Energie als direkte Strahlung ins All durch das atmosphärische Fenster. Als die in die Atmosphäre gepackte Energie wird dann durch intensive IR-Strahlung der IR-aktiven Gase, vor allem durch CO2, in Weltall weiter transportiert.
+Gesamtenergetisch ist Treibhauserwärmung ist einfach nur blanker Unsinn.
+„bei der Strahlung geht es aber darum, dass das emittierende Molekül in einem kälteren Milieu „nicht weiß“, dass es in Richtung eines anderen Molekühls emittiert, das sich in einem wärmeren Milieu befindet, wie auch das absorbierende Molekül „nicht weiß“, woher da etwas kommt.“
+Das ist saudummes Geschwätz. Ein Molekül weiß nichts, okay. Aber Strahlung ist ein elektromagnetisches Feld mit einem Gradienten und dieser Gradient bestimmt, wohin das CO2 strahl. Und dieser elektromagnetische Gradient wird vom Gradient der Umgebungstemperatur vorgegeben.
+Je mehr AGW’ler sich hier mir ihrer Dummheit outen, um so evidenter sollte gutwilligen kritischen Kommentatoren werden, welch ein Betrug hinter dem atmosphärischen Treibhaus steckt!
+„genau so klar sollte einem Promovierten sein, dass der warme Körper langsamer abkühlt, wenn ihm wärmere gegenüber stehen“
+Dieser Satz macht jedermann mit gutem Willen klar, welch eine gigantische Lüge der atmosphärische Treibhauseffekt ist.
+Im Mittel steht niemals eine wärmere Atmosphäre einer kälteren Erdoberfläche gegenüber. Deshalb ist die Atmosphäre dank ihrer IR-Aktivität und ihrer Nähe zum Weltall immer ein Kühlhaus dank CO2!
+Sehr geehrter Herr Freitag,
+Sie schrieben : „Lieber Herr Kuntz, die Stauchung von y-Achsen ist ein von Ihnen gelegentlich verwendetes Mittel, um Trends zu verwischen“ Es ist doch Scheiß egal, ob gestaucht wird oder nicht – es kommt auf die Werte an und nicht auf die Darstellung !
+Sehr geehrte Frau Thiele,
+ich muss Sie sowohl korrigieren als auch nach der Bedeutung eines Ihrer Sätze fragen :
+1) Korrektur : Sie schrieben : „Das Beste am Artikel ist der Titel “ Falsch : Es geht um eine statistische Methode (DFA, eine verbesserte Version der FA), um aus stark fluktuierenden Werten über einen längeren Zeitraum herauszufinden, ob ein Trend z.B. in der Temperaturentwicklung vorliegt oder nicht
+und wenn man die Trends total bereinigen kann,
+wenn ich dies salopp mal so formulieren darf,
+ist der AGW-Hypothese auch von statistischer Seite her ein weiteres Argument genommen – also eine Diskussion über DFA ist schon sehr wichtig !
+2) Frage : Folgenden Satz von Ihnen verstehe ich nicht : „Es wäre lohnender, nachzuforschen, ob es nicht Deutsche waren, die der NATO diesen Dauerbrenner beschert haben, einen Krieg, der alle Kriege ersetzt. Alle Indizien weisen darauf hin, siehe Pestel, siehe das Duo Weizsäcker/Kissinger.“
+Was wollen Sie uns mitteilen, Frau Thiele ?
+„G&T:
+„It is not the “trapped” infrared radiation, which explains the warming phenomenon in a real greenhouse, but it is the suppression of air cooling.“”
+Nun, der Punkt ist ja, daß der Treibhauseffekt tatsächlich ja nicht auf “ “trapped” infrared radiation” beruht. Zwischen zwei Spiegeln kann man schließlich Wärmstrahlung einsperren ohne Erwärmung einer Seite zu haben. Der Treibhauseffekt beruht auf der Absorption der Wärmestrahlung beim Durchgang durch die Atmosphäre aufgrund der Treibhausgase, was in Kombination mit der thermischen Schichtung in der Atmosphäre dazu führt, daß der Erdboden nicht so kühl sein kann wie ohne Treibhausgase bei direkter Abstrahlung ins Weltall. Daher ist das Bild mit dem Wintermantel eine ganz passable Funktionsbeschreibung des Treibhauseffekts. In beiden Fällen wird die direkte Abgabe von Energie unterdrückt und reduziert.
+Zitat: „Denn beim Menschen als aktiver Strahler mit eigener Energiequelle, sitzt diese im Mantel, bei der Erdoberfläche als passiver Strahler dagegen außerhalb des Mantels (Sonne).“
+Nein, der Mantel ist ein passives Element. Der Mantel selbst hat keine eigene Energiequelle. Ein Mantel hält den Träger (Körper des Trägers) warm, aber erwärmen kann er ihn nicht. Beim Warmhalten wird nur den Energieaustausch mit der Umgebung reduziert. Zum Erwärmen des Trägers braucht man eine Energiequelle im Mantel. Der Mantel stellt also ein passives Element dar, und kann maximal die Temperatur annehmen, die die „innere bzw. äußere Energiequelle“ bereitstellt.
+Mfg
+Werner Holtz
+der Mantel in der Atmosphäre sind die Wolken nicht der überwiegende Gas-Anteil.
+Das ist alles schon gesagt, nicht von mir:
+G&T:
+„It is not the “trapped” infrared radiation, which explains the warming phenomenon in a real greenhouse, but it is the suppression of air cooling.“
+Wen man die Analogie unbedingt erhalten möchte ist es auch für die Luft „the suppression of air cooling“ zum Weltraum, gerade weil sie nicht strahlen kann.
+Der thermodynamische Motor für den „mittleren“ Temperaturanstieg ist
+a) gerade die Unfähigkeit der Atmosphäre, die gespeicherte Wärme in den Weltraum abzugeben.
+b) die schwerkraftbedingte erdnahe „Verteilung“ der Wärme der gasförmigen Atmosphäre.
+Beides trifft nicht für Wasser (Ozeane) zu.
+mfG
+glauben wahrscheinlich auch, dass eine nächtliche Wolkenbedeckung die Oberfläche nicht wärmer halten kann. Ist doch die Wolke in ein paar km Höhe viel kälter, als der Boden…
+Das Leute mit so wenig Wissen seit Jahren so viel Unsinn posten dürfen, ist auch seltsam.
+„Denn beim Menschen als aktiver Strahler mit eigener Energiequelle, sitzt diese im Mantel, bei der Erdoberfläche als passiver Strahler dagegen außerhalb des Mantels (Sonne).“
+Es spielt aber für den Treibhauseffekt keine Rolle, ob die kurzwellige Sonneneinstrahlung erst weitgehend ungehindert durch den „Mantel“ = Atmosphäre geht und dann am Erdboden in langwellige durch Thermalisierung umgewandelt wird, oder ob die gleiche Leistung aus dem Erdinneren käme. Vereinfacht gesprochen: Auch wenn (ohne Sonne) aus dem Erdinneren 240 W/m2 aus einer Quelle im Inneren an die Erdoberfläche abgegeben würde, so würde trotzdem dank der Treibhausgasatmosphäre die Oberfläche 390 W/m2 langwellig abstrahlen.
+ECKERT, E.: Messung der Gesamtstrahlung von Wasserdampf und Kohlensäure (CO2) in Mischung mit nichtstrahlenden Gasen bei Temperaturen bis zu 1300° C. VDI-Forsch.-Heft Nr. 387. Berlin 1937.
+Emission von CO2 bei Atmosphärendruck und Umgebungstemperatur, unterste Abbildung. Emissionsgrad von CO2 bei 15 Mikrometer =1, entsprechend eines Schwarzen Körpers.
+http://tinyurl.com/z4wr6oc
+Lange vor Ihrer Geburt gemessen, Herr Paul.
+MfG
+Krüger
+CO2 strahlt bei 15ym nicht.
+Das wäre eine physikalische Sensation.
+ein passiver Strahler hat keine eigene Energiequelle. Z.B. ein Spiegel, der nur das zurückstrahlt was er von einer fremden Energiequelle erhält.
+[Das ist auch messtechnisch für einen Pyrometer (Temperatur-Fernmessung) wichtig]
+Der Unterschied ist gerade für den Laien bedeutsam, wenn beliebte Vergleiche mit dem Menschen (Wintermantel) und der Erdoberfläche angestellt werden. Denn beim Menschen als aktiver Strahler mit eigener Energiequelle, sitzt diese im Mantel, bei der Erdoberfläche als passiver Strahler dagegen außerhalb des Mantels (Sonne).
+Der gleiche „Mantel“ wirkt daher beim passiven Strahler NICHT erwärmend sondern kühlend und beim aktiven Strahler erwärmend.
+Auch eine Konsequenz des 2.HS
+mfG
+nehmen Sie doch gleich Schack und Gerlich dazu.
+Sie haben da endlich mal einen Emissionsfaktor für CO2 gefunden, ist er nun 0,002 oder 0,0003?
+immer noch ein Schwarzkörper???
+bei 2000°C oder 800°C oder waren es doch nur 400°C
+Keine Frage kann man IR-Strahlung bei einem Schiffsschornstein oder sogar einer heißen Flugzeugdüse bei 400-500°C messen,
+sehr Interessant wie so ein Diagramm der militärischen IR-Fernaufklärung aussieht,
+jedenfalls ist die 15µm von CO2 ganz sicher NICHT dabei und damit auch keine atmosphärische CO2Gegenstrahlung.
+GAR KEINE, 0
+MFG
+Die Zwietracht, die mit dem Beschluß der NATO-Sondersitzung vom 6. Nov. 1969 gesät wurde, den Kampf um die Atmosphäre zum Dritten Standbein der NATO zu machen, ersetzt alle kalten Kriege – man sieht es bis runter zum täglichen Köpfeeinschlagen bei EIKE.
+Es wäre lohnender, nachzuforschen, ob es nicht Deutsche waren, die der NATO diesen Dauerbrenner beschert haben, einen Krieg, der alle Kriege ersetzt. Alle Indizien weisen darauf hin, siehe Pestel, siehe das Duo Weizsäcker/Kissinger.
+Weizsäcker-Sohn hat gerade angekündigt, daß der Club of Rome im nächsten Jahr anläßlich seines 50-jährigen Bestehens mit einer „neuen Aufklärung mit religiösen Grundsätzen“ daherkommt, die Schluß machen wird mit dem „Kapitalismus“. Die Truppen des Papstes haben sie bereits gewonnen. Beide Clubs of Rom fallen nun zu einem zusammen, sorgen ungestört für Sinnesverwirrung, da sich ja alle wie hypnotisierte Kaninchen um die Kurven streiten, die täglich neu vom Fließband der Chiasmata-Großproduktion purzeln.
+„jedoch NICHT eine Gegenstrahlung aus der gasförmigen Atmosphäre.“
+Tja, was hat dann Eckert 1937 gemessen, wenn nicht die Strahlung/ Emission von CO2 bei Atmosphärendruck und Umgebungstemperatur.
+http://tinyurl.com/z4wr6oc
+Unmittelbare Messungen der Gesamtstrahlung von Wasserdampf und Kohlensäure (CO2) stammen von
+E. SCHMIDT, HOTTEL und MANGELSDORF, E. SCHMIDT und ECKERT, ECKERT sowie von HOTTEL und EGBERT.
+SCHMIDT, E.: Messung der Gesamtstrahlung des Wasserdampfes bei Temperaturen bis 1000° C. Forsch. Ing.-Wes. 3 (1932) 57/70.
+HOTTEL, H. C., u. H. G. MANGELSDORF: Heat transmission by radiation from nonluminous gases. Experimented study of carbon dioxyde and water vapor. Trans. Amer. Inst. Chem. Engrs. 31 (1935) 517/549.
+SCHMIDT, E., u. E. ECKERT: Die Wärmestrahlung von Wasserdampf in Mischung mit nichtstrahlenden Gasen. Forsch. Ing.-Wes. 8 (1937) 87/90.
+ECKERT, E.: Messung der Gesamtstrahlung von Wasserdampf und Kohlensäure in Mischung mit nichtstrahlenden Gasen bei Temperaturen bis zu 1300° C. VDI-Forsch.-Heft Nr. 387. Berlin 1937.
+HOTTEL, H. C., u. R. B. EGBERT: Radiant heat transmission from water vapor. Trans. Amer. Inst. Chem. Engrs. 38 (1942) 531/568.
+Alles seit Mitte der 1930er Jahre bekannt und gemessen. Der Emissiongrad von CO2 bei unterschiedlichen Temperaturen, Drücken und Atmosphären-Schichtdicken.
+Herr Paul, bestimmt auch ein Schwindel und großer Betrug?
+MfG
+Michael Krüger
+die Verletzung des 2.HS für Gegenstrahlungserwärmung beruht darauf, dass ein passiver Strahler wie die Erdoberfläche sich mit seiner Wärmeabstrahlung nicht rückwärts durch Gegenstrahlung selbst erwärmen kann.
+Er kommt für die Erdatmosphäre deshalb zum Tragen, weil die Luft nach oben immer kälter wird.
+Das kann ein Mensch mit einem Mantel und seiner „Abwärme“, weil er ein aktiver Strahler ist.
+Das gilt also auch für das Gegenstrahlungsmodell für die Nacht mit Wolken am Himmel, das ist immer noch kein Gas, Wolken (und andere Ärosole) die die Abkühlung der Erdoberfläche nur verzögern.
+Auch Wolken können also die Erdoberfläche nicht erwärmen.
+Am Tag wenn die Sonne scheint, haben wir den Fakt, dass der Mond ohne Gegenstrahlung viel heißer als die Erdoberfläche wird.
+Das muss spätestens zu der Erkenntnis führen, dass die Gegenstrahlung wohl das falsche Modell sein muss, die Temperatur der Erdoberfläche zu erklären.
+Sonneneinstrahlung kann man unschwer messen schon seit Angström mit dem Pyrheliometer um 1900, sie ist auf der Bergspitze HÖHER als im Tal, die Erdabstrahlung mit dem Pyrgeometer ebenfalls (nachts besser als am Tag),
+jedoch NICHT eine Gegenstrahlung aus der gasförmigen Atmosphäre.
+Aerosole und Wolken sind kein Gas.
+mfG
+mfG
+mit dem 2. HS haben sie offensichtlich auch ihre Probleme.
+Niemand behauptet, eine kühlere Masse würde nichts weiter tun, als abzukühlen und dabei die wärmere Masse erwärmen. Das verbietet der 2. HS.
+Allerdings und das sollte ihnen so langsam doch verständlich werden, wird der Strahlungsfluss vom wärmeren Körper Richtung kühlerem immer kleiner, je kleiner die T Differenz wird.
+Ich denke, selbst wenn sie es jetzt kapiert haben, werden sie weiterhin Unfug behaupten, da sie das ja schon jahrelang mit großer Leidenschaft betreiben und es ab einem gewissen Alter immer schwieriger wird, Fehler auch einzusehen. Viel Glück, oder was man da wünschen soll…
+Es ist ja vom Wärmefluß die Rede, bei der Strahlung geht es aber darum, dass das emittierende Molekül in einem kälteren Milieu „nicht weiß“, dass es in Richtung eines anderen Molekühls emittiert, das sich in einem wärmeren Milieu befindet, wie auch das absorbierende Molekül „nicht weiß“, woher da etwas kommt.
+„Sie erlauben scheinbar allen IR aktiven Gasen nur die Strahlung in eine Richtung.“
+Nicht ich erlaube nur Wärmeleitung durch IR-Strahlung von warm nach kalt, sondern so ist es experimentell (IPCC, NASA etc.) und auch theoretisch leicht begründbar!
+Sie sind ein Scharlatan!
+Wer es nicht versteht, lese hier nach:
+#10: 2ter Hauptsatz der Thermodynamik:
+http://tinyurl.com/jt39y2s
+„Keine Wärmestrahlung fließt von warm nach kalt.“
+Sorry, klar, das ist anders herum und in Worten falsch herum zum Ausdruck gebracht.
+ich darf das als Zustimmung verbuchen;
+zweifellos macht Ihnen das bei Herrn Stehlik mehr Spass,
+sehen Sie, darauf verzichte ich wiederum, weil das mit Physik nicht mehr viel zu tun hat.
+Er kämpft mit falschen Argumenten für die richtige Sache.
+Damit wird die Strahlungskühlung durch CO2 aus der Atmosphäre heraus anerkannt.“
+Natürlich, ist alles längst bekannt.
+„In einem Gas gibt es keine Grenzflächen (Sprungstellen in den physikalischen Eigenschaften), sondern Gradienten bei Dichte, Temperatur und Intensität der Strahlungskühlung. Ein Nulldurchgang der nach unten kleiner werdende Kühlung zu einer Erwärmung ist unmöglich in Anbetracht des permanenten Temperaturgradienten in der Atmosphäre von unten warm und oben kalt“
+Diese Trivialitäten ändern nichts an ihren falschen Behauptungen.
+„Keine Wärmestrahlung fließt von warm nach kalt.“
+Na super, natürlich nicht, aber genau so klar sollte einem Promovierten sein, dass der warme Körper langsamer abkühlt, wenn ihm wärmere gegenüber stehen.
+„Die Atmosphäre ist durchgängig von unten nach oben ein Kühlhaus.“
+Das ist dermaßen unsinnig, da wir mit der einfallenden Sonnenenergie alleine niemals die gemessen T erreichen können. So viel Verstand müssen sie aufbringen Stehlik, sonst wird das nix mehr.
+„Beweis: Temperaturgradient und alle messbaren Energieflüsse laut IPCC, NASA und allen Lehrbüchern.“
+Was sie Beweis nennen, widerlegt nur ihre Phantasien. Sie erlauben scheinbar allen IR aktiven Gasen nur die Strahlung in eine Richtung. Dieser Irrsinn ist ihnen offensichtlich noch immer nicht aufgefallen.
+„Der Treibhauseffekt findet nicht in der Atmosphäre, sondern im Ozean statt.“
+Jetzt flüchten sie ins Wasser, weil sie von der Physik der Atmosphäre exakt Null Ahnung haben.
+“ Beweis: Die keine Strahlung absorbierende Wasseroberfläche ist infolge des Treibhauseffekts des Ozeans mehrere Grad wärmer als die Landoberflächen im Jahrhundertmittel.“
+Ähmm? Seit wann bitte soll die Wasseroberfläche keine Strahlung absorbieren können? Wo hatten denn sie bitte studiert?
+Das hier sagt ihnen wohl auch nichts, muss ich leider annehmen:
+goo.gl/Oy2Cqw
+Herrschaftszeiten, wie kann man nur so wenig wissen und so viel über Themen schreiben, die einem total unverständlich sind, haben sie darüber schon mal nachgedacht, Herr Doktor?
+Die Abbildung 1 (zeigt bis auf die Jahreswerte nichts anderes als Bild 2) soll nichts weiter herausstellen, als dass es im Verlauf der Globaltemperatur Deutschland seit 1990 einen steileren Anstieg des 30-Jahre-Mittelwertes gibt. Da dieser Anstieg ziemlich genau mit dem Jahr beginnt, an dem anhand der DFA-Regressionsberechnung eine erste Änderungssignifikanz der Welttemperatur besteht, hat sie mich verleitet, den Bezug zum „Kalten Krieg“, eigentlich der Deutschen Einheit, zu fabulieren.
+Diese Aussage ist also reine Ausschmückung und „Aufhänger“. Im Kern geht es darum, dass die Signifikanz der AGW-Klimaerwärmung bei Weitem nicht so eindeutig belegt ist wie publiziert wird und es stark von der verwendeten, statistischen Methode abhängt. Da die „beste“ Methode aber auf rückwirkend genaue Proxis angewiesen ist – die es nicht gibt – ergeben sich dafür so große Streuungen (mit einer als genau angenommenen Proxi-Auswahl schon von 1990 … 2002), dass man nicht falsch liegen wird anzunehmen, dass es bis heute nicht wirklich signifikant ist.
+http://tinyurl.com/3t76v9o
+Hier gibt es übrigens Temperaturdaten von Westeuropa,
+die besonders die hohen Temperaturen VOR 1940 zeigen und einen eindrucksvollen Temperaturrückgang von 1940 bis 1980,
+deshalb hatte man ja auch schon Sorgen wegen einer kommenden Eiszeit.
+Die kann man nur schlechter dem Mensch in die Schuhe schieben.
+… Obwohl ich schon oft die Erklärung gehört habe, es ist jetzt so kalt WEGEN der Erderwärmung. Mit der Eiszunahme in der Antarktis tut man sich ja auch verdammt schwer,
+das soll ja deshalb zunehmen, weil es wärmer wird.
+Für einen Treibhaus-Anhänger kein Problem,
+Denken wird abgeschaltet.
+(CO2-Treibhauseffekt)
+Korrelation zweier Werte die kausal zusammen hängen, ist eine
+condition sine qua non.
+Das trifft auch für multikausale Systeme zu.
+Statistisch routinemäßig bekannt seit spätestens 1948, Epidemiologie Havard.
+Gäbe es also ein „CO2-Forzing“ also ein fester Wert für die Erwärmung der Erdoberfläche durch CO2, so muss der auch statistisch nachweisbar sein, auch bei Multifaktorelität des Systems.
+Nichts anderes ist Korrelation.
+Und der Mathematiker weiss, dass hier die Sicherheit mit der Zahl der Werte steigt.
+Hier ist KEINE Korrelation:
+http://tinyurl.com/oybzywl
+hier IST eine Korrelation:
+http://tinyurl.com/c9g4txy
+die schließt allerdings einen CO2-Treibhauseffekt aus.
+Und hier ist beides nebeneinander:
+http://tinyurl.com/nk3y3bk
+Sonne JA, CO2 NEIN
+das ist auch eine Korrelation:
+http://tinyurl.com/ns3jeha
+und das
+http://tinyurl.com/cz2kmuv
+und bedeutet:
+Wolken kühlen.
+Weis auch meine Frau,
+eine Ökonomin.
+mfG
+„Da die IR Emission des CO2 z.B. erst ab einigen km Höhe (kälter) ins All erfolgt, tragen die Energieflüsse in Bodennähe selbstverständlich zu einer Erwärmung bei.“
+Damit wird die Strahlungskühlung durch CO2 aus der Atmosphäre heraus anerkannt.
+In einem Gas gibt es keine Grenzflächen (Sprungstellen in den physikalischen Eigenschaften), sondern Gradienten bei Dichte, Temperatur und Intensität der Strahlungskühlung. Ein Nulldurchgang der nach unten kleiner werdende Kühlung zu einer Erwärmung ist unmöglich in Anbetracht des permanenten Temperaturgradienten in der Atmosphäre von unten warm und oben kalt.
+Keine Wärmestrahlung fließt von warm nach kalt. Die Atmosphäre ist durchgängig von unten nach oben ein Kühlhaus. Beweis: Temperaturgradient und alle messbaren Energieflüsse laut IPCC, NASA und allen Lehrbüchern.
+Einfach nur verbal zu sagen, CO2 strahlt überall hin ist physikalischer Quatsch. Der elektromagnetische Feldgradient wird vom Temperaturgradienten bestimmt.
+Der Treibhauseffekt findet nicht in der Atmosphäre, sondern im Ozean statt. Beweis: Die keine Strahlung absorbierende Wasseroberfläche ist infolge des Treibhauseffekts des Ozeans mehrere Grad wärmer als die Landoberflächen im Jahrhundertmittel.
+Herr Innerhofer,
+Sie untertreiben etwas. Im gesamten Klimavertrag, der immerhin über viele Jahre weltweit von fast „unendlich vielen“ Fachpersonen begutachtet und abgestimmt wurde, kommt als Klimatreiber ausschließlich „… anthropogenen Emissionen von Treibhausgasen“ vor.
+Um das zu „wissen“ braucht es keine Computer sondern korrumpierendes Beamtentum (à la PIK mit 666, à la MPI mit LIGO, etc), mit Komplizen und Klatschäffchen.
+Welcher Normalbürger/Forist kann da schon mithalten /sarc
+MfG
+Wenn ein CO2- Molekühl Strahlung emittiert, kann diese im All verschwinden oder von anderen Molekülen absorbiert werden. Das nennt man dann wohl „Kühlung“.
+Wie wird eigentlich die Sonne gekühlt?
++++++++++++++++++++++++++
+Mit Verlaub als Hilfe zum besseren Verständnis:
+Unter Kühlung versteht man in der Thermodynamik die Abführung von Wärmeenergie aus einem wärmeren in ein oder mehrere kältere Systeme.
+Im Übrigen möchte auch ich an dieser Stelle nochmals auf den Entropie- Begriff und den 2ten Hauptsatz der Thermodynamik verweisen.
+M.E sehr gute Erklärungen, auch zur Kühlung der Sonne, dazu finden alle Interessierten hier:
+http://tinyurl.com/jt39y2s
+abgesehen von der etwas unglücklichen Darstellung in Fig. 1 darf ich noch was melden.
+Ich frage mich schon lange, warum manche glauben, der T Verlauf müsste mit der CO2 Konzentration korrelieren.
+Da es zumindest auf dekadischer Skala durchaus „Klimatreiber“ gbt, welche ein IR Forcing über CO2 deutlich dominieren, kann man keine strenge Korrelation ableiten und schon gar nicht behaupten, wenn die Korrelation nicht optimal erscheint, etwas mit dem IR Forcing nicht stimmt.
+Ganz falsch ist es, wenn man dann noch regionale T Kurven in Verbindung bringen will. Es finden sich sogar heute Regionen, wo selbst der 100a Trend negativ ist, wie z.B in Teilen des N Atlantiks südlich von Grönland.
+Überhaupt sagt jede Korrelation von zwei Daten mal gar nichts aus, solange keine eindeutiger Zusammenhang nachgewiesen werden kann (notwendig/hinreichend)
+Sie haben aber auch recht, denn viele der Klima Alarm Bewegten reden ja nur noch von CO2 und wollen uns weiss machen, nichts anderes bestimmt unser Klima. Die Klimatologie behauptet das aber nicht.
+„Wenn es Strahlung emittiert, kann diese im All verschwinden oder von anderen Molekülen absorbiert werden.“
+Das nennt man wohl „Kühlung“.
+Wie wird eigentlich die Sonne gekühlt?
+Hui das ist nun aber wirklicher starker Tobak!
+Aber nachdem ich mir diesen Vortrag von Herrn Dr Stehlik angehört habe
+http://tinyurl.com/h93gabp
+erwarte ich mit großer Spannung, was er Ihnen darauf wohl antworten wird. 🙂
+Da ging nichts daneben, sondern es sind zwei getrennte Skalen. Die Linke ist für die Jahreswerte, die Rechte für den Mittelwert. Den Mittelwert muss man „dehnen“, damit man den Verlauf (auf den es hier alleine ankommt) sieht.
+Allerdings fehlt der Hinweis im Bildtext.
+in Fig. 1 passt die rote Mittelwertkurve aber überhaupt nicht zu der Blauen Reihe. Da ging was daneben…
+„Das CO2 Molekül kann nichts aus sich heraus erwärmen. Es kann sich aber aus sich heraus zum Weltall hin abkühlen.“
+Wenn es Strahlung emittiert, kann diese im All verschwinden oder von anderen Molekülen absorbiert werden.
+„Die IR-inaktive Hauptmasse der Atmosphäre kann das nicht“
+Na und?
+„In Bodenhöhe ist die Kühlwirkung von CO2 (Kondratyev 1969, Moeller 1964) unmessbar klein.“
+Richtig, weil keine Kühlwirkung existiert. Sie erfinden Unsinn und behaupten, wissenschaftliche Literatur würde diesen Quatsch stützen.
+„Nach oben hin wird die Kühlwirkung des CO2 immer mehr alleine dominierend, weil alle in die Atmosphäre eingetragene Wärme nach oben steigt.“
+Luft steigt auf, wenn diese wärmer ist, als die Umgebung oder durch erzwungene Hebung. Jedes mal leistet das Volumen Expansionsarbeit und kühlt dabei ab. Hatten sie schon einmal ein Lehrbuch der Meteorologie zur Hand?
+„Kein chemischer Stoff der Erdoberfläche ist so IR-aktiv wie CO2. Ähnliches gilt für H2O Gas. Feststoffe und Flüssigkeiten sind sehr viel weniger IR-aktiv.“
+Schauen sie sich einfach mal die Emissionsspektren von festen, flüssigen und gasförmigen Stoffen an.
+„Dieses IR-Gesamtverhalten beweisen alle gemessenen Energieflussdaten, die von der Erdoberfläche senkrecht nach oben gehen beginnend mit den Daten von Potsdam 1903!“
+Wenn sie nicht alles falsch interpretieren würden, hätten sie den Treibhauseffekt längst verstanden. Da die IR Emission des CO2 z.B. erst ab einigen km Höhe (kälter) ins All erfolgt, tragen die Energieflüsse in Bodennähe selbstverständlich zu einer Erwärmung bei. Wie kann ein erwachsener Mensch nur so, jaja, sie wissen schon…
+Kein chemischer Stoff der Erdoberfläche ist so IR-aktiv wie CO2. Ähnliches gilt für H2O Gas. Feststoffe und Flüssigkeiten sind sehr viel weniger IR-aktiv.
+Dieses IR-Gesamtverhalten beweisen alle gemessenen Energieflussdaten, die von der Erdoberfläche senkrecht nach oben gehen beginnend mit den Daten von Potsdam 1903!
+Jede Beschäftigung mit statistischen Daten zur Klärung der CO2 Frage ist unnötige Ablenkung vom Wesentlichen, dem CO2 Betrug oder damit identisch dem „Schwarzer Strahler“ Betrug.
+Herr Kämpfe, Sie haben einen Fehler gefunden.
+Bild 5 zeigt den falschen Screenshot der GISS US Landtemperatur, wo es laut der Bildbeschreibung die GISS Globaltemperatur sein sollte. Der Mittelwertverlauf ist in beiden Temperaturkurven im entsprechenden Zeitbereich sehr ähnlich, aber die Temperaturachse natürlich im anderen Maßstab. Wird richtiggestellt.
+Was die Temperaturverläufe von Deutschland (ab etwa Mitte 18. Jh. mit gewissen Unsicherheiten verfügbar), Zentralengland (ab 1659) und Potsdam (ab 1893) betrifft, so lassen sich diese, so weit die Daten dafür vorliegen, ab dem späten 19. Jh. ganz gut mit der zunehmenden Sonnenaktivität und Sonnenscheindauer, dem Verlauf der AMO und den geänderten Häufigkeitsverhältnissen der Großwetterlagen (vor allem Deutschland) sowie mit WI- Effekten und den Luftreinhaltemaßnahmen (klarere Luft, mehr kurzwellige Einstrahlung) erklären. CO2 spielt- wenn überhaupt- nur eine Nebenrolle. Meine konkrete Frage nun: Zeigt sich dieser „Temperatursprung“ ab etwa 1990 außer in Europa und den USA auch weltweit? Die Abb. 5 ist ein wenig verwirrend- darüber steht U.S. Temperature, oder sind das die (für mich stets zweifelhaften)“Globalwerte“- dann wäre meine Frage mit „Ja“ beantwortet.

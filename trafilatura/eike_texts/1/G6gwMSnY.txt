@@ -1,0 +1,124 @@
+»Der Dorfteich war im Mittel einen Meter tief, trotzdem ist die Kuh ersoffen.« Mit diesem Spruch wird vor allzu sorglosem Umgang mit Zahlen gewarnt, die aus statistischen Berechnungen folgen. Obwohl mathematisch exakt ermittelt, entpuppt sich ein Mittelwert bei genauerem Hinsehen manchmal als gefährliche Halbwahrheit.
+Die Aussage »Erneuerbare decken 38 Prozent des Stromverbrauchs« ist eine solche Halbwahrheit.
+Die Angabe von jahresgemittelten Prozentwerten ist zwar meist ausreichend zur Charakterisierung der Beiträge sowohl der konventionellen als auch der nichtvolatilen erneuerbaren Energiequellen wie Biomasse und Wasserkraft an der Stromversorgung. Ganz anders ist es allerdings bei den volatilen Erzeugern wie Windund Sonnenenergie. Deren Einspeiseleistung weist extreme Schwankungen auf, die sich nicht wie gewohnt durch eine Verteilung entsprechend einer Gaußschen Glockenkurve beschreiben lassen.
+In der Grafik ist dargestellt, an wievielen Stunden des Jahres 2018 eine bestimmte Leistung durch alle Windenergieanlagen (WEA) an Land in Deutschland in das Stromnetz eingespeist wurde. Leistungsangaben wurden auf volle Gigawatt gerundet. Die Verteilung ist unsymmetrisch. Die minimale Leistung von 0,2 GW wird bei windschwachen Perioden erbracht. Die mittlere Leistung von 10,5 GW (markiert durch einen Pfeil) multipliziert mit der Gesamtstundenzahl 8760 h ergibt die Elektroenergie, die in dem betrachteten Zeitraum insgesamt durch WEA eingespeist wurde: 91,9 TWh. Im Jahresmittel wurden nur ein Fünftel der installierten Leistung von 52 GW eingespeist. Die mittlere Last betrug im vergangenen Jahr 58,1 GW. Weiterhin ist zu erkennen, dass die wahrscheinlichste Leistung am Maximum der Kurve (2,5 GW) kleiner ist als die mittlere Leistung und dass die maximale Leistung bei Starkwind (41,5 GW) ein Mehrfaches der mittleren Leistung beträgt.
+Dieses komplexe Verhalten bestimmt die Grenzen der Integration volatiler Erneuerbarer in das Energieversorgungssystem. Andererseits steht aber gerade der verstärkte Zubau volatiler Quellen im Fokus der Maßnahmen im Rahmen der Energiewende in Deutschland. Ein solcher würde eine weitere Vergrößerung der Standardabweichung der Verteilung zur Folge haben. Die maximale Leistung würde weiter ansteigen, ihr Minimalwert bliebe hingegen bei einem Wert nahe Null.
+Ein Ausweg aus diesem Dilemma bestünde in der Speicherung von Elektroenergie bei einem Leistungsangebot oberhalb der mittleren Leistung, damit diese zu Zeiten geringer Windbzw. Sonnenleistung wieder eingespeist werden kann. Speicher mit den dazu erforderlichen Speicherkapazitäten stehen allerdings weder jetzt noch in absehbarer Zukunft zur Verfügung.
+Die Angabe der zeitgemittelten Prozentwerte im Zusammenhang mit dem Zubau von volatilen Erzeugern ist insofern irreführend, da dadurch vorgetäuscht wird, das Speicherproblem sei bereits gelöst und der Strom aus erneuerbaren Energiequellenstünde schon jetzt stetig – nämlich gerade mit dem Wert der mittleren Leistung – zur Verfügung.
+Auf der politischen Ebene wird daraus leichtfertig geschlossen, der prozentuale Anteil von Erneuerbaren von derzeit angeblich 38 Prozent könne innerhalb weniger Jahre auf 65 Prozent und mehr gesteigert werden. Würde der mittlere Anteil von Windund Sonnenstrom im Netz auf wesentlich mehr als etwa ein Viertel gesteigert werden, könnte unter den gegenwärtigen technologischen Bedingungen das durch physikalische Gesetze geforderte Gleichgewicht zwischen Einspeisung und Verbrauch nicht mehr eingehalten werden.
+Die Methode der Verschleierung von Tatsachen durch Mittelwertbildung über stark fluktuierende Zeitreihen hat leider auch in offizielle Studien und Analysen Einzug gefunden. In einer Veröffentlichung der Denkfabrik »Agora Energiewende«, die auch die Bundesregierung berät, findet man z. B. die Darstellung einer über 24 Stunden gemittelten Einspeisung von Sonnenstrom [1]. Die dadurch ermittelten »geglätteten Ganglinien« suggerieren, dass die Sonne auch um Mitternacht scheint bzw. dass eine Speichermöglichkeit des gesamten um die Mittagszeit in Deutschland gewonnenen Sonnenstroms über einen ganzen Tag existiert. Weder das eine noch das andere ist evident.
+Eine inhaltliche und auf wissenschaftlichen Grundlagen beruhende ehrliche und kritische Analyse aller Maßnahmen der Energiewende ist dringend erforderlich. Nur so wird es möglich sein, sich dem ursprünglichen Ziel der Energiewende, einer ökonomisch und ökologisch verträglichen Transformation des Energiesystems unter Berücksichtigung der Versorgungssicherheit zu nähern. Dazu müssen alle auf physikalischen Erkenntnissen beruhenden technischen Möglichkeiten in die Betrachtungen einbezogen werden.
+[1] Agora Energiewende (2017): Die Energiewende im Stromsektor: Stand der Dinge 2016. Rückblick auf die wesentlichen Entwicklungen sowie Ausblick auf 2017, S. 8.
+Der Beitrag erschien zuerst bei TU Dresden hier
+Bild (von links) Erster Bürgermeister Tobias Bühler und LEW-Kommunalbetreuer Michael Mengele
+Die Gemeinde Gundremmingen hat am Freitag in Kooperation mit den Lechwerken (LEW) die erste öffentliche Ladesäule für Elektroautos in Betrieb genommen. Sie steht vor dem Rathaus und verfügt über zwei Ladepunkte mit einer Leistung von jeweils bis zu 22 Kilowatt.
+Made in Germany. Im wahrsten Sinne des Wortes! Statt Made könnte man auch Wurm sagen.
+Komisch,
+haben wir nicht auch Windkraftanlagen auf See am Netz ?
+Haben wir nicht auch PV-Anlagen am Netz ?
+Haben wir nicht auch andere Erneuerbare Kraftwerksarten am Netz ?
+2018 sind die Strommengen an keinen Tag unter 15% gefallen die von den Erneuerbaren gekommen sind.
+https://www.energy-charts.de/ren_share_de.htm?source=ren-share&period=daily&year=2018
+An 11.1.2018 sind um die 85% der Strommenge von den Konventionellen gekommen zu einen Börsenpreis von um die 5 Cent/kWh.
+Am 8.12.2018 sind nur 25% von den Konventionellen gekommen zu einen Börsenpreis von um die -1 Cent/kWh.
+Schussfolgerung, hoher Anteil an Konventionellen Strom im Netz hoher Börsenstrompreis.
+Hoher Anteil an Strom aus Erneuerbaren im Netz geringer Börsenstrompreis.
+Der Börsenstrompreis ist natürlich auch Bestandteil der Stromrechnung.
+Da ist es günstiger wenn man den Anteil an Strom von Erneuerbaren steigert.
+Schlussfolgerung. Sie haben das Prinzip EEG-Umlage nicht verstanden. Macht aber nichts….
+Irgendwie hab ich den Eindruck das Sie keine Ahnung von EEG-System haben.
+Das EEG gleicht die Preisdifferenz zwischen Börsenstrompreis und zugesicherte Einspeisevergütung aus.
+Nach Rechtslage muss ja der gesamte EEG Strom über die Strombörse abgewickelt werden.
+Einfache Denksportaufgabe:
+Beispiel 1
+Die durchschnittliche EEG-Vergütung aller EEG-Anlagen ist z.B. 16 ct./kWh
+und der durchschnittliche Börsenstrompreis ist 5 ct./kWh, so muss der Endverbraucher 11 Cent bei jeden kWh die von den EEG-Anlagen gekommen ist draufzahlen.
+Beispiel 2
+Die durchschnittliche EEG-Vergütung aller EEG-Anlagen ist z.B. 16 ct./kWh
+und der durchschnittliche Börsenstrompreis ist auch 16 ct./kWh, so muss der Endverbraucher 0 Cent bei jeden kWh das von den EEG-Anlagen gekommen ist draufzahlen.
+Prinzip verstanden Herr Pesch ?
+Beispiel 3
+Nun bekommen die neuen Windkraftanlagen und PV-Anlagen aber nur um die 6 ct./kWh so muss der Endverbraucher bei diesen Anlagen nur ca. 1 Cent jeden kWh draufzahlen über das EEG-System.
+Prinzip verstanden Herr Pesch ?
+Unsere Nachbarländer lieben uns dafür! Die bauen Ihre Kraftwerke und wollen Ihren Strompreis stabil halten und dann kommen wir an manchen Tagen und schwatzen Ihnen unseren Strom auf. Dann bezahlen wir denen noch Geld, damit Sie unsere Zappel-Spitzen abnehmen. Dem Windmüller zahlen wir natürlich den übertariflichen Strom.
+Die Windmüller und die die denen das Land für die Windräder verkauft haben, sind die Einzigen, die an der Sache richtig verdienen.
+Und was geflissentlich verschwiegen wird, die „fossilen Kraftwerke“ brauchen wir trotzdem noch. Zur Abpufferung, wenn Herr Wind und Frau Luna keinen Bock haben. Ein Kraftwerk im Stand By Betrieb hat Fixkosten. Aber Fr. Sonne schickt ja keine Rechnung!
+Und wir träumen weiter…
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+https://www.youtube.com/watch?v=rV_0uHP3BDY
+Bei der Windkraft sind 2014 ca. 39GW am Netz die erzeugen ca. 56 TWh und mi diesen Zahle rechnet Herr Sinn.
+Zahlen aus 2018.
+Bei der Windkraft sind 2018 ca. 69GW am Netz die erzeugen ca. 111 Twh.
+Da sinnt wir bei der Strommenge innerhalb von 4 Jahren bei ca. einer Verdopplung der kWh, das sollt mal Herr Sinn berücksichtigen und dann eine Prognose in die Zukunft wagen.
+Herr Sinn hat auch eine Übersicht (45:18) von Strompreis von Deutschland und Frankreich, hat aber vergessen zu erwähnen das in Deutschland bereits 2 Cent Ökosteuer je kWh drauf sind und noch 19% MwSt.
+In Frankreich sind auf Strom nur um die 5% an MwSt. drauf, so hab ich das zumindest noch im Hinterkopf.
+Es werden Leistungs-Verbrauchspreise berechnet, wobei die Leistung sich auf die des Elektrizitätszählers bezieht, ob in Ampère oder in Kilowatt umgerechnet, spielt für die Höhe der TVA, der französischen Mehrwertsteuer, keine Rolle.
+Auf die laufenden Kosten des Anschlusses, bei uns ähnlich zum Grundpreis, des Haushaltes werden 5,5% TVA berechnet.
+Auf die verbrauchte Elektrizität beträgt die TVA 20%.
+Sicherlich hätten Sie diese Infos in einem Ihrer immer sehr wertvollen Kommentare noch nachgetragen, sehr geehrter Herr Vallan.
+Une taxe de 5.5% qui est appliquée sur le montant de l’abonnement. C’est donc un taux directement lié à la puissance de votre compteur. Cette taxe est également appliquée à la Contribution Tarifaire d’Acheminement (CTA).
+Une taxe de 20% qui elle s’applique sur le montant de la consommation, c’est-à-dire qu’elle est basée sur le prix du kWh d’électricité. Cela signifie donc que plus votre consommation est élevée, plus cette taxe sera élevée. Cette taxe est également appliquée aux Taxes sur la Consommation Finale d’Electricité et à la Contribution au Service Public d’Electricité.
+In Frankreich ist auf Strom (kWh) der stark verringerter Satz von 5,5%
+Die französische Bezeichnung für Mehrwertsteuer lautet Taxe sur la valeur ajoutée mit der Abkürzung TVA.
+https://dermwst.de/frankreich-mwst-satz/
+Stark verringerter Satz auf Energie von 5,5%
+https://www.mehrwertsteuerrechner.de/mehrwertsteuer-frankreich-tva/
+https://de.ambafrance.org/Frankreich-gestaltet
+1. Was steht in meinem Kommentar? TVA.
+2. In Frankreich werden auf das Abonnement, das ist der Haus- oder Wohnungsanschluß in Ampère resp. in kVA, 5,5% TVA berechnet.
+3. In Frankreich werden auf die abgerechneten = verbrauchten kWh 20% TVA berechnet.
+Der in meinem Kommentar aufgeführte französische Text stammt von der Französischen Elektrizitäts-Agentur.
+Hier der Link zur von mir zitierten Webseite: https://www.agence-france-electricite.fr/prix-electricite/taxe/tva/
+Nur noch ein paar Semester Elektrotechnik und Ökonomie und auch Sie werden verstehen, warum in einer freien Marktwirtschaft niemand den Müll Zufallselektrizität aus Wind und Sonne kaufen will.
+Toshiba und Hitachi sind wegen der extrem steigenden Kosten aus dem britischen Kernkraftwerksbau kürzlich ausgestiegen. https://www.welt.de/wirtschaft/article187244700/Hitachi-Japaner-ziehen-sich-aus-britischer-Kernkraft-zurueck.html
+Und jetzt weinen Sie mal bitte nicht.
+Man brauch keine Semester Elektrotechnik und Ökonomie studieren, das wissen die Bürger und Firmen bereits das Sonnenstrom die Preisgünstigste Stromquelle ist.
+Kaufen, von Sonnenstrom aus dem Netz macht auch keinen Sinn für den Endverbraucher, besser einige Solarmodule u.s.w. kaufen und man hat an jeden Tag Solarstrom zur Verfügung, zu eine unschlagbar günstigen Preis.
+Der Nobelpreis für die Entdeckung des Nulllichtes zur Erzeugung der rund-um-die-Uhr-kostet-fast-nichts-Sonnenelektrizität wird Ihnen, sehr geehrter Herr Vallan, sicher sein.
+Es lebe die Energie aus dem Nichts. Deutschland darf sich glücklich schätzen, die weltbesten Weltsonnengürtel- und Nulllichterfinder zu den Seinen zu zählen.
+PS.: Das Energiewende-Lobbyinstitut Agora Energiewende hat Ihre Forschungsergebnisse offenbar noch nicht mitbekommen. Bei Dunkelheit weist es für Photovoltaik-Anlagen immer noch Null Watt an erzeugter Leistung aus.
+Haben Sie die Think-Tanker von Agora Energiewende noch nicht über Ihre solaren kostet-fast-nichts-Nulllichtleistungen aufklären können, sehr geehrter Herr Vallan?
+Was labern Sie hier für einen ausgesprochenen xxxxxx?
+a. Elektrotechnik sollten Sie studieren. So wie Sie hier herumlabern packen Sie das Studium niemals. Noch Fragen?
+b. Von Ökonomie haben Sie auch und noch weniger als keine Ahnung. In der Volkswirtschaft geht es um riesige Vermögenswerte. Das ist sogar noch schwieriger als Elektrotechnik, wenn man das Studium sehr, sehr ernst nimmt und kein Öko-Blender sein will. Ihre Freunde, die rassistiscchen Öko-Proleten und alles was politisch links sein will, HABEN AUCH KEINE AHNUNG, seit Karl Marx, seit Lenin und so weiter. Regelmäßig führen diese kriminellen Idioten ganze Länder in den Bankrott und die Bevölkerung vorher in die Versklavung.
+Was glauben Sie mit welchen Gegnern Sie es hier zu tun haben?
+Man erkennt von weitem, Sie haben keine Ahnung. Sie sind xxxxxx, sonst nichts.
+Diese Energiewende ist Müll, teuer, ein Riesenbetrug. Es besteht keine Notwendigkeit.
+Haben Sie fleißig in die Energiewende investiert und fürchten jetzt um Ihr Geld? Ja? Hoffentlich erleiden Sie einen sehr hohen Verlust.
+Passen Sie mal gut auf! Ich will frei sein und selbst entscheiden, was ich fahren will und wie lange. Haben wir uns verstanden? Ihre Eletroautos können Sie sich sonst wohin stecken. Im Falle des Falles.
+Es ist genau ANDERSRUM. Um GEGEN die Energiewende zu sein, muss man nicht studiert haben. Und das respektieren Sie nicht!
+Bitte mäßigen Sie Ihre Ausdrucksweise.
+Sie schreiben: „Woher kommt der Stolz über das einzigartige Wissen, dass nachts die Sonne nicht scheint. Wäre es nicht deutlich sinnvoller über die Lösungen dieses Problems zu diskutieren“ Also ich würde eine solche Diskussion nicht für sinnvoll halten! Aber egal, vielleicht könnten Sie ja mal ein zwei Lösungsmöglichkeiten nennen, wie man die Sonne dazu verleiten könnte, auch nachts zu scheinen. Nett wäre auch, wenn Sie wenigstens den Namen eines Wissenschaftlers nennen könnten, der an diesem Problem arbeitet.
+MfG
+PS: Oh, ich habe jetz bis zu Ende gelesen. Sie sind der Meinung, dass bei einer Solarstromerzeugung unter 3 Ct/KWh die Sonne auch nachts scheint! Na dann… Insofern verbuche ich Ihren letzten Vorschlag „Lastmanagement“ als Zufallstreffer. Sie ahnen wohl nicht einmal, dass das nichts anderes als Stromabschaltung bedeutet.
+Es waren tausende junge Wissenschaftler, die die Solarzellen so günstig machten. Wo bleiben heute die Erfolge der grauen Eminenzen, die noch zu Zeiten der Dampflokomotive aufgewachsen sind und sich so heftig gegen alle Neue wehren.
+Zu ende gelesen Ja, nur nicht zu ende gedacht.
+Wo hat den jemand geschrieben das Solarstromerzeugung auch nachts erfolgt ???
+Gut Sie haben eben kein elektrotechnisches Verständnis.
+Sehr geehrter Herr Theodor Heinrich,
+gut ist diese Auffrischung der Begriffe zur Elektrotechnik.Man sollte nicht außer Acht lassen,
+das dieses hart erarbeitete Europäische Verbundnetz nur funktioniert,weil ein Wechselspannungspotenzial von 400 Kilovolt mit 50 Hertz stabil (kurzschlussfest) bereitgestellt wird.Die Gehhilfen auf den Verteilnetz-Ebnen haben zwar auch ihren Charme,reichen aber für das Gesamtkonzept nie aus.
+Mit herzlichem Glückauf
+Wieder wird durch unsaubere Darstellung mehr Verwirrung gestiftet als Aufklärung geliefert. Hier z.B. : Nicht eindeutig beschreiben Y-Achse (ich vermute mal Stunden pro Jahr) und völlig unbeschriftete X-Achse.
+Erinnert mich an einen anderen Beitrag, wo meine Frage, was der Weltenergiebedarf denn alles beinhaltet, auch ungeklärt blieb.
+Solche Beiträge sind für den A…. !
+Sie sind in Ihrer Entscheidung natürlich souverän.Trotzdem sollten Sie ihre Aggressivität beim Kommentieren ein wenig zügeln.
+Fakt ist: Leider schneidet das Bildmodul von den „Teaserbildern“ immer mal wieder was ab. Das sieht man aber im „Backend“ beim editieren nicht. Außerdem steht drunter was damit gemeint ist.
+Die Orignal- und vollständige Grafik steht jetzt auch im Fließtext. Sozusagen doppelt gemoppelt. Dann dürften Sie erkennen, dass die Stunden sich auf das Jahr 2018 beziehen.
+Im Übrigen können Sie das vollständige Diagramm im verlinkten Originalartikel sehen (allerdings haben Sie insofern Recht, dass man von Eike etwas mehr Sorgfalt verlangen muss).
+Muss man das? Freiwillige vor.
+@Admin:
+Nun ja, Glaubwürdigkeit und Seriosität verlangen nun mal Sorgfalt beim Erstellen von Artikeln.
+Ich ändere „muss“ in „erwarten kann“ – besser?
+Ansonsten:
+Schon mal was von selber recherchieren gehört? Oder daß, wer lesen kann, immer klar im Vorteil ist? Sind auch Sie einer von den vielen, denen alles vorgekaut und mundgerecht serviert werden muß? Generation Konsument? Dann bleiben Sie halt bei BILD Dir Deine Meinung…
+Ich finde, Sie sollten nochmals lesen und dann um Entschuldigung bitten, ok?
+Dass die Aussage »Erneuerbare decken 38 Prozent des Stromverbrauchs« eine Halbwahrheit ist, dürfte wohl jedem interessierten Beobachter klar sein: Dazu bedarf es solcher – ich sage mal – Artikel gar nicht; da reicht es zu wissen, dass zeitweise kein und andererzeits mehr Energie produziert als verbraucht wird. Ein Diskussion bezüglich des „richtigen“ Mittelwerts ist daher obsolet.
+Entschuldigung, dass mein BILD-Wissensstand trotz diese Artikels nicht besser wurde.
+Können Sie keine Grafiken lesen?
+Gilt auch für die These vom „Treibhauseffekt“ – auch hier tut man so, als ab die Sonne die Erde 24 Stunden komplett rundum bescheinen würde.
+Das Resultat?
+Ein neuer Planet, gebildet aus Mittelwerten, hat mit der realen Welt nichts, aber auch gar nichts zu tun!
+Herr Ordowski,
+nur die Spezialist die keine Ahnung haben stellen so Fragen, haben so Gedankengänge das oder ob die Sonne an 24 Stunden am Tag scheint.
+Was wollen Sie mit Ihrem Gestammel sagen?

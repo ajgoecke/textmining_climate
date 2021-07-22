@@ -1,0 +1,9 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="EIKE - Europäisches Institut für Klima &amp; Energie" author="Greg Goodman" source="https://eike-klima-energie.eu/author/greg-goodman/" hostname="eike-klima-energie.eu" excerpt="Nicht das Klima ist bedroht, sondern unsere Freiheit!" categories="Klima" tags="" fingerprint="SMFvhQLRyztmV4glT/9U5QF8Bfg=">
+  <main>
+    <head rend="h2">Über die unsachgemäße Anwendung der Regression kleinster Quadrate</head>
+    <p>Greg Goodman<lb/>[Vorbemerkung des Übersetzers: In diesem Beitrag werden mathematische Prozesse und Begriffe angesprochen und verwendet, die mir unklar sind. Manche Begriffe habe ich kursiv gesetzt aus dem Original übernommen, um nicht ggf. eine falsche Übersetzung zu riskieren. – C. F.]<lb/>Die unsachgemäße Anwendung der linearen Regression kann falsche und erheblich zu niedrige Schätzungen der wahren Neigung einer linearen Beziehung ergeben, falls beide Variablen signifikante Messfehler oder andere Störfaktoren aufweisen. Genau das ist der Fall, wenn man versucht, den modellierten oder gemessenen Strahlungsfluss gegen die Temperaturen an der Erdoberfläche einer Regression zu unterziehen, um die Sensitivität des Klimasystems abzuschätzen.</p>
+  </main>
+  <comments>
+    <head>Neueste Kommentare</head>
+  </comments>
+</doc>

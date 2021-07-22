@@ -1,0 +1,55 @@
+Selbst-organisationsfähige Smart Grids
+Eine technische Zeitschrift berichtete Anfang des Jahres 2015, wie man intelligenten Netzen die Intelligenz beibringt: Man macht sie lernfähig. Einer bisher beim EEG nicht in Erscheinung getretenen Abteilung für Dynamik und Selbstorganisation der Max Plank Gesellschaft ist dieser innovative Durchbruch gelungen.
+smarterworld.de 02.02.2015: Smart Grids: Selbstorganisierte intelligente Netze
+Bislang glaubte man, dass zum Erhalt der Stromversorgungssicherheit in der Energiewende Versorger Energie-Verbräuche und Angebote zentral erheben und abgleichen müssten. Forscher der Max-Planck-Gesellschaft halten mit Smart Metern ausgestattete Smart Grids dagegen prinzipiell für selbstorganisationsfähig .
+Laut einer Studie des Max-Planck-Instituts für Dynamik und Selbstorganisation können Smart-Meter mit angeschlossenen, steuerbaren Verbrauchern das Stromangebot sowie die Nachfrage durch Industrie und private Haushalte in einem selbstorganisierten Prozess bis zu einem gewissen Grad aufeinander abstimmen. Die Forscher berücksichtigten dabei auch, ob Strom in Speichern wie etwa in Batterien zur Verfügung steht oder ob es darin freie Speicherkapazitäten gibt.
+Durch Smart Meter, die es Versorgern erlauben, Stromproduktion und Lasten zentral abzugleichen, könnten Smart Grids aber in einem gewissen Rahmen »selbstorganisierend« werden. Forscher des Max-Planck-Instituts für Dynamik und Selbstorganisation zeigten, dass Smart Meter die Stromnachfrage dezentral und selbstorganisiert mit dem Stromangebot abstimmen können.
+Man kann jede Banalität durch umständliche Beschreibung und Verweis auf Studien „in den Himmel heben“ und Laien wie auch Redakteure beeindrucken. Im Kern handelt es sich schlussendlich aber um ein ganz einfaches, technisches Rezept:
+Man erweitere jedes Smart Grid (elektronischer Zähler) um ein Schütz zum Zu- und Abschalten von Verbrauchern und ergänze die Software um die einfachste Regelungsfunktion eines P-Reglers und einen 50 Hz-Zähler. Damit lässt sich dann die folgende Funktion ausführen:
+Weicht die Netzfrequenz zu weit ab (Kennzeichen für Netz-Überlast, bzw. zu wenig Energie im Netz), schaltet das Smart Grid die Verbraucher rigoros vom Netz, kommt die Frequenz wieder in den zulässigen Bereich zurück (Kennzeichen, es ist wieder genügend Strom verfügbar), schalte es die Verbraucher wieder zu. Bei dieser primitiven Art der „Regelung“ ist natürlich keine Kommunikation erforderlich, womit Hacker keine Chance mehr haben. Anm.: Diese Idee hat der Autor auch schon aufgegriffen: [3] Kann man bald per App Deutschland „den Saft“ abdrehen
+Wenn diese einfache Technik nicht ein Skeptiker, sondern ein EEG-überzeugter Redakteur (anhand der Pressemitteilung) beschreibt, liest es sich positiver, da die vielen Vorteile präzise hervor gehoben werden:
+[1] Durch Smart Meter, die es Versorgern erlauben, Stromproduktion und Lasten zentral abzugleichen, könnten Smart Grids aber in einem gewissen Rahmen »selbstorganisierend« werden. Forscher des Max-Planck-Instituts für Dynamik und Selbstorganisation zeigten, dass Smart Meter die Stromnachfrage dezentral und selbstorganisiert mit dem Stromangebot abstimmen können. Eine zentrale Stelle, die zum Abgleich von Stromverbrauch und Angebot bislang für nötig gehalten wird, würde damit bis zu einem gewissen Grad überflüssig. Zudem glaubt Physiker Benjamin Schäfer vom Max-Planck-Institut (MPI) für Dynamik und Selbstorganisation in Göttingen, dass zentral organisierte Datensammlungen und darauf basierende Entscheidungen in Smart Grids gefährlich sind: »Eine solche zentrale Steuerung ist ein potenzielles Angriffsziel für Hacker«, so Schäfer.
+Zusammen mit der Firma Easy Smart Grid aus Karlsruhe haben die Forscher des MPI untersucht, ob eine zentrale Smart Grid Struktur, in der wichtige Entscheidungen hierarchisch Top-down getroffen werden, überhaupt notwendig ist. Easy Smart Grid entwickelt Systeme für Netzwerktopologien, in denen die Erzeugung weitgehend dezentral in kleineren Einheiten stattfindet und Strom den Weg – Bottom-up – von der Verteilnetzebene in die Mittelspannung findet, statt – Top-down – von »oben« (dem Kraftwerk) nach »unten« in die Verteilnetze.
+Es braucht etwas Zeit, bis die Kerninformation – dass nur Ab- und Zugeschaltet wird und das Verbraucher auch stören könnte – erwähnt wird:
+[1] Voraussetzung für das Funktionieren eines selbstorganisierten Smart Grids ist allerdings, dass immer genügend Smart Meter mit angeschlossenen, steuerbaren elektrischen Verbrauchern existieren, die aktiviert oder abgeschaltet werden können. Zu der Bereitschaft der Nutzer, ein Abschalten ihrer Verbraucher an nebeligen, windstillen Wintertagen zu machen, trifft das MPI keine Aussagen.
+Alleine an der Sprache erkennt jeder Laie, wie meilenweit ein moderner EEG-P-Regler, von den banalen bisherigen Ausführungen innovativ entfernt sein muss.
+Und selbst verständlich lässt sich diese Innovation noch optimieren, wenn weiter geforscht werden darf:
+[1] Lohnend für die weitere Forschung wäre: Das »Selbstorganisationspotential« eines Smart Grids in verschiedenen Szenarien mit nachvollziehbaren Variablen zu quantifizieren.
+Der Autor fasst das Ergebnis dieser bahn-brechenden Lösung zusammen:
+Modernste Forschung fand heraus: Das EEG-Netz kann ganz einfach ausgeführt werden, wenn festgelegt wird:
+Strom gibt es nur, wenn welcher da ist.
+Da Bürger dies (noch) nicht akzeptieren und die Information des Bürgers über das Verhalten bei Netz-Abschaltung und –Wiederkehr zu umständlich ist sowie das komplett-Abschalten zu sehr an Energie-Armut in Dritte-Welt-Ländern erinnert wird empfohlen, die dem Bürger fehlende Anpassung in Smart Grids zu verlagern. Mit entsprechender Unterstützung durch die Medien sowie auferlegter Kosten für die Nachrüstung mit Smart-Grid und von Lastabwurf-Schaltungen im Haus wird sich der Bürger dann überzeugen lassen, dass zeitweise und unplanbar fehlender Strom dank (banaler) Lastabwurftechnik eine innovative Eigenschaft moderner EEG-Netze einer modernen Welt geworden ist.
+Im Kern liefert diese Studie allerdings eine geradezu geniale Lösung der EEG-Problematik:
+Akzeptiere, dass das EEG ungeeignet ist. Versuche nicht, es zu verbessern, sondern automatisiere das Unvermeidbare: das Abschalten der Energie für den Bürger.
+Damit hat sie große Chance, verwendet zu werden.
+Quellen
+[1]
+smarterworld.de 02.02.2015: Smart Grids: Im Prinzip möglich: Selbstorganisierte intelligente Netze
+http://www.smarterworld.de/smart-energy/smart-grid/artikel/116603/1/
+[2]
+Max Plank Gesellschaft 27. Januar 2015: Smart-Grid – einfach selbstorganisiert
+[3]
+EIKE 31.08.2016: Kann man bald per App Deutschland „den Saft“ abdrehen
+http://www.eike-klima-energie.eu/news-cache/kann-man-bald-per-app-deutschland-den-saft-abdrehen/
+Wenn sich renommierte Organisationen wie die Max Planck Gesellschaft mit derartigen „Erkenntnissen“ beschäftigen ist der Kollaps nicht mehr weit.“Wir schaffen das“ (Deutschland ab.)
+Der Erfinder vom Ringwallspeicher erhielt für seine Großtat den ehrenvollen Titel Dr. Und inzwischen hat er es noch weiter gebracht, er erhielt den Titel Professor.
+Man stellt fest: Wer der Obrigkeit zu Diensten ist, erhält Lob (und Geld). Wer früher der Obrigkeit widersprach, landete auf dem Scheiterhaufen (oder zu einer anderen Zeit nicht so weit zurück, wurde er an die Wand gestellt).
+Gab’s früher einmal bei der Deutschen Bundespost. Sie hießen Einheiten-Zähler. Wikepedia: „In jüngerer Zeit haben Einheitenzähler nur noch einen eingeschränkten Gebrauchswert, da bei Telefonie über andere Provider (Call-by-Call) oder in zeit- statt einheitenbasierten Tarifen eine genaue Anzeige nicht mehr möglich ist.
+Telefone mit Gebührenanzeiger wurden ab 1988 oft durch ein Clubtelefon ersetzt.“ Wie wär’s mit einem EEG-Club?
+Ja, Sie haben recht. Ich habe es ausgebessert.
+(Oder ich muss solange durchalten, bis es in die Umgangssprache aufgenommen wird, dann hat es auch WORD)
+Lieber Admin, bitte durchgehen lassen, ich will mich bessern
+Anfrage an Radio Eriwan: „Kennen Sie jemanden, der mir 1,8 Mrd Kubikmeter Kies liefern kann?“ Antwort: „Im Prinzip ja! Aber: Sein Spatenstiel ist abgebrochen und seine Schubkarre hat einen Platten“
+Oder – Anfrage an Radio Eriwan: „Stimmt es, dass Grigorie Grigoriewitsch ein Auto geschenkt bekommen hat?“ Antwort: „Im Prinzip ja! Aber: Es war kein Auto sondern ein Fahrrad und er hat es nicht geschenkt bekommmen, sondern es wurde ihm geklaut!“.
+Verantwortlichen werden prima aus der Verantwortung raus. Die Weltretter werden dann schreien warum habt ihr die stromsparende Verbraucher nicht gekauft? jetzt habt ihr das Nachsehen.
+Frage an Radio Eriwan: kann man die sg. Weltretter durchschauen? Antwort: In Prinzip ja, aber man muss eigener Gehirn einschalten und bei der nächste Wahl konsequent die rote Karte zeigen.
+MfG
+Hartnäckig hält sich in breiten Kreisen der Bevölkerung und auch hier im Forum, das Vorurteil, „weiß“ werde mit einfachem „s“ geschrieben, ebenso wie bei „bisschen“, das beständig mit nur einem s geschrieben wird. Natürlich kommt es, um bei Radio Eriwan zu bleiben, im Prinzip darauf nicht an, aber es führt dazu, dass Grüne und sonstige Besserwisser meinen, von oben auf uns herabschauen zu dürfen.
+Vielen Dank im Übrigen für die geleistete Arbeit, die hoffentlich irgendwann doch zum Erfolg führt.
+Die „Öko“wahnsinnigen sollen ein vollständig eigenes „Öko“stromnetz bekommen, in welchem nur „Öko“strom fließt. Der Rest gibt sich von alleine, spätestens im ersten kalten Winter.
+gern lese ich Ihre Beiträge und bewundere Stil und den Spürsinn, den Sie entwickeln. Danke für das Lesevergnügen!
+„EEG-Innovationspotential” = man nehme bekannte Prinzipien, garniere sie digital und schon kann man vergnüglich und lange für eine ökologische Zukunft forschen.
+In den 70-iger Jahren geriet ich zufällig in eine nur aus wenigen Ing. bestehende Besprechung, die gerade die „automatische netzfrequenzabhängige Abschaltung von großen (MW-Bereich) Antrieben in einem Bergbaubetrieb zum Inhalt hatte”. In der DDR gab es damals noch keine WKA und das KKW Magdeburg / später Stendal war gerade erst angedacht, aber Strom war knapp.
+MfG
+als Schriftsteller sage ich Ihnen herzlichen Dank für Ihren Kommentar, auch wenn er am Thema des Beitrags vorbeigeht (ich bitte Admin um Nachsicht). Mir ist der von Ihnen kritisierte Tatbestand schon lange ein Dorn im Auge.
+Chris Frey

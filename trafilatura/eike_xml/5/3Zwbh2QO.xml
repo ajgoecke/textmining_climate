@@ -1,0 +1,342 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Klimaerwärmung: Naturgesetze statt Panikmache" author="Lüdecke" date="2015-11-22" source="https://eike-klima-energie.eu/2015/11/22/klimaerwaermung-naturgesetze-statt-panikmache/" hostname="eike-klima-energie.eu" excerpt="Dr. Wolfgang Burkel (EIKE) Wir Ingenieure halten uns bei der Klima Diskussion heraus. Warum eigentlich? Gerade wir Ingenieure verfügen über die theoretischen und praktischen Kenntnisse, um die Mechanismen des Klimas sachgerecht und zuverlässig beurteilen zu können. Die vom Menschen gemachte globale Erwärmung lässt sich eindeutig mit Hilfe der Thermodynamik eingrenzen. Unkompliziert lässt sich mit der Energiebilanz an der Erdoberfläche zeigen, dass die „anthropogene“ Erwärmung völlig harmlos ist. Der Klimawandel ist keine Katastrophe. Es ist unsere Pflicht, diese Erkenntnis zu kommunizieren." categories="Klima" tags="" fingerprint="Iw/BZMmB/pdyrBW/4RY6oFxt1pU=">
+  <main>
+    <p>Das Gleichgewicht der Energieflüsse.</p>
+    <head rend="h2">Vereinfachung</head>
+    <p>Die hauptamtliche Klimawissenschaft stellt ihre Disziplin gerne als äußerst komplex dar. Sie verwenden komplizierte Klimamodelle und Großrechner. Davon muss man sich nicht beeindrucken lassen. Wir wissen schließlich, dass für die Temperatur eines Körpers immer die gleichen Gesetzmäßigkeiten gelten. Die Temperatur eines jeden Körpers stellt sich so ein, dass die zugeführten Energieströme im Gleichgewicht mit den abgeführten stehen [3]. Diese triviale Tatsache ist auch als „erster Hauptsatz der Thermodynamik“ bekannt. Er gilt für Heizkörper, Herdplatte, den menschlichen Körper, die Bremsscheibe, die Sonne und Planeten, also auch für unsere Erde.</p>
+    <p>Für unsere Betrachtung treffen wir nun eine radikale Vereinfachung. Wir kontrahieren die Erdoberfläche zu einem einzigen fiktiven Quadratmeter. Darauf fassen wir anteilig Ozeane, Kontinente, Berge, Täler und Wüsten zusammen. Auf diesem fiktiven Quadratmeter lassen wir das gesamte Klimageschehen eines Kalenderjahres statt finden. Auf diesem Quadratmeter herrscht per Definition die „globale Temperatur“. Seit etwa 20 Jahren liegt sie weitgehend unverändert bei 14,6 Grad Celsius. Im Verlauf der Erdgeschichte blieb sie bis auf wenige Grad Schwankungen vergleichsweise konstant. Nun betrachten wir die Energieflüsse an der Erdoberfläche, die das Klima bestimmen:</p>
+    <head rend="h2">Die Energieflüsse</head>
+    <p>Vier Energieflüsse bestimmen die globale Temperatur [4]:</p>
+    <p>Absorbierte Sonnenstrahlung</p>
+    <p>+160 Watt/m²</p>
+    <p>Infrarote Abstrahlung (netto)</p>
+    <p>-63 Watt/m²</p>
+    <p>Konvektion</p>
+    <p>-17 Watt/m²</p>
+    <p>Wasserverdunstung</p>
+    <p>-80 Watt/m²</p>
+    <head rend="h2">Sonneneinstrahlung</head>
+    <p>In die Energiebilanz an der Erdoberfläche geht weniger als die Hälfte der gesamten Strahlungsleistung der Sonne ein. Das liegt vor allem an den Wolken, die einen großen Teil des Himmels rund um den Globus ständig abdecken. Die Wirkung ist sehr stark, was wir sofort spüren, wenn eine Wolke vor die Sonne zieht. Wir ahnen, dass die Wolkenbedeckung für die Stabilität des Klimas eine wichtige Rolle spielt. Dazu später mehr.</p>
+    <p><lb/>Bild 1: Sonnenintensität Wiesloch, 9. September 2015, 13:23<lb/>Bild 2: Und 3 Minuten später: Wolke vor der Sonne, Einbruch 88,5%</p>
+    <head rend="h2">Verdunstung</head>
+    <p>Wir Ingenieure wissen, dass ein großer Energieaufwand erforderlich ist, um Wasser zu verdunsten. In den Kühltürmen der Kraftwerke werden über 1000 Megawatt Kühlleistung aufgebracht. Die Verdunstungskühlung ist für das Klima der wichtigste Mechanismus. Am Meeresklima kann man das deutlich nachvollziehen. Beim Wüstenklima wiederum sieht man die Folgen, wenn Wasser fehlt. Die Hälfte der an der Erdoberfläche absorbierten Sonneneinstrahlung wird durch Verdunstungskühlung abgeführt. Wasserdampf transportiert die Energie als latente Wärme in die höheren Regionen der Atmosphäre. Dort kondensiert er unter Wolkenbildung. Die frei werdende Kondensationswärme wird per Strahlung ans Weltall abgegeben. Die Verdunstung steigt mit der Temperatur. Das kann man an den gestiegenen Niederschlägen in der Welt [6] oder in Deutschland [7] ablesen. Bei einer Erwärmung um ein Grad verdunstet Wasser gemäß VDI Dampfdruckkurve [8] um 6,4 Prozent schneller. Die Aufnahmefähigkeit der Luft für Wasserdampf ist kein limitierender Faktor. Sie wächst ebenfalls mit der Temperatur. Bezogen auf den aktuellen Energiefluss von 80 Watt/m² entspricht die Verdunstung einer zusätzlichen Kühlleistung von 5,12 Watt/m².<lb/>Bild 3: Dampfdruckkurve</p>
+    <head rend="h2">Wolken</head>
+    <p>Zusätzliche Verdunstung an der Erdoberfläche führt zwangsläufig zu einer proportional verstärkten Wolkenbildung. Unterstellen wir eine gleichmäßige Ausdehnung der Wolken in alle drei Dimensionen, dann dürfte sich die Abschirmungswirkung um ca. 5 Prozent verstärken. Bei einer Abschirmungs Wirkung der Wolken von ca. 130 Watt/m² verringert sich die Einstrahlung um ca. 6,5 Watt/m²grad. Auch in umgekehrter Richtung schirmen die Wolken ab. Die kühlende Infrarotstrahlung von der Erdoberfläche wird reduziert. Bezogen auf einen Energiestrom von netto 63 Watt/m² macht dies bei linearer Interpolation etwa 3 Watt/m²grad Strahlungsantrieb aus. Der Saldo aus beiden Effekten ist eine Kühlwirkung von mindestens 3,0 Watt/m²grad.</p>
+    <head rend="h2">Infrarote Abstrahlung</head>
+    <p>Die kühlende Wirkung der infraroten Abstrahlung wird besonders in sternenklaren Nächten deutlich. Die Nettoabstrahlung von der Erdoberfläche beträgt 63 Watt/m². Sie steigt gemäß Strahlungsgleichung mit der 4ten Potenz der absoluten Temperatur. Bei einem Grad Erwärmung macht das 1,4 Prozent bzw. 0,9 Watt/m²grad aus.</p>
+    <head rend="h2">Konvektion</head>
+    <p>An der Erdoberfläche erwärmen sich Luftpakete und steigen aufgrund von Dichteunterschieden in die Höhe. Die fühlbare Wärme wird in den höheren Schichten der Atmosphäre in Form von Strahlungsenergie ans Weltall abgegeben. Eine wärmere Erdoberfläche führt zu einem verstärkten konvektiven Energietransport. Ein Grad Erwärmung entspricht drei Prozent an zusätzlicher fühlbarer Wärme. Dabei ist die höhere Transportgeschwindigkeit durch den gestiegenen Auftrieb noch gar nicht berücksichtigt. Die aktuelle Kühlwirkung durch Konvektion an der Erdoberfläche beträgt 17 Watt/m². Der kühlende Energiefluss durch Konvektion steigt deshalb um mindestens drei Prozent = 0,5 Watt/m²grad.</p>
+    <head rend="h2">Positive Rückkoppelung</head>
+    <p>Die politische Klimawissenschaft krallt sie sich an einer angeblichen Selbstverstärkung durch Wasserdampf Rückkoppelung fest. Im Spektral Bereich des „atmosphärischen Fensters“ kann Wasserdampf noch zusätzlich infrarote Strahlung absorbieren. Aktuell werden ca. 8 Watt/m² von Wasserdampf absorbiert. Mit 6,4 Prozent mehr Wasserdampf errechnet sich daraus eine Rückkoppelung von 8 * 0,064 = 0,5 Watt/m²grad. Dieser Effekt ist allerdings im Vergleich mit den dämpfenden Mechanismen sehr gering. Dies wird allerdings aus guten Gründen nicht kommuniziert. Schließlich rettet die angeblich positive Rückkoppelung die Prognose einer Klimakatastrophe. Die Argumentation ist geschickt. Jeder kennt die hässlichen Pfeiftöne wenn sich zwischen Mikrofon und Lautsprecher eine positive Rückkoppelung aufschaukelt. Mit dieser Analogie konnte man der Gesellschaft eine sich selbst verstärkende Erwärmung suggerieren.</p>
+    <p>Darin stecken zwei Gedankenfehler: Einmal wäre diese positive Rückkoppelung nicht ausschließlich auf Kohlendioxid zurückzuführen. Zum anderen müsste der Effekt zu einer „Runaway-Erwärmung“ führen. Viele Millionen Jahre Klimageschichte beweisen das Gegenteil. Die globale Temperatur hat sich immer nur innerhalb enger unsichtbarer Leitplanken bewegt. Die positive Rückkoppelung ist im Vergleich zu den Gegenkoppelungen viel zu schwach. Wir fassen die Änderungen der Energieflüsse zusammen:</p>
+    <p>(Watt/m²grad)</p>
+    <p>infrarote Abstrahlung</p>
+    <p>Verstärkung durch Strahlungsgesetz</p>
+    <p>Abschwächung durch positive Rückkoppelung</p>
+    <p>-0,9</p>
+    <p>+0,5</p>
+    <p>Verstärkte Konvektion</p>
+    <p>-0,5</p>
+    <p>Verstärkte Wasserverdunstung</p>
+    <p>-5,1</p>
+    <p>Verstärkte Abschirmung der Sonne</p>
+    <p>-3,0</p>
+    <p>Summe aller Rückkoppelungseffekte</p>
+    <p>-9,0</p>
+    <p>Ein Grad Erwärmung der Erdoberfläche hätte insgesamt eine Gegenkoppelung in Höhe von 9 Watt/m² zur Folge.</p>
+    <head rend="h2">Klimasensitivität</head>
+    <p>Die Klimasensitivität ist definiert als globale Erwärmung bei Verdoppelung der Kohlendioxid Konzentration. Das sind, bezogen auf den aktuellen Zustand, 800 ppm. Diesen Zustand werden wir möglicherweise nie erreichen, weil die fossilen Energieträger vorher erschöpft sind. Davon unabhängig ist die Klimasensitivität der gängige Maßstab für Prognosen der Klimaerwärmung. Im Sachstandsbericht des IPCC von 2007 liegen die Werte zwischen zwei und sechs Grad Celsius. Diese großen Differenzen beweisen, dass die politische Klimawissenschaft nicht über einen stringenten Algorithmus verfügt. Übereinstimmung herrscht über den Strahlungsantrieb bei Verdoppelung der Kohlendioxid Konzentration. Er beträgt 4 Watt/m². Man ist sich einig, dass die Treibhauswirkung von Kohlendioxid weitgehend gesättigt ist. Der anthropogene Treibhauseffekt ist gegenüber dem natürlichen fast zu vernachlässigen. Setzen wir die Gegenkoppelung von 9 Watt/m²grad mit dem Treibhauseffekt von 4 Watt/m² in Beziehung, ergibt sich eine „Klimasensitivität“ von 0,44 Grad Celsius. Wärmer wird es nicht!</p>
+    <p>Weitere, völlig unterschiedliche Berechnungsmethoden wurden von Hermann Harde [8], Richard Lindzen [9], oder P. Frank [10] vorgestellt. Alle haben eine Klimasensitivität in der Größenordnung von 0,5 Grad Celsius ermittelt. Wir brauchen uns also wirklich keine Sorgen ums Klima machen. Sorgen müssen wir uns allerdings machen, dass diese Fakten von Politik und Medien ignoriert werden. Stattdessen gräbt sich die angebliche Klimakatastrophe immer tiefer in unsere Gesellschaft ein. Für das Land der Dichter, Denker und Ingenieure ist das ein Armutszeugnis.</p>
+    <head rend="h2">Quellen</head>
+    <p>[1] EIKE: Der Treibhauseffekt; Horst-Joachim Lüdecke und Rainer Link, Jan. 2010 (hier)</p>
+    <p>[2] Assessment Report of the Intergovernmental Panel on Climate Change, p. 13, table SPM.3 A2 Scenario IPCC-Report 2007, AR4, WG1, Seite 96 [12]</p>
+    <p>[3] EIKE: Treibhauseffekt zu schwach für die Klimakatastrophe, Dr. Wolfgang Burkel, Sept. 2012, (hier)</p>
+    <p>[4] J.T. Kiehl and K.E. Trenberth: Earth’s annual global mean energy budget, Bull. Amer. Meteor. Soc. 78, 197-208, 1997</p>
+    <p>[5] C.–D. Schönwiese and Silke Trömel: Langzeitänderungen des Niederschlags in Deutschland aus: WARNSIGNAL KLIMA: Genug Wasser für alle? 3.Auflage (2011), – Hrsg. Lozán, J. L. H. Graßl, P. Hupfer, L. Karbe and C.-D. Schönwiese: Data source DWD 2011</p>
+    <p>[6] Goddard Institute for Space Studies: Observed Land Surface Precipitation Data: 1901-2000 (CRU TS 2.0)</p>
+    <p>[7] Vapour pressure curve built up by VDI (Association of German Engineers)</p>
+    <p>[8] Hermann Harde: Was trägt Kohlendioxid wirklich zur globalen Erwärmung bei, ISBN 9 783842371576, Norderstedt: BoD, 2011</p>
+    <p>[9] R.S. Lindzen, and Y.-S. Choi: On the determination of climate feedbacks from ERBE data, Geophysical Research Letters, Vol. 36, L16705 (2009)</p>
+    <p>[10] Future Perfect 22.05.2010 by P. Frank, (hier)</p>
+  </main>
+  <comments>
+    <p>Ihr Gedanke wäre mal wirklich ein interessanter Versuch. Wer hat die technische Ausstattung, gezielt in vorgegebenen Wellenbereichen zu messen?</p>
+    <p>Ihren Einwand verstehe ich nicht. Bei einer Verbrennung von Kohlenwasserstoffen entsteht immer auch Wasser, am meisten bei der Verbrennung von Methan. Was haben Sie gegen das Wasser? Ist doch auch ein IR aktives Gas. Aus den Aussagen von Herrn Estermeier (#54) schließe ich dass man die Ballonhülle sehen würde.</p>
+    <p>„Heißluftballon“</p>
+    <p>Was entsteht bei der Verbrennung von Kohlenwasserstoffmolekülen in Gasform auch noch, Herr Berberich? al so einfach gefragt?</p>
+    <p>„Das ist kein Problem, das ist notwendig, weil Energieflüsse sich prinzipiell unterscheiden.“</p>
+    <p>Bei meiner Diskussion geht es um den Energietransport von der Erdoberfläche durch die Atmosphäre ins All. In der unteren Atmosphäre beträgt der Druck etwa 1 bar, der mittlere Abstand der Gasmoleküle etwa 3,5 nm, die Geschwindigkeit der Moleküle 450 m/s. Daraus folgt eine Stoßfrequenz der Moleküle von 130 GHz. 15 µm IR-Licht hat eine Frequenz von 20 THz, somit finden zwischen 2 Stößen nur etwa 150 Schwingungen statt. Daraus habe ich geschlossen, dass ein angeregtes H2O- oder CO2-Molekül die Energie hauptsächlich strahlungslos durch Stoß an die nicht strahlenden N2- oder O2-Moleküle abgibt. In dieser Näherung gibt es keinen getrennten Strahlungstransport mehr sondern einen gekoppelten Transport von Molekülen und Photonen.</p>
+    <p>„Schön wäre es wenn man den Wellenlängenbereich der Kamera wählen könnte.“</p>
+    <p>Mit der Kamera gehts ja leider nicht, aber die entsprechenden Meßgeräte gibt es. Man kann die IR-Emission im 15micro Bereich messen. Allerdings erst in einer Höhe von ca. 11.000 Meter bei Umgebungstemperaturen von etwa MINUS 50°C</p>
+    <p>am Freitag, 27.11.2015, 12:46</p>
+    <p>Die IPCC-Kohlenstoffdioxid-Klimageschichte: Wärmeenergie werde vom Erdboden mittels Wärmestrahlung nach oben gesandt, vom Kohlenstoffdioxid aufgefangen und vom Kohlenstoffdioxid wieder Richtung Erdboden zurückgestrahlt. Dadurch erst werde die Erde bewohnbar. Zusätzliches Kohlenstoffdioxid, das bei der Verbrennung von fossilen Brennstoffen entsteht, erhöhe die Temperatur in gefährlichem Ausmaß. – Einen Beweis für die Rückstrahlung von Wärmeenergie durch das Kohlenstoffdioxid in Richtung Erdboden gibt es nicht. – Mit dem bereits mehrfach bei EIKE geschilderten Streichholztest wird der (z.B. in einer Schule) wiederholbare Beweis erbracht, dass selbst vergleichsweise hochkonzentriertes Kohlenstoffdioxid unten in der Atmosphäre nicht in der Lage ist, Wärmeenergie durch Wärmestrahlung Richtung Erdboden zu senden. Mit der Hand unter der Flamme als Messgerät lässt sich das leicht überprüfen. (Die Konvektion transportiert die Wärmeenergie nach oben.) – Nicht umsonst spricht Nils-Axel Mörner im Zusammenhang mit der IPCC-Kohlenstoffdioxid-Klima-Geschichte von „THE GREATEST LIE EVER TOLD“. –</p>
+    <p>Ich habe diesen Gedanken schon mehrfach, auch sehr detailliert, bei EIKE gebracht. Niemals gab es eine Kritik an dem Streichholztest. Was machen denn all die „angeblichen“ „sogenannten“ „Klimaskeptiker“, bei denen das Kohlenstoffdioxid doch immernoch eine „Klima-Rest-Sensitivität“ mit sich herumschleppt? Was ist falsch am Streichholztest?</p>
+    <p>Ihr Streichholztest zeigt anschaulich den Irrsinn der postulierten „Gegenstrahlung“ die eine „Erderwärmung“ verursachen soll. Auch das Auftreten von Strahlungsfrost oder die Tatsache dass keine Inversionswetterlage durch „Gegenstrahlung“ sondern nur durch advektiven Luftmassenaustausch aufgelöst werden kann, falsifizieren die „Gegenstrahlungstheorie“. Das wird von der AGW Fraktion schlicht ignoriert oder mit lächerlichen Argumenten gekontert. Lesen Sie nur einmal den Beitrag von unserem Nico Baecker (immer gut für einen Joke …) , der löst das Problem in dem er Ihnen empfiehlt ein größeres Feuer zu machen, dann fühlen Sie auch die Strahlungswärme…..</p>
+    <p>Warmisten könnten sagen, dass aufgrund der geringen Menge des CO2 in Ihrem Experiment zu wenig Wärme enstehet.</p>
+    <p>Ich empfehle lieber mit dem Energieerhaltungssatz zu argumentieren.</p>
+    <p>„Der heutige Klimawandel ist also kein rein selbst-regulierter Prozeß, sondern dominant extern getrieben.“</p>
+    <p>Das ist wohl so, Herr Baecker.</p>
+    <p>Die Sonne macht halt, was sie will!</p>
+    <p>MfG</p>
+    <p>„Was ist falsch am Streichholztest?“</p>
+    <p>Nichts ist daran falsch, Herr Rostock.</p>
+    <p>Gar nichts!</p>
+    <p>Genauso wie an Jablonski nichts falsch ist.</p>
+    <p>Oder an der Thermalisierung.</p>
+    <p>Aber was der AGW-Truppe nicht in den Kram paßt, wird totgeschwiegen.</p>
+    <p>So z.B. der Streichholztest.</p>
+    <p>Und fragen Sie sich mal, warum es keine Messungen der Leistung der auf den Boden auftreffenden Gegenstrahlung in Abhängigkeit der Frequenz gibt,</p>
+    <p>sondern bloß irgendwelche Summenwerte, die mit dem hierfür ungeeigneten Pyrgeometer (Schwarzkörperstrahlung vrs. diskreter Bandenstrahlung) zurechtgelogen werden.</p>
+    <p>Die Geschichte des AGW ist eine Geschichte bestehend aus Lügen und Betrügereien.</p>
+    <p>Aber AGW hat auch was „Gutes“:</p>
+    <p>Es hilft Menschen mit aufrechtem Gang von den Mitläufern, Ja-Sagern und Adabeis zu unterscheiden.</p>
+    <p>MfG</p>
+    <p>„Einen Beweis für die Rückstrahlung von Wärmeenergie durch das Kohlenstoffdioxid in Richtung Erdboden gibt es nicht.“</p>
+    <p>Da haben Sie hier wohl nicht aufgepasst. Die Wärmestrahlung durch CO2 und anderen Treibhausgasen wird gemessen.</p>
+    <p>„ – Mit dem bereits mehrfach bei EIKE geschilderten Streichholztest wird der (z.B. in einer Schule) wiederholbare Beweis erbracht, dass selbst vergleichsweise hochkonzentriertes Kohlenstoffdioxid unten in der Atmosphäre nicht in der Lage ist, Wärmeenergie durch Wärmestrahlung Richtung Erdboden zu senden. Mit der Hand unter der Flamme als Messgerät lässt sich das leicht überprüfen.“</p>
+    <p>Wenn Sie das Experiment effektvoller an einem größeren Feuer machen würden, würden Sie auch die Erwärmung durch die Wärmestrahlung, die vom Feuer seitlich ausgeht, spüren (zur Seite hin geht die Konvektion nicht so stark). Das würde auch bei Vakuum dazwischen funktionieren. Wenn Luft mit CO2 zwischen Flamme und Ihnen ist, so absorbiert sie analog zum Treibhauseffekt die Wärmestrahlung vom Feuer und emittiert sie via CO2 wieder. Wenn die Luft kälter als die Flammtemperatur ist, so emittiert sie weniger als sie absorbiert und erwärmt sich mit dieser Energiedifferenz. Wenn thermisches Gleichgewicht mit der Flamme erreicht ist, so gleichen sich die Menge der absorbierten Energie und emittierte Energie aus und Sie bekommen soviel Strahlung von der Flamme wie im Vakuum. Mehr geht natürlich thermodynamisch nicht, die Gegenstrahlung der Treibhausgase ist ja auch nicht höher als die Abstrahlung des Erdbodens. Die Konvektion führt natürlich noch zusätzlich Energie von der Flamme nach oben ab. Praktisch wird das thermodynamische Gleichgewicht aber nie erreicht, weil ständig neue Luft vor die Flamme zirkuliert wird.</p>
+    <p>„Das Problem der Modelle ist offenbar, dass die Energieflüsse durch Strahlung und durch Materie getrennt voneinander betrachtet werden.“</p>
+    <p>Das ist kein Problem, das ist notwendig, weil Energieflüsse sich prinzipiell unterscheiden. Energiefluss durch Strahlung findet statt, wenn eine Körper genügend Energie hat, um Photonen zu emittieren, und ein Körper absorbiert Strahlung, wenn die Elektronenkonfiguration zur Energie der Strahlung passt. Völlig unabhängig davon, wie die Temperaturdifferenz der beiden Körper ist. Andernfalls müsste ja jedes Molekül im Weltall erst mal beim ‚Empfänger‘ der Strahlung nachfragen, ob dieser kälter ist, wenn es Licht aussendet. Das das Licht teilweise Mrd. Jahren unterwegs ist, wird das schwierig. Das passiert beim Energiefluss durch Materie übrigens auch, die Moleküle des kälteren Körpers geben auch Energie an den wärmeren ab, Kontakt vorausgesetzt. Die bewegen sich ja auch. Nur ist in der Summe der Energieübertrag des wärmeren Körpers viel höher. Des steckt im 2.HS. Dieser verbietet keineswegs, den Energieübergang von Kalt zu Warm, er besagt nur, dass die Wahrscheinlichkeit extrem gering ist, so dass so ein Vorgang praktisch niemals statt findet. es ist durchaus möglich, dass eine Tasse Kaffee spontan Energie aus der Umgebung aufnimmt, und einen Zentimeter hoch springt. Das passiert nur, geschätzt, alle 10^20Millionen Jahre. Man kann das sogar ausrechnen (Ist bei mir aber schon zu lange her :-).</p>
+    <p>So blödsinnig das Beispiel auch erscheinen mag, bei Lasern, kann man so etwas realisieren, weil es sich hier um geordnete Emission von Strahlung handelt. Es gibt ja CO² – Laser. Die emittieren intensives Licht mit 10µm oder 15µm, wie das CO² nun mal tut. Damit kann man Kunststoffe oder ähnliches Schmelzen. Ein schwarzer Körper, der im Maximum bei diesen Wellenlängen strahlt dürfte eine Temperatur von deutlich unter 0°C haben. Kann man auch ausrechnen. Aber zum Schmelzen von Kunststoffen braucht man typischerweise Temperaturen von um die 100°C. Bei Wärmefluss mittels Materie ist es völlig ausgeschlossen, dass ein Körper mit -50°C einen Kunststoff auf über 100°C erhitzt. Bei Laserlicht wird das aber praktiziert.</p>
+    <p>Das soll jetzt aber nicht heißen, dass die kalte Atmosphäre jetzt ständig Strahlung an die Oberfläche abgibt, sich dabei abkühlt und die Erdoberfläche erwärmt. In Summe haben Sie natürlich Recht, auch bei Strahlung erfolgt der Energieübergang von höherer zu niedrigerer Energie. Und ein Perpetuum Mobile wird es auch beim Klima nicht geben. Ich wollte nur auf einen prinzipiellen Unterschied zwischen Strahlung und Materie hinweisen, der auch nicht auf meinem Mist gewachsen ist, sondern den Max Planck gefunden hat, weil sich Strahlungsprozesse eben nicht vollständig mit klassischer Thermodynamik beschreiben lassen. Dafür hat er ja die Quantenmechanik in die Welt gebracht und einen Nobelpreis bekommen.</p>
+    <p>Ich habe diesen Gedanken schon mehrfach, auch sehr detailliert, bei EIKE gebracht. Niemals gab es eine Kritik an dem Streichholztest. Was machen denn all die „angeblichen“ „sogenannten“ „Klimaskeptiker“, bei denen das Kohlenstoffdioxid doch immernoch eine „Klima-Rest-Sensitivität“ mit sich herumschleppt? Was ist falsch am Streichholztest?</p>
+    <p>Das Klima ist natürlich ein Regelkreis, denn es interagieren ja viele Prozesse. Ob eine feedback-Schweife zur Instabilität führt oder zu einem neuen stationären Zustand hängt natürlich vom feedback-Prozeß selber ab. Der runaway-Treibhauseffekt kann bei der Erde in ein paar Jahrmilliarden passieren, wenn durch erhöhte Sonneneinstrahlung (durch die Entwicklung der Sonne) die feedback-Schleife Verdunstung von Wasserdampf-&gt; verstärkter Treibhauseffekt-&gt; Temperaturerhöhung-&gt; weitere Verdunstung von Wasserdampf-&gt;… kippt. Aber auch hier gibt es auch eine stabilen Endzustand. Wenn das gesamte Wasser verdampft ist, stabilisiert sich das Klima natürlich auch wieder (siehe Venus). Dieser Prozeß spielt grundsätzlich auch im jetzigen Klimawandel eine bedeutende Rolle, jedoch in einem Parameterregime, welches noch stabiles feedback bedeutet. Bezüglich CO2 gab es wohl noch nie in der Erdgeschichte einen runaway. Der heutige Klimawandel ist nicht dem Regelungsprozeß höhere Temperatur-&gt; CO2-Ausgasung-&gt; verstärkter Treibhauseffekt-&gt; Temperaturerhöhung… zuzuschreiben, denn die Erhöhung des CO2-Gehalts durch Ausgasung ist klein im Vergleich zum (externen) anthropogene Eintrag. Der heutige Klimawandel ist also kein rein selbst-regulierter Prozeß, sondern dominant extern getrieben.</p>
+    <p>Die Mehrfachabsorption führt zu Problemen. Werden in der Atmosphäre Photonen durch IR-aktive Moleküle absorbiert und die Energie durch Stöße mit anderen Molekülen thermalisiert, erhöht sich lokal die Temperatur. In den Energiebilanzen gibt es eine Asymmetrie der IR-Abstrahlung der Atmosphäre. Es wird mehr zur Erde zurückgestrahlt als in den Weltraum. Da ich eine lokale Temperatur annehme bedeutet dies aber dass Energie von der kälteren Atmosphäre zur wärmeren Oberfläche fließt. Dies ist ein Widerspruch zum 2. Hauptsatz der Thermodynamik. Das Problem der Modelle ist offenbar, dass die Energieflüsse durch Strahlung und durch Materie getrennt voneinander betrachtet werden.</p>
+    <p>„Die Klimasensitivität ist definiert als globale Erwärmung bei Verdoppelung der Kohlendioxid Konzentration.“ Wenn die Erwärmung nur von der CO² Konzentration abhängt, dann müsste die Erdoberfläche unbegrenzt die absorbierbare Strahlung aussenden. Kann ich mir nicht vorstellen, die Intensität der Strahlung hängt von der Temperatur der Oberfläche ab, und nicht vom CO² – Gehalt der Luft. Wir haben so was noch in der Schule gelernt: eine Reaktion zwischen zwei Reaktionspartnern hängt von der Konzentration beider ab. Eine brennende Kerze verlischt, wenn kein Sauerstoff mehr da ist. Da hilft es auch nicht, eine doppelt so große Kerze zu nehmen.</p>
+    <p>Oder, wie es im Artikel heißt: “ Wärmer wird es nicht!“</p>
+    <p>„Die Abstrahlung vom Boden und den Wolken aus gelangt im Wesentlichen direkt ins Weltall, da sie in Wellenlängenbereichen erfolgt, für die die Atmosphäre transparent ist (atmo-sphärisches Fenster).“</p>
+    <p>Das ist falsch. Der das atmosphärische Fenster umfassende Wellenlängenbereich ist klein im Vergleich zum Abstrahlungsspektrum und dies gilt auch für die Strahlungsmengen in diesen Spektralbereichen. Dies kann man auch der „bekannten Grafik der IPCC Autoren Kiel und Trenberth“ entnehmen.</p>
+    <p>„Ein Körper kühlt sich immer von seiner Oberfläche her ab und die Oberfläche des Planeten ist nicht die Erdoberfläche, sondern der obere Rand der Atmosphäre.“</p>
+    <p>Das ist so auch nicht richtig. Im atmosphärischen Fenster ist die Oberfläche ja der Boden. Im Spektralbereich der atmosphärischen Absorption, gibt es keine eigentlich Oberfläche, dafür kann man aber eine effektive optische Tiefe angeben, die um so tiefer am Boden ist je geringer die atmosphärische Absorption ist.</p>
+    <p>„Die „Strahlungsgleichgewichtstemperatur“ beträgt ja auch nicht +15°C, sondern –18°C und die herrschen in einigen Km oberhalb des Erdbodens.“</p>
+    <p>Diese ist allerdings nur ein Effektivwert. Aufgrund der spektral variierenden Absorptionslänge gibt es zu jeder Wellenlänge eine Bandentemperatur, im atmosphärischen Fenster ist diese höher, weil die „effektive Abstrahlfläche“ am Boden ist. Die „effektive Abstrahlfläche“ im Bereich der Absorption liegt um so höher und damit bei tieferen Bandentemperaturen je geringer die optische Tiefe (höher die Absorption) ist. Siehe das Spektrum der Abstrahlung.</p>
+    <p>„Damit sollte klar sein, dass für unser „Globalklima“ abgesehen von Albedoänderungen durch Wolkenbildung, das steht in der Diskussion allerdings nicht zur Debatte, nur die von der Sonne her absorbierte Energie pro Zeiteinheit verantwortlich ist und das eine von der „Treibhausthese“ postulierte Erwärmung „aus sich selbst heraus“ nicht möglich ist. „</p>
+    <p>Das folgt nicht aus Ihren Schlußfolgerungen, denn die Höhe der Effektivtemperatur (und den Bandentemperaturen) ändert sich ja mit der Treibhausgasmenge. Mit den Temperaturen von Luft und Boden hat die Effektivtemperatur zwar nur mittelbaren Zusammenhang, aber die Temperaturverteilung ändert sich aus Ihnen von mir bereits erklärten Gründen ebenfalls.</p>
+    <p>Ihr Fehler ist, daß Sie glauben, die Konstanz der „Strahlungstemperatur“ würde bedeuten, daß dann auch die Temperaturen im System überall konstant wären. Das ist aber ein physikalisch nicht motivierbarer Irrglaube.</p>
+    <p>“Die ganze Natur ist voller Regelkreise. Das Klimageschehen sicher auch. Ich möchte dazu nur die Elemente betrachten, denen in der Debatte die größte Aufmerksamkeit gilt, Wärme einerseits und klimawirksame Gase anderseits….“</p>
+    <p>Da kann ich Ihnen nur hundertprozentig zustimmen. Der hervorragende Artikel von Herrn Dr. Burkel hat meines Erachtens nur den einen Mangel, dass er sich ausschließlich auf die Erdoberfläche bezieht und damit einen wenn auch wesentlichen, aber eben doch nur Teilbereich des Systems beschreibt.</p>
+    <p>Dadurch wird uns die Gesamtschau auf die Geschehnisse vorenthalten.</p>
+    <p>Es fällt auf, dass beim Klimathema immer über alles Mögliche diskutiert wird, aber niemals über die Fakten, die am beginn der Kausalketten stehen.</p>
+    <p>Unser „warmer“ Planet kreist in einem –270°C kalten Weltraum. Da er die natürliche Tendenz hat, seine Umgebungstemperatur anzunehmen, kühlt er sich zum Weltraum hin permanent ab. Diese permanente Abkühlung wird dadurch begrenzt, dass sich die Erde im Strahlungfeld der Sonne bewegt und aus diesem laufend Energie absorbiert.</p>
+    <p>Der dadurch im System verbleibende Restwärmeinhalt bzw. die ihm entsprechende „Globaltemperatur“ ist dermaßen, dass die nach der Gesetzmäßigkeit von Stefan&amp;Boltzmann resultierende Intensität der Abstrahlung ein Ausmaß hat, dass der Energieverlust über die Zeiteinheit gleich groß ist, wie der aus dem Strahlungsfeld der Sonne absorbierte Energiezufluss.</p>
+    <p>Die natürliche Abkühlung des Planeten erfolgt, wie einer bekannten Grafik der IPCC Autoren Kiel und Trenberth zu entnehmen ist, zu 70% aus der Atmosphäre heraus, 13% kommt aus den Wolken und 17% vom Boden. Da in der Atmosphäre ausschließlich „Treibhausgase“ in der Lage sind Strahlung ins Weltall abzugeben, folgt daraus die Tatsache, dass „Treibhausgase“ für den größten Teil der permanenten natürlichen Abkühlung des Planeten sorgen.</p>
+    <p>Die Abstrahlung vom Boden und den Wolken aus gelangt im Wesentlichen direkt ins Weltall, da sie in Wellenlängenbereichen erfolgt, für die die Atmosphäre transparent ist (atmo-sphärisches Fenster).</p>
+    <p>Somit sind die von Herrn Dr. Burkel geschilderten Vorgänge als Energieaustauschvorgänge innerhalb der Atmosphäre zu betrachten, die mit der natürliche Abkühlung des Planeten direkt nichts zu tun haben.</p>
+    <p>Ein Körper kühlt sich immer von seiner Oberfläche her ab und die Oberfläche des Planeten ist nicht die Erdoberfläche, sondern der obere Rand der Atmosphäre.</p>
+    <p>Die „Strahlungsgleichgewichtstemperatur“ beträgt ja auch nicht +15°C, sondern –18°C und die herrschen in einigen Km oberhalb des Erdbodens.</p>
+    <p>Damit sollte klar sein, dass für unser „Globalklima“ abgesehen von Albedoänderungen durch Wolkenbildung, das steht in der Diskussion allerdings nicht zur Debatte, nur die von der Sonne her absorbierte Energie pro Zeiteinheit verantwortlich ist und das eine von der „Treibhausthese“ postulierte Erwärmung „aus sich selbst heraus“ nicht möglich ist.</p>
+    <p>Mit freundlichen Grüßen</p>
+    <p>Dipl. Ing. Axel Stolz</p>
+    <p>„Für unser Problem wäre nur eine relevant:</p>
+    <p>Strahlungsleistung (W/qm) aus der Atmosphäre auf den Boden als Funktion der Frequenz.</p>
+    <p>Diese Messung über 24Stunden bei unterschiedlicher Bewölkung und zu verschiedenen Jahreszeiten.“</p>
+    <p>gibt es sicherlich irgendwo massenhaft in irgendwelchen Datenbanken. Wenn Sie was gefunden haben, so geben Sie den link bekannt. Das würde mich auch interessieren.</p>
+    <p>„Ich schrieb „noch mehr Links“, da sie schon von verschiedenen Leuten Referenzen auf Messungen erhalten hatten.“</p>
+    <p>Ja Herr Müller,</p>
+    <p>es gibt eine Menge Links auf Messungen.</p>
+    <p>Für unser Problem wäre nur eine relevant:</p>
+    <p>Strahlungsleistung (W/qm) aus der Atmosphäre auf den Boden als Funktion der Frequenz.</p>
+    <p>Diese Messung über 24Stunden bei unterschiedlicher Bewölkung und zu verschiedenen Jahreszeiten.</p>
+    <p>Das sollte doch drin sein bei den hunderten von Milliarden, die für den Quatsch zum Fenster hinaus geworfen werden.</p>
+    <p>Meinen Sie nicht?</p>
+    <p>„Je weiter oben in der Troposphäre die erwärmte Luft sich dann befindet, desto mehr Wärmestrahlung werde anschließend durch IR-aktive Moleküle der Luft ins Weltall abgegeben.“</p>
+    <p>Die Wärmestrahlung eines Luftvolumens nimmt nach oben hin ab. Die Intensität der Wärmestrahlung nimmt mit der Temperatur und dem Absorptionskoeffizienten zu. Beide Größen nehmen mit zunehmender Höhe ab. Die Energie für die Wärmestrahlung wird aus der thermischen Energie genommen. Dies würde an sich zur Temperaturabnahme führen. Im zeitlich konstanten Zustand der Atmosphäre (wie im Energiebilanzdiagramm abgebildet) muß also diese Energie nachgeliefert werden, damit die Temperatur konstant bleibt. Diese Energie stammt in der unteren Atmosphäre überwiegend aus der Absorption der thermischen Strahlung aus der Umgebung und zum geringeren Teil der Kondensation und fühlbaren Wärme. Mit zunehmender Höhe wird die Absorptionslänge länger, sodaß die chance für ein Photon größer wird, nicht wieder absorbiert zu werden, sondern ins Weltall zu gehen.</p>
+    <p>„Ein IR-Photon wird von IR-inaktiven Molekülen (N2,O2) nicht absorbiert, aber gestreut. Richtig?“</p>
+    <p>Die bei Molekülen allgemein wirksame Rayleigh-Streuung nimmt mit der 4.-ten Potenz der Wellenlänge ab. Diese spielt also im Sichtbaren eine größere Rolle als im Infraroten. Die können Sie vernachlässigen.</p>
+    <p>„Welche Luftanteile sind denn strahlungsaktiv im betroffenen IR-Bereich?“</p>
+    <p>Mit absteigender Wichtigkeit: Wasserdampf, CO2, O3, CH4, N2O,…, flüssiges Wasser ist auch sehr wichtig.</p>
+    <p>„Ich kenne das Stefan-Boltzmann Gesetz, das für schwarze Körper gilt, und besagt, dass die Strahlungsleistung von einem Vielfachen der 4. Potenz der Temperatur des schwarzen Körpers abhängt. Also der Zusammenhalt ‚Temperatur-Strahlung‘ scheint da, aber das Gesetz scheint mir hier nicht zu gelten.“</p>
+    <p>Die Intensität für die thermische Abstrahlung eines Gases mit Linienspektrum geht nicht mit T hoch vier, sondern ist komplexer, weil auch das Spektrum temperaturabhängig ist.</p>
+    <p>„Es gilt vielleicht näherungsweise für den Erdboden.“</p>
+    <p>Ja, weil das Spektrum fester und flüssiger kontinuierlich ist, denn da sind die einzelnen Linien aufgrund der höheren Dichte viel zahlreicher und gesättigt sind, sodaß die Temperaturabhängigkeit klein wird.</p>
+    <p>„Ich meine mich zu erinnern, dass reale Gase</p>
+    <p>ein bestimmtes Absorptions- und Emissionsspektrum haben, die beide weitgehend deckungsgleich ist</p>
+    <p>„(Deckungsgleich? Stimmt das?)“</p>
+    <p>Beide sind alleine durch den Absorptionskoeffizienten bestimmt.</p>
+    <p>„aber dass O2 und N2, also die Hauptbestandteile von Luft nicht im IR-Bereich aktiv sind. Das heisst doch dann, dass sie IR-Strahlung weder absorbieren noch emittieren, also nichts ins All abgeben…“</p>
+    <p>Richtig.</p>
+    <p>„Bleibt dann vor allem Wasserdampf (und CO2), aber demzufolge müsste es ja quasi überall unter einer Wolke ist, kühler sein, darunter aber ist es aber wärmer“</p>
+    <p>Wieso sollte es unter der Wolke kühler sein?</p>
+    <p>am Dienstag, 24.11.2015, 19:05</p>
+    <p>#25: Gerald Pesch sagt:</p>
+    <p>„Sie haben nach gefühlten 1000 Beiträgen noch immer nichts verstanden.“</p>
+    <p>Lesen Sie einmal den Artikel von Herrn Harde 2014 „Advanced Two-Layer Climate Model for the Assessment of Global Warming by CO2“. Dort wird die Asymmetrie der IR-Abstrahlung in der Atmosphäre näher diskutiert. Ich glaube dieser Artikel wurde hier auf Eike schon mal vorgestellt. Konvektion und Verdunstung kühlen die Oberfläche und erwärmen die Atmosphäre. Dies ist aber nur dann wirksam, wenn der erfolgte Energietransport in die höhere Atmosphäre erfolgt, wo die IR-Abstrahlung ins Weltall dominiert.</p>
+    <p>Wie gesagt, nichts verstanden… Lesen Sie doch noch einmal den Satz aus Ihrem Beitrag #19 auf den ich mich bei #25 bezog. Nur Mut, Sie schaffen das….</p>
+    <p>„(Ein IR-Photon wird von IR-inaktiven Molekülen (N2,O2) nicht absorbiert, aber gestreut. Richtig?)“</p>
+    <p>Nein. Die Streuung von IR-Strahlung an N2 und O2-Molekülen ist vernachlässigbar. Die Rayleigh-Streuung („Himmelsblau“) ist proportional zur 4. Potenz der Lichtfrequenz und somit im IR vernachlässigbar. Der Energieübertrag von IR-aktiven Molekülen auf IR-inaktive Moleküle erfolgt hauptsächlich über strahlungslose Prozesse (Stöße). Mit Vielfachstreuung meinte ich Mehrfachabsorption. (Resonanzfluoreszenz von IR-aktiven Molekülen (H2O,CO2,CH4), d.h. das absorbierte Photon wird ohne große Frequenzänderung wieder emittiert, ist wohl auch vernachlässigbar.)</p>
+    <p>„Sie haben nach gefühlten 1000 Beiträgen noch immer nichts verstanden.“</p>
+    <p>Lesen Sie einmal den Artikel von Herrn Harde 2014 „Advanced Two-Layer Climate Model for the Assessment of Global Warming by CO2“. Dort wird die Asymmetrie der IR-Abstrahlung in der Atmosphäre näher diskutiert. Ich glaube dieser Artikel wurde hier auf Eike schon mal vorgestellt. Konvektion und Verdunstung kühlen die Oberfläche und erwärmen die Atmosphäre. Dies ist aber nur dann wirksam, wenn der erfolgte Energietransport in die höhere Atmosphäre erfolgt, wo die IR-Abstrahlung ins Weltall dominiert.</p>
+    <p>„Die Erde gibt fast ausschließlich nur thermische Strahlung ins Weltall ab. Diese liegt aufgrund der typischen Temperaturen am Boden und in der Atmosphäre hauptsächlich im Infrarotbereich.</p>
+    <p>Die Quellen der Erde für Strahlung sind:</p>
+    <p>a) Erdoberfläche (Ozeane und Landflächen)</p>
+    <p>b) Atmosphäre</p>
+    <p>a. Treibhausgase (gasförmig)</p>
+    <p>b. Aerosole (fest)</p>
+    <p>c. Wolkenwasser und Dunsttröpfchen (flüssig)</p>
+    <p>Ein emittiertes Photon gelangt aber von seiner Quelle nicht unbedingt direkt ins All. I.d.R. wird es beim Durchgang durch die Atmosphäre wieder absorbiert. Die mittlere Weglänge zwischen Emissions- und Absorptionsort ist umgekehrt proportional zum Absorptionskoeffizienten. Dieser ist eine Eigenschaft der durchstrahlten Materie und zudem von der Wellenlänge des Photons abhängig. Im ‚Strahlungsfenster‘ ist diese Weglänge größer als die Dicke der Atmosphäre, sodaß ein Photon, das vom Boden emittiert wird, direkt ins All gelangt. In den Banden der Treibhausgase und breitbandig durch Flüssigwasser bei bewölkter Atmosphäre wird die Strahlung mit der entsprechenden Wellenlänge jedoch absorbiert. Die von einem Molekül absorbierte Energie geht durch Thermalisierung mit den umgebenden Molekülen in thermische Energie über. Es gibt also keine spezifische „Kondensationsstrahlung“. Es gibt nur die Strahlung, die von strahlungsfähiger Materie aufgrund der Temperatur dieser Materie emittiert wird.</p>
+    <p>Der Nettofluß (Fluß nach oben minus nach unten) an Energie vom Boden durch die Atmosphäre ist in einem zeitlich konstantem Klima konstant. Beim Transport nach oben ändert sich lediglich die Energieform.“</p>
+    <p>Lieber Herr Baecker,</p>
+    <p>daß ich das noch erleben darf…</p>
+    <p>Kleine Anmerkung:</p>
+    <p>Absorptionslänge für die 14µm-Strahlung bei Bodendruck: nach c.a. 1m sind 95% der Strahlung absorbiert</p>
+    <p>„Der Anteil der vom Boden abgegebene Energie in Form von Verdunstungswärme oder fühlbare Wärme wird in der Atmosphäre in andere Energieformen (häufig thermische Energie) umgewandelt.“</p>
+    <p>Zur „fühlbaren“ Wärme gehört auch IR-Strahlung.</p>
+    <p>Welche Energieformen (außer der „thermischen“ sehen Sie noch?</p>
+    <p>„Aufgrund seiner Temperatur (thermischen Energie) wiederum emittiert Materie in seinen Absorptionsbanden thermische Strahlung.“</p>
+    <p>Im Prinzip ja, aber Sonderfall GASE, die ja keine Planck`schen Strahler sind…</p>
+    <p>„Mit zunehmender Höhe nimmt der Fluß an Energie in Form von latenter und fühlbarer Wärme ab, der Nettofluß in Form von Strahlung nimmt zu.“</p>
+    <p>Jaaaa, …fast.</p>
+    <p>Gestahlt wird wieder ab etwa 5000m, wenn die Kollisionswahrscheinlichkeit gering genug ist.</p>
+    <p>MfG</p>
+    <p>=== Zitat ===</p>
+    <p>#27: Marvin Müller sagt:</p>
+    <p>„Was wollen Sie mit noch mehr Links auf Messungen? Sie verstehen die doch nach eigener Aussage nicht sowieso nicht.“</p>
+    <p>Na, gibt’s nix ?</p>
+    <p>=== Zitat Ende ===</p>
+    <p>Ich schrieb „noch mehr Links“, da sie schon von verschiedenen Leuten Referenzen auf Messungen erhalten hatten. Oder wollen Sie jetzt ernsthaft so tun, als hätten Sie nebenan im Artikel „Wie viel Mensch steckt eigentlich hinter dem so sehr gefürchteten Klimawandel?“ keine Verweise auf Messungen bekommen? Wenn Sie die nicht verstehen, sollten Sie mal an Ihrem Wissen arbeiten und nicht die Augen schliessen und so tun, als gäbe es die Messungen nicht.</p>
+    <p>„Die Temperaturerhöhung von 1°C führt zu einem Anstieg des Wasserdampfinhalts in der Atmosphäre.“</p>
+    <p>Das gilt es zu beweisen. Das dürfte unmöglich sein.</p>
+    <p>Sie sind mit #18 der Erste nach dem Autoren, der etwas Sinnvolles zum Artikel beiträgt. Wenn ich Sie richtig verstanden habe, fragen Sie letztlich, ob es spezifische Strahlung zu nicht-strahlenden Vorgängen zugeordnet werden kann. Das ist nicht so!</p>
+    <p>Zunächst ist klar – wie Sie es auch richtig erkannt haben –, daß zwischen Erde und den Außenraum Energie nur in Form von Strahlung ausgetauscht wird. Die Erde gibt fast ausschließlich nur thermische Strahlung ins Weltall ab. Diese liegt aufgrund der typischen Temperaturen am Boden und in der Atmosphäre hauptsächlich im Infrarotbereich.</p>
+    <p>Die Quellen der Erde für Strahlung sind:</p>
+    <p>a) Erdoberfläche (Ozeane und Landflächen)</p>
+    <p>b) Atmosphäre</p>
+    <p>a. Treibhausgase (gasförmig)</p>
+    <p>b. Aerosole (fest)</p>
+    <p>c. Wolkenwasser und Dunsttröpfchen (flüssig)</p>
+    <p>Ein emittiertes Photon gelangt aber von seiner Quelle nicht unbedingt direkt ins All. I.d.R. wird es beim Durchgang durch die Atmosphäre wieder absorbiert. Die mittlere Weglänge zwischen Emissions- und Absorptionsort ist umgekehrt proportional zum Absorptionskoeffizienten. Dieser ist eine Eigenschaft der durchstrahlten Materie und zudem von der Wellenlänge des Photons abhängig. Im ‚Strahlungsfenster‘ ist diese Weglänge größer als die Dicke der Atmosphäre, sodaß ein Photon, das vom Boden emittiert wird, direkt ins All gelangt. In den Banden der Treibhausgase und breitbandig durch Flüssigwasser bei bewölkter Atmosphäre wird die Strahlung mit der entsprechenden Wellenlänge jedoch absorbiert. Die von einem Molekül absorbierte Energie geht durch Thermalisierung mit den umgebenden Molekülen in thermische Energie über. Es gibt also keine spezifische „Kondensationsstrahlung“. Es gibt nur die Strahlung, die von strahlungsfähiger Materie aufgrund der Temperatur dieser Materie emittiert wird.</p>
+    <p>Der Nettofluß (Fluß nach oben minus nach unten) an Energie vom Boden durch die Atmosphäre ist in einem zeitlich konstantem Klima konstant. Beim Transport nach oben ändert sich lediglich die Energieform. Der Anteil der vom Boden abgegebene Energie in Form von Verdunstungswärme oder fühlbare Wärme wird in der Atmosphäre in andere Energieformen (häufig thermische Energie) umgewandelt. Aufgrund seiner Temperatur (thermischen Energie) wiederum emittiert Materie in seinen Absorptionsbanden thermische Strahlung. Mit zunehmender Höhe nimmt der Fluß an Energie in Form von latenter und fühlbarer Wärme ab, der Nettofluß in Form von Strahlung nimmt zu.</p>
+    <p>Lieber Herr Stehlik,#29</p>
+    <p>3 mm pro Tag * 365 Tage/Jahr = 1095 mm /Jahr. Das ist die Verdunstungs-und Niederschlagsrate. Da der Wassergehalt der Atmosphäre rund 34 mm beträgt, ergibt sich die bekannte Umwälzzeit von Wasser in der Atmosphäre von rund 11 Tagen.</p>
+    <p>„Was wollen Sie mit noch mehr Links auf Messungen? Sie verstehen die doch nach eigener Aussage nicht sowieso nicht.“</p>
+    <p>Na, gibt’s nix ?</p>
+    <p>Suchen, Müller, suchen!</p>
+    <p>„Heute beträgt die Wassermenge meines Wissens 34 mm im globalen Mittel.“</p>
+    <p>Der Anonymus Baecker ist ein Zeichen für den permanent tolerierten Regelverstoß der (gleichfalls meist anonymen) Administratoren von EIKE gegen die selbst gewählte Klarnamen Regeln. Aber auch inhaltlich müssen Trollen wie Baecker die Grenzen aufgezeigt werden. Drei solche Desinformationen und der Troll muss gesperrt werden:</p>
+    <p>Für die Verdunstung über dem Meer wird 1176 mm, über Land 480 mm angegeben.(Quelle: Endlicher: Der globale Wasserkreislauf, 1991, S 71)</p>
+    <p>MfG</p>
+    <p>„Wo ist die Messung dazu?</p>
+    <p>Ist ja einfach die einfallende Strahlungsleistung in Abhängigkeit der Frequenz zu messen.</p>
+    <p>Könnten Sie mal so einen Link hier posten???“</p>
+    <p>Was wollen Sie mit noch mehr Links auf Messungen? Sie verstehen die doch nach eigener Aussage nicht sowieso nicht.</p>
+    <p>am Dienstag, 24.11.2015, 02:55</p>
+    <p>Ich empfehle Ihnen das hier zum Einstieg:</p>
+    <p>http://bit.ly/1kRjgyF</p>
+    <p>http://bit.ly/1Shgs8t</p>
+    <p>Dann sehen Sie schon viel klarer…</p>
+    <p>am Montag, 23.11.2015, 22:21</p>
+    <p>Infolge der Erwärmung strahlen die IR-aktiven Moleküle der Atmosphäre mehr Energie ab. Erfolgt die Erwärmung in der unteren Atmosphäre ist die Abstrahlung zur Oberfläche größer als in den Weltraum.</p>
+    <p>Sie haben nach gefühlten 1000 Beiträgen noch immer nichts verstanden. Macht aber nichts, damit gehören Sie ja zur politisch relevanten Mehrheit im Land der grünen Schlümpfe. Kann auch ganz schön sein…..</p>
+    <p>grundsätzlich sind solche quantitativen Abschätzungen auf Basis der Naturgesetze begrüßenswert. Allerdings muß der Ansatz auch korrekt sein. Sie vergleichen nun Leistungsflüsse pro Quadratmeter von verschiedenen Prozesse, die in der Energiebilanz aufgeführt sind, und extrapolieren sie für den Fall, daß die Temperatur 1 °C höher liegen würde.</p>
+    <p>Das Ergebnis stimmt aber offensichtlich nicht mit dem Klima überein, welches im Mittel 1 °C wärmer wäre. Die Energiebilanz eines Klimas mit 1 °C höherer Temperatur muß ja auch ausgeglichen sein. Daher werden sich die Leistungsflüsse so austarieren, daß dies der Fall ist. Das ist bei Ihren Zahlen aber nicht der Fall. Der Grund hierfür ist, daß Ihr Ansatz überhaupt nicht auf den hier greifenden Naturgesetzen beruht.</p>
+    <p>Ein Beispiel macht deutlich, daß einfaches lineares Extrapolieren noch kein Zeugnis für naturwissenschaftliches Denken gibt. Die Temperaturerhöhung von 1°C führt zu einem Anstieg des Wasserdampfinhalts in der Atmosphäre. Momentan werden 80 W/m2 für Verdunstung aufgebraucht, dies entspricht der Verdunstung von knapp 3 mm Wasser pro Tag. Die global gemittelte tägliche Niederschlagsmenge beträgt ebenfalls 3 mm pro Tag. Es ist nicht verwunderlich, daß beide Werte übereinstimmen, dann der hydrologische Kreislauf ist bei stationärem Klima ja geschlossen.</p>
+    <p>Was Sie anhand der Dampfdruckkurve berechnen, ist aber die Wassermenge der Atmosphäre in einem 1 °C wärmeren Klima. Heute beträgt die Wassermenge meines Wissens 34 mm im globalen Mittel. Sie postulieren letztlich, daß die Verdunstungsrate linear mit der Wassermenge zunehmen muß. Die kenne kein Naturgesetz, welches diesen Zusammenhang festlegt. Ähnlich ist es bei anderen Ihrer Extrapolationen.</p>
+    <p>NASA und IPCC Daten beweisen objektiv und wiederhol-genau, infrarote Wärmestrahlung von unten nach oben ins All zur Kühlung der Erde nimmt – vom Erdboden aus – von 9 % der Sonneneinstrahlung nach oben immer weiter zu bis auf 100 %.</p>
+    <p>90 % werden daher von H2O und CO2 der Atmosphäre emittiert. Diese Gase emittieren wegen ihrer elektromagnetischen Molekül-Dynamik sehr viel intensiver als Flüssigkeiten oder Feststoff. Das Planck Gesetz gilt für reale thermische Materie überhaupt nicht! Beweis: N2 und O2!</p>
+    <p>Vielen Dank für Ihre Antwort, Herr Berberich!</p>
+    <p>Wenn ich Sie richtig verstanden habe: Durch die Kondensation nimmt die mittlere kinetische Energie der H2O-Moleküle zu, sprich die Temperatur.Strahlung ensteht bei der Kondensation nicht. Bei der Konvektion steigt bekanntlich einfach Luft in die Höhe, deren Temperatur gestiegen war – durch Kontakt mit dem Erdboden, der selbst durch transmittierte Sonnenstrahlung erwärmt worden war. Je weiter oben in der Troposphäre die erwärmte Luft sich dann befindet, desto mehr Wärmestrahlung werde anschließend durch IR-aktive Moleküle der Luft ins Weltall abgegeben.</p>
+    <p>In der Höhe werde relativ mehr Wärmestrahlung in den Kosmos abgegeben durch IR-aktive Luftmoleküle als in Erdbodennähe , weil die IR-Photonen einfach insgesamt seltener gestreut werden, salopp gesagt „leichter ihren Weg ins Weltall“ finden, je höher diese Prozesse stattfinden.</p>
+    <p>(Ein IR-Photon wird von IR-inaktiven Molekülen (N2,O2) nicht absorbiert, aber gestreut. Richtig?)</p>
+    <p>Ich ging in den Konjunktiv über, weil mir einiges noch nicht ganz klar ist…:-) (Ich bitte um Verständnis)</p>
+    <p>Welche Luftanteile sind denn strahlungsaktiv im betroffenen IR-Bereich?</p>
+    <p>Ich kenne das Stefan-Boltzmann Gesetz, das für schwarze Körper gilt, und besagt, dass die Strahlungsleistung von einem Vielfachen der 4. Potenz der Temperatur des schwarzen Körpers abhängt. Also der Zusammenhalt ‚Temperatur-Strahlung‘ scheint da, aber das Gesetz scheint mir hier nicht zu gelten. Es gilt vielleicht näherungsweise für den Erdboden. Ich meine mich zu erinnern, dass reale Gase ein bestimmtes Absorptions- und Emissionsspektrum haben, die beide weitgehend deckungsgleich ist (Deckungsgleich? Stimmt das?), aber dass O2 und N2, also die Hauptbestandteile von Luft nicht im IR-Bereich aktiv sind. Das heisst doch dann, dass sie IR-Strahlung weder absorbieren noch emittieren, also nichts ins All abgeben… Bleibt dann vor allem Wasserdampf (und CO2), aber demzufolge müsste es ja quasi überall unter einer Wolke ist, kühler sein, darunter aber ist es aber wärmer…. Nun, ich gebe zu, dass ich verwirrt bin.</p>
+    <p>Ist es nicht doch einfach so, dass die meiste zugeführte Strahlungleistung Endeffekt durchs IR-Strahlung von Erdböden und Weltmeeren mit jenen berühmten ca. 300.000 km/s in den Kosmos entschwindet, sei es relativ direkt nach einer Reihe von Vielfachstreuungen oder nach Umwegen über Konvektion bzw. Verdunstung/Wolkenbildung/Regen etc.?</p>
+    <p>Vielen Dank an alle, die lasen. Wenn mir jemand Klarheit schenken könnte, wäre ich überglücklich.</p>
+    <p>Gute Nacht!</p>
+    <p>„Erfolgt die Erwärmung in der unteren Atmosphäre ist die Abstrahlung zur Oberfläche größer als in den Weltraum.“</p>
+    <p>Na klar, Herr Berberich.</p>
+    <p>Wo ist die Messung dazu?</p>
+    <p>Ist ja einfach die einfallende Strahlungsleistung in Abhängigkeit der Frequenz zu messen.</p>
+    <p>Könnten Sie mal so einen Link hier posten???</p>
+    <p>Vielen Dank im Voraus!</p>
+    <p>ich hätte da mal eine Frage (übrigens wirklich eine Frage, keine versteckte Kritik oder derlei 🙂 Würde es gerne genauestens kapieren.)</p>
+    <p>Welche Strahlung entsteht GENAU, wenn</p>
+    <p>A)bei der Verdunstung, wenn bei der Wolkenbildung „Die frei werdende Kondensationswärme […] per STRAHLUNG ans Weltall abgegeben“[wird]?</p>
+    <p>B) bei der Konvektion: „Die fühlbare Wärme wird in den höheren Schichten der Atmosphäre in Form von STRAHLUNGSsenergie ans Weltall abgegeben.“</p>
+    <p>Wie wurden diese beiden Strahlungsvorgänge gemessen? Googeln brachte mir nichts. Wie kann man sich schlau machen?</p>
+    <p>Für etwas Hilfe wäre ich dankbar.</p>
+    <p>Gruß</p>
+    <p>Zur Erläuterung:</p>
+    <p>Ich habe das vorgestellte „thermodynamische System“ des „fiktiven bestrahlten Quadratmeters“ so verstanden:</p>
+    <p>Energie geht durch Strahlung REIN und RAUS.(Massenströme durch Protonen, Elektronen und ähnliches werden alles vernachlässigt). Am Ende MUSS ja alles (genauer ‚der wesentliche Anteil an Strahlungsleistung‘) LETZLICH über Strahlung abgegeben werden.</p>
+    <p>REIN kommen also die ca 160W/m2.</p>
+    <p>RAUS gehen in der Summe ebenfalls 160W/m2 durch</p>
+    <p>1. IR-Abstrahlung</p>
+    <p>2. Verdunstung – dann aber AUCH durch Strahlung</p>
+    <p>3. Konvektion – dann aber AUCH durch Strahlung</p>
+    <p>zu 1. Kein Problem. Verstanden. IR-Strahlung geht direkt ‚durchs Strahlungsfenster‘ in den Kosmos.</p>
+    <p>zu 2. Alles verstanden, bis auf die Vorgänge beim Kondensieren. Entsteht wirklich Strahlung beim Kondensieren? Mir fehlen die Kenntnisse? Gibt es Messungen dieser Kondensationstrahlung?</p>
+    <p>zu 3. Auch hier würde ich gerne verstehen… Die erwärmte Luft steigt nach oben und kühlt ab? Und dabei entsteht Strahlung?</p>
+    <p>In der Natur vermischen sich wohl zwei und drei, und mich würde interessieren genau zu vestehen, was da passiert:</p>
+    <p>Kondensationsvorgang = Strahlung?</p>
+    <p>Abkühlende Luft = Strahlung?</p>
+    <p>Oder existieren konvektive Vorgange, die den Boden erwärmen (Bsp. Warme Luftmassen) und es ist dann wieder Boden-IR-Strahlung, die Strahlungsleistung in den Kosmos ‚entlässt?</p>
+    <p>Vielen herzlichen Dank für Lesen. Über eine Antwort würde ich mich freuen</p>
+    <p>da sind Sie nicht der Einzige.</p>
+    <p>MfG</p>
+    <p>Nach meinen Auswertungen weichen die Zahlenwerte (in W/m²) der einzelnen Autoren zum Teil erheblich voneinander ab.</p>
+    <p>;Otto; NASA;Stephens;Trenberth</p>
+    <p>Absorbiert solar Boden;163,4; 163;165,2;161,0</p>
+    <p>IR Abstrahlung netto; -51,1;-57,9;-52,4;-63,0</p>
+    <p>Konvektion; -23,8;-18,4;-24,0;-17,0</p>
+    <p>Latente Wärme(Verdunstung);-88,5;-86,4;-88,0;-80,0</p>
+    <p>Autoren:</p>
+    <p>NASA 2014 ERB_Litho_v2014.06.26</p>
+    <p>Stephens 2012 An update on Earth’s energy balance in light of the latest global observations</p>
+    <p>Trenberth 2009 Earth’s Global Energy Budget</p>
+    <p>(Zur besseren Lesbarbarkeit sollte man die Tabelle in Excel kopieren)</p>
+    <p>Interessant wäre es einmal zu diskutieren wie die einzelnen Größen ermittelt werden und welche Unsicherheiten bestehen.</p>
+    <p>Wo ist eigentlich Dr. Paul???</p>
+    <p>warum haben Sie ben Beitrag von Prof.Kramm gelöscht? Sagen bitte nicht er wäre beleidigend gewesen, da sind schon ganz andere Kommentare hier veröffentlicht worden und auch stehen blieben, die viel eher diesen Tatbestand erfüllten. Es kann also nur sein, daß Prof Kramm Kritik an Herrn Lüdecke und herrn Link geübt hat. Das sollten diese herren eigentlich ertragen können.</p>
+    <p>Wann berichtet EIKE eigentlich über die Veröffentlichung von Prof. Ewert (immerhin Beiratsmitglied) über die Datenmanipulationen von NASA-GISS, die ja schon auf ICECAP erwähnt wurde.</p>
+    <p>MfG</p>
+    <p>Folglich sind alle Klimamodelle Unsinn, weil der angenommene atmosphärische Treibhaus-Effekt nicht beweisbar ist.</p>
+    <p>Und so macht man aus IR-Abstrahlung – 51,1 verbessert gegenüber – 63 einen erwärmenden Treibhauseffekt.</p>
+    <p>Können Ingenieure zwar zwischen 63 und 51,1 unterscheiden, aber zwischen Plus (Erwärmung) und Minus (Abkühlung) nicht?</p>
+    <p>CO2 als wichtigstes IR-aktives Kühlmittel des Planeten als Treibhausgas zu bezeichnen ist einfach nur lächerlich, dank IPCC und solchen Spezialisten von EIKE!</p>
+    <p>Absorbiert solar Boden:163,4 W/m²</p>
+    <p>IR Abstrahlung netto: -51,1</p>
+    <p>Konvektion: -23,8</p>
+    <p>Latente Wärme: -88,5</p>
+    <p>Die Dezimalstellen sind durch Mittelwertbildung aus den Werten verschiedener Autoren entstanden</p>
+    <p>auf der Basis des „Treibhauseffektes“ und der „Globaltemperatur“ lässt sich keine Linderung der Klimawahn erreichen. Nehmen Sie sich lieber etwas Zeit für einen kritischen Blick, dann werden Sie leicht feststellen, dass der „Treibhauseffekt“ einer Selbsterwärmung an eigener Wärme gleich ist, was gegen den Energieerhaltungssatz verstößt, damit erledigt sich auch der „CO2-Antrieb“ und die „Klimasensitivität“.</p>
+    <p>Ihre Darstellung mag vereinfacht sein, begründet aber recht gut auch für weniger versierte Spezialisten anhand einer nachvollziehbaren Argumentation, was man auch unter den gegebenen Annahmen für Rückkopplungen zu erwarten haätte. Besonders beeindruckend finde ich, dass mit diesem Ansatz auch vergleichbare Ergebnisse zu den Arbeiten Hermann Harde, Richard Lindzen, oder P. Frank heraus kommen, selbst wenn man da einen anderen Ansatz zur Untersuchung gewählt hat.</p>
+    <p>Im Besonderen zeigt die Logik der nicht möglichen „Runaway-Erwärmung“, dass die netto Rückkopplungen &lt; 1 sein müssen. Damit hat sich die AGW Hypoothese weitgehend erledigt. Mich wundert nur, warum so viele Menschen mit naturwissenschaftlichen Kenntnissen diese klaren Zusammenhänge ignorieren.</p>
+    <p>in seinem Buch : “Gekaufte Journalisten“ in unerfreuliche, leider wahre Details.</p>
+    <p>Er schildert die Abhängigkeit der allermeisten deutschen Redaktionsstuben von politisch einflussreichen, transatlantischen Zirkeln, die sich seit Jahrzehnten an der Spitze zahlreicher Verlagshäuser breit machen konnten. Längst ist das keine Verschwörungstheorie mehr, sondern wird durch namhafte Journalisten, die dem System den Rücken kehrten, immer wieder bestätigt und untermauert.</p>
+    <p>Ulfkotte nennt Namen. Heute geht in den westlichen Medien so gut wie nichts mehr ohne die Zustimmung dieser Organisationen. Der Autor belegt mit messerscharfer Analyse die Zusammenhänge: Ob Bilderberger, Atlantikbrücke, Trilaterale Kommission, alle diese an US-administrativen Interessen ausgerichteten Kreise arbeiten mit ein und demselben Ziel, so der Journalist: „In Wahrheit geht es bei den ganzen transatlantischen Organisationen nur um Unterstützungsmaßnahmen für die Nato. Und die wird von den USA angeführt. Deutsche sind da nur die Vasallen.“</p>
+    <p>Müssen wir uns da noch wundern über die monotone Einseitigkeit des Blickwinkels Ukraine-Russland? Wollen wir noch fehlende Informationen einklagen wie etwa die Tatsache, dass die schlecht motivierten, schlecht ausgerüsteten ukrainischen Truppen, die vor Monaten wild in den Süden des Landes geworfen worden waren, von der Neurussischen Armee weitgehend zerstört wurden? Wer hat im Westen darüber berichtet? Warum ist das nicht geschehen?</p>
+    <p>Nein, wer sich mit den aufgeführten Fakten beschäftigt, muss Stück für Stück schließlich auch die letzten Illusionen ablegen, den Medien noch uneingeschränkt Glauben schenken zu können. Ganz deutlich werden die korrupten Strukturen in Ulfkottes Buch dargelegt, und wenn man es so liest, klingt es leider schon fast logisch: „Eine ganze Armee von auf den ersten Blick erscheinenden Agenten verdient Geld damit, deutsche Medien in ausländischem Auftrag zu beeinflussen, etwa in angeblich gemeinnützigen ´transatlantischen Freundschaftsorganisationen`. Deren Aufgabe ist es auch, deutsche Eliten in Politik und Medien von der geistigen Blockbildung mit Russland abzuhalten und auf pro-amerikanischen Kurs zu halten. Schließlich verfolgt Washington in Europa klare Ziele, zu denen auch ein neuer Kalter Krieg gehört.“</p>
+    <p>Dass man hierzu nun einmal die Leitmedien als Verbündete braucht, versteht sich von selbst. Der ehemalige FAZ-Journalist Ulfkotte macht keinen Hehl daraus und belegt seine Aussage umfassend:</p>
+    <p>„Allein das amerikanische Verteidigungsministerium gibt schon seit vielen Jahren Milliarden dafür aus, um die Medienberichterstattung weltweit durch Propaganda gezielt zu beeinflussen.“</p>
+    <p>Bei der Berliner US-Botschaft, so der Autor, „konnte man sogar Fördergelder abrufen, wenn man die öffentliche Meinung in Deutschland subversiv im Interesse Washingtons lenken will.“</p>
+    <p>Es liest sich spannend, dieses mutige Buch. Es nennt uns zahlreiche Namen der im Monopolsystem Agierenden, es zeigt uns die Gefahren des täglichen Nachrichtenkonsums. Vor allem weist es uns darauf hin, dass mit der zunehmenden Begriffsverwirrung und der fehlenden Wahrheitsliebe unserer großen Verlagsanstalten die “Freiheit“ der Menschen zunehmend gefährdet wird.</p>
+    <p>An vielen Stellen möchte man den brisanten Band eigentlich am liebsten weglegen, denn zu viel Wahrheit auf einmal kann sich schon mal auf das Nervenkostüm und das Organ-Gefüge des Körpers schlagen. So weist Udo Ulfkotte darauf hin, dass heutzutage in Deutschland sogar schon Studenten an Hochschulen davor gewarnt werden, dass öffentlich-rechtliche Sender oder angeblich renommierte Zeitungen die Menschen manipulieren: „Wo Meinung immer mehr von den Medien gemacht und von deren Nutzern bloß noch rezipiert wird, gerät die Demokratie in Gefahr. Die Manipulation der Meinungsbildung beginnt bei tendenziöser Sprache…“</p>
+    <p>Einigen vor allem deutschen Journalisten dürfte das Buch zweifellos ordentlich Unbehagen bereiten, nicht nur, weil hier ausdrücklich die Namen der Trickser und Täuscher genannt werden. Sondern weil es wie ein fleckenloser Spiegel wirkt, der jeden Makel des derzeit herrschenden Machtsystems sichtbar werden lässt: Eine Belastung für das eigene Gewissen…</p>
+    <p>Wer mit dem Finger in einige östliche oder fernöstliche Länder zeigen und dort fehlende Meinungsfreiheit beklagen will, der sollte besser schnell aufwachen und sich in seinem eigenen Land umschauen. Es gibt viel zu erkennen. Es gibt unendlich viel zu tun.</p>
+    <p>Eine Studie der FU Berlin zum Thema »Politikjournalisten« gibt aufschlussreiche Einblicke über die Wandlungsprozesse im deutschen Journalismus und die persönliche sowie politische Einstellung der schreibenden Zunft.</p>
+    <p>Von den Politikjournalisten, die eigentlich die »Vierte Gewalt» im Staat mit repräsentieren sollten, geben fast 50 Prozent der Befragten offen zu, dass sie der politisch linken Seite zugeneigt sind. Insbesondere in den Chefetagen der »Qualitätsmedien«, wo nahezu alle Artikel gegengelesen, geprüft und redigiert werden, hat das gravierende Folgen auf die Informationen für den Leser.</p>
+    <p>So geben 70 Prozent der Befragten Journalisten an, dass ihre Beiträge in der Redaktion immer oder oft gegengelesen werden. Das bedeutet im Klartext, dass die Linie der Berichterstattung zu einem Großteil vorgegebenen ist und entsprechend stringent kontrolliert wird….</p>
+    <p>Um so wichtiger ist es dass Einrichtungen wie EIKE dem entgegen wirken.</p>
+    <p>Die ganze Natur ist voller Regelkreise. Das Klimageschehen sicher auch. Ich möchte dazu nur die Elemente betrachten, denen in der Debatte die größte Aufmerksamkeit gilt, Wärme einerseits und klimawirksame Gase anderseits. (Wasserdampf, CO2 und Methan. Es gibt auch noch andere, aber über die wird kaum geredet.)</p>
+    <p>Ein Regelkreis ist eine Ursache-Folge-Kette, bei der ein Element das zweite beeinflusst, das zweite ein drittes usw. und das letzte beeinflusst das erste. Oder im einfachsten Regelkreis mit nur zwei Elementen beeinflusst das erste Element das zweite und umgekehrt. So bei ´m Klima, wenn es denn wirklich so ist, wie meistens dargestellt, dass nur die klimaaktiven Gase einen Einfluss auf die Temperaturen haben.</p>
+    <p>Es ist sicher Konsens (schon wieder dieses Wort), dass auf einer wärmeren Erde mehr Wasser verdunstet, also mehr Wasserdampf in der Atmosphäre ist. Ebenso ist, vielleicht nicht Konsens, aber leicht prüfbar, dass wärmeres Wasser CO2 schlechter bindet als kaltes. Bei höheren Temperaturen verschiebt sich also auch hier das Gleichgewicht in Richtung mehr CO2 in der Atmosphäre. Und Methan entweicht bei höheren Temperaturen verstärkt aus den Permafrostböden.</p>
+    <p>Steigende Temperaturen haben also zur Folge, dass der Anteil dieser Gase in der Atmosphäre steigt.</p>
+    <p>Wenn nun der Einfluss von Wasserdampf, CO2 und Methan immer und nur dazu führt, dass die Temperatur steigt dann haben wir einen positiven Regelkreis, einen Teufelskreis. (Mehr Wärme =&gt; mehr Gase =&gt; noch mehr Wärme =&gt; noch mehr …)</p>
+    <p>Da es in der Vergangenheit bereits viele Perioden mit größerer Wärme und auch mehr CO2 in der Atmosphäre gab, müsste die Erde eine kochende Hölle sein. Denn in einem so einfachen Teufelskreis schaukeln sich die Werte immer weiter auf. (z.B. Wikipedia: Kambrium, CO2 das 12-fache der heutigen Werte, durchschnittliche Temperatur 7°C mehr als heute … und Wasser gab es auch schon) Wenn man die Zahlen zugrunde legt, die heute im Umlauf sind, dann hätte auch schon das römische oder das mittelalterliche Klimaoptimum zu einer solchen Entgleisung des Klimas führen müssen.</p>
+    <p>Da wir auf einem (relativ) lebensfreundlichen Planeten leben, ist anzunehmen, dass die Zusammenhänge nicht wirklich so sind, wie geschildert. Dass Wärme den beschriebenen Einfluss auf die klimawirksamen Gase hat ist ‚Konsens‘. Also gibt es entweder noch andere Einflüsse (vielleicht sogar von der Sonne), oder die Wirkung der Gase wird falsch verstanden / geschildert.</p>
+    <p>Einen selbst-stabilisierenden Regelkreis erhält man dann, wenn die Wirkung der Gase darin besteht, dass sie überwiegend Wärme an den Weltraum abgeben. Dann hätten wir die Folge mehr Wärme =&gt; mehr Gase =&gt; weniger Wärme =&gt; weniger Gase =&gt; mehr Wärme …, also ein Klima, dass nicht bei der ersten kleinen Störung schon extrem wird. Dass die klimawirksamen Gase genau das tun scheint mir plausibel. Diese Gase sind in der Lage, Energie auf zu nehmen (Strahlung, aber auch Wärme) und als Strahlung wieder ab zu geben. Und da für die Abstrahlung der Energie alle Richtungen gleichberechtigt sind verschwindet (etwas mehr als) die Hälfte davon im Weltraum. Genaueres dazu möchte ich aber den Spezialisten überlassen.</p>
+    <p>danke für diese schöne, an den Erkenntnissen der klassischen Natur- und Ingenieurwissenschaften UND am gesunden Menschenverstand orientierten Erklärung.</p>
+    <p>Davon bräuchten wir viel mehr.</p>
+    <p>Mfg</p>
+    <p>Ja, unsere Medien und deren Lakaien und auch manche Mitbürger sind irgendwie glatt gebügelt.</p>
+    <p>Kritik am Primat der Politik, an den politischen Zielen ist tabu, ja, warum denn?</p>
+    <p>Besonders enttäuschen finde ich, dass die Robert Bosch Stiftung mit dem „2°C Campus“ da mitmacht. Kritische Anschreiben blieben unbeantwortet.</p>
+    <p>Heute früh, darf ein Herr Müller in SWR2 wieder über die Klimakatastrophe und angeblichen Klimaflüchtlinge plappern.</p>
+    <p>In der Schule (Gynasium) werden thermische Wirksamkeiten erzählt, die es nicht gibt, wie ähnlich einer wärmenden Decke in 5km Höhe.</p>
+    <p>Den betreffenden Lehrern könnte man eine Anbiederung an die politische Kaste, oft der Dienstherr, unterstellen.</p>
+    <p>Er ist ein Trauerspiel, wie sich die Bürgerschaft in eine Ökodiktatur zwingen lässt.</p>
+    <p>Zum Thema: Die 4Potenz der abs. Temperatur bei +2K (+2°C) greift derart stark bei Abstrahlung (302K / 300K) exp 4), dass +2% an gesamter Energie herkommen soll. Auch die „Tipping points“ gibt es nicht.</p>
+    <p>Danke für die gute Aufarbeitung, der eigentlich in den Schulen gelehrten Grundlagen.</p>
+    <p>Vor allem Ihre Schlussfolgerungen u den Rückkopplungen sind es wert, es den Ingenieuren unter den AGW Anhängern mal wieder bewußt zu machen. Ob die das wollen, ist eine andere Geschichte.</p>
+  </comments>
+</doc>

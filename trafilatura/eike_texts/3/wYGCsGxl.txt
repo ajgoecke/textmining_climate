@@ -1,0 +1,104 @@
+Entwicklung der Solarenergie von 2011 bis März 2015.
+Die installierte Leistung basiert auf den Monatsmeldungen Solarenergie der Bundesnetzagentur. Die Grafik zeigt die Verdoppelung der Leistung vom 1.Jan 2011 mit 17.579 auf 38.458 MW im Februar 2015.
+Der tägliche Zubau im März wird von mir niedrig geschätzt und in späteren Fortschreibungen entsprechend dem tatsächlichen Zubau korrigiert.
+Bild 1: Entwicklung der Solarenergie in Deutschland 2011 bis März 2015
+Entwicklung der Windenergie von 2011 bis März 2015.
+Die installierte Leistung der Windenergie entwickelte sich von 27.073 MW im Januar 2011 auf 41.337 MW Ende Februar 2015 und übertrifft mittlerweile die Nennleistung der Solarenergie.
+Der Zubau im März wird von mir niedrig eingeschätzt und später korrigiert.
+Bild 2: Entwicklung der Windenergie in Deutschland 2011 bis März 2015
+Dieses Bild zeigt die Entwicklung der installierten Leistung der Windenergie ab Januar 2014
+Bild 3: Entwicklung der Anlagenanzahl und installierte Nennleistung Windenergie
+Entwicklung der Summenleistung von Wind.- und Solarenergie:
+Addiert man die Einspeiseleistung und die Nennleistung von Wind.- und Solarenergie ergibt sich folgendes Bild:
+Bild 4: Entwicklung der Addition von Wind.- + Solarenergie in Deutschland 2011 bis März 2015
+Man erkennt eine jahreszeitliche Abhängigkeit der Einspeisung mit einem Schwerpunkt der Solarenergie im Sommerhalbjahr und dem Schwerpunkt der Windenergie im Winterhalbjahr.
+Die Grafik und die Tabelle weiter unten, bestätigt die Aussage:
+Anstieg der Leistungsspitzen aber keine Sockelbildung der Einspeisung.
+Dividiert man die tägliche installierte Leistung durch die Einspeiseleistung von Wind und Solar ergibt sich das unten gezeigte Bild. Für mich ist erstaunlich, dass wir einen negativen Trend erkennen können.
+Bild 5: Äquivalent der Addition von Wind.- + Solarenergie in Deutschland 2011 bis März 2015
+Aus diesem Grunde habe ich mir eine Datenbankabfrage erstellt, mit der ich die Minimal.- und Maximalwerte des jeweiligen Jahres ermittelt habe.
+Es ist zu erkennen, dass der Minimalwert keinen positiven Trend erkennen lässt, wo hingegen die Maximalwerte enorm angestiegen sind.
+Das Jahr 2015 ist noch jung und die windstillen Nächte kommen noch.
+Wer aber auf Grund dieser Zahlen noch behauptet, es käme zu einer Glättung der Einspeisung, sollte seinen akademischen Titel zurückgeben.
+Rolf Schuster , im April 2015
+‚…Die Technik hat sich halt weiter entwickelt, was bei einer relativ neuen Technologie nicht weiter erstaunlich ist…‘
+Eine gewagte These, mit der Sie ausgeprägtes Unwissen schön dokumentieren: Wenn sich die Technik verbessert wie Sie sagen, Sie meinen damit wohl, dass sich der Wirkungsgrad der PV-Module erhöht, dann bedeutet das nur, dass die Fläche der PV-Module pro Kilowatt-peak sinkt, an den Volllaststunden ändert sich überhaupt nichts. Diese hängen direkt von der solaren Einstrahlung ab. Und das ist ‚Wetter‘, wie Sie treffend bemerkt haben.
+Übrigens ist die Zahl der Volllasttunden nur für den Schmarotzer der EEG-Subventionsmilliarden von Belang. Da jedes PV-Modul ein Stützkraftwerk im Rücken braucht, ist der volkswirtschaftliche Nutzen einer höheren Vollaststundenzahl bei PV gleich Null. Den zusätzlichen PV-Strom müssen Sie nämlich beim Stützkraftwerk wieder abregeln, was dieses uneffektiver macht. Möglichen Wirkungsgradgewinn bei PV oder Windstrom (wobei wir den in kWh pro investiertem Euro messen sollten, nicht in Volllaststunden) wird also durch zwangsweisen Wirkungsgradverlust bei den unverzichtbaren Kohle-, Gas- oder Kernkraftwerken bezahlt. Verzichten können Sie auf unabsehbare Zeit aber auf die Backup-Kraftwerke nicht. Das zeigen die schönen Auswertungen von herrn Schuster sehr eindeutig.
+Um den EE-Unsinn zu verstehen, wäre es ganz nützlich, etwas von Elektrizität und Energiewirtschaft zu verstehen. Vielleicht kramen Sie Ihr Schulbuch Physik mal heraus. PV und Windstrom machen solange keinen Sinn, wie es keine bezahlbaren (und damit energie-effiziente) Stromspeicher gibt. Solche sind heute nicht zu sehen – mit keiner derzeit verfügbaren Technologie, auch wenn e sein paar Pilotanlagen gibt, mit dennen man Grundlagenwissen studieren kann. Eine großtechnische Anwendung all dieser verfahren bleibt auf unabsehbare Zeit Fiktion. Nicht ohne Grund hat die Bundesregierung ihr Förderung eingestellt.
+Liebe Fr. Mikosch,
+Ihre Erklärung ist eindeutig falsch.
+Die Globalstrahlung wird mit Pyranometern im Wellenlängenbereich 300 bis 2800 µm gemessen, umfasst also weit mehr als den Bereich des sichtbaren Spektrums von etwa 380 bis 780 µm. Im Bereich dieses sichtbaren Lichts haben auch Si-Solarzellen ihre maximale Effizienz, während sich oberhalb von 800-900 µm da fast nichts mehr tut. Die Messung mit Pyranometern liefert daher ein verfälschtes Bild. Maßgeblich ist die direkte Sonneneinstrahlung, nicht die Globalstrahlung.
+Fakt ist, dass Solarzellen je nach Abschattung der direkten Sonneneinstrahlung durch Wolken bis zu 60 % ihres Ertrags einbüßen. Beispiel: Am 28.7.2012 von 11.15-11.30 Uhr lieferten die in das Netz einspeisenden Solarzellen eine Leistung von 2318 MWh ab, wohingegen sie am 23.7.2012 von 01.15-01.30 noch 5439 MWh abgeliefert hatten. Der Unterschied macht also 57,4 % aus. Haben Sie Pyranometerangaben für diese beiden Zeitpunkte?
+Ich habe mir die Mühe gemacht, die Sonnenscheindauern von 1898 bis 2014 nach Angaben des PIK auszuwerten. Ich würde mich sehr wundern, wenn das PIK eine andere Datenbasis verwenden würde als der DWD. Allerdings liegen die PIK-Angaben in Stunden Sonnenscheindauer/ Tag vor und differenzieren nicht nach Winter oder Sommer, obwohl ein strahlender Wintertag aufgrund des geänderten Einstrahlungswinkels natürlich bei weitem nicht das Gleiche an Energieeintrag bewirkt wie ein entsprechender Sommertag. Aber zumindest wird hier im Wesentlichen die „richtige“ Strahlung festgestellt.
+Um die Variationen zu glätten, habe ich für diesen Zeitraum eine Trendanalyse (Polynom 3. Ordnung) durchgeführt und mit den so ermittelten Durchschnittswerten gerechnet. Danach ergibt sich, dass die durchschnittliche tägliche Sonnenscheindauer Anfang der 90er Jahre bei etwa 4,70 h/ Tag lag und im Jahre 2014 5,11 h/Tag erreichte, was einer Zunahme von immerhin 8 % entspricht. In der Spitze waren es in einzelnen Jahren sogar bis zu 15 %.
+Ich stimme Ihnen zu, dass es natürlich neben dem Faktor Sonnenscheindauer auch noch Technologieeffekte geben dürfte. Auch wurden bei der Errichtung von Solaranlagen angesichts der ständigen Förderkürzungen sicherlich die Standorte sorgfältiger ausgewählt als früher. Fakt ist jedoch, dass eine höhere Sonneneinstrahlung auch eine wesentliche Rolle gespielt haben dürfte.
+Mfg
+Hallo Herr Müller,
+Ihre Erklärung ist eindeutig falsch.
+Nicht nur die direkte Sonneneinstrahlung sondern die Globalstrahlung kann durch PV-Module in Strom umgewandelt werden. Die Globalstrahlung ist in den Jahren 2001 – 2011 leicht um ca. 3 % gestiegen.
+Die Daten können Sie sich z.B. ansehen auf den Seiten des DWD
+pollsdb.com/Globalstrahlung
+Da die jährlichen Volllaststunden der in Deutschland installierten PV-Module sich in 10 Jahren so etwa von 600h auf 800 h, also um ca. 30%, erhöht haben, ist das nicht mit der gestiegenen Globalstrahlung zu erklären. Die Technik hat sich halt weiter entwickelt, was bei einer relativ neuen Technologie nicht weiter erstaunlich ist.
+Die „erhebliche Steigerung der durchschnittlichen Sonnenscheindauern“, die Sie gefunden haben, kann ich nicht nachvollziehen … und der DWD auch nicht. Sie werden da wohl etwas falsch verstanden haben.
+pollsdb.com/Sonnenscheindauer
+Silke M.
+Liebe Fr. Mikosch,
+bezüglich der Steigerung bei Fotovoltaik brauchen Sie nicht lange nach einer Erklärung zu suchen: Wir hatten in den letzten Jahren eine erhebliche Steigerung der durchschnittlichen Sonnenscheindauern. Zu finden sind die Angaben übrigens auf dem Server des Potsdam Instituts für Klimafolgenforschung.
+Wie Sie bereits sehr treffend bemerkten: Aller Wahrscheinlichkeit nach ist dies kein Trend, sondern Wetter.
+Was Windenergie angeht: Die guten Standorte sind halt schon längst vergeben. Außerdem geben sich diverse Landesväter und -mütter immense Mühe, naive Investoren in Länder wie Bayern, Rheinland-Pfalz oder Baden-Württemberg zu locken, wo der Bau einer WKA wegen erwiesenen Windmangels von vornherein keinen Sinn macht.
+Mfg
+„Für mich ist erstaunlich, dass wir einen negativen Trend erkennen können.“
+Was soll daran erstaunlich sein? Bei gerade mal 4 Jahren Beobachtungszeit ist das genauso erstaunlich wie ein positiver Trend. Nun war 2011 z.B. ein sehr gutes Jahr für Windmüller. Mit diesem Startjahr war der negative Trend in Bezug auf die Folgejahre wahrscheinlich.
+Über ein Jahrzehnt beobachtet, sieht eine Auswertung der Volllaststunden so aus:
+pollsdb.com/Volllaststunden_2001_2011
+Auffällig ist die Steigerung bei Photovoltaik
+Für WKA habe ich diese detailliertere Auswertung gefunden:
+pollsdb.com/Volllaststunden_WKA
+Die verbesserte Technik der WKA zeigte sich in diesem Zeitraum nicht.
+Die Stromproduktion aus Wind und Sonne steigerte sich im 1. Quartal 2015 gegenüber dem 1. Quartal 2014 übrigens um 10 %. Wind alleine genommen steigerte sich um 20 %.
+Ist das ein Trend? Nein, das ist Wetter.
+Silke Mikosch
+PS.: Welche Erwartungen der Autor mit dem Begriff „Sockelbildung“ im Zusammenhang mit Wind- oder Sonnenstrom wecken möchte, bedarf einer Erläuterung.
+Außer an der offenkundigen Rechtschreibschwäche, leiden Sie auch an einer akuten Dyskalkulie.
+Oder wie soll man Ihren Link zu dem BWE-Pamphlet verstehen?
+„Wie kann man eigentlich nur den Unfug dieser Propaganda glauben, wenn man den Dreisatz beherrscht, denn mit dem kann man berechnen, daß Windenergienutzung ökologischer und ökonomischer Unsinn ist.“
+Aber Herr Heizow,
+Sie hängen die Latte aber wirklich hoch:
+Dreisatz !!!
+Nicht jeder hat Mathematik studiert…
+MfG
+Herr Leifeld, ich zitiere mal aus dem Propagandablättchen:
+„30
+A Windenergieanlagen an Land produzieren schon heute günstigeren Strom als fossile Kraftwerksneubauten. Bezieht man externe Kosten in die Betrachtung mit ein, ist Windenergie an Land die günstigste verfügbare Energiequelle.“
+Den Schwachsinn hat bereits ein Olav Hohmeyer 1988 behauptet. Windmühlenstrom ist noch immer teurer als konventionell erzeugter. Oder warum brauchen die Windmühlenbetreiber staatlich festgesetzte Preise in Höhe des Doppelten der konventionellen Kraftwerke und eine Zwangsabnahme?
+Tatsache ist zudem, daß durch die Nutzung der Windenergie die Emissionen (externe Kosten) und die Stromgestehungskosten gestiegen sind. Wie kann man eigentlich nur den Unfug dieser Propaganda glauben, wenn man den Dreisatz beherrscht, denn mit dem kann man berechnen, daß Windenergienutzung ökologischer und ökonomischer Unsinn ist.
+Daher hier mal ein Dokument, das hoffentlich zur Erleuchtung beiträgt:
+http://goo.gl/4o3MFz
+dl
+Die Verbräuche gibt es auf den Seiten der Netzbetreiber gratis als Excel-Tabellen gratis.
+Es wird auch von DK und UK solche Datensammlungen geben.
+Dies übersteigt aber meine zeitlichen Möglichkeiten, da ich diese Daten in meiner Freizeit zusammentrage.
+#10: Christoph Meyer
+Diese Daten werden zur Zeit nicht frei zugänglich angeboten.
+Sie müssten einen kostenpflichtigen Vertrag mit der EEX abschließen und die EEX vor jeder Veröffentlichung um Zustimmung bitten.
+Interessant auch der Artikel
+„Die dänische Energiewirtschaft – ein Modell für Deutschland?“,
+den finden Sie hier:
+http://tinyurl.com/mfjqxsx
+Hallo Herr Dr. U. Steiner,
+Hinweise auf den Lastfaktor (Nutzungsgrad) finden Sie z. B. hier
+http://tinyurl.com/l9zjxwl
+in Bild 10
+Herr Gabriel, Kohlekraft abschalten!
+http://tinyurl.com/oo5mg7c
+Bei der Verstaltung müssten Windkraftgegner Flagge zeigen.
+Die nicht gegebene Grundlastfähigkeit folgt aus der Kontinuitätsgleichung. Die Denke der sog. „EE“-Freunde folgt der auch in Form des gigo-Prinzips: garbage in = garbage out.
+Das eine Extrem ist, dass man mit Wind und Sonne auf die Unkalkuliebarkeit der Natur setzt und ein anderes Extrem kommt in Zukunft noch auch uns als „Stromgesellschaft“ hinzu…die Unkalkulierbarkeit der Bürger (Erneuerbare Energieerzeuger).
+Bis dato war die Stromerzeugung in der sicheren und zuverlässigen Hand der Kraftwerkskonzerne. Mit jeder neuen Windmühle und Solarmodul geht diese Sicherheits und Zuverlässigkeit „normalerweise“ an die EE-Produzenten = Bürger über. Das EEG/Energiewende ist jedoch so gestrickt, dass es in der EE-Gesellschaft keine Verantwortung für die Gesellschaft = Stromnetz (sicher und zuverlässig) gibt, sondern nur jeder Erneuerbare Energieerzeuger seinen eigenen Profit / Vorteil im Blick hat. Das Gemeinwohl ist dieser EE-Mafia egal, genauso wie es Wind und Sonne egal ist, wie, wann und wo diese scheint oder weht.
+Solar Minimum: 0 MW
+Wind Minimum : 24 MW
+Wind + Solar Minimum : 111 MW ??
+SONNE + WIND * BIOMASSE = NIE = NUTZLOSE, INEFFIZIENTE ENERGIE !
+Ist das nicht eigentlich zu erwarten? Schliesslich sind die besten Stellen bereits belegt, und man muss jetzt 3., 4., N-te Wahl nutzen?
+Ich lese ab, dass der Lastfaktor von 15% auf jetzt 13% gesunken ist.
+Gibt es Vergleichszahlen für insbesondere Dänemark, UK?

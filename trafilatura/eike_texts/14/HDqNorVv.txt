@@ -1,0 +1,145 @@
+Zur weiteren Versorgung bei Windstille und PV-Ausfall
+Zur Glättung der fluktuierenden Leistung der Wind- und Photovoltaikanlagen.
+Zu Punkt 1:
+Ich rechne mal ohne Wirkungsgrad. Mit Wirkungsgrad wird die Katastrophe nur größer.
+Ich gehe mal von einer maximalen Netzlast von 80 GW aus, die im Notfall aus Pumpspeicherwerken mit 60 GW und 20 GW aus konventionellen Kraftwerken für eine Zeit von 21 Tagen bereitgestellt werden soll. Als Beispiel für ein Pumpspeicherwerk nehme ich mal das Werk Goldisthal in Thüringen. Das hat ein Nutzwasservolumen von 12.000.000 m³ und kann damit für 8 Stunden eine Leistung von 1 GW bereitstellen. Wir brauchen aber 60 dieser Anlagen um Deutschland mit 60 GW zu versorgen. Damit können wir dann 8 Stunden in Ruhe weitermachen. Wenn das Wasser der 60 Oberbecken dann abgearbeitet ist, sind insgesamt 60 * 12.000.000 m³ = 720.000.000 m³ Wasser geflossen. Der Tag hat aber 24 Stunden. Also müssen pro Tag nicht 60 sondern 180 Pumpspeicherwerke zur Verfügung stehen. Dafür benötigen wir dann 2.160.000.000 m³ Wasser. Es sollen aber 21 Tage überstanden werden können, also 21 mal soviel. Das bedeutet den Bau von insgesamt 21 * 180 Pumpspeicherwerken. Das sind dann 3780 Werke mit 45.360.000.000 m³ Wasservorrat im Unterbecken. Diese Wassermenge muss also dauerhaft in den Speichern zur Verfügung stehen, um im Notfall eingesetzt zu werden. Es handelt sich um 3780 Pumpspeicherwerke die Geld kosten aber kein Geld einbringen. Diese Werke stehen für die Vergleichmäßigung der Erzeugung aus volatilen Quellen nicht zur Verfügung. Die müssen noch zusätzlich gebaut werden.
+Wer kann sich jetzt vorstellen wie viel Wasser das ist?
+Ich habe mal die Wasserführung der großen deutschen Ströme zur Nordsee in Wikipedia nachgelesen :
+Rhein 2900 m³/sec , Elbe 870 m³/sec, Weser 327 m³/sec mittlere Wasserführung
+Das sind dann zusammen 4097 m³/sec oder 353.980.800 m³/Tag Die Pumpspeicherwerke benötigen also ungefähr die Wasserführung von 128 Tagen der Flüsse, die Deutschland zur Nordsee entwässern, um die Unterbecken zu füllen..
+Wie bekommen wir das Wasser aber in die Oberbecken der Pumpspeicherwerke. Dazu müssen wir die gesamte Ökostromproduktion von 21 Tagen aufwenden, wenn denn Wind voll wehen würde. Also 21 Tage kein Strom in Deutschland. Die Sache muss ja fix gehen, denn die nächste Flaute kann ja schon morgen sein.
+Jetzt wo scheinbar alles klar ist kommt die entscheidende Frage. Wo kriegen wir das Wasser für die Erstfüllung der Unterbecken her? Wir brauchen für 3780 Unterbecken mit je 12.000.000 m³ Nutzvolumen ja 45.360.000.000 m³ Wasser. Überall da, wo die Unterbecken sind, ist die Wasserführung der Flüsse, es sind Gebirgsbäche, sehr gering und von dem Wasser kann man nur einen Teil abzweigen.
+Ich überlasse es dem Leser dieser Arbeit sich vorzustellen, wie das gehen soll ohne die Flüsse und Bäche im Gebirge zu zerstören. Mal abgesehen von der Zerstörung der Mittelgebirge durch 3780 Pumpspeicherwerke. An die Kosten ist ja noch nicht mal gedacht worden.
+Ganz schlaue Leute werden jetzt auf die Weiterentwicklung von Batterien hinweisen. Dazu soll ja nur Forschung notwendig sein. Die gibt es schon seit mehr als 100 Jahren ohne den gewünschten Erfolg. Aber vielleicht müssen wir dann ganz Deutschland 10 Meter hoch mit Batterien vollstellen. Auch damit wäre Deutschland endgültig weltweit Vorreiter in Sachen Dummheit und Paranoia.
+Zu Punkt 2:
+Um die fluktuierende Stromerzeugung aus Windkraft zu glätten, also in eine nahezu konstante Netzeinspeisung zu wandeln sind Speicher notwendig, die bei Überleistung speichern und aus denen bei Unterleistung elektrische Leistung abgegeben wird. Dazu wird ein Speichermanagement gebraucht, das die Speicheranlagen steuert. In der folgenden Grafik ist die Erzeugungsleistung eines Monats aus Wind dargestellt.
+Die Basis sind die Viertelstundenwerte der Leistungsmessung, die die Windrauhigkeit (Böen) ausblendet. Die Auswirkungen der Windrauigkeit auf die Netzfrequenz muss von drehzahlregelbaren rotierenden konventionellen Generatoren ausgeglichen werden. Windkraft ist, ebenso wie Photovoltaik, dazu nicht in der Lage. Windanlagen müssen immer die aus dem Wind gewonnene Leistung unmittelbar ins Netz einspeisen. Wenn das nicht geht, folgt die Notabschaltung oder die Windturbine verliert ihre Flügel.
+Zum Betrieb einer solchen Anlage ist ein Speichermanager (SM) erforderlich. Hier ist ein Beispiel. Er ermittelt die erforderlichen Betriebswerte für den nächsten Tag, den 1. März. 2012
+Der Speichermanager (SM) ermittelt aus den Viertelstundenwerten der Winderzeugerleistung des letzten Monats den Mittelwert, als rote Linie dargestellt. Aus den gelben Flächen ermittelt der SM die maximale Erzeugerleistung der Speicherkraftwerke am 4.Februar. Diesen Wert addiert er auf den Mittelwert und erhält damit den Grenzwert der maximal zulässigen Windleistung (graue Linie), bis zu der eingespeichert wird. Windleistung oberhalb dieses Grenzwertes muss abgeschaltet werden, also WKA abschalten. Dadurch wird erreicht, dass die Auslegung der Leistung für Pump- und Turbinenbetrieb der PSKW ungefähr gleich groß bleibt, was für Pumpturbinen sehr günstig ist. Spitzenleistungen (rote Flächen) zu speichern kostet viel Geld, kommt aber selten vor. Die werden dem Erzeuger aber auch honoriert.
+Es ergeben sich drei Bereiche :
+Unter der roten Linie ist die direkt ins Netz eingespeiste Windleistung (grün) plus der Leistung der PSKW-Generatoren (gelb)
+Zwischen der roten und der grauen Linie ist die Leistung der PSKW-Pumpen (grau)
+Über der grauen Linie ist die abgeschaltete Windleistung (rot)
+Man braucht jetzt für die Vorausschau auf den 1.März die meteorologische Windvoraussage für diesen Tag. Dann kann man, anhand der Daten des vergangenen Tages, Woche oder Monat, die voraus geschauten Grenzwerte ermitteln und danach die Anlagen fahren.
+rote Linie: Beginn der Speicherung von Windarbeit
+graue Linie: Beginn der Abschaltung von WKA.
+Aus der Grafik, die ja ein Blick in die Vergangenheit ist, kann man weitere Fakten für die Aufgabe der Glättung ableiten :
+1. Erzeugung Wind direkt plus Generatoren 4524 GWh
+2. Generatorarbeit (geschätzte gelbe Fläche 30%) 1357 GWh
+2a. Pumparbeit (geschätzte graue Fläche 30%) 1357 GWh
+2b. Abgeschaltete Windarbeit (geschätzte rote Fläche 10% 452 GWh
+3.Maximale Generatorleistung am 4.Februar 6,3 GW
+Nun wird man einwenden, dass man ja gespeicherten Windstrom nicht in die Vergangenheit verlegen kann. Deshalb mache ich mit der Grafik einen horizontalen Flip und jetzt kann man gespeicherten Windstrom in die Zukunft verlegen. Es ist ja nur zur Veranschaulichung der Funktion eines Speichermanagers. Die grauen Flächen, oberhalb der roten Linie werden mit Turbinen in gelbe Flächen unterhalb der roten Linie gewandelt.
+Jetzt kann man grob abschätzen wie viele PSKW vom Typ Goldisthal für den Betrieb des Monats Februar 2012 benötigt werden. Für die maximale Generator/Pumpleistung von
+6,3 GW sind rund sechs Werke erforderlich. Es sind aber 1357 GWh elektrischer Arbeit zu speichern. Goldisthal kann 8 GWh speichern. Also braucht man 169 Werke vom Typ Goldisthal um im Februar über die Runden zu kommen. Es ist nur eine grobe Abschätzung, denn zwischen den Speicherungen gibt es ja auch Ausspeicherungen. Das für die Speicheranlagen ein gigantischer Netzausbau erforderlich ist dürfte klar sein. Wie man aber aus Südaustralien zur Kenntnis nehmen musste, ist eine Versorgung aus Erneuerbaren nur bis zu ca. 35% möglich. Die Anpassung an die geforderte Netzlast muss immer mit drehzahlregelbaren Dampf- oder Wasserkraftwerken erfolgen. Von Wasserkraftwerken sollte man lieber Abstand halten wie der Dammbruch in Laos kürzlich gezeigt hat. Stabilität bedeutet die Frequenz von 50 Hz einzuhalten und keine Netzüberlastungen durch regionale Untererzeugung zuzulassen.
+Aus den Fakten des Aufsatzes ist klar zu erkennen, dass ein solches Konzept nicht umsetzbar ist, sondern nur dem paranoiden Kopf von ideologisierten Spinnern entfleucht sein kann. Sonst müsste man ja an Kriminalität denken. Das die Mehrheit der Fachleute schweigt ist schon sehr erstaunlich und das eine Bevölkerung so ungebildet ist und das nicht erkennt, ist nicht zu fassen. Solchen Menschen kann man alles einreden. Das kennt man in Deutschland ja bestens und hat nichts dazu gelernt.
+Hier ein Zitat aus dem Werk eines deutschen Kanzlers:
+„Man ging dabei von dem sehr richtigen Grundsatze aus, daß in der Größe der Lüge immer ein gewisser Faktor des Geglaubtwerdens liegt, da die breite Masse eines Volkes im tiefsten Grunde ihres Herzens leichter verdorben als bewußt und absichtlich schlecht sein wird, mithin bei der primitiven Einfalt ihres Gemütes einer großen Lüge leichter zum Opfer fällt als einer kleinen, da sie selber ja wohl manchmal im kleinen lügt, jedoch vor zu großen Lügen sich doch zu sehr schämen würde. Eine solche Unwahrheit wird ihr gar nicht in den Kopf kommen, und sie wird an die Möglichkeit einer so ungeheuren Frechheit der infamsten Verdrehung auch bei anderen nicht glauben können, ja selbst bei Aufklärung darüber noch lange zweifeln und schwanken und wenigstens irgendeine Ursache doch noch als wahr annehmen; daher denn auch von der frechsten Lüge immer noch etwas übrig- und hängen bleiben wird – eine Tatsache die alle großen Lügenvereine dieser Welt nur zu genau kennen und deshalb auch niederträchtig zur Anwendung bringen.“
+Den Namen schreibe ich nicht. Kann sich ja jeder denken wer das war. Es funktioniert aber immer noch prima.
+Michael Treml, Bremen
+Über den Autor. Er hat sein ganzes Berufsleben in der Stromerzeugung mit Großkraftwerken, der Fernwärmeerzeugung und Verteilung als technischer Angestelter verbracht und ist jetzt im Ruhestand.
+ich habe Ihren Beitrag sofort archiviert. Das sind genau die Sachen, die EIKE so wertvoll machen. Bin begeistert.
+„In den folgenden Stunden und Tagen erfolgte aber eine kontinuierliche Entnahme aus den Pumpspeicherkraftwerken, so dass der Füllstand lt.EEX am 26.01.2017 auf ca. 162 GWh fiel. Rein rechnerisch hätte man also noch ca. 27,5 Stunden Regelenergie bei reduzierter Turbinenleistung von ca. 5,9 GW = (7,1-1,2) GW zur Verfügung gehabt.“
+Wie kritisch die Lage werden kann, kann man unter anderem aus dem letzten Bericht von allen Übertragungsnetzbetreibern hier entnehmen: https://www.netztransparenz.de/portals/1/Content/Ver%C3%B6ffentlichungen/Bericht_zur_Leistungsbilanz_2016.pdf
+Hier meine Zusammenfassung des Berichtes:
+1. Ab 2017 gibt es kein Monitoring durch die ÜNBs, sondern nur noch Infos von den ÜNBs an das BMWi zum Zwecke des Monitorings (§ 12 Abs.5 Strommarktgesetz). Das heißt, keine Transparenz gegenüber der Öffentlichkeit und evtl. fehlende Kompetenz beim Monitoring!? (Seite 3)
+2. Der Bericht sieht nur eine Prognose 2017 – 2019, jeweils für den 3. Mittwoch im Januar, 19:00 Uhr (Jahreshöchstlast) vor. Eine Modellrechnung für die spannenden Jahre ab 2023 scheint es nicht zu geben!? (Seite 6)
+3. Ab 2019 sinkt die gesicherte Leistung therm. Kraftwerke inkl. Reserve auf ca. 82 GW nach „rekursiver Faltung“ (S.8)
+4. Ab 2016 wird durch Abschaltung älterer Braunkohlekraftwerksblöcke bis 2020 ca. 2,7 GW Sicherheitsreserve gebildet. Nach 4 Jahren erfolgte die Stilllegung (S. 15).
+5. Für 2019 beträgt der Leistungsbilanzüberschuss noch 4,2 GW. (S.19)
+Und zukünftig?
+6. Verbleibende Leistung Deutschland inkl. Reservekraftwerke ca. 1,1 GW + 3 GW Ausland = 4,1 GW (S. 30 + 35)
+Abgeleitet aus der Tabelle Seite 35 für Gesamtdeutschland ergibt sich folgende Tabelle für die Jahre ab 2024, wenn die Kernkraftwerke, die Sicherheitsreserve aus Braunkohle und zusätzlich noch ev. die gesamte Braunkohle entfällt.
+Leistung
+Spalte
+P (GW)
+1
+Gesicherte Leistung Inland
+14 b
+82
+2
+Gesicherte Leistung Ausland-Last
+21b-22
+3
+3
+Last
+17
+-80,9
+4
+Kernkraft
+1
+-9,5
+5
+Sicherheitsreserve BK
+(Seite 15)
+-2,7
+6
+Braunkohle
+2a- Zeile 5
+-17,8
+7
+Fehlleistung ab 2024
+Summe 1-5
+-8,1
+8
+Fehlleistung ohne BK gesamt
+Summe1-6
+-25,9
+Man kann also sehen, dass trotz unterschiedlichster Rechenmodelle und Datengrundlagen (EEX versus Amprion), es zu einem Fehlbedarf kommt.
+Was aber äußerst bedenklich ist, ist die Tatsache, dass die Experten, die die Gesamtverantwortung für das westeuropäische Übertragungsnetz tragen, kein Monitoring mehr machen dürfen???
+Ihr Beitrag enthielt und enthält jede Menge Steuerzeichen. Tlw. konnte ich sie entfernen. Bitte anderen Browser oder Texteditor verwenden.
+Lesen Sie Sarrazin genau!
+Das irrationale „Niveau“, wie vielfach hier vorzufinden, hat der nicht!
+I) Nie würde der die dümmlichste These der AfD schreiben: „Öl + Gas gehen nie aus“!
+Das haben Sie gar nicht gemerkt ? (Aber ihn gelesen?)
+II) Was die IREN soeben abgeschafft haben, will die AfD einführen, nämlich das Verbot, abzutreiben, sogar bei Vergewaltigung! Wir warten schon genüsslich, bis eine deutsche, germanisch- blonde Führungs-Lady von ein paar Nigerianern genommen wird u. sie – ihrem eig. AfD-Programm gemäß- das Ergebnis austragen muß ! Die Lesberin wirds ja ertragen- wollen, da wir sie angeschrieben haben, den mittelalterlichen Passus aus dem Programm zu nehmen- passiert ist NIX!
+III) Solange die AfD skandiert, das Öl u. Erdgas gehe nicht aus, also seien Regen. Energ. nie nötig und Humbug, kann man diese Spezies n i c h t ernst nehmen. Das Öl + Erdgas wurden in 200- 300 Mio Jahren gebildet u. in 200 J. entnommen,. d.h. 1 Mio mal schneller!
+IV) Es ist schade, sich mit solchen Irrationalen rumstreiten zu müssen, welche die Grundrechenarten nicht mehr können, die AfD andererseits z. Z. die einzige Kraft ist, die die Islamisierung Dtl.`s stoppen könnte !
+V) Ferner wäre da noch zu nennen, die fehlende Abgrenzung zum identitären Gschwerl, das die Grenzen von 1937, ja 1913 zurück erobern will!
+— Also, Karl der Große war ja mal bis tief in Italien, – schnappte sich das Langobarden Reich, das auch ihm später wieder abgenommen wurde – sollen wir das auch wieder zurück erobern? Ein paar hier hammse nimmer alle in der Birne !
+— Bei solcher IDIOTIE – werden wohl nur noch wenige der AfD zulaufen, — aber den Islam freuts!
+VI) Aus den z. Z. 7 Mio Muslimen werden im Jahre 2022 ca. 21,3 Mio geworden sein! (Berechn. später);
+VII) Aber- wegen der irrationalen Haltung von EIKE- u. AfD- Leuten bezügl dem CO2 – Komplex, läuft schon kaum mehr jd. zur AfD- auch wenn der status quo 17 % ist- sogar vor der SPD !
+VIII) Ob nämlich das CO2 das Klima erwärmt oder nicht (!), ist egal, da das Erdöl u. Erdgas dennoch ausgehen ! Und zwar lt. des IPCC (UN) das Öl in 38 J. u. Gas in 60 J.!
+https://deutsche-wirtschafts-nachrichten.de/2018/07/29/rolls-royce-baut-flugtaxi-mit-elektroantrieb/
+Da sieht man, die haben keinen blassen Dunst von Technik.
+Dazu kommt die irrsinnige Annahme, es würden den ganzen Tag ein Spitzenstrom abgefragt. Dabei liegt der Stromverbrauch nachts gut mehrere Stunden zwischen nur 50-60%.
+Sollten Sie praxisbezogene Beispiele nennen, sollten Sie auch bei der Praxis bleiben.
+Die noch immer von Ihnen unbeantwortete Frage: Was haben Sie wo mit welchem Abschluss studiert?
+ich hatte Ihnen schon mal geschrieben: Wer schlampig formuliert, der denkt auch schlampig!
+Sie werden es wohl nie lernen……
+Oder 3 Leute von der Straße, die sich lieber Gedanken um einen Schreibfehler machen, als um die inhaltlichen Fehler.
+Welche Energieträger haben 1kW Energie :
+1. Ein 10l- Eimer Wasser mit 100 Grad
+2. Starterbatterie eines Diesel-Kfz mit 80 Ah
+3. Ein Sektglas (0,1 l) voll Dieselöl
+4. Ein 40-Tonner LKW voll beladen auf Firsthöhe 10m eines Hauses hochgezogen
+Die Erdanziehung ist halt doch bescheiden!
+gar keiner. Die Einheit für Energie ist kWh (und davon abgeleitete), die Einheit für Leistung ist kW (oder davon abgeleitete). Macht aber nichts, Strom kommt aus der Steckdose.
+Dann auf Radio 1 der folgende Kommentar
+https://www.radioeins.de/programm/sendungen/der_schoene_morgen/kommentar/ulrike_bieritz.html
+Ich glaub, das war ihr letzter im RBB.
+Und ich glaub, dass EIKE wirkt 😀
+DAS glaube ich auch.
+Das Ökoabzockergesindel rund um Merkel wird das nicht dulden.
+ist in der Tat im Werk eines Mannes zu finden, der Kanzler und der schlimmste deutsche Verbrecher wurde.
+Da scheinen einige der jetzigen Politiker die Lügentechnik dieses Verbrechers abgekupfert zu haben, um wohl ebenso an die Macht zu kommen wie dieser Verbrecher. Ist schon heftig, daß die die Behauptung aufstellen mit Wind- und Solarstrom könne man den gesamten Energiebedarf der Deutschen abdecken. Noch nicht mal beim Strom geht es, der nur rund 1/3 des Energiebedarfs deckt.
+Irre wer von solchen Ideen überzeugt ist, diese umsetzten zu wollen.
+„Dazu müssen wir die gesamte Ökostromproduktion von 21 Tagen aufwenden, wenn denn Wind voll wehen würde. Also 21 Tage kein Strom in Deutschland.“
+Tut mir leid.
+Michael Treml, Bremen
+Kein Problem,ist korrigiert!
+Daran kann man erkennen wie ungebildet die Ökopolitiker und natürlich auch die ex-„DDR“-Kanzlerin möglicherweise sind. Oder könnte es sein, daß sie Opfer der Desinformationskampagnen der ökonomischen Ökopolitiker sind, denen es nur darum geht ihre politischen Freunde (Wähler) über Windmühlen und Solarpanels über Desinformationskampagnen mit Geld zu bedienen?
+Da hat der Autor aber großes Glück, schon im Ruhestand zu sein- denn mit diesem kritischen, voll ins Schwarze treffendem Beitrag hätte er sonst arge berufliche Nachteile fürchten müssen. Und wie verheerend Pumpspeicherkraftwerke für Natur und Landschaft sind, kann man in Goldisthal besichtigen. Praktisch unsere gesamten Mittelgebirge müssten für diesen Wahnsinn zerstört werden! Oder als Alternative „Ringwallspeicher“ bauen? Der Platzbedarf wäre so gigantisch, dass man dafür Millionen Menschen zwangsweise umsiedeln müsste. Na ja, kommt vielleicht, wenn die Grünen an der Regierung sind. Den Zwangsgebührenrundfunk haben wir ja schon… .
+noch eins:
+wußte gar nicht, daß es in Bremen intelligentes Leben gibt…
+MfG
+Ist Blödland dank der Merkel-Bande jetzt schon.
+„Aus den Fakten des Aufsatzes ist klar zu erkennen, dass ein solches Konzept nicht umsetzbar ist, sondern nur dem paranoiden Kopf von ideologisierten Spinnern entfleucht sein kann. Sonst müsste man ja an Kriminalität denken.“
+Denken Sie ruhig daran, Sie liegen nicht verkehrt.
+Ach ja:
+AfD wählen!
+Auch in Bayern!
+Das alte Blockparteiengesindel muß weg!
+Schnellstens!
+Das Problem wird so gelöst, wie Grün-Sozialisten da Problem immer lösen…mit dem Ausbluten einer Gesellschaft, deren Unterdrückung und einer Zukunft in Mangel, Gewalt und Armut! Siehe andere Sozialistische Staaten auf dieser Welt…Venezuela usw.

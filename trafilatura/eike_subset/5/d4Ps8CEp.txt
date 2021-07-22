@@ -1,0 +1,99 @@
+Nach meinen Erfahrungen bei der Bekämpfung dieser Legenden braucht es für jede Legende das Äquivalent zu einem Speer aus Eichenholz, der durch deren Herz gestoßen wird auf einer einsamen Straßenkreuzung um Mitternacht.
+Zufällig habe ich heute über Methan nachgedacht. Dieses Gas soll vermeintlich das Untergangs-Gas schlechthin vor allen anderen Triebhausgasen sein, viele Male stärker als CO2. Mache reden über Dinge wie die „Methan-Zeitbombe“, die irgendwo ticken soll und die uns alle nach Thermageddon blasen wird oder zumindest ins Klimatorium … der vermeintliche Fundort dieses explosiven Zeugs hat sich mit der Zeit geändert…
+Also habe ich mal gegoogelt nach „Methan viele Male stärker als CO2“. Dabei zeigten sich an vorderster Stelle die folgenden sechs Ergebnisse, von Nr. 1 abwärts:
+EPA: 20 mal so stark
+EDF: 84 mal so stark
+thinkprogress: 34 mal so stark
+onegreenplanet: 100 mal so stark
+psehealthyenergy: 20 mal so stark
+global-warming-forecasts: 72 mal so stark
+In diesen Zahlen erkennt man die initiale Bestätigung, dass der Methan-Alarmismus in Wirklichkeit eine moderne wissenschaftliche Legende ist … eine der roten Flaggen für derartige Legenden ist, dass niemand die genaue Zahl kennt, aber – Himmel, jeder ist absolut sicher, dass sie wirklich, wirklich groß und wirklich,wirklich schlecht für uns ist.
+Also fragte ich mich … Das IPCC sagt, dass die Änderung der atmosphärischen Absorption bei einer Verdoppelung des CO2-Gehaltes eine Zunahme um 3,7 W/m² ist. Wie viel Änderung würde aus einer Verdoppelung des Methan-Gehaltes folgen?
+Um diese Frage zu beantworten klickte ich mich auf die wundersame MODTRAN site. Unter Verwendung der heutigen Werte für CO2 (~400 ppmv) und Methan (~1,81 ppmv) ergibt sich eine Ausstrahlung [upwelling radiation] von 287,5 W/m².
+Dann habe ich den Methangehalt auf 3,62 ppmv verdoppelt, die Berechnungen noch einmal durchgeführt und bekam 286,7 W/m², die von der Obergrenze der Atmosphäre TOA emittiert werden …
+…
+…was bedeutet, dass falls sich aus irgendwelchen Gründen während der nächsten 100 Jahre der Methangehalt verdoppelt, der Gesamteffekt eine Zunahme der atmosphärischen Absorption um 0,8 W/m² wäre . Weniger als ein Viertel des Effektes einer CO2-Verdoppelung … schau an, schau an. Das soll das fürchterliche Methan sein, elf mal so stark wie CO2? Weniger als ein Watt pro Verdoppelung?
+Also wollte ich natürlich meine Berechnungen noch einmal durchgehen. Zu diesem Zweck verwendete ich die Formeln des IPCC bei der Berechnung der Änderung des Antriebs durch eine gegebene Änderung des Methan-Gehaltes. Diese Formeln finden sich hier, siehe Tabelle 6.2. Ich möchte Sie nicht mit den Berechnungen langweilen, aber sie zeigen: falls sich das atmosphärische Methan-Niveau vom gegenwärtigen Niveau von 1,81 ppmv auf 3,62 ppmv verdoppeln würde, würde der Antrieb um 0,54 W/m² zunehmen. Ein wenig geringer als die 0,8 W/m² von MODTRAN, aber von gleicher Größenordnung, deutlich unter 1 Watt pro Quadratmeter …
+Etwas langsamer zum besseren Verständnis. FALLS sich die Methan-Konzentration im nächsten Jahrhundert verdoppeln würde, würden wir eine Zunahme des Antriebs von
+Einem halben
+Watt pro Quadratmeter
+pro Jahrhundert
+erwarten.
+Und nun … wie wahrscheinlich ist es, dass sich der Methan-Gehalt innerhalb von 100 Jahren verdoppeln wird? Um dies zu beantworten können wir auf die jüngsten Änderungen des Methan-Niveaus schauen. Die jüngsten gemessenen Daten zeigen Folgendes:
+Abbildung 1. Quelle: NOAA/ESRL
+Eine Verdoppelung des heutigen Niveaus (1810 ppbv oder 1,81 ppmv) wären weitere 1810 ppbv. Wie man sieht, hat der Methan-Gehalt schneller bis etwa zum Jahr 1992 zugenommen, danach etwa linear mit einer geringeren Rate. Die Aufzeichnungsperiode macht etwa ein Drittel eines Jahrhundert aus (36 Jahre). Während dieser Zeit erfolgte eine Zunahme um etwa 250 ppbv. Dies bedeutet, dass im nächsten Jahrhundert bei einem „Business-as-Usual“-Szenario eine Zunahme um etwa das Dreifache erwarten können, oder 750 ppbv. Dies ist weit entfernt von einer Verdoppelung, welche 1810 ppbv betragen würde.
+Und der verstärkte Antrieb durch jene 750 ppbv? Nun … es ist ein läppisches Viertel von einem Watt pro Quadratmeter. Aber noch einmal langsamer. Unter einem „Business-as-Usual“-Szenario würden wir eine Zunahme des Antriebs durch Methan erwarten von
+Einem Viertel
+von einem Watt pro Quadratmeter
+pro Jahrhundert.
+Was ist, wenn die Anreicherungs-Rate aus dem Ruder läuft und das Methan anfängt, mit dem Dreifachen der gegenwärtigen Rate zuzunehmen? Das wäre zusätzlich 2250 ppbv pro Jahrhundert, welche zu einem zusätzlichen Antrieb von … zwei Dritteln eines einsamen Watts pro Quadratmeter führen würde. MODTRAN zeigt einen etwas höheren Wert, aber immer noch unter 1 W/m². Mickrig!
+Und wie groß ist die Wahrscheinlichkeit einer so hohen Rate, dreimal so hoch wie die gegenwärtige Rate von 750 ppbv pro Jahrhundert? Sehr gering. Das erkennt man durch die Betrachtung der letzten 1000 Jahre bzgl. des Methan-Niveaus. Man beachte, dass hier keine globalen Werte stehen wie in Abbildung 1. Da es einen Methan-Gradienten vom Nord- zum Südpol gibt, sind die Werte aus der Antarktis um einiges geringer als in Abbildung 1. Allerdings sind wir am Trend interessiert, der global überall der Gleiche sein dürfte:
+Abbildung 2. Quelle: NASA GISS
+Von 1900 bis 2000, welches im vorigen Jahrtausend das Jahrhundert mit der schnellsten Zunahme des atmosphärischen Methan-Gehaltes war, stieg die Konzentration um etwa 800 ppbv, ein wenig stärker als die jüngste Zunahme von 750 ppbv pro Jahrhundert (Abbildung 1). Es zeigt sich also keine Beschleunigung der Zunahme-Rate von Methan. Im Gegenteil zeigt sich eher eine Verlangsamung, zeigen doch die letzten beiden Jahrzehnte der Aufzeichnung lediglich eine Zunahme von etwa 400 ppbv. Und tatsächlich ist meine „Business-as-Usual“-Schätzung etwa so hoch wie der Rekord-Anstieg während der letzten eintausend Jahre.
+Als Ergebnis denke ich, dass es kaum Aussichten gibt, dass sich die Zunahme des Methan-Gehaltes während der kommenden 100 Jahre verdoppelt, geschweige denn verdreifacht … und selbst bei der sehr unwahrscheinlichen Verdreifachung läge die Zunahme des Strahlungsantriebs immer noch unter 1 W/m² pro Jahrhundert. Nicht pro Jahrzehnt. Pro Jahrhundert.
+Ich sage also, das ist kein Gas zum Fürchten. Das ist nichts weiter als ein kümmerliches Beispiel eines Chicken-Little-Gases [?]; ein Lachgas, wenn man so will. Für jeden, der hinsichtlich Methan besorgt ist, sind das gute Nachrichten. Man kann aufhören, sich Sorgen zu machen. Selbst eine extreme Zunahme von Methan über 100 Jahre würde nur einen trivialen Unterschied ausmachen bei dem Strahlungsantrieb. Der Gedanke, dass Methan eine Hauptfigur im Temperaturspiel ist, ist eine moderne wissenschaftliche Legende.
+Postskriptum: Ja, ich weiß um die Behauptungen von Einigen, denen zufolge Methan einige starke Rückkopplungen aufweist. Und ja, ich habe diese betrachtet. Eine lautet, dass steigende Temperatur auch einen zunehmenden Methangehalt bedeutet, weil Methan ein Nebenprodukt des Lebens ist, und Leben liebt Wärme. Mehr Wärme = mehr Leben = mehr Verfall = mehr Methan. Die Relation kann man hier einsehen.
+Das Problem jener Rückkopplung ist aber: welche Zunahme der Methan-Emissionen auch immer die jüngste globale Temperaturzunahme bewirkt haben könnte, ist bereits in beiden obigen Graphiken enthalten, Abbildungen 1 und 2. Also ist diese Rückkopplung bereits berücksichtigt in der vorhergesagten Zunahme von 750 ppbv pro Jahrhundert.
+Die zweite Rückkopplung ist der Tatsache geschuldet, dass Methan nur etwa zehn Jahre lang in der Atmosphäre verbleibt. Danach zerfällt es folgendermaßen (vereinfacht):
+CH4 ==> CO2 + 2H2O
+Wenn also das CH4 verschwunden ist, verbleiben zwei unterschiedliche Treibhausgase, Kohlendioxid und Wasserdampf. Oh, wie ängstigend!
+Aber das Problem mit jener Rückkopplung ist, dass die Zahlen bzgl. Methan so klein sind. Die atmosphärischen Niveaus der drei Gase sind etwa Folgende:
+Methan: 1,8 ppmv
+CO2: 400 ppmv
+Wasserdampf: 6400 ppmv.
+Nun dauert die Umwandlungszeit von Methan in der Atmosphäre größenordnungsmäßig zehn Jahre. Dies bedeutet, dass jedes Jahr ein Zehntel Methan umgewandelt wird oder 0,18 ppmv pro Jahrzehnt, d. h. 0,02 ppmv pro Jahr.
+Dies bedeutet, dass die Menge des zu CO2 und H2O zerfallenden Methans das CO2-Niveau jedes Jahr um etwa 0,02 ppmv zunehmen lässt (oder 2 ppmv pro Jahrhundert). Der Wasserdampfgehalt nimmt doppelt so viel zu oder um etwa 0,04 ppmv … bedeutungslos gering.
+Link: http://wattsupwiththat.com/2015/10/11/scientific-urban-legends/
+Übersetzt von Chris Frey EIKE
+Nach meinen Erfahrungen bei der Bekämpfung dieser Legenden braucht es für jede Legende das Äquivalent zu einem Speer aus Eichenholz, der durch deren Herz gestoßen wird auf einer einsamen Straßenkreuzung um Mitternacht.
+Ich habe da ein Problem: ich kann die Abstrahlung der Erdoberfläche berechnen,wenn ich die Sensorhöhe auf 0 km setze und nach oben schaue. Berechne ich daraus nach dem Stefan-Boltzmann-Gesetz die Strahlungstemperatur (Emissivität 0,98), erhalte ich einen kleineren Wert als angezeigt wird. Die Modellbeschreibung auf der Webseite funktioniert nicht. Kann mir da jemand weiterhelfen?
+Die Luft ist NICHT transparent für „Wärmestraglung“ im schmalen 15µm-Bereich wegen der Absorption durch das CO2-Molekül, das „unten NICHT strahlt.
+Steigt nun der CO2-Gehalt, so reduziert sich erdnah nur die Absorptionslänge.
+Allerdings steigt in der Stratosphäre und höher die Emission, was im Ergebnis einen Kühlefrfekt darstellen könnte.
+Das schreiben auch Wissenschaftler des IPPC:
+http://tinyurl.com/cnj6bnh
+mfG
+„Methan viele Male stärker als CO2“:
+Auf diese Wahnsinnsfaktoren von 20, 82 usw. kommt man mit dem IR-Atmosphärenprogramm MODTRAN nur, wenn man sowohl das CO2 als auch das Methan um dengleichen Betrag in ppm erhöht (z.B. 10 ppm). Allerdings ist Methan über 200 mal seltener in der Atmosphäre ist als CO2.
+Ein sinnvoller Vergleich der „Klimaschädlichkeit“ zwischen den beiden Gasen wäre viel eher der, wenn man den Einfluß beider bei z.B. Verdoppelung der Konzentration vergleichen würde.
+Dabei kommt bei einer Standardatmosphäre anstatt 20 oder 84 nur ein Faktor von 0.16 heraus!
+Die Wahnsinnszahlen sind also nicht falsch, aber völlig irrelevant! Wo man auch hintritt: Überall tritt man Kakerlaken tot!
+MfG
+G.Wedekind
+Eine brennende Kerze verlischt, wenn kein Sauerstoff mehr vorhanden ist, obwohl noch jede Menge Kerze da sein mag. Wenn in Bodennähe keine oder nur wenig IR -Strahlung gemessen wird, weil diese nahezu vollständig absorbiert wird, was soll dann noch mehr CO² absorbieren ?
+seit der Rhein kontinuierlich sauberer geworden,
+größte Verschmutzer sind hier schon lange die ideologisierten Kommunen selbst,
+steigt die Zahl der Fische kontinuierlich und man hat hier sogar neue Spezien entdeckt, die es früher nicht im Rhein gab.
+Im im übrigen fördert nicht nur der CO2-Anstieg Vegatation und Artenvielfalt, sondern auch die Temperatur.
+Der genetisch „moderne Mensch“ (cromagnon) ist erst ca. 40.000 Jahre alt, verdammt wenig, alle seine Vorfahren oder „Nebenlinien“ wie der Neandertaler, der immerhin ca.150.000 durchgehalten hat, sind ausgestorben, warum auch immer, nobody knows, wie bei den Sauriern mit ihren 150 Millionen Verweilzeit.
+Nichts spricht dagegen, dass der „moderne Mensch“ sich selbst wieder beseitigen könnte. Im Gegenteil ist das erkennbares politisches Programm vieler,
+die darauf noch stolz sind.
+mfG
+Bis dato sind 99% ALLER Lebewesen auf diesem Planeten ausgestorben. Sicher gibt es heute Probleme, das ist unbestritten. Panikmache hilft aber nicht. Achja… und grade die sogenannten „Klimaretter“ und „Anti-Gentechnik“ Flachschädel betreiben die größten Umweltverschmutzungen. Aber erzählen Sie das mal dem deutschen Michel…..
+Diese Zunahme durch Methan ist gleich Null. Denn: solange der Dampf (Atmosphäre)mit der Flüssigkeit (Ozeane)in Kontakt kommen kann, hängt der Partialdruck des Dampfes nur von der Temperatur ab.Wenn der Dampf in der Stratosphäre entsteht, kann es aber zu zeitlichen Effekten kommen, da es dauert bis das Molekül aus der Höhe zur Meeresoberfläche kommen kann.
+Soviel mir bekannt ist, nur die Vernunft.
+Oder denken Sie an die Vögel bei den vielen modernen Windmühlen?
+Da könnten Sie recht haben.
+Oder die Deutschen in Deutschland?
+Wenn man in Düsseldorf durch die Innenstadt geht, ist dieser Eindruck sehr stark.
+Man verzichtet bei ausländischen Schildern in vielen Geschäfte bereits auf deutsche Untertitel.
+mfG
+so darf Methan gerne auch 100×0 haben, erinnert mich an den alten Kölner Schlager
+3×0 is 0 blief 0,
+denn wir woren in der Kaygass in der
+scho-o-ol …
+http://tinyurl.com/oybzywl
+die AGW ärgert sich immer fürchterlich, wenn man dieses Diagramm zeigt,
+insbesondere die Eiszeit bei über 4000 ppm CO2 🙂
+Es mag ja schwer nachvollziehbar sein, dass, dass der Mensch globale Klimaveränderungen durch CO2-Emissionen auslöst, aber dass er durch Landnutzungsänderung u.v.a. Lebensräume und Arten vernichtet (und verändert durch Domestizierung, Züchtung, Genveränderung) ist wohl offensichtlich – auch wenn unsere Satellitenbilder nur ein halbes Jahrhundert abbilden.
+Viel stärker als die durch die industrielle Revolution gewachsene Emission von irgendwas sind die menschliche Population – und ihre individuellen Ansprüche gestiegen, dass das nicht spurlos am Planeten vorübergeht (ja,wir sind endlich), ist doch unbestritten.
+atmosphärische Gase ! Wasserdampf mit 0,64 Vol. % bzw. 13 Millionen in der Atmosphäre absorbiert
+70 % der einfallenden Strahlung von der Sonne und sorgt dafür, dass wir nicht ständig in einer Eiszeit leben. Gleichzeitig haben aus winzigen Wassertröpfchen bestehende Wolken einen ausgleichenden Effekt bezüglich Abkühlung oder Erwärmung – ein wirklich phantastisches Molekül,
+ohne dass es nicht einmal den für uns notwendigen
+und durch Photosynthese erzeugten Sauerstoff gäbe.
+Die Hysterie um CO2 (und CH4)kommt zu einem großen Teil auch aus der Biotreibstofflobby, die in schizophrener Verkennung der Tatsachen behauptet, dass nur das CO2, welches von aus pflanzlichen Ölen oder Stärke hergestellter Biotreibstoffen beim Verbrennen freigesetzt wird, von Pflanzen aufgenommen wird jedoch nicht das aus fossilien Treibstoffen freigesetztes CO2 – und diesen Unsinn glaubt eine unerträglich einfältige Öffentlichkeit auch noch. Diese Biotreibstoffhersteller werden staatlich subventioniert und bangen um ihre Subventionen, ohne die sie nicht wettbewerbsfähig wären – der Kampf muss also gegen die Biotreibstofflobby geführt werden ! Gleicher Unsinn wird übrigens auch beim Vergelich von hauptsächlich aus CH4 und CO2 bestehendem Biogas im Vergleich zu Erdgas behauptet !!!
+Ein Schmankerl am Rande: Die Quellen von Methan sind vor allem stehende Gewässer mit anaeroben Prozessen. Also Nassreisanbau und Stauseen. Zusätzlich werden Rinder der bösen Methanproduktion beschuldigt. Abgesehen davon, dass es keine Gefahr durch Methan gibt, sind es oft einfach die Klimaschutzmaßnahmen, die jene vermeintliche ‚Gefahr‘ vertiefen.
+Dabei zeigen Satellitenmessungen z.B: bei der ESA „Erste Animationen der Treibhausgasverteilung – mit Envisat SCIAMACHY-Daten“ (dort ist eine Animation für 2003 zu sehen), daß die großen Methanerzeuger die borealen Wälder im Spätsommer sind, offensichtlich, wenn die Pflanzen das Absterben beginnen.
+Sollen wir also die ganzen borealen Wälder abholzen, um der „Methankatastrophe“ zu entgehen?
+MfG
+G.Wedekind

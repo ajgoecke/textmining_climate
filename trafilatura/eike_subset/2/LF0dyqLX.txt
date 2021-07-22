@@ -1,0 +1,178 @@
+Der Berliner „Tagesspiegel“ meldete eine aktuelle Erkenntnis solch wissenschaftlicher Expert*innen zu Corona: [1] … Schon lange vermutet, jetzt auch wissenschaftlich belegt: Die Luftqualität beeinflusst, wie viele Menschen in einer Region an Covid-19 sterben …
+Und das mit einer Präzision, die alles in den Schatten stellt: “ … Wir haben herausgefunden, dass ein Anstieg von nur einem Mikrogramm Feinstaub pro Kubikmeter Luft mit einer 15 Prozent höheren Todesrate von Covid-19 zusammenhängt …“
+Das wirklich Schuldige ist gefunden
+Damit ist wissenschaftlich bewiesen: Mag die Politik auch nicht ganz unschuldig an der schnellen und globalen Verbreitung des Corona-Virus sein, am wirklichen Problem – der hohen Mortalität und Belastungen der medizinischen Infrastruktur – hat sie keinen Anteil, beziehungsweise, wären sie früh genug GRÜNem Rat nach noch reinerer Luft gefolgt, wären viele – und nun berechenbare – Mortalitätsfälle verhinderbar gewesen.
+Glaube und Statistik sind nicht weit voneinander entfernt
+Anmerkung: Der Autor ist ein überzeugter Verfechter von gut angewandter Statistik. Was allerdings von angeblichen „Wissenschaftlern“ – vor allem beim Klima, Ökoenergie und nun der Coronakrise – dazu gerechnet wird, ist so weit ab von jeglicher Seriösität, dass dahinter Methodik angenommen werden muss. Das wäre nicht weiter schlimm, wenn das in diesen „Wissenschaften“ ausgemerzt würde. Erkennbar geschieht genau das jedoch nicht. Und unsere Medien finden das auch richtig toll, weil es die geforderten Schlagzeilen liefert.
+Renommierte Institute rechnen besonders genau
+Der Tagesspiegel bezieht sich auf die Studie: [2] Harvard T.H. Chan School of Public Health: Exposure to air pollution and COVID-19 mortality in the United States
+Wobei fraglich ist, ob jemand von der Redaktion diese Studie selbst gelesen und verstanden hat. Eher wurden nur Inhalte der reißerischen Pressemitteilung kopiert und medial verstärkt.
+In der Studie selbst wurde untersucht: [2] We investigate whether long-term average exposure to fine particulate matter (PM2.5) increases the risk of COVID-19 deaths in the United States
+Mit enormem Aufwand und Sorgfalt wurden in dieser Studie über ca. 3.000 (in den abschließenden Berechnungen ca. 2.400) regionale Datensätze alle möglichen Störfaktoren multivariat-statistisch herausgerechnet. Dies um an den einen (vermuteten) Einflussfaktor (unter vielen): Die mittlere Feinststaubkonzentration PM2.5 vom Jahr 2000 bis 2016 zu gelangen, mit der die am Coronavirus verstorbenen Probanten 16 Jahre lang lebten und daraus präzise deren Mortalitätseinfluss auf Corona-infiszierte Probanten zu berechnen:
+[2] Methods: Data was collected for approximately 3,000 counties in the United States (98% of the population) up to April 04, 2020. We fit zero-inflated negative binomial mixed models using county level COVID-19 deaths as the outcome and county level long-term average of PM2.5 as the exposure. We adjust by population size, hospital beds, number of individuals tested, weather, and socioeconomic and behavioral variables including, but not limited to obesity and smoking. We include a random intercept by state to account for potential correlation in counties within the same state.
+Und das quantifizierte, gesicherte, bezüglich der Wahrscheinlichkeit genau eingrenzbare Ergebnis lautet:
+[2] Results: We found that an increase of only 1 g/m3 in PM2.5* is associated with a 15% increase in the COVID-19 death rate, 95% confidence interval (CI) (5%, 25%). Results are statistically significant and robust to secondary and sensitivity analyses … Conclusions: A small increase in long-term exposure to PM2.5 leads to a large increase in
+COVID-19 death rate, with the magnitude of increase 20 times that observed for PM2.5 and allcause mortality …
+*PM2,5 ist der feinste Feinstaub mit einer Partikelgröße bis 2,5 Mikrometer. Der Grenzwert in Deutschland beträgt laut UBA seit 2015 25 μg/m3. In den untersuchten Gebieten der USA betrug der Durchschnittswert 9 μg/m3.
+Die Harvard-Feinststaub-Coronavirus-Studie
+Anbei ein kurzer Blick in die Studie.
+Datengewinnung und Auswertung:
+COVID-19 deaths: We obtain COVID-19 death counts for each county in the United States Exposure to air pollution: We calculate county level long-term exposure to PM2.5 (averaged for 2000 to 2016) from an established exposure prediction models.
+Potential Confounders (potentionelle Störfaktoren): We consider the following sixteen county level variables and one state level variable as potential confounders: population density, percent of the population ≥65, percent living in poverty, median household income, percent black, percent Hispanic, percent of the adult population with less than a high school education, median house value, percent of owner-occupied housing, population mean BMI (an indicator of obesity), percent ever-smokers, number of hospital beds, and average daily temperature and relative humidity for summer (June-September) and winter (December-February) for each county,
+Statistical methods: We fit zero-inflated negative binomial mixed models (ZNB) using COVID-19 deaths as the outcome and PM2.5 as the exposure of interest
+Results: Our study utilized data from 3,080 counties, of which 2,395 (77.8%) have reported zero COVID-19 deaths at the time of this analysis. Table 2 describes the data used in our analyses. Al COVID-19 death counts are cumulative counts up to April 4, 2020.
+Dazu die in der Studie gezeigte Übersicht der Feinststaubverteilung in den USA:
+Ein anderess Bild der Feinststaukonzentrationen
+Die in der Studie gezeigte Verteilung der Corona-Mortalität, bezogen auf die Einwohnerzahlen: Bild 4 zeigt die tabellierten Daten der sorgfältig herausgerechneten, weiteren Einflussgrößen (County level risk fastors characteristics). Man beachte die großteils (mehr als) enormen Standardabweichungen (SD):
+Beispiel: % Below poverty level (% unter der Armutsgrenze): 10,3 (5.1)
+Gelesen wird das: Mittelwert: 10,3; Standardabweichung: 5,1
+Die Aussage daraus: Der wahrscheinlichste Wert ist 10,3 (Mittelwert). Will man diesen jedoch mit 95 % „Sicherheit“ wissen, bzw. den Wertebereich darin eingrenzen, dann liegt er allerdings irgendwo zwischen 0,1 … 20,5 (Anm.: +- 2 x Standardabweichung schließen 95 % Fläche der Normalverteilung ein).
+Viele Streuungswerte in dieser Tabelle zeigen (neben der teils extremen Unsicherheit) ein weiteres Problem: Die Basiswerte beginnen bei Null. Deren Standardabweichungen (2 mal; 3 mal Standardabweichung) reichen teils bis gegen Null und teils ins Negative. Ein drastischer Hinweis, dass es sich mindestens um schiefe Verteilungen handeln muss. In solchen Fällen ist eine solch einfache Varianzangabe aber falsch. Noch falscher wäre, wenn damit gerechnet und beurteilt würde …
+Feinststaub (PM2.5) und weitere Luftschadstoffe
+Nun eine kurze Übersicht, welche und mit welchem Anteil Luftschadstoffe vorliegen (können).
+Korrelation oder regellose „Kugelhaufen“
+Nun Daten zu „Corona“:
+Ein Streudiagramm zeigt augenscheinlicher als statistische Zahlenwerte (z.B. der Korrelationsfaktor), ob es eine mögliche Korrelation oder eher nur eine Stochastik (regelloser Zusammenhang) vorliegt.
+Zum Beispiel zeigt die internationale, auf die Anzahl der Fälle bezogene Mortalitätsrate eher Unregelmäßigkeit (wenig Zusammenhang, also keine Korrelation), was bedeutet: Die Summe an Infizierten in einem Land hat keinen Zusammenhang auf die Mortalitätsrate. Und das gilt sowohl für große, mittlere und kleine Fallzahlen.
+Ein vergleichbares – korrelationsloses – Bild ergibt sich auch für Deutschland. Damit ist sichergestellt, dass die Ergebnisse nicht durch eventuelle, schlechte Erfassungsqualitäten im Ausland verfälscht wird.
+Auch scheint es (zumindest in Deutschland) keine gute Korrelation zwischen der Einwohnerzahl und der Coronamortalität zu geben (Bild 11.5).
+Die Studie schafft es trotzdem, solche eher stochastischen Einflüsse herauszurechnen: We adjust by population size …
+Und (laut den Autoren) gelang es ihr aucg, durch Herausrechnen aller anderen, möglichen Störfaktoren, den Einflusswert zu finden und berechenbare Korrekturwerte zu erhalten: We adjust by … number of individuals tested,
+Leider finden sich in der Studie keinerlei solche Diagramme, auch nicht zum betrachteten PM2,5-Wert. In der Studie selbst wird sowieso kein wenig bis kein Wert darauf gelegt, die Ableitungen nachvollziehbar darzulegen. Sowohl in dieser, wie auch in vielen anderen Studien (welche der Autor bisher zum Klimawandel und Ökoenergie gelesen hat), wäre dafür auch gar kein Platz, denn sie sind oft nur wenige Seiten lang. Die Peer-Reviewer sind aber bestimmt immer so kompetent, Studien trotzdem inhaltlich genau überprüfen zu können. Wobei diese Studie noch nicht peer-reviewt wurde.
+Bleibt noch die Frage, wie weitere, extreme Störfaktoren „herausgerechnet“ werden (konnten):
+–Wuhan erhöhte mal „so eben“ die Höhe der Mortalität um 50 %;
+-In Belgien sollen mit Corona-Virus Gestorbene in Alten- und Pflegeheimen teils nicht erfasst worden sein;
+-jeder mit Corona-Virus-Infekt Verstorbene gilt automatisch als „Coronaopfer“.
+Lässt sich mit dieser Festlegung überhaupt noch seriös nach kleineren Einflussfaktoren auswerten? Bestimmt kommen solche Ungenauigkeiten in den USA-Daten gar nicht vor …
+Ein Fazit
+Nach Sichtung der Studie (und vielen Zahlen über „Corona“) behauptet der Autor, dass die von den Studienautoren getätigte Aussage zur Mortalitätsauswirkung von Feinststaub keine Fakten, sondern eher eine Vermutung ist. Diese Aussage aus den vielen Daten mit ihren unterschiedlichsten Verläufen über den Untersuchungszeitraum und wohl oft auch unbekannten (falls überhaupt) statistischen Verteilungen lässt sich wohl kaum – und schon gar nicht – mit der angegebenen Genauigkeit ermitteln.
+Allerdings ist der Beleg für die Aussage des Autors durch Nachrechnen, einmal aufgrund der (weniger als) rudimentären Angaben in der Studie nicht möglich und ein Aufbereiten anhand von Material aus den Originalquellen privat nicht entfernt durchführbar.
+Anhand der Daten-“Qualität“ der deutschen Coronadaten soll weiter gezeigt werden, weshalb daran gezweifelt wird.
+Corona(Daten) von Deutschland
+Einnige Daten lassen sich beim Robert-Koch-Institut [4] einsehen. Anbei Darstellungen daraus mit eigenen Ergänzungen (Datenstand 12.04.2020). Leider legt dieses Institut eher Wert auf optisch „schöne“, als auf informative und auswertbare Darstellungen, so dass einige Grafiken anhand der Tabellenwerte selbst erstellt werden mussten.
+Zum Glück sind für Deutschland einige Daten auch zu den Landkreisen hinterlegt. Es lohnt sich, diese mal anzusehen. Denn mit diesem liegt ein im Ansatz mit der US-Studie vergleichbares Datenmaterial vor.
+Der Autor hat (orientierende) „Auswertungen“ für alle Landkreise mit mindestens 100 Coronafällen gemacht, was eine statistisch auswertbare Anzahl von 305 Landkreisen ergibt.
+Anmerkung: in der US-Studie wurden Regionen ab 10 Fällen in die Auswertung aufgenommen. Bei diesen ist die wichtige Mortalitätszahl jedoch sehr häufig Null. Als Folge werden die Streuungen und Vertrauensbereiche groß und die Verwendung solcher Daten macht die Aussagegenauigkeit eher schlechter als besser.
+Das erste Diagramm der Mortalitätsrate Betroffener zeigt eine schöne, geometrische Verteilung (wie man sie wegen der mit Null beginnenden Fallzahlen laut Lehrbuch auch erwartet).
+Es gibt recht „tödliche“ Landkreise und verblüffend gesunde. Nach der Krise wäre es interessant, die Gründe für eine solch weite Mortalitätsspanne zu erfahren.
+Nun das gleiche Histogramm, aber mit allen Landkreisen (also auch denen unter 100 Fällen und Mortalitätszahlen von Null). Die minimale Fallzahl beträgt dann 11 Fälle, also mehr, als in der US-Studie als ausreichend erachtet wurde.
+Man sieht nun ganz deutlich, dass die Landkreise mit kleinen Fallzahlen die Verteilung „zerstören“. Ein pauschaliertes Auswerten wie mit der oberen Verteilung – vielleicht sogar mit Annahme einer Normalverteilung (weil es sich nur damit mit vertretbarem Aufwand rechnen lässt) – würde zu enormen Fehlern führen.
+Nun Auszüge von Mortalitätswerten (Anzahl Todesfälle/Coronafall) für verschiedene Landkreise, um die gewaltigen Mortalitätsspannen zu zeigen, die keine „Rücksicht“ auf Stadt- oder Landkreis nehmen:
+Lässt sich daraus etwas ableiten?
+Man benötigt sehr viel Phantasie, um daraus einen signifikanten Einfluss von Feinststaub zu ahnen, oder gar abzuleiten.
+Beispiele:
+– Bayern ist gerade als Flächenland sehr stark betroffen. Die Mortalität der von Luftschadstoffen laut der Deutschen Umwelthilfe stark betroffenen Stadt München liegt mit 0,88 % jedoch im unteren Bereich
+Anmerkung: Diese Begründung kann auch falsch sein, denn Feinststaub wird in größerem Maß (zwischen 10 … 20 %) auch von der Landwirtschaft emittiert. Nach der Studie könnte es bezüglich Corona also vielleicht günstiger sein, länger in einer ansonsten mit anderen Schadstoffen hoch belasteten Stadt zu wohnen
+– Berlin Neukölln (Innenstadtbereich) liegt mit 2,11 % gleichauf wie die ländliche Gegend Dahme-Wald-Spreekreis.
+– Die Stadt Wolfsburg, die Landkreise Lüchow-Dannenberg und der Odenwaldkreis haben (für Deutschland) eine extreme Mortalität von 12 … 14 %
+– Die Stadt Fürth liegt mit einer Mortalität von 4,91 % unter der ihres sehr ländlichen Landkreises mit 7,37 %.
+Wovon können so unterschiedliche Fallzahlen – dazu noch entgegengesetzt, wie man es nach der Studienaussage erwarten würde – eventuell abhängen:
+Gerade steht in einer Lokalausgabe (Ausgabe vom 14.04.): Zahl der Toten im Landkreis steigt. Über die Osterfeiertage sind im Landkreis Fürth weitere Coronaopfer zu beklagen. Alle stammen aus Seniorenheimen (Anmerkung: Fast alle vorherigen Corona-Todesfälle im Landkreis und der Stadt stammen ebenfalls „aus“ Seniorenheimen).
+Seniorenheime haben anscheinend eine extreme, positive Korrelation zur Coronamortalität.
+Vielleicht gehen vor allem feinststaubgeschädigte Personen in Seniorenheime, oder in Seniorenheime sind vor allem feinststaubbelastete Gebäude, oder etwas ganz anderes ist wesentliche Ursache …
+Auf jeden Fall müss(t)en nach einer so eindeutigen, statistischen Korrelation vorrangig alle! Seniorenheime „geräumt“ werden, um die Mortalitätszahlen zu verringern …
+Warum ordnet dies bei einer solch extremen Korrelation niemand an … ?
+Gut, in Italien mit seiner extrem hohen Mortalität von 32 % auf 100.000 Einwohner soll es vor allem (auch) daran liegen, dass die Betroffenen gerade nicht in Seniorenheimen wohnen, sondern zuhause im Kreis ihrer Großfamilien. Ein Beispiel, wie es für den gleichen Sachverhalt zwei gegensätzliche Korrelationen gibt und Beispiel, dass eine Korrelation keine analytische Aussage ersetzt, oder/und zu Fehlinterpretationen verführt.
+Verschmutzung als Ursache kann nie falsch sein. Und die NGOs können dann endlich auch zu Corona „Tote“ weltweit einfachst berechnen …
+Vielleicht ist es in Italien dann doch auch die Feinstaubbelastung, wie es ja schon publiziert wurde, da der Ausbruch in einer Industriezone „startete“?
+BR24: 24.03.2020: #Faktenfuchs: Was hat Luftverschmutzung mit Corona zu tun?
+Forscher vermuten einen Zusammenhang von Luftverschmutzung und dem Verlauf von Lungenkrankheiten bei Covid-19-Patienten. Es könnte eine Erklärung für die hohe Todesrate in Norditalien sein. Ein #Faktenfuchs zum Stand der Erkenntnisse.
+Die Karte der Europäischen Umweltagentur EEA ist eindeutig: Italien hat im Vergleich zu anderen westeuropäischen Staaten die am stärksten belastete Luft. Vor allem die Region Norditalien, die besonders stark von der Corona-Pandemie betroffen ist, hat eine historisch hohe Luftverschmutzung aufzuweisen. Die EEA nimmt für ihre Berechnung der Luftverschmutzung Stickstoffdioxid (NO2), Feinstaub und bodennahes Ozon zusammen – alles Faktoren, die im stark industrialisierten und eng besiedelten Norden Italiens zu finden sind.
+… Zwar lägen noch keine Forschungsergebnisse zu Covid-19 und Luftverschmutzung vor, es sei jedoch naheliegend, dass es eine Verbindung geben könnte, da „die überwältigende Mehrheit der Studien beweist, dass Luftverschmutzung eine große Rolle dabei spielt, ob eine pneumatische Erkrankung mild oder schwer verläuft“.
+… Auch der Berliner Virologe Christian Drosten wird in seinem NDR-Podcast (Folge 18) auf eine mögliche Verbindung von Luftverschmutzung und Lungenkrankheiten angesprochen. Drosten sagt, dass “einiges darüber spekuliert werde”, dass aber weitere Korrelationen (wechselseitige Beziehungen) ebenfalls zu berücksichtigen seien – wie beispielsweise das Rauchen. So sei für Drosten eine mögliche Erklärung dafür, dass in China mehr Männer als Frauen an Covid-19 erkrankt sind, darauf zurückzuführen, dass „in China vor allem die Männer rauchen“.
+Nun hat der Autor gelesen, dass in der am schwersten betroffenen Zone in Italien – in der auch die Pandemie begann – vor allem viele Chinesen leben, welche als Gastarbeiter in der lokalen Industrie beschäftigt sind. Und diese haben über längere Zeit – als der Virus in China längst wütete – regen Personenaustausch mit ihrem Heimatland gehabt. Schließlich hat nur der penetrant doofe US-Präsident frühzeitig seine Grenzen für Chinesen dicht gemacht, was v. d. Leyen (Ärztin) damals auch sofort als ungeheuerlich geisselte und Deutschland – das blind alles macht, was und wie die EU es vorgibt (ist so im Koalitionsvertrag festgelegt) – pflichtbewusst auch lange nicht machte und danach erst einmal vollkommen inkonsequent.
+So konnten noch lang nach dem Ausrufen der Pandemie Iraner problemlos und unbehelligt aus ihrem Hotspot nach Deutschland einfliegen.
+Als in Ischgl ein Ansteckungshotspot herrschte, beeilte man sich die mit hoher Wahrscheinlichkeit anteilig mit infizierten Deutschen Urlauber schnell zurückfahren zu lassen. Maßnahmen für diese Risikogruppe daheim? Völlige Fehlanzeige.
+Auch die im BR24-Artikel gezeigte Karte der Umweltverschmutzung zeigt etwas Sonderbares: Warum haben Italien und Spanien eine ähnlich (und dazu extrem hohe) Mortalitätsrate, obwohl in Spanien eher wenig Luftverschmutzung zu sehen ist? Und Österreich mit den östlichen Ländern, welche von „Luftverschmutzung“ ebenfalls ganz dunkel sind, melden kaum Mortalität, die dafür in Frankreich mit seiner „reinen Luft“ wieder sehr stark wütet.
+Alles Fragen, die unsere Medien nicht stellen.
+Und laut BR24 gibt es noch weitere Risiken:
+… weitere Risikofaktoren, die laut der amerikanischen Forscherin Sabra Klein von der Johns Hopkins University dazu führten, dass Männer ebenfalls als eigene Risikogruppe zu betrachten sind – genau wie ältere Menschen …
+… Darüber hinaus sind Männer als eigene Risikogruppe zu betrachten, da sie deutlich häufiger durch den neuartigen Corona-Virus erkranken und auch sterben …
+Wie man sieht, ist die Qualität der Daten nicht allzu gut und bereits orientierende Analyseversuche zeigen starke Inhomogenitäten.
+Versuchen welche, dieses Problem zumindest ansatzweise zu lösen, werden diese nicht unterstützt, sondern daran Mängel gesucht: RP online: Zweifel an Seriosität der Heinsberg-Studie
+Ausgerechnet die Politik forciert die „Zweifel“, wo gerade sie Interesse an besseren Daten haben sollte.
+In Amerika scheint es damit nicht besser zu stehen. Der Artikel: EIKE 15. April 2020: Die Kurve abflachen
+zeigt, dass es auch in den USA kaum gelingt, selbst scheinbar plausible Einflussfaktoren wirklich zu bestimmen oder zu belegen.
+Trotzdem sagen die Sudienautoren, dass es ihnen bei einer im Vergleich geringen Einflussgröße mit hoher Genauigkeit gelungen wäre.
+Datenqualität der Feinstaubbelastung PM2.5 in Deutschland
+Die Studie berechnet für die gesamte USA aus den Daten vom Jahr 2000 bis 2016 genau einen Einfluss heraus. Sehen wir einmal nach, ob dies im Hochtechnologieland Deutschland mit seinen umfangreichen Schadstoff-Monitoringprogrammen für den Einfluss von Feinststaub realistisch durchführbar wäre.
+Das Umweltbundesamt gibt an: UBA PM2,5 wird seit dem Jahr 2008 deutschlandweit an rund 200 Messstationen überwacht.
+Für ganz Deutschland Beginn im Jahr 2008 mit gerade einmal 200 Messstationen? Da müssen die USA ja mindestens acht Jahre früher und viel, viel flächendeckender begonnen haben …
+Allerdings publiziert das UBA eine Grafik mit Feinstaubdaten, beginnend mit dem Jahr 2000:
+Danach hat die Konzentration beginnend mit dem Jahr 2000 von 77,3 % auf 20 % im Jahr 2016 abgenommen (Minderung: von 100 % auf 26 %; -74 %)
+Eine andere Verlaufsgrafik aus einem Bundesland zeigt weitere Details:
+Verlauf der Feinstaub-Konzentration über den Messzeitraum vom 7. November 2012 bis 28. Mai 2013: Einzelmesswerte für das Tagesmittel, der Mittelwert und der Zielwert über den gesamten Messzeitraum. Quelle: BLfU Bayern. Bericht Luftgüte im Bad Heilbrunn, 2014
+Kann man bei solch großen Unterschieden während und im Betrachtungszeitraum für eine Einflussgrößenberechnung noch den Mittelwert über 16 Jahre verwenden, wie es die US-Studie gemacht hat?
+Das UBA erstellt auch Jahresberichte (leider nur für wenige Jahre und erst ab 2010 auf der Homepage zu finden). Darin sieht man die große Spanne an regionalen Unterschieden und kurzzeitigen Veränderungen:
+Nachdem das UBA schreibt, dass im Jahr 2008 deutschlandweit mit 200 Messstellen begonnen wurde, ein Blick nach Bayern.
+Für das Jahr 2010 sind im UBA-Dokument: Dokument Erstellt am 25.03.2014: Jährliche Auswertung Feinstaub (PM2,5)- 2010 (Excel-Version)
+für ganz Bayern fünf Stationen gelistet, diese konzentriert in drei Städten:
+Im Bericht zum Jahr 2017 sind für Bayern 30 Messstationen gelistet und für ganz München nun vier:
+Für die Großstadt München beträgt die Stationsabdeckung nun anstelle zwei Messstationen gewaltige vier.
+Damit lässt sich „fundierte“ Statistik betreiben. Den Zahlen sieht man ja nicht an, wie falsch sie sein können.
+Eine Frage war noch offen: Wie genau wird eigentlich gemessen? In einem TÜV-Bericht stehen für eine hochwertige Messstation über die Messgenauigkeit: [5] Genauigkeit: +-2,0 μ/m3 <80 μ/m3
+Erinnerung: Alleine die Mess(un)genauigkeit von +-2,0 μ/m3 würden nach der Studie eine Mortalitätsveränderung von 60 % bedeuten (können).
+Das war aber noch nicht alles. Mache bezweifeln, ob die verwendete Messmethodik die medizinische Gefährdung wiederspiegelt:
+ruhrmobil: Feinstaub: Woher kommt er, wie gefährlich ist er und wie kann man ihn messen?
+Kritik und Diskussion
+Die Messmethode des Projektes und die der staatlicher Stellen liefern basierend auf einer Partikelanzahl und Größe jedoch eine Masse bezogen auf Volumen als Messergebnis (μg/m³). Dies ist ungenau, da die Zusammensetzung des Staubs unbekannt ist und ein einzelnes Partikel leicht oder schwer sein kann. Die Ermittlung der Masse beruht hierbei also auf einer angenommenen Zusammensetzung des Feinstaubs.
+Auch die in Europa gesetzten Grenzwerte sind massebezogene Grenzwerte. Dies muss grundsätzlich hinterfragt werden. Insbesondere, weil die Wirkung über den Atemweg bis hinein in die Blutbahn auf einen Partikel beruht und daher die Partikelanzahl als Messgröße und Grenzwert viel aussagekräftiger wäre und eine bessere Beurteilung der Situation ermöglichen würde.
+Fazit
+Nun nehme man vereinfacht an, dass die Datenqualität und Einflussfaktoren in Deutschland und den USA in etwa vergleichbar sind.
+Der Autor würde es nach der durchgeführten Betrachtung darüber jedoch nie „wagen“, aus den Deutschen (und Europäischen) Daten den Einfluss von Feinststaub herauszurechnen und mit der in der US-Studie angegebenen Präzision zu publizieren.
+Allerdings hat er dazu auch weder einen Auftrag, noch bekäme er extra Fördermittel (wie die Studienautoren mit neun Förderquellen). Muss deshalb aber auch kein (gewünschtes) Ergebnis abliefern.
+Wie könnte so ein „Gewünschtes“ aussehen:
+[2] … Für New York bedeutet das konkret, dass 250 Menschen weniger an Covid.19 gestorben wären, wenn die Luft in den vergangenen 20 Jahren nur ein Mikrogramm weniger Feinstaubpartikel pro Kubikmeter enthalten hätte …
+Für New York gibt es nun seit dieser Studie den „Fakt“ genau berechneter, zusätzlicher 250 Coronaverstorbener, falls in New York vom Jahr 2000 bis 2016 genau 1 Mikrogramm Feinststaub weniger in der Atemluft gewesen wäre …
+Die Stadt liegt mit ihrem Feinststaubniveau allerdings nur auf Platz 918 der „Weltrangliste“: WIKIPEDIA Liste der Städte mit der weltweit stärksten Luftverschmutzung
+Viele Städte in Deutschland (WIKIPEDIA listet 70 Städte, welche ein höheres PM2.5 Ranking als New York haben) liegen in ihrem Schadstoffranking weit darüber:
+Aus der UBA Messwertetabelle zum Jahr 2017 lässt sich allerdings als Jahresmittelwert errechnen: Berlin: 14,8; Cottbus 15; Frankfurt (Oder): 15,5; Bielefeld: 14; Krefeld 14.
+Solche Differenzen zwischenverschiedenen Fundstellen dürfen einen aber nicht wundern.
+Bei solchen Aussagen zur „vorgezogenen Mortalität“ fehlt immer: Und wann wären die Betroffenen (hier in der Regel alte und gesundheitlich stark vorbelastete Personen) sonst gestorben. Auch: wie haben sie denn (noch) gelebt? Wieviel ‰ (oft sind es ja nur wenige Tage/Wochen) an Lebenszeit ging wirklich verloren und hat diese überhaupt eine Relevanz.
+Doch warten wir ab, wann Greenpeace, Germanwatch, Bund Naturschutz (nicht nur) für Deutsche Städte darauf basierend Horrorzahlen vorgezogener Coronatoten publizieren und die Deutsche Umwelthilfe daraufhin diese Städte verklagt.
+Wer meint, solche „Datenqualität“, aber zugleich „gesicherte“ Ableitungen daraus wären nur dem kurzfristigen „Coronafall“ geschuldet, irrt. Beim sich stetig ändernden Klima ist es sehr sehr ähnlich.
+Wieder ein Nachtrag
+Wenn es nicht so traurig wäre. Aber eine Meldung zeigt wieder, wie katastrophal die Datenlage selbst bei einem Pandemiefall, welcher alleine die EU mehrere Billiarden EUR kosten wird, selbst nach vielen Monaten bleibt.
+Wie gelistet, hieß es in einer älteren Mitteilung, dass in Belgien Gestorbene in Seniorenheimen teils nicht erfasst worden seien. Nun schreibt der SPIEGEL, dass es eher umgekehrt wäre. Allerdings sei man dort inzwischen dabei, (in der Statistiknot, weil die Mortalität im Ländervergleich so schlecht abschneidet, was bei Politikern immer zu irgendeinem Handeln führt) zwischen „normal“ Gestorbenen und „Coronamortalität“ zu unterscheiden (warum machen das die anderen Länder nicht?).
+Beispiel aus dem kleinen Land Belgien:
+DER SPIEGEL Samstag, 18. April 2020: Hohe Todeszahlen: Das belgische Corona-Rätsel
+In keinem Flächenstaat auf der Welt ist die Zahl der Corona-Toten im Verhältnis zur Einwohnerzahl höher als in Belgien. Die Föderalregierung gerät unter Druck.
+… Der Virologe Steven Van Gucht hat vor allem die Situation in den Pflegeheimen im Visier. Er ist Vorsitzender des nationalen wissenschaftlichen Corona-Ausschusses und in der Krise alles andere als unumstritten.
+„Die Todesfälle in den Krankenhäusern sind in den letzten zwei Wochen stabil geblieben“, sagte er am vergangenen Freitag, „aber in den Seniorenheimen verzeichnen wir seit April einen stetigen Anstieg“. Der Grund: Belgien zählt Sterbefälle in Altenheimen offenbar oft auch zu den Corona-Toten; auch dann, wenn die Todesursache nicht klar ist.
+Von den 289 Toten in Altenheimen, die am Donnerstag gemeldet wurden, konnten nur 91 eindeutig als Corona-Tote klassifiziert werden – und die übrigen gut zwei Drittel nur als mögliche Covid-19-Fälle. Es sei möglich, dass Belgien dadurch seine Todeszahlen überschätze, so Van Gucht …
+Und trotzdem behaupten Studienautoren, sie könnten genau den Einfluss von Feinststaub berechnen.
+Quellen
+[1] Der Tagesspiegel 11.04.2020: Coronavirus-Studie aus Harvard Hohe Luftverschmutzung führt zu deutlich mehr Covid-19-Toten
+[2] Studie Harvard T.H. Chan School of Public Health: Exposure to air pollution and COVID-19 mortality in the United States
+[3] GfBU Consult, Gutachten: Betrachtung der verkehrsbedingten Luftschadstoffe im Zusammenhang mit der Aufstellung des Bebauungsplans „Neues Stadion am Flugplatz … „ …
+[4] Robert-Koch-Institut: Covid-19 Fallzahlen
+[5] TÜV Rheinland Energie und Umwelt GmbH: TÜV-Bericht: 936/21209885/G Köln, 20. September 2013
+Taiwan spendet eine Million Masken an Deutschland – doch kein Treffen von Bundespolitikern mit Taiwans Vertretern.
+zu dem unteren Teil der ersten Hälfte dieses Aufsatzes fällt mir auf, dass hier vielmals die veröffentlichten Roh-Daten „Anzahl der Fälle“ unterschiedlicher Regionen in vergleichende Beziehung gesetzt wurden.
+Das ist mathematisch zwar richtig, setzt aber unbedingt voraus, dass sich diese Zahl auf dieselben Personengruppen beziehen bzw. allgemein gesprochen auf die gleichen Datenerhebungsverfahren basieren (z. B. nur symptomatische Personen, gleiche Anzahl der Tests pro 1000 Einwohner etc.).
+Es ist aber bekannt, dass diese Voraussetzungen weitgehend nicht erfüllt sind und momentan keine Vergleichbarkeit zulassen; eben da diese Daten sehr sehr unterschiedlich ermittelt werden (schon allein die Anzahl der Tests hat sich in den letzten Wochen sehr stark verändert, sowie sich auch die Auswahl der getesteten Pesonengruppen ebenfalls sehr Veränderungt hat).
+Quellen z. B.
+– https://de.statista.com/statistik/daten/studie/1105095/umfrage/anzahl-durchgefuehrter-tests-fuer-das-coronavirus-nach-laendern/
+– https://multipolar-magazin.de/artikel/coronavirus-regierung-ignoriert-daten
+Ähnliches gilt auch für die Ermittlung der Todesfälle.
+Damit sind demnach auch die ermittelten regions- und zeitabhängigen Mortalitätsraten sehr starken Streuungen unterworfen und es muss die Frage erlaubt sein, ob nicht schon alleine diese Streuungen aufgrund sich ständig verändernde Datenerhebungsverfahren die unterschiedlich ermittelten relativen Mortalitätswerte zum Großteil zu erklären vermögen.
+Ich empfehle daher, die angestellten Berechnungen alsbald mit besser validierten Daten nochmal nachzurechnen (sobald derartige Daten denn in ausreichender Zahl einmal vorliegen); oder als ersten Schritt eine entsprechende Vergleichbarkeit der unterschiedlichen Daten herzustellen zu versuchen.
+Es gibt hierzu übrigens einen weiteren Aufsatz, der ebenfalls versucht, die vorhandenen Daten zu homogenisieren und Vergleichbarkeiten herzustellen: https://swprs.org/rate-of-positive-covid19-tests/
+Vielleicht hilft das als Ansatz.
+Mit besten Grüßen!
+Jens Dörschmann
+Es sollte ja gezeigt werden, dass die Daten so chaotisch (erfasst) sind, dass eine Auswertung keinen Sinn ergibt, obwohl die Studienautoren behaupten, genau das geschafft zu haben.
+Schlecht erfasste Daten lassen sich in der Regel im Nachhinein nicht um fehlende Erfassungsinhalte ergänzen. Zudem ist es nicht meine Aufgabe, die Arbeit der zuständigen Behörden zu machen und umfangreiche Statistiken zu erstellen.
+Meine Arbeit war „getan“, als klar war, dass auch diese Studie eine Behauptung aufstellt, die mit der nach wie vor schlechten Datenqualität nicht möglich ist.
+Ich habe zwar von Statistik keine Ahnung, halte aber Ihren Vorschlag zur erneuten „genaueren“ Widerlegung des Sinns einer Zuordnung einer Feinstaubgefährlichkeit für überflüssig: der Zweck des Artikels war ja wohl der Nachweis der statistischen Sinnlosigkeit der Harvardstudie. Und der ist doch wohl glaubwürdig gelungen?
+Mit freundlichen Grüßen, Uli Adler
+Und solche Menschen glauben tatsächlich, ein Volk führen zu können?
+Ich bekam einen Lachkrampf als ich das gelesen habe. Danke. 🙂
+Aber Sie wissen doch, dass unsere Medien Herrn Habeck als den nächsten Bundeskanzler anvisiert hatten. Sie werden es schon wissen. Wie Sie wissen führen die Intelligentesten eine Regierung oder ein Volk wie z.B. Frau Merkel :-). Deswegen nennt man sie auch die Elite und wir sind das Fußvolk.
+es keine Journalisten oder aufrichtige Menschen gibt, die diese Clowns kritisch betrachten. Wie bei dieser Sendung winken alle Zuschauer und die Leute in der Gesprächsrunde diese falsche Aussage ab ohne es zu korrigieren. Das ist das Resultat einer künstlich erzeugten Diskussionssimulation bei Frau Illner ohne Fachleute und Opposition.
+Vielen Dank für Ihren gut recherchierten und mit Fakten belegten Artikel.
+Ich möchte jedoch hierbei eine Entwarnung aussprechen. Wir brauchen kein
+shutdown mehr nach meinen Berechnungen und brauchen uns wegen Coronavirus keine Sorgen mehr machen.
+In der Expertenrunde von Maybrit Illner hat Herr Habeck eine Verdopplung der Inkubationszeit alle 2 Tage bei Coronavirus festgestellt. Wie wir wissen waren es am Anfang 14 Tage. Da wir das virus ja schon seit ca. 2 Monaten haben, müsste die Inkubationszeit mittlerweile nach meinen Berechnungen bei 2.4201432e+34 Tage angekommen sein. Das bedeutet wir sind aus dem Schneider. Nach Ansteckung des virus bei dieser verlängerten Inkubationszeit werden wir den Ausbruch der Erkrankung nicht mehr erleben können. Diesen Ausschnitt von der Expertenrunde darf EIKE gerne an Frau Merkel weiter leiten, damit sie die Maßnahmen wieder lockern kann.
+mit freundlichen Grüßen
+https://youtu.be/tZnpA0AC_Aw

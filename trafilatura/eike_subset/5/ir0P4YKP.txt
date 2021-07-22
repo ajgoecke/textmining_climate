@@ -1,0 +1,7 @@
+Die Feiertage sind nicht nur Tage der Besinnung und des Feierns, sondern auch Zeit für notwendige Wartung, Fehlerbehebung etc. Nach Umstellung auf WordPress haben sich einige kleiner und gößere Mängel gezeigt, die jetzt Schritt für Schritt behoben werden. Zudem wurden eine Reihe von Wünschen an uns herangetragen und Empfehlungen für eine bessere Funktion gegeben, die wir jetzt Stück für Stück angehen und je nach Möglichkeit und Aufwand umsetzen wollen.
+Überprüfen wir, Danke.
+Wir überprüfen das. Der Hauptgrund ist, dass im Kommentarbereiche Formatierungen des Textes per Mausklick eingeführt werden können. Damit ist html erlaubt, und wenn dann per copy & paste Texte, die html codes enthalten, eingegeben werden, sind die sichtbar. Mal sehen, was wir da machen können.
+mfG
+1. Nehmen sie einen nicht formatierenden Editor. Unter Windows ist dazu der Klassiker das Notepad.
+2. Schreiben sie weiter in Word, fügen sie den Text dann aber in Notepad ein. Kopieren sie erneut und fügen sie ihn dann in EIKE ein.
+Schnell und einfach ist natürlich Lösungsvorschlag 1.

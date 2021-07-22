@@ -1,0 +1,106 @@
+Der ct-Wert gibt an, wie lange es gedauert hat, wie viele Zyklen notwendig waren, bis in einer Probe genügend genetisches Material vorhanden war, um SARS-CoV-2 nachzuweisen. Im Zusammenhang mit der heftigen Kritik am PCR-Test, den Corman und Drosten et al. entwickelt haben, über die wir hier berichtet haben, spielt der ct-Wert eine große Rolle. So schreiben Borger et al. (2020) in ihrer Kritik am von Corman, Drosten et al. entwickelten PCR-Test, der zum Standard der WHO-Empfehlungen geworden ist:
+“PCR data evaluated as positive after a Ct value of 35 cycles are completely unreliable.”
+Dessen ungeachtet wird im WHO-Protokoll, das auf dem Corman, Dorsten et al. Paper basiert, behauptet, es seien bis zu 45 Zyklen möglich, um reliable Ergebnisse zu erhalten:
+“But an analytical result with a Ct value of 45 is scientifically and diagnostically absolutely meaningless (a reasonable Ct-value should not exceed 30).”
+Dessen ungeachtet sind unzählige PCR-Tests im Umlauf, deren Hersteller den Cutoff-Point für den ct-Wert, ab dem die Ergebnisse nicht mehr reliabel sind, bei 40 und zum Teil noch über 40 ansetzt:
+Der ct-Wert ist derzeit wohl ein Rettungsring für diejenigen, die im Meer der Willkür und der unterschiedlichen Anwendung eines PCR-Tests zu ertrinken drohen. Dies gesagt, fällt uns Werner Bergholz ein. Bergholz ist das, was man wohl einen Standardisierungsprofi nennt. Und in dieser Funktion hat Bergholz am 30. Oktober 2020 eine schriftliche Stellungnahme zur Öffentlichen Anhörung des Ausschusses für Gesundheit des Deutschen Bundestages abgegeben, in der er sich explizit mit der Frage beschäftigt, ob PCR-Tests ein zuverlässiges Maß für den Stand des Infektionsgeschehens in Deutschland sind.
+Antwort: Sie sind es nicht.
+Warum nicht?
+Wichtigste Zutaten dafür, dass eine Messung brauchbar ist, sind Reliabilität und Validität.
+Reliabilität bezieht sich auf die Konstanz in Zeit und Raum. Wenn ein Labor X die Probe Y analysiert, dann muss dabei dasselbe Ergebnis herauskommen, das herauskommt, wenn Labor X1 die Probe Y analysiert und wenn Labor X die Probe Y zweimal analysiert, dann muss jedes Mal dasselbe Ergebnis dabei herauskommen.
+Validität bezieht sich darauf, dass der Test, der das Vorhandensein von SARS-CoV-2 feststellen soll, auch dazu geeignet ist, dieses Vorhandensein festzustellen und wenn ja, innnerhalb welchem Fehlerbereich.
+Bergholz spricht hier von Vergleichbarkeit, meint aber mehr oder weniger dasselbe wie wir.
+Validität bei PCR-Tests wird gemeinhin als Spezifizität und als Sensitivität angegeben. Erstere bezieht sich auf die Anzahl von positiven Testergebnissen, die falsch sind (false positives), Letztere auf die Anzahl der negativen Testergebnisse, die falsch sind (false negatives). Dazu kommen wir gleich.
+Um die Vergleichbarkeit von Gewebeproben zu gewährleisten, ist es notwendig,
+- dass die Gewebeproben in gleicher Weise entnommen werden, dass die “Testumgebung” vergleichbar ist;
+Um die Vergleichbarkeit der Analyse der Proben durch unterschiedliche Labore sicherzustellen, ist es unabdingbar, dass die Labore
+- einheitlich vorgehen,
+- denselben Test oder die selbe Klasse von Tests verwenden;
+- den Labortest unter vergleichbaren Bedingungen und unter Einsatz vergleichbarer Reagenzien durchführen und
+- die selben Daten zum Ergebnis des Tests übermitteln.
+Keines der fünf Kriterien wird derzeit eingehalten. Die Bestimmung der Inzidenz von SARS-CoV-2 in der Bevölkerung ist ein einzigartiges Patchwork unterschiedlicher Vorgehensweisen, unterschiedlicher Erhebungs- und Analysemethoden. Eine Standardisierung des Vorgehens, so Bergholz, sei dringend geboten.
+Zudem findet derzeit keinerlei Monitoring der falsch positiven oder falsch negativen Testhäufigkeit statt. Das ist vollkommen unwissenschaftlich. Jeder der sich mit Daten befasst, weiß, dass die Unsicherheit, mit der die Ergebnisse belastet sind, Bestandteil der Ergebnisse ist. Ohne die Angabe von Vertrauensintervallen oder Irrtumswahrscheinlichkeit sind wissenschaftliche Ergebnisse wertlos. Dennoch fehlt beides bei PCR-Tests. Dass alle Ergebnisse, die aus Labors an das RKI übermittelt werden korrekt sind, ist eines dieser Märchen, die Politdarsteller entweder selbst glauben oder auf keinen Fall der Öffentlichkeit mitteilen wollen.
+Dabei ist nur gesunder Menschenverstand notwendig, um sich die vielen Punkte, an denen ein Fehler geschehen kann, zu vergegenwärtigen:
+- Proben können bei Entnahme verunreinigt werden;
+- Proben können im Labor kontaminiert werden;
+- Proben können verwechselt werden;
+- Eine Messung kann fehlerhaft vorgenommen werden;
+- Der Test-Kit kann fehlerhaft sein;
+- Proben können zerstört werden (was in diesen Fällen, die sicher vorkommen, geschieht, ist unbekannt);
+- Ergebnisse können falsch übermittelt werden;
+Gerade ein immenses Aufkommen, wie es derzeit in Labors zu verzeichnen ist, führt mit Sicherheit dazu, dass die Zahl der Fehler sehr hoch ist. In Unternehmen nennt man so etwas Ausschuss. Selbst bei hochstandardisierten Prozessen kann Ausschuss nicht ausgeschlossen werden. Aber deutsche Politdarsteller wollen der Öffentlichkeit erzählen, dass alle positiven Tests, die beim RKI gezählt werden, fehlerfrei sind, dass es in den Labors keinerlei Ausschuss gibt. Das ist absurd.
+Wohlgemerkt, die bislang besprochenen Fehler sind nicht die Fehler, die dem PCR-Test immanent sind, die Fehler, die er quasi eingebaut hat: Spezifiziät und Sensitivität. Bergholz hat in seiner Stellungnahme eine Beispielrechnung, die in dieser Hinsicht sehr aufschlussreich ist:
+“Bei 10 000 Tests, 1% wirklich Infizierte (also echt Positive), einer Spezifität von 1,4% und 98% Sensitivität (Werte aus dem Ringversuch vom April) ergibt der Test 98 echt Positive [1% von 10.000 minus 2% Fehler (Sensitivität) = 98) und zusätzlich 140 falsch Positive [1,4% Fehler bei Spezifizität]. Das heißt der positive Vorhersagewert (PPV = positive predictive value) beträgt 98/(98+140)x100% = 41%. Mit anderen Worten, es gibt mehr falsch Positive als echt Positive, also ein Messfehler grösser als ein Faktor 2.
+Es ist schlicht unverständlich, dass dies bei der Aufbereitung der Rohdaten unberücksichtigt bleibt!”
+Was Bergholz hier anspricht, ist, dass das Problem mit false positives dann, wenn die Häufigkeit eines Virus in einer Bevölkerung gering ist, erheblich ist. Wir haben das einmal für Inzidenzen von 1%, 2% und 4% durchgespielt. Das Ergebnis sieht wie folgt aus:
+Operationalisiert man die Inzidenz von SARS-CoV-2 als Anteil der positiv Getesteten an allen Getesteten, dann beträgt die Inzidenz in Deutschland derzeit 4,1% und befindet sich damit in einem Bereich, in dem man mit rund 75% Test-Akkuratheit rechnen kann.
+75% Test-Akkuratheit ist nicht wirklich der Goldstandard, denn eine Fehlerquote von 25%, mit anderen Worten, 25% der offiziellen Testangaben wären, auf Basis einer Spezifizität von 1,4% falsch, false positiv, ist eher erheblich. Vermutlich ist darin die Ursache dafür zu sehen, dass in Florida nunmehr versucht wird, über den ct-Wert zumindest ein wenig Verlässlichkeit in die Daten zu bringen.
+Um verlässliche Angaben über die Verbreitung von SARS-CoV-2 in einer Bevölkerung machen zu können, immer vorausgesetzt, man will das und ist nicht an Zahlen interessiert, die so hoch wie nur möglich ausfallen, wäre es somit notwendig, die Tests, den Testablauf zu standardisieren, die zu erwartende Fehlerrate der veröffentlichten Zahlen anzugeben sowie eine Untersuchung dazu zu veranlassen, wie viele fehlerhafte Tests dadurch entstehen, dass Proben verunreinigt oder verwechselt werden oder die Häufigkeit zu untersuchen, mit der ein anderer Fehler unterläuft. Das Ergebnis wäre eine geringere Anzahl positiv Getesteter, und es wäre ein Mehr an Ehrlichkeit gegenüber der Öffentlichkeit, der vorgemacht wird, die veröffentlichten Zahlen wären exakt, ohne Fehler und ohne Makel.
+So viel Ehrlichkeit ist natürlich politisch nicht gewollt.
+der Beitrag erschien zuerst bei ScienceFiles hier
+Eine Übersterblichkeit ist nicht zu erkennen, höchstens in den hohen Altersklassen. Das beweist, dass die Masken etc. kaum was bringen, sondern dass „nur“ ein weiteres Virus hinzugekommen ist.
+Der PCR-Test ist wissenschaftlich nicht haltbar und unzuverlässig. Alle Regierungen, die ihn für ihre Zwecke ausnutzen, gehören wegen Volksverrat/-betrug bis zum Tode ins Gefängnis.
+Herr Schnedlitz findet ein infiziertes Cola im Parlament. Dementsprechend müssten die Menschen im Saal nach Corona getestet werden oder optional 14 Tage Quarantäne gebracht werden.
+https://youtu.be/0-aGdBh_sXI
+Geehrter Herr Kurz,
+einfach mal die Übersterblichkeit in Europa anschauen und dann versuchen, sie mit den getroffenen Maßnahmen zu korrelieren. Nach Ihrer Ansicht müssten die Schweden ja schon ausgestorben sein.
+Sogar von den MSM wurde berichet, dass der Impfstoff Hersteller sich von jeglicher Haftung für Nebenwirkungen freistellen ließ – und Herr Spahn hat dem zugestimmt.
+Geben Sie mal Suchworte ein“ Corona Impfstoff Haftungsausschluß“
+Eine ganze Bildschirmseite mit bestätigenden Meldungen, Ärzte… Versicherungen.. Handelsblatt
+– Lustig: Nur Faktencheck Correctiv meint: … das stimmt nicht
+Bei 10 000 Tests, 1% wirklich Infizierte (also echt Positive), einer Spezifität von 1,4% und 98% Sensitivität (Werte aus dem Ringversuch vom April) ergibt der Test 98 echt Positive [1% von 10.000 minus 2% Fehler (Sensitivität) = 98) und zusätzlich 140 falsch Positive [1,4% Fehler bei Spezifizität].
+Michaels Kleins obiges Zitat aus Bergholz’s Ausschußbericht ( hier ) ist zwar korrekt aber inhaltlich falsch:
+Hier ist Bergholz ein Tipfehler unterlaufen. An anderer Stelle gibt Bergholz in seinem Bericht die Spezifität richtig mit 98,6% an:
+Spezifität = selektiv ist der Test, d.h. mit welcher Wahrscheinlichkeit weist er ein negative Probe wirklich
+als negativ nach. Auf der Basis des April Ringversuchs liegt die Spezifität bei 98,6%, bei Anwesenheit
+von anderen Coronaviren (die es in Deutschland gibt) bei 98,0%. >>
+Mit einer Spezifität von 1,4 % würde selbst von unseren ‘Experten‘ würde niemand Geld für einen Test ausgeben, dessen Spezifität so unterirdisch miserable ist.
+R.F.
+R.F.
+Anfang März schrieb ich einen Kommentar und heftete ihn ans „schwarze Brett“ in meiner Firma…… wo er innert 30 Minuten verschwand….. und ich ihn wieder anbrachte. ((-: Ich wurde darob wohl als Trottel abgetan. Dabei stammten diese Argumente ja nicht von mir, ich las sie, frage mich ob das geschriebene plausibel ist und stellte es zum Nachdenken darüber, zusammen.
+Damals wollte keiner sein Gehirn einachalten….. und so nahm die Sache eben fahrt auf. Nun haben wir den „Salat“. Was 2009 bei der Schweinegrippe ……die auch auch fleissig mitbeobachtete, nicht klappte, jetzt tut es das, die Schweiz wurde eine Nation von Hasenfüssen.
+Die Schweizer Armee hat im Frühjahr mit 5000 Mann um die 10-12 Wochen lang die Krankenhäuser beim nehmen der PCR-Tests unterstützt…. so die denn vorhanden waren.
+Aber man tat dies entgegen den damals schon vorhandenen Anweisungen, wie ein PCR -Test fachmännisch zu nehmen sei damit das Resultat auch valide ist.
+Auch jetzt wird das in vielen Arztpraxen noch „irgendwie“ gemacht, aber nicht nach den Reglementarien.
+Zu den vielen falsch positiven, gemäss Artikel von ScienceFiles / EIKE, kommen so noch weitere dazu, so das die 80% Prognose vom Frühjahr immer noch zutreffend sein könnte.
+Ich habe nun gegen 40 Leute in meinem weiteren Umfeld die Positiv „getestet“ wurden.
+Krank wurden davon jedoch nur ca. 4, ….. von denen ich jedoch behaupte, das wir nicht wissen ob sie wirklich Corona hatten.
+Ein Arzt erklärte dem Patienten, den ich kenne, das man das nur mittels Labor einwandfrei feststellen könnte, der gute alte Labortest aber dauere und zudem 4-6ooo Franken koste die man selber berappen müsste, die Kassen übernähmen den nicht.
+Weiters waren im März noch oft keine Test-Kits vorhanden, man schloss einfach aufgrund von Symptomen darauf das es Corona sei. Wer Hustete, etwas Fieber oder Kopfweh hatte, war sofort ein Corona Patient und nichts anderes mehr, das die selben Symptome auch für X andere Krankheitsbilder möglich wären……. nur sehr motivierte Ärzte erklärten das den Patienten.
+Also, das trifft auf ca. 10 von den 40-ig zu.
+Ich habe einige gefragt, so den ein Test gemacht wurde, wie der praktisch vonstatten ging. Tja, meist eben irgendwie, aber nicht nach dem klar definierten Verfahren welches unser Bundesamt für Gesundheit herausgegeben hat.
+PCR-Tests vom Samstag, die gingen zum Beispiel erst am Montag ins Labor, hätten aber nach Vorschrift innert 24 Stunden dort sein müssen, ohne Unterbruch der Kühlkette usw.
+Tja, nun wurden von den restlichen 30-ig die Kinder oft gar nicht getestet, denn wenn die Eltern es haben…. ist der Schluss auf die Kinder ja klar. Die Kinder landeten aber mit in der Statistik der positiven Fälle.
+Nun wurden von den 30 in neuerer Zeit ca. 15 mit dem Antigentest beurteilt.
+Das Protein der Corona-Hülle ist aber offenbar auch an anderen Orten zu finden, so die Wissenschaft, ….. und ich frage mich, ist das Protein in der Schnupfen-Corona-Membran auch vorhanden…… was ja vermutlich so ist.
+Also haben wir bereits weitere X % Fehlerquelle, denn jedes Jahr werden ca. 30% der Schnupfenfälle durch ein Corona-Virus verursacht.
+Sie sagen, man solle den Antigentest nur verwenden wenn man Krankheitssymptome zeigt.
+Wer also mit etwas Fieber zum Arzt geht….. wird Antigengetestet,.
+Aber wie wissen wir das diese Symptome von Corona herrühren ?
+Wie man es dreht und wendet, es ist ein einziger Salat der mit seriöser Wissenschaft nichts, aber auch gar nichts zu tun hat.
+Ich kenne nun einen Arzt der testet nicht mehr, sondern klärt ab ob es nicht auch einfach die übliche weitverbreitet „falsche Grippe“ ist die uns im Winterhalbjahr so oft beglückt.
+Zahnärzte legen den Kunden nun Formulare vor auf denen sogar gefragt wird…..
+“ Kennen sie jemanden, der Corona Positiv getestet wurde, oder kennen sie in ihrem Umfeld jemanden der Corona-Positiv ist / war.“
+Am Ende des Formulars kam dann………
+„Sollte einer der Punkte auf sie zutreffen, bitten wir sie uns das zu melden und den Termin zu verschieben“.
+Termin verschieben…… ja wie lange, so 3 Monate mit einer Zahnwurzel-Entzündung ?
+Und, gibt es noch jemanden in der Schweiz der wirklich keinen kennt der mit Corona in Berührung gekommen ist….?
+Sooooo viel Schwachsinn…….. in einem Land mit lauter Panikern.
+https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen.html
+Ihr Link
+https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen.html
+ist sehr hilfreich und zeigt eindeutig wie gefährlich Corona ist. In gleichem Link weiter unten unter Grafiken kann man den Vergleich mit den anderen Jahren siehe. Selbst 2017 war kaum eine Übersterblichkeit in der Schweiz zu sehen.
+Das sind über 100 Fälle mehr als beim bisherigen Rekordstand von 487 Toten vom vergangenen Mittwoch. Insgesamt wurden binnen 24 Stunden 20.815 neue Infektionen mit dem Coronavirus gemeldet. Am Mittwoch in der Vorwoche lag der Wert noch bei 17 270.
+Ist nicht mit steigenden Testungen und Falschtestungen zu erklären.
+Da bekannt ist, dass diese PCR Tests ohne weitere Untersuchungen keine Infektionen belegen, sind Sezierungen unerlässlich, es sei denn, man ist wie beim CO2 Thema nicht an Fakten interessiert.
+So ist es. Aber keine Corona-Viren, die derart hohe Todeszahlen verursachen und das weltweit. Und Geschmacksverlust, Organschäden und Hirnschäden.
+bitte gehen Sie einen Schritt weiter zurück und beschäftigen Sie sich zunächst mit der Nachweisfähigkeit von Corona durch den PCR-Test. Nehmen Sie dann zur Kenntnis, dass Tote mit Atemwegserkrankungen in der Regel mit „mit oder an Corona“ Verstorbene gekennzeichnet werden. Weitere Undurchsichtigkeiten und Negativanreize in Kliniken führen zu weiteren „Corona“-Diagnosen. Insgesamt kann es nun auch zu Übersterblichkeiten kommen, die aus den Maßnahmen selbst resultieren (Angst, Suizide, Fehlmedikation,…), genauso, bzw. sogar noch stärker wie in der ausklingenden 1. Welle vor dem Lockdown. Ziehen Sie in Betracht, dass die angegebenen „Schäden“ auch nicht Corona-induziert sein können und nur durch einen falsch-positiven PCR-Test Corona zugeschrieben werden.
+Herzliche Grüße
+https://vimeo.com/480408720
+Auch bei Maybrit Illner und ich wusste auch nicht, dass Maybrit Illner mit Verschwörungstheorien etwas zu tun hat.
+https://youtu.be/Wz0kqQBLY6g
+Das sagt eigentlich alles aus.
+Und wo haben sich die sonst vorkommenden Grippe-Toten versteckt?
+Aktuell haben wir 22:52 und heute sind 2300 Menschen gestorben. Also weniger als 2600 pro Tag. Insgesamt sind mit dieser Corona Lüge dieses Jahr 2020 auch nicht wesentlich mehr Menschen gestorben als im Jahr 2019.
+Also stimmt Ihre Aussage nicht.
+https://countrymeters.info/de/Germany

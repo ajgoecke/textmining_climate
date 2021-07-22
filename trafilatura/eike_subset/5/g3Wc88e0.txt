@@ -1,0 +1,20 @@
+Anstatt mir also die größten Brände vorzunehmen schaute ich auf die in jedem Jahr verbrannten Flächen. Diese kann man hier einsehen. Aus dem Zeitraum 1959 bis 2016 sowie den letzten beiden Jahren liegen Daten hier und hier vor.
+Als Erstes unterzog ich die Daten einer multiplen Regression, sowohl für Temperatur als auch für Regenmenge, jeweils von Mai bis Oktober. Damit wollte ich herausfinden, ob man damit die verbrannte Fläche abschätzen kann. Zu meiner großen Überraschung ergab sich, dass die Regenmenge nicht signifikant mit der verbrannten Fläche korreliert ist. Das Ergebnis sieht so aus:
+Die Temperatur ist signifikant (rechte Spalte, p-Wert 4.52e-7), aber die Regenmenge ist alles andere als signifikant (p-Wert = .19). Daher ignorierte ich die Regenmenge für die weitere Analyse.
+Als Nächstes kartographierte ich die verbrannte Fläche und unterzog die Daten einer linearen Regression. Das Ergebnis zeigt Abbildung 1:
+Man beachte, dass der p-Wert dieser Linie ziemlich gut ist (rechte Spalte, p-Wert = .00000004). Der R²-Wert (untere Linie) zeigt dass die gerade Linie 41% der Varianz der verbrannten Fläche erklären kann.
+Dann betrachtete ich den Zusammenhang zwischen Temperatur und verbrannter Fläche. Das Ergebnis zeigt Abbildung 2:
+Komischerweise sieht das viel besser aus als die gerade Linie … aber man beachte, dass es lediglich eine geringe Zunahme der durch die Varianz zu erklärenden Fläche gibt (44% Varianz erklärbar durch Temperaturen vs. 41% für die gerade Linie). Dies beweist erneut, dass unsere Augen eine Verteilung auch dann erkennen wollen, wenn gar keine da ist … man denke an die Sternbilder am Nachthimmel als primäres Beispiel dafür.
+Und schließlich betrachtete ich noch die Fehler in der auf den Temperaturen basierenden Abschätzung der Größe der verbrannten Fläche und verglich diese mit der tatsächlich verbrannten Fläche. Die Seltsamkeit der Graphik von Abbildung 3 ist Folgende: Im ersten Teil der Aufzeichnung bis zu Beginn des 21. Jahrhunderts überschätzt die Temperatur allgemein die verbrannte Fläche.
+Aber danach hat die Temperatur die Größe der verbrannten Fläche erheblich unterschätzt.
+Und das ist ein klarer Beweis dafür, dass die jüngsten großen Flächenbrände nicht Variationen der Temperatur geschuldet sind, wie es weit verbreitet behauptet wird.
+Schlussfolgerungen:
+● Variationen der Regenmenge von Mai bis Oktober verbessern nicht die Abschätzung der verbrannten Fläche. Mit anderen Worten, die Regenmenge von Mai bis Oktober leistet keinen Beitrag zur Abschätzung der verbrannten Fläche aus der Temperatur allein.
+● Die Variationen der Temperatur von Mai bis Oktober lassen eine nur wenig bessere Abschätzung der Variationen der verbrannten Fläche zu als eine gerade Linie.
+● Die jüngsten, sehr großen verbrannten Flächen sind keine Folge von Variationen der Temperatur von Mai bis Oktober. Wie ich in meinem vorherigen Beitrag erläuterte (hier, auf Deutsch beim EIKE hier), sind Temperaturänderungen von Dekade zu Dekade viel zu gering, um die jüngste Zunahme der Größe der verbrannten Fläche zu erklären. Wir müssen anderswo nach den Ursachen dieser großen Brände suchen.
+Aktualisierung: Manch einer hat Probleme mit den von mir herangezogenen Daten, darum sind hier noch ein paar:
+Ich bin jetzt zu Hause, und der Rauch ist nicht ganz so schlimm. Nicht so schlimm wie es im Central Valley oder in San Francisco war. Wir befinden uns in der gelb markierten Zone an der kalifornischen Küste nördlich von San Francisco. Hier gibt es eine Karte der Rauchverteilung, darin klicke man auf „Vertically Integrated Smoke” oder “Near Surface Smoke”.
+Meine besten Wünsche und Hoffnungen gelten all jenen, die von den Bränden betroffen sind, und ich kondoliere all jenen, welche Freunde, die Familie oder ihre Wohnungen verloren haben.
+Link: https://wattsupwiththat.com/2018/11/14/california-temperatures-and-acres-burned/
+Übersetzt von Chris Frey EIKE
+Offensichtlich wollen Leute wie Eschenbach staendig das Rad neu erfinden. Sie landen ueblicherweise beim Vierkant und freuen sich wie die Schneekoenige, dass das Vierkant besser rollt als ein Dreikant.

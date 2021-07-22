@@ -1,0 +1,165 @@
+1. Das Hoimar von Ditfurth Experiment
+Man findet im Internet eine Reihe von einfachen Versuchen, die den CO2-Treibhauseffekt mit der Lufttemperatur verbinden. Danach soll sich CO2 wie eine Glasscheibe verhalten, die kurzwelliges Licht durchlässt, aber langwellige Wärmestrahlung absorbiert. Eine deutliche Erwärmung nach Zugabe von CO2 wurde als Beweis eines Treibhauseffektes erachtet. Die bekanntesten Versuche stammen von Al Gore und Hoimar von Ditfurth. Sie haben einen sehr ähnlichen Aufbau und lassen sich wie folgt charakterisieren:
+1. Eine Glühlampe bestrahlt von außen ein Gefäß (Simulation der Sonnenstrahlung).
+2. Das Gefäß wird wahlweise mit normaler oder CO2-haltiger Luft gefüllt (Erd-Atmosphäre).
+3. Eine Bodenfläche oder ein kugelförmiger Körper simuliert die Erdoberfläche.
+Das wohl spektakulärste Experiment wurde 1978 von dem Autor und Fernsehmoderator Dr. Hoimar von Ditfurth† durchgeführt. Diese Vorführung verdient einige Superlative: Neben spektakulär ist es das größte und gefährlichste Experiment, mit dem stärksten Temperatur-Anstieg und den meisten physikalischen Rätseln hier.
+Der eigentliche Kern des Versuches waren zwei Bühnenscheinwerfer, die aus kürzester Entfernung von oben in die offenen Zylinder hineinstrahlten und damit erwärmten.
+Am Ende wurde festgestellt, dass der CO2-gefüllte Zylinder 11,3 °C wärmer war als der Vergleichszylinder.
+Das YouTube-Video, das noch immer im Internet zugänglich ist, vermittelt eine Botschaft, die wegen ihrer Einfachheit auch von der breiten Öffentlichkeit leicht zu verstehen ist: „Seht her, CO2 kann unsere Erde um 11 °C oder vielleicht noch höher erwärmen, wenn ihr nicht sofort handelt.“ Aber stimmt diese Prophezeiung?Die Versuche von Al Gore und Ditfurth sind reine Demonstrationen. Es fehlen detaillierte Beschreibungen, Angabe der CO2-Konzentrationen und Kontroll-Experimente. Zur Auswertung kommt lediglich eine Vorher-Nachher-Betrachtung. Diese Versäumnisse sollen durch eine gründliche Überprüfung nachgeholt werden.
+2. Die Versuchsapparatur
+Die Versuchsapparatur und erste Ergebnisse wurden bereits auf der alternativen 13. Klima-Konferenz (IKEK) in München November 2019 vorgestellt (hier).
+In der Zwischenzeit wurde die Apparatur durch Einbau eines 7. Sensors „Tp. Boden“, der die Temperatur der Dom-Wand misst, erweitert. Dadurch lassen sich Luft- und Boden-Temperaturen miteinander vergleichen.
+Die wichtigste Neuerung ist eine PE-Folie in Form von Blende 2 oberhalb der konischen Erweiterung der Röhre. PE hat den Vorteil, dass die Folie Wärmestrahlung durchlässt, aber den Versuchsraum gasdicht verschließt. Dadurch lassen sich vergleichende Experimente mit offener und geschlossener Apparatur durchführen.
+2.1 Überprüfung des Ditfurth-Experimentes
+Wie beim Ditfurth-Experiment wird die mit Luft gefüllte, offene Apparatur (Abb. 2, linkes Bild) mit einer 100 W Rotlicht-Reflektor-Lampe bestrahlt. Durch die Bestrahlung ist die Versuchs-Apparatur bis zu 10 °C wärmer als die Raum-Luft. Dabei entsteht eine ungewöhnliche Luftschichtung, mit warmer Luft unten und kälterer Luft oben (Abb. 3). Die Erklärung ist das Lambertsche Kosinusgesetz. Der Boden, obwohl am weitesten von der Lampe entfernt, erhält wegen seiner parallelen Ausrichtung zur Strahlungsquelle die größte Strahlungsdichte von der Rotlicht-Lampe. Alle anderen Flächen werden nur schräg angestrahlt und dadurch weniger erwärmt. Die Wärme breitet sich hauptsächlich durch Wärmeleitung aus, wie an der 4 °C Differenz zwischen Boden und Dom-Luft zu sehen ist (Abb. 3, Boden vs. Dom).
+Nach einiger Zeit werden 23 L CO2 innerhalb von 15 Minuten von unten in die Apparatur eingeleitet. Die Temperaturen in der Apparatur reagieren sofort auf das CO2, allerdings sehr unterschiedlich. Während sich Boden und Dom-Luft sofort erwärmen, zeigen die anderen Sensoren zunächst eine Abkühlung, um nach einer gewissen Verzögerung ebenfalls einen Anstieg zu vermelden (Abb. 3).
+Nach einer Beobachtungszeit von 180 Minuten (Ruhephase) werden die Gase durch das „Einleitungsrohr“ im Boden wieder abgepumpt. Das Abpumpen dient der Kontrolle, dass die Temperatur-Anstiege tatsächlich durch das eingeleitete CO2 verursacht wurden und alle Messwerte annähernd wieder Ausgangsniveau zeigen.
+Eine Bestimmung der CO2-Menge beim Abpumpen ergab, dass nur noch wenig CO2 von den ursprünglichen 23 Litern vorhanden war. Das meiste CO2 w CO2 ährend des Versuches durch Diffusion unbemerkt in den Laborraum entwichen. Die Temperatur-Verläufe der Messpunkte Tp. R1 – R3 und der stetige Temperatur-Anstieg der Top-Position zeigen diese Diffusion. Demgegenüber waren die Temperaturen des Bodens und der Dom-Luft während der Ruhephase relativ konstant und veränderten sich erst beim Abpumpen.
+2.2 Das Argon-Kontroll-Experiment
+Auf den ersten Blick sieht das vorherige CO2-Experiment wie eine Bestätigung der Ditfurth-Hypothese aus. Aber Zweifel ist die Mutter aller Wissenschaften und so muss auch dieses Ergebnis überprüft werden. Als alternatives Kontroll-Gas bietet sich Argon an. Argon ist wie CO2 ein schweres Gas aber kein Treibhausgas und sollte beim Einleiten in die Röhre keine Temperatur-Änderung verursachen. Der Kontroll-Versuch ist jedoch eine faustdicke Überraschung: Das IR-inaktive Argon verursacht exakt die gleichen Temperatur-Anstiege wie das Treibhausgas CO2 (Abb. 4).
+2.3 Schlussfolgerungen
+Das Edelgas Argon ist ein IR-inaktives Gas, das weder Wärmestrahlung absorbieren noch emittieren kann. Wenn CO2 und Argon den gleichen Erwärmungs-Effekt zeigen, muss man die Ursache außerhalb der Wärmestrahlung suchen. Schwere Gase haben eine kleinere spezifische Wärmeleitfähigkeit λ als Luft (die Tabelle in Abb. 4). Werden diese Gase in die Röhre eingeleitet, verringern sie den Wärmestrom innerhalb der Apparatur. Die schweren Gase wirken wie eine Isolierschicht. Somit lässt sich feststellen:
+Das Ditfurth-Experiment zeigt nicht den Treibhauseffekt, sondern ist ein Phänomen schwerer Gase.
+Diese erste Erkenntnis bestätigt die Skepsis von Helmut Krebs und Anthony Watts, die an den Ditfurth- und Al Gore-Experimenten, als Beweis des CO2-Treibhauseffektes, gezweifelt hatten (hier, S. 91,98).
+3. Experimente in der geschlossenen Apparatur
+3.1 Überprüfung des Ditfurth-Experimentes in der geschlossenen Apparatur
+Da bei der ersten Untersuchung CO2 entweichen konnte, wurde der Versuch von Kap. 2 mit einer geschlossenen Apparatur wiederholt. Hierzu wurde Blende 2 mit Silicon-Gummi oberhalb der konischen Erweiterung eingeklebt. Blende 2 ist mit einer durchsichtigen PE-Folie (Schichtdicke: 11 µm) bespannt, die Wärmestrahlung durchlässt, aber den Austritt von CO2 verhindert (Abb. 1, das Bild in der Mitte). Überraschenderweise gingen bei diesem Versuch die Temperaturen bereits nach zwei Stunden wieder auf die Ausgangswerte zurück, obwohl gar nicht abgepumpt wurde (Abb. 5).
+Das abweichende Verhalten lässt sich durch einen unterschiedlichen Verlauf der CO2-Diffusion bei einer offenen und geschlossenen Apparatur erklären. Beim CO2-Einleiten durch das untere Einleitungsrohr bildet sich im Dom ein CO2–CO2“, vergleichbar mit einer Flüssigkeit, die in eine Schüssel gefüllt wird. Das CO2 breitet sich danach langsam durch Diffusion nach oben aus. Dabei nähert sich das CO2 der Rotlichtlampe und wird hier stärker erwärmt als in den unteren Schichten, was den Aufstieg beschleunigt. Bei der offenen Apparatur führt das zu einem Entweichen von CO2, bei der geschlossenen aber zu einer Vermischung, Homogenisierung mit der Innenluft.
+Dieser Homogenisierungs-Prozess verändert das Verhältnis von CO2-Wärmeleitung und CO2-Wärmestrahlung.
+Die Wärmeleitung einer CO2-haltigen Schicht hängt von ihrer Zusammensetzung und der CO2-Konzentration ab (hier). Den größten Isoliereffekt hat das reine CO2 beim Einleiten in den Dom, wodurch die oberen Schichten weniger Wärme von dem wärmeren Boden bekommen. Beim Vermischen mit Luft verringert sich der Isoliereffekt mit abnehmender CO2-Konzentration.
+Im Gegensatz dazu ist das Strahlungsvermögen von CO2 nicht von seiner Konzentration, sondern von der Anzahl der CO2-Moleküle abhängig. Der Homogenisierungs-Prozess verringert die CO2-Konzentration aber nicht die Anzahl der CO2-Moleküle.
+Dieser Zusammenhang führt zu der Erkenntnis, dass der anfänglich starke Temperatur-Anstieg von 1 – 2 °C hauptsächlich durch ein Konzentrations-Gefälle verursacht wird. Eine homogene CO2-Luft-Mischung führt dagegen nur zu einer geringen Erwärmung von 0,1 – 0,2 °C (Abb. 5).
+3.2 CO2-Experiment mit beschleunigter Homogenisierung
+Die These der internen Vermischung von CO2 und Luft ließ sich experimentell bestätigen. Nach Einleitung von CO2 wurde durch eine Aquarium-Pumpe das im Dom befindliche CO2 abgesaugt und in das obere Rohr wieder eingeleitet. Durch 30 minütiges Umpumpen wurde die Homogenisierung beschleunigt, wodurch die Temperaturen sofort wieder zurückgingen (Abb. 6 und Tab. 1).
+3.3 Homogenisierungs-Versuche mit schweren Gasen
+Weitere Homogenisierungs-Versuche mit unterschiedlichen Mengen CO2, Freon 134a und Argon ergaben immer die gleichen geringen Temperatur-Anstiege von 0,1 – 0,3 °C (Tab. 1). Auch ein CO2 Kontrollversuch mit einem farblosen 100 W Strahler (Abb. 2, rechtes Bild) führte zu keinem anderen Ergebnis.
+3.4 Homogenisierungs-Experimente in Argon
+In einer letzten Versuchsreihe wurde die Innenluft der Apparatur vor Zugabe von Treibhausgasen weitgehend durch Argon ausgetauscht. Durch diese Maßnahme sollte die Wärmeleitung des Versuchsraumes von vornherein vermindert werden. Tatsächlich verursachte jetzt die Einleitung von CO2 bzw. Freon 134a keine messbare Erwärmung der Dom-Luft, während es am Boden sogar zu einer Abkühlung kam (Tab. 2).
+4. Fazit und Ursachensuche
+Die Behauptungen von Al Gore und Ditfurth, den CO2-Treibhauseffekt durch eine Luft-Erwärmung nachgewiesen zu haben, sind falsch. Beseitigt man Sondereffekte, die durch die geringe spezifische Wärmeleitung schwerer Gase und durch einen Konzentrations-Gradienten entstehen, bleibt von der postulierten Erwärmung nichts mehr übrig.
+Aber warum funktionieren solche Experimente mit einer Bestrahlung von außen nicht? Um das zu verstehen, muss man sich die Bestrahlungs-Lampen, als Quelle der Energiezufuhr, genauer ansehen. Die Glaskolben der farblosen und der Rotlicht-Lampe erreichen Temperaturen von 115 °C bzw. 125 °C und produzieren dadurch, neben ihrem sichtbaren Licht, eine erhebliche Wärmestrahlung. Entscheidend ist nun, dass dies Wärmestrahlung den gleichen Wellenlängen-Bereich λ = 3 – 30 µm umfasst, der auch von Treibhausgasen benutzt wird.
+Um die Bedeutung von Wärmestrahlung und Gegenstrahlung zu verstehen, müssen wir zunächst abschweifen und die Frage beantworten, wie die Erde ihre Wärme abgibt:
+Die Erde hat eine ganze Reihe von Möglichkeiten, Wärme horizontal und vertikal zu transportieren, wobei der größte Teil in der Atmosphäre landet. Nur ein sehr kleiner Teil (40 W/m2) wird direkt von der Oberfläche an das Weltall abgegeben (hier). Tatsächlich ist es die Atmosphäre und nicht die Erde, die für die Kühlung des Systems Erde/Luft sorgt, und zwar ausschließlich durch Wärmestrahlung von rund 200 W/m2 in Richtung Weltall. Das mag paradox klingen, da eine Erde ohne Atmosphäre deutlich kälter wäre, aber das sind nun mal die realen Wärmeströme wenn man Kevin E. Trenberth Energieschema zugrunde legt.
+Stickstoff, Sauerstoff und Argon, die Hauptbestandteile der Atmosphäre, sind IR-inaktiv, d.h. sie können zwar Wärme speichern und transportieren, aber keine Wärmestrahlung aussenden. Diese Funktion und Fähigkeit besitzen nur Wolken, Aerosole und Treibhausgase. Ohne diese kleinen Partikel und die IR-aktiven Spurengase würde sich die Atmosphäre langfristig erwärmen, und nur in Bodennähe gebe es noch einen gewissen Wärmeaustausch durch Wärmeleitung.
+Nun wird die Wärmestrahlung dieser Stoffe aber in alle Richtungen gleichmäßig ausgestrahlt. Dadurch wird einerseits die Atmosphäre abgekühlt und andererseits die Erdoberfläche angestrahlt. Die Bestrahlung der Erde, auch Gegenstrahlung genannt, bewirkt, dass die Netto-Energieabgabe der Erdoberfläche vermindert wird. Dieser Strahlungs-Effekt führt zu einer gewissen Erd-Erwärmung, was fälschlicherweise als Treibhauseffekt bezeichnet wurde.
+Doch nun zurück zu den Laborversuchen, hier überlagert die Wärmestrahlung der Lampen die Strahlung der Treibhausgase. So wird einerseits die nach unten gerichtete Gegenstrahlung durch die externe Lampe vergrößert und andererseits die nach oben gerichtete Wärmestrahlung der Apparatur durch die Treibhausgase erhöht. Die Laborversuche ergeben keine Erwärmung, weil bei diesen Experimenten offensichtlich beide Energieströme gleich groß und gegeneinander gerichtet sind.
+Dass Treibhausgase tatsächlich die Wärmestrahlung einer Luftschicht vergrößern, konnte mit ganz anderen Experimenten nachgewiesen werden (Mitteilungen 1 – 5). Bei diesen Versuchen wurde die simulierte Erdoberfläche elektrisch beheizt und nur homogenisierte Gasmischungen untersucht. Dadurch wurde die Konkurrenz von externer und interner Wärmestrahlung vermieden und der Wärmeleitungs-Effekt unterdrückt. Bei diesen Experimenten erwärmte sich die simulierte Erde und nicht, wie von Fourier postuliert, der Gasraum. So konnte die Strahlungen verschiedener IR-aktiver Gase quantifiziert und bewertet werden. Dabei erwies sich CO2 als ein deutlich schwächerer IR-Strahler als andere Treibhausgase. Nur Methan, mit einem angeblich 28-mal größeren Treibhauspotential als CO2, war überraschenderweise ein noch schwächerer IR-Strahler (hier).
+Meine einfachen Experimente können weder eine Erd-Erwärmung beziffern, noch sind sie 1:1 auf die Atmosphäre übertragbar, aber sie sollten selbsternannten Propheten eine Warnung sein. Es gibt Behauptungen, die sich überprüfen lassen, und apokalyptische Prophezeiungen erfüllen sich nur selten:
+Plinius der Jüngere, 1. Jahrhundert: „Wir vergiften die Flüsse und die Grundbestandteile der Natur; und wir verwandeln gerade das, was unsere Lebensgrundlage ist, in Nägel für unseren Sarg.“
+Doch es sollte anders kommen: Das Weströmische Reich erlebte noch das halbe Jahrtausend – – bis die Vandalen Rom zerstörten. Sollte sich diese Geschichte durch „Friday for Future“ und „Extinction Rebellion“ wiederholen?
+Danksagung:
+Ich danke Herrn Prof. Jörg Gloede für seine kritische Durchsicht und vielen wertvollen Hinweise.
+Gibt es – wie im Gewächs- oder Treibhaus – auch in der Atmosphäre abgeschottete Luftvolumina, mit überall gleichen physikalische Bedingungen – gleicher Luftdruck, gleiche Temperatur und gleiche Luftfeuchtigkeit sowie keine Luftbewegung (Wind) ?
+Als v.Dithfurth diesen Versuch machte 1978 war ich noch halbwüchsig und kann mich daran nicht erinnern. Es überraschte mich, dass damals schon laut über diesen Effekt nachgedacht wurde. Woran ich mich aber erinnern kann war, dass wiederholt bei der Frage des Erdklimas in entsprechenden TV-Sendungen auf die unverzichtbare Rolle der Regenwälder in der tropischen Zone der Erde als „die Lunge des Planeten“ hingewiesen wurde, ich meine auch damals bei v. Dithfurt’s Sendungen. Natürlich vor dem Hintergrund der damals schon stark voranschreitenden Abholzungen vor allem in Südamerika.
+Das wurde m.E. immer sehr stark herausgestellt, CO2 weniger, zumindest kann ich mich daran nicht erinnern.
+Nur wenn man das im Holz gespeicherte „CO2“ erntete und in den Weltraum schösse, wären Wälder eine CO2-Senke – oder, lieblich gesagt, eine „Lunge des Planeten“ …
+MfG
+Peterusl
+Zitat: Eines Tages, hoffentlich bald, wird der Treibhauseffekt DIE Lachnummer der Physik sein.
+Das denke ich nicht. Man sieht dies an dem Unsinn der „Relativitätstheorie(n)“, diese werden seit über 100 Jahren immer noch hofiert, obwohl sich diese Ansätze als vollkommen falsch und irreführend für die Physik erwiesen haben. Trotzdem werden Milliarden an Steuergeldern für diesen physikalischen Unsinn ausgegeben und versenkt (CERN – LHC, LIGO-Gravitationswellen, Vorstellung eines Bildes eines Schwarzen Loches am 10.04.2019 usw.).
+Man kommt nicht drumrum zu sagen, daß dies ein unverblümter Betrug und Manipulation der Wissenschaften seit über 100 Jahren ist.
+Den Beweis für den Betrug liefert das technische System GPS, daß die Menschen seit geraumer Zeit nutzen.
+Mfg
+Werner Holtz
+Na ja, „eines Tages…“
+„Man sieht dies an dem Unsinn der „Relativitätstheorie(n)“, diese werden seit über 100 Jahren immer noch hofiert, obwohl sich diese Ansätze als vollkommen falsch und irreführend für die Physik erwiesen haben. Trotzdem werden Milliarden an Steuergeldern für diesen physikalischen Unsinn ausgegeben und versenkt (CERN – LHC, LIGO-Gravitationswellen, Vorstellung eines Bildes eines Schwarzen Loches am 10.04.2019 usw.).
+Man kommt nicht drumrum zu sagen, daß dies ein unverblümter Betrug und Manipulation der Wissenschaften seit über 100 Jahren ist.“
+100% Zustimmung.
+Nach meiner Erfahrung ist der größte Betrügerverein die Medizinmafia.
+Astronomen und Physiker folgen dichtauf.
+Allerdings geht von den erfundenen schwarzen Löchern keine Gefahr für uns alle aus.
+Die Folgen des durch und durch korrupten Krankmach- und lebenslang Behandelsystems können im Einzelfall das Leben kosten…
+MfG
+Das ist eben nicht der Fall. Alle Messungen bestätigen das Gegenteil.
+Wer keine Argumente hat, kommt halt mit der Nazi-Keule. Altbekannte Methode, mehr haben Sie nicht drauf – Armselig.
+schauen Sie in die Literatur, kein einziges Experiment spricht gegen die Relativitaetstheorien. Solche Experimente werden schon in der Schule besprochen und werden im Labor und in der Natur mit hoher Praezission belegt. Die Ablehnung von Einsteins Theorien charakterisierte sowohl die deutschen Nationalsozialisten als auch die Politik Stalins.
+Akadämliche Fälschung durch Auslassen, so nennt man das ja wohl (im Jargon auch: Verblödung),
+https://www.youtube.com/watch?v=B_ixkOI4k8c
+Zitat: … schauen Sie in die Literatur, kein einziges Experiment spricht gegen die Relativitaetstheorien.
+Siehe: R.u.H Sexl, Weiße Zwerge – Schwarze Löcher, Vieweg 1979 – Bild 7: Messung der Lichtablenkung (1922)
+Die von den „Relativisten“ gern vergessene Lick-Expedition von 1922. Damit wollte man die Relativitätstheorie nochmals bestätigen, nur passten die Messergebnisse nicht ins Bild – Der Schuss ging nach hinten los. Was macht man damit – Totschweigen!
+Allein schon wegen der wahlfreien Ablenkungen (positiv, negativ und null) in den Messungen von der radialen Richtung nach innen kann nur eine zweifache Brechung (Refraktion) in einer turbulenten Sonnenhülle als Ursache der Lichtablenkung in Frage kommen. Die Gravitation wirkt immer und absolut nur in Richtung des Sonnenzentrums, und nicht mal so oder so oder gar entgegengesetzt.
+Die Messungen dieser Expedition belegen eindeutig, dass die Brechung (Refraktion) in einer turbulenten Sonnenhülle die Ursache der Lichtablenkungen sind, und eine gravitative Ursache völlig widersinnig erscheint.
+Zitat: … angefangen bei Eddington 1919, bis heute.
+Die Arbeit „Daniel Kennefick: Testing relativity from the 1919 eclipse – a question of bias.“ wurde vom Royal Observatory Greenwich 1979 selbst beauftragt, und das Royal Observatory hat sogar (sehr selten) die Arbeit von Eddington „zurückgezogen“ (oder noch deutlicher – damit widerrufen). Warum wird dann noch heute davon geredet, dass diese Arbeit von Eddington die ART bestätigt hätte, ein Irrtum, wie sich rausstellt.
+Mfg
+Werner Holtz
+Die Gleichstellung der Kritik an einer unbewiesenen Theorie, die nebenbei bemerkt anscheindend einige math. Fehler enthält, mit Judenhetze ist wirklich grandios.
+Glückwunsch!
+Was ist denn mit GPS, was beweist es?
+Zitat: Was ist denn mit GPS …
+GPS = Global Positioning System, werden Sie bestimmt schon mal benutzt haben (im Auto, Smartphone …) – oder nicht?
+Zitat: … was beweist es?
+Die Veränderlichkeit der Lichtgeschwindigkeit LG = c±v in Abhängigkeit zur Geschwindigkeit v des Beobachers/Empfängers.
+Mfg
+Werner Holtz
+Die GPS-Satelliten benutzen die Einsteinsche Form der Geschwindigkeitsaddition, neben der Unterschiede des Zeitverlaufs im schwaecheren Gravitationsfeld, bestaetigen also die Relativitaetstheorien.
+Ihr Zitat zu Sexl zeigt die BESTAETIGUNG der Lichtsblenkung bei der Messung 1922, und das Buch von Kennefick, No Shadow of a doubt, und die RAS haben auch nicht die Messungen von Eddington 1919 zurueckgezogen. Mittlerweile gibt es Unmengen von Messungen der Lichtablenkung, auffindbar unter dem Stichwort gravitational lensing.
+“ Ein Bauer bringt seinen Müll zum Mülleimer.
+Er macht den Deckel auf und schaut hinein. Am boden liegt ein Spiegel.
+Erschrocken fährt er hoch :“Ein Mann liegt in meinem Mülleimer!“ Rennt sofort zum Dorfpolizisten:“Bei mir liegt ein Mann im Mülleineimer!“ – Der Polizist
+setzt seine Mütze auf u. beide eilen zum Mülleimer. Der Polizist hebt den Deckel hoch, schaut rein: „Tatsächlich, und es ist sogar einer von uns!“
+Dazu nur eine kleine Beobachtung:
+Astronauten benötigen, wenn sie draußen spazieren gehen wollen, einen Raumanzug, der mindestens 121 Grad C aushalten muß.
+Wir auf der Erde können zur gleichen Zeit nackt hier herumspringen!
+WARUM?
+Weil zwischen den Astronauten und uns hier auf der Erde sich etwas befindet, das wir „Atmosphäre“ nennen!
+Würde diese, ihr angedichtete Energiestrahlung zur Erde emittieren, müssten wir alle hier in solchen Raumanzügen herumlaufen – um die Mittagszeit garantiert!
+Und was sagt der gesunde Menschenverstand?
++++Kein „Treibhauseffekt“ – Keine Erderwärmung durch CO2 Spurengase!
+Alles mittelalterlicher Aberglaube!
+https://de.wikipedia.org/wiki/H%C3%B6hlengleichnis
+Die Sci-Fi Literatur und Filme einiger bekannter Romane bauen darauf auf, „1984“ und „Matrix“ z.B. Für manche „Höhlenbewohner“ trifft aber auch sicher heute zu, Menschen die gewohnheitsmäßig nur „ihre“ Informationsquellen wie BILD, SZ, taz, WAZ, ZDF, ARD und vor allem WDR konsumieren und glauben, dort würde nur die Wahrheit und nichts als die Wahrheit verkündet. Dazu kommt dass diese zu den meisten Themen auch noch das gleiche berichten. (Diese Journaillien im WDR wie Plöger z.B. sind regelecht beleidigt, wenn das Wetter mal wieder nicht so ist, wie man es „normal“ erwartet, und sich die Seitenhiebe auf den anthr. Klimawandel nicht verkneifen können)
+Bringt man einen Dauerkonsumenten dieser „Qualitätsmedien“ dazu, mal ein anderes Format zu sehen oder zu lesen, wo eine andere „Art von Realität“ (vielleicht sogar die echte) präsentiert wird, bricht für die eine Welt zusammen, und die wollen ganz schnell wieder in ihre Höhle, in „ihre“ Realität.
+Man muss dazu aber auch anmerken, dass diese Gefahr für alle besteht, die sich nur einseitig informieren!
+Ne!
+Neuzeitlicher Aberglaube!
+Joo!
+Und der Osterhase bringt die Ostereier
+Aber:
+Selbst wenn CO2 für sich allein Wärme speichern KÖNNTE: CO2 ist in unserer Atmosphäre viel zu selten, als dass solch eine behauptete »Wärmespeicher«-Eigenschaft irgendeine signifikante Änderung der Gesamttemperatur von Atmosphäre, Ozean und Erdoberfläche verursachen könnte. Denn: Nur ca. jedes 10.000 Molekül ist ein CO2-Molekül.
+Vereinfacht: Kippen Sie in eine 30-°C-Badewanne einen Fingerhut kochenden (!) Wassers. Effekt: praktisch gleich Null.
+Wärme kommt, wird on CO2 absorbiert, wird wieder abgestrahlt und geht also ihren Weg, als ob es den Transfer über das CO2-Molekül gar nicht gegeben hätte. Und ein CO2-Molekül, das Wärme absorbiert hat, fällt für weitere Wärmeaufnahme aus. Bis es die Wärmeenergie wieder abgegeben hat.
+Wir sprechen also über eine zeitliche Verzögerung, die im gewaltigen Rauschen vieler anderer Verzögerungen vollkommen untergeht:
+• Ozeane werden erwärmt, speichern Wärme in gewaltigem Ausmaß, geben sie wieder ab: am Ende an den leeren Raum des Alls.
+• Landmassen werden erwärmt, speichern Wärme in gewaltigem Ausmaß, geben sie aber auch wieder ab.
+• Luftmassen werden erwärmt, speichern Wärme in gewaltigem Ausmaß, geben sie aber auch wieder ab.
+Die Kurven der Bodentemperatur bestätigen das Gesagte: Seit Millionen Jahren verlaufen sie vollkommen konträr zum jeweiligen CO2-Gehalt der Luft. CO2 ist definitiv kein relevanter Player im Temperaturgeschehen dieses Planeten.
+Hört also endlich – endlich! – mit diesem CO2-Gequatsche auf. Sucht woanders Ursachen für gelegentliche Warm- und Kaltphasen. CO2 ist hier komplett außen vor.
+(Ob solch ein Appell jedoch in absehbarer Zeit Konsens werden kann, ist fraglich: Zu sehr haben Dummköpfe aller Couleur – Wind- und Solar-Industrie, politische Parteien, selbsternannte »Experten«, Institute und Institutionen – sich mit dieser CO2-These aus dem Fenster gelehnt. Zurückzurudern wäre ein eungeheuerlicher Gesichtsverlust und würde riesige Industrien, Geschäftszweige und sicher auch einige Regierungen kollabieren lassen.)
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+1.Wie stark ist die so genannte „Gegenstrahlung“?
+IMHO-Die kompensiert sich fast vollständig innerhalb der Streuung.Es erfolgt eine langsamere Abgabe an den Weltall(unvermeindlich)
+…“Nun wird die Wärmestrahlung dieser Stoffe aber in alle Richtungen gleichmäßig ausgestrahlt.“…
+Ja und im nächsten „Schritt“ sofort wieder absorbiert. Nur die äußeren Schichten „emittieren“ eine restliche Wärme Strahlung.(IMHO-keiner kann die wirklich Messen)
+2.Kann ein kälteres Objekt, „kältere“ Strahlung die Temperatur eines Körpers mit einer höheren Temperatur zusätzlich erhöhen?
+(IMHO-in diesem Punkt ist mein Verständnis der 2. HS am Ende)
+LG A. MIka
+2) Die Strahlungslampe ist falsch. Die Versuche sind im Freien durchzuführen und der aufgeheizte Erdboden ist als Rückstrahlungsquelle zu benutzen. Dabei sind zwei gleichartige Gefäße parallel zu vergleichen, eines mit Luft und das andere mit 800 ppm gefülllt. Erg. Weder bei Tag noch bei den unterschiedlichen Jahreszeiten ist ein CO2-Erwärmungseffekt feststellbar. Zu allen Beobachtungszeiten sind die Temperaturen in beiden Gefäßen gleich.
+3) Man darf nicht nur über 2 Stunden wie im Versuch geschehen messen, viele derartige Schauversuche messen leider nur über 10 Minuten und auch noch mit 100% CO2. Grundsätzlich muss übers ganze Jahr gemessen werden, also auch nachts und bei allen Jahreszeiten.
+Festtellung: Da sich nie irgendein Temperatur-Unterschied in beiden Gefäßen eintstellt, kann man die CO2-Konzentration in Stufen erhöhen, aber auch dabei zeigt sich niemals irgendein Erwärmungseffekt.
+Man möge bedenken, auch Svante Arrhenius konnte seine Treibhaushypothese nicht experimentell bestätigen. Deshalb hat es für die Physikerkapazitäten Einstein, Schrödinger, Bohr, Heisenberg Planck, Otto Hahn auch keinen Co2-Erwärmungeffekt gegeben. Eine technische Anwendung gibt es bis heute nicht, was eine notwendige Voraussetzung zur Anerkennung wäre. Man bedenke, bei Otto Hahn dauerte es vom Versuchsbeweis bis zur Anwendung Atombombe gerade mal 6 Jahre. Wer weiterhin behauptet, dass CO2 irgendwas erwärmt, der soll endlich den Versuchsbeweis samt technischer Anwendung bringen. Der CO2-Treibhauseffekt ist eine wissenschaftliche Falschinterpretation des ständig zunehmenden Wärmeinseleffektes überall auf der Erde. Es sei nicht verschwiegen, dass es auch noch natürliche Ursachen der Erwärmung seit 1850 gibt.
+Dass bei solchen längerzeitigen Messungen auch die Wärmeisolierung zur Umgebung kritisch sein kann, das haben Sie sicherlich bedacht.
+1) Die Erde hat überhaupt keine Isolierung zum Weltall hin. 2) Die Wärmeübertragung von Erdboden zur Erdatmosphäre beruht größtenteils auf Berührungskontakt=Molekülstöße der Luftmoleküle zum festen Boden und anschließender Wärmeweiterleitung. Vor allem im Sommer läßt sich diese Wärmeübertragung, die nichts mit Strahlung zu tun hat, über einer Straße gut beobachten. Aus diesem Grunde ist es nebensächlich, ob N2-Moleküle oder seit 1958 um 100 ppm vermehrt CO2-Moleküle den Bodenkontakt herstellen.
+Eine Lampe kann aber niemals das gesamte Spektrum, welches letztlich den Erdboden erreicht, wiedergeben. Mit einer Lampe kann man aber Licht, in gewünschter Farbe, verstärkt erzeugen. In der Realität ist alles in Bewegung und es gibt weder Grenzen noch Folien/Scheiben die dieses unterdrücken. Nichts konnte in Versuchen unsere Atmosphäre und deren Verhalten, auch nur im Ansatz, wiedergeben. Allein deshalb sind die Versuche wertlos, die heutzutage das Geschäftsmodell, Klimawandel durch anthropogenes CO₂, unterstützen sollen. Es ist schön, dass es noch Menschen gibt, die, auch in der Wissenschaft, nichts ungeprüft lassen, auch das nicht, was gerade als absolut gesichertes Wissen vorgebetet und massiv immer und immer wiederholt wird.
+Doch nun zurück zu den Laborversuchen, hier überlagert die Wärmestrahlung der Lampen die Strahlung der Treibhausgase.“
+Das ist Quatsch!
+Die sog. Treibhausgase strahlen bodennah nicht
+Was zeigt denn das uralte Experiment von v.Ditfurth?
+(Was unzählige Experimente später auch zeigen.)
+Wird CO2 Gas bestrahlt, erwärmt es sich!
+Was heißt das denn???
+Die Strahlung wird in kinetische Energie umgewandelt – die Temperatur steigt!
+Würde die absorbierte Energie sofort wieder emmittiert, gäbe es keine Erwärmung!
+Und warum wird reines CO2 Gas wärmer als Luft?
+Weil die spez. Wärme von CO2 kleiner ist, es muß zwangsläufig wärmer werden!
+Des weiteren kann die Luft im „Luftsack“ die Strahlungsenergie nicht absorbieren,
+hier erfolgt die Erwärmung im wesentlichen durch Konvektion. (Geschieht auch im „CO2 Sack“).
+Wie oft schon geschrieben, diese Experimente beweisen genau das Gegeteil, was sie beweisen sollten – es gibt keinen „Treibhauseffekt“ – mittelalterlicher Aberglaube, auch in unseren Zeiten nicht auszurotten! (Wird gerade von besonders Gebildeten geglaubt, „naive Geister“ verlassen sich da mehr auf ihren gesunden Menschenverstand!)
+Was mir bei den einschlägigen Experimenten als „Temperatur-Mensch“ immer Bauchschmerzen bereitet, ist der oft viel zu laxe und unkritische Umgang was Temperaturmessungen angeht. Bei v.Ditfurths „Experiment“ habe ich mir die Augen gerieben, da werden Tauchfühler in die Säcke geworfen / gehängt und mit Bühnenscheinwerfern von mehreren kW angestrahlt, es hätte mich nicht gewundert, wenn die Anzeigeergebnisse „andersherum“ gewesen wären. Diese Messungen aus meiner Sicht also völlig wertlos und damit das ganze Experiment.
+man kann Ihnen nur Recht geben.
+Eine starke Erwaermung hiesse, dass die CO2 Molekule, die Waerme eben nicht wieder abstrahlen.
+Es ist allerdings zu beachten, das das CO2 aufgrund eines Temperaturunterschiedes zwischen Erdabstralung und Lufttemperatur ein paar Quanten Energie aus der Abstrahlung abzweigen koennten, und sie trotzdem auf dem Niveau der Atmosphaerischen Temperatur abstrahlen.
+Nur ist es nicht verstaendlich, das 400 Teilchen die anderen 999600 Teilchen in dem Masse aufwaermen sollen, das es messbar waere.
+Sauerstoff und Stickstoff haben ihre eigene Temperatur, und zwingen diese dem CO2 auf aber nicht umgekehrt.

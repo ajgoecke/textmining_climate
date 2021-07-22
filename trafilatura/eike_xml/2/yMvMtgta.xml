@@ -1,0 +1,53 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Das Rätsel der Eiszeiten: Teil XVI – Roe vs. Huybers II" author="Wolfgang Müller" date="2015-04-06" source="https://eike-klima-energie.eu/2015/04/06/das-raetsel-der-eiszeiten-teil-xvi-roe-vs-huybers-ii/" hostname="eike-klima-energie.eu" excerpt="Redaktion: Horst-Joachim Lüdecke und Chris Frey Quelle: Science of doom (SOD). Zu SOD, zur deutschen Übersetzung und Bearbeitung s. die Hinweise im Teil I, erschienen am 13.Februar.2014, die Links zu allen vorangegangenen Folgen s. Ende des Beitrags." categories="Klima" tags="" fingerprint="ZDNAkEjA/tD15uHv0qbeChupvkA=">
+  <main>
+    <p>Im vorigen Artikel betrachteten wir die Studie von Gerard Roe aus dem Jahr 2006 mit dem Titel In defense of Milankovitch. Wir verglichen die Rate der Änderung des Eisvolumens – wie im Huybers-Datensatz 2007 gemessen – mit der sommerlichen Einstrahlung bei 65°N. Die Ergebnisse waren interessant, korrelierten sie doch sehr gut während der ersten 200.000 Jahre, bevor sie außer Phase liefen. Als Folge davon war die (Pearson-)Korrelation über 500.000 Jahre sehr klein, aber ziemlich gut über die ersten 200.000 Jahre.</p>
+    <p>Ohne weitere Daten könnten wir vermuten, dass die Ergebnisse zeigen, dass sich der Datensatz ohne „orbitales Tuning“ – und dem Fehlen objektiver radiometrischer Datierungen – mit der Zeit immer mehr von der Realität entfernt und ein „orbital getunter“ Datensatz die beste Annäherung wäre. Wir würden definitiv erwarten, dass ältere Daten mehr Unsicherheiten aufweisen, da sich Fehler akkumulieren, wenn man irgendeine Art Modell benutzt. Allerdings haben wir in einem früheren Artikel objektivere Datierungen für Termination II betrachtet (und auch in den Kommentaren bei einigen früheren Terminationen). Diese Daten erhielten wir via radiometrischer Datierung an verschiedenen Orten und mit unterschiedlichen Methoden. Also fragte ich mich:</p>
+    <p>Was passiert, falls wir einen Datensatz wie Huybers 2007 nehmen und diesen mittels Altersmarkierungen erneut kartieren?</p>
+    <p>Auf diese Weise wurden alle Eisbohrkern-Datensätze grundlegend konstruiert, obwohl die Verfahren ausgereifter sind (siehe Anmerkung 1).</p>
+    <p>Für meine erste grobe Annäherung zog ich einfach einen Satz mit Terminations-Zeitpunkten heran (etwa aus der Mitte des Zeitraumes zwischen maximaler Vereisung und Höhepunkt der Zwischeneiszeit), und zwar sowohl von Huybers als auch von Winograd et al. 1992. Dann habe ich die Zeitbasis der bestehenden Proxydaten von Huybers zwischen jedem Satz von Altersmarkierungen erneut geplottet. Möglicherweise ist es einfacher, einen Vergleich davor ↔ danach zu zeigen als das Verfahren noch weiter zu erklären. Man beachte den Tiefpunkt zwischen von 100.000 und 150.000 Jahren. Dieser korrespondiert mit weniger Eis, es handelt sich um das Interglazial:</p>
+    <p>Figure 1</p>
+    <p>Das Verfahren ist im Grunde eine lineare Neukartierung. Ich bin sicher, dass es bessere Wege gibt, aber ich erwarte nicht, dass diese das Ergebnis wesentlich verändern würden. Ein wichtiger Punkt (mit meiner sehr einfachen Methode) ist, dass der älteste Datenzeitpunkt, den wir betrachten, eine Inkonsistenz verursachen kann (da es nichts gibt, um die Daten zwischen der letzten Altersmarkierung und dem Enddatum zu belegen). Darum geht der erste Datensatz unten über 270.000 Jahre.</p>
+    <p>T-III wird von Winograd 1992 datiert als vor 253.000 Jahren eingetreten. Also habe ich einen Zeitpunkt kurz danach gewählt. Hier folgt der Vergleich der Änderungsrate des Eisvolumens mit der Einstrahlung mit den gleichen Rahmenbedingungen wie im letzten Artikel. Man erkennt, dass alles sehr gut anti-korreliert ist:</p>
+    <p>Figure 2 – Click to Expand (nur in der englischen Originalversion)</p>
+    <p>Zum Vergleich: Das Ergebnis im vorigen Artikel von 0-200.000 Jahren ohne Neukartierung des Proxy-Datensatzes. Man erkennt, dass alles sehr gut korreliert ist:</p>
+    <p>Figure 3 – Click to Expand (nur in der englischen Originalversion)</p>
+    <p>Für die neu kartierten Daten: Korrelation = -0,30. Dies ist genauso negativ korreliert mit dem Einstrahlungswert wie LR04 (eon orbital getunter Datensatz) positiv korreliert ist. Interessehalber machte ich das Gleiche mit einer Zeitbasis von vor 0 bis 200.000 Jahren. Dies bedeutet: alles von vor 140.000 bis 200.000 Jahren wurde nicht durch einen überarbeiteten T-III-Zeitpunkt belegt. Ergebnis: Korrelation = 0. Die Interpretation ist einfach – die älteren Daten wurden infolge einer späteren objektiven T-III-Datierung nicht verschoben, daher gibt es hier ein besseres Zusammenspiel zwischen Einstrahlung und der Änderungsrate des Eisvolumens für diese älteren Daten.</p>
+    <p>Schlussfolgerung</p>
+    <p>Gibt es eine Schlussfolgerung? Sie starrt uns sicher ins Gesicht, bleibt also als Übung für interessierte Studenten im Raum stehen.</p>
+    <p>Ich habe Kopfschmerzen.</p>
+    <p>Articles in the Series</p>
+    <p>References</p>
+    <p>In defense of Milankovitch, Gerard Roe, Geophysical Research Letters (2006) – free paper</p>
+    <p>Glacial variability over the last two million years: an extended depth-derived agemodel, continuous obliquity pacing, and the Pleistocene progression, Peter Huybers, Quaternary Science Reviews (2007) – free paper</p>
+    <p>Datasets for Huybers 2007 are here:<lb/>ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/huybers2006/<lb/>and<lb/>http://www.people.fas.harvard.edu/~phuybers/Progression/</p>
+    <p>Continuous 500,000-Year Climate Record from Vein Calcite in Devils Hole, Nevada, Winograd, Coplen, Landwehr, Riggs, Ludwig, Szabo, Kolesar &amp; Revesz, Science (1992) – paywall, but might be available with a free Science registration</p>
+    <p>Insolation data calculated from Jonathan Levine’s MATLAB program</p>
+    <p>Anmerkungen</p>
+    <p>Anmerkung 1</p>
+    <p>Hier folgt ein Auszug aus der Studie von Parennin et al. 2007: The EDC3 chronology for the EPICA Dome C ice core:</p>
+    <p>In diesem Artikel präsentieren wir EDC3, den neuen Altersmaßstab von 800.000 Jahren aus dem Eisbohrkern EPICA Dome C. Er wird gebildet aus einer Kombination verschiedener Altersmarkierungen und einem glaziologischen Modell. Er wird in drei Schritten erzeugt.</p>
+    <p>Erstens, eine Altersskala wird erzeugt durch die Anwendung eines Eisfluss-Modells am Dome C. Unabhängige Altersmarkierungen werden verwendet, um viele kaum verstandene Parameter in diesem Modell zu kontrollieren (wie z. B. die Bedingungen an der Gletschersohle) durch ein inverses Verfahren.</p>
+    <p>Zweitens, die Altersskala wird synchronisiert mit der neuen grönländischen GICC05-Altersskala über drei Zeiträume: die letzten 6000 Jahre, die letzte Deglaziation und das Laschamp-Ereignis (vor etwa 41.000 Jahren).</p>
+    <p>Drittens, die Altersskala wird in den unteren rund 500 m korrigiert (korrespondierend mit dem Zeitraum von vor 400.000 bis 800.000 Jahren), bei dem das Modell nicht in der Lage ist, die komplexe Verteilung der Eisflüsse zu erfassen.</p>
+    <p>From Parennin et al 2007</p>
+    <p>Link: http://scienceofdoom.com/2014/02/03/ghosts-of-climates-past-sixteen-roe-vs-huybers-ii/</p>
+    <p>Link: http://scienceofdoom.com/2014/02/02/ghosts-of-climates-past-fifteen-roe-vs-huybers/</p>
+    <p>Teil I und II: http://www.eike-klima-energie.eu/climategate-anzeige/das-raetsel-der-eiszeiten-teil-i-und-ii/</p>
+    <p>Teil III: http://www.eike-klima-energie.eu/climategate-anzeige/das-raetsel-der-eiszeiten-teil-iii-hays-imbrie-shackleton/</p>
+    <p>Teil IV: http://www.eike-klima-energie.eu/climategate-anzeige/das-raetsel-der-eiszeiten-teil-iv-umlaufbahnen-jahreszeiten-und-mehr/</p>
+    <p>Teil V: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-v-aenderungen-der-ekliptik-und-der-praezession/</p>
+    <p>Teil VI: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-vi-hypothesen-im-ueberfluss/</p>
+    <p>Teil VII: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-7-global-circulation-models-i/</p>
+    <p>Teil VIII: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-8-global-circulation-models-ii/</p>
+    <p>Teil IX: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-9-global-circulation-models-iii/</p>
+    <p>Teil X: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-10-global-circulation-models-iv/</p>
+    <p>Teil XI: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-xi-das-ende-der-letzten-eiszeit/</p>
+    <p>Teil XII: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-xii-gcm-v-wie-enden-eiszeiten/</p>
+    <p>Teil XIII: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-xiii-terminator-ii/</p>
+    <p>Teil XIV: www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-xiv-konzepte-und-daten/</p>
+    <p>Teil XV: http://www.eike-klima-energie.eu/klima-anzeige/das-raetsel-der-eiszeiten-teil-xv-roe-vs-huybers/</p>
+  </main>
+  <comments>
+    <head>Neueste Kommentare</head>
+  </comments>
+</doc>

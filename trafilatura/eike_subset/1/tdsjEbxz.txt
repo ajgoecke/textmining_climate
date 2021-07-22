@@ -1,0 +1,257 @@
+Zur Verdeutlichung dieser Diskrepanz ein Vergleich aus einem Bereich der Technik, der leicht verständlich ist. Um die Kupfer-Welle (Abb.1, rechts) auf der Drehbank exakt zu messen bzw. zu bearbeiten, benötigt der Arbeiter einen Mess-Schieber. Ein Zollstock ist für ihn unbrauchbar. Genau diesen Widerspruch sehen wir jedoch in der Welt der Klimaforscher. Sie verwenden sprichwörtlich den Zollstock, um die Bauteile einer hoch präzisen Maschine zu fertigen. Die ungenauen Temperatur-Daten dienen als Basis für die komplizierten Simulationen auf Groß-Computern. Zu allem Überfluss postulieren die Klimaforscher ihre Methodik als die einzig gültige Wahrheit (IPCC). Welch eine unglaubliche Farce. Der Autor hat Erfahrung im Bereich „Computational Chemistry“, ein Hilfsmittel zur theoretischen Voraussage bzw. Bestätigung von Eigenschaften unterschiedlichster Moleküle, z. B. die 3D-Struktur, Reaktivität oder innere Beweglichkeit. Bei den Anwendern von Computer-Simulationen gibt es den geflügelten Satz für eine Ausgangs-Basis mit schlechten Anfangsdaten: „Shit in, shit out.“
+- GLOBAL TEMPERATURE REPORT (GTR)
+Der GLOBAL TEMPERATURE REPORT [2] zeigt in monatlicher Abfolge die berechnete globale Temperatur der unteren Atmosphäre (s. Abb.2). Verantwortlicher Wissenschaftler hinter diesen Daten ist der bekannte Klimatologe Dr. John R. Christy von der University of Alabama in Huntsville. Seit 2013 werden satelliten-basierende Temperatur-Messungen zusammengeführt, verarbeitet und auf der Homepage veröffentlicht. Christy hat zusätzlich die ab 1979 verfügbaren Satelliten-Messungen nachträglich verarbeitet. Ergebnis ist ein Säulen-Diagramm (Abb.2) mit den monatlichen Temperatur Abweichungen zur Referenz-Linie (0-Linie). Diese wird als Durchschnitts-Temperatur von 1981 bis 2010 3 errechnet. Zusätzlich wird auch eine Karten-Darstellung der Erde mit farblich gekennzeichneten Bereichen zur Verfügung gestellt. Auch für den November 2020 schön zu erkennen, die leichte Erderwärmung findet tendenziell mehr auf der Nordhalbkugel statt. Besonders in Antarktis-Nähe kühlt es eher ab. Diese These ist in vielen Veröffentlichungen bestätigt worden.
+- Vorteile der Satelliten-Daten
+Im bereits erwähnten Vorgänger-Artikel [1] zu diesem Aufsatz wird im Kapitel 5.1.) Zuverlässigkeit der Proxy-Daten auf die Vorteile von in sich konsistenten Datensätzen eingegangen. Die GTR-Daten wurden im gesamten Erfassungs-Zeitraum vom gleichen Messgerät ermittelt, die Methodik und die Randbedingungen bleiben konstant. Systematische Fehler können daher nahezu ausgeschlossen werden. Wie auch bei den Proxy-Daten liegt in der guten Genauigkeit der relativen Änderungen innerhalb der Messreihen. Wie oft in der Naturwissenschaft ist es nicht nötig, die absoluten Daten, hier die Temperaturen, zu ermitteln. Ob zum Beispiel die mittlere Temperatur für Deutschland im Jahr 2017 14,2 °C betrug, spielt für eine mathematisch physikalische Auswertung keine Rolle. Entscheidend ist die in sich geschlossene und verlässliche Messreihe und deren korrekte Auswertung.
+- Bearbeitung der GTR-Daten und erster Überblick
+4.1.) Erster Überblick und Erkenntnisse aus den GTR-Daten
+Das von Dr. Christy veröffentlichte Balken-Diagramm (Abb.2) ist extrem detailreich und folglich wenig übersichtlich. Was ist relativ schnell zu ermitteln? Die relativen Temperatur-Daten sind in den 80er und 90er Jahren überwiegend blau (negative Abweichung) und in den 2000er Jahren überwiegend rot (positive Abweichung). Im Betrachtungs-Zeitraum von 40 Jahren wurde es grob geschätzt 0,7 K wärmer. Auffallend sind die beiden extremen Temperatur-Spitzen um die Jahre 1998 und 2016. Dazu später noch mehr. Wegen der starken Schwankungen fällt es schwer, noch weitere Erkenntnisse aus dem Diagramm zu ermitteln.
+4.2.) Glättung und Bearbeitung der Koordinaten-Achsen
+Die monatliche Auflösung auf der X-Achse und die Darstellung des betrachteten Zeitraums von 40 Jahren sind nicht optimal. Andererseits ist die Y-Achse mit Y(min.)= -1,0K und Y(max.) = +1,0K zu wenig aufgelöst. Als besten Kompromiss fand der Autor eine Darstellung, bei der die X-Achse gestaucht, die Y-Achse gestreckt und die „zappelnden“ Messwerte geglättet sind. Das Ergebnis ist in Abb.4 dargestellt. Tatsächlich ist es nun leichter möglich, zusätzliche Erkenntnisse aus dem Graphen zu erhalten.
+4.3.) El Nino und langzeit-konstante Temperaturen
+Beginnen wir mit den bereits erwähnten Warm-Peaks von 1998 und 2016. Klimatologen und andere Fachleute kennen die Ursache der beiden Temperatur-Spitzen. Beide Male ist ein extrem starker „El Nino“ schuld, eine Meeresströmungs-Umkehr im Pazifik. Dieses Phänomen tritt unregelmäßig in einem Durchschnitts-Abstand von 4 Jahren auf und hat Auswirkung auf die Temperaturen der gesamten Erde. Von Anfang 1979 bis Ende 1997 (19 Jahre) blieb die mittlere Erdtemperatur erstaunlich konstant. Ausgehend von einem Mittelwert -0,1 K schwankte die Temperatur nur ca. 0,2 K nach oben oder unten. Das gleiche Bild im Zeitraum von Anfang 1999 bis Mitte 2015 (16,5 Jahre). Nach dem El Nino von 1998 ist der Level der konstanten Temperatur um ca. 0,2K angestiegen. Schließlich begann nach dem
+El Nino von 2016 eine 3. Phase konstanter Temperatur, die bis heute (4,5 Jahre) anhält. Der Anstieg des Levels beträgt diesmal knapp 0,4K.
+Schließlich hilft eine lineare Regression, die Temperaturanstiegs-Tendenz grob abzuschätzen. Die Gerade hat eine Steigung von 0,0132 K/Jahr, oder etwas greifbarer 0,26 K auf 20Jahre. Noch einfacher: Ein Temperatur-Anstieg von etwa einem Kelvin auf 80 Jahre, d. h. 1 K bis zum Jahr 2100!
+4.4.) Interpretation der Ergebnisse
+Es darf nicht außer Acht gelassen werden, dass der Betrachtungszeitraum von 40 Jahren für die Klimatologie ein sehr kurzer Zeitraum ist. Nach Definition handelt es sich nur um 1 1/3 aufeinander folgende 30-jährige Klima-Zeiträume. Deshalb muss bei der Interpretation der Ergebnisse eine vorsichtige und kritische halbquantitative Herangehensweise im Vordergrund stehen, nicht die blanken Zahlen-Werte.
+Erstaunlich sind die relativ konstanten Temperaturen in den 3 angegebenen Zeiträumen. Der Autor sieht sich nicht in der Lage, dazu eine fundierte Interpretation abzugeben. Ein Vergleich kann trotzdem angestellt werden. Die Klimaforscher (IPCC) vertreten seit 2016 die These, das anthropogen verursachte CO2 sei die alleinige Ursache des Temperatur-Anstiegs der letzten 170 Jahre. Wie erklären diese Leute die Zeiträume von 16,5 Jahren und 19 Jahren, in denen das anthropogene CO2 einerseits massiv angestiegen ist, andererseits die Temperatur nahezu konstant blieb? Kaum zu beantworten für die Klima-Alarmisten. Nun zur ermittelten Steigung von etwa einem Kelvin auf 80 Jahre. Bitte unbedingt beachten! Dieser großzügig geschätzte Anstieg von 1 K ermittelt sich unter der Annahme eines unge-bremsten anthropogenen CO2-Ausstoßes bis zum Jahr 2100! Selbst ohne CO2-Reduzierungs-Maßnahmen, ohne regenerativen Strom und ohne Elektro-Autos entsteht daraus kein Weltuntergangs-Szenario.
+- Abschätzung der CO2-Klimasensivität mit Hilfe bearbeiteten GTR-Daten
+Durch die erstaunlichen Ergebnisse bei der Auswertung der GTR-Daten war es nahezu die zwangsmäßige Folgerung, auch die CO2-Klimasensivität aus den Rohdaten zu ermitteln. Wie bereits unter 4.4.) deutlich gemacht, soll hier keine exakte Berechnung durchgeführt werden. Vielmehr eine Abschätzung der Größenordnung der CO2-Klimasensivität.
+5.1.) Was ist die CO2-Klimasensivität?
+Die CO2-Klimasensivität ist einfach definiert: Der Anstieg der mittleren Erdtemperatur bei Verdoppelung der CO2-Konzentration in der Atmosphäre.
+Das IPCC behauptet seit ca. 30 Jahren, die CO2-Klimasensivität liegt mit 95% Wahrscheinlichkeit zwischen 1,5 K und 4,5 K, mit größerer Wahrscheinlichkeit im Bereich zwischen 3 K und 4,5 K. Inzwischen tauchen im Umfeld des IPCC Computer-Modelle auf, die von einer CO2-Klimasensivität über 6 K ausgehen. Warten wir auf den neuen IPCC-Bericht, der für das Jahr 2021 angekündigt ist.
+5.2.) CO2-Klimasensivität, die zentrale Größe im Klima-Streit
+Seit Greta Thunberg und „Fridays For Future“ ist die Klima-Diskussion im Bewusstsein der breiten Öffentlichkeit angekommen. Vereinfacht ausgedrückt, der angenommene Wert der CO2-Klimasensivität ist der zentrale und wichtigste Punkt der gesamten Diskussion und Auseinandersetzung zwischen den Klima-Alarmisten und Klima-Skeptikern. Sollte der wahre Wert der CO2-Klimasensivität bei 2 K oder darunter sein, erübrigt sich jeglicher Streit. Die Auswirkung des anthropogenen CO2 auf die mittlere Erdtemperatur wäre zu gering, um katastrophale Auswirkungen zu erwarten (siehe 4.4.).
+5.3.) Keeling-Kurve: CO2-Konzentration der Atmosphäre seit 1958
+Dr. Ralph Keeling hat 1958 begonnen an der meteorologischen Wetterstation auf dem hawaiianischen Vulkan Mauna Loa kontinuierlich die CO2-Konzentration der Atmosphäre zu messen. Deshalb wurde das Diagramm in Abb.5 auch nach ihm als Keeling-Kurve benannt. Seit 1958 steigt die CO2-Konzentration in der Atmosphäre an, hauptsächlich verursacht durch anthropogenen Ausstoß. Hauptverursacher sind Industrie (Prozess-Wärme), Heizen und Verkehr.
+5.4.) Zusammenhang von CO2-Konzentration und Temperatur
+Der mathematische Zusammenhang zwischen CO2-Konzentration und der Temperatur ist den Physikern und Meteorologen bereits lange bekannt. Deshalb wurde auch der Terminus „CO2-Klimasensivität“ eingeführt. Nur bei einer logarithmischen Funktion vergrößert sich der Y-Wert um einen festen Betrag, wenn der X-Wert jeweils verdoppelt wird. Der große Vorteil einer logarithmischen Funktion ist die Unabhängigkeit der Betrachtung, egal wo ein Referenzpunkt auf der X-Achse gesetzt wird. Die ideale Voraussetzung zur Auswertung der relativen GTR-Werte.
+Der Zusammenhang zwischen CO2-Konzentration und Relativ-Temperatur ist somit eine
+Logarithmische CO2-Funktion F(GTR) *
+Dabei ist die Temperatur-Änderung, F(GTR) ein Proportionalitäts-Faktor, im vorliegenden Fall die Konstante für die GTR-Daten, die CO2-Konzentration und eine Bezugs-CO2-Konzentration.
+Die Keeling-Kurve weist für das Jahr 1980 eine CO2-Konzentration von ca. 337 ppm und für das Jahr 2020 eine CO2-Konzentration von 410 ppm aus. Die Temperatur-Differenz zwischen diesen Jahren beträgt ca. 0,60 Kelvin. Somit folgt:
+Mit dem ermittelten Proportionalitäts-Faktor lässt sich nun sehr einfach die zugehörige CO2-Klimasensivität berechnen.
+- Abschätzung der CO2-Klimasensivität
+Die aus den GTR-Daten ermittelte rechnerische CO2-Klimasensivität beträgt somit
+2 Kelvin. Was sagt dieser Wert aus? Die Voraussetzungen für die gerade ausgeführte Berechnung müssen unbedingt beachtet und angewendet werden.
+Der logarithmische Graph, der sich aus der Berechnung ergibt, ist nur dann richtig, wenn ausschließlich das anthropogene CO2 die Erderwärmung bewirkt.
+Unter Klimatologen wird weltweit diskutiert und spekuliert. Realistisch betrachtet, sollten maximal 50% der Erderwärmung 4 durch Einbringung großer Mengen an anthropogenem CO2 in die Atmosphäre mit der Erwärmung in Zusammenhang stehen. Die meisten Klimatologen und Klimaskeptiker postulieren niedrigere Werte (10-40%). Somit wird basierend auf den GTR-Daten die CO2-Klimasensivität auf einen Maximal-Wert von etwa 1 Kelvin geschätzt.
+7.) Schlussfolgerungen
+Die Abschätzung der CO2-Klimasensivität auf Basis der satellitengestützten GTR-Daten liefert ein Ergebnis in einer sinnvollen Größenordnung. Schwäche dieser Untersuchung ist der für Klimatologen kurze Betrachtungszeitraum von 40 Jahren. Der Autor hat sich bewusst darauf beschränkt, nur die in sich konsistenten Messdaten einer einzigen Mess-Quelle zu verwenden, um den im Vorgänger-Artikel [1] ausgearbeiteten Unwägbarkeiten der konventionell gewonnenen Global-Temperaturen aus dem Weg zu gehen.
+Im Vergleich zu neuen Fach-Publikationen über das Thema CO2-Klimasensivität, die 2017 von Hans Penner 6 in einem Übersichts-Artikel zusammengefasst wurden, bewegt sich das Resultat in guter Gesellschaft. Abgesehen von den Verweisen auf die Werte des IPCC und des PIK-Mitarbeiters Stefan Rahmstorff liegen die Ergebnisse für die CO2-Klimasensivität im Bereich von 0,2 Kelvin bis 1,0 Kelvin. Die vorliegende Arbeit kommt auf einen Maximalwert von etwa 1 Kelvin.
+Bereits 2014 veröffentlichte Koelle eine Übersicht der Forschungs-Ergebnisse zur
+CO2-Klimasensivität und den zeitlich immer kleiner werdenden Ergebnissen [7]. Zum Schluss ein Zitat aus der Zusammenfassung der Arbeit von Hans Penner [6]: „Aus diesen Befunden wird ersichtlich, dass nach dem heutigen Stand der Wissenschaft technische Kohlendioxid-Emissionen keinen schädlichen Einfluss auf das Klima ausüben.“ Dem ist nichts mehr hinzuzufügen!
+Literatur-Verzeichnis
+[1] https://kaltesonne.de/wie-zuverlaessig-sind-die-ermittelten-globaltemperaturen-der-letzten-170-jahre/
+[2] https://www.nsstc.uah.edu/climate/
+[3] https://www.nsstc.uah.edu/data/msu/v6.0beta/tlt/uahncdc_lt_6.0beta5.txt
+[4] https://kaltesonne.de/schweizer-klimaszenarien-ch2018-bis-zur-halfte-der-beobachteten-erwarmung-der-letzte-50-100-jahre-hat-naturliche-ursachen/
+[5] https://kaltesonne.de/zwei-weitere-studien-finden-eine-stark-reduzierte-co2-klimawirkung-von-13-grad-pro-co2-verdopplung/
+[6] https://www.fachinfo.eu/fi036.pdf (Dr. Hans Penner)
+[7] Scafetta et al., International Journal of Heat and Technology, Sept. 2017, Vol. 35, S.18-26
+Herr Dr. Roth, gehen wir mal von Ihren Vorstellungen mit konzentrations-proportionalen C-Flüssen aus. Die Entnahme pro Jahr (190 GtC bei 280 ppm) wäre bei 410 ppm 278 GtC. Die Ausgasung wäre umgekehrt proportional, also auf 190*280/410=130 GtC reduziert. Bei unserer Emission von 11 GtC und einem Anstieg von 5 GtC (2,36 ppm) wäre eine thermisch bedingte zusätzliche Ausgasung von 278-130-11+5=142 GtC (also das 12,9fache unserer Emission) nötig.
+Aber wir haben derzeit bei nachlassender Solaraktivität keinen ozeanischen Temperaturanstieg. Da also 142 GtC fehlen, müssten wir pro Jahr eine Reduktion von (142-5)/2,12=64,6 ppm (!!) beobachten. Wir beobachten aber einen Anstieg um etwa 2,4 ppm. Daran sehen Sie, wie grottenfalsch Ihre Überlegungen sein müssen.
+ich habe den Eindruck, dass Sie „Entnahme“ und „Netto-Entnahme“ durcheinander bringen. Diese beziehen sich immer auf einen bestimmten Speicher, hier auf die Atmosphäre. Die Entnahme ist die Anzahl der CO2-Moleküle, die pro Zeiteinheit der Atmosphäre entnommen werden. Wenn diese Entnahme durch Diffusion erfolgt (und nicht durch Strömung), dann ist sie proportional zur Konzentration in der Atmosphäre und sie ist unabhängig davon, ob und wie viel CO2 der Atmosphäre gleichzeitig zugeführt wird. Sie ist auch unabhängig von der Konzentration im aufnehmenden Speicher (z. B. im Ozean), diese Konzentration bestimmt nur, wie viel der aufnehmende Speicher (also z. B. der Ozean) seinerseits wieder an die Atmosphäre zurück gibt (wenn, wie zutreffend, die Rückgabe ebenfalls durch Diffusion erfolgt). Die Netto-Entnahme gibt demgegenüber an, wie sich die Anzahl der CO2-Moleküle in der Atmosphäre pro Zeiteinheit verändert. Bei ihr werden die gleichzeitig der Atmosphäre zugeführten CO2-Moleküle gegengerechnet. Sie scheinen Rechnungen mit und ohne Gegenrechnung miteinander zu verknüpfen.
+Was wir, durch Messungen bestätigt, wissen, ist nur die Konzentration in der Atmosphäre und die Netto-Entnahme aus ihr: Letztere beträgt zurzeit -2 ppm/a, wir haben derzeit also eine Netto-Zugabe von 2 ppm/a. Diese kann aus einer beliebigen Kombination von Zugabe und Entnahme zustande kommen, es muss nur die Differenz dieser beiden Größen eben 2 ppm/a sein. Welche Kombination die „richtige“ ist, können wir nur indirekt ermitteln. Von der Entnahme sagt IPCC, dass diese vor Beginn der industriellen Revolution ca. 80 ppm/a betragen hat (mit einer Unsicherheit von „mehr als ± 20 %“) und wir wissen, dass sie heute entsprechend der erhöhten Konzentration höher sein muss. Und von der Zugabe wissen wir, dass sie vor Beginn der industriellen Revolution gleich groß gewesen sein muss wie die damalige Entnahme (Gleichgewicht!) und heute um 2 ppm/a größer sein muss als die heutige Entnahme.
+Das ergibt zwar einen kleineren „Fehlbetrag“ als nach Ihrer Rechnung, aber immer noch den Bedarf für eine ganz erhebliche zusätzliche Quelle. Ein Teil dieser kommt sicher aus der allgemeinen Erwärmung. Auch wenn, wie Sie es sehen, derzeit kein weiterer ozeanischer Temperaturanstieg beobachtet wird, gegenüber dem vorindustriellen Zustand haben wir unstrittig eine erhebliche Erwärmung und weil der Ozean so groß ist, hält die dadurch bewirkte erhöhte Ausgasung aus dem Ozeanwasser zwangsweise noch weiter an. Diese Quelle ist also auf jeden Fall da. Ich finde es auch nicht hilfreich, wenn Sie immer wieder unterstellen, ich würde behaupten, dass nur die Erwärmung als zusätzliche Quelle infrage kommt. Sie sollten vielleicht tatsächlich einmal mein Buch lesen, dann wird die Diskussion vielleicht ergiebiger.
+Die anthropogene Ursache des CO2 Anstiegs ist seit 60 Jahren durch Isotop Messungen bewiesen. Ausserdem sind auch die anthropogenen Emissionen dokumentiert. Die sind etwa doppelt so hoch wie der Eintrag in die Atmosphäre.
+die Isotopenmessungen bestätigen die Abschätzungen der Gesamtmengen der verbrannten fossilen Energieträger, angesichts des starken Umsatzes von CO2 in der Atmosphäre nicht aber die Herkunft des vielen CO2 in der Atmosphäre. Das gilt auch für die „dokumentierten“ anthropogenen Freisetzungen. Die sind doppelt so hoch wie das, was in der Atmosphäre verbleibt, auf jeden Fall aber nur ein kleiner Bruchteil von dem, was in die Atmosphäre eingetragen wird.
+14. JANUAR 2021 UM 19:32
+„die Isotopenmessungen bestätigen die Abschätzungen der Gesamtmengen der verbrannten fossilen Energieträger, angesichts des starken Umsatzes von CO2 in der Atmosphäre nicht aber die Herkunft des vielen CO2 in der Atmosphäre. Das gilt auch für die „dokumentierten“ anthropogenen Freisetzungen.“
+Ich verstehe nicht ganz, was Sie meinen bzw. warum das relevant sein sollte. Es ist klar, dass der Anstieg durch die anthropogenen Emissionen stattfindet. Dass die „fossilen Kohlenstoffatome“ nach ihrer anthropogenen Freisetzung in dem Kohlenstoffzyklus mitlaufen, zunehmend aus der Atmosphäre verschwinden, aber durch andere in äquivalenter Menge ersetzt werden, ist ja klar, ändert jedoch nichts daran, dass aufgrund ihrer Emission die Kohlenstoffmenge in der Atmosphäre ansteigt.
+„Die sind doppelt so hoch wie das, was in der Atmosphäre verbleibt,“
+Die andere Hälfte adsorbieren Ozeane und nimmt die Biosphäre auf („Düngeeffekt“).
+„auf jeden Fall aber nur ein kleiner Bruchteil von dem, was in die Atmosphäre eingetragen wird.“
+= der Anstieg, den wir sehen.
+wir wissen, dass die CO2-Konzentration jährlich um 2 ppm zunimmt. Also muss die Summe aller Freisetzungen in die Atmosphäre um 2 ppm/a größer sein als die Summe aller Entnahmen aus ihr. Nur diese Differenz von 2 ppm/a kennen wir. Die Einzelwerte kennen wir nicht. Es ist damit gerade nicht klar, das „der Anstieg durch die anthropogenen Emissionen stattfindet“. Das ist vielmehr eindeutig ein unzulässiger Schluss, der Anstieg wird ausschließlich durch die genannte Differenz bestimmt, wodurch auch immer diese Differenz zustande kommt. Dabei sind die natürlichen Freisetzungen und Entnahmen um ein Vielfaches größer als die anthropogenen Freisetzungen und sie sind in ihrer Größe nur sehr ungenau bekannt. Vor Beginn der industriellen Revolution betrugen sie ca. 80 ppm/a, mit einer Unsicherheit von „mehr als plus/minus 20 %“ (nach IPCC). Seither sind die natürlichen Freisetzungen auf jeden Fall durch die allgemeine Erwärmung angestiegen (sicher um mehr als die 4 ppm/a der anthropogenen Freisetzungen, aber um wie viel wirklich, das ist massiv umstritten) und sie können auch durch andere Effekte zugenommen haben (Beispiel: Verlagerung von Meeresströmungen). Außerdem haben sich zweifelsfrei auch die natürlichen Entnahmen verändert (das haben sie auf jeden Fall massiv aufgrund der erhöhten CO2-Konzentration getan, ein weiterer Grund könnte die schon genannte Verlagerung von Meeresströmungen sein, und es gibt auch noch eine Reihe anderer möglicher Gründe). Die Unsicherheit bezüglich der Größe dieser Einflussfaktoren beträgt ein Vielfaches der anthropogenen Freisetzungen. Ich habe dargelegt, warum die Physik klar zeigt, dass die relativ kleinen anthropogenen Freisetzungen die starke Zunahme der Konzentration in der Atmosphäre gar nicht bewirkt haben können. Sie können das im Buch „Abgesagt! Dem Klimanotstand bricht die Basis weg“, ISBN 978-3-7526-4764-8, detailliert nachlesen. Wenn Sie mir da einen entscheidenden Fehler in meiner Argumentation nachweisen, will ich gerne widerrufen. Andernfalls bleibt es dabei, dass die anthropogenen Freisetzungen nur geringfügig zum CO2-Anstieg beitragen, weil viel stärkere Kräfte am Werk sind. Die anthropogene Freisetzungen können das Klima daher gar nicht entscheidend beeinflussen. Die Klimadiskussion wird unter falschen Voraussetzungen geführt.
+Was sie hier erzählen klingt wie ein Märchen aber nicht als wenn sie jemals wissenschaftlich gearbeitet haben.
+Die Beteiligung an den Märchenbüchern des IPCC hat ihnen lesbar nicht gutgetan.
+Ab dem Punkt wo sie von einem Faktor reden, der gebraucht wird, um die falsche Physik schön zu rechnen, geben sie zu, das es nicht wissenschaftlich ist, was beim IPCC erzählt wird.
+Und falls sie noch mal ein Thermodynamik-Lehrbuch in die Hand nehmen, versuchen sie zu verstehen, das die sogenannte Rückstrahlung aus der Atmosphäre die Oberfläche nicht erwärmen kann.
+In Alaska, selbst wenn der Boden -10 Grad C hat, stehen den 42 W/m2 eine Abstrahlung von 272 W/m2 entgegen. Damit ist die Kühlleistung durch Strahlung 230 W/m2.
+Das sind keine 8 Grad mehr, sondern höchstens 8 Grad weniger. Aka keine Erwärmung.
+Herr Strasser, diese Rechnung beruht auf einem einfachen isothermen Erdmodell. Wenn man statt der -18 Grad genauer mit cos(phi) und Wärmespeicherung über Tag/Nacht sowie flächengewichtet für alle Breitenkreise mittelt, kommt ein globaler Mittelwert von -21 Grad heraus – was den TE auf +36 Grad erhöht.
+Immerhin ist das deutlich wärmer als der korrekte solare S-B-Mittelwert für die Sonnen- und Nachtseite ohne Speicherung bzw. Erdrotation, welchen Herr Prof. Gerlich mit cos und Albedo zu (+15 -273)/2 = -129 Grad berechnet hatte. Das ergab einen (garnicht existenten) TE von +144 Grad. Die +15 Grad für die sonnenbeschienene Hemisphäre hatte auch Uli Weber genommen, aber übersehen dass ohne Gegenstrahlung die gesamte Einstrahlung dort auch wieder abgestrahlt wird und somit nichts für die Nachtseite übrig bleibt.
+Und dann hätte mich interessiert, innerhalb welcher konkreten Grenzwerte sich die Wirkung des „natürlichen THE“ bewegt. Weil egal wie man rechnet, der typisch in der Literatur angegebene Wert von 33°C ist ein Mittelwert, der für eine Bandbreite steht und diese Bandbreite interessiert mich!
+„Und dann hätte mich interessiert, innerhalb welcher konkreten Grenzwerte sich die Wirkung des „natürlichen THE“ bewegt. Weil egal wie man rechnet, der typisch in der Literatur angegebene Wert von 33°C ist ein Mittelwert, der für eine Bandbreite steht und diese Bandbreite interessiert mich!“
+Was soll Ihre Bandbreite denn bemessen? Den Vertrauensbereich des Mittelwertes, oder bezieht sich Ihre Bandbreite gar nicht auf den Mittelwert, sondern meint die Verteilungsbreite der Einzeldaten, aus denen dieser Mittelwert berechnet wird?
+Falls Sie letzteres meinen, so sollten Sie nach dem erfolgreichen Studium der kopierten Seiten aus Peixoto/Oort diese Frage nicht mehr nötig haben.
+Bei senkrechter Sonne (cos=1) fallen auf einen Quadratmeter grob 1368 W/m² minus 30% Albedo, ergibt grob 960 W/m², was nach S. B. eine Temperatur von ca. +88°C ergibt.
+In der Polarnacht ist der cos Null, was eine Temperatur nahe dem absoluten Nullpunkt ergäbe, gemessen irgendwo um die -50°C, aufgrund von Heizwirkung durch Strömung von Warm nach Kalt.
+Nach dieser Überlegung ist die Bandbreite irgendwo um 138°C. In so einem Fall zu behaupten, der „natürliche THE“ beträgt 33°C, also einen einzigen Wert, empfinde ich als absurd.
+Nach voriger Betrachtung wäre bei senkrechter Sonne der THE negativ, und am Pol positiv. Wie kann aber ein und derselbe Effekt dieses Verhalten zeigen?
+Die meßbare Wirklichkeit zeigt doch ganz klar, daß die +33°C-Theorie für den THE falsch ist. Wieso nimmt man das nicht zur Kenntnis?
+Herr Strasser, Sie haben sowohl den THE als auch die Mittelwertbildung völlig falsch verstanden. Der THE stellt doch keinesfalls überall eine Temperatur von etwa -18 (oder genauer -21) +33 Grad ein! Er ist eine mittlere TemperaturERHÖHUNG, die durch Absorption von Bodenabstrahlung und etwa hälftiger Rückstrahlung aus der Atmosphäre entsteht – also als „Strahlungsdämmeffekt“ interpretiert werden kann.
+Der THE ist dort gross wo der Boden warm ist, und geringer wo er kalt ist. Der globale Mittelwert ergibt sich mit S-B aus der Gegenstrahlung (im globalen Strahlungsmodell) derzeit zu etwa 38,5% des Mittelwerts der Bodenabstrahlung, welche bei +15 Grad 390 W/m² beträgt.
+Das ist eine gänzlich neue Theory! Machen sie weiter so!
+Wenn der THE Effekt von der Bodentemperatur abhängig ist, dann reden wir seit Jahren an der Realität vorbei!
+Wie waere es, das der THE von der Temperatur im Erdkern abhängig ist? Schon mal darueber nachgedacht?
+stefan strasser schrieb am10. Januar 2021 um 22:52
+Die mir bekannten Arbeiten/Artikel, die einen Vergleich Erde mit und ohne Atmosphäre ziehen, sind Gehrlich/Tscheuschner 144K, Kramm und Spencer Spencer um die 66K und die allgemein verwendete Zahl von 33K. Keine Arbeit kommt auf eine Temperatur über 255K ohne Atmosphäre. Durch die T⁴-Abhängigkeit der Abstrahlung wird der Maximalwert erreicht, wenn die Temperaturen gleichverteilt sind.
+Die folgende Beschreibung passt zur Gleichung (82) bei Gerlich/Tscheuschner:
+Der Zentral-Solarpunkt T0 ist der thermische Pol mit T0 = [(1-A)*S/(ε*σ)]^0,25 = 360K, dann ergibt sich die Temperatur beim thermischen Breitengrad θ nach T(θ) = T0*cos(θ)^0,25. Die mittlere Temperatur der Hemisphäre in den Grenzen [0,π/2] aus den thermischen Breitengraden errechnet sich nach Tavg(θ) = T0*∫cos(θ)^0,25*sin(θ)*dθ = 4/5*T0 = 288K und das ergibt auf zwei Oberflächen aufgeteilt 288K/2 = 144K.
+Das kann jeder auch mit Hilfe einer Wertetabelle {θ,T(θ),T(θ)^4,sin(θ),[T(θ1)+T(θ2)]/2*[sin(θ2)-sin(θ1)],[T(θ1)^4+T(θ2)^4]/2*[sin(θ2)-sin(θ1)]}, also einer numerischen Integration selbst berechnen und überprüfen.
+Ich kann jedem nur empfehlen, die numerische Integration (Excel) mal durchzuführen.
+Mfg
+Werner Holtz
+ist aber mathematische korrekt und auch physikalisch nachvollziebar.
+Das Model mit der Wärmespeicherung unter Berücksichtigung der wirklichen Einstrahlleistung braucht keinen GHE. Sie haben weder Herrn Weber aber schon gar nicht Prof. Gehrlich verstanden.
+Sie erkennen ja nicht mal, das die Strahlung nicht die Temperatur bestimmt, sondern der Energieinhalt. Daher stochern sie immer noch in der Strahlung rum ohne wirklich thermodynamisch fundiert zu argumentieren.
+Werner Schulz schrieb am 11. Januar 2021 um 2:43
+Herr Weber ist da anderer Meinung und postuliert, dass die Berechnung inkorrekt ist und da ein Faktor zwei fehlt.
+Spencer und Kramm gehen (im Gegensatz zu Weber) über den „Energieinhalt“ einer Bodenschicht und kommen zu Ergebnissen kleiner als 255K.
+aber der Faktor 2 ist doch enthalten. Man fragt sich immer warum sie argumentieren, wenn sie die Aussagen von Herrn Weber gar nicht richtig kennen.
+Das einzige das falsch ist an der Treibhausunwissenschaft, ist das versucht wird durch eine physikalisch nicht wirksame gemittelte Einstrahlung, der Sonne die Strahlungsintensitaet absprechen will, die eine weit ueber 15 Grad C hihe Temperatur verursachen kann.
+Wenn sie also Herrn Weber kritiieren wollen, dann doch bitte gleichzeitig mit der falschen Treibhaustheorie zusammen.
+Wie sie wissen, ist der Zusammenhang zwischen Strahlungsintensietaet und Temperatur, der bekannte aus dem SB Gesetz.
+Des weiteren, wird die Temperatur von der im Stoff enthaltenen Waermemenge vorgegeben und weder oder noch von Waermeein-und Ausgaengen, die wenn sie gleich sind, die Temperatur nicht bestimmen, sondern nur sicherstellen, das die Temperatur gleich bleibt.
+Stimmen sie mir zu das der Waermefluss von der Oberflaeche in Richtung Atmosphaere geht und daher die Atmosphaere die Oberflaeche nicht erwaermen kann?
+Gruss Werner
+Werner Schulz schrieb am 11. Januar 2021 um 15:08
+Hmm, lesen Sie doch einfach nochmal „Anmerkungen zur hemisphärischen Mittelwertbildung mit dem Stefan-Boltzmann-Gesetz“ oder „Safety First: Zum besseren Verständnis meiner hemisphärischen Energiebilanz„. In beiden Artikeln postuliert Herr Weber, dass die Berechnungen von Gerlcih/Tscheuschner flasch sind, da die nicht-beleuchtete Seite mit einbezogen wird. Er fügt daher einen Korrekturfaktor 2 ein und bezeichnet das Ergebnis dann als richtig.
+Da die Abstrahlung von der Temperatur abhängig ist, hat die Einstrahlung sehr wohl einen Einfluss auf die Temperatur. Haben Sie schon wieder vergessen, dass Sie mal der Meinung waren, dass es bei einem Ungleichgewicht zwischen Ein- und Ausstrahlung zu einer Temperaturänderung kommt?
+Herr Weber stellt richtig, das die Sonne immer nur auf die Hälfte der Erde scheint, daher bringt er den Faktor 2 ein. Dieser stellt sicher, das die Einstrahlleistung der Sonne richtig angegeben wird. Das Ergebnis ist sehenswert, da plötzlich(nach z.B. dem unphysikalischen Models bei KT) für die Erde kein THE mehr gebraucht, wird um die Temperaturen zu erklären.
+Ihre falsche Behauptung:
+sollten sie untermauern, oder noch mal in einem Thermodynamik Lehrbuch nachschauen. Diese unphysikalischen Ideen in ihrem Kopf machen seit Jahren diese Diskussion unbrauchbar für sie selbst und die Mitleser.
+Noch mal, die Temperatur ist einzig und allein vom Wärmeinhalt des Stoffes bestimmt. Wenn sie etwas anderes sagen wollen, dann formulieren sie bitte präziser.
+Zum Beispiel sollte man präzise formulieren, das nur bei einem Körper der durch Strahlung Wärme erhält und abgeben kann, ein Ungleichgewicht von Ein- und Ausstrahlung zu einer Temperaturänderung führt.
+Da zum Beispiel die Oberfläche auch noch durch Konvektion, Wärmeleitung und spezifisch durch Wasserverdunstung (latente) Wärme mit der Atmosphäre austauscht, können sie ihre „Erkenntnis“ nicht an der Grenzfläche Oberfläche/Atmosphäre anwenden.
+Sehen sie das genau so?
+Haben sie schon nachgeschlagen was der Begriff „Wärme“ im Unterschied zum Begriff Energie beim Wärmeaustausch durch Strahlung bedeutet?
+Werner Schulz schrieb am 12. Januar 2021 um 9:21 :
+Wir sprachen gerade über den Ansatz von Gerlich/Tscheuschner, da spielt das von Ihnen behauptete keine Rolle. Dort stellt sich lokal ein Gleichgewicht zwischen Ein- und Ausstrahlung ein, die Erde rotiert nicht. Also kein wie auch immer geartetes Umlegen auf die gesamte Erdoberfläche.
+Sie springen wieder mal einfach zu einem leicht anderen Thema und versuchen dadurch einen scheinbaren Widerspruch zu konstruieren. Zum einen ging es um Gerlich/Tscheuschner, wo die Berechnung für einen amtosphärenlosen Planeten gemacht wurde und zum anderen wissen Sie, wie ich die Energieflussbilanz an der „Grenzfläche Oberfläche/Atmosphäre“ sehe. Also unterstellen Sie mir bitte nicht, ich würde da ein reines Strahlungsgleichgewicht sehen …
+im Gegensatz zu ihnen unterstelle ich nichts.
+Die Diskussion ob Faktor 4 oder 2 ist gleich fuer einen Planeten mit oder ohne Atmosphaere. Wer hier also mit seiner Argumentation ablenkt, sind sie.
+Fragen beantworten sie keine, dabei koennte sie endlich sicherstellen, das ich/jeder weiss, dass sie die Grundlagen der Thermodynamik wirklich verstanden haben.
+Aber vielleicht erklaeren sie noch mal was sie genau ueber den Waermeuebergang von der Oberflaeche zur Atmosphaere wissen.
+Wichtig ist die Frage ob die Atmosphaere der Oberflaeche Waerme zufuegt, z.B. durch Strahlung. Und die thermodynamische Antwort ist: Nein!
+Daher kann die Atmosphaere die Oberflaeche nicht erwaermen.
+Noch mal als Erinnerung an sie, man muss einem Koerper Waerme hinzufuegen, um ihn zu erwaermen,
+Ich wiederhole das gerne fuer sie, bis es sitzt, wir sind ja zum Lernen hier.
+Ich lerne wie sie sich um die Grundlagen druecken, und sie sind hier, um sie endlich zu lernen.
+Ich muss sie auf den grossen Tag vorbereiten, an dem sie erkennen sollten, das die Strahlung allein keine Rolle spielt und die wichtigste Rolle beim atmosphaerischen Effekt der Stickstoff innehat.
+Ihre falsche Behauptung:
+sollten sie untermauern,
+Herr Schulz, das ist nur zum Teil richtig. Man kann einen Körper auch erwärmen wenn er (z.B. durch Strahlung) beheizt ist und man nur den Wärmeverlust behindert (z.B. durch Dämmung, verringerte Kühlung oder Gegenstrahlung), wobei der Wärmefluss von warm nach kalt seine Richtung NICHT umkehrt. Diesen Fall hat leider Clausius im 2.HS vergessen. Hier ein Beispiel:
+Ein am Ende elektrisch beheizter Metallstab wird mit dem anderen Ende in Eiswasser getaucht und die Temperatur am heissen Ende wird gemessen. Dann wird das kalte Ende in Leitungswasser getaucht. OBWOHL DIESES WASSER KÄLTER IST, STEIGT DIE TEMPERATUR AM BEHEIZTEN ENDE.
+zum Teil richtig geht nicht. So wie ich es sage ist es richtig. Was falsch ist, sind ihre Erklärungen. Durch verringerten Wärmeverlust wird kein Körper wärmer.
+Wenn sie die Atmosphäre als Dämmung beschreiben wollen, dann erklären sie warum eine dicke Wand bessere Isoliereigenschaften hat als eine dünne Wand.
+Clausius ist davon nicht betroffen, es ist arrogant, dass sie meinen, sie können Clausius mit Rhetorik widerlegen.
+Das Quenching haben sie partout nicht verstanden, obwohl es sehr gute Beschreibungen dazu gibt. Ich habe ihnen die Besten schon geschickt!
+Die Klimasensitivität wird aus dem Vergleich von Klimata mit Treibhausgasen bestimmt. Also z.B. das heutige zum vorindustriellen oder Eiszeitklima. Die Temperaturdifferenzen sind dann einige Kelvin. Als Vergleichspunkt eine virtuelle Atmossphäre ohne Treibhausgase oder heutiger Albedo zu nehmen, also die 33 K als Ausgangspunkt zu nehmen, ist dumm. Das ist so als wenn Sie ein Haus bauen und die Höhe des ersten Stocks nicht am Erdgeschoss orientieren wollen, sondern am Abstand zum Erdmittelpunkt, also eine völlig sinnlose Verkomplizierung.
+Wie bitte? Eine Grundvoraussetzung zur Bestimmung einer Sensitivität ist doch zunächst eine klar nachgewiesene Abhängigkeit. Ohne die genau zu kennen, können Sie bestenfalls „Zufallsanalogien“ vermuten. Aber eine Bestimmung ist das nicht! Aufgrund Ihrer Aussage wundert mich nicht, daß es keine konkreten Erkenntnisse gibt!
+Für mich erhöhen die meisten „Erklärungen“ von THE-Verfechtern meine Skepsis an deren Weltbild. Ich hab zu den wesentlichen Fakten bisher noch nie eine Auskunft erhalten, die man im Rahmen der bekannten Physik vertreten und auch nachweisen kann!
+12. JANUAR 2021 UM 10:08
+„Wie bitte? Eine Grundvoraussetzung zur Bestimmung einer Sensitivität ist doch zunächst eine klar nachgewiesene Abhängigkeit.“
+Sicher. Wenn Sie mit dem Vorgehen der Wissenschaft dazu nicht einverstanden sind, machen Sie doch einen eigenen Vorschlag, was man hätte tun sollen, was bislang noch nicht geschah?
+„Ohne die genau zu kennen, können Sie bestenfalls „Zufallsanalogien“ vermuten.“
+Nachdem Sie ja PeixotoOort studiert haben, wissen Sie, das dies nicht so ist.
+„Der CO2 Anteil wurde, leicht steigend, von 250 auf 280 ppm gemessen, bis zum Ende der kleinen Eiszeit, als die industrielle Revolution begann und gleichzeitig der CO2 Anteil bis heute auf 420 ppm stieg. Für mich ist das kein Beweis für eine Wirksamkeit des CO2, was trieb denn die früheren Warmzeiten an“
+Der Beweis um die Klimawirksamkeit basiert natürlich nicht auf hemdsärmigen Vergleichen, sondern Klimamodellen, die die Wirkung aller Klimafaktoren (natürliche + künstliche) quantifizieren. Zwischen zufünftigen, heutigem und vergangenem Klima besteht kausal kein Unterschied. Die Physik ist immer dieselbe. Die Warm-Eiszeit-Zyklen gehen weiter und werden von der Erdbahn und der Präzession der Erdachse getriggert. Das einzig neue gegenüber der sonstigen Klimageschichte ist, der Treibhausgasanstieg durch den Menschen. Wenn man das ins Modell eingibt, so wird das Klima eben wärmer als ohne. Nach der Klimaphysik stünde die nächste Eiszeit eh erst in 20.000 Jahren oder so an. Das interessiert nun weniger als die Klimaentwicklung der kommenden 100 Jahre. Genaueres finden Sie in meinem Beitrag hier:
+OortPeixoto_Physics_of_Climate_1992_p450-478
+https://www.eike-klima-energie.eu/2021/01/05/waerme-und-kaelte/#comment-273940
+Joo, na klar.
+Wer’s glaubt wird selig!
+Ehemaliges IPCC-Mitglied Dr. Richard Courtney:
+„Die empirischen Beweise zeigen eindeutig, dass die Hypothese einer anthropogenen globalen Erwärmung falsch ist“.
+https://www.eike-klima-energie.eu/2020/03/22/46-aufschlussreiche-statements-von-ipcc-experten/
+Halten Sie sich an die Wissenschaft und nicht Gerüchte.
+ihre ach so tollen Klimamodelle als Beweis?
+Sie scherzen.
+Die Modelle koennen nicht mal die Realitaet richtig abbilden.
+Von Laie zu Laie, hier sind die Gründe für den Klimawandel verständlich beschrieben, der Einfluss von anthropogenem CO2 ist vollkommen unbedeutend, deshalb können die Alarmisten auch keinerlei Beweise für ihre Hypothese vorlegen.
+https://vademecum.brandenberger.eu/klima/wandel/einfluss.php
+ich bin mir nicht sicher, ob diese 6 Punkte tatsächlich berücksichtigt wurden. Es wäre schön, wenn Dr. Karl etwas dazu sagen würde.
+Auch wenn ich eine mathematische Funktion aus Punkten Messwerten herstelle, kann es sich um eine Korrelation und keine Kausalität handeln.
+Ich galube, es war ein Astrophysiker namens Salby, wer die Kausalität umgedreht hat: Die Temperatur steigt, und das hat zur Folge, dass der CO2-Gehalt der Atmosphäre sich erhöht (durch die Ausgasung aus denn Ozeanen).
+Übrigens, allein, wenn mein Punkt 1, berücksichtigt wird, liegt die Klimasensitivität bei 0,0 °C bei einer Verdoppelung des CO2-Gehaltes. Luft (alle Bestandteile, O2, N2, H2O, CO2) hat sich erwärmt, alles steigt nach oben, und kalte Luft strömt an ihre Stelle. Bei mir war das Grundschule Klasse 3.
+Leider habe ich nicht die Zeit alle Lietaraturhinweise durchzulesen. Sehr interessan finde ich den unter Punkt 6, aber auch dort keine Antworten auf meine Fragen, die sicherlich nicht vollständig sind.
+Des weiteren bringen folgende Aufsätze etwas Klarheit in der Angelegenheit:
+Edwin X Berry : Human CO2 Emissions Have Little Effect on Atmospheric CO2
+Robert H. Essenhigh: Does CO2 really drive global warming?
+Sherwood B. Idso:
+CO2-induced global warming: a skeptic’s view of potential climate change
+Wenn nachts Wasser kondensiert, aka wengiger Wasserdampf in der Luft, bleibt es laenger waermer.
+„Meine Fragen an die Experten hier. Berücksichtigen die verschiedenen Modelle folgende Faktoren?“
+„1, Die von A. Jablonski gemachte Entdeckung, derzufolge das durch IR-Strahlen angeregte CO-Molekül etwa tausendmal schneller seinen Energigehalt an seine Umgebung (O2 und N2 Moleküle) als kinetische Energie abgibt, als die Rückstrahlung Richtung Erde.“
+Das Verhältnis der Relaxationszeiten zwischen radiativer und nicht-radiativer Abregung interessiert gar nicht, denn die thermische Strahlung ist durch die Temperatur gegeben und die garantiert immer ausreichende Anzahl an Anregungszustände. Jablonski hat sich glaube ich auch eher mit Lumineszenz von Molekülen beschäftigt als mit Grundlagen der Thermodynamik. Die waren ja auch schon zu seiner Zeit längst bekannt.
+„2, Wurde diese Rückstrahlung je gemessen?“
+Die wird mit IR Detektoren gemessen.
+„3, Wird in den Berechnungen berücksichtigt, dass Wasser durch seinen 30-90-mal höheren Anteil in der Luft als CO2 (in Abhängigkeit der Temperatur), bzw. durch seine breiteren Absorprionsspektren einen über 100-mal höheren Treibhausgaseffekt haben würde, als CO2?“
+Ja, da Wasser und Wasserdampf nicht nur beim Treibhauseffekt wichtig sind, sondern fürs Wetter insgesamt, berücksichtigen heutige GCM-Klima-Modelle diese.
+„4, Berücksichtigen die Modelle, dass warme Luft nach oben steigt, und an ihre Stelle kalte Luft strömt?“
+Ja, heutige GCM-Klima-Modelle berechnen Konvektion.
+“ 5, Dem Wasser wird eine positive Rückkoplung zugeschrieben.“
+Kann man so nicht sagen, hängt vom Effekt ab.
+“ D.h. CO2 erhöht die Temperatur, was dazu führt, dass Wasser diese noch mehr erhöht. Kann das stimmen?“
+Das stimmt, der Effekt ist positiv.
+„Mehr Temepratur verursacht mehr Verdunstung. Verdunstung verursacht aber Abkühlung. (Die dazugehörige Kondensationswärme wird irgendwo in den Wolken freigesetzt. ) Mehr Verdunstung verursacht mehr Niederschlag, was wiederum zur Abkühlung beiträgt. Wasser kühlt also doppelt. Wurde dies in dem Modellen berücksichtigt? “
+Ja, das wird schnell kompliziert. Das alles berücksichtigen Modelle heute.
+“ 6, Mehr CO2-Ausstoß bedeutet höhere CO2-Konzentrationen in der Troposphäre. Was wiederum zur erhöhten Strahlungsabgabe Richtung Weltall = Abkühlung führt. Wurde das irgendwo berücksichtigt? “
+Natürlich. Auch das berücksichtigen heutige Modelle.
+„Wegen der hier angesprochenen Punkte haben Versuche in geschlossenen Systemen nur bedingte Aussagekraft. “
+Stimmt. Daher Vorsicht mit falschen Labor-Experimenten. Ihre Fragen sind valide, aber ein Klimamodell ohne Ihre Punkte von oben zu berücksichtigen, hätte kaum den Namen Klimamodell verdient. Ausserdem bräuchte man für so ein primitives Modell ohne Berücksichtigung dieser grundlegenden klimaphysikalischen Prozesse kaum die grosse Rechenkapazität, die heutige Modelle fordern.
+Das ist ein aktuelles WP Problem, an dem wir dran sind.
+Ab der 2. Ebene, Antwort auf Antwort (eingerückt), funktioniert es richtig.
+(hilft IT-Spezialisten bei der Fehlersuche)
+Danke.
+8. JANUAR 2021 UM 8:33
+„Die Gegenstrahlungstheorie nimmt doch an, daß diese Gegenstrahlung den Erdboden also die Oberfläche zusätzlich erwärmt.“
+Zusätzlich zu welcher Erwärmung? Was ist Ihre ohnehin stattfindende Erwärmung? Es gibt keine „Gegenstrahlungstheorie“.
+Genau wegen diesen unklar gelassenen Definitionen/Beschreibungen ist es sehr schwer, mit Verfechtern zu diskutieren, weil die ununterbrochen, statt Klartext zu sprechen, Wortklauberei betreiben oder um den heißen Brei herumreden.
+Ausgangspunkt einer globalen Klimaänderung ist die Störung des Strahlungsgleichgewichts an der TOA, d.h eine Änderung der inneren Energie des Klimasystems.
+Was meinen Sie mit Strahlungsgleichgewicht? Vermutlich energetisches Gleichgewicht? Aus Ihrer Sicht stellt sich also eine permanente Unbalace zwischen Ein- und Abstrahlungsenergie durch mehr CO2 ein? Das hieße, der Veränderungsprozeß (Erwärmung) schreitet unbegrenzt fort, weil sich nie Balance einstellt? Ist es das, was Sie sagen wollen?
+„Was meinen Sie mit Strahlungsgleichgewicht? Vermutlich energetisches Gleichgewicht?“
+Ja klar, was denn sonst?? Es geht ums energetische Gleichgewicht. Da die einzigen Energieformen an der TOA Strahlungen sind, ist dies äquivalent mit Strahlungsgleichgewicht. Ich habe die Klarheit der Begriffe vorausgesetzt. Lesen Sie einfach die Kopien des Lehrbuchs. Dafür habe ich das doch hier rein gesetzt.
+„Aus Ihrer Sicht stellt sich also eine permanente Unbalace zwischen Ein- und Abstrahlungsenergie durch mehr CO2 ein?“
+Nein, wie erklärt nur zwischen einem stationären Zustand für CO2 Menge x zum anderen Zustand für CO2 y.
+„Das hieße, der Veränderungsprozeß (Erwärmung) schreitet unbegrenzt fort, weil sich nie Balance einstellt? Ist es das, was Sie sagen wollen?“
+Nein. Wie bereits erklärt, natürlich nicht! Lesen Sie die Lehrbuchauszüge, da steht alles drin.
+GAGA!
+8. JANUAR 2021 UM 8:33
+“ Das heißt jedenfalls, daß nicht nur die Luft, sondern auch der Boden dadurch wärmer würde, ihm und der Luft also zusätzliche Energie zugeführt wird. Nimmt man jetzt theoretisch einen ECS von 3°C an, dann hieße das, … Der gesamte Erdboden hätte dann durch die höhere Temperatur mehr Energie. “
+Korrekt. Wenn die ECS Temperatur ein neuer stationärer Zustand mit erneutem Strahlungsgleichgewicht an der TOA erreicht ist, ist die innere Energie im Klimasystem höher als vorher. Die Differenz wurde in der Übergangszeit zwischen altem und neuen stationären Zustand gesammelt und ist natürlich genau das zeitliche Integral über die Differenz der Strahlungsleistungen an der TOA im zwischenzeitlichen StrahlungsUNgleichgewicht. Das ist ja gerade der Witz bei Klimaänderungen.
+„Gleichzeitig besagt die Theorie aber, daß im eingeschwungenen Zustand TOA immer ein „Strahlungsgleichgewicht“ herrscht, gemeint ist vermutlich ein energetisches Gleichgewicht, bei dem die empfangene Energie mit der abgestrahlten übereinstimmt.“
+Nein, keine „Theorie“ besagt das. Dies gilt, wie erklärt, nur in den eingeschwungenen Zuständen vor und nach dem Treibhausgasanstieg .
+„Wenn aber nun der Erdboden eine höhere Temperatur und damit mehr Energie hat, die abgestrahlt wird, wohin verschwindet diese Energie dann wieder, damit man sie TOA nicht merkt?“
+Die bodennahe Gegenstrahlung erhöht sich entsprechend. Damit stellt sich am Boden auch wieder ein Energiegleichgewicht ein.
+„Nach dieser Theorie kann man, nur durch die CO2 Konzentration gesteuert, beliebige Oberflächentemperaturen erzeugen, die sich aber Richtung All nicht auswirken!?“
+Nein, beliebig ist das nicht. Sie haben oben doch selber den Zusammenhang zwischen CO2 Konzentrationsanstieg und Temperaturanstieg am Boden benutzt.
+„Nein, keine „Theorie“ besagt das. Dies gilt, wie erklärt, nur in den eingeschwungenen Zuständen vor und nach dem Treibhausgasanstieg .“
+Sorry, Sie bezogen sich ja schon nur auf den eingeschwungenen Zustand. Dann stimmt es.
+Wie sie daraus einen THE ableiten wollen ist schon seit langem die Frage.
+Setzen sie doch mal bei KT eine höhere Temperatur an, erhöhen sie die „Gegenstrahlung“ und voila, ein Gleichgewicht bei höherer Temperatur! Beliebig!
+Ist das Ernst oder Satire?
+Falls ernst gemeint, bitte nachrechnen, woher die 390 W/m² herkommen, wenn ab Sonne in Summe nur 240 W/m² ankommen. Und – sog. Nettoflüsse gibt es physikalisch nicht!
+Herr Strasser, am Boden absorbierte Strahlungsleistungen addieren sich, und 240+150 sind 390 W/m². Die Gegenstrahlung ist übrigens gemessen, existiert also ebenso wie die Solarstrahlung.
+Da ist gar nix gemessen!!!
+„am Boden absorbierte Strahlungsleistungen addieren sich“
+Wenn das so wäre, müßten tausende normal leuchtende LEDs zusammen einen gleißend hellen Scheinwerfer ergeben. Tun sie das?
+Auf der nordhalbkugel der Erde ist jetzt Winter – das ist ein unbestrittenes Faktum – oder?
+Für die Treibhausgläubigen ist die Ursache wohl im schwächelnden „THE“ zu suchen – oder???
+Ja, meine Glasscheibe bedstätigt diese These – sie bleibt tatsächlich eiskalt!!!
+Na , wenn das mal kein Beweis ist!!!
+Eine Frage bleibt aber immer noch unbeantwortet – woher kommen die gewaltigen Energiemengen, die notwendig sind, um auf der Nordhalbkugel den Frühling einzuläuten und in den Sommer zu wechseln???
+Nach gängiger These, auch hier bie EIKE oft verbreitet, haben das nur dem „Treibhausdeffekt “ zu verdanken!!!
+Und nicht zu vergessen, die Erde ist eine Scheibe, am Rande kann man herunterfallen, aus dem Mittelalter mitten in die aufgeklärte Zeit – Einstein, Max Planck, und viele andere lassen grüssen – alles wohl „Klimawandelleugner“ – oder???
+Eugen Ordowski schrieb am 9. JANUAR 2021 UM 9:31
+Ist mein Ironiedetektor kaputt oder meinen Sie das ernst und wissen nicht, was die Ursache für die verschiedenen Jahreszeiten ist? Mit dem Treibhauseffekt hat das wenig zu tun …
+Das die Beobachtung nicht die Erklärung sein kann, sollte ihnen als Wissenschaftler bekannt sein.
+Und trotzdem stellen sie ihre Behauptung hier so hin.
+Weil wir gerade bei der Wärmedämmung sind, können sie erklären, warum eine Wand mit den gleiche Strahlungseigenschaften unterschiedliche Dämmeigenschaften haben kann, die abhängig von der Dicke der Wand ist?
+Ist ernst gemeint – kapieren eh nur wenige.
+Und die haben nix zu sagen…
+Von Theorie kann man nicht sprechen, da die Grundlage offensichtlich thermodynamisch falsch ist.
+https://www.youtube.com/watch?v=Y2K1uHvfaek
+Ein sehr schoenes Beispiel von Pruefen und Nachdenken, die im Gegensatz zur Klimaunwissenschaft.
+Realität gegenüber Treibhausgeschwätz!
+Man läßt dich halt schwafeln, Krüger
+Mein Vorschlag: Dann lesen Sie doch bitte unseren Dezemberartikel durch, seit 120 Jahren keine Erwärmung, nur der hohe Temperatursprung von über 2 Kelvin im Jahre 2011 auf dessen Niveau wir heute noch sind. 2 ebene Trendlinien mit einem Temperatursprung dazwischen. Nirgendwo ist die CO2-Treibhauswirkung zu finden in der deutschen Dezemberreihe? Wieso ändern Sie nicht ihre Meinung? Nur als Ergänzung: Im Jahre 2007 glaubte ich auch noch an den erwärmenden CO2-Treibhauseffekt. Und weiter: Falls Sie Ihre Meinung aus Glaubensgründen nicht ändern wollen, wären Sie bereit eine Sonderabgabe gegen den CO2-THE zu bezahlen, ähnlich wie dies gläubige Katholiken jeden Sonntag in der Kirche tun? Die letzte Frage brauchen Sie nicht zu beantworten.
+Gruß Josef Kowatsch.
+Das die Ozeane einen immensen Einfluss auf das Klima haben, habe ich noch in der Schule gelernt.
+Jeder, der von der angblichen Erwärmungswirkung von CO2 auf die Erde hier spricht, sollte den Beweis über ein einfaches Experiment liefern – wäre heute schon alles möglich – im Labor wird aber bis heute nur beweiesen, dass CO2 Strahlung absorbiert, was keinen überrascht!
+Für alle, die der Meinung sind, dass ein angeblicher „THE“ die Erde um ca 33 Grad C wärmer macht, sollten die Gedanken zum Geoengineering doch etwas zweifeln lasssen, denn hier will man gezielt die Sonneneinstrahlung mindern, was garantiert die Erdtemperaturen senken wird!!!
+Diese Leute haben kapiert, wer die Erde erwärmt und wie man damit in unseren Zeiten wahrscheinlich Milliarden Euros verdienen wird. Eine neue Eiszeit wird kommen, jetzt aber tatsächlich menschgemacht – aber wir Menschen lieben die Kälte nicht, die ganze Natur lebt nur, weil es warm auf der Erde ist!
+„Die Idee hatte der Nobelpreisträger Paul Crutzen ins Spiel gebracht: Wie wäre es, das Klima durch Schwefelpartikel zu kühlen. Die würden in die Stratosphäre injiziert, verteilten sich als Schleier rund um die Welt und reflektierten Sonnenlicht zurück ins All. Dass die Methode prinzipiell funktioniert, ist klar: Schließlich kühlt genau dieser Effekt nach schweren, explosiven Vulkanausbrüchen das Klima, erklärt Jonathan Proctor von der University of California in Berkeley:“
+https://www.deutschlandfunk.de/klempnern-am-klima-geoengineering-gefaehrdet-die.676.de.html?dram:article_id=425088

@@ -1,0 +1,307 @@
+Im Falle der Atmosphäre wird dies durch den Einfluss des Wassers in seinen verschiedenen Aggregatzuständen nochmals komplizierter. Bei festen Körpern ausreichender Größe lassen die Temperaturänderungen im Inneren dagegen eine ziemlich exakte Bilanzierung der Zu- und Abflüsse an thermischer Energie zu. Wenn es um klimatische Langfristtrends geht, sind Messungen der Temperatur im Boden daher aussagekräftiger als solche in der Luft.
+Die Verhältnisse sind bei festen Körpern vergleichsweise einfach, weil hier der Transport von Materie nur eine untergeordnete Rolle spielt. Sie weisen meist ein streng geordnetes Kristallgitter auf, in dem die Atome bzw. Moleküle ortsfest an ihre Nachbarn gebunden sind. Diese Bindungen kann man sich wie Federn vorstellen, wodurch die einzelnen Gitterteilchen hin und her schwingen können, Bild 1. Je mehr Energie ihnen zugeführt wird, desto heftiger werden diese Schwingungen. Da sie mit ihren Nachbarn elastisch verbunden sind, geben sie diesen dabei auch einen Teil ihrer Energie weiter. Dieser Energietransfer erfolgt ständig und in alle Richtungen: Jedes Gitterteilchen gibt jedem seiner Nachbarn immer wieder einen Teil seiner Schwingungsenergie ab und erhält zeitlich versetzt von diesen auch wieder Energie zurück. Allerdings geben Gitterelemente, die ein hohes Maß an Schwingungsenergie aufweisen, im statistischen Mittel an ihre Nachbarn mehr Energie ab, als sie von diesen zurückerhalten. Deshalb hat Wärme in einem festen Körper die Tendenz, sich gleichmäßig in alle Richtungen auszubreiten bzw. zu verteilen. Sie „fließt“ von Bereichen hoher Temperatur weg und hin zu Bereichen mit niedrigerer Temperatur. Allerdings erfolgt die sogenannte Wärmediffusion im Unterschied zum Wärmetransport durch Konvektion, wie er in Flüssigkeiten und Gasen dominiert, ziemlich langsam.
+Wichtig ist die Erkenntnis, dass Wärmetransportvorgänge – grob vereinfacht – mit dem Verhalten von Wasser vergleichbar sind, welches bekanntlich immer die Tendenz hat, nach unten zu fließen, und schließlich sogar im Boden versickert. Wärme fließt immer von Bereichen mit höherem Temperaturniveau in Richtung auf Bereiche mit niedrigerer Temperatur und nicht umgekehrt. Das zugrundeliegende Naturgesetz ist der zweite Hauptsatz der Thermodynamik. Er hat zahlreiche Ausprägungen, doch genügt es für unsere Betrachtungen festzuhalten, dass Wärme nicht von selbst von einem Körper niedriger Temperatur auf einen Körper höherer Temperatur übergehen wird.
+Bild 1. Im Kristallgitter fester Körper sind die Gitterelemente mit ihren Nachbarn fest verbunden. Die Verbindungen sind elastisch wie Federn, so dass die Teilchen hin und her schwingen können (Grafik: Autor)
+Die Wärmediffusion im Boden erfolgt äußerst langsam
+Diese für feste Körper geltenden Zusammenhänge treffen in eingeschränkter Form auch für Konglomerate bzw. Haufwerke fester Körper wie z.B. wie Sand oder Erdreich zu. Die geringe Geschwindigkeit der Wärmeübertragung ist dabei für das Nachvollziehen von Wetter- und Klimavorgängen von Vorteil. Einen Eindruck von der Trägheit dieser Vorgänge vermittelt der Tagesgang der Temperaturprofile im Boden zwischen Oberfläche und 1 m Tiefe an einem typischen Sommertag, Bild 2.
+Bild 2. Tagesgang der Temperaturprofile im Boden zwischen Oberfläche und 1 m Tiefe an einem typischen Sommertag [BAYE]
+Das hier aufgeführte Beispiel ist typisch für die Verhältnisse bei einem mitteleuropäischen Kulturboden (unbewachsener sandiger Lehmboden) an einem weitgehend wolkenlosen Sommertag. Man erkennt deutlich, dass die Oberfläche am Tag stark aufgeheizt wird, die Wärme aber nur langsam tiefer eindringt. Nachts kühlt sich der Boden – ebenfalls von der Oberfläche ausgehend – wiederum sehr stark ab, bis sich der Zyklus mit dem nächsten Tag wiederholt. Die Eindringtiefe der Temperatur für einen Tageszyklus liegt je nach Bodenart bei lediglich etwa 10 bis 50 cm.
+Wenn man sich die Darstellung in Bild 2 am Mittag bzw. um Mitternacht ansieht, so fällt vor allem die enorme Spanne von 35 K (Kelvin, entspricht °C) zwischen Minimal- und Maximaltemperaturen auf. Das ist mehr als doppelt so hoch wie die typischerweise von meteorologischen Stationen in 2 m Höhe gemessene Tagesdifferenz von etwa 15 K. Auf die Gründe hierfür wird zu einem späteren Zeitpunkt in einem weiteren Artikel, der sich mit der Strahlungsbilanz der Erdoberfläche beschäftigt, näher eingegangen.
+Der Erdboden ist ein Langzeit-Temperaturarchiv
+Die geringe Geschwindigkeit des Wärmetransports im Erdboden hat für die Klimawissenschaft den Vorteil, dass er einen zwar trägen, aber dafür getreuen Speicher für die mittel- bis längerfristige Entwicklung der Temperatur am jeweiligen Ort darstellt (mathematisch ausgedrückt funktioniert er wie ein Integrator). Mit zunehmender Tiefe hält er für Zeiträume von Tagen und Jahren bis zu Jahrhunderten getreu fest, wie viel Wärmeenergie er erhalten und wieder abgegeben hat 1). Dabei werden die kurzfristigen Schwankungen mit zunehmender Tiefe der Messstelle immer stärker herausgefiltert, Bild 3. In einer Tiefe von etwa 12-18 m ist nur noch der Jahreseinfluss feststellbar. Geht man noch tiefer, so kann man nach [PAUL] Schwankungen der Oberflächentemperatur auf Zeitskalen von hunderten bis tausenden von Jahren rekonstruieren (vergleichbar mit Klimaarchiven anderer Art z.B. in Eiskernen). Ab einer gewissen Tiefe beginnt sich dann die sich aus dem Inneren der Erde nach oben ausbreitende Wärme des Erdinneren bemerkbar zu machen und überlagert letztlich die von der Oberfläche ausgehenden Einflüsse.
+Bild 3. Jahresgang der Temperatur in der Luft sowie im Erdboden im Jahre 2013. Bei 12 m ist faktisch nur noch der Gesamt-Jahreseinfluss zu erkennen (Daten: WIKI und PIK, Grafik: Autor)
+An der in Bild 3 aufgetragenen Lufttemperatur ist außerdem zu erkennen, dass die Bodentemperatur weniger auf die Lufttemperatur reagiert als vielmehr auf die erhaltene und wieder abgegebene Menge an Strahlungsenergie. Zu erkennen ist dies an der Tatsache, dass der Boden in Tiefen bis zu 1 m im Sommer teils weit höhere mittlere Temperaturen aufweist als die Luft. Dies beweist, dass – statistisch gemittelt – nicht die Luft den Boden aufheizt, sondern umgekehrt der Boden mit der aus Sonnenstrahlung stammenden Wärme die Luft. Dies gilt sogar im Winter.
+Der Boden verrät die wahren Klimaveränderungen
+Eine weitere interessante Erkenntnis aus dem Verlauf der Bodentemperaturen ergibt sich dann, wenn man sie mit dem Langzeitverlauf der Lufttemperaturen über den verfügbaren Aufzeichnungszeitraum von 1898 bis 2014 vergleicht, Bild 4.
+Bild 4. Vergleich des Verlaufs der Bodentemperaturen in 12 m Tiefe und der Lufttemperatur über den Zeitraum 1898 bis 2014 (Daten: WIKI und PIK, Grafik: Autor)
+Beim Blick auf die Gleichungen des linearen Trends erkennt man, dass die Lufttemperaturen mit fast der doppelten Rate gestiegen sind wie die Temperaturen des Bodens. Natürlich wäre ein Vergleich über noch längere Zeiträume von großem Interesse, doch stehen dafür leider keine entsprechenden Zeitreihen zur Verfügung.
+Beim Blick auf den Verlauf der Bodentemperaturen fällt auf, dass der Trend im Zeitraum zwischen 1898 und 1990 – bis auf einen massiven mehrjährigen Peak auf bis zu 10,5 °C in den 30er Jahren – nahezu ohne Anstieg verläuft. Erst ab 1990 ist eine deutliche Trendänderung nach oben festzustellen, doch wurde der Wert von 10,5 °C erst wieder im Jahr 2007 erreicht. Seither verharrt die 12-m-Bodentemperatur auf diesem hohen Niveau.
+Betrachtet man den linearen Trend, so fällt auf, dass der Anstieg der 12-m-Bodentemperatur mit ca. 0,5 K/ Jahrhundert nur knapp halb so hoch liegt wie derjenige der Lufttemperatur mit ca. 0,9 K/ Jahrhundert.
+Interessant ist jetzt natürlich die Frage, welche Einflüsse zum deutlichen Anstieg der Bodentemperaturen in den letzten beiden Jahrzehnten geführt haben, denn dies fällt weitgehend in jene Zeitperiode ab 1998, in welcher der von den meteorologischen Stationen weltweit ermittelte globale Anstieg der Temperaturen nahezu zum Stillstand gekommen ist. Die Lufttemperaturen in Deutschland zeigen für diesen Zeitraum allerdings einen deutlichen Trend nach oben.
+Die Sonne führt Regie
+Eine plausible Erklärung erhält man, wenn man den Verlauf der Temperaturentwicklung in 12 m Tiefe mit denjenigen ebenfalls in Bild 4 eingetragenen Mittelwerten der Sonnenscheindauer vergleicht. Die Ähnlichkeit beider Kurvenverläufe weist darauf hin, dass ihre Kopplung sehr eng sein dürfte. Der Anstieg der Temperaturen sowohl im Boden als auch in der Luft ist eindeutig mit einer Zunahme der Sonnenscheindauer von ca. 4,5 h/ d auf inzwischen 4,9 h/d verknüpft. Das entspricht einer Zunahme um fast 9 % innerhalb des Beobachtungszeitraums von 116 Jahren. Dass zusätzlich eingestrahlte Sonnenenergie auch eine Temperaturerhöhung zur Folge hat, bedarf eigentlich keiner weiteren Erläuterung. Dass viele Klimawissenschaftler, statt diesen einfach nachzuweisenden und völlig plausiblen Zusammenhang näher zu erforschen, sich auf das Thema „Treibhausgas CO2“ gestürzt haben, ist angesichts der überragenden Bedeutung der Sonnenenergie für den Wärmehaushalt der Erde schwer nachzuvollziehen.
+Wo bleiben Wolken und Regen?
+Weiterer interessanter Aspekt dieser Auswertung ist, dass sie den gängigen Erklärungsansätzen der Vertreter des „menschengemachten katastrophalen Klimawandels“ (AGW, Anthropogenous Global Warming) nicht entspricht. Mit zunehmender mittlerer Temperatur der Meeresoberflächen und der Böden sind zwangsläufig eine höhere Wasserverdunstung und ein höherer Wassergehalt der – wärmer gewordenen – unteren Lufthülle verknüpft. Die logischerweise zu erwartenden Folgen wären eine verstärkte Wolkenbildung und damit eine geringere Sonneneinstrahlung. Stattdessen ist – zumindest für Deutschland – genau das Gegenteil zu beobachten, Bild 5.
+Bild 5. Während die mittlere Sonnenscheindauer in Deutschland den letzten 116 Jahren deutlich zugenommen hat, sind die Niederschlagsmengen nahezu unverändert geblieben (Daten: PIK, Grafik: Autor)
+Dies deutet darauf hin, dass die Verhältnisse wesentlich komplexer sind, als dies von den meisten AGW-Vertretern dargestellt wird. Möglicherweise wirken sich langfristige zyklische Schwankungen der Strömungsverhältnisse in der Atmosphäre so aus, dass sie die eigentlich zu erwartende erhöhte Wolkenbildung nebst entsprechender Verringerung der Sonneneinstrahlung völlig überlagern. Auch weist der Trend der letzten Jahre eine Stagnation der Niederschlagshöhen aus, was mit erhöhter Sonnenscheindauer nicht zusammenpasst. Aus diesen Fakten ergeben sich natürlich Fragen, die im Rahmen dieses bewusst kurz gehaltenen Aufsatzes jedoch nicht mehr behandelt werden können. Hierauf werde ich zu einem späteren Zeitpunkt zurückkommen.
+Fred F. Mueller
+Ich danke Hr. Dipl.-Met. Hans-Dieter Schmidt für Anregungen und fachliche Unterstützung
+1) Mathematisch lässt sich das Verhalten des Bodens als Integrator beschreiben. Es bildet sich darin eine sich nach unten fortpflanzende gedämpfte Wärmewelle. Deshalb ergeben sich auch mit zunehmender Tiefe Verschiebungen der Phasenlage des Temperaturgangs im Verhältnis zur Oberfläche. Bei 12 m Tiefe ist eine Verschiebung um rund 180 ° festzustellen, hier treten Minima und Maxima also im Gegentakt zum Jahreszeitverlauf am Boden auf. Das zeigt sich beispielsweise auch, wenn man die Korrelation der Werte für die Lufttemperaturen und diejenigen für die Bodentemperaturen ermittelt: Vollzieht man dies für die Werte aus identischen Jahren, so erhält man lediglich einen eher unbefriedigenden Korrelationskoeffizienten von 0,46. Berücksichtigt man jedoch einen Versatz von einem Jahr, so verbessert er sich auf 0,59.
+Quellen
+[BAYE] Bayer, A.: Modellierung der Temperaturentwicklung oberflächennaher Boden- und Gesteinsschichten arider Gebiete unter Berücksichtigung der solaren Einstrahlung und der Topographie. Diplomarbeit, im Studiengang Technische Geowissenschaften, Institut für Geophysik der Universität Stuttgart
+[PAUL] Das Klimasystem und seine Modellierung (05-3103) – André Paul Atmosphärischer Strahlungstransport und Klima: Nachträge.
+[PIK] http://www.pik-potsdam.de/services/klima-wetter-potsdam/klimazeitreihen/bodentemperatur
+[WIKI] http://de.wikipedia.org/wiki/Zeitreihe_der_Lufttemperatur_in_Deutschland
+Lieber Hr. Urbahn,
+besten Dank für Ihre Stellungnahme und die Erläuterungen. Ich akzeptiere Ihre Ansicht bezüglich der Betrachtungszeiträume als zulässige, wenn auch nicht als zwingend erforderliche Methodik. Ich persönlich bevorzuge nach wie vor eher längerfristige Zeiträume. Der ganze Humbug des Klimaalarmismus z.B. basiert weitgehend darauf, dass die Betrachtungen auf viel zu kurze Zeitrahmen (z.B. die ca. 150 Jahre einigermaßen flächendeckend erfasster meteorologischer Daten) eingeengt wird, wodurch die ganzen vorherigen Klimaschwankungen seit Ende der letzten Eiszeit praktischerweise ausgeklammert bleiben. Aber wie gesagt, es gibt bei solchen Betrachtungen unterschiedliche zulässige Herangehensweisen. Darüber kann man natürlich disputieren, denn auch Dissens und Disput gehören zur Wissenschaft. Das unterscheidet uns ja gerade von denjenigen, die „Klimawandelleugner“ am liebsten auf den Scheiterhaufen bringen würden.
+Mfg
+Lieber Hr. Kämpfe,
+1. Danke für die Informationen bezüglich der Ursacehn für mehr Sonnenschein.
+2. Ihre Anmerkung zu den Lufttemperaturen zwischen 1998 und 2014 ist korrekt, spezifische für diesen Zeitraum gab es keinen Aufwärtstrend.
+Mfg
+Verehrter Herr Moß,
+Ihr Einwand ist nichts anderes, als Wortspielerei. Wie ich schon sagte, wird Klima so oder so vom Wetter abgeleitet, und Wetter, das uns interessiert, findet nun mal über dem Boden statt, daher ist für uns ausgerechnet die Lufttemperatur und andere Sache über der Erdoberfläche relevant und nicht etwa darunter.
+Was die Vergangenheit betrifft, ist die Berufung auf einzelne lokale Bäume, Sedimenten und sonstige sog. Proxies, wenn da auf etwas GLOBALES geschlossen wird, nur lächerlich. Darauf lässt sich allerdings auf der Seite der Klima(pseudo)wissenschaftler eine schöne Existenzgrundlage aufbauen und auf der politischen Seite eine „große Transformation“.
+„KLIMAARCHIV IM ERDBODEN??? (jetz mal ganz ruhig, Greg, ganz ruhig…)“ … „Also steckt Klima (surprise!) in der Luft. Tja, wer hätte es gedacht. So ein schöner Artikel, und völlig daneben.“
+Lieber Herr Greg House!
+Soweit ich den Artikel verstanden habe wurde dort nicht behauptet, das Klima sei im Boden. Dort wurde behauptet, im Boden sei ein Klimaarchiv. Klimaarchive gibt es auch in Sedimenten, Eisbohrkernen, Jahresringen und Tropfsteinen. Sogar in Fachbüchereien der Klimainstitute findet man Klimaarchive. Diese Behauptung bedeutet aber auch nicht, das Klima sei in den Fachbüchereien. Obwohl dort tatsächlich ein angenehmes Klima herrscht, wer hätte das gedacht. So eine schöne Kritik, und völlig daneben.
+dieser Vorschlag stammt von Dr. Trenberth, eine detaillierte Ausarbeitung hinsichtlich des Temperaturrückgangs bzw. dessen Nichteintreten habe ich bei ihm nicht gefunden.
+Was die Ursache für die pazifische dekadische Verschiebung für die Temperatur war, weiß ich nicht. Sie ist aber weltweit durch Messungen sehr gut belegt. Bei den El Ninos geht ein Teil des durch das Sonnenlicht erwärmten Meerwassers durch verschiedene Meeresströmungen in den Südatlantik (der Nordatlantik hat ja seine eigene Heizung) und den Indischen Ozean und erwärmt diese. Die beiden El Nino -Ereignisse waren ja sehr starke El Ninos. Bob Tisdale hat sich auf seinem Blog sehr ausführlich mit El Ninos beschäftigt, es gibt sogar ein elektronisches Buch dazu bei ihm. Eine Vermutung von mir ist, daß schwächere El Ninos, die in der Zwischenzeit auftreten zwar nicht zu einer Temperaturerhöhung führen aber das Niveau aufrecht erhalten. Vermutlich erhalten Sie bei ihm eine bessere Auskunft als ich sie hier geben kann.
+MfG
+„…dann 1976 durch die pazifische dekadische Verschiebungein Anstieg um etwa 0,2°C danach wieder kein Anstieg bis zum El Nino von 1986-89, durch den ein weiterer Temperaturanstieg bewirkt wurde. Von 1989 bis zum El nino 1997/97 wieder kein TemperaturanstiegErst mit dem genannten El nino wieder ein Anstieg.“
+Hallo Herr Urbahn,
+weiß man eigentlich warum die Temperaturen nach einem Ereignis nicht wieder auf den Ausgangswert zurückfallen?
+Grüße
+Der IPCC ist auf die Linearisierung angewiesen sonst gibt das nichts mit dem CO2. Deshalb sagt er auch erst ab 1950 und neuerdings ab 1978 steigt die Temperatur linear mit dem CO2 (auch falsch, es ist umgekehrt). Die Anstiege der Lufttemperatur erfolgen eben nicht linear, siehe den Anstieg von etwa 1920 bis 1940 oder ab 1976 wie schon beschrieben und das ist nicht die Feinstruktur sondern das reale Verhalten. Wegen der angeblich linearen Abhängigkeit der Temperatur vom Anstieg des CO2 versuchen doch alle die von Herrn Dr. Paul genannten Institutionen, ihre jeweiligen Oberflächentemperaturen mit aller Gewalt zu linearisieren. Die Temperatur im Erdboden, die Sie sich angeschaut haben, ist ein extrem gedämpftes System und kann kaum etwas anderes als einen linearen Anstieg zeigen.
+MfG
+Disput nicht Konsens ist die Triebkraft zu mehr Erkenntnis.
+Einem der Disputanten habe ich gerade dieses Mail geschrieben:
+Am wichtigsten ist es, Messungen (empirische Erfahrung) über Theorien zu stellen.
+Und in diesem Kontext gilt es vor allem zu verstehen, warum CO2 und H2O – nicht aber N2, O2 und Ar die Atmosphäre und damit die Erdoberfläche elektromagnetisch kühlen. Die elektromagnetischen Temperaturen sind eindeutig messbar, unbestechlich und jederzeit überprüfbar.
+Kaufe dir beim Discounter oder bei Conrad für ein paar Euro ein IR-Fernthermometer und messe selbst!
+Es ändert seine Funktionsweise nicht, wenn es gedreht und von unten nach oben gerichtet wird!
+Und ganz wichtig ist es zu begreifen: Es wird nicht angestrahlt, sondern es zieht durch elektromagnetische Induktion Strahlung aus der Umgebung heraus! So wie ein Topf auf einer Induktionsheizplatte, kapiert?
+http://tinyurl.com/kgje845
+Lieber Hr. Holtz,
+herzlichen Dank für diese Infoirmationen.
+Mfg
+KLIMAARCHIV IM ERDBODEN??? (jetz mal ganz ruhig, Greg, ganz ruhig…)
+Verehrter Herr Mueller,
+im Fach Geographie versteht man unter Klima typische Wetterverhältnisse in Regionen. Auch die unsinnige Definition der Klima(pseudo)wissenschaft spricht über durchschnittliches Wetter. WETTER, Herr Mueller.
+Nun, zum Wetter gehört, wie Sie sicherlich aus dem Fernsehen wissen, Bewegung der Luftmassen, die mit sich Regen, Schnee, Hitze, Kälte, Gewitter und vieles mehr bringen. LUFTMASSEN, Herr Mueller, nicht Erdmassen. Also steckt Klima (surprise!) in der Luft. Tja, wer hätte es gedacht. So ein schöner Artikel, und völlig daneben. Trotzdem danke für die gelungene Abwechselung. Bin gespannt auf Ihren kommenden Artikel über Gase.
+Zitat: Die „klassischen“ Meteorologen haben leider mit diesem speziellen Zweig eher seltener zu tun.
+Hallo Herr Fred F. Mueller
+Wenn Sie über den Bereich der Mikro-, Boden-, Argar- und Forst-Meteorologie mehr erfahren wollen, können Sie sich in diesen beiden Instituten informieren bzw. Kontakt aufnehmen.
++ TU Dresden – IHM Meteorologie (Bodenwärmestrom, Mikro-Meteorologie)
++ TU Braunschweig – Argar- und Forst-Meteorologie (Bodenwärmestrom, Bodenfeuchte, Mikro-Meteorologie)
+Diese Institute führen seit Jahren Messungen im Boden-Bereich durch, und haben ein relativ großes Archiv von Messungen und deren Einflussgrößen. Es gibt auch eine gewisse Anzahl an Diplom-Arbeiten und Dissertationen in dem Bereich, der Sie interessieren würde.
+Mfg
+Werner Holtz
+Lieber Hr. Urbahn,
+Sie haben in folgendem Punkt Recht: Die Linearisierung berücksichtigt nicht die Feinstruktur. Letztere steht für mich bei dieser Untersuchung aber gar nicht im Vordergrund. Mir geht es in erster Linie um den langfristigen mittleren Temperaturanstieg im Boden (12-m-Wert) im Vergleich zu den in Wetterhütten gemessenen Luftdaten. Der Gradient ist – über den Zeitraum von 116 Jahren hinweg – im Boden nur etwa halb so hoch wie in den Wetterhütten. Der Boden seinerseits reagiert vor allem auf Sonneneinstrahlung (Absorption) und gibt seinerseits Energie zu einem großen Teil in Form von Infrarotstrahlung wieder ab, siehe Bild 2. Die „Luftkühlung“ spielt dagegen eher eine untergeordnete Rolle. Dass es daneben noch eine Feinstruktur gibt, die Bezüge zu spezifischen Ereignissen wie El nino hat, ist in diesem Zusammenhang nicht wirklich wichtig.
+Zusammengefasst: Die Strahlungskomponente (Boden) ist ein näherungsweises Maß für die Energiezufuhr durch Insolation. Die Lufttemperatur ist dagegen vor allem durch Zirkulationsphänomene (Advektion) bestimmt. Ein weiterer Aspekt ist, dass die Bodenwerte möglicherweise weniger durch den Wärmeinseleffekt „infiziert“ sind als die aus Wetterhütten. Letzteres ist allerdings zunächst nur eine Vermutung, es wäre schön, wenn wir dazu per Kommentar Informationen von einem entsprechenden Spezialisten bekommen könnten. Die „klassischen“ Meteorologen haben leider mit diesem speziellen Zweig eher seltener zu tun.
+Mfg
+Lieber Hr. Dr. Paul,
+danke für Ihre Stellungnahme und die Quellen. Ich nehme dies zu meinen Unterlagen und komme zu gegebener Zeit darauf zurück.
+Mfg
+wegen der vielen Manipulationen hat der Geophysiker und ordentliche Professor der Uni Oslo im „Department of Geosciences“ sich jetzt entschlossen,
+die „offiziellen“ Temperaturkurven qualitativ in 3 Klassen einzuteilen:
+Quality class 1:
+The satellite records (UAH and RSS)
+Quality class 2:
+The HadCRUT surface record
+Quality class 3:
+The NCDC and GISS surface records
+http://tinyurl.com/ovm7uuy
+Bezüglich Linearisierungwunsch hapert es bei allen natürlich an dem Beginn der Kurven 1979
+was auch mit dem Beginn der Satellitenmessung begründet ist.
+Aber auch von 1979 bis 1998 sind es noch keine 30 Jahre, die uns von Allarmisten immer entgegengehalten werden, wenn man auf den langen aktuellen „Temperaturstillstand“ hinweist.
+Unglaublich wieviel Geld für so etwas noch bezahlt wird.
+Parasiten
+als Ergänzung zu Ihrem Kommentar: die Oberflächentemperaturdatensatze sind natürlich nicht unabhängig voneinander sondern der Datensatz der NOAA/NCDC (NCEI) ist die einzige Quelle für die „globalen Oberflächentemperaturdatensätze. Nachdem dieser schon bei der NOAA bearbeitet wurde, wirder bei den anderen Institutionen noch mal bearbeitet.
+MfG
+es mag ja sein, daß dielinearisierung Usus ist, aber sie führt zu falschen Ergebnissen. Wenn sie den Zeitraum zwischen 1950 bis heute betrachten- bis vor kurzem noch der Zeitraum, der nach IPCC nur durch CO2 erklärt werden kann, dann entgeht Ihnen völlig , daß zwischen 1950 und 1976 überhaupt kein Temperaturanstieg stattfand, dann 1976 durch die pazifische dekadische Verschiebungein Anstieg um etwa 0,2°C danach wieder kein Anstieg bis zum El Nino von 1986-89, durch den ein weiterer Temperaturanstieg bewirkt wurde. Von 1989 bis zum El nino 1997/97 wieder kein TemperaturanstiegErst mit dem genannten El nino wieder ein Anstieg. Danach kam dann die nun 18 Jahre und 6 Monate andauernde sogenannte Pause. Die Zunahme der Temperatur wird hier also durch natürliche Phänomene, die nichts mit CO2 zu tun haben, erklärt. Die Erklärung stammtübrigens von Dr. Trenberth und hat sogar so einen fanatischen Ideologen wie Joe Romm überzeugt. Sie sehen eine „Linearisierung“ läßt den tatsächelichen verlauf verschwinden. Der IPCC ist deshalb so wild auf die Linearisierung, weil nur der Unfug mit CO2 eine Rolle spielen kann.
+MfG
+Verehrter Herr Mueller,
+worauf ich hinaus will ist doch klar, und das verstehen Sie sicherlich, was Ihr zweiter Satz auch demonstriert.
+Sie sind meiner einfachen Frage schön ausgewichen, wie ich sehe. Sind Sie wirklich nicht in der Lage zu sagen, ob der „Treibhauseffekt“ Ihrer wissenschaftlichen Meinung nach gegen den Energieerhaltungssatz verstößt oder nicht? Da gibt es nur drei Varianten: „ja“, „nein“ und „keine Ahnung“. Wenn die letzte der Fall ist, wie wollen Sie dann einen „Artikel über die Wirkung IR-aktiver Gase“ schreiben? Was soll es werden, eine Kompilation aus anderen Artikel, die Sie im Internet gefunden haben, wo die Frage, die ich Ihnen gestellt habe, nicht behandelt wird?
+Die Frage steht, übrigens. Also „ja“, „nein“ oder „keine Ahnung“?
+Lieber Hr. House,
+auch bei Ihnen möchte ich gleich eingangs darum bitten, aus der Diskussion unnötige Schärfen herauszulassen. Anderenfalls hat es keinen Sinn.
+Auch bitte ich um Nachsicht, dass ich bei meinen Arbeiten meiner mir selbst gestellten Agenda folge und mir diesbezügliche Einmischungen verbitte. Anregungen ja, Vorschriften nein. Das gilt für Inhalte ebenso wie für das Timing.
+Was Ihre Anmerkungen bezüglich Energieerhaltungssatz angeht, so weiß ich nicht, worauf Sie hinauswollen. Erläutern Sie doch bitte, wieso Sie glauben, „dass der in der Klimawissenschaft und in den IPCC-Berichten etablierte „Treibhauseffekt“ gegen den Energieerhaltungssatz verstößt“.
+Und noch eine Klarstellung: Bisher habe ich noch keinen Artikel über die Wirkung IR-aktiver Gase veröffentlicht, das kommt erst noch.
+Mfg
+Lieber Hr. Dr. Paul,
+danke für Ihre Hinweise. Ich bitte allerdings zu beachten, dass ich in dem Beitrag mit meteorologischen Daten ausschließlich aus und über Deutschland gearbeitet und deshalb lokale Quellen herangezogen habe. Die von Ihnen angeführten globalen Quellen verfügen bei uns sicherlich nicht über eigene Messstationen, sondern verwenden wohl eher die von deutschen Institutionen gelieferten Daten. Bezüglich der an Luft gemessenen Temperaturen habe ich die bei Wikipedia frei zugänglichen Zeitreihen verwendet, die nach meiner Kenntnis nahezu 1:1 den DWD-Zahlen entsprechen. Beim DWD war bisher der Zugang für Externe nicht so ohne weiteres möglich, viele Datendienste sind/waren nicht frei zugänglich (das hat sich kürzlich wohl gebessert, aber meine Datensammlung erfolgte bereits vor einigen Monaten). Auch ist mir nicht bekannt, ob man dort überhaupt Zeitreihen über 12-m-Bodenwerte seit dem 19. Jahrhundert bekommen kann. Deshalb habe ich die PIK-Daten genommen, die zudem ja deutlich zeigen, worauf es mir ankommt.
+Was Linearisierung angeht, so brauchen Sie nur einen Blick auf die erste Grafik im Aufsatz von Dr. Stehlik zu werfen. Das ist Usus, hat durchaus vertretbare Gründe und wurde deshalb von mir auch so gehandhabt. Ich habe die Luft- und Bodentemperaturen auch mit einer Polynomapproximation untersucht, 3. Ordnung liefert optisch recht gut passende Kurven, aber 1. gibt es kein wissenschaftlich vertretbares Modell für diesen Ansatz und 2. war das Bestimmtheitsmaß nicht überzeugend. Deshalb blieb ich bei einer linearen Trendlinie.
+Was RUTI angeht, so habe ich schlicht nicht die Zeit, mich damit näher zu beschäftigen, sorry, obwohl der Ansatz interessant ausschaut. Ich glaube jedoch nicht, dass RUTI 12-m-Bodentemperatur-Zeitreihen für Deutschland zur Verfügung stellen kann, und das war das entscheidende Kriterium für meine Arbeit.
+Alles andere bitte später.
+Mfg
+Ihre Frage:
+„Meinen Sie jetzt, dass die IR-aktiven Gase in der Troposphäre überhaupt nicht strahlen? Ich hätte eher gedacht, dass sie sehr wohl strahlen, dass jedoch die mittlere freie Weglänge der emittierten IR-Strahlung so kurz ist, dass die Photonen nicht weit kommen, bevor sie wieder eingefangen und dann entweder reemittiert oder thermalisiert werden.“
+Was Sie zitieren, ist das physikalische Lieblings-MODELL der AGW-Schwindler:
+die „Strahlungstransportgleichung“, auch von der IPCC zitiert, aber immer BERECHNET, nie gemessen.
+Entwickelt von Manabe 1964 und begeistert aufgegriffen von einem gewissen RAMANATHAN 1975, zufällig aus einem NASA-Institut.
+Das funktioniert natürlich nur wenn man die „Thermalisierung“ ignoriert, zudem mathematisch etwas problematisch, mit Infinitesimalrechnungen und Iterationen, das heist, erst das Ergebnis der vorherigen Rechnung geht in die neue Rechnung ein (Vielschichtenmodell). „Nach oben“ nimmt ja auch die Teilchenzahl ab und auch die Temperatur.
+Wer das trotzdem durchrechnet, kommt dabei auf einen gänzlich anderen Temperaturgradient, als er REAL gemessen wird. Nach Manabe und Strickler (Original!):
+http://tinyurl.com/pczhp4c
+(komischerweise findet man hier viel mehr chinesische Quellen) Das Original wird oft verfälcht, auch durch RAMANATHAN
+…ist der Temperaturabfall mit der Höhe bei diesem „Strahlungstransfer“ noch stärker als beim realen trockenaediabatische Gradient.
+Die „Strahlungstransportgleichung“ ist also physikalisch falsch!
+Und auch weit von dem entfernt, was man messen kann.
+Physikalisch falsch besonders auch deshalb, weil man nach einigen 100m KEINE 15µm-Strahlung messen kann, genannt fehlende Transparenz, sie ist komplett thermalisiert.
+CO2 strahlt also nicht in der tiefen, rel. warmen Atmosphäre, hier kann es nur absorbieren und gibt die aufgenommenen Energie sofort an die 99.96% nicht strahlungsfähigen Nachbarmolekühle weiter.
+Wenn also mit einer „fotographischen Platte“, die IR-sensibel bis einschließlich 15µm (selten) ist,
+kommen nach kurzer Passage durch die Atmosphäre 0 (null) 15µm -Strahlen an. Alles ist thermalisiert.
+Und das ist nebenbei bemerkt, sehr sehr wenig! Siehe mein post #11,
+denn der Bereich des offenen Fensters von 8-12µm für „Wärmestrahlung“ entspricht ja den Temperaturen zwischen MINUS 31,7 bis PLUS 89,1°Celsius!
+Ein schwarzer Strahler, dessen Maximum bei 15µm liegt, hat nach Planck und Wien eine Temperatur von knapp unter MINUS 80°Celsius.
+Vielleicht kann man sich dann auch leichter erklären, dass CO2 die geringe absorbierte Strahlung bei 15°C (und hohem Druck) sofort an die umgebenden Molekühle verliert.
+Es strahlt also nicht AUS der Atmosphäre.
+Und zu dem, was Sie von flüssigen und festen Anteilen (Wolken etc.) in der Luft sagen,
+..
+erinnere ich noch mal an Ihre eigene RICHTIGE Erkenntnis,
+dass die maßgebliche Energiequelle die Sonne ist und nicht die Erdoberfläche.
+Diese Anteile kühlen also. Das kann man auch messen,
+nicht nur bei Wolken:
+http://tinyurl.com/ns3jeha
+sondern auch bei einem stärkeren Vulkanausbruch:
+http://tinyurl.com/ou8jw3t
+Das Strahlungstransfer-Modell ist also ebenso wissenschaftlicher Betrug
+wie die „Messung“
+einer Gegenstrahlung mit dem PyrGEOmeter
+nach Angström.
+Unser „Klima“ ist, betrachtet mit dem etwas fragwürdigen Begriff der berechneten „Mitteltemperatur“,
+BEMERKENSWERT STABIL,
+wenn man ernsthaft in die Klimavergangenheit blickt und noch berücksichtigt, dass unsere Wärmequelle (Sonne) für die Oberfläche kontinuierlich zunimmt (Paradoxon).
+Das eigentliche Wetter ist chaotisch und langfristig NICHT vorhersagbar.
+Eine „offizielle“ Klimawissenschaft ist zu tiefst korrupt und verlogen,
+also vorsätzlicher Betrug und und leider viel weniger harmlos, als die Astrologie der Vergangenheit, die sich auch auf den Höfen der Mächtigen eingerichtet hatte.
+Sie muss bei jeder Gelegenheit bekämpft werden,
+ich hoffe, Ihnen hierfür etwas weitere Munition geliefert zu haben.
+Gruß
+Paul
+Ich hätte eher gedacht, dass sie sehr wohl strahlen, dass jedoch die mittlere freie Weglänge der emittierten IR-Strahlung so kurz ist, dass die Photonen nicht weit kommen, bevor sie wieder eingefangen und dann entweder reemittiert oder thermalisiert werden.“
+Verehrter Herr Mueller,
+Sie hatten so 20 Jahre Zeit seitdem der Klimawahn richtig ausgebrochen war, jetzt brauchen Sie noch mehr, ich verstehe.
+Nun zu dem, was Sie eher gedacht hätten. Merken Sie nicht, dass es völlig Wurst ist, Verzeihung, ob diese Gase das tun, was Sie meinen, oder gar nicht Strahlen, weil das Ergebnis so oder so 0 (Null) wäre? Oder glauben Sie, dass sich die Temperatur des Gases ändern kann, wenn da drin intern was ausgestrahlt/reemittiert und thermalisiert wird? Energieerhaltungssatz, schon vergessen?
+OK, machen wie es lieber kurz. Bitte beantworten Sie die Frage: glauben Sie, Herr Mueller, dass der in der Klimawissenschaft und in den IPCC-Berichten etablierte „Treibhauseffekt“ gegen den Energieerhaltungssatz verstößt? Wenn Sie es nicht glauben, kann ich gerne helfen. Aber bevor wir es klären, bitte keine weiteren Artikel über „Wirkung IR-aktiver Gase“ schreiben.
+Lieber Hr. Dr. Paul,
+es freut mich, dass wir die Diskussion somit auf einer sachlich-konstruktiven Ebene weiterführen können.
+Allerdings möchte ich Sie bitten, die Diskussion über die Frage der Wirkung IR-aktiver Gase noch zurückzustellen. Dazu plane ich einen entsprechenden Beitrag, doch benötige ich hierfür noch etwas Zeit, weil andere Projekte eine höhere Priorität haben und ich nur ein eng begrenztes Freizeitbudget zur Verfügung habe.
+Im Übrigen haben wir beide offensichtlich ein Definitionsproblem. Wenn ich Atmosphäre sage, dann meine ich die gesamte Lufthülle vom Meeresniveau bis zur Exosphäre in mehr als 500 km Höhe. Sie sprechen dagegen lediglich von der Troposphäre (7-15 km Höhe). Das dürfte der Grund für unsere unterschiedlichen Schlussfolgerungen sein.
+Sie sagen: „Inhnerhalb der Troposphäre gibt es keine thermische Emission von Gasen. Das fängt erst in der Stratosphäre an“.
+Damit bringen Sie tatsächlich mein physikalisches Weltbild durcheinander. Meinen Sie jetzt, dass die IR-aktiven Gase in der Troposphäre überhaupt nicht strahlen? Ich hätte eher gedacht, dass sie sehr wohl strahlen, dass jedoch die mittlere freie Weglänge der emittierten IR-Strahlung so kurz ist, dass die Photonen nicht weit kommen, bevor sie wieder eingefangen und dann entweder reemittiert oder thermalisiert werden.
+Mfg
+Verehrter Herr Mueller,
+das hätten Sie aber längst tun sollen, weil sich die sog. „Klimaschutzpolitik“ vor allem gegen CO2 und alles, was damit verbunden ist (Industrie etc.), aber auch Methan (Landwirtschaft) richtet. Und zwar, weil diese Gase angeblich durch den „Treibhauseffekt“ globale Erwärmung verursachen. Zum Glück ist der in der Klimawissenschaft und in den IPCC-Berichten etablierte „Treibhauseffekt“ physikalisch unmöglich, da er gegen den Energieerhaltungssatz verstößt. Und Sie wissen es immer noch nicht so genau, richtig? Dann wäre es aus meiner bescheidener Sicht höchste Zeit, dass Sie sich damit auseinander setzen.
+Auf Ihre Ausführungen über „Globaltemperatur“/“Durschnittstemperatur“, die Sie, Verzeihung, so unwissenschaftlich einfach „Temperatur“ nennen, werde ich noch später in weiteren Kommentaren eingehen.
+„offizielle“ Quellen sind:
+UAH temperatures
+RSS temperatures
+HadCRUT3 temperatures
+NCDC temperatures
+GISS temperatures
+AMSU temperatures
+Also wenn schon PIK, dann wenigsten eine dieser 6 „offiziellen“ Quellen, PIK, hat keine eigenen.
+ALLE diese Quellen „linearisieren“, so dass die rel. hohen oder gleich hohen Temperaturen bis in die 40-ger Jahre verschwinden.
+Besonders GISS (Nasa) ist gerüchtigt, auch das englische HadCRUT3 hat eine stärker „linearisierte“ HadCRUT4 – Version, man will ja die Erwärmungskatastrophe retten.
+Der ziemlich krasse Abbau von „ländlichen“ Messtationen passierte etwa zwischen 1988 bis 1995
+(nach Joseph D´ Aleo und Antony Watts 2010)
+Der größte Hammer dabei scheint die Behandlung von „Russland“ mit Sibirien zu sein, immerhin 11,5% der globalen Landfläche der Erde, bei der von Phil Jones (HadCRUT3) die Zahl der Messstationen von 476 auf 12 reduziert wurden, zufällig alles wachsende Großstädte in den letzten 100 Jahren.
+So kam dann der globale Temeraturanstieg von 0,74°? zustande, mit einem „russischen“ Anteil von 1,29°?.
+..vorgetragen von
+Natalia Pivovarova and Andrei Illarionov
+in USA
+beim
+The Fourth International Conference on Climate Change,
+Chicago, May 18, 2010
+Das hat die seriösen Dänen Frank Lansner and Nicolai Skjoldby veranlasst,
+den RUTI – Index zu publizieren:
+”Rural Unadjusted Temperature Index”
+RUTI is not all rural nor all unadjusted. However, RUTI is a temperature index aiming to use still more rural data (less use of city and airport data), still more unadjusted data when available and reasonable.
+Und Lansner benutzt ausschließlich existierende Originaldaten, die auch den offiziellen Stellen, wie dem DWD bekannt sind, aber nicht verwendet werden, weil sie kein „lineares Kurvenbild“ bieten.
+Deutsche RUTI-Temperaturdaten stammen also aus deutschen Original-Quellen.
+Wie in Russland und anderswo gibt es viele Orte,
+in denen es vor ca 75 Jahren bereits wärmer war als heute.
+Also keine Linearität.
+http://tinyurl.com/lt3bxsu
+mfG
+p.s. bitte kleine Tippfehler entschuldigen,
+bin etwas in Eile
+Lieber Hr. Urbahn,
+Gehen Sie doch einfach mal mit der Wortsequenz „globale erwärmung regen“ in eine Suchmaschine oder fragen Sie zu dem Thema einen Meteorologen.
+Auf dem Hamburger Bildungsserver finden Sie beispielsweise folgende Erklärungen zum Thema „Starkniederschläge: Physikalische Grundlagen:….“Höhere Lufttemperaturen haben zwei entscheidende Folgen: 1. eine Verstärkung der Verdunstung und 2. eine Erhöhung der Wasserdampfkapazität der Atmosphäre. (Was davor und danach kommt, ist dann allerdings der übliche Stuss von wegen mehr Extremwetterereignisse). http://tinyurl.com/otn52jb
+Wenn Sie meinen Beitrag im Kapitel „Wo bleiben Wolken und Regen“ aufmerksam lesen, so werden Sie feststellen, dass ich auf den Widerspruch zwischen den Annahmen sowohl der Meteorologie als auch der Klimamodellierer und den erkennbaren Tatsachen in Form zunehmender Sonnenscheindauer und konstanter Regenmengen hingewiesen habe. Die konstanten Niederschlagsmengen sprechen im Prinzip gegen eine generelle Temperaturerhöhung. Allerdings ist Deutschland nicht der Globus. Auf konkrete Schlussfolgerungen habe ich nicht zuletzt deshalb bewusst verzichtet, weil ich dies auch der Diskussion überlassen wollte. Schliesslich gibt es bei EIKE zahlreiche Meteorologen, die dazu kompetenter als ich Stellung nehmen können.
+Mfg
+Aber es ist imho sehr wichtig die „phyikalische“ Rolle der Atmosphäre zu verstehen. Dabei sind meine Aussagen ausdrücklich für den Bereicht beschränkt, in dem „das Wetter“ stattfindet, die Troposphäre.
+Deshalb noch einmal, sine ira et studio:
+Ihre Antwort:
+—-
+—-
+Zudem ist Ihre Aussage „gerade weil die Atmosphäre (auch im Gegensatz zu Wasser) NICHT strahlen kann“ falsch. Zur Atmosphäre gehören als ständige Bestandteile Gase wie CO2, Methan und auch Wasser(dampf), welche im Infrarotbereich Strahlung absorbieren und auch wieder freisetzen können. Das wollen Sie doch nicht abstreiten?
+Nein, in der dichten Troposphäre „strahlen“ nicht die Gase selbst, sondern nur flüssige und feste Stoffe, also Wolken und Aerosole (Emission + Reflexion) und selbst diese Strahlen kommen auf der Erdoberfläche nur durch die „offenen Fenster“ der Atmospäre. Inhnerhalb der Troposphäre gibt es keine thermische Emission von Gasen. Das fängt erst in der Stratosphäre an.
+Und in diesen großen offenen Fenster im IR-Bereich „Wärmestrahlung“ besonders das FIR (8-12µm) – Fenster (fernes Infrarot), entsprechend dem Strahlungsmaximum eines schwarzen Strahlers von MINUS 31,7 bis PLUS 89,1°C strahlt die gasförnmige Erd-Atmosphäre NICHT im Gegensatz zur Erdoberfläche einschließlich der Ozeane.
+Auch wenn das etwas „schwierig“ klingt, zeigt es genau den Unterschied aller natürlichen festen und flüssigen Strahlenquellen zur gasförmigen Atmosphäre darüber und damit gleichzeitig den physikalischen Motor der mächtigen Konvektion.
+Vereinfacht ausgedrückt, es strahlt DURCH die Atmosphäre, nicht AUS der Atmosphäre gerade im Wärmestrahlungsbereich.
+Die Erde dreht sich, deshalb gibt es nie ein „Thermodynamisches Gleichgewicht“.
+Die gasförmige Atmosphäre wärmt also, weil sie praktisch nicht „wärmestrahlen“ kann und Wärmeenergie speichert.
+Und wegen ihrer hohen Bewegungsgeschwindigkeit übertrifft sie den Ozean im Wärmetransport vom Äquator zu den Polen.
+Und was an festen und flüssigen Strahlern in der Luft ist, KÜHLT, weil es die Energiequelle Sonne daran hindert bis zur Erde zu scheinen.
+Mit freundlichen Grüße
+Paul
+Herr Moß hat Recht. Wenn es durch die Erwärmung mehr regnen würde, müßte die Wolkenbedeckung zunehmen und damit würde die Sonneneinstrahlung geringer. Ihr Argument mehr Erwärmung mehr Verdunstung ergo mehr Regen ist zu einfach. Der letzte Artikel den ich kenne zu dem Wasserdampdanteil, der aus der Atmosphäre ausregnen kann, ist vor gut einem Jahr im Journal of Climate erschienen (leider habe ich nicht mehr den Titel des Artikels). Danach hat der ausregnenbare Anteil in der Atmosphäre abgenommen, während die Modelle eine Zunahme um den Faktor 5 bis 7 vorhersagen.
+MfG
+„Prof. Augusto Mangini hat Stalagmiten im Hinblick auf die Klimageschichte untersucht:
+http://tinyurl.com/37olhk3“
+Hallo Herr Klingelhöfer,
+vielen Dank für den schönen Link.
+Leider enthält er die heutzutage übliche Unterwerfungsfloskel…
+MfG
+Lieber Hr. Moß,
+was Ihr Argument bezüglich Luftfeuchtigkeit und Regen angeht, so fällt es mir schwer, Ihre Argumentation nachzuvollziehen. Mehr Wärme heißt automatisch mehr Verdunstung (und übrigens auch höhere Aufnahmefähigkeit der Luft für Wasserdampf). Der Wasserkreislauf Gewässer/ Atmosphäre ist sehr kurzlebig, d.h. was die Sonne heute verdunstet, ist schon nach wenigen Tagen wieder als Regen unten. Bei einer Recherche fand ich die Angabe einer mittleren Verweildauer von 9,5 Tagen. Zwischenstation des Wasserdampfs sind in jedem Fall Wolken als Vorstufe zum Regen.
+Mfg
+Lieber Hr. Dr. Paul,
+es wäre mir lieb gewesen, Sie hätten auf Ihre Spitze gegen mich wegen angeblich mangelhafter Physikkenntnisse verzichtet. Die müssten Sie mir bitte auch erstmal nachweisen. Da ich Sie schätze, würde ich es jedoch bevorzugen, wenn Sie diese Art von gegen die Person gerichteter Schärfe aus der Diskussion nehmen würden.
+Ich habe darauf hingewiesen, dass die Sonnenstrahlung die entscheidende Komponente zur Beurteilung der Energiebilanz des Erdbodens ist. Das ist Ihnen offensichtlich klar, aber bei weitem nicht jedem anderen. Der Aufsatz richtet sich insbesondere auch an Laien, denen ich die Zusammenhänge erläutern und auf einfach verständliche Weise plausibel machen will. Sie sind, mit Verlaub, nicht der einzige Adressat dieses Artikels.
+Zudem ist Ihre Aussage „gerade weil die Atmosphäre (auch im Gegensatz zu Wasser) NICHT strahlen kann“ falsch. Zur Atmosphäre gehören als ständige Bestandteile Gase wie CO2, Methan und auch Wasser(dampf), welche im Infrarotbereich Strahlung absorbieren und auch wieder freisetzen können. Das wollen Sie doch nicht abstreiten?
+Sie schreiben: „Dieser Wärmetransport ist selbstverständlich KEINE Einbahnstraße, weil die Temperatur der Erdoberfläche durch Absoption UND Emission viel stärker schwankt, also z.B. nachts kälter wird als die Atmosphäre darüber.“
+Nichts anderes habe ich erklärt und mit Bild 2 auch grafisch anschaulich dargestellt. Was stört Sie also?
+Was die Grafiken angeht, so habe ich die Bodentemperaturen (und die Sonnenscheindauer sowie die Regenmengen) vom PIK übernommen, weil ich für die 12-m-Werte keine anderen Quellen ausfindig machen konnte. Nun ist das PIK zwar – und da pflichte ich Ihnen bei – durchaus als ideologisch belastet einzustufen, aber die Bodentemperaturen und die Sonnen- und Regenwerte liefern durchaus Aussagen, die dem PIK eben nicht passen dürften. Im Übrigen hoffe ich, dass jemand hier in der Leserschaft nähere Details zu Methoden, Stationen und eventuell bekannten Manipulationen beisteuern kann.
+Ansonsten bin ich trotz aller Vorbehalte bereit, auch Daten aus „anrüchigen“ Quellen zu verwenden, solange kein Nachweis existiert, dass daran herumgepfuscht wurde. Man muss zwischen der Botschaft und ihrem Träger unterscheiden. Fakten nur deshalb von vornherein zu ignorieren, weil man den Betreffenden ablehnt, entspricht einem „Argumentum ad Hominem“. Darüber sollte ein Naturwissenschaftler eigentlich stehen. Die Temperaturen in der Luft stammen übrigens nicht vom PIK.
+Die von Ihnen genannte Quelle ist im Übrigen wenig hilfreich. Dort sind Temperaturen teilweise unter 0 °C selbst für Italien abgebildet. Sollen das Jahresmitteltemperaturen sein? Das kann ich beim besten Willen nicht glauben.
+Dass Temperaturen, Sonnenschein etc. nicht linear verlaufen, ist eindeutig und klar, das zeigt schon der Blick auf die Kurven. Auf die Spitze in den 30er Jahren habe ich ja auch im Text hingewiesen. Eine höherstufige Analyse und Interpretation eines derart verrauschten Signals wirft jedoch mehr Fragen als Antworten auf, zudem ist in der Klimadiskussion die lineare Trendlinie ziemlich weit verbreitet. (Über diese Frage habe ich übrigens mit einem befreundeten Mathematiker diskutiert und bin dann seinem Rat gefolgt, es bei der linearen Trendlinie zu belassen).
+Was Ihre Aussage zum CO2-Treibhauseffekt angeht, so habe ich hierzu überhaupt nicht Stellung bezogen. Ich werde dies in späteren Veröffentlichungen irgendwann tun und würde mich freuen, wenn wir dann im (Falle des Falles auch kontrovers) diskutieren könnten, aber bitte in sachlichem Ton.
+Zunächst jedoch: Genießen Sie mit den Kindern das schöne Wetter, es wird bald genug wieder ungemütlich werden.
+Mfg
+na klar kommt die Erdwärme UNTERHALB der rel. dünnen Oberfläche aus der Tiefe.
+Die „Grünen“ propagieren ja auch diese Wärmequelle anzuzapfen.
+Nicht ganz unproblematisch, wie man hört.
+Und immer wieder muss man daran erinnern,
+dass Temperatur und „Wärme“ nicht verwechselt werden darf.
+Und dass Energiemenge besonders bei Gas nicht nur an der Temperatur gemessen werden kann.
+mfG
+Physik ist offensichtlich nicht jedermanns Sache
+Zu erkennen ist dies an der Tatsache, dass der Boden in Tiefen bis zu 1 m im Sommer teils weit höhere mittlere Temperaturen aufweist als die Luft. Dies beweist, dass – statistisch gemittelt – nicht die Luft den Boden aufheizt, sondern umgekehrt der Boden mit der aus Sonnenstrahlung stammenden Wärme die Luft. Dies gilt sogar im Winter.
+Na und?
+wer behauptet denn etwas anderes, wenn man davon ausgeht, dass die Sonne die Energiequelle ist?
+Denn die Sonne scheint DURCH die Atmosphäre auf die Erde. Materiell (ohne Strahlung) wird also die Atmoshäre darüber von der Erdoberfläche erwärmt und dort überwiegend gespeichert, gerade weil die Atmosphäre (auch im Gegensatz zu Wasser) NICHT strahlen kann.
+Dieser Wärmetransport ist selbstverständlich KEINE Einbahnstraße, weil die Temperatur der Erdoberfläche durch Absoption UND Emission viel stärker schwankt, also z.B. nachts kälter wird als die Atmosphäre darüber.
+Und über den Polen ist sie selbstverständlich PERMANENT wärmer als der Boden darunter, der nach wie vor strahlt.
+Die Atmosphäre kühlt also da wo es warm ist und erwärmt da wo es kalt ist.
+Was mich an ihren Graphiken stört,
+sind die fast linear steigenden Temperaturen aus welcher Quelle????
+man wagt es kaum zu lesen,
+von PIK !???
+wen wollen sie denn mit PIK hinter dem Ofen vorlocken?
+Von Linearität auch in den letzten 100 Jahren kann keine Rede sein,
+nicht nur in Europa, sondern überall auf der Erde
+RUTI
+”Rural Unadjusted Temperature Index”
+http://tinyurl.com/byaw8lx
+Es gibt KEINEN CO2-Treibhauseffekt.
+Wäre ja schön, wenn es etwas wärmer würde, wird es nur nicht und trockener auch nicht. Kinder können da wo ich wohne diese Sommer nicht im Sankasten spielen, weil es permanent regnet, auch wenn es zwischendurch warm ist.
+Diesen Erwärmungsquatsch hinten und vorne nicht mitmachen, zumal wir keinen Einfluss darauf haben.
+Ich finde es ganz angenehm auch mal im T-shirt rumlaufen zu können.
+Freundliche Grüße
+Lieber Hr. Kowatsch,
+besten Dank für Ihre ausführliche Stellungnahme. Leider kann ich nicht so ausführlich antworten, da mir dafür aktuell die Zeit fehlt, aber eine kurze Begründung sowie Hinweise auf weiterführende Informationen gebe ich gerne.
+Grund für meinen Aufsatz ist die Erkenntnis, dass die Klimatologie sich aus der Meteorologie entwickelt hat und sich auf deren Methoden und Aufzeichnungen stützt. Diese Methoden sind jedoch zu Zeiten entstanden, als viele der heutigen physikalischen Erkenntnisse noch nicht bekannt waren. Da man zudem vorrangig an kurzfristigen Phänomenen (Wetter im Bereich weniger Tage) interessiert war, benötigt man Daten, welche die Veränderungen in der Atmosphäre beschreiben und dementsprechend schnell veränderlich sind. Deshalb sind auch unsere Archive auf diese Aspekte ausgerichtet. Schon der Begriff „Temperatur der Erde“ ist genügt nicht dem heutigen Stand der Physik.
+Die Erde ist ein System, das nahezu all seine Energie von der Sonne per Strahlung bezieht und diese im Gegenzug fast vollständig wieder ins All abstrahlt. Längerfristige Temperaturänderungen („globale Erwärmung“) sind in erster Näherung Folge eines Ungleichgewichts zwischen Einstrahlung und Abstrahlung. Wer diese Änderungen über große Zeiträume erfassen will, braucht ein Messinstrument, das über entsprechende Zeiträume die Zu- und Abflüsse getreulich integriert. Menschliche Aufzeichnungen meteorologischer Daten sind hierfür ungeeignet, da die verfügbaren Zeiträume nur sehr kurz (ca. 150 Jahre) sind und eine wirklich globale Aufzeichnung erst seit wenigen Jahrzehnten existiert (Afrika, Lateinamerika, Arktis, Antarktis). Zudem werden die Zeitreihen durch den Wärmeinseleffekt und zunehmend auch durch Manipulationen verfälscht.
+Der Boden als einseitig mit Sonnenenergie beaufschlagter Festkörper fungiert dagegen als Integrator und speichert dank der geringen Geschwindigkeit der Wärmediffusion die Wärmehistorie bei geeigneten Bedingungen über Zeiträume von Jahren bis Jahrzehntausenden. Die Sonne beaufschlagt ihn mit im Mittel ca. 160 W/m2. Der Wärmestrom aus dem Erdinneren liegt dagegen im Normalfall bei lediglich 0,05-0,12 W/m2. (http://tinyurl.com/qhehjkw). Bei konstanten Bedingungen im Untergrund kann man die beiden gegenläufigen Effekte mathematisch berücksichtigen und somit das von der Oberfläche ausgehende Signal bis in größere Tiefen herausfiltern.
+Bodentemperaturmessungen gibt es wegen der Bedeutung für die Landwirtschaft schon länger. In Deutschland gibt es ein entsprechendes Netzwerk an Stationen u.a. vom DWD (http://tinyurl.com/pdhuyvs). Für größere Tiefen (12 m wegen der Jahresintegration) gibt es ein Archiv beim PIK. Details hierüber stehen mir leider nicht zur Verfügung, vielleicht kann hier ein Leser weiterhelfen.
+Es gibt auch schon seit langem Ansätze, dieses Klimaarchiv zu nutzen. In einem entsprechenden Beitrag bei Spektrum.de steht beispielsweise: „Der Wechsel von Tageswärme und Nachtkühle beeinflusst lediglich den obersten Meter Boden oder Gestein, und die jahreszeitliche Temperaturschwankung kommt nur rund 15 Meter weit; hingegen lässt sich ein Jahrhundert-Zyklus noch in etwa 150 Metern Tiefe beobachten, ein Jahrtausend-Zyklus in 500 Metern. Auf diese Weise speichert die Erde selektiv die langfristigen Trends und puffert kurzfristige Abweichungen ab – für ein Klima-Archiv eine ausgezeichnete Eigenschaft“ (http://tinyurl.com/opxthhy).
+Eine interessante Arbeit hierzu gibt es von Dahl-Jensen et al, die Grönland Zeiträume von bis zu 50.000 Jahren untersuchten. Zitat: „The result is a 50,000-year-long temperature history at GRIP and a 7000-year history at Dye 3. The Last Glacial Maximum, the Climatic Optimum, the Medieval Warmth, the Little Ice Age, and a warm period at 1930 A.D. are resolved from the GRIP reconstruction http://tinyurl.com/nfd7q5o.
+Schliesslich ist mir noch eine Diplomarbeit von Daniel Koch http://tinyurl.com/92jgzxl aufgefallen, die interessante Informationen zur Methodik enthält.
+Mfg
+Vielen Dank für diesen sehr interessanten Artikel und Ihren Schlussfolgerungen aus den Messungen. Der Boden spielt bei der Klimaentwicklung ganz bestimmt mit und er wurde in alle den bisherigen Ansätzen zur Klimaveränderung immer vergessen, genauso wie die Weltmeere beim PIK und IPCC keine Berücksichtigung finden. Auch dieser Artikel zeigt, dass CO2 keinen oder fast keinen Einfluss hat.
+Zunächst mal gehe ich davon aus, dass Ihre Daten von einem einzigen Messpunkt kommen, ein Thermometer, das irgendwo in einer Höhle oder in einem Bergwerk in 12m Tiefe angebracht ist, denn ein deutschlandweit flächendeckendes Meßnetz in 12m Tiefe kenne ich nicht.
+Grundsätzlich halte ich Ihre Aussagen für richtig, nämlich dass nicht die Luft über dem Boden die Temperatur in 12m Tiefe bestimmt, sondern viel stärker die „Kraft der Sonne“. Deshalb findet man auch keine täglichen oder wöchentlichen Schwankungen in dieser Tiefe. Aber wäre ein flächendeckendes Meßnetz in 12m Tiefe besser, um das irdische Klima in 2m Höhe über dem Erdboden zu bestimmen, ich bezweifle es.
+Nach meiner Meinung werden die Temperaturen in 12m Tiefe noch viel stärker als von der Sonne von der Wärme aus dem Erdinnern mitbestimmt, eine Wärme, die von unten nach oben steigt. Je tiefer man bohrt, desto mehr steigt die Temperatur. Das Thermometer in Ihrem Artikel zeigt in 12m Tiefe etwa 10C, also ein Grad mehr als die durchschnittlichen Lufttemperaturen des DWD für Deutschland. Unser Tiefenbrunnen -100m Tiefe- in meinem Heimatort liegt bei 13C.
+Meine Kritischen Anmerkungen als Diskussionsgrundlage
+Bei der Temperaturbetrachtung in 12m Tiefe ist im Artikel die Erdwärme und deren Einfluss nicht aufgeführt. Ein flächendeckendes Messnetz in 12 m Tiefe wäre geeignet, um die Temperaturen an diesen Orten zu bestimmen, aber weniger um Klimavorhersagen an der Erdoberfläche zu machen. Und die Temperaturen im Erdboden verändern sich über längere Zeiträume aufgrund natürlicher, aber auch anthropogener Einwirkungen:
+a) Ständig gibt es im Erdinnern natürliche Veränderungen und Verwerfungen und zwar in unterschiedlichen Tiefen, die eine Gegend an der Erdoberfläche mit unterschiedlicher Erdwärme versorgt.
+b) Gerade in Deutschland wurde in den letzten 100 Jahren der Boden bis in 12m Tiefe und darunter durch Sickerschläuche und Entwässerungsgräben an der Oberfläche trockengelegt. Nahezu unser gesamtes Wasser für die Getränke, sogar unseres Trinkwassers stammt aus Tiefenbrunnen. Wir legen die oberen Bodenschichten in Deutschland ständig trockener. Das entnommene Wasser landet im Meer. Desweiteren schreitet die Überbauung der Oberfläche mit 1,1 km2 täglich voran. All das hätte Auswirkungen auf ein flächendeckendes deutsches Messnetz in 12m Tiefe. Die Regenmenge blieb in den letzten 115 Jahren zwar unverändert wie ihr Schaubild zeigt, nicht aber die Bodenfeuchtigkeit, die nimmt ständig ab.
+Aus all den Gründen und bestimmt noch weiteren nicht genannten, meine ich, dass ein Thermometer in 12 m Tiefe über mehrere Jahrzehnte weniger die Klimaveränderungen über dem Boden anzeigt, sondern vielmehr die Geschwindigkeit der natürlichen und anthropogenen Bodenveränderungen in der Umgebung des Standortes. Dass die Kraft der Sonne, also die Sonnenscheinstunden auch die Temperatur in 12m Tiefe mitbestimmt ist sicher richtig, denn die erwärmten oberen Meter drei bis vier Meter wirken wie ein Deckel für die aufsteigende Erwärme.
+http://tinyurl.com/37olhk3

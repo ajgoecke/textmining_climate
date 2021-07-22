@@ -1,0 +1,228 @@
+Simulieren des EEG-Wendezeit-Paradieses im Jahr 2050 mit 100 % Vollversorgung durch grüne Energien[2] zeigt jedoch:
+· Diese Wende ist aufgrund der totalen Wetter-Abhängigkeit der Erzeuger genau so chaotisch wie das verursachende Wetter und damit niemals vorhersagbar noch planbar. Somit kann jede Aussage dazu zeitweise richtig und zeitweise falsch sein. Was man aber sicher vorhersagen kann, sind hohe Kosten.
+Welche Konsequenzen dies auf die Energieversorgung hat und wie ausgewiesene Experten damit „umgehen“, wird in der folgenden Ausführung gezeigt.
+Vorspann
+Auf VERNUNFTKRAFT.de wurde im Dezember ein Artikel „Energiewende erfolgreich gemacht?“ publiziert, welcher die hier dargestellte Thematik umfangreich und sehr detailliert behandelt. Am Schluss dieser Publizierung wird ein „Gedankenexperiment Vollversorgung mit Sonne und Wind“ dargestellt. Dieses Gedankenexperiment hat der Autor weiter ausgearbeitet und mit Fallbeispielen und Grafiken versehen, womit die EIKE-Publizierung „Teil 2: Intelligente Versorgungsnetze“ ergänzt und abgeschlossen ist.
+Daten des Jahres 2015 und Hochrechnung zum Jahr 2050
+Für die folgenden Hochrechnungen zum Jahr 2050 werden die Daten der Tabelle von Bild 1 angezogen.
+Wie immer der Hinweis, dass es keine amtlichen Daten gibt und die verschiedenen Angaben sich teils erheblich unterscheiden. Deshalb werden für das Jahr 2015 die Angaben aus der ganz aktuellen Meldung des Fraunhofer ISE verwendet. Für die Hochrechnungen hat der Autor seinen Datensatz* (Dez. 2014 – Nov 2015) auf die ISE-Werte normiert. Die Ausbau-Verhältnisfaktoren zwischen Solar und Windkraft sowie die festen Ausbaufaktoren für Biogas und Wasser wurden der Tabelle 2 aus [4] entnommen. Die variablen Ausbaufaktoren von Solar und Windkraft sind dann mit dem eigenen Datensatz hochgerechnet. Der Datensatz und damit alle abgeleiteten Darstellungen beginnen mit dem Dezember 2049 und enden mit dem November 2050.
+Bild 1 Energiedaten 2015 (Hauptquelle [3], Daten aus anderen Quellen in Klammern) und Hochrechnungen daraus für das Jahr 2050
+Wieder sieht man den Subventionsirrsinn des EEG deutlich. Solar lieferte im Jahr 2015 (und das war ein mittleres „Solarjahr“) lediglich 19 % der grünen Energie, kostet aber die Hälfte des gesamten EEG-Budgets.
+Ausbaufaktoren
+Die im Bild 1 gelisteten Faktoren für Windkraft und Solar sind Netto-Werte. Mit Berücksichtigung von Verlusten durch Speicherung und Netze wären diese mindestens um 20 % höher anzusetzen.
+Man mache sich keine Illusionen (aufgrund reißerischer „Erfolgsartikel“) über Wirkungsgrade von Energiespeichern. Die Wirkungsgrade von Speichern sind in der VDE-Studie „Energiespeicher für die Energiewende“ von 2015 wie folgt angegeben:
+[5] Kurzzeitspeicher mit hohem Zykluswirkungsgrad > 75 %,
+Langzeitspeicher mit bislang geringem Zykluswirkungsgrad <= 40 %.
+Umfangreiche Details zum Speicherthema wären in der EIKE-Publizierung "Elektro-Energiespeicherung" nachlesbar.
+Somit ergeben sich alleine für die Energieparität und falls im Jahr 2050 wirklich die geforderten 10 % weniger Elektro-Energie-Verbrauch erreicht werden mindestens die folgenden Minimal-Ausbaufaktoren gegenüber dem Jahr 2015:
+· Wind: Faktor 4
+· Solar: Faktor: 3,5
+Mit diesem Ausbau ist jedoch noch kein Energie-Überschuss zur Zwischenspeicherung der Langzeit-Energiedifferenzen vorhanden. Dafür sind nochmals erhebliche Ausbaufaktor-Zuschläge anzusetzen. Zusätzlich sollen im EEG-Paradies dann auch ausschließlich reine Elektroautos fahren dürfen – wie es die Grünen aktuell fordern -, welche dann nicht unerheblich zusätzlichen Strom verbrauchen.
+Beim Wandern in der Natur (natürlich nicht in Oberbayern, das davon „zufällig“ konsequent freigehalten wird) darf man sich beim Anblick von Wind- und Solarparks ganz grob im Jahr 2050 die Anzahl mal 4 … 7 vorstellen. Wer sich von Windparks besonders angesprochen fühlt und Lust-Wandeln im Solarpark erregend findet, hat solche dann sicher in ausreichender Zahl nahe vor seiner Haustüre.
+Die Elektroenergie im Jahr 2050
+Fall A: Grünstrom-Einspeisung = Verbrauch
+Im Folgenden die Grafiken des Jahres 2050 mit den Daten von Bild 1 hochgerechnet. Es sind Nettowerte, also ohne Verlustzuschläge berechnet.
+Bild 2 zeigt:
+· Verbrauchsleistung (MW)
+· Angebotene Leistung aller Grünstrom-Quellen (MW)
+Bild 2 Ganglinien des Jahres 2050 wenn die Jahres-Grünenergie-Einspeisung dem Verbrauchswert entspricht
+Man sieht deutlich, wie die Einspeisung ständig zwischen viel zu viel und viel zu wenig Energieangebot pendelt. Welche Probleme das alleine im Verteilsystem bedeutet, wurde im Artikel "Neue Energien für Dummies, Teil 2 Versorgungsnetze" erklärt. Das folgende Bild 3 zeigt dazu die Verläufe von Leistungs-Über- / Unterangebot und die daraus resultierende Energiebilanz (Differenz aus Einspeisung und Verbrauch).
+Bild 3 zeigt:
+· Verbrauchsleistung (MW)
+· Verlauf der Angebots- / Verbrauchs-Differenz (MW) (Leistungs-Über- / Unterangebot)
+· Resultierende Energiedifferenz (MWh) als Energiebilanz-Kurve
+Bild 3 Ganglinien des Jahres 2050 mit Differenzwerten der Leistung und Verlauf der Energiebilanz
+(Jahres-Einspeisung = Verbrauchswert)
+Im Bild 4 sieht man den Verlauf der Energie (Summierung der Leistung) sowie Einspeisung und Verbrauch. Gut sichtbar ist, dass die Energieverläufe optisch geringe Differenzen zeigen, die man kaum erkennen kann. Die extrem hohen Zahlenwerte der Energiesummen (GWh) „kaschieren“ jedoch, dass diese niedrigen relativen Differenzen absolut betrachtet ebenfalls gewaltige Zahlengrößen bedeuten.
+Bild 4 zeigt:
+· Verlauf Energieverbrauch (GWh)
+· Verlauf Energie-Einspeisung (GWh)
+· Energiebilanz (Differenz: Energieeinspeisung – Energieverbrauch)
+Bild 4 Energiebilanz des Jahres 2050 (Jahres-Einspeisung = Verbrauchswert)
+Nicht fehlen darf dazu das Histogramm der Leistungs- Bereitstellung der grünen Energieen.
+Bild 5 zeigt:
+· Histogramm der Leistungs-Bereitstellung, klassifiziert in 5 % Schritten
+Bezug: installierte Leistung. Die Säulenhöhe ist der Zeitanteil des Jahres 2050.
+· Histogramm-Summen-Verlauf (Zeitwerte der Klassensäulen addiert)
+Bild 5 Histogramm des Leistungsangebotes grüne Energien im Jahr 2050 (Jahres-Einspeisung = Verbrauchswert)
+Fazit
+· Es sind Kurzzeitspeicher erforderlich, welche die vielen Spitzen von Bild 3 mit 40.000 … 80.000 MW über Stunden verarbeiten können. Anm.: Ein Akkuspeicher kostet alleine als Startinvestition ohne Betriebs- und Akku-Austauschkosten (mindestens alle 10 Jahre) 1 … 2.000 EUR / kWh. Um 80.000 MW nur 1 Stunde zu speichern sind das 80 … 160 Milliarden EUR. Man benötigt aber viele Stunden.
+· Zusätzlich sind in erheblichem Umfang Langzeitspeicher über Monats-Zeiträume erforderlich (Bild 4). Diese haben ähnliche Investitionskosten, aber Wirkungsgrade um 40 %
+Schwankungen von Solar und Windkraft
+Die grüne Energie ist bekanntermaßen direkt vom Wetter abhängig. Der dem Autor zur Verfügung gestellte Datensatz eines „Windmüllers“ zeigt die folgenden Jahresschwankungen um den Mittelwert (Bild 5.1):
+· Ideal ausgerichteter, großer Solarpark über 9 Jahre: – 10,4 … + 8,2 %, Spannweite: 18,6 %;Standardabweichung: +- 5,7 %. Die größte Differenz innerhalb von zwei aufeinander folgenden Jahren waren 16,6 %
+· Windanlage über 14 Jahre: -16,6 …. + 21 %, Spannweite: 37,6 %; Standardabweichung: +- 10 %.
+Dabei betrug die Differenz vom Minimal- zum Maximalwert (37,6 % Jahresdifferenz) gerade einmal 3 Jahre.
+Bild 5.1 Relativer Jahresertrag einer Windanlage und Solaranlage im klimatisch „ruhigen“ Franken
+Wind hat im kommenden EEG-Schlaraffenland den wesentlichen Leistungsanteil und gleichzeitig die höchsten Langfrist-Schwankungen. Zudem zeigt sich auch eine deutliche Korrelation im „Wetterverhalten“ beider Energiequellen. Damit sind die Differenzszenarien B und C mit denen in der Folge gerechnet wird realistisch und noch weit niedriger als die 2,5 … 3 x Standardabweichung, mit der man „für Sicherheit“ rechnen müsste.
+Fall B: Wind und Solar Einspeisung +15 %, Verbrauch -5 %
+Simulation des Jahres 2050 unter der Annahme, dass sich durch stärkere Wetterschwankungen und unterschiedliche Verluste die Einspeisung von Wind und Solar eines Jahres um + 15 % erhöht und gleichzeitig der Verbrauch um -5 % zurückgeht.
+Bild 6 Ganglinien des Jahres 2050 mit Differenzwerten der Leistung und Verlauf der Energiebilanz
+(Wind und Solar + 15 %, Verbrauch – 5 %)
+Bild 7 Energiebilanz des Jahres 2050 (Wind und Solar + 15 %, Verbrauch – 5 %)
+Was hat sich durch die moderate Erhöhung des Energieangebotes verändert?
+· Die Kurzzeitspeicher werden verstärkt benötigt. Sie werden aber nicht mehr leer, um sie erneut aufladen zu können.
+· Das ganze Jahr herrscht Energie-Überschuss. Langzeitspeicher für Energiemangel werden nicht mehr benötigt. Wollte man den Überschuss speichern, bräuchte man Längstzeit-Speicher mit extrem hohen Voluminas
+· Findet man für den nicht marktfähigen Grünstrom-Überfluss keine (zwangs-)Abnehmer, muss er abgeregelt werden
+Fall C: Wind und Solar Einspeisung -15 %, Verbrauch +5 %
+Simulation des Jahres 2050 unter der Annahme, dass sich durch stärkere Wetterschwankungen und unterschiedliche Verluste die Einspeisung von Wind und Solar eines Jahres um – 15 % verringert und gleichzeitig der Verbrauch um +5 % erhöht, entsteht das folgende Szenario.
+Bild 8 Ganglinien des Jahres 2050 mit Differenzwerten der Leistung und Verlauf der Energiebilanz
+(Wind und Solar – 15 %, Verbrauch + 5 %)
+Bild 9 Energiebilanz des Jahres 2050 (Wind und Solar – 15 %, Verbrauch + 5 %)
+Was hat sich durch die moderate Verringerung des Energieangebotes verändert?
+· Die Kurzzeitspeicher werden weiterhin benötigt
+· Fast das ganze Jahr herrscht Energiemangel. Die Langzeitspeicher sind nutzlos. Sie können keinen Ausgleich vornehmen, da sie nicht mehr geladen werden.
+· Der Energiemangel muss durch Fremdquellen ausgeglichen werden.
+Fazit
+Im EEG-Paradies 2050 pendelt die Energie fortwährend zwischen schlimmem Mangel und erheblichem Überfluss. Abhilfe-Maßnahmen für den einen Zustand werden beim Wechsel in den anderen Zustand oft überflüssig.
+· Da niemand den Zustand vorhersagen kann und dieser auch nie stabil bleibt, müssen für alle Szenarien die nötigen Infrastruktur-Maßnahmen errichtet werden.
+· Konsequenz: Zwingend notwendiger Aufbau mehrfacher Infrastrukturen, die dann wechselnd Überauslastung haben oder gar keine Verwendung finden.
+Wie werden diese Probleme in Studien „gelöst“
+Die VDE-Speicherstudie von 2015
+Das im vorherigen „Fazit“ Beschriebene ist auch in der VDE-Speicherstudie erkannt. Beschrieben wird es wie folgt:
+[5] Im 100 %-Szenario ruft die notwendige leistungsmäßige Überinstallation erneuerbarer Energien Erzeugungsüberschüsse von bis zu 80 GW hervor, während die maximale Residuallast gegenüber 2010 nur um bis zu ca. 10 GW oder 12,5 % reduziert wird. Die Leistungsbandbreite wächst deutlich.
+Als Lösung steht dazu:
+[5] Der Flexibilitätsbedarf liegt sowohl im Kurzzeitbereich (< 1 Tag) als auch im Langzeitbereich (> 1 Tag) vor. In allen Varianten (A bis E) der Studie konnte dieser Flexibilitätsbedarf im Kurzzeit- und Langzeitbereich stets durch einen flexiblen Einsatz von fossilen Kraftwerken und KWK-Anlagen, durch Einsatz der Kurzzeit- und Langzeitspeicher oder durch Abregeln der EEG-Einspeisung befriedigt werden. Dabei wurden Flexibilitäten auf der Verbrauchsseite (Demand Side Management) im Rahmen dieser Studie als Ausgestaltung eines Kurzzeitspeichers betrachtet.
+Wozu auch die folgenden Erkenntnisse gehören:
+Neben der Bilanzierung sind weitere Fragen im zukünftigen Stromversorgungssystem ungelöst , zu denen Speicher einen Beitrag leisten können. ….
+Viele weitere Fragen in Bezug auf das zukünftige Stromversorgungssystem bleiben offen …
+Damit die notwendigen Speichertechnologien zukünftig wirtschaftlich und großtechnisch einsetzbar sind sowie rechtzeitig zur Verfügung stehen, sind heute technologieneutrale Forschungs-, Entwicklungs- und Demonstrationsprojekte zur Weiterentwicklung der Speichertechnologien dringend zu empfehlen.
+Dazu die Darstellung der simulierten Speicherbedarfe.
+Bild 10 [5] VDE-Speicherstudie: erforderlicher Speicherausbau
+Um die Probleme der grünen Energie bei höherem Ausbau „in den Griff“ zu bekommen, wurde in der Studie angenommen:
+· Es gibt weiterhin konventionelle Kraftwerke, obwohl die von unserer Regierung geforderte 100 % De-Karbonisierung durch das Verbot konventioneller Kraftwerke erzielt wird.
+· Abregeln wird als „sinnvolle“ Maßnahme in die Szenariensimulationen einbezogen.
+· „Flexibilitäten auf der Verbrauchsseite (Demand Side Management)“ wird im Rahmen dieser Studie als Ausgestaltung eines Kurzzeitspeichers betrachtet.
+Artikel von Prof. Jarass „Neue Netzstrukturen für die Energiewende“
+Wenige werden diese Publizierung kennen – außer Trassengegner, für die sie geschrieben wurde. Der Professor ist überzeugt, dass alleine der Kohlestrom der Kern des EEG-Übels ist.
+[6] Neue Netzstrukturen für die Energiewende
+· Kohlestromeinspeisung bei Starkwindlagen führt zu überdimensioniertem Netzausbau
+· Kritische Versorgungssituationen sind NICHT durch Erneuerbare Energien bedingt, sondern durch den Export von Kohlestrom
+· Privilegierung von unnötiger Kohlestromproduktion beenden!
+· Für seltene Windenergiespitzen ist kein Stromnetzausbau erforderlich
+Als „Beleg“ ist dann beispielhaft ein Ganglinienverlauf über zwei Wochen im Jahr 2022 hinterlegt (Bild 11). Dass die „EEG-Wende“ danach erst richtig anfängt, wird vollkommen unterschlagen.
+Bild 11 [6] Darstellung „seltener“ Energiespitzen von Wind + Sonne
+Der Verlauf sieht im Jahr 2050 vor allem bezüglich der Dimensionen jedoch vollkommen anders aus (Bild 12).
+Bild 12 Darstellung des Zeitraums 16. – 31.03. von Bild 11 im Jahr 2050 für Windkraft + Solar simuliert mit den Daten des Autors (Jahres-Einspeisung = Verbrauchswert)
+Bild 13 Simulierter Verlauf der Windleistung (MW) im Jahr 2050 (Jahres-Einspeisung = Verbrauchswert) mit den Daten des Autors
+Sieht man sich Bild 12 und Bild 13 mit dem Verlauf der Windenergie alleine an, fragt man sich, wie ein Professor daraus ableitet, solche „aneinander-gereihte Zaunlatten“ als „seltene Windenergiespitzen“ zu bezeichnen. „Seine“ Darstellung (Bild 11) zeigt (ganz bewusst) nicht entfernt die zukünftige Wirklichkeit. Ganz schlimm dabei, dass die wichtigen Größenordnungen so vollkommen daneben liegen und zwar mit den Faktoren 3 bis 5. Im Artikel selbst wird dann als Lösung formuliert, dass man mehr abregeln soll, um dieses Problem zu „lösen“. Wie viel Leistung dann vom Kunden bezahlt werden muss, aber weggeworfen wird, verschweigt er.
+Seine Lösung bleibt ganz einfach:
+Zu viel Strom wegwerfen, zu wenig Strom durch Gaskraftwerke zufügen. Zudem hat der Bürger keinen Anspruch auf billigen, konventionell erzeugten Strom (denn zu dessen Transport benötigt man Trassen). Ansonsten strotzt der Artikel nur so von Vereinfachungen und Weglassen – eben ein Gefälligkeitsgutachten mit dem Namen einer Universität.
+efzn Niedersachsen „Szenarienbereitstellung und –berechnung zur Analyse von Transportkapazitäten
+Wenn heute einer Gemeinde die Landes- oder Bundespolitik nicht passt, bestellt sie ein eigenes Gegengutachten. Jeder kleine Stadtrat weiß schließlich besser, was die Welt wirklich braucht. So auch die Stadt Pegnitz[7] welche gerüstet mit einem eigens bestellten Gutachten aktiv am nordbayerischen Trassenprotest teilnimmt. Die inhaltliche Darstellung der bestellten Studie erspart sich der Autor, da sie nichts weiter aussagt als sinngemäß: Wenn man genügend Geld ausgibt ist bestimmt jeder Wunsch (von Trassengegnern) lösbar – vermuten wir. Ob es realistisch ist, war nicht gefragt.
+Zitate [7]: „Verlagerung der Windstromerzeugung von der Ostsee nach Bayern“
+„… zusätzliche Kapazitäten an regional verteilten Gaskraftwerken“
+„… eine (Langzeit-)Speicherung von Überschussenergie und –Leistung in der norddeutschen Starkwindregion“
+Diese Aussagen fielen nicht schwer, denn das Wichtigste war nicht Gegenstand der Untersuchung. Zum Schluss wird sogar erklärt, dass die Aussagen auch nicht stimme könnten:
+[7]: „Die Bewertung dieser Maßnahmen hinsichtlich ökonomischer, ökologischer, rechtlicher, politischer und/oder gesellschaftlicher Kriterien bleibt in dieser Studie unberücksichtigt.“
+„ … werden Gegenstand weiterführender Untersuchungen sein müssen, um belastbare Aussage treffen zu können“.
+DIW Berlin Politikberatung Kompakt Nr. 97
+Diese Publizierung des DIW[8] – unter der Mitarbeit von C. Kemfert – behandelt vorwiegend das Trassenthema in Nordbayern, beschreibt dabei aber auch einige globale Gesichtspunkte. Interessant ist sie vor allem, da in ihr über-deutlich wird, wie stark politische Vorgaben in die angeblich technisch begründeten Aussagen einfließen und damit das Ergebnis bestimmen. In Nord-Korea dürfte das Erfüllungsniveau „wissenschaftlicher Institutionen“ unwesentlich abweichen.
+[8] „Traditionell erfolgte der Stromnetzausbau mit dem Ziel, die Erzeugung mit der Nachfrage zu verbinden.“
+„Gemäß den oben dargestellten Rahmenbedingungen von Energiewende und Klimaschutz ändert sich jedoch die Rolle der Stromnetze, die eine „dienende“ Funktion einnehmen müssen: Netzausbau dient demnach vor allem der Systemsicherheit, aber eben auch dem Klimaschutz.“
+„Stromnetzausbau ist nur dann sinnvoll, wenn er den Zielen der Energiewende dient, u.a. der Integration Erneuerbarer und der Treibhausgasemissionsreduktion.“
+„Solange der Netzausbau ausschließlich zur kostenminimalen Erfüllung des Marktergebnisses geplant wird, können die Ziele der Energiewende nicht erreicht werden; es bedarf daher entsprechender Instrumente, um das „Marktergebnis“ in Richtung von klimapolitischen Zielen zu beeinflussen.“
+Zum Schluss wird das Paper dann pragmatisch. Wenn alles schief geht, kann man die fehlende Energie immer noch im Ausland kaufen oder wieder mit Kraftwerken anfangen.
+[8] Sowohl die benötigte Strommenge als auch die benötigte Leistung können durch unterschiedliche Maßnahmen sichergestellt werden, u.a. Kraftwerksneubau, Speicherentwicklung, Reduktion der Lastspitze, Teilversorgung im Verbund mit Österreich, etc. Zusätzliche Kraftwerkskapazitäten in Bayern können u.a. durch eine „Strategische Reserve“ oder durch eine „Kraftwerksreserve“ mit regionaler Komponente angereizt werden.
+Fazit Energiestudien
+Es darf wirklich jeder eine Studie schreiben (der Autor macht es ja auch in kleinem Umfang). Leider sind die von „Experten“ nicht entfernt richtiger als die von Laien (mit Fachkenntnis). Der Unterschied ist nur, dass „Experten“ häufig Geld dafür bekommen, wofür sie dann vergleichbare Aussagen liefern wie „der Sozialismus wird siegen – damals hatte man nicht genügend Geld dafür, aber mit dem von Gesamtdeutschland wird es doch möglich sein“.
+Und die Qualitätsmedien
+Die Change: Jeder kann künftig Kraftwerk, und alles wird elektrisch
+Der Satz der Überschrift ist an mangelnder Kompetenz kaum überbietbar. Man kann ihn beliebig ergänzen: Jeder kann künftig Gemüse, – Fallobst, – Elektroauto usw. Und wo stand diese Aussage: Im „Amtsblatt der Ökokirche“, der SZ.
+Als hätte es die Süddeutsche Zeitung geahnt, dass ein EIKE-Artikel zum EEG am Enstehen ist, kam darin (wieder) ein EEG-bejubelnder Artikel „Stromschlag“ [9]. Irgendjemand in der dortigen Chefetage (ohne Erlaubnis von „Oben“ schreibt man nicht über Jahre so konsequent diesen Dauerunsinn zu EEG und Klima) muss einfach unbändigen Spaß am Zerschlagen funktionierender Strukturen haben und darf diesen beliebig ausleben: [9] „… Es liegt in der Natur von Revolutionen, auch technischen, dass sie keinen Stein auf dem anderen lassen“. Die Darstellungen im Artikel zur Energie sind mager und vorwiegend von ideologischen Vorurteilen geprägt, doch an Neusprech-Worthülsen herrscht dafür kein Mangel:
+[9] SZ-Artikel „Stromschlag“
+Der Befund: Ökoenergie und Digitalisierung stellen den Strommarkt auf den Kopf
+Die Change: Jeder kann künftig Kraftwerk, und alles wird elektrisch
+Die Risiken: Wenn Politik den Umbruch nicht gestaltet, wird der Strukturwandel wehtun
+Es kann einem richtig Angst werden. Doch keine Sorge. Unsere Kanzlerin wird diesen Umbruch gestalten und alles wird gut! Auf der Titelseite der gleichen SZ-Ausgabe stand dazu die erlösende Information:
+Der CDU-Politiker Martin Patzelt hat eine Inititative (der sich lt. SZ schon mehrere Abgeordnete angeschlossen haben) gestartet um auf zu zeigen, wie unsere Kanzlerin agiert:
+[10] „Sein Vertrauen in die Klugheit und Weitsicht der Kanzlerin, so Patzelt in einem Schreiben an alle Kollegen, sei „ungebrochen und über persönliche Unsicherheiten erhaben“.
+Solche Sätze meint der Autor auch schon in Geschichtsbüchern gelesen zu haben, allerdings verbunden mit einem belehrenden Nachspann. Im EIKE-Artikel "Munich Re Presseinfo 2015" schrieb er zum Schluss ironisch, dass unsere Abgeordneten wohl „ein Verbot zum eigenständigen Denken“ bekommen haben. Dass das aber gar nicht mehr erforderlich ist, weil der Verstand bereits freiwillig abgegeben wurde, hat er nicht vorhergesehen.
+Fazit
+Wie in den vielen EIKE Artikeln des Autors zum EEG immer wiederholt: In Deutschland ist der grüne Wahnsinn ausgebrochen. Und die „Experten“ machen dabei fleißig mit.
+*Der für diese Ausarbeitung erforderliche Datensatz wurde freundlicher Weise von Herrn Rolf Schuster zur Verfügung gestellt.
+Hinweise auf ergänzende Publizierungen zum EEG
+Die neuen Energien im Jahr 2015 und im Jahr 2050 für Dummies
+Das Positionspapier des CSU Arbeitskreises Energiewende keine Vernunft mehr nirgendwo
+Elektro-Energiespeicherung, Notwendigkeit, Status und Kosten. Teil 3 (Abschluss)
+Der Wind bläst stetig– die Sonne steht still – wenn mein starker Arm es will oder warum gehen in Bayern die Lichter (noch) nicht aus
+Quellen
+[1]
+Vernunftkraft Dezember 2015: Energiewende Erfolgreich Gemacht? – 4 Jahre Energiewende in Rheinland-Pfalz und andernorts
+www.vernunftkraft.de
+[2]
+Umweltbundesamt: Energieziel 2050 100% Strom aus erneuerbaren Quellen
+http://www.umweltbundesamt.de/publikationen/energieziel-2050
+[3]
+Fraunhofer ISE, 11.01.2016 Publikation: Stromerzeugung aus Solar- und Windenergie im Jahr 2015
+[4]
+Fraunhofer IWES 29. März 2012, Bericht: BMU – FKZ 03MAP146, Tabelle 4-3, Scenario 2011 A[4])
+[5]
+VDE 2015, Studie: Energiespeicher für die Energiewende Speicherungsbedarf und Auswirkungen auf das Übertragungsnetz für Szenarien bis 2050
+[6]
+Sonnenenergie Heft 1/2015, Hochschule RheinMain Wiesbaden Prof. L. Jarass: Neue Netzstrukturen für die Energiewende
+[7]
+efzn Niedersachsen, Prof. Dr.-Ing. Hans-Peter Beck Technische Universität Clausthal, Pegnitz 9.7.2015, Publikation: 2015078-Kurzfassung_Szenarien_D-Korridor; Szenarienbereitstellung und –berechnung zur Analyse von Transportkapazitäten
+Mittelgeber/Auftraggeber: Stadt Pegnitz
+[8]
+DIW Berlin Politikberatung Kompakt Nr. 97, 2015: Perspektiven für eine sichere, preiswerte und umweltverträgliche Energieversorgung in Bayern
+[9]
+Süddeutsche Zeitung Nr. 12 2016: „Stromschlag“
+[10]
+Süddeutsche Zeitung Nr. 12 2016: „Merkels Schicksalstage“
+was Sie anschneiden versuche ich in anschaulichen Formaten zu entdecken und zu teilen.
+Dabei finde ich häufig Dokus, die zwar mit einer politisch voreingenommenen Absicht erstellt wurden, dabei aber auch durchaus weitere Einblicke in Strategien ermöglichen, wie z. B. hier ab Minute 25… zu sehen ist https://goo.gl/0pIjRz
+Die Finanz-Strategen, die Finanz-Produkte, wie Schadenersatz-Klagerechte entwickeln nehmen nicht nur direkt auf die Politik Einfluss, sie unterhalten auch direkte Beziehungen zu den Parteien, den parlamentarischen Ausschüssen und Gesetzes-Iniativen, um ihre Renditen durch das politische Partei-Personal verbessern zu können.
+An der Vergabe von Ausweisen an Lobby-Personal, um jederzeit im Bundestag Zugang zu haben, zeigt sich ein Lobby-Unwesen, wie man hier z. B. anschaulich sehen kann https://goo.gl/6dls4O
+Dabei spielt es für die beteiligten Politiker eine große Rolle, welche Listenplatz-Nummer sie haben, denn davon hängt ihre berufliche Zukunft ab.
+Können sie für ihre Partei große Einnahmen von Mäzenen erzielen, in dem sie sich „dienstbar machen“ und an Vorschriften fingern werden sie ihren vorderen und damit relativ sicheren Listenplatz behaupten.
+Auch der Wechsel, aus einer politischen Partei-Funktion oder Partei-Position in hoch dotierte Verbands-Strukturen, ist absolut üblich siehe http://goo.gl/L9ErbO
+Oder dieser Klub der sich aus Personal einer privaten Stiftung, Verbandsvertretern und Politikern zusammensetzt, um die Interessen von Finanz-Strategen erfolgreich werden zu lassen http://goo.gl/A9pSyp
+Was so läuft, erinnert mich an Zeiten, wo ich mit Taxifahren meinen Lebensunterhalt finanzierte und dabei sehr tiefe Einblicke in die Strukturen gewisser Branchen erhielt, bei der die politischen Kontakte eine enorme Rolle spielen.
+„Aber mit wem hat es angefangen.“
+Das fing Mitte der 70er Jahre an. Da tauchten am MI in HH „Umweltschützer“ (KKW-Gegner) auf, die erst der Frage nachgingen, wie die gigantische Abwärme der geplanten KKW das Klima ändern würden. Als denen gesagt wurde, daß die Energiemenge viel zu gering sei zogen die ab, kamen aber wieder und wollten wissen, woher man Winddaten bekäme, um mit Windmühlen Strom zu erzeugen und die gefährlichen KKW zu erstzen. Das führte dann zu GROWIAN.
+Dann kamen Hinzpeter und Hasselmann mit den „Klimarechnern“ und Graßl zusammen mit Töpfer schufen das Einspeisegesetz für Windmühlen und Graßl stellte in der Nähe von Sylt Windmühlen auf. Hilfestellung gab es vom Juristen Genscher, der das Gesetz als seine Erfindung ausgibt. Man lese seine Bücher zum Klimawandel und seinen Kampf für die Abnahme des Stroms, der ja soviel CO2 einspart. Da das Gesetz verfassungswidrig war bereitete eine gewisse Angela Merkel das EEG vor. Trittin brauchte nur noch zu unterschreiben. Unter der Regentschaft von Albrecht (CDU) konnte dann ein Alois Wobben mit Hilfe des von der CDU geschaffenen Einspeisegesetzes das große Geschäft machen. In Kutenholz (Landkreis Stade), durfte er sogar der Gemeinde eine Turnhalle errichten, damit er dort besonders hohe Windmühlen errichten durfte. In Lamstedt gab es auch einen Vertrag mit Geldzahlungen an die Gemeinden. Eindeutig Korruption, aber wegen geringer Schuld mit Zustimmung des LG wurde das Verfahren eingestellt, wie alle anderen bundesweit auch. nzwischen ist das erlaubt worden. Man lese die Gesetzesänderungen, die die CDU durchgeboxt hat, damit die Gemeinde- und Parteikassen von den Windmühlen legal profitieren können.
+So läufts Business.
+#9: Helmut Kuntz sagt: …
+Ich meinte mit dem „wer dahinter steckt“ die Entwicklung der vergangenen 20 jahre. Siemens hatte vor ein paar Jahren noch Technik für Kernkraftwerke gebaut. Dann war es vorbei. Wenn denen plötzlich die Rechte genommen werden, ist es verständlich, wenn die dann Geld durch Wind wollen. Heute stecken die auch hinter den „gemeinnüzigen“ Organisationen bei Windanlagen (hatte ich mal vor ein paar Jahren beim Berliner Energietisch recherchiert).
+Aber mit wem hat es angefangen. In den 1990er Jahren gab es auch irgendeine Sonnenenergieorganisation, wo Politiker der EU dahinter steckten. Die bekamen auch regelmäßig Spenden. Ich stelle mir die Frage, ob die Unternehmen, die gegenteilige Technik herstellen, denen Geld hat zukommen lassen.
+Als wir 1998 SPD und Grüne an der Regierung hatten, wurden plötzlich noch mehr Ethikkommissionen gegründet, bei denen mehr Bischöfe drin steckten.
+Oder nehmen wir mal den Mitgründer der Grünen. Der bekam für seine Firma Solarworld in Deutschland 100 Mio Euro und in den USA nochmal 80 Mio. USD. Welcher andere Firmengründer kriegt soviel Fördermittel?
+Irgendwie habe ich das Gefühl, dass dieser gesamte Lobbyismus hinter den Grünen steckt. Damit es niemand merkt, reden die ständig an anderen Stellen über Lobbyismus. Und sie fordern ständig Steuererhöhungen.
+Ebenso stelle ich mir die Frage, ob das vorrangig mit den Geldforderungen der UNO zusammenhängt. Ungefähr 1980 hatte die USA der UNO Geld gestrichen. Ich hatte mal vor ein paar Jahren recherchiert, wo das Ding mit Inklusionsschulen herkommt. Damit hatte die UNO angefangen. Die hatten in Italien eine Organistion gegründet, die sich damit beschäftigte. Erst waren es nur wenige Mitarbeiter und dann waren es über 4000. Alle saßen in Italien, bezahlt von der UNO, die das Geld weltweit abkassiert.
+Die „menschengemachte Klimakastrophe“ hat sich auch über die UNO verbreitet, gründete das IPCC und wollte mehr Geld. Wieviel echte Forscher waren daran beteiligt? Offensichtlich keiner. Ein echter Umwelt- und Klimaforscher wurde ja vom IPCC-Chef (der vorher Eisenbahner war) als Nazi bezeichnet.
+Wer in der der UNO sitzt, wird durch die Regierungen bestimmt.
+Eine wirkliche umfassende Analyse, wie sich das mit Klima und Energie entwickelt hat und wer sich das meiste Geld in die Tasche steckt, wäre schon interessant.
+hat EIKE mit scharfem Blick schon gesehen. Ein kleiner (bissiger) Artikel dazu liegt schon beim Admin zur Einpflege. Nur machen die in Berlin zur Zeit so viel Wahnsinn, dass man bei EIKE nicht mal mehr mit dem Einpflegen nachkommt.
+„Ich stelle mir immer noch die Frage, wer dahinter steckt.“
+Diejenigen, die davon protieren und das sind die Banken, die Fremdkapital bereitstellen und die Hersteller (z.B. Siemens, Enercon …) dieser ineffizienten Technik.
+Nicht zu vergessen die Gemeindevertreter, die glauben damit entweder selbst Geld verdienen zu können (Cuxhaven hat mit der sog. Offshoreindustrie viel Geld verloren, in Bremerhaven wird das auch so kommen (Wenn die Kaje an der Weser gebaut wird). Sie dürfen nicht übersehen, daß der Nachfolger von Hundt aus Bremerhaven kommt und involviert ist. Die Subventionsabgreifer sind alle sehr gut vernetzt.
+„Ökoenergie: Koalition plant Sonderförderung für windarme Orte“
+http://tinyurl.com/hlkazo7
+… kein Wind, kein Strom, aber viel Geld. Der Steuerzahler wird es schon rausrücken. Unsere Kanzlerin wird dann wieder sagen „Wir schaffen das“.
+Das hat alles mit Wirtschaft und Politik nichts mehr zu tun. Ich stelle mir immer noch die Frage, wer dahinter steckt.
+Kommen Sie nach „Regeneriffa“, dem Land der Dummies, die aus regenerativer Energie leben mal halt so eben ueben.
+Wenn Sie auch in Ihrem eigenen Land dafuer nicht alle voraussetzungen finden: Bekommen Sie wenigstens einen Eindruck wie sehr die Menschen muessen sich – so ohne Strom halt schinden, oder lernen zu verzichten.
+Was ja bei genuegend grosser Gruppe so fuer den Einzelnen nicht so das Problem dann ist.
+Und brauchen sie nur teuer genug bezahlen ihren Urlaub dann auf REGENERIFFA, dem Land wo Milch und Honig fliesst, nur genuegend ist es nicht.
+Jedenfalls zeigt meine Expertiese, wie auch unter „Vorspann“ die Machbarkeit einer Stromversorgung aus dem Zusammenspiel der Regenerativen Technologien auf einem Fleckchen Erde, welches man ja klar als Insel bezeichnen muss um da falscher Tatsachen vortaeuschen nicht geahndet werden zu koennen.
+Weil nichts gibt’s da im Ueberfluss.
+Ich habe mir den Spaß gemacht, mit dem Vertreter darüber zu diskutieren, wie denn eine solche Anlage dimensioniert sein müßte, um jederzeit den erforderlichen Strom liefern zu können. Es müßte schließlich immer soviel vorgehalten werden, um jederzeit den Spitzenwert decken zu können. Wie das denn bei den ungenügenden Speichermöglichkeiten auch bei bedecktem Himmel oder gar nachts ermöglicht werden kann.
+Kurz und gut, nach ganz kurzer Zeit war der so genervt, daß er nur noch gesagt hat: „Mit Ihnen rede ich jetzt nicht mehr, bitte gehen Sie weiter.“
+Ein ähnliches Erfolgserlebnis hatte ich im Dezember an einem WWF-Werbestand in der Innestadt, die meine Argumente mit „WWF-Schwarzbuch“ und „Lobbyorganisation“ gar nicht so lustig fanden.
+Sehr geehrter Herr Oberdörffer,
+in meiner genannten Publizierung zum Speicherthema (Teil 3) sind einige Studien gelistet, die dazu Angaben machen. Wesentliche habe ich direkt gelistet und auch die Angaben hochgerechnet.
+Es hilft nichts, daran zu zweifeln. Die Wirkungsgrade von Power zu Gas und Rückverstromung sind in allen (seriösen) Studien ähnlich, also realistisch. Bei den Kosten gibt es mehr Unterschiede, aber ein Faktor 10 ist nirgends dabei. Meine Angaben entsprechen gängiger Werte und sind damit argumentativ verwendbar.
+Und es reicht doch, wenn der für ca. 11 ct/kWh eingespeiste Windstrom danach mindestens ca. 33 ct/kWh kostet – und somit das Wegwerfen viel billiger gewesen wäre. Erzählen Sie einem „Grünen“, dass das Speichern 2 x so viel kostet wie das Wegwerfen, wird er nicht einmal das glauben. Was wollen Sie dann mit dem Faktor 10 noch bewirken?
+Halten’s mal die Anlagen dann vor, wenn Wind nicht weht und Wolken geschlossen eine Decke bilden.
+Solche Anlagen sind leider kein kfz-Motor, den man per Handumdrehen starten kann.
+Und leider bemerkt das Otto Normal Verbraucher nicht, dass er hinters Licht gefuehrt wird.
+Gott sei Dank schiebt die Bundesnetzagentur einen Riegel vor zu dann doch aus Kohle, letztkich Gas nicht ausstiegen koennen.
+Also von vornherein kann die Dekarbonisierung gar nicht stattfinden.
+So langsam kaempfen also die Herrn Politiker :Gruene: eigens gegen ihre Windmuehlen.
+Deutschlands teuerstes Versuchsfeld an lebenden „Dummmies“.
+UNd wer was gegen Laborateures Hirngespinste sagt wird „tot gemacht“.
+Doch andere ziehen die Laborateure ja bereits zu Rechenschaft, was die Abgaswerte von kfz betrifft.
+Wie gut, dass da noch welche tun :frei denken: duerfen.
+Ein lob der freien Marktwirschaft
+in Deutschland wurd’sie abgeschafft.

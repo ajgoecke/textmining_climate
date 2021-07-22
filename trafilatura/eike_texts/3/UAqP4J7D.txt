@@ -1,0 +1,279 @@
+Damit die wichtigen Infos nicht verlorengehen, stellen wir sie im Rahmen eines „Woher kommt der Strom?“-Special der Achse-Leserschaft zur Verfügung:
+Hallo Herr Stobbe,
+ich arbeite in einem Kraftwerk und habe daher ein wenig Einblick in die Kraftwerkseinsatzplanung. Dies gilt natürlich nur für „mein“ Kraftwerk und kann sicherlich nicht verallgemeinert werden.
+Bei uns zumindest ist es so, dass die KW-Blöcke – über Tage und Wochen im Voraus – von uns mit ihrer minimal und maximal erreichbaren Wirkleistung, sowie maximal abrufbarer Primär- und Sekundärregelreserve, wie auch Minutenreserve angeboten werden. Dieses Angebot geht an unseren Stromhändler (Dispatcher), und zwar über ein Tool, welches auch direkt an die EEX meldet. Reale (technische oder durch andere Einflüsse bedingte) Abweichungen von unserem Angebot im Bereich >10 MW müssen umgehend gemeldet werden, sonst droht ein REMIT-Verstoß.
+Das Dispatch-Management unseres Händlers kennt unsere (ständig aktualisierten) Einsatz-, als auch unsere Anfahrkosten. Im Normalfall werden wir jeweils für den morgigen Tag (Day Ahead) vermarktet und sind somit in Betrieb, sofern der Strompreis dies zulässt. Taucht der Strompreis deutlich und zu lange unter unsere Einsatzkosten ab, werden die Blöcke abgestellt. Ein bisschen Spielraum gibt es, weil wir mit der Primärregelleistung (also der direkten Netzfrequenzstütze) auch noch Geld verdienen, aber wenn es sich gar nicht mehr rechnet, ist der Ofen halt aus.
+Berücksichtigt werden dabei aber auch noch die Anfahrkosten, denn ein Blockstart kostet im fünf bis sechsstelligen Bereich. Ebenfalls zu beachten: Wenn wir unseren Strom für den Kraftwerkseigenbedarf nicht selbst erzeugen, müssen wir diesen auch übers Netz beziehen und zahlen da sämtliche EEG- Umlagen und sonstigen Gebühren mit. Ein kompletter Stillstand der Erzeugung kostet eben auch.
+Aus dieser komplexen Gemengelage wird also die Kraftwerkseinsatzplanung destilliert.
+Intraday wird die Lastkurve der in Betrieb befindlichen Blöcke immer viertelstundenscharf dem entsprechenden Marktumfeld angepasst. Ist ein Wettbewerber billiger, kauft unser Dispatcher dort die entsprechenden Strommengen und wir senken unsere Leistung ab. Sind wir noch lieferfähig (fahren also gerade im Teillastbetrieb) gilt natürlich unser bestehendes Maximalangebot und wir erhöhen die Leistung, sobald ein annehmbarer Preis geboten wird. Zurückhalten tun wir da gar nichts. Wenn wir aber tatsächlich etwas an unserer gemeldeten Verfügbarkeit ändern, also eine Lasteinschränkung melden, dann müssen wir dies schon in diesem Tool tun und auch begründen. Solche Ereignisse werden dann umgehend bei der EEX angezeigt.
+Technischer Einschub: Unser Laständerungsgradient liegt übrigens bei 3% der installierten Nennleistung pro Minute. Bei einem angenommenen 1000-MW-Kraftwerksblock wären das also 30 MW/min – innerhalb der technischen Min- und Max.-Grenzen natürlich. Primärregelleistung im gleichen Bereich liegt übrigens innerhalb weniger Sekunden an. Wer in Deutschland am Regelleistungsmarkt teilnehmen möchte, muss mindestens 2% seiner installierten Nennleistung innerhalb 30 Sekunden vollständig als Regelleistung erbringen und für mindestens 5 Minuten halten können. Das zum Thema angeblich mangelnder Flexibilität konventioneller Kraftwerke.
+Preis zu volatil? Dann bleiben Kraftwerke einfach außer Betrieb
+Wenn ich mir jetzt den Juni anschaue, dann exportieren wir die Solarspitzen und importieren während der Solartäler. Der Strompreis schwankt die meiste Zeit zwischen 25 und 50 Euro/MWh. Der Chart der Stromerzeugung zeigt nun, dass Laufwasser-, Biomasse- und Kernkraftwerke in einem relativ gleichbleibenden Band geradeaus fahren, die Braunkohle ebenfalls ein durchgehendes Band fährt (wobei sie auch schon in Teillastbereiche runtergeht), während vor allem Steinkohle und Gas den Ausgleich zwischen fluktuierender Stromerzeugung durch Wind- und Sonnenkraft sowie schwankendem Verbrauch (Last) abfedern.
+Bei Gas und Steinkohle dürfte ein (Börsen-)Strompreis von 25 €/MWh für die allermeisten Kraftwerke nicht mehr ausreichen. Ab 40-45 € könnten viele wieder im Preis sein (das hängt stark vom Anlagenwirkungsgrad, von den momentanen Brennstoffkosten und dem Preis für CO2-Zertifikate ab). Wenn der Preis nun aber sehr volatil ist und zu oft unter den Erzeugungskosten liegt, bleiben die Kraftwerke halt einfach außer Betrieb. Je länger aber ein solcher Kraftwerksblock steht, desto kälter ist die Anlage, desto länger dauert eine Anfahrt und desto teurer wird ein Start – dies noch on top.
+Meine Vermutung bezüglich der Erzeugungsunterdeckung ist daher die, dass bei stark schwankenden Preisen im Grenzbereich zwischen „lohnt“ und „lohnt nicht“ einfach viele Anlagen gleich außer Betrieb bleiben. Man sieht ja im Preischart schön, dass die solare Mittagsspitze regelmäßig die Preise einbrechen lässt. Es gibt von 06:00 bis 10:00 und am Nachmittag/Abend von 18:00 bis 22:00 Uhr noch etwas zu verdienen, der Rest des Tages sieht mau aus. Da können viele Blöcke einfach nicht durchgängig betrieben werden, und nur für wenige Stunden (oder gar mehrfach) starten sollte man solche Anlagen auch nicht. Das heißt also (für mich), dass in Deutschland seit Mai – mit dem steigendem Photovoltaik-Anteil – einfach nicht mehr genug Anlagen durchgängig und kostendeckend in Betrieb gehalten werden können, um bei Lastschwankungen ohne Importe auszukommen.
+Wenn es jetzt an irgendeiner Stelle klappert, wird es eng mit den Reserven im Netz. Ich habe mich gerade durch regelleistung.net gehangelt, um herauszufinden, wieviel Regelleistung denn derzeit so vorgehalten wird. Primärregelleistung (abgekürzt PRL, das ist die direkte Frequenzstütze, ohne die das Netz sofort zusammenbrechen würde) demnach 605 MW in Deutschland. Im europäischen Verbundnetz gesamt sind es dann rd. 3000 MW, auch zur Kompensation des möglichen Ausfalls der größten Erzeugungseinheit innerhalb von 30 sec). Sekundärregelleistung (um die PRL bei Fortdauer der Störung > 5 min abzulösen) 1.876 MW für die vier deutschen Übertragungsnetzbetreiber. Die Minutenreserve liegt offenbar derzeit bei 1.952 MW (um die SRL nach 15 min abzulösen). Zahlenangaben ohne Gewähr.
+„Sofort abschaltbare Lasten“
+Das erscheint mir angesichts zunehmend fluktuierender Stromerzeugung in Deutschland ein bisschen wenig zu sein. Vom 25.06.19 berichteten mir die zu diesem Zeitpunkt anwesenden Kollegen jedenfalls vom telefonisch bettelnden Lastverteiler, der versuchte, jedes verfügbare MW zusammenzukratzen, und irgendwann vorher im Juni war ich selbst zugegen, als ohne erkennbaren Grund plötzlich über 3.000 MW im deutschen Netz zu fehlen schienen. Ein dies erklärender Kraftwerksausfall oder eine starke Prognoseabweichung bei Wind und Solar war zu diesem Zeitpunkt für mich nicht erkennbar.
+Offenbar hält man sich seitens der Übertragungsnetzbetreiber neben der Regelreserve noch mit den „schnell…“ oder „sofort abschaltbaren Lasten“ in der Schwerindustrie über Wasser, aber die Einschläge häufen sich. Wenn man jetzt noch bedenkt, dass die Stromflüsse wegen der Netzungleichgewichte zwischen Nord und Süd zusätzlich die Leitungen und Kuppelstellen belasten (die nicht für solche Energiewende-Experimente gebaut wurden) und die bestehenden Kraftwerksanlagen auch nicht für ständiges „hoch und runter, rein und raus“ konzipiert wurden, kann es einem schon angst und bange werden. Die Instandhaltungskosten und das Ausfallrisiko steigen, während die Marge zunehmend unkalkulierbar wird.
+…und das politisch und medial völlig enthemmte Überallausstiegsgetrommel ist da noch nicht einmal berücksichtigt.
+Weil ich gerade folgendes Zitat auf achgut.com gelesen habe,
+„Marktteilnehmer, darunter die Firma Next Kraftwerke, vermuten hinter den Engpässen im Juni das Werk von Spekulanten. Es besteht demnach der Verdacht, dass Händler Versorgungslücken im Regelenergiemarkt zunächst bewusst nicht ausgeglichen hätten, um später höhere Gewinne einzustreichen.“
+… vielleicht noch ein paar Bemerkungen zu Regelenergie und Bilanzkreisabweichungen:
+Die benötigten Regelleistungsmengen wurden früher wöchentlich, mittlerweile täglich öffentlich ausgeschrieben. Die Stromerzeuger können dann Angebote abgeben und erhalten ggf. den Zuschlag. Damit sollte die Versorgung immer gewährleistet sein (sofern die errechneten Mengen noch immer ausreichend sein sollten). Für Spekulation und Versorgungslücken sehe ich da eigentlich keinen Raum.
+Primärregelung (PRL) und Sekundärregelung (SRL) erfolgen vollautomatisch. Das Regelungssignal kommt direkt aus dem Netz, und die Anlage fährt danach die Leistung hoch oder runter. Auch da sehe ich keinen Raum für Versorgungslücken oder Zeitverzug.
+Bei der Minutenreserve (MR) ist das etwas anders, weil da ja noch Zeit zum Handeln bleibt. Bei uns kommt die MR-Anforderung über den ganz normalen Fahrplan (das Tool, in welchem der Dispatcher die zu fahrende Wirkleistung viertelstundenscharf festschreibt) und zusätzlich noch als telefonische Anforderung, damit diese außerplanmäßige Fahrplanänderung auch ja nicht untergeht.
+„Das ist Glücksspiel“
+Ich könnte mir also durchaus vorstellen, dass eine Minutenreserveanforderung zum gewünschten Zeitpunkt noch nicht vollständig bedient sein könnte, weil diese Anforderungen teilweise auch sehr kurzfristig reinkommen, die Anlagen aber einen technisch bedingten Laständerungsgradienten von x MW/min haben. Da die MR die SRL aber nur ablösen soll und zusätzliche Kraftwerke, die nicht an der Regelung teilnehmen, auch ihren Output erhöhen können (sofern es im Netz noch Reserven gibt), sollte das im Normalfall auch verkraftbar sein. Ein Zurückhalten von Regelleistung sehe ich da nicht, weil man ja seinen vertraglichen Verpflichtungen nachkommt. Im Rahmen der technischen Gegebenheiten natürlich.
+Wenn jetzt also alle an der Netzregelung teilnehmenden Erzeuger ihren Pflichten nachkommen, sehe ich keinen Raum für Spekulationen. Würde ein Teilnehmer seine Pflichten nicht erfüllen, würde das für ihn im Nachgang mit Sicherheit teuer. Es wird ja alles überwacht, alle Stromflüsse sind online nachvollziehbar. Ich weiß es nicht genau, könnte mir aber durchaus Vertragsstrafen vorstellen, zusätzlich zu den Kosten der als Lückenfüller schnell zu beschaffenden Leistung. Ein Plus-Geschäft sollte da unmöglich sein, worauf also spekulieren?
+Wie genau die realen Stromflüsse gemessen und abgerechnet werden, entzieht sich meiner Kenntnis. Aber sie werden es. Ein paar Wochen nach der tatsächlich erfolgten Erzeugung. Da werden dann auch die Kosten sichtbar, die anfallen, wenn man als Erzeuger von seinem Fahrplan abgewichen ist. Wie schon gesagt, legt der Fahrplan viertelstundenscharf fest, welche (Wirk-) Leistung eine Erzeugungseinheit zu bringen hat. Das ist der sogenannte Arbeitspunkt (AP). Bei eingeschalteter Netzregelung (PRL und/oder SRL) pendelt die Blockleistung dann natürlich um diesen Arbeitspunkt herum, je nachdem, welches Regelsignal aus dem Netz kommt. Alle anderen Abweichungen vom Arbeitspunkt sind aber Bilanzkreisabweichungen, deren Kosten im Nachgang errechnet werden.
+Teilweise sind solche Bilanzkreisabweichungen technisch gar nicht zu vermeiden. Die schon angesprochenen Laständerungsgradienten verhindern, dass man innerhalb einer Sekunde (von einem Viertelstunden-Arbeitspunkt zum nächsten) die Leistung ändern kann.
+[Technischer Einschub: Man fährt also von einem AP zum nächsten eine Lastrampe, wobei versucht wird, den AP-Wechselzeitpunkt auf der Mitte dieser Rampe zu erwischen. Bei einer gewünschten Laststeigerung von z.B. 100 MW (braucht 4 min bei 25 MW/min) zu 06:00 Uhr, beginne ich also schon 2 min vor 06:00 Uhr die Last anzuheben, habe also eine positive Bilanzkreisabweichung (entgegen meinem noch gültigen AP fahre ich ja zu viel Leistung ins Netz). Um 06:00 Uhr habe ich mit erst 50 aufgebauten MW den neuen AP noch nicht erreicht, habe also für die nächsten 2 min erstmal eine negative Bilanzkreisabweichung.]
+Man versucht also Bilanzkreisabweichungen möglichst gering, sowie ausgeglichen positiv und negativ zu halten. Man weiß im Vorfeld nie, was einen wieviel kostet! Diese Rechnung wird erst Wochen später präsentiert. Je nach Netzsituation kann sowas richtig teuer werden, es kann aber sogar Geld dafür gezahlt werden. Man weiß es aber nicht und eine Spekulation wäre hier komplett hoffnungslos. Das ist Glücksspiel.
+Es gibt jedoch eine Möglichkeit, wo ich mit künstlicher Verknappung auf steigende Preise spekulieren kann. Mir schreibt ja niemand vor, welche maximale Wirkleistung ich Day Ahead anbieten muss. Wenn ich meine den Wettergott persönlich zu kennen und darauf spekuliere, dass die Wind- und Solarprognosen für den nächsten Tag zu positiv ausfallen, kann ich mich ja mit einem Minimalangebot auf die Lauer legen und hoffen, dass die Intradaypreise höher sein werden. Nur, das können alle anderen auch. Ob ich dadurch also wirklich gewinne, ist halt Spekulation.
+Ich könnte mir aber durchaus vorstellen, dass man seitens der Bundesnetzagentur bei größeren Erzeugungseinheiten auch genauer drauf schaut. Erzeugungskapazitäten im Gigawattbereich können ja durchaus Preise bewegen, wenn der Markt gerade eng ist. Ich weiß also nicht, ob einem die Spekulation da nicht hinterher vor die Füße fällt.
+Freundliche Grüße / Name des Verfassers ist bekannt
+Unglaubliche Augenwischerei!
+Im Zusammenhang mit der Vermutung, dass der vermehrte Stromimport zu einer Senkung des CO2-Ausstoßes führen könnte, schrieb kürzlich ein Leser an Achgut.com:
+[…] Ihre letztens geäußerte Vermutung, dass in D auf jeden Fall CO2-generierende Stromerzeugung bewusst heruntergefahren bzw. eingeschränkt werden soll, hätte ich bisher fast nicht glauben können.
+Doch nun heute gibt es auf Welt.de eine entsprechende Aussage, wie bei uns bei der Stromerzeugung CO2 gespart wurde in den ersten Monaten d. J.
+Unglaubliche Augenwischerei!
+Beste Grüße und herzlichen Dank für Ihre umfangreichen Informationen.
+Rüdiger Stobbe ist nach eigener Auskunft ein schlimmer Ober-Klimaleugner und veröffentlicht regelmäßig auf der Achse des Guten.
+Mit freundlicher Genehmigung.
+>>Na Ja, manche schreiben bei EIKE sind eben immer noch der Meinung Solarstrom rechnet sich nicht<>Ich bin ja etwas Dumm und habe nichts passendes gefunden<<).
+>Ich bin ja etwas Dumm und habe nichts passendes gefunden<
+Ist Herr @Werner Mueller etwas Dumm wenn er bringt
+„Die Kosten für die Stromerzeugung aus dezentralen Solar-PV-Systemen liegen in den meisten Ländern laut IEA bereits unter den Haushalts-Strompreisen.“
+oder etwas schlauer als Sie Herr @Otto Weber ?
+https://www.manager-magazin.de/unternehmen/energie/energiewende-solarenergie-ist-die-billigste-stromquelle-a-1199376.html
+Sie sind doch ein personifiziertes FAKE !! Sie haben so wenig Rückgrat und Zutrauen zu Ihren Kommentaren, dass Sie ständig unter einem anderen Namen posten müssen!!
+Mein Original-Kommentar, @Otto Weber 29. Oktober 2019 um 12:07,
+ist stark unvollständig veröffentlicht.
+Ich hoffe, dass nunmehr die Original-Fassung hiermit vollständig gesendet wird:
+@Werner Mueller 23. Oktober 2019 um 12:28
+>>Na Ja, manche schreiben bei EIKE sind eben immer noch der Meinung Solarstrom rechnet sich nicht<>Ich bin ja etwas Dumm und habe nichts passendes gefunden<>Als Gott die Intelligenz verteilt hat war ich grad auf’m Klo, deshalb bin ich auch etwas unkoordiniert<<
+Immer nur Fehlanzeige bei Ihnen da sind M… und S… wesentlich besser aufgestellt bei den Quellenangaben und Argumenten.
+Nur zu verbreiten „FAKE“ „etwas Dumm“ „auf’m Klo“ „Sendung mit der Maus“ „Nachhilfestunden in Elektrische Versorgungstechnik“ ist nichts.
+Sie bemängeln fehlende fachliche Argumente bei einer objektiven Gegenüberstellung der Leistungsbereitstellung in Form von elektrischer Energie aus EE-Wandlern und konventionellen Kraftwerken.
+Das hat einen einfachen Grund.Eine Gegenüberstellung widerspricht einer vernünftigen Schulausbildung.Es reicht aus,wenn man sich mit der frühen Geschichte den europäischen Verbundnetzes beschäftigt.Dann wird schnell klar,dass der Betrieb mit dezentralen Strukturen aus EE-Wandlern nicht alltagstauglich ist.https://tinyurl.com/yyyeyh4f
+Beispiel:Sie brauchen für einen vernetzten Betrieb eine für alle Wandler identische Netzfrequenz.Das nennt sich in Fachkreisen „Elektrische Welle“.Verständlicher gemeint ist damit eine Antriebswelle im übertragenen Sinn,z.B. die Verbindung zwischen Getriebe und Antriebsrad bei einem PKW.
+EE-Wandlern ist diese“ Elektrische Welle“ gar nicht eigen,wegen der Wandlung mit Gleichspannung.
+Das geht aus dem neuen Marktbericht „Renewables 2019“ hervor, den die IEA am Montag veröffentlichte.
+Demnach rechnet die Agentur damit, dass die gesamten erneuerbare Stromkapazitäten der Welt zwischen 2019 und 2024 um 50 Prozent wachsen werden.
+Rund 60 Prozent davon entfalle auf die Photovoltaik.
+Der Anteil der erneuerbaren Energien an der weltweiten Stromerzeugung soll von heute 26% auf 30% im Jahr 2024 steigen.
+Na Ja,
+manche schreiben bei EIKE sind eben immer noch der Meinung Solarstrom rechnet sich nicht.
+Die Kosten für die Stromerzeugung aus dezentralen Solar-PV-Systemen liegen in den meisten Ländern laut IEA bereits unter den Haushalts-Strompreisen.
+Die IEA prognostiziert, dass diese Kosten bis 2024 um weitere -15% bis -35% sinken werden.
+„Sie haben einfach keine Ahnung oder ignorieren penetrant ökonomische und technisch-physikalische Fakten.“
+??? ICH haben einfach keine Ahnung ???
+Das sind die Zahlen von der IEA.
+Sie Herr Tengler,
+ignorieren penetrant ökonomische und technisch-physikalische und Reale Fakten in der Welt.
+Oder haben Sie einen besseren Überblick als die Mitbarteiter der Internationale Energieagentur ?
+Das Sie „Beten Sie die IEA an und GLAUBEN?“ schreiben reicht nicht als Aurgument.
+Nun ist die IEA nicht die einzige die den langsamen umstieg auf teilweise Erneuerbare Energiequellen veröffentlicht.
+Der Word nuckear Bericht von September 2019 ist auch der Meinung das die Erneuerbaren in weiten Bereichen der Erde beim kWh Pries die Konventionelle und Atomare Stromerzeugung unterbietet.
+Selbst in Europa hat seit Jahren kein neues Kohlekraftwerk oder Kernkraftwerk die Fertigstellung geschafft.
+Nur das kleine Kohlekraftwerk mit 0,2GW in Polen ist dazugekommen.
+Die Erneuerbaren haben dagegen zugelegt, aber richtig.
+21. Oktober 2019 um 22:37
+Dieser Schrott stammt aus einer sehr frühen Pleite, als der PV-Hype in Arnstadt noch nicht so groß war, es war ein Investor aus dem arabischen Raum, den man hierher gelockt und mit Subventionen alimentiert hat, lange vor Bosch und dem Sonnenkönig. War in den 90ern oder so ungefähr, wo das anfing. Der „Nachfolger“ nach auch mind. zwei Pleiten müßte heute Antec solar sein. Die Links „zum Schrott“ gibt es leider nicht mehr. Die Zeitungsartikel waren bei der Frankfurter Rundschau und der TA, wurden wohl „pc“ entsorgt, denn im vorigen Jahr waren die noch zu finden.
+21. Oktober 2019 um 18:53
+„Hier in der Nachbarschaft in Arnstadt liegen immer noch 600 Tonnen PV-Sondermüll aus den ersten PV-Pleiten“
+Nun wenn „in der Nachbarschaft“ immer noch 600 Tonnen PV-Sondermüll liegen nennen Sie doch mal die Adresse in Arnstadt die müsste Ihnen ja bekannt sein wenn das „in der Nachbarschaft“ ist.
+Bei 600 Tonnen muss man das auf dem Luftbild endlich auch erkennen.
+Oder haben Sie bei „liegen immer noch 600 Tonnen PV-Sondermüll“ gelogen ?
+https://www.fr.de/wirtschaft/berg-sondermuell-11475849.html
+In einer Halle ist der Schrott von oben eben nicht zu sehen ;-).
+In der TA wurde damals von 600 Tonnen geschrieben, kann ich leider nicht mehr verlinken, ich hoffe, Sie können mir das nachsehen …., einen Menge Gift sind 450 Tonnen trotzdem, oder wollen Sie mir da auch widersprechen?
+„Das sind keine „Zwangsabschaltungen“ das ist so vertraglich mit den Großverbraucher vereinbart und das bekommen die auch bezahlt.“
+Jo, klaro, bezahlen WIR!
+***** SUPER-SUPER-SUPER *****
+Freude für die Firmen und Besitzer von Solaranlagen die brauchen weniger, wenig Strom aus dem Netz.
+die schlauen wissen wie man das Recht zum Geld drucken in Anspruch nimmt.
+Andere warten auf die Kernfission die nächsten auf den günstigen Kohlestrom und die Spezialisten hoffen das die 20 Jahre Einspeisezusage gekippt wird.
+Nur sieht des im realen Leben anders aus.
+https://www.zfk.de/politik/deutschland/artikel/rheinland-pfalz-begruesst-votum-gegen-solardeckel-im-bundesrat-2019-10-11/
+https://www.gelnhaeuser-tageblatt.de/solarspeicher-auf-dachern-mit-funf-millionen-euro-gefordert_20510079
+https://energyload.eu/solarfinanzierung/speicherfoerderung/speicherfoerderung-bayern/
+https://youtu.be/8pGBHZuq9FY
+Die Gesenkschmiede mit Wind- und Sonnenstrom!
+Die „Energiewende“, der Marsch der grünen Lemminge in den Abgrund! Wir schaffen das….
+Unter der Überschrift Herr A. Schmidt schreibt Unsinn, berichtet er aus Wikipedia( ausgerechnet!)
+je kWh Solarstrom…..
+je kWh Windstrom … etc.
+Hier vergleicht er Äpfel mit Birnen,sodass es dringend geboten scheint ,ihm eine Grundvorlesung im Fach Energieverfahrenstechnik zu spenden.
+Er lässt bei seinem durchaus vermeidbaren Kommentar die unterschiedlichen Leistungsdichten völlig unberücksichtigt,hier nocheinmal zur Erinnerung
+Einheit kW/m2
+Solar 1,37
+Wind 0,12
+Kohle 500
+Kernkraft(gem.am Brennelement)
+650
+Leistungsdichten ist den Leuten völlig egal.
+Die kWh kosten bei z.B. Solarstrom bei den Leuten zuhause von -3 bis 7 Cent/kWh von der eigen Solaranlage und bei Kohlestrom sind ca. 30 Cent/kWh fällig bis das kWh bei den Leuten ankommt.
+Solarstrom auf der Überholspur !
+https://www.faz.net/aktuell/wirtschaft/internationale-energieagentur-solarstrom-liegt-vorn-16443999.html
+Ich haben aus „Prepper“-Gründen eine kleine PV-Anlage mit 250 Wp, mit der ich „in Friedenszeiten“ über einen Mikroinverter einspeise und habe als alter Meßtechniker auch einige Meßtechnik mit installiert. In 10 Monaten habe ich bisher ca. 200 kWh „geerntet“, macht bei meinem Stromtarif 50 Euronen. Bei allein dem Materialwert (ohne Installationskosten) liegt also Break-Even bei mind. ca. 8 Jahren, und Sie faseln etwas von 3 – 7 ct/kWh. Bemühen Sie mal https://www.solarrechner-thueringen.de und spielen mal Varianten durch, Sie werden feststellen, dass Amortisation, egal welche Kombinationen, frühestens nach 17 Jahren eintritt, manchmal erst nach 20 Jahren. Voraussetzung: Es geht „unterwegs“ nix kaputt! Und das alles auch nur mit massiver Subventionierung! Lernen Sie also erst mal Rechnen und das Erkennen von Zusammenhängen.
+„Bei allein dem Materialwert (ohne Installationskosten) liegt also Break-Even bei mind. ca. 8 Jahren, und Sie faseln etwas von 3 – 7 ct/kWh.“
+Materialkosten mit Installationskosten ca. 1000€/kWp
+https://www.ebay.de/i/312449909272
+Strommenge je kWp um die 1000kWh/a * 20 Jahre = 20.000kWh
+1000€ / 20.000kWh = 5Cent/kWh
+Rechnen wir noch 2 Cent drauf für alles mögliche sind wir bei um die 7 Cent/kWh über die nächsten 20 Jahre.
+Nur nach 20 Jahren stellen die PV-Module ja nicht die Arbeit ein was kostet das kWh dann im Jahr 21 und im Jahr 22 und im Jahr 23 usw.
+Vermeidung von Netzstrom mit Solarstrom zum eigenverbrauch.
+Bei Eigenverbrauch verringert man den Netzbezug von Strom um 30Cent/kWh.
+1000€ / 30Cent/kWh = 3334kWh
+Werden 3500kWh Strom von der PV selber verbraucht ist das kWp Solaranlage bereits kostenneutral.
+Ab Mitte vom 4. Jahr fallen für das kWh nur noch 1 bis 2 Cent an.
+Macht man eine Sektorkopplung wie Herr Mueller es beschrieben hat kommt man auf -4 Cent/kWh an Kostenaufwand.
+Einspeisung nach EEG für 11Cent/kWh
+1000€ / 11Cent/kWh = 9090kWh
+Ab dem Jahr 10 werden mit der PV-Anlage Gewinne gemacht so um die 100€/kWp im Jahr.
+@Armin Schmidt alias @Werner Müller,
+…. und wie üblich wieder unkoordiniert.( Original-Zitat: @Werner Müller 22.04.2017 – 12:15 in Freiewelt.net)
+Begründende Zusammenhänge zwischen Ihren Behauptungen und dem aufgeführten Link… Fehlanzeige: Sind Leuten wie IHNEN auch völlig egal, verlangen sie selbst doch nur immer von anderen.
+Wo steht im faz.net-Artikel „Kosten z.B. Solarstrom bei den Leuten zuhause von -3 bis 7 Cent/kWh“, vor allen Dingen die vergleichbar mit den Gestehungskosten von Kohlestrom sind, also einschl. Akku-Pufferung für gleichwertiges Erzeugungsprofil.
+Wir warten auf Ihre detaillierten, allgemein zugänglichen, nachvollziehbaren Angaben!!
+„@Armin Schmidt“, es wird wieder Zeit, dass Sie Ihren Namen ändern.
+„vor allen Dingen die vergleichbar mit den Gestehungskosten von Kohlestrom sind, also einschl. Akku-Pufferung für gleichwertiges Erzeugungsprofil.“
+Interessiert die Solarstromnutzer ein gleichwertiges Erzeugungsprofil ?
+Interessiert die Netzstromnutzer ein gleichwertiges Erzeugungsprofil ?
+Die Solarstromnutzer und auch die Netzstromnutzer schauen auf den kWh Preis und bei Netzstrom sind es 30 Cent und bei Solarstrom -3 bis 7 Cent/kWh.
+Das gute an der elektrischen Energie ist doch das man das nicht in rissigen Mengen speichern kann. Somit ist genau der im Vorteil der zum Zeitpunkt wenn die elektrische Energie gebraucht wird den günstigsten Preis die geringsten Kosten verursacht.
+Da ist Solarstrom unschlagbar günstig im Vergleich zu Netzstrom.
+Es spricht ja nichts dagegen in der Nacht den teuren Netzstrom zu verwenden, Versorgungssicherheit kostet eben auch was.
+Die wo keine Solaranlage haben müssen eben an 8760 Stunden im Jahr die Versorgungssicherheit nutzen und auch bezahlen.
+>>Das gute an der elektrischen Energie ist doch das man das nicht in rissigen Mengen speichern kann<<
+Oh, ah, ……das tut schon weh!!
+@Armin Schmidt, alias @Werner Müller,
+was in „rissigen Mengen“ von Ihnen ankommt, ist doch nur Unsinn, wie an Ihrem v. g. Satz ersichtlich; das wirre Deutsch kommt noch hinzu.
+Ich empfehle Nachhilfestunden in Elektrische Versorgungstechnik und Deutsch.
+Sie kennen bestimmt den Begriff Quellenkritik.Dieser Bericht eines Kraftwerk-Insiders ist in schönes Beispiel,wenn in dieser Form eine Berichterstattung stattfindet.
+Zitat: „[…] Bei uns zumindest ist es so, dass die KW-Blöcke –über Tage und Wochen im Voraus –von uns mit ihrer minimal und maximal erreichbaren Wirkleistung, sowie maximal abrufbarer Primär- und Sekundärregelreserve, wie auch Minutenreserve angeboten werden. Dieses Angebot geht an unseren Stromhändler (Dispatcher), und zwar über ein Tool, welches auch direkt an die EEX meldet. Reale (technische oder durch andere Einflüsse bedingte) Abweichungen von unserem Angebot im Bereich >10 MW müssen umgehend gemeldet werden, sonst droht ein REMIT-Verstoß. […].“
+In dieser Beschreibung wird bewusst oder unbewusst suggeriert,dass ohne Kaufleute nichts mehr geht.
+Das Dispatcher-Tool hat aber eine ganz andere Aufgabe.Es meldet die aktuelle Einsatzfähigkeit eines Kraftwerkes täglich an die europäische Kraftwerkseinsatzplanung.Und hier wird täglich bis 18 Uhr am Vortag entschieden, wer für die Leistungsbereitstellung von Elektrischer Energie in seiner Region verantwortlich ist.Was die Kaufleute mit ihrem Handel an der Strombörse veranstalten,ist nachgeschaltet.
+Hier passt das Bild vom Kinderkarussell.Da streiten sich die Juristen mit den Kaufleuten, wer im Feuerwehrauto vorne sitzen darf.(am besten noch vor dem Lenkrad)
+eines ist doch klar: Natürliche, immer vorhandene Energiequellen sind volatil (0-100%, auch Wasserkraft, wenn es mal wieder zu geringe Pegel gibt, und die Sauerei mit den Biokraftwerken mal ausgenommen (Hier wird für 1 Liter Diesel 1 m3 Biogas erzeugt – Der Wahnsinn hat nix mit Bio zu tun)) und können damit alleine kein Stromnetz verorgen. Dafür wurde der Markt eingeführt. Anstatt zu maulen, dass ja nun die Einspeisung derartig schwankt, sind Unternehmer gefragt, die den „geschenkten“ Strom speichern und später zu Höchstpreisen vermarkten. Das wäre Marktwirtschaft. Offensichtlich noch nicht rentabel, ergo müssen die Spitzenstrompreise weiter steigen und das geht nur, wenn der industrielle Großverbraucher es „merkt“, indem er keinen Strom mehr hat. Wenn wir unseren Strom unabhängig von Terrorstaaten, die ihren Terrorisus nach Deutschland exportieren, beziehen wollen, müssen Speicher logischerweise verpflichtend für jede Solaranlage und jede Windkraftanlage sein! Wieso kommt niemand auf diese simple Idee??? Speicher gibt es. Ich bin ein bekennender CO2-Sektenrebell, weil die Fakten sagen, dass das menscheneingebrachte CO“ KEINERLEI MESSBARE KLIMAEFFEKTE HABEN KANN! Ich bin unbedingt für die schrittweise Umstellung auf natürliche Energieformen. Diese sollte allerdings planmäßig innerhalb von ca. 200 Jahren erfolgen. Und nur, um den Terrorstaaten (Muslim-Idelogie) die Basis zu entziehen. Ein hungernder Araber hat nicht die Kraft, um irgendwelche Anschläge zu planen, er ist dankbar für etwas Wasser und Brot. Aber wir laden die Herren Terroristen ein. Und behalten sie. Und wundern uns. Sind wir dumm? Übrigens alles Zitate von den sogenannten Flüchtlingen, die Gedanken sind nicht von mir.
+Noch einmal: Bitte nur unter Klarnamen posten!
+I. V. i. A. Admin
+eine Zukunft mit Wind- und Sonnenkraft ist keine Zukunft, für ein Industrieland.
+Wind und Sonnen laufen letztendlich nur mit Subventionen. Fallen die weg, ist es vorbei damit.
+Ihr Vorschlag: „…müssen Speicher logischerweise verpflichtend für jede Solaranlage und jede Windkraftanlage sein! Wieso kommt niemand auf diese simple Idee??? Speicher gibt es“ ist nicht ganz falsch. Allerdings, würde sich das lohnen, so hätte sich schon längst ein pfiffiger Mensch (-Unternehmer) gefunden, wenn es lohnend wäre. So sind das einfach nur Hirngespinste von fachlich unbelasteten ….
+Mein Name ist Andreas Oest.
+„Bei einem Gesamtenergiebedarf von 2.542 TERRAWATTSTUNDEN [sic] pro Jahr (laut Bundesumweltamt für 2016) reicht die Fläche von Deutschland wohl kaum aus, um diese Energiemenge aus Wind und Sonne zu gewinnen.“
+Das stimmt so nicht! Auf die Fläche der BRD strahlen pro Jahr ca. (bei 1000 kWh/m2*a) gut 350.000 Terawattstunden Solarenergie ein.
+Selbst bei einem Umwandlungsgrad von nur 10% (Fotovoltaik bringt inzwischen locker das Doppelte, Solarthermie Faktor 5 bis 6) also eine mehr als 10-fache Überdeckung.
+Man könnte also auf deutlich weniger als 10% der Landesfläche ebenso viel Sonnenenergie gewinnen, wie wir tatsächlich benötigen. Wenn man dann noch bedenkt, dass mindestens 7% der Landfläche bereits überbaut sind (Häuser, Plätze, Straßen), dann wird klar, dass wir uns rein rechnerisch problemlos selbst versorgen könnten.
+Also bitte, nicht einfach munter drauflosreden, sondern erst einmal sauber nachrechnen.
+1. Werden Sie keine Zeit mehr haben, Ihren Unsinn hier zu verbreiten
+2. Werden Sie kaum Energie haben, um hier Ihren Unsinn zu verbreiten
+3. Werden Sie sich ganz schnell von bisherigen Selbstverständlichkeiten dauerhaft verabschieden müssen
+4. Wird Ihre Lebenserwartung rapide sinken
+Diese Aufzählung läßt sich weiter fortsetzen ….
+Chapeau, da haben sie mich eiskalt erwischt. Da Ihre mathematischen Fähigkeiten den meinen wohl überlegen sind, setzen Sie Ihre Berechnungen doch bitte noch ein wenig fort. Wieviel Prozent der überbauten Fläche sind denn für die Installation von Solaranlagen geeignet? Die Verwendung von Straßen, Sportplätzen und Friedhöfen dürfte auf Widerstand stoßen und Dächer mit Nordausrichtung und Abschattung sollen ja suboptimal sein. Nach dieser Berechnung stünde dann fest, welche zusätzlichen Flächen benötigt würden. Sollen landwirtschaftliche Flächen verwendet oder Wälder abgeholzt werden? Wasserflächen erscheinen ja eher ungeeignet. Eine Berechnung, wie viel Fläche nötig ist, um 82 Mio. Menschen zu ernähren und mit Sauerstoff zu versorgen, wäre hier weiterführend. Dann bitte noch feststellen, wie viel zusätzliche Energie gewonnen werden muss, um Stoffe für Prozese herzustellen, welche nicht direkt elektrisch betrieben werden können. Da wären z.B. Eisengewinnung und Rohstoffe für die chemische Industrie. Auch soll das Verhältniss Nutzlast zu Gesamtgewicht bei Schiffen eher unterdurchschnittlich sein und die Serienreife für Elektroflugzeuge ist auch noch nicht erreicht. Nun bitte noch die zusätzliche Energiemenge (und benötigte Fläche) für die Herstellung neuer Solarmodule berechnen. Da diese eine begrenzte Lebensdauer aufweisen, müssen sie ja turnusmäßig getauscht und receycelt werden. Zum Schluss dann bitte noch einen gangbaren Weg zur Energiespeicherung inclusive Berechnung von Speicherverlusten aufzeigen. Ich bin mir nämlich ziemlich sicher, mindestens 97 % der Wissenschaftler teilen meine Meinung, dass nachts die Sonne nicht scheint. Für Ihre Bemühnungen schon einmal meinen herzlichen Dank.
+Sie machen diesen Terror schon seit 1600 Jahren, fing an mit Mohammed der Städte und Dörfer eroberte und die Menschen zum Islam zwang – bei der Drohung und durchführung von Massenköpfungen.
+Wussten Sie das nicht? Ist nicht sehr schwer dieses Thema zu vertiefen.. Ist ja nicht so als würden die Muslime es nicht selber online stellen.
+Jean D’Arc
+„Wenn wir unseren Strom unabhängig von Terrorstaaten, die ihren Terrorisus nach Deutschland exportieren, beziehen wollen, müssen Speicher logischerweise verpflichtend für jede Solaranlage und jede Windkraftanlage sein!“
+Natürlich auch für jedes Kohlekraftwerk und Kernkraftwerk.
+Wobei wenn der Terrorist ein AKW stilllegt sind mal eben 1GW vom Netz bei einer Solaranlage 0,00003GW und bei einer Windkraftanlage auch nur 0,003GW.
+Da ist der Brennstoff der Speicher. Schon vergessen.
+@Werner Müller ist unkoordiniert und bringt Regel-Betrieb und gestörten Betrieb durcheinander. Dass „der Terrorist ein AKW stilllegt“ kommt ja jeden Tag vor, wie die Nacht, wo PV regelmäßig stillgelegt wird.
+Ist doch logisch unkoordiniert!!
+Original-Zitat: @Werner Müller 22.04.2017 – 12:15 in Freiewelt.net: >>Als Gott die Intelligenz verteilt hat war ich grad auf’m Klo, deshalb bin ich auch etwas unkoordiniert<<
+Diese Beurteilung stammt nicht von mir, sondern wie ersichtlich, von ihm selbst.
+Admin,
+hier wird das Recht auf freie Meinungsäußerung missbraucht, dieser Mensch postet auch ständig unter verschiedenen Pseudonymen. Was soll das???
+Das sollte man abstellen!!!
+was nützt der Brennstoff wenn der „Terrorist“ ein Kraftwerk mit 1GW mit 1kg Sprengstoff außer Gefecht setzt.
+Herr Mueller hat doch klar gezeigt das eine dezentrale Ausrichtung bei der Stromversorgung für Terrorakte keine lohnenden Angriffsziele gibt.
+„sind Unternehmer gefragt, die den „geschenkten“ Strom speichern und später zu Höchstpreisen vermarkten. Das wäre Marktwirtschaft. Offensichtlich noch nicht rentabel, ergo müssen die Spitzenstrompreise weiter steigen und das geht nur, wenn der industrielle Großverbraucher es „merkt“, indem er keinen Strom mehr hat. “
+Rückfall ins Mittelalter, als die Wasserknechte den Weiher stauten, bis Mittag das Sägewerk lief, nach ausgiebiger Pause dann nochmals.
+Arbeitsteilung ist der Schlüssel für eine Industriegesellschaft. Und Marktwirtschaft ist es niemals, Produkte künstlich zu verteuern um damit ein Substitut *wettbewerbsfähig* zu machen.
+Es bleibt zu hoffen, daß ein Stromausfall in den Metropolen, wo die Grünlinge wohnen, geistig etwas bewirkt. Allerdings wird die Propaganda den Ausfall wohl der Kernkraft in die Schuhe schieben
+Nur nicht die irrsinnige Quantität. Der damalige Vorstandvorsitzende der PreussenElektra Dr. Krämer hatte auf die Problematik der Misshandlung des Blutes der Deutschen Volkswirtschaft hingewiesen. Nun warten wir auf die Anämieerscheinungen des verfügbaren Stromes. Meine beiden beruflichen Nachfolger, die inzwischen in einem Netzbetrieb arbeiten bestätigen im Wesentlichen die Aussagen des Kraftwerksmitarbeiters. Priorisierung des Wind- und Photostrom war der Anfang und die Abschaltung der Grundlastkraftwerke ohne vorhandene Alternative ist das Ende einer sicheren Stromversorgung. Peter Puschners Aussagen sind erst der Anfang.
+Eine Zwischenlösung wäre die Stromanschlüsse derjenigen, die die geistige Diarrhöe verursachen oder befürworten zuerst abzuschalten, wenn die technischen Vorrausetzungen umgesetzt werden könnten. Dann würde der Spuk schnell beendet sein oder sie würden ihre Machtmittel benutzen um die Abschaltungsmöglichkeiten zu verhindern. Dann trifft es uns!!
+Stromkunden, besonders die mittelständige Industrie in Deutschland, die ihr rund um die Uhr zu jeder Zeit versorgt werden wollt, vereinigt euch!
+Sind es nicht die Lobbyisten und Chefs von E.on RWE und Co der Konventionellen und Kernkraftbetreiber gewesen die 2008 / 2009 die Politik veranlasst haben das EEG System umzustellen ?
+So umzustellen das der gesamte EEG Strom zwangsweise ab 2009 / 2010 an der Strombörse verkauft werden muss.
+Man wollte abschaffen das der vorgelagerte Stromlieferant die EEG Kosten ausgleichen muss entweder zu positiven oder zum negativen.
+Man hat aber nicht bedacht das wenn die EEG Strommengen mit einer Festvergütung an der Börse im großen Umfang auftauchen bei allen anderen Stromherstellern die Preise nach unten ziehen.
+Die Endverbraucher haben zwischen 2011 und 2018 unter dem Strich insgesamt über 70 Milliarden Euro eingespart trotz der EEG-Umlage.
+Das wurde erst wieder kürzlich mal nachgerechnet.
+Energieexperten der Universität Erlangen-Nürnberg rekonstruierten für ihre Studie, wie sich die Preise an der Strombörse in den Jahren 2011 bis 2018 ohne Windkraft- und Photovoltaik-Einspeisung entwickelt hätten.
+Die Großhandelspreise des in diesem Fall noch fast komplett fossil-atomaren Systems hätten deutlich höher gelegen; und diese Zusatzkosten hätten die EEG-Umlage insgesamt sogar deutlich überschritten.
+Die 70 Milliarden zwischen 2011 und 2018 fehlen natürlich den fossil-atomaren System das ist klar.
+https://t1p.de/tqdu
+Allerdings profitierten davon vor allem Industriebetriebe, nicht die Haushaltskunden.
+Bei den Haushaltskunden ist das ein Nullsummenspiel da ist es egal ob die eine EEG-Umlage bezahlen und Windkraft- und Photovoltaikstrom teilweise geliefert bekommen oder nur Strom vom fossil-atomaren System bekommen ohne EEG-System.
+Die Trennung der verordneten physikalischen Notwendigkeiten der Stromerzeugung, Umwandlung, Verteilung von der ökonomischen Bewertung ist die Erscheinungsform, die sie beschreiben. Die sogenannte 4 er -Bande hat versucht den verordneten Schaden möglichst klein zu halten. Verursacht haben sie es nicht. Eine ungeheuere Kapitalvernichtung mussten sie verkraften. Die Börsendaten beweisen es im vollen Umfang. Es macht Sinn zu wissen wovon man redet!
+Wer die erforderliche Sachkenntnis besitzt steht auf dem Hauptgleis mit Schienen.
+Der Preis EINES Produktherstellers wird durch den Verbraucher massiv zwangsgefördert, ruft dadurch ein Preis-Dumping hervor, das den gesamten Marktpreis für dieses Produkt runter zieht. Die ANDEREN Produkthersteller werden gesetzlich gezwungen das mitzumachen und weiter zum Dumping-Preis zu liefern.
+DAS IST GENIAL…….. Führende Nobel-Preisträger für Wirtschaftswissenschaften schämen sich nicht darauf gekommen zu sein!!
+Dass mit steigendem EE-Anteil das preislich drückbare handelbare Volumen an der Börse auch abnimmt und zum Schluss (EE=100%) es quasi gar keinen Börsenpreis mehr gibt, sondern nur den garantierte EEG-Preis, wird man sicherlich durch eine passende Studie wieder „erläutern“ können.
+abgewandert und das Kraftwerk einfach unterm Arm mitgenommen.
+Eine „offensive“ politische Arbeit lässt jeden stillgesetzten Reaktor verschwinden.
+Joseph Hausmann for President !!
+abgewandert (Umgezogen) und das Kraftwerk einfach unterm Arm mitgenommen so manchen das die Leute mit einem „Balkonkraftwerk“.
+https://www.cleanthinking.de/wp-content/uploads/Balkonkraftwerk-Cleanthinking-Vorteile-Nachteile.jpg
+Da werden einfach die 1 bis 4 Solarmodule abgeschraubt und am Balkon der neuen Wohnung wieder eingesetzt.
+Es geht darum, dass Kraftwerksbetreiber (bei Kraftwerken, die diese Bezeichnung auch zu Recht führen), ihre Produktionsstätte nicht wie eine Knopffabrik verlegen können, und deshalb der Vorwurf des @ Joseph Hausmann recht dümmlich ist.
+Ihren Blödsinn mit dem „Balkonkraftwerk“ sollten Sie in der Sendung mit der Maus anbringen!!
+„78 Zwangsabschaltungen allein bei „Hydro Aluminium“ in Neuss und das ist erst der Anfang. Während die indoktrinierten Bürger noch glauben, die Energiewende gehe doch gut voran, gehen in der deutschen Industrie bereits die Lichter aus.“ (Siehe hierzu auch FAZ: https://edition.faz.net/faz-edition/wirtschaft/2019-01-12/0ef138ca4a91f74600c9c37e8a8d9a2d/)
+Die genannte Zahl für das Jahr 2018 mit enormen Folgeschäden für die Industrie kannte ich aus informierter und absolut zuverlässiger Quelle bereits zum Jahresende 2018. Es gibt zu denken, dass unsere Qualitätsmedien davon nicht berichten, sie sind doch angeblich die 4. Kraft in unserem Staat.
+Zwangsabschaltungen erfolgen nicht zum Spaß, sondern einzig, um das Auslösen eines Blackouts zu verhindern. Sie sind die mit der Energiewende erzeugte Energie-Cholera. Für die Schwerindustrie bedeutet das Schädigungen, die mit der Neueinrichtung von Schmelztiegeln bis zum Chargenverlust einhergehen. Wenn die Frequenz unterhalb 50 Hz kritisch wird, hilft nur noch der zwangsweise Lastabwurf. Durch das Verbundnetz sind die Folgen nicht auf einzelne Regionen beschränkt, sie ziehen sich mit Lichtgeschwin-digkeit durch das gesamte deutsche und auch das angekoppelte europäische Netz.
+Bei den Solar- und Windgläubigen wird erst fundiertes elektrotechnisches Verständnis (nicht Kenntnis) eintreten, wenn die Folgen bis hin zu Straßenkämpfen um die wichtigsten Mittel für das Überleben in einer stromlosen Zukunft bemerkbar werden. Ob dann vielleicht für gesicherte Energieversorgung gehüpft wird oder Herr Trittin mehr Eiskugeln verkauft, steht in den Sternen.
+Sie sollten bedenken, dass Hydro-Aluminium nicht die deutsche Schwerindustrie ist. Wenn diese Hütte plattgeht, macht das nichts. Nur wenige, gesundheitsgefährdende Arbeitsplätze hängen daran. Außerdem produziert das Werk Sondermüll, den wir dann in irgendwelchen Bergstollen „auf ewig“ lagern sollen. Sicher keine attraktive Industrie. Wenn Sie für Unabhängigkeit Deutschlands von ausländischen Rohstoffen plädieren (das bewirkt das Hydrowerk), dann setzen Sie sich bitte für ein strikteres Recycling und für die konsequente (nicht diese überstürtzte) Energiewende mit der Verpflichtung für jeden Einspeiser zur Energiespeicherung ein. Das malen von Schreckensszenarien wie „Deutschland wird reiner Agrarland“ machen schon die Klimagläubigen. Und die setzen offensichtlich mit großen finanziellen Mitteln die weltweite Öffentlichkeit gegen die Vernunft ein. Sie als Professor sollten doch vielmahr einen Weg aufzeigen, wie man mit der Energiewende ohne Katastrophenszenarium zu einem zukunftsfähigem Ergebnis kommt. Eine gesetzliche Möglichkeit habe ich oben angedeutet. Meckern kann jeder – konstruktiv sein offensichtlich nur wenige. Wollen Sie meckern oder an der Zukunft mitbauen?
+Bitte Klarnamen!! Ihre Kommentare sind zu wertvoll, um nur wegen Verletzung der Regel 1 gelöscht zu werden!
+I. V. i. A. Admin
+da haben Sie ja mächtig die Moralkeule geschwungen. Am besten zählen Sie mal alles auf, was nach Ihrer Auffassung „platt gehen“ kann. Vielleicht sind da ja auch die Solaranlagen und Windmühlen mit ihrem Sondermüll dabei, oder ist dieser Sondermüll ein besserer? Hydro ist ja nur als Beispiel gewählt, aber wenn die Träumerei der Bundeskanzlerin mit 2 Mio. E-Autos umgesetzt werden soll (warum eigentlich?) dann ist Aluminium ein wertvoller Stoff. Vielleicht haben Sie ja noch nicht realisiert, dass wegen des äußerst schweren Akkus (Sondermüll) alles daran gesetzt wird, das Restauto so leicht wie möglich zu bauen.
+Wenn ich einen sinnvollen Weg sehen würde, die sog. Energiewende über Solar und Wind ohne parallele ökologische Eingriffe zu gestalten, hätte ich schon längst mitgewirkt. 1000 TWh pro Jahr für Deutschland aus der Atmosphäre zu ziehen ist in meinen Augen dilettantischer Umweltfrevel. Man merkt das genau so wenig unmittelbar wie das angeblich schädliche CO2. Das ist nur bei den PIK-Modellen (sog. Projektionen mit willkürlichen Parametern) alarmistisch schädlich.
+Sollte es wirklich schädlich sein, sollten unmittelbar Modellrechnungen gemacht werden, wie viel CO2 denn bei der Herstellung der Solarzellen und Windräder freigesetzt wird.
+Für einen Elektrotechniker macht es absolut keinen Sinn, ein stabiles Netz mit Zufalls-Generatorläufen betreiben zu wollen. Auch für die nächsten 50 Jahre ist eine wirtschaftlich vertretbare Energiespeicherung nicht ins Sicht. Und von einer konstanten Sonneneinstrahlung auch bei Nacht und konstanter Windge-schwindigkeit werden Sie ja wohl für die Zukunft selbst nicht ausgehen. Alles was zur Zeit so als Lösung in die Welt posaunt wird, hält bestens der Prüfung von Soziologen stand, die ich hiermit aber nicht bezüglich ihres ursprünglichen Fachs diskriminieren will.
+Ansonsten ist mein Leben dadurch gekennzeichnet, dass ich wesentlich die Zukunft, die inzwischen Gegenwart geworden ist, mit aufgebaut und gestaltet habe. Realitäten aufzeigen hat allerdings mit Meckern rein gar nichts zu tun. Im Übrigen scheinen Sie Ihren Beitrag selbst nicht ernst zu nehmen, sonst bräuchten Sie sich nicht hinter Phantasienamen zu verstecken!
+ich bin vollkommen bei Ihnen, dass das sehr wichtige Klimagas CO2 eher nützlich als schädlich ist. Als Klimagas hat es unsere Atmosphäre vor Milliarden Jahren zu einer höheren Temperatur verholfen, die die Erde dem Schicksal eines Eisplaneten ersparte und damit das Leben ermöglichte. Die Absorption (Messung) der Rückstrahlung vom Erdboden durch CO2 liegt heute bei 100% und kann daher nicht gesteigert werden. Ergo kann keine weitere Erwärmung durch gesteigerten CO2 Gehalt erfolgen.
+Natürlich gehen und gingen schon heute viele Industriebetriebe „platt“, weil die Produkte billiger aus dem Ausland importiert werden konnten und können. Das ist Marktwirtschaft. Das gilt auch für Aluminium.
+Natürlich gibt es sinnvolle Wege, Sonne und Wind einzusetzen. Mit dem Sondermüll, insbesondere die Fiberglas-Flügel, haben Sie recht, hier sind neue Techniken zu entwickeln. Bei dieser Entwicklung von Recycling Techniken könnten Sie mit Ihren guten Ideen mitwirken.
+Selbstverständlich ist es wesentlich für ein Industrieland, ein verlässliches Netz zu haben. Daher ist eine Speicherung notwendig, auch wenn dadurch der Wirkungsgrad sinkt. Z.B. haben amerikanische Forscher herausgefunden, dass eine LiIon-Zelle mit Gold-Nanodrähten in Silikagel mindestens 5000 Ladezyklen in Schnellladung überstehen. Sie sind auf der Suche nach einem Ersatz für Gold. Ich befürchte, dass dieser Akku erstmal untergeht – Schade. Ich meine auch, dass der weitere Ausbau der natürlichen Energiequellen heute nicht überstürzt werden sollte, weil das das Netz destabilisiert. Diese Quellen haben aber gezeigt, dass sie prinzipiell die fossilen ersetzen können, wenn Speicher verfügbar sind. Und für diese Entwicklung haben wir sicher noch 100 Jahre Zeit. In diesem Zeitraum sollte doch eine Umstellung möglich sein und wird auch geschehen, weil die fossilen so teuer werden, dass die natürlichen Energiequellen die einzige Alternative sein werden. Vielleicht klappt es ja auch bis dahin mit der Kernfusion, die miot ITR ja jetzt endlich in größerem Maßstab aufgebaut wird. Zu befürchten steht allerdings, dass das auch länger als 100 Jahre auf sich warten läßt. Heute sollten erfolgreiche Entwicklungen in der Nutzung natürlicher Energien gefördert werden, aber der unbedingte Ausbau sofort gestoppt werden. Am Ende haben wir eine veraltete Technik, die den Strombedarf nicht decken kann. Das kann’s ja nicht sein.
+Momentan sehe ich die Stärke der Grünen auch als extrem kritisch an, da diese die Netze stundenweise abschalten werden und eine Deindustrialisierung anstreben. Da sehe ich Probleme, die vielen eingeladenen Ausländer zu finanzieren. Die Linekn und Grünen stehen hier für immer mehr Abgaben und Verbote, die arme Menschen ärmer machen und Reiche reicher.
+Für den Fantasienamen entschuldige ich mich, ich dachte, das wäre üblich. Ich bin Dipl.-Ing. Andreas Oest und kenne mich durchaus mit der aktuellen Netztechnik aus.
+„Vielleicht sind da ja auch die Solaranlagen und Windmühlen mit ihrem Sondermüll dabei, oder ist dieser Sondermüll ein besserer?“
+Vielleicht können Sie Herr Peter Puschner, Prof. Dr.-Ing.
+mal sagen was bei den Windmühlen Sondermüll sein soll?
+Sie sind zumindest in einem andern EIKE Kommentar der Meinung das
+„Windindustrieanlagen, die zum großen Teil aus Sondermüll bestehen“
+haben da aber auch noch nicht verraten was da „zum großen Teil aus Sondermüll“ sein soll.
+Sie sind Prof. Dr.-Ing. so sollte es ein leichte für Sie sein das zu beantworten.
+Vielleicht können Sie Herr Peter Puschner, Prof. Dr.-Ing.
+mal sagen was den bei den Monokristallinen und Polykristallinen Solarmodulen Sondermüll sein soll?
+Nach meine Kenntnisstand können Solarmodul kostenlos bei den Wertstoffhöfen als Elektroschrott kostenlos abgegeben werden.
+„in Arnstadt liegen immer noch 600 Tonnen PV-Sondermüll“
+Wenn man Google fragt findet man erst mal nicht, bringen Sie doch mal eine Quellenangabe.
+Wo liegen immer noch 600 Tonnen PV-Sondermüll ?
+Quellenangabe ?
+„Sollte es wirklich schädlich sein, sollten unmittelbar Modellrechnungen gemacht werden, wie viel CO2 denn bei der Herstellung der Solarzellen und Windräder freigesetzt wird.“
+Je kWh Solarstrom sind das um die 40g/kWh
+Je kWh Windstrom sind das um die 15g/kWh
+Je kWh Braunkohlestrom sind das um die 1000g/kWh
+Je kWh Steinkohlestrom sind das um die 900g/kWh
+Je kWh Atomstrom sind das um die 60g/kWh
+https://de.wikipedia.org/wiki/Stromerzeugung
+und andere …………..
+„78 Zwangsabschaltungen allein bei „Hydro Aluminium“
+Das sind keine „Zwangsabschaltungen“ das ist so vertraglich mit den Großverbraucher vereinbart und das bekommen die auch bezahlt.
+Das kann man sich auch bei Kleinverbrauchen vorstellen das die Netztrennung also das nicht verbrauchen von Netzstrom bezahlt wird.
+Das ist eine Option für Leute mit einer Solaranlage und deinem Stromspeicher da noch was an Geld abzugreifen.
+Geld verdienen mit der Nicht-Produktion.
+Ein Industrieland wird zum Dritte-Welt-Land.
+Irrsinn wird zur alltäglichen Lebensform,
+und @Werner Müller wird zu @ Armin Schmidt!!
+Wann erfolgt bei Ihnen die Netztrennung, damit wir von Ihren „Weisheiten“ verschont bleiben?
+>Geld verdienen mit der Nicht-Produktion.<
+Eines der besten Geschäftsmodelle für schlaue.
+Also, Sie glauben als Solar-Modul-Freund wirklich, Hydro macht ein Geschäft mit der Zwangsabschaltung? Sie können sicher sein, dass Hydro wie alle anderen Industrieunternehmen, an einer ungestörten Energieversorgung interessiert ist. Dass Zwangsabschaltungen vertraglich vorgesehen sind, ist allein dem „genialen“ EEG geschuldet. Aber, was hat denn eine vertragliche Vereinbarung mit der Vermeidung eines Blackouts zu tun?
+Die ÜNB zahlten den abschaltbaren Lasten einen festen Leistungspreis für die Bereithaltung in Höhe von 2.500 €/MW und einen Arbeitspreis, wenn die Lasten tatsächlich abgeschaltet wurden.
+Der Arbeitspreis wurde durch Ausschreibungen ermittelt und konnte zwischen 100 und 400 €/MWh liegen.

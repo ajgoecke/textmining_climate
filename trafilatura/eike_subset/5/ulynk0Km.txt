@@ -1,0 +1,425 @@
+Je nach Umgebungstemperatur T0 ergibt eine spezifische Strahlung von (Delta S = 235 W/m²) also einen Temperaturanstieg von 255K oder von 46K oder von 32K oder…
+Wenn wir uns jetzt einmal in der nachfolgenden Graphik genauer ansehen, welchen Temperaturanstieg eine zusätzliche Leistung von 1 [W/m²] nach dem Stefan-Boltzmann-Gesetz bewirken kann, dann reicht die Spanne von 64,8K bei 0 [W/m²] (entsprechend einer Umgebungstemperatur von 0K) bis zu 0,18K bei 399 [W/m²] (entsprechend einer Umgebungstemperatur von 289K):
+Das große Diagramm ist für eine verbesserte Auflösung auf 3 Kelvin reduziert, die 64,8K bei 0 W/m² bestimmen den Maßstab der kleinen Graphik. Hier ist aufgetragen, um wieviel Kelvin sich die Temperatur erhöht, wenn die spezifische Strahlungsleistung um (Delta S = 1 W/m²) ansteigt, beispielsweise ergibt sich bei dem Schritt von 40 auf 41 W/m² ein Anstieg von 1 Kelvin. Das T4-Gesetz von Stefan und Boltzmann weist also jedem Delta S [W/m²] ein ganz konkretes Delta T [K] zu, je nachdem, wie groß die jeweilige spezifische Strahlungsleistung der Umgebung in [W/m²] respektive deren Temperaturäquivalent T0 [K] ist.
+Umgekehrt erhöht sich nach dem Stefan-Boltzmann-Gesetz mit steigender Umgebungstemperatur T0 die erforderliche Strahlungsleistung Delta S [W/m²], um einen weiteren Temperaturanstieg von 1 Kelvin auf T1 zu bewirken:
+Der lernhelfer.de erklärt die S-B-Umgebungsgleichung folgendermaßen (mit kleinen Anpassungen durch den Autor): Je nach dem Verhältnis der beiden Temperaturen T1 (Körper) und T0 (Umgebung >>Körper) sind drei Fälle zu unterscheiden:
+Wenn T 1 > T 0 dann gibt der Körper mehr Strahlung an die Umgebung ab als er aufnimmt.
+Er kühlt sich dabei ab.
+Wenn T 1 = T 0 dann befindet sich der Körper mit seiner Umgebung im Strahlungsgleichgewicht. Die Temperatur des betreffenden Körpers bleibt gleich.
+Wenn T 1 < T 0 dann nimmt der Körper mehr Strahlung aus der Umgebung auf als er an diese abgibt.
+Er erwärmt sich dabei.
+Versuchen wir einmal, diese Gesetzmäßigkeit analog zur Abbildung (Delta Strahlungsleistung pro 1 Kelvin) graphisch vereinfacht mit Dreiecken abzubilden:
+In allen 3 Fällen hat der Körper am Ende also die gleiche Temperatur wie seine Umgebung. Die nachfolgende Abbildung mag diesen Vorgang auf Grundlage der vorherigen „Dreieckssymbolik“ verdeutlichen:
+Vielleicht wird jetzt auch deutlich, warum man die hemisphärische solare Einstrahlung auf der Tagseite nicht über die gesamte Erdoberfläche mitteln darf. Die nachfolgende Mittelung von (S0*(1-ALPHA)=Seff=940 W/m²) auf die Hemisphäre der Tagseite mit (Smean = 470 W/m²) ist eigentlich falsch, denn korrekt folgt die örtliche Einstrahlung der Formel (Si = Seff * cos PHIi). Aber dann lässt sich die Situation wiederum graphisch nicht mehr so einfach darstellen. Die nachfolgende vereinfachte Graphik möge also lediglich den Fehler einer globalen Mittelung verdeutlichen:
+Der Strahlungsdurchschnitt von 470 W/m² (korrekt: 940W/m²*cosPHIi) umfass einen Strahlungsbereich von 0-940W/m² für die tagseitige Hemisphäre mit einem maximalen S-B-Temperaturäquivalent von 85,7°C @ 940W/m². Bei der globalen Mittelung der tagseitigen solaren Einstrahlung fällt also genau derjenige Teil der spezifischen solaren Strahlungsleistung weg, der Temperaturen oberhalb von (-18°C) erzeugen kann. Mit dem sogenannten „natürlichen atmosphärischen Treibhauseffekt“ soll dann in einem thermodynamisch widersinnigen Prozess ein kälterer Körper einen wärmeren Körper um angeblich 33°C erwärmen, um schließlich wieder der „gemessenen“ Realität zu entsprechen. Aber dazu fehlt diesem kälteren Körper ganz offensichtlich die erforderliche spezifische Strahlungsleistung, denn die Leistungsdifferenz von [Delta S = 155 W/m²] liegt eindeutig „außerhalb“ der spezifischen Strahlungsleistung dieses kälteren Körpers.
+Mit der globalen Mittelung der hemisphärischen Sonneneinstrahlung hatte man also deren S-B-Temperaturäquivalent soweit reduziert, dass zwischen dieser fehlerhaften theoretischen Ableitung und der „gemessenen“ Realität eine Lücke von 33 Grad klafft. Diese Lücke hatte man dann mit einem frei erfundenen Perpetuum-mobile-Prozess namens THE wieder zu schließen versucht. Aber „2x falsch“ ergibt nun mal nicht „richtig“, auch wenn das Ergebnis nun scheinbar wieder stimmt. Es ist vielmehr eine böse Ironie des Schicksals, das dieses antiphysikalische „Trojanische Pferd“ jetzt einer politisch gewollten Großen Transformation dazu dient, die Zerstörung des kohlenstoff-basierten Lebensstandards in den westlichen Industrienationen zu begründen, was unsere Kinder und Enkel schließlich in ein ökologisches und ökonomisches Mittelalter zurückwerfen wird. In das intellektuelle Mittelalter eines klimareligiösen Angstglaubens hatte uns ja bereits die politische Klimawissenschaft mit ihrem jahrzehntelangen medialen Trommelfeuer aus Schreckensmeldungen geführt…
+Ich habe über die Jahre mitverfolgen dürfen, wie sehr Sie sich ins Zeug gelegt haben physikalisches Denken unter die Leute zu bringen. Es hat sich herausgestellt, dass die in ihrer Einfachheit bestechende und damit geniale Entdeckung der Herrn Stephan und Boltzmann nicht so leicht unters Volk zu bringen ist. Mit Ihrer Erklärung durch die Umgebungsgleichung (auch ein Naturgesetz), deren Nachweis die beiden genannten Herrn damals für zwingend notwendig erachtet hatten, deren Auswirkung jeder für sich erfahren kann, also unmittelbar einsichtig ist, haben Sie dazu beigetragen, dass die Zahl derjenigen, die diese Hintergründe nunmehr besser verstehen können, gewachsen ist. Ich wünsche mir, dass diese wiederum dabei mitmachen dieses Wissen zu verbreiten. Es könnte der Schlüssel zurück zur gesellschaftlichen Vernunft werden, denn der „Gottesbeweis“ für das CO2 hat nachweislich versagt.
+Hier übrigens die CERES-Messungen der NASA vom Satelliten. Strahlungsflüsse, etc..
+https://svs.gsfc.nasa.gov/30604
+erklaeren sie bitte wie sie durch geringere Abkuehlung oder weniger Energieverlust von -18 Grad C auf 15 Grad Celsius kommen.
+Danke!
+Die globale, mittlere, effektive Abstrahlungshöhe ins All liegt bei 5 km Höhe und -18°C.
+Nehmen Sie einfach einen feuchtadiabatischen Temperaturgradienten, wie er in unserer Atmosphäre vorherrscht von 6,5°C/ km Temperaturerhöhung Richtung Erdboden.
+Bei 5 km haben Sie dann 5 km x 6,5°C/km = 32,5°C.
+In 5 km Höhe also -18°C und am Erdboden 14,5°C.
+jetzt erzaehlen sie uns noch warum sie auf der einen Seite sagen das die Abstrahlhoehe gemittelt ist, aber auf der anderen Seite koennen sie diese genau festlegen indem sie die Lapserate der Atmosphare nehmen. Damit tun sie so als ob doch die gesamte Waermeabstrahlung aus der Atmosphaere kommt. Das tut sie aber nicht.
+Woher kommt die Lapserate? Das ist keine Funktion vom CO2 also ist CO2 auch nicht die Ursache.
+Wo waere die Abstrahlhoehe wenn kein Stickstoff da waere? Fragen sie sich mal welche Rolle Stickstoff spielt in Ihrem Konzept „Abstrahlhoehe“.
+Ohne Stickstoff waere die JWU (Jaanz Weit Unten) Und was sie nun haben, ist ein Atmosphaereneffekt wo CO2 eine Rolle als Atmospharisches Kuehlmittel bekommt.
+Aber wie man aus -18 Grad C 15 Grad machen kann haben sie immer noch nicht erklaert, und das durch einen geringeren Energieverlust.
+Das ist nicht mal ein Perpetuum Mobile sondern unmoeglich!
+Ich hatte doch lokale Werte der Abstrahlungstemperatur und Abstrahlungshöhe der CERES-Messungen gezeigt? Nicht gesehen?
+Die Abstrahlungshöhe steigt mit mehr THG in kältere Höhen an, daher wird dann noch weniger Wärme ins All abgestrahlt. Folglich muss es unten dann wärmer werden, bis oben wieder genauso viel abgestrahlt wird wie zuvor und wieder das Strahlungsgleichgewicht erreicht ist!
+Was ist daran jetzt nicht zu verstehen?
+Wenn Sie eine Decke nehmen und eine zweite Decke darüber legen, dann wird Ihnen auch darunter wärmer. Nur um es anschaulich zu machen.
+sie vergleichen also die Atmosphaere mit einer Bettdecke?
+Gut. Bettdecken isolieren durch geringe Waermeleitung. Federbetten islolieren besonders gut weil zwischen den Federn so viel Luft ist.
+Sie geben also an, das die Atmosphaerische Isolation durch veringerte Waermeleitung funktioniert. Durch Zugabe von mehr Stickstoff, wird diese dicker und isoliert mehr.
+Auf der anderen Seite nimmt man Stickstoff weg, und die Konzentration von CO2 nimmt zu, was ist dann Ihrer Meinung nach zu erwarten?
+Auf der anderen Seite ist die Abstrahlhoehe vom Luftdruck abhaengig. Nicht von der Konzentration. Da sich das Verhaeltnis von strahlenden zu absorbierenden CO2 Molekuelen bei Anstieg der Konzentration nicht aendert, ist die Abstrahlhoehe dadurch bestimmt ob die emittierten Photonen noch mal auf ein CO2 Molekuel treffen. Das wird durch die Dichte bestimmt.
+Das heisst, wenn die Oberflaechentemperatur steigt und die atmosphaerischen Schichten darueber erwaermen, sinkt a) die Dichte und b) mehr CO2 kann von der gleichen Hoehe mehr Energie abgeben bis sich das gleichgewicht wieder einstellt.
+Sie wissen ja, CO2 ist eines der wichtigsten Gas die die Atmosphaere kuhlen.
+Ihre Version der Erwaermung funktioniert nur, wenn mehr CO2 die Lapserate beeinflusst. Da CO2 das nicht macht, ist Ihre Version immer noch falsch.
+Sie haben aber meine Volle Zustimmung das eine dickere Atmosphaere einen isolierenden Effekt hat. Sieht man ja auch bei der Venus und sieht man sogar beim Mars.
+Und ohne radiative Eigenschaften der Gas muss die Atmosphaere waermer sein, wie sie selber wissen.
+Das ist falsch.
+Das hat nichts mit Isolation, sondern mit Isentropie und Energieerhaltung zu tun.
+Es war ein sehr beschwerlicher Weg bis hierher, aber jetzt stehen Sie kurz vor der Erkenntnis. Schaun Sie sich einfach mal den Poynting-Vektor an, fällt Ihnen da vielleicht irgendwas auf:
+O Der Geschmack?
+O Der Geruch?
+O DIE RICHTUNG???
+Sie haben nur 3 Versuche, also nicht 2x das Gleiche tippen!
+Zunächst bedanke ich mich für die „spontane Absolution“ durch die „üblichen Verdächtigen“.
+UND ZUR INFORMATION FÜR ALLE ANHÄNGER DER ZWEIDIMENSIONALEN TAG&NACHT-GLEICHHEIT:
+Auch wenn einem Herrn Kegelmann unsagbares aufgefallen sein mag, geht es hier ganz offensichtlich um eine voraufklärerische Conquista der globalisierenden Klimareligion. Insofern manifestiert sich die unerschütterliche klimareligiöse Glaubensstärke eines Herrn von in dem Ausdruck „Scharlatan“; und davon mögen auch die Herren Krüger und Dietze fortlaufend profitieren. Die zweidimensionale IPCC-Basisstudie KT97 mit Tag-und-Nacht-Durchschnitt, basierend auf Kiehl und Trenberth (1997), hatte zwischenzeitlich ein Aulus Agerius mit seinem „Modell 5“ widerlegt, das wiederum auf meinem hemisphärischen Strahlungsmodell aufbaut und ohne einen atmosphärischen Treibhauseffekt auskommt: „Widerlegung der Basisstudie KT97 des IPCC mit den Messwerten des ERBS Satelliten an einem neuen Modell“ (ISBN: 978-3-7497-1977-8).
+ERGO: Auch 4x falsch (=KT97 des IPCC) ergibt nicht richtig (=hemisphärisches „AW19“-Modell 5).
+Dieser Kommentar könnte von einem U-Boot der Klimakirche stammen, passt aber auch als frommer Wunsch in die Weihnachtszeit.
+Die Adresse vom Christkind lautet: An das Christkind, 51777 Engelskirchen
+da Sie mich nun direkt ansprechen, wird es mir hoffentlich gestatten sein darauf zu antworten.
+Pierer’s Universal-Lexikon definierte 1857 Charlatan als jemanden, der
+„es versteht, sich den Schein von Gelehrsamkeit u. Weisheit zu geben u. durch niedere Mittel die öffentliche Aufmerksamkeit auf sich zu ziehen sucht, besonders wird darunter ein Quacksalber verstanden, welcher sich durch Marktschreierei ankündigt. Ein literarischer Ch. ist ein Schriftsteller, der ohne gründliche Studien, die Arbeiten Anderer zu Plagiaten benutzt u. die Meinung des Publikums über seine Fähigkeiten u. Leistungen zu täuschen weiß. Daher Charlantanerie, Charlatanismus…“
+– Pierer’s Universal-Lexikon
+Nun ich muss die Möglichkeit einräumen, dass Sie hinsichtlich Ihrer Fähigkeiten und Leistungen einer Selbsttäuschung unterliegen und niemanden bewusst täuschen wollen
+Aber vorausgesetzt sie haben wirklich den Willen, etwas zu lernen, will ich versuchen Ihnen Ihre Missverständnisse aufzuzeigen.
+Kiehl und Trenberth veröffentlichten 1997 einen Aufsatz mit dem Titel „Earth’s Annual Global Mean Energy Budget“. (http://climateknowledge.org/figures/Rood_Climate_Change_AOSS480_Documents/Kiehl_Trenberth_Radiative_Balance_BAMS_1997.pdf)
+Diesem haben Sie offenbar die 235 W/m² entnommen über die sie hier schwadronieren.
+Vielleicht sollte man den Titel des Aufsatzes einmal übersetzen, er lautet auf Deutsch soviel wie: “Energiebilanz der Erde im globalen Jahresdurschnitt“
+Moment einmal, eine Energiebilanz, warum sind denn dann die werte in W/m² angegeben und nicht in Joule?
+Nun darauf gibt es eine recht einfache Antwort:
+Für die von der Sonne auf der Erde auftreffende Energie komme ich pro Jahr auf 5,5 YJ. Wer hat schon jemals das SI-Präfix Yotta benutzt? Diese Zahlen wären einfach ein bisschen unhandlich. Wenn ich hingegen die Energie pro Sekunde und Quadratmeter Erdoberfläche angebe, habe ich auch gleichzeitig den Vorteil, dass ich die Werte mit bekannten oder gemessenen Werten vergleichen kann.
+Die Strahlungsintensität der von der Sonne ankommenden Strahlung beträgt im Mittel 1367 W/m². Das ist genau das 4-fache von 342 W/m², die in dem besagten Aufsatz für die „Incoming Solar Radiation“ angegeben ist. Das macht Sinn, denn die Oberfläche einer Kugel ist ja genau das 4-fache ihres Querschnitts.
+Sie sehen also, es geht hier nicht um irgendein „2-dimensionales Modell mit Tag-Nacht-Durchschnitt“ sondern schlicht um eine Bilanz der Energieflüsse im System Erde.
+Und was sagt uns diese Bilanz?
+342 W/m² kommen an 77 W/m² werden bereits in der Atmosphäre reflektiert weitere 30 W/m² an der Erdoberfläche. 235 W/m² werden von der Erde ins All abgestrahlt.
+342 – 77 – 30 – 235 = 0
+Juhu, es entsteht keine Energie aus dem Nichts und es wird auch keine Energie „vernichtet“. Alles in Ordnung. Es wird kein Physikalisches Gesetz gebrochen oder gegen den Ersten Hauptsatz der Thermodynamik verstoßen.
+Der eigentlich interessante Punkt sind aber nicht die 235 W/m² ausgehende langwellige Strahlung, sondern die Gegenstrahlung. Von Trenberth und Kiehl 1997 auf 324 W/m² geschätzt und 2011 von Trenberth, Fasullo und Kiehl 2011 mit 333 W/m² angegeben. (http://www.cgd.ucar.edu/staff/trenbert/trenberth.papers/BAMSmarTrenberth.pdf)
+Herr Weber, diese Gegenstrahlung lässt sich messen, auch bei Nacht. (Natürlich ist sie nachts geringer als tagsüber und sie dürfte am Äquator größer sein als an den Polen, aber sie ist da.)
+Woher kommt sie?
+Sie kommt aus der Atmosphäre.
+Die Atmosphäre wird über Leitung, Evapotranspiration und Strahlung erwärmt. Strahlung hat dabei den größten Anteil. Strahlung können aber nur die Gase absorbieren, die aus Molekülen mit mehr als zwei Atomen bestehen. Man nennt diese Gase Treibhausgase.
+Ich würde vorschlagen, dass wir uns alle auf die eigentlich interessanten Fragen innerhalb der „Klimakontroverse“ konzentrieren. Zum Beispiel: „Welchen Effekt können zusätzliche Treibhausgase in der Atmosphäre haben?“
+William Happer hat dazu einen Beitrag geleistet. (https://sciencefiles.org/2019/12/05/verdopplung-von-co2-hat-kaum-effekt-auf-erdtemperatur-eine-harte-nuss-fur-klimaalarmisten/?highlight=happer)
+Sie Herr Weber xxxxxxx
+da die Erde eine Kugel ist, erhaelt diese die Sonnenenergie nur auf einer Hemisphaere. In jeder Sekunde, so wie sie es angeben. Der Faktor 4 ist demnach falsch, weil die Einstrahlung auf der HALBkugel erfolg.
+Das zweidimensionale flache Erde Bild mit mitterlung ueber Tag und Nacht ergibt sich nunmal aus der Kiehl und Trenberth Arbeit. Man fragt sich allerdings wirklich wie es sein kann das Energie als Strahlstaerke in W/m2 ausgedrueckt wird.
+Es hindert die Klimaunwissenschaft keiner daran mit Joule/m2 zu rechenen, wenn sie mit Yotas nicht klar kommen. Hat dann allerdings den „Nachteil“ das man keine Temperaturen daraus zaubern kann.
+Sie Herr von Berkholz!
+Das Zitat aus Pierer’s Universal-Lexikon von 1857 trifft Ihre hoch emotionale Repetition des widerlegten Faktor4-THE-Paradigmas schon ganz gut, aber ScienceFiles kann das noch besser, Zitat: „Deshalb kann man ein KO-Kriterium formulieren und feststellen, dass Personen, die Aussagen dennoch treffen, obwohl sie sie nicht begründen können, Personen, die Aussagen treffen, um Dritte zu diffamieren, herabzuwürdigen oder in sonst einer Weise negativ zu diskriminieren, also Personen, mit denen ihren Emotionen durchgehen und entsprechend der Verstand auf der Strecke bleibt, dass diese Personen keine Wissenschaftler sind.“
+ERGO, Vexator fororum utgardensis est: https://de.m.wikipedia.org/wiki/Troll_(Netzkultur)
+Es ist schwer, hier gegen die Ansichten von Herrn Weber zu diskutieren. Da ist einfach eine zu große Tendenz des Ignorierens aller Gegenargumente vorhadnen. Mit dieser Art der Argumentation gegen die Person liefern Sie Ihm (und anderen) nur eine einfach Möglichkeit, die Sachargumente zu ignorieren. Ich würde das an Ihrer Stelle weglassen. Sie sehen das am Beispiel von anderen, z.B.
+* …
+* werde ich ignoriert, weil ich einmal provokant einen Fehler eingebaut habe, um überhaupt mal eine Reaktion von Herrn Weber zu bekommen
+* Nimbus-Spektren, die Herr Krüger zitiert, werden weggewischt, weil Herr Krüger die Quelle für ein anderes Spektrum nicht angeben kann/will
+Alles was unbequem für die Weberschen Ansätze ist, wird weggewischt. Dabei hat er ja eine richtige Erkenntnis gewonnen nach n Iterationen über seine Theorie: Mit seinem Stefan-Boltzmann-Umgebungsgesetz (sp?) räumt er ein, dass die Atmosphäre in Richtung Boden Strahlt und damit die Energie reduziert, die der Boden verliert. Er will das nur nicht Treibhauseffekt nennen, da es den ja nicht geben kann …
+Nehmen sie doch mal Kruegers Aussage:
+Das es sich weniger stark Abkuhelt und dann erklaren sie wie sie von -18 Grad C durch weniger stark abkuehlen auf einmal 15 Grad Celsius bekommen.
+Das ist die physikalische Unmoeglichkeit etwas durch „weniger starkes Abkuehlen“ zu erwaermen.
+Lesen sie doch einfach noch mal Aufmerksam was Herr Weber wirklich sagt:
+„Bei der globalen Mittelung der tagseitigen solaren Einstrahlung fällt also genau derjenige Teil der spezifischen solaren Strahlungsleistung weg, der Temperaturen oberhalb von (-18°C) erzeugen kann. Mit dem sogenannten „natürlichen atmosphärischen Treibhauseffekt“ soll dann in einem thermodynamisch widersinnigen Prozess ein kälterer Körper einen wärmeren Körper um angeblich 33°C erwärmen, um schließlich wieder der „gemessenen“ Realität zu entsprechen. “
+Guten Tag Herr Mueller, Gruessen sie Herrn Krueger, wenn sie ihn zu seiner Aussage befragen.
+Wir hatten das auf science-skeptical endlos diskutiert und Sie haben anscheinend wieder alles vergessen/verdrängt. Ersetzen Sie „weniger stark abkühlen“ durch „weniger Energie verlieren“. Und dann erklären Sie Herrn Weber, dass sein Stefan-Boltzmann-Umgebungsgesetz eine physikalische Unmöglichkeit ist.
+Oder korrigieren Sie Ihre Aussage. Für was entscheiden Sie sich?
+ich lerne gerade wieder wie sie sprachlich jonglieren ohne was zu sagen.
+Also weniger stark abkuehlen ist gleich weniger Energie verlieren.
+Klaro.
+Erklaren sie doch mal den Mitlesern wie sie bei -18 Grad Celsius durch „weniger abkuelen“ ala “ weniger Energie verlieren“ auf 15 Grad Celsius kommen oder in einer sinnvollen Diskussion, jemals gekommen sein wollen.
+Ich habe Ihnen die Passage genannt die das Kernstueck von Herr Webers Aussage ist. Ein Koerper kann sich nur dann auf 15 Grad C abkuehlen, wenn er vorher eine Temperatur darueber angenommen hat.
+Sie behaupten, sie haben Argumente dagegen? Dann bringen sie diese mal.
+Nein, ist es nicht unbedingt. Daher sollten Sie die beiden ja austauschen. Ob etwas sich erwärmt, abkühlt oder seine Temperatur gar nicht verändert hängt davon ab, wieviel Energie zu- und abgeführt wird. Aber wie schon gesagt, alles schon ausführlich diskutiert, daher wärme ich das jetzt hier nicht nochmal auf.
+also ausser Wortspielen keine Argumente.
+Nichts neues bei Ihnen. Ich wuensche ein weiterhin frohe Weihnachtszeit und beim Backen, Kochen, Braten bitte nicht vergessen den Herd anzumachen.
+ich weiß nicht, ob Sie bis weiter unten gelesen haben.
+Deshalb hier noch einmal ein ganz einfaches Phänomen, das ich bitte, nicht mit der Haarspalterei über „Mikrometerbanden“ usw. sondern für Laien verständlich zu beantworten.
+Darauf gebracht hat mich die Aussage des Herrn Peters, daß die Luftströmungen und damit Wärmeübergänge durch Transport (übrigens ist auch Konvektion ein Transport) einen viel größeren Einfluss auf Temperaturen haben, als alle Treibhausgase es jemals vermögen.
+„Das war eine Kaltluftblase über dem Zeller See. Der Föhn der Südströmung schafft es nicht, die kalte Luft über dem See, die ja dichter und schwerer ist, zu verdrängen und strömte über diese hinweg.
+Nun ist dieser Fön doch aber für Strahlung durchlässig, sodaß man sich fragt, warum nicht die, vom wolkenlosen Himmel kommende, ungehinderte Sonneneinstrahlung im Bunde mit der durch sie erzeugten und sogar laut Herrn von Berkholz am Tage größeren „Gegenstrahlung“ es schafften, diese Kaltluftzone aufzuwärmen?“
+Herr Weber ignoriert einfach, dass es unzählige solcher Spektrum seit den 1960er Jahren gibt.
+Joo!
+Daher grillt mein Gegenstrahlungsgrill auch in der Nacht lecker krosse Hähnchen!
+…der Weltraum, unendliche Weiten, Vakuum…
+mittendrin ein kugelförmiges schwarzes Hähnchen,
+drumherum in großer Entfernung n Eiszapfen,
+die das Hähnchen – bezogen auf seinem Rattenschiss –
+mit je 305 W/m² bestrahlen.
+Berechnung der Anzahl der benötigten Eiszapfen:
+Rattenschiss 1m² (ganz ganz dickes Hähnchen!)
+Radius 1,128379167m
+Oberfläche 4m²
+160°C benötigen 1993W/m² (Stefan-Boltzmann)
+bei 4m² also 7972W
+1 Eisz. liefert 305W
+somit erford. 26,13770492 Eiszapfen
+Guten Appetit
+die Grillhähnchen aus dem Weltall sind die besten!
+Das All hält diese unberechenbare Konvektion fern, welche auf irdischen Gefilden das Aroma verdirbt. Und dann noch Eiszapfen als Brennstoff – ökologischer gehts nicht!
+Ich bin überzeugt davon, daß Ihre Idee sich durchsetzen wird:
+zukünftige Generationen werden Hähnchen nur noch im All grillen.
+Glückwunsch!
+danke fuer eine sehr gelungene Demonstration ihres Nichtwissens und Unvermoegens vom Verstehen was die Strahlstaerke aussagt.
+Selbst wenn sie 1 Millionen Eiszapfen mit 0 Grad C haben, werden sie keine 160 Grad C herauszaubern.
+Aber ich beglueckwuensche sie auch zu der Demonstration wie die Klimaunwissenschaft argumentiert. Naemlich genaus so wie sie!
+Bildung hilft.
+Abgetrahlte Leistung =
+Emissionsgrad * 5,67E-08 W/(m²*K^4) * A * T^4
+Emissionsgrade
+– Chrom = 0,1
+– ganz ganz schwarzer Kochtopf = 1
+In einem verchromten Kochtopf kocht Wasser mit 94°C
+Ein IR-Thermometer zeigt dessen äußere Temperatur: 37°C
+94°C entsprechen 1029W/m² * 0,1 = 103W/m² (Abstrahlung)
+20°C Raumtemp. entsprechen 418W/m² (Reflektion)
+Summieren sich zu 522W/m²
+und das entspricht den gemessenen 37°C!
+Wasser kocht bei 100 Grad C. Der Rest ist auch Unsinn.
+Sie sollten sich selber in dieser Sache Ignorieren, weil so wird dat nischt!
+alle Temperaturangaben sind gemessene Werte (mit Quecksilber- bzw. IR-Thermometer)! Können Sie notfalls in Ihrer eigenen Küche nachvollziehen!
+Alle Umrechnungen erfolgten mittels Stefan-Boltzmann-Konstante.
+Wo – bitteschön – erkennen Sie da irgendeinen Unsinn?
+Und wenn Ja, welchen denn genau?
+in der Zusammenfassung ist alles was sie gesagt haben Unsinn.
+Was hat bitte der Emissionsgrad mit Wasserkochen zu tun?
+… und kommen Sie bloß nicht auf die Idee, Ihre „gemessenen“ 37°C taktil zu überprüfen.
+Und wieder wurde ein Kommentar Ihrerseits gelöscht!
+Aber dass Herr Schulz mehrfach schreibt, dass alles was ich gesagt habe,
+Unsinn ist, und zwar ohne sachbezogene Begründung, stört Sie nicht.
+Bezug: Mein Kommentar auf die Frage:
+„Was hat bitte der Emissionsgrad mit Wasserkochen zu tun?“
+Meine Antwort war:
+Herr Schulz,
+wenn Sie den Zusammenhang zwischen Emissionsgrad von Chrom und der Messung
+der äußeren Temperatur eines verchromten Kochtopfs mit einem IR-Thermometer
+nicht begreifen, sollten Sie einmal …[vermuteter Löschgrund]
+Sie haben scheinbar die Gelegenheit ein sinnvolles Argument zu finden nicht ordentlich genutzt.
+Noch mal, in der Annahme das Wasser in einem Chromtopf bei nur 94 Grad C kocht waren sie falsch. Vielleicht sollten sie Ihre Aussage noch mal selber lesen und warum man das als Unsinn verstehen muss. Wie sie am Ende auf 37 Grad C kommen wissen nur sie allein.
+Ich hoffe fuer sie das sie es nicht wirklich mit der Hand getested haben.
+nachdem der Pulverdampf von Ihrem zu Recht erwarteten Shitstorm abgezogen ist,
+habe ich Ihren Versuch mal ausprobiert.
+Auf der Höhe von 300 Meter über dem Meeresspiegel(mein Wohnort) kocht Wasser tatsächlich bei 94 °C.Die Außentemperatur am seitlichen Mantel des Chrom-Topfes hatte,wie Sie es beschrieben haben auch 37 °C bei einer Umgebungstemperatur von 19 °C Raumtemperatur.
+Jetzt setzen Sie in der Formel für das Stefan-Boltzmann-Gesetz diese gemessenen Werte ein und kommen zu einem Ergebnis .
+Und siegessicher wie man an ihren Formulierungen erkennt,kommen Sie zu der Überzeugung: Alles ist gut !!
+Die mit „A“ bezeichnete Fläche bezieht sich immer auf die Gesamtfläche der Strahlungsleistung.
+Und es geht immer nur von innen nach außen.
+Klassisches Beispiel ist unsere Sonne oder mit einem geschlossenen Auge auch eine Glühbirne vor der EU-Reform für Beleuchtungsmittel.
+Der Emissionsgrad von Chrom ist in der Tat 0,1.Dieser Wert bezieht sich aber auf die angestrahlte Fläche von außen gesehen.Der Strahler steht vor der Chromschicht und 90 % der Strahlung werden reflektiert.10 % der Strahlleistung tragen zur Erwärmung der Chrom-Platte bei.
+So,und jetzt entscheiden Sie ob der Versuch zielführend war.
+Thermisches Gleichgewicht?
+Absorption = Emission?
+Zitat: „[…] Thermisches Gleichgewicht? Absorption = Emission? […].“
+meine angeheiratete Frau verwendet eine ähnliche Methode.Da heißt es dann: Wäsche bügeln?wöchentlicher Hausputz mit abstauben?
+Das hat auch irgendwie etwas mit Leistung und Energie zu tun.Ich mach‘s dann auch,bin aber auch froh,wenn es fertig ist.
+Da kam mir die Idee mit der Restwärme.Hat auch etwas mit Stefan und Boltzmann zu tun.Und zwar nach getaner Arbeit.Wir beide sind uns ja einig,dass im Erd-Sonnesystem eine gewisse Dynamik zu berücksichtigen ist.
+Ein makaberes Beispiel ist die Restwärme von frisch Verstorbenen.
+Etwas einfacher funktioniert die Beobachtung der Restwärme in einer guten Gemüsesuppe mit Kartoffeln eingedickt.(Temperatur über 45°C)
+An der Oberfläche nach kurzer Zeit mit einem Löffel essbar merklich abgekühlt.Unten drunter jedoch noch sehr warm.
+Bin mal gespannt,ob Ihre Antwort qualitativ besser wird,als die Hypothese der Eisenzapfen-Gegenstrahlung von Werner Schulz und einem Peer Review des Peter Bösche.
+das Ganze ist nicht so einfach…
+Nehmen wir an, der Topf steht auf einer el. Heizplatte mit identischem Bodendurchmesser,
+E(zu) sei groß genug um bei gegebener Geometrie des Topfes Wasser zum Kochen zu bringen.
+Fologende Wärme(Energie)ströme sind zu berücksichtigen:
+Zugeführte Heizleistung
+Wärmeleitung Heizplatte zu Topf
+Wärmeleitung Heizplatte zu Ofen/Befestigung (Annahme: keine Wärmestrahlung der Platte nach unten)
+Je nach konstruktiver Ausführung: Wärmeleitung/Konvektion + Strahlung des Plattensockels zur Seite
+Damit kann die dem Topf samt Inhalt zugeführte Energie bestimmt werden.
+Der Topf verliert (im therm. Gleichgewicht) Energie über Verdampfungswärme,
+Leitung/Konvektion und Abstrahlung von und an der Flüssigkeit (Annahme: ohne Deckel), Leitung/Konvektion und Abstrahlung an der seitlichen Fläche.
+Der Topf gewinnt zusätzlich zur zugeführten el. Leistung noch Strahlungsenergie an den Seitenflächen und der oberen Begrenzung durch den Flüssigkeitsspiegel (Annahme: Topf randvoll gefüllt).
+Berechnung des Ganzen:
+Hab ich keinen Bock zu, für die Strahlungsflüsse gilt Absorptionsfaktor = Emissionsfaktor, bei Chrom kann dies 0,1 sein.
+Schöne Feiertage 😉
+so genau wäre es mit dem Kochtopf gar nicht nötig gewesen.Jedoch sehr gut erklärt!!
+Mir ging es um die Kartoffelsuppe.Das ist der Vorgang der stattfindet, im großen Rahmen auf der Erdoberfläche nach Sonnenuntergang.Es betrifft den Erdboden und die Wasseroberfläche in der obersten Schicht.
+Was da passiert kann man beim Suppe löffeln selbst erfahren,ohne physikalisch auf dem neuesten Wissensstand zu sein.
+Da nur die oberste Schicht abkühlt,kann das unmöglich die Energie sein,die als Abstrahlleistung im Stefan-Boltzmann-Gesetz zum Einsatz kommt.
+Lassen wir es dabei und bereiten uns auf die bevorstehenden Feiertage vor.
+einer geht noch:
+lt. Planck gilt sein Gesetz für Schwarzkörper mit unendlicher Wärmeleitfähigkeit im Vakuum…
+Diesbezüglich gleichen sich Erdboden und Kartoffelsuppe sehr.
+MfG
+Das Eine kann man vom Anderen aus nicht erkennen: Sie betrachten das, was man sehen kann, also S0*ALBEDO, und wir betrachten das, was man nicht sehen kann, nämlich S0*(1-ALBEDO).
+Herr Weber, ich habe für Sie mal eine Abbildung erstellt, in der die 33°C natürlicher Treibhauseffekt durch CERES-Messungen erklärt wird.
+https://www.bilder-upload.eu/bild-0db323-1576521141.jpg.html
+Am Erdboden haben Sie im globalen Mittel 15°C.
+Die Differenz von 33°C sind der natürliche THE.
+Wird ebenso bei Venus und Mars, etc, so bestimmt. Von allen Astronomen auf der Welt an Forschungseinrichtungen.
+Die Messspektren können Sie such mit Strahlungstrasnsfermodellen nachbilden, wie Modtran, Hitran, Lowtran, die seit den 1960-70er Jahren im Einsatz sind.
+Wird heute an jeder Uni mit Fachbereich Fernerkundung gemacht. Zur Bestimmung der Temperatur und von Spurengaskonzentrationen, etc..
+Oder glauben Sie dort ist eine Klimasekte aktiv, die dort seit 40-50 Jahren alternative Wissenschaft betreibt.
+Wie gesagt, ich habe Ihnen nun CERES-Messungen der NASA zwischen 2000-2015 gezeigt und die aus den Strahlungsflüssen (Und SB) bestimmte effektive Abstrahlungstemperatur und Abstrahlungshöhe (gemäß feuchtadiab. Temperaturgradienten).
+Oder glauben Sie wirklich das kann man nicht messen?
+wo haben sie eigentlich studiert? Globale Mittel werden immer noch, ueberall errechnet und nicht gemessen.
+Einzelmessungen werden zu Messreihen zusammengestellt und dann wird rechnerisch gemittelt.
+So lange sie das nicht verstehen, kann man ihre Aussagen nicht ernst nehmen.
+Mfg
+Werner Holtz
+240 W/m2 Abstrahlung (zwischen 1-100 Mikrometer) also auch über das Ausstrahlungsfenster hinweg, entsprechen gemäß SB nnn mal -18°C Abstrahlungstemperatur.
+auch wieder Unsinn.
+Da die 240 W/m2 von der Oberflaeche und aus verschiedensten Hoehen aus der Atmosphaere kommen, kann man dieser Waermemenge pro Quadratmeter keine eigene Temperatur zuordnen.
+es waere ratsam das sie Aussagen wie:
+„der Erdboden kuehlt dadurch weniger stark aus.“ und „die Erdwaerme wird erst aus einem Hoehenbereich abgestrahlt“
+unterlassen.
+Diese beiden Aussagen sind nachweislich falsch.
+Zum einen muessen sie Nachweisen, das Konvektion und Latente Waerem, sowie die direkte Abstrahlung ins All durch das atmosphaerische Fenster wirklich ein geringerer Waermeverlust ist.
+Zum zweiten, gibt es eben die Abstrahlung im atmosphaerischen Fenster, die einen direkten Waermeverlust von der Oberflaeche darstellt.
+Wann arbeiten sie endlich mit den wahren Gegebenheiten? Was ist eigentlich Ihrer Meinung nach die Ursache der Lapserate? Gaebe es denn den Temperaturunterschied nur durch Anwesenheit der sogenannten Treibhausgase?
+„Zum zweiten, gibt es eben die Abstrahlung im atmosphaerischen Fenster, die einen direkten Waermeverlust von der Oberflaeche darstellt.“
+Ist in der effektiven, mittleren Abstrahlungshöhe berücksichtigt. Genau wie die intransparenten Bereiche der Atmosphäre, die erst am oberen Rand der Troposphäre oder aus der Stratosphäre Wärme ins All abstrahlen.
+Wir auch bei der effektiven Strahlungstemperatur von -18°C berücksichtigt!
+Sie stimmen dem also zu das die Waerme aus verschiedensten Hoehen inklusive dem Erdboden, die Erde verlaesst? Die 5000 m sind also nur Augenwischerei?
+Hatte ich mir schon gedacht.
+sie haben den Artikel wirklich nicht verstanden.
+Dabei ist er einer der Besten den Herr Weber formuliert hat.
+Meine Frage an sie, wenn sie 240 W/m2 am Oberrand abstrahlen, muss dann der berechnete Temperaturunterschied zwischen der theoretischen Abstrahlhoehe und der gemittelten Durchschnittstemperatur der Oberrflaeche 33 K sein?
+Oder kann es sein das die fiktive ermittelten 33K auch 40 K sein koennten, und die Oberflaechentemperatur, die ja unbestimmt ist, einen anderen Wert annehmen koennte?
+Ich nehme mal an sie lassen die 240 W/m2 so stehen, weil sich diese durch die Viertelung der angenommenen Einstrahleistung minus the Verluste durch Albedo und Absorption in der Atmopshaere (wie wird das eigentlich wieder abgestrahlt?) ergibt.
+In Ihrem Model ist die Oberflaeche als energetische Hauptquelle fuer die Atmosphaere auch unten?
+Wo ist dann jezt also oben, mal so ungemittelt!
+Sie sind ein Scharlatan Herr Weber.
+Lesen sie dies:
+https://scienceofdoom.com/2010/09/12/heat-transfer-basics-part-zero/
+https://scienceofdoom.com/2010/07/26/do-trenberth-and-kiehl-understand-the-first-law-of-thermodynamics/
+https://scienceofdoom.com/2010/08/05/do-trenberth-and-kiehl-understand-the-first-law-of-thermodynamics-part-two/
+https://scienceofdoom.com/2010/11/14/do-trenberth-and-kiehl-understand-the-first-law-of-thermodynamics-part-three-the-creation-of-energy/
+Dann denken Sie darüber nach.
+Wenn Sie dann immer noch auf ihren Irrlehren bestehen, lesen Sie es noch mal und denken etwas länger nach.
+Wenn Sie es dann immer noch nicht einsehen wollen, dann sterben Sie halt dumm.
+Sie und auch Herr Limburg sind eine Schande für EIKE!
+Auf der letzen Konferenz von EIKE waren so viele hervorragende Wissenschaftler vertreten, ich weiß nicht ob die in Zukunft auch noch kommen werden, wenn hier so ein Blödsinn verbreitet wird.
+Dass ich Ihnen diese Beschimpfungen im. o.a.Kommentar durchgehen lasse, liegt allein darin begründet, dass die Leser wissen sollen, aus welchem Holz Leute wie Sie geschnitzt sind.Jeder kann sich dann sein eigenes Urteil bilden.
+Steht eigentlich schon im Titel „Doom“, was man davon halten kann und soll. Alle „Trenberth und Kiehl Diagramme“ sind völliger physikalischer Stuss.
+Mfg
+Werner Holtz
+»Die Wärme kann nicht von selbst aus einem kälteren in einen wärmeren Körper übergehen.«
+»Die hierin vorkommenden Worte „von selbst“, welche der Kürze wegen angewandt sind,
+bedürfen, um vollkommen verständlich zu sein, noch einer Erläuterung, welche ich in meinen
+Abhandlungen an verschiedenen Orten gegeben habe. Zunächst soll darin ausgedrückt sein, dass
+durch Leitung und Strahlung die Wärme sich nie in dem wärmeren Körper auf Kosten des
+kälteren noch mehr anhäufen kann. Dabei soll dasjenige, was in dieser Beziehung über
+die Strahlung schon früher bekannt war, auch auf solche Fälle ausgedehnt werden, wo
+durch Brechung oder Reflexion die Richtung der Strahlen irgend wie geändert, und
+dadurch eine Concentration derselben bewirkt wird.«
+»Der von mir zum Beweise des zweiten Hauptsatzes aufgestellte Grundsatz, dass die Wärme nicht
+von selbst (oder ohne Compensation) aus einem kälteren in einen wärmeren Körper übergehen
+kann, entspricht in einigen besonders einfachen Fällen des Wärmeaustausches der alltäglichen
+Erfahrung. Dahin gehört erstens die Wärmeleitung, welche immer in dem Sinne vor sich geht,
+dass die Wärme vom wärmeren Körper oder Körpertheile zum kälteren Körper oder Körpertheile
+strömt. Was ferner die in gewöhnlicher Weise stattfindende Wärmestrahlung anbetrifft, so ist es
+freilich bekannt, dass nicht nur der warme Körper dem kalten, sondern auch umgekehrt
+der kalte Körper dem warmen Wärme zustrahlt, aber das Gesamtresultat dieses gleichzeitig
+stattfindenden doppelten Wärmeaustausches besteht, wie man als erfahrungsmässig
+feststehend ansehen kann, immer darin, dass der kältere Körper auf Kosten des wärmeren einen Zuwachs an Wärme erfährt.«
+WICHTIG DABEI:
+„Dabei soll dasjenige, was in dieser Beziehung über
+die Strahlung schon früher bekannt war, auch auf solche Fälle ausgedehnt werden, wo
+durch Brechung oder Reflexion die Richtung der Strahlen irgend wie geändert, und
+dadurch eine Concentration derselben bewirkt wird.“
+D.H.:
+Es ist NICHT zulässig, Energieflüsse zu nettieren!!!
+SOD = Science of Dumbness!
+Sie haben zwar richtig erkannt, dass das alles ein sehr großer Betrug ist. Ihre Schlußfolgerung jedoch ist albern und falsch und unwissenschaftlich, sehr ungenau.
+Über eine Zeitperiode (Mittelalter) zu urteilen, die man nicht kennt, ist nicht überzeugend. Sie müssen nicht ins Mittelalter gelangen. Aber die interdisziplinäre Kommunikation ist heutzutage sehr schwer, weil viele wenig wissen.
+Wenn Sie die Entstehungsgeschichte des Klimawahnsinns rigoros und aufmerksam studiert hätten, wäre Ihnen etwas anderes aufgefallen.
+wenn Sie schreiben : Zitat: „[…] Wenn Sie die Entstehungsgeschichte des Klimawahnsinns rigoros und aufmerksam studiert hätten, wäre Ihnen etwas anderes aufgefallen.[…].“ werde ich hellhörig.Diese Fragestellung beschäftigt mich auch.Könnte man von Ihnen einige Anhaltspunkte bekommen?
+WIE BITTE? Herr Weber, dies ist nach meiner Zählung Ihr 16. Beitrag bei EIKE zu dem Thema S-B mit Ihrer falsch verstandenen Strahlungsphysik. Sie haben immer noch nicht begriffen dass die Benutzung eines Abstrahlungsmittelwerts (wegen des T^4 Gesetzes und dem nahezu linearen Anstieg der Temperatur im Arbeitsbereich, siehe Ihre erste Abbildung) für relativ kleine Änderungen mit guter Näherung ZULÄSSIG ist. Dies folgt auch aus der Differentiation des S-B-Gesetzes womit sich für kleine Änderungen von S ein deltaT = deltaS/S/4*T ergibt – welches selbstverständlich von S und T abhängt – und da S proportional zu T^4 ist, mit zunehmendem T immer geringer wird.
+In der Tat sind die Temperaturfehler bei der terrestrischen Strahlungsmittelung (wo sich relativ geringe Temperaturabweichungen in Kelvin in erster Näherung meist ausmitteln) sehr gering. Als Beispiel kann ich den solar bedingten Temperaturmittelwert einer Schwarzkörper-Wärmespeicherplatte über Tag/Nacht am Äquator anführen, der mit dem exakt berechneten Temperaturverlauf -3,1 Grad ist. Mit dem Mittelwert der Solarstrahlung ohne Gegenstrahlung (Albedo und cos am Tag sowie Null bei Nacht) von 1364*0,7/Pi=304 W/m² ergeben sich -2,7 Grad.
+Ihre Vorstellung dass die Temperatur gemäss S-B von der Nettostrahlung (also Abstrahlung nach 0 K minus Einstrahlung von einer Schwarzkörperschicht mit Umgebungstemperatur*) abhängt – und nur Sie dies im Gegensatz zu all den blöden Modellierern erkannt haben – ist grotesk falsch!
+Tatsache ist, dass im Gleichgewicht Abstrahlung=Summe_Einstrahlung ist, also Abstrahlung minus Einstrahlung Null (!) ergibt und Sie (mit Berücksichtigung der solaren Einstrahlung) dann 0 K erhalten. Es sind nicht die Anderen welche S-B falsch anwenden, sondern SIE!
+*) Sie nehmen mit dem Gegenstrahlungsterm -T2^4 fälschlich sogar in der Atmosphäre eine Schwarzkörperschicht mit -18 Grad an und verringern in unzulässiger Weise die solare Einstrahlung (welche durch die Gegenstrahlung ja additiv vergrößert wird und im Strahlungsmodell ebenso wie die Abstrahlung auf 390 W/m² ansteigt), was dann zu Ihrer Falschaussage führt
+„Mit dem sogenannten „natürlichen atmosphärischen Treibhauseffekt“ soll dann in einem thermodynamisch widersinnigen Prozess ein kälterer Körper einen wärmeren Körper um angeblich 33°C erwärmen, um schließlich wieder der „gemessenen“ Realität zu entsprechen“.
+sie haben also einen exakten Temperaturverlauf mit einer Schwarzkörper-Wärmespeicherplatte über Tag/Nacht am Äquator durchgefuehrt und kommen auf -3,1 Grad Celsius?
+Was auch immer sie gemessen haben, eine sinnvolle Temperatur koennen sie daraus nicht ableiten. Das weiss man, weil es diese Temperatur zu keiner Zeit am Äquator auf Meereshoehe gibt.
+Ihre Vorstellung, das sie mit Ihren Experiment etwas nachgewiesen haben, ist erschreckend. Sie haben mit Ihren Beitrag hier nachgewisen, das ihre Theorie die Wirklichkeit nicht beschreiben kann!
+Was wollen sie also? Man kann ihnen nicht mal Abnehmen, das sie den hemisphaerischen Ansatz wirklich verstehen.
+„Genau so ist es“ ist eine anschauliche Überlegung,wie man sich den Kopf aus der Schlinge zieht.
+Die Diskussion geht aber mindestens bis 2025 weiter.Da bleibt die Tatsache übrig mit der unterschiedlichen spez. Wärmekapazität von Luft und Erdboden und Wasser.
+Warum ausgerechnet 1954 die Meteorologen sich darauf verständigt haben,die Temperatur in 2 Meter über dem Erdboden als messwürdig zu definieren, muss von ungeahnter Weitsicht geprägt gewesen sein.
+Wenn eine Abstrahlung in Richtung TOA stattfindet,muss die Leistung ja irgendwo herkommen.
+Und diese verbrauchte Leistung führt immer zu einer Abkühlung der Quelle.
+Mfg
+Werner Holtz
+ich komme mir sehr oft vor,wie in der Fragestunde des Deutschen Bundestages.Da gibt es auch Fragen und Antworten.Und damit muss man leben,so eine Bemerkung des amtierenden Bundestagspräsidenten.
+Wenn eine Lufttemperatur in 2 Meter Höhe gemessen wird,ist diese Temperatur immer vom horizontalen Wärmestrom beeinflusst.
+Beispiel: aktuelle Wetterlage im Südwesten Deutschlands.Diese Temperaturen sind der Windströmung aus der Nähe des Äquators geschuldet.
+Es wird aber trotzdem versucht einen Zusammenhang zur Abstrahlleistung herbei zu reden.
+Und wer dann noch methodisch vorgeht, versündigt sich an der Naturwissenschaft.
+Wenn dieses grundlegende Verständnis von Thermodynamik nicht verstanden ist,macht es keinen Sinn mit mathematischen Formeln zu glänzen.
+Genau, und nicht nur das. Heute brachte der „Servus-Meteorologe“ dazu ein selbstredendes Beispiel.
+Das war eine Kaltluftblase über dem Zeller See. Der Föhn der Südströmung schafft es nicht, die kalte Luft über dem See, die ja dichter und schwerer ist, zu verdrängen und strömte über diese hinweg.
+Nun ist dieser Fön doch aber für Strahlung durchlässig, sodaß man sich fragt, warum nicht die, vom wolkenlosen Himmel kommende, ungehinderte Sonneneinstrahlung im Bunde mit der durch sie erzeugten und sogar laut Herrn von Berkholz am Tage größeren „Gegenstrahlung“ es schafften, diese Kaltluftzone aufzuwärmen?
+Aber statt dessen war es natürlich wichtig zu erwähnen, daß sie (die Föhntemperatur) die höchste jemals gemessene Temperatur in einem Dezember seit Aufzeichnung der Wetterdaten war.
+So geht das „Hexenwerk“ von heute!
+Was glauben Sie wohl, welche Temperaturen wir erhielten, wenn wir ca 20 cm über dem Boden messen würden?
+An einem schönen Sonnentag habe ich viermal gemessen:
+—-über dem Rasen
+— über der braungefliesten Terrasse
+— über dem weißen Sand im Sandkasten
+— und über meinem dunklen SUV
+Über dem Kinderswimmingpool habe ich kleider vergessen!
+4 unterschiedliche Temperaturen gemessen!
+Ein schönes Experiment, dass eine Erd-Strahlung in dieser Höhe gut zeigt – in ca 2 m Höhe merkt man nichts mehr davon – weder meine Thermometer noch meine Glasscheibe!
+Wir messen nicht mit einem „berührend“ messenden Thermometer, das natürlich nur die „eigene“ Temperatur erfassen kann, sondern legen nur kurz die Hand auf die verschiedenen Oberflächen.
+Was da wohl herauskommt und was das für die ganze Prinzipien-Reiterei bedeutet?
+Am besten hat es wieder einmal besso keks mit dem Verweis auf den universitären Bereich auf den Punkt gebracht.
+Alles schon mal da gewesen, lesen Sie nur mal Diplom- und Doktorarbeiten der untergegangenen DDR. Wie da die Forschungsergebnisse mit dem „wissenschaftlichen Sozialismus“ in Kongruenz gebracht werden mussten.
+Und jeder (auch ich) hat das irgendwie hinbekommen. Aber der entscheidende Unterschied war, über 80 % haben das zwar gemacht, nur sie haben das nicht wirklich geglaubt.
+Deshalb ist die derzeitige Situation der Wissenschaft so unglaublich beängstigend!!!
+Zitat: „[…] Aber der entscheidende Unterschied war, über 80 % haben das zwar gemacht, nur sie haben das nicht wirklich geglaubt. […].“
+Im Westen der Republik hat man was neues ausprobiert.Es wurde beim Abitur darauf verzichtet zu prüfen, ob mehrdimensionales Denkvermögen vorhanden ist.Und diese Individuen hat man dem freien Markt übergeben.Das Sahnehäubchen kam dann mit dem Recht auf Meinungsfreiheit noch oben drauf.
+Ein genialer Feldversuch !!
+Wenn man das ganze platt klopft und mittelt und darin Erkentnisse sucht, gleicht das dem Versuch, dem Schnitzel wieder das Laufen beizubringen.
+Die Betrachtung eines „durchschnittlichen“ Qudratmeters auf Erden ist schon sowas von daneben und zudem werden alle anderen irdischen Wege des Energietransportes außer Acht gelassen.
+Schon bei der Einstrahlung liegt man mit dem grauen Klumpen sowas von daneben! Wasser, welches 70% unseres Erdballes überdeckt wirft beim sichtbaren Licht ein Spektrum nach dem anderen heraus. Bei rot angefangen kommt das blau am weitesten schon ist der Energieeintrag nicht auf einer Grenzfläche eines grauen Klumpens. IR-Strahlung kann Wasser nicht durchdringen womit alle Energie erstmal konvektiv verteilt wird und nur die Grenzfläche zur Luft zur Abstrahlung fähig ist und dann ist die Luft auch wieder ein Medium in der nicht alle Wege der Energie auf Strahlung in Bodennähe reduziert werden kann.
+Oben rein oben raus ist schon richtig – aber wo ist oben?
+Der reale Emissionsgrad der Erdoberfläche beträgt ~0.91, weitgehend ident mit dem von Wasser. Darüber hinaus behindern Wolken die Emission von LWIR massiv, weshalb eine Erde ohne Treibhausgase halt nicht 255K sondern eher 283K hätte.
+Das ist die Realität. Der Bedeckungsgrad mit Wolken auf der Erde beträgt ca. 60%.
+++ Zur Albedo
+Siehe: STEPHENS ET AL., The albedo of Earth, American Geophysical Union, 2015
+https://www.researchgate.net/publication/271590174_The_Albedo_of_Earth
+Man betrachtet der Einfachheit geschuldet gerne integrale Größen.
+Die Albedo a ist wie folgt definiert: a = S/(A+S) mit S – Streuung und A – Absorption.
+Die Albedo wird lokal bestimmt. Die planetare (sphärische) Albedo wird mit Hilfe des Phasenintegrals und der lokalen Albedo über das Jahr und die Hemisphäre gebildet. Die sphärische Albedo gilt auch nur für eine sphärische Objektfläche. Man darf diese nicht auf eine planare Kreisfläche anwenden.
+Die planetare (sphärische) Albedo setzt sich wie folgt zusammen:
+Albedo(Planet) = Albedo(Atmosphäre) + [1 – Absorption(Atmosphäre) – Albedo(Atmosphäre)]*Albedo(Oberfläche)
+Wenn man den Messungen (MODIS/LIDAR) von NASA/NOAA vertraut, kommt man auf eine planetare (sphärische) Albedo der Erde von:
+Albedo(Erde) = 0,224 + [1 – 0,2595 – 0,224]*0,125 = 0,289
+Die planetare (sphärische) Albedo schwankt von 13% (0,13) bei klarem Himmel bis 51% (0,51) bei stark bewölkten Himmel. Der integrale Wert der Hemisphäre liegt bei 28,9% (0,289).
+++ Zum IR-Emissionsgrad
+Siehe: Jie Cheng, Xiaolong Cheng, Shunlin Liang, Raquel Niclòs, Aixiu Nie and Qiang Liu
+A Lookup Table-Based Method for Estimating Sea Surface Hemispherical Broadband Emissivity Values (8 – 13.5µm)
+http://www.mdpi.com/2072-4292/9/3/245/pdf-vor
+Der IR-Emissionsgrad der Erdoberfläche liegt bei ca. 0,96, nach den Messungen der NASA/NOAA und andere Raumfahrt-Organisationen.
+Mfg
+Werner Holtz
+Danke für die Ausführungen, aber meine Frage bezog sich auf die Berechnung einer Erde ohne Atmosphäre, die ja dann -18 Grad C warm (oder kalt) sein soll. Gerechnet wird aber immer mit 30% Albedo. Wie sie selbst ausführen, beträgt der Albedo bei klarem Himmel lediglich 13%. Und was den Emissionsgrad angeht, scheint mir dieser noch reichlich unerforscht zu sein, allein für Wasser lassen sich Werte von 0,67 bis 0,98 finden. Sand, Stein, Schnee liegen unter 0,9. Somit erscheinen 0,96 Durchschnitt doch recht hoch.
+Grüße, M. Rohde
+Zitat: … meine Frage bezog sich auf die Berechnung einer Erde ohne Atmosphäre, die ja dann -18 Grad C warm (oder kalt) sein soll.
+Brauchen Sie doch nur auszurechnen: Albedo(Erde o. Atmosphäre) = 0 + [1 – 0 – 0]*0,125 = 0,125
+Der Mond hat eine planetare Albedo von ca. 0,11. Die Erde ohne Atmosphäre hätte eine planetare Albedo von 0,125. Rechnet man etwas genauer, daß die Erde dann kein Wasser mehr in flüssiger Form hätte, kann man aus der Pigmentierung der Ozean-Böden eine Albedo von 0,106 bestimmen.
+Betrachtet man die Strahldichte-Verteilung, wie sie mit Mehrfach-Reflexion/Streuung unter Anwendung der Matrix-Operator-Methode für die Erd-Oberfläche berechnet werden kann (Bakan and Quenzel, 1978). Hierbei kann man in erster Näherung (Kugelform) und unter Nutzung von Streuordnungsnäherungen (Rauheit, Brechungsindex usw.) die Albedo a(sfc) der Erd-Oberfläche berechnen. Die Betrachtung unter der Annahme der Mehrfach-Reflexion/Streuung von einer Schicht ergibt: a(sfc) = a(sfc,diffus) + a(sfc,direct) = 0,07 + 0,047 = 0,117 wobei a(sfc,diffus)=0,07 und a(sfc,direct) = 2/3*[0,05/[1/sqrt(pi)+0,15]] entspricht.
+Diese Albedo von 0,117 vom Erd-Körper/Oberfläche wird im Mittel bei klarem Himmel von den Satelliten gemessen.
+Die „mittlere Temperatur“ einer Erde ohne Atmosphäre würde bei ungefähr 203K (-70°C) liegen, und nicht bei -18°C.
+Zitat: Somit erscheinen 0,96 Durchschnitt doch recht hoch.
+Nein, die Emissionsgrade der verschiedenen Oberflächen der Erde wurden eigentlich recht gut vermessen.
+Die Emissionsgrade von Wasser, die Sie finden, sind Emissionsgrade an optisch glatten Oberflächen. Die Weltmeere sind aber keine optisch glatten Oberflächen.
+Siehe: Wu, X. and W.L. Smith, Emissivity of rough sea surface for 8-13 µm: modeling and verification, Appl. Opt. 36, 2609-2619 (1997)
+Wenn die Atmosphäre eine größere Energiemenge speichern und freisetzen kann, dann kann die Windgeschwindigkeit höher ausfallen. Je größer die Windgeschwindigkeit werden kann, je höher ist der IR-Emissionsgrad der Oberfläche (höhere Druckdifferenz -> höhere Windgeschwindigkeit -> höhere Wellen -> höhere Emissivität der Wasseroberfläche).
+Messung (per Remote Sensing): v(wind) = 0 m/s -> e(s,wasser) e(s,wasser) <= 0,96
+Eine wellenlose Wasseroberfläche von 17°C und eine wellenreiche Wasseroberfläche (stürmische See) von 15°C emittieren die gleiche Energiestromdichte.
+Mfg
+Werner Holtz
+Mit Verlaub, aber das ist völliger Quatsch. Genau so gut könnte man Astrologen zu dem Thema befragen. Tatsache ist, man kann den Emissionsgrad der Erdoberfläche nicht vom Weltraum aus „messen“. Das funktioniert allenfalls mit Landflächen (wo der durchschnittliche Emissionsgrad jedoch keineswegs 0.96 beträgt), nicht aber mit den dominanten Wasserflächen.
+Warum das so ist, wie das tatsächlich gemessen werden kann, und warum die Messung obsolet ist weil alles schon bekannte Physik, das versteht man vielleicht wenn man sich nachfolgenden Artikel zu Gemüte führt..
+https://scienceofdoom.com/2010/12/27/emissivity-of-the-ocean/
+So ein Quatsch. Naja, wer sich auf „The Science of Doom“ beruft, hat wirklich nicht viel Verständnis vom „Messen“.
+Wasser ist ein Volumenstrahler, man mißt beim Wasser immer die Volumen-Emissivität, -Absorptivität und -Transmissivität. Die Berechnungen sind bei Volumenstrahlern anders, als bei reinen Oberflächenstrahlern. Zum Beispiel wird die Fresnel-Reflexion bei (beweglichen) Volumenstrahlern anders berechnet oder bestimmt als im Artkel beschrieben.
+Mehr gibt es zu diesem „The Science of Doom“ Beitrag nicht zu sagen.
+Mfg
+Werner Holtz
+Zitat: Mit der globalen Mittelung der hemisphärischen Sonneneinstrahlung hatte man also deren S-B-Temperaturäquivalent soweit reduziert, dass zwischen dieser fehlerhaften theoretischen Ableitung und der „gemessenen“ Realität eine Lücke von 33 Grad klafft.
+Klasse – Sie haben es richtig beschrieben. Deshalb gibt es auch keinen „atmosphärischen Treibhauseffekt“.
+Der Grund dafür ist, daß die Energiestromdichte oder Flächenleistungsdichte eine intensive Größe ist. Aus der Vektoranalysis der Stromlinien folgt (Man kann auch Euler’s homogenes Funktions-Theorem verwenden.):
+dJ = j*dA – Die vektorielle Stromdichte j ist für den Strom der mengenartigen extensiven Systemgröße dJ, die charakteristische intensive Größe. Das vektorielle Flächenelement dA ist in diesem Fall die extensive Größe.
+Das vektorielle Flächenelement dA ist also die extensive Größe, deshalb darf man nicht die solare Einstrahlung über die gesamte Erdoberfläche mitteln.
+Mfg
+Werner Holtz
+Deshalb kommt die Strahlung mit unterschiedlicher Intensität am Boden an. Am Äquator eben intensiver als an den Pole.
+Was ja ganz klar zeigt, die Inhaltsstoffe in der Atmosphäre halten die Erde kühler als sie es ohne diese wäre.
+ich meine daß für naturwissenschaftlich ungebildete Leute (das ist leider eine große Mehrheit) ist es schon schwierig die präsentierten Lügen zu durchschauen.
+Mann kann sich dem Thema aber auch ohne entsprechende Ausbildung nähern indem man die Klimahistorie betrachtet und mit den gemachten Behauptungen vergleicht. Tut leider fast niemand, warum auch immer.
+Man kann auch mit dem Wissen darüber, wie Propagandaaktionen aufgebaut sind, zu eigenen Sclüssen kommen. Das entsprechende Wissen ist aber ebenso wie naturwissenschaftliches Wissen nur spärlich verbreitet.
+Was mich viel mehr stört ist, daß der universitäre Bereich – Leute die das notwendige Wissen haben oder haben müßten – mit den eigentlichen Propagandisten um die Wette lügt.
+Universitäre Repräsentanten von Forschung und Lehre haben für mich jegliche Glaubwürdigkeit verloren.
+Es gibt alte Volksweisheiten und neue Volksdummheiten – eine davon:
+„Den Klimaschutz in seinem Lauf
+hält weder Natur noch Wissen auf“
+Heute wäre man froh, wenn mehr von diesen Menschen geben würde, weil ein Besen ja nun wirklich kein CO2 ausstößt.
+Sogar die am höchsten in der menschlichen Hierarchie angesiedelte Person, der Generalsekretär der UN, macht den offensichtlichen Blödsinn mit.
+das ist nicht Ihr ernst, oder? Was ist dann Ihr Kriterium? Was kennzeichnet denn eine Hexe? Das Denken, eben dieser.
+Und alle (!) Hexen befürworten die Energiewende, den gesamten Klimazirkus, Klimahokuspokus.
+Hier ein starkes Indiz als Zitat (aus den weiten des Internet):
+Singer and climate crisis believer Lana Del Ray described herself in 2017 as a “witch” and said she hexed President Donald Trump. She bade her Twitter followers do the same, directing them to “bind” the president on dates that “corresponded to monthly waning crescent moons.”
+New England Patriots quarterback Tom Brady trumpeted his connections to neo-paganism after winning his sixth Super Bowl title in February. He told reporters that his wife, supermodel and climate crisis apologist Gisele Bundchen, “always makes a little altar” for him before the big game and provides him with “healing stones and protection stones.”
+Bundchen allegedly predicted that the Patriots would overcome the Los Angeles Rams in Super Bowl 53 and said to Brady later that night, “You’re lucky you married a witch.”
+[Zitat Ende]
+Über logisches Denken kommt man darauf. Alle Hexen vertreten diesen Menschen verachtenden Müll. Ergo? Viele haben Hexen unterschätzt. Und das Denken von Hexen ist moralisch verwerflich. Of course.

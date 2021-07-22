@@ -1,0 +1,266 @@
+Wir hören derzeit viel über „exponentielles Wachstum“ hinsichtlich Anzahl der Fälle, Verbreitung und Sterberate des Corona-Virus‘. Und es handelt sich ja wirklich um eine globale Gesundheits-Krise, die man sehr ernst nehmen muss.
+Komisch dabei ist aber, dass der Terminus „exponentielles Wachstum“ nicht wirklich das Fortschreiten einer gegebenen Krankheit beschreibt. Exponentielles Wachstum hört niemals auf – es wird nur größer und immer größer. Aber im Falle einer Krankheit ist das nicht der Fall.
+Als Beleg sei hier beispielhaft die Anzahl der Corona-Virus-Erkrankungen in Südkorea gezeigt:
+Die Kurve der Anzahl der Todesfälle in China hat die gleiche Form:
+Diese spezielle „S-förmige“ Kurve wird eine „Gompertz-Kurve“ genannt. Sie ist seltsam, da nicht symmetrisch. Der Anstieg erfolgt schneller als die Abschwächung. Ein Beispiel:
+Nun wollte ich einmal nachschauen, wie gut die Graphiken der Abbildungen 1 und 2 in eine Gompertz-Kurve eingepasst werden können. Zunächst folgt hier der Verlauf der Gesamtfälle in Südkorea, zusammen mit dem Best Fit einer Gompertz-Kurve:
+Man erkennt, warum man die Gompertz-Kurve nutzt, um Epidemien zu beschreiben – sie passt sehr gut zu epidemiologischen Daten der realen Welt. Und weil jedwede gegebene Gompertz-Kurve bei irgendeinem Maximalwert endet, ohne diesen zu überschreiten, lässt sich damit auch der Teil der Kurve abschätzen, zu dem es bisher noch nicht gekommen ist. Bislang waren in Südkorea 7362 Fälle aufgetreten. Der Schätzung der Gompertz-Kurve nach dürfte sich die schlussendliche Gesamtzahl bei 8100 Fällen oder so einpendeln.
+Nun ist das natürlich keine besonders große Zahl. Alles Mögliche kann passieren, damit die Kurve entweder auf- oder abwärts zu laufen beginnt. Aber es ist immer noch besser als die Schätzung nach der Pi-mal-Daumen-Methode.
+Als Nächstes folgt hier die gleiche Darstellung, Daten plus Best Fit einer Gompertz-Kurve, aber diesmal der Todesfälle in China:
+Auch hier können wir unter Berücksichtigung der eben erwähnten Schwächen eine geeignete Abschätzung vornehmen, welche Gesamtzahl an Todesfällen auftreten wird. Zum Ende ergibt sich laut Gompertz-Kurve eine Schätzung von etwa 3500 Todesfällen.
+Zum Schluss noch ein Blick auf Südkorea. Dort treten immer noch Todesfälle auf, so dass diese Schätzung unsicherer ist:
+Obwohl die Unsicherheit hier größer ist, sieht es gegenwärtig so aus, dass sich die letztendliche Gesamtzahl der Todesfälle in Südkorea größenordnungsmäßig auf 100 ergeben wird.
+Schlussfolgerungen
+Zumindest auf meinem Planeten sind das sehr gute Nachrichten. Es sieht so aus, als ob die Todesfälle in China in der Größenordnung von 3500 liegt. Die Fälle in Südkorea befinden sich dicht vor dem Maximum. Und obwohl es vermutlich noch zu früh ist, Schätzungen für Südkorea vorzunehmen, gab es dort bisher nur 60 Todesopfer, und das Best Fit der Gompertz-Kurve ergibt etwa 100 Todesfälle.
+Bitte nicht glauben, dass ich die Gefahr minimieren will. Ein Virus dieser Art kann gewaltige Schäden anrichten, wenn wir nicht dagegen vorgehen. Ich möchte hiermit aber sagen, dass China und Südkorea zeigen, dass wir dagegen vorgehen können.
+Also schlage ich vor: Folgen wir allen Empfehlungen der Vorsorge wie Hände waschen, sozial Abstand nehmen, große Versammlungen absagen, Tests, Selbst-Quarantäne usw. Es ist sehr wichtig, die Ausbreitung des Virus‘ zu verlangsamen … und genauso wichtig, dass wir die Hysterie und die Politisierung dieses Vorgangs zurückschrauben. Ich versichere, die Verantwortung dafür einer politischen Partei in die Schuhe zu schieben oder Massen an Toilettenpapier zu kaufen wird nicht helfen, die Epidemie zu beenden. Dank Internet weiß ich, warum gerade Toilettenpapier … wenn jemand niest, verschmutzen 100 Menschen ihre Unterhosen … seien Sie keiner davon.
+Daten: Alle Daten stammen von der Worldometer site.
+Anhang: Eine Gompertz-Kurve ist definiert als:
+y(t) = α * exp(-β * exp-(k*t))
+wobei
+t = time alpha = upper asymptote beta = growth displacement k = growth rate
+…
+[Hier folgt ein Anhang philosophischer Natur über den Begriff „rassistisch“, auch in Bezug auf andere Infektionskrankheiten. Weil das für die hier behandelte Thematik nebensächlich ist, wird auf das Original verwiesen. Anm. d. Übers.]
+Link: https://wattsupwiththat.com/2020/03/13/the-math-of-epidemics/
+Hier der oben angekündigte Bericht von
+Coronavirus: Warum du jetzt handeln musst!
+Du trägst Verantwortung in Politik, Gesellschaft oder Wirtschaft? Dann lies hier, was du wann tun musst.
+Mit Dank an ACHGUT Autor Dr. med. Gunter Frank.
+Danke für den Hinweis. Ist korrigiert.
+Beim Lesen dieses Artikels kann man den Eindruck gewinnen, dass die Corona-Virus-Pandemie unveränderlich ihren Lauf nimmt. Unter dem link
+https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/
+sind die aktuellen Fallzahlen der einzelnen Landkreise in Deutschland zu finden. Man kann daraus ersehen, dass die Entwicklung in den einzelnen Gebieten sehr unterschiedlich verläuft, insbesondere das Verhältnis von Todesfällen zu nachgewiesenen Fällen. Das mag mit der Altersstruktur in den einzelnen Landkreisen zusammenhängen oder mit dem Zufall der Infektionsketten. Auf jeden Fall sollte man sich bei seinen individuellen Präventionsmaßnahmen an den lokalen Gegebenheiten orientieren.
+https://www.agora-energiewende.de/service/agorameter/chart/power_generation/13.03.2020/16.03.2020/
+Und neuer ist nicht in Sicht…
+https://www.wetterzentrale.de/de/panels.php?model=gfs&map=1&var=1&lid=OP
+Vielleicht wird jetzt einigen Leuten bewusst wie wichtig eine verlässliche Stromversorgung ist – gerade in Krisenzeiten! Aber die Deutschen werden wohl erst eine Pandemie + Kohle- und Atomausstieg durchleben müssen um zu verstehen….
+Wie wir wissen (aber halt ständig verleugnen) folgt der anthropogene Teil des Klimawandels dem Muster des Flugverkehrs, nicht dem CO2. Deshalb Erwärmung erst ab den 1970ern und dann hauptsächlich in der NH. Dort wo nicht geflogen wird, etwa über der Antarktis, gibt es natürlich auch keinerlei Erwärmung.
+Dank Corona findet nun ein zuvor von mir angedachtes, aber halt praktisch nicht zu realisierendes Forschungsprojekt doch statt. Was würde denn mit dem Klima passieren, wenn man den Flugverkehr für 1-2 Monate weitgehend aussetzte? Werden, wie zu erwarten, die Temperaturen in der NH wie zu erwarten signifikant sinken?
+https://www.sueddeutsche.de/wirtschaft/coronavirus-airlines-slots-1.4839026
+Nochmals:
+https://www.zeit.de/politik/ausland/2020-03/boris-johnson-coronavirus-grossbritannien-massnahmen-epidemie
+Tja wie lange wird es wohl dauern, bis die Chinesen ihre Kohle- und Koks- Öfen zur Strom- und Stahlproduktion wieder mit Volldampf betreiben? (Und wieviele von den Rentnern, die hier auf EIKE posten, werden dann noch leben?) 🙂
+arbeiten Sie zufällig als Texter für regierungstreue „Qualitätsmedien“ mit Texten wie: „Interessant hierbei, wie fair dieses Virus ist. Es rafft die Alten dahin.“?
+„Ekelhafter und dümmlicher Clip. In manchen Redaktionsstuben ist man moralisch anscheinend vollkommen bankrott“, schreibt der CSU-Politiker Stefan Müller auf Twitter.
+Fressen unsere Pflanzen dieses Zeug auf, ohne sich um Ihre Sorgen zu kümmern?
+Was die Briten da anstellen, keine Ahnung, wenn sie sich auf Hammelherden verlassen…..
+Ihre Videolinks finde ich abenteuerlich. Vor allem das 1. Video das Corona eine Verschwörung der Pharmaindustrie sein soll.
+Das 2. Video mit dem Amtsleiter ist OK, aber auch nicht durchdacht.
+Er sagt, dass bei einer normalen Influenza ca. 0,01% der Leute sterben und dabei jedes Jahr rund 10% Coronaviren im Umlauf sind. Die Leute sterben dann an einer Lungenentzündung. Richtig!
+Jetzt haben wir aber eine Sterberate bei Corona von 1-18% (bis 1% für U50, bis 18% Ü80) infolge von Lungenentzündungen. Die liegt sogar deutlich über der der Spanischen Grippe von 1918!
+Hier einige Statistiken dazu:
+https://klimakatastrophe.wordpress.com/2020/03/13/sterberaten-fuer-corona-in-abhaengigkeit-vom-alter/
+Die Chinesen sind ja nicht gerade dumm, dass sie solche Zahlen veröffentlichen und den Notstand ausrufen.
+Wenn es nicht am Coronavirus liegt, woran dann, dass die Sterberate auf einmal so hoch ist?
+Dann könnte man auch bei der Spanischen Grippe sagen, es war nicht das Virus und eine Verschwörung der Pharmaindustrie. Wie gesagt, auch damals war es das Virus was anscheinend die hohe Sterberate begünstigte!
+Worauf beziehen sich denn die ihrer Statistiken??
+https://klimakatastrophe.wordpress.com/2020/03/17/sterberat-einer-normalen-grippe-zu-corona-im-abhaengigkeit-vom-alter/
+Mit % ten lässt sich viel beweisen. Bisher geisterten Zahlen von 0,05 % über 0,5 % Mortalität und mehr durch das Internet. Hier wird gezeigt, dass im „Laborversuch“ Diamond Princess ca. 83 % der Beteiligten nicht angesteckt wurden.
+Und ob die alten Leute massive Vorerkrankungen hatten, die dann zusätzlich noch die Bürde der Corona Krankheit schultern sollten, und nicht konnten, weiß auch niemand. Viele sterben heute im Krankenhaus allein wegen der Krankenhauskeime. Lt. Wobarg ca. 15.000 pro Jahr.
+Auch was die Virologin Prof. Mölling hier erzählt ergibt Sinn.
+Ihre Grafiken sind „Schrott“. Auf welche Grundgesamtheit beziehen sich denn die angegebenen %-Zahlen?? Hier werden doch Äpfel miot Birnen verglichen!
+Quelle der Grafen steht unter den Grafen.
+Frage: Warum sterben in Italien gerade ca. 10% der Corona-Infizierten, die registriert wurden? In anderen Ländern sind es um die 3%-4%, z.B. China. Damit liegen wir deutlich über der Sterberate von Influenza, die bei 0,1% liegt.
+Wir liegen also 30-100mal über der Sterberate von Influenza!
+Dazu kann ich Sie nur ermuntern mal die Sterberate der Patienten in italienischen Krankenhäusern wegen MRSA nachzusehen. Vielleicht wird dann einigen klar, was in Italien los ist.
+Italien ist am stärksten betroffen. Es gibt dazu viele Infos im Netz.
+in Italien sind die Fallzahlen jedoch fünfmal so hoch wie in Deutschland. Besonders stark von den multiresistenten Keimen betroffen sind Kinder, die jünger als ein Jahr sind.
+Es ist so einfach, wenn man die Lage kennt.
+Nochmals der Hinweis auf Dr. Wodarg, diesmal im Gespräch mit Eva-Herman auf youtube.
+Sehr interessante Einblicke die Dr. Wodarg da gibt. Hier ist ein schriftliches Statement von Dr. Wodarg, das stolz – wie anders – von Süddeutsche und Berliner Tagesspiegel abgelehnt wurde. Vermutlich wegen der Überschrift: „Panikmacher“ isolieren.
+Auch Frau Prof. Mölling schlägt hier in dieselbe Kerbe.
+Übrigens: Beide sind pensioniert. kein Zufall.
+Frau Mölling begründet das auch im Telefoninterview,und der blöde rbb hat nichts eiligeres zu tun, sich von ihr zu distanzieren.
+MRSA?
+Wie gesagt in Italien, China und Deutschland liegt die Sterberate deutlich über der von Influenza bei COVID-19.
+Zu MRSA, da gibt es was.
+https://www.deutsche-apotheker-zeitung.de/daz-az/2015/daz-18-2015/antibiotikum-aus-knoblauch-und-ochsengalle
+Die Anzahl der Infektionen hat diesen exponentiellen Verlauf:
+n = n0 * b ** d
+Zeichenerklärung:
+n Anzahl Infektionen, aktuell, in diesem Beispiel am 15.03.2020 = 886
+n0 Anzahl Infektionen, Referenz-Zeitpunkt, in diesem Beispiel am 05.03.2020 = 70
+b Zahlen-Basis, wieviel Neu-Infektionen pro Person und Tag
+** Potenzfunktion, „Hoch“, Beispiel: 2 ** 3 ergibt 8
+d Tage, in diesem Beispiel: (15.03.2020 -05.03.2020) = 10
+log_b Logarithmus zur noch unbekannten Basis b
+ln natürlicher Logarithmus zur Basis e=2,718
+exp E-Funktion, Beispiel: exp(1) = 2,718
+Die noch unbekannte Ausbreitungsgeschwindigkeit ‚b‘ berechnet sich mit diesen Umformungen:
+n = n0 * b ** d
+n/n0 = b ** d
+log_b(n/n0) = d
+ln(n/n0)/ln(b) = d
+ln(b) = ln(n/n0) / d
+b = exp (ln(n/n0) / d)
+Eingesetzt mit den Zahlenwerten für Bayern:
+n0 = 70 05.03.2020, RKI, Bayern
+n = 886 15.03.2020, RKI, Bayern
+d = 10 Tage (15.03.2020 -05.03.2020)
+b = exp (ln(886/70) / 10)
+b = 1,289
+In Bayern steckt also jeder Infizierter pro Tag 0,289 Personen neu an.
+Ohne Gegenmaßnahmen berechnet sich die Anzahl der Infektionen in Bayern zum 14.04.2020:
+d = Tage (14.04.2020 -15.03.2020) = 30 Tage
+b = 1,289
+n = n0 * b ** d
+Zahlen eingesetzt:
+n = 886 * 1,289 ** 30
+n = 2.030.427 Infektionen insgesamt am 14.04.2020 ohne Gegenmaßnahmen Faktor: 2030
+Ziel ist es, die alles entscheidende Zahl ‚b‘ auf Werte nahe 1 zu bringen.
+In Bayern liegt diese Zahl mit 1,289 viel zu hoch!
+Hoffentlich kommen die zu Recht beschlossenen Gegenmaßnahmen nicht zu spät!
+1.) Bei der Zeichenerklärung hat das Trennzeichen ‚:‘ gefehlt, hier nun mit ‚:‘:
+Zeichenerklärung:
+n: Anzahl Infektionen, aktuell, in diesem Beispiel am 15.03.2020 = 886
+n0: Anzahl Infektionen, Referenz-Zeitpunkt, in diesem Beispiel am 05.03.2020 = 70
+b: Zahlen-Basis, wieviel Neu-Infektionen pro Person und Tag
+**: Potenzfunktion, „Hoch“, Beispiel: 2 ** 3 ergibt 8
+d: Tage, in diesem Beispiel: (15.03.2020 -05.03.2020) = 10
+log_b: Logarithmus zur noch unbekannten Basis b
+ln: natürlicher Logarithmus zur Basis e=2,718
+exp: E-Funktion, Beispiel: exp(1) = 2,718
+2.) Hier noch einmal die Berechnungen dazu:
+n = n0 * b ** d
+n/n0 = b ** d
+log_b(n/n0) = d
+ln(n/n0)/ln(b) = d
+ln(b) = ln(n/n0) / d
+b = exp (ln(n/n0) / d)
+3.) Wichtig ist das Verhältnis n/n0 und die Zeitdifferenz ‚d‘, nicht so sehr die absoluten Zahlen. Die Anzahl der Infektionen sollte auch nach der gleichen Methode ermittelt worden sein.
+4.) Auch wenn die Dunkelziffer z.B. um den Faktor 100 höher sein sollte, also z.B. n0=7000 und n = 88600, hat das für die Berechnung der alles entscheidende Zahl ‚b‘ kaum Einfluss.
+5.) Selbst wenn jetzt die Regierung eines beliebigen Landes meint, alles kein Problem, wir haben nur 40 Infizierte, ist das keine Entwarnung! Wichtig ist die alles entscheidende Zahl ‚b‘, die potentielle Ausbreitungsgeschwindigkeit, die das exponentielle Wachstum verursachen kann.
+6.) Die Formel „n = n0 * b ** d“ gilt nur für die Anfangsphase der Pandemie. Bis die erste Million an Infizierten erreicht ist. Danach nimmt die Neuinfektions-Rate stetig ab. Bei 8 Millionen Infizierten kommt es zum Stillstand. (Gilt für Bayern mit 12 Millionen Einwohner).
+7.) Sinn der Gegenmaßnahmen ist es – wie in den Medien kommuniziert – das Gesundheitssystem nicht zu überlasten. Abschreckendes Beispiel: Italien!
+Taiwan ist es offenbar gelungen, in einem sehr frühen Stadium die alles entscheidende Zahl ‚b‘, die potentielle Ausbreitungsgeschwindigkeit, auf einen sehr niedrigen Wert (< 1.10) zu halten.
+Alles richtig gemacht!
+Deutschland/Bayern:
+Selbst wenn die Gegenmassnahmen sofort 100%-ig greifen, werden z.B. in Bayern die Infektionen in den nächsten 10 Tagen (Inkubationszeit) um den Faktor 14 steigen (= 12214).
+Allgemein gilt für (West-) Europa/Deutschland: Es wird sehr, sehr eng!
+Mein Kommentar zu den Reden von Merkel/Steinmeier:
+Meine gefühlte Meinung dazu: Offenbar haben die richtigen Experten (Virologen usw..) der Regierung mit drastischen Worten eine Standpauke gehalten, und der Regierung diktiert, was zu machen ist. Ziemlich kleinlaut wurde dies heute von Merkel/Steinmeier vorgetragen. Vorsorglich wurde der Bevölkerung schon mal die Verantwortung im Falle des Scheiterns übertragen.
+Ob das alles gut geht? Ich glaub nicht dran. Hoffentlich täusche ich mich.
+https://www.kbv.de/html/1150_44758.php
+Meine Schwiegermutter 80 ist fit u. fährt auch noch Auto. Sie kauft für ihre Rentnergang ein, die nicht mehr gut zu Fuß ist. Sie lässt sich das nicht nehmen.
+„Wir haben den Krieg überlebt u. die schlechte Zeit danach. Es gab Typhus u. alles Mögliche. Das überleben wir auch o. auch nicht!“
+Ihr glaube ich das!
+Dieses Interview mit einem Virologen beschreibt die Lage ganz gut.
+Es handelt sich offenbar um eine hochansteckende Krankheit.
+Wenn nur Schwerstkranke getestet werden und die Kontaktpersonen von gesicherten Invizierten, es bei vielen Invizierten offenbar kaum, oder gar keine Symptome gibt, so kann man von einer deutlich höheren Dunkelziffer ausgehen, als die öffentlichen Zahlen hergeben.
+Inzwischen gibt es erste Statements, daß man gar nichts gegen die Welle des Virus tun kann.
+https://www.zeit.de/politik/ausland/2020-03/boris-johnson-coronavirus-grossbritannien-massnahmen-epidemie?utm_source=pocket-newtab
+Wenn man davon ausgeht, daß 80 % der Bevölkerung inviziert werden, dann dient aller jetziger Aktionismus lediglich als Beschwichtigung und verdeutlicht, welche Lösung angestrebt wird. Unser Imunsystem wird die Hauptarbeit leisten es wird sie leisten müssen. Die Verzögerung der Ausbreitung dient lediglich der Schaffung von Kapazitäten für Extrempatienten von Lungenkrankheiten.
+Wie gefährlich das Virus tatsächlich ist wird sich noch zeigen müssen.
+Ca. 1 Mio Menschen sterben jedes Jahr in der BRD. Ca. 7 % davon an Atemwegserkrankungen. Die Auswirkungen von Corona werden wir daran sehen, inwieweit dies in diesem Jahr abweicht.
+Aber denjenigen, die meinen, daß ja nur vielleicht ein par Leute eher sterben sei gesagt, daß ich keinen Menschen kenne, der meint, es sei gar nicht so schlimm, ein wenig früher zu sterben.
+Übrigens sind auch manche „Schutzmaßnahmen“ ein Risikofaktor. Wenn man sich eine P3 Maske aufsetzt und in einen Kat. 3 Anzug pellt, hilft das gegen ein hochinfektiöses Virus soviel, wie ein Feuerlöscher in einem brennenden Heuschober. Aber die Wahrscheinlichkeit sich körperlich zu verausgaben und einen Kreislaufzusammenbruch zu erleiden ist extrem. Nicht umsonst ist für Arbeiten unter Vollschutz alle 2 Stunden eine halbstündige Pause vorgeschrieben. Es setzt sich ja auch Niemand 24 Stunden pro Tag, mehrere Wochen lang in eine Sauna.
+wenn man sich herabläßt, die Lügenzeitung „Die Zeit“ als Quelle anzuführen, beweist man damit, dass man noch weniger über das Thema wissen tut, als Boris Johnson oder sonst wer.
+Jeden Tag sterben weltweit 200.000 (zweihunderttausend) Menschen. Die Menschen sterben und dann sucht man nach Gründen dafür. Viele sterben auch an einer Grippe. Nur das verschweigen die Deppen bei der „Die Zeit“, u.a..
+Machen Sie sich doch erst einmal über den Fall Taiwan schlau. Denen wird das beste Gesundheitswesen der Welt bescheinigt. Warum wohl? Wieso lernen Sie und andere nicht von den Besten? Die bei der „Die Zeit“ haben bestimmt KEINE Ahnung.
+Higiene: von 100 Menschen waschen sich nur 70 die Hände. Und von den Letzteren wiederum nur 35 richtig. Das ist ein sehr ernstes Problem.
+Matthias Kegelmann, Mathematiker, Statistiker, Testexperte.
+ich habe geschrieben, wie viele Menschen jährlich in der BRD sterben und wie groß der Anteil von Atemwegserkrankungen ist.
+Ich habe geschrieben, daß die Gefährlichkeit dieses Corona Viruses sich erst später, hinterher heraustellen wird, weil wir dann erst im Vergleich sehen, welche Veränderung es gab.
+Ich hatte auch schon eine beidseitige Lungenentzündung. Meie Frau hatte Lungenentzündung und auch schon unser Sohn. Mein Opa ist an Lungenentzündung gestorben – wie viele bettlägrige Senioren.
+Eine spezifische Testung nach Erreger hat es bisher in dieser Form nie gegeben.
+Und mich interessiert kein Fall Taiwan und irgendwelches Inseldenken.
+Wie bei jeder hochansteckenden Viruswelle wird es vollkommen um die Welt gehen.
+Wie bei jeder Viruswelle wird das menschliche Imunsystem den kleinen Scheißer wegboxen. Das ist jetzt schon absehbar. Aber das Gesundheitssystem wird sich, wie immer, um die kümmern müssen, deren Imunsystem das nicht schafft.
+In welchem Ausmaß letzteres sein wird müssen, das ist derzeit nicht absehbar.
+Hygiene…hören Sie mir damit auf. Ich habe einen autistischen Sohn mit Waschzwang, der jede Krankheit mitnimmt und ich habe einen wasserscheuen „Dreckspatz“, der jede Bakterie und jedes Virus durch seine bloße Anwesenheit in die Flucht schlägt. So einfach ist es also nicht.
+Den Artikel der Zeit habe ich übrigens verlinkt, weil es die bisher ehrlichste Aussage darstellt.
+Wir werden immer wieder mit neuen und sehr verschiedenen Zahlen überhäuft, was die Ansteckungen und Todeszahlen angeht. Mit den wenigen Mitteln, die mir als vollkommen Fachfremder zur Verfügung stehen, versuche ich mir die Zahlen plausibel zu machen.
+So wollte ich erfahren, wie viele Grippetote es im Jahr 2017 & 2018 in China gegeben hat.
+Hier die Zahl: „Im ganzen Jahr 2018 verliefen 144 Grippefälle tödlich, während es 2016 nur 56 und im Jahre 2017 nur 41 Grippetote gegeben hatte.“
+Man vergleiche diese Zahlen mit den Werten für Deutschland. Geht man den deutschen Werten nach, so muss man feststellen, dass diese ebenfalls auf eine nicht sehr zuverlässige Weise zustande kommen.
+Mta Dialog
+Ärzteblatt: Die außergewöhnlich starke Grippewelle 2017/18 hat nach Schätzungen rund 25.100 Menschen in Deutschland das Leben gekostet.
+Pharmazeutische Zeitung: Jedes Jahr sterben weltweit vermutlich zwischen 290.000 und 645.000 Menschen an Atemwegserkrankungen infolge einer Influenza-Infektion, so die neueste Schätzung eines internationalen Forschernetzwerks unter Federführung der US-amerikanischen Gesundheitsbehörde CDC.
+Bei meiner Einschätzung schwanke ich zwischen der Ansicht, dass wir hier einer medialen Panik unterliegen. Oder dass uns ein Aktionismus vorgemacht wird. Oder dass die Lage auf Grund von Erkenntnissen einiger Weniger viel schlimmer ist, als man uns sagt.
+https://www.aerzteblatt.de/archiv/170864/Influenza-Woher-kommt-die-Z
+ca. 26 – 200 Tote je nach Saison und keine 20.000.
+Gleiches sagt Statista.com aus.
+Dieses Jahr laut RKI : Ab januar bis zum Ausklingen der Influenza Grippe Ende Januar ca. 120.000 durch Labore gemeldete Fälle und 200 Tote lt. RKI
+Sie haben teilweise Recht, aber nicht mit der Kritik am Kommentar des Admin.
+Die Rate der falsch Positiven, korrekt Positiven, falsch Negativen und korrekt Negativen kann man nur ermitteln, wenn man
+a) eine große Zufallsstischprobe testet (wie Sie ja sagen), UND
+b) ein Außenkriterium hat, unabhängig vom Test, das zuverlässig prüft, wer infiziert ist und wer nicht.
+Hat man dann die Rate der korrekt Positiven (= bei welchem Anteil der Infizierten wird der Test korrekterweise positiv; Sensitivität; Gegenwahrscheinlichkeit der falsch Positiven) und der Rate der korrekt Negativen (= bei welchem Anteil der Nichtinfizierten wird der Test korrekterweise negativ; Spezifität; Gegenwahrscheinlichkeit der falsch Negativen), und zusätzlich die Basisrate (= welcher Anteil der Bevölkerung ist insgesamt infiziert, Prävalenz), kann man die Zuverlässigkeit eines Testergebnisses mithilfe der Formel von Bayes ermitteln (=> Wikipedia), d.h. die Wahrscheinlichkeit, dass eine Person infiziert ist, wenn sie ein positives Testergbenis hat.
+Alle diese Angaben liegen beim Coronavirus bisher nicht vor. Insofern hat der Admin Recht, der die Behauptung, die falsch-positiv-Rate läge bei 50 %, als unwissenschaftlich kritisiert.
+Zhonghua Liu Xing Bing Xue Za Zhi
+, 41 (4), 485-488
+2020 Mar 5[Online ahead of print]
+[Potential False-Positive Rate Among the ‚Asymptomatic Infected Individuals‘ in Close Contacts of COVID-19 Patients]
+[Article in Chinese]
+G H Zhuang 1 , M W Shen, L X Zeng, B B Mi, F Y Chen, W J Liu, L L Pei, X Qi, C Li
+Affiliations
+PMID: 32133832 DOI: 10.3760/cma.j.cn112338-20200221-00144
+Ziel: Da die Prävention und Kontrolle von COVID-19 weiter voranschreitet, wurde in vielen Teilen Chinas das aktive Nukleinsäuretest-Screening in den engen Kontakten der Patienten durchgeführt. Die falsch-positive Rate positiver Ergebnisse im Screening wurde bisher jedoch nicht berichtet. Die Klärung der falsch-positiven Rate während des Screenings ist jedoch wichtig für die Kontrolle und Prävention von COVID-19. Methoden: Auf der Grundlage der uns derzeit zur Verfügung stehenden Informationen wurden Punktwerte und angemessene Bereiche der Indikatoren geschätzt, die sich auf die falsch-positive Rate positiver Ergebnisse auswirken. Die falsch-positive Rate positiver Ergebnisse im aktiven Screening wurde abgeleitet und univariate und multivariate-probabilistische Sensitivitätsanalysen durchgeführt, um die Robustheit der Ergebnisse zu verstehen. Ergebnisse: Wenn die Infektionsrate der engen Kontakte und die Sensitivität und Spezifität der gemeldeten Ergebnisse als Punktschätzungen herangezogen wurden, betrug der positive Vorhersagewert des aktiven Screenings nur 19,67%, im Gegensatz dazu betrug die falsch-positive Rate der positiven Ergebnisse 80,33%. Die Ergebnisse der multivariaten-probabilistischen Sensitivitätsanalyse stützten die Ergebnisse des Basisfalls mit einer Wahrscheinlichkeit von 75% für die falsch-positive Rate positiver Ergebnisse über 47%. Schlussfolgerungen: Bei den engen Kontakten von COVID-19-Patienten könnten fast die Hälfte oder sogar mehr der im Screening auf aktive Nukleinsäuretests gemeldeten „asymptomatisch infizierten Personen“ falsch positiv sein.
+qed
+Quelle vom 7. März 2020:
+https://www.epochtimes.de/politik/welt/taiwans-sensationserfolg-im-kampf-gegen-das-coronavirus-die-who-interessiert-das-kaum-a3178037.html
+Quelle vom 14. März 2020:
+https://www.achgut.com/artikel/corona_von_taiwan_lernen
+Warum Trump das rechte Maß hat und Merkel erneut ein totaler Flop sein muss.
+Quelle vom 14. März 2020:
+https://www.americanthinker.com/blog/2020/03/when_a_nobel_laureate_and_number_cruncher_talks_about_coronavirus_people_listen.html
+Quelle vom 15. März 2020:
+https://www.americanthinker.com/blog/2020/03/israelis_moving_quickly_to_get_out_a_covid19_vaccine.html
+Europa und Deppen-Deutschland haben hingegen noch nicht begriffen, dass die Party vorbei ist. Bei uns ins Bremen haben die gestern immer noch Kohlfahrt gefeiert und heute einen Eisladen in Lilienthal neu eröffnet! Und seit Donnerstag die Supermärkte gehamstert, dicht gedrängt!
+Hier mal ein paar Links mit Zahlen und aktuellen Statistiken.
+https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4
+https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
+https://jagjapan.maps.arcgis.com/apps/opsdashboard/index.html#/55c22ee976bc42338cb454765a6edf6b
+Gefährlich ist CORONA vor allen für Menschen Ü50. Da steigt die Sterberate von 1% auf ca. 20% bei Ü80 an.
+Vor allen Dingen ist nicht geklärt was mit den Menschen ist, die eine der Grippen beginnend mit der Asiatischen Grippe 1957.
+Sind unter den jetzigen Erkrankten und Verstorbenen welche, die eine der vorherigen Grippen, beginnend mit der Asiatischen Grippe, hatten.
+Ich stell mir die FRage weshalb die Mediziner das bis jetzt noch nicht geklärt haben.
+Ich bin kein Virologe und kein Arzt.
+Aber:
+So weit bekannt, sucht so ein Schnelltest nach Antikörpern. Es dürfte zumindest schwerfallen, wenn wirklich von einem neuen Virus die Rede ist, die gefundenen Antikörper als Beweis für die Corona‑Erkrankung anzuführen. Ein Beweis ist erbracht, wenn der Virus bei einem Patienten tatsächlich nachgewiesen ist. Insgesamt ist wohl, trotz allem, keine höhere Mortalitätsrate zu früheren Grippewellen festzustellen. Zumindest muss das ganze Geschehen wach halten, so, dass alle Behauptungen hinterfragt werden. Vertrauen ist, nach meiner Meinung, nicht angebracht, gesunde Skepsis aber.
+Sie sagen es sei keine höhere Mortalitätsrate als bei früheren Grippewelle zu beobachten.
+Wie hoch ist in Italien die Mortalitätsrate derzeit?
+MfG
+Ketterer
+Wie viele Tote gab es in Taiwan, im Zusammenhang mit dem Corona-Virus?
+Sehr viele hier haben den Zusammenhang zwischen Ursache und Wirkung längst aus den Augen verloren. Mathe ist NUR ein Hilfsmittel und kein Zauberstab.
+Zurück zur eigentlichen Frage. Wie viele Tote gibt es in Taiwan, bitte?
+Und warum ist unsere Regierung zu blöd, zu inkompetent, dieser intelligenten Lösung ebenso zu folgen? Warum redet hier keiner über überhebliche Versagen dieser schwachsinnigen Regentschaft à la Merkel?
+Kennen Sie einen Mediziner, der in der Lage ist systematisch zu arbeiten?
+Ja?
+Glückwunsch!
+Zwar gehen alle Maßnahmen derzeit mehr oder weniger vom schlimmsten Fall aus, was völlig richtig und sinnvoll ist, aber noch kann man hoffen, dass die Endbilanz weniger schlimm ausfällt als befürchtet. Also besonnen bleiben und Panik vermeiden.
+y(t) = α * exp(-β * exp(-k*t))
+Ob es ein krankmachendes Corona-Virus gibt, ist nach wie vor völlig unklar. Es gibt das Corona-Virus als Fiktion (schon 20 Jahre !) mit – man höre und staune – Computer-Modellen der Ausbreitung. Was Computer-Modelle wert sind, wissen wir seit der Diskussion zum Klimawandel, der vom Menschen gemacht sein soll …
+Wenn der Spuk vorbei ist, werden wir das besser einordnen können. Nehmt Vitamin D und freut Euch des Lebens. Vielleicht ein link, der die Corona-Angst beseitigt https://www.youtube.com/watch?v=3iOabKIajW8
+1. Haben Sie dafür Belege?
+2. Wie erklären Sie sich die rasante Zahl der positiv getesteten, die extrem ansteigende Zahl der Kranken und die ebenso schnell ansteigende Zahl der Schwerkranken die Atmungsgeräte benötigen.
+Wo waren die vorher?
+Zu 2.: Laut RKI haben 80 % der positiv getesteten keine bis milde Symptome. Auch im Internet berichten Positive, sie merken gar nichts.
+Die 20 % zeigen starke Symptome, eben Pneumonie.https://www.google.com/search?client=firefox-b-d&q=Tote+durch+Lingenentz%C3%BCndungen%2C+Statistik
+Ausgelöst durch Bakterien und Viren erkranken jedes Jahr 750.000 Menschen an einer ambulant, also nicht im Krankenhaus erworbenen Lungenentzündung. 291.000 kamen 2016 deswegen ins Krankenhaus, 13 Prozent dieser Patienten starben – mehr als 30.000 Verstorbene, das sind zehnmal mehr, als es 2016 Verkehrstote gab.
+Hat das jemanden jemals gestört ? Haben wir damlas etwa das Corona übersehen ???
+Diese ist, im Gegensatz zum Klimawandel, doch nun eine höchst reale Gefahr.
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+Bitte geben Sie hier Literatur an, ansonsten halte ich Ihren Beitrag für verantwortungslose Beschwichtigung. Bitte lesen Sie diesen Bericht eines italienischen Arztes:
+https://www.rainews.it/tgr/tagesschau/articoli/2020/03/tag-Arzt-Bergamo-Christian-Salarioli-Zustaende-Krankenhaus-Entscheidung-Bhandlung-ja-nein-Tod-3dc38bc1-8b89-406d-aa19-805d03a95cfa.html
+Mit Verlaub Herr Doktor. Was soll das?
+wenn Sie hier einen Zeugen wie Gerhard Wisnewski für Ihre doch recht zweifelhaften Behauptungen aufführen, dann macht mich das für letztere schon sehr misstrauisch. Bei solchen Autoren wie G.W. muss man sehr genau unterscheiden, wo die Grenze zwischen einem seriös recherchierenden Journalisten und einem „Verschwörungstheoretiker“ („Lügen im Weltraum“ z.B.) liegt. Und G.W. kann beides.
+Hochinteressantes Video, das betont zu mehr Rationalität aufruft. Es beantwortet aber einige Fragen nicht. Wie z.B.
+1. Dr. Wodard sagt selber, dass sich die Viren naturgemäß ständig verändern. Wenn das auch für den Corona Virus zutrifft, dürfte das nicht mehr derselbe von vor 5 bis 10 Jahren sein. Daher weiß er auch nicht, ob der gefährlicher ist, als der alte, oder nicht.
+2. Wie erklärt Herr Godard die massive Zunahme an Patienten mit schwersten Atemwegserkrankungen, die die Intensivstationen übervölkern und positiv auf Corona getestet wurden. Bisher – also bis Ende Dezember- waren diese z.B. in Italien ja auch von der Kapazität her völlig ausreichend. Es gab keinen Notstand.
+Alle anderen Fragen, wie z.B. die nach der Mortalitätsrate hängen sicherlich ausschließlich von den Abgrenzungsmöglichkeiten und der Qualität der erhobenen Daten ab. Die werden aber von Tag zu Tag eindeutiger und die Wissenschaftler, die die Statistiken z.B. von der John Hopkins University in Baltimore erstellen, (und die hier verwendet werden) kann man doch unterstellen, dass sie ihr Handwerk verstehen, oder?
+Aber Tatsache ist doch wohl, dass viel mehr Menschen – insbesondere alte Menschen mit Vorerkrankungen – was für diese Altersgruppe auch typisch ist- also deutlich mehr als vorher, schwerst krank werden, mit Symptomen wie bei schwerer Grippe, und dazu, als Unterscheidungsmerkmal, den (evtl. mutierten) Coronavirus tragen.
+Zusammenfassung. Cooles und überzeugendes Video, beantwortet aber einige wichtige Fragen nicht, jedenfalls nicht für mich erkennbar.
+Andererseits ergibt sich auch die Chance, wieder zur Vernunft zu kommen zu müssen, um den Untergang zu verhindern, ist es zwingend nötig, endlich diesen unsäglichen CO2-Irrsinn zu beenden und zur freien Marktwirtschaft zurückzukehren, vernünftige Kraftwerke bauen und das Erfolgsmodell Verbrenner wieder aktivieren, dann steht einem zweiten Wirtschaftswunder nichts mehr im Wege.
+Maßgebend für den Gesundheitsaspekt ist die Übersterblichkeit, und die ist nicht zu erkennen.
+Wäre auch an einer seriösen Quelle dazu interessiert. Und natürlich sterben die Leute an Lugenentzündung. Die bekommen vor allen Alte und Vorerkrankte.
+Gesunde Leute U50 müssen sich eigentlich keine Sorge machen.
+Ich beurteile sowas möglichst früh, Herr Dr. Erfurth.
+Und Medizinern in Fragen der Wissenschaft traue ich sowieso nicht mehr. Nicht nur weil ich von Vieren die tatsächliche Befähigung von Kindheit an kenne, nämlich miserable Allgemeinbildung der Wissenschaft, denn Mediziner müssen in erster Linie auswendig lernen können, lernen aber kein wissenschaftliches Arbeiten. Und die meisten Erkrankungen können die Menschen auch ohne Mediziner problemlos beenden.
+Die Kompetenz von Medizinern kann ich immer leicht feststellen, wenn die mich nach dem Alter einer Operationsbauchnarbe befragen. Dann weiß ich alles über deren Inkompetenz.
+Was jetzt in der Medizin abgeht zeigt erneut deren Unfähigkeit. Erst jetzt werden Grenzen, Kneipen & Co geschlossen und die Bevölkerung gewarnt. Das hätte spätestens bereits vor sechs Wochen passieren müssen.
+Die Wahrscheinlichkeitsrechnung in der Mathe für Naturwissenschaftler haben Sie wohl abgeschrieben.
+OMG
+Ketterer

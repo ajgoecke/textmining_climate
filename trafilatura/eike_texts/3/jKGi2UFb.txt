@@ -1,0 +1,201 @@
+Die residualen Auswirkungen großer Vulkanausbrüche (nicht im Modell enthalten) zeichnen sich eindeutig ab. Zwei interessante Ergebnisse sind Folgende: 1) das natürliche, in den Modellen implizit vorhandene Gleichgewichts-Niveau von CO2 in der Atmosphäre beträgt etwa 295 ppm und nicht 265 oder 270 ppm wie oftmals angenommen, und 2) falls sich die CO2-Emissionen stabilisieren und konstant auf dem Niveau des Jahres 2018 gehalten werden würden, dann würde sich die atmosphärische Konzentration eventuell bei nahe 500 ppm stabilisieren, selbst mit fortgesetzten Emissionen.
+[Ende SUMMARY].
+Eine E-Mail-Diskussion hinsichtlich der nicht-anthropogenen Quellen von CO2 ließ mich ein einfaches Modell betrachten, um die Historie der CO2-Messungen am Mauna Loa seit 1959 zu erklären. Dabei habe ich hier nicht die Absicht zu beweisen, dass irgendwelche natürlichen Quellen ursächlich für den jüngsten CO2-Anstieg sind, glaube ich doch, dass es zumeist anthropogene Quellen sind. Stattdessen versuche ich zu ergründen, wie gut ein einfaches Modell den CO2-Anstieg erklären kann und welche nützlichen Erkenntnisse aus einem solchen Modell abgeleitet werden können.
+Das Modell verwendet die Schätzungen der jährlichen anthropogenen CO2-Erzeugungsraten seit 1750 von Boden et al. (2017), aktualisiert bis 2018. Das Modell geht davon aus, dass die Rate, mit der CO2 aus der Atmosphäre entfernt wird, proportional ist zum atmosphärischen Überschuss über einem bestimmten natürlichen „Gleichgewichts-Niveau“ der CO2-Konzentration. Eine Tabellen-Kalkulation mit dem Modell findet sich hier.
+Der vermutete jährliche CO2-Eintrag in das Modell sieht so aus:
+Ich habe auch die Auswirkungen von El Nino und La Nina hinzugefügt, welche nach meiner Berechnung eine jährliche Änderung von 0,47 ppm CO2 pro Einheit des Multivariate ENSO Index (MEI)-Wertes (Mittel von Mai bis April). Dies hilft, einige der Ausschläge in den Mauna Loa-Messungen zu erfassen.
+Der resultierende Fit zu den Mauna Loa-Daten erforderte ein vermutetes „natürliches Gleichgewicht“ der CO2-Konzentration von 295 ppm, was höher ist als das normalerweise angesetzte Niveau von 265 oder 270 ppm in vorindustrieller Zeit:
+Man beachte, wie gut selbst die geringen, von El nino und La Nina induzierten Änderungen abgebildet werden. Mit der Rolle von Vulkanen befasse ich mich später.
+Die nächste Abbildung zeigt den gesamten Modellzeitraum seit 1750, verlängert bis zum Jahr 2200:
+Man beachte, dass sich interessanterweise die atmosphärische Konzentration trotz fortgesetzter CO2-Emissionen bei nahe 500 ppm stabilisiert. Dies ist die direkte Folge der Tatsache, dass die Mauna Loa-Messungen die Vermutung stützen, dass die Rate, mit welcher CO2 aus der Atmosphäre entfernt wird, direkt proportional ist zu der Menge des „Überschuss“- CO2 in der Atmosphäre über einem „natürlichen Gleichgewichts“-Niveau. Mit der Zunahme des CO2-Gehaltes nimmt auch die Rate oder Entfernung zu, bis sie zur Rate des anthropogenen Eintrags passt.
+Wir können auch die Entfernungsrate von CO2 als einen Anteil der anthropogenen Quelle untersuchen. Wir wissen schon lange, dass nur die Hälfte dessen, was emittiert wird, in der Atmosphäre „auftaucht“ (was nicht das ist, was wirklich vor sich geht), und vor Jahrzehnten hat das IPCC vermutet, dass Biosphäre und Ozeane nicht das Überschuss-CO2 mit einer derartig hohen Rate entfernen können. Aber tatsächlich ist es so, dass der Bruchteil der Rate der Entfernung zugenommen und nicht abgenommen hat. Und das einfache Modell bildet dies ab:
+Die Auf-und-Ab-Variationen in Abbildung 4 sind El Nino und La Nina-Ereignissen geschuldet (und Vulkanausbrüchen, die als Nächstes diskutiert werden).
+Und zum Schluss eine Graphik, welche die Differenz zeigt zwischen dem Modell und den Mauna Loa-Messungen. Dabei werden die Auswirkungen von Vulkanen sichtbar. Nach einem großen Ausbruch wird die CO2-Menge in der Atmosphäre gedrückt, entweder durch eine Abnahme der natürlichen Emissionen von der Oberfläche oder durch eine Zunahme des atmosphärischen Aufnehmens von CO2 der Atmosphäre:
+Was für mich erstaunlich ist: Ein Modell mit so einfachen, aber physikalisch sinnvollen Annahmen kann so genau die Mauna-Loa-Aufzeichnungen der CO2-Konzentration abbilden. Ich gebe zu, kein Experte bzgl. des globalen Kohlenstoff-Zyklus‘ zu sein, aber die Mauna Loa-Daten scheinen die Vermutung zu stützen, dass für globale jährliche Mittelwerte an der Oberfläche eine Gesamt-Menge von CO2 aus der Atmosphäre entfernt wird, welche direkt proportional ist zu wie stark die CO2-Konzentration über 295 ppm steigt. Die biologischen und physikalischen ozeanographischen Gründe hierfür mögen komplex sein, aber das Ergebnis insgesamt scheint einer einfachen Relation zu folgen.
+Link: https://wattsupwiththat.com/2019/04/11/a-simple-model-of-the-atmospheric-co2-budget/
+Übersetzt von Chris Frey EIKE
+Da stellt sich mir die Frage, welche Mikrowellenemissionen sondert Sauerstoff ab? Angeblich kann doch Sauerstoff als zweiatomiges Molekül gar nicht strahlen? Weiß wer, was wird hier eigentlich gemessen wird?
+1976 hatte Heinz Reuter das Buch „Die Wettervorhersage“ geschrieben. Darin sollte Sie die sete 60 lesen :
+https://books.google.de/books?id=qEazBgAAQBAJ&pg=PA60&lpg=PA60&dq=Sauerstoff+Mikrowellen+emissionen&source=bl&ots=ojZ3XwXzZh&sig=ACfU3U2J36uCSrDOjS5GEDgZy2JrKwU3Qg&hl=de&sa=X&ved=2ahUKEwie1KKtvubhAhUD16QKHV6pCOc4ChDoATADegQICRAB#v=onepage&q=Sauerstoff%20Mikrowellen%20emissionen&f=false
+Ob dort Sinn Oxer Unsinn geschrieben wurde, können Ihnen die Klimaexperten bei EIKE oder unter den Kommentatoren erklären
+Es geht hier um die 55GHz Absorption vom O2. Damit lässt sich die „Temperatur“ in verschiedenen Höhenbereichen feststellen.
+Siehe: https://directory.eoportal.org/web/eoportal/airborne-sensors/hymas
+Oder per Google-Suche: oxygen microwave absorption spectrum
+Mfg
+Werner Holtz
+Wie waere es, wenn Sie eine Brille aufsetzen wuerden, um die Diagramme
+https://www.esrl.noaa.gov/gmd/ccgg/trends/full.html
+sowie
+https://www.esrl.noaa.gov/gmd/ccgg/trends/index.html
+zu betrachten.
+Seit etlichen Jahren habe ich die CO2-Messdaten von verschiedenen Stationen weltweit auf meinen Computern gespeichert. Diese Datensaetze werden regelmaessig erweitert.
+Wenn ich Ihnen also schreibe, dass die diese Schwankungen etwa +/- 4 ppmV betragen, dann sollten Sie sich zuert einmal informieren, bevor Sie hier etwas Falsches verbreiten.
+Vor 11 Jahren publizierte Ernst-Georg Beck, den Hans Mayer in seinem Beitrag erwaehnte, ein Paper in Energy & Environment, „50 YEARS OF CONTINUOUS MEASUREMENT OF CO2 ON MAUNA LOA“. Ich weiss nicht, ob Sie dieses Paper kennen, ich kenne es ziemlich gut, weil ich sein Manuskript mit Ernst-Georg Beck diskutiert habe. Deswegen heisst es in seinem Acknowledgement:
+„The author wishes to give special thanks to the following persons for their help in
+reviewing and preparing the manuscript: Dr. Gerhard Kramm, Dr. Richard Courtney,
+and Dr. Sonja Böhmer-Christiansen.“
+Dass Vulkanausbrueche mit CO2-Emissionen einhergehen, ist mir seit meinem Studium vor mehr als vier Jahrzehnte bekannt.
+(zugegeben er heißt Peter und die Farbe seiner Partei ist schwarz (-))
+Zunächst erst einmal die laut IPCC angegebenen Konzentrationen von CO2, Methan und Lachgas in der Atmosphäre :
+CO2 : 400 ppm = 0,04 %
+Methan : 1850 ppb = 0,000185 %
+Lachgas : 330 ppb = 0,000033 %
+Peter Altmaier muss nun die Energiewende bewerkstelligen, weshalb er zu Recht im Januar diesen Jahres gesagt hatte, dass die „Fridays for Future“ Demonstrationen eine Scheiß Idee sind. Seine Probleme sind enorm, weil sowohl große technische Probleme und ab 2050 auch Rohstoffprobleme noch zu lösen sind, wenn man auf „Erneuerbare“ und auf Elektromobilität setzt :
+Fraunhofer-Allianz Lithium Ionen Batterie schreibt z.B. auf ihrer Website, dass die Entwicklung geeigneter Batterien mit genügend Kapazität zur Umwandlung von elektrischer Energie in chemische Energie noch in den Kinderschuhen steckt. Das KIT-Institut in Karlsruhe weist bereits auf Probleme in der Versorgung mit Lithium und Kobalt zur Entwicklung dieser Batterien spätestens ab 2050 hin. Ohne Lithium wird die Entwicklung geeigneter Batterien noch schwieriger als sie es jetzt schon ist ! Die Nutzung von überschüssigen Windstrom für die Produktion von Wasserstoff durch Elektrolyse von Wasser ist auch eine Scheiß Idee und ökonomisch nur vertretbar, wenn der Preis für den Strom maximal 2,2 Cent pro kWh beträgt. Über diese Probleme wird aber kaum berichtet und dass die Herren Rahmstorf und Schellnhuber mit Altmaier und Fraunhofer Allianz Lithium Ionenbatterie (Teil des Kompetenzzentrums Lithium Ionen Batterie) und dem KIT-Institut nicht einmal Rücksprache gehalten haben, ist einfach nur erbärmlich !
+was haben Spencer’s wissenschaftliche Ergebnisse mit seiner Nebentaetigkeit zu tun? Spencer ist „Research Scientist“ an der University of Alabama, Huntsville. Neben seiner Taetigkeit arbeitet er als Policy Advisor fuer das Heartland Institute, was bedeutet, dass er als politischer Berater fuer dieses Institut taetig ist. Gleichzeitig ist er Mitglied des Board of Directors des George C. Marshall-Institute. Solche Nebentaetigkeiten sind in den Vereinigten Staaten nichts Aussergewoehnliches. Zu den Mitbegruendern des Marshall-Instituts zaehlt uebrigens Frederick Seitz, der der 17. Praesident der US National Academy of Sciences und der 4. Praesident der Rockefeller University war. Wollen Sie solchen Leuten die wissenschaftliche Qualifikation absprechen, nur weil diese Leute mit Karl Chemnitz nichts am Hut haben?
+Frage: „Ueber welche Qualifikation verfuegen Sie?“
+Wissen Sie uebrigens fuer wieviele Einrichtungen Schellnhuber, Ernst-Ulrich von Weizsaecker und Grassl taetig sind.
+Sie behaupten:
+„Im Juni 2016 wurden infolge des Insolvenzverfahrens des Kohlekonzerns Peabody Energy, der eine wichtige Rolle bei der organisierten Leugnung des Klimawandels spielte, Akten öffentlich, die belegen, dass das Unternehmen eine Vielzahl von klimaskeptischen Organisationen und Personen finanzierte. In diesem Zusammenhang wurde auch Spencer genannt.“
+Niemand leugnet einen Klimawandel, weil das der Normalfall ist. Es geht bei der Diskussion nur darum, ob dieser Klimawandel anthropogenen Ursprungs ist oder nicht. Und da kein physikalisches Gesetz existiert, was eine Abhaengigkeit zwischen der Variation der global gemittelten Oberflaechentemepratur und der Variation der CO2-Konzentration beschreibt, dient Ihre Behauptung nur dem ueblichen Versuch, einen Wissenschaftler zu verleumden und zu diskreditieren, der Ihnen ein Dorn im Auge ist.
+Was Insolvenzverfahren in den Vereinigten Staaten bedeuten, wissen Sie offensichtlich nicht. Es dient vor allem der Reorganisation eines Unternehmens (siehe Chapter 11 of Title 11, the United States Bankruptcy Code).
+Uebrigens las ich im Handelsblatt, dass Senvion (frueher REpower), einer der bekanntesten Windturbinenhersteller in Deutschland, insolvent ist.
+Dem ist absolut nichts hinzuzufügen
+Ich behaupte gar nichts, ich habe nur Wikipedia zitiert. Ich habe auch keine Qualifikationen, außer vielleicht Quellen zu hinterfragen.
+Ich habe Hinweise gefunden, dass Herr Spencer für seine Meinungen von der Erdöllobby Geld erhält. Das stimmt mich nachdenklich. Sie nicht?
+Haben Sie Hinweise auf intransparente Zahlungen an Schellnhuber & Co.? Dann raus damit.
+„Spencer ist Mitglied des Heartland Institute[21] und Mitarbeiter des George C. Marshall Institute, beides Think Tanks mit politisch konservativer Ausrichtung.
+Im Juni 2016 wurden infolge des Insolvenzverfahrens des Kohlekonzerns Peabody Energy, der eine wichtige Rolle bei der organisierten Leugnung des Klimawandels spielte, Akten öffentlich, die belegen, dass das Unternehmen eine Vielzahl von klimaskeptischen Organisationen und Personen finanzierte. In diesem Zusammenhang wurde auch Spencer genannt.“
+Ist das alles was Ihnen zur Qualifikation von Roy Spencer einfällt? Erbärmlich!
+Jo!
+Guckst du, wer PIK und Konsorten finanziert.
+Dann hier veröffentlichen…
+Dr. Spencer’s research has been entirely supported by U.S. government agencies: NASA, NOAA, and DOE. He has never been asked by any oil company to perform any kind of service. Not even Exxon-Mobil.
+Dr. Spencer’s first popular book on global warming, Climate Confusion (Encounter Books), is now available at Amazon.com and BarnesAndNoble.com.”
+Quelle: http://www.drroyspencer.com/about/
+jeder, auch Sie, kann unterstützten, wen er will. Dieses sagt nichts über die Qualität der Person aus, denn da man muss sich den Themen stellen, um eine Aussage zu machen.
+Eine „organisierte Leugnung des Klimawandels“ gibt es nicht.
+Sie schreiben da Unfug!
+Sind Sie hier auf Dummen-fang oder auf Hexenjagd?
+Abschließend kann ich nur in Abwandlung eines Spruchs von Cato dem Älteren sagen: Im übrigen bin ich der Meinung, dass die CO2-Hypothese des Klimawandels zerstört werden muss.
+Das sehe ich ebenso.
+Als Grund für den makroskopischen beinahe linearen Anstieg sehe ich in einem Fehler der Messapplikation.
+Der Sensor scheint einer Drift zu unterliegen.
+Und das Observatorium in Mauna Loa dient als Akkreditierungsanstalt für selbige Sensoren. Sprich anerkannte Messungen dürfen nur mit von denen legitimierten sprich Kalibrierten und anerkannten Messsystemen erfolgen. Ergo können alle diese Messapparaturen den selben Fehler haben, wodurch dann etwas gemessen wird, was gar nicht existiert: Ein kontinuierlicher Anstieg des CO2-Gehalt in der Atmosphäre.
+OMG
+Steht oben an
+Und Sie haben es nicht verstanden.
+Da sthet nicht, dass nur dort kalibrierte Analysegeräte verwendet werden dürfen. Und wenn Sie _brechtigte_ zweifel an der Korrektheit der Standards haben, sthet es Ihnen frei selbige zu belegen.
+Sie können ja auch die Länge des Urmeters in Zweifel ziehen. Nur müssen Sie es begründen.
+MfG
+Ketterer
+P.S. Die Standards für die Meesungen werden nicht auf dem Mauna Loa gepflegt. Wie gesagt, Sie haben hier einiges nicht verstanden, zum verbreiten von FNews reicht es wohl dennoch?!?
+Sie schreiben:
+„Als Grund für den makroskopischen beinahe linearen Anstieg sehe ich in einem Fehler der Messapplikation.
+Der Sensor scheint einer Drift zu unterliegen.”
+Sie verweisen doch auf
+https://www.esrl.noaa.gov/gmd/ccl/
+Haben Sie dort nicht gelesen wie die Kollegen dieses von Ihnen als „Sensor-Drift“ beschrieben Problem gelöst haben? Im Prinzip so wie dies von messenden Kollegen seit langem praktiziert wird.
+Lesen Sie nicht was Sie verlinken oder liegt es nur am Verständnis?
+Egal wie: Sie sollten keine FakeNews streuen.
+MfG
+Ketterer
+Es steht oben an, dass das NOAA das Central Calibration Laboratory ist. Also für die Akkreditierung der Sensorik verantwortlich die Standards herausgibt nach welchen verfahren werden soll und nach welchen dann die Messungen von CO2 anerkannt sind.
+Hier
+http://scrippsco2.ucsd.edu/assets/scientific_tributes/the_mauna_loa_carbon_dioxide_record_2009_sundquist.pdf
+finden Sie unter dem Stichwort „drift“, das es sehr wohl eine Probelmatik hinsichtlich sogar der Kalibrierung des Sensor gibt, nur dass es nicht in der Öffentlichkeit breitgetreten worden ist.
+Dass das Diagramm von seinem Anstieg her, den ich persönlich für unnatürlich halte, der also einer Drift entspringen kann ist meine persönliche Meinung, aus meiner Erfahrung mit Messsensorik. Beispielsweise mit Temperatursensoren, oder auch den Messkarten, also den AD DA Wandlern.
+Daher: Meine Meinung direkt als Verbreiten von FakeNews zu bezeichnen finde ich schon eine gewagte Position.
+Sehr wohl wurde sich mit der Problematik intensiv beschäftigt.
+Jedoch habe ich keinen Hinweis darauf gefunden, dass die Problematik der Drift bahnbrechend behoben worden ist.
+Im Gegenteil, weiter heisst es unter obigen Link:
+“There was no guarantee that NOAA’s program might not have problems in the future.
+:und:
+The CO2 program,” he argued, “was important enough that at one spot on the Earth two parallel sets of measurements were justified” [Keeling, 1998, p. 61].
+Ein Problem kann also nicht ausgeschlossen werden, womit sich die Wissenschaftler ein Hintertürchen für die Verantwortung von möglichen Fehlmessungen offenhalten
+und es wurden doch am Mauna Loa zwei unterschiedliche Messsysteme justiert, also das eine mit seinen Fehlern auf das andere eingestellt.
+Also wie gesagt keine FakeNews, sondern meine Meinung zu den erhobenen Messdaten.
+MfG
+Neulen, Holger
+https://www.esrl.noaa.gov/gmd/ccgg/about/co2_measurements.html
+bereits unter „Calibration of the instrument.“ gelesen haben,
+werden für den Kalibrierprozess Temperatur– und Drucksensoren gebraucht. Beide anfällig für Drift, dass ich also sogar den Kalibrierprozess für Fehlerbehaftet, also verantwortlich für besagte Drift im Mauna Loa Record ansehe, leider findet sich für den eigentlich wichtigeren Kalibrierprozess keine Fehlereinflussanalyse.
+MfG
+Neulen, Holger
+meine Einschätzung „FakeNews“ bezog sich auf diesen Absatz:
+Der Sensor scheint einer Drift zu unterliegen.
+Und das _Observatorium_in_Mauna_Loa_ dient als Akkreditierungsanstalt für selbige Sensoren. Sprich anerkannte Messungen dürfen_nur_mit_von_denen_legitimierten_sprich_Kalibrierten und anerkannten_Messsystemen_erfolgen. Ergo können alle diese Messapparaturen den selben Fehler haben […]“
+Das sind und bleiben Fake-News und diese wirken ja (Hans Mayer: „Die Tricksereien der „Institute“ scheinen ja nirgends zu enden.“). NOAA betreibt das Observatorium auf dem Mauna Loa und NOAA ist bei der Kalibrierung der Mess-Grundklagen beteiligt – neben anderen Institutionen. Schon allein damit ist die „Alleinherrschaft über die Messungen“ durch NOAA ausgebremst.
+Wie oben schon erläutert ist es nicht Ihre Meinung (Drift, Messproblematik) die ich als FakeNews bezeichne. Sie führen ja Ihre berechtigten Punkt zu den verschiedenen Störgrößen bei den Messungen aus. Sie hatten wohl aber überlesen, dass durch die Vergleichsmessung der Kalibiergase diese Fehler minimiert werden wie hier dargelegt:
+„Therefore, we either have to extremely accurately control the temperature and pressure in the cell, as well as the flow rate, or we can control them less accurately while using frequent calibrations of the instrument with reference gas mixtures of CO2-in-dry-air spanning the expected range of the measurements.“
+Herr Neulen, aus dem Satz „The CO2 program […] was important enough that at one spot on the Earth two parallel sets of measurements were justified” “exzerpieren” Sie diesen Inhalt: “wurden doch am Mauna Loa zwei unterschiedliche Messsysteme justiert, also das eine mit seinen Fehlern auf das andere eingestellt.“, dann kann man das als mangelhafte Englischkenntnis klassifizieren oder eben als FakeNews, da Sie hier ja Tatsachen verdrehen.
+Eine korrekte Übersetzung wäre gewesen: „Das CO2 Programm war wichtig genug um an einem Ort der Erde [den Aufwand von] parallel zwei Messsystem zu rechtfertigen.“ Bei Ihrer Interpretation wäre das Verb nicht „justified“ sondern „adjusted“ gewesen.
+Herr Neulen Ihr: „also das eine mit seinen Fehlern auf das andere eingestellt“ ist also FakeNews Nummer zwei.
+„Justification“ trifft nämlich ebengenau auch Justierung
+hier
+https://www.dict.cc/?s=justification
+Ihre Englischkenntnisse in Ehren aber in diesem Satz geht es nunmal aus vorher gesagtem um das Objekt: „sets of Measurements“, was ebengenau damit geschehen ist.
+Sie wurden „justified“, also miteinander abgeglichen.
+Alleine auf einen Satz einen translator loszulassen genügt dem Inhalt zu oben angeführtem link halt nicht!
+Ihrer Übersetzung nach müsste es „to justify“ heissen.
+Und wie gesagt in der Verantwortung in der diese Messherren juristisch wohl nicht stehen wollen, ist Zweideutigkeit wohl angesagt.
+Manchmal kann man auch zur Kalibrierung von CO2-Sensoren lesen, dass diese an normaler frischen Aussenluft einfach auf 400 ppm eingestellt werden sollen
+:
+:
+hier
+https://www.co2meter.com/blogs/news/7512282-co2-sensor-calibration-what-you-need-to-know
+besser wäre aber eine Kalibration über das Kalibriergas Nitrogenium mit 0 ppm CO2.
+Jedenfalls zum Messen der Konzentration in der Aussenluft.
+Und dies wird ja auf Mauna Loa gemäß deren Angaben nicht praktiziert.
+Und wer zu einem zu 100% nicht geklärten Sachverhalt seine Meinung vertritt verbreitet nach Ihrem dafürhalten wohl immer FakeNews. Keine Gute Haltung um also zum Klären des Sachverhalt beitragen zu lassen, wäre ja in diesem Falle auch mehr als peinlich.
+Schonmal an einer Brainstorming–Runde teilgenommen, dort wäre ihre Haltung nicht erwünscht!
+MfG
+Neulen, Holger
+Der Text war von US-Amerikanern, da hilft ein Blick in deren Wörterbuch.
+https://www.merriam-webster.com/dictionary/justify
+oder auch hier:
+https://www.collinsdictionary.com/dictionary/english/justify
+Die von Ihnen verwendete Semantik ist dort nicht zu entdecken. Sie liegen somit aller Wahrscheinlichkeit nach falsch (hoher FakeNews-verdacht!).
+Des weiteren macht Ihre Übersetzung semantisch wenig Sinn. Auch Ich lasse auch keinen „Translator“ auf die englischen Texte, die ich lese. 15 Monate an U.S.-amerikanischenUniversitäten und Froschungseinrichtungen habe mir ein verhandlungssicheres Englisch beschert.
+Es mag ja sein, dass man manchmal solchen Unsinn lesen kann wie „Manchmal kann man auch zur Kalibrierung von CO2-Sensoren lesen, dass diese an normaler frischen Aussenluft einfach auf 400 ppm eingestellt werden sollen“
+Nur, Sie reden die ganze Zeit von NOAA / ESRL / CIRES und die haben sehr gute Vorschläge, wie zu kalibrieren ist. Also brainstormen Sie doch bitte solche Strohmann-Argumente dort, wo man sinnbefreit zu diskutieren wünscht.
+Wenn Sie die Kalibrierung auf dem Mauna Loa verstanden hätten, dann wüssten Sie, dass dort gegen definierte Standards kalibriert wird, die den Bereich der erwarteten Messwerte abdecken. Auch um die von Ihnen erwähnte Druck und Temperatur-Problematik zu minimieren. Wie soll dann Ihr Kalibrierungsvorschlag eine Verbesserung bringen?
+P.S. Ihre Anmerkung „Ihrer Übersetzung nach müsste es „to justify“ heissen.“ Zeigt, dass Ihre Übersetzung eher menachnistischen Charakter hat und ein notwendiges Sprachgefühl Ihre Übersetzerei nicht belastet.
+Kein Wunder, dass dabei vor allem Murks herauskommt. Insbesondere wenn man ein „Wörterbuch“ benutzt, in das jeder seine „meinung“ eintragen kann (GIGO). Herr Neulen, Die „Justification“ kommt in modernen Wörterbüchern (MW, Collons, Oxford, Cambridge,…) nicht in Ihrer Semantik vor, warum sollen also amerikanisch Wissenschaftler „Ihre Semantik“ anwenden wollen?
+Und durch gewandte Zweideutigkeit in seiner Aussprache kann man sich ja für den Ernstfall ein Hintertürchen offen lassen.
+dann lesen Sie mal unter
+https://www.merriam-webster.com/dictionary/justified
+„shown to have a just, right, or reasonable basis“
+kommt meiner Ausführung näher als der Ihren, denn obiges beschreibt ja eher so etwas wie abgleichen also eine „basis“ für zwei unterscheidliche Messsysteme zu haben!
+Aus M-W.com:
+Definition of justified
+1 : having or shown to have a just, right, or reasonable basis
+a justified punishment
+a justified reputation for toughness
+Such work calls for a combination of training and talent that few can lay justified claim to …
+— Bernard Knox
+2 typography
+a : aligned evenly at the margin
+a justified line of text
+In justified composition, where the type must be flush with both the left and right margins, the machine will automatically expand or condense the word space or hyphenate end-of-line words to fill up the line measure.
+— Ray Blair and Thomas M. Destree
+b : made even by spacing lines of text
+a document with justified margins
+https://dict.tu-chemnitz.de/english-german/justified.html
+„ausgerichtet“ für „justified“ sogar an erster Stelle steht.
+Der CO2–Gehalt um 1850 war bei 0,04% gemessen und in Meyers Konversationslexikon archiviert. Siehe
+https://www.youtube.com/watch?v=XEVC27nkPDY bei
+https://youtu.be/XEVC27nkPDY?t=50s
+… also unterliegt die Mauna Loa Kurve einer fehlerhaften Drift!
+“ Ich gebe zu, kein Experte bzgl. des globalen Kohlenstoff-Zyklus zu sein“
+Wird im Artikel klar, auch ohne dass er das selbst bestätigt.
+könnten Sie so freundlich sein und kurz die Textstellen nennen, an denen Ihnen dies klar geworden ist, bevor Sie gelesen haben, dass der Autor kein Experte des Kohlenstoff-Zyklus ist?
+Mit bestem Dank im Voraus!
+MfG
+es war eigentlich keine Textstelle, die mich direkt gestört hat. Obwohl dazu auch Einiges anzumerken wäre.
+Aber die Keeling-Grafik zu besprechen, ohne auf die jahreszeitlichen Änderungen einzugehen, ist schon heftig.
+Gerade die zeigen doch, wie viel CO2 von der Flora aufgenommen wird.
+Nordhalbkugel – Landhemisphäre, Südhalbkugel – Ozean.
+Da gibt es schon einige gescheite Untersuchungen, die darauf eingehen und feststellen, dass mit zunehmenden CO2-Gehalt auch mehr CO2 von den Pflanzen aufgenommen wird.
+Vielleicht hätte Herr Spencer Ph. D. da auch eine Erklärung für die Veränderungen durch die Vulkanausbrüche gefunden.
+MfG Günter Dehren
+die jahreszeitlichen Schwankungen in der Keelingreihe haben mit dem im Artikel behandelten Modell absolut nichts zu tun. Sie sind völlig egal bei der Frage, ob es ab 300ppm CO2-Gehalt eine steigende Aufnahme der CO2-Emissionen gibt. Warum also sollte Herr Spencer diese monatlichen Schwankungen dann thematisieren?
+Ihre Feststellung, dass mit zunehmenden CO2-Gehalt mehr CO2 von den Pflanzen aufgenommen wird, spricht doch für die Aussagen im Artikel und nicht dagegen! Sie sind der Versuch, der von Herrn Spencer festgestellten Korrelation eine Kausalität hinzuzufügen!
+MfG
+Die jahreszeitlichen Schwankungen der Mauna Loa-Konzentration sind doch bekannt. Diese Schwankungen betragen etwa +/- 4 ppmV. Vor dem Hintergrund, dass kein physikalisches Gesetz existiert, was eine Abhaengigkeit zwischen der Variation der global gemittelten Oberflaechentemepratur und der Variation der CO2-Konzentration beschreibt, sind solche jahreszeitliche Schwankungen bedeutungslos.
+Im 4. Bericht der WG I zum IPCC von 2007 gab es uebrigens eine Abbildung, die den zeitlichen Verlauf von CO2, N2O und CH4 waehrend der vergangenen 2000 Jahren zeigt (siehe https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-2-1.html). Danach war der zeitliche Verlauf dieser Konzentrationen bis etwa 1850 (Ende der Kleinen Eiszeit) nahezu konstant. Entweder sind die Zahlen dieser Konzentrationen falsch, dann wissen wir nicht was wirklich los war. Sind diese Zahlen allerdings belastbar, dann sind merkliche Klimawandel nachweisbar, die nicht auf eine Aenderung dieser Konzentrationen zurueckzufuehren sind, denn die Mittelalterliche Warmzeit und die Kleine Eiszeit, die vor allem auf der Nordhemisphaere beobachtet wurden, sind reale Phasen des Klimawandels.
+Wieso konnten die Wikinger in offenen Ruderbooten (mit nur einem Rahsegel) den Atlantik überqueren und bis zu den Indianern vorstoßen.
+Nicht zu vergessen, daß Hannibal mit Elefanten die Alpen überqueren konnte und Caesar England eroberte.
+Und jetzt bleibt das Nordpolarmeer wieder mehr und mehr zum Sommerende eisbedeckter als in den Jahren zuvor. Natürlich wird es noch dauern, bis sich die zu erwartende „Kälte“ einstellt, aber sie wird kommen.
+auch die jahreszeitlichen Änderungen de Keeling-Kurve sind nicht konstant. Sie werden insgesamt grösser und sind von Jahr zu Jahr unterschiedlich.
+Wenn man den Einfluss von Vulkaneruptionen auf die Keeling-Kurve untersucht, sollte man das auch berücksichtigen.

@@ -1,0 +1,90 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Der Ozean erwärmt sich ein winziges bisschen" author="Chris Frey" date="2020-01-15" source="https://eike-klima-energie.eu/2020/01/15/der-ozean-erwaermt-sich-ein-winziges-bisschen/" hostname="eike-klima-energie.eu" excerpt="Willis Eschenbach Wie viel ist ein „winziges bisschen“? Nun, das ist so wie sehr viel, nur viel, viel kleiner. Es gibt eine neue Studie, und wie gewöhnlich wird eine ganze Reihe von Autoren gelistet, genauer gesagt 14. Meine Regel lautet, dass „die Qualität einer Forschung invers variiert mit dem Quadrat der Anzahl der Autoren“. In diesem Falle sind es zumeist Chinesen, aber es sind auch einige bekannte Namen aus der westlichen Hemisphäre darunter wie Kevin Trenberth und Michael Mann – warum diese auch immer dabei sind. Die Studie trägt den Titel Record-Setting Ocean Warmth Continued in 2019." categories="Klima" tags="" fingerprint="lHnElqZkTPwLvRRJYanKk7vrKEQ=">
+  <main>
+    <p>Ihre bestechende Graphik sieht so aus:</p>
+    <p>Nun, das wäre ziemlich informativ … wäre die gewählte Einheit nicht Zettajoules. Ich protestiere erneut gegen die Verwendung dieser Einheit, wenn es um derartige Ozean-Analysen geht. Nicht, weil sie nicht genau sind, das sind sie sehr wohl. Sondern weil niemand eine Ahnung hat, was das wirklich bedeutet.</p>
+    <p>Also wandte ich mich den Daten zu. In der Studie werden die Datenquellen angegeben als http://159.226.119.60/cheng/ und www.mecp.org.cn/ .</p>
+    <p>Der zweite Link ist in chinesisch, und obwohl ich es übersetzen ließ, konnte ich die Daten nicht finden. Auch auf dem ersten Link waren die Daten nicht zu finden, aber es wurde auf eine Daten-Site verwiesen unter diesem Link. Darauf geklickt, erhielt ich eine weitere Website mit einem erneuten Link – der mich glatt zur Website von Dr. Cheng zurückführte, wo ich begonnen hatte.</p>
+    <p>(Aktualisierung: Ein aufmerksamer Kommentator fand schließlich die Daten hier und hier.)</p>
+    <p>An diesem Punkt entschloss ich mich, Abbildung 1 händisch zu digitalisieren, was unglaublich akkurat ist. Die folgende Abbildung 2 ist meine Nachbildung ihrer Abbildung 1. Allerdings habe ich die Daten zu Grad Temperaturänderung konvertiert, weil uns diese Einheit viel vertrauter ist als Zettajoules:</p>
+    <p>(Nebenbei: dass ich die Daten doch noch gefunden habe, gab mir Gelegenheit zu demonstrieren, wie genau eine Digitalisierung von Hand wirklich ist. Ein Scatterplot der tatsächlichen Daten von Cheng im Vergleich zu meiner händischen Digitalisierung sieht so aus:</p>
+    <p>Der RMS-Fehler der händischen Digitalsierung beträgt 1,13 ZJ, der mittlere Fehler 0,1 ZJ)</p>
+    <p>Und siehe da – diesen Herrschaften zufolge hat sich der Ozean während der letzten 60 Jahre um wenig mehr als ein Zehntel eines einzigen Grades erwärmt … und da versteht man auch, warum sie Zettajoules heranzogen – auf diese Weise sieht es viel alarmierender aus.</p>
+    <p>Und außerdem – es tut mir leid, aber dass man die Temperatur der oberen 2 Kilometer Ozean auf ±0,003°C (drei Tausendstel eines Grades) genau messen kann, ist schlicht und ergreifend nicht möglich. Für ihre Unsicherheits-Berechnungen verweisen sie auf eine frühere Studie, in der es heißt:</p>
+    <p>Wenn man den globalen Ozean in ein Monatsnetz einteilt von 1° zu 1°, liegt die monatliche Daten-Abdeckung vor dem Jahr 1960 unter 10%, &lt;20% von 1960 bis 2003 und &lt;30% von 2004 bis 2015. Die Abdeckung ist immer noch &lt;30% während der Messung mit ARGO-Bojen, weil das ARGO-Netzwerk auf ein Netz von 3° mal 3° ausgelegt war.</p>
+    <p>Das ARGO-Bojensystem zur Messung der Ozeantemperature wurde im Jahre 2005 in Betrieb genommen. Es ist die verbreitetste und genaueste Quelle hinsichtlich Ozean-Temperaturdaten. Die Bojen sind neun Tage ruhig bis zu einer Tiefe von 1000 m und gehen dann in Betrieb, sinken bis 2000 m und steigen dann wieder zur Oberfläche, wobei sie kontinuierlich Temperatur und Salzgehalt messen. Danach sinken sie wieder bis 1000 m hinab. Der Zyklus sieht so aus:</p>
+    <p>Es ist ein wunderbares System, und derzeit sind knapp 4000 Bojen im Einsatz … aber der Ozean ist groß jenseits aller Vorstellung, und darum enthalten trotz der ARGO-Bojen über zwei Drittel ihrer Gitterquadrate Ozean genau Null Messungen.</p>
+    <p>Und auf der Grundlage dieser dürftigen Datenmenge, womit zwei Drittel der monatlichen Temperaturdaten gar nicht erfasst sind, will man uns glauben machen, dass sie die oberen 651.000.000.000 Kubikkilometer des Ozeans auf 0,003°C genau messen können … natürlich ist das total legitim.</p>
+    <p>Man kann es auf diese eine Art betrachten. Allgemein ist es so, falls de Anzahl der Messungen allgemein zunimmt, reduziert man die Unsicherheit des Mittelwertes. Aber die Reduktion geht nur mit der Quadratwurzel der Anzahl der Messungen einher. Das bedeutet, falls wir die Unsicherheit um eine Dezimalstelle reduzieren wollen, etwa von ±0,03°C auf ±0,003°C, müssen wir die Anzahl der Messungen um das Hundertfache erhöhen.</p>
+    <p>Und das gilt auch umgekehrt. Falls wir eine Unsicherheit von ±0,003°C haben, aber nur eine solche von ±0,03°C haben wollen, kommen wir mit einem Hundertstel der Messungen aus.</p>
+    <p>Das bedeutet, FALLS wir die Ozeantemperatur mit 4000 ARGO-Bojen auf ±0,003°C genau messen können, können wir die Unsicherheit nur mit einer Dezimalstelle weniger messen auf 0,03°C genau mit einem Hundertstel der Anzahl dieser Bojen,also 40 Bojen.</p>
+    <p>Glaubt irgendwer, dass dies möglich ist? Nur 40 ARGO-Bojen, also eine für jedes Gebiet von der Größe der USA, sollen in der Lage sein, die Wassertemperatur des jeweiligen Gebietes bis auf 2000 m hinab auf plus/minus drei Hundertstel Grad Celsius genau zu messen? Wirklich?</p>
+    <p>Selbst mit 4000 Bojen, das ist eine für ein Gebiet von der Größe Portugals und zwei Kilometer hinab. Aber ich vermag beim besten Willen nicht zu erkennen, dass ein einziges Thermometer in Portugal erschöpfend Auskunft gibt über die Temperatur des gesamten Landes … und Messungen im Ozean sind viel komplexer als auf dem Festland, weil die Temperatur vertikal auf unvorhersagbare Art und Weise variiert, wenn man dem Ozean in die Tiefe folgt.</p>
+    <p>Vielleicht gibt es ein paar Prozess-Ingenieure, die damit betraut worden sind, das Wasser in einem großen Becken bei einer gegebenen Temperatur zu halten, und zu berechnen, wie vieler Thermometer es bedarf, um die mittlere Wassertemperatur auf ±0,03°C genau zu messen.</p>
+    <p>Und zum Schluss möchte ich noch auf Folgendes hinweisen: Bei einer Erwärmung der Ozeane um etwas mehr als ein Zehntelgrad Celsius innerhalb von 60 Jahren wird es etwa fünf Jahrhunderte dauern, um den oberen Ozean um 1°C zu erwärmen …</p>
+    <p>Will man es konservativ sehen, könnte man davon ausgehen, dass sich die Erwärmung seit dem Jahr 1985 etwas beschleunigt hat. Aber auch mit dieser höheren Erwärmungsrate würde es immer noch drei Jahrhunderte dauern, um den Ozean um 1 Grad Celsius zu erwärmen.</p>
+    <p>Fazit: Trotz der alarmistischen Studie RECORD-SETTING OCEAN WARMTH können wir uns zurücklehnen. Thermageddon schielt nicht um die Ecke.</p>
+    <p>Zum Schluss noch einmal zurück zu dem Terminus „winziges bisschen“. Ich habe mich schon öfter darüber ausgelassen, dass mich bzgl. Klima nicht so sehr bewegt, um wie viel es sich ändert. Viel beeindruckender fand ich immer die erstaunliche Stabilität des Klimasystems trotz gewaltiger jährlicher Energieflüsse. In unserem Fall absorbiert der Ozean etwa 6.360 Zettajoules (1021 Joules) Energie pro Jahr. Das ist eine unvorstellbar immense Energiemenge – zum Vergleich, der gesamte menschliche Energieverbrauch aus allen Quellen von fossil bis nuklear beträgt etwa 0,6 Zettajoule pro Jahr …</p>
+    <p>Und natürlich gibt der Ozean fast genau die gleiche Energiemenge wieder ab – wäre das nicht der Fall, würden wir bald entweder kochen oder erfrieren.</p>
+    <p>Wie groß ist also das Ungleichgewicht zwischen der in den Ozean eindringenden und von diesem wieder abgegebenen Energie? Nun, im Zeitraum der Aufzeichnung betrug die mittlere jährliche Änderung des ozeanischen Wärmegehaltes 5,5 Zettajoule pro Jahr … was etwa ein Zehntel eines Prozentes (0,1%) der Energiemenge ausmacht, welche in den Ozean eindringt und von diesem wieder abgegeben wird. Wie ich sagte: erstaunliche Stabilität.</p>
+    <p>Folge: die lächerlich anmaßende Behauptung, dass ein derartig triviales Ungleichgewicht irgendwie menschlichen Aktivitäten geschuldet ist anstatt einer Änderung von 0,1% infolge Variationen der Wolkenmenge oder der Häufigkeit von El Nino oder der Anzahl der Gewitter oder einer kleinen Änderung von irgendetwas im immens komplexen Klimasystem, ist schlicht und ergreifend unhaltbar.</p>
+    <p>Link: https://wattsupwiththat.com/2020/01/14/the-ocean-warms-by-a-whole-little/</p>
+    <p>Übersetzt von Chris Frey EIKE</p>
+  </main>
+  <comments>
+    <p>Dass die Gletscher? Nee</p>
+    <p>Wenn überhaupt etwas dann schneller schmelzen würde, wäre das natürlich die Schicht Eis, die dem warnmen Wasser am nächsten ist. Die ganzen Eisbrocken, die mitten im Ozean liegen, sie schmelzen dahin wie jeder Mann dem Anblick von der Frauen auf Tschechiens Strassen….und vielleicht schmilzt sogar die ganze Arktis weg (das ist eine Art gefrorener Ozean). Jetzt ertrinken wir alle…ach nee, doch nicht</p>
+    <p>Obwohl, eigentlich ersaufen nur die, die während der 5. Klasse mit Schildern durch die Gegen gelaufen sind und den Freitag bei Instagram retten wollten. Doof nur</p>
+    <p>ur, dass Freitag ein Hirngespinst von Robinson Crusoe war und dass man in der 5. Klasse gelernt hätte, wie das mit dem Dichte-Verhältnis von Eis und Wasser ausschaut.</p>
+    <p>Was passiert, wenn Eis, das im Wasser liegt schmilzt? Welche Auswirkungen hat das auf den „Meeresspiegel“?</p>
+    <p>Greta würde sagen: wenn das eis schmilzt, dann ist mehr Wasser da! Wasser Wasser …mehr Wasser</p>
+    <p>Die dicke Luisa würde sagen: is mir egal, ick hab Hunger und der Flieger geht. Oink Oink sagt sie und stampft mit ihrer Nilpferdhüfte in Richtung Burger King</p>
+    <p>Jemand, der zur Schule gegangen ist, würde jedoch wissen, dass der Meeresspiegel in diesem Fall sinken muss, dann passiert, wenn das Eis schmilzt</p>
+    <p>Genießt den Winter! Schnee wird eh nur zu Matsch</p>
+    <p>Des weiteren wird die Wärme innerhalb der Meere anders geleitet als das z.B. bei klassisch erwärmten Objekten der Fall ist, ohne das dabei gegen den 2. Hauptsatz der Thermodynamik verstoßen wird. Die Abkühlung der Meere erfolgt durch Konvektion (Luftströmungen oberhalb der Oberfläche) und zu ganz erheblichen durch Umwälzung – ein Prinzip, das sich bei fester Erdoberfläche nicht finden lässt. Wie allgemein bekannt, erwärmt ein recht geringer Teil der Meeresschichten – der größte Teil bleibt unverändert und ist sehr kalt. Da die Umwälzung der Meere nicht auf thermodynamischer Grundlage erfolgt, sondern ganz stumpf auf kinetischer Grundlage, werden ohnehin regelmäßig die gesamten oberen Schichten durch Wasser von unteren Schichten ersetzt. Abstrahlung durch Wärmeenergie dürfte so gut relevant sein – dies jedoch bereist wegen der geringen Gesamttemperatur und dem geringen Temperaturunterschied zwischen dem Wasser und der Oberfläche.</p>
+    <p>Ohnehin ist es so, dass die Meere sämtliche Behauptungen angeblicher globaler Erwärmung zerschmettern, würde sich nur mal wer damit auseinander setzen. Es ist bezeichnend, dass der selbsternannte „Professor der Meere“, Rahmstorf, dies erkennbar nicht tut – zumindest seit 1991 nicht mehr. Ohnehin ist es ungewöhnlich, dass dieser anscheinend kaum Fachwissen in seinem Paradegebiet zu besitzen scheint.</p>
+    <p>Sei es drum: das Meer kann jeder betrachten und man braucht dafür nicht ein mal Thermometer.</p>
+    <p>Und wo es gerade um die Meere geht:</p>
+    <p>Für sämtliche Klimamodelle ist u.a. Stefan-Boltzmann-Gesetz über das Strahlungsgleichgewicht unverzichtbar. Da die Meere den größten (An-)teil der Erdoberfläche ausmachen, ist leider zwingend zu konstatieren, dass das Strahlengesetz zur Berechnung keine Anwendung finden darf. Ein Objekt, die Eroberfläche selbst ist ein Objekt im Sinne des Gesetzes, das energetische Speicherfähigkeit besitzt und die gespeicherte Energie erheblich verzögert und teils gar nicht mehr abgibt, so weit von den vorgegebenen Faktoren des Strahlungsgesetzes abweicht, dass es dadurch nicht mehr erfassbar ist. Daran wäre auch nichts verwerflich; man kann nicht mit jedem Gesetz jeden Umstand berechnen. Wenn die erforderlichen Faktoren nicht vorliegen, kann ich meine Formel nicht verwenden.</p>
+    <p>Und abschließend zu diesem absonderlichen Gesetz: es war nie tauglich, dass ein essentieller Faktor davon nicht abgedeckt wird: Zeit</p>
+    <p>Was nutzt dass sichere wissen, dass ein Objekt, abstrahlt was es absorbiert hat, wenn wir nicht wissen, wie viel Zeit es dafür hat, ohne gegen das Gesetz zu verstoßen. Berechne ich unter Anwendung des Stefan-Boltzmann-Gesetzes Strahlungsbilanzen der Erde, wird mein Ergebnis mit vollständiger Sicherheit fehlerhaft und zwar in erheblicher Weise.</p>
+    <p>Netter Artikel übrigens</p>
+    <p>Danke und beste Grüße</p>
+    <p>+ Hier ein Link zur Genauigkeit der Sensoren:</p>
+    <p>https://www.yumpu.com/en/document/view/12121027/accuracy-and-stability-of-argo-sbe-41-and-sbe-41cp-ctd-</p>
+    <p>+ Offizielles Data Center für ARGO Daten</p>
+    <p>https://nrlgodae1.nrlmry.navy.mil/argo/argo.html</p>
+    <p>oder</p>
+    <p>http://wo.jcommops.org/cgi-bin/WebObjects/Argo</p>
+    <p>+ Data Browser der ARGO Daten (Software)</p>
+    <p>netCDF -&gt; netCDF4excel (Hier wird ein Icon auf dem Desktop mit dem Add-In abgelegt)</p>
+    <p>Viel Spaß.</p>
+    <p>Mfg</p>
+    <p>Werner Holtz</p>
+    <p>Thermodynisches Gleichgewicht setzt gleiche Energiezufuhr voraus, und das ist nur auf der Sonne möglich, nicht bei Kugeln, die von einer Seite beschienen werden. Deswegen gibt es Begriffe wie Vollmond, Halbmond, Neumond und Tag, Dämmerung und Nacht, nicht aber Vollsonne, Halbsonne oder Neusonne. Höchstens noch Vollidiot.</p>
+    <p>„Observed increases in ocean heat content (OHC) and temperature are robust indicators of global warming during the past several decades. We used high-resolution proxy records from sediment cores to extend these observations in the Pacific 10,000 years beyond the instrumental record. We show that water masses linked to North Pacific and Antarctic intermediate waters were warmer by 2.1° C and 1.5° C (+/- 0.4°C), respectively, during the middle Holocene Thermal Maximum than over the past century. Both water masses were ~0.9°C warmer during the Medieval Warm period than during the Little Ice Age and ~0.65° warmer than in recent decades.“</p>
+    <p>https://climateaudit.org/2013/11/02/rosenthal-et-al-2013/</p>
+    <p>Die Temperaturzunahme nimmt seit einigen Jahren wieder ab und auch in der Strahlungsbilanz sieht es nach Abkühlung aus.</p>
+    <p>https://www.mdpi.com/2072-4292/11/6/663/htm</p>
+    <p>Die aktuellen SST Grafiken sehen für mich dann auch alles andere als nach Erwärmung aus:</p>
+    <p>https://www.tropicaltidbits.com/analysis/ocean/cdas-sflux_ssta7diff_global_1.png</p>
+    <p>Also mal wieder nur Fakenews, was durch die Medien schwirrt.</p>
+    <p>Unglaublich, was die Alarmisten so alles treiben dürfen! Wenn ich mich recht erinnere, hat bereits Herr Rahmstorf dazu seinen „besorgten Kommentar“ in den Medien abgegeben…</p>
+    <p>Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.</p>
+    <p>Darauf gibt es nur eine einzige physikalische Antwort, nämlich durch den Sonnenschein! Eine andere Energiequelle steht nicht zur Verfügung!</p>
+    <p>Wenn sich also die Ozeane erwärmen, muß die Einspeicherung von Sonnenenergie zunehmen! Worauf deutet das hin?</p>
+    <p>Btw, die absurdeste Behauptung in dem Bericht war, daß die 0,057°C Temperaturzunahme Waldbrände auslösen!</p>
+    <p>Difficile est saturam non scribere …</p>
+    <p>Ich kann über diese albernen Möchtegerns immer wieder nur lachen. Studien? Die wissen doch gar nicht wie man so etwas schreibt. Wer liest diesen Müll und prüft alles, Aussage für Aussage nach?</p>
+    <p>Das sind doch nur arrogante Narren.</p>
+    <p>Kürzlich habe ich lesen dürfen, dass Radioaktivität einen erheblichen Einfluß auf Datierungen hat.</p>
+    <p>Es soll bereits Datierungen geben, die besagen, dass das untersuchte Objekt, 3.000 Jahre in der Zukunft jung ist. Dreitausend Jahre in der Zukunft. Natürlich verschweigen das die gleichen Narren. Schon sehr lange ist bekannt, dass Datierungen, die diesen Eseln nicht in den Kram passen, frech und bereitwillig verschwiegen werden.</p>
+    <p>Und auf anderen Gebieten arbeiten diese Schmarotzer nicht anders. Ozeane. Die sollen erst einmal deren Rettungsschwimmerschein machen.</p>
+    <p>Ist ja auch mal was 😀</p>
+    <p>Mich würde ja mal interessieren, wie Mann und Komplizen auf Zeta-Joule kommen, habe Probleme mir vorzustellen, dass die ARGO Bojen das messen, sondern nicht eher die Temperaturen, die demnach um dramatische 0,075K angestiegen sein sollen.</p>
+    <p>Sie müssen daran gehindert werden und, falls dies nicht mehr gelingen sollte, voll zur Verantwortung gezogen werden.</p>
+    <p>Gerhard Schmid</p>
+    <p>Wie soll das funktionieren?</p>
+    <p>Als Segelflieger kenne ich natürlich die horizontale Temperaturvariabilität aufgrund der Höhe der jeweiligen lokalen Cummuluswolkenbasis im 100 km Radius. Nur hängt die nicht nur von der Temperatur ab. Auch die Luftfeuchtigkeit der Thermikblase ist entscheidend. Deshalb ist die Wolkenbasis in der Nähe von Flußtälern, wie der Elbe, der Weser und auch der Aller niedriger.</p>
+    <p>Aber woher sollen das die Klimawandelhypothetiker wissen?</p>
+  </comments>
+</doc>

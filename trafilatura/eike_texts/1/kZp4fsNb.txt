@@ -1,0 +1,49 @@
+Während der letzten 30 Jahre wurden 5 IPCC-Zustandsberichte bzgl. Klimawandel veröffentlicht. Ich wollte einmal jede jeweilige Erwärmungs-Prognose vergleichen, die zum Zeitpunkt des Erscheinens der jeweiligen Berichte abgegeben worden waren – vergleichen mit den nachfolgend gemessenen Temperaturen. Damit verfolgte ich zwei Ziele. Einmal wollte ich wissen, wie gut die Prognosen mit der Zeit waren. Zum Zweiten wollte ich der Frage nachgehen, ob und wenn ja was wir Neues über den Klimawandel erfahren haben während der letzten 30 Jahre.
+1. Zustandsbericht FAR
+Der erste Zustandsbericht wurde im Jahre 1990 veröffentlicht. Das war wahrscheinlich der erste öffentlich erhobene Alarmruf, dass sich die Welt aufgrund von CO2-Emissionen erwärmt. Es gab auch als Auszug ein sehr gutes Buch vom FAR-Chef John Houghton mit dem Titel „global Warming – the Complete Briefing“. Hier der Vergleich des „Modells“ mit den resultierenden Temperaturen:
+Der Temperaturtrend ist zwar bestätigt, aber Ende 2019 war das Ausmaß der Erwärmung geringer als nach der Prognose im Jahre 1990. Die Emissionen sind zwar in Wirklichkeit der Trajektorie Business as Usual gefolgt, doch stellte sich die Erwärmung als 0,3°C geringer als vorhergesagt heraus.
+2. Zustandsbericht SAR
+Der zweite Zustandsbericht stammt aus dem Jahr 1995. Hier folgt der SAR-Vergleich meiner 3D-HadCRUT4-Ergebnisse (rot) mit denen des UKMO-Modells:
+Man sieht, dass das Modell, welches den CO2-Effekt reduziert mittels Einbeziehung von Aerosolen ziemlich gut zu den Daten passt. Allerdings ist das Ergebnis nicht so gut, wie es aussieht, weil die Aerosole seit dem Jahr 1995 signifikant gesunken sind. Ich möchte dies mal als einen mittelmäßigen Erfolg für den SAR bezeichnen, aber nur unter der Annahme eines CO2-Antriebs ohne Rückkopplungen. Und wie sieht es nun beim 3. Zustandsbericht aus?
+3. Zustandsbericht TAR
+Der dritte Zustandsbericht wurde im Jahre 2001 veröffentlicht. Die TAR-Prognosen bzgl. Temperatur lagen tatsächlich sowohl unter denen des FAR als auch unter denen des SAR, was vielleicht die Reaktion auf eine Rückgang der gemessenen Temperaturen ist. HadCRUT4 hat nämlich bis damals einen definitiven Stillstand der globalen Erwärmung gezeigt nach dem Super El Nino des Jahres 1998. Nach 2001 wurden als Konsequenz viele weitere Stationen hinzugefügt (und einige auch ausgesondert), und zwar dergestalt, dass der Stillstand bis heute im Wesentlichen verschwunden ist. Hier folgt nun aber der Vergleich der TAR-,Projektionen‘ im Vergleich zu den gegenwärtigen Temperaturdaten (2019). Diese sind erneut eine eigene 3D-Version der HadCRUT4.6-Messungen.
+Die Übereinstimmung zwischen Modellen und Daten sieht viel besser aus. Man beachte jedoch, dass die Änderung der absoluten Temperatur sich nur auf diejenige von 1990 bezieht, dem Jahr der Veröffentlichung des FAR. Aber auch hier ist mein Eindruck, dass der Verlauf höchstwahrscheinlich ihrer blauen B2-Ensemble-Kurve folgt.
+4. Zustandsbericht AR4
+Der vierte Zustandsbericht wurde im Jahre 2005 veröffentlicht und enthielt ein kurzfristigeres Prognose-Programm im Vergleich zu den damals verfügbaren HadCRUT4-Daten. Die aktualisierte Graphik unten zeigt den aktualisierten Vergleich bis Januar 2020. Die schwarzen Quadrate repräsentieren die jüngsten HadCRUT4.6-Daten, heruntergeladen von der Hadley-Site. Die kleinen schwarzen Kreise sind die alten H14-Datenpunkte (wie im Jahre 2005 verfügbar) aus dem Originalreport. Sie unterscheiden sich von den derzeitigen H4-Ergebnissen, weil die CRU in der Zwischenzeit alle ihre Stationsdaten aktualisiert hat. In diesem Zusammenhang beachte man, wie die Temperatur 1998 ein wenig niedriger liegt, während der Wert 2005 ausreichend genug gestiegen ist, um den Stillstand verschwinden zu lassen.
+Die schließliche Übereinstimmung ist nicht so schlecht, aber die Daten liegen nichtsdestotrotz immer noch unter dem Modell-Mittel bei allen vernünftigen SRES-Szenarien.
+5. Zustandsbericht AR5
+Dies bringt uns schließlich zum fünften Zustandsbericht bzw. dessen Vergleich. Als der AR5 im Jahre 2013 veröffentlicht worden war, zeigte sich der Stillstand immer noch eindeutig in allen Temperaturreihen, wodurch als Konsequenz alle Modelle im Vergleich viel zu hohe Temperaturen zeigten. Allerdings wurden bis dahin viele neue Stationen in der Arktis hinzugefügt, und der große El Nino 2016 hat den Stillstand inzwischen verpuffen lassen. Aber trotz all dem – wie machen sich die Modelle im Vergleich zu den gemessenen Temperaturdaten bis Januar 2020?
+Hier ist der aktuelle Vergleich der Graphik 11.25a mit den Daten:
+Eindeutig liegt der Erwärmungstrend am unteren Ende des CMIP5-Ensembles. Nur Modelle mit geringerer Sensitivität können die Temperaturdaten angemessen abbilden.
+Der ganze Beitrag steht hier.
+Link: https://www.thegwpf.com/30-years-of-ipcc-reports-how-well-have-they-done/
+Übersetzt von Chris Frey EIKE
+Ein wenig mehr Erläuterung hätte auch ich mir gewünscht:
+Was heißt genau „geringere Sensitivität“? Keine bzw. welche Rückkopplung? Verzicht auf Wasserdampf? Wolkenrückkopplung?
+Auch bereitet mir folgender Satz zu TAR Kopfzerbrechen: „Man beachte jedoch, dass die Änderung der absoluten Temperatur sich nur auf diejenige von 1990 bezieht, dem Jahr der Veröffentlichung des FAR“ – im Original bin ich auch nicht klüger geworden.
+FAR, SAR und TAR habe ich halbwegs entschlüsselt (First.., Second.., Third..), aber wofür stehen AR4,5 (Advanced Report 4,5?), CMIP5 (Comp. Model??5) und SRES?
+Im Grunde ein sehr interessante Thematik aber nur die wenigsten hier dürften mit den Originalreports vertraut sein.
+Für mich ist das Resumee: Die bestmöglichen Vorhersagen erhält man durch Lineal-Anlegen an die Messkurven, soweit man letzteren überhaupt trauen kann…
+Seit geraumer Zeit verfolge ich die Berichte welche auf dieser Seite veröffentlicht werden mit grosser Interesse. Ich bin kein Klimaforscher, kein Meteorologe und lese einfach das, was mich nach 2 Zeilen sozusagen animiert um weiterzulesen. Oftmals sind für mich aber Berichte auf EIKE oder auch an der Jahrestagung zu kompliziert, zu technisch usw. Wenn ich wie in diesem Bericht sowas lese: „SAR-Vergleich meiner 3D-HadCRUT4“, dann verstehe ich nur Bahnhof weil ich keine Ahnung habe was das ist.
+Das pure Gegenteil wie man eine Sache (Klima) so erklärt, um Menschen jeder Altersklasse oder Menschen in allen Ländern zu beeinflussen/überzeugen dass sie zuzuhören, sind Berichte/Filme von Al Core- eine unbequeme Wahrheit. Auch wenn Teile in dieser Doku nachweisbar nicht der Wahrheit entsprechen, war der Aufschrei in der ganzen Welt gross. Weil er es geschafft hat, seine Theorie einfach erklärt an den Mann zu bringen. Nur, die grosse Mehrzahl der Menschheit sucht genau das Einfache.
+Gruss an sie alle, P. Frei
+Das ist ein Problem, da wir alle ansprechen wollen, besonders aber die die sich wissenschaftlich damit beschäftigen. Schauen Sie mal in unsere Videothek und dort die „Klimawandel….“ Reihe. Hier die erste. https://www.youtube.com/watch?v=JEiLag9Vx2g&t=145s
+Das sollte passen.
+Auch die Videothek kann das Problem m. E. nicht lösen, denn für die politisch-argumentative Auseinandersetzung habe ich gern immer etwas in der Hand. Etwas Ausgedrucktes, dass ich mit persönlichen Informationen ergänzen kann und in der politischen Auseinandersetzung auch mal schnell aus der Tasche ziehen kann.Ob als Spickzettel oder wie auch immer.
+Lange Rede….
+Wäre eine populärwissenschaftlich 10-Zeilen-Zusammenfassung vielleicht die Lösung oder ein Ansatz dafür?
+Joachim Wedler
+Bad Harzburg
+Hier finden Sie eine Zusammenfassung, Sie können sie aber auch bei uns in Jena (Impressum) als Broschüre bestellen.
+Andererseits, wenn Sie es verstehen, wem wollen Sie das als Gegenargument erzählen, vor allem wenn man keine Schaubilder und Diagramme zur Hand hat ?
+Die Leute schalten doch schon bei viel einfacheren Erklärungen ab, weil sie nicht folgen können.
+Aber trotzdem haben solche Artikel, wenn sie auch sehr speziell sind ihre Berechtigung. Ansonsten müsste man im Netz noch weiter googln.
+Für Überblicke und Anschauungsvideos eignet sich in youtube die Suche nach „Klimaschwindel“, etc., bzw. auch hier bei Eike.
+Ich empfinde diese umfassenden Detailartikel eigentlich als das Fundament.
+Im Prinzip halte ich zwar rein gar nichts von statistischen Temperaturauswertungen, weil aus meiner Sicht, der Spielraum zur Verfälschung eine reine Auslegungssache ist und meiner Meinung nach die Betrachtung von Wetter, über mehrere Dekaden, trotzdem nur Wetter bleibt.
+Aber ich finde es gut, wenn sich Leute die Mühe machen und umfassend recherchierte Artikel schreiben.
+Würde EIKE nur aus Dampfplauderei bestehen, wär es eigentlich sinnlos.
+Also das ist so meine Meinung als außenstehender Beobachter.
+Kritisieren müchte ich allerdings zwei kleinere Dinge:
+Warum nimmt Best Daten aus einem veralteten Temperaturdatensatz? Und warum bearbeitet er diese noch?
+Die Vorhersage ist immer das Ensemble, nicht eine einzige Linie der Ensemblemittelwerte. Da schlampte Best an manchen Stellen.

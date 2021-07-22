@@ -1,0 +1,89 @@
+Bild rechts: Herzlichen Dank an Josh für seine unnachahmliche Kunst und seinen Humor!
+Die Rohdatensätze von NOAA/NCEI von Januar 2010 bis Mai 2015 wurden bei WUWT hier hochgeladen für alle, die vielleicht ihre eigenen Analysen durchführen wollen. Auch habe ich einige Daten-Dokumentationen in den readme.txt-File geladen, der Teil des Downloads war. Die gegenwärtigen NOAA/NCEI-Daten können hier herunter geladen werden; man klicke auf „Anomalies and Index Data”.
+Von Januar 2010 bis Mai 2015 sind es 65 Monate. In acht dieser Monate wurden signifikante Änderungen der Anomaliedaten vorgenommen. Von Januar 2010 bis Oktober 2010 gab es nur sehr geringe Änderungen. Man beachte auch, dass die Daten ursprünglich mit bis zu 4 Stellen verfügbar waren, jetzt nur noch mit 2 Stellen. Die zweistelligen Werte scheinen gerundete Versionen der vierstelligen Daten zu sein.
+Die erste merkliche Änderung erfolgte im November 2010, wobei die meisten Anomalien über die Aufzeichnungsperiode nach oben adjustiert wurden. Von Mitte 1939 bis Mitte 1946 gab es keine Anhebungen. Diesen Zeitraum unverändert zu lassen, während alle anderen nach oben korrigiert werden, ist ein effektives Äquivalent, alles zu erniedrigen. Von Interesse ist, dass im Zeitraum 1880 bis 1909 die Anomalien der beiden Monate April und November am stärksten nach oben korrigiert worden sind.
+Die nächste Änderung erfolgt im April 2011. Der Zeitraum 1912 bis 1946 scheint im Vergleich zur übrigen Aufzeichnung erniedrigt worden zu sein. Hier folgt das Delta zwischen März 2011 und April 2011:
+Und hier die akkumulierte Änderung von Oktober 2010 bis April 2011:
+Die nächste Änderung erfolgt im Oktober 20101. Die Zeiträume 1880 bis 1885 sowie 1918 bis 1950 scheinen relativ zur übrigen Aufzeichnung erniedrigt worden zu sein. Hier folgt das Delta zwischen September 2011 und Oktober 2011:
+Und hier die akkumulierte Änderung von Oktober 2010 bis Oktober 2011:
+Zur nächsten Änderung kommt es im Januar 2012. Der Zeitraum 1905 bis 1943 scheint relativ zur restlichen Aufzeichnung erniedrigt. In der Zeit nach 1974 wurden die Daten relativ zur übrigen Aufzeichnung nach oben verändert. Hier folgt das Delta zwischen Dezember 2011 und Januar 2012:
+Und hier die akkumulierte Änderung von Oktober 2010 bis Januar 2012:
+Die nächste Änderung erfolgt im Februar 2012. Der Zeitraum 1898 bis 1930 ist relativ zur übrigen Aufzeichnung angehoben worden. Hier ist das Delta zwischen Januar 2012 und Februar 2012:
+Und hier die akkumulierte Änderung von Oktober 2010 bis Februar 2012:
+Die nächste Änderung erfolgt im August 2012. Der Zeitraum 1880 bis 1947 ist gegenüber dem Zeitraum 1948 bis 2010 erniedrigt worden. Das Delta zwischen Juli 2012 und August 2012 sieht so aus:
+Und hier die akkumulierte Änderung von Oktober 2010 bis August 2012:
+Die nächste Graphik ist keine Adjustierung, sondern eine Plausibilitätsprüfung. Februar 2014 war der letzte Monat, in dem vierstellige Daten zur Verfügung standen. Ab März 2014 werden nur zweistellige Daten verwendet. Der Vergleich zwischen Februar 2014 und März 2014 bestätigt, dass die zweistelligen Daten eine gerundete Version der vierstelligen Daten sind. Das „Flattern“ liegt innerhalb +/- 0.01, das heißt, es handelt sich um Rundungsfehler.
+Die nächste Änderung erfolgt im April 2015. Die zweistelligen Ergebnisse erzeugen eine gezahntere Graphik nach Art eines Sägeblatts. Der Zeitraum 1880 bis 1905 wurde leicht erhöht und der Zeitraum 1931 bis 1958 leicht erniedrigt relativ zur übrigen Aufzeichnung. Hier folgt das Delta zwischen März 2015 und April 2015:
+Und hier die akkumulierte Änderung von Oktober 2010 bis April 2015
+Einige der Änderungen der Daten April 2015 (heruntergeladen Mitte Mai) und Mai 2015 (heruntergeladen Mitte Juni) sehen ziemlich wild aus. Ein Abfall der Anomalien im Jahre 1939 um bis zu 0,14°C und eine Anhebung bis zu 0,15°C der Anomalien des Jahres 1945 veranlassten mich zu einer Doppelprüfung: Ich habe die Daten manuell inspiziert um sicherzustellen, dass meine Graphik nicht fehlerhaft war. Die Rohdaten bestätigen, was die Kalkulationstabelle zeigt…
+Und jetzt zur Adjustierung, die den Stillstand zerschlägt: Hier folgt das Delta zwischen April 2015 und Mai 2015. Diese Adjustierung kommt daher wie eine Achterbahnfahrt:
+● Der Zeitraum 1880 bis 1925 geht rauf und runter.
+● 1926 bis 1937 ist relativ stabil, erniedrigt um etwa 0,03 bis 0,04 Grad relativ zum April
+● 1938 bis 1939 sind um 0,1 Grad unter die Werte aus dem April gefallen
+● Die Adjustierung springt scharf nach oben um 0,1 Grad bis Ende 1944
+● Bis 1948 erfolgt ein scharfer Rückgang
+● Bis 1963 erfolgt ein allmählicher Rückgang
+● Stabil von 1963 bis 1973
+● Anstieg von 1973 bis 1980
+● Stabil von 1980 bis 1992
+● Abfall von 1992 bis 1998
+● Anstieg von 1999 bis November 2010 (Ende des Vergleichs)
+Und hier nun die akkumulierte Änderung von Oktober 2010 bis Mai 2015. Weil die Änderung im Mai 2015 die größte ist, ist die akkumulierte Änderung von Oktober 2010 bis Mai 2015 ähnlich der monatlichen Änderung im Mai 2015. Eines sticht hervor … weil 5 oder 6 der 8 Adjustierungen Teile von oder ganze Jahre zwischen den beiden Weltkriegen nach unten gezogen worden sind, gibt es einen markanten Abfall von 1920 bis 1939 der adjustierten Temperaturen. Dies hat den Effekt, mit den „schmutzigen Dreißigern“ das zu machen, was Michael Mann mit der Mittelalterlichen Warmzeit versucht hat zu machen, d. h. es sollte aus den Temperaturaufzeichnungen ausradiert werden. Wie unser Freund Daft Bladder sagt: „Ich verändere die Daten. Betet, dass ich sie nicht noch weiter verändere“.
+Link: http://wattsupwiththat.com/2015/07/09/noaancei-temperature-anomaly-adjustments-since-2010-pray-they-dont-alter-it-any-further/
+Übersetzt von Chris Frey EIKE
+Hinweis: Zur Quellenangabe der Bilder klicke man auf das Original und dann darin auf die jeweilige Graphik.
+eine „paranoide“ Frage:
+Sie meinen die Adjustierung des Julianischen Kalenders ist ein Beispiel für Abkühlung durch „Adjustierung“?
+Sehr geehrte Frau Mikosch,
+„Ein bekanntes Beispiel von Adjustierung, also Verbesserung/Berichtigung, sind aus unserem Kalender bekannt.“
+Nein, dieses ist kein Beispiel zur Rechtfertigung von nachträglichen Justierungen an den Temperaturdaten, sondern für eine Korrektur, deren Gültigkeit jeder, der astronomisch gebildet ist, selbst überprüfen kann. Der Lauf der Erde um die Sonnen hat sich nun mal nicht nach den Einheiten von Tagen und Monaten gerichtet. Dann könnten Sie auch behaupten, die unterschiedliche Dauer der Monate wäre auch eine Justierung.
+Ich nicht.“
+Das liegt wohl daran, dass Sie sich nicht mit dem Thema Klimawandel oder Temperaturmessreihen beschäftigen. Sonst würden Sie auch Justierungen der Temperaturmessreihen kennen, welche Richtung Abkühlung berichtigt wurden.
+Berichtigungen von Datenreihen sind eine völlig normale Sache. Welchen Sinn soll es machen, erkannte Fehler in den Messungen und Auswertungen nicht abzustellen und auch nachträglich zu berichtigen? Während es für Wissenschaftler selbstverständlich ist, Messergebnisse bei Erkennen eines Fehlers zu berichtigen, wittern Verschwörungstheoretiker hinter jeder Veränderung, die nicht ihrer Sicht der Dinge entspricht, Betrug. Das ist aber typisches paranoides Verhalten von „Truthern“, die nicht weiter ernst zu nehmen ist.
+Ein bekanntes Beispiel von Adjustierung, also Verbesserung/Berichtigung, sind aus unserem Kalender bekannt. Hätte man am julianischen Kalender festgehalten, würde Weihnachten auf der Nordhalbkugel bald im Sommer gefeiert. Früher hat man in Tagen korrigiert, heute sind es nur noch Sekunden.
+Silke M.
+„Oder kennt jemand Justierungen in Richtung Abkühlung?
+Ich nicht. “
+Ich schon. Die Vergangenheit vor der Industrialisierung wird „abgekühlt“ und geglättet dass das erwärmte Industriezeitalter, was „erwärmt“ und “ richtig heraussticht, Hockeystick eben.
+Chris Frey, Übersetzer
+– …/search?q=gefährliche+Umwertung+der+Fakten
+MfG
+Wie wäre es mit Anpassung /Regulierung ?
+Das hat den Charme, hier auch eine willkürliche Komponente zu suggerieren. 🙂
+Bei Geschwindigkeitsüberschreitungen, beim Autofahren nimmt man auch keine „Adjustierung“ vor, obwohl der Messfehler bekant ist. Drei Km zu schnell kostet. Rauschen in der Messung ist dort zwar bekannt, aber, bzw. nicht erwünscht; Alles klar? Bringt ja doch Geld.
+EEG das selbe. Wir weichen wenige „PPM“ vom diktierten Stsandard ab, schon explodiert dieser Planet. Das ist bisher in Milliarden von Jahren nicht nicht passiert.
+Mann, ist der Mensch in den letzen 150 Jahren gut/schlecht geworden. Nun soll das plötzlich passieten, Warum hat er dann Millionen vom Jahren, von da an wo er aufrecht zu gehen gelernt hatte, überlebt??
+Anpassung heißt das Geheimnis, nichts anderes!
+Hochkulturen existierten in „Warmzeiten“ nicht in Kalt-/Eiszeiten. Ist Fakt – Basta. Nachlesen!
+Das Problem ist das ————–, politisch korrekt geschrieben, Herr Frey, und auch einige ander wissen was ich meine.
+Der politisch Wahnsinn hat derzeit keine Grenzen.
+Frühere Jahrtausend-Regierungen grüßen.
+Immer wieder der selbe Scheiß.
+Ich kann nicht mehr so viel fressen wie ich ——, müsste!!!
+Nebenbei: Lieber Chris Frey, tiefe Bewunderung und Hochachtung für Ihr Engagement.
+Aber:
+Für so kleine interessierte Laien wie mich, die hier mitlesen, ist ein Artikel wie der obenstehende doch, naja, schwer verständlich. Nicht so sehr in der Linie der Beweisführung, eher für Schlussfolgerungen. Mir fehlt da einfach die Kenntnis der „Sekundärliteratur“.
+Es wäre schön, wenn für Unsereinen ein abstract dabei stehen würde, der die gezeigten Werte noch einmal einordnet und interpretiert. Vielleicht könnte ein EIKE-Fachmann da etwas beisteuern. Die obigen Graphen, tut mir leid, da stehe ich etwas hilflos davor wie die Kuh vorm neuen Tor. Hier lesen ja sicher auch viele Interessierte mit, denen es vielleicht ähnlich geht wie mir.
+Vielen Dank.
+PM
+„anpassen“ ginge, obwohl es mehr „manipulieren“ wäre.
+Fälschen, sehr geehrter Herr Frey ist in dem Zusammenhang der richtige Begriff.
+Ansonsten eichen, nacheichen, kalibrieren … .
+Glasthermometer (Quecksilber, Alkohol …) müssen von Zeit zu Zeit nachgeeicht werden, weil Glas eigentlich eine Flüssigkeit ist.
+Die in der Meteorologie im „Assmann“ verwendeten Thermometer mußten deswegen liegend aufbewahrt werden.
+„to adjust“ = anpassen an eine Vorgabe, Situation, Bedarf etc.
+Gruß
+to adjust = etwas passend machen, damit etwas zum Beispiel in einen Trend passt, weil den gemessenen Werten nicht „geglaubt“ wird.
+mfg
+Lieber Hr. Frey,
+ich würde vorschlagen, Begriffe wie „anpassen“ oder auch „justieren“ in Betracht zu ziehen.
+Mfg
+die Übersetzung von „to adjust“ mit adjustieren kommt mir immer irgendwie blöde vor, aber ich weiß kein besseres Wort. „Korrigieren“ scheidet aus, denn man macht ja was falsch und nicht richtig.
+Einfach mal Off Topic: weiß jemand eine treffendere Bezeichnung für „Adjustierung“?
+Chris Frey, Übersetzer
+Oder kennt jemand Justierungen in Richtung Abkühlung?
+Ich nicht.
+Anzeigen,
+vor Gericht mit den Fälschern,
+Entlassungen.
+Knast.

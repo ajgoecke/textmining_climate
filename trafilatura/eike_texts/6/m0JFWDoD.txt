@@ -1,0 +1,63 @@
+Betrachten wir die neuesten Daten vom (2017) National Renewable Energy Laboratory (NREL) Annual Technology Baseline, [1] und [2], wird uns erklärt, die aktuelle repräsentative Technologie für die Nutzung von Solarenergie sind Türme mit Tanks, zur Wärmespeicherung von Salzschmelzen für eine Kapazität von 10 Stunden. Die erste (und bislang einzigste) große Kraftwerksanlage – mit 10 Stunden Speicherkapazität durch Salzschmelzen, ist Crescent Dunes, 110 MW, in Betrieb genommen im Jahr 2015.
+[[Technische Anmerkung durch den Übersetzer:
+Thermische Solarkraftwerke konzentrieren die Sonnenstrahlen mit Spiegeln, um mit letztendlich Dampf für eine Turbine zu erzeugen, die dann einen Generator antreibt, der Strom erzeugt. Die Idee ist, ein Medium zu erhitzen/ zu nutzen, was die Hitze speichert, damit die Stromproduktion auch bei Wolken bzw. nachts weitergeht. In der hier beschriebenen Anlage wird Salz über seinen Schmelzpunkt erhitzt und in Tanks gespeichert. Information zur Salzschmelze: https://de.wikipedia.org/wiki/Salzschmelze und http://www.u-helmich.de/che/0809/04-Ionen/Ionen-06.html
+„Solarkraftwerke“ nutzen also die Sonnenwärme nur zur Hitze bzw. Dampferzeugung, der Turbinenteil mit Generator ist gleich wie bei fossilen oder Kernkraftwerken. Unterschiede der Solarkraftwerke bestehen in der Anordnung der Spiegel – im Text weiter unten und ohne-oder-mit Speicher.
+In Deutschland gibt es eine Versuchsanlage in Jülich, Rheinland mit Solarwärmespeicherung, 1,5 MW Generator, 2007. Bekannter ist das Project Desertec, inzwischen aufgegeben.]]
+Die Erhöhung des Kapazitätsfaktors (tatsächlich gelieferte Energie in kWh / installierte Nennleistung mal Jahresstunden) basiert auf direkt erhitzen Tanks zur Wärmespeicherung, angegeben sind hier 10-Stunden-Wärmespeichung. Der Kapazitätsfaktor der Anlage soll damit weit über die 50% -Marke kommen, genauer ausgedrückt 56% bei Isolationsklasse 3 (Las Vegas, NV) oder 59% in Isolationsklasse 5 (Dagget, CA).
+[im Original: insulation class location = Wärmedämmung an … Ort? – wieso unterschiedliche Isolationsklassen? – ich habe nicht gefunden, was in diesem Zusammenhang damit gemeint ist. Dagget hat bereits 1984 / 85 die ersten Solarkraftwerke bekommen; der Übersetzer]
+Diese Kapazitätsfaktoren von 56% und 59% entsprechen einer jährlichen Stromproduktion von 4.906 und 5.168 kWh / kW Leistung, die in bisherigen Solarkraftwerken nicht einmal annähernd erreicht werden.
+Betrachtet man die betriebenen Solarkraftwerke mit Spiegel Reflektoren oberhalb von nur 50 MW auf der ganzen Welt, so umfasst diese Liste 34 Stationen, 31 davon nutzen Parabolrinnen, eine viel konsolidiertere und zuverlässigere konzentrierte Solarenergietechnologie, eine nutzt einen Fresnel-Reflektor und nur zwei von ihnen haben einen Solarturm.
+Die beiden Kraftwerke mit Solartürmen befinden sich in den Vereinigten Staaten, das 377-MW-Solarstromerzeugungssystem von Ivanpah und das 110-MW-Solarprojekt Crescent Dunes. Da die tatsächliche Stromerzeugung dieser Anlagen von der Energy Information Administration [3] der Vereinigten Staaten verfügbar ist, können wir sicherlich prüfen, ob die Zahlen von NREL richtig sind.
+Zum Vergleich betrachten wir auch die Daten einer zuverlässigeren konzentrierten Solarthermie-Parabolrinnenanlage, die kürzlich gebaut wurde, Genesis mit 250 MW, die keinen thermischen Energiespeicher hat. Die geplante Stromproduktion liegt bei nur 580.000 MWh pro Jahr, was einem Kapazitätsfaktor von 26,48% entspricht.
+Für Ivanpah mit 377 MW betrug die geplante Stromproduktion 1.079.232 MWh pro Jahr, was einem Kapazitätsfaktor von 32,68% entspricht, mit minimaler Unterstützung durch das Nachheizen mit Erdgas.
+Für die Crescent Dunes mit 110 MW beträg die geplante Stromproduktion 500.000 MWh pro Jahr, was einem Kapazitätsfaktor von 51.89% entspricht.
+Abbildung 1 (unten) zeigt die monatlichen Kapazitätsfaktoren von Ivanpah, Crescent Dunes und Genesis. Erwähnenswert ist, dass die monatlichen Kapazitätsfaktoren je nach Jahreszeit variieren.
+Um übers Jahr einen Kapazitätsfaktor von 56% oder 59% Solar zu erreichen, müssten die Kapazitätsfaktoren im Sommer viel größer sein, um die niedrigeren Kapazitätsfaktoren im Frühling / Herbst und mehr noch die geringen Winterkapazitätsfaktoren auszugleichen.
+Ivanpah hat keinen thermischen Energiespeicher, sondern nutzt Erdgas zusätzlich zur Erzeugung von fehlender Wärme. Bislang konnte ein jährlicher Kapazitätsfaktor von 21,29% erreicht werden, der jedoch die signifikante Verbrennung von Erdgas nicht berücksichtigt. Da Erdgas in einer Gas- und Dampfturbinenanlage besser (aus-) genutzt werden kann, würde sich der tatsächliche Jahreskapazitätsfaktor auf 14,42% reduzieren, wenn zur Effizienzsteigerung des Erdgasverbrauchs einer GuD-Anlage kombiniert wird.
+Nach NREL repräsentiert Crescent Dunes derzeit die aktuellste Technologie zur Konzentration von Sonnenenergie. Das Projekt hat übers Jahr mit einem Kapazitätsfaktor von maximal 13,21% bisher jedoch viel weniger als die prognostizierte Stromproduktion geliefert. Der Wärmespeicher macht große Probleme, die noch nicht ausgestanden sind. [Wenn die Salzschmelze erstarrt, verstopfen die Leitungen und müssen aufwendig wieder freigemacht, d.h. erhitzt werden]
+Die zuverlässigere Genesis Anlage konnte ohne die Erdgasverbrennung einen Jahreskapazitätsfaktor von fast 30% erreichen – ein Wert, der sogar besser ist, als erwartet.
+Es scheint nicht angebracht, als “ aktuelle Technologie “ eine Technologie vorzuschlagen, die noch nicht ausgereift ist und dabei herunterzuspielen, was bereits viel besser funktioniert.
+Thermische Energiespeicher sind keine so bewährte und ausgereifte Technologie. Ähnliches gilt für die Solarturm-Technologie, die viel problematischer ist, als Anlagen mit Parabolrinnen.
+Während NREL die Zahlen nicht aktualisiert, um der Realität zu entsprechen, haben die südaustralische Regierung und die australische Bundesregierung kürzlich entschieden, das Kraftwerk von Crescent Dunes von demselben Entwickler in Port Augusta, South Australia, zu bauen [4], [5] ].
+Ergänzung:
+SolarReserve hat ihr Hauptquartier in Santa Monica, California und entwickelt Solar Großprojekte weltweit.
+Wie schon erwähnt, hat die Firma einen Vertrag, für Port Augusta, Australien, um dort auch eine Abwandlung ihres 110 MW Crescent Dunes Solar Energy Project von Nevada zu bauen, allerdings mit 150 MW, veranschlagtes Budget $650.
+Jay Weatherill, South Australia’s Premierminister ist schon ganz aus dem Häuschen, ob des größten Solarkraftwerkes der Welt. Der Vertrag mit SolarReserve läuft über 20 Jahre, und die Regierung ( – der Steuerzahler) werden maximal $78 für jede MW sauberer Energie zahlen [der Autor schrieb MW, m.e. sind MWh gemeint, der Übersetzer].
+Abb. 1 – Monatliche Kapazitätsfaktoren für die Solarkraftwerke Ivanpah, Crescent Dunes und Genesis. Die geplanten jährlichen Kapazitätsfaktoren sind 32,68% für Ivanpah (aber mit minimaler Unterstützung durch Verbrennung von Erdgas), 51,89% für Crescent Dunes und 26,48% für Genesis. Ivanpah konnte 2016 einen jährlichen Kapazitätsfaktor von 21,29% erreichen, ohne die signifikante Verbrennung von Erdgas zu berücksichtigen. Crescent Dunes hat 2016 einen Jahreskapazitätsfaktor von 13,21% geliefert. Genesis konnte Strom produzieren, der 2006 einen jährlichen Kapazitätsfaktor von fast 30% erreichte.
+Original erschienen am 03. 05.2018 auf qualityassuranceofclimatestudies.wordpress.com
+Übernommen von https://principia-scientific.org/the-failure-of-solar-tower-thermal-energy-storage/
+und https://wattsupwiththat.com/2018/05/05/the-tower-of-power-falls-short-produces-only-30-of-capacity/
+Übersetzt durch Andreas Demmig
+Referenzen
+[1] National Renewable Energy Laboratory (NREL). 2017 Annual Technology Baseline. Golden, CO: National Renewable Energy Laboratory. www.nrel.gov/analysis/data_tech_baseline.html
+[2] National Renewable Energy Laboratory (NREL). Concentrating Solar Power. atb.nrel.gov/electricity/2017/index.html?t=sc&s=ov
+[3] Energy Information Administration (EIA). Electricity data browser – Plant Level Data.
+Available online: www.eia.gov/electricity/data/browser/
+[4] ABC News (2017), Solar thermal power plant announced for Port Augusta ‘biggest of its kind in the world’.
+www.abc.net.au/news/2017-08-14/solar-thermal-power-plant-announcement-for-port-augusta/8804628
+[5] Renewable Economy (2017). Aurora: What you should know about Port Augusta’s solar power-tower.
+reneweconomy.com.au/aurora-what-you-should-know-about-port-augustas-solar-power-tower-86715
+Ergänzung:
+Übersicht über Solarenergieprojekte weltweit -in Betrieb, im Bau, geplant https://www.nrel.gov/csp/solarpaces/index.cfm
+Frühere Berichte auf Eike:
+https://www.eike-klima-energie.eu/2016/03/24/ivanpah-das-groesste-us-solarprojekt-koennte-gezwungen-werden-abzuschalten/
+https://www.eike-klima-energie.eu/2016/05/26/das-groesste-solarkraftwerk-der-welt-hat-sich-soeben-selbst-verbrannt/
+Die Probleme des Flächenverbrauchs, der Natur und der Vogelverbrennung wird vor allem von den Kommentatoren auf WUWT angesprochen.
+Grundsätzlich spielt ein Wirkungsgrad bei Energiegewinnung und Umsetzung keine Rolle. Ein Atomkraftwerk hat in Bezug auf die eingesetzte Masse, e=mc², einen subminimalen Wirkungsgrad und liefert doch preisgünstigen Strom.
+Mit anderen Wörtern, es kommt auf die Kosten des erzeugten Stromes an. Und natürlich, ob mit diesen Kosten der Strom zu vermarkten ist. Teurer Strom kann zum Regeln genutzt werden, Teurer und billiger Strom ist nutzlos, wenn er nicht gebraucht wird.
+So wie ich den Artikel verstanden habe, ist die Rede nicht von Wirkungsgrad, sondern von Nutzungsgrad. Also die Stunden an Nennleistung die diese Anlagen im Jahr auf die Gesamtjahresstunden.
+Letztendlich geht es doch nur um die Kosten für den Strom, der hinten rauskommt und die Möglichkeit, ihn zu vermarkten. Und da haperts halt bei den Erneuerbaren ganz gewaltig.
+Sehr geehrter Herr Günter Dehren,
+nein, in dem als „Kapazitätsfaktor“ bezeichnetem, dimensionslosen Wert, wird nur die tatsächliche „Lieferfähigkeit“ oder „Ausbeute“ der jeweiligen Energiequelle aufs Jahr gesehen dargestellt. (s.o – es scheint ja nicht an 8760 Std. die Sonne mit voller Intensität)
+Das hat mit Wirkungsgrad nichts zu tun, sondern Sie sehen daran, ob Sie für eine bedarfsgerechte und unterbrechungsfreie Stromversorgung auch noch andere Stromquellen benötigen.
+Bei technischen Anlagen spricht man auch von „Verfügbarkeit“ in %, darin sind dann allerdings auch Ausfälle und Wartungsarbeiten mit berücksichtigt.
+Ich weiß, Elektrotechnik und die korrekten Bezeichnungen sind oft schwierig zu finden und zu vermitteln, für jemand, der von der Materie wenig Ahnung hat. Das ist nicht böse gemeint, so wie Ihnen hier, geht es mit bei anderen Themen. Halbwissen, wie es unsere Politiker gerne von sich geben, ist ganz schlimm, denn meist wird die falsche Hälfte rumgeplaudert.
+Vielen Dank für Ihre ausführliche Antwort.
+Aber Wirkungsgrad und Nutzungsgrad alias Kapazitätsfaktor haben doch etwas gemeinsam, – sie sagen nichts über die Kosten aus. Und genau das ist es, was ich an dem ansonsten guten Artikel bemängele.
+Und der Begriff „Kapazitätsfaktor“ ist nicht nur dimensionslos, sondern auch nichtssagend, es fehlt nämlich der ebenfalls dimensionslose Begriff der „Verfügbarkeit“. Die ist bei konventionellen Kraftwerken planbar und somit zu fast 100% gegeben, bei Sonne und Wind aber rein zufällig. Aber das ist ja alles bekannt.
+Zum Schluß ist es ein hoher Aufwand und Flächenverbrauch bei zu geringen Ertrag. Zu einen Kohle- Gas- oder Kernkraftwerk sind Solarkraftwerke einfach ein Minderwertiges System (Produkt).
+Ganz oben auf dieser Pyramide sitzen welche, die vor lachen nicht in den Schlaf kommen und die interessiert der produzierte Strom gar nicht. Sie lachen darüber, dass wir Bürger mehr Geld zahlen für weniger Leistung und viele sogar danach schreien es so zu machen. Ich würde auch lachen. Wenn es nicht so traurig wäre…
+Der normale Bürger bezahlt die Dinger also mehrfach, erstens über hohe Strompreise (EEG) und zweitens über die Steuerzahlungen, die wiederum an die Abschreibungskünstler ausbezahlt werden bzw. von klimabewegten Kommunen verbrannt werden.
+Im Endeffekt bleibt von der propagierten „Bürgerenergie“ nichts, aber auch garnichts übrig. Profitieren tun nur diejenigen, die eh schon im großen Geschäft sind und Grundstückbesitzer.
+Jep.
+Und nur um das geht es!

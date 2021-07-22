@@ -1,0 +1,117 @@
+Sicher hängt Ihnen das Thema „Energiewende“ längst zum Hals heraus – Ihnen als Lesern dieser Web-Seite ganz bestimmt. Denn mit diesem Thema haben sich seit 2008 immerhin 54 Beiträge befasst und mit dem Thema Energiepolitik 96 Stück. Und sämtliche können Sie immer noch aufrufen. Aber tun Sie es lieber nicht. Lesen Sie stattdessen ein knackiges Interview. Hier ist alles wunderbar und leicht verständlich zusammengefasst, was man über die „Energiewende“, die zutreffender „Stromwende“ heißen muss, wissen sollte. Die Überschrift lautet: „Die Norweger zeigen uns einen Vogel“.
+Unter Anwendung der vier Grundrechenarten …(1)
+Befragt wird in dem Interview Dr. Kurt Gehlert aus Iserlohn. Der heute 75jährige ist Bergbaufachmann und Fracking-Experte und lehrte als Professor an der Fachhochschule Bielefeld. Seine Kernaussage findet sich am Schluss des Gesprächs und lautet: „Die Energiewende ist klar erkennbar unter den in Deutschland gegebenen Bedingungen als gescheitert zu betrachten, wenn man sie naturwissenschaftlich-technisch unter Anwendung der vier Grundrechenarten in die Zukunft projiziert.“ In dieser Offenheit, man könnte auch sagen: Brutalität, pflegen sich Wissenschaftler nur zu äußern, wenn sie emeritiert sind, sonst hätten sie Nachteile zu befürchten. Denn Aussagen dieser Art sind bei Politikern und Energiewende-Profiteuren höchst unerwünscht, also ganz schrecklich „politisch unkorrekt“. Ebenfalls selten geworden ist, dass Medien dergleichen veröffentlichen. Aber die Westdeutsche Allgemeine Zeitung (WAZ) hat es getan, zu finden in ihrer Online-Ausgabe vom 12. August. Geführt hat das Gespräch Thomas Reunert.
+Am Ende ein desillusioniertes Volk
+Gehlert äußert in dem Gespräch das, was viele andere Fachleute schon lange nicht anders und immer wieder so darstellen und mit Fakten belegen. Ich habe auf dieser Web-Seite ebenfalls immer wieder auf sie hingewiesen und sie zitiert. Am Ende des Gesprächs fragt der Journalist Thomas Reunert den emeritierten Professor nach dessen Zukunftsprognose für die Versorgung der Deutschen mit Strom. Gehlert antwortet: „Keine Kernkraftwerke mehr, aber ein Mix von modernen Braunkohle-, Steinkohle- und Gaskraftwerken. Fast alle Windräder und Biogasanlagen sind am Ende ihrer Lebensdauer und stillgelegt, Photovoltaikanlagen sind zwar abgeschrieben, liefern aber durch Alterung nur noch die Hälfte bis 70 Prozent ihrer ursprünglichen Leistung. Es gibt keine EEG-Vergütung mehr und keinen Vorrang der Einspeisung. Die Politik konstatiert besorgt: Unsere Amtsvorgänger haben uns ein desillusioniertes Volk hinterlassen.“
+Den Wortlaut des Gesprächs finden Sie hier.
+Übernommen von K.P.Krauses Blog hier
+(1) Dass auch die perfekte Anwendung der vier Grundrechenarten nicht vor Fehlern bewahrt, zeigt die folgende Überschlagsrechnung, die P. Würdig Reetz vorgenommen hat. Er bezieht sich dabei auf die Aussage von Dr. Gehlert im Interview, dass zur Speicherung einer Woche Dunkelflaute ..
+Zitat aus dem Interview:
+„..Kapazitäten für 7 Tage = 10 080 Minuten, wenn wir eine einwöchige Flaute und fehlenden Sonnenschein nicht ausschließen können. Fazit: In Deutschland müssen rund 125 Mal so viele Speicherseen bis 2050 geschaffen werden, wie heute existieren. Diese Flächen und Volumen in topographisch machbaren Gebieten hätten und haben wir gar nicht. Damit es fassbar wird: 20 Kubikkilometer Wasser müssen 50 Meter Fallhöhe bekommen, um gegebenen Falls über Turbinen in den unteren See mit 20 Kubikkilometer Fassungsvermögen zu laufen. Zum Vergleich der Bodensee mit 48 Kubikkilometer Inhalt. Er müsste fast in der Mitte mit einer 125 Meter hohen Staumauer geteilt werden…Zitatende
+dazu P. Würdig Reetz
+Elektrische Leistung in Deutschland: 80 GW
+(wird zwar etwas weniger angepeilt, aber der Bedarf kann auch steigen,… Ich gehe mal von dem Energiebedarf für eine Woche aus, dann ist man einigermaßen auf der sicheren Seite. Das sind:
+80 GW * 24 h *7
+= 13.440 GW h
+=48.384.000 GW sec
+gerundet 50 * 10 ^ 6 GW sec
+= 50 * 10 ^ 6 * 10 ^ 9 W sec (1 W sec = 1 J)
+= 5 * 10 ^ 16 J
+Das soll man speichern können, indem man ein Volumen von 20 km ^ 3 um die 50 m hoch hebt.
+Das sind 20 * 10 ^ 12 kg
+Gewicht 20 * 10 ^ 12 kp (kilo-Pond)
+1 J = 1 N * m
+= 0,1 kp * m (genauer: 1 kp = 9,81 N)
+also, 1 kp * m = 10 J
+Wenn man diese Masse 50 m hoch hebt ergibt sich eine potentielle Energie:
+E-pot = 20 * 10 ^ 12 * kp * 50 m
+= 10 ^ 15 kp*m
+= 10 ^ 16 J
+Um also die (elektrische) Energie für 1 Woche sicher zu haben, brauchen wir nicht einen dieser Seen von 20 km^3, sondern fünf. Wie vorgeschlagen, den Bodensee mit einer 125m hohen Mauer dazwischen (eine Hälfte leer, alles andere auf der anderen Seite oben raufgepackt, so war das wohl gemeint),
+Energiewende geschafft, hurrah !
+Mir gefällt das stetige Verbessern auch mehr als der grosse, pathetische Wurf. In der Realität ist es selbst in der Schweiz aus polittheatralischem Grund praktisch unmöglich, z. B. die Staumauer zu erhöhen; ausserdem rentiert sich im Moment gar keine Investition in bestehene Wasserkraftwerke, da die subventionierte „alternative“ Energie den Börsenstrompreis soweit gedrückt hat, dass die Stauwerksbetreiber jetzt auch die Hand aufhalten. Wie jetzt sicherlich mancher vermutet, ist es tatsächlich so, dass manche der üblicherweise von Kantonen und Gemeinden beherrschten Stromproduzenten auf beiden Hochzeiten tanzen.
+Herr Burowski, Sie haben wie immer Recht. Das mit den PSW ist eine grottenschlechte Idee. Fast so schlecht wie die Idee mit den Windrädern und den PV-Anlagen. Wenns die nämlich nicht gäbe, hätten wir das Problem mit den Speichern und viele weitere auch nicht.
+Dann hätten wir nämlich Kraftwerke, die wir bedarfsgerecht einsetzen könnten. Langsam regelbare für die Grundlast und schnellregelbare für Stromspitzen. Dezentral und ohne die Notwendigkeit für einen gigantischen Netzausbau.
+Wenns dann noch CO2-frei sein muss, hätte man im Angebot KKWs der neuen Generation, die locker und für einen Bruchteil der Kosten die gesamte Grundlast abdecken könnten, inzwischen ohne atomare Abfälle zu erzeugen.
+Und hätten wir gestandene Politiker, die sich nicht von NGOs, Alt-68ern und „Expertenkommisionen“ ins Bockshorn jagen lassen, sondern auf Wissenschaftler hören würden, wäre es so gekommen und wir müssten hier nicht über diesen ideologischen Unsinn der Energiewende diskutieren.
+„#31: Herr Burowski bitte machen Sie es nicht noch schlimmer! Oder wollen Sie die Nullsatz-Charts erstürmen??“
+Verstanden haben Sie nicht was ich geschrieben habe, nicht wahr? Zumindest ist das der Redundanz ihrer Antwort zu entnehmen.
+Die Medien vermelden (vgl. Handelszeitung.ch vom gestrigen Tag): Weltgrösster Staatsfonds: Erstmals seit drei Jahren rot. Insgesamt hält Norwegen über den Fonds Anteile an 9.000 Unternehmen und verfügt über 1,3 Prozent sämtlichen Aktienbesitzes weltweit. Zuletzt zog er sich auf Druck des Parlaments aus der Kohle-Industrie zurück. Und das wird noch Folgen haben müssen. Negativer Art.
+Hängt der Verlust mit der falschen politischen Entscheidung zusammen? Das geht aus der Meldung nicht hervor. Früher oder später wird das aber geschehen. Die Norweger haben also nicht viel zu lachen. 870 Milliarden stehen auf dem Spiel. Die ökonomischen Gesetze sind unerbitterlich.
+Und die Fahnenstange politisch korrekter Entscheidungen ist auch in Norwegen noch nicht beendet. Der (wissenschaftliche) Onkel UN(ESCO) wird diese Norweger schon ordentlich erziehen wollen.
+„Goldisthal liefert in 8 h 4 min fast 8 680 Mwh. In einer Woche laufen 168 h/8.0667 h = 20.8264 Goldisthal ab und liefern 180 772.8 Mwh. 13 440 Gwh / 180.77 Gwh = 74.35 – so viele 20.8-fache Goldisthal braucht es – also 74.35*20.8 = 1546 Goldisthal; sie können ja wegen der Flaute nicht wiederaufgefüllt werden.
+Würde man sie mit franz. Atomstrom immer gleich wieder vollpumpen, ….“
+Herr Schweizer, es geht um eine ganz andere Aussage in #2 (Kosten 1. Billion Euro). Fakt ist, in D braucht man etwa 80 – 90 GW installierte Leistung, um die Stromversorgung sicher zu stellen. Ich bestreite auch nicht die genannte Energiemenge. Natürlich kann man jetzt 80 mal Goldisthal nehmen, sind nach 8 – 10 Stunden leer, dann wieder 80 mal Goldisthal, sind wieder nach 8 – 10 SDtunden leer usw. Wenn man aber weiß, dass die Investitionskosten pro kW Nennleistung in einem PSW etwa 1000 mal höher sind als die Investitionskosten für 1 kWh Speicherkapazität, wäre es doch wohl optimaler die Leistung von Goldisthal mit einer wesentlich größeren Speicherkapazität zu koppeln und dann kommt viel weniger, als 1 Bio. Euro raus.
+Davon abgesehen, halte ich von PSW als großvolumige (energetisch betrachtet) Speicher sehr, sehr wenig. PSW haben zwar einen hohen Wirkungsgrad, aber eine grottenschlechte volumetrische, wie auch gravimetrische Energiedichte. 1 m³ im Oberbecken von Goldisthal hat nicht mal einen Energiemenge von 1 kWh.
+Daraus entstand die fixe Idee, mit Wasser als Fluid Felsen anzuheben. Das vergrößert zwar, je nach Dichte des Gesteines, die Energiedichte, halte ich aber genauso, im großen Maßstab, für nicht realisierbar, da eine Homogenität des Gesteines vorausgesetzt wird, die in der Natur kaum zu finden sein wird.
+Was Speicher angeht, sollten wir vielleicht mal mit ganz kleinen Brötchen anfangen und nicht mit riesigen Broten. In der Regel ist es so, dass 70% eines Problemes mit 20 % der Kosten gelöst werden können, aber die restlichen 30% verursachen 80% der Kosten.
+„6 Wochen Hochnebel mit Windstille im Herbst.“
+Sind nur ca. 70 TWh. Mindestspeicherbedarf für die neuen Ostprovinzen beträgt ca. 35 TWh.
+Schon aus diesem Grund wird es keinen massiven Ausbau dieser Verbindungen geben – außer mal wieder durch staatliche Subventionen.
+Das ist Verrat am eigenen Charakter, am Gewissen. Was für Repressalien? Werden die gefoltert? Enthauptet? Im Nahen Osten und Nordafrika geschieht es. Und die (üblichen) Heuchler entlarven sich mal wieder. Die kommunistischen und atheistischen Zeichner in Paris, (Charlie Hebdo), haben bereits den Kampf aufgegeben und sich den Mördern, über die sie sich vorher lustig gemacht haben, unterworfen. Die Kommunikation mit den Mördern funktioniert also, und diese haben es mit Genugtuung zur Kenntnis genommen. Jetzt sind die nächsten Opfer dran.
+Der Maßstab kann nicht nach Beliebigkeit verändert werden. Es war und bleibt Verrat am Geist der Wahrheit, dem höchsten und identischen Ideal der christlichen Ideologie und (!) der echten Wissenschaft, was nur noch ganz wenige Menschen wissen wollen.
+Und den Verfechtern und Hintermännern der Energiewende und einer nachhaltigen Welt liegt auch der gleiche menschenverachtende Ansatz zugrunde, wie den mordenden Affen aus dem Nahen Osten und Nordafrika.
+Es ist Krieg, und keiner im Westen will, wollte kämpfen. Jetzt haben wir den Salat, mit der teuren Energiewende. Und das könnte nur der Anfang sein. Da ist noch der Euro, jetzt das Problem mit der Migration.
+MfG
+P.S.: Ihr Vergleich mit, vom Saulus zum Paulus, ist völlig falsch, also unzutreffend. Wer die Wahrheit nicht aussprechen will, obwohl er sie weiß, der ist etwas ganz anderes, aber bestimmt kein Saulus, der zum Paulus wurde.
+Die Norweger sind glücklicherweise, weder im Euro, noch in der Europäischen Union. Ein riesiger Vorteil.
+Die Karriere. Man hat sich für die Karriere verkauft. Sehr viele bieten deren Dienste für Geld an. Es ist aber möglich, Karriere zu machen, und die Wahrheit zu verkünden. Mit Charakter und Intelligenz und Klugheit.
+Da bleibt zudem noch die Frage. Wo soll eigentlich das viele Wasser herkommen?
+weil es doch so schön ist wenn die Realität die Illusionen der Anhänger der „Norwegen ist Europas Batterie“ Theorie einholt zitiere ich noch einmal Tore Undeland, seines Zeichens Professor für „Power Electronics“ und „Electric Power Engeneering“ der NTNU:
+„Hydropower is cheaper than wind power, but most of Norway’s hydropower resources are developed. If we want a greater share of renewable energy it must come from wind power“.
+Aha, auch Norwegen muss auf Windkraft setzen…
+Wo da noch die Kapazitäten bleiben sollen um ganz Deutschland in windstillen Nächten mit Hydropower zu versorgen wissen nur die Kabelstrang-Bauer nach Norwegen…
+Goldisthal liefert in 8 h 4 min fast 8 680 Mwh. In einer Woche laufen 168 h/8.0667 h = 20.8264 Goldisthal ab und liefern 180 772.8 Mwh. 13 440 Gwh / 180.77 Gwh = 74.35 – so viele 20.8-fache Goldisthal braucht es – also 74.35*20.8 = 1546 Goldisthal; sie können ja wegen der Flaute nicht wiederaufgefüllt werden.
+Würde man sie mit franz. Atomstrom immer gleich wieder vollpumpen, sähe es so aus: 10h 25 min Einlauf + 8h 4 min Auslauf = 18 h 29 min Betrieb ergibt 8 680 Mwh Output (bei 10 708 Mwh Input). 168 Wochenstunden/18.4833 h = 9.0893 – so oft kann Goldisthal in einer Woche gefüllt und entleert werden, und produzierte so 78.895 Gwh. 13 440/78.895 = 170.35 – so viele Goldisthal im Dauerbetrieb bräuchte es dann. Dafür wären 9.0893 * 10.708 Gwh * 170.35 = 16 580 Gwh Atomstrom zum Auffüllen der 170 Speicherseen notwendig.
+„@ #16 J. Hintze
+Sie irren sich, denn nicht Flauten sind das Problem,…“
+Hmm, Herr Heinzow
+6 Wochen Hochnebel mit Windstille im Herbst.
+Kein Problem?
+Interessant!
+Was schlägt der Fischmarktexperte für diesen Fall vor?
+Auswandern?
+MfG
+Es kommt relativ häufig vor ,daß emeritierte Entscheidungsträger plötzlich vom Saulus zum Paulus werden und ihre Ansichten nicht wiederzuerkennen sind.Im Artikel wird das damit beschrieben,daß sie sonst Repressalien ausgesetzt gewesen wären.Für eine angebliche Demokratie ist das immerhin bemerkenswert.Für eine Bananenrepublik ist das wohl zutreffend.
+Sie irren sich, denn nicht Flauten sind das Problem, sondern die jahreszeitlichen und dekadischen Schwankungen der Windströmungen und der Bewölkung. Eine um 10% niedrigere mittlere Windgeschwindigkeit bedeutet 27% weniger Energie, was bei 4 Tagen in etwa einem Tag Flaute entspricht. Ihre lineare Denkweise führt zu einem unzutreffenden Ergebnis.
+Es geht um die ’nachhaltige‘ Erzeugung von elektr. Energie u_n_d den Energieerzeugungs-Geräten, also den WKA und PVA. Ein ‚Erntefaktor‘ 1 ist Blödsinn, weil damit nichts zusätzliches erzeugt wird; auch ein Erntefaktor 1,5 oder 2,9 ist Unsinn, weil dort noch nicht einmal der zusätzliche Energieverbrauch durch Transport, Landnutzung, Verteilungsnetze, zusätzliche Infrastruktur usw. abgedeckt ist. Ein sinnvoller Erntefaktor fängt frühestens bei 6 oder 7 an, wenn man am Rande der Wirtschaftlichkeit entlang kratzen will. Atomkraftwerke haben Erntefaktoren von größer als 40, wie vor kurzem in einem Artikel auf dieser Seite von Eike ausführlich erläutert wurde. Die Speicherung ist erst der zweite, dritte oder vierte Schritt, wenn man dem Naturschutz oder weiteren Anforderungen Vorrang einräumen will.
+Das ganze passt nicht zusammen. Solange man die PVA/WKA nur bauen kann mit Energie aus chinesischen Kohle- und Kernkraftwerken bzw. mit Werkstoffen aus Metallhütten, die mit Kokskohle betrieben werden müssen, ist die ganze Energiewende Schwindel und Schaumschlägerei. Deutschland verspiegelt und verspargelt, und wir werden zum Gespött der Weltöffentlichkeit. Das Land der Dichter und Denker ist weder ganz dicht noch hat es nachgedacht. Es ist eine Schande, Deutscher zu sein.
+„…bei einer Klassenarbeit über Physik wären Sie schon wieder bei „ungenügend“ gelandet.“
+„Sie scheitern ja schon am Unterschied zwischen Leistung und Energie….“
+Ich ergänze: auch in Rechnungswesen würde er durchfallen!
+Man muss also keine prophetischen Gaben besitzen um zu erkennen das es ohne konventionelle Kraftwerke, wobei Atomkraftwerke der neusten Generation vorzuziehen sind, niemals funktionieren wird. Man also für jedes MW Wind und Sonne exakt die selbe Menge an konventionellen MW als Reserve im Hintergrund bereit halten muss. Kosten und Platzbedarf für diesen Wahnsinn mal völlig außen vor gelassen.
+Es stellt sich also die Frage ob die Bildung der deutschen Zipfelmütze bereits so schlecht ist das die Zipfelmütze dies nicht erkennt.
+am Dienstag, 18.08.2015, 09:38
+#2: Willy Fritz
+„Für die 13.440 GWh zur Überbrückung von einer Woche Dunkelflaute benötigt man also 1.581 Goldisthal PSW“
+Wieso braucht man eine installierte Leistung von 1581 GW, wenn man D mit 80 – 90 GW installierter Leistung versorgen kann?
+################################################,
+Sie scheitern ja schon am Unterschied zwischen Leistung und Energie….
+Sehr geehrter Herr Burowski,
+bei einer Klassenarbeit über Physik wären Sie schon wieder bei „ungenügend“ gelandet.
+Da verwechseln Sie wieder „W“ (Anschluss- oder Nenn-Leistung) mit „Wh“ (Arbeit bzw. abgelieferte Energie).
+Herr Burowski,
+Früher haben Sie hier doch öfters den grossen Mathe-Guru herausgekehrt. Jetzt scheinen Sie immer deutlicher nachzulassen.
+Extra für Sie: Goldisthal kann für 8,5 Stunden 1 GW Leistung abgeben, macht eine Kapazität von 8,5 GWh. Benötigt werden jedoch 13.440 GWh. Also: 13.440 / 8,5 = 1581 Einheiten, die teils parallel, teils sequentiell zugeschaltet werden müssen.
+Level: Punktrechnung, Volksschule
+Egal was es ist: Sie sollten das Zeugs absetzen, das Sie im Moment verwenden, es schadet Ihnen.
+Mfg
+Grundsätzlich stimme ich mit Ihnen überein, dass man Unmengen von Speichern benötigt für eine einigermaßen stabile Stromversorgung durch „Öko“-Energien. Vielleicht nicht ganz so viel, wie Sie berechnen, aber immer noch so viel, dass die Machbarkeit sehr in Frage gestellt werden kann, von den Kosten ganz zu schweigen.
+Noch ein Hinweis: Ein zusätzlicher Kraftwerkspark bei Pumpspeichern wird nicht benötigt, die Turbinen sind da immer dabei. Aber eventuell meinen Sie das auch anders.
+Was natürlich sehr gefährlich bei Speichern ist: Wenn sie mal leer sind, benötigen sie einige Zeit, bis sie wieder gefüllt sind. Während der Füllzeit muss dann schon optimales Wetter herrschen, da der erzeugte Öko-Strom ja nicht nur für die Füllung verwendet wird, sondern auch den laufenden Bedarf decken muss. Wenn während dieser Zeit plötzlich wieder zwei drei Tage Flaute herrscht, dann Gnade uns Gott, die Speicher sind leer, die Windmühlen können nicht liefern, das Ausland hat auch nicht so viel übrig.
+Dann wird endlich der grün-linke Traum wahr: Wir schalten uns selber ab.
+„Das Eine ist sicherlich die wissenschaftlich korrekte Einordnung von Werten wie Feinstaub oder Kohlenstoffdioxid, die in einer wissenschaftlichen Sendung ihren Platz hat.
+Das Andere ist eine Anmoderation in einem Magazin wie der Landesschau – wo es eher um gefühlte Wirklichkeiten geht; eben darum, dass Verbrennungsmotoren stinken, laut sind und Dreck machen. Deshalb war die Wortwahl von Florian Weber zwar sachlich gesehen nicht ganz korrekt, aber sie drückt das allgemeine Gefühl aus, daß herkömmliche Autos “dreckiger” sind als E-Autos.“
+Dem ist nicht hinzuzufügen.
+„Für die 13.440 GWh zur Überbrückung von einer Woche Dunkelflaute benötigt man also 1.581 Goldisthal PSW“
+Wieso braucht man eine installierte Leistung von 1581 GW, wenn man D mit 80 – 90 GW installierter Leistung versorgen kann?
+Herr, lass Hirn von Himmel regnen!
+Zitat:
+Ich glaube an die Wahrheit. Sie zu suchen, nach ihr zu forschen in und um uns, muß unser höchstes Ziel sein. Damit dienen wir vor allem dem Gestern und dem Heute. – Ohne Wahrheit gibt es keine Sicherheit und keinen Bestand. Fürchtet nicht, wenn die ganze Meute aufschreit. Denn nichts ist auf dieser Welt so gehasst und gefürchtet wie die Wahrheit. – Letzten Endes wird jeder Widerstand gegen die Wahrheit zusammenbrechen wie die Nacht vor dem Tag!“ Theodor Fontane (1819 – 1898)
+Im Stadtgebiet von Iserlohn mit 125,5 Quadratkilometern Fläche würden damit 165 Windräder stehen.
+Aber keine Bange , denn “ Der Erfolg ist abhängig vom Umweltnutzen“ ! 🙂
+http://tinyurl.com/nt4odz2
+schreibt dieser Journalist in der FAZ :http://tinyurl.com/ppdw882
+Das Thema mit der Speicherung überfordert sowieso die meisten Berufsdemonstraten. Immerhin sind Unterstufenphysik und Dreisatz notwendig… (siehe die wunderbare Polemik von Peter Schmidt)
+Für die 13.440 GWh zur Überbrückung von einer Woche Dunkelflaute benötigt man also 1.581 Goldisthal PSW. Goldisthal hat 2003 623 Mio € gekostet, wären als ohne Inflationszuschlag ca. 1 Billion €. Na dann mal los, es gibt viel zu tun……
+Das Kernproblem der Speichertechnik (egal ob PSW oder P2G2P) ist die Tatsache, dass man zur Rückverstromung der gespeicherten Energie einen zusätzlichen Kraftwerkspark benötigt (PSW oder Gas), der in der Lage sein muss, notfalls die komplette Stromversorgung zu übernehmen. D. h. man leistet sich eine doppelte Stromversorgung, die natürlich irgend jemand bezahlen muss.

@@ -1,0 +1,179 @@
+Im Nahbereich sind das 10/30 KV. Bei Überlandleitungen verwendet man 110/220/380 kV. Höhere Spannungen sind wegen der Koronaverluste nicht möglich. Aber auch bei einer Übertragungsspannung von 380 kV fallen ca. 5% Verluste pro 100 km an. Damit der Strom aber noch bezahlbar bleiben soll, ist man bestrebt, eine Übertragungslänge von 200 km nicht zu überschreiten.
+Bei den Verlusten der Stromübertragung ist einiges zu beachten. Neben den bekannten ohmschen Verlusten gibt es auch induktive sowie kapazitive Verluste. Diese Verluste kann man jedoch bei Freileitungen durch entsprechende Kompensationsmaßnahmen klein halten. Das gilt jedoch nicht für eine Erdverlegung. Wegen der hier entstehenden kapazitiven Verluste ist nur eine Kabellänge bis max. 30 Km möglich.
+Da im Norden Deutschlands der Wind häufiger und stärker weht als im Süden, sind dort durch die Energiewende sehr viele Windanlagen gebaut worden. Hier ist jetzt ein Überangebot von Windstrom vorhanden. Da einige KKW im Bayern bis 2022 vom Netz gehen sollen, plant man jetzt den Strom aus dem Norden durch eine Südlink in den Süden nach Bayern zu leiten. Aussage Gabriel: Ohne die Südlink kann die Energiewende nicht gelingen.
+Von der Nordseeküste bis nach München sind es ca. 800 Km . Eine 380 KV Hochspannungstrasse kann wegen der hohen Verluste hier nicht mehr verwendet werden. Der Plan ist jetzt, eine HGÜ zu bauen. Auch Gleichstrom unterliegt den gleichen ohmschen Gesetzen wie Wechselstrom. Nur fallen hier nicht die Koronaverluste an, und man kann mit einer höheren Spannung arbeiten. Genaue Angaben über die Höhe der Gleichspannung liegen noch nicht vor. Gehen wir aber von einer Spannung Bipolar 500 kV DC aus, ist mit einem Verlust von ca. 1% auf 100 km auszugehen. Hinzu gerechnet werden noch die Verluste der Konverter. Gabriel nennt als Kosten für die Südlink erst einmal 50 Milliarden Euro, die über das EEG der Bürger zu bezahlen hat.
+Erfahrung mit einer HGÜ hat man bisher mit einer Kabelverbindung Bard1 zum Festland. Da Bard1 ca. 120 Km vor der nordfriesischen Küste liegt, ist eine Übertragung der Leistung nur über eine HGÜ möglich. Bard1 besteht aus 80 Windanlagen á 5 MW und hat somit 400 MW. Als HGÜ wurden 100 kV DC Bipolar gewählt. Ende 2013 wurde der Park fertiggestellt. Die Übertragung des Windstroms funktionierte nur einige Stunden. Zwischenzeitlich ist der Konverter auf dem Festland abgebrannt, und man versucht mit Notstromgeneratoren den Park am Leben zu erhalten. Die Kosten für diese Disaster wird wohl der Stromverbraucher bezahlen.
+Bei Offshore Anlagen wird der Strompreis nach Entfernung vom Festland und nach der Wassertiefe festgelegt. Bei Bard 1 kommt man bei einer Wassertiefe von 40 m auf 19,5 c/kWh . Selbst bei diesem hohen Vergütungspreis scheint eine wirtschaftlicher Betrieb von Offshore Anlagen mit möglich zu sein.
+Ein neuer Höhepunkt in der chaotischen Ausführung der Energiewende ist der Plan zum Bau einer Nordlink. Wie oben schon erwähnt, besteht im Norden ein Überangebot an Windenergie. Der Bau von HGÜ Leitungen in den Süden verzögert sich durch den Einspruch von Bayern. Nun wurde ein Vertrag zum Bau einer HGÜ nach Norwegen unterzeichnet (Nordlink). Als Investitionskosten werden vorsichtig 1,5 Milliarden genannt, die über die EEG Zulage abgerechnet werden soll .
+Aussage Gabriel: Ein wichtiges Zeichen zum Gelingen der Energiewende, und zu mehr Versorgungssicherheit Deutschlands.
+Einige Daten zu dieser Nordlink: Das Seekabel wird 623 km lang sein. Über dieses Kabel können max. 1400 MW übertragen werden. Das entspricht in etwa der Leistung eines Blocks eines KKW´s.
+Hier einige Angaben, wie ökonomisch diese Nordlink ist: Der Plan ist, den Offshore Strom aus Deutschland in Norwegen zwischen zu speichern und bei Bedarf wieder zurück zu leiten. Die hier angegebenen technischen Angaben beruhen auf ca. Angaben, und ändern sich je nach der Spannungshöhe und der zu übertragenden Strommenge.
+Update vom 22.10.15
+Verluste: 380 KV AC Leitung = 5 % pro Km, 500 KV DC Leitung/Kabel = 1% pro Km, Konverter = 5%, Doppelkonverter= 2 X 5%, Pumpspeicherwerk = 25 %. Für die Ermittlung der Verluste auf dem Festland müsste man die zu Verfügung stehende Spannungsebene kennen. Wenn man jedoch alle Verluste addiert, kommt man bei einer vorsichtigen Schätzung auf einen Strompreis von ca. 2,50 € wenn der Strom aus Norwegen wieder abgerufen wird. Zur Erinnerung: Auf der Plattform Bard1 wurde die KW/h noch mit 29,5 Cent vergütet. Hier kann man erkennen, wie wahnwitzig und unüberlegt die deutsche Energiewende ist.
+Jetzt scheint das erste Bundesland aus dieser Energiewende auszusteigen. Bayern plant nun, die Stromlücke, die durch das Abschalten der KKW´s entsteht, durch den Bau von Gaskraftwerke ( GUD ) zu füllen. Der volatile Strom aus dem Norden ist ihnen einfach zu teuer und auch zu unsicher.
+Hierzu sagte nun der Fraktionsvorsitzen der der SPD Oppermann am 8.3. im Fernsehen. Wenn Bayern die Südlink nicht will, wird es in Zukunft nicht mehr von dem billigen Windstrom aus dem Norden profitieren, und die Bevölkerung wird die Zeche über höhere Stromkosten zahlen müssen.
+Über diese Aussage kann man doch nur lächeln. Eine KWh Windstrom kostet im Mittel ca. 12,5 Cent, und ist durchaus nicht billig. Diesen Preis für den alternativen Strom muss der Kunde bei einem durchschnittlichen Stromverbrauch von 3500 kWh/a mit ca. 220 € pro Jahr zusätzlich zu seiner Stromrechnung bezahlen. Die KW/h Strom eines GUD Kraftwerks hingegen wird mit ca. 4 Cent pro kWh gehandelt.
+Das Netz ist ein notwendiges Übel, um den Strom vom Erzeuger zum Verbraucher zu transportieren. Der weitere Ausbau des Stromnetzes ist weiteren Kosten verbunden, und belastet die Umwelt. Der Strom sollte in Zukunft dort verbraucht werden, wo er auch erzeugt wird.
+Über den Autor:
+Bernd Kehrmann ist Dipl.Ing. der Elektrotechnik und beschäftigt sich 45 Jahre mit verschiedenen kraftwerksrelevanten Projekten im In- und Ausland.
+„Die KW/h Strom eines GUD Kraftwerks hingegen wird mit ca. 4 Cent pro KW/h gehandelt.“
+Wo finde ich den die Quelle, die für Strom aus Gas die 4 Cent pro KW/h bestätigen.
+Ich hab da noch was von ca. 8 Cent pro KW/h im Kopf und bei einem Neubau sollen auch die ca. 8 Cent pro KW/h nicht ausreichen.
+Bitte um Quellenangabe wo Strom aus Gas die 4 Cent pro KW/h bestätigen.
+Gruß
+PS
+Handel kann man das kWh aus GUD Kraftwerken, aber nicht herstellen für ca. 4 Cent pro KW/h.
+Und wo kommen wir hin, dass eines der erfolgreichsten Industrieländer dieser Erde, sich von einem anderen Staat abhängig machen soll? Nur idiotische Politiker kommen auf die Idee, sich hier angreifbar zu machen.
+Der Techniker, der MINT-Fachmann hat hier überhaupt nichts zu melden. Er dürfte erst gar nicht gefragt werden. Das ist Sache von klugen Strategen. Es wäre.
+MfG
+Ist der größte Staatsfond nicht in norwegischer Hand? Jetzt beginnen die, sich langsam und gemächlich, dem Ökowahn zu verschreiben. Nun, dann sollen die mal machen. Wer nicht hören will. Den Öl-Norwegern geht es viel zu gut. Reichtum macht dumm?
+„… Darauf kommt es auch nicht an. Aus Norwegen kommt nichts anderes als Strom aus Wasserkraft und in Norddeutschland ist der Windstrom deutlich dominierend…“
+Herr Paul, das „Dumme“ ist nur, dass der Strom das nicht weiß und daher im europäischen Netz fließt wie er will – und so wie er gehandelt wird.
+Falls z.B. in NO Strom fehlt, kommt er u.a. auch aus Schweden (Kernenergie), der dann bei Bedarf auch nach D kommt falls in D kein Wind weht.
+Umgekehrt kann auch Strom aus Polen (Braunkohle) über Nordlink nach NO und S fließen.
+Ihr Szenario ist eben nur eines von Vielen, aber an den Größenordnungen (NO – D) kommen Sie auch mit der ökologischen Brille nicht vorbei. Das bisschen Wasserkraft in NO hilft uns nicht viel.
+Nochmal mein Tipp: Lesen die aktuellen Daten bei ENTSOE nach – da werden Sie geholfen!
+Lieber Hr. Paul,
+auf meine Frage, wer die Verluste der Übertragung von Strom von und nach Norwegen bezahlt, haben Sie ganz cool geantwortet: „Für den Liefenanten: Immer der Empfänger. Für den Empfänger: Immer der Lieferant“
+Ich hatte es Ihnen bereits einmal gesagt: Sie halten die Leser hier offensichtlich für blöde. Sie klopfen hier nur dumme Sprüche und meinen, damit Eindruck schinden zu können.
+Dass letztlich der Verbraucher zahlt, ist zwar wahr, spielt aber in diesem Zusammenhang eine untergeordnete Rolle. Mir geht es um die genauen Abrechnungsmodi. Also nochmal: Wie wird der Transportverlust abgerechnet?
+Ich behaupte, dass Sie es gar nicht wissen. Dann sollten Sie hier nicht so herumtönen. Fertig.
+Mfg
+Wie gehabt: Nur Subventionsträume.
+Wenn Sie aus politischen Gründen Strom nach Norwegen schicken wollen, müssen Sie schon wissen,
+ob die Norweger das auch wollen und nicht einfach so etwas voraussetzen,
+warum nicht gleich nach USA?
+Auch wenn Sie den wie üblich auf Staatskosten schenken, müssen die erst mal Pumpspeicherkraftwerke bauen, konkret auch neue Stauseen.
+Dieser Wunsch der norwegische Regierungsplaner schon vor längerer Zeit ganz hoch im menschenleeren Norden wurde allerdings von der Bevölkerung einschl. Bürgerinitiative (Inuit) etc. abgelehnt!!!
+Und er ist damit gestorben.
+Norwegen ist nicht gaz zufällig NICHT Mitglied der EU, die machen nicht jeden Mist aus Brüssel mit, Deutsche Ideologieträume schon gar nicht, Hitler ist tatsächlich noch nicht ganz vergessen.
+Für den Liefenanten: Immer der Empfänger.
+Für den Empfänger: Immer der Lieferant.
+Wie auch immer. Der Verlust ist Bestandteil des Strompreises.
+Zitat in #30: „Welcher Strom dann da fließt (Kohle-, Kern-, Gas-, Öko-) geht den Investoren völlig am A… vorbei.“
+Kann sein, kann nicht sein. Darauf kommt es auch nicht an. Aus Norwegen kommt nichts anderes als Strom aus Wasserkraft und in Norddeutschland ist der Windstrom deutlich dominierend. Das Kabel verbindet Märkte und eröffnet uns weitere Möglichkeiten, unseren Stromanteil an Erneuerbaren Energien zu erhöhen. Fertig.
+Fabian Paul
+Lieber Hr. Paul,
+ich habe im Unterschied zu Ihnen viele Meinungen berücksichtigt, während Sie anscheinend glauben, dass die eine, die Sie anführen, bereits der Weisheit letzter Schluss ist. Davon versuchen Sie mit ihrem flotter Spruch vom Hamsterrad doch nur abzulenken. Wie gut kennen Sie Norwegen?
+Was die Aussage von Tennett angeht, so habe ich damit folgendes Problem: Die sind Partei mit einem klaren Eigeninteresse.
+Gegenfrage an Sie: Wenn Deutschland 1 GWh ab Nordsee in die Leitung schickt, dann legt dieser Strom mindestens 700 km zurück, bevor er verbraucht wird. Verluste auf der Strecke demnach mindestens 10-15 %. Bei der Rücklieferung sind Entfernungen und Verluste sogar noch größer. Wer zahlt diese Verluste, bzw. wie werden diese ausgeglichen? Auf Ihre Antwort bin ich echt gespannt.
+Mfg
+„…es gibt nicht nur diese eine Quelle“
+H. Mueller, wenn Sie im Internet jeweils so lange nach Quellen suchen, bis Sie die eigene Meinung bestätigt bekommen, werden Sie immer fündig werden, aber nie etwas dazu lernen. Da laufen Sie sich wie im Hamsterrad die Lunge aus dem Leib und kommen nicht voran.
+Was haben Sie denn für ein Problem damit, die Aussage eines der am Konsortium beteiligten Unternehmen zu akzeptieren, wie NordLink genutzt wird? Sie schreiben doch selbst, dass Norwegen kaum Pumpspeicherkraftwerke zur Verfügung hat. Also worin soll der Sinn liegen, „das bisschen Windstrom“ erst noch mit verfahrensbedingten Verlusten zu speichern, anstatt es direkt zu verbrauchen und dafür die eigenen Wasserkraftwerke zu schonen?
+Vielleicht sieht die Situation in 20 Jahren, wenn es keine Kernkraftwerke und keine Braunkohlekraftwerke mehr in Deutschland gibt, anders aus. Dann sind auch NorGer und weitere HGÜ – Leitungen Richtung Norwegen gebaut. Es können dann 6 oder 8 GW Leistung von und nach Deutschland übertragen werden. Vielleicht lohnen sich dann weitere Pumpspeicherkraftwerke in Norwegen.
+Das lassen wir mal alles ganz entspannt auf uns zukommen.
+Fabian Paul
+„..Die NordLink dient dazu, Strom aus Erneuerbaren Energien zwischen Norwegen und Deutschland zu verteilen…“
+Werter Herr Paul,
+Sie sollten nicht jedes Märchen glauben, das auf den Webseiten der Netzbetreiber verbreitet wird, denn diese sind wegen der staatlichen Regulierung in einem politisch gesteuerten Umfeld unterwegs und damit zum Opportunismus verurteilt.
+Lesen Sie bei ENTSOE die „country packages“, dann werden Sie sehen, dass NO insbesondere im Winter bis 1400GWh Netto/Monat importiert, im Sommer hingegen bis 1700MWh Netto/Monat exportiert.
+Dieses Kabel, das pro Monat 1000GWh übertragen kann, ist somit für Investoren interessant, um von Preisunterschieden zu profitieren.
+Welcher Strom dann da fließt (Kohle-, Kern-, Gas-, Öko-) geht den Investoren völlig am A… vorbei.
+Die Träumerei der Ökobewegten von der Batterie Europas ist in Anbetracht der obigen Energiemengen völlig illusorisch, auch weil die Stromerzeugung und -verbrauch in NO nur ca. ein Drittel des deutschen ist und damit niemals einen nennenswerten Beitrag für D leisten kann. Außerdem ist Nordlink in den europäischen und nicht nur den deutschen Strommarkt eingebunden.
+„[…] Dass die Ökos noch nicht einmal die einfachsten wirtschaftlichen Prinzipien beherrschen […]“
+Die Oberökos wissen das schon. Das ausgegebene Ziel ist (doch) die Zerstörung des Kapitalismus. Denen ist es recht, was geschieht. Die meisten Ökos sind sowieso (noch) sehr reich. Die gucken überhaupt nicht auf die Rechnung, das gehört zum „guten“ (heuchlerischen) grünen Ton.
+Die Ausflucht auf die (angeblich mangelnde) Intelligenz allein, kann hier nicht hilfreich sein und verdeckt die wesentliche Komponente. Die wollen mit aller Macht ein anderes Deutschland aufbauen. Und man muss sagen, die befinden sich auf der Siegerstraße (De-Industrialisierung, Verachtung der Spitzentechnologie, et cetera, der ganze Katalog).
+Der Öko ist erst zufrieden, wenn wir in der Steinzeit angekommen? Mitnichten. Der Öko ist nie zufrieden. Nie und nimmer. Und ich sage Ihnen den wahren Grund. Es liegt an der [xuxuuxxux] Aufklärung. Die, bei der die Scham flöten ging. Diese Technik ist hochkompliziert, jedoch beherrschbar. Und die haben die grünen Teufel nie verstanden. Fachleute lachen (nicht auslachen, aber lachen, jawohl) darüber sehr. Die echten natürlich. Nein, darauf können Sie Gift nehmen, die grünen Ayatollahs, werden nie glücklich werden. Nie!! Und all dies auf dem Boden der Gottheit der Wissenschaft. Wer Verstand hatte, der wusste was da kam.
+Mit sehr freundlichen Grüßen
+am Samstag, 24.10.2015, 18:29
+Norwegen kauft den Deutschen Windstrom zu Preisen unterhalb der Stromgestehungskosten der eigenen Hydrostromwerke – ansonsten bestände ja kein Kaufanreiz! Zu diesen Preisen laufen die Deutschen Windmühlen aber mit tief roten Zahlen. Bei Dunkelflaute liefern die Norweger Strom nach Deutschland zu maximal möglichen Preisen, also weit über dem was der „Export“ von Windstrom erbringen kann. IMMER ein Verlustgeschäft für Deutschland und eine Win-Win Situation für Norwegen. Dass die Ökos noch nicht einmal die einfachsten wirtschaftlichen Prinzipien beherrschen kann jeder Deutsche beim Blick auf seine Stromrechnung ablesen; Strompreisweltmeister! Wir schaffen das…..
+Der verehrter Herr Fred F. Mueller und andere, aber auch (!) er, haben dies schon breit und ausführich erklärt (vgl. EIKE-Archiv). Sie machen keinen Stich. Nicht den Hauch einer Chance. Die Liste der Leichen ist schon recht lang. Sie sind die nächste. Oh je, wo haben Sie nur zu arbeiten gelernt?
+Sie müssen alles HINTERFRAGEN, absolut alles, und die „kapitalistische“ Werbung auch.
+Norwegen. Was wissen Sie schon über Norwegen. Leute Ihres Schlages sind wohl bereits mit einer CO2-Karte auf die Welt gekommen. Und Ihr ökologischer Fußabdruck reicht bis nach Sibirien.
+Lieber Hr. Paul,
+es gibt nicht nur diese eine Quelle, also machen Sie sich mit Ihrem Viertelwissen bitte nicht lächerlich. Ich habe mich mit dem Thema „Batterien Europas“ (darüber schwafeln neben manchen Kreisen in Norwegen auch angebliche Fachleute in der Schweiz und Oesterreich) schon vor längerer Zeit sehr intensiv auseinandergesetzt. Das Ganze wird von entsprechenden Grünbewegten auch in Deutschland sehr ernsthaft ins Auge gefasst, und das trotz der Tatsache, dass Norwegen in kalten Wintern immer mal wieder gezwungen ist, Strom z.B. von schwedischen Kernkraftwerken zu importieren. Das wäre jedoch genau die Zeit, wo man in Deutschland bei Dunkelflaute im Winter auch besonders viel Strom bräuchte, wie fatal….
+Machen Sie erst mal eine seriöse Recherche, statt sich nur eine Ihnen gerade zupass kommende Einzelaussage herauszupicken, und kommen Sie dann wieder.
+Mfg
+was immer Sie der Bildsprache unsere Medien entnehmen wollen:
+Die NordLink dient dazu, Strom aus Erneuerbaren Energien zwischen Norwegen und Deutschland zu verteilen. Im jeweiligen Empfängerland wird der Strom direkt endverbraucht.
+TENNET schreibt dazu:
+„Speicherung“ von Windenergie
+Die Verbindung der norwegischen Wasserkraft mit der deutschen Windenergie bietet Vorteile für beide Länder. Wenn beispielsweise in Deutschland ein Überschuss an Windenergie erzeugt wird, kann dieser über NordLink nach Norwegen übertragen werden. Die Wasserspeicher in Norwegen dienen dann als “natürliche Speicher” für die Windenergie, indem das Wasser in den Speichern verbleibt. Umgekehrt kann Deutschland bei hohem Bedarf Energie aus Wasserkraft aus Norwegen importieren.
+Bitte beachten Sie die „Gänsefüßchen“ beim Wort Speicherung. Gemeint ist eine virtuelle Speicherung.
+http://t1p.de/NordLink
+Fabian Paul
+Das ist Unsinn. Strom aus Offshore-WKA wird in über 8.000 Stunden im Jahr eingespeist. Die Zahl der Volllaststunden liegt so etwa bei den genannten 3.500 Std. im Jahr.
+Ich hoffe, Sie wissen schon, wie die Vollaststunden berechnet werden: Gesamte eingespeiste Arbeit geteilt durch die Leistung laut Typenschild (Mwh : MW). Und Sie wissen sicher auch, dass der erzeugte Windmühlenstrom mit der dritten Potenz von der Windgeschwindigkeit abhängt. Das muss man hier auf Eike eigentlich niemandem mehr erläutern, Ihnen vielleicht schon. Will sagen, die von Ihnen angegebenen 8000 Einspeisestunden sagen gar nichts. Wie auch im Beitrag von Herrn Kehrmann ausgeführt, muss die Einspeisung mit der Entnahme übereinstimmen. Besonders im Winter wird Norwegen als Speicher nicht aushelfen können. Die Norweger heizen viel mit Strom und es ist zuweilen kalt dort und ich glaub nicht, dass sie uns versorgen, wenn sie ihren Strom selber brauchen. Im Sommer, wenn wir Überschuss produzieren, glaub ich schon, dass sie sich von uns was schenken lassen. Das Wasser fließt auch an den Turbinen vorbei in den Fjord.
+Natürlich produzieren die Norweger auch Überschussstrom, besonders im Frühjahr und Sommer. Vielleicht kaufen den ja die Holländer dann, um Gas zu sparen. Ich hab leider keine Zahlen dazu, haben Sie welche oder ist das so ein Argument wie das von Frau Höhn: „Irgendwo weht immer Wind“.
+Wissen Sie wie man den Dreisatz nutzt? Offenbar nicht, denn Sie Stromgestehungs-, Stromtransportkosten und Strommengen, die Norwegen betreffen jedenfalls nicht berechnen.
+Aber Unsinn abschreiben können Sie?
+Ihre Argumentation wirkt auf mich irgendwie kindisch. Einige Ihrer Gedankengänge sind ja ganz gut — für einen Inselbetrieb. Aber ein wirtschaftliches Gesamtkonzept wird daraus noch lange nicht.
+Befassen Sie sich doch einmal mit dem Grundgedanken einer maximal ausgebauten Infrastruktur für eine Situation die nur wenige Stunden/Tage im Jahr benötigt wird. Herr Heinzow würde es wohl als Kosten-/Nutzenanalyse bezeichnen.
+Lieber Hr. Paul,
+Sie sagen „Norwegen beabsichtigt nicht, Strom zu speichern, und Energiespeicher im Sinn von Pumpspeicherkraftwerken gibt es dort auch kaum“
+Für wie blöd halten Sie die Leser hier bei EIKE eigentlich? Geben Sie doch mal die entsprechenden Begriffe (Batterie, Norwegen“ in eine Suchmaschine ein, bevor Sie hier solche Sprüche loslassen. Diese Projekte werden seit Jahren in der Presse vorgestellt, es gibt dazu umfassende universitäre Studien, und Sie wollen das hier abstreiten? Also wirklich.
+In einem Punkt haben Sie allerdings recht: Die aktuelle Pumpspeicherkapazität Norwegens ist dafür völlig unzureichend. Aber auch dazu werden grosse Pläne geschmiedet.
+Mfg
+Das ist Unsinn. Strom aus Offshore-WKA wird in über 8.000 Stunden im Jahr eingespeist. Die Zahl der Volllaststunden liegt so etwa bei den genannten 3.500 Std. im Jahr.
+Fabian Paul
+Zu den Verlusten gibt es keine generell gültigen Angaben. Verluste hängen sowohl von der Auslegung der Leitung als auch vom jeweils gefahrenem Betriebspunkt ab. Der Strom in der Leitung steigt linear mit der Übertragungsleistung und quadratisch mit dieser steigen die Verluste.Soweit mir bekannt kann man von etwa 0,5% bis 1 % pro 100 km ausgehen (ohne Konverterverluste). Für Kabel gilt mehr der untere Wert, für hoch ausgelastete Freileitungen eher der obere oder mehr. W. Millauer
+„Der Plan ist, den Offshore Strom aus Deutschland in Norwegen zwischen zu speichern und bei Bedarf wieder zurück zu leiten.“
+Nein, das ist nicht der Plan. Norwegen beabsichtigt nicht, Strom zu speichern, und Energiespeicher im Sinn von Pumpspeicherkraftwerken gibt es dort auch kaum.
+Zitat: „Wenn man jedoch alle Verluste addiert, kommt man bei einer vorsichtigen Schätzung auf einen Strompreis von ca. 2,50 € wenn der Strom aus Norwegen wieder abgerufen wird.“
+Welche abenteuerlichen Vorstellungen hat der Autor von unserem Strommarkt?
+Auch durch die HGÜ-Leitungen wird Strom genau dann fließen, wenn es wirtschaftlich sinnvoll ist. Ist Strom aus Deutschland günstig (vielleicht 3-4 Cent/kWh), weil die Winde wehen und/oder die Sonne kräftig scheint, spart Norwegen Wasser und wird durch uns teilweise mit versorgt.
+Sind die Börsenpreise hoch (vielleicht 10 Cent/kWh), fahren die Norweger kräftig ihre Wasserkraftwerke hoch und versorgen uns teilweise mit.
+Bei den aktuellen mittleren Stromgestehungskosten (siehe Vergütung nach EEG) für Windstrom von unter 10 Cent/kWh und ähnlichen Gestehungskosten für Strom aus Wasserkraftwerken funktioniert das System auch dann tadellos, wenn die Verluste berücksichtigt werden.
+Die Niederlande beziehen heute bereits über die NorNed regelmäßig Ökostrom aus Norwegen. Meint der Autor vielleicht, die Niederländer zahlen 2,50 €/kWh an Norwegen?
+Fabian Paul
+Das man mit volativen Strom kein Stromnetz betreiben kann, sollte zwischenzeitlich auch der Letzte gemerkt haben. Wir leisten uns im Moment den Luxus, zwei Stromnetze parallel zu betreiben. Das hierdurch ganze Landschaften vor die Hunde gehen, ist wohl Nebensache. Es wird Zeit, das der einzelne Stromkunde das merkt, und die hierfür verantwortlichen Politiker abstraft.
+Danke für die Erläuterung. Kennen Sie die tatsächlich (realistischerweise) zu erwartenden Verluste der heute verfügbaren HGÜ-Übertragung pro 100 km ? Wie sehen diese für 380kV aus ? Wäre für eine belastbare Angabe mit Quelle dankbar.
+H. Hoffmeister
+Es gibt sehr wohl Drehstromleitungen mit 750 KV, z. B. in USA, in Kanada, in Russland und in Polen (Quelle Wikipedia). Es gab sogar schon mal eine Leitung mit 1100 KV die allerdings inzwischen nur noch mit 500 KV betrieben wird. Durchgesetzt hat sich diese Spannung aus wirtschaftichen Gründen aber nicht.
+Technisch ist eine Übertragung von über 380 KV AC nicht möglich. Bei der Koronaentladung handelt es sich um eine elektrische Ladung in ein nicht leitendes Medium. Man kann sie auch unter bestimmten Bedingungen hören ( leichtes Knistern ) und sehen ( bläuliches Licht ) Eine 380 KV Leitung erkennt man in der Regel an den 3 Isolatoren ( Ein Isolator 110 KV, 2 Isolatoren 220 KV ). Ob die Koronastrahlung gefährlich ist, ist noch nicht endgültig geklärt. Sicher ist nur, dass einige Tiere 380 KV Leitungen meiden.
+Kapazitive Verluste bei Kabelverlegung: Die Verluste sind einfach Realität. Man vermeidet Kabellängen von mehr als 30 Km, weil sich das nicht mehr rechnet.
+Die Behauptung, man könne auch Wechselspannungen bis 750 KV übertragen, ist einfach falsch.
+Bei der Rechnung zur NordLink:
+Strom wird zu folgenden ca. Preisen produziert:
+KKW: 2,4 Cent pro KW/h (ohne Brennelementenst.)
+Braunkohle: 3,2 Cent pro KW/h usw.
+Der Offshorestrom wird nach Wassertiefe und Entfernung zum Festland vergütet. Bei Bard1 sind das 19,5 Cent/h. Hinzu kommt, dass der Offshorestrom nur ca. 3.500 Std im Jahr zur Verfügung steht. Wenn man jetzt noch die Kosten für die Übertragung ( z.B. zur NordLink ) hinzuzählt, erkennt man den Wahnsinn dieser Energiewende. Man sollte diesen Wahnsinn sofort beenden!
+schon seit Jahren gibt es auf Eike, science skeptical, vernunftkraft, novoargumente und und und, viele Sachargumente, die speziell die „Energiewende“ und Klimawandel und mehr nicht nur kritisch betrachten, sondern auch klar darstellen, dass die Politik so in eine Sackgasse fährt.
+Ich hab noch den Vortrag von Prof. Sinn vom Dezember 2014 im Gedächtnis, der hieß und darstellte: „Energiewende ins Nichts“. Bei der Diskussion darauf meldete sich u.a. Herr Zeil, der ehemalige bayrische Wirtschaftsminister zu Wort und meinte (sinngemäß), die Ausführungen von Prof. Sinn seien zwar logisch und verständlich, aber er glaubt nicht, dass dafür Mehrheiten zu gewinnen seien (es ging wohl grad um die Nützlichkeit der Kernenergie).
+Das heißt klar, in diesem Land geht es politisch nicht um Vernunft, sondern um Mehrheiten. Woher kommen die „Mehrheiten“?
+Schwierige Frage, machen die Medien die Mehrheiten oder werden sie von der Politik dahingehend beeinflusst, welche Mehrheiten sie gerne hätten, oder beißt sich die Katze in den Schwanz?
+Um auf den Beitrag von Herrn Kehrmann zurück zu kommen. Natürlich geht es auch hier nicht nur um die elektrotechnischen Probleme der „Energiewende“ aber wie ich meine um eine weitere Faktensammlung, warum das Ganze nicht funktionieren kann. Soll dann keiner sagen, es hätte ja keine Informationen gegeben.
+Aber ich glaub trotzdem: Es wird niemand verantwortlich gewesen sein.
+Herr Mueller: Pietzsch bitte mit „tz“.(grins)
+Lieber Hr. Pietsch,
+in Norwegen gibt es seitens mancher Kreise grosse Planungen, weil man glaubt, man könne mit den dämlichen Deutschen gutes Geld verdienen. Ob und wann das umgesetzt wird, steht auf einem anderen Blatt, und da redet auch die Bevölkerung ein Wörtchen mit. Bisher hatte ich den Eindruck, dass dort die Bereitschaft, sich die Natur zerstören zu lassen, eher gering ist.
+Die aktuelle Pumpspeicherkapazität ist nach mir vorliegenden Unterlagen von 2012 weniger als 1 GW, Stichwort Saurdal. Norwegen braucht auch im Prinzip kaum Pumpspeicher, weil sich Wasserkraftwerke – die etwa 95 % des Stroms erzeugen – hervorragend regeln lassen. (Wir benötigten sie bisher, damit nachts Kohlestrom zwischengespeichert werden konnte).
+Allerdings bauen die Norweger im Moment wohl auch einiges an Windkapazität auf, aber bei dem vielen Geld für Nordseeöl kann man sich sowas als „grünes Gewissen“ finanziell halt leisten.
+Mein persönliches Fazit: Alles Blütenträume, die mit dem Zusammenbruch der deutschen Energiewende vermutlich ganz schnell wieder in den Schubladen verschwinden werden. Gerade im Winter, wenn Deutschland bei Dunkelflaute Speicherstrom bräuchte, braucht man ihn auch in Norwegen, wegen Dunkelvereisung der Flüsse (Laufwasserkraftwerke) und Leerlaufen der Saisonspeicher, in die mangels Schneeschmelze nichts mehr nachfliesst.
+Man muss schon ein sehr gerütteltes Mass an Realitätsverlust aufbringen, um sich angesichts solcher Randbedingungen vorzustellen, ein 5-Mio-Land könnte der 80-Mio-Bundesrepublik als rettende Batterie dienen.
+Zu den Zahlenangaben bzgl. HGUe und 380 KV-Uebertragung: Da bin ich etwas skeptisch, es wäre schön, wenn belastbare Quellen vorhanden wären.
+Mfg
+„Der Begriff „Energiewende“ wie auch der „Erneuerbare Energie“ sind inhaltlich falsch und irreführend. Wenn die Worte nicht stimmen, stimmen die Taten nicht. Daher stimmen die selbstherrlichen Entscheidungen von Frau Merkel…“
+Vergessen Sie nicht, daß diese Frau mal FDJ-Sekretärin für Propaganda und Agitation war. Die versteht ihr Handwerk der Desinformation.
+Wenn die Frau jetzt an ihrem Dummspruch: „Wir schaffen das“ oder in zwei Jahren scheitert, hinterläßt sie ein Chaos in allen Politik und Wirtschaftsfeldern. Deutschland ist dann reif zur Übernahme durch die SED-Nachfolger und Sympathisanten, was ja wohl auch ihr Auftrag vor 25 Jahren war, als sie sich in der IM-Partei DA engagierte … und dann zur CDU wechselte, ganz unauffällig …
+für Ihren aufschlussreichen Bericht zum Stromnetz.
+Angesichts der zig Milliarden Zusatzkosten, muss man wohl davon ausgehen, das es eine sehr starke Lobby, hinter der Finanzkonzerne stehen gibt, die den Zubau mit Netzen unbedingt vorantreiben will und sich dafür „politische Verordnungen“ von ihren „Trojanern“ in den zuständigen staatlichen Strukturen bestellt, um „Klima-Lösegeld“ von den betrogenen Stromverbrauchern auf ihre Privat-Konten zu lenken.
+Zum Stillstand von Bard1 http://goo.gl/hrXh2w
+ist seit Januar 2015 in den Medien eher ein dröhnendes Schweigen zu vernehmen, auch wie die Betreiber und Investoren nun dastehen, wird von der Presse nicht berichtet.
+Die Unterstützer dieser irrsinnigen „Stromwende“ verursachen einen größtmöglichen Schaden für Deutschland.
+Die Südliche HGÜ Hami–Zhengzhou in China ist 2.210 km lang und operiert mit ±800 kV. Damit überträgt sie 8 GW. Die Verlustraten sind hier nicht leicht zu recherchieren, aber ich ernnere mich, dass ich früher – zu meinem Erstaunen – etwas von 5 % Gesamverlusten gelesen zu haben. Das macht die deutsche Energiewende nicht wesentlich weniger unwirtschaftlich.
+Aber wenn es durchaus bessere technische Lösungen gibt, wird man bei überzogener Negativ-Kalkulation nur angreifbare Argumente liefern.
+Das Einzige, was mich am Artikel stört, ist, dass der Autor immer wieder den Begriff „Energiewende“ verwendet, obwohl diese „Energiewende“ – wie er ja auch mehrfach bestätigt: .. Bayern plant nun, die Stromlücke … mit GUD zu schließen … oder besonders die Ausführungen im letzten Absatz. Die „Energiewende“ ist allenfalls eine Stromwende – eigentlich ist sie ein ideologisch-ökonomisches Ungeheuer.
+Der Begriff „Energiewende“ wie auch der „Erneuerbare Energie“ sind inhaltlich falsch und irreführend. Wenn die Worte nicht stimmen, stimmen die Taten nicht. Daher stimmen die selbstherrlichen Entscheidungen von Frau Merkel nicht nur in der Frage des autokratischen Moratoriums nicht – was auch Herr Biedenkopf seinerzeit in einem ZEIT-Interview (2011/28) festhielt: „Das ist mir unbegreiflich“ und weiter: „Der entscheidende Satz in der Regierungserklärung der Kanzlerin lautet: »Deshalb sage ich für mich: Ich habe eine neue Bewertung vorgenommen.« Dies ist, soweit ich erkennen kann, ihre einzige inhaltliche Begründung für die Gesetzgebung zum Atomausstieg. Dagegen gibt es keine empirischen Begründungen, die sich auf die Verhältnisse in Deutschland und in Europa beziehen.“
+Und was machte das Parlament? Oder die Stromkonzerne? Nichts.
+Im Hintergrund erinnert mich dieser Vorgang – nur in struktureller Weise – an den sogenannten Röhm-Putsch, als Hitler ausprobierte, wie weit er gehen konnte, als er sich zum obersten Richter des Reiches erkor und niemand ihm Einhalt gebot. Niemand. Machtmißbrauch – das ist es auch heute noch.
+Insofern muß man dieses Mantra „Wir schaffen das“ auch im plural majestatis schreiben: „WIR schaffen das“. Na mal sehen, wie „Euer Gnaden IM Erika“ das hinbekommen – den Erdogan, der die Türken in D öffentlich massiv aufrief, eine Integration zu verweigern, hat sie ja schon in einer neuen Version des Gangs nach Canossa angebettelt.
+Okay, ich schweife ab, aber politisch gesehen nur um Zentimeter im Hinblick auf den politischen Wahnwitz der sogenannten Energiewende.
+keine Liste über die Pumpspeicherkapazitäten in Norwegen mehr. Damals waren es zwei Pumpspeicherkraftwerke. Alles andere sind mehr oder weniger Laufwasserkraftwerke mit Regel- und Speicherkapazitäten im Oberbecken. Die Unterbecken sind fast alles Fjorde, deren Salzwasser man sicher nicht ins Oberbecken pumpen darf, abgesehen davon, dass die Pumpen nachgerüstet werden müssten. Ich verweise dazu noch auf eine Studie von Ingebretsen, Johannsen zur Ausgleichsleistung zwischen Dt. und Nor. wenn wir 100% „Erneuerbare“ Stromversorgung haben wollen. Diese Ausgleichsleistung wurde mit 42 GW für die Übertragung beziffert (60GW wären nach deren Berechnungen insgesamt nötig). Die erzeugte Leistung in Norwegen beträgt zwischen 25 – 30 GW (im Winter kommt es in Norwegen gelegentlich zur Eisbildung). Die Leistung von Nordlink haben Sie ja mit 1,4GW beziffert. Die Studie kann als pdf bei mir nachgefragt oder gegoogelt werden. (Lieber admin, ich weiß nicht, wie ich das hier anhängen könnte.) Aber Norwegen wird in unseren Qualitätsmedien immer noch als die Batterie Europas hochgelobt. Es ist so schade, dass Dummheit nicht doch ein bisschen weh tut.
+danke für die Informationen. War schon erstaunt über die extrem hohen Leitungsverluste bei 380 kV-Leitungen von 5% pro 100 km. Da würde ja eine 800 km-Nord-Süd-Verbindung auf 380 kV-Basis 40% Transportverluste haben und der HGÜ-Transport die einzig realisierbare Alternative, um überhaupt nennenswerte Mengen Strom vom Hochseewindpark nach Bayern zu bringen. Gibt es Literaturangaben aus Fachzeitungen dazu, wo man dies verifizieren kann ? Bisher habe ich von Netzbetreibern immer gehört, dass 380 kV-Wechselstromleitungen ca. 1 % verlieren und Hochspannungs-HGÜ ca. 0,5 %. Mit Ihren Verlustangaben wäre der Energiewendeirrsinn ja nochmals irrsinniger.
+H. Hoffmeister
+Fange ich mal mit etwas Kleinem an:
+„Genaue Angaben über die Höhe der Gleichspannung [bei SüdLink] liegen noch nicht vor.“ Darüber hatten wir doch hier bei EIKE schon mal diskutiert (wo auch ich dazugelernt hatte).
+„110/220/380 KW“
+sind a) sicher KV. Und b) gibt es auch 750kV Drehstrom in Kanada, Russland,… Die Aussage „Höhere Spannungen sind wegen der Koronaverluste nicht möglich.“ ist daher falsch.
+In der Formuliereung vielleicht zu einfach ausgedrückt:
+„gibt es auch induktive sowie kapazitive Verluste.“ Ist zwar klar was gemeint ist, aber Verluste sind immer ohmsch. Der Autor meint wohl induktive und kapaztitive Ströme, welche durch den Längswiderstand der Leitung fließen.
+„Wegen der hier entstehenden kapazitiven Verluste ist nur eine Kabellänge bis max. 30 Km möglich.“
+Möglich ist definitiv mehr. Ich würde hier den Ausdruck „max“ vermeiden. Ab welcher Länge es nicht mehr sinnvoll ist, ist eine andere Frage.
+„Nur fallen hier [Gleichstrom] nicht die Koronaverluste an, und man kann mit einer höheren Spannung arbeiten.“
+Ein Satz, zwei Fehler. Koronaverluste gibt es auch bei Gleichspannung. Nur ist bei der Wechselspannung der Spitzenwert für die Verluste entscheidend, sodass es bei Gleichspannung etwas weniger Verluste sind (vielleicht noch andere Gründe!). Und dass man mit Wechselspannung auch bis 750kV kommt, habe ich bereits erklärt.
+„Da Bard1 ca. 120 Km vor der nordfriesischen Küste liegt, ist eine Übertragung der Leistung nur über eine HGÜ möglich.“
+Baltic2 hat auch 120km bis zum Land (also bis Bentwisch) und wird mit Drehstrom betrieben (allerdings mit einer Kompensation unterwegs auf Baltic1). Die Entscheidung ob AC oder DC hat manchmal ganz praktische Gründe gehabt, die jenseits der Technik und der Ökonomie liegen.
+Und dann ist noch die Rechnung zu NordLink: Bloß gut, dass die Leitung nicht noch ein paar Kilometer länger geworden ist, dann hätte der Autor 110% Verluste herausbekommen.
+Ich dachte HGÜ-Leitungen sind technisch kein Problem mehr. Als Laie würde ich vorschlagen. Man löst erst einmal die existierenden Probleme mit der HGÜ-Leitung zu Bard1 und dann schaut man weiter.

@@ -1,0 +1,112 @@
+Es gibt drei wesentliche Eigenschaften für die Elektrizitätsversorgung – die Stromquelle für die Belieferung von Haushalten und Unternehmen muss:
+1) zuverlässig
+2) sichergestellt und
+3) erschwinglich sein.
+Was bedeutet, dass die Windkraft – als völlig wetterabhängige Stromquelle , die nicht gespeichert werden kann und 3-4 mal so viel kostet wie konventionelle Energie – in allen drei Punkten eine NULL Bewertung erhält.
+Erneuerbare Energie: Die Frage der Kapazität
+Principia Scientific
+Ed Hoskins, 5 April 2016
+Einführung
+Dieser Artikel befasst sich mit den beiden Hauptformen der wetterabhängigen Erneuerbaren Energien: Windstrom (Onshore und Offshore) und Photovoltaik-Solarstrom. In Großbritannien beträgt der Anteil dieser beiden ~ 75% aller installierten Erneuerbaren Energien. Die anderen, zur erneuerbaren Energie gezählten Quellen sind traditionelle Wasserkraft mit ~ 8% und der Rest sind Biomasse, Abfall und Deponiegas zu ~ 17%.
+Die Kapazität in Prozent einer Energieerzeugungsanlage wird berechnet als die tatsächlich gelieferte elektrische Energiemenge geteilt durch die nominale Leistung (des Typenschilds). Dieser Artikel basiert auf Schätzungen der USA EIA [Energie-Informationsbehörde] und realen Messungen der gelieferten Energiemengen in Europa ab 2014. Er stellt somit korrekte Vergleiche zur Wirksamkeit von Installationen Erneuerbarer Energiequellen zur Verfügung.
+[Hinweis des Übersetzers – Update: Ich habe ein Mail eines Lesers bekommen, der Fehler in meiner nachfolgenden (persönlichen) Erläuterung anmahnt, unten mit * gekennzeichnet
+Ich bitte um Entschuldigung, zur Information unten eingefügt.
+****
+Für unsere Leser, die mit den Unterschieden von GW und GWh nicht so vertraut sind, hier eine vorangestellte Erläuterung.
+Nennleistung – die maximale Leistung, die auf dem Typenschild steht und nur bei optimalen Wind bzw. Sonneneinstrahlung erreicht werden kann. Danach sind die Schaltanlagen und Netzanschlüsse auszulegen, Angaben in Watt (Kilowatt KW, Gigawatt GW)
+* – korrigiert: Gelieferte Leistung – die gelieferte Energiemenge (und abgerechnet) in Wattstunden Wh, im Beitrag wird für die landesweiten Energien in GWh (1.000.000 Kilowattstunden) gerechnet.
+Korrektur unseres Lesers: richtig ist: Energie = Leistung * Zeit sowie: GWh = 1.000.000 kWh = 1.000 MWh
+Es sollte also heißen: Gelieferte Energie wird bezahlt. z. B. in D privat mit 29 ct/kWh als Arbeitspreis, jedoch unsere jährlich zu zahlende Zählergebühr ist auch ein Leistungspreis, industrielle Abnehmer zahlen direkt einen Leistungspreis pro MW Inanspruchnahme, d. h. für die Bereitstellung durch das Netz und die Erzeuger.
+* – Korrigiert – Kapazität – das ist die hier genutzte Bezeichnung zum Vergleich in diesem Beitrag genutzt.
+Korrektur unseres Lesers: Energie / nom. Leistung = Volllasstunden in h/a (keine Prozent !); z. B. typisch in D: Ein 3 MW- Windrad onshore liefert 5000 MWh/a Energie bzw. Arbeit; Quotient: 5000/3 = 1667 h/a.
+Teilt man die Volllasttunden durch 8760 h/a, ergibt sich die dimensionslose (0,19) oder prozentuale Auslastung von 19 %. Jedoch auch kein konventionelles Kraftwerk erreicht 100 %! Mit Kapazität wird bei uns selten die Energielieferung eines Kraftwerkes bezeichnet, jedoch die Speicherfähigkeit eines Pumpspeicherkraftwerkes, z. B. Goldisthal mit ca. 8 GWh.
+Kapazität ….Verhältnis von Gelieferter (jahres-) durchschnittlicher Leistung / Nennleistung – … Dieser Quotient entspricht wieder dem Verhältnis von Volllaststunden zu 8760 h/a, also die Auslastung, die hier mit Kapazität bezeichnet wird.
+* – Korrigiert – Rückrechnung
+richtig wäre: ….Verhältnis von Gelieferter (jahres-) durchschnittlicher Leistung / Nennleistung – …
+– kann dann für die Berechnung der Kapazität – zum Vergleich genutzt werden.
+***
+Der englischsprachige Text ist oftmals umständlicher und sperriger, als die von mir dann gewählte sinngemäße Übersetzung.
+Andreas Demmig]
+Werden Meldungen über die Entwicklungen von erneuerbaren Energien gemacht, werden sie in der Regel mit der vollen Nennkapazität in Megawatt präsentiert und oft auch unaufrichtig mit der Anzahl der Haushalte, die mit dem „ vollen Niveau elektrischer Nennkapazität“ versorgt werden könnten. Also sind solche Ankündigungen immer auf der optimistischen Seite, weil sie nur die maximale elektrische Leistung angeben, die von der Anlage überhaupt mal erreicht werden könnte, anstatt die Menge an nutzbarer Energie, die tatsächlich produziert wird.
+Darüber hinaus, sind die gelieferten Energien der Erneuerbaren entscheidend abhängig von den Launen des Wetters (für Wind) und das Wetter in Kombination mit der Jahreszeit und der Tageszeit (für Solar). Die tatsächliche durch Erneuerbare gelieferte elektrische Energie ist zwangsläufig wesentlich geringer, als die Nennleistung der Anlage. Ein Spitzenstrombedarf tritt in der Regel an Winterabenden auf, wenn die Solarenergie nicht vorhanden ist und die Wetterlage Windgeschwindigkeiten auf praktisch null im ganzen Land reduziert. Es gibt keine Koordination zwischen dem Zeitpunkt der Windenergieproduktion und der Nachfrage nach Strom.
+Traditionelle Methoden der Stromerzeugung mit fossilen Energieträgern unterliegen diesen Unwägbarkeiten nicht und können Strom bei Bedarf produzieren um der Kundennachfrage zu entsprechen.
+Entscheidend ist: die Stromerzeugung der traditionellen Quellen sind planbar und nicht intermittierend.
+In der Berichterstattung über tatsächlich erzeugte Energien aus Erneuerbaren werden häufig nur die Menge an Gigawattstunden (GWh) genannt, die im Vorjahr tatsächlich in das Netz geliefert wurden.
+Jahresgigawattstunden können leicht in die entsprechende Vergleichsmenge in Gigawatt [Leistung] umgewandelt werden, indem durch die Anzahl der Stunden im Jahr (365 * 24) = 8760 geteilt wird. Dieser Ausgangswert kann mit der ursprünglichen Nennleistung verglichen werden, um den Prozentsatz der Kapazität jeder Erzeugungsanlage für Vergleichszwecke zu berechnen. So kann die absolute Wirksamkeit einer Erneuerbare-Energien-Installation als das prozentuale Verhältnis der tatsächlichen Stromerzeugung geteilt durch die angegebene Nennkapazität beurteilt werden.
+Wichtig ist, dass dieser Prozentsatz nicht für die Nützlichkeit der elektrischen Energie steht, die zu einem bestimmten Zeitpunkt erzeugt wird, um der Nachfrage zu entsprechen! Wegen der unvermeidlichen Sprunghaftigkeit und nicht-vorhandenen Planung von Wind- und Sonnen-Energien. Es ist daher eine großzügige Maßnahme, wenn hier zu Vergleichszwecken der Wirksamkeit, Kapital- und Betriebskosten verwendet werden, um erneuerbare und traditionelle Formen der Stromerzeugung zu vergleichen.
+Die Erneuerbare-Energien-Industrie kann nicht ohne Subventionen und Vorzugstarife existieren, die zwangsweise durch die Regierung vorgeschrieben werden. Ohne staatliche Subventionen und Abnahmeverpflichtung bietet die Erneuerbare-Energien-Branche kein tragfähiges Geschäftsmodell.
+Ohne das Mandat der Regierung mit staatlichen Subventionen und Eingriffen, würden die wetterabhängigen Erneuerbaren nie ein gewählter Teil des Erzeugungsmix sein, vor allem, wenn man sie von den Bedürfnissen für die Lebensfähigkeit des elektrischen Versorgungsnetzes einer Nation aus betrachtet.
+Zusammengefasst, Wetter basierte Erneuerbare Energien sind [beide] sehr teuer und unzuverlässig.
+Diese erhebliche Mehrkosten und die vorgehaltenen [systemrelevanten] Back-up Kraftwerke für den Ausfall der Versorgung, obwohl von der Regierung gewollt, sind ernsthafte Kostenbelastungen der Stromverbraucher, sowohl im Inland als auch für die Industrie. Da der Teil von Erneuerbaren im elektrischen Netz wächst, werden sich diese Kostenbelastungen erhöhen.
+Messungen der Kapazität der Erneuerbaren Energien
+Folgende Datenquellen werden hier verwendet:
+US-Regierung, Energie Information Behörde EIA
+www.eia.gov –Tabelle 1
+zeigt folgende Kapazitätswerte der Installationen in den USA [Übersetzung folgender Tabelle]
+· Gas und Dampf Kraftwerke 87%
+· Onshore Wind 36%
+· Offshore Wind 38%
+· Solar PV am Netz 25%
+· Moderne Kohlekraftwerke 85%
+· Moderne Kernkraftwerke 90%
+EurObservER
+EurObservER-Wind-Energy-Barometer-2015-EN-2.pdf
+http://www.eurobserv-er.org/wind-energy-barometer-2015/
+EurObservER-Photovoltaic-Barometer-2015-EN.pdf
+http://www.eurobserv-er.org/photovoltaic-barometer-2015/
+Diese Veröffentlichungen zeigen die aktuellen Mengen von Installationen der Erneuerbaren in Europa, von Land zu Land und insgesamt für Europa. Die folgenden Prozentsätze zeigen die gemessenen, erreichten Kapazitäten für Solar- und Windenergie:
+Man sieht, dass in ganz Europa die Performance der Erneuerbare-Energien wesentlich geringer sind, als die durch die US-EIA veröffentlichten Leistungsniveaus.
+Auch wenn die Leistungsfähigkeit von Wind und Solar kombiniert werden, ist der Vergleich der Leistungsfähigkeit zu den konventionellen Energiequellen eindeutig.
+Deutschland mit einem Engagement von ~ 37% aller europäischen, installierten Erneuerbaren-Anlagen bis zum Jahr 2014, hatte die am wenigsten leistungsfähigen Erneuerbare Energien in Europa –eine Gesamtkapazität von nur 13,2%. Dies vor allem wegen des großen Aufbaus von Solarstrom, entsprechend 42% aller europäischen Anlagen. Geschaffen wird dies einfach durch eine falsche Förderung, denn Deutschland ist ein [oft] bewölktes nordeuropäisches Land. Spanien, Großbritannien und [selbst] Dänemark haben deutlich bessere Leistungsraten, aber sie haben viel geringere Verpflichtungen/ Installationen von Solarstrom und im Falle von Großbritannien ein größeres Engagement für Offshore-Windenergie.
+Die Auswirkungen der installierten Nennleistung zu abgegebene Leistungen für erneuerbare Energien können bei EurObser’ER mit Daten für ganz Europa für das Jahr 2014 gesehen werden.
+Weitere detaillierte Analysen finden Sie unter:
+European Renewable Energy performance and costs: 2014
+Zeitreihen der Erneuerbaren Energie Foundation aus Großbritanien
+Die Erneuerbare-Energien-Stiftung in Großbritannien hat umfassende Daten über den Stand der der Erneuerbaren Anlagen in Großbritannien seit 2002 zur Verfügung gestellt. Diese enthalten Gigawatt-Stunden-Schätzungen der elektrischen Abgabeleistung. Darüber hinaus bietet er auch eine Datenbank aller Erneuerbaren Installationen in Großbritannien.
+http://www.ref.org.uk/generators/group/index.php?group=yr
+Der britische Fortschritt bei der Entwicklung von Erneuerbaren-Anlagen seit 2002 ist nachfolgend dargestellt, in installierter Nennleistung.
+Der Fortschritt von abgegebener Leistung im Laufe der Zeit kann unten gesehen werden. Es scheint, dass 2015 besonders unproduktiv für erneuerbare Energien war, vor allem Windkraft [sieht man die Nennleistung installierten Anlagen]. Für weitere Zwecke des Vergleichs, werden die durchschnittliche prozentuale Abgabeleistung, die seit 2002 erreicht wurden, dargestellt, anstatt der jüngsten Ergebnisse.
+Das Vergleichsergebnis aus diesen drei Quellen ist nachstehend aufgeführt. Erwartete und gemessene Kapazitäten (Abgabeleistung) für Installationen in USA und Europa
+Die US- EIA hat großzügigere Erwartungen an die Kapazität der Erneuerbaren als gemessen werden kann und berichtet das sowohl für Europa insgesamt, als auch für Großbritannien. Leider unterscheiden die EurObser’ER Daten derzeit nicht zwischen den Werten von On- und Offshore-Windanlagen. Die Gesamtkapazität von 21,8% [für beide Quellen] sollte eine höhere Wirksamkeit bei Offshore-Windenergie zeigen. Zu sehen ist das in den UK-Daten, wo es ein sehr großes Engagement für Offshore-Windenergie gibt.
+Es gibt eine "Faustregel", dass Offshore-Windkraft einen Kapazitätswert von ~ 45% erreicht. Dies ist ganz im Widerspruch nicht nur zu den durch die USA geschätzten Daten, sondern auch zu den niedrigeren, gemessen gesamteuropäischen Werten und den direkte Messungen aus Großbritannien. Die Kapazitätswerte für Großbritannien sind Durchschnittswerte, da die Installationen von Erneuerbaren im Jahr 2002 begannen und nicht die aktuellen Werte von 2015 enthalten. Im Jahr 2015 mit 16,4% insgesamt, war dies ein nicht besonders leistungsfähiges Jahr für wetterbasierte erneuerbare Energien in Großbritannien.
+Vergleich der Kosten von Erneuerbaren und deren Wirksamkeit
+Die US EIA veröffentlichen auch umfassende, vergleichende Kalkulationsdaten für unterschiedliche elektrische Erzeugungstechnologien in den USA. Die US EIA stellt auch prozentuale Kapazitätsschätzungen bereit.
+http://www.eia.gov/forecasts/aeo/electricity_generation.cfm
+Zusammenfassend zeigt diese Tabelle vergleichende Kosten für Kapital [Investition] und laufende Kosten in Dollar / MWh. [also für den Betrieb um Energie zu liefern, in Dollar / MWh]
+Die Kosten für Gas und Kohle entsprechen denen von 2013 und sind seit dieser Zeit sowohl für Erdgas als auch Kohle wesentlich gesunken. Es wird erwartet, dass diese Preise auch für die absehbare Zukunft relativ niedrig bleiben. Die US EIA veröffentlicht auch die indikativen Kosten verschiedener Stromerzeugungstechnologien als „Base Overnight Costs“ [Herstellungskosten ohne Finanzierung] für das Jahr 2014:
+http://www.eia.gov/forecasts/aeo/assumptions/pdf/table_8.2.pdf
+Dieses gibt eine realistische Einschätzung von den Gestehungskosten bei Gaskraftwerken von etwa ~ $ 1000 Milliarden / GW. Dieser Wert kann für vergleichende Bewertungen der anderen Erzeugungstechnologien verwendet werden. Darüber hinaus ist es wichtig, dass die Zeit, um ein Gaskraftwerk zu errichten nur etwa 2 Jahre von Konzeption bis zur Fertigstellung beträgt.
+Vergleich der Kosten von Gaskraftwerken zu Erneuerbaren:
+X-Achse: Betriebskosten incl. Brennstoff;
+Y-Achse: Nivellierte Kapital und Betriebskosten
+Mit den folgenden Annahmen:
+· Die US EIA nivellierten Kostendaten sind für aktuelle Gas- und Kohlepreise angepasst
+· Annahme, die Kapitalkosten einer 1GW Gasanlage die mit 90% Kapazität läuft betragen rund 1 Mrd. Euro
+· Der US $ und der Euro sind in ihren jeweiligen Kontinenten etwa gleichwertig.
+Diese geschätzten Investitionen für ganz Europa sind wie folgt:
+€ bn = € Milliarden
+Schlussfolgerungen
+Die Kombination der Kapazität zusammen mit Faktoren und der US EIA Kostenvergleiche, sind mit den EurObseER Daten in der folgenden Tabelle zusammengefasst und zeigen die Situation der Erneuerbaren in Europa.
+Hinweis: Zum Vergleich; Energieerzeugung aus Gaskraftwerken kosten etwa 1 Mrd. Euro je Gigawatt
+Dementsprechend kann man sehen, dass die Solarenergie etwa 63-mal so viel kosten kann wie die gleiche Menge an Energie aus gasbetriebenen Kraftwerken; Offshore Windenergie kostet in diesem Vergleich etwa 45-mal so viel, Onshore Windenergie ist effektiver aber kostet auch noch 16-mal so viel.
+Werden die Wetter abhängigen Erneuerbaren in ganz Europa in Gesamtkombination bewertet, sind ihre Kapitalkosten etwa 30-mal höher als der für die konventionelle Stromerzeugung aus Erdgas.
+Diese Vergleichsquoten berücksichtigen noch nicht die Kosten für die Netzeingriffe aufgrund der unvermeidlichen volatilen und nicht planbaren Leistungsabgaben der erneuerbaren Energien.
+Wenn die Ziele um Erneuerbare zu nutzen, nicht mit "um den Planeten vorm Menschen verursachten CO2 zu retten" verwechselt werden würden, die tatsächlichen Kosten und die inhärente Unzuverlässigkeit hätten es für immer ausgeschlossen, sie als Mittel der Stromerzeugung für jede entwickelte Wirtschaft zu berücksichtigen.
+Hier hat Ed Hoskin es auf den Punkt gebracht: das Chaos, das von Süd Australien‘s 17 Windparks (Nennkapazität 1.477MW) im November letzten Jahres produziert wurde.
+Erschienen auf StopTheseThings am 09. Mai 2016
+Übersetzt durch Andreas Demmig
+https://stopthesethings.com/2016/05/09/the-colossal-cost-of-intermittent-unreliable-wind-power/
+Richtig, Nennleistung ist die auf dem Typschild angegebene. Wenn hier jedoch „gelieferte Leistung“ in GWh als „das was bezahlt wird“ angeführt wird, so ist dies im Fall Deutschland (andere unbekannt) zu viel, weil hier oft mehr bezahlt als tatsächlich geliefert wird (EEG).
+Damit nicht genug. Geliefert wird alles, was das Rohenergiedargebot (Wind und Sonne) hergibt. Das ist keine Marktwirtschaft. Diese Verhältnisse sind für Vergleiche und Bewertungen nicht akzeptabel. Man stelle sich vor, die konventionellen Kraftwerke bekämen alles bezahlt, was ihr Rohenergiedargebot zulässt. Alle Aussagen würden sich urplötzlich drehen. Genaugenommen ist unter diesen ungleichen Bedingungen jede zur Zeit getätigte EEG-konforme Lieferung nur verfügbare Leistung. Also ein Angebot, was die Anlage abgeben könnte unter besonderer Würdigung ihres flatterhaften Rohenergiedargebots. Was aus dem Rohenergiedargebot erwächst ist außerdem nicht immer das, was das Verbundnetz für seine Bedarfsdeckungsfunktion braucht. Erst nach diesen Berichtigungen dürfen aus meiner Sicht Bewertungen starten, so schwer es auch wird.
+Mit anderen Worten: Wie würden alle konventionellen Kraftwerke jubeln, wenn alles Anbietbare auch abgenommen würde! Einen solchen wie selbstverständlich gelebten Vorzug haben „Erneuerbare“ nicht verdient. Was in Deutschland mit Erneuerbaren läuft, das ist meiner Meinung nach unfassbarer parasitärer Ausputz der übrigen Erzeuger und der Kunden. Das kann und darf auch nicht Grundlage von Kostenvergleichen werden. Letztlich sind Kostenvergleiche für die Nichtfachwelt, Regierung und Abgeordnete wichtige Bewertungsgrundlagen, und die müssen knallhart zeigen, wo das Gebrechen Erneuerbare Energie steht. In diesem Zusammenhang ist darzustellen, wie man die unverzichtbaren Back-up Kraftwerke kostenmäßig einbezieht bzw. wie man dazu eine kostenwirksame Abgrenzung schafft. Die Back-up-Kraftwerke stehen ja nicht immer zufällig herum, sie müssen vollständig bezahlt werden von den auf sie angewiesenen Erneuerbaren. Dies muß bei Kostenvergleichen eineindeutig vorangestellt werden, wenn man vom Ansatz her nicht auf gleiche Glättungseigenschaften des gelieferten Stroms pocht. Frau Dr. Hendricks’ Artikel „Die Erneuerbaren sind heute konkurrenzfähig“ vom 26.05.2015 in FAZ ist für mich in dieser Hinsicht wie ein Warnschuß.
+Danke fuer das Erlaeutern der uebrigen Begriffe wie
+Nennleistung
+Gelieferte Leistung
+Kapazität
+Aus diesen Definitionen ist klar, dass also fuer die Technologien( aus :Wind Wasser, Sonne: Strom) fuer Erneuerbare Energien ueber ebendiese Begriffe zu deren „Wirksamkeit“ in Anwendung gebracht werden duerfen!
+Denn:
+Wem hilft denn eine ‚Kapazitaet'(aus Volt Ampere), wenn zu diesen VoltAmpere erzeugen wollen, also noeting haben ebennunmal an Ort und Platz der Wind nicht weht, also klar die Eigentliche Kapazitaet zum Zeitunkt des Bedarf halt fehlt!
+Dann hat der Mensch sich halt ‚verbaut, oh jeh!
+wundert Sie das Verhalten der CDU mit einer in der Wolle gefärbten Kommunistin an der Spitze? Sie sollten bedenken, daß die CDU zwar immer als Marktwirtschaftspartei aufgetreten ist, aber es ihr in erster Linie immer nur darum ging, an der Macht zu sein, wobei das an der Macht sein alles andere in den Schatten stellt auch das Eintreten für die Marktwirtschaft.
+MfG
+Erschreckend ist die geringe Effizienz der sich permanent selbstbeweihräuchernden deutschen EE im Vergleich zu den europäischen Nachbarn. Seit 2005 trägt die CDU die Hauptverantwortung für das EEG, das ja die Ursache dieser erbärmlichen Effizienz ist. Dass das mal eine marktwirtschaftlich denkende und handelnde Partei gewesen sein soll, mag man kaum glauben. Es ist immer wieder erstaunlich, was wenige Dumpfbacken bzw. eine einzelne Dumpfbackin so bewirken kann.

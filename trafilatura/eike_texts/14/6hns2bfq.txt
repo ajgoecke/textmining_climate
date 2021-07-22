@@ -1,0 +1,450 @@
+Einleitung
+Das Jahr 2015 war ein Rekordjahr für die Produzenten von Solar- und Windstrom, vor allem, weil das Jahr ein „gutes Windjahr“ war. Nie zuvor wurde in Deutschland so viel Strom aus Wind und Sonne erzeugt. In der Summe waren es 125 TWh. Gemessen am Stromverbrauch liegt der Anteil des in Deutschland produzierten Wind- und Sonnenstroms damit bei 19,3%. Diese Zahl wurde von der Presse und der EE-Lobby gefeiert und der Eindruck erweckt, die erneuerbaren Energien (Wind, Sonne, Biogas, Wasserkraft, Hausmüll und Sonstige) hätten damit tatsächlich 30 % zur Versorgung in Deutschland beigetragen. Genau das ist nicht der Fall. Es wurden zwar Rekordmengen an Strom produziert, aber nicht im Lande verbraucht, sondern in großen Mengen ins angrenzende Ausland exportiert. Die Diskussion darüber, ob es sich bei den Exporten um Kohlestrom oder EE-Strom handelt, ist müßig. Auch der Hinweis darauf, dass der EE-Strom bei der Börse zu Grenzkosten 0 hereingenommen wird, führt an den eigentlichen Problemen vorbei. Unabhängig vom aktuellen Börsenpreis zahlt der Kunde immer den durch das EEG garantierten Strompreis, geht der Preis bei Überproduktion ins Negative, kommen diese Kosten noch hinzu.
+Kernproblem sind die immer größer werdenden Schwankungen der EE-Stromproduktion, die von den vorhandenen thermischen Kraftwerken vor allem aus physikalischen und technischen Gründen nicht mehr kompensiert werden können. Im Netz ist der Strom aus EE-Anlagen ein Unruhestifter, dessen Schwankungen ohne die erforderlichen Speicher nicht mehr beherrschbar sind. Mit der Rekordproduktion an EE-Strom stiegen in 2015 auch die Kosten für die Notmaßnahmen zur Verhinderung eines Netzzusammenbruchs: So schreibt DER SPIEGEL am 17. Januar, dass die Eingriffe zur Abwehr eines größeren Stromausfalls im vergangenen Jahr zu Rekordkosten von etwa einer Milliarde Euro geführt haben. Über die Netzentgelte gehen diese Kosten zu Lasten der Verbraucher.
+Unsere elektrischen Nachbarn errichten Stromsperren an ihren Grenzen, um die eigenen Netze vor unserem Überschussstrom zu schützen. Die erforderlichen Phasenschiebertransformatoren lassen sie sich vom deutschen Stromkunden auch noch bezahlen! Kosten für die Verbraucher: 200 Millionen Euro.
+Dieses Debakel ergibt sich aus fundamentalen technischen und physikalischen Zusammenhängen und schon vor Jahren wurde davor gewarnt: In einer Untersuchung [1] hat das ISE Fraunhofer Institut in Freiburg schon im August 2013 davor gewarnt, dass ein weiterer Ausbau der erneuerbaren Energien zu anwachsenden Exportüberschüssen und zu länger andauernden Zeiten mit niedrigen oder gar negativen Börsenpreisen und zu einem langfristig unüberwindbaren Systemkonflikt führen wird.
+Dieser Systemkonflikt ist längst eingetreten. Aus Sätzen der mathematischen Statistik wurde bereits im Jahre 2014 abgeleitet, dass die Leistungsspitzen durch den Ausbau der Windkraft weiter ansteigen und die bekannten Probleme wie Überstromproduktion und Negativpreise an der Börse weiter verschärfen werden [2].
+Der Systemkonflikt entsteht durch zwei voneinander unabhängige Stromerzeugungssysteme in Deutschland:
+- Das konventionelle Stromerzeugungssystem, bestehend aus Kernkraftwerken, Braunkohlekraftwerken für die Grundlast, Steinkohlekraftwerken für die Mittellast und Gaskraftwerken für die Spitzenlast. Diese Klassifizierung ergibt sich zwangsläufig aus dem technisch möglichen und wirtschaftlich sinnvollen Regelpotenzial dieser Kraftwerke.
+Zu dem konventionellen Stromerzeugungssystem kann man aus gutem Grund auch die Biogasanlagen hinzuzählen. Diese lassen sich ähnlich kontinuierlich betreiben wie Kohlekraftwerke und gehören damit auch zu den regelbaren Stromerzeugern. Die konventionellen Anlagen lassen sich bedarfsgerecht betreiben. Aufgrund der Regelbarkeit der Kraftwerke folgt die Stromproduktion auf die Millisekunde genau dem Bedarf. Dieser momentane Ausgleich von Nachfrage und Erzeugung ist die physikalische Grundbedingung für ein stabiles Stromnetz.
+- Das zweite System sind Windkraftanlagen mit ca. 45 GW installierter Leistung und Photovoltaikanlagen mit ca. 40 GW installierter Leistung. Die Stromerzeugung aus Sonne unterliegt dem Tag-Nacht-Rhythmus. Die Periodendauer beträgt 24 Stunden, der Stromeintrag beginnt nach Sonnenaufgang mit geringen Werten und erreicht um 12:00 das Maximum. Der Leistungsbedarf schwankt auch im 24 Stunden Rhythmus, jedoch nicht deckungsgleich mit dem Sonneneintrag. Er beginnt früher als die Sonnenstromlieferung, geht gegen Mittag zur Zeit der höchsten Sonnenausbeute leicht zurück, steigt danach wieder an und endet gegen Abend später als der Sonneneintrag.
+Die Windausbeute hängt von den Wetterbedingungen ab. Wind- und Sonnenstrom sind daher in hohem Maße volatil.[1] Bedarfsgerechte Stromerzeugung ist mit diesem System physikalisch nicht möglich.
+Die Kombination aus Wind- und Sonnenstrom verursachen für das konventionelle Versorgungssystem unterschiedlich schwierige und unterschiedlich teure Regelsituationen. Der einfachste und auch kostengünstigste Fall ist Windstille bei Nacht. Dann liegt der Regelungsbedarf bei Null. Der teuerste Fall ist viel Wind beispielsweise bei einer Ost-Wetterlage und tagsüber ein hohes Angebot an Solarstrom. Hier müssen konventionelle Kraftwerke vormittags schnell abgeregelt und nachmittags genauso schnell wieder heraufgeregelt werden. Nur so können Netzausfälle vermieden werden.
+Die Volatilität von Wind- und Sonnenstrom ist das bisher ungelöste Kernproblem der Energiewende. Liegt die Lösung in noch mehr Windrädern?
+Tabelle 1 Statistische Kennzahlen Windkraft
+|Jahr||Installierte Nennleistung am Jahresende||Maximale Windleistung||Mittlere Windleistung||Minimale Windleistung||Standard-abweichung Stundenwerte – Mittelwert||Verhältnis Standard-abweichung zum Mittelwert|
+|2010||27.072 MW||21.679 MW||4.070 MW||113 MW||3.661 MW||0,90|
+|2011||28.606 MW||22.870 MW||5.051 MW||88 MW||4.391 MW||0,87|
+|2012||30.755 MW||24.086 MW||5.222 MW||115 MW||4.419 MW||0,85|
+|2013||33.614 MW||26.269 MW||5.380 MW||121 MW||4.864 MW||0,91|
+|2014||36.928 MW||29.687 MW||5.868 MW||24 MW||5.488 MW||0,93|
+|2015||44.946 MW||36.956 MW||8.996 MW||93 MW||7.220 MW||0,80|
+Betrachtet man die Standardabweichung als Maß für die Volatilität so ist festzustellen, dass diese von 2010 bis 2015 gleichzeitig mit dem Anstieg der installierten Wind- und Sonnenleistung zu- und nicht etwa abgenommen hat. Offensichtlich erhöhen noch mehr Windräder lediglich die Spitzenerzeugung, ohne eine sichere Grundlast zur Verfügung stellen zu können. Eine sichere und unterbrechungsfreie Stromversorgung ist unabhängig von der Anzahl der Wind- und Sonnenkraftwerke nicht möglich. Einen Ausgleich der Erzeugung zu einer sicher zur Verfügung stehenden Leistung durch noch mehr Windräder gibt es in Deutschland nicht. Dies ist inzwischen hinreichend belegt [3], obgleich das Gegenteil in Studien zu erneuerbaren Energien immer wieder behauptet wird und damit die Politik zu nachweisbar falschen Entscheidungen drängt.
+Strom aus Wind und Sonne hat gemäß EEG Vorrang in den Netzen und wird von der Börse zu Grenzkosten 0 hereingenommen. Dadurch ist das volatile und für den Stromverbraucher teure Stromerzeugungssystem gegenüber dem konventionellen System absolut bevorzugt. Das bedeutet in letzter Konsequenz, dass die konventionellen Kraftwerke bei Nacht und Windstille die gesamte nachgefragte Leistung decken können müssen und dies unabhängig von der Anzahl der installierten Windräder. Die gesamte Sonnen- und Windleistung muss zu 100 % der nachgefragten Leistung ausreichend schnell durch regelbare Kraftwerke ersetzbar sein. Die maximale Residuallast, das ist die Differenz zwischen der benötigten Leistung und der Leistung, die die nicht regelbaren Kraftwerke – das sind die Wind- und Sonnenkraftwerke – erbringen, beträgt in diesem Fall 100% der nachgefragten Leistung.
+Wenn ausreichend Sonnen- und Windleistung vorhanden ist, müssen die konventionellen Kraftwerke den Schwankungen der Wind- und Sonnenstromerzeugung schnell folgen und soweit heruntergefahren werden, wie dies technisch und wirtschaftlich vertretbar ist. Diese Schwelle bestimmt die mögliche minimale Residuallast, auf die die konventionellen Kraftwerke heruntergefahren werden können, ohne dass sie die Fähigkeit verlieren, bei Nachlassen von Wind und Sonne die Leistung kurzfristig wieder herauf geregelt zu werden. Welche Residuallast darf also nicht unterschritten werden?
+Zur Erinnerung: es sind bereits 85 GW Wind- und Sonnenleistung installiert. Als Maximalwert wurden bisher im Rahmen des Netzmanagements 50 % der Nennleistung, das sind etwa 42 GW zugelassen. Bei weiterem Ausbau der Windenergie wird zumindest in Schwachlastzeiten sehr bald mit negativen Residuallasten zu rechnen sein, d.h. es kann theoretisch mehr EE-Strom produziert als verbraucht werden. Eine Prognos-Studie geht davon aus, dass als Folge eines weiteren Ausbaus von Sonnen- und Windkraft in 2030 an ca. 1100 Stunden eine negative Residuallast anfallen wird. [4]
+Beispielsweise am Sonntag den 8. Mai 2016 betrug der Leistungsbedarf in Deutschland gegen 12:00 Uhr ca. 50 GW. Wind und Sonne lieferten zur gleichen Zeit 42 GW, damit betrug die auf den Strombedarf in Deutschland bezogene Residuallast nur 8 GW. Eigentlich würde man hier erwarten, dass die verbleibenden Kraftwerke auf diese Leistung zurückgefahren werden. Warum war das nicht der Fall? Die regelbaren Kraftwerke wurden auf 23 GW abgeregelt. Der Überschuss von 15 GW wurde in ausländische Netze „entsorgt“. Dafür waren zwischen 10:00 Uhr und 17:00 Uhr Entsorgungsgebühren von 21 Mio. € fällig. In der Statistik werden die Entsorgungsgebühren beschönigend „negative Strompreise“ genannt.
+Das Kernproblem der Energiewende ist die bedarfsgerechte Bereitstellung der Residuallast. Wie weit und wie schnell kann man die vorhandenen Kraftwerke auf- und abregeln und sind die Kraftwerke dann überhaupt noch wirtschaftlich zu betreiben?
+Für die Ermittlung der minimal zulässigen Residuallast sind folgende Faktoren zu berücksichtigen:
+- Welches ist die maximal mögliche Abregelgeschwindigkeit, damit die konventionellen Kraftwerke den witterungsbedingten Schwankungen der EE-Stromeinspeisung und damit den steilen Lastgradienten folgen können?
+- Welches ist der Minimalwert, von dem aus die konventionellen Kraftwerke ihre Leistung bis zur Nennleistung wieder schnell heraufregeln können?
+- Welche minimale generator-basierte Leistung muss zur Bereitstellung der Frequenz stabilisierenden Schwungmasse vorgehalten werden?
+Die Leistungsänderung erfolgt in einem technisch bestimmten Leistungsspektrum – nämlich zwischen der minimalen – und technisch sinnvollen – im Normalbetrieb fahrbaren Leistung und der (maximalen) Nennleistung des Kraftwerks.
+Thermische Kraftwerke lassen sich schnell auf ca. 40 % ihrer Nennleistung herunterfahren.
+Tabelle 2 Leistungskennwerte von Kraftwerken [5]
+|Maximale||Minimale||Maximaler Laständerungs-|
+|Kernkraftwerke||1.260 MW||630 MW||± 63 MW/min|
+|Neue GuD-Kraftwerke||875 MW||260 MW||± 38 MW/min|
+|Neue Kohlekraftwerke||800 MW||320 MW||± 26 MW/min|
+|Alte Kohlekraftwerke||600 MW||420 MW||± 8 MW/min|
+Leistung
+Leistung
+gradient
+Zur Deckung der stark schwankenden Residuallast nutzt man sinnvollerweise die Regelkraftwerke, nämlich Pumpspeicher-Kraftwerke, Gasturbinen- (soweit verfügbar) und Steinkohlekraftwerke. KKWs sind aus wirtschaftlichen Gründen zunächst nicht für die Regelreserve geeignet. Nach Abschaltung der verbliebenen 8 KKWs in 5 Jahren stehen diese ohnehin nicht mehr zur Verfügung.
+Unterstellt man eine Mindestleistung von 40 % für einen gesicherten Betrieb, kann man die Produktion aus o.a. Kraftwerken auf ca. 20 GW absenken. Dabei sind KKWs und Laufwasserkraftwerke nicht berücksichtigt. Danach sind etwa 25 bis 30 GW die Mindestleistung, auf die man die konventionelle Erzeugung absenken kann, ohne Kraftwerke komplett „kalt“ fahren zu müssen. Ein Kaltstart dauert bei Gaskraftwerken min. 30 min. Bei einem Kohlekraftwerk dauert ein Kaltstart hingegen 7 bis 15 Stunden.
+Ein weiterer fundamentaler Grund, der eine Mindesteinspeisung konventioneller Kraftwerke erfordert, ist die Aufrechterhaltung der Systemstabilität, da Erzeugung und Verbrauch sich zu jedem Zeitpunkt in einem stabilen Gleichgewicht befinden müssen. Ein Abweichen von diesem Gleichgewicht äußert sich in einer Änderung der Frequenz (ein Überangebot führt zu Frequenzanstieg und ein Mangel zu Frequenzabfall). Dieses stabile Gleichgewicht wird durch die kinetische Energie der Turbogeneratoren gewährleistet, die im Netz als Kurzzeitspeicher wirken. Bereits bei einer Frequenzänderung von 0,01 Hz wird zu Maßnahmen der Primärregelung gegriffen. Zu Abweichungen gegenüber dem geplanten Gleichgewicht kann es kommen, da es Prognosefehler bei der Last und bei der Windeinspeisung geben kann und konventionelle Kraftwerke ungeplant vom Netz gehen können. Dann sind sogenannte Redispatch Maßnahmen erforderlich.
+Hierzu die Erklärung von Amprion [6]:
+„In allen europäischen Kraftwerken drehen sich die Generatoren 50 Mal pro Sekunde und erzeugen den Wechselstrom mit einer Frequenz von 50 Hertz. Sinkt oder steigt die Frequenz im Netz, so wird die Funktion zahlreicher elektrischer Geräte wie Computer, Fernseher oder Motoren beeinflusst. Aber auch die Generatoren können beschädigt werden, sofern die Frequenz auf unter 47,5 Hertz sinkt. Die dann auftretenden Resonanzschwingungen führen zu einer Zerstörung.
+Deshalb soll im europäischen Verbundnetz die Netzfrequenz nur wenig vom Sollwert abweichen. Die Netzregelung greift bereits bei einer Abweichung von 0,01 Hertz automatisch ein. Starten in den Fabrikhallen morgens die Maschinen gleichzeitig oder werden am Abend zu den Nachrichten die Fernseher im selben Moment eingeschaltet, so steigt die Belastung der Generatoren und sie werden für einen kurzen Augenblick etwas langsamer. Das Resultat: die Frequenz sinkt ab. Die automatisch einsetzende Leistungs-Frequenz-Regelung im Netz sorgt dafür, dass die Kraftwerke neue Leistungssollwerte erhalten und dadurch die Turbinen mehr Dampf bekommen und die Generatoren wieder mit 50 Hertz (Hz) rotieren. An dieser Regelung sind kontrahierte Kraftwerke im UCTE-Verbund beteiligt, die dafür ein vereinbartes Leistungsband ihrer Erzeugungsleistung als Reserve bereithalten.“
+Die Übertragungsnetzbetreiber haben in einer Studie zur Ermittlung der Mindesterzeugung des konventionellen Kraftwerkparks folgende Ergebnisse veröffentlicht [7]:
+„Bei einer durchschnittlich bereitgestellten Regelleistung für die Primärregelung in Höhe von 3 % der Nennleistung ergibt sich eine installierte Leistung von knapp 20 GW, die kontinuierlich am Netz sein muss. Auf Basis dieser Mindesterzeugung wird im folgenden Abschnitt der dadurch gesicherte Beitrag zur Schwungmasse im Regelblock Deutschland beziffert und dessen Bedeutung für die Frequenzstabilität abgeleitet.
+Die zuvor genannte Mindesterzeugung von 20 GW stellt eine bestimmte mindestens am Netz befindliche Schwungmasse für den Regelblock Deutschland sicher. Da die Regelleistung hauptsächlich durch thermische und hydraulische Erzeugungseinheiten bereitgestellt wird, kann als konservativer Wert eine mittlere Anlaufzeitkonstante der Turbosätze angenommen werden. Somit ergibt sich abhängig von der Netzlast im Regelblock Deutschland die minimale Netzanlaufzeit. Für eine Netzlast zwischen Schwachlast von ca. 35 GW und Starklast von ca. 85 GW liegt die minimale Netzanlaufzeitkonstante für den Regelblock Deutschland zwischen 5,7 s und 2,4 s. Hierbei sind alle Kraftwerke vernachlässigt, die nicht an der Primärregelung teilnehmen. Selbst bei hoher Netzlast stellen die primärgeregelten Kraftwerke annähernd die minimal erforderliche Schwungmasse bereit. Darüber hinaus sind u. a. Laufwasserkraftwerke und KWK nahezu das ganze Jahr am Netz. Es ist davon auszugehen, dass bei mittlerer und hoher Netzlast weitere konventionelle Erzeugungseinheiten am Netz sind, sodass die o.g. Empfehlung für die minimale Schwungmasse ohne zusätzliche Maßnahmen erfüllt werden kann.“
+PV-Anlagen und Windkraftanlagen verfügen nicht über Schwungmassen. Diese müssen auch in Zeiten hoher Wind- und Sonnenstromausbeute von konventionellen Kraftwerken bereitgestellt werden.
+Aus den oben genannten Gründen kann und darf die Residuallast nicht nennenswert unter 20 GW sinken. Das hat zur Folge, dass auch und gerade in Schwachlastzeiten bei hohem Aufkommen an Sonnen- und Windstrom konventionelle Kraftwerke zur Stabilisierung der Netze in Betrieb gehalten werden müssen, will man die Netzstabilität nicht gefährden. Daraus ergibt sich, dass überschüssiger EE-Strom exportiert oder abgeregelt werden muss. Um teure Exporte zu vermeiden, müssen Windkraft- und Solaranlagen abgeregelt werden. Es gibt also einen kausalen Zusammenhang zwischen der Überproduktion von EE-Strom und den Stromexporten. Das deutsche Stromnetz ist also aus Gründen der Systemstabilität schon heute nicht mehr in der Lage, die Erzeugungsspitzen aus EE-Strom in vollem Umfang aufzunehmen. Abbildung 1 Stromexporte zwischen 2010 und 2015 [8]
+In der Tat haben sich die Exportmengen seit 2010 nahezu verdoppelt. Bevorzugte Exportländer sind Österreich, Niederlande und Belgien.
+Eine Reduzierung der Leistung unter 25 GW ist technisch und wirtschaftlich nicht möglich. Der in der Folge entstehende Überschussstrom muss in ausländische Netze geleitet werden. Ein typisches Beispiel ist die 45. Woche 2015.
+Abbildung 2 Last und Stromerzeugung in KW 45 2015
+Am Sonntag, den 8 Nov. 2015 betrug die EE-Strom Produktion um 00:00 Uhr knapp 26 GW, die nachgefragte Last 42 GW. Die Residuallast wurde aber nicht auf die eigentlich erforderlichen 16 GW gedrosselt, sondern nur auf 26 GW, um genügend Schwungmasse für die Netzstabilität zur Verfügung zu stellen und um die Regelfähigkeit für den weiteren interessanten Lastverlauf des Tages zu sichern. Von 00:00 Uhr bis 02:00 Uhr gingen 10 GW in den Export. Mit steigender Nachfrage in Deutschland verringerte sich der Export auf ca. 2 GW. In der Nacht gab es wieder mehr Windstrom und um 24:00 gingen wieder 12 GW in den Export.
+Abbildung 3 Korrelation der Stromexporte mit Wind- und Solarproduktion im Februar 2015 (Stundenwerte)
+Wertet man die zugänglichen Daten mittels Regressionsanalysen[2] aus, kommt man zu vergleichbaren Ergebnissen:
+Abbildung 3 zeigt einen eindeutigen Zusammenhang zwischen der stündlichen EE-Stromproduktion und den Stromexporten: Je höher die EE-Leistung, desto höher sind die Stromexporte. Dies gilt nicht nur für die Stundenwerte, sondern auch für die summarische jährliche Stromproduktion.
+Die Regressionsanalyse der Jahresdaten zeigt einen signifikanten Zusammenhang zwischen EE-Stromerzeugung und -export (Abbildung 4). Der Regressionskoeffizient liegt mit 0.92 nur unwesentlich unter dem höchsten möglichen Wert 1. Zahlenmäßig hat das Anwachsen der EE-Stromerzeugung auf jährlich 120 TWh eine Erhöhung des Stromexports um rund 40 TWh zur Folge gehabt. Ein Drittel der EE-Stromproduktion wurde nicht in Deutschland verbraucht, sondern ins Ausland exportiert. Die verbreitete Behauptung, erneuerbare Energien hätten einen Beitrag von 30% zur deutschen Stromversorgung geleistet, hält daher einer kritischen Prüfung nicht Stand.
+Daher ist die EE-Stromerzeugung unter den gegebenen technischen und wirtschaftlichen Randbedingungen die Ursache für den Export und für die unvertretbaren Entsorgungsgebühren.
+Abbildung 4 Zusammenhang zwischen Stromexport und Stromproduktion aus Wind- und Solarkraftwerken
+Tabelle 3 Entwicklung von negativen Strompreisen
+|Jahr||Anzahl Stunden mit negative Börsenpreisen||Handelsmenge EEX||Summe der Handels-menge||Durchschnittlicher negativer Börsenwert|
+|2010||12 h/a||0,32 TWh||-1.695.134 €||-5,40 €/MWh|
+|2011||14 h/a||0,46 TWh||-4.674.723 €||-10,10 €/MWh|
+|2012||56 h/a||1,81 TWh||-106.573.608 €||-58,80 €/MWh|
+|2013||64 h/a||2,17 TWh||-31.403.398 €||-14,50 €/MWh|
+|2014||64 h/a||2,59 TWh||-41.511.253 €||-16,00 €/MWh|
+|2015||126 h/a||4,77 TWh||-44.223.893 €||-9,30 €/MWh|
+In 2015 haben die abnehmenden Länder 44,2 Mio. € Entsorgungsgebühr erhalten, obwohl Windräder in zunehmendem Maße abgeschaltet wurden. Die sogenannte Ausfallarbeit [9] hat sich von 1,5 TWh in 2014 auf 3 TWh in 2015 fast verdoppelt. Ohne diesen Anstieg wären die Exportmengen und damit die Entsorgungsgebühren entsprechend höher gewesen.
+Folgende Gesetzmäßigkeit lässt sich ableiten: sinkt die Residuallast unter die minimale Regelleistung, dann muss Strom exportiert werden oder die Wind- oder PV-Anlagen müssen vom Netz genommen werden. Eine weitere Schlussfolgerung: wird der vorgesehene weitere Ausbau der Sonnen- und Windkraft nicht gestoppt, muss es zu noch höheren Exporten kommen mit der Folge noch höherer Entsorgungskosten und / oder die neuen Anlagen müssen bei viel Sonne und Wind abgeschaltet werden mit der Folge noch höherer Kosten für die Ausfallarbeit.
+Eine im Auftrag des BMWI durchgeführte Studie [10] geht davon aus, dass es für Deutschland mit seinen „elektrischen Nachbarn“ bei weiterem Ausbau der Windkraft Ausgleichseffekte durch unterschiedlichen Lastgang und durch schwankende nationale Produktionen geben wird. Den Beweis für die Ausgleichseffekte erbringt die Studie nicht. Einen Ausgleich bei der Windkraft, und das ist hinreichend bewiesen, gibt es zwischen Deutschland und seinen „elektrischen Nachbarn“ nicht. Ein Ausgleich beim Lastgang ist höchst unwahrscheinlich: in allen europäischen Ländern beginnt der Industrietag am frühen Morgen, die Mittagspause gegen Mittag und das Ende der Produktion gegen Abend. Die Lastgangkurven sind in allen europäischen Ländern im Wesentlichen identisch.
+|DE||DE||DE||DE||DE||DE||DE||DE||DE||DE|
+|Jahr||FR||AT||BE||CH||CZ||DK||IT||LU||NL||PL|
+|2006||96,8||99,7||99,8||95,9||98,5||97,9||99,7||99,6||98,5|
+|2007||96,8||99,6||99,2||99,3||98,9||96,7||99,9||97,8||99,0|
+|2008||98,6||99,6||99,8||98,7||99,4||97,5||99,8||99,9||98,6|
+|2009||97,7||99,7||99,3||99,1||99,4||98,9||99,7||99,9||99,1|
+|2010||97,1||99,8||100,0||99,7||99,5||100,0||97,0||99,9||100,0||99,3|
+|2011||98,9||99,6||98,4||99,3||99,4||99,5||97,1||99,5||99,8||99,6|
+|2012||100,0||99,6||99,5||99,7||99,7||99,8||98,6||100,0||99,6||99,8|
+|2013||96,2||99,6||99,6||99,4||99,5||99,5||97,4||100,0||99,1||99,9|
+|2014||99,3||99,8||100,0||99,7||99,7||99,6||99,8||99,9||100,0||99,5|
+Tabelle 4 Gleichzeitigkeitsfaktoren der Netzlasten [12]
+Die in Tabelle 4 dargestellten Gleichzeitigkeitsfaktoren zeigen, dass große Netzlasten in ganz Westeuropa im Wesentlichen zum gleichen Zeitpunkt auftreten. Ein ausgebautes westeuropäisches Stromnetz kann daher keinen Ausgleich bewirken.
+Schlussfolgerungen:
+- Die Exportüberschüsse und die Stunden mit negativen Börsenpreisen sind, wie in der Fraunhofer ISE Studie aus dem Jahr 2013 vorhergesagt, tatsächlich weiter gestiegen und sie werden mit weiterem Ausbau von Wind- und Sonnenstrom notwendigerweise exponentiell weiter steigen, wenn dies nicht durch Abregelung begrenzt wird.
+- Die Systemkonflikte zwischen konventionellem Erzeugungssystem und dem Wind- und Sonnenstrom-System sind bereits eingetreten. Deren Beherrschung wird immer teurer.
+- Bereits jetzt schalten energieintensive Industriebetriebe die Produktion ab, wenn die konventionellen Kraftwerke den steilen Lastgradienten nachmittags und abends nicht schnell genug folgen können. [11]
+- Die durch das EEG geförderte Energiewende ist an den Grenzen der Physik gescheitert.
+- Es müssen endlich technisch realisierbare Lösungen gefordert und gefördert werden: Haushaltspeicher für Sonnenstrom. Sie sind verfügbar, Stand der Technik und geeignet, die Spitzen der Sonnenstrom Erzeugung abzuschneiden und in den Abend und in die Nacht zu verlagern.
+- Geothermie-Kraftwerke sind Stand der Technik. Das Potenzial in Deutschland ist hoch, sie sind grundlastfähig und arbeiten 8760 Stunden im Jahr ohne Emissionen. Die bisher realisierten Projekte in Bayern sind vielversprechend.
+- Industrielle Abwärme kann zur Stromerzeugung genutzt werden. Hier vermutet der ORC Fachverband ein Potenzial von 4 bis 8 GW grundlastfähiger Leistung. Bereits jetzt laufen in Deutschland 100 Anlagen mit einer installierten Leistung von 120 MW.
+Literaturverzeichnis
+[1] Johannes N. Mayer, Niklas Kreifels, Bruno Burger: „Kohleverstromung zu Zeiten niedriger Börsenstrompreise“ Fraunhofer ISE, August 2013 https://www.ise.fraunhofer.de/de/downloads/pdf-files/aktuelles/kohleverstromung-zu-zeiten-niedriger-boersenstrompreise.pdf
+[2] Ahlborn, D.: „Korrelation der Einspeisung aus Windkraftanlagen macht Grundlastfähigkeit in Deutschland unmöglich“ in: Herbert Niederhausen, Andreas Burkert: Elektrischer Strom: Gestehung, Übertragung, Verteilung, Speicherung und Nutzung elektrischer Energie im Kontext der Energiewende Springer, Vieweg 2014
+[3] Ahlborn, D.: „Glättung der Windeinspeisung durch Ausbau der Windkraft?“ in Energiewirtschaftliche Tagesfragen 65. Jg. (2015) Heft 12 S.37-39
+[4] Ess, F. et al.: „Bedeutung der internationalen Wasserkraft-Speicherung für die Energiewende“ www.worldenergy.ch/file/Publikationen/Aktuell/prognos_wec_20121009.pdf
+[5] http://www.alt.fh-aachen.de/downloads/Vorlesung%20EV/Hilfsb%2060% 20Regelleistungsbereiche%20Lastgradienten%20Kraftwerke.pdf
+[6] http://www.amprion.net/netzfrequenz
+[7] „Auswirkungen reduzierter Schwungmasse auf einen stabilen Netzbetrieb“
+Studie im Auftrag der deutschen Übertragungsnetzbetreiber, Abschlussbericht, 20. Januar 2012
+http://www.netzentwicklungsplan.de/sites/default/files/media/documents/Minimale%20Schwungmasse.pdf
+[8] Agora Energiewende Denkfabrik, BDEW Energiebilanzen
+[9] Bundesnetzagentur, Monitoringbericht 2015
+Udo Leuschner: Energie Chronik
+http://www.udo-leuschner.de/energie-chronik/151201.htm
+https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Allgemeines/Bundesnetzagentur/Publikationen/Berichte/2015/Monitoringbericht_2015_BA.pdf?__blob=publicationFile&v=3
+[10] „Versorgungssicherheit in Deutschland und seinen Nachbarländern: länderübergreifendes Monitoring und Bewertung“ Consentec GmbH, r2b energy consulting GmbH 06.03.2015 Untersuchung im Auftrag des Bundesministeriums für Wirtschaft und Energie
+[11] Dipl.-Ing. Heribert Hauck: „Netzstabilisierung durch flexible Produktion“ Vortrag auf dem Tag der Metallurgie, Goslar, 04.03.2016
+[12] Bericht der deutschen Übertragungsnetzbetreiber zur Leistungsbilanz 2015 nach EnWG § 12 Abs. 4 und 5, Stand 30.09.2015
+[1] Unter Volatilität versteht man das Ausmaß der Fluktuation einer Größe um ihren Mittelwert oder Trend, gemessen durch die Standardabweichung bzw. den Variationskoeffizienten. Danach hat sich die Volatilität der Windkraft in absoluten Zahlen verdoppelt, während die installierte Leistung um den Faktor 1,8 gestiegen ist (Tabelle 1).
+[2] Regressionsanalysen sind statistische Analyseverfahren, die es erlauben Beziehungen zwischen zwei Variablen zu identifizieren.
+[1] Dr.-Ing. Detlef Ahlborn, Dr.-Ing. Detlef Ahlborn, Fachbereichsleiter Technologie, VERNUNFTKRAFT. e. V., detlef.ahlborn@vernunftkraft.de
+[2] Prof. Dr.-Ing. Hans Jacobi, Jacobi & Partner Industrieberatung GmbH Kennedyplatz 8 45127 Essen
+Aber das sind nur Peanuts, denn am Primärenergiebedarf Deutschlands machen Photovoltaik nur 1% und Windkraft nur 2,5% aus. Woraus folgt, das elektrischer Strom an der Energieerzeugeung in Deutschland nur zu einem Sechstel (1/6) beteiligt ist.
+Jetzt will man also einen Großteil der Primärenergie auch noch auf Solar/Windstrom umstellen. Man braucht kein Mathe-Genie zu sein, um festzustellen, dass das unmöglich ist.
+Was machen nun unsere Politker? 4 Möglichkeiten:
+-Zu doof.
+-Abgelenkt durch zu intensives Regieren.
+-Genuss von Mohn, Fliegenpilzen, Gras oder ähnlicher Chemie (siehe Ströbele).
+-„Tun wir so, als hätten wir nichts gemerkt“
+wunderbar haben Sie das ausgedrückt haben !
+Punkt 1 wird wohl stimmen.
+MfG Horst Maler
+Der jetzige Pimärenergiebedarf von Kohle, Gas, Öl und Uran von knapp 3.800 Mrd. kWh wird nie durch Strom aus PV und Wind ersetzt werden können.
+Es macht aber keinen Sinn 1 kWh Heizenergie mit 1 kWh Strom zu vergleichen. Auf PV und Wind bezogen lautet die Frage: Wieviel Nutzenergie kann mit dem Strom bereitgestellt werden?
+Deshalb ist die Aussage „will man also einen Großteil der Primärenergie auch noch auf Solar/Windstrom umstellen“ falsch. Man will nicht die Primärenergie ersetzen, sondern die fossil erzeugte Nutzenergie und das bei einem deutlich reduzierten Primärenergiebedarf, da Strom ja eine viel höhere Exergie hat als Kohle, Öl etc.
+man soll ja immer offen dafür sein und seine vorgefasste Meinung prüfen
+ob das alles so richtig ist wie man denkt. Viele Kommentatoren hier bei
+Eike sind dazu sicherlich bereit. Andere aber nicht.
+Ein Beispiel:
+E = m * c2
+Ist diese Gleichung von Einstein oder nicht ?
+Ist diese Gleichung richtig ?
+Man wird mehrheitlich mit „JA“ antworten. Hat aber einer von den Kommenta-
+toren jemals überprüft ob das stimmt. Wohl eher nicht ! Alle, die glauben
+das wäre von Einstein und völlig richtig, mögen mir bitte eine Schrift von
+Einstein nennen in der er die Formel nennt.
+Das Gleiche gilt für die Annahme, dass die große rotierende Masse der Dampf-
+turbine mit Generator für die Stabilisierung der Netzfrequenz sorgen würde.
+Die Energie eines Rotationskörpers ist von seiner Masse und dem Quadrat
+seiner Drehzahl abhängig.Wenn man mal die Konstanten und die Masseverteilung
+weglässt, dann ist die Größe der Rotationsenergie dem Quadrat der Drehzahl
+proportional :
+E = n2
+Wenn man davon ausgeht, das eine Drehzahlabsenkung von 50 Hz auf 49,8 Hz
+stattfindet, dann sinkt die Rotationsenergie auf
+E = ( 49,8 / 50 ) **2 = 0,992016
+Ab 49,8 Hz setzt die Drehzahlregelung ein und gibt der Maschine Dampf.Die
+Leistung der Maschine steigt.Dies ist der Fall bei Leistungsmangel.
+Bei Leistungsüberschuss steigt die Drehzahl und die Rotationsenergie steigt :
+E = ( 50,2 / 50 ) **2 =1,008016
+Ab 50,2 Hz nimmt die Drehzahlregelung der Turbine Dampf aus der Maschine
+und die Maschinenleistung sinkt.
+Wer weiterhin an den Einfluß der großen rotierenden Massen glauben will, der
+soll das gerne tun. Klug ist das nicht.Klug ist es an den Einfluss der
+Drehzahlregelung zu glauben.
+MfG. Horst Maler
+mit den Bemerkungen zu dem ehrwürdigen Herrn Albert Einstein bin ich ja dicht bei Ihnen.
+Beim Glauben hört der Spaß aber leider auf.
+Der Effekt der „Rotierenden Massen“ beruht auf der Kenntnis über das Massenträgheitsgesetz.
+Das lässt sich messen und rechnen. Da führt kein Weg dran vorbei.
+http://tinyurl.com/q3r48tp
+Nach dem Studium dieser Lektüre bleibt auch Platz für Ihre Drehzahlregelung.
+Mit herzlichem Glückauf
+Sie gehen an der Sache weit vorbei. Die Arbeit die Sie anführen handelt vom
+Netzselbstregeleffekt des Netzes und ist im Inhalt sehr dünn. Schon das Bild mit der Waage, auf Seite 3, ist falsch. Die Frequenz ist das Integral der Differenz aus Leistung und Belastung. Das Wort Schwungmasse kommt nur einmal in diesem Bild vor, sonst nirgends im ganzen Text.
+Sich selbst zu prüfen ist ja nicht so einfach. Da bleibt man lieber bei dem was alle glauben. Vielleicht lesen Sie meinen Text noch einmal, da drin kommt eine Rechnung vor.
+MfG Horst Maler
+aus Ihrem ersten Kommentar wollen Sie erklären, dass ein Frequenzabfall um 0.2 Hz nur 1% Energieänderung im Europäischen Stromnetz bedeutet.
+Um einen Ausgleich zu schaffen, damit die vereinbarte Netzfrequenz von 50 Hz wieder hergestellt wird kommt die Primärregelung zum Einsatz.
+Im Europäischen Verbundnetz ist vereinbart , dass die Regelzone Deutschland für diesen Fall
+je nach Netzbelastung zwischen 600 MW und 800 MW bereithält.
+Dazu muss man wissen, dass alle Kraftwerke, die wirksam an diesem Regelprozess teilnehmen
+nur 5-10 MW pro Kraftwerksblock dazu betragen.Dieser Abruf von zusätzlicher Leistung wird in Stufen frequenzabhängig abgerufen.
+Erschwerend kommt noch hinzu, das die frequenzgeführten Wechselrichter der EE-Wandler auch mit der Leistung zurückgehen, die gerade in diesen Störfallsituationen dringend gebraucht werden.
+Über das Englische Stromnetz erzählt man sich die Geschichte zur Vorbereitung auf die „Teatime“.
+Da soll die Netzfrequenz bis auf 48,5 Hz absinken, wenn ganz England heißes Wasser für den Tee macht.
+Die Rotierenden Massen der konventionellen Kraftwerke überbrücken die Zeit, bis die Primärregelung voll zum Einsatz kommt.
+Hätte man Sie nicht im vereinbarten Umfang, würde die Netzfrequenz viel weiter absinken.
+Mit herzlichem Glückauf
+mit keinem Satz habe ich behauptet das ein Frequenzabfall von 0,2 Hz
+nur 1 % Energieänderung bedeutet. Das wäre ja auch physikalischer Unsinn.
+Ich habe erklärt das im Bereich von +- 0,2 Hz um 50 Hz nur 0,8 % der im Netz vorhandenen Rotationsenergie abgebaut oder zugefügt werden kann. Dann greift schon die Drehzahlregelung der Turbinen ein. Auf der Seite
+http://www.netzfrequenz.info/aktuelle-netzfrequenz-full
+ist eine gute Darstellung der Sache zu finden.
+Alle Kraftwerksblöcke die sich an der Frequenzstützung beteiligen ermitteln ihren Beitrag nach folgender Formel :
+Blockleistung = Blocknennleistung / 2,5 * (50 – aktuelle Frequenz).
+Das ergibt steigende Leistung bei Unterfrequenz und fallende Leistung bei Überfrequenz. Der Vorgang ist kontinuierlich und sein Einsatz erfolgt im Millisekundenbereich.
+EE-Wechselrichter von Photovoltaikanlagen beteiligen sich nur bei Überfrequenz durch Abwurf Ihrer Leistung in vom Netzbetreiber definierten Stufen. Windkraftanlagen beteiligen sich überhaupt nicht
+an der Frequenzstützung.
+Die Größe der Einsatzplanung von Regelenergie richtet sich nach der größten anzunehmenden Störung. Das kann der Ausfall einer oder mehrerer Erzeugereinheiten oder der Ausfall einer Netzlastregion sein. Wenn Deutschland ein Inselnetz wäre, dann müßte, im einfachsten Fall, die vorzuhaltende Regelleistung größer sein als die Blockleistung des größten Kraftwerks. Also größer als 1400 MW.
+MfG Horst Maler
+die im Beitrag verlinkte Studie der Netzbetreiber ist da eindeutig (der korrekte Link ist: https://www.netzentwicklungsplan.de/sites/default/files/paragraphs-files/Minimale%20Schwungmasse_1.pdf)
+Die rotierenden Massen bilden die Momentanreserve und unterstützen die PRL in den ersten Sekunden.
+Bild 2-1 zeigt das doch sehr deutlich, wo nach ca. 10s die PRL wirksam wird, bis dahin stützt die Momentanreserve die Netzfrequenz, erkennbar als Tangente im Graphen.
+in dem von Ihnen genannten Dokument sind mit rotierenden Massen alle im Netz befindlichen motorischen Antriebe gemeint, die über die elektrische Welle mit den Kraftwerken verbunden sind und den Selbstheilungseffekt des Netzes darstellen. Nun schauen sie mal auf Bild 2-1.
+Es soll der Ausfall von 3GW Erzeugung in einem Netz mit einer Last von 300GW dargestellt sein. Die Blaue Linie stellt die Differenz von 3GW zwischen Erzeugung dar. Wenn alles richtig läuft muss nach Ablauf der Regelvorgänge diese Differenz wieder bei null sein. Ist sie aber nicht ! Die Darstellung ist nicht in Ordnung. Es ist auch festzustellen das bei 49,8 Hz die Drehzahlregelung der Turbinen mit einer Statik von 5% eingreift. Auch das ist im Diagramm nicht zu sehen.In den Diagrammen 2-2 und 2-3 ist der selbe Fehler
+zu sehen.
+Dieses Dokument kann man nicht ernst nehmen.
+MfG. Horst Maler
+50Hertz Transmission GmbH
+Amprion GmbH
+TenneT TSO GmbH
+TransnetBW GmbH
+Dieses Dokument kann man nicht ernst nehmen? Wie kommen Sie zu dieser Aussage?
+Was Ihre Kritik angeht, bitte das Dokument lesen und verstehen!
+….
+…..
+Aufgrund der reinen Proportionalregelung bleibt stationär eine Frequenzabweichung bestehen.
+Die Bedeutung der Schwungmassen für die Netzfrequenzstabilisierung wird natürlich auch korrekt dargelegt (das Ein-oder Ausspeichern kinetischer Energie in die Schwungmassen). Es ist schon vermessen den Netzbetreibern zu unterstellen diese Sachverhalte falsch darzustellen nur weil diese Darstellung nicht in das Weltbild von „100% EE sind möglich“ passt.
+Nach Abwägung Ihrer Argumente kann man nur festhalten: Horst Maler kann man nicht ernst nehmen.
+wenn Sie nicht erkennen können was in Bild 2-1 falsch ist, dann sage ich Ihnen nochmals : Die eintretende Störung von -3 GW Leistungsgleichgewicht muss am Ende des Regelvorgangs wieder null sein.
+Das ist in Bild 2-1 nicht der Fall ist.
+Ich bin auch nicht aus ideologischen Gründen für 100% EE. Ganz im Gegenteil. Sie selbst liegen aber vor diesem Dokument der Netzbetreiber
+auf dem Boden als wäre es ein heiliges Buch.
+Nach Abwägung Ihrer Argumente kann man nur festhalten: Gerald Pesch kann man nicht ernst nehmen.
+MfG. Horst Maler
+„…Die aktivierte Primärregelleistung wird durch die Sekundärregelleistung (SRL) abgelöst, die als proportional-integral wirkende Regelung ausgeführt ist und die Frequenz auf den Soll-wert von 50 Hz zurückführt…“
+Alles klar? Oder noch Fragen?
+Wie gesagt, Horst Maler kann man nicht ernst nehmen, nur ein weiterer MINT Versager der die „Energiewende“ voran bringen will. Wir schaffen das….
+auf Seite 7 steht :
+Die aktivierte Primärregelleistung wird durch die Sekundärregelleistung (SRL) abgelöst,die als proportional
+-integral wirkende Regelung ausgeführt ist und die
+Frequenz auf den Sollwert von 50 Hz zurück führt.
+„Aufgabe der deutlich langsamer wirkenden Sekundärregelung
+ist es das Leistungsungleichgewicht in der Regelzone
+auszugleichen, in welcher die Störung aufgetreten ist.“
+Bei der schnellen Stabilisierung der Netzfrequenz spielt die Sekundärregelung hingegen eine untergeordnete Rolle und wird in den Untersuchungen daher vernachlässigt.
+Ich habe den wichtigen Teil in Anführungszeichen gestellt. Was da steht ist die Aufgabe der Primäregelung. Die Aufgabe gilt für das gesammte Netz und nicht nur für den lokalen Breich in dem die Störung auftrat. Wenn man von Sekundärregelung spricht, meint man die Rückführung auf 50 Hz. Das erfordert einen PI-Regler, der aber nicht Teil des Kraftwerkes sein kann. Das ist die Aufgabe der Netzleitwarte. Sie wissen sicherlich das die Frequenzregelung eine integrale Regelstrecke ist, also eine Regelstrecke ohne Ausgleich, die nicht mit PI-Charakteristik geregelt werden kann.
+Schon garnicht ist es möglich mit mehreren PI-Reglern die gleiche integrale Strecke regeln zu wollen. Integrale Strecken regelt man mit P-Reglern. Deshalb hat jeder Kraftwerksblock einen P-Regler.
+Alles klar? Oder noch Fragen?
+MfG Horst Maler
+möchte diese Diskussion jetzt nicht unendlich fortsetzen; aber der Hinweis darauf, dass die Primärregelung eine Proportionalregelung mit bleibender Frequenzabweichung ( bis zu +/- 200mHz) ist, erscheint mir doch noch notwendig.
+Die Rechnung ist auch korrekt. Herr Maler vergisst aber vermutlich, dass die 0,8% so nichts aussagen. Die Gleichung für die Leistung lautet: rotierende Masse x Umlaufgeschwindigkeit^2 / ZEIT. Da kommt für einen kurzen Zeitraum < 1s richtig Leistung bei raus, aber natürlich nicht über 5 min.
+im europäischen Verbundnetz beträgt der Selbstregelungeffekt des Netzes
+ca 1% der Netzlast pro Hertz. Das ist, wie wir Kraftwerker sagen, ein Mikrofurz. Die Hauptarbeit leistet die Drehzahlregelung. Ein Beispiel wie in Bild 2-1:
+Netzlast 300 GW
+Kraftwerksnennleistung in Betrieb 400 GW (Annahme)
+Größte laufende Kraftwerkseinheit 1,4 GW (Annahme)
+Erzeugungsausfall -3 GW MW
+Bei einer Kraftwerksnennleistung von 400 GW hat man bei 5% Statik einen
+Einfluß der Drehzahlregelung von 400 GW / 2,5 Hz = 160 GW / Hz. Allerdings nur wenn alle Maschinen den Frequenzeinfluß des Turbinenreglers eingeschaltet haben. Das ist nicht gesagt, denn Regelleistung wird höher bezahlt als Grundleistung. Es wird wohl ein Teil der Maschinen im Leistungsregelbetrieb sein und sich um die Frequenz nicht kümmern. Das ist ja das Geschäftsmodell. Man wird nur einen Bruchteil der Maschinen als Regellast laufen lassen und im Versorgungsgebiet gut
+verteilt halten, vielleicht 5 %. Man hat dann einen Frequnzeinflus von 8 GW/Hz.
+Bild 2-1 soll also den Ausfall von 1% der Erzeugerleistung zeigen. Das ist
+die Größe, die der Selbstregeleffekt des Netzes selbst ausgleichen kann ohne die Drehzahlregelung der Maschinen in Anspruch zu nehmen.Trotzdem muss nach
+Ende des Regelvorgangs das Leistungsgleichgewicht wieder hergestellt sein.
+Das ist im Bild 2-1 nicht der Fall. Ebenso in Bild 2-2 und Bild 2-3. In diesen Bildern wird der Erzeuger- und Lastausfall von 9 GW gezeigt.Das wird wohl kaum eintreten ! Das Beispiel zeigt also einen Fehler.
+Jetzt ist zu berücksichtigen das bei Unterschreitung von 49 Hz der Lastabwurf
+beginnt. Der ist unbedingt zu vermeiden. Bei einem Frequenzeinfluß von 8 GW/Hz können dann 8 GW Erzeugerleistung ausfallen. Man hat dann noch 392 GW am Netz. Die Leistung beträgt 300 GW bei einer Frequenz von 49 Hz nach Ausregelung der Störung.Das ist die absolute Grenze vor dem Lastabwurf.Aber wie sollen 8 GW ausfallen. Es ist doch anzunehmen das die größte Erzeugereinheit ausfällt und das könnte ein KKW mit 1,4 GW sein. Dieser Ausfall wird von den Selbstregelkräften des Netzes, die ja 1 % der Netzleistung / Hz betragen ausgeglichen.
+Man kann es jetzt erkennen. Die im genannten Dokument genannten Beispiele sind sehr schlecht ausgewählt. Die Probleme treten in abgetrennten kleinen Inselnetzen mit vielleicht 50 MW Last auf, in dem 50 % der Erzeugerleistung oder 50% der Netzlast ausfallen.
+Dann spielen die Schwungmassen so gut wie keine Rolle. Schwungmassen sind aber ebenso wie E=m*c2 nicht aus den Köpfen der Leute zu bringen.
+Mfg. Horst Maler
+es würde mir helfen, wenn sie sich etwas kürzer ausdrücken und bei Verweisen auf Abbildungen auch das Dokument benennen.
+Woher kommt die Aussage, dass die Schwungmasse ca 1% der Netzlast pro Hertz ausmacht?
+Ich stimme Ihnen ja voll zu, dass die meiste Arbeit die aktive Regelung macht. In den ersten Millisekunden nach einer Störung greift diese aber noch nicht. Genau da hilft die Rotationsenergie für einen kurzen Augenblick mit sehr hoher Leistung bis die Regelstrecke langsam eingreift. Rechnen sie mal das Beispiel von Herrn Heinzow mit den 1.000 to durch und reduzieren Sie den Zeitraum der Arbeit auf unter 1s. Sie werden staunen, welche Leistung da zusammen kommt bei einer Änderung von 0,2 Hz.
+mit ihrem Hinweis auf die Webseite des von mir geschätzten Herrn Jaschinski zeigt mir, dass Sie sich für diese Problematik ernsthaft interessieren.
+Die Diskussion begann mit der Wirkung der aktuellen „Rotierenden Massen“ im Europäischen Stromnetz.Und da sollten wir auch bleiben.
+Mittler Weile ist klar, das die Wirkung diese Schwungmassen einen kleinen Effekt haben, in Bezug auf die eingespeiste Energie durch die Primärregelung.
+In den ersten 10 Sekunden erfüllt sie jedoch ihren Zweck.
+Und nur aus diesem Grund legen die Europäischen Netzbetreiber grossen Wert, dass im Störfall diese Schwungmassen am Netz sind.
+Auf der Seite 23 des Manuskripts von Herrn Weissbach ist diese Situation graphisch dargestellt.
+Die dunkelgrüne Fläche stellt die Wirkung dieser Schwungmassen dar.
+Wenn dieser „kleine Furz“ wie Sie es nannten nicht wäre, würden alle Sicherungen in der Stufe1 rausfliegen.
+Aus Ihren Kommentaren ist ersichtlich, dass Sie ein Frühaufsteher sind.
+Ich lade Sie ein zu einer Veranstaltung am nächsten Montagmorgen um 5:45 Uhr im Internet.
+Herr Jaschinsky zeichnet die Netzfrequenz im Sekundentakt auf.
+Auf seiner Webseite werden diese Daten im zeitlichen Verlauf übersichtlich dargestellt.
+Am geeignetsten ist die Einstellung -Zeitintervall 1 Stunde.
+In einem zweiten Fenster öffnen Sie bitte folgende Webseite:
+http://tinyurl.com/c47o6mm
+Um 6:00 Uhr erfolgt ein Störimpuls von ca. 1200 MW.
+Dann sehen Sie wie die diskutierten Sicherheitseinrichtungen wirken.
+Um 6:15 Uhr machen Sie dann noch ein Bildschirmfoto von der Aufzeichnung des Herrn Jaschinsky.
+Diese Fingerübung wird in der Regel jeden Morgen veranstaltet.Zur Vertrauensbildung !!!
+Mit herzlichem Glückauf
+Ein Turbosatz rotiert mit 3000 U/min. Wieviel kinetische Energie sind bei 1000 Tonnen Masse und 1 Meter Durchmesser gespeichert? Wie ist die elation zur Nachfrage und eren Schwankungen um einen Mittelwert?
+Die Frage, die zu beantworten ist lautet: Wie stark schwankt schwankt die Leistungsnachfrage Subsekundenbereich?
+sie sollten die Formel schon richtig abschreiben !
+MfG Horst Maler
+Lieber Hr. Dr. Hader,
+na ja, Sie bleiben sich treu als Troll, war nicht anders zu erwarten. Aber dass jemand mit Ihrer Intelligenz sich beim Dummstellen so dumm anstellt, enttäuscht mich doch ein wenig.
+Es gab und gibt fossile Kraftwerke für verschiedene Lastzustände mit unterschiedlicher Flexibilität, für Grund-, Mittel- und Spitzenlast. Wenn man den Mix richtig anwandte, gab es früher keine Probleme, weil die Störgrössen durch „EE“ fehlten. Und nachts pumpte man halt die Pumpspeicher voll und hatte dann in den Spitzenlastzeiten zusätzliche Reserven. Das funktionierte ganz gut, weil kein vernünftiger Mensch auf die Idee kam, Grundlastkraftwerke als kurzfristige Lückenbüsser für die Launen des Windes und der Sonne einzusetzen, weil die flexibleren, aber teureren Einheiten bereits aus dem Markt gedrängt wurden. Diese Errungenschaft verdanken wir der Neuzeit. Und dann kommen zusätzlich noch grüne Klugschwätzer daher und machen für die Probleme auch noch den konventionellen Kraftwerkspark verantwortlich. Naja, denk ich an Einstein in der Nacht…wir hätten vielleicht doch ein wenig Rest-DDR für bestimmte Nostalgiker behalten sollen, genug Mauer und Stacheldraht war ja damals billig zu haben. Und wir würden niemandem in den Rücken schiessen, wenn der unbedingt dahin wollte.
+Was Sie mit „Kongruenz“ meinen, erschliesst sich mir nicht so richtig. Vielleicht meinen Sie „Konkurrenz“? Früher konnten Sie besser deutsch, Sie lassen nach.
+Was die CO2-Produktion angeht, so hätte ich nicht gedacht, dass Sie so ein Diagramm bringen, das Sie selbst konterkariert. Wenn Sie genau hingeschaut hätten, wäre Ihnen aufgefallen, dass nach dem Abschalten vieler ineffizienter DDR-Kohlekraftwerke der CO2-Ausstoss zwar bis etwa 1993 zurückging, dann aber eigentlich mit Schwankungen auf mehr oder weniger vergleichbarem Niveau verharrte, ausser bei Wirtschaftskrisen wie 2007-2009. Bedenkt man die Jubelmeldungen über den rasanten Anstieg der „EE“-Anteile an der deutschen Stromproduktion, so findet man davon so gut wie nichts (!) in den CO2-Zahlen wieder. Ist doch irgendwie seltsam, dass Ihnen als Informatiker und somit Analytiker das nicht aufgefallen sein soll, ts ts.
+Aber ich kann Sie beruhigen. Zurzeit laufen unsere restlichen Kernkraftwerke nahezu ununterbrochen (man hört unter der Hand sogar, dass man die Wartungsintervalle „streckt“) und stützen unsere Stromproduktion mit aktuell noch 14 % CO2-freiem Strom. Sobald sie abgeschaltet werden, muss dieser Strom woanders herkommen, auch dann, wenn die Sonne streikt und der Wind ein längeres Päuschen einlegt. Sie wissen schon, ich meine die Dunkelflaute. Dann gibt es nur zwei Optionen: Wieder mehr konventioneller Kraftwerke anschmeissen, oder Sie und Konsorten melden sich freiwillig für’s Hamsterrad. Oder wort case, d.h. Blackout, dann schmelzen aber dem Herrn Trittin seine billigen Eiskugeln in den Kühlhäusern, was schade wäre.
+Was mich auch etwas wundert ist Ihre Aussage, dass die Stromproduktion seit 2000 gesunken sein soll. Es gibt da eine Quelle namens AGEB, Arbeitsgemeinschaft Energiebilanzen, die ist ziemlich zuverlässig, weil eine Forschungsstelle, und selbst Sie sollten imstande sein, diese per Suchmaschine zu finden. Da können Sie dann nachlesen, dass die deutsche Bruttostromerzeugung 2000 bei 576,6 Terawattstunden lag und 2015 bei 647,1.
+Wissen Sie, was mir bei Ihnen ganz besonders imponiert? Die Chuzpe, mit der Sie als mathematisch geschulter Akademiker hier demonstrieren, wie wenig Sie von dem verstehen, über das Sie hier ihre klugen Sprüche loslassen.
+Mfg
+Eins der Ergebnisse: Plan eines Geothermie-Werks in Hessen scheitert
+In Hochheim wiederum könnte es scheitern, weil die Probebohrungen vermutlich zu dicht an Wohnhäusern ( ca 300m ) stattfinden sollen und Bürgerproteste laut werden.
+vielleicht sind über 50% von der Stromerzeugung mit Erneuerbaren machbar, aber nicht vom Primarenergiebedarf (das sechsfache der Stromerzeugung), der ja auch weitgehendst auch auf Strom umgestellt werden soll.
+Wasserkraft und Biomasse (einnschließlich Brennholz) lassen sich nicht mehr steigern, also bleiben nur PV ( 1%) und Windstrom (2,5% des Primärenergiebedarfs. Um 70% der Primarenergie mit diesen beiden zu erzeugen, müsste man deren Leistung verzwanzigfachen.
+Und immer noch den ganzen konventionellen Kraftwerksstrom vorhalten. Und abregeln abregeln abregeln, weil keiner mehr den Überschuß haben will oder verwenden kann. Und sämtliche Mittelgebirge in ein riesiges Pumpspeicherwerk verwandeln… Mir riesigen Kosten und zweifelhafter CO2-Einsparung. Wozu das denn?
+Wo ich die Daten herhabe? Aus den allseits bekannten Schaubildern des Bundeswirtschaftsministeriums.
+Ich war früher mal kein Fan der Atomenergie, aber für eine vernüftige, umweltschonende Energieerzeugung in der bekannten Größenordnung gibt es keine Alternative. Und dann bitte die neueste, eigensichere Version mit Plutonium als Spaltmaterial.
+Ihren Ausführungen stimme ich zu; wollte aber nur darauf hinweisen, dass eine rotierende Masse nicht so gut ist wie ein „richtiges“ KW aber immerhin etwas zur Systemstabilität beiträgt weil sie Teil der Momentanreserve (als Teil der PRL) ist.
+Statische Kompensationen können da gar nichts leisten, weil sie ja nur Blindwiderstände (L, C) darstellen und damit keine Speicherfunktion für Wechselstrom bieten.
+Mich wundert nur eine aussage:
+In der Tat haben sich die Exportmengen seit 2010 nahezu verdoppelt. Bevorzugte Exportländer sind Österreich, Niederlande und Belgien.
+Wenn man dazu das bild 1 betrachtet, kann diesen satz darin nicht erkennen.
+2010 knapp 60 tWh und 2015 knapp 80 TWh.
+Kann ich das schaubild nicht lesen oder nimmt der autor (in zitiertem satz) bezug auf andere quellen ??
+Wenn ja…. welches schaubild/welche quelle ist dann richtig ?!?!
+Gruß A. Franke
+ich entnehme der Abbildung 1, wie Sie, dass sich die Summe Wind/Sonne, in TWh, verdoppelt hat, während der Stromexport um ca. 1/3 gestiegen ist. An der Stelle hätte man erwähnen können, dass zur Minderung der Überproduktion (Netzstabilität) und zur Sicherheit auch Anlagen abgeschaltet werden. Vielleicht hat einer eine Erklärung dazu.
+Zum Thema Stromexporte könnte man einen eigenen Beitrag machen.Das ist aber hier bei EIKE
+augenscheinlich nicht von großem Interesse.
+1.Elektrische Energie ist und bleibt kein Handelsgut, wie man der Öffentlichkeit eintrichtern will.
+2. Im Europäischen Stromnetz sind täglich zwischen 250 bis 420 GW synchron vorhanden.An einem einzigen Tag sprechen wir dann über mehr als 8 Terrawattstunden.
+3.Es besteht kein direkt proportionales Verhältnis zu den zeitgleichen Einspeisungen von EE-Wandlern.
+Die Aufzählung ist bei weitem nicht vollständig.
+In den Wintermonaten werde ich mal eine handwerkliche Auswertung machen.
+Mit herzlichem Glückauf
+http://bit.ly/2hj4j7g
+Aber auch hier wieder der Ruf nach „Klimaschutz“, na ja, immerhin ein Anfang die Dinge kritischer zu sehen….
+POL-NB: Windrad fällt auf Ackerfläche- keine Personen verletzt (18516 Grischow/ Süderholz Windpark)
+11.12.2016 – 17:06
+PR Grimmen (ots) – Am 11.12.2016 gegen 15:00 Uhr wurde der Einsatzleitstelle der Polizei des Polizeipräsidiums Neubrandenburg gemeldet, dass in 18516 Grischow, Am Wiesenweg ein Windrad auf dem Acker liegt. Die eingesetzten Rettungskräfte der Polizei stellten dann vor Ort fest, dass ein Windrad komplett in der Mitte des Turms durchgebrochen war und die Rotorblätter mit Rotor auf dem Acker lagen. Ein Turmstumpf von etwa 25 Metern blieb stehen. Der Betreiber wurde informiert. Die Ereignisstelle gesichert. Bisher ist ungeklärt, warum es zu diesem Schadensereignis kam.
+ich habe mich nur auf die PRL bezogen. In dem obigen Text wird auch aus der PRL die notwendige Kraftwerkskapazität von 20 bis 27 GW abgeleitet.
+Es ist Fakt, dass „nur“ ca. 800 MW PRL benötigt werden. Dies können Sie unter http://www.regelleistung.net/ext/tender/ für jede Woche des Jahres eingesehen werden.
+Diese Seite hilft auch ein besseres Verständnis von Regelleistung zu bekommen. Für die 3.000 MW stehen ja noch die Sekundär-(ca. 2.000 MW?) und die Minutenreserve (ca. 4.000 MW) zu Verfügung.
+Schwungmassen sind Teil der PRL und (noch) vorhanden; deshalb müssen die hier geschätzt benötigten 20GW Schwungmassen (=PRL)auch nicht ausgeschrieben werden.
+Ihr Glaube an die Wunderwaffe „Batterien“ scheint ja unbegrenzt zu sein.
+Die Batterien sind nicht meine Wunderwaffe. Dafür habe ich sowieso zu wenig Ahnung von der Zellchemie.
+Hier wird nur immer wieder in EE-Artikeln mit voller Überzeugung Sachen aus der Vergangenheit als Fakt dargestellt obwohl diese Fakten durch die Realität bereits eingeholt wurden. Es würd ja reichen, wenn in den Artikeln steht: Lösungen gibt es erst in kleinem Umfang wie z.B. ….
+Aber den Autoren scheint oft die aktuelle Sachlage nicht bekannt zusein oder Sie lassen bewusst die Info raus.
+1) Haushaltsspeicher bringen gar nicht, ausser Geld in den Kassen derjenigen, die sie verkaufen. Siehe das Buch „Strom ist nicht gleich Strom“ von M.Limburg und Fred F. Mueller.
+2) Geothermie ist tot. Deutschland hat diesbezüglich kaum sinnvoll (d.h. auch wirtschaftlich) nutzbares Potenzial. Geothermie lässt sich nur in Bereichen mit aktivem Vulkanismus erfolgreich betreiben.
+3) Industrielle Abwärme lässt sich thermisch z.T. nutzen, eine Elektrizitätserzeugung ist damit im genannten Umfang jedoch wohl kaum darstellbar. An der Wirtschaftlichkeit ist sowieso stark zu zweifeln. Ausserdem wird es laut Klimaschutzplan 2050 sowieso keine Möglichkeit der Erzeugung mehr geben, da die zugrundeliegenden industriellen Prozesse wegen ihrer CO2-Abgabe verboten werden dürften.
+Mfg
+Es müssen endlich technisch realisierbare Lösungen gefordert und gefördert werden: Haushaltspeicher für Sonnenstrom. Sie sind verfügbar, Stand der Technik und geeignet, die Spitzen der Sonnenstrom Erzeugung abzuschneiden und in den Abend und in die Nacht zu verlagern.
+Geothermie-Kraftwerke sind Stand der Technik. Das Potenzial in Deutschland ist hoch, sie sind grundlastfähig und arbeiten 8760 Stunden im Jahr ohne Emissionen. Die bisher realisierten Projekte in Bayern sind vielversprechend.
+Industrielle Abwärme kann zur Stromerzeugung genutzt werden. Hier vermutet der ORC Fachverband ein Potenzial von 4 bis 8 GW grundlastfähiger Leistung. Bereits jetzt laufen in Deutschland 100 Anlagen mit einer installierten Leistung von 120 MW.“
+Wer hat sich den Schwachsinn ausgedacht?
+Mal ernsthaft gefragt: Hat sich mal jemand die Frage nach der Bezahlbarkeit gestellt?
+Das scheitert an der Ökonomie, wie auch der EEG-Wahn.
+Stimme zu, bis auf diese u.M.n. Gefälligkeitsaussagen, enthält der Beitrag jedoch sehr gute und treffende Bestandteile
+„Mal ernsthaft gefragt: Hat sich mal jemand die Frage nach der Bezahlbarkeit gestellt?“
+Ich habe schon viele Studien über technisch Machbares, oder zumindest in „naher Zunkunft“ Erwartbare gelesen. Die Kostenseite wurde aber nirgens auch nur im Ansatz erwähnt. Vermutlich kann man den Schock dem gemeinen Volk nicht zumuten.
+5. Es müssen endlich technisch realisierbare Lösungen gefordert und gefördert werden: Haushaltspeicher für Sonnenstrom. Sie sind verfügbar, Stand der Technik und geeignet, die Spitzen der Sonnenstrom Erzeugung abzuschneiden und in den Abend und in die Nacht zu verlagern.
+Kommentar:
+„Haushaltsspeicher“ gibt es für Kartoffel, aber nicht für „Strom“. Man kann „Strom“ nicht speichern, da nicht materiell, sondern ein leitungsgeführtes elektromagnetisches Feld zur Energieübertragung. Daher kann man nur wandeln, und das auch nur geringe Energiemengen mit entsprechenden Verlusten. „Sonnenstrom“ speichern zu wollen ist nichts anderes als die Schildbürger die das Licht in Säcken in das Rathaus tragen wollten!!
+6. Geothermie-Kraftwerke sind Stand der Technik. Das Potenzial in Deutschland ist hoch, sie sind grundlastfähig und arbeiten 8760 Stunden im Jahr ohne Emissionen. Die bisher realisierten Projekte in Bayern sind vielversprechend.
+Kommentar:
+Wohl beim Carnot-Wirkungsgrad nicht aufgepasst! Das Potential zur Stromerzeugung aus Geothermie ist nur über einem Vulkan (Island) nutzbar, ansonsten (Deutschland) völlig unzureichend! Also keine sinnfreien Energiepotentiale bejubeln die nur geringe Exergiepotentiale darstellen. Das zeugt nicht von Sachverstand.
+7. Industrielle Abwärme kann zur Stromerzeugung genutzt werden. Hier vermutet der ORC Fachverband ein Potenzial von 4 bis 8 GW grundlastfähiger Leistung. Bereits jetzt laufen in Deutschland 100 Anlagen mit einer installierten Leistung von 120 MW.
+Kommentar:
+Wie sollen denn diese Potentiale aussehen? Industrielle Abwärme ist ein Allgemeinbegriff ohne Substanz. Auch hier wieder Carnot nicht vergessen! Zu welchen Kosten aus welchen Prozessen kann wie viel Leistung generiert werden? Was ist wenn aus betriebsgründen industrielle Prozesse herunter gefahren werden (fehlende Auslastung) aber der Strombedarf trotzdem vorliegt? Laufen die Industriemaschinen dann zur Stromerzeugung? Oder doch nur wieder Schattenkraftwerke? Dann kann man es auch gleich lassen!
+Fazit: „Energiewende“ abschalten, alles andere ist nur Selbstbetrug!
+Bitte, wie bisher, hier nur unter vollem Klarnamen posten.
+Der obige Text wurde doch schon längst von Realität eingeholt. Deutschland, Österreich, Schweiz und die Niederlande brauchen zusammen ca. 800 MW PRL. An diesem Markt nehmen nun auch Batterien teil. 30 MW sind bereits präqualifiziert, weitere 100 – 150 MW sollen folgen. Anstatt immer noch über Schwungmasse zu reden, machen sich die Akteure schon Gedanken wie stark die PRL-Preise wohl fallen werden. siehe Enervis http://tinyurl.com/z5od87s
+Die PRL-Preise scheinen etwas stabiler zu sein, werden aber wie bereits bei der Minuten- und Sekundärreserve geschehen, auch in den Keller gehen und es wird nicht mehr nötig sein irrsinnige 25.000 MW Kraftwerksleistung für nur 800 MW Regelleistung bereit zu halen.
+Warum wurde hiervon nicht im obigen Text berichtet?
+„..Diese ist dabei so bemessen, dass der zeitgleiche Ausfall der beiden größten Kraftwerksblöcke im gesamten ENTSO-E- Netz (ca. 3.000 MW) von der im gesamten im ENTSO-Raum vorgehaltenen PRL abgefangen werden kann…
+Deutschland bildet mit Österreich, der Schweiz und den Niederlanden einen Netzregelverbund in dem derzeit in Summe PRL in Höhe von etwa 783 MW ausgeschrieben ist.“
+Die von Ihnen zitierten 800MW beziehen sich also nur auf den unvorhersehbaren Ausfall von KW-Blöcken, nicht aber auf die Schwankungsbreiten der volatilen EE-Erzeuger.
+Der Generator von Biblis wurde zu einem „Phasenschieber“ umgerüstet, das heißt, zu einem Produzenten kapazitiver und induktiver Leistung (Scheinleistung), die für die Spannungshaltung des Netzes erforderlich ist.
+Frequenzhaltung = Wirkleistung (Quelle: Turbine)
+Biblis nimmt nicht an der Primärregelung teil, d. h., an der Frequenzhaltung, da der Biblis-Generator keine Wirkleistung mehr erzeugt. Die rotierende Schwungmasse selbst der 1.600-MVA-Generatoren ist zu klein, um Beiträge zur Frequenzhaltung liefern zu können.
+bei lokalen Spannungseinbrüchen als Folge von Netzfehlern können rotierende Phasenschieber mit ihrer Masse kurzfristige Spannungs- und Frequenzeinbrüche vermindern, weil sie, im Gegensatz zu den statischen Blindleistungsgeneratoren, auch Kurzschlussleistung liefern können. Deshalb setzen Netzbetreiber zunehmend auch rotierende Phasenschieber mit Masse ein.
+bei einem Kurzschluss im Höchstspannungsnetz liefert ein Synchron-Generator aufgrund der elektrischen Eigenschaften des Kurzschlusskreises praktisch keine Wirkleistung mehr, sondern nur noch Blindleistung. Daraus folgt, dass der unter voller Dampfleistung befindlichen Turbine während der (kurzen) Fehlerklärungszeit die Last entzogen wird und der Turbosatz in dieser Zeit auf f>50 Hz beschleunigt. Nach Fehlerklärung kehrt die Netzspannung am Fehlerort schlagartig auf 100% zurück. Der nicht mehr netzsynchrone Generator wird zwangssynchronisiert und auf die Netzfrequenz abgebremst. Dabei entstehen transiente Ausgleichvorgänge von Wirk- und Blindanteilen mit Torsionspendelungen, die besonders die Kupplung Turbine/Generator beanspruchen. Nach Abklingen der Ausgleichsvorgänge ist das System wieder ok. Die hohen subtransiente und transiente Kurzschlussleistungen des Generators sind bestimmend für die Auslegung des Netz- und des Generatorschutzes. Sie haben damit Einfluss auf sicheren Netzbetrieb, da Kurzschlüsse meßtechnisch besser erfasst und sicherer selektiv frei geschaltet werden können. Vgl. auch TransmissionCode 2007 der deutschen Übertragungsnetzbetrieber: http://tinyurl.com/zl8kpvc. Die Eigenschaften statischer Blindleistungsanlagen, die zur Spannungshaltung eingesetzt werden, kann ich nicht beurteilen.
+Eine sehr gute Erläuterung. Das ist auch der Grund warum bei BHKW’s > 100 kW mittlerweile der Generator größer dimensioniert wird.
+Die Primärregelleitung kann aber anscheinend schon jetzt günstiger aus Batterien angeboten werden als es die heutigen Großkraftwerke können.
+5.Es müssen endlich technisch realisierbare Lösungen gefordert und gefördert werden: Haushaltspeicher für Sonnenstrom. Sie sind verfügbar, Stand der Technik und geeignet, die Spitzen der Sonnenstrom Erzeugung abzuschneiden und in den Abend und in die Nacht zu verlagern.
+6.Geothermie-Kraftwerke sind Stand der Technik. Das Potenzial in Deutschland ist hoch, sie sind grundlastfähig und arbeiten 8760 Stunden im Jahr ohne Emissionen. Die bisher realisierten Projekte in Bayern sind vielversprechend.
+7.Industrielle Abwärme kann zur Stromerzeugung genutzt werden. Hier vermutet der ORC Fachverband ein Potenzial von 4 bis 8 GW grundlastfähiger Leistung. Bereits jetzt laufen in Deutschland 100 Anlagen mit einer installierten Leistung von 120 MW.“
+Halbaffen kritisieren Affen.
+Toll!
+Hier auf dieser Seite ist man traditionell gegen die Energiewende gerichtet. Also sind Sonne und Wind ganz klar schuld an der Situation. Man kann es aber auch anders sehen. Die Betreiber konv. Kraftwerke haben keine Lust ganze Anlagen komplett oder teilweise runterzufahren. Schließlich geht denen ein Geschäft verloren, also produzieren sie weiterhin Strom über dem Bedarf und erhoffen sich, diesen durch Export zu veräußern. Es ist nun mal ein harter Kampf auf dem Strommarkt auch gegenüber den europäischen Nachbarn.
+MfG
+S.Hader
+Der Inhalt Ihres Kommentars beweist aber, dass Sie von dem Beitrag NICHTS verstanden haben.
+So ist es.
+Klarnamen bitte
+wenn Sie auf einen Text reflektieren,dem Sie skeptisch gegenüber stehen, gehört es selbstverständlich zu Ihrem Grundrecht auf freie Meinungsäußerung
+Wenn ihre persönliche Meinung Gewicht in einer Öffentlichkeit bekommen soll, müssen leider Fakten interpretiert werden.
+Fakten und keine postfaktischen Bemerkungen!!!
+http://tinyurl.com/zcrhhpj
+Die Netzbetreiber müssen sich immer nach geltendem Recht in den Regelzonen verhalten.
+Das gilt für die Netzstabilität und für die Vorrangeinspeisung von den sogenannten EE-Energiewandlern.
+An diesem 8.Mai 2016 waren die Wetterbedingungen eben so, dass in der Spitze bis zu 42 GW von den EE-Wandlern eingespeist wurden.
+Für die Netzstabilität muss aber mindestens die 23 GW an konventionellen. Kraftwerken mit rotierenden Massen am Netz sein.
+Was im Bericht der beiden Herren nicht deutlich genug erwähnt wurde ist die strategische Aufgabe der „Rotiernden Massen“. Nur soviel: diese konventionellen Kraftwerke sind verteilt im gesamten Gebiet der Bundesrepublik Deutschland vorzuhalten.
+An diesem Sonntag wurden auch alle funktionsfähigen Pumpspeicher aufgefüllt mit 11,4 GWh.
+Mit welchem Energieumwandler steht leider nicht dabei. Und warum es nicht mehr war, liegt wahrscheinlich an „Flasche voll“.
+Und die Exporte in andere europäischen Regelzonen sollten Sie sportlich sehen.
+Wir Europäer sitzen in einem Boot, was die Bereitstellung von Elektrischer Energie betrifft.
+Mit herzlichem Glückauf
+Offensichtlich haben sie keine Ahnung von Kraftwerkstechnik.
+Da kann ich weiterhelfen.
+Also, der Löwenanteil der fossil befeuerten Kraftwerke in Deutschland sind
+Wasserrohrdampferzeuger mit entsprechenden Dampfturbinen.
+Die Mindestlast solcher Anlagen liegt, wie im Artikel erwähnt, bei etwa 40% der Nennleistung. Dies kann bauartbedingt bis 30% runtergehen.
+Das hat folgende Gründe:
+Ein Wasserrohrdampferzeuger braucht einen Mindestdurchfluss damit die Kesselrohre gleichmäßig durchströmt werden, ansonsten besteht die Gefahr dass, die Kesselrohre nicht mehr hinreichend gekühlt, und damit zerstört werden.
+Ferner hat das mit der Heizflächencharakteristik zu tun.
+Außerdem bekommen sie bei zu geringer Feuerraumbelastung (Brennstoffmenge) Probleme mit Kohlenmonoxid > unvollständige Verbrennung.
+Ganz davon abgesehen dass, der Wirkungsgrad bei niedrigen Teillasten in die Binsen geht.
+Außerdem gibt es auch noch Regelungstechnische Schwierigkeiten.
+Extrem geringe Last > geringe Strömungsgeschwindigkeiten > lange Totzeiten > Regelungstechnisch schwer- oder gar nicht mehr beherrschbar.
+Das heißt: Egal wie viel Vorlaufzeit sie haben, wenn sie die Anlage nicht abstellen wollen müssen sie eine gewisse Mindestlast haben Punkt.
+Und Abstellen will man möglichst vermeiden denn:
+Sie haben zum Beispiel beim Anfahren, immer Brennstoffeinsatz ohne nur ein kW zu liefern. Das hat mit der thermischen Elastizität der dickwandigen Bauteile wie Turbinengehäuse Sammler etc. zu tun.
+Zu dem Brennstoffeinsatz kommt dann auch noch der nötige Eigenbedarf für Pumpen, Gebläse und andere Aggregate (etwa 7-10% der Nennleistung) und Nebenprodukte wie zB. Ammoniak für die Rauchgasentstickung und Kalk für die Entschwefelung usw.
+Ferner gehen häufige An-und Abfahrvorgänge massiv auf die Lebensdauer der hoch belasteten Bauteile.
+Das verursacht die so genannten An-und Abfahrkosten die man natürlich vermeiden will.
+Das die Versorger nicht wollen ist auch Unsinn.
+Bei uns hat man Maßnahmen unternommen um diese Mindestlast weiter zu drücken(knapp unter 20% der Nennleistung)das heißt, bis an die absolute Stabilitätsgrenze, was das Risiko von kapitalen Anlagenschäden massiv erhöht.
+Die Netzagentur will uns auf jeden Fall am Netz(schnell verfügbar) behalten.
+Um unsere Anlage ans Netz zu bekommen brauchen wir, im günstigsten Fall ca. 2 Std.
+Also der volatile EEG Strom zwingt die Betreiber. die Anlagen mit schlechtem Wirkungsgrad (Teillast)und an den Grenzen der Anlagenstabilität zu fahren.
+Das ist auch mit ein Grund warum der CO2 Ausstoß, seit der EEG-Einführung, gestiegen und nicht gesunken ist. Wobei mir das Egal ist.
+Also, frei nach Dieter Nuhr: Wenn man nicht die Klappe halten kann, einfach mal Ahnung haben:)
+MFG
+Leif Drieling
+Kraftwerksmeister
+Konv. Kraftwerke könnten nur eine Mindestlast von 40% ihrer maximalen Nennleistung fahren. D.h. nicht in allen Bereichen sind diese Kraftwerke flexibel einsetzbar, wie hier immer so gerne behauptet wird. Zudem drohen sogar technische Schäden, wenn die Nennleistung weiter fällt. Wenn der Bedarf stark sinkt (was zwischen Spitzenlast und Nachtstunden vorkommt), dann kommt man nicht umhin, einzelne Kraftwerke abzuschalten. Der Einsatz von EE-Kraftwerken verstärkt diesen Effekt, aber es gab ihn schon vorher. Der Wirkungsgrad ist zudem stark von der Last des Kraftwerkes abhängig. Auch kein wirklicher Vorteil dieser Anlagen, die darauf angewiesen sind, möglichst immer unter Volllast zu fahren.
+Es ist schon logisch, dass die konv. Kraftwerke unter den EE-Kraftwerken im Netz „leiden“. Nur was würde denn passieren, wenn PV- und WKA-Anlagen irgendwann ganz ohne feste Einspeisevergütung auskommen, weil sie mit ihren gesunkenen Kosten konkruenzfähig sind? Spätestens dann müssten sie sich diesen Kongruenten auf dem Markt stellen.
+„Und Abstellen will man möglichst vermeiden“
+Gut, dann können Sie mir vielleicht folgende Frage beantworten. Angenommen es gebe keine PV- und WKA-Anlagen im Netz. Sprich, so wie es vor gut 20-30 Jahren war. Was machten die Kraftwerke in der Nacht, wo ca. 50% der Spitzenlast als Bedarf anstand?
+„Das ist auch mit ein Grund warum der CO2 Ausstoß, seit der EEG-Einführung, gestiegen und nicht gesunken ist. Wobei mir das Egal ist.“
+Da muss ich Ihnen widersprechen. Sowohl der gesamte CO2-Ausstoß als auch der gesamten Stromproduktion ist seit 2000 gesunken (siehe u.a. http://tinyurl.com/zaj2vl2).
+Ich bin nun seit über 25 Jahren im Kraftwerk tätig, daher weiß ich wie es früher lief.
+„Gut, dann können Sie mir vielleicht folgende Frage beantworten. Angenommen es gebe keine PV- und WKA-Anlagen im Netz. Sprich, so wie es vor gut 20-30 Jahren war. Was machten die Kraftwerke in der Nacht, wo ca. 50% der Spitzenlast als Bedarf anstand?“
+Na ganz einfach: auf 50% Last runterfahren kein Problem.
+Und teilweise, ja sogar Anlagen abstellen, das war kostentechnisch nicht so dramatisch, da gab es ja noch keine negativen Strompreise.
+Schließlich bliesen ja noch keine WKA`s nicht benötigten Strom in die Netze.
+Und scheinbar haben sie es immer noch nicht begriffen, die Anlagenbetreiber würden lieber eine Anlage abstellen als sie an der Stabilitätsgrenze am Netz zu halten.
+Die Netzagenturen wollen das nicht, da sie die schnell verfügbare Reserve brauchen um den stark schwankenden Windstrom abfangen zu können.
+Schauen sie sich mal die Lastganglinien der Netzbetreiber an, da haben sie massive Lastsprünge der WKA´s teilweise innerhalb einer halben Stunde. Es kommt auch nicht selten vor dass, wir mitten in der Nacht oder am WE ganz unvermittelt unsere Anlage auf nahezu Volllast hochfahren müssen, woran das bloß liegt??
+Das ist so, das ist mein täglicher Job
+Und die CO2 Kurve…. vom Umweltbundesamt…..hahaha.
+Aber ich merke schon, selbst einem Mann der Praxis, der sich täglich mit diesem Schwachsinn rumärgern muss, damit nicht die Lichter ausgehen, dem glauben sie nicht.
+Wind-und Sonnenenergie ist prinzipiell nicht grundlastfähig und das wird sich auch nicht ändern!!!
+Jaja grüne Ideologie…. Was sagte doch ein schlauer Mann: Ideologie ist eine Form der Dummheit!
+Wir sind die ganze Nacht Volllast durchgefahren weil 80000 MW installierte Windleistung so wunderbar zuverlässig Strom liefern, nämlich so gut wie nichts…..
+Habe in einer knappen Stunde Feierabend und bin gut gelaunt:)
+Müssen tut man bekanntlich „goa nix“ außer sterben. Welche Argumente sprechen eigentlich für und wider diese Akkus, die gerne „Solarspeicher“/“Solarbatterie“ genannt“ werden und für die offenbar massiv die Werbetrommel gerührt wird, weil einige schon wieder das große Geld wittern.
+Ich habe mir noch keine Gedanken gemacht. Spontan fallen mir ein:
+PRO
++ GGf. fallen die Kosten für die Entsorgung/Export überschüssigen Stroms
++ ein paar wenige profitieren
+CONTRA
++ alle anderen müssen mehr bezahlen
++ zusätzlich zu Stromkosten (eh schon gestiegen), fallen jetzt auch noch Speicherkosten an, kurz wieder mal zusätzlich Kosten
+Ganz spontan, wie geschrieben

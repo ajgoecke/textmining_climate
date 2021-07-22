@@ -1,0 +1,73 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="EIKE hat ein neues Gesicht !" author="Webadmin" date="2021-06-16" source="https://eike-klima-energie.eu/2021/06/16/eike-hat-ein-neues-gesicht/" hostname="eike-klima-energie.eu" excerpt="Liebe Leser, Abonnenten und Autoren Endlich ist es geschafft, die neue EIKE Webseite ist online! Es war eine große Herausforderung für mich, selbst mit" categories="Uncategorized" tags="" fingerprint="otob9AuVJo1k5rSVZytfCE+A+xo=">
+  <main>
+    <p>Liebe Leser, Abonnenten und Autoren</p>
+    <p>Endlich ist es geschafft, die neue EIKE Webseite ist online!</p>
+    <p>Es war eine große Herausforderung für mich, selbst mit 25 Berufsjahren als Admin, da die alte Webseite ursprünglich mit einem anderen CMS erstellt und später mehr schlecht als recht mittels einem unausgereiften Konvertierungstools in WordPress konvertiert wurde.<lb/>Dies hatte extrem viele Fehler im Quellcode verursacht, was wiederum zur Folge hatte, dass ich die Seite nicht einfach modernisieren, sondern komplett neu erstellen und den kompletten Kontent, sowie alle Autoren, Abonennten etc. dann korrekt exportieren/importieren musste.<lb/>Selbst kleine Änderungen und/oder Fehlerbereinigungen wurden so tw. zur kleinen „Odyssee“…</p>
+    <p>Der Vorgang des Imports ist aufgrund der fragilen Konsistenz der alten Webseite so zeitintensiv, dass er bis heute nicht abgeschlossen ist und zunächst erst alle Beiträge seit 2016 verfügbar sind. Ich werde das innerhalb der nächsten 1-2 Wochen aber komplettieren.<lb/>Da ich hauptberuflich auch als Systemadmin für einen großen Konzern arbeite und meine Arbeit für EIKE „nebenberuflich“ ist, bleibt mir hier aber nur meine Freizeit, von der ich aber gerne einen guten Teil dafür opfere, das EIKE seine großartige Arbeit fortsetzen kann.</p>
+    <p>Geschafft ist aber noch nicht alles. Ich werde noch einige Anpassungsarbeit leisten müssen, bis alles wie gewünscht funktioniert oder aussieht.</p>
+    <p>Die meisten „Baustellen“ sind bekannt, also bitte ich Sie um etwas Geduld und wenigstens für eine Woche davon abzusehen, den Admins Emails mit „Problemmeldungen“ zu senden.<lb/>Sie können mir aber auch direkt mitteilen, wenn etwas fehlerhaft ist oder (noch) nicht geht: webmaster(at)eike-klima-energie.eu</p>
+    <p>Der Newsletter wird im Laufe der nächsten Tage wieder regelmässig, 2 x am Tag mit den neuesten Beiträgen kommen.</p>
+    <p>Ich werde auch eine Möglichkeit schaffen, wo Sie alle zentral Probleme mit der Webseite melden, oder Verbesserungsvorschläge einbringen können. Aber auch das braucht noch etwas Zeit.</p>
+    <p>Vorerst wünsche ich allen viel Freude am neuen Design, den neuen Funktionalitäten und möchte mich auch ganz herzlich für Ihre Geduld bedanken !</p>
+    <p>Über ein paar Kommentare unter diesen Beitrag freue ich mich jetzt schon !</p>
+    <p>Mit sommerlichen Grüßen<lb/>Webadmin EIKE</p>
+    <p>Bild von Gerd Altmann auf Pixabay</p>
+  </main>
+  <comments>
+    <p>Die Abstände zwischen den Blöcken und auch zum Rand sind zu groß und verschenken unnötig viel Platz,</p>
+    <p>Die Einzüge von Antwortkommentaren sind viel zu stark. 2-3 Buchstaben würden genügen,</p>
+    <p>Die fast nicht genutzen „Avatargrafiken“ sind unnötig groß,</p>
+    <p>Insgesamt bitte auf bessere Ausnutzung der Fläche achten!</p>
+    <p>Soweit erste Eindrücke</p>
+    <p>Da scheint es eine Abhängigkeit vom Browser und Platform zu geben. Auf dem Telefon mit Chrome funktioniert es, auf dem Desktop mit Firefox (78.9) wird bei mir auch der Seitenanfang angezeigt. Ersetze ich #comment-nummer durch #li-comment-nummer, springt er an die richtige Stelle. Beide IDs gibt es im text der Seite.</p>
+    <p>Bitte um Suchfeld die Titel eingeben, dann die neuen links kopieren. https://eike-klima-energie.eu/?s=„Energiewende+zerstört+die+Umwelt%22</p>
+    <p>Vielen Dank für die geleistete Arbeit, die Kinderkrankheiten werden sicherlich auch noch geheilt.</p>
+    <p>Also keine Panik und Geduld</p>
+    <p>Die Einrückung von Antworten bewirkt, dass spätestens ab der 4. Einrückung der Kommentar zu schmal wird.</p>
+    <p>Die Links im Strom-Artikel von Herrn Stobbe scheinen nicht vorhanden zu sein.</p>
+    <p>Die Schaltfläche „Nächster“ sollte auch am Anfang des Artikels sein, für den Fall, dass man ihn schon auf einer anderen Platform gelesen hat, oder dass er einen nicht interessiert.</p>
+    <p>Die Sonnenflecken sind verschwunden!</p>
+    <p>Die „Vorheriger/Nächster“ Buttons werde ich nach Möglichkeit nach oben verlegen.</p>
+    <p>Die Sortierung ist dem modernen „Masonry“ Design geschuldet, das die Einträge dem Bild und Textlänge entsprechend verschieden groß macht. In der Regel wechseln sich die Beiträge in der Aktualität aber „links/rechts“ ab.</p>
+    <p>Um das Kommentarfeld breiter zu machen, müsste ich den gesamten Webseiten-Body verbreitern. Das wird dann Schwierigkeiten bei Leuten geben, die noch mit Notebooks oder Monitoren ohne Full-HD Auflösung arbeiten.</p>
+    <p>Das Sonnenflecken Add-In bekomme ich nicht in neuer Version, ich schaue aber dass ich das irgendwann zurechtschustern kann.</p>
+    <p>Wenn Links nicht mehr funktionieren, liegt das meist an den Links selbst. Ggf. habe ich Sie aber auch falsch verstanden.</p>
+    <p>Danke an den WebAdmin. Well done, Sir. Da steckt jede Menge „Freizeit“ drin. Von Typo3 nach WP zu migrieren ist eine Herkulesaufgabe.</p>
+    <p>Biete gerne meine Hilfe an.</p>
+    <p>Vielen Dank für’s Angebot, aber ich bin schon bald durch. 😉</p>
+    <p>Es war auch so, dass die bisherige Website vor Jahren aus Typo3 migriert wurde, und das leider mehr schlecht als recht, weswegen ich die Seite auch nicht einfach mit neuem Theme und Einstellungen „upgraden“ konnte, sondern den mühsamen Weg der Neuerstellung + Import gehen musste.</p>
+    <p>Aber wenn Sie Unterstützung brauchen (zeitaufwändige Fleißarbeiten etc.) schreiben Sie mich an.</p>
+    <p>Danke sehr für das Angebot. Wir werden gern wenn Not am Mann ist, darauf zurückkommen.</p>
+    <p>Und jetzt haben wir auch wieder einen gescheiten Kommentar-Editor ! 😉</p>
+    <p>Ich habe inzwischen die Schrift noch etwas angepasst, so dass sie nun lesbarer ist.</p>
+    <p>Das ist bekannt, in Arbeit, aber nicht so einfach. Siehe weiter unten, da habe ich das schonmal kommentiert.</p>
+    <p>Herzlichen Dank für Lob &amp; Kritik. Ich kann gerade nicht auf jeden einzelnen Punkt eingehen. Was bisher an Kritik aufkam war konstruktiv und größtenteils schon bekannt und befindet sich in Arbeit. Lassen Sie mich weiterhin Ihre Meinung und Ihr „use &amp; feel“ wissen, damit ich die kleinen „Ecken und Kanten“ noch beseitigen kann. 😉</p>
+    <p>Das wird leider auch in Zukunft so sein, dass die Kommentare erst nach Moderation freigegeben werden können. Das verlangt die Gesetzgebung und auch einige Kommentatoren, die gelegentlich Unflätiges oder Unangebrachtes meinen kommentieren zu müssen.</p>
+    <p>Verstehe ich gut, aber mehr als arbeiten kann ich auch nicht.</p>
+    <p>Vielen Dank für diese gelungene Arbeit und die Aussicht auf weitere Verbesserungen!</p>
+    <p>Da in dem Artikel nicht skizziert wird, was die bekannten Baustellen sind, möchte ich doch auf ein möglicherweise grosses Problem hinweisen: Die neue Infrastruktur scheint Artikel und Kommentare mit anderen Links zu generieren. Vorher waren der Tag und Monat der Veröffentlichung Teil der URL, jetzt fehlen sie. dadurch geht kein Link, den man irgendwo gesetzt hat (als Bookmark oder in Kommentaren). Die Referenzen auf Kommentare scheinen sich auch geändert zu haben- vorher war es ein #comment-nummer, jetzt ist es ein #li-comment-nummer. Falls das bekannt ist und bereits bearbeit wird, bitte ich meinen Kommentar zu entschuldigen.</p>
+    <p>Name, Email, Website werden trotz Häkchen nicht sichtbar gespeichert, erscheinen erst mit Space Taste,</p>
+    <p>Niemand muss sich hier dafür entschuldigen, dass er/sie zum Gelingen der „Operation Neue Webseite“ beiträgt !</p>
+    <p>Das mal vorab. 😉</p>
+    <p>Der Hinweis, dass vieles schon bekannt ist, sollte nur einer anfänglichen „Flutung“ per Email vorbeugen.</p>
+    <p>Vieles kommt erst zum Vorschein, wenn die Seite produktiv genutzt wird, und deswegen bin ich, sind wir alle, sehr dankbar für jeglichen Input und konstruktive Kritik von IHNEN, die das EIKE-Webangebot täglich nutzen !</p>
+    <p>Dass die Links „vereinfacht“ sind ist den heutigen Anforderungen bzgl. Verlinkungen geschuldet. Ich bitte Sie, Ihre Bookmarks zu aktualisieren. Tw. kann es aber auch sein, dass die entsprechenden Artikel noch nicht importiert sind, was sich -wie oben im Artikel erwähnt- die kommenden Tage noch ändern wird.</p>
+    <p>Die -jetzt noch WP-like rudimentäre- Kommentarfunktion wird auch noch einmal überarbeitet und komfortabel aufgepeppt, das ist bereits in der Queue.</p>
+    <p>Ich kann meine Bookmarks aktualisieren, das ist kein Problem. Die Probleme, die ich sehe, sind folgende:</p>
+    <p>Suchmaschinen liefern noch die alten URLs aus (z.B. https://eike-klima-energie.eu/2021/06/11/epa-laesst-schon-wieder-unbequeme-klimadaten-verschwinden/) (und es hat glaube ich auch negativen Einfluss auf das Page Ranking)</p>
+    <p>Verlinkungen in den Kommentaren gehen nicht mehr (z.B. der Link in https://eike-klima-energie.eu/epa-laesst-schon-wieder-unbequeme-klimadaten-verschwinden/#li-comment-111368, der auf einen anderen Eike Artikel verweist)</p>
+    <p>(Verlinkungen auf andere Kommentare gehen nicht mehr, da sich die Kommentar-ID geändert hat, obiger Kommentar war vorher 296766 und ist jetzt 111368)</p>
+    <p>Ich kenne mich mit WordPress nicht aus, aber vielleicht könnte man ein redirect für die alten Urls einrichten? (zumindest für die artikel)</p>
+    <p>Bezüglich dem Google-Ranking…das richtet sich von alleine, zumal ich auch eine SEO-Optimierung vorgenommen habe. Google scannt das Web mit seinen Bots permanent und innerhalb einiger Tage werden dann auch wieder die richtigen Links angezeigt.</p>
+    <p>Ein Redirect kann für die alten Seiten so nicht eingerichtet werden, entweder ich stelle ganz auf die alten URLs um, oder eben nicht. Das muss ich intern besprechen.</p>
+    <p>Dass sich die Kommentar-IDs ändern ist auch nicht zu ändern, da die lfd. Nummern bekommen, je nach Fortschritt des Imports, der leider bei dieser Datenmenge -wie im Artikel beschrieben- nicht auf einmal getan werden konnte/kann.</p>
+    <p>Leider sind gewisse Einbußen bei so einer Aktion kaum zu vermeiden.</p>
+    <p>Der schwarze Text unter dem Kommentarbereich zur Eingabe der „Personalien“ ist so gut wie nicht zu lesen und sollte angepasst werden. (schwarz auf dunkelgrün ist eine sehr schlechte Wahl)</p>
+    <p>Das ist bekannt und meinem etwas eigenwilligen „Floating-Design“ geschuldet, welches im benutzten Theme so nicht vorgesehen ist. Ich stehe aber ständig in Kontakt mit den Programmierern des Themes, die mir nach und nach ihre „Geheimnisse“ verraten, wo ich was nach eigenem Gusto „stylen“ kann. 😉</p>
+    <p>Das neue Erscheinungsbild gefällt mir falls einen Web-Fehler lokalisieren kann werde ich eine Mail schreiben.</p>
+    <p>MfG</p>
+    <p>Ketterer</p>
+    <p>Ich vermisse aber das Widget mit der Sonnen-Aktivität. Hoffe, es wird auch wieder eingefügt.</p>
+    <p>Ein Topic wäre zum Beispiel die Stellungnahme von Markus Rex, dem Leiter der Arktis Expedition „Mosaic“. Er hat ganz viele Kipppunkte gesehen, ziemlich geschmolzenes Eis“ und jenseits von 1,5° wartet die Hölle auf uns ! „</p>
+  </comments>
+</doc>

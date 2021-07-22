@@ -1,0 +1,166 @@
+Man hat mich aufgefordert, einen Beitrag zu schreiben, in dem das Konzept der Energie-Ausbeute im Verhältnis zur Energie-Investition begutachtet wird, und als Ersten Schritt in diese Richtung habe ich eine E-Mail an meine State-side-Freunde Charlie Hall, Nate Hagens und David Murphy geschrieben mit der Bitte, mir Literatur aus jüngerer Zeit zu übermitteln. Die erste Studie stammt von Ferruccio Ferroni und Robert J. Hopkirk und trägt den Titel [übersetzt; Originaltitel siehe unten] „Energieausbeute im Verhältnis zu Energieinvestition (ERoEI) für Photovoltaik-Solarsysteme in Gebieten mit moderater Einstrahlung (1). Die Ergebnisse sind so Atem beraubend, dass ich diesen Beitrag sofort schreiben musste.
+Was also ist ERoEI? Es ist einfach das Verhältnis zwischen Energieausbeute und der Energiemenge, die verbraucht wird zur Erzeugung dieser Energieausbeute:
+ERoEI = erzeugte Energie / investierte Energie
+Einfach, nicht wahr? Nun, ganz so einfach, wie es auf den ersten Blick aussieht, ist es nicht. Um den Punkt herauszuarbeiten: verwendet man PV, wird die erzeugte Energie abhängig sein von Breite, der Sonnenscheindauer, der Ausrichtung der Paneele und auch von der Lebensdauer der Paneele selbst. Und wie misst man die investierte Energie bzw. zeichnet diese auf? Misst man einfach den von der PV-Fabrik verbrauchten Strom, oder fügt man noch die von den Arbeitern, den Bergbauarbeitern verbrauchte Energie hinzu, die das Silikon und die Kohle abgebaut haben, um den Strom herzustellen? Ferroni und Hopkirk beleuchten all diese Details und kommen auf ein Verhältnis ERoEI von Solarpaneelen in gemäßigten Breiten von 0,83. Solar-PV ist also keine Energiequelle, sondern eine Energiesenke. Das gilt für die Schweiz und Deutschland. In Aberdeen dürfte es noch viel schlechter sein!
+Warum ist ERoEI so wichtig? Es ist ein für die meisten Individuen fremdes Konzept, einschließlich vieler Ingenieure, Beschäftigten im Energiesektor, Akademiker und Politiker. Das damit in Beziehung stehende Konzept der Gesamt-Energie [net energy] ist definiert als:
+Net Energy = ERoEI – 1 (wobei 1 die investierte Energie ist).
+Die Gesamtenergie ist der Überschuss an Energie, der von unserem Energie-Input übrig bleibt und den wir gebrauchen, um die Gesellschaft mit Energie zu versorgen – Krankenhäuser bauen, Schulen, Frachtflugzeuge und zum Anbau von Nahrungsmitteln. In der Vergangenheit lag das ERoEI unserer primären Energiequellen – Öl, Gas und Kohle – wahrscheinlich über 50, das heißt, dass eimerweise billige Energie übrig war, um unsere gesamte Infrastruktur einzurichten und alle Menschen zu ernähren, die heute die Erde bewohnen. Aber mit der Gesamtenergie-Gleichung für Solar-PV sieht es so aus:
+0,83 – 1 = – 0,17
+… Brüssel, wir haben ein Problem!
+Wie in aller Welt kann es also sein, dass wir in großem Umfang Apparate zu installieren, die offensichtlich Energie verbrauchen anstatt sie zu erzeugen? Die einfache Antwort lautet, dass unser Finanzsystem, Gesetze und Subventionen in der Lage sind, die Gesetze von Physik und Thermodynamik so lange zu verbiegen, bis wir ein ausreichend hohes ERoEI erreichen, um das ganze System am Laufen zu halten und um parasitäre Erneuerbare zu subventionieren. Man versuche mal, Silikon abzubauen und zu veredeln mittels einer elektrischen Bergbau-Maschine, die von der Sonne angetrieben wird – und die Gesetze der Physik werden sich sehr rasch wieder etablieren.
+Einfach ausgedrückt, die in Nordeuropa installierte PV kann man betrachten als Kohle, die in China verbrannt wird zur Stromerzeugung hierzulande. Sämtliche CO2-Emissionen, die die Motive für PV stützen, erfolgen in China. Nur im Falle eines hohen Energie-Gewinns durch die PV-Paneele würden durch Solar-PV CO2-Emissionen reduziert. Mehr dazu weiter unten.
+[Hervorhebung vom Übersetzer].
+Energie-Ausbeute
+Die Berechnungen basieren alle auf die erzeugte Energie von 1 m² PV.
+Theoretische Berechnungen der Hersteller, was PV-Module erzeugen sollten, berücksichtigen nicht die operationelle Einbuße durch Staub auf der Oberfläche. Auch schlechte Ausrichtung, Ausfall einer Einheit oder deren Bruch finden keinen Eingang in die Berechnungen, obwohl derartige Störungen sehr verbreitet sind.
+Die tatsächlich erzeugte Energie, errechnet mittels Schweizer Statistiken, ergibt sich zu 106 kWe/m² pro Jahr.
+Dann müssen wir noch wissen, wie lange die Paneele halten. Die Hersteller behaupten 30 Jahre, jedoch zeigen empirische Beweise, dass die mittlere Lebensdauer in Deutschland lediglich 17 Jahre beträgt. Ferroni und Hopkirk rechnen großzügig mit einer Lebensdauer von 25 Jahren.
+Kombiniert man all diese Faktoren, kommt man auf eine Zahl von 2203 kWe/m² während der Lebenszeit einer Einheit.
+Aufgewendete Energie
+Die Berechnung der aufgewendeten Energie erfolgt ebenfalls auf der Grundlage von 1 m² PV-Fläche und verwendet die Material-Masse als Proxy für die verbrauchte Energie und das BIP der Energiedichte als Proxy für den Arbeits-Term in der Gleichung.
+Zwei verschiedene Verfahren zur Erfassung der aufgewendeten Energie werden beschrieben:
+ERoEI (IEA)
+ERoEI (Ext)
+Dabei steht IEA für die Verfahren der International Energy Agency und Ext für die erweiterte Grenze wie von Murphy und Hall 2010 beschrieben (2, 3). Der Unterschied zwischen beiden Verfahren ist, dass die IEA dazu tendiert, sich auf die beim Industrieprozess verbrauchte Energie zu konzentrieren, während das erweiterte verfahren von Murphy und Hall 2010 auch Aktivitäten wie Bergbau, Veredelung und Transport des Silikon-Rohmaterials enthält.
+Meiner Ansicht nach folgen Ferroni und Hopkirk korrekt dem erweiterten ERoEI-Verfahren von Murphy und Hall. In ihre Berechnungen gehen ein:
+● Material zur Herstellung der Paneele, aber auch zur Aufrichtung und Installation derselben
+● Arbeit in jedem Stadium des Prozesses, vom Abbau bis zur Entsorgung
+● Herstellungsprozess, d. h. die in den verschiedenen Fabriken verbrauchte Energie
+● Fehlerhafte Paneele, die aussortiert werden
+● Kapital, welches angesehen wird als die Verwertung bereits bestehender Infrastruktur und Energieinvestitionen
+● Anschluss der lückenhaften PV an das Netz
+Und daraus ergibt sich das Resultat von ERoEI:
+2203 : 2664 kWe/m² = 0,83
+Der einzige Punkt, den ich in Frage stellen möchte, ist der Einbezug der Energiekosten des Kapitals. Alle erzeugte Energie kann unterteilt werden in Energieverbrauch zur Energiegewinnung und Energie für die Gesellschaft, und ich würde fragen, ob die Kapitalkosten nicht in die letztere Kategorie fallen.
+Aber es scheint eine wesentliche Auslassung zu geben, und zwar die Energiekosten der Verteilung. In Europa entfallen etwa 50% der Stromkosten (ohne Steuern) auf Netzausbau und Wartung desselben. Würde man dies auch noch in die Rechnung eingehen lassen, ergäbe sich ein weiterer tiefer Zacken im ERoEI.
+Dieser ERoEI-Wert ist niedriger als der Wert 2, wie er von Prieto und Hall (4) angegeben wird und erheblich niedriger als der Wert 5 bis 6, den die IEA nennt (5). Ein Grund hierfür ist, dass die jetzige Studie (1) speziell für Mittlere Breiten gilt. Aber Ferroni und Hopkirk führen auch detailliert Auslassungen der IEA auf, die folgendermaßen zusammengefasst werden können:
+a) Der Energiefluss über die Systemgrenzen hinweg und dessen Investition für die Arbeit ist nicht enthalten.
+b) Der Energiefluss über die Systemgrenzen hinweg und dessen Investition für das Kapital ist nicht enthalten.
+c) Die für die Integration des PV-erzeugten Stromes in eine komplexe und flexible Stromversorgung sowie in ein Verteilungssystem aufgewendete Energie ist nicht enthalten (die Energieerzeugung folgt nicht dem Bedarf der Verbraucher).
+d) Die IEA-Leitfäden spezifizieren den Gebrauch eines „primären Energie-Äquivalents“ als eine Grundlage. Da jedoch die erzeugte Energie als sekundäre elektrische Energie gemessen wird, nämlich dem Energieträger selbst, und da etwa 64% bis 67% der aufgewendeten Energie für die Herstellung der PV-Module und -Paneele ebenfalls in Form von Strom vorliegt (Weissbach et al.2013), und da außerdem die Gesetze der Konversion vom Träger oder sekundärer Energie zurück zu primärer Energie nicht wissenschaftlich perfekt sind (Giampietro und Sorman 2013), ist es sowohl einfacher als auch angemessener, die aufgewendete Energie als elektrische Energie zu bezeichnen. Der direkte Beitrag fossiler Treibstoffe, zum Beispiel um die Energie für die Prozesswärme zur Verfügung zu stellen, muss ebenfalls in sekundäre Energie konvertiert werden. Die Konversion der internen chemischen Energie in fossilen Treibstoffen zu Strom wird in modernen Kraftwerken erreicht mit einer Effizienz von 38%, jedenfalls dem statistischen Protokoll von BP zufolge (BP Statistical Review of World Energy, June 2015). In dieser Studie wollen wir zur Vermeidung von Fehlern bei der Konversion weiterhin elektrische (d. h. sekundäre) Energie verwenden mit kW he/m² als zugrunde liegende Energieeinheit.
+e) Die angegebene Lebensdauer der Paneele von 30 Jahren muss aufgrund der Erfahrungen bis jetzt als unrealistisch angesehen werden.
+f) Die Energieausbeute kann und sollte auf tatsächlichen experimentellen Daten beruhen, gemessen auf dem Feld. Wendet man diese Prozedur an, wird man Werte erhalten, die allgemein viel niedriger liegen als die von Investoren und Politikern erwartete Erzeugung.
+Den Punkten a), c) und f) würde ich sofort zustimmen. Beim Punkt b) bin ich mir nicht sicher, und Punkt e) wird Gegenstand von Diskussionen sein. d) ist eine sehr komplexe Angelegenheit und im Grunde das, was ich in meinem jüngsten Beitrag hier beschrieben habe. Ich stimme Ferroni und Hopkirk zu, wenn sie schreiben, dass Einheiten von Strom durchweg verwendet werden müssen, aber falls die IEA die verbrauchte Energie für thermische Verluste in Kraftwerken hochgerechnet hat, würde dies ihre investierte Energie zunehmen lassen und ihre Schätzungen von ERoEI drücken und nicht aufblähen. Dieser Punkt bedarf also noch der Klärung.
+Auswirkungen auf die Umwelt
+Der Hauptgrund für die Hinwendung zu Solar-PV in Europa ist die Reduktion der CO2-Emissionen. Die Europäische Kommission und die meisten Regierungen in Europa haben in Wolkenkuckucksheim geweilt, als sie CO2-intensive Industrien nach China zu übersiedeln erlaubten, damit die Emissionen in Europa zurückgehen, während sie in China steigen, und weil sie uns glauben machen wollten, dass der aus China importierte Stahl irgendwie emissionsfrei ist.
+Das Beispiel Solar-PV rückt dies scharf in den Mittelpunkt. Geht man davon aus, dass der Haupt-Energie-Input von Kohle stammt (und schmutziger Kohle mit geringer Effizienz obendrein) und mit einem ERoEI <1, führt die Stromerzeugung mittels PV in Wirklichkeit zu höheren Emissionen, als wenn man die Kohle gleich von Anfang an zur Stromerzeugung verbrannt hätte. Aber es ist noch viel schlimmer. Alle Emissionen, die mit 25 Jahren der Stromerzeugung assoziiert sind, befinden sich jetzt in der Atmosphäre und würden die globale Erwärmung noch viel schlimmer machen als es ohne PV der Fall wäre [so es diese globale Erwärmung wirklich gibt und so sie wirklich schlimm wäre. Anm. d. Übers.]
+Und es wird sogar noch schlimmer! Zur Herstellung der PV-Paneele braucht man außerdem noch viele hässliche Chemikalien:
+Viele potentiell gefährliche Chemikalien werden während der Herstellung der Solarmodule gebraucht. Erwähnt werden sollen hier Stickstoff-Trifluorid (NF3; Arnold et al.2013). Dieses Gas wird gebraucht, um verbleibende, mit Silizium kontaminierte Zusätze in den Herstellungsräumen zu reinigen. Dem IPCC zufolge hat dieses Gas ein Potential zur globalen Erwärmung 16.600 mal so hoch wie CO2. Zwei weitere, ähnlich unerwünschte „Treibhaus“-Gase sind Hexafluoräthan (C2F6) und Schwefel-Hexafluorid (SF6).
+Und:
+Das mittlere Gewicht eines PV-Moduls beträgt etwa 16 kg/m² und das Gewicht des stützenden Systems, der Umwandler und dem Gleichgewicht des Systems mindestens 25 kg/m² (Myrans 2009). Das Gewicht des Betons ist nicht enthalten. Auch sind die meisten verwendeten Chemikalien wie Säuren, Basen, Beizen, elementare Gase, Dotierstoffe [?], photo-lithographische Chemikalien usw. nicht enthalten, da deren Verbrauch nur gering ist. Aber wir müssen Salzsäure (HCl) hinzufügen: Die Herstellung des Solar-Siliziums für ein Quadratmeter Paneelfläche erfordert 3,5 kg konzentrierte Salzsäure.
+Vergleich mit Kernkraft
+Die Studie zeigt einige interessante Vergleiche mit Kernkraft. Schauen wir zunächst auf das pro Einheit erzeugten Stromes benötigte Material:
+● PV verbraucht 20,2 g pro kW he (hauptsächlich Aluminiumstahl und Kupfer)
+● Ein Kernkraftwerk verbraucht 0,31 g pro kW he (hauptsächlich Stahl) für einen Nutzungsgrad [load factor] von 85%.
+kW he = kilowatt hours electrical
+Bezüglich der Arbeitskraft stellen die Autoren fest:
+Die in der Erneuerbaren-Industrie involvierten Industrien werben mit ihrer Fähigkeit, viele neue Arbeitsplätze zu schaffen.
+Während natürlich die beste Energieform so wenig Arbeitskraft wie möglich erfordern sollte. An einem Punkt, wo ERoEI 1 erreicht, ist jedermann im Bereich Energieerzeugung tätig, und die Gesellschaft, so wie wir sie kennen, kollabiert!
+● Solar-PV erzeugt 94,4 Arbeitsplätze pro installierter MW, adjustiert für den Kapazitätsfaktor.
+● Kernkraft erzeugt 13 Arbeitsplätze pro installierter MW, darin enthalten sind Aufbau, Betrieb und Stilllegung.
+Das könnte für Politiker großartig aussehen, aber es ist diese Ineffizienz, die Solar-PV teuer macht und ERoEI killt. Und schaut man auf die Kapitalkosten:
+● Solar-PV kostet CHF 6000 pro installiertem KW (CHF = Schweizer Franken)
+● Kernkraft kostet CHF 5500 pro installierten KW.
+Aber normalisiert hinsichtlich der Kapazitätsfaktoren von 9% für Solar und 85% für Kernkraft erhalten wir als effektive Kapazität
+66.667 : 6471 = 10,3
+Fazit: Solar-PV ist zehn mal so kapitalintensiv wie Kernkraft.
+Energieumsatz
+Wenn ERoEI sich 1 nähert oder unter diesen Wert sinkt, betreten wir den Bereich Energieumsatz, der in unserem Energiesystem ziemlich verbreitet ist. Konvertieren wir beispielsweise Kohle zu Strom, verlieren wir etwa 62% der thermischen Energie. Die Konversion von Kohle und anderer Rohmaterialien in ein PV-Paneel könnte unter bestimmten Bedingungen sinnvoll sein. Zum Beispiel können PV und ein Batteriesystem afrikanische Dörfer mit etwas Strom versorgen, wenn diese keinerlei Aussicht haben, in absehbarer Zeit an ein Netz angeschlossen zu werden. Gleiches gilt für eine Berghütte. Individuen, die sich Sorgen bzgl. Blackouts machen, könnten ebenfalls ein PV-Batteriesystem als Backup in Erwägung ziehen.
+Aber hinsichtlich des Zieles der Reduktion von CO2-Emissionen scheitert PV kläglich in Mittleren Breiten. Es fügt dem System einfach Kosten und Rauschen hinzu. In sonnigeren Klimaten könnte sich die Lage verbessern.
+Abschließende Bemerkungen
+Die Ergebnisse dieser einen Studie zeigen, dass die Installation von Solar-PV in Mittleren Breiten, also in Ländern wie Deutschland und UK, eine einzige Verschwendung von Zeit, Energie und Geld ist. Alles, was man erreicht ist, dass die Strompreise steigen und das Netz destabilisiert wird. Verteidiger von erneuerbarer Energie und Solar werden darauf verweisen, dass dies nur eine einzige Studie ist und dass die von Ferroni und Hopkirk verwendeten Eingangsparameter diskussionswürdig sind. Aber es gibt gute Gründe zu glauben, dass die Ergebnisse ziemlich genau der Realität entsprechen. Zum Beispiel fanden Prieto und Hall ein ERoEI für Solar-PV = 2. Schaut man allein auf wolkige hohe und Mittlere Breiten, wird sich diese Zahl substantiell verkleinern.
+Und man muss sich nur mal die unten gezeigten Outputs ansehen. Solar-PV erzeugt ein Tröpfeln im Winter und absolut gar nichts mehr bei der Bedarfsspitze gegen 18 Uhr. Und hierfür müssen gewaltige finanzielle Kosten und Energie aufgewendet werden, um dies zu kompensieren – und was die Erneuerbaren-Enthusiasten mit einem Schulterzucken vom Tisch wischen.
+Abbildung 1, Quelle: UK Grid Graphed: Die Verteilung von Solarerzeugung in UK hat sich im Verlauf von 4 Jahren versiebenfacht. Aber 7 mal Tröpfeln im Winter ist immer noch tröpfeln. Die große Menge Energie in diesen teuren Objekten bringt uns gar nichts, wenn wir es am meisten brauchen.
+Energy Matters hat eine gute Sucheinrichtung oben rechts. Man gebe Solar-PV ein, und ich war überrascht zu sehen, wie viele Artikel Roger und ich geschrieben haben und sie alle mehr oder weniger zu den gleichen Ergebnissen kommen. Ich habe diese Links unten an diesen Beitrag angefügt.
+Abbildung 2: Eine typische Solar-Installation in Aberdeen, wo sich die Paneele auf einem nach Osten geneigten Dach befinden, während das ideale, nach Süden zeigende Dach frei davon ist. Dies ist ein Symbol für Dummheit und Ignoranz, die inzwischen auch in der Akademiker-Zunft Einzug hält. Hat irgendjemand eine Universität gesehen, die sich keine Solarpaneele auf das Dach gepappt hat? Ich habe Akademien argumentieren hören, dass die Ausrichtung in Schottland gar keine Rolle spielt, und damit könnten sie recht haben. Ich wage zu sagen, dass es kaum einen Unterschied hinsichtlich des Outputs ausmachen würde, wenn man die Solarpaneele einfach in ihrer Verpackung belässt. Akademiker sind natürlich immer stärker darauf bedacht, die Regierungspolitik zu unterstützen. Man beachte, dass sonnige Tage in Aberdeen nur extrem selten auftreten. Und im Winter geht die Sonne gegen 10 Uhr auf und gegen 15 Uhr unter.
+Vor zwei Jahren wetterte ich gegen die Zufalls-Ausrichtung von Solarpaneelen in Aberdeen, und zwar in einem Beitrag mit dem Titel Solar Scotland. Und diese Zufalls-Orientierung wird zweifellos zu ernsthaft geringeren Werten von ERoEI führen. PV-Enthusiasten werden ohne Zweifel in ihren Gesamtenergie-Analysen davon ausgehen, dass alle Solarpaneele optimal ausgerichtet sind, während sie dies in der realen Welt von Ferroni und Hopkirk nicht sind. Ein gutes Rezept hierzu wäre die Streichung der Einspeisetarife für Systeme, die nicht optimal ausgerichtet sind, während man in Zukunft die Solar-PV-Einspeisetarife vollständig streicht.
+Aber wie kann man erreichen, dass diese Botschaft auf der politischen Ebene gehört wird? Das finale Interview von David McKay war sehr aufschlussreich:
+Der einzige Grund dafür, dass Solar überhaupt ein Thema wurde, war Demokratie. Die Parlaments-Abgeordneten wollten einen Solar-Einspeisetarif. Daher wurde gegen den Ratschlag der Bediensteten in den Ministerien ,Nein, wir sollten solar nicht subventionieren‘ diese Politik in Kraft gesetzt. Es gab außerdem sehr erfolgreiche Lobbyarbeit durch die Solar-Lobbyisten. Und so herrscht jetzt weit verbreitet dieser Glaube, dass Solar etwas Wunderbares ist, obwohl … UK eines der dunkelsten Länder der Welt ist.
+Falls die Politiker jetzt nicht auf den Ratschlag eines der berühmtesten und angesehensten Energie-Analysten der Welt hören, dann, so glaube ich, werden sie auf niemanden hören. Aber mit der Zeit wird ihnen allmählich und immer mehr dämmern, welche Konsequenzen es hat, wenn ihre Wähler über die Energie-Klippe stürzen.
+References
+[1] Ferruccio Ferroni and Robert J. Hopkirk 2016: Energy Return on Energy Invested (ERoEI) for photovoltaic solar systems in regions of moderate insolation: Energy Policy 94 (2016) 336–344
+[2] Murphy, D.J.R., Hall, C.A.S., 2010. Year in review-EROI or energy return on (energy) invested. Ann. N. Y. Acad. Sci. Spec. Issue Ecol. Econ. Rev. 1185, 102–118.
+[3] Murphy, D.J.R., Hall, C.A.S., 2011. Energy return on investment, peak oil and the end of economic growth. Ann. N.Y. Acad. Sci. Spec. Issue Ecol. Econ. 1219, 52–72.
+[4] Prieto, P.A., Hall, C.A.S., 2013. Spain’s Photovoltaic Revolution – The Energy Return on Investment. By Pedro A. Prieto and Charles A.S. Hall, Springer.
+[5] IEA-PVPS T12, Methodology Guidelines on the Life Cycle Assessment of Photovoltaic Electricity – Report IEA-PVPS T12-03:2011.
+Link: http://euanmearns.com/the-energy-return-of-solar-pv/
+Übersetzt von Chris Frey EIKE
+Wo haben Sie denn diese Zahlen gefunden Herr Euan Mearns das müssen Sie mal verraten.
+Bei PV kostet das kWp in Deutschland heute unter 1000 €/kWp.
+Das bereits ab einer Leistung von ca. 15kWp.
+Bei deiner Vergleichbareren Leistungsgröße zu einem AKW oder Kohlekraftwerk ist der Preis für eine Große PV unter 800 €/kWp.
+Was Erwirtschaften die PV-Anlage (Preis 1300€/kWp ist eine Kleinanlage + 1*Wechselrichteraustausch).
+Als Rechengöße nehme ich mal 1 kWp, hat man 2, 3 oder 4kWp am Dach sind die Beträge ja das 2, 3 oder 4 fache.
+1000kWh an Strom kommen von 1kWp PV im Jahr und man verwenden aber nur 33% (330kWh/Jahr) den Rest verwendet man nicht und speist in auch nicht ein.
+Macht nach 25 Jahren 330 kWh X 25 Jahre X 35 Cent/kWh = 2887 € Stromkostenersparnis bei einem kWp auf den Dach oder Balkon oder an der Fassade.
+Ich habe aber 1300 € am Kosten für das kWp macht eine Nettoersparnis von 1587 € in 25 Jahren.
+Somit spare ich bei einem kWp im Jahr 63 € oder ca. 5€ im Monat.
+(35 Cent/kWh ???, es gibt ja in den nächsten 25 Jahren eine Preissteigerung beim Netzstrom, deshalb die 35 Cent/kWh als Durchschnittswert vor die nächsten 25 Jahre)
+„Das mittlere Gewicht eines PV-Moduls beträgt etwa 16 kg/m² und das Gewicht des stützenden Systems, der Umwandler und dem Gleichgewicht des Systems mindestens 25 kg/m² (Myrans 2009).“
+Wo haben Sie denn diese Zahlen gefunden Herr Euan Mearns das müssen Sie mal verraten.
+Meine Rechnung ist:
+1 Standard PV-Modul 1660mm x 990mm mit 220-250 Watt Leistung je nach Hersteller hat eine Fläche von 1,64m² und ein Gewicht von ca. 21kg/Modul = ca.12,8kg/m².
+Dazu kommt noch das ALU-Aufdachgestell, Schrauben, Kabel und der Wechselrichter usw, in Summe ca. 3 bis 3,5 kg/m², macht zusammen ca. 16 kg/m².
+Sauen Sie selber z.B. bei ebay nach, da gib es Komplet Bausätze z.B. 5 kWp da ist das komplette Versandgewicht mit 600kg angegeben, inklusive Verpackung, mach für das kWp 120kg und auf den m² heruntergerechnet sind wir irgendwo bei ca. 18,3kg/m² (250Wp Module) und bei 220Wp Module sind wir bei 16 kg/m².
+Gut mit den Zahlen da können Sie ja nicht so richtig umgehen, wo haben Sie aber ihre 25 kg/m² gefunden, welcher Rechenkünstler hat das ermittelt?
+Gruß
+ärgern Sie sich nicht über diese Politik die nur mit Humor Probleme hat, wenn sie demaskiert wird, vielleicht ist das der konstruktivere Weg http://goo.gl/ovOKvp indem man mitspielt, um den Unsinn zu verdeutlichen.
+Deutlicher: Wer süchtig ist, muss zum „Clean“ werden akzeptieren, dass er süchtig ist und sich auch mit der Art seiner Sucht auseinandersetzen bzw. mit den oftmals verdeckten Ursachen seines Suchtverhaltens. Erst dann hat man die Chance, klarer zu sehen und sich bewusst zu enthalten – und dabei lebenswertere Alternativen zu erfahren. Das mit der Sucht gilt in Bezug auf unsere politisch-administrativen Verhältnisse ähnlich und wie immer, fängt Veränderung bei, mit und durch jeden selbst an. Der Entzug ist hart, auch bei Subventionen…
+So wie sich der Glauben an die bundesdemokratischen deutschen Wunderwaffen für alle Bedarfsfälle, die „erneuerbaren Energien“, allgemein durchgesetzt hat, kann dieser Glauben auch wieder verschwinden. Das geschieht mit Glauben oft in der langen Geschichte der Menschheit. Leider, ich gestehe, bin ich eher ein ungeduldiger Mensch… und der Irrsinn geht mir schon viel zu lange und befürchtet noch zu lange.
+Nebenbei, meinen herzlichen Dank an Herrn Frey für die wieder großartige Übersetzungsleistung. Ihre Bereitschaft hilft den weniger des Englisch-Fähigen, den „Faulen“ und zeitlich begrenzten ungemein beim Blick über den deutschen Tellerrand!
+Zitat: „Die EU und hier vorallen Deutschland wird zur Wissenswüste und wieder zu einen Arbeiter und Bauernstaat.“
+Das ist doch nur eines der verdeckten sozialistischen-US-hochfinanzierten Ziele… und praktischer nicht verschwörungsgläubig, die jedem Tun innewohnenden zwei Seiten einer Medaille. Man könnte natürlich auch sarkastisch schreiben der in deutscher Gründlichkeit selbsterfüllte Morgenthau-Plan – was lange währt, wird endlich gut. (wenn einem dabei als Betroffener nicht die Spucke wegbleiben würde…)
+Aber nein schon die Quelle schreibt über Energie und gibt Leistung an (2203 kWe/m²)
+An anderer Stelle steht 2203 kW he [sic!].
+Da kommt doch wirklich vertrauen in das technische Wissen der Autoren auf. In der Tabelle steht richtigerweise die Einheit kWh(e) wobei das (e) wahrscheinlich für effektiv steht.
+Neben der technischen Expertise sind die Autoren auch fachlich nicht wirklich up to date:
+Hier wird ein 10 bis 40-fach höherer EROI berichtet. Fachlich beurteilen kann ich das nicht, ohne mich weiter einzulesen: das überlasse ich gerne den Fachleuten und engagierten Laien hier.
+http://dx.doi.org/10.1016/j.rser.2015.02.057
+leider bisher noch nicht korrigiert, wie ich den Text gerade lese.
+hallo herr Paul,
+Sie haben Recht . Si kommt nur in Verbindungen auf der Erde vor und reines Si nun durch einensehr energieintensiven Prozeß erst hergestellt werden. Mir lag es nur daran, daraufhinzuweisen, daß es eben kein Silikon sein kann.
+MfG
+Ich würde es mal so sagen. Das Wissen über die Kernkraft wird in Deutschland schon noch weiterleben und man wird auch in Deutschland bei der weltweiten Entwicklung der Kernkraft noch Anteil nehmen aber halt im sehr geringen Umfang.
+Viel entscheidender ist jedoch, dass wir unser Kernkraftwissen nicht mehr für unsere eigene Wertschöpfung und Volkswirtschaft in Deutschland und vor allen für die Deutsche Gesellschaft einsetzen können.
+Heißt vereinfacht gesagt…alles was wir in Deutschland noch in der Kernkraftbranche erforschen und entwickeln wird ins Ausland abwandern. Der Siemens Kernkraftanteil wurde z.b. nach Frankreich verkauft und Frankreich bekommt jetzt alle zukünftigen Patente zugesprochen. (Siehe Areva GmbH bzw. Areva NP bzw. Areva SAS).
+Deutschland entwickelt und forscht zusehends nicht mehr für seine eigene Wertschöpfungskette sondern nur noch für das Ausland. Gut bezahlte Industriearbeitsplätze werden somit ins Ausland verlagert und wir werden zu einer Gesellschaft der Forschungs- und Entwicklungssklaven für das Ausland.
+Unsere Selbstständigkeit unsere Eigeninteressen werden durch diese Grün-Sozialistische Merkel Politik ans Ausland versklavt.
+Resignation, das Abwenden von Deutschland, Mangel und Armut werden die Folgen dieser Politik sein.
+Bei Siemens sieht man diese Resignation der Mitarbeiter und des Managment in und für Deutschland schon länger. Genauso wie bei EON, Bayer, BASF, RWE, ENBW usw.
+Verlagerung von Arbeitsplätzen ins Ausland oder die Zerstückelung von Konzernen ist die Folge davon die wiederum zum Niedergang der Deutschen Volkswirtschaft hinführt.
+Diese Grün-Sozialistische Merkel Regierung kümmert sich einen Dreck um die Deutsche Volkswirtschaft und damit um die Basis unseres Wohlstand. Lobbyinteressen vernichten gerade unsere Deutsche Gesellschaft und Volkswirtschaft für ihre Eigeninteressen.
+Man sollte Silizium schreiben, wenn man Silizium meint.
+Auch die deutsche Sprache geht den Bach runter.
+Carsten
+—
+„Wer jetzt erstmalig von der Neuen Weltordnung hört, fühlt sich wie eine Gans, die zum ersten Mal vom Weihnachtsfest hört.“
+Henry Makow
+vielen Dank für Ihren Hinweis!Ich glaube, Admin hat inzwischen verbessert.
+Chris Frey, Übersetzer
+„Veredelung und Transport des Silikon-Rohmaterials“
+„Silizium“ gibt es leider überhaupt nicht chemisch ungebunden. Säubern und Reinigen reicht nicht.
+Das meiste ist Silizium-Dioxyd (SiO2) auch Quarz genannt, praktisch nicht wasserlöslich,
+sonst hätten wir keine Sandstrände.
+Die „Veredelung“ bedeutet also:
+wie krieg ich das O2 von Si weg?
+http://anorganik.chemie.vias.org/silizium.html
+Großtechnisch wird Silizium im elektrischen Lichtbogen aus Quarz gewonnen (Reduktion durch Kohlenstoff):
+SiO2 + 2 C Si + 2 CO2
+wo kommt der Strom dafür her
+und wie heiß ist das im Lichtbogen?
+5000 K oder bis 50.000 K ?
+Gruß
+Falls das irgendwie berücksichtigt wurde bei der Studie, bitte korrigieren Sie mich.
+der Text mit Silikon statt Silizium liest sich wirklich gelinde gesagt sehr merkwürdig. Bitte dringend korrigieren.
+MfG
+Die Plausibilität läßt sich aber mit einem einfachen, jedem bekannten Konzept überprüfen, dem Preis. Wenn Subventionen gezahlt werden ist es unwirtschaftlich. Und dann kann auch die Bilanz des Kohlendioxyds nicht toll sein.
+Carsten
+—
+„Wir leben in einem Zeitalter der Massenverblödung, besonders der medialen Massenverblödung.“
+Peter Scholl-Latour
+Sie haben vollkommen recht: Allein schon für den Rückbau wird man a la longue kein Wissen, keine Experten mehr in D haben, sondern die sich wohl aus China oder Frankreich holen müssen. Und an der Renaissance der Kernenergie wird die „deutsche“ Industrie ihren Anteil nur deswegen noch haben, weil sie wegen der überbordenden Strompreise ausgewandert ist.
+Der Ökostrombeschluss just in Berlin ist doch das Papier nicht wert, auf dem er verfaßt worden ist. Schluß mit dem EEG, das wäre es gewesen – und das wissen diese Damen und Herren in der BReg auch! Das Rumgeeiere mit der Türkei lenkt doch nur ab.
+Die EU und hier vorallen Deutschland wird zur Wissenswüste und wieder zu einen Arbeiter und Bauernstaat.
+Vor allen die Kernkraft mit ihren geballten Hochschulwissen (Naturwissenschaften) und den gesamten Hightechprodukten (Prüf- Sicherheitstechnik, Medizintechnik,Materialforschung und Entwicklung usw.) werden Deutschland schmerzhaft in der Zukunft fehlen.
+leider ist Ihnen beim Übersetzen ein Fehler unterlaufen. Es muß statt Silikon immer Silizium heißen. Bitte korrigieren.
+MfG

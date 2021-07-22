@@ -1,0 +1,122 @@
+Warum erfolgt der Bezug immer auf die installierte Leistung?
+Im Blog (zum Artikel T1) wurde moniert, dass die Relativ-Angaben auf die installierte Leistung bezogen sind.
+Warum wird auf die installierte Leistung bezogen? Weil nur damit eine Effektivitätsbetrachtung möglich ist und deshalb auch alle „Anderen“ es so darstellen. Beispiel:
+SMA "Das leistet Photovoltaik in Deutschland":
+Hier wird die regionale, relative Leistung sichtbar, also die aktuelle Abgabeleistung im Verhältnis zur installierten Nennleistung der PV-Anlage …“
+Deshalb wird es vom Autor auch so gehalten. Zudem ist die installierte Leistung der Wert, auf den die gesamte Verteilnetz-Infrastruktur ausgebaut werden muss.
+Erklärung zu den Histogrammen
+Y-Achse (% der Jahreszeit):
+Gibt den Zeitanteil des Jahres an, in dem die in der Klasse gelistete Leistung bereitgestellt wurde
+X-Achse (Leistung bezogen auf den Anschlusswert):
+Die installierte Leistung ist in n Klassen prozentual aufgeteilt. Damit zeigen die Balken an, wie oft im Jahr die Leistung innerhalb der Klassengrenzen bereitgestellt war.
+Y-Neben-Achse (Häufigkeits-Summe):
+Ist einfach die Summe der Häufigkeiten der Balken (auch Summenhäufigkeit). Hilft bei der Auswertung über mehrere Klassen. Wo die Linie ansteigt „passiert“ noch etwas, wird sie flach, kommt keine Einspeisung dazu.
+Klassengrenzen:
+Leider platziert Excel den Zahlenwert der oberen Klassengrenze in die Mitte der Klasse. Also einfach die Zahlen unter die rechte Klassengrenze platziert denken.
+Histogramm der Summe Windkraft und Solar
+Daten
+Anschlussleistung: 80.528 MW (Mittelwert des Jahres wegen Zubau)
+Max. Leistung: 43.746 MW (54,3 % der Anschlussleistung)
+Min. Leistung: 343 MW (0,43 % der Anschlussleistung)
+Bild 1 Histogramm des Leistungsangebotes von Windkraft + Solar von Dez 2014 – Nov. 2015
+Histogramm der Windkraft
+Daten
+Anschlussleistung: 41.720 MW (Mittelwert des Jahres wegen Zubau)
+Max. Leistung: 32.666 MW (85,5 % der Anschlussleistung)
+Min. Leistung: 93 MW (0,22 % der Anschlussleistung)
+Bild 2 Histogramm des Leistungsangebotes der Windkraft Dez 2014 – Nov. 2015
+Histogramm Solar
+Daten
+Anschlussleistung: 38.812 MW (Mittelwert des Jahres wegen Zubau)
+Max. Leistung: 25.900 MW (66,7 % der Anschlussleistung)
+Min. Leistung: 0 MW (0,00 % der Anschlussleistung)
+Bild 3 Histogramm des Leistungsangebotes von Solar Dez 2014 – Nov. 2015
+Zum Vergleich das fiktive (ideale) Histogramm eines konventionellen Kraftwerkes, bei dem installierte Leistung und angebotenen Leistung gleich sind. Dies gilt auch für Biogas und im Ansatz für Wasserkraft.
+Histogramm Biogas (entspricht dem konventioneller Kraftwerke, sofern man sie „lässt“)
+(der komplette Absatz „Histogramm konventionelle Kraftwerke“ wurde gestrichen und durch den folgenden ersetzt 10.1.16).
+Die installierte Leistung betrug 2014 laut statista 6867 MW. Das Klassenband der 80 % reicht demnach von 4.800 MW … 5.486 MW. Da die Biogasanlagen Einspeisevorrang haben, sieht man, dass diese praktisch rund um die Uhr mit Vollast fahren – eben ein Schlaraffenland, wenn man keine Rücksicht auf den Bedarf nehmen muss.
+Dass der Klassenwert bei 80 % und nicht höher liegt, dürfte an einem Datenunterschied zwischen Agora und statista liegen.
+Bild 4 Histogramm des Leistungsangebotes von Biogas im Jahr 2014
+Fazit
+Wie schon im Teil 1 ausgeführt, sieht man an den Histogrammen erschreckend deutlich, dass selbst ein exorbitanter Ausbau niemals zur Grundlastfähigkeit der „Neuen-Energien“ führen kann.
+Diese Problematik ist im Detail bei VERNUNFTKRAFT in einer Publizierung ausgeführt: "Windkraft versus Würfeln"
+Und man sieht mit dem gleichen Schrecken, welchen weitgehend nutzlosen Ausbauaufwand man für die Verteilnetz-Infrastruktur betreiben muss.
+Trotzdem gibt es weiterhin „Energiefachleute“, einige sogar mit dem Titel „Wissenschaftler“, die unwidersprochen das Gegenteil behaupten – und dafür von unseren Medien und in den NGO-Blogs hofiert werden.
+Mein EIKE-Artikel Teil 1
+Die neuen Energien im Jahr 2015 und im Jahr 2050 nochmals erklärt für Dummies Teil 1 Einspeise-Rückschau und Vorschau (hier)
+Ihre Bewertung des Artikels ist richtig.
+Eine Eigenschaft von Politkern besteht in der Fähigkeit aus dem Bauchgefühl eine Idee zu bewerten und zu beeinflussen.
+Die naturwissenschaftlichen Zusammenhänge in manchen wichtigen Fragen werden einfach übersehen.bzw. nicht erkannt.
+Im politischen Tagesgeschäft kommt es nicht oft vor, so etwas zu berücksichtigen.
+Mein Apell an alle Leser hier im Blog:
+Gehen Sie in persönlichen Gesprächen im Rahmen eine Bürgersprechstunde ,auf diese Menschen zu.
+Wenn es Ihnen die Zeit erlaubt werden Sie schnell merken, das tatsächlich Interesse besteht, den Pferdefuß der Energiewende zu begreifen.
+Und wenn nach einem solchen Gespräch der Eindruck entsteht, es war vergebene „Liebesmüh“,liegt es oft an einem selbst.(weil eine Überforderung stattgefunden hat)
+Man konnte es nicht erklären!
+Mit herzlichem Glückauf
+Das zaghafte Zurückrudern dieses Herrn Fuchs scheint aber wenig mit Erkenntnis von Fakten belegt zu sein. Es dürfte vielmehr eine Gefühlsäusserung sein daß hier etwas falsch läuft.
+Wenn es denn stimmt daß es überwiegend Wunsch der Landesregierungen ist den Ausbau der EE zu forcieren, so haben diese wohl noch nicht begriffen in wie weit sie damit Kommunaleigentum vernichten (RWE, EnBW u. a.).
+@Markus Estermeier
+Danke meine Herren für ihre Antworten. Aber ich sehe schon…nichts genaues weis man hier noch nicht, weil vielleicht bis dato auch noch keine Vergleichsstudien gegeben hat bzw. bestehen.
+Mal schauen, ob sich in der Zukunft sich jemanden dieses Thema annimmt. Danke!
+ich habe den Eindruck da bewegt sich was.
+Ob Ihr Artikel daran einen entscheidenden Anteil
+hat,wird sich zeigen.
+Lesen Sie selbst.
+http://tinyurl.com/hooq4nf
+In den Nachtnachrichten um 4 Uhr kam die Meldung
+sogar im Rundfunk(deutschlandweit Nachtprogramm der ARD)
+Mit herzlichem Glückauf
+Ein Kernkraftwerk ist auch nur ein Dampfkraftwerk. Und wenn Sie da einen Brennstab einfahren, wirkt das wie wenn Sie ein paar Schippen Kohle nachlegen.
+Reine Gaskraftwerke (keine GuD) sind so schnell regelbar wie das Triebwerk eines Düsenjet. Optimaler Wirkungsgrad etwa 30%. Und wenn Sie wie beim Auto ständig beschleinigen und wieder abbremsen, steigt der Treibstoffverbrauch bzw. sinkt der Wirkungsgrad.
+Die maximale Dampftemperatur in einem KKW beträgt ca. 370 °C bei 220 Bar. In Leichtwasserreaktoren (im Gegensatz zum Tschernobylreaktor) wird Wasser als Moderator eingesetzt. Das muß flüssig sein. In modernen Kohlekraftwerken beträgt die Dampftemperatur über 700 °C und der Druck 350 Bar. Das ist nur mit Nickelstählen erreichbar.
+Insofern sind KKW und Kohlekraftwerke nicht vergleichbar, was die Belastung der Rohre betrifft.
+„wenn wir die Kern- Kohle und Gaskraftwerke nebeneinander stellen und diese permanent hoch und runter regelen…welches Kraftwerk schneidet dabei am „wirtschafltichen“ ab bevor es erneuert bzw. verschrottet werden kann?“
+Bei korrekter Auslegung braucht keines vorzeitig „verschrottet“ werden. KKW haben andere Materialprobleme als Gasturbinenkraftwerke oder solche mit Kohlefeuerung.
+Mir geht es hier nicht um einen Vergleich zwischen konventionellen Kraftwerken und den sog. Erneuerbaren Energien. Mir geht es um den Vergleich unter den konventionellen Kraftwerks-Energietägertypen.
+Ist denn nicht aus Gründen der „Hochsicherheitstechnik“ nicht das Beste vom Besten an Material in Deutschen Kernkraftwerken und auch Kernkraftwerken der neuesten Bauart verwendet worden. Ist somit die Materialeigenschaft in einen Deutschen Kernkraftwerk immer besser/beanspruchbarer als in einen Kohle- oder Gaskraftwerk?!
+Ich meine schon und das schon alleine aus politischen Gründen durch behördliche Vorgaben und Anforderung an ein Deutsches Kernkraftwerk (Sicherheitstechnik/Absicherung).
+Und eines haben Sie mir immer noch nicht beantwortet…wie lange dauert es, ein Kernkraftwerk von, sagen wir mal, 60% auf 70% an Leistung hochzufahren und wie lange benötigt man bei dem Energieträger Kohle und Gas dazu?
+Und wenn wir schon dabei sind…wenn wir die Kern- Kohle und Gaskraftwerke nebeneinander stellen und diese permanent hoch und runter regelen…welches Kraftwerk schneidet dabei am „wirtschafltichen“ ab bevor es erneuert bzw. verschrottet werden kann?
+Die Laständerungsgeschwindigkeit von Dampf(turbinen)-Kraftwerken ist anhängig von den Materialeigenschaften der Kessel, denn Laständerungen bedingen Temperaturänderungen und damit Materialspannungen. Die Rohre sind rotglühend und der Dampfdruck ist immens hoch. Jede Änderung beansprucht das Material und es kommt zu Ermüdungserscheinungen … . Deshalb kann ein Steinkohlekraftwerk mit bis zu 6% der Nennleistung pro Minute in bestimmten Lastbereichen geregelt werden, ohne Folgen, ein Braunkohlekraftwerk ebenfalls, macht aber bei der Brennstoffzufuhr Schwierigkeiten, denn Braunkohle ist naß, so daß 2 bis 4% die Regel sind. KKW können locker mit bis zu 10% der Nennleistung in bestimmten Bereichen geregelt werden. Die KWU-Meiler sind dafür ausgelegt worden. Bei den GuD-Kraftwerken sind ebenfalls 10% machbar.
+Am besten lasten sich natürlich in der Sahara und den Passatregionen Windmühlen und Solarpanels regeln. Das geht irrsinnig schnell. funktioniert allerdings nach Sonnenuntergang und bei Windstille nicht … 😉
+Horst Maler und Elmar Oberdörffer ist uneingeschränkt zuzustimmen.
+Was Ihre Aussage betrifft, so zeigt sie, daß sich Propaganda sehr lange in den Köpfen der Menschen hält, weshalb ja noch immer Leute glauben, daß H. Schmidt nicht für die 315 Toten in HH politisch verantwortlich ist. Und jeder glaubt sein Märchen, daß erst sein „Bruch der Verfassung“ (er hat sie ja nicht verletzt!) Menschenleben gerettet habe … .
+Märchen, wie auch hier bzgl. der Auslegung von Kraftwerken.
+“Weil man eben sehr schnell mit den Ein- und Ausfahren der Kernbrennstäbe und den Ein- und Ausbringen von Gas den Energiefluss steuern kann.
+Ist aber nur so eine Vermutung von mir.“
+Schnelle Lastwechsel und auch häufige Schnellabschaltungen, auslöst vom Reaktorschutzsystem, schaden der Anlage, weil die dabei auftretenden Temperturgradienten immer auch zu erhöhten thermomechanischen Material- Beanspruchungen ( = Wärme-Spannungen ) führen, die an Stellen, wo besonders sprödes Material steckt, tunlichst zu vermeiden sind.
+So sollten z. B. die in den Kern- Brennstäben von Wasser- moderierten Kernspalt-Reaktoren ( das sind tausende von dünnwandigen Hüll- Röhrchen aus einer speziellen Zirkonium- Stahl- Legierung) steckenden keramischen Brennstofftabletten möglichst lange ihre ursprüngliche Form behalten, denn zerbröselte Tabletten können die Hüllrohre von innen durchschuppern => undicht werden lassen mit der Folge, dass das über den Reaktorkern umgewälzte Wasser relativ schnell so mit radioaktiven Spalt-Stoffen kontaminiert wird, dass die Brennelemente, in denen sich solche undichte Hüllrohre befinden, vorzeitig aussortiert werden müssen.
+Wenn Sie ihren kalten PKW- Motor jeden Morgen gleich mit Vollgas über die nahe gelegene Autobahn scheuchen, werden sie auch vorzeitig einen neuen Motor benötigen!
+Und einen glühendheißen PKW- Turbolader sollten Sie nach einer Vollgasfahrt auch nicht abrupt zum Stillstand bringen, indem Sie die Motorzündung schnell abschalten, sobald Sie Ihr Ziel erreicht haben. 🙂
+@Horst Maler #7
+Danke für die Ausführung zum Betrieb eines Kraftwerkes mit dem Energieträger Kohle.
+Aber mir ging es hier um den Vergleich von den Kraftwerken mit den jeweiligen Energieträgern Kohle, Gas und vor allen Uran (Brennstäben).
+Oder anders ausgedrückt…welcher Energieträger bzw. Energieträgertechnik heizt schneller von 40% auf 90% und umgekehrt…also welche Energieträgertechnik und damit Energieträger ist schneller beim Hoch- und Runterfahren der Temperatur und damit agiler und somit weniger träge….?
+Das macht keinen Sinn. Grund ist, dass die Grün-Energieen Einspeisevorrang haben und damit die Einspeisungen konventioneller Kraftwerke EEG-verzerrt sind und nicht deren technische Möglichkeiten wiederspiegeln.
+Aber die Histogramme spiegeln genau die technischen Möglichkeiten der grünen Energien wieder. Denn wenn diese könnten, würden sie immer auf 100 %, möglichst noch mehr fahren um möglichst viel Geld zu verdienen. Denn alles was eingespeist wird, bekommen sie ja zwangsvergütet.
+Also zeigten die Histogramme genau das Unvermögen dieser Energieformen.
+Das letzte Bild stellt anderst dar als die vorhergehenden und ist damit nicht verständlich. Austausch gegen eine verständliche Darstellung ist bereits beim Admin.
+Lieber Herr Hofmann,
+Kohlegefeuerte Anlagen sind keineswegs träge.
+Auch können fossilgefeuerte Dampfanlagen jede beliebige
+Leistung fahren.
+Es ist nur so, dass die Kesselanlagen ein Mindestfeuer nicht unterschreiten dürfen weil sonst die Stabilität der Feuerung nicht sicher ist. Der Grund ist der immer gleich groß bleibende Brennraum bei veränderlicher Feuerleistung. Das Feuer schwebt im Brennraum und muss dort stabil stehenbleiben.
+Wenn der erzeugte Dampf nicht vollständig von der Turbine geschluckt wird, dann öffnet die Hochdruckreduzierstation
+und lässt Dampf in den Zwischenüberhitzer. Dieser Dampf kommt dann an der Mitteldruckturbine an. Wenn die nicht mehr Dampf aufnehmen kann öffnet die Niederdruckumleitstation und lässt den Dampf in den Kondensator. Das ist technisch alles so vorgesehen aber nicht wirtschaftlich. Deshalb vermeidet man diese Betriebsweise.
+Kohle ist auch kein träger Energieträger. Kohlefeuerungen
+sind in der Regel Staubfeuerungen. Die Kohle wird in der
+Kohlemühle gesichtet, getrocknet, gemahlen und dann zu den Brennern im Luftstrom ausgetragen. Das ist nicht ganz ungefährlich, denn der Brennstoffstaub ist bei einer Temperatur von ca. 120 Grad explosiv und kann zu Mühlenbränden führen.
+Auf der Seite
+http://www.mhps.com/en/products/detail/coal_pulverizer.html
+ist eine Kohlemühle zu sehen.
+MfG. Horst Maler
+Evtl. hat dies etwas mit der Trägheit des Energieträger zu tun.
+Kohle ist ein sehr träger Energieträger. Damit ist gemeint, dass man mit Kohle nur sehr langsam rauf und runter fahren kann als mit den Energieträgern wie Gas oder auch der Kernbrennstäbe. Auch wird man mit den Stromerzeugern via Gas und Kernkraft viel tiefer als nur 40% fahren können. Weil man eben sehr Schnell mit den Ein- und Ausfahren der Kernbrennstäbe und den Ein- und Ausbringen von Gas den Energiefluss steuern kann.
+Ist aber nur so eine Vermutung von mir.
+Deshalb wäre es sinnvoller, einmal Histogramme von Wind, Solar und konventionellen Kraftwerken anzuzeigen, die sich nicht auf die Nennleistung beziehen, sondern auf die Korrelation zum Bedarf. Konnten sie diesen Blickwinkel bitte noch ergänzen?
+Vielen Dank,
+ihr G. Wissmann
+vielleicht überprüfen Sie noch mal die Basisdaten über den Histogrammen für Wind und Solar (also die einzelnen); da stimmen die Prozentzahlen nicht.
+VG
+Frank Bothe

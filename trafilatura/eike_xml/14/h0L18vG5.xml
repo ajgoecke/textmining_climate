@@ -1,0 +1,75 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Wie haben sie das berechnet?" author="Chris Frey" date="2019-08-19" source="https://eike-klima-energie.eu/2019/08/19/wie-haben-sie-das-berechnet/" hostname="eike-klima-energie.eu" excerpt="Kip Hansen In der NYT erschienen jüngst zwei seltsame Artikel, welche scheinbar inkonsequente Merkwürdigkeiten mathematischer Berechnungen aufzeigen. Beide stammen von Steven Strogatz. Sie trugen die [übersetzten] Titel (in dieser Reihenfolge) „Die mathematische Gleichung, die das Internet zu verblüffen versuchte“ (hier). Zwei Tage später erschien „Diese irritierende Gleichung? Hier noch ein Zusatz“ (hier). Steven Strogatz ist Mathematik-Professor bei Cornell und Autor von „Infinite Powers: How Calculus Reveals the Secrets of the Universe“ (hier)." categories="Klima" tags="" fingerprint="bMS1Lu4sKj2FaH9EFTcWivyuyrI=">
+  <main>
+    <p>Was soll das alles nun? Ein Tweet über das, was Strogatz „mathematisches Twitter“ nennt. Das Tweet lautete:</p>
+    <p>Das ist einfach: Die korrekte Antwort lautet:</p>
+    <p>Jawohl, das stimmt! Die korrekte Antwort lautet: entweder 16 oder 1, abhängig von einem interessanten Aspekt der Mathematik. Das vorgestellte Image vermittelt uns ein paar Einsichten darüber, was hier los ist. Strogatz erklärt es so:</p>
+    <p>Obige Frage hat eine eindeutige und definitive Antwort – vorausgesetzt, wir richten uns alle nach den gleichen Regeln, welche die „Reihenfolge der Operationen“ vorgeben. Stehen wir wie in diesem Fall davor, verschiedene mathematische Operationen durchzuführen – um Ausdrücke in Klammern zu evaluieren, um Multiplikationen und Divisionen durchzuführen oder Additionen und Subtraktionen – die Reihenfolge der Durchführung dieser Operationen kann einen gewaltigen Unterschied ausmachen.</p>
+    <p>Wenn wir die Taschenrechner heranziehen, zeigt sich, dass meine Antwort absolut korrekt ist:</p>
+    <p>Der TI-84Plus C von Texas Instruments zeigt das Ergebnis „16”, während der Casio fx-115MS das Ergebnis „1” zeigt.</p>
+    <p>Auch eine rasche Durchsicht des Online-Taschenrechners ergibt gemischte Ergebnisse:</p>
+    <p>Und vielleicht etwas genauer:</p>
+    <p>Mathe-Freaks wissen, dass das Problem in der Reihenfolge der Operationen liegt, und es gibt Konventionen hinsichtlich dieser Reihenfolge. In der Schule haben wir eine der folgenden Konventionen gelernt:</p>
+    <p>BODMAS ist eine Abkürzung. Sie steht für Bracket, Of, Division, Multiplication, Addition und Subtraction. In manchen Regionen ist PEDMAS (Parentheses, Exponents, Division, Multiplication, Addition und Subtraction) das Synonym für BODMAS.</p>
+    <p>PEMDAS ist eine Abkürzung für die Begriffe Klammern (Parenthesis), Exponenten, Multiplikation, Division, Addition, Subtraktion. Finden sich zwei oder mehr Operationen in einer einzigen Gleichung, gibt die Reihenfolge der Buchstaben in PEMDAS vor, was zuerst berechnet werden muss, was als zweites usw. bis die Rechnung vollständig ist. Falls es Klammern in der Gleichung gibt, sagt PEMDAS, zuerst die Berechnungen innerhalb der Klammern durchzuführen.</p>
+    <p>Strogatz sagt: „Die strikte Antwort zu dieser elementaren PEMDAS-Konvention ergibt nur eine Antwort: „16“. Oh, aber sein Eingabefeld (his editor) und viele Leser „…bestanden darauf, dass die richtige Antwort ,1′ sei“.</p>
+    <p>Um Strogatz‘ Ergebnis „16“ zu erhalten, muss man Folgendes machen: 8/2 = 4, dann 4 x (2+2) oder 4 x 4 = 16.</p>
+    <p>Wie man das Ergebnis „1“ bekommt, erklärt Strogatz so:</p>
+    <p>Was war da los? Nach der Lektüre der vielen Kommentare zu dem Beitrag erkannte ich, dass die meisten Kommentatoren eine andere (und anspruchsvollere) Konvention als die elementare PEMDAS-Konvention bemühen, die ich in dem Artikel beschrieben habe.</p>
+    <p>In dieser anspruchsvolleren Konvention, die oftmals in der Algebra Anwendung findet, wird einer impliziten Multiplikation höhere Priorität eingeräumt als einer expliziten Multiplikation oder expliziten Division, in welchen jene Operatoren aus Symbolen bestehen wie x; *; / oder ÷. Unter dieser anspruchsvolleren Version wird der impliziten Multiplikation in 2(2+2) höhere Priorität eingeräumt als in der expliziten Division in 8÷2(2+2). Mit anderen Worten, 2(2+2) sollte zuerst evaluiert werden. Dann ergibt sich 8÷2(2+2) = 8÷8 = 1. Nach der gleichen Regel, so argumentierten viele Kommentatoren, ist der Term 8÷2(4) nicht synonym mit 8÷2×4, weil die Klammern die sofortige Berechnung verlangen, was wiederum 8÷8 = 1 ergibt.</p>
+    <p>Falls also jedermann den gleichen Konventionen folgt, und zwar sowohl bei der Konstruktion von Gleichungen als auch bei deren Lösung, wäre alles in Ordnung und wir würden alle die von uns erwartete Antwort bekommen.</p>
+    <p>Aber…:</p>
+    <p>Diese (anspruchsvollere) Konvention ist sehr vernünftig, und ich stimme zu, dass die Antwort dann ,1′ ist, falls wir alle dieser Konvention folgen. Aber das ist eben allgemein nicht der Fall. Die Taschenrechner von Google und WolframAlpha benutzen die elementarere Konvention und unterscheiden nicht zwischen impliziter und expliziter Multiplikation, wenn sie darauf programmiert werden, einfache arithmetische Terme zu berechnen.</p>
+    <p>Und außerdem, nachdem Google und WolframAlpha evaluierten, was immer in Klammern steht, löschen sie diese Klammern effektiv und stellen deren Inhalt nicht höher in der Priorität. Im Einzelnen interpretieren sie 8÷2(2+2) als 8÷2x(2+2) und behandeln dies synonym mit 8÷2×4. Dann haben gemäß PEMDAS Division und Multiplikation die gleiche Priorität. Also rechnet man von links nach rechts und erhält 8÷2×4 = 4×4 und kommt zum Ergebnis 16. Für meinen Beitrag habe ich mich entschieden, mich auf diese einfachere Konvention zu konzentrieren.</p>
+    <p>Unser werter Mathematiker folgert:</p>
+    <p>Genauso ist es wesentlich, dass jeder, der Software für Computer, Tabellen und Taschenrechner schreibt, die Regeln der Reihenfolge von Operationen kennt und diesen folgt.</p>
+    <p>Aber ich habe schon gezeigt, dass die Software-Schreiber nicht alle den gleichen Konventionen folgen … Strogatz weist darauf hin, dass selbst anspruchsvolle Software wie WolframAlpha und Google nicht den anspruchsvollen Regeln folgen und „16“ erhalten.</p>
+    <p>Das finale Statement von Strogatz lautet: „Einige Tabellen-Kalkulationen und Software-Systeme weigern sich schlicht und ergreifend, die Frage zu beantworten – sie schrecken vor der verstümmelten Natur zurück. Das ist auch mein Gefühl sowie das Gefühl der meisten Mathematiker, mit denen ich gesprochen habe. Falls man eine eindeutigere Antwort haben will, dann stelle man eine eindeutigere Frage.</p>
+    <p>Kenneth Change von der NY Times schrieb jüngst dazu den Beitrag „Essay: Why Mathematicians Hate That Viral Equation“.</p>
+    <p>—————————</p>
+    <p>Vielleicht findet der eine oder andere diesen Beitrag instruktiv oder erheiternd. Die wirkliche Krux des Ganzen ist, dass der ursprüngliche Term „8÷2(2+2) absichtlich so schlecht formuliert worden ist, damit er unklar bleibt.</p>
+    <p>Aber was soll das Ganze jetzt? Nun, es erhebt sich eine sehr ernste Frage: Falls einfache mathematische Gleichungen mit verschiedenen Antworten interpretiert werden können oder verschiedene Lösungen ergeben, abhängig von der Reihenfolge der Operationen und unter der Vorgabe, dass selbst ernste mathematische Software verschiedenen Konventionen folgt – welches der sehr anspruchsvollen mathematischen Modelle, in denen die Variablen alle voneinander abhängig sind, muss iterativ gelöst werden?</p>
+    <p>Was die Klimawissenschaft betrifft – werden unterschiedliche zukünftige Klima-Szenarien simuliert, falls jemand die Reihenfolge der Berechnung ändert? Nicht in dem einfachen Sinn dieser viralen Twitty-Gleichung, sondern in einem erheblich ernsteren Zusammenhang: Sollte ein Klimamodell, ein General Circulation Model, erst nach Temperatur auflösen? Oder nach Luftdruck? Oder zunächst die einfallende Strahlung berücksichtigen? Das IPCC-Diagramm sieht so aus:</p>
+    <p>Ich versuchte, die Anzahl der Variablen zu zählen, die in diesem vereinfachten Diagramm auftauchen, und kam auf ein paar Dutzend – bevor ich erkannte, dass es zu vereinfacht war, um eine reale Anzahl zu liefern. Wo beginnt das Modell mit jeder Iteration? Spielt es eine Rolle, mit welcher Variablen es anfängt? Ergibt die Reihenfolge der Berechnungen vereinfachter Versionen der nicht-linearen Gleichungen einen Unterschied hinsichtlich der Ergebnisse?</p>
+    <p>Das muss es – würde ich denken.</p>
+    <p>Rechnen alle GCMs der westlichen Welt in der gleichen Reihenfolge? Was ist mit den zumeist unabhängigen russischen Modellen (INM-CM4 and 5)? Ergeben die russischen Modelle realistischere Ergebnisse, weil sie die mathematischen Operationen mit einer anderen Reihenfolge durchführen?</p>
+    <p>Ich weiß es nicht – aber es ist eine schreckliche Frage.</p>
+    <p>Link: https://wattsupwiththat.com/2019/08/07/howd-they-calculate-that/</p>
+    <p>Übersetzt von Chris Frey EIKE</p>
+    <p>Bemerkung des Übersetzers: Mit der einfachen Gleichung oben werde ich mal „hausieren“ gehen, mal sehen, was so kommt. Aber mir kam ein ganz anderer Gedanke: Da die CO2-Geschichte ja rein politischer Propaganda-Natur ist, wird man sicher die Reihenfolge der Rechnungen so gewählt haben, dass das Gewünschte herauskommt. Wie ist das eigentlich bei den kurz- und mittelfristigen Wettervorhersagemodellen (GFS, EZMW, ICON usw.)?</p>
+  </main>
+  <comments>
+    <p>Das Problem liegt einfach in der unbestimmten Gleichung, welche den Term „2“ nicht eindeutig der Operation als Divisor der 8 oder als Faktor der Klammer (2+2) zuweist.“</p>
+    <p>Das sehe ich nicht so.</p>
+    <p>Das Fehlen eines Operators vor der Klammer weist die 2 eindeutig als Faktor des Klammerausdrucks aus.</p>
+    <p>Bei einer Gleichung wie y = 4 ÷ 2x kommt ja auch niemand auf die Idee, die 2 als Divisor der 4 zu behandeln.</p>
+    <p>oiso – des is ganz oafch, da nimmt ma d Finga und zoit zamma no kimmt zehne raus und des is z vui. Wenn ma de Damma (Daumen) weglast bleim Achte üba. Jetzat werds kompliziert. Do san zwoa Zeigefinga, zwoa Middlfinga, zwoa Ringfinga und zwoa kloane Finga. Mir ham zwoa Hend und wann ma obzät san des wirkli 10 Finga.</p>
+    <p>Beim Jagaloisl stimmt des net, der hat si an linka Damma wegschnin beim brotscheidn. Wamma na mit da rechtn Hand e linkn Finga zait ohne Damma kimmt fiere raus und bei da rechtn hand des gleiche. Jetzat is scho oafacha. Denn ma hot zwoamoi viere und des gibt wahrscheinli achte.I hob unsan hochwürn Herrn Pfarrer gfrogt und de sogts gleiche – dann muas stimma.</p>
+    <p>Robert Kümmel</p>
+    <p>230-220*1/2=?</p>
+    <p>Die Antwort lautet 5! Warum das trotz Punkt-vor-Strich-Regel richtig ist:</p>
+    <p>https://www.spektrum.de/kolumne/das-versteckte-mathematische-zeichen/1667294</p>
+    <p>Wir wissen doch alle, dass diese ganze Computerrechnerei für die Katz ist, weil das CO2 nichts für‘s Klima kann. Mir ist es, ehrlich gesagt, völlig wurscht, welchen Term die mit ihrer geballten Rechnerkapazität (die jede Menge Energie vergeudet!) zuerst nicht sinnvoll auflösen. Iterieren ist menschlich?</p>
+    <p>8:2(2+2) = 8:2*(2+2) = 8:(2+2)*2 = 8:4*2 = 2*2 = 4</p>
+    <p>… also weder 16 noch 1.</p>
+    <p>(Faktoren eines Produkts sind in der Reihenfolge der Berechnung beliebig!)</p>
+    <p>Das Problem liegt einfach in der unbestimmten Gleichung, welche den Term „2“ nicht eindeutig der Operation als Divisor der 8 oder als Faktor der Klammer (2+2) zuweist.</p>
+    <p>Das stimmt zwar nicht, aber Sie hören sich ganz wichtig an.</p>
+    <p>Noch einfacher als Sie? Bitte, bitte versuchen Sie zu denken und plappern Sie nichts nach, nur weil es Ihnen gerade in den Kram passt!</p>
+    <p>Warum wohl?</p>
+    <p>„Erstens Strichrechnung geht vor Punktrechnung.“</p>
+    <p>Aua, aua!</p>
+    <p>Man löst die Klammer auf und da es sich um gleichwertige Rechenzeichen handelt rechnet man von links nach rechts.</p>
+    <p>8:(2x(2+2))=1</p>
+    <p>untere Version ist identisch mit der Darstellung des *durch* als Bruchstrich.</p>
+    <p>Fehlende Rechenzeichen und fehlende Klammern — keine Ausrede. Kein Wunder, daß der Parser da Mist versteht.</p>
+    <p>Aber wenn die (Klima)Modelle an so etwas scheitern…</p>
+    <p>Nein, das tun sie nicht. Funktionen und Module werden geprüft, getestet, freigegeben, im größeren Rahmen getestet, wieder freigegeben…</p>
+    <p>Wir sind nicht mehr im Zeitalter des Pentiumfehlers — oder doch?</p>
+    <p>Im Zeitalter des Klimawahns sind wir jetzt!.</p>
+    <p>Faule Ausrede! Andere Berechnungen scheitern ja auch nicht.</p>
+    <p>Carsten<p>—</p></p>
+    <p>Demagogie schlägt Demokratie</p>
+    <p>8/2*(2+2) = 16</p>
+    <p>8/(2*(2+2)) = 1</p>
+  </comments>
+</doc>

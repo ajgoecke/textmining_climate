@@ -1,0 +1,409 @@
+Der vorläufigen IPCC-Inquisition ist in ihrer Kritik meines hemisphärischen S-B-Ansatzes weiterhin eine rein „astrophysikalische“ Sicht auf unsere Erde vorzuwerfen. Ausgerechnet jener Anblick aus dem All, der das optische Bild unseres „Blauen Planeten“ prägt, ist nämlich derjenige Anteil der solaren Einstrahlung, der gar nicht an der globalen Temperaturgenese auf der Tagseite unserer Erde beteiligt ist. Und der ominöse „Faktor 4“ der vorläufigen IPCC-Inquisition beschreibt dann sofort eine Art globaler Abstrahlung.
+Nun liegt die „Temperaturwerdung“ (Temperaturgenese) auf der Tagseite unserer Erde (@2πR²) aber genau zwischen solarer Einstrahlung (@πR²) und terrestrischer Abstrahlung (@4πR²) – denn kein vernünftiger Mensch dürfte abstreiten, dass es auf unserer Erde Tag und Nacht gibt. Es gilt auf unserer Erde also für das rechnerische S-B-Temperaturäquivalent (S-B-T):
+(S-B-T Einstrahlung @ πR²)≠(S-B-T Tagseite @ 2πR²) ≠ (S-B-T Abstrahlung @ 4πR²)
+Um den ominösen „Faktor 4“ der vorläufigen IPCC-Inquisition für die Temperaturgenese auf unserer Erde vermittels eines vorgeblich „natürlichen atmosphärischen Treibhauseffektes“ zu erschüttern, mag ein Verständnis der Entwicklungsgeschichte meines hemisphärischen Stefan-Boltzmann-Ansatzes hilfreich sein. Ich erlaube ich mir daher, alle meine Beiträge zum hemisphärischen S-B-Ansatz hier auf EIKE unter (*) in der Schlussbemerkung noch einmal komplett aufzulisten.
+Mit keinem anderen physikalischen Gesetz wird so viel Schindluder getrieben wie mit dem Stefan-Boltzmann-Gesetz. Das Stefan-Boltzmann-Gesetz stellt eine Beziehung zwischen Temperatur und Strahlungsleistung eines Schwarzen Körpers in einem GLEICHZEITIGEN gemeinsamen thermischen Gleichgewicht her. Dieses physikalische Gesetz wird aber häufig dazu missbraucht, um beliebig ermittelte Durchschnittswerte der Strahlungsleistung in eine Temperatur oder umgekehrt beliebig ermittelte Durchschnittstemperaturen in eine Strahlungsleistung umzurechnen, die weder zeitgleich eintreten noch physikalisch direkt miteinander interagieren.
+Die allgemeine Form des Stefan-Boltzmann-Gesetzes wird auch als Umgebungsgleichung bezeichnet:
+P/A = σ * (T4 – T04)
+mit der Stefan-Boltzmann-Konstanten σ = 5,670 10 -8 [W m-2 K-4],
+P = Strahlungsleistung in [W], A = Fläche [m²], T und T0 Temperaturen in [K]
+In der üblicherweise dargestellten Form lautet das Stefan-Boltzmann-Gesetz:
+P/A = σ * T4
+Diese Form des Stefan-Boltzmann-Gesetzes stellt den astronomischen Spezialfall für eine Umgebungstemperatur T0 von 0 Kelvin dar.
+Das Stefan-Boltzmann-Gesetz stellt somit eine feste Beziehung zwischen Strahlungsleistung, Oberfläche und Temperatur eines Schwarzen Körpers her, oder anders ausgedrückt, es setzt für eine konkrete TEMPERATUR eine flächenkonstante SPEZIFISCHE Strahlungsleistung (P/A=konst. @A) voraus. Denn im S-B-Experiment hat ein Schwarzer Körper eine genau DEFINIERTE Temperatur, bei der er über seine gesamte Oberfläche ZEITGLEICH mit einer DEFINIERTEN konstanten Leistung abstrahlt.
+Lediglich im ersten Bericht des IPCC von 1992 wird der „natürliche atmosphärische Treibhauseffekt“ noch irgendwie beschrieben; alle Folgeberichte beziehen sich dann nur noch auf seine vorgebliche Wirkungsweise durch heiße Luft (=„klimaaktive Gase“). Eine exakte Herleitung dieses „natürlichen atmosphärischen Treibhauseffektes“ sucht man auch in der physikalischen Literatur vergebens (Gerlich & Tscheuschner 2009). Selbst im Internet beschränkt sich die aktuelle Information über den atmosphärischen Treibhauseffekt auf wenig konkrete Allgemeinplätze und verallgemeinerte Flussdiagramme; das amerikanische Wikipedia bietet immerhin noch eine dünne Erklärung mit konkreten Zahlenwerten an, Zitat mit Hervorhebungen:
+“…If an ideal thermally conductive blackbody were the same distance from the Sun as Earth is, it would have a temperature of about 5.3 °C. However, because Earth reflects about 30% of the incoming sunlight, this idealized planet’s effective temperature (the temperature of a blackbody that would emit the same amount of radiation) would be about −18 °C. The surface temperature of this hypothetical planet is 33 °C below Earth’s actual surface temperature of approximately 14 °C. The mechanism that produces this difference between the actual surface temperature and the effective temperature is due to the atmosphere and is known as the greenhouse effect…”
+Dank an den neutralen Google-Übersetzer mit einer [Korrektur]:
+„… Wenn ein idealer wärmeleitender Schwarzkörper genauso weit von der Sonne entfernt wäre wie die Erde, hätte er eine Temperatur von etwa 5,3 ° C. Da die Erde jedoch ungefähr 30% des einfallenden Sonnenlichts reflektiert, würde die effektive Temperatur dieses idealisierten Planeten (die Temperatur eines schwarzen Körpers, der dieselbe Strahlungsmenge [-leistung] emittieren würde) ungefähr –18 ° C betragen. Die Oberflächentemperatur dieses hypothetischen Planeten liegt 33 ° C unter der tatsächlichen Oberflächentemperatur der Erde von ungefähr 14 ° C. Der Mechanismus, der diese Differenz zwischen der tatsächlichen Oberflächentemperatur und der effektiven Temperatur erzeugt, ist atmosphärisch bedingt und wird als Treibhauseffekt bezeichnet. “
+Anmerkung: Auch hier auf Wikipedia sind bereits gewisse „Anpassungen“ an den „menschengemachten“ Klimawandel zu erkennen. Ursprünglich wurde der Beitrag eines „natürlichen atmosphärischen Treibhauseffektes“ (THE) zur Globaltemperatur nämlich als Differenz von 33°C zwischen den -18°C aus der konventionellen globalen S-B-Ableitung und einer vorgeblich „gemessenen“ globalen Durchschnittstemperatur von 15°C bestimmt (Sekundärzitat auf Kiehl et al. (1997) für diese Globaltemperatur hier auf Seite 7 im 2. Absatz). Auf Wikipedia wird durch deren Reduzierung auf 14°C (THE32°C) nunmehr Platz für einen „anthropogenen“ Temperaturanstieg von etwa 1°C geschaffen, wodurch der Temperaturanstieg seit Beginn der Industrialisierung allein dem anthropogenen CO2-Ausstoß zugerechnet wird.
+Die WMO gibt die globalen Absoluttemperaturen für die vergangenen Jahre mit (14,57°C@2014, 14,76°C@2015, 14,83°C@2016, 14,76°C@2017 und 14,68°C@2018) an und bleibt damit sogar noch unter der Globaltemperatur von Kiehl et al. (1997).
+Ein „natürlicher atmosphärischer Treibhauseffekt“ scheint also heutzutage zum gesicherten allgemeinen Glaubensrepertoire zu gehören und bedarf offenbar keiner tieferen physikalischen Erklärung mehr. Versuchen wir trotzdem einmal, die dargestellten Eckwerte zu rekonstruieren und ihre Relevanz zu hinterfragen. Wenn wir in die Solarkonstante “S0” (= 1.367 W/m²) in das S-B-Gesetz einfügen, dann erhalten wir für die temperaturwirksame Sonneneinstrahlung:
+S0 * (1-α) = P/A = σ * T4 mit α = Albedo der Erde und (P/A=konst. @A)
+Solange wir es mit selbststrahlenden Sternen und einheitlichen Werten der spezifischen Strahlungsleistung auf den betrachteten Flächen (P/A=konst.) zu tun haben, ist die Anwendung des Stefan-Boltzmann-Gesetzes trivial. Sehr viel komplizierter wird es, wenn wir uns mit einem passiv „beheizten“ Planeten wie der Erde (spezifische Einstrahlungsleistung = Funktion von Tageszeit und geographischer Breite) befassen. Denn das Stefan-Boltzmann-Gesetz muss vor einer jeglichen Mittelwertbildung für das S-B- Temperaturäquivalent zuerst auf die örtlich konstanten Individualwerte der spezifischen Strahlung angewendet werden (Gerlich 1995), wie auch meine nachstehende Ungleichung nachweist:
+mit Si = individuelle spezifische Strahlungsleistung (Pi/Ai) und
+TS-B = Gemittelte Durchschnittstemperatur aus den individuellen S-B-Temperaturäquivalenten
+TM = Durchschnittstemperatur als aus einer gemittelten Strahlungsleistung
+Nur wenn die einzelnen S-B Temperaturäquivalente vor der Mittelwertbildung aus der jeweiligen örtlichen Strahlungsleistung (Si=Pi/Ai=konst. @ Ai) berechnet werden, ergibt sich ein korrektes
+Mittel für die Temperatur auf der Tagseite. Im S-B-Experiment strahlt ein Schwarzer Körper bei konstanter Temperatur mit einer konstanten Flächenleistung (P/A=konst. @A), aufgrund der Versuchsanordnung praktisch als Quasi-2-D-Strahler. Für eine Anwendung des S-B-Gesetzes auf eine beliebige bestrahlte Fläche „A“ ergibt sich also das folgende Dilemma:
+Für die Anwendung des Stefan-Boltzmann-Gesetzes auf die passiv bestrahlte Erde ergibt sich damit die folgende Situation für das rechnerische S-B-Temperaturäquivalent (S-B-T):
+S-B-T Einstrahlung @ πR²: Sonneneinstrahlung auf einer Kreisfläche mit (A = πR2) und (P/A=konst.)
+=> eine direkte S-B Anwendung ist möglich
+S-B-T Tagseite @ 2πR²: Sonnenstrahlung auf der Tagseite der Erde mit (A = 2πR2) und (P/A≠konst.)
+=> eine S-B Anwendung ist lediglich auf Teilflächen mit (P/A=konst.) möglich
+S-B-T Abstrahlung @ 4πR²: Mittelung der solaren Einstrahlung über die gesamte Erdoberfläche mit (A = 4πR2) und (P/A≠konst. @ Tagseite mit 2πR2) sowie (P/A=0 @ Nachtseite mit 2πR2)
+=> es ist keine S-B-Anwendung über die Gesamtfläche der Erde möglich, denn die Nachtseite erfüllt die S-B-Bedingung eines gemeinsamen thermischen Gleichgewichtes NICHT (für die Abstrahlung @ 4πR2 gilt vielmehr die Umgebungsgleichung des Stefan-Boltzmann-Gesetzes)
+Schaunmeralsomalgenauhin:
+Eine S-B konforme Temperaturberechnung muss demnach additiv über die Mittelung aller Flächenelemente mit gleicher spezifischer Sonneneinstrahlung auf der Tagseite der Erde erfolgen, wie die nachfolgende Abbildung zeigt.
+Berechnungsschema:
+Lotrechter Sonnenstand auf dem Äquator,
+Berechnung des S-B-Temperaturäquivalents aus der
+lokalen solaren Einstrahlung auf Mantelringen mit dem Radius ri
+und dem Zenitwinkel i nach der Formel: Si = S0 * (1-α) * cos ?i = σ * Ti 4S-B
+Summation von 0°-90° über konzentrische Mantelringe von 1° Breite
+Die Gleichung für einen flächengewichteten Mittelwert der örtlichen S-B-Individualtemperaturen lautet dann:
+Mittelwert der S-B-Temperaturäquivalente auf der Tagseite der Erde
+Die Berechnungen für die nachfolgenden Abbildungen beruhen auf einem mittäglich zenitalen Sonnenhöchststand in äquinoktialer Position und wurden in konzentrischen 1°-Ringen des individuelle Zenitwinkels ?i von 0° bis 90° gegenüber einem äquatorialen Sonnenstand durchgeführt:
+Dabei wurden die hemisphärischen Strahlungswerte Si und das zugehörige S-B-Temperaturäquivalent Ti für die jeweilige Ringmitte ermittelt, also beispielsweise bei 1,5° für den Ring von 1°-2°:
+Die Berechnungen für diese Grafiken stellen lediglich eine Momentaufnahme bei konstantem äquatorialem Sonnenstand dar und repräsentieren für keine Position auf der Taghalbkugel der Erde einen vollen Tageszyklus. Wir berechnen trotzdem einmal einen flächengewichteten Temperaturdurchschnitt aus den konzentrischen 1°-Mantelringen der Tagseite für individuelle Zenitwinkel von 0° bis 90° bei einem äquatorialen Sonnenstand:
+mit Ti=S-B-Temperaturäquivalent und Fi=Fläche eines 1°-Mantelrings mit ri und ?i (= ?ri +/- 0,5°)
+Anmerkung: Dieses Ergebnis für ein durchschnittliches hemisphärisches S-B-Temperaturäquivalent dürfte sich noch etwas erhöhen, wenn die Mantelringe schmaler gewählt werden.
+Dieses Flächenmittel für das hemisphärische S-B-Temperaturäquivalent von 14,03 °C kommt schon recht nahe an die vorgeblich „gemessene“ globale Durchschnittstemperatur (NST) heran (S. dazu auch die obige Anmerkung zur Wikipedia-Übersetzung für den THE). Aus der „Brennglasperspektive“ der obigen hemisphärischen Summation erscheint die „Klimaküche“ zwischen den Wendekreisen gegenüber einem normalen Tagesverlauf unterrepräsentiert, während die randlichen Mantelringe in hohen relativen Breiten mit ihren negativen Celsius-Temperaturen überrepräsentiert sind. Aber die hier vorgestellte Approximation wird durch das Ergebnis von Gerlich and Tscheuschner (2009) gestützt, die eine Stefan-Boltzmann-Integrallösung für die Durchschnittstemperatur der gesamten Erdoberfläche (4R2) hergeleitet hatten. Diese physikalische Globaltemperatur Tphys beträgt -129 °C, respektive 144,15 °K für die gesamte Erdoberfläche (4R2). Wir haben aber gesehen, dass lediglich die Tagseite der Erde (2R2) im Strahlungsgleichgewicht zwischen Sonne und Erde mit dem Stefan-Boltzmann-Gesetz betrachtet werden darf. Von daher muss diese Lösung von Gerlich and Tscheuschner (2009) auf die Tagseite der Erde (2R2) reduziert werden:
+Lösung G&T * 4πR2 / 2πR2 = 2 * Lösung G&T Korrektur der Integrallösung von G&T
+Folglich verdoppelt sich die Lösung von Gerlich and Tscheuschner für die physikalische Temperatur auf Tagseite der Erde zu:
+Tphys-korr = 288,3 °K oder 15,15 °C Integrallösung G&T mit der Korrektur des Autors @ 2πR2
+Die Differenz zwischen der hemisphärischen Summation über das zenitabhängige S-B-Temperaturäquivalent Ti und der korrigierten Lösung von G&T (2009) verwundert nicht. Vielmehr dürfte diese korrigierte Integrallösung den Grenzwert (?? -> 0) für die vorgestellte Summation über konzentrische Mantelringe darstellen. Der Limes für den Mittelwert der Temperatur in beliebig kleinen Schritten ?? von ? =0° bis 90° ergäbe sich dann für (0° ≤ ?i ≤ 90° und ??i -> 0) zu:
+(=15,15°C)
+Die Temperaturgenese auf unserer Erde erfolgt also ausschließlich auf deren Tagseite (@ 2R2). Die Ableitung einer „theoretischen“ Durchschnittstemperatur für die gesamte Erdoberfläche muss also eine Fiktion bleiben, weil das Stefan-Boltzmann-Gesetz auf der Nachtseite der Erde nicht anwendbar ist, jedenfalls nicht in einem Zusammenhang mit der direkten Sonneneinstrahlung. Vielmehr gilt dort, wie natürlich auch auf der Tagseite (also insgesamt @ 4R2), die Umgebungsgleichung des Stefan-Boltzmann-Gesetzes für die örtliche Abstrahlung aufgrund der thermischen Interaktion mit den globalen Wärmespeichern (Atmosphäre und Ozeane).
+Die mit dem S-B Gesetz ermittelten Durchschnittstemperaturen für die Tagseite der Erde THEM und Tphys-korr lassen keinerlei Raum für einen „natürlichen atmosphärischen Treibhauseffekt“ von 33 °C, sondern sind vielmehr ein Beweis für meinen hemisphärischen Stefan-Boltzmann Ansatz.
+—————————————
+Danksagung: Der Autor bedankt sich bei der EIKE-Redaktion für Korrekturen am Text und fachliche Hinweise zur vorgeblich „gemessenen“ Globaltemperatur.
+Schlussbemerkungen: Alle Strahlungswerte für die hier vorgestellten Berechnungen wurden aus den globalen Durchschnittswerten von KIEHL and TRENBERTH (1997) abgeleitet. Wegen der bereits darin enthaltenen Rundungen auf volle W/m² und weiteren Rundungen in den nachfolgenden Berechnungen, sowie unterschiedlichen Werten für die Albedo der Erde, kann es zu Differenzen gegenüber direkt abgeleiteten Strahlungswerten und S-B Temperaturäquivalenten kommen; das gilt beispielsweise für die „natürliche“ Temperatur der Erde von -18 °C respektive -19 °C.
+(*) Die versprochene Auflistung meiner hemisphärischen S-B-Beiträge hier auf EIKE:
+- 23. Januar 2017: Über einen vergeblichen Versuch, unsere Welt vor der Dekarbonisierung zu retten
+- Februar 2017: Wer im Treibhaus sitzt…
+- 16. Februar 2017: Nachdem sich der Rauch verzogen hat: Stefan-Boltzmann auf den Punkt gebracht
+- 23. Juni 2017: Noch ein paar Fragen zum „natürlichen“ atmosphärischen Treibhauseffekt
+- Juli 2017: Beweist die Temperatur des Mondes den hemisphärischen Stefan-Boltzmann Ansatz?
+- 19. August 2017: Machen wir mal ein Gedankenexperiment: Es gibt gar keine Erde!
+- 26. November 2017: Rückblick: Ein Jahr hemisphärischer Stefan-Boltzmann Ansatz
+- 30. November 2017: Nicht immer passt wirklich alles zusammen
+- 22. Februar 2018: Eine barrierefreie Erklärung für die hemisphärische Temperaturgenese auf unserer Erde
+- Mai 2018: Fangen wir mit dem Stefan-Boltzmann-Gesetz noch einmal ganz von vorne an
+- 29. Juli 2019: Safety First: Zum besseren Verständnis meiner hemisphärischen Energiebilanz
+Es ist abschließend anzumerken, dass es sich beim „Weber’schen Hemisphärenansatz“ um ein völlig neues Modell für die Temperaturgenese auf unserer Erde handelt. Mein Modell konkurriert also auf gleicher Ebene mit allen bestehenden Modellen, die diese Temperaturgenese ebenfalls zu beschreiben suchen. Eine Skandalisierung meines Modells anhand von bekanntem Lehrbuchwissen, in dem diese konkurrierenden Modelle dargestellt werden, ist also wissenschaftlich absolut unzulässig. Konkurrierende Modelle können sich untereinander weder bestätigen noch widerlegen; das geht nur über deren gemeinsame physikalische Grundlagen. Mein hemisphärischer Stefan-Boltzmann-Ansatz kann also jederzeit über die bestehenden grundlegenden physikalischen Gesetze widerlegt werden. Alle meine Kritiker sind daher höflich aufgefordert, meine bereits mehrfach erhobene Widerlegungsanforderung über einen physikalischen Gleichwertigkeitsnachweis von Tag und Nacht zu erbringen, Zitat:
+„Wenn also wissenschaftlich eindeutig nachgewiesen würde, dass die Gleichsetzung der Energiebilanz unserer Erde (Fläche einer Kugel) mit der strengen thermischen Gleichgewichtsforderung des Stefan-Boltzmann Gesetzes für die bestrahlte Fläche (Halbkugel) physikalisch korrekt ist, dann bin ich tatsächlich widerlegt.“
+Die Skandalisierungen meiner Erkenntnisse erheben mich ungewollt in den Status von solchen naturwissenschaftlichen Größen, die mit bahnbrechenden wissenschaftlichen NEUERUNGEN gegen den Mainstream angeschwommen sind. In meinem Fall müssten aber hunderttausende von Menschen mit einer akademischen Ausbildung in Physik meiner Korrektur von BESTEHENDEM unmittelbar folgen können; von Abiturienten im gymnasialen Physik-Leistungskurs einmal ganz zu schweigen.
+Denn mein hemisphärischer Stefan-Boltzmann-Ansatz basiert lediglich auf der strengen physikalischen Randbedingung der GLEICHZEITIGKEIT im Stefan-Boltzmann-Gesetz, die dort seit Stefan und Boltzmann fest verankert ist und durch das mathematische Gleichheitszeichen repräsentiert wird. Auch der gemeine Physikprofessor mag daher das Stefan-Boltzmann-Gesetz noch nicht vollständig durchdrungen haben. Der Lernhelfer zum S-B-Gesetz könnte vielleicht auch ihm eine Hilfestellung zum besseren Verständnis geben – und „Simsalabim“ ist der auf einer „Gegenstrahlung“ aufbauende „natürliche atmosphärische Treibhauseffekt“ einfach verschwunden!
+ich sehe, sie haben es nicht weit geschafft.
+Sie erwaehnen zwei schwarze Koerper in einem Ihrer Beitraege.
+Frage: sollen das Schwarzkoerper Keorper sein?
+Wie sie wissen arbeiten die Klimamodelle mit der Schwarzkoerpertheory. Wie sie wissen, haben solche Schwarzkoerper die Eigenschaft ohne auf die Waermekapazitaet zu achten entsprechend Ihrer Temperatur im Schwarkoerperspektrum abzustrahlen. In der Klimatheorie kommt die abgestrahlte Energie aus der Sonnenstrahlung. Die Aussage der Klimatheorie ist insofern widerspruechlich, weil die Angestrahlte Hemisphaere die doppelte Leistung aufnimmt, als ueber die gesamte Oberflaeche abgestrahlt wird.
+Insofern geht die Klimatheorie von einer Waermespeicherung aus, die aber nicht naeher erlaeutert wird. Damit stimmt aber auch die Annahme des Schwarzkoerpers nicht.
+Der Hemisphaerische Ansatz von Herrn Weber, weisst auf diese Missstaende hin. Wenn sie also Herrn Webers Vorgehensweise angehen, dann muessen sie auch die Klimawissenschaft hinterfragen.
+Ich sage es noch mal, die eingehende Leistung der Sonne erfolgt auf einer Hemisphaere. Ein Schwarzkoerper wuerde entsprechend eine Temperatur annehmen wie Lokale Einstrahlung es vorgibt. Das ist das was die Klimatheorie macht.
+Es gibt aber weit hoehere Temperaturen ueberall auf der Welt als die Mittelung ueber die gesamte Oberflaeche vorraussagt. Herrn Webers Ansatz kann diese Temperaturen erklaeren.
+Im uebrigen sollte es anhand von einschlaegiger Klimaliteratur klar sein, das die Ozeane die Waermespeicher und Waermeverteiler sind, die das Klima und die durchschnittlichen Temperaturen bestimmen.
+mfg Werner
+mutige Erklärung und richtiger Ansatz !
+Lassen Sie sich fürs erste ans Kreuz nageln,an einem beliebigen Ort vor Sonnenaufgang.
+Wenn Sie dieses Experiment bei Sonnenschein bis zum Abend aushalten,wissen Sie aus eigenem Erleben wie Physik funktioniert.
+Die größte Wirkung haben Sonnenstrahlen,wenn die bestrahlte Fläche senkrecht zu ihnen geneigt ist.
+bei ihrer Berechnung der Durchschnittstemperatur durch Summierung über die „konzentrischen Mantelringe“ ist ihnen leider ein Fehler unterlaufen.
+Sie vergessen völlig, dass sich die Erde dreht. Und das so schnell, dass sich der größte Anteil der Erdoberfläche mit Überschallgeschwindigkeit nach Osten bewegt.
+Daher ist es im Westen ihrer äußeren Mantelringe, die aus der kalten unbeschienenen Rückseite der Erde hervorgeschossen kommen, sehr viel kälter, als sie mit ihrer Formel berechnen. Ihre berechnete Durchschnittstemperatur ist daher falsch.
+Die wirklich interessante Frage ist, warum hat die Schattenseite ueberhaupt eine Temperatur?
+Was laut Frau Fischer, da so „rausgeschossen“ kommt, hat ja schon ne Temperatur oder nicht? Da muss Frau Fischer noch erklaeren warum.
+Herr Webers Theorie hat den Vorteil, das er die richtige Bestrahlungsstaerke zugrunde legt, aus der man folgern darf, das durchschnittliche Temperaturen ueber -18 Grad C auf der Erdoberflaeche gundsaetzlich moeglich sind und nicht eine Funktion von einer irrelevanten Rueckstrahlung sind.
+Um die Temperaturen der Atmposphaere der Erde zu verstehen muss man die Erdeigentemperatur, die Temperatur der Ozeane verstehen und alle Waermeuebertragungprozesse beruecksichtigen.
+Die Frage der Erdrotation ist uebrigens auch im Kiehl Trennberth Diagram nicht beruecksichtigt. Das Diagram beruecksichtigt nicht mal Tag und Nacht.
+Mit einem haben sie Recht, wir brauchen noch ne ganz Menge andere Argumente nachdem man erst mal Herrn Webers Ansatz verstanden hat.
+Alle Materie hat eine Temperatur. Deshalb wäre es in Herrn Webers Erdmodell absurd anzunehmen, dass die Rückseite der Erde keine Temperatur besäße.
+Die Klimawissenschaft vereinfacht die Erde auch zu einer immerwaehrend Sonnenbeschinenen Flaeche, obwohl wir wissen, das sie eigentlich rund ist und es Tag und Nacht gibt.
+Die Frage ist welchem der Modelle sollte man vertrauen. Dem das zumindestens erklaert, das durchschnittliche Temperaturen ueber -18 Grad C auf der Erde moeglich sind, oder dem, das eine unphysikalische Erwaermungswirkung durch Treibhausgase kolportiert?
+Das Einbeziehen der Drehung der Erde ist natuerlich gegeben und erfolgt auf der Grundlage, das der Mantelringmittelpunkt sich entsprechend der Drehung der Erde mitbewegt. Insofern referenziert die Rechnung von Herrn Weber also immer den Zenit der Sonne, welcher dieser Mittelpunkt ist.
+Damit beruecksichtigt die Rechnung von Herrn Weber die Tatsache, das die Sonne zwar 24 Stunden auf die Erde scheint, aber nur immer eine Hemisphaere bestrahlt.
+beziehen sie sich auf ein anderes Werk von Herrn Weber?
+Aus seinen obigen Ausführungen geht eindeutig hervor, dass die Mittelpunkte seiner Mantelringe immer auf der Verbindungsstrecke zwischen Erdmittelpunkt und Sonnenmittelpunk liegen.
+Er schreibt:
+„Eine S-B konforme Temperaturberechnung muss demnach additiv über die Mittelung aller Flächenelemente mit gleicher spezifischer Sonneneinstrahlung auf der Tagseite der Erde erfolgen“
+Würden sich, wie sie sagen, die Mantelringmittelpunkte entsprechend der Drehung der Erde mitbewegen, dann würden die Flächenelemente auf den Mantelringen offensichtlich nicht mehr die gleiche spezifische Sonneneinstrahlung erhalten und Herrn Webers Rechnung wäre wiederum falsch.
+„die Mittelpunkte seiner Mantelringe immer auf der Verbindungsstrecke zwischen Erdmittelpunkt und Sonnenmittelpunk liegen“
+das duerfte der Definition vom Zenith entsprechen. Die Entsprechung „immer“ bezieht sich auf die Zeit. Es gibt immer diese gedachte Verbindungslinie Erde Sonne und die Sonne steht immer irgendwo im Zenith.
+Wo sagt Herr Weber denn, das die Mantelringe statisch sind? Es geht hier um ein dynamisches System. Das Model arbeitet mir der Drehung der Erde. Und es beruecksichtigt die Tag und Nachtseite der Erde.
+Sie muessen ihre Behauptung das die Rechnung falsch ist besser Qualifizieren. Fangen sie damit an das Model zu verstehen.
+ich glaube wir sollten erst mal Herrn Weber Gelegenheit geben, auf meinen Einwand einzugehen. Vielleicht kann kann er dann auch gleich die Unklarheiten bezüglich des Wesens seiner konzentrischen Mantelringe beseitigen.
+Ich rechne eben sehr schnell, denn wenn’s länger als 1 Sekunde dauert, dann wird aus Leistung Arbeit, und die möchte ich mir ersparen…
+bei ihren Berechnungen müssen sie, von physikalisch sinnvollen Annahmen ausgehen. Auch wenn sie ein sehr einfaches Modell gewählt haben. Sonst kommt bei ihren Berechnungen nichts sinnvolles heraus.
+Nehmen wir einmal an, sie haben zwei identische schwarze Gegenstände. Den ersten legen sie in die Sonne. Dann warten sie eine Stunde, und legen den zweiten daneben. Wenn sie jetzt beide Gegenstände anfassen, werden sie bemerken, dass der erste eine höhere Temperatur besitzt als der zweite.
+Wir sehen also, dass die nach dem Stefan-Boltzmann-Gesetz zu erwartende Temperatur erst nach einer gewissen Zeit angenommen wird.
+Bei ihrer Berechnung mit den konzentrischen Mantelringen ignorieren sie diese Tatsache. Sie nehmen an, die Temperatur am westlichen Rand entspräche sofort nach Sonnenaufgang der Stefan-Boltzmann-Temperatur, so als würde sich der Erdboden nicht erst allmählich aufwärmen.
+Aus diesem Grund erhalten sie kein sinnvolles Ergebnis.
+Nach dem vorliegenden Diskussionsverlauf erübrigt sich die Frage, ob Sie mein S-B-Modell wirklich verstehen oder erkenntnisresistent infrage stellen wollen. Herr Schulz hatte Ihnen ja bereits mit bewundernswerter Geduld goldene Brücken gebaut. Da hätten Sie zwischenzeitlich auch schon mal über den Unterschied zwischen Schallgeschwindigkeit und Lichtgeschwindigkeit reflektieren oder vielleicht sogar Ihre Kernbehauptung mit meiner Temperaturgrafik abgleichen können. Stattdessen halten Sie Ihre initiale Fehlerbehauptung weiterhin voller Selbstvertrauen aufrecht.
+Also nehmen Sie das jetzt bitte nicht persönlich, aber überall da, wo bereits einleitend mit vordergründigen Fehlerbehauptungen argumentiert wird, die dann in der Folge mit hartnäckiger Erkenntnisresistenz selbstbewusst aufrechterhalten werden, handelt es sich nach meinen Erfahrungen um ein Exemplar der Gattung vexator fororum utgardensis, die sich vom Frust ihrer Mitmenschen ernährt…
+Sie schreiben etwas von „dem vorliegenden Diskussionsverlauf“. Dabei haben sie überhaupt nichts diskutiert.
+Auf meine Einwände, die rein physikalischer Natur und leicht nachvollziehbar sind, sind sie mit keinem Wort eingegangen. Sie haben keine logisch nachvollziehbaren Gegenargumente vorgebracht und auch nicht versucht, mögliche Missverständnisse bei der Interpretation ihres Modells aufzuklären.
+Bitte verzeihen sie mir, dass ich damit nicht zufrieden geben kann.
+Bitte erklären sie
+1.) wie ihr Modell die Drehung der Erde berücksichtigt,
+2.) wie ihr Modell berücksichtigt, dass Materie Zeit benötigt, um sich zu erwärmen und
+3.) welche Temperaturen und Wärmestrahlung ihr Modell für die der Sonne abgewandte Seite der Erde vorhersagt (die erwärmten Teile der Erdoberfläche werden durch die Erdrotation ja bekanntlich auf die Nachtseite transportiert).
+Ihre Darstellung verheddert sich in offensichtliche Widersprüche mit der Realität, denen ich nachfolgend gerne abhelfe:
+Ihr Zitat: „Sie schreiben etwas von ‚dem vorliegenden Diskussionsverlauf‘. Dabei haben sie überhaupt nichts diskutiert.“
+FALSCHE Tatsachenbehauptung => Ich hatte nicht behauptet, selbst diskutiert zu haben, sondern nur, dass Ihnen im Diskussionsverlauf ausreichende Verständnishilfen zuteil geworden sind.
+Beweis ist meine Aussage, mit [Einfügungen] zu Ihrem besseren Verständnis: „Herr Schulz hatte Ihnen ja bereits mit bewundernswerter Geduld [=4 Kommentare] goldene [Verständnis-]Brücken gebaut.“
+Ihr Zitat: „Auf meine Einwände, die rein physikalischer Natur und leicht nachvollziehbar sind, sind sie mit keinem Wort eingegangen. Sie haben keine logisch nachvollziehbaren Gegenargumente vorgebracht und auch nicht versucht, mögliche Missverständnisse bei der Interpretation ihres Modells aufzuklären.“
+FALSCHE Tatsachenbehauptung => Sie unterschlagen meine konkrete Aussage, nachfolgend mit HERAUSHEBUNGEN zu Ihrem besseren Verständnis: „Da hätten Sie zwischenzeitlich auch schon mal über den UNTERSCHIED zwischen Schallgeschwindigkeit und Lichtgeschwindigkeit reflektieren oder vielleicht sogar Ihre Kernbehauptung mit meiner Temperaturgrafik ABGLEICHEN können.“
+Beweis: Wenn Sie diesen Satz gelesen, verstanden und letzteres befolgt hätten, wäre Ihnen bestimmt aufgefallen, dass die Rückseite nach diesem S-B-Modell gar keine Strahlung erhält und das rechnerische S-B-Temperaturäquivalent erst bei einem Winkel kleiner 70° über 0°C ansteigt. Und damit hätten Sie, um glaubhaft zu bleiben, ihre vollmundige Fehlerbehauptung vom 19. September 2019 um 22:39 Uhr sofort widerrufen müssen, anstatt in Ihrem Kommentar vom 24. September 2019 um 0:41 unverfroren diese weitere Falschbehauptung nachzulegen…
+Ihr Zitat: „Bitte verzeihen sie mir, dass ich damit nicht zufrieden geben kann. Bitte erklären sie 1.) … 2.) … 3.) …“
+FALSCHES Anspruchsdenken jenseits der Realität => Ihr kindlicher Anspruch auf intellektuelle Alimentation mittels wiederholter Falschbehauptungen und einer Hausaufgabenliste für den Autor entbehrt nicht einer gewissen Komik. Von einem Selbstversuch à la Peters (Kommentar 224463) würde ich allerdings dringend abraten.
+Beweis: Die Liste (*) am Ende dieses Artikels dokumentiert die Entwicklung meines hemisphärischen S-B-Ansatzes in 11 EIKE-Beiträgen über mehrere Jahre. Diese Beiträge sind dort verlinkt und hier auf EIKE für jeden wirklich interessierten Erwachsenen jederzeit abrufbar.
+Q. E. D. : VEXATOR FORORUM UTGARDENSIS EST
+es geht hier nicht darum, wie Herr Schulz ihre Theorie interpretiert, sondern darum, dass sie, sofern sie überhaupt an einer wissenschaftlichen Überprüfung ihrer Theorie interessiert sind, die Pflicht haben
+1.) bei Unklarheiten ihre Annahmen und Schlussfolgerungen genauer zu erklären und
+2.) auf vorgebrachte Fragen und Einwände, die ihr Modell betreffen, zu reagieren.
+Sie machen nichts dergleichen. Statt dessen versuchen sie vom Thema abzulenken. Zum Beispiel, indem sie fordern, ich solle über den Unterschied zwischen „Schallgeschwindigkeit und Lichtgeschwindigkeit reflektieren“, obwohl der nichts zur Sache tut. Die Schallgeschwindigkeit hatte ich lediglich als Vergleichsgeschwindigkeit genannt, um ihnen zu verdeutlichen, wie schnell sich die Erdoberfläche von Westen nach Osten bewegt.
+Wenn sie ihren „hemisphärischen S-B-Ansatz“ verteidigen wollen, dann müssen sie das wie ein Wissenschaftler mit Mathematik und physikalischen Argumenten, tun. Drumherum reden hilft ihnen nicht weiter!
+T_G = {T_NH + T_SH}/2
+wobei T_NH und T_SH die Mittelwerte fuer die Nordhemisphaere (NH) und Suedhemisphaere (SH) sind. Diese Regel, die sich streng mit Hilfe der Integralrechnung herleiten laesst, ist seit mindestens 1885 bekannt. Fuer das Klimanormal 1961 – 1990 gelten nach Jones et al. (1999): T_NS = 14,6 Grad C und T_SH = 13.4 Grad C und folglich T_G = 14,0 Grad C.
+Betrachtet man nun eine Erde ohne Atmosphaere, so gilt in analoger Weise
+T_G = {T_TS + T_NS}/2
+wobei T_TS und TNS den Mitteltemperaturen der Hemisphaeren entsprechen, die der Sonne zugewandt bzw. abgewandt sind. Auch diese Regel laesst sich streng mit Hilfe der Integralrechnung herleiten.
+Im Falle eines lokalen Strahlungsgleichgewichtes ist T_NS = 0 K. Folglich gilt
+T_G = T_TS/2
+Deswegen ist das Ergebnis von Gerlich & Tscheuschner (2009) von T_G = 144 K fuer eine Erde ohne Atmosphaere, was auf der exakten Loesung fuer die Annahme eines lokalen Strahlungsgleichgewichtes sowie einer planetaren Albedo im solaren Bereich von a_P = 0,3 und einer Solarkonstanten von S = 1367 W/m^2 beruht, korrekt.
+Zudem ist die Verteilung der Oberflaechentemperatur, die diesem Mittelwert von T_G = 144 K liefert, grundsaetzlich mit dem globalen Strahlungsgleichgewicht vertraeglich, was besagt, dass die global gemittelte emittierte Strahlung die global gemittelte absorbierte solare Strahlung von (1 – a_P) S/4 = 239 W/m^2 balanciert.
+Energie wird also für Wachstum von Pflanzen verwendet. An keiner Stelle wird darauf in den Berechnungen eingegangen.
+Im Falle einer Erde ohne Atmosphaere existiert allerdings keine Vegetation.
+Herr Weber,
+Sie sollten den „lieben“ Herrn Kramm einfach abhaken!
+Der hat es bis heute, mit seinen theoretischen Berechnungen, nicht einen einzigen Klimaalarmisten überzeugt. In jeder Diskussion spielt er das gleiche Spiel, er ist der „Klimagott“ – und schon in der Bibel steht – „Du sollst keine Götter neben mir haben!“
+Er hat ja Recht, es gibt keinen „Treibhauseffekt“ – aber alle berechneten Durchschnittswerte interessieren eingetlich überhaupt nicht.
+Kein guter Wissenschaftler zieht aus den berechneten Durchschnittswerten irgendwelche Rückschlüsse, die sind nur für Statistiker von Interesse!
+Dabei sit es ganz einfach, auf dem Mond, ohne Atmosphäre , haben wir max. Bodentemperaturen von ca 130 Grad C – auf der Erde , mit Atmosphäre nur ca 80 Grad C.
+Damit ist alles gesagt – S+B Gesetze hin oder her!
+in seinem Kommentar vom 14. September 2019 um 19:06 Uhr hatte Professor Dr. Kramm eine Verbindung zwischen seiner wissenschaftlichen Reputation und dem Glauben an den Osterhasen hergestellt – und damit kann ich leben: Der Glaube an den Osterhasen ist für die Kinder und der Glaube an Kramms wissenschaftliche Reputation ist für die Katz…
+Zur Anwendung des S-B-Gesetzes auf die Erde verweise ich auf das Beispiel Potsdam in meinem EIKE-Beitrag über den Mond (hier im Artikel @ Liste(*) als Nr. 5 verlinkt). Nur in Ausnahmefällen (hocharide Wüstengebiete in niederen Breiten) wird das rechnerische S-B-Temperaturäquivalent (SBT) auf der Erde erreicht; die Energiedifferenz zwischen SBT und der tatsächlichen Ortstemperatur fließt üblicherweise in die globalen Zirkulationen (Atmosphäre und Ozeane) – oder wird nachts und im Winterhalbjahr daraus aufgefüllt.
+MfG – U. Weber
+https://de.scribd.com/document/335072043/Kein-CO2-Treibhauseffekt-in-der- Venusatmospha-re
+Die wissenschaftliche Reputation von Professor Dr. Kramm hatten wir hier ja bereits separat abgewickelt: https://tinyurl.com/y4fuquvh
+was Sie behaupten, ist falsch. Ihr Ansatz ist nachweislich unvereinbar mit den Beobachtungen zum Mond. Das geht aus Ihrer Abbildung
+https://www.eike-klima-energie.eu/wp-content/uploads/2017/06/Abbildung-5-Apollo-15-EIKE-uw-640×415.png
+hervor. Sie verbreiten also Falschaussagen. Im uebrigen habe ich Ihnen bereits am 14. Juli 2017 nachgewiesen, dass Ihre Ergebnisse zum Mond falsch sind.
+Dazu gehoert auch die Falschaussage, dass in der exakten Loesung von Gerlich & Tscheuschner (2009) ein Faktor 2 fehlt.
+Wenn Sie glauben, dass ein Typ wie Sie meine wissenschaftliche Reputation anfechten kann, dann glauben Sie auch ean den Osterhasen.
+Wie alle vorangegangenen Beitraegen von Ihnen zu diesem Thema ist auch dieser grundsaetzlich so ueberfluessig wie ein Kropf. Da Sie unbelehrbar sind, werde ich nicht weiter darauf eingehen, ausgenommen Ihre Behauptung von dem Faktor 2, mit der angeblich der Wert von Gerlich & Tscheuschner (2009) zu multiplizieren sei. Aber auch in diesem Falle kann ich mich kurzfassen. Ihre Behauptung ist nachweislich falsch.
+Selbstverstaendlich ist das Ergebnis von 144 K von Gerlich & Tscheuschner (2009) fuer die global gemittelte Oberflaechentemperatur einer Erde ohne Atmosphaere korrekt, falls die Annahme eines lokalen Strahlungsgleichgewichtes erfuellt ist und eine planetare Albedo im solaren Bereich von a_P = 0,3 sowie ein planetares Emissionsvermoegen von e_P = 1 gewaehlt werden. Und dieses Ergebnis ist mit einer globalen Strahlungsbilanz vereinbar, in der die global absorbierte solare Strahlung von (1 – a_P) S/4 = 238 W/m^2 betraegt, die von der global emittierten infraroten Strahlung balanciert wird.
+„Sehr viel komplizierter wird es, wenn wir uns mit einem passiv „beheizten“ Planeten wie der Erde…“
+„Normales“ Allgemeinwissen ist doch aber, dass die Erde noch lange nicht „kalt“ ist. Jeder Vulkanausbruch zeigt eindrucksvoll, dass es in ihrem Innern ein gehöriges Wärmepotential gibt.
+Berücksichtigen die ganzen tollen Rechnereien aller Seiten denn überhaupt auch dieses Faktum???
+Dazu sollte man Daten von Hoehlen und Bergbaugaengen auswerten.
+Hoehlensystem uber normal Null haben in der naehe der Eingaenge noch einen aehnliche Temperaturgang wie die Aussenwelt, auch ohne Sonnenlicht.
+Weiter tiefer in den Hoehlen ist der Temperaturgang weniger ausgepraegt. Wenn kalte Luft einmal in die Hoehle absinkt, bleibt sie dort. Warme Luft steigt bekanntlich nach oben. Interessant ist, das die Luftemperaturen in Hoehlen dem hypsometrische Temperaturgradienten folgen.
+Was den Waermegehalt der Erde anbetrifft ist der ungleich hoeher als was im Klimasystem vorhanden ist. Schon die ersten 8 m Ozeanevolumen haben den gleichen Waermegehalt wie die Atmosphaere.
+Die Diskussion um wieviel Energie wo ankommt, koennte sich als zweitranging herrausstellen, wenn man feststellt, das man mit Temperaturen den Energiegehalt misst. Und der ist sicher durch die „Grundwaerme“ gegeben. Vor allem wenn sich scheinbar die Ein und Ausgaenge von Waerme die Waage halten.
+Z.B. wenn es heißt, dass man am (kalten) Mond irgendetwas wunderbar belegen kann, was dann aber für die (nicht kalte) Erde genauso gelten solle. Und, und, und!
+Ich bin „nur“ Maschinenbauingenieur, aber soviel Unverständliches wie in der Klimawissenschaft habe ich noch in keinem anderen Wissenschaftsgebiet, das man interessiert verfolgt, gefunden.
+Nicht zuletzt fragt man sich als normaler Mensch, analog zum Perpetuum mobile, wie kann ein strahlungsaktives Gas mit seiner „Gegenstrahlung“ mehr zum „Aufheizen“ einer Atmosphäre oder Erdoberfläche beitragen, als es vorher bei der Einstrahlung „abfängt“?
+Sie schreiben :
+Diese Form des Stefan-Boltzmann-Gesetzes stellt den astronomischen Spezialfall für eine Umgebungstemperatur T0 von 0 Kelvin dar.
+Gehen Sie davon aus das die Temperatur des Weltraums 0 Kelvin beträgt?
+Soviel ich davon verstehe ist der Weltraum ein Konzept. Der Weltraum besteht,
+wie der kosmologische Begriff „Raum“ schon sagt, aus nichts. Nichts kann keine
+physikalische Eigenschaft „Temperatur“ haben und auch keine andere.
+Liege ich richtig oder falsch ? Bitte klären Sie mich auf.
+MfG.
+Horst Maler
+ich dachte ja ich würde aus Ihrem Wissen eine Antwort erhalten. Leider
+nur ein Link auf einen anderen Beitrag. Ich war ja an Ihrer Meinung
+zum Thema Weltraumtemperatur interessiert. Vielleicht können Sie sich
+ja doch noch zu einer Antwort durchringen.
+MfG. Horst Maler
+„kleine“ Änderungen der Anwendungsbedingungen bekommt man unterschiedliche Ergebnisse.Notwendig wäre doch,das die Anwendung von „Gesetzen“ nur unter den gleichen Bedingungen verglichen werden!Die ganze „Streiterei“ der Wissenschaftler
+wäre doch schnell beendet,wenn man sich auf die Anwendung der Gesetze vorher einigt.
+Das sich Dr. und Prof.gegenseitig als „unfähig“,“Halblaien“,“ahnungslos“ u.s.w.
+bezeichnen zeigt,das schon lange nicht mehr der Inhalt und Sachlichkeit das Primat hat.Gibt es eine „Physikalische Instanz“,die angerufen werden kann,wenn man sich über die Anwendung (Verwendungsbedingungen) nicht einigen Kann? Dabei soll es nicht darum gehen,das alles „Vereinheitlicht“ wird,sonder die unterschiedlichen Ansätze
+auf den „Kleinsten gemeinsamen Nenner“ untersucht werden und das dann sachlich veröffentlicht wird.
+Herr Zippan, diese Auffassung ist wirklich grotesk. Durch RICHTIGE Anwendung der physikalischen Gesetze erhält man stets ein richtiges und in etwa gleiches Ergebnis. Es handelt sich hier (und ähnlich auch bei den Jüngern des 2.HS) um falsche Anwendungen physikalischer Gesetze! Z.B. S-B nur auf die Tagseite der sonnenbeschriebenen Erde oder dass „Wärmestrahlung“ entgegen Planck vermeintlich nur von warm nach kalt geht.
+sie muessen nicht immer wieder auf neues beweisen, das sie die Hauptsaetze nicht verstanden haben und diese als Glauben abtun. Von „Juengern“ des 2HS spricht nur wer die Hauptsaetze in der Glaubensecke sieht.
+Wer wie sie denkt das das Argument ist, das Strahlung nur nach kalt geht, hat noch nie den Waermeuebergang durch Strahlung gerechnet.
+Sie sind derjenige der behauptet das Waerme von kalt nach warm geht, das ein Koerper von einem selektiv strahlenden, kaelteren Gas ERWAERMT werden kann.
+Wie falsch sie damit liegen!
+Herr Schulz, wie falsch sie damit liegen! Nirgends habe ich behauptet dass Wärme entgegen dem 2.HS auch von kalt nach warm geht. Das geht aber bei elektromagnetischer Strahlungsenergie (Gegenstrahlung). Diese bewegt sich bekanntlich unabhängig vom Temperaturgradienten und wird bei Absorption in Wärme umgewandelt. Die Strahlung ist vergleichbar mit elektrischem Strom. Sie können den ja auch dann für eine Kochplatte verwenden wenn er aus einer kälteren Gegend kommt. Auch Satelliten-TV kommt auf dem wärmeren Erdboden an.
+danke fuer die Bestaetigung, das sie den 2.HS zwar kennen aber nicht anwenden koennen. Waerme ist die Energie die uebertragen wird.
+Damit gibt es auch beim Waermetransfer durch Strahlung immer nur eine Richtung in die Waerme fliesst. Der zweite HS gilt auch beim Strahlentransfer. Und prompt sagen sie etwas anderes.
+Merken sich sich einfach das nicht alle abgestrahlte Energie zwangsweise Waerme ist sondern die Differenz.
+Meinen sie ihren Vergleich von Strom und Strahlung ernst? Dann erklaren sie das bitte so das man es versteht. Wer kommt aus einer kaelteren Gegend?
+Mit Satelliten TV meinen sie die Traegerwellen fuer die Signale? Ich denke solange sie Strom in den Empfaenger reinstecken muessen, kann man davon ausgehen, das die elektromgnetischen Traegerwellen keine Energie auf das System uebertragen. Das heisst aber nicht das sie keine haben.
+Sagen sie, waren sie wirklich Gutachter beim IPCC?
+Herr Schulz, Strahlung überträgt keine Wärme, sondern nur Energie – und das auch von kalt nach warm. Die G. wurde sogar von Prof. Kramm gemessen. Stellen Sie sich einfach vor, man würde ein Fass Öl (Energie) von Sibirien nach Afrika schicken und es dort verbrennen, also in Wärme umwandeln.
+Der zweite HS gilt NICHT uneingeschränkt beim Strahlentransfer, denn die Gegenstrahlung geht ja von kalt nach warm. Der 2.HS gilt nur für die Nettostrahlung (!) – also für den gesamten Energietransport (Hin minus Gegen), der immer vom warmen Boden zum kalten Weltall gerichtet ist. Das Netto zu erwähnen, wird leider in den Physikbüchern vergessen.
+Ihr Denkfehler ist dass Sie nicht begreifen dass die Temperatur des Erdbodens nach S-B nicht von der Nettostrahlung, sondern von der Abstrahlung (!) bestimmt wird, d.h. durch Sonne+Gegenstrahlung. Die Bodenbilanz ist netto ja sogar Null, aber Sie folgern daraus doch auch nicht dass der Boden 0 K hat.
+Wenn die Temperatur von der (nicht addierbaren) Sonnestrahlung + Gegenstrahlung abhaengen wuerde, dann muesste man auf der Erde weit hoehere Temperaturen messen.
+Sie erzaehlen Physkalischen Unsinn weil sie immer noch nicht begriffen haben, das die Temperature durch den Waermegehalte gegeben ist, und nicht dadurch was rein und rausgeht.
+Und wenn sie Lokale Temperaturebetrachtungen anstellen, dann doch bitte schoen auch die Konvektion, Latente Waerme und die Waermeleitung mit einbeziehen.
+Sie ersticken hier an dem eigenen Haken den sie am IPCC mitgebogen haben.
+Wie Sie sehen werden z.B. Modellrechnungen [sind immer willkürlich] aus Satellitenspektren als „Messung“ verkauft. Es fehlt aber die Replizierbarkeit [nur die Nobodies sind perfekt], denn wer hat schon noch so“n Satelliten.
+zu: Kleinsten gemeinsamen Nenner
+Da bewahre die Herren der Schöpfung die Wissenschaftsfreiheit vor: jedes Steckpferd braucht eigene Gönner. Die staatlich gepamperten Institutionen sind aber unbremsbar narzißtisch angelegt.
+CERES_SYN1deg-1H_Terra-Aqua-MODIS_Ed4.1_Initial_Skin_Temperature_00-01GMT01-March-2019.txt
+erhalte ich für 90°W…89°O 12,7 °C und für 90°O…91°W 14,7 °C
+Für den Datensetz
+CERES_SYN1deg-1H_Terra-Aqua-MODIS_Ed4.1_Initial_Skin_Temperature_12-13GMT01-March-2019.txt
+erhalte ich für 90°W…89°O 16,3 °C und für 90°O…91°W 13,8 °C
+Die Differenzen zwischen Tag- und Nachtseite liegen also zwischen ca. 1 °C und 4 °C abhängig vom Anteil der Wasserfläche.
+Um die Atmosphaerischen Temperaturen zu erklaeren, muss man also auf die Ozeane schauen und diese verstehen.
+Ihre Daten sind sehr interessant, schreiben Sie doch mal einen Artikel darüber.
+MfG – U. Weber
+der Transport von Strahlung und Wärme in der Atmosphäre, im Boden und in den Ozeanen ist grundsätzlich verstanden. Um den Transport quantitativ beschreiben zu können, muss man die Zusammensetzung, die Beschaffenheit der Medien sowie die Strahlungs- und Temperaturprofile kennen. Globale Mittelwerte bzw. Anomalien derselben reichen dazu nicht aus. Temperaturprofile der Oberfläche und der erdnahen Atmosphäre findet man bei GISS, HADCRUT, Berkeley Earth, UAH,RSS, CERES usw. Um die Qualität der einzelnen Datensätze zu beurteilen, kann man Ihren hemisphärischen Ansatz verwenden. Die Ozean-Oberfläche erwärmt sich seit etwa 1960. Sie ist aber nur etwa halb so groß wie die der Land-Oberfläche, da die Tiefen der Ozeane Wärme aufnehmen. Deshalb sollte für jedes Flächenelement (5°x 5°, 1°x 1° je nach Auflösung) eine Korrelation zwischen Ozeanbedeckungsgrad und Temperaturerhöhung bestehen. Windmischung macht die Korrelation für einzelnes Flächenelement zunichte. Global mittelt sich die Windmischung heraus, bei einer Hemisphäre ist sie wohl klein. Bei einem 5°x5° Netz gibt es 72 verschieden Ost-West-Hemisphären. Der Ozean-Bedeckungsgrad schwankt zwischen 60% und 80%. Wählt ich den Zeitraum 2000-2018 so ergeben sich folgende Korrelationen zwischen Bedeckungsgrad und Temperaturänderung der einzelnen Hemisphären:
+Gistemp 0,38, HADCRUT 4.6 0,48, UAH 0,05, CERES Skin-Temp 0,88.
+Trotz einiger Ungereimtheiten zeigt die Analyse dass CERES-Skin-Temp der beste Datensatz ist.
+Die Schlussfolgerung ist falsch. Hohe Korrelation bedeutet, dass die Temperatur mit dem Ozean-Bedeckungsgrad steigt. Dies ist unsinnig. Aber wo steckt der Fehler in der Analyse? (1) Es wurde die Temperaturdifferenz (Anomalie) zwischen 2000 und 2018 verwendet. Die Temperaturen einzelner Jahre schwanken aber. Besser ist es den Trend zwischen 2000 und 2018 zu berechnen. Dann erhält man auch eine Schätzung des Vertrauens-Intervalls des Trends damit für das Vertrauensintervall der Korrelation. (2) Es zeigt sich dass die 19 Jahre viel zu kurz sind für eine Bewertung. Erst wenn man z.B. Gistemp- oder HADCRUT-Daten über 60 Jahre analysiert, erhält man Korrelationskoeffizienten von etwa -0,8.
+http://www.gigapico.de/CERES Syn1deg Initial SkinTemp vs. Oceancoverage 201401 201412.jpg
+Datenquelle: CERES Syn1deg Initial Skin temperature.
+Auffallend ist die Hysterese, die im El Nino-Jahr 2015/2016 besonders groß ist.
+http://www.gigapico.de/CERES Syn1deg Initial SkinTemp vs. Oceancoverage 201501 201512.jpg
+http://www.gigapico.de/CERES Syn1deg Initial SkinTemp vs. Oceancoverage 201610 201612.jpg
+In den nachfolgenden Jahren 2017 und 2018 verringert sich die Hysterese:
+http://www.gigapico.de/CERES Syn1deg Initial SkinTemp vs. Oceancoverage 201701 201712.jpg
+http://www.gigapico.de/CERES Syn1deg Initial SkinTemp vs. Oceancoverage 201801 201812.jpg
+Vielleicht ermöglicht dieser Ansatz eine neue Möglichkeit El Nino Ereignisse vorherzusagen.
+das klingt sehr interessant, aber die Links funktionieren nicht. Vielleicht sollten Sie Sich doch mal dazu durchringen, einen Artikel zu schreiben.
+MfG – U. Weber
+Hier noch einmal die Links:
+http://tinyurl.com/y6cqclyn
+http://tinyurl.com/y3toppm5
+http://tinyurl.com/y6sljr3t
+http://tinyurl.com/y3j46ksl
+http://tinyurl.com/y4wxqrqz
+(X-273)/2 = -129, woraus folgt das X =15 Grad ist
+Man fragt sich wieso Herr Weber glaubt, dass die Nachtseite nichts abstrahlt und somit auch die Temperatur der Tagseite von 15 Grad annimmt. Das muss ja voraussetzt werden wenn es keinen TE geben soll. Wie wir oben gesehen haben, hat die Nachtseite aber -273 Grad und nicht 15 Grad. Herr Weber (Geophysiker) will uns offensichtlich für dumm verkaufen. Wieso er seinen „Hemisphärenansatz“ trotz der fachlichen Kritik nun zum 12. Mal bei EIKE veröffentlichen kann, ist ein Rätsel.
+mit Verlaub gesagt Herr Dietze sie reden Unsinn.
+Das einzige was man Herrn Weber vorhalten kann, ist, das er in die „Temperaturwerdung“ (Temperaturgenese) die Kruemmung der Erde mit einbezieht.
+Rein Energetisch ist das korrekt, aber wenn man mit der Einheit W/m2 rechnet, dann ist das die Bestrahlungsstärke. Wenn sie das als Strahlungsintensitaet abbilden als Spektrum, dann werden sie finden, das die Sonnen auf jedem einzelnene Quadratmete der Erde auf dem sie scheint die gleiche Intensitaet hat. Nicht umsonst kriegen sie auch an den Polen einen Sonnenbrand.
+Wenn sie Herrn Dr. Kramm erwaehnen, dann sollte Ihnen klar sein, das die Mittelung eigentlich eine Kruecke ist, und die Lokale Betrachtung und die Mittelung der Ergebnisse dort, unter Einbeziehung von allen Waermfluessen, die korrekte Vorgehenswiese ist.
+Winkelunabhaengig kommt auf der Erde die Waerme der Sonne mit einer Strahlstaerke der Solarkonstante an.
+Wenn sie zu dem Ansatz der Klimawischenschaft stehen, das man aus der Strahlstaerke der Einstrahlung die Temperatur ableiten kann, dann muesste die Erde auf der Tagseite 120 Grad Celsius haben.
+Was die Winkelabhengigkeit angeht, dann lernen sie von der Weinbauern, die machen es richtig nutzen die Haenge in Richtung Sonnenstand, um das Sonnenlicht energetisch besser auszunutzen.
+Wussten sie im uebrigen das die -129 Grad C auch fuer eine rotierende Erde gelten. Sie muessen sich nut die Waermespeicherung der Ozeane und der Boeden wegdenken, dann kriegen sie die auch.
+Die Angabe der Nichtrotation ist nur fuer das bessere Verstaendnis.
+Das bringt mich noch zu einer Verstaendnisfrage. Sie geben -273 Grad C als Temperatur auf der Nachtseite an und sie erwarten, das Herr Weber dort eine Abstrahlung annehmen soll.
+Koennen sie erklaeren mit welcher Meta-physik sie von einer Abstrahlung bei einer Temperatur am Absoluten Nullpunkt sprechen koennen?
+Mich erstaunt dass Sie glauben, Prof. Kramm habe bei der Berechnung des globalen solaren Mittelwerts von -129 Grad die Einstrahlwinkel im Gegensatz zu Herrn Weber nicht berücksichtigt. Beide haben das beachtet, sonst könnte ja das Ergebnis von +15 Grad für die Sonnenseite nicht gleich sein. Grottenfalsch ist allerdings dass beide (im Gegensatz zu allen anderen Modellieren, die näherungsweise mit globalen Mittelwerten arbeiten) die rotierende Erde ohne Wärmespeicherung rechnen, d.h. auf der solar beheizten Seite wird die Temperatur jeweils mit S-B örtlich aus Abstrahlung = Einstrahlung ermittelt und geht dann flächengewichtet ein, während sie auf der Nachtseite fälschlich 0 K ist.
+offenbar haben sie nicht mal ansatzweise verstanden was Herr Weber eigentlich sagen will. Wobei ich ihnen grosszuegig unterstelle, das sie es nicht wissen wollen.
+Herr Weber hat nie gesagt das die Erde OK auf der Nachtseite haben muss. Das kommt von Leuten wie Ihnen die behaupten, das man anhand von einer Bestrahlungsstaerke die Temperatur ableiten kann.
+Die Klimaphysik gibt aber die Bestrahlungstaerke falsch an, da sie die Flaechenabhaengige Einstrahlungsleistung auf die gesamte Erdoberflaeche umlegt. Die Sonne bestrahlt immer nur eine Hemisphaere.
+Und wie gesagt, ohne Waermespeicherung unter Annahme das Einstrahlung gleich Ausstrahlung ist, wie es ja ihrer Meinung nach wohl ist, dann hat theoretisch die Nachtseite O K, weil es ja keine Einstrahlung von der Sonne gibt.
+Man merke: Die Einstrahlungsleistung bestimmt nicht die Temperatur, sondern der Energiegehalt tut das.
+Wo oder besser wann erfolgt also die staendige Waermezufuhr fuer die naechtliche Abstrahlung der Ozeane und Boeden? Genau das ist es was Herr Weber erklaert. Tagsueber kommt mehr Energie an als tagsueber abgestrahlt wird. Das mehr wird in der Nacht abgestrahlt. Mehr sagt der Hemisphaerische Ansatz nicht aus.
+Ihr Erstaunen in Ehren, aber es ist voellig fehl am Platze. Sie haben auch da den Zusammenhang nicht verstanden. Die Verteilung der Strahlstaerken ueber die Kruemmung der Erde hat nichts mit der Rotation zu tun.
+Sie verstehen ja scheinbar nicht mal das man physikalische Modelle analysiert indem man bestimmte Bedinungen einfuegt oder Grenzwerte setzt oder bekannte physikalische Eigenschaften auf Null setzt, um das Verhalten des Modelles zu untersuchen. Das die Erde Waerme speichern kann, ist keinen Frage.
+Aber haben sie sich mal wirklich ueberlegt, das ohne Waermespeicherung die theoretische Temperatur -129 Grad C ist, und das der theoretische Wert der Treibhaustheory weit darueber ist?
+Heisst das, das ein Grossteil des THE auf Waermespeicherung zurueckzufuehren ist? Ist der THE falsch definiert?
+Warum stoert es sie, das die Modelle von Herrn Dr. Kramm und Herrn Weber versuchen die Temperaturgenese auf wissenschaftliche Fuesse zu stellen.
+Welche Rolle geben sie denn den Ozeanen? Die verteilen Waerme nicht nur zeitlich von der Tagseite auf die Nachtseite, nein sie bringen Waerme in Breiten die laut dem Klima SB Ansatz gar nicht so warm sein sollten. Und dann haben die Ozeane auch noch einen Temperaturgradienten.
+Wenn sie wirklich denken das die Waermespeicherung so wichtig ist, dann sollten sie sich mit der Thermodynamik der Ozeane beschaeftigen.
+Der Ozean macht ihre theoretischen -18 Grad C allein durch zeitliches Verschieben von Waerme in die Nacht hinein. Nicht auszudenken, was die Ozeane durch Verschieben von Waerme in die hoeheren Breitengrade schaffen koennen. Der Golfstrom laesst gruessen.
+da gibt es noch einen gewissen Erklärungsbedarf:
+„Das einzige was man Herrn Weber vorhalten kann, ist, das er in die „Temperaturwerdung“ (Temperaturgenese) die Kruemmung der Erde mit einbezieht.“
++
+„Was die Winkelabhengigkeit angeht, dann lernen sie von der Weinbauern, die machen es richtig nutzen die Haenge in Richtung Sonnenstand, um das Sonnenlicht energetisch besser auszunutzen.“
+= W
+Vielleicht schauen Sie mal unter Liste (*) in den Artikel 5.
+MfG – U. Weber
+1) Grundsaetzlich ist das, was Weber seit geraumer Zeit hier verbreitet, falsch. Sein hemisphaerischer Stefan-Boltzmann-Ansatz verstoesst gegen den Gueltigkeitsbereich des Stefan-Boltzmannschen Gesetzes.
+2) Das Stefan-Boltzmann-Gesetzes liefert eine Strahlungsflussdichte, keine Strahlungsintensitaet. Die jeweiligen Konstanten unterscheiden sich zahlenmaessig um den Faktor von pi = 3,1415..
+3) Selbstverstaendlich muss die Kruemmung der Erdoberflaeche beruecksichtigt werden. Um dieses realisieren zu koennen, wird jede infrage kommende Energieflussdichte mit dem Normalenvektor des betrachteten (infinitesimalen) Flaechenelementes skalar multipliziert. Da das skalare Produkt zweier Vektoren gleich dem Produkt der Betraege der beiden Vektoren und dem Kosinus des Winkels ist, den diese beiden Vektoren formen, ergibt sich im Falle einer Erde ohne Atmosphaere fuer die einfallende solare Strahlung
+R_S . n = |R_S| cos(Theta)
+wobei R_S die Flussdichte der solaren Strahlung, n der Normalenvektor und Theta die lokale Zenith des Sonnenzentrums sind. Die Groesse Theta ist abhanegig vom Winkel des Breitenkreises, b, der Deklimnation, d, der Sonne und dem Stundenwinkel, h, gemaess
+cos(Theta) = sin (b) sin (d) + cos (b) cos (d) cos (h) .
+Wegen cos(Theta) ist also die einfallende solare Strahlung nicht ueberall gleich. An der Tag-Nacht-Grenze stehen z.B. R_S und n senkrecht aufeinander. Folglich ist |R_S| = 0. Fuer negative Werte von cos (Theta) muss die einfallende solare Strahlung gleich Null.
+4) Existiert eine Atmosphaere, dann muss nicht nur die direkte Komponente der solaren Strahlung sondern auch noch die zugehoerige diffuse Komponente beruecksichtigt werden.
+2) Das ist soweit richtig, aus reinem Interesse ein Frage, ob man bei Gasstrahlung nicht eigentlich 2 x Pi nehmen muss, da keine Oberflaeche existiert die strahlt und die Strahlung in alle Richtungen geht.
+3) Keine Frage. Die bestrahlte Flaeche ist die der Hemisphaere.
+4) Welchen meinen sie? Rayleigh Strahlung? Wo muss man die diffuse Komponente Beruecksichtigen? Bei der Einstrahlung auf die Oberflaeche? Wieviel W/m2 macht das aus?
+Zu 1) = „Welche Fläche wird bestrahlt?Wie die niedlichen Energiebilanzen die man zum THE findet, oder in wissenschaftlichen Arbeiten wie zum Beispiel Kiehl und Trennberth. Da sollte sie mal reinhauen.“
+=> Wenn nach Professor Dr. Kramm diese Aussage „vollkommen falsch“ ist: Sind dann für Professor Dr. Kramm die Energiebilanzen zum THE und die Arbeit von Kiehl und Trenberth vollkommen RICHTIG?
+Zu 2) = „Das ist soweit richtig, aus reinem Interesse ein Frage, ob man bei Gasstrahlung nicht eigentlich 2 x Pi nehmen muss, da keine Oberflaeche existiert die strahlt und die Strahlung in alle Richtungen geht.“
+=> Wenn nach Professor Dr. Kramm diese Frage „vollkommen falsch“ ist: Wie lauten dann die RICHTIGE Frage und die RICHTIGE Antwort, Professor Dr. Kramm?
+Zu 3) = „Keine Frage. Die bestrahlte Flaeche ist die der Hemisphaere.“
+=> Wenn nach Professor Dr. Kramm diese Aussage „vollkommen falsch“ ist: Welche Fläche wird dann vollkommen RICHTIG bestrahlt, Professor Dr. Kramm?
+Zu 4) = „Welchen meinen sie? Rayleigh Strahlung? Wo muss man die diffuse Komponente Beruecksichtigen? Bei der Einstrahlung auf die Oberflaeche? Wieviel W/m2 macht das aus?“
+=> Wenn nach Professor Dr. Kramm diese Frage „vollkommen falsch“ ist: Wie lauten dann die RICHTIGE Frage und die RICHTIGE Antwort, Professor Dr. Kramm?
+Denn ist der Ruf erst ruiniert, trollt es sich ganz ungeniert. Ceterum censeo vexator fororum utgardensis EIKE est: https://tinyurl.com/y6dytt83
+was Sie behaupten ist falsch. Dieser Wert von 144 K fuer die global gemittelte Oberflaechentemperatur des Gedankenmodells einer Erde ohne Atmosphaere wurde im Jahr 2009 von Prof. Dr. habil. Gerlich und Dr. Ralf Tscheuschner in deren Arbeit „Falsification of the atmospheric CO2 greenhouse effects within the frame of physics“ fuer eine planetare Albedo im solaren Bereich von 0,3 sowie eine planetares Emissionsvermoegen von Eins hergeleitet. Diese Arbeit wurde im International Journal of Modern Physics B (https://www.worldscientific.com/doi/abs/10.1142/S021797921005555X) publiziert. Warum verbreiten Sie eine solche Falschaussage?
+Das Ergebnis von Gerlich & Tscheuschner (2009) beruht auf einer exakten Loesung, wobei eine lokale Strahlungsbilanz angenommen wurde. In einem solchen Falle laesst sich fuer jeden beliebigen Ort mit Hilfe des nur lokal gueltigen Stefan-Boltzmann-Gesetz eine Oberflaechentemperatur auf der Grundlage berechnen, dass die absorbierte solare Strahlung gleich der emittierten infraroten Strahlung ist. Die sich daraus ergebende Verteilung der Oberflaechentemperaturen liefert dann eine global gemittelte Oberflaechentemperatur von 144 K. Da Webers Ansatz eines hemisphaerischen Stefan-Boltzmann-Ansatzes ebenfalls auf einer lokalen Strahlungsbilanz beruht, ist seine Apporiximation so ueberfluessig wie ein Kropf, denn die exakte Loesung existiert bereits seit spaetestens 2009. Kramm et al. (2017) haben nachgewiesen, dass das Ergebnis von Gerlich & Tscheuschner (2009) auch fuer eine rotierende Erde ohne Atmosphaere gilt, eine lokale Strahlungsbilanz vorausgesetzt.
+Ziel von Gerlich & Tscheuschner war es, nachzuweisen, dass die effektive Strahlungstemperatur von 255 K als global gemittelte Oberflaechentemperatur fuer eine Erde ohne Atmosphaere beliebig falsch ist. Dazu genuegt grundsaetzlich ein Beispiel. Die effektive Strahlungstemperatur ist nur ein Synonym fuer eine emittierte Strahlung von etwa 238 W/m^2, die sich aus der globalen Strahlungsbilanz ergibt, die beinhaltet, dass die global gemittelte absorbierte solare Strahlung gleich der global gemittelten emittierten infraroten Strahlung ist.
+Die global gemittelte absorbierte solare Strahlung R_S laesst sich folgendermassen berechnen:
+R_S = (1 – a_P) S/4
+worin a_P die planetare Albedo im solaren Bereich und S die Solarkonstante sind. Mit a_P = 0,3 und S = 1361 W/m^2 ergibt sich: R_S = 238 W/m^2. Die global gemittelte emittierte Strahlung entspricht diesem Wert. Das Problem ist, dass weder Sie noch viele andere begreifen, dass die von Gerlich & Tscheuschner (2009) berechnete Verteilung der Oberflaechentemperaturen mit dieser globalen Strahlungsbilanz vertraeglich ist, was Kramm et al. (2017) nachgewiesen haben. Wer allerdings wie Sie das Stefan-Boltzmann-Gesetz auf global gemittelte Temperaturen anwendet, der kann zu keinem vernuenftigen Ergebnis kommen, denn diese 144 K wuerden im Falle eines schwarzen Strahlers nur 24,4 W/m^2 liefern.
+Sie sagen, der Ansatz von Herrn Weber ist ueberfluessig.
+Das heisst aber nicht das er unbedingt falsch ist. Die Anwendung des Stefan-Boltzmann-Gesetz auf global gemittelte Temperaturen scheint Gang und Gaebe zu sein.
+Die Ermittlung der Strahlstaerken ist aber immer noch ein Problem wie es scheint.
+Herr Webers Arbeit hilft diese Fehler auszumerzen.
+Ob G&T zuerst oder spaeter publiziert haben, sollte in der Diskussion egal sein.
+Wenn zwei unabhaengige Parteien von Wissenschaftlern zum gleiche Ergebnis kommen dann ist das mindestens ein Zeichen, das etwas an der Loesung dran ist.
+Aber wenn sie staendig die Ergebnisse von Herrn Weber runtermachen, dann mindern sie auch die Bedeutung von G&T. Und das sollte das Letzte sein was sie eigentlich wollen.
+offensichtlich sind Sie unfaehig, korrekt zu zitieren. Der Wert von 144 K fuer die global gemittelte Oberflaechentemperatur einer Erde ohne Atmosphaere stammt von Gerlich & Tscheuschner (2009). Dieser Wert beruht auf einer exakten Loesung fuer die Annahme eines lokalen Strahlungsgleichgewichtes sowie einer planetaren Albedo im solaren Bereich von 0,3.
+An 71% der Erdoberfläche sind die Ozeane bekanntlich der dominante Energiespeicher der Erde, deren lokale Oberflächentemperaturen sich („bei Windstille“) im Tagesverlauf zwischen -2 Grad C und 30 Grad C kaum messbar verändert. Im Jahresverlauf gemessene lokale Änderungen zwischen den Grenzwerten erklären die unterschiedlichen Wassermengen auf der Nord- und Südhalbkugel.
+Messung beweist, dass ihr mittlerer Zufluss von Solarenergie 400 W/m^2 ist. Zusammen mit der Messung der sog. Gegenstrahlung nachts genügen diese Beobachtungen zum Nachweis der energetischen Rückkopplung des sog. atmosphärischen Treibhauseffektes.
+Bei einer mittleren Wassertiefe von etwas mehr als 3,5 km können sich die vorgenannten Temperaturen
+im gesamten Volumen nur dann einstellen, wenn die Speicherzeit der absorbierten Solarenergie um etwa 200 Jahre variiert.
+Die Festlandsflächen mit ihrem munteren Wetterspektakel hängen dabei buchstäblich am Tropf dieser Ozeane.
+Übrigens kommt die belebte Gaußverteilung in der Natur nicht vor und bei der Anwendung des Stefan Boltzmann Gesetzes ist Wasser eine recht passable Näherung des „tiefschwarzen“ Körpers.
+Messung beweist, dass ihr mittlerer Zufluss von Solarenergie kleiner als 200 W/m^2 und der Abfluss dagegen größer als 400 W/m^2 ist. Zusammen mit der Messung der sog. Gegenstrahlung nachts genügen diese Beobachtungen zum Nachweis der energetischen Rückkopplung des sog. atmosphärischen Treibhauseffektes.
+was sie oben gesagt haben hat mehr Sinn gemacht. Nur mit der Angabe von Strahlstaerken werden sie den wirklichen Waermetransportprozessen nicht gerecht.
+Ihre Verbesserung ist also nur der Versuch das alte, falsche Lied der Waermezufuehrung durch die „Gegenstrahlung“ zu singen.
+Versuchen sie doch mal 682 W/m2 am Tag rein und 341 W/m2 am tag raus. Da bleiben locker 341 W/m2 in den Ozeanen tagsueber haengen.
+mit dem xxxxxxx Ihres Kommentars treffen Sie seht gut die Qualität dieses Artikels.
+Merke: Der Abfluss von Energie aus den Ozeanen bleibt im Tagesverlauf ebenso konstant, wie die Wassertemperatur. Messwerte beweisen, dass im Mittel kontinuierlich mehr als 400 W/m^2 abfließen. Messwerte beweisen ebenfalls zweifellos, dass der Zufluss von Solarenergie kleiner ist als 200 W/m^2. Weitere Messwerte beweisen, dass ohne Unterbrechung selbst nachts den Ozeanen aus der Atmosphäre Energie in Form von Wärmestrahlung in einer Menge zufließt, die offenbar ausreicht, um die unübersehbare Differenz zwischen zufließender Solarenergie und aus den Ozeanen abfließender Energie auszugleichen. – Daher bliebt nichts „hängen“, die Solarenergie ist ein um 200 Jahre lang durchlaufender Posten und wir verfügen über Sekt und Selters!
+Mit welcher Wärmequelle?
+Der Ozean hat überall >= 4°C, wo befinden sich die warmen Schichten mit >=4°C in der Atmosphäre die das bewerkstelligen könnten?
+Global, über einen längeren Zeitraum betrachtet, befinden sich die Ozeane und die Atmosphäre sicher im thermischen Gleichgewicht, lokal und zu einem konkreten Zeitpunkt, sicherlich nicht.
+Die Wärmetransportmechanismen sind sicherlich bei Tag, bei klarem Wetter, Einstrahlung durch die Sonne und gleichzeitig Leitung im Wasser und an die Atmosphäre gekoppelt mit Konvektion in beiden Medien und latente Wärme.
+In der Nacht ist der Wärmeaustausch durch Strahlung geenüber den anderen Mechanismen sicher zu vernachlässigen.
+Mein Auto befindet sich über einem langen Zeitraum betrachtet sicherlich auch im thermischen Gleichgewicht mit der Umgebung. Wenn ich fahre hat es im Motor trotzdem 2000 °C und interessanterweise wird er auch nicht wärmer – mit Wasserkühlung, das kühlt mehr als reine Strahlungskühlung – Sie können es ja einmal bei Ihrem Auto ausprobieren, Sie müssen nur das Wasser ablassen 😉
+erklaeren sie das bitte noch mal.
+Sie sagen die Ozeane bekommen nur 200 W/m2 aus dem Sonnenlicht ab, obwohl die Strahlstaerke der Sonnen ueber 900 W/m2 hat?
+Und die Ozeane verlieren dann auf welche Art und Weise 400 W/m2 ohne kaelter zu werden?
+„In der Nacht wird also der Ozean primär durch Strahlung aufgewärmt?
+Mit welcher Wärmequelle?
+Der Ozean hat überall >= 4°C, wo befinden sich die warmen Schichten mit >=4°C in der Atmosphäre die das bewerkstelligen könnten?“
+Sowohl am Tag als auch in der Nacht wird die Abkühlung der Ozeane durch Rückkopplung von Energie signifikant reduziert. Quellen der Wärmestrahlung sind Wasser- und Eispartikel, die an ihrer Oberfläche – wie auch das Wasser der Ozeane selbst – bei -2 Grad C etwa 300 Wm^2 und bei 30 Grad C etwa 480 W/m^2 emittieren.
+Die Solarstrahlung wird nicht an der Oberfläche der Ozeane, sondern im Volumen absorbiert. Ihre Speicherzeit variiert um etwa 200 Jahre.
+Mehr Einzelheiten dazu hier:
+https://de.scribd.com/document/419363440/Klimaschutz-eine-gefahrliche-Illusion
+https://de.scribd.com/document/190496647/Angst-auf-Objektsuche-wahlt- Klimawandel-und-Energiewende
+Da kann man auch gleich ne Kerze im Mompel von Boblowitz anzünden und hoffen, dass uns der Himmel nicht auf den Kopf fallen möge.
+Wenn ich dann noch die durchschnittlichen Erdtemperaturen mit zwei Stellen hinter dem Komma angegeben sehe, dann frage ich mich immer, was diese Klimaforscher eigentlich für Naturwissenschaftler sind. Konklusion ist: Klimaforschung ist politisch-religiöse Ideologie und hat mit Natur nix zu tun. Deswegen sind Versuche, die Herrschaften wissenschaftlich zu widerlegen, auch komplett sinnlos.
+Tut sie nicht.
+Betrachtet man ausschließlich die Oberfläche, so ist Planck nicht anwendbar, da sie nicht von Vakuum, sondern von einer Atmosphäre umgeben ist, welche mit ihr Energie tauschen kann.
+Betrachtet man das System Erde/Atmosphäre mit seiner Grenze zum Weltall hin, so verhindern die strahlenden Gase eine Anwendung des Modells „schwarzer Strahler“.
+Gibt es bei der UNO kein Wissenschaft-Organ, der die Richtigkeit der wissenschaftlichen Vorgehensweise und die Rohdaten-Verarbeitung überprüft?
+LG A.MIka
+Kein „Treibhauseffekt“ – keine CO2 Rückstrahlung – keine CO2 Erderwärmung!
+Eigentlich nichts Neues – aber der alte Aberglauben hält sich – von Untergangspropheten und Profiteuren am Leben gehalten!
+So ist es – aber wer will das heutzutage wirklich wissen?
+Wen interessieren Versuche?
+Wen interessiert, daß „Meßgeräte“ gar nicht „messen“ sondern „rechnen“?
+Wen interessiert das alles?
+Solange die Medien in den Händen verlogener und verblödeter Politiker und Ideologen (siehe aktueller Email-Austausch Limburg) sowie gewissenloser Milliardäre sind, solange wird das niemand zur Kenntnis nehmen.
+ich habe gerade mit einem Infrarotthermometer in den Himmel gemessen.
+Der blaue Himmel zeigt eine Temeperatur von ca. – 25°C, die Zirrenwolken – 8°C an.
+Natürlich strahlt das mit den diesen Temperaturen zugeordneten Leistungen zur Erde, sonst könnte das Infrarotthermometer keinen Wert anzeigen.
+Bestünde die Atmosphäre aus reinem Sauerstoff würde mein Therommeter nichts mehr anzeigen weil dieses nur bis – 60°C messen kann und reiner Sauerstoff eben nicht strahlt, theoretisch müsste ich ja dann – 270° C messen, die reine Hintergrundstrahlung, die berühmten 3 K.
+Damit diese Werte angezeigt werden können, muss da etwas sein, das eben strahlt. CO2 wird es in meinem Fall nicht sein, weil meines Wissens das Strahlungsspektrum von CO2 bei den Infrarotsensoren nicht erfasst wird.
+Meine Konklusio: da oben ist etwas mit einer Temperatur und das strahlt ganz offensichtlich.
+CO2 wird da natürlich auch strahlen aber das sind nur 0,04%. Wassermoleküle, andere Gasmoleküle und Aerosole sind ja auch noch da und die wirken in Summe sicher um Grössenordnungen grösser als die 0,04% CO2.
+Ich denke für das Klima sind die Mechansismen Konvektion, Transmission, latente Wärme wiederum um Grössenordnungen stärker wirksam als alle Strahlungseffekte in der Atmosphäre zusammen.
+Die gespeicherte Energie in den Weltmeeren und im Boden ist auch um einige Grössenordnungen grösser als die in der Atmosphäre gespeicherte.
+Insofern wird es für die Temperatur völlig unerheblich sein ob 0,04% oder 0,02% oder ga 4% CO2 in der Atmosphäre sind, der Mechanismus an sich und die darin speicherbaren Energien sind ganz einfach viel zu gering um sich relevant auszuwirken.
+Und das ist auch der Grund warum sich ihre Glasplatte nicht erwärmt. Der Wärmeaustausch über die Konvektion durch die umgebende Atmosphäre bestimmt massgeblich auch deren Temperatur, in Bereichen wo kein Luftaustausch möglich ist tritt tatsächlich ein Treibhauseffekt ein, derselbe den sie in ihrem Auto im Sommer beobachten können.
+Die Atmosphäre ist ein nicht lineares, chaotisches System mit vielen Wirkmechanismen, die sich so simpler Modellierungen widersetzt.
+Ob CO2 strahlt oder nicht strahlt ist dabei bedeutungslos, da eben viel zu wenig Energie damit umgesetzt werden kann.
+Das ist falsch!
+Ein Infrarotthermometer mißt die einfallende Strahlungsleistung nur indirekt über die Temperatur des Rezeptors.
+Kommt keine Strahlung, dürfte der Rezeptor nur die Temperatur 0°K haben.
+Hat er nicht…
+Festkörper/Flüssigkeiten strahlen auf jeden Fall. Damit natürlich die Wolken, egal ob aus Eis oder flüssigen Tröpfchen bestehend.
+Lesen Sie bitte die Arbeit von Prandtl zu den Wärmeflüssen ind der nach ihm benannten, bodennahen Prandtl-Schicht.
+Ein Infrarotfluß aus der Atmosphäre kommt darin nicht vor, wohl aber einer aus dem Bodennebel, von ihm „Strahlungsnebel“ genannt.
+„Jeder Gegenstand mit einer Temperatur größer 0 Kelvin emittiert Wärmestrahlung, deren Intensität und Lage des Emissionsmaximums von seiner Temperatur abhängt. Diese Strahlung wird mit dem Pyrometer erfasst und ausgewertet. Wenn das Messobjekt kälter als das Pyrometer ist, ist der Strahlungsfluss negativ, d. h. das Pyrometer gibt Wärmestrahlung an das Messobjekt ab (was auf den 2. Hauptsatz der Thermodynamik zurückzuführen ist), was man ebenfalls auswerten kann.“
+Was soll das sonst messen, ist ja berührungslos?
+Im Winter messe ich mit dem Thermometer am wolkenlosen Himmel – 55° C.
+Der Prandtlsche Bodennebel hat im Sommer – 25° und im Winter – 55° ?
+Wo befindet sich dieser? Laut Geolexikon ist diese schicht ca. 100 m dick………
+Warum wehren Sie sich so gegen die Strahlung, die beisst sie ja nicht?
+Innerhalb der Atmosphäre ist sie nahezu wirkungslos im Vegleich zu den anderen Mechanismen – sie taugt leider nicht zum Hendl grillen.
+„Jeder Gegenstand mit einer Temperatur größer 0 Kelvin emittiert Wärmestrahlung, deren Intensität und Lage des Emissionsmaximums von seiner Temperatur abhängt.“ “
+Ein Gas ist kein „Gegenstand“. Siehe das Strahlungsverhalten von O2 und N2 im IR…
+„Diese Strahlung wird mit dem Pyrometer erfasst und ausgewertet.“
+„Diese“ ist ein Mischmasch unterschiedlichster Quellen, der als zusammengefaßter Wärmefluß registriert wird. Woher er kommt bleibt unaufgelöst.
+„Der Prandtlsche Bodennebel hat im Sommer – 25°…“
+Eben!
+Das Meßverfahren ist für diese Fälle ungeeignet.
+Ja davon sollte man ausgehen. Wie bk sagt Festkoerper/Fluessigkeiten genau wie auch strahlungsaktive Gase.
+Staub und Wasser in fluessigerform, Pollen, Aerosole. Alles was sie von der ersten Fraktion wollen und was sich in der Atmosphaere begeben kann und dort ist, wird wohl auch strahlen.
+Sogar im vollen Schwarzkoerperspektrum. Mit solcher Hintergrundstrahlung wuerden sie nicht mal CO2 als Strahler ausmachen koennen, wenn das CO2 nicht weitaus waermer waere.
+Sogar im vollen Schwarzkoerperspektrum. Mit solcher Hintergrundstrahlung wuerden sie nicht mal CO2 als Strahler ausmachen koennen,…“
+Yep!
+Keine korrekte Anwendung der Formalismen – kein plausibles Ergebnis.

@@ -1,0 +1,455 @@
+Warnhinweis
+Lange hat der Autor überlegt, ob er diesen Artikel überhaupt veröffentlichen kann.
+Grund ist, dass die Sichtung über die Durchführung und Fehler der Inzidenzermittlung so katastrophale Mängel aufdeckt, dass man am Verstand vieler Personen welche daraus Lockdownmaßnahmen ableiten, zweifeln müsste (rein persönliche Meinung des Autors, allerdings durch viele „Fachpersonen“ längst widerlegt).
+Das (mit dem fehlenden Verstand hochbezahlter „Intelligenz“) kann und darf aber nicht sein, sofern man den Berichten unserer Medien glauben darf, wie es gerade wieder bewiesen wurde: Zeit Online, 8. April 2021: Langzeitstudie: Vertrauen in Medien deutlich gestiegen
+Dann bleibt aber die einzige, logische Folgerung: Die in diesem Artikel gebrachten Überlegungen und somit Ableitungen sind hoffnungslos falsch.
+Leider hat der Autor jedoch ein dickes „Brett vorm Kopf“ und findet seine Fehler nicht. Notgedrungen stellt er diesen Artikel also doch auf EIKE ein, damit die kompetenteren Leser seine Fehler finden und diese im Blog (dann bitte mit Richtigstellung) aufzeigen.
+Den Inzidenzwert kann jedes Schulkind berechnen
+Der Inzidenzwert ist mittels einfachem Dreisatz ermittelbar:
+[1] Stuttgarter Nachrichten (stark gekürzt und teils ergänzt): Wie berechnet man die 7-Tage-Inzidenz?
+Falls Sie die 7-Tage-Inzidenz … brauchen Sie zunächst die folgenden Zahlen:
+– Die Summe der Neuinfektionen der letzten 7 Tage
+– Die Einwohnerzahl
+Und so berechnen Sie den 7-Tages-Wert:
+Summe Neuinfektionen der letzten 7 Tage, geteilt durch die Einwohnerzahl Ihres Landkreises … Anschließend multiplizieren Sie das Ergebnis mit 100.000.
+Formel: (Neuinfektionen / Einwohnerzahl) x 100.000 = 7-Tage-Inzidenz
+Diese Berechnung ist plausibel und ermittelt auch mathematisch bis auf beliebige Nachkommastellen genau (verwendet werden vom RKI zwei Nachkommastellen) den Inzidenzwert.
+Anmerkung: Amtlich wird bei einem positiven PCR-Testergebnis automatisch von „Neuinfektionen“ gesprochen und damit immer eine entdeckte „Gefahr“ suggeriert.
+Dabei sagt ein Positivergebnis lediglich aus, dass beim Test Reste entsprechender DNA-Sequenzen gefunden wurden.
+Ob diese wirklich von einer aktuellen Infektion stammen, (noch) aktiv sind, und wirklich zur Krankheit führen (würden) ist damit nicht ausgesagt (siehe dazu am Schluss die Grafiken der PCR-Positivmeldungen und der in keinem Zusammenhang dazu verlaufenden Mortalität).
+Da der Begriff „Neuinfektionen“ amtlicherseits durchgehend verwendet wird, ist er hier wenn im „Amtston“ getextet wurde ebenfalls verwendet und nicht mit einem richtigeren, wie zum Beispiel „ die DNA-Sequenzsuche hat welche, die einen Verdacht auf Kontakt mit Covid-19-Virus nicht ausschließen lassen gemeldet“. Richtige Information klingt oft zu sperrig.
+Größenordnungen
+An einem Beispiel sei gezeigt, wie viele Personen oder positive Testergebnisse es benötigt, um anhand der Inzidenz Lockdown-Entscheidungen auszulösen:
+Eine Beispiel-Stadt mit 100.000 Einwohnern habe in der Einwohnerschaft eine durchgängige (gleich verteilte) Neu-Infektionsrate von 14 Einwohnern täglich (0,014 % der Einwohner), in Summe der 7 Tage somit 98 Personen (ca. 0,1 % aller Einwohner).
+Als Folge hat diese Beispiel-Stadt einen Inzidenzwert von 98 und kann Erleichterungen beim Lockdown veranlassen.
+Beträgt die Summe der Neuinfektionen nun zwei zusätzliche Personen (zusätzlich 0,002 % aller Einwohner) innerhalb der 7 Messtage, in Summe also 100 Personen, berechnet sich ein Inzidenzwert von 100 und laut Politikbeschluss sind gnadenlos Restriktionsmaßnahmen vorzugeben (und werden von den Kommunen auch wirklich buchstabengetreu, pedantisch umgesetzt).
+Stellt sich nicht schon da die Frage, ob es wirklich sinnvoll ist, wegen zusätzlich +0,001 .. 0,002 % „Corona-Positivbefall“ – also weder Krankheit, ev. nicht einmal mit Symptomäußerung – innerhalb einer Woche, massivste, zusätzliche Lockdown-Restriktionen durchzusetzen?
+Die Antwort kennt jeder: Diese Frage wird nicht gestellt. Wenn einmal doch, dann wird sie konsequent als rääääächts abgebürstet“. Im Deutschland der unfehlbaren Merkel und eines heiligen Söder fragt man nicht, sondern freut sich, wieder Anordnungen umsetzen und damit Staatstreue zeigen zu dürfen … wie es früher bewährte Bürgersitte war:
+Es ziemt dem Untertanen, seinem Könige und Landesherrn schuldigen Gehorsam zu leisten und sich bei Befolgung der an ihn ergehenden Befehle mit der Verantwortlichkeit zu beruhigen, welche die von Gott eingesetzte Obrigkeit dafür übernimmt; aber es ziemt ihm nicht, die Handlungen des Staatsoberhauptes an den Maßstab seiner beschränkten Einsicht anzulegen und sich in dünkelhaftem Übermute ein öffentliches Urteil über die Rechtmäßigkeit derselben anzumaßen.
+Gustav von Rochow (1792 – 1847), preußischer Innenminister und Staatsminister
+Regelungstechnik
+Mit Erreichen des Inzidenzwertes 100 treten sofort erhebliche, zusätzliche Lockdown-Verschärfungen in Kraft. Damit soll der Inzidenzwert wieder unter Hundert, besser bis maximal 50 reduziert werden.
+Technisch-mathematisch bilden Inzidenzwert und Lockdown eine Regelstrecke.
+Da die Lockdown-Maßnahmen mit Erreichen des Inzidenzwertes 100 sofort ohne Stufung(en) (hätte dann eine integrale, also eigendämpfende Regelwirkung zur Folge) erfolgen, handelt es sich um einen Proportionalregler.
+Dazu um eine Regelstrecke, welche aufgrund der Verzögerung zwischen Inzidenzwertmeldung und Wirkung der Lockdownmaßnahmen im Wirkungsweg eine recht lange Totzeit beinhaltet.
+Jedes Kind Student lernt bereits im Grundlagenfach Regelungstechnik, dass ein Proportionalregler bei zu hoher „Verstärkung“ – und vor allem, wenn dann noch wie in diesem Fall eine Hysterese fehlt – konsequent oszilliert.
+Extrem verstärkt und dann viel, viel schwieriger lösbar wird diese Neigung zur Oszillation, wenn in der Strecke zusätzlich Phasenverschiebungen, hier noch schlimmer „Totzeiten“ dazukommen. Dann wird diese einfache Art der Regelung eigentlich unbeherrschbar.
+Genau diese Auswirkungen lassen sich bundesweit live erleben:
+Stadt Nürnberg: An einem Montag Öffnung von Präsenzunterricht und Kindergärten, am Dienstag wieder alles schließen … , einfach ein „ewiges“ Hin- und Her, was Eltern, Handel und Sonstige zur Verzweiflung treibt.
+Nicht, dass dies kommunale „Lenker“ nicht bemerken. Aber bisher wagte nur ein kleines Eckchen von Deutschland, welches sich etwas Obrigkeitsrenitenz bewahrt hat, zumindest informellen „Widerstand“, indem sie es wenigstens meldeten:
+Stadt Lößnitz an die Sächsische Staatskanzlei, 15.03.2021: Offener Brief der Bürgermeister des Erzgebirges
+Was machen unsere „hohen Politiker“ und deren Berater zur Lösung? Sie orientieren sich nicht an der seit weit über 100 Jahren bewährten und in weltweit Milliarden von Installationen als richtig belegten Regelungstechnik, sondern „vertrauen“ auf Epidemie-Simulationen, welche laufend exponentielle Anstiege vorhersagen, die noch nie und auch aktuell nicht – da epidemiologisch unmöglich – eingetroffen sind (siehe vorletztes Kapitel).
+Wo sie doch „eintreffen“ – schließlich „sieht“ den exponentiellen Anstieg auch unsere unfehlbare Kanzlerin – verhält es sich so, wie in der Theologie: Wenn man etwas lange genug „eingebläut“ bekommt – hier: Täglich in der Zeitung liest und von Medien erzählt -, können es psychisch entsprechend eingestellte Personen in besonders „lichten“ Momenten plötzlich „sehen“, so wie „KlimaGreta“ das unsichtbare und geschmacklose CO2, wenn es zum Beispiel aus Kraftwerken „schießt“ . Weitere Beispiele aus der Theologie ließen sich nahezu unendlich fortführen.
+Was wäre, wenn die ermittelten Inzidenzwerte gar nicht stimmen würden?
+Alles bisher Gesagte geht davon aus, dass der Inzidenzwert stimmt. Vom RKI wird er immer mit zwei Nachkommastellen angegeben. Wer würde es also wagen, daran zu zweifeln, dass nicht alle dieser Stellen auch signifikant sind?
+Eine Fundstelle macht jedoch auf scheinbare Probleme aufmerksam. Nicht unbedingt didaktisch gut aufbereitet, für etwas mit Statistik Vertraute aber gut lesbar:
+[4] IWIKIPEDIA: Inzidenz (Epidemiologie): Kritik
+... Die für den Vergleich und zur Festlegung von Schwellenwerten herangezogene sogenannte 7-Tage-Inzidenz ist nicht gleichzusetzen mit einer epidemiologischen Inzidenz, die auf repräsentativen Stichproben basiert. Die Testprävalenzen werden auf die Gesamtbevölkerung oder Region umgerechnet, ohne die Dunkelziffer in der nicht-getesteten Bevölkerung zu berücksichtigen. Ohne Bezug zu einer bekannten Grundgesamtheit (Nenner) fehlt der Fallzahl die epidemiologische Aussagekraft und damit die Geeignetheit für seuchenpolitische Maßnahmen. Die Reduktion der Lageeinschätzung auf die 7-Tages-Inzidenz sei epidemiologisch nicht begründbar und entspreche nicht dem Stand der verfügbaren wissenschaftlichen Evidenz.
+Auch Politik und Justiz sehen allein die Inzidenz zur Begründung von Grundrechtseinschränkungen als unzureichend an …
+Eine Folge davon sind Gerichtsentscheide von Richtern, die diesen Sachverhalt umzusetzen wagen:
+Tichys Einblick: Gericht kippt Ausgangssperre in Hannover: „Nicht nachprüfbare Behauptungen“ reichen zur Rechtfertigung nicht aus!
+Allerdings auch von Politikern, denen jeglicher Sachverstand fehlt, solchen auch gar nicht haben wollen:
+Tagesspiegel vom 22.03.2021: NRW Stunden nachdem ein Gericht die Beschränkungen für den Handel für rechtswidrig erklärt hatte, beschließt die Politik noch härtere Regeln
+Grundgesamtheit und Stichprobentheorie
+Und damit steht eine weitere Fragestellung im Raum, welche weder juristisch und soziologisch, sondern einfach statistisch-mathematisch begründbar ist: Wie genau, besser fehlerhaft, Ist die Ermittlung des Inzidenzwertes?
+Dazu nehmen wir die Beispielstadt vom Anfang (Bild 1):
+Deren Daten: Von 100.000 Einwohnern mit 0,1 % gut durchgemischten (damit gleichverteilten) Positiven (sind 100 Personen in der Stadt, somit ein Inzidenzwert von 100), werden rein statistisch täglich 14 Bewohner neu infiziert.
+Am Ende der 7 Inzidenz-Messtage sind es somit 98 neu hinzugekommene, positive Bewohner und damit wieder ein Inzidenzwert von 98.
+Nun versuchen wir, diese Corona-positiven Personen mittels RKI-Coronatestungen und darüber die Inzidenz zu ermitteln.
+Beispielstichproben
+Leider findet sich nirgendwo eine Angabe, wie viele Testungen wo durchgeführt werden. Deshalb muss man diese Zahl versuchen indirekt abzuleiten.
+Laut RKI wurden in der KW13 deutschlandweit 1.149.297 PCR-Testungen durchgeführt. Heruntergerechnet auf unsere Beispielstadt wären das für den Zeitraum der Inzidenz-Ermittlung 1.385 Testungen.
+Stichprobe A
+Bei 0,1 % Positivanteil in der Grundgesamtheit sind in einer Stichprobe von 1.385 Personen im Mittel 1,385 Personen positiv zu finden. Halbe Personen gibt es nicht, weshalb die Stichprobe entweder 1 oder 2 Personen meldet. Die RKI-Inzidenzberechnung meldet also eine Inzidenz von:
+Formel: (Neuinfektionen / Einwohnerzahl) x 100.000 = 7-Tage-Inzidenz
+Rechnung: (2/100.000) x 100.000) = 2 (anstelle des wirklichen Inzidenzwertes von 100), oder
+Rechnung: (1/100.000) x 100.000) = 1 (anstelle des wirklichen Inzidenzwertes von 100)
+Stichprobe B
+Früher war das auch die ungefähre Testungs-Anzahl, da nur PCR-Tests vorgenommen wurden. Inzwischen testen aber zusätzlich Apotheken und bald auch Hausärzte mit Einfachtests, die nur bei positiven Befunden mittels zusätzlichem PCR-Test verifiziert werden müssen. Deshalb wird nun die dreifache Anzahl an Testungen angenommen.
+Für die Beispielstadt wären es nun 4.154 Testungen in einer KW.
+Bei 0,1 % Positivanteil der Grundgesamtheit sind in einer Stichprobe von 4.154 Personen 4,154 Personen positiv (Mittelwert). Die RKI-Inzidenzberechnung meldet also eine Inzidenz von:
+Formel: (Neuinfektionen / Einwohnerzahl) x 100.000 = 7-Tage-Inzidenz
+Rechnung: (4/100.000) x 100.000) = 4 (anstelle des wirklichen Inzidenzwertes von 100)
+Stichprobe B
+Nun verzehnfachen wir die Anzahl Testungen auf 13.850, also jede Woche 14 % der Einwohner getestet:
+Rechnung: (14/100.000) x 100.000) = 14 (anstelle des wirklichen Inzidenzwertes von 100)
+Bei diesen Inzidenzmeldungen kommt man fast gezwungenermaßen zu der Erkenntnis:
+Die Inzidenz – ermittelt und berechnet nach RKI-Formel – ermittelt irgend etwas, aber niemals auch nur weit, weit entfernt den „Befall“ einer kommunalen Einheit durch das Coronavirus.
+Daran ändert auch nicht, dass die Inzidenzwerte vom RKI auf zwei Nachkomastellen angegeben werden (über die feststellbare, mathematische Idiotie von Personen welche vor Rechnern sitzen und Werte, welche zwei Stellen vor dem Komma schon nicht mehr stimmen fein säuberlich mit zwei danach angeben weil es der Rechner so anzeigt, sei hier gnädig hinweggesehen).
+Als Fazit bleibt:
+Mittels dem in Deutschland seit über einem Jahr ausschließlich angewandtem RKI-Inzidenz-Ermittlungsverfahren wird niemals die wirkliche Inzidenz – und damit Gefahrenlage – der Grundgesamtheit ermittelt.
+Eine wichtige Feststellung ist zudem: Der Inzidenzwert ist bei diesen Stichprobengrößen fast linear nur ein Ergebnis des Testumfangs, gibt also diesen und nicht die Anzahl neu Infizierter wieder!
+Und warum bemerkt das keiner? Weil in der Berechnungsformel der wichtige Stichprobenumfang fehlt:
+RKI: (Neuinfektionen / Einwohnerzahl) x 100.000 = 7-Tage-Inzidenz
+Was zu der Erkenntnis führt, dass diese Formel und damit die gesamte Methodik zur Ermittlung einer wirklichen Gefahrenlage ganz einfach vollkommen unbrauchbar sind.
+Dass es „keiner“ bemerkt, stimmt allerdings nicht ganz. Laut der Professorin V. Priesemann (siehe gegen Ende des Artikels) wurde das zum Beispiel in England erkannt und dort wird deshalb statistisch richtig(er) mit wenigen, dafür aber extrem großen Stichprobenumfängen geprüft.
+Der Student
+Sein Einwand zur Inzidenz
+Ein Student publizierte vor kurzem Einwände zur Inzidenzermittlung.
+[2] FOCUS ONLINE, 23.03.2021: Inzidenz bei 18 statt 78? Mathe-Student wirft RKI verzerrte Corona-Zahlen vor – Physikerin kontert
+Auch Correktiv schrieb dazu:
+[3] Correktiv: Er kritisiert, der Inzidenzwert beziehe die Anzahl der durchgeführten Tests in einer Region nicht mit ein: Bei Landkreisen mit gleich hohem Anteil von Corona-Fällen pro Einwohner hätten angeblich diejenigen eine höhere Inzidenz, die mehr testen würden. Er schlägt daher eine alternative Berechnungsmethode vor ….
+Seine Begründung, angelehnt an die Ausführung im „FOCUS“ dargestellt:
+[2] Focus: … Er nennt ein Beispiel:
+Landkreis A und Landkreis B haben jeweils 50.000 Einwohner und jeweils ein Prozent Infizierte (Zufügung: 1 % Infizierte in der Grundgesamtheit ergeben einen wahren Inzidenzwert dieses Beispiels von 1.000).
+– Landkreis A: testet 5000 Einwohner, findet circa 50 Infizierte (Anmerkung: Mittelwert der Stichprobe). Die Inzidenz liegt hier bei 100 (Anmerkung: Anstelle der wahren Inzidenz der Grundgesamtheit von 1.000)
+– Landkreis B: testet 2000 Einwohner, findet circa 20 Infizierte (Anmerkung: Mittelwert der Stichprobe). Die Inzidenz liegt hier bei 40 (Anmerkung: Anstelle der wahren Inzidenz der Grundgesamtheit von 1.000)
+Die Länder befinden sich also in der gleichen pandemischen Lage, haben aber eine unterschiedliche Inzidenz „Es wird mehr getestet. Es werden mehr positive Fälle entdeckt. Die Inzidenz steigt“, so die Schlussfolgerung des Mathematik-Studenten. „Rückschlüsse auf das Pandemiegeschehen lässt dieser Inzidenzwert also derzeit nicht zu.“
+Dieses Beispiel erfreut den Autor. Dieser Student steht nämlich noch mitten im „Lernsaft“, was der Autor, dessen Studium weit über 40 Jahre zurückliegt, von sich nicht behaupten kann. Trotzdem hat er das Problem ähnlich abgeleitet, wie es der Autor im Kapitel „Stichprobentheorie“ beschrieb und ist auch darauf gekommen, dass der Inzidenzwert nicht von der Anzahl Positiver abhängt, sondern vorwiegend vom Stichprobenumfang (Anmerkung: Dieser Artikel wurde vor der Sichtung der „Studentenargumentation“, welche ursprünglich hier gar nicht gebracht werden sollte, getippt).
+Sein Vorschlag einer Verbesserung
+Nun schlägt der Student etwas vor, was das Stichprobenproblem (ausreichend genaue Rückrechnung, wie viele Positive sich wirklich in der Stadt aufhalten) zwar nicht löst (weil nicht möglich), aber wenigstens für eine ganz grobe, relative Vergleichsfähigkeit zwischen den Stichproben sorgen soll:
+[2] … Schönherr schlägt demnach vor, das Verhältnis der Tests auf die Gesamtbevölkerung mit in die Inzidenzberechnung einzubeziehen, „also eine Art Testpositivenquote“.
+Hierfür wäre es nur nötig, die Zahl der Tests (Anm.: Gemeint ist der Stichprobenumfang) zu normen und am bundesdeutschen Durchschnitt zu orientieren. Seit November würden durchschnittlich rund 1,5 Prozent der Bevölkerung (Anmerkung: Das ist ungefähr die vom RKI angegebene Anzahl der PCR-Testungen) pro Woche getestet. Damit ließe sich dann anhand der „Testpositivenquote“ eine neue, normierte Inzidenzzahl berechnen.
+Dazu rechnet der Student als Beispiel die Inzidenz für das Berchtesgadener Land (Einwohnerzahl 106.000) in der KW9 „neu“ (gekürzt).
+Zuerst die Rechnung des RKI:
+Getestet wurden in der KW9 83 Menschen positiv, die Einwohnerzahl beträgt 106.000 Personen.
+Formel: (Neuinfektionen / Einwohnerzahl) x 100.000 = 7-Tage-Inzidenz
+Rechnung: (83/106.000)*100.000 = 78,3
+Nun der Student mit seiner „Testpositivenquote“:
+Insgesamt wurden 6817 der 106.000 Einwohner auf Sars-CoV-2 getestet, das entspricht 6,4 Prozent der Bevölkerung (Anmerkungen: Woher „er“ die Anzahl der wirklichen Testungen weiß, bleibt dem Autor ein Rätsel, denn nirgendwo findet der Autor die eigentlich überaus wichtige Anzahl durchgeführter Tests veröffentlicht).
+83 Tests davon waren positiv, das bedeutet eine „Testpositivenquote“ von 1,2 Prozent
+(Anmerkung: Statistisch bezeichnet das Kunstwort „Testpositivenquote“ ganz banal den Mittelwert Positiver in der Stichprobe).
+Die Berechnung zur neuen Inzidenz funktioniert nun wie folgt:
+– Normierung: 1,5 Prozent der Einwohner entsprechen 1590. Die „neue“ Fallzahl bei nur 1590 Tests würde demnach bei 19,08 liegen (entspricht 19 positiven Tests).
+– Diese positiven Tests werden nun wiederum wie üblich für die Berechnung der Inzidenz genutzt:
+19,08 x (100.000 / 106.000) = 18,0
+-Die Inzidenz läge also anstatt bei 78, nun bei 18.
+Was hätte man mit der „Testpositivenquote“ gewonnen?
+Es werden nicht allzu viele sein, welche diesen Vorschlag des Studenten auf Anhieb „begreifen“. Auch dem Autor war das nicht beschieden. Deshalb anbei ein Erklärungsversuch seines Gedankenganges.
+Mit seiner „Testpositivenquote“ bringt er den Stichproben-Mittelwert ins Spiel. Im Kern ist das der Versuch, die Inzidenzermittlung wenigstens im Ansatz als Stichprobenverfahren „aufzubauen“.
+Nun weiß er (?) dass dies bei diesem Datenmaterial nicht funktionieren kann und versucht in der Not einen Kunstgriff.
+Er geht wohl davon aus, dass alle Stichproben die gleiche Fehlerauswirkung haben, diesbezüglich also korrelieren. Und es deshalb möglich wäre, die Stichprobenergebnisse nach einer „Normierung“ – die nichts anderes ist, als das Hochrechnen jedes Stichprobenmittelwertes auf eine einheitliche Stichproben-Normgröße – untereinander wenigstens relativ vergleichen zu können.
+Den Mut zu einer solch pauschalen Annahme hätte der Autor nicht. Ob es trotzdem – und mit welcher Ergebnisgenauigkeit – möglich ist, müssten (und könnten) Statistiker allerdings problemlos berechnen.
+Wieder etwas über die (Un-)Möglichkeit von Statistik
+Nun „spaßeshalber“, um ein Gefühl für die extreme (Un-)Genauigkeit der Inzidenz-Stichproben zu bekommen, ein paar informelle Rückrechnungen.
+Nochmals die Basisdaten:
+Grundgesamtheit: 106.000 Einwohner; angenommener wahrer Inzidenwert 100 (+0,1 % aller Bewohner, also +106 in der Inzidenz-Messwoche neu positiv).
+Stichprobenumfang für die 7-Tage-Inzidenz: 1590 Einwohner
+Anmerkung: Die Rückrechnung kann – da niedrige Fallzahl und geringer Stichprobenumfang – mittels Binomial, Hypergeometrischer oder Poissonverteilung erfolgen. Der Autor musste allerdings feststellen, dass das Ergebnis stark vom verwendeten Tool abhängig ist, da nicht alle gleich (rück-)rechnen. Die hier angegebenen, auf die Grundgesamtheit rückgerechneten Werte deshalb nur als Anhaltspunkte für die Größenordnung nehmen.
+Beispiel:
+Anzahl durch die Stichprobe gefundener Positiver (deren Mittelwert): 1,59 (ergibt einen Positiven-Mittelwert von 1 oder 2)
+Daraus errechnet die statistische Rückrechnung für den möglichen Anteil an Infizierten unter den insgesamt 106.000 Einwohnern (Irrtumswahrscheinlichkeit 10 %) einen Bereich:
+Bei 2 Positiven in der Stichprobe: Rückgerechnete Anzahl Positiver in der Grundgesamtheit:
+22 … 395 (entsprechen einem Inzidenzwert zwischen 21 … 373)
+Bei 1 Positiven in der Stichprobe: Rückgerechnete Anzahl Positiver in der Grundgesamtheit:
+3 … 298 (entsprechen einem Inzidenzwert zwischen 3 … 281)
+Selbst „Statistiker“ sind immer wieder überrascht, welche Grenzen – oder wie wenig Nutzen im Verhältnis zum Aufwand – attributive Prüfungen haben.
+Trotzdem gibt es ein weltweit verbreitetes und oft angewandtes, attributives Stichprobenverfahren welches darauf basiert, das AQL-Stichprobensystem. Dieses hat das gleiche Problem (es entdeckt kleine Fehlermengen praktisch nicht). Doch ist es vorbildlich tabelliert und man benötigt zur sturen Anwendung nur 10 Minuten Einweisung.
+Entsprechend stur und oft, doch ohne wirklichen Nutzen wird es häufig angewandt (Erfahrungen des Autors).
+A: Hochrangige Fachpersonen haben sich mit der Problemstellung bereits beschäftigt
+[2] FOCUS ONLINE: … Physikerin Priesemann nimmt Stellung
+… Schönherrs Video wurde von vielen geteilt und blieb deutschen Top-Wissenschaftlern nicht verborgen. So nahm etwa Physikerin Viola Priesemann vom Max-Plank-Institut auf Twitter Stellung dazu.
+Laut ihr greift das Video „ein wichtiges Thema“ auf. Vermehrtes Testen werde „kurzfristig ‚bestraft‘“, da man dann mehr Infektionsketten entdecke. Langfristig lohne es sich aber, gibt die Physikerin zu bedenken. „Denn es stoppt die Ketten.“
+Allerdings kontert Priesemann daraufhin Schönherrs Theorie: „Das Video hört sich logisch an, macht aber eine falsche Annahme. Und also ist die Schlussfolgerung falsch.“
+Schönherr gehe in seinem Video davon aus, dass Tests zufällig gemacht würden. „Das ist nicht der Fall“, so die Physikerin. „Menschen werden nicht zufällig getestet, sondern meistens, weil es einen Verdachtsmoment gibt.“ Dazu zählten etwa Symptome, Kontakte oder ein positiver Schnelltest.
+„Folgeergebnisse nicht zutreffend“
+Laut Priesemann müsse man zwischen zwei Kausalitäten unterscheiden:
+– Fall A: Es werden mehr Fälle gefunden, weil mehr getestet wird.
+– Fall B: Es wird mehr getestet, weil es mehr Verdachtsfälle gibt.
+„Am Ende spielen beide Beiträge eine Rolle“, erklärt sie. „Aber im Video wird angenommen, dass wirklich allein und nur A zutrifft.“ Alle weiteren Rechnungen nach dieser Folie bauen auf dieser falschen Annahme auf. Also sind die Folgeergebnisse nicht zutreffend.
+„Nach der Rechnung in dem Video könnte man die Inzidenzen im Landkreis ganz einfach drücken“, warnt Priesemann zudem. Man mache für jeden Test auf Verdacht einen Test bei Personen, die sehr wahrscheinlich negativ sind (oder einen Zufallstest). „Schon ist die Inzidenz (fast) halbiert.“
+Priesemann macht danach ebenfalls einen Lösungsvorschlag: „Am besten wäre es, wenn wir, genauso wie UK, ein Screening hätten, also rund 100.000 Zufallstests, die jede Woche ein objektives Bild des Ausbruchsgeschehen liefern. – Dann müssten wir hier nicht diskutieren.“
+Was hat die Physikerin, Frau Priesemann damit gesagt?
+Im Kern redet sie gekonnt (?) „um den heißen Brei“ herum. Sie gibt der Basiskritik nämlich recht!: „Vermehrtes Testen werde „kurzfristig ‚bestraft‘ … “ und am Schluss beschreibt sie sogar die einzige, wirklich richtige Lösung (anstelle der in ganz Deutschland eingesetzten vollkommen unbrauchbaren vielen kleinen Teststichproben, ganz wenige mit wirklich großer Testmenge) und weist auch noch darauf hin, in welchem Land es so richtig gemacht wird:
+„Am besten wäre es, wenn wir, genauso wie UK, ein Screening hätten, also rund 100.000 Zufallstests, die jede Woche ein objektives Bild des Ausbruchsgeschehen liefern
+Ganz konkret bestätigt Sie, dass sich bei der derzeitigen Testdurchführung durch mehr Tests lediglich die Fallzahlen erhöhen:
+Fall A: Es werden mehr Fälle gefunden, weil mehr getestet wird
+Weil das aber nicht sein darf, denn diese Physikerin ist erkennbar eine Befürworterin des RKI-Verfahrens und wohl auch der Lockdown-Maßnahmen: „ … Nach der Rechnung in dem Video könnte man die Inzidenzen im Landkreis ganz einfach drücken“, warnt Priesemann zudem …“, (pseudo-)argumentiert sie dagegen mit geradezu hanebüchenen „Argumenten“:
+„ … Schönherr gehe in seinem Video davon aus, dass Tests zufällig gemacht würden. „Das ist nicht der Fall“,
+Fall B: Es wird mehr getestet, weil es mehr Verdachtsfälle gibt.
+Man muss sich die Aussagen überlegen: Das RKI berechnet für Deutschland, jedes Bundesland, jeden Landkreis und jede Gemeinde eine fortlaufende Inzidenzzahl auf zwei Stellen hinter dem Komma, auf deren Basis schlimmste Lockdownmaßnahmen immer eiserner – da angeblich immer notwendiger – beschlossen werden.
+Wohl die meisten Bürger denken, diese Inzidenzzahlen würden stimmen und wären vor allem auch untereinander vergleichbar, da entsprechend sachgerecht ermittelt (während sie in Wirklichkeit sicher um mehr als einige Stellen vor dem Komma bereits falsch sind).
+Und nun bestätigt eine Frau Priesemann, dass genau das (seien sachgerecht und damit mit der erforderlichen Genauigkeit ermittelt) überhaupt nicht der Fall ist, erzählt aber, das sei ja auch vollkommen unwichtig. Denn es gehe doch gar nicht um den Inzidenzwert. Dieser sei ja nur ein reines Alibi als Begründung der sowieso durchgeführten Maßnahmen: „… Langfristig lohne es sich aber, gibt die Physikerin zu bedenken. „Denn es stoppt die Ketten.
+B: Hochrangige Fachpersonen haben sich mit der Problemstellung bereits beschäftigt
+Correktiv gibt auch zu Beginn zu, dass die „Basiskritik“ berechtigt ist „Dennoch ist an der Kritik grundsätzlich etwas dran“. Lenkt dann aber gleich ab und verweist auf den strittigen Lösungsvorschlag des Studenten, der keine Lösung wäre: „ … Die alternative Berechnungsmethode, die der Student vorschlägt, ist aber auch nicht besser geeignet. Denn ihr liegt eine falsche Annahme zugrunde“
+Gut, das hat der Autor in etwa auch so gesagt. Correktiv hat sich allerdings etwas „vertiefter“ als der FOCUS mit dem Thema beschäftigt, allerdings auch nur, um mitzuteilen, dass alles „wie bisher gemacht“ doch zwar nicht richtig, aber eben das Beste wäre:
+[3] Correktiv: … Er kritisiert, der Inzidenzwert beziehe die Anzahl der durchgeführten Tests in einer Region nicht mit ein: Bei Landkreisen mit gleich hohem Anteil von Corona-Fällen pro Einwohner hätten angeblich diejenigen eine höhere Inzidenz, die mehr testen würden. Er schlägt daher eine alternative Berechnungsmethode vor.
+Mehrere Medien berichteten darüber … Diese Formulierungen sind nach Recherchen von CORRECTIV.Faktencheck irreführend.
+Der Inzidenzwert beinhaltet keinen „Rechenfehler“. Dennoch ist an der Kritik grundsätzlich etwas dran. Denn es gibt bei der Inzidenz ein Problem: die lückenhafte Datengrundlage bei den Testzahlen. Forschende stellen auch schon länger die Frage, ob der Inzidenzwert als einziger Indikator für die Pandemie-Lage in Deutschland herangezogen werden sollte. Die alternative Berechnungsmethode, die der Student vorschlägt, ist aber auch nicht besser geeignet. Denn ihr liegt eine falsche Annahme zugrunde.
+Dass der Inzidenzwert „keinen Rechenfehler“ hätte, bezieht sich alleine darauf, dass er auf einer Formel beruht und dessen sture Berechnung auf beliebig viele Nachkommastellen mittels Taschenrechner oder Excel-Sheet fehlerfrei möglich ist.
+Dass es sich um eine statistisch hoffnungslos falsch ermittelte Maßzahl mit extremen Fehlern aufgrund des riesigen Vertrauensbereiches handelt, kommt bei Correktiv nicht vor. Und dann wird noch jegliche statistische Betrachtung ignorierend einfach behauptet, die Inzidenzwerte wären vergleichbar, was im Kern schon so etwas wie eine Lüge bei genauerer Betrachtung nicht ausreichend belegbare Information ist:
+[3] Correktiv: … Was ist der Inzidenzwert?
+Die 7-Tage-Inzidenz .. So lässt sich eine Inzidenz auf 100.000 Einwohner für verschiedene Städte, Landkreise, Bundesländer und auch bundesweit berechnen. Der Wert schafft eine Vergleichbarkeit für Regionen mit unterschiedlich hoher Einwohnerzahl.
+Das erforderliche Lob an unsere unfehlbare Kanzlerin darf bei Correktiv natürlich nicht fehlen:
+[3] … Den Grund hatte Bundeskanzlerin Angela Merkel am 6. Mai 2020 in einer Pressekonferenz erklärt: Man arbeite mit dem Schwellenwert von 50 neuen Fällen pro 100.000 Einwohnern, weil man glaube, bei dieser Menge die Infektionsketten noch nachverfolgen zu können.
+Ein bisschen „Einsicht“ darf dann sein, allerdings nicht am Inzidenzwert selbst, sondern an dessen „Verwendung“:
+[3] … Es gibt jedoch immer wieder Kritik an der Fokussierung auf den Inzidenzwert … kritisierten Expertinnen und Experten, dass er als einziger Parameter für die Corona-Maßnahmen herangezogen wird. … Gérard Krause vom Helmholtz-Zentrum für Infektionsforschung, der sagte, man sollte auch auf die Zahl der freien Intensivbetten oder die Altersverteilung der Fälle schauen. Bei den Neuinfektionen handele es sich zudem um Laborbefunde – und deren Häufigkeit sei stark abhängig davon, wer wie getestet werde.
+Haben Regionen, die mehr testen, eine höhere Inzidenz?
+.. Als „mathematisches Problem“ bezeichnet er, dass die Anzahl der insgesamt an einem Ort durchgeführten Tests bei der Inzidenzberechnung nicht einbezogen wird … Wenn es in zwei Landkreisen gleich viele Infektionen gäbe, dann würden in dem Kreis, in dem mehr getestet wird, mehr positive Fälle entdeckt und die Inzidenz liege höher, behauptet er.
+Dann kommt dazu: Nichts. Dieses eigentliche Hauptthema wird nicht beantwortet, wohl weil man weiß, was dann herauskäme.
+Und weiter geht es:
+[3] … Am Beispiel des Berchtesgadener Lands erklärt er seine alternative Berechnungsmethode. … Er schlägt vor, sich bei der Berechnung der Inzidenz an dem bundesweiten Durchschnitt der durchgeführten Tests zu orientieren, den genannten 1,5 Prozent. So ergebe sich für das Berchtesgadener Land eine Inzidenz von 18 – diese Zahl sei die „korrigierte Inzidenz“, behauptet der Student. Die Inzidenzwerte verschiedener Landkreise seien mit seiner Methode besser vergleichbar, weil die Anzahl der dort jeweils durchgeführten Tests keine Rolle mehr spiele.
+Zur Erklärung wird dann auf die Physikerin V. Priesemann verwiesen, welche bereits im Rahmen des FOCUS-Artikels zitiert wurde:
+[3] … Laut der Physikerin Viola Priesemann vom Max-Planck-Institut für Dynamik und Selbstorganisation liegt in dem Video aber ein grundlegender Denkfehler vor …
+Der Inzidenzwert
+Correctiv „erinnert“ in ihrer „Argumentation“ [3] daran, wozu der Inzidenzwert dienen sollte, nämlich einzig als (ursprünglich auf 50 festgelegten) Grenzwert, ab dem die Gesundheitsämter Kontaktpersonen angeblich nicht mehr nachverfolgen können: Fazit
+Nach über einem Jahr „Corona“ werden die Kontakte immer noch wie im digitalen Mittelalter mit Personal händisch anhand von angelieferter „Zettelwirtschaft“ verfolgt (wobei böse Stimmen behaupten, dass das teils gar nicht mehr konsequent gemacht würde).
+Unsere Digitalministerin im Bund – und auch die in den Ländern -, welche es modern lösen müsste(n), ist(sind) seit Langem abgetaucht (was bei dieser Fehlbesetzung(en) allerdings auch niemand vermisst).
+Und so dient der Inzidenzwert wohl nur noch als Planungsgrundlage zur Stellenaufblähungbesetzung für Personalverantwortliche in zuständigen Referaten der Gesundheitsämter.
+Nach der Definition bräuchte jedes Bundesland, Landkreis, Gemeinde, nur ihre Kontaktverfolgung zu optimieren und könnte dann „ihre“ kritischen Inzidenzschwellen anhand der erreichten Nachverfolgungsgeschwindigkeit selbst festsetzen.
+Optimal wäre es unter diesem Lösungs-Gesichtspunkt, wenn die bisher wegen der Kontaktverfolgungs-Unfähigkeit mit nur immer neuen, massivsten Corona-Restriktionen gemaßregelten Bürger aufständen, zu den in den Kommunen Verantwortlichen zögen und anstelle ihrer zunehmenden Drangsalierung dort mehr Effizienz verlangten …
+(Mehr als) unverständlich findet es deshalb der Autor, was Herr Söder bezüglich des Inzidenzwertes nach wie vor allen Ernstes behauptet: Söder im Bayerischen Landtag: … Söder verteidigt seinen Kurswechsel, erklärt, dass der Inzidenzwert weiter die einzig belastbare Größe sei und dass ihm noch niemand eine tragfähige Alternative genannt hat …
+So etwas kommt heraus, wenn man anstelle von Fachpersonen einen Ethikrat unter Vorsitz einer (ehemaligen) Regionalbischöfin errichtet, und darin (Kompetenz-) nicht ausreichend Unterwürfigkeit zeigende Personen sofort entfernt.
+Danach hat man wirklich „niemand“, der einen sachkundig informiert.
+Wobei man sich auch hier fragt, wozu dann die aufgeblähte, bestens honorierte Ministerialbürokratie dienlich ist.
+Alternativ und viel billiger könnte er auch EIKE, Achgut, oder Tichys Einblick lesen, wo darüber genügend fundierte Information geboten wird, aber igittigittigitt, dies sind doch rääääächte Publizierer.
+Für den Autor ist damit klar, dass Söder „Corona“ nicht wirklich kann (Achtung, eine rein persönliche Meinung des Autors). Nun soll er aber „Kanzler“ können. Und (auch) das mit Wohlwollen unserer Kanzlerin. Böse Zungen munkeln, da entwickle sich ein gegendertes Double einer von den Laien …
+Im Kern bleibt der Inzidenzwert auch vollkommen egal. Für die Gefährdung bietet er keine Aussage und damit keine Handhabe
+Dazu immer wieder die Grafiken der Corona-Meldewerte und deren „Auswirkungen“ – die Corona-Mortalität – der Städte Nürnberg und Fürth.
+Man sieht:
+– die Lockdown-Maßnahmen haben keinen Einfluss auf die Meldewerte
+– die Meldewerte (über 7 Tage zusammengefasst die Inzidenz) haben wenig bis keinen Einfluss (mehr) auf die Corona-Mortalität
+Nun die Grafiken für die Stadt Hof, welche mit aktuell 563 den höchsten Inzidenzwert von Bayern ausweist.
+Hinweis: Rein statistisch versterben in Hof täglich 1,35 Personen.
+Wie geht unsere politische „Führungsintelligenz“ damit um?
+Weiterhin vollkommen ideen- und planlos. Einfach nur: Wir wissen auch nicht warum, aber weiter so. Und auf gar keinen Fall schauen wir, ob es sinnvoll ist und/oder wie es andere machen:
+Achgut, 2.04.2021: So werden Inzidenzen aufgeblasen
+Achgut, 08.04.2021: Zahlen zum Tage: Wir testen uns zu Tode, wir fürchten uns zu Tode
+EIKE. 07. April 2021: Corona–Vorbild Schweden
+Tichys Einblick, 7. April 2021: 40.000 MENSCHEN IN STADIEN Vor einem Monat hob Texas alle Corona-Restriktionen auf: Zahl der Neuinfektionen sinkt auf Rekordtief
+Dazu fällt einem ein:
+Aber dass bitte kein*e Leser*in auf die Idee kommt, der Autor könnte damit auch nur entfernt unsere „Intelligenz“ meinen. Nein, nein, nein. Wenn überhaupt welche, dann einen Teil des Volkes, welches falsche Parteien wählt und friedlich, aber ohne Maske demonstriert und ganz offensichtlich (ver-)quer denkt. Nur diese dürfen laut unserem Bundespräsidenten von den „Guten“ übelst beschimpft werden.
+Mit welch überragenden Kenntnis, ausgesuchter Sorgfalt und hellseherischen Weitsicht unsere „Intelligenz“ dagegen vorgehen kann, hat Minister Spahn kürzlich erneut bewiesen und so umgesetzt, wie es Bundespräsident Steinmeier in seiner Osteransprache sagte: „Du, Staat, tust Deinen Teil, ich Bürger tue meinen“, wobei er wohl meinte: Der Staat entsprechend seinen geistigen Fähigkeiten und der Bürger entsprechend seiner Fähigkeit, immer höhere Steuern zu bezahlen.
+In solche Führungskräfte gewinnt man bedingungsloses Vertrauen, dass jeder Lockdown und jeder Einzelpunkt der Lockdown-Maßnahmen sorgfältig überlegt, verifiziert und auf Wirkung „abgeklopft“ wurde und damit sinnvoll sein muss …
+Dabei hat Minister Spahn wohl ein Vorbild im Auge gehabt:
+The European, Wolfgang Kubicki 29.03.2021: Entweder ist die Kanzlerin verwirrt oder sie will die Bevölkerung auf den Arm nehmen
+In ihrer Regierungserklärung im Deutschen Bundestag am 25.März 2021 hat Angela Merkel ausgeführt:
+„Ich will an dieser Stelle einmal sagen: Wir sind ein föderaler Staat. Es ist keinem Oberbürgermeister und keinem Landrat verwehrt, das zu tun, was in Tübingen und Rostock getan wird. Alle können das machen, und der Bund wird immer unterstützend tätig sein.“
+Bei Anne Will am Sonntag, sagte sie das genaue Gegenteil. Die Infektionszahlen gäben eine Lockerung derzeit nicht her. „Das ist nicht der Zeitpunkt, so etwas ins Auge zu fassen.“ Und weiter: „Ich weiß wirklich nicht, ob Testen und Bummeln, wie es in Berlin heißt, die richtige Antwort auf das ist, was sich gerade abspielt.“
+Quellen
+[1] Stuttgarter Nachrichten: Wie berechnet man die 7-Tage-Inzidenz?
+[2] FOCUS ONLINE, 23.03.2021: Inzidenz bei 18 statt 78? Mathe-Student wirft RKI verzerrte Corona-Zahlen vor – Physikerin kontert
+[3] Correktiv: HINTERGRUND Der Inzidenzwert wird nicht „falsch“ berechnet, aber es gibt Kritik daran, ihn als einzigen Maßstab zu nutzen
+[4] WIKIPEDIA: Inzidenz (Epidemiologie): Kritik
+[5] Tichys Einblick, 10.04.2021: ÄNDERUNG DES INFEKTIONSSCHUTZGESETZES Merkels Entwurf für den Bundeslockdown: Ausgangssperren, Schulschließungen, Einzelhandel dicht
+Meine Ergebnisse will ich nicht neben den Scheffel stellen:
+Beim Aldi kaufte ich eine Tüte Haribo Gummibärchen. Ich fand 15 rote Gummibärchen mit der Inzidenz 15. Am zweiten Tag kaufte ich zwei Tüten rote Gummibärchen. Ich fand 30 rote Gummibärchen mit der Inzidenz 30. Am dritten Tag kaufte ich 4 Tüten Gummibärchen und fand 60 rote Gummibärchen, Inzidenz 60. Am vierten Tag kaufte ich 8 Tüten Haribo und ermittelte daraus die Inzidenz 120.
+Herr Tierarzt Wieler vom Gummibärchen-Institut hat mir bestätigt: Aldi wird die Welt exponentiell unter roten Gummibärchen verschütten, wenn wir nicht sofort einen Lockdown verhängen. Außerdem empfiehlt er einen Aluhut bei allen Tätigkeiten innerhalb und außerhalb des Bettes.
+Klabauterbach, der bisher keine liebende Frau gefunden hat, möchte uns anketten, bevor die grüne Gummibärchenwelle über uns hereinbricht. Doch AM gibt unf Zuversicht: Wir faffen daff, wir kriegen euch alle!
+Vermutlich sind die Gummibärchen von Deutschland was ganz besonderes..
+Auch die spanische Grippe hatte nicht den Tod als Regelfall, sondern diesen „nur“ im einstelligen Prozentbereich.. Krankheiten mit hoher Letalität und kurzer Inkubationszeit laufen sich nach kurzer Zeit schnell Tod, außer sie haben eine hohe Reproduktionszahl.
+Die Todesrate und Gesamtzahlen von Deutschland und Australien folgen im Übrigen dem gleichen Muster.
+Ging es Ihnen nun um ein Beispiel der statistischen Probleme bei der Verwendung eines Inzidenzwertes oder dann doch um die Probleme der Korrelation zwischen Inzidenzwert und den gesundheitlichen Beeinträchtigungen bis zum Tod? Letzteres wird mit einem Tüten Haribo wohl eher schwierig. Bei ersterem bin ich der Meinung, dass der Inzidenzwert ein gutes, schnelles Schätzeisen ist, da die Positivenquote dieser etwas hinterherläuft.
+Sie haben meinen Artikel entweder nicht gelesen, oder nicht verstanden. Was Sie als „Information“ titeln, ist genau die Volksverdummung, welche mein Artikel mit Belegen anprangert.
+Da hilft es nicht, dass der Fachdienst des Bundestages fleissig Definitionen abschreibt, die statistisch trotzdem falsch sind und damit damit unsinnig bleiben.
+Also, was sagt mein Artikel: “ … gibt die Zahl der Neuinfektionen innerhalb der vergangenen sieben Tage pro 100.000 Einwohner an“ ist falsch. Nur „(Eine) Anzahl von Neuinfektionen“ stimmt. „pro 100.000 Einwohner“ stimmt weiterhin nicht entfernt.
+das sind die Parameter, die den Abgeordneten vom RKI präsentiert werden. Der Wissenschaftliche Dienst beschreibt nur den Sachverhalt. Darum ist die 7-Tage-Insidenz, wie es in verschiedenen Medien dargestellt wird, eine politische Variable. Im Übrigen habe ich Ihren Artikel sehrwohl gelesen und verstanden.
+Sehr geehrter Herr Helmut Kuntz,
+wenn der Inzidenzwert tatsächlich so berechnet wird wie von Ihnen in Ihrem Artikel beschrieben, wäre die Ermittlung der 7-Tage Inzidenz natürlich Schwachsinn. Meines Wissens nach (korrigieren Sie mich bitte wenn ich falsch liege) wird der Inzidenzwert auf die Zahl der Infizierten (wer ist das ?) pro getestete Personen bezogen und dann auf 100000 Personen umgerechnet. Korrekterweise müßte man folgendermaßen analysieren. Von politischer Seite wird ja die jetzige Lockdown-Strategie damit begründet, dass man auf die Hilferufe aus den Krankenhäusern reagieren müßte. Dazu ist jedoch folgendes anzumerken :
+1) Die Belegung von Intensivbetten durch Covid-19 Patienten auf die Bundesländer bezogen beträgt zwischen 0,7 % (Schleswig Holstein) und 31,4 % (Thüringen) von allen auf Intensivbetten liegenden Patienten.
+2) Wie von einigen Kommentatoren dankenswerterweise bereits beschrieben, kam es selbst im Jahr 2020 zu Schließung von Krankenhäusern und zur Reduzierung der Zahl von Intensivbetten. Welche Schwachköpfe oder Kriminellen dies aus welchen Gründen veranlasst haben, müsste man klären !
+3) Beim PCR-Test zur Ermittlung der Viruslast (besser der Virusgenomabschnitte Last) müßte in jedem Fall der CT-Wert angegeben werden, um zu unterscheiden ob es sich um durch Coronavirus SARS-CoV-2 Infizierte handelt oder um Personen, die nur einmal kurz von einem Coronavirus besucht wurden (dies ist zumindest bei CT-Werten über 30 der Fall). Warum der CT-Wert nicht angegeben wird oder zumindest der Öffentlichkeit nicht mitgeteilt wird, kann nur als Schlamperei mit fatalen Folgen beurteilt werden, da bereits bei CT-Werten über 25 die Möglichkeit, andere Personen zu infizieren, sehr gering ist und dies gilt erst recht bei CT-Werten über 30 !
+Bei Berücksichtigung dieser Tatsachen hätten wir deutlich geringere Inzidenzwerte.
+4) Weiterhin ist zu bemerken, dass neben der Viruslast auch der Zustand des Immunsystems sehr entscheidend ist, ob eine Person schwer erkrankt, infektiös ist oder nicht.
+der „Inzidenzwert“ wird genauso simpel „ermittelt“ wie von Herrn Kuntz beschrieben. Man nimmt die absoluten Zahlen der Positivtestungen der letzten 7 Tage (selbst die sind häufig nicht korrekt, da diese durch Nachmeldungen – die zumindest teilweise außerhalb des 7-Tage-Intervalls liegen – fast immer verzerrt werden) und normiert diese auf 100.000 Einwohner. Viel unwissenschaftlicher geht es fast gar nicht. Vermutlich hat man es so einfach gehalten, dass es auch Politiker verstehen 😉
+haben Sie herzlichen Dank für Ihr Feedback und Ihre Informationen !
+https://lua.rlp.de/de/presse/detail/news/News/detail/corona-hinweise-zur-berechnung-der-7-tage-inzidenz/
+(„Fallzahlen“ / Einwohnerzahl) * 100.000 = Inzidenz. Unten auf der Seite gibt es eine Beispielrechnung.
+Das ist die Hausnummer an COVID-19 Toten und Geschädigten, welche bis heute durch die Impfung verhindert wurden. Trend ansteigend.
+https://www.intensivregister.de/#/aktuelle-lage/zeitreihen
+Sie können wirklich nicht aufhören die Leser hier immer wieder Irre zu führen und Panik zu verbreiten. Es gibt in Deutschland kein Problem mit Intensivbetten. Im internationalen Vergleich liegt Deutschland bei Intensivbetten auf Nr. 1
+– 33,9 Intensivbetten pro 100 000 Einwohner. Nicht Betten insgesamt sondern pro
+100 000 Einwohner und Nr. 1 bedeutet es gibt kein anderes Land, das besser versorgt ist als Deutschland.
+https://www.oecd.org/health/
+Dazu noch hat DKG (Deutsche Krankenhaus Gesellschaft) am 03.04.2021 der Regierung deutlich gemacht, dass sie die Zahl der Betten steigern können, wenn Bedarf besteht.
+„Es wird aber in den kommenden Wochen nicht zu einer kompletten bundesweiten Überlastung der Kliniken kommen, die dazu führt, dass wir Bilder wie in Bergamo erleben müssen, dass Patienten keine Beatmung mehr erhalten können und wir möglicherweise sogar das benachbarte Ausland um Unterstützung bitten müssen. Diese Unterscheidung müssen wir treffen. Das Intensivregister der Vereinigung der Intensivmediziner (DIVI) zeigt täglich selber auf, dass es neben aktuell 3.800 freien Intensivbetten gut 10.000 Reserveintensivbetten gibt. Diese Betten können wir im Notfall durch das deutliche Zurückfahren der Regelversorgung binnen sieben Tagen aktivieren. In allen Bundesländern existieren Notfallpläne der einzelnen Regionen, wie die Patienten umgesteuert werden, wenn einzelne Intensivstationen keine weiteren Aufnahmen mehr möglich machen können. Diese regionale Koordinierung in der Verantwortung der Krankenhäuser hat auch zu den Spitzenzeiten der 2. Welle funktioniert.“
+https://www.dkgev.de/dkg/presse/details/wenn-die-politik-die-von-ihr-beschlossene-notbremse-konsequent-umsetzt-werden-die-kliniken-auch-in-den-kommenden-wochen-den-schutz-der-bevoelkerung-gewaehrleisten/
+Ich verstehe wirklich nicht, warum Sie die Menschen hier anlügen. Weil Sie vermutlich denken, dass wir dumm sind?
+Wieder einmal mein Dank für diesen, Ihren Kommentar! Wir beide sind zwar in der China-Frage ziemlich differenzierter Meinung, aber bezüglich dieses Themas vertraue ich schon lange Ihrer Kompetenz und Ihren Kommentaren!
+Nun meine Fragen (haben nichts mit China zu tun) an Sie bezüglich dieses Themas:
+* Weshalb tun Sie sich das an?
+* Weshalb bringen Sie auf idiotische Kommentare eines Bremer Tiefseetauchers laufend sachliche – für jeden Normalen verständliche – Argumente, welche der Tiefseetaucher niemals verstehen wird?
+* Daß Sie uns Normale informieren, finde ich sehr gut von Ihnen! Aber bitte nicht auf seiner Antwortebene, das ehrt ihn doch, obwohl er Ihre Antwort gar nicht versteht, finden Sie nicht?
+* Ist Ihre Anrede „Sehr geehrter Herr …“ korrekt, oder nur eine Floskel, welche sich dann wirkliche Damen und Herren bei Bedarf selbst aussuchen dürfen?
+* Wie hier schon einmal (nicht von mir) vorgeschlagen, wäre es nicht besser, auf Kommentare einzelner Glaskugelschauer und Knochenwurfdeuter einfach nicht zu reagieren?
+Bezüglich der China-Frage wollte ich eine Diskussion anstoßen und habe mich noch nicht festgelegt, weil ich nicht weiß auf welcher Seite sich China tatsächlich befindet. Vermutlich weiß China das selber noch nicht. Ich denke aber, dass es besser ist der KPC genauer auf die Finger zu schauen.
+Ich versuche mit der Anrede höflich zu bleiben. Außerdem geben diese Kommentare von Herrn Krüger mir die Gelegenheit die Leser aufzuklären. Es scheint angekommen zu sein. Ich gehe auch davon aus, dass Herr Krüger ganz genau weiß, was er tut und vielleicht sogar dafür beauftragt wurde. Dürfte aber wohl nicht seine Lieblingsbeschäftigung sein.
+Wobei ich zumindest in meinem beschränkten Aufnahmevermögen bei Herrn Krüger ab und zu ein verständnisvolles Nicken nicht unterdrücken konnte. Bei Frau Mikosch blieb mir Letzteres bisher versagt.
+Herr Suntinger, man sollte nicht ad hominem argumentieren sondern sich auf die jeweilige Aussage beziehen. Sie scheinen meines Erachtens was Personen betrifft, im Schwarz-Weiß-Denken verhaftet zu sein und diskriminieren gerne, wenn Ihnen eine andere Meinung zu einem Thema nicht passt. Außerdem scheinen Sie nicht zu begreifen, dass Ihr indirektes Aussprechen von Denkverboten Andersdenkende dazu verleitet, in der Öffentlichkeit zu behaupten, dass im Eike Forum nur Kommentatoren und Kommentatorinnen mit der gleichen Denkweise und vor allem mit Ihrer Denkweise geduldet werden, was z.B. Personen wie Jane Uhl oder Silke Kosch und viele außerhalb des Eike-Forums dazu verleitet, verallgemeinernd von Eike-Autoren, – Kommentatoren oder -Lesern zu sprechen bzw. zu schreiben. Dabei ist die Absicht von Eike, eine kritische und offene Diskussion auf wissenschaftlicher Basis anzuregen. Fragen Sie Herrn Lüdecke oder Herrn Limburg, falls Sie mir nicht glauben wollen !
+Dr. Horst Denzer schrieb am 16. April 2021 um 15:58
+Diese Behauptungen resultieren IMHO eher aus dem Gefühl, dass die Regel „Wir behalten uns jederzeit das Recht vor, Anmerkungen zu filtern oder zu löschen oder zu bestreiten und dies ganz allein nach unserem Gutdünken.“ angewendet wird. Und da nur die Autoren eines Kommentars wissen, ob er veröffentlicht wird – die anderen sehen davon ja nichts – ist das sehr subjektiv. Da kann dann schon bei den einen das Gefühl entstehen, dass hier frei diskutiert werden kann, während andere das nicht so sehen.
+„Dr. Horst Denzer schrieb am 16. April 2021 um 15:58
+Das betrifft meinen Kommentar. (Herrn Denzer’s Kommentar kränkte mich ein bißchen.)
+Ihren darunter angeführten verstehe ich leider nicht, ich hoffe, Sie werden ihn mir „aufdeutschen“.
+Weil: Weshalb denn philosophisch, wenn’s einfacher auch ginge?
+Deshalb nochmals meine Meinung:
+Es liegt mir fern, jemanden, auch indirekt, mit Denkverboten zu belegen, was mir Herr Denzer ja indoktrinierte.
+Ich hatte mit meinem Kommentar einfach nur die Idee, auf Kommentare, welche offensichtlich Schwachsinn sind (weil durch viel kompetentere Kommentatoren als ich einer bin, schon vielfach kommentiert!) nicht zu reagieren. Eine Reaktion ist doch die Aufwertung solcher (schwachsinnigen) Kommentare, auch wenn man anderer Meinung ist! Das hat weder mit Denkverboten, noch mit Ausgrenzung zu tun!
+Auf meine Kommentare muß niemand reagieren; ich fühle mich dadurch weder ausgegrenzt, noch denkverboten!
+Wie schrieb schon Botho Strauß:
+„Dies All ist erfüllt von jedermanns erbrochenem Alltag. Das Logbuch einer weltweiten Inkontinenz.“
+Schlußendlich bevorzuge ich des Öfteren mein Schwarz-Weiß-Denken: 1+1=2, auch wenn das in „diversen“ nordamerikanischen Universitäten bislang schon bezweifelt wird!
+Heimo Suntinger schrieb am19. April 2021 um 23:58
+Es wäre einfacher, wenn Sie konkret sagen würden, was Sie an dem Kommentar nicht verstanden haben. „Diese Behauptungen resultieren IMHO eher aus dem Gefühl, …“ sollte sagen, dass ich die Ursache nicht in Aussagen wie den Ihren sehe, sondern an anderer Stelle. Danach folgt eine Beschreibung, wo ich die Ursache sehe.
+https://www.n-tv.de/panorama/So-etwas-hat-es-noch-nicht-gegeben-article22490448.html
+https://www.n-tv.de/panorama/Schweden-hat-hoechste-Inzidenz-Europas-article22488746.html
+Man nimmt sich irgendwelche Artikel von Youtube/Pressemitteilung bei Eike her ohne die Detailprüfung. Beispiel ist der Brief aus dem Erzgebirgskreis. Was nicht drinn steht, dass Kindergärten und viele Schulen in freier Trägerschaft geschlossen haben. Nicht weil Corona übermäßig wütet, schlicht weil das Personal krank ist und die Kinder haben das mitgebracht. Die Bürgermeister haben da keinen Einfluss darauf weil das nicht deren Personal ist. Wenn das Personal fehlt ist der Kindergarten zu. Das ist dann typisches Eike-Leser-Niveau, wenn dann Eltern E-Mails an die Kommunalverwaltung schreiben, das sich die erkrankte Erzieherin „irgendwo herumgetrieben“ habe und nun nicht in der Lage ist die Kinder zu betreuen.
+Eike hat einen Pressesprecher. Der kann doch mal bei der nächsten Bundespressekonferenz Herrn Wieler und seine Kollegen mit Fachfragen richtig zu texten. Das geballte Eike Fachwissen mal unter Beweis gestellt werden.
+Googlen Sie mal nach „our world in data“ und lassen sich die Kurven von Deutschland und Schweden vergleichend anzeigen. Vergessen Sie dann aber nicht umzuschalten auf die Anzeige der Testzahlen! Die schwedische Inzidenz wird nämlich nach dem gleichen unsinnigen System bestimmt wie die deutsche und das bedeutet nun mal: Mehr Tests ergeben mehr Fälle! Zu guter Letzt könnten Sie sich dann noch die aktuellen Sterbefallzahlen anschauen. So relativiert sich halt alles.
+um eine Statistik interpretieren zu können, benötigt man kein Medizinstudium, welches man wiederum leichter erreicht, wenn man in der GOST Leistungskurse in Kunst oder Musik anstatt in Naturwissenschaften belegt. Sie wissen schon, NC und so …
+um Entscheidungen großer Tragweite zu treffen, ist der Glaube an einem Papier, dass eine bestimmte, stark begrenzte Ausbildung bestätigt, hinderlich anstatt förderlich. Man braucht eine breitgefächerte Allgemeinbildung, um alle Aspekte einzubeziehen, gutes Urteilsvermögen und pragmatische Denkweise.
+Kleines Beispiel: Ich hoffe Sie können sich an den Rinderwahnsinn erinnern, an der menschlichen Form sind damals in der EU rund 150 Meschen gestorben, dem gegenüber sind in England 170 Landwirte an Suizid gestorben, die im Zuge der Krise alles verloren haben. Es geht noch schlimmer: In jedem größeren Krieg gab es Situationen, wo man 30.000 junge Männer bewußt in den sicheren Tod geschickt hat, um einen Durchbruch zu verhindern, der zu Verlust der Schlacht und damit des Krieges führen könnte.
+Was ich damit sagen will, bei außerordentlichen Situationen muss man Entscheidungen ohne Rücksicht auf einzelne Schicksale treffen. Ärzte, die dafür da sind, um jedes Leben zu kämpfen, sehen nicht die Gesamtsituation der Gesellschaft, daher ist ihre Sicht nur ein kleiner von vielen Aspekten.
+Dazu kommt noch: ich lese viel n-tv, dadurch kenne ich Merkels Entscheidungen immer 2 Tage vor der Ankündigung. Häufen sich die Schlagzeilen wie in Ihren links, kommt in 2 Tagen garantiert ein Lockdown-Versuch von Merkel. Sinkt die Anzahl solcher Schlagzeilen, macht sie in 2 Tagen den Rückzieher.
+Wenn man auf Kosten von Steuergeldern mit einer kaum Nutzen bringende Biostatistik gut lebt, sollte man diese Menschen nicht vergessen, die die Werte und Steuern hart erarbeiten: Friseure, Cafebesitzer und und und, die alle suizidgefährdet sind.
+Für die Beurteilung der diskutierten Problematik reichen gesunder Menschenverstand und das Wissen um Propagandamethoden.
+Dann hört man sich noch die Argumente der verschiedenen Seiten an und weiß Bescheid.
+Wenn man dann noch beobachtet wie von der Politik mit den Grundrechten umgegangen wird, wie Richter Gesetze biegen und negieren und wie in den Staatspropagandamedien mit Fakten und Kritikern umgegangen wird und dann den Schmarren mit der Pandemie immer noch glaubt, ist man blöde.
+Und wenn man dann noch die Pandemiepropaganda unserer geliebten Führerin und des Davos-Gesindels verbreiten hilft, ist man nicht nur blöde sondern auch ein verlogenes A…loch
+Frau Uhl, Sie schrieben : „Das ist dann typisches Eike-Leser-Niveau,..“ Auf Grund der Tatsache, dass hier im Eike-Forum sehr unterschiedliche Meinungen von Kommentatoren und Kommentatorinnen vertreten werden, ist dies zunächst einmal falsch. Ihre Äußerung läßt daher die Vermutung zu, dass Sie intellektuell überfordert zu sein scheinen, die Unterschiedlichkeit der Meinungen in den Kommentaren im Eike-Forum zu erfassen. Frau Silke Kosch kann man übrigens den gleichen Vorwurf machen ! Darüber hinaus gibt es viel mehr Eike – Leser und Eike – Leserinnen als Eike – Kommentatoren und Eike – Kommentatorinnen, deren Meinung keiner von uns kennen kann, weil sie ihre Meinung nicht durch Kommentare kund tun !
+für Ihre weisen Worte!
+Gemäß Frau Uhl reicht ihr ein Bachelor-Abschluß (siehe oben), um dazu zu lernen. Das ist schön für sie. Ob sie dann allerdings mit dem auf dieser edlen Seite üblichem, weit darüber liegendem Niveau jemals etwas dazu lernen kann?
+Also, mein Bachelor-Zeugnis, äh Studienabschnittszeugnis, abgeschlossen mit dem großartigen Titel „cand. ing.“, legte ich in irgendeiner Schublade ab, nicht in meiner Dokumentenmappe. Immerhin war ich aber befugt, den zweiten (und letzten) Studienabschnitt zur Erlangung eines akademischen Grades, hinterlegt in meiner Dokumentenmappe, zu absolvieren.
+Ihre Anspielung („Vorwurf“) auf Frau Kosch gefällt mir ebenfalls. Meines Erachtens ist sie aber nur naiv, wogegen ich Uhl’s Kommentare zusätzlich als präpotent betrachte.
+PS
+Bin schon gespannt auf Ihre Kommentare zu den Kommentaren des neuen Kommentators Josef Zettl.
+„Die enge Verbindung zwischen EIKE und führenden Wissenschaftlern trägt entscheidend dazu bei, dass sich die Bildungsinhalte von EIKE stets an den neuesten wissenschaftlichen Erkenntnissen orientieren.“
+Wenn wissenschaftliche Erkenntnisse nach vorgenannten Maßstab in den o.g. Artikel von Herrn Kuntz (wer auch immer das ist, keine Angaben zu Referenzen/Veröffentlichungen etc. verfügbar) so formuliert werden, ist es ggf. eine Meinungsäußerung, mehr nicht.
+Ein Akadamiker, welcher tatsächlich eine Dissertation selbst verfasst hat oder gekauft hat, müsste wissen, dass MORALISCHE WERTUNGEN für wissenschaftliches Schreiben unzulässig sind. Wissenschaftliche Texte müssen immer in eine Korrekturphase.
+Der Schreiberling stützt sich hier im wesenlichen auf sein eigenes Weltbild. Schaut man sich ihre Kommentare in verschiedenen „Artikeln“ sind im Regelfall auf Beschimpfungen aufgebaut. Das ist es was Sie auszeichnet. Mehr Fähigkeiten sind nicht erkennbar. Ich nehme es Ihnen nicht übel aufgrund Ihres Alters.
+Meinungen sind wie Arschlöcher jeder hat eins, bringt aber keine neuen Erkenntnisse, schon gar keine überzeugbare Aufklärung.
+Heimo Suntinger:
+Also was die Weisen Worte von Herrn Denzer angeht, naja.
+„Ärzte, die dafür da sind, um jedes Leben zu kämpfen, sehen nicht die Gesamtsituation der Gesellschaft, daher ist ihre Sicht nur ein kleiner von vielen Aspekten.“
+Sehr interessant. Wie gesagt, gehen Sie in das Uniklinikum in Jena und sagen Sie das den Ärzten und Pflegern. Viel Spaß. Es gibt da Ärzte und Pfleger die legen ihren Job nieder. Das sind nicht wenige.
+Sie verwechseln unsere Publikationen (Siehe Menüpunkt) mit unseren News. Kann vorkommen, sollte es aber nicht.
+Und vergessen Sie nicht die suizidgefährdete Friseure und Cafebesitzer, die mit ihren Beiträge die Ärzte finanzieren!
+„… weil das Personal krank ist …“? Symptomatisch krank oder nur positiv getestet?
+„… die Kinder haben das mitgebracht“? Waren die Kinder asymptomatische, präsymptomatische oder symptomatische Kranke?
+„Medizinische Front“:
+08.04.2021 – Dr. med. Gunter Frank, Dr. med. Manfred Horst und Prof. Dr. med. Henrik Ullrich diskutieren mit Burkhard Müller-Ullrich über die Normalität von Atemwegsinfekten, über hysterische Anwandlungen im Ärztemilieu sowie über absurde Hygienemaßnahmen und andere kafkaeske Zustände in Krankenhäusern. Außerdem wird festgestellt, dass Covid-19 schon seit Herbst 2019 in Sachsen endemisch ist.
+Quelle: Achgut.Pogo
+https://www.youtube.com/watch?v=OeOsL96W34c
+Zwischen dem 30.03.21 und 13.04.21 (14 Tage) wurden 80.050 positive Testfälle in Schweden registriert. In diesem Zeitraum starben 230 Personen mit einem positiven Testergebnis und gab es 471 neue Covid-19-Intensiv-Fälle.
+Die 14-Tage-Inzidenz beträgt hier 771 pro 100.000 (Einwohner am 31.12.2020: 10.379.295).
+Wie reagieren die Schweden darauf?
+„… weil das Personal krank ist …“? Symptomatisch krank oder nur positiv getestet?
+„… die Kinder haben das mitgebracht“? Waren die Kinder asymptomatische, präsymptomatische oder symptomatische Kranke?
+„asymptomatische, präsymptomatische oder symptomatische“ ist irrelevant. Wenn die Erzieher und Lehrer positiv getestet wurden, gehen dieses nach Hause. Dann ist die Kindergartengruppe/Klasse dicht. Das ist so.
+Wenn die Lehrer/Erzieher ihre eigenen Kinder selbst betreuen müssen, weil deren Kindergartengruppe/Klasse dicht zieht das Kreise, weil dann Personalmangel herrscht.
+Aber wenn man die hier immer gleichen Personen im Smaltalk so sieht… Da sind doch zeitliche Reserven einiger vorhanden.
+„Medizinische Front“:
+Ganz einfach, mal zu Abwechslung keine Talkshow. Die Geschäftsführung von Eike und die hier anwesenden Kommentatoren haben es doch ganz bequem. Nebenan ist die Uni Jena und das Uniklinikum. Nehmen Sie Herrn Frank gleich mit. Das schaffen Sie zu Fuß und dann holen Sie sich bei Prof. Dr. Michael Bauer, Klinik für Anästhesiologie und Intensivmedizin Infos über Corana. Da gibt es noch andere Uni-Kollegen im Bereich Infektionsbiologie und Virologie. Diese Leute können Sie gern von ihren Standpunkten überzeugen. Schaffen Sie das, schaffen Sie das bei allen anderen auch.
+Und das hier https://reitschuster.de/post/lage-in-intensivstationen-die-klagen-der-spitzenmediziner-sind-getrost-zu-ignorieren/ ist alles falsch?
+Sie können mal das Klinikpersonal kurz vergessen!
+Versuchen Sie mal für 4 Kinder alle Fach-Lehrer und Erzieher für eine Woche zu ersetzen! Sie werden nach 24 Stunden die weiße Flagge hissen! Und ich mache es schon seit Monaten! Dabei habe ich es noch blendend, da ich 30 Jahre lang als Selbstständiger 60 Stunden und mehr gearbeitet habe und kann mir jetzt dadurch mehr Zeit fürs private ohne zu hungern nehmen! Und Sie jaulen, weil paar Ärzte sich für Ihr Geld eine wenig schneller bewegen müssen! Mir kommen gleich die Tränen!
+Sie sollten mal paar Stunden nach Feierabend ranhängen und den Lohn für die spenden, die aus ihren Betrieben ausgesperrt sind und bei denen sich der Pfänder bereits angekündigt hat! Damit Sie endlich kapieren, wo die Probleme wirklich liegen!
+Im Übrigen: meine Eltern sind an Krebs gestorben. Die Ärzte haben die Schultern gezuckt und der Bundespräsident hat es vergessen, für die Krebstoten zu trauern, die Millionenfach mehr sind!
+da Sie ja augenscheinlich über entsprechende Kompetenzen verfügen, können Sie vielleicht auch erklären, warum der starke Anstieg bei den Corona-Intensivpatienten keine signifikante Änderung bei der Gesamtzahl der Intensivpatienten verursacht.
+https://www.intensivregister.de/#/aktuelle-lage/zeitreihen
+Bitte auch den Reiter „zusätzliche Zeitreihen“ ausklappen.
+P.S.: Interessant wäre auch eine Erklärung, warum in einer Pandemie massiv Intensivbetten abgebaut werden.
+Wer immer Herr Reitschuster auch ist, er ist weder Intensivmediziner noch aus einer medizintechnischen Fachrichtung. Sie sind doch ein wissenschaftliches Institut. Haben Sie dessen Quellen und Inhalte geprüft ?
+„Versuchen Sie mal für 4 Kinder alle Fach-Lehrer und Erzieher für eine Woche zu ersetzen! Sie werden nach 24 Stunden die weiße Flagge hissen! Und ich mache es schon seit Monaten! “ ??
+@Georgiev: Folgender Gegenvorschlag. Wir treffen und in der Uniklinik. Sie erhalten von mir eine Infektion nach Wahl aus drei Coronavarianten. Ein richtiger Eike-Fan braucht keine Impfung und/oder Intensivmedizin.
+„Im Übrigen: meine Eltern sind an Krebs gestorben. Die Ärzte haben die Schultern gezuckt und der Bundespräsident hat es vergessen, für die Krebstoten zu trauern, die Millionenfach mehr sind!“
+Es ist keine Frage der Krebstod nach sehr nahen Menschen in jeder Hinsicht ein unüberwindbarer Verlust ist.
+Ausgerechnet dem Bundespräsidenten zu unterstellen, dass er Krebstote vergisst ist hart, sollten Sie ihm aber selbst sagen. Falls er Ihnen dann mitteilt, dass er einen großen Teil seines Einkommens der Krebsforschung spendet (was er tatsächlich tut), könnten Sie als Blödmann da stehen.
+Sie urteilen leider vorschnell, wenn Sie meinen
+Nur zu Ihrer Info, was Sie leicht hätten selber herausfinden können, bei Reitschuster handelt es sich um die Plattform, der Autor ist Oberarzt in einer Klinik.
+Hoffentlich genügt das Ihren hohen wissenschaftlichen Ansprüchen.
+Da Sie mit allen Ihren Titeln nicht wissen, wie schnell Viren mutiert und daher z.B. gegen Grippe jedes Jahr neu geimpft werden muss, sparen Sie sich die Dosen für sich selbst.
+Dass was Sie gar nicht checken ist, wenn die Gesellschaft mittels Lockdowns, empfohlen von Doktoren, die rechts und links von ihrem Diplom keinen blassen Schimmer vom Leben haben, richtig kaputt ist, Sie anschließend Ihren Ausbildungsschein höchstens als Klopapier verwenden können. Aber zum Essen müssten Sie Samen in die Erde stecken und hoffen, dass etwas essbares herauskommt. Oder hoffen, dass es genug Dumme gibt, die für einen medizinischen Rat ein trockenes Brötchen spenden. Von mir bekommen Sie keines, denn ohne die ganze Krankenhaustechnik und Chemie kann kein Mediziner mehr für mich tun als ich selbst.
+Und Sie haben noch Schwierigkeiten, Texte in einfachen Deutsch zu verstehen. Der Bundespräsident äußert Trauer über paar Coronatoten, als wären sie im Kampf für die Freiheit für uns alle gefallen. Die Millionen Krebstoten sind ihm offensichtlich deutlich weniger wertvoll. Richten sie ihm einen schönen Gruß von mir aus, er soll lieber nicht spenden sondern das Geld im Puff versaufen, dafür den Rand halten über Tote, da es ist pietätlos ist, bestimmte Tote hervorzuheben. Das haben weder Sie noch er kapiert!
+Tenor darin ist, dass es am (richtigen) Personal mangelt. Auch sind dort Auslastungen in Deutschlandkarten zu sehen. Diese zeigen z.B. auf, dass in der fränkischen Alb und hinter Dresden schon über eine Stunde bis zur einer high care Notaufnahme gefahren werden muss.
+Sie zitieren: „Diese Betten können wir im Notfall durch das deutliche Zurückfahren der Regelversorgung binnen sieben Tagen aktivieren.“
+Was bedeutet, dass dann andere notwendige (auch dringliche) Operationen zurückgestellt werden müssen.
+Alles kein Problem?
+Hier finden sie eine interessante und differnezierende Sicht auf dieses Thema.
+Auch für Herrn Rohde.
+https://www.zeit.de/2021/16/intensivstationen-corona-pandemie-patienten-triage-schwerer-verlauf
+wie üblich, Pseudoinformation durch Weglassen wichtiger Information.
+In der ersten Welle wurde der Personalschlüssel im intensivmedizinischen Bereich außer Kraft gesetzt. Im Sommer wurde er wieder einführt. Und mitten in der zweiten Welle im Januar 2021 dann verschärft.
+Das ist eine inzwischen typisch deutsche, bürokratische „Lösung“ von Problemen. Fange nur nicht an, Maßnahmen zu unterstützen – wer die Bürokratie nicht überlebt, hat keine Daseinsberechtigung.
+Anfang 2020 wurden 38.000 Intensivbetten gemeldet (weil es dafür horrentes Geld gab), nun sind es noch 23.000 plus Notfallreserve.
+Diese ist nicht betreibbar, weil das Personal fehlt. In einem Jahr „Jahrhundertpandemie“ ließ sich das Personalproblem nicht lösen, aber mittels Personalschlüsselgesetz massiv verschlechtern.
+So lösen wildgewordene, hoffnungslos überforderte Politiker inzwischen (keine) Pandemien.
+Allerdings ist die Mortalitätsrate drastisch gesunken. Wenigstens das ist ein Erfolg. Ob daran die Politik einen Anteil hat, darf bezweifelt werden.
+https://www.youtube.com/watch?v=DbIQysPxCuM
+Vitamin C, D, Zink und vllt. noch die Methode des Prof. Winfried Stöcker! Hydrochloroquin und Ivermectin sind weitere Möglichkeiten bei sorgfältiger Anwendung bezüglich Toxidität.
+Na und dann Artemisia.
+Aber all diese vielversprechenden Ansätze werden von BigPharma unterdrückt.
+Hinweis: Ich bin kein Mediziner und gebe nur meine für mich selbst herausgefundenen Erkenntnisse kund!
+Bin dabei!
+Erst werden durch Schnell- und Selbsttests genau die Leute herausgefiltert, die irgendwie verdächtig sind. Und diese Verdächtigen werden dann per PCR-Test (ohne Angabe des ct-Werts) nochmal gestestet. Was nicht nur die Zahl der nun wirklich höchst Verdächtigen erhöht, sondern auch noch den Prozentsatz der positiv Herausgefilterten gegenüber den Negativen.
+Aber vergessen wir nicht: Das sind alles nur Spielereien am Rande, die Kanzlerin entscheidet letztlich nur auf politischer Denkbasis (siehe Reitschuster in der BPK 21.1.2021)
+Die Marionettenfäden bleiben stabil!
+MfG
+Werner Philipzik
+https://interaktiv.morgenpost.de/corona-deutschland-intensiv-betten-monitor-krankenhaus-auslastung/
+Wir wissen, daß seit August letzten Jahres die insgesamt zur Verfügung stehenden Intensivbetten von ca. 30.000 auf aktuell 26701 zurückgegangen sind.
+Aber…die „Schlauen“ wissen: „Intensivbettenabbau ist alles nur Lüge“: https://www.merkur.de/leben/gesundheit/intensivbetten-abbau-deutschland-vorsicht-falschmeldung-klinik-corona-coronavirus-zr-90126027.html
+Logisch…real abgebaut, also zerlegt wurde wohl kaum ein Bett.
+Aber aus welchem Grund man dort keinen reinlegen kann, ist irrelevant.
+Wenn das nicht geht, dann steht es nicht zur Verfügung.
+Und wenn man Personalmangel hat, dann muß man Leute einstellen bzw. umdisponieren.
+Es gab mal Zeiten, da haben Hilfsschwestern ganze Lazarette mit Schwerstverletzen versorgt. Wie viele Stellen sind denn ausgeschrieben? Wie viele Leute wurden denn eingestellt? Aktuell kann man nur hoffen, daß in unserem Land niemals eine echte Notlage, oder große Katastrophe eintritt.
+Tja, und wie sieht die derzeitige Notlage tatsächlich aus?
+Die Belegung der Intensivstationen ist, wie immer, übers ganze Jahr nahezu gleich.
+Aber es haben eben zusätzlich welche Corona.
+Aber das ist natürlich nur Fakelüge. Das sind ja nur Zahlen.
+Die gefühlte Krise ist ein weitaus bedeutenderer Fakt.
+Dem muß unbedingt gefolgt werden.
+Und selbstverständlich ist Jeder, der nicht lauthals „Hurra“ schreit, ein Nazi.
+Nun bin ich in Telegram auf die Gruppe „Pflege- und Krankenhauspersonal für Aufklärung“ gestossen und wundere mich nun gar nicht mehr, dass es im Klinik- und Pflegewesen genau am Personal hapert. Kann ja jeder mal selber reinschauen, dass die Leute reihenweise selbst in den Krankenstand wandern oder nach Hartz4 flüchten!
+Wer hält denn noch Maskerade, Schutzanzüge und die unsinnigsten Behandlungsge- und Verbote noch aus?
+Desweiteren müsste sich nach Ihrer Theorie die Gesamtanzahl der Tests in Deutschland erhöhen. In den aktuellen Zahlen vom RKI sieht man aber, dass ab Anfang April die Gesamtanzahl der Tests sogar von 1,4 Mio auf 1,1 Mio abgenommen hat. D.h. obwohl eigentlich durch Schnelltests wesentliche mehr Positivfälle zu PCR-Tests führen wurden trotzdem weniger durchgeführt?
+KW Anzahl Tests Positiv getestet Positivenanteil (%)
+10/2021 1.278.442 85.587 6,69
+11/2021 1.365.514 107.758 7,89
+12/2021 1.415.220 131.857 9,32
+13/2021 1.167.760 128.266 10,98
+14/2021 1.152.511 138.738 12,04
+Quelle: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Testzahlen-gesamt.xlsx?__blob=publicationFile
+Kann das RKI keine Zahlen veröffentlichen, welche PCR-Tests durch vorhergehende Schnelltests ausgelöst wurden und das in den Positivanteil einrechnen? Das wäre Transparenz!
+Ehrlich gesagt bin ich auch beruhigt, wenn die Dunkelziffer aufgedeckt wird. Nur die Schwellenwerte für die Lockdowns sollten dem aktuellen Testablauf angepasst werden.
+Was ist Ihre Meinung dazu Hr. Geiselhart?
+Bitte hier nur unter vollem Klarnamen posten.Siehe Regeln.
+„Sie urteilen leider vorschnell, wenn Sie meinen
+Wer immer Herr Reitschuster auch ist, er ist weder Intensivmediziner noch aus einer medizintechnischen Fachrichtung. Sie sind doch ein wissenschaftliches Institut. Haben Sie dessen Quellen und Inhalte geprüft ?
+Nur zu Ihrer Info, was Sie leicht hätten selber herausfinden können, bei Reitschuster handelt es sich um die Plattform, der Autor ist Oberarzt in einer Klinik. Hoffentlich genügt das Ihren hohen wissenschaftlichen Ansprüchen.“
+Zitat aus dem Text:
+„Ich bitte Sie, meine Anonymität zu wahren. Ich gerate sonst in Schwierigkeiten. Sie können aber den Text in welcher Form auch immer veröffentlichen, ich bitte nur um höchstmögliche Diskretion.“
+Also zunächst die Internetseite wird von einem gewissen Boris Reitschuster betrieben. Man muss ihm zu Gute halten das er gut russisch spricht, er ab und zu Fragen bei einer Bundespressenkonferenz stellt, aber ein Mediziner ist er nicht.
+Er hat einen den Text eines „Anonymen Oberarzt“ veröffentlicht. Das sagt alles. Wenn Anonymität schon die Quelle verbindlicher Infos ausreicht, kann Herr Reitschuster auch selbst jeden Text schreiben. Da schreibe ich gleich als neuer Oberarzt einen Brief an Herrn Reitschuster. Nein, das genügt nicht meinen hohen wissenschaftlichen Ansprüchen.
+So Sie sind drann …
+Nein, bin ich nicht.
+Ihr Kommentar spricht für sich.
+https://www.embopress.org/doi/full/10.15252/embj.2019102277
+So schreibt man wissenschaftliche Artikel
+Ihr „wissenschaftlicher“ Artikel zeichnet sich mit viel überflüssigen Text, bunte Bilder und mit einer Fremdsprache aus, alles um die Wichtigkeit zu unterstreichen. Der wissenschaftliche Inhalt ist sehr überschaubar. Es ist aber heute nicht die Ausnahme, sondern die Regel, dass man Schaumschlägerei im Dienste von Regierungen oder Kapital als Wissenschaft betrachten.
+Was Sie nicht verstehen wollen aber Sie eventuell noch mal erreicht: Ohne die Millionen arbeitenden Menschen, die Sie von Ihrem hohen Ross als Nichts betrachten und man nach Ihrem Gutdünken einsperren und damit vernichten kann, Sind Sie persönlich ein absolutes Nichts und müssen den Kitt aus den Fenstern fressen. Also sollten Sie lieber Ihre Artikel verbrennen und dabei helfen, dass das Volk mit seiner Arbeit Ihren persönlichen Lebensstandard ermöglicht. Sterben müssen wir alle, ob Corona oder sonstwas.
+P.S. Entschuldigen Sie Herr Limburg, aber bei Überheblichkeit in dieser Größenordnung platzt mir manchmal die Hutschnur!
+Was wir auch wissen, das das Zitat eines wissenschaftlichen Artikels keine Weisheit beim Zitierenden bescheinigt.
+Was mir fehlt ist ihre Einschätzung zu der Arbeit.
+Zuerst fällt auf, das es mit dem Thema nur unzureichend zu tun hat. Es geht nicht um Inzidenzen.
+Haben sie an der Arbeit selber mitgewirkt oder kennen die Autoren?
+Was mir auch auffällt, ist, das ich mit der Arbeit nicht so viel anfangen kann ohne weiterführende Recherche.
+Abgesehen vom Fachenglisch, ist die Arbeit sehr spezifisch zur Virologie und Wirkweise von Covid. Ich habe zwei Dinge gleich erst mal nicht verstanden:
+1. viral translation
+2. in vivo
+Das hat sich nach etwas Recherche beim Punkt 2 erledigt und Punkt 1 kann man hier nachvollziehen, wenn man kann: https://viralzone.expasy.org/867
+Zu ihrer Freude gibt es auch zum Thema Klima neuste wissenschaftliche Erkenntnisse.
+Sie können das hier mal lesen: https://www.researchgate.net/publication/349448597_A_global_environmental_crisis_42000_years_ago
+Ja so sieht die Wissenschaft aus!
+Würden sie aus einer der Arbeiten eine für die Allgemeinheit verständliche Aussage ableiten können oder sogar politische Entscheidungen danach treffen?
+Sicher nicht! Ich weiss nicht warum sie sich hier so aufführen. Ich denke das ist nicht notwendig. Die besten Kommentare sind die zum Thema oder die, die Konstruktiv sind.
+Solche die sich mit der Plattform oder den Foristen beschäftigen, sind eher Ballast.
+Wie sehen sie also die Berechnung der Inzidenzen? Sind diese beim RKI also grundsätzlich richtig, oder ist was dran an der Kritik?
+Danke, ist ok so.
+sofern sie mich als Autor gemeint haben.
+Wo genau sind die zwei genügend weit auseinander liegenden (von unseren Coronalenkern vorgegebenen) Inzidenzpunkte ihres ominösen Zweipunkreglers?
+Die zwei mit 99,xx und 100 für die Regelung um den wichtigsten Inzidenzwert wollen sie hoffentlich nicht als „Weg“ vom P- zum Zweipunktregeler beschreiben. Das wäre dann vielleicht ein „Waldorfregler“, der nicht schwingt, sondern wo der Istwert in leichter Sprache um den Schwellwert tanzt.
+https://de.statista.com/statistik/daten/studie/1190592/umfrage/coronainfektionen-und-hospitalisierte-faelle-in-deutschland-nach-meldewoche/
+der „exponentielle Anstieg“ muss eine neue Seuche sein. Überall ist von ihm zu hören, nur zu sehen ist er nirgens. Ich sehe meistens linear, für kurze Zeiten vielleicht mal quadratisch, noch öfter aber zyklisch oder regellos.
+Habe den Verdacht, dass die Exponentialfunktion ein Synonym geworden ist für: „habe in der Schule auch mal von dieser Funktion gehört“ um auch mathematische Bildung auszuweisen.
+Zum anderen: Zur Behandlung von Kranken sind die Krankenhäuser da. Bei Grippewellen waren sie schon voller. Mich interessiert die Mortalität. Meine Sichten dazu habe ich mit Grafiken aus dem wahren Leben zur Belegung eingestellt.
+Kommt dann jetzt endlich mal die Erklärung, wie ein „exponentieller“ Anstieg der „Corona-Intensivfälle“ es nicht schafft, etwas an der Gesamtzahl der Intensivpatienten zu ändern? Ich habe mal den August 2020 (kaum Coronafälle) mit Januar 2021 verglichen. Steigerung der Gesamtzahl von Intensivpatienten = 235, Steigerung der Coronaintensivpatienten = 5031. Könnte also durchaus daran liegen, dass ein U7.01 geführter Patient mehr Geld bringt.
+https://klimakatastrophe.files.wordpress.com/2021/04/20210412_203311.jpg
+einfach mal antworten und nicht immer den selben Mist verbreiten.. Wo sind die zusätzlichen Intensivfälle? Werden da andere Patienten zugunsten von Coronafällen in den Keller verlegt?
+Vielleicht könnte es auch daran liegen, dass bei höheren Inzidenzen dann doch der Menschenverstand einsetzt und die Leute mehr Abstand und Einschränkungen durchhalten.. So hemmt sich die Exponentialfunktion ganz von alleine und das exponentielle Wachstum wird lokal zur logistischen Funktion.
+Die Patienten werden nicht in den Keller gelegt, sondern planbare Operationen wieder verschoben, um bei der Betreuung Personal frei zu bekommen (die Betten betreuen sich nicht von alleine). Z.B. vor einem Monat im Erzgebirge; inzwischen auch in Sachsen-Anhalt, Thüringen oder Karlsruhe.
+Die absolute Zahl der Intensivbetten in Sachsen ist zwischen Februar und April nicht merkbar zurückgegangen.
+Sie sollten als ganz offensichtlicher MINT-Versager schleunigst ihre „Bildungsnachweise“verbrennen, denn Sie haben keine Bildung …..
+Irgenwann wird auch Hr. Krüger verstehen dass es weder mit einem Virus noch mit etwas anderem in Bezug auf Gesundheit zu tun hat. Ausser einem globalen Genozid und Macht.
+Ganz interessante Aussage der Sprachnachricht von Andrea.

@@ -1,0 +1,108 @@
+Dennoch bleibt es nicht aus, dass man nun auch im Himmel, so wie auf Erden, den E-Antrieb fordert. Politiker und brave Journalisten lassen sich mit E-Planes ablichten und künden ein neues Zeitalter für den Luftverkehr an.
+Zuhauf finden wir Überschriften wie diese:
+Why the age of electric flight is finally upon us
+By Tim Bowler
+BBC News, Le Bourget, Paris, 3.7.2019
+Ich schlage vor, wir schauen uns das mal an.
+Der Preis des Auftriebs
+Wenn Sie als Kind den Arm aus dem Autofenster gestreckt haben, dann spürten Sie den Druck des Fahrtwinds. Das funktioniert übrigens auch bei Erwachsenen, die jung geblieben sind. Je nachdem wie die Hand gedreht wird wirkt da eine Kraft nach oben oder nach unten, auf jeden Fall aber nach hinten. Die nach oben, auch „Lift“ genannt, ist nützlich für die Fliegerei, damit können wir Maschinen fliegen lassen, die schwerer sind als Luft. Die Kraft nach hinten stört uns, weil sie das Flugzeug abbremst. Sie heißt „Drag“.
+Die Tragflächen an einem Flieger will man nun so gestalten, dass sie möglichst viel Lift bei wenig Drag produzieren, mit anderen Worten man will das Verhältnis Lift / Drag (L:D) so groß wie möglich machen. Darüber haben die Ingenieure viel nachgedacht und herausgefunden, dass dieses L:D umso besser wird, je länger man den Flügel macht und je kürzer das Maß von Vorder- zur Hinterkante der Tragfläche ist, genannt „Sehne“.
+Bei Segelflugzeugen finden wir extrem lange Tragflächen mit ganz kurzen Sehnen. Das gibt ein optimales L:D, bis zu Zahlen von 40 oder 50. So ein Segelflieger sinkt bei ruhiger Luft gerade mal einen Meter und kommt dabei 50m voran. Aus guten Gründen haben Motorflugzeuge nicht so schlanke Flügel, aber man kommt dennoch auf ein L:D zwischen 10 und 20. Dabei wird der Drag natürlich nicht nur von den Tragflächen geliefert, sondern auch von Rumpf und Zubehör. Letzteres kann durch glatte, aerodynamische Formen stark gemindert werden, so wie bei Ihrem Sportwagen.
+Ein Helikopter, dessen Tragflächen sich nicht geradeaus bewegen sondern im Kreis, hat ein L:D von 4-5; in dieser Kategorie liegen auch die Drohnen. Und der König der Lüfte und Schrecken der Fische, der Albatros, bringt es bei einer Spannweite von 3,5m auf ein rekordverdächtiges L:D von 20.
+Egal wie der Flieger angetrieben wird, durch Muskelkraft, elektrischen Strom oder Benzin, und egal wie wir ihn „streamlinen“, der Drag der Tragflächen wird immer bleiben. Das ist der Preis, den wir für den Lift bezahlen müssen. Das ist der große Unterschied zum Auto – das braucht keinen Auftrieb. Deswegen ist Leichtbau beim Flugzeug oberstes Gebot. Deswegen sind Flieger aus Aluminium und Autos aus Stahl.
+Unterwegs in der Boeing 737
+Eine volle Boeing 737 wiegt 70 Tonnen und hat ein L:D von 14. Der Luftwiderstand in Flugrichtung entspricht also 70:14 Tonnen = 5 Tonnen. Das sind, als Kraft ausgedrückt, 50.000 Newton. (Die Zahlen die Sie hier lesen – außer die 737 – sind übrigens nicht auf das Hundertstel genau, aber das tut der ganzen Betrachtung keinen Abbruch. Denken Sie sich vor jeder Zahl immer ein gedrucktes „etwa“. Lieber ungenau und richtig als genau und falsch.)
+Jetzt kommt noch etwas mehr Physik: um einen Gegenstand mit bestimmter Kraft und Geschwindigkeit zu bewegen brauchen wir eine bestimmte Leistung = Kraft x Geschwindigkeit. Die Kraft bei unserer B737 wissen wir schon, das sind die 50.000 Newton. Ihre Geschwindigkeit ist 250 m/sec. Multipliziert ergibt das eine Leistung von 12.500 Kilowatt (Das gilt im Reiseflug. Die Triebwerke der B737 müssen bei Bedarf wesentlich mehr leisten, als die oben geforderten 50.000 Newton, etwa bei Start und Steigflug.)
+Dafür wollen die Triebwerke gefüttert werden. Auf einen Flug von sechs Stunden nimmt man, einschließlich Reserve, Treibstoff für acht Stunden mit. Dann berechnet sich der an Bord notwendige Energievorrat– sei es Kerosin oder elektrischer Strom – folgendermaßen: 12.500 Kilowatt mal acht Stunden, das sind genau 100.000 Kilowattstunden. (Tatsächlich braucht man mehr, weil die eingespeiste Energie nicht zu 100% in Antrieb umgesetzt wird, aber so genau wollen wir das jetzt nicht wissen.)
+Batterien
+Normalerweise ist das Futter für die Motoren in Form von Kerosin an Bord, aber wir wollen ja jetzt elektrisch fliegen. Bauen wir also Elektromotoren an den Flieger und packen Batterien an Bord. Wie viele?
+Eine typische Autobatterie hat 12 Volt Spannung und die Kapazität von 80 Amperestunden. Damit hat sie ziemlich genau eine Kilowattstunde gespeichert. Davon bräuchten wir jetzt nur 100.000 in den Flieger zu stellen und los geht’s. Als verantwortungsvolle Piloten checken wir vor Abflug gerade noch das Gewicht, das wir uns da einladen. Eine Batterie hat so etwa 20 kg, wir packen uns also 100.000 x 20 kg = 2000 Tonnen Batterien ein. Das passt mit den 70 Tonnen Maximalgewicht unserer 737 nicht so recht zusammen!
+Zurecht weisen Sie mich jetzt darauf hin, dass diese schweren Bleibatterien von vorgestern seien, und dass Elon Musk für seinen Tesla eine wesentlich leichtere Lösung gefunden hat. Einverstanden, die bringen aber immer noch 6 Kg pro kWh auf die Waage, also 600 Tonnen für den Betrieb unserer Boeing. Und auch die bringen wir in besagten 70 Tonnen nicht unter.
+Sie wenden ein, dass es in der Vergangenheit schon immer unerwartete technische Durchbrüche gab, welche die geheiligten Thesen von gestern Lügen straften. Mag sein, aber hier wäre es nicht unerwartet, sondern herbeigesehnt. Und da kann man sich die Wartezeit nur damit vertreiben, dass man an inkrementellem Fortschritt arbeitet. Wir müssten aber eine Gewichtsminderung der Batterien um den Faktor 20 erreichen, um mit Kerosin gleichzuziehen. Das hört sich verdammt schwierig an und ist auch so.
+Erinnern Sie sich an Boeings Schwierigkeiten mit dem nagelneuen B787 Dreamliner vor sieben Jahren? Da gab es “elektrische Feuer“ an Bord, verursacht durch die Batterien des Flugzeugs.
+In unserem Auto startet die Batterie bekanntlich den Motor und versorgt das Radio, wenn wir auf jemanden warten müssen. Ähnlich ist es im Airliner; der hat zwei davon. Eine dient zum Anlassen der APU (Auxiliary Power Unit), eines Hilfsaggregats, welches dann seinerseits die großen Triebwerke startet. Die andere betreibt Funk und Elektronik, wenn alle Motoren noch schlafen.
+Typischerweise sind das Nickel-Cadmium-Batterien und nicht viel größer als die im Auto. Um ein paar Kilo abzuspecken wurde im Dreamliner nun die modernere Lithium-Ionen-Variante eingesetzt. Und da gab es dann häßliche Überraschungen, die zum Grounding der 787 führten. Das war eine sehr teure Innovation, nur um das Gewicht von ein paar Touristenkoffern einzusparen. Und jetzt wollen wir den ganzen Flieger mit Lithium vollpacken?
+In diesem Sinne ist kaum anzunehmen, dass unsere lieb gewonnenen Dinosaurier, die Kerosin verbrennen und Kondensstreifen hinterlassen, in den nächsten Jahrzehnten aussterben werden.
+Ein elektrischer Biber
+Jetzt aber halten Sie mir den ultimativen Trumpf vor die Nase, einen Zeitungsausschnitt von The Guardian vom Januar 2020. Da steht es schwarz auf weiß:
+… Das E-Flugzeug – ein 62 Jahre alte DHC-2 de Havilland Beaver mit sechs Passagieren, die mit einem 750 PS starken Elektromotor nachgerüstet war – wurde von Greg McDougall, Gründer und Geschäftsführer von Harbour Air, pilotiert. „Für mich war dieser Flug wie das Fliegen einer Beaver, aber es war eine Beaver voller elektrischer Steroids. Ich musste tatsächlich die Leistung zurückdrehen “, sagte er nach der Landung. McDougall hatte das Flugzeug kurz nach Sonnenaufgang auf eine kurze Reise entlang des Fraser River in der Nähe des internationalen Flughafens von Vancouver genommen, vor rund 100 Zuschauern. Laut AFP-Journalisten vor Ort dauerte der Flug weniger als 15 Minuten.
+Ein interessanter Artikel. Aber haben Sie auch den letzten Satz gelesen?
+Wie funktioniert das? Der Motor leistet 750PS, das sind ca. 560 kW. Die brauchte er aber nur zum Start, dann wurde Leistung zurückgenommen – hat er selber gesagt – auf 60%. Dann hat er also eine viertel Stunde lang 60% von 560 kW = 336 kW verbraten, macht ca. 84 kWh. Und dann ist er gelandet.
+Woher hat er die 84 kWh gehabt? Vielleicht von Freund Musk. Eine Standard Tesla-Batterie wiegt 540 kg und lieferte 85 kWh – dann ist sie leer. Eine halbe Tonne Sprit für 15 Minuten Flug! Hatten wir nicht gesagt, dass Flieger leicht sein müssen?
+Reality Check
+War das ein guter „Reality Check“ in Sachen E-Flugzeug?
+Ich selbst bin zwar nie eine Beaver geflogen, dafür die Beech Bonanza. Sie ist etwas schlanker und hübscher als die Beaver, und schneller. Die sechssitzige A36 hat einen 220 kW 6-Zylinder Boxermotor, den man auf Strecke mit 60% Leistung fliegt und dabei pro Stunde 50 Liter Flugbenzin verbrennt. Das sind 0,3 Kilogramm Sprit pro Kilowattstunde im Vergleich zu 6kg bei der Tesla Batterie. Anders ausgedrückt, mit den 540kg der Tesla-Batterie als Sprit an Bord könnte man über 10 Stunden unterwegs sein, im Vergleich zu 15 Minuten im E-Beaver – am Fraser River entlang.
+Und noch etwas: mit jeder Stunde Flug wird der Tank der Bonanza um 40 kg leichter. Die Batterien aber bleiben immer so saumäßig schwer, auch wenn sie ganz leer sind.
+Elektrisches Fliegen ist ein attraktives Thema für Start-Ups, die mit guter PR Investoren ausfindig machen. Das ist eine realistische Zielsetzung. Die Physik aber lässt sich auch von bester PR nicht beeindrucken. „You cannot fool nature“.
+Dieser Artikel erschien zuerst bei www.think-again.org und im Buch Grün und Dumm
+So groß wie ein Kühlschrank, 5000kW Leistung, 10 Gramm Borax pro Tag als Sprit.
+Wer’s nicht glaubt, soll sich dumme Kommentare sparen, ich kann persönlich Info zuschicken.
+Selbstverständlich habe ich persönlich in die Sache investiert!
+Für Nischengeschäft (kleine Zubringerdienste, also Lufttaxis) wird das aber realistisch.
+Bei manchen Bezeichnungen drehen sich bei mir als altem Modellflieger aber die Zehnnägel auf. Warum muss man in einem deutschen Text von „Lift“ und „Drag“ schreiben, statt von „Auftrieb“ und „Widerstand“? Und „L:D“ statt „Gleitzahl“?
+Die Mutmaßung, dass die Batterie in der Beaver aus einem Tesla stammen könnte, gefällt mir.
+Admin: ich habe schon einen Beitrag geschrieben, aber die Verbindung wurde unterbrochen. Wenn beide bei Ihnen angekommen sind, suchen Sie die beste Version aus.
+Gegen Ende von WK II sind die meisten deutschen Flugzeuge mit Kerosin geflogen, welches in Leuna aus Synthesegas hergestellt wurde.
+Könnte man auch heute nach Herrn Sabatier aus Wasserstoff und CO2 synthetisieren. Nennt sich auf Neudeutsch P2L.
+Ist halt viel zu teuer. Vielleicht wird man in hundert oder mehr Jahren darauf zurückkommen, wenn die Kohlenwasserstoffe in Erdkruste wirklich erschöpft sein sollten.
+Ja, aber das CO2 kommt ja aus dem Kraftwerk und wird gleich wieder verfeuert und somit in die Luft geblasen. Heißt, Klimakatastrophe. Für die Phobiker undenkbar
+Mühsam, teuer, aber wie alles bei der Energiewende so rein theoretisch möglich.
+0,04% aus der Luft gewinnen? Hihi, aber daran wird bestimmt „geforscht“
+Und zwar von der berühmt-berüchtigten TH Aachen.
+„Raus aus der Luft, rein in das Produkt“
+https://www.covestro.com/de/company/strategy/attitude/co2-dreams?gclid=CjwKCAjw7LX0BRBiEiwA__gNwwhf4mxO-IUJ3OQq03ceKwLVqcES1ikqnxGNOUokDfe15zQXKWw_4hoCjCkQAvD_BwE
+Aaah, unsere Leser sind die besten Reporter. Das verwurste ich mal zu einem Artikel… Merci!
+Und zusätzlich eine Alu-Luft-Batterie: https://www.ingenieur.de/technik/fachbereiche/e-mobilitaet/metall-luft-batterien-sollen-fuer-grosse-reichweiten-sorgen/
+Das Beste wäre, die Elektrochemie, insbesondere die deutsche, für alle Zeiten zu verbannen und diesen Leuten niemals mehr wieder Geld zu geben, oder als Ironie/Satire (!): „Only a dead electrochemist is a good electrochemist!“
+Methanol ist H3COH. Merken Sie was – da steckt CO von CO2 drin! Wird also nix. Und solche SAchen wie die Alu-Luft-Batterie hatten wir schon – Labortechnik, die erst mal zur Serienreife gebracht werden muß. WENN es klappt.
+Aluminium -Luft Batterien sind schon längst dem Laborstadium entronnen und beispielsweise beim Militär seit Jahren im Gebrauch/Verbrauch und per Austausch-Wegwurf-Rhythmus eingebunden.
+Dass das Ganze grundsätzlich so funktioniert wissen Sie schon. Aber gern stehe ich Ihnen mit Gegenargumenten zur Seite, wenn Sie keine fanden: Echtes Hindernis, Bremsklotz am Rad der Triumphkutsche zum elektrischen Schnell-, Viel- und Weitflug von reichlich mehreren und eiligen Passagieren oder Eilfracht könnte der derzeitige Preis einer solchen Kombination aus Methanol-Brennstoffzelle und ALU-Luft-Batterie sein. Nicht drauf gekommen?
+Elektroflugzeuge gibt es doch schon lange bei den Modellfliegern, man muss da nur noch ein paar Leute reinpacken und eine 1000 km lange Versorgungsleitung anschließen. Oder sie arrangieren sich mit der Bahn und fliegen zwischen Gleis und Oberleitung mit Stromabnehmern. Dann geht das doch. – Was sagt Frau Baerbock dazu?
+„fliegen zwischen Gleis und Oberleitung mit Stromabnehmern.“ Da könnte man doch ein Modellprojekt mit Teststrecke finanzieren. Vielleicht macht Professor Quatschnich aus Berlin mit… 🙂
+Möglich wäre auch eine Starkstromleitung, die in 10km Höhe an Heißluftballons aufgehängt wird. Man müßte das der Kobold-Bärbock einreden und sie dann vor die Kameras treten lassen…
+Nebenbei: „eine 1000 km lange Versorgungsleitung“ He, das wäre doch ein prima Forschungsprojekt für Materialwissenschaftler. Derzeit dürfte es kein Starkstromkabel geben, das leicht genug ist, um hinterhergeschleppt zu werden. Da geht noch was!
+Ähm, ein Reaktor im Ferienflieger? Das erinnert an die Vision einer KK-Lok aus den 50ern. Nee, das wäre unvernünftig.
+Übrigens auch technologisch: Mit KK wird ja Hitze produziert, die Wasser verdampft, und damit wird dann eine Turbine betrieben. Zu umständlich. Genau deswegen wurde ja die Dampfmaschine vom Motor abgelöst.
+Vielleicht gibt es irgendwann einen direkten Wandler, der die Strahlung und die Hitze sogleich in Arbeit umsetzt. Eine Art umgekehrtes Peltier-Element.
+KK erzeugt nicht nur Hitze, wie im Kernkraftwerk!
+So hat es bereits so genannte Isotopen-Batterien gegeben, in denen mit Beta-Strahlung direkt Elektroenergie ohne den thermischen Umweg erzeugt wurde.
+Soweit ich weiß, existieren in bestimmten Satelliten derartige Spannungsquellen. Und – es ist letztlich keine Schwierigkeit, Beta-Strahlung emissionsfrei zu „verpacken“, genauer: ihre Strahlung zuverlässig abzuschirmen.
+Kerntechnisch gesehen ist Betastrahlung ein reiner Elektronenstrom, lediglich bei starken Strahlern wie Sr90 kann damit eine so genannte Röntgen- Bremsstrahlung erzeugt werden, wenn ungeeignetes Abschirm-Material verwendet wird.
+In der Industrie werden so seit langem z.B. Flächengewichtsmessgeräte zur Dickenmessung bahnförmiger Güter, wie Papier, Folien etc. eingesetzt, in denen die gemessene Absorption von Beta—Strahlern, also Isotopen wie Pm147, Kr85 oder Sr90 genutzt wird.
+Eine andere Anwendung eines Beta-Strahlers ist z.B. die sichere und vor allem langlebige Stromquelle, die z.B. zuverlässig auch Herzschrittmacher versorgt, was kein herkömmlicher Akku schaffen könnte.
+Woher haben Sie bitte Ihre hier vorgetragene ‚Sachkunde‘?
+„Woher haben Sie bitte Ihre hier vorgetragene ‚Sachkunde‘?“ Oh, ein Schulmeister.
+Was die Betastrahlbatterien u.ä. angeht, stellt sich die Frage, ob man es praktikabel schafft, ein Isotop zu nutzen, das nur die erwünschten Elektronen abstrahlt und keine Gammastrahlen. Und selbst wenn, was passiert, wenn so ein Flieger abstürzt und die Abschirmung dadurch zerstört wird? Politisch wäre das ein Desaster.
+an Herrn Tengler: Es gab (und gibt) Uhren, die ihre Energie aus Luftdruckschwankungen über eine Quecksilbersäule gewinnen. Ob man damit nicht auch Flugzeuge antreiben könnte? 🙂
+Die Bezirksregierung Düsseldorf hat den Antrag der Flugplatz Aachen-Merzbrück GmbH auf „vorzeitigen, zuschussunschädlichen Maßnahmenbeginn“ genehmigt. Damit kann die europaweite Ausschreibung erfolgen. Die vorbereitenden Arbeiten für den Ausbau zum Forschungsflugplatz können starten. Das Verkehrsministerium fördert den Ausbau mit vier Millionen Euro, die im Haushalt 2019 bereitstehen.
+Die RWTH Aachen entwickelt sich zum E-Mobilitäts Zentrum, will heißen man verbrennt massenweise Steuergeld. Die Streetscooter der Post sind ja schon pleite, jetzt zieht es die Professoren elekrisch in die Lüfte. Da ist noch Platz um Geld zu verbrennen. Aber halt, das Geld wird ja gar nicht verbrannt, es wechselt nur den Besitzer, rein elektrisch, oder so….
+„Nur Dumme ignorieren das.“ Jo. Aber das sind Millionen – in D/A/CH
+Fast vier Wochen lang war ein solarbetriebenes Fluggerät von Airbus in der Luft, schaft das ein Flugzeug das mit Kerosin befeuert wird ?
+25 Tage, 23 Stunden und 57 Minuten war das Fluggerät ununterbrochen in der Luft, angetrieben nur von Solarenergie und Akkus.
+„Die von Hand gestartete Drohne…“
+https://de.m.wikipedia.org/wiki/Airbus_Zephyr
+Sie vergleichen hier Melonen mit Erbsen.
+Außerdem gibt es Fluggeräte (Segelflugzeuge), ganz ohne intergrierten Antrieb, die schon Tage in der Luft waren – nur eben nicht mit dreihundert Passagieren. Dazu brauchte es und wird es noch lange Zeit Kerosin o.ä. brauchen.
+nur eben nicht mit ca. 26 Tage in der Luft.
+Und einem Jumbo als Begleitflugzeug.
+sehr gut beschrieben, so ist es. Bezahlt wird immer Gewicht*Entfernung. Nicht zu vergessen: die Brandgefahr, die von den aktuellen Li-Akkus ausgeht. Beim Auto kann das BMS (Batteriemanagementsystem) im Störfall noch alles ganz schnell abschalten, und die Gefahr ist gebannt, nicht so beim E-Flugzeug. Denn „runter kommen sie alle“. Frägt sich nur wie und wo.
+„Elektrisches Fliegen ist ein attraktives Thema, nicht nur für Start-Ups,“ auch die ganz Großen sind dabei, beim Abgreifen der GRÜNEN Subventionen.
+https://www.augsburger-allgemeine.de/wissenschaft/E-Flugzeuge-mit-Brennstoffzelle-koennten-in-15-Jahren-serienreif-sein-id55847791.html
+Mit Wasserstoff wird in Brennstoffzellen Strom erzeugt und damit ein E-Triebwerk angetrieben.
+Das sind dann allerdings Propellerflugzeuge, deren Flughöhe und Reichweite begrenzt ist.
+Auf Langstreckenflüge müsste man Düsentriebwerke einsetzen, die mit Wasserstoff direkt befeuert werden.
+Aber dann „könnte“…
+Ich bin das Gesabbel leid.
+Demnächst kommt noch ein Vorschlag, die Gepäcknetze als Speicher zusätzlich zu nutzen…
+Warum nicht von der Natur abschauen? Der Meister der Lüfte, der Albatros, benutzt Fett und Zucker als Energiespeicher. Das sind Kohlenwasserstoffe. Kerosin ist ebenfalls ein Kohlenwasserstoff. Wo ist das Problem?
+In der Blöd- und Verlogenheit des Politgesindels
+Turbinenflieger mit Wasserstoff-Antrieb? Was kommt dann hinten raus, Wasserdampf? H2-Motoren gibt es ja schon lange. Aber Wasserstoff in einer Strahlturbine? Fliegende Bombe; nee, da flieg ich nicht mit. Ich bleib beim Kerosin.
+Kerosin brennt ja fast gar nicht und muß erst mal aerosolisiert werden. Und wie lange bleibt der kleine Wasserstoff im Tank des Fliegers? Bei 10h Flug geht doch bestimmt ein Teil durch Diffusion durch die Tankwand verloren.
+Umfangreiche Erfahrungen mit flüssigem Wasserstoff im Flugbetrieb wurden in Amerika in den 50er Jahren gesammelt. Es wurde im Rahmen eines Projektes über wasserstoffbetriebene Flugzeuge in den Jahren 1956/57 eine B-57 Canberra mit Wasserstoff betrieben. Während des
+Fluges in größerer Höhe (M = 0,75; h = 50 000 ft) wurde eines der beiden J65-Triebwerke von JP-4-Betrieb auf Wasserstoff umgestellt. Dabei wurde nur die JP-4 Brennstoffregelung für Wasserstoffbetrieb modifiziert.
+Sollte heute also kein Problem sein.
+Im Gegensatz zum Auto oder Fahrrad ist ein Flugzeug ein typisches Vehikel für große Reichweiten. Und da sagt einem die sogenannte „Breguetsche Reichweitenformel“ alles. Nimmt man ein modernes Großflugzeug für die Langstrecke, dann hat es als Beispiel die Reichweite von 13 000 km. Packt man in das selbe Flugzeug anstatt des Kraftstoffes moderne Batterien hinein, dann endet man bei einer Reichweite von etwa 230 Kilometern. Ganz ähnliche Verhältnisse gelten auch für Kleinflugzeuge.
+Deutlicher kann man den Blödsinn des elektrischen Fliegens nicht demonstrieren.
+Elektroflugzeuge sind etwas für Platzrunden oder für Segelflugzeuge als Hilfsantriebe.
+MfG
+G.Wedekind

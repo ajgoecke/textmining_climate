@@ -1,0 +1,69 @@
+Die Studie behauptet, dass hitzebedingte Todesfälle an 732 Standorten in 43 erfassten Ländern um durchschnittlich 37,0 % zugenommen haben. 37,0 % Anstieg zwischen 1991 und 2018.
+Um eine solche Behauptung aufzustellen, müsste man Folgendes nachweisen:
+1. Die Extremtemperaturen haben an den Studienorten tatsächlich zugenommen
+2. Der Temperaturanstieg während des Studienzeitraums ist nicht auf andere Faktoren wie den städtischen Wärmeinseleffekt zurückzuführen
+3. Die Todesfälle haben während der Hitzeperioden tatsächlich zugenommen
+4. Der Anstieg der Todesfälle ist nicht auf die Zunahme der Bevölkerung zurückzuführen
+5. Der Anstieg der Sterbefälle ist nicht auf ein höheres Durchschnittsalter der Bevölkerung zurückzuführen
+6. Keine anderen Faktoren haben einen Einfluss auf die Todesfälle, wie z.B. Naturkatastrophen
+Überprüfen wir einmal, wie diese Studie diese Fragen abdeckt, um ihre Argumente zu belegen. Lassen Sie uns mit der Temperatur beginnen.
+In der Studie angewandte Verfahren
+Die Studie analysiert die Daten in zwei Schritten. Zunächst wird ein Assoziationsmodell zwischen Todesfällen und Tagestemperatur erstellt:
+Wie in den Erläuterungen zu den Verfahren ausführlich beschrieben, schätzt ein Modell der ersten Stufe Assoziationen für jeden Standort, die dann in einer Meta-Analyse gepoolt werden (die zweite Stufe). Die beobachteten Temperatur- und Mortalitätsdaten wurden durch das Multi-Country Multi-City (MCC) Collaborative Research Network, dem bisher größten Wetter- und Gesundheitsdaten-Konsortium, erhoben (https://mccstudy.lshtm.ac.uk).
+Sie stellen nicht den vollständigen Datensatz als Teil der ergänzenden Daten zur Verfügung, aber sie stellen R-Code und Beispieldatensatz zur Verfügung. Aus dem Beispieldatensatz können wir die folgenden Quelldaten für jeden Standort sehen:
+Datum, Todesfälle und Temperatur. Die Grundannahme scheint zu sein, dass eine hohe Temperatur einen direkten Einfluss auf die Sterberate hat. Aber halt! Wo sind die Bevölkerungsdaten oder Daten zur Altersverteilung? Solche Details scheinen als triviale Informationen betrachtet zu werden, die für eine State-of-the-Art-Analyse nicht benötigt werden.
+In vielen Ländern dürfte die Bevölkerung innerhalb des Untersuchungsortes bereits in den letzten 10 Jahren erheblich zugenommen haben. Das Gleiche gilt für den Anteil der Senioren, der an vielen Studienorten mit der Sterblichkeitsrate steigt.
+Der zweite Schritt, den sie machen, ist, den Wert für „Klimawandel“-bedingte Todesfälle zu ermitteln:
+Im zweiten Schritt haben wir die geschätzten Expositions-Wirkungsfunktionen, um die hitzebedingte Sterblichkeitslast zwischen1991 und 2018 für jeden Ort unter zwei Szenarien zu berechnen: ein faktisches Szenario, das aus Simulationen des historischen Klimas (alle Klimaantriebe) und ein kontrafaktisches Szenario, bei dem die Klimasimulationen nur durch natürliche Einflüsse getrieben werden, was dem Klima entspricht das in einer Welt ohne den vom Menschen verursachten oder anthropogenen Klimawandel.
+Wirklich simpel: Einfach die Beziehung zwischen Temperatur und Sterblichkeitsrate ermitteln und dann mit Hilfe von Klimamodellen betrachten, um wie viel die Temperatur gestiegen ist. Das Endergebnis ist der Prozentsatz der Todesfälle, die durch den Klimawandel verursacht wurden.
+Unkompliziert und völlig falsch. Anstatt alle zuvor aufgeführten Faktoren (1 bis 7) zu bewerten, berücksichtigen sie keinen einzigen davon. Um diesen Punkt zu beweisen, lassen Sie uns ein paar Orte genauer analysieren.
+Die obige Abbildung wird als Teil der Studie zur Verfügung gestellt. Die Analyse aller 732 Standorte würde einen erheblichen Aufwand für die Datenerfassung erfordern, daher konzentrieren wir uns auf zwei Länder, die mit einer hohen „hitzebedingten Sterblichkeitsrate, die auf den Klimawandel zurückzuführen ist“ hervorgehoben werden.
+Beginnen wir mit Finnland:
+Hitzebedingte Sterblichkeit in Finnland
+Laut einer Studie weisen das nordeuropäische Land Finnland und die Hauptstadt Helsinki eine hohe hitzebedingte Sterblichkeitsrate auf. Wirklich? Finnland? Mein Heimatland ist nicht gerade für hohe Temperaturen oder lange Hitzewellen bekannt. Die meisten Finnen warten auf anständige Sommertemperaturen, was als über 25 Celsius gilt. Es gibt sogar ein finnisches Wort „helle“ für dieses sonnige Sommerwetter, und wenn die „Helle“ eintrifft, ist das für die Mehrheit der Finnen jeden Sommer eine gute Nachricht.
+Um die gestiegenen Temperaturen zu begründen, müssen wir zunächst feststellen, ob diese „Hitzewellen“ in Finnland zugenommen haben. Für die Hauptstadt Finnlands liegen uns Temperaturdaten zwischen 1844-2021 vor. Zählen wir für jedes Jahr die Tage mit einem Temperaturmaximum von über 25 Celsius:
+Was wir sehen können, ist keine signifikante Zunahme von 25°C-Tagen in den Daten von Helsinki Kaisaniemi. Ein leichter Anstieg am Ende unterscheidet sich nicht signifikant von den 1940er Jahren. Berücksichtigen Sie auch den erhöhten Urban Heat Island-Effekt: Die Bevölkerung von Helsinki ist jetzt viel höher als in den 1940er Jahren.
+Wenn man die Studie nur auf die Jahre 1991-2018 beschränkt, könnte man die Zunahme der warmen Tage (fälschlicherweise) auf den Klimawandel zurückführen.
+Für Helsinki ist also der Punkt 1: „Die Extremtemperaturen haben an den Studienorten tatsächlich zugenommen“ nur teilweise richtig.
+Wie sieht es mit den Sterbefällen aus?
+Um die Sterblichkeit zu untersuchen, habe ich die folgenden Daten aus den offenen Daten von Statistics Finland für die Jahre 1945-2020 heruntergeladen:
+● Gesamtbevölkerung
+● Todesfälle in den Monaten Juni, Juli und August
+● Todesfälle in anderen Monaten
+● Bevölkerungsdaten der Altersgruppe über 85 Jahre
+● Todesfälle der Altersgruppe über 85 Jahre
+Ich habe einen Trend der Todesfälle in den Sommermonaten (Juni, Juli und August) im Vergleich zu allen Todesfällen im selben Jahr berechnet. Der Prozentsatz ist extrem stabil und sogar leicht abnehmend im Zeitraum der Nature-Studie, also von 1991 bis 2018, wenn man bedenkt, dass die Bevölkerung in der Altersgruppe 85 Jahre oder älter zwischen 1945-2019 um das 10-fache gestiegen ist. Ältere Menschen neigen dazu, anfälliger für hohe Temperaturen zu sein, aber das hat keinen Einfluss auf die Sterblichkeit.
+Wenn man also die oben genannten Punkte berücksichtigt:
+● Die Sterblichkeit während der Sommermonate hat in Finnland nicht zugenommen – überhaupt nicht
+Zusammenfassend: Die Daten belegen keinerlei Anstieg der Sterblichkeit während der Sommermonate.
+Hitzebedingte Sterblichkeit in Spanien
+Spanien ist in der Nature-Studie sogar noch dunkelroter, da es sehr anfällig für hitzebedingten Anstieg der Sterblichkeit ist.
+Zum Glück gibt es für Spanien eine weitere Studie:
+Achebak H, Devolder D, Ballester J (2018) Heat-related mortality trends under recent climate warming in Spain: A 36-year observational study. PLoS Med 15(7): e1002617. https://doi.org/10.1371/journal.pmed.1002617
+Diese Studie umfasst 47 Großstädte aus Spanien für die Sommermonate zwischen 1980 und 2015. Diese Studie verwendet reale Sterblichkeitsdaten und Temperaturen für diesen Zeitraum – nicht nur Modelle, wie es die Nature-Studie tut.
+Haben sie eine steigende Sterblichkeit gefunden? Nein, haben sie nicht.
+Sie fanden zwar steigende Temperaturen mit dem Anstieg von 0,32 Celsius pro Jahrzehnt. Aber die Gesamtsterblichkeit nimmt ab – stark.
+Das zeitliche Muster der einzelnen Todesursachen war bei Männern und Frauen ähnlich (S2 Abb.), mit einem Rückgang der Zahl der Todesfälle durch Kreislauferkrankungen und einem Anstieg der Zahl der Todesfälle durch Atemwegserkrankungen. Allerdings nahm die Sterblichkeit bei Frauen bei den Kreislauferkrankungen langsamer ab, wodurch der Unterschied zwischen Frauen und Männern größer wurde. Darüber hinaus stieg die Sterblichkeit bei Atemwegserkrankungen bei Frauen schneller an, wodurch sich das Ausmaß des Unterschieds zwischen Frauen und Männern verringerte.
+Achebak H, Devolder D, Ballester J (2018)
+Die blaue und die rote Linie in der Abbildung stellen zeitlich variierende jährliche RR-Kurven dar, basierend auf dem Sommer 1984 (kühlster Sommer des Zeitraums) und die rote Linie basiert auf dem Jahr 2003 (heißester Sommer des Zeitraums). Die Sterblichkeitsrate für ähnliche Temperaturen ist insgesamt für den Untersuchungszeitraum rückläufig.
+Die Studie wies auf einen starken Rückgang der Ursachen-spezifischen und Ursachen-geschlechtsspezifischen Sterblichkeit RR in Verbindung mit Sommertemperaturen für die letzten dreieinhalb Jahrzehnte hin und – mit Ausnahme von Atemwegserkrankungen (für Männer und Frauen zusammen und nur für Frauen) – auf einen Abwärtstrend der hitzebedingten Todesfälle. Diese Ergebnisse unterstützen nachdrücklich die Hypothese, dass der beobachtete Erwärmungstrend bei den Sommertemperaturen in Spanien nicht mit einem allgemeinen Anstieg des auf Hitze zurückzuführenden Anteils der Sterblichkeit einherging, was auf einen erheblichen Rückgang der Anfälligkeit der Bevölkerung für hohe Temperaturen zurückzuführen ist.
+Der Abwärtstrend ist trotz des Anteils der über 64-Jährigen im Laufe der Jahre deutlich gestiegen. Aber warum? Auch darauf gibt die Studie eine Antwort:
+Der allgemeine Abwärtstrend bei den Mortalitätsrisiken wurde von einigen Forschern auf die sozioökonomische Entwicklung und strukturelle Veränderungen, wie z. B. Verbesserungen im Wohnungsbau und in der Gesundheitsversorgung, oder sogar auf spezifische Interventionen im Bereich der öffentlichen Gesundheit zurückgeführt. Die großen sozioökonomischen Fortschritte, die in Spanien in den letzten Jahrzehnten stattgefunden haben, könnten ebenfalls zu dieser Reaktion beigetragen haben und somit die Auswirkungen der Mortalitätsrisiken im Laufe der Zeit verringern. So sind beispielsweise das Bruttoinlandsprodukt (von 8.798 € pro Kopf im Jahr 1991 auf 22.813 € im Jahr 2009), die Lebenserwartung bei der Geburt (von 77,08 Jahren auf 81,58), die Ausgaben für das Gesundheitswesen (von 605 € pro Kopf auf 2.182 €) und den Sozialschutz (von 1.845 € pro Kopf auf 5.746 €) sowie die Anzahl der Ärzte (von 3.930 pro Million Einwohner auf 4.760 pro Million Einwohner) in Spanien stark gestiegen. Darüber hinaus hat die Nutzung von Klimaanlagen, die in den USA als ein Hauptfaktor für die Verringerung der hitzebedingten Sterblichkeit postuliert wird, in spanischen Haushalten im analysierten Zeitraum ebenfalls stark zugenommen (von 5,3 % auf 35,5 %).
+Zusammengefasst: Anpassung. Die spanische Bevölkerung hat erhebliche Investitionen in Klimaanlagen getätigt – weil sie es kann. Das steigende Einkommen bietet bessere Möglichkeiten, mit der überschüssigen Wärme umzugehen.
+Die gleiche Anpassung ist auch in der Nature-Studie sichtbar: Die Sterblichkeitskurve beginnt bei höherer Temperatur an Orten zu steigen, an denen die Überhitzung die Norm ist: Kuwait-Stadt, Bangkok usw. Es ist schwer zu argumentieren, warum sich diese Anpassung nicht fortsetzen sollte – und das trotz eines möglichen Klimawandels.
+Conclusion
+Die in A. M. Vicedo-Cabrera et all 2021 verwendeten Verfahren sind ernsthaft fehlerhaft, was dazu führt, dass die Ergebnisse und Schlussfolgerungen ungültig sind.
+Diese Widerlegung bezog sich nur auf zwei Länder (Finnland und Spanien), aber schon das beweist:
+● Es gibt keine erhöhte hitzebedingte Sterblichkeit aus irgendeinem Grund, und wenn es insgesamt keinen Anstieg der Sterblichkeit gibt, ist es unmöglich, dass der Klimawandel irgendeinen Effekt hat
+● Alle Erhöhungen sind auf fehlerhafte Verfahren zurückzuführen, die sich auf Klimamodelle statt auf reale Sterblichkeitsdaten stützen
+● Selbst dann versäumt es die Studie, andere Faktoren zu erwähnen, die die Sterblichkeit beeinflussen, wie z.B. die Alterung und Zunahme der Bevölkerung
+● Die Anpassung an die Überhitzung erfolgt überall automatisch, wenn das steigende Einkommen dies zulässt
+References
+- Vicedo-Cabrera, A.M., Scovronick, N., Sera, F. et al. The burden of heat-related mortality attributable to recent human-induced climate change. Nat. Clim. Chang. (2021). https://doi.org/10.1038/s41558-021-01058-x
+- Achebak H, Devolder D, Ballester J (2021) Correction: Heat-related mortality trends under recent climate warming in Spain: A 36-year observational study. PLOS Medicine 18(4): e1003627. https://doi.org/10.1371/journal.pmed.1003627
+- Mortality data from Finland; Statistics Finland; stat.fi
+Link: https://wattsupwiththat.com/2021/06/03/the-burden-of-heat-related-mortality-attributable-to-poor-modeling/
+Übersetzt von Chris Frey EIKE
+Jeder Finne der am Hitzetot stirbt, steht keiner Befragung mehr zur Verfügung.
+Eine theoretisch nicht prüfbare Tatsache.
+Hier der Aufruf an alle Finnen die noch in Arizona leben, sich zu melden.

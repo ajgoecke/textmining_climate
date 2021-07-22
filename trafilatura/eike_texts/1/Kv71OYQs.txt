@@ -1,0 +1,77 @@
+[Damit Sie sehen, wohin die Links der genutzten Quellen Sie führt, habe ich diese in „Klartext“ eingefügt.]
+Bei den Autos mit Verbrennungsmotor wird die reichliche Abwärme zum Wärmen des Innenraums genutzt. Für deren Starterbatterien gelten natürlich auch unten folgende physikalische Einschränkungen. Da Starterbatterien meist im Motorraum eingebaut sind, werden sie natürlich während der Fahrt ebenfalls gewärmt.
+Alle Batterietypen haben eine „Wohlfühlbereich“, in dem sie am besten arbeiten. (Diese Tabelle kommt nicht von einer Seite für Antriebsbatterien für Fahrzeuge, nach u.g. Fahrzeugtests, ist das vergleichbar)
+Quelle: https://offgridham.com/2019/12/cold-weather-batteries/
+Der oben angezeigte Kapazitätsverlust, zeigt sich auch beim Reichweitentest des ADAC
+Quelle: https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/info/elektroauto-reichweite-winter/
+Der norwegische Automobilverband (NAF) fuhr mit 20 Elektrofahrzeugen von Oslo bis Hafjell. Stadtverkehr, Autobahn und einen Gebirgspass. Geschwindigkeiten von 60 km/h bis 110 km/h
+Es wird festgestellt, dass die von den Herstellern genannten Reichweiten (nach dem Praxis näherem WLTP Standard) bei keinem erreicht werden. Ebenso wurden die Ladezeiten gemessen (nach mind. zwei Stunden Autobahn, damit die Batterien warm sind), um von 10% auf 80% Kapazität zu kommen. Der Test kommt zu dem Schluss, dass der Akku auch dann langsamer als angegeben geladen wird, wenn Sie alles richtig machen und es schwierig sein kann, den Akku vor dem Laden im Winter warm zu halten. Die Ladestationen konnten von den meisten Fahrzeuge mit bis zu 50kW belastet werden, Tesla konnte bis zu 200 kW nutzen.
+Vergleichstabelle der in USA angebotenen E-Autos finden Sie hier: [wg. copyright nicht eingeklinkt)
+https://insideevs.com/news/409231/ev-range-price-compared-us-april-2020/
+Einzelbeschreibungen und Tests hier
+https://insideevs.com/tag/wltp/
+Darüber hinaus, sind zu tiefe (und natürlich auch zu hohe) Temperaturen dem Aufladen ebenfalls nicht förderlich. Moderne Batterieautos haben daher ein elektronisches Batteriemanagement, was während des Ladevorgangs auch die Temperatur der Batterie überwacht und ggf. anheizt. Bei LIO Batterien, werden die Zellen im Betrieb einzeln überwacht um schwächere Zellen evtl. nachzuladen und nicht zu überladen, bzw. überlasten.
+https://www.naf.no/elbil/aktuelt/elbiltest/ev-winter-range-test-2020/
+***
+Nachfolgend ein Blog, in dem erklärt wird, warum man Lio Batterien nicht unter 0°C aufladen sollte (Temperatur der Batteriezelle(n))
+https://electronics.stackexchange.com/questions/263036/why-charging-li-ion-batteries-in-cold-temperatures-would-harm-them
+Temperaturen haben auch einen Effekt auf die Batterielebensdauer
+https://www.mpoweruk.com/lithium_failures.htm
+***
+Sowieso wird den E-Autos Besitzern, das Aufwärmen des Innenraums an der Steckdose geraten. Anstatt die Reichweite durch Heizung des Innenraums zu verkürzen, werden warme Kleidung, evtl. elektrisch heizbare für Motorradfahrer und elektrisch heizbares Lenkrad empfohlen. Schwierig wird es natürlich bei vereisten Scheiben. Dann auftauen lassen und schnell eine Steckdose suchen.
+***
+Eine Studie untersucht den
+Temperatureffekt und thermische Auswirkungen in Lithium-Ionen-Batterien: Ein Überblick
+https://www.sciencedirect.com/science/article/pii/S1002007118307536
+Abstrakt
+Lithium-Ionen-Batterien mit hoher Energiedichte (bis zu 705 Wh / L) und Leistungsdichte (bis zu 10.000 W / L) weisen eine hohe Kapazität und eine hervorragende Arbeitsleistung auf. Lithium-Ionen-Batterien dienen als wiederaufladbare Batterien als Stromquellen in verschiedenen Anwendungssystemen. Die Temperatur als kritischer Faktor beeinflusst die Leistung von Lithium-Ionen-Batterien erheblich und schränkt auch die Anwendung von Lithium-Ionen-Batterien ein. Darüber hinaus führen unterschiedliche Temperaturbedingungen zu unterschiedlichen nachteiligen Auswirkungen. Genaue Messung der Temperatur in Lithium-Ionen-Batterien und Verständnis der Temperatureffektesind wichtig für das richtige Batteriemanagement. In diesem Aufsatz diskutieren wir die Auswirkungen der Temperatur auf Lithium-Ionen-Batterien sowohl im niedrigen als auch im hohen Temperaturbereich. Die aktuellen Ansätze zur Überwachung der Innentemperatur von Lithium-Ionen-Batterien sowohl über kontaktbehaftete als auch über kontaktlose Prozesse werden ebenfalls in der Übersicht erörtert.
+Weitere Tipps einer Fachzeitschrift
+https://www.auto-motor-und-sport.de/tech-zukunft/alternative-antriebe/elektroauto-heizung-im-winter-tipps-reichweite/
+Auf deren Webseite fand ich einen Bericht über eine neue Wunderbatterie aus China.
+https://www.auto-motor-und-sport.de/tech-zukunft/alternative-antriebe/nio-elektroauto-batterie-150-kwh/
+Mit dieser großen Speicherkapazität würde ein durchschnittlichen E-Autos auf locker 900 km kommen
+Übertroffen wird das dann von der 1 Million Meilen Batterie:
+https://www.aktionaer-report.de/1-million-meilen-batterie
+Der chinesische Batteriehersteller CATL hat eine Batterie am Start, die eine Lebensdauer von zwei Millionen bzw. von bis zu 16 Jahren hat. Bislang lag die Grenze bei acht Jahren und rund 300.000 Kilometern.
+Was davon zu halten ist, kann ich nicht beurteilen.
+***
+Bei so viel Batterien, kann natürlich auch mal über die Kosten einer Aufladung gesprochen werden. Ein Hauptargument der Käufer von Batterieautos ist sicherlich die Möglichkeit, an der heimatlichen Steckdose preiswert aufladen zu können. Wer wie die Teslabesitzer an Supercharge-Säulen tanken kann – um schnell geladen zu sein, sollte die Kosten für den Strom auch mal nachrechnen.
+Bekannt ist mir, das Tesla seinen Käufern kostenlose Ladungen an einigen, eigenen Stationen anbietet. Ob sich das ändert, weiß ich nicht.
+Eine australische Autoseite berichtet über eine kürzlich erfolgte Preiserhöhung für die Verwendung der leistungsstarken Tesla Superchargers und falscher Angabe des Energiebedarf auf der Tesla-Website. In Australien würde daher das Aufladen an einem kostenpflichtigen Supercharger nun teurer als Benzin für ein Vergleichsfahrzeug sein.
+Laut Tesla betragen die Kosten für das Aufladen eines Tesla Model 3 7 USD pro 100 km, verglichen mit 12 USD für ein konkurrierendes Benzinauto. Diese Schätzungen enthalten mindestens drei falsche Zahlen: Wie viel Strom ein Tesla Model 3 verbraucht, wie hoch die Stromkosten für einen Tesla- Supercharger sind und wie hoch der Benzinpreis ist.
+Die jüngste Erhöhung der kWh auf 52 Cent pro Kilowattstunde liegt deutlich über den 42 c / kWh auf der Tesla-Website. Das bedeutet, dass das Aufladen selbst des effizientesten Tesla Model 3 Standard Range Plus, der nach Angaben der Regierung 18,8 kWh / 100 km verbraucht, mit einem Supercharger 9,78 USD pro 100 km kosten würde.
+Ein konkurrierender BMW 330i kostet 8,00 USD pro 100 km, vorausgesetzt, die durchschnittlichen bleifreien Benzinkosten betragen 1,38 USD. Das stammt von der Fuel Check-Website der NSW-Regierung. Würde der von BMW behauptete Durchschnitt von 5,8 Litern pro 100 km stimmen – weit unter dem auf der Tesla-Website verwendeten Wert von 7,0 l / 100 km – wäre der BMW 18 Prozent billiger als ein Tesla in den Kraftstoffkosten.
+Wählen Sie den Lexus IS300h mit Hybridantrieb, und die Kraftstoffkosten pro 100 km sinken auf 6,76 US-Dollar – etwa 31 Prozent weniger als die Kosten eines Tesla, der mit einem Kompressor aufgeladen wird.
+https://www.whichcar.com.au/car-news/teslas-now-more-expensive-to-charge-than-petrol-cars
+An den Ladesäulen in meiner Stadt habe ich Preise von meist 50ct/kWh, tws. bis 60 ct/kWh gesehen (leistungsstärkere Stationen)
+Bei obigen 18,8 kWh / 100 km wären das 9,40 Euro. Mein Nachbar, mit einem 2er Diesel fährt mit „um 6 l auf 100km,“ das wären dann aufgerundet z.Zt. nicht mehr als 7 Euro.
+Fazit: In USA ist der Strom billiger als ausgerechnet in Südaustralien oder Deutschland. In USA, in einer günstigen Gegend, sieht sicherlich ganz anders aus.
+Daher zu Hause Strom aufladen, und in der Garage vorwärmen.
+PS: Bei Schnee kein Ökostrom
+Gefunden und zusammengestellt von Andreas Demmig
+In Autos sind die selben Zellen verbaut, daher gelten die selben Regeln. Daher ist anzunehmen, daß bei tieferen Temperaturen der Ladestrom oder die Eigenenergie zuerst zum Aufwärmen der Zellen verwendet wird und erst dann tatsächlich geladen wird.
+Umgekehrt ist auch zu hohe Temperatur der Zellen schädlich, über +40°C können irreparable Schäden entstehen. Daher ist bei entsprechenden Temperaturen auch Batteriekühlung erforderlich.
+Zusätzlich zu berücksichtigen sind für den Fahrgastraum Kühlanlagen im Sommer, die bis zu 3 kW benötigen und Heizsysteme mit bis zu 7 kW.
+Im Porsche Engineering Magazin 1/2011 gibt es dazu einen technischen Bericht.
+Was folgt daraus?: Ab unter 0°C sofortige Vorschrift einer Durchschnittsgeschwindigkeit von 50 km/h (+/- 0,04 %) auf ALLEN Straßen, zum Schutze der „umweltfreundlichen“ E-Autos, beginnend in Fußgängerzonen und endend auf Autobahnen. Ich weiß (aus meinen Märchenbüchern), daß Kobolde meistens gut sind!
+Es könnte allerdings auch sein, daß den Kobolden in den Akkus bei nur 30 Stundenkilometern unterhalb von 0°C zu kalt wird. Oder ist dieser Effekt einfach nur ähnlich dem der Anomalie des Wassers?
+Und schlußendlich der Höhepunkt: Der Vergleich bei -20°C zwischen 30 und 100 km/h ergibt 68 zu 70 km Reichweite! (Bin ich jahrelang als Dieselfahrer sinnlos hinter LKWs hinterhergefahren, um meinen Spritverbrauch von 6 auf 4 Liter zu senken? Ironie aus!) Bin ich verrückt geworden, soll ich umgehend der Klimakirche beitreten, oder kann mich auf diesem Plateau ein kompetenter Mensch beraten?
+Das ist kein Witz, sondern leider die tägliche, bittere, extrem teure Realität.
+Das Folgende auch. Soweit ist die Krankheit bereits fortgeschritten, Zitat: „Government sets up secret ‚green nudge unit‘ to persuade Britons to install smart meters, drive less and cut down on meat.“ (Britische Regierung stellt geheime „Grüne Anschubseinheit“ auf, um die Briten davon zu überzeugen, Smart Meter einzubauen, weniger zu fahren und den Fleischkonsum zu verringern).
+Die Regierungen Westeuropas im Kriegsmodus, gegen das eigene Volk (vgl. Lüge und Antrieb bzgl. Überbevölkerung).
+Was Adolf H. mit seinen V2-Rakten nicht gelang, schafft die falsche Doktorin anhand ihres sinnlosen Klimakrieges.
+Oder diesen Murks ANDEREN überlassen. Solange das noch gestattet wird!
+Aber…… davon, dass es sinnvoll oder auch gar möglich dein sollte, Strom aufzuladen, ist mir neu!
+Wie kann das funktionieren?
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+An einem Fahrbericht Oslo- Trondheim oder Oslo- Bergen im Winter mit dem E- Auto wäre ich sehr interessiert, hab aber noch keinen gelesen.
+Glaube auch kaum, dass einer, der bei Sinnen ist, das tut. Man hat da schon so seine Probleme. Da ist eben mal ne Straße gesperrt und der Umweg ist 100 km. (oder mehr…) Oder musst Stunden warten auf ein Räumfahrzeug. Und Spikes bzw. Ketten sind bestimmt nicht reichweitenfördernt, schon Schnee alleine lässt bei meinem (normalen) Auto den Spritverbrauch um 1-2 Liter steigen.
+In wohlhabenden Gesellschaften ist das auch wenig Problem. Da hat man für ungünstige E-Bedingungen und Langstreckenfahrten einen oder mehrere Diesel und für die Kurzstreckenfahrt zum tägl. Einkauf eben einen oder mehrere Stromer, schon um nach außen „Grünorientierung“ zu signalisieren.
+Aufladen an der Steckdose in der Garage. Vorwaermen ebenfalls per Kabel. Was ist mit den Millionen Laternenparkern? Zapfen die dann die Laterne an? Ideologischer Schwachsinn, praxisfern bis zum Ende. Und bei AMS kein kritisches Wort. Stattdessen soll man sich eine teure Standheizung einbauen. Die KfZ-Steuer Ingenieure und Autofahrer in der DDR mussten weniger erfinderisch sein.
+Wenn Ideologie Technologie schlägt. Gute Nacht Deutschland.
+„Zapfen die dann die Laterne an?“
+Ja!
+https://www.welt.de/wirtschaft/gruenderszene/article187533020/Ubitricity-Dieses-Start-up-macht-aus-Laternen-Ladestationen-fuer-E-Autos.html
+Mich würde mal interessieren, warum im Winter die Reichweite der E-Batterien weniger wird.
+Liegt es überwiegend daran, das der gespeicherte Strom nicht genutzt werden kann, da sonst die Batterie schaden nimmt, oder sind die Wirkungsgrasverluste so hoch? Letzteres würde ja dann bedeuten, das im Winter das Fahren auch deutlich teurer wird.
+Ich denke beide Möglichkeiten haben ihren Anteil daran, aber in welchem Verhältnis?

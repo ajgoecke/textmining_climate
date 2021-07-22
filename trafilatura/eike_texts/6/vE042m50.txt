@@ -1,0 +1,205 @@
+[*Dieser Terminus wird unübersetzt und kursiv gesetzt beibehalten. Eine vernünftige und passende deutsche Übersetzung war nicht zu finden. Anm. d. Übers.]
+Erstens, fast jedes Land hat irgendwelche Arten von Gesundheits-Eingriffen implementiert, und zwar mit einer Bandbreite von moderaten bis hin zu den chinesischen totalitären Maßnahmen.
+Und wie die Koreaner vorgemacht haben, kann das funktionieren … aber nur, falls die Menschen willens sind, Quarantänen mit GPS-Standorten in einem Überwachungsstaat und einer GPS-Kontaktverfolgung durchzusetzen, die zeigt, wo man während der letzten zwei Wochen überall gewesen ist. So weit ich sehe, gibt es das bisher jedoch nur in Korea und China, und kein westliches Land hat das bisher versucht.
+Und als Folge davon gibt es kaum einen Unterschied zwischen der Ausbreitung der Krankheit und der begleitenden Rate von Todesfällen in den westlichen Ländern. Abbildung 1 zeigt die tragische Trajektorie der Todesfälle in den 14 Ländern mit den höchsten Todesraten:
+Wie man sieht, gibt es kaum einen Unterschied bzgl. der Sterberate zwischen den verschiedenen Ländern, trotz der Tatsache, dass sie alle differierende Niveaus der Gesundheits-Eingriffe vorgenommen haben in dem Versuch, die Ausbreitung der Krankheit zu verhindern. Alle folgen der gleichen Trajektorie.
+Und welche Art der der Gesundheits-Interventionen außer Lockdowns schweben mir nun vor? Nun, bei ACAP [hier] kann man einen Datensatz herunterladen der verschiedenen Arten der Maßnahmen, die in verschiedenen Ländern Anwendung fanden. Es werden nicht weniger als 33 unterschiedliche Arten von Gesundheits-Interventionen zum Kampf gegen das Coronavirus gelistet, als da wären:
+● Zusätzliche Gesundheits-/Dokumentenanforderungen bei der Ankunft
+● Änderungen der Beerdigungs- und Bestattungsvorschriften
+● Sensibilisierungskampagnen
+● Grenzkontrollen
+● Schließung der Grenze
+● Änderungen in der Gefängnispolitik
+● Kontrollpunkte innerhalb des Landes
+● Vollständige Schließung der Grenze
+● Ausgangssperre
+● Nationale Reisebeschränkungen
+● Wirtschaftliche Maßnahmen
+● Notfall-Verwaltungsstrukturen aktiviert oder eingerichtet
+● Vollständiger Lockdown
+● Allgemeine Empfehlungen
+● Gesundheitskontrollen in Flughäfen und an Grenzübergängen
+● Humanitäre Ausnahmen
+● Aussetzung internationaler Flüge
+● Einführung von Quarantänemaßnahmen
+● Beschränkung des Imports/Exports von Produkten
+● Öffentliche Versammlungen einschränken
+● Abriegelung von Flüchtlings-/Hilfelagern oder anderen Minderheiten
+● Massentests der Bevölkerung
+● Mobilisierung des Miltärs
+● Obligatorische medizinische Tests, die nicht mit COVID-19 zusammenhängen
+● Teilweiser Lockdown
+● Psychologische Hilfe und medizinische Sozialarbeit
+● Keine Dienstleistungen mehr
+● Schließung von Schulen
+● Ausnahmezustand ausgerufen
+● Stärkung des öffentlichen Gesundheitssystems
+● Überwachung und Kontrolle
+● Test-Richtlinien
+● Visa-Beschränkungen
+Diese Auflistung habe ich herangezogen, um zu sehen, ob Länder mit mehr derartigen Restriktionen besser fahren. Hier zum Beispiel sind der Reihe nach die von Süd-Korea eingeführten Restriktionen genannt. Einige sind doppelt erwähnt, weil sie erweitert oder strenger gemacht worden sind:
+● Gesundheitskontrollen in Flughäfen und an Grenzübergängen
+● Öffentliche Versammlungen einschränken
+● Visa-Beschränkungen
+● Visa-Beschränkungen
+● Einführung von Quarantänemaßnahmen
+● Schließung von Schulen
+● Einführung von Quarantänemaßnahmen
+● Zusätzliche Gesundheits-/Dokumentenanforderungen bei der Ankunft
+● Überwachung und Kontrolle
+● Allgemeine Empfehlungen
+● Zusätzliche Gesundheits-/Dokumentenanforderungen bei der Ankunft
+● Allgemeine Empfehlungen
+● Teilweiser Lockdown
+● Allgemeine Empfehlungen
+● Einführung von Quarantänemaßnahmen
+● Psychologische Hilfe und medizinische Sozialarbeit
+● Einführung von Quarantänemaßnahmen
+● Überwachung und Kontrolle
+Quarantäne, dann Überwachung, dann noch strengere Quarantäne, dann sogar noch strengere Überwachung und Quarantäne – ich kann mir nicht vorstellen, dass die Amerikaner da mitmachen.
+Da ich jedoch Darstellungen als Graphik liebe, habe ich einen Scatterplot der Anzahl bestimmter Arten von Restriktionen, die ein Land eingeführt hat, im Vergleich zur Anzahl der Todesfälle pro zehn Millionen Menschen in jenem Land erstellt. Das Ergebnis zeigt Abbildung 2:
+Wie man sieht, scheint die Anzahl der Restriktionen nicht viel zu tun zu haben mit der Anzahl der Todesfälle. Beispielhaft sei hier die Schweiz genannt. Folgende verschiedene Restriktionen hat man dort eingeführt:
+● Öffentliche Versammlungen einschränken
+● Grenzkontrollen
+● Visa-Beschränkungen
+● Ausnahmezustand ausgerufen
+● Schließung von Schulen
+● Ausnahmezustand ausgerufen
+● Grenzkontrollen
+● Visa-Beschränkungen
+● Allgemeine Empfehlungen
+● Stärkung des öffentlichen Gesundheitssystems
+● Sensibilisierungskampagnen
+● Test-Richtlinien
+● Öffentliche Versammlungen einschränken
+● Schließung der Grenze
+● Öffentliche Versammlungen einschränken
+● Wirtschaftliche Maßnahmen
+● Öffentliche Versammlungen einschränken
+● Teilweiser Lockdown
+● Vollständiger Lockdown
+● Teilweiser Lockdown
+● Wirtschaftliche Maßnahmen
+● Wirtschaftliche Maßnahmen
+● Beschränkung des Imports/Exports von Produkten
+● Militärischer Einsatz
+● Einschränkung öffentlicher Versammlungen
+● Aussetzung internationaler Flüge
+● Einschränkung öffentlicher Versammlungen
+● Stärkung des öffentlichen Gesundheitssystems
+● Visa-Beschränkungen
+● Wirtschaftliche Maßnahmen
+Das Fehlen augenfälliger Auswirkungen ist also nicht mangelnden Restriktionen geschuldet, und es liegt auch nicht daran, dass die Restriktionen nicht lange genug galten.
+Die Schweiz hat die ersten dieser Maßnahmen vor 40 Tagen eingeführt, nämlich am 21. Februar. Man hat die Schulen geschlossen. Am 24. Februar rief die Regierung eine „außerordentliche Lage“ aus und verbot alle öffentlichen und privaten Veranstaltungen. Die Schließung von Restaurants und Bars wurde angeordnet. Bis dahin gab es dort noch keinen einzigen Corona-Toten . [UPDATE: Einige Leute sagten, dass die Beschränkungen der Schweiz nicht so lange bestehen. Beim erneuten Überprüfen meiner Quellen stelle ich fest, dass sie richtig liegen und ich mich zu 100% geirrt habe. Mein Punkt bleibt jedoch bestehen: Die verschiedenen Einschränkungen haben bisher keinen erkennbaren Unterschied gemacht, und die Krise kommt in den meisten Ländern in ein oder zwei Wochen. Jeder Effekt wird also minimal sein, wenn er nicht erkennbar ist, und in der Zwischenzeit sind die wirtschaftlichen und menschlichen Kosten horrend.]
+Danach bis jetzt zählte man 433 Todesfälle durch das Coronavirus. Vierzig Tage Sanktionen ohne irgendeine Auswirkung.
+Inzwischen registriert man dort etwa die gleiche Anzahl von Todesopfern pro zehn Millionen Menschen wie beispielsweise in den Niederlanden. Die Niederländer haben Folgendes eingeführt:
+● Einführung einer Politik der Quarantäne
+● Begrenzung öffentlicher Versammlungen
+● Schließung von Schulen
+● Schließung von Dienstleistungen
+● Allgemeine Empfehlungen
+● Wirtschaftliche Maßnahmen
+● Notfall-Verordnungen wurden aktiviert oder eingeführt
+Kein Lockdown, weder teilweise noch vollständig. Keine Begrenzung von Importen und Exporten. Keine Streichung von Flügen.Keine Visum-Restriktionen. Kein Notfall. Keine Grenzkontrollen.
+Und trotz alledem … haben sie lediglich mit den Schweizern gleichgezogen.
+Man kann es auch noch auf andere Weise betrachten. Deutschland, die USA, Portugal, Frankreich und Spanien haben allesamt die gleiche Anzahl von Restriktionen eingeführt … aber die Todesraten reichen von niedrig bis hoch.
+Es sieht also so aus, als sei meine Intuition richtig gewesen. Solange man nicht willens ist, eine Politik der Überwachung einzuführen, bewirken diese Maßnahmen sehr wenig. Das Problem ist, dass dieses Teufelsding so heimtückisch ist. Es hat eine lange Inkubationszeit, und es kann auf Oberflächen tagelang überleben. Fazit: hinsichtlich regierungsamtlicher Restriktionen wird nichts außer strikter Überwachung und Quarantäne wie in Korea die Anzahl der Fälle verringern, ebenso wie eine Bevölkerung, die willens ist, den Restriktionen buchstabengetreu zu folgen.
+Und Amerikaner machen da einfach nicht mit. Tatsächlich ist es unmöglich, Amerikaner dazu zu bringen, Schutz zu suchen. Falls man auf die Straßen der USA tritt, trifft man viele arbeitende Menschen, viele umher laufende Menschen, Lebensmittelläden voller Menschen … Virenkontrolle?
+Ich glaube nicht.
+Aber bzgl. Kontrolle des Virus‘, hier noch eine andere Graphik. Es ist die gleiche Graphik wie Abbildung 2, enthält aber diesmal zusätzlich Japan:
+Hmm … sie befinden sich in der Gefahrenzone nahe Korea und China – welche extremen Gesundheits-Maßnahmen hat man also dort ergriffen? Nun, diese hier:
+● Gesundheits-Checks auf Flughäfen und an Grenzübergängen
+● Visa-Restriktionen
+Waas? Das ist alles? … Meine einzige Schlussfolgerung daraus ist einfach:
+MAN TRAGE EINEN MUNDSCHUTZ!
+Der einzige Unterschied bzgl. Gesundheits-Maßnahmen zwischen Japan und den meisten anderen Gebieten der Welt besteht darin, dass alle Japaner in der Öffentlichkeit Mundschutz tragen. Selbst die linken US-Medien bemerken die Wirksamkeit von Mundschutz – eine Schlagzeile bei CNN lautet „Face masks and coronavirus: Asia may have been right and the rest of the world is coming around“ … Sieht aus, als hätten die US-Spezialisten erneut unrecht.
+Ein Mundschutz unterbindet die Übertragung auf zweierlei Weise. Erstens, er verhindert, dass man sich an Mund und Nase fasst. Das schützt einen, bis man seine Hände waschen kann und verhindert die Ansteckung Anderer oder dass sich das Virus auf festen Oberflächen ablagert.
+Außerdem wird verhindert, dass Milliarden Virus-Partikel beim Husten oder Niesen in die Luft geblasen werden. Es ist weniger effektiv als das Verhindern des Einatmens derartiger Partikel, obwohl es auch dabei hilft. Und Husten und Niesen ist der Haupt-Übertragungsweg.
+Alles in allem – wie Japan vorführt, unterbindet das Tragen eines Mundschutzes die Ansteckung erheblich.
+Wir fangen an, auch dahin zu kommen, aber es kann zu lange dauern und zu spät sein. Ich sehe, dass die genialen Medizin-Experten, welche zu dem ineffektiven drastischen Lockdown rieten, jetzt darüber nachdenken, vorschreiben zu lassen, dass die Amerikaner einen Mundschutz tragen sollen. Die Schlagzeile in Politico lautet „Fauci: Mask-wearing recommendation under ‘very serious consideration’“ … unter Erwägung?? Sie haben die amerikanische Wirtschaft zerschlagen ohne zurückzuschauen, aber die einfache Empfehlung, in der Öffentlichkeit einen Mundschutz zu tragen, erfordert „sehr ernsthafte Erwägung“?
+Seufz …
+Wir können aus all dem ersehen, dass es kaum Vorteile des Lockdowns in Amerika gibt … also schauen wir mal auf die Nachteile. Erstens, der wirtschaftliche Schaden durch die gegenwärtigen geisteskranken Vorschriften – erlassen um der Marginalisierung des Virus‘ willen – ist schon jetzt gewaltig – verloren gegangene Arbeitsplätze, geschlossene Geschäftszweige, ökonomischer Abschwung, Verluste an den Börsen. Darin nicht enthalten sind die persönlichen Nachteile wie etwa zunehmende Selbstmorde oder häusliche Gewalt. Die Menschen, welche diese Entscheidungen getroffen haben, wurden offensichtlich von Ärzten angeleitet. Das war gut, aber dass sie nicht auf Ökonomen oder Sozialwissenschaftler gehört haben, war tödlich.
+Um die Bevölkerung für diese ökonomischen Verluste zu entschädigen haben wir soeben zwei BILLIONEN Dollar in die allgemeine Richtung des Problems geschoben. Die meisten Menschen haben keine Ahnung, wie viel eine Billion Dollar sind. Man betrachte es einmal folgendermaßen:
+Man stelle sich vor, man wäre ein Unsterblicher, der so viel Geld verdient, dass man für immer und ewig eine Million Dollar pro Tag ausgeben kann. Am ersten Tag kauft man 350 Ventilatoren zum Einzelpreis von 20.000 Dollar und verteilt diese an verschiedene Staaten. Am nächsten Tag kauft man 200.000 Gesichtsmasken für 5 Dollar pro Stück, epidemische Preise. Dann entschließt man sich, ein Jahr heranzuziehen und jeden Tag ein Feldlazarett zu kaufen, 365 davon zum Einzelpreis von einer Million Dollar. Das fühlt sich so gut an, dass man sich entschließt, voll ausgestattete Lazarette zu beschaffen. Das kostet so um die 1,5 Millionen Dollar pro Bett. Also kann man pro Jahr ein 250-Betten-Lazarett kaufen. So fährt man während der folgenden 200 Jahre fort – 200 neue Lazarette, 50.000 neue Betten.
+Nun sind das lediglich etwa einhundert Jahre, in denen man eine Million Dollar pro Tag ausgibt. Man nehme weiter an, dass man anfängt, einen Mega-Dollar pro Tag auszugeben, also eine volle Million Dollar an jedem einzelnen Tag einschließlich Wochenende, und zwar bis zurück zum 1. Januar im Jahre 1. Und man stelle sich vor, man hätte seitdem jeden Tag eine Million Dollar pro Tag bis zum heutigen Tag ausgegeben, um medizinische Ausrüstungen zu kaufen, Ärzteschulen zu erweitern, Testausrüstungen zu kaufen – eine Million Dollar pro Tag vom Jahr 1 bis zum Jahr 2020.
+Und jetzt raten Sie mal …
+…
+…man hätte immer noch weitaus weniger als eine Billion Dollar ausgegeben, nämlich nur etwa drei Viertel davon. Und um zwei Billionen auszugeben, würde sich das auf die Ausgabe von einer Million Dollar pro Tag belaufen – 5500 Jahre lang.
+Kann man sich vorstellen, wie unser medizinisches System aussehen würde, falls man dafür 5500 Jahre lang eine Million Dollar pro Tag aufbringen würde?
+Stattdessen haben wir diese zwei Billionen einfach hinweg gespült* für die Reparatur der durch den Lockdown angerichteten Schäden in der Wirtschaft, ohne dass die Wirtschaft wieder in Schwung kommt.
+[*Der Autor drückt sich wesentlich drastischer und nicht druckreif aus! Anm. d. Übers.]
+Vollendete finanzielle Idiotie, die ausschließlich Politiker als sinnvoll, logisch oder praktisch betrachten können. Mark Twain hatte völlig recht mit seinem Ausspruch: „Nimm einmal an, du wärst ein Mitglied des Kongresses. Und nimm weiter an, du wärst ein Idiot. Aber ich wiederhole mich.“
+Also … wie wäre es, wenn wir alle einen Mundschutz aufsetzen, unsere Hände waschen oder besonders unser medizinisches Personal testen sowie anzufangen, nach Antikörpern zu suchen – und diesen idiotischen Lockdown zu beenden? Die pluted bloatocrats* im Kongress träumen schon jetzt von der Beschlussvorlage eines neuen Gesetzes, um eine weitere Billion Dollar zu verschwenden, was wir uns nicht leisten können.
+[*Unübersetzbares Wortspiel!]
+Und zu guter Letzt: Ich habe gesehen, wie der Berater des italienischen Gesundheits-Ministers gesagt hat, dass nur 12% aller Todesfälle in Italien tatsächlich DURCH das Coronavirus aufgetreten waren. Alle übrigen Todesfälle waren MIT, aber NICHT durch das Virus eingetreten. Vielleicht hellt es sich jetzt auf.
+Link: https://wattsupwiththat.com/2020/04/01/do-lockdowns-work/
+Übersetzt von Chris Frey EIKE
+Wenn Viren sehr gefährlich für eine Spezies werden (deren Leben auslöschen), können sie sich nicht mehr vermehren. Sie mutieren in schwächere Formen, wodurch sie sich besser ausbreiten können. So könnte man sich erklären, warum sich die gefährlichsten Viren nur lokal und nicht weltweit ausgebreitet haben (SARS, MERS).
+China hat die Epidemie politisch beendet und erfindet seitdem sehr niedrige Zahlen (zu niedrig um glaubwürdig zu sein). Die Grenzen wurden geschlossen.
+Die Mittelmeerländer testen kaum und haben daher sehr niedrige Fallzahlen (falsch niedrig). Vermutlich sind dort Millionen infiziert, woran Quarantäne nichts ändert, eher fördert sie die Epidemie.
+Dann gibt es die Germanen (Austria, Dänemark, Deutschland) mit vielen Tests und hohen Fallzahlen. Die warten noch auf die Toten.
+Zum Wort lockdown habe ich mir auch schon zuvor Gedanken gemacht.
+Ich bin zwar kein Übersetzer, lese jedoch häufiger technische Texte.
+Leo meint als ersten Treffer Ausgangssperre:
+https://dict.leo.org/englisch-deutsch/lockdown
+Bei Leo hatte ich schon viele gute Treffer, gerade bei Ingenieurswissenschaften.
+Mehrere Kommentatoren hier schrieben statt lockdown shutdown.
+Unabhängig von diesen hatte ich den gleichen Gedanken.
+Lock verriegeln, shut schließen, sehr ähnliche Bedeutung.
+In unixoiden Betriebssystemen gibt es den Befehl shutdown now.
+Der bewirkt, daß das System schnell heruntergefahren wird.
+Das möglichst ohne Datenverlust, laufende Prozesse werden kontrolliert beendet.
+Oder etwas anders ausgedrückt:
+Stellt möglichst bald die Betätigung ein, der Strom ist gleich wirklich weg!
+Und genau das ist damit gemeint.
+wahrscheinlich sogar im Promillebereich, ist eine Pandemie? erfordert den totalen Shutdown der Weltwirtschaft? kann alle Freiheitsrechte ausser Kraft setzen?
+Da ich wohl zu der Risikogruppe gehöre, Raucher und über 60, ist mir auch eine wirkliche Pandemie bekannt: HIV führt zu nahezu 100% zu AIDS (es gibt wohl einige von 7 Mrd Menschen die immun sind). Damals hat praktisch niemand etwas dagegen unternommen.
+Die Frage ist, meiner Ansicht nach, in welcher Relation
+stehen die Maßnahmen zu den Risiken.
+P.S.: HIRN-OPs sind damit natürlich nicht zulässig 😉
+MAN TRAGE EINEN MUNDSCHUTZ!“
+Dies ist die einfachste Lösung wie Japan gezeigt hat. Sie ist nicht nur bei Covid19, sondern auch bei Influenza-Grippewellen anwendbar.
+Wenn das falsch gemacht wird, kann man sich genauso anstecken bzw. das Virus verbreiten als hätte man keine Maske auf.
+Wie sieht es in Deutschland mit dem Lockdown aus ?
+Das kann man sich hier ansehen
+Bisher nicht so doll.
+Verstehendes Lesen ist manchmal so schlecht nicht 😀
+man kann auch drei Lagen Stoff übereinanderlegen, damits auch Tröpfchen abhält und am besten mit Stoffkleber zusammenkleben (hab ich) und dann mit dem Papierlocher Löcher für Schnur oder Gummi einstanzen. Oder einen Schal oder großes Taschentuch, so wie John Wayne etc.
+Auch wenn man sagt ein Mund-Atemschutz hilft nicht einem selber gegen Infektion, sondern vermeidet andere anzustecken bin ich nicht dieser Meinung. Wenn man was um Mund und Nase rum hat, sei es nur FFP1, so schützt das mehr als gar nichts beim Einatmen. Wenn ich beim Sägen mit der Kreissäge, beim Schleifen und Hobeln von Holz – was ich öfters mache – einen einfachen Atem-, Mundschutz trage (gibt´s in jedem Baumarkt), dann, um nicht die herumfliegenden Feinstaubteilchen einzuatmen. Und wenn das hilft – was es tut – dann hilft es auch gegen Tröpfchen. Ich spreche nicht von 100% !!
+https://www.facebook.com/photo.php?fbid=1903182769812904&set=p.1903182769812904&type=3&theater
+Namhafte Experten auf dem Gebiet weisen auf die Unzulänglichkeit der Tests und ihre Aussagekraft hin. Außerdem wird in den Medien und von Politikern immer „positiv getestet = infiziert, bzw. erkrankt“ gleich gesetzt. Das fördert nur Hysterie und Kollateralschäden. Aber solche Artikel werden dazu führen, dass Zwangstests eingeführt werden und schlimmeres mehr.
+Dabei gehen die Zahlen zurück:
+Kontinuierlich verlängern sich in Deutschland, Italien und vielen Ländern die Zeiten, in denen sich die Infektionen verdoppeln. Gestartet waren wir in Deutschland bei 2 Tagen, gestern Morgen waren es 7,1 Tage, gestern Mittag schon 8,1, heute sind es schon 11 Tage.
+In Italien waren es gestern Mittag 12,8, heute sind es schon 14,1 Tage.
+Ursprünglich wurde uns gesagt, bei über 10 Tagen sei die Gefahr einer exponentiellen Entwicklung überwunden.
+Da sind wir nun deutlich drüber.
+Hier die täglich von der SZ veröffentlichen Zahlen von heute, Donnerstag, den 2.4.20:
+„Staat Bestätigte Fälle Todesfälle Verdopplung Trend
+Vereinigte Staaten 216.721 5.138 4,7 Tage ●○○
+Italien 110.574 13.155 14,1 Tage ●●○
+Spanien Inhalt 9.387 7,5 Tage ●○○
+China 82.394 3.316 —
+Deutschland 74.685 897 11,0 Tage ●○○
+Frankreich 57.“763 4.043 6,3 Tage ●●○
+Iran 47.593 3.036 9,0 Tage ●●○
+Großbritannien 29.865 2.357 4,9 Tage ●○○
+Die Verdopplungszeit gibt an, wie schnell sich die Epidemie ausbreitet. Der Trend zeigt an, wie sich dieses Tempo verändert: wird langsamer ●○○, bleibt gleich ●●○, wird schneller ●●●. Letzte Aktualisierung: 02.04.2020 08:00 Uhr
+(Dass die rapide Verbesserung in Italien mit der hier angegebenen Punkte-Wertung als gleichbleibend dargestellt wird, muss ein Fehler sein.)
+Warum also keine Mitteilung von dieser hoffnungsvollen Besserung, die in Deutschland und folglich auch Österreich, laut deutschem Ärztepräsidenten Dr. Gassen noch nicht auf die Isolationsmaßnahmen zurückgehen könne.
+Worauf auch immer die positive Entwicklung zurückgeht, die ja der jeder saisonalen Grippe entspricht, es wird rasch besser und wir sind in dem Bereich, wo wir, beziehungsweise die Regierungs-Virologen, das RKI, die WHO nun endlich Hoffnung verbreiten könnten und das Ausstiegs-Szenario aus dem Shutdown ankündigen müssten.
+Aber wahrscheinlich, nach all der Panik-Mache und nach den vielen nachgewiesenen Anfänger-Fehlern, ist es schwer für das Panik-Trio in Berlin den Weg zurück zu finden.
+Drücken wir ihnen beide Daumen, dass sie einen Ausstieg – unter Gesichtswahrung finden. Denn während die Corona-Grippe zurückgeht, eskalieren die Kollateralschäden des Shutdowns weiter: die gesundheitlichen werden mit jedem Tag dramatischer, die wirtschaftlichen kann ich nicht beurteilen.
+Das RKI hat jetzt endlich mal wichtige Zahlen in dem aktuellen Lagebericht 12. KW 2020, raus gegeben und zwar die Zahl der Testungen. Mit einschließlich 12. KW wurde 485.285 Proben getestet.
+In der 11. KW : 127.457 Tests : 7.582 (5,9%) positiv getestet.
+in der 12. KW : 348.619 Tests : 23.820 (6,8%) positiv getestet.
+(also ab der 11. KW haben die Tests sprunghaft zugenommen !! man rechne nach)
+Das heißt also : je mehr Tests desto mehr Infizierte. Das heißt weiterhin, daß die Zahl der Infizierten (fast proportional) steigt aber eher nur, weil mehr getestet wurden und nicht weil die Infektionen aus einer laufenden Epidemie steigen. Die Verbreitung der Krankheit ist also vorhanden, wurde bloß noch nicht entdeckt. Wahrscheinlich laufen noch mehr draussen rum die gar nicht merken, daß sie das Virus in sich haben (deckt sich mit Untersuchungen in Großbritannien, oder auch Italien)
+Die Aussage zu den 12% Todesfälle wegen Covid 19 stammen von Prof. Walter Ricciardi
+Allerdings war das eine Aussage vom 22.3. Informatives siehe auf
+swprs.org. Die Todesfälle in Italien mit 65+ übersteigen die Übersterblichkeitsgrenze, sind aber niedriger wie die Influenzawelle 2016/17 und 17/18.
+Timeline beginnt ab 14.3.
+Der renommierte italienische Virologe Giulio Tarro argumentiert, dass die Mortalität von Covid19 auch in Italien bei unter 1% liege und damit vergleichbar mit der Grippe sei. Die höheren Werte ergeben sich nur, weil nicht zwischen Todesfällen mit und durch Covid19 unterschieden werde, und weil die Anzahl der (symptomfreien) Infizierten stark unterschätzt werde.
+Und woher kennt der italienische Virologe Guilio Tarro die „Anzahl der (symptomfreien) Infizierten“ denn so genau, daß er sagen knann, daß deren Zahl „stark unterschätzt“ wird?
+In der Heinsberger Studie hat man (allerdings unverständlicherweise nur auf der Basis von n = 500) festgestellt, da0 15% der Untersuchten Antikörper gegen Corona haben. Noch ein „allerdings“ kommt hinzu: Allerdings wurde leider und erneut unverständlicherweise nicht differenziert, ob gegen die älteren Corona-Viren oder gegen das neue (CoVid-19).
+Geht man vom günstigen Fall aus (15% der 500 Untersuchten haben Antikörper gegen CoVid-19 und das läßt, trotz der geringen Zahl an Probanden, auf die Gesamtpopulation im Kreis Heinsberg schließen), dann sind 15% sowohl erfreulich als auch deprimierend. Erfreulich, weil CoVid-19 offenbar doch nicht so leicht übertragbar ist wie gedacht. Deprimierend, weil man selbst in der „Corona-Hölle“ von Heinsberg noch weit entfernt von der benötigten Herden-Immunität ist.
+Und vor allem deshalb, weil das bedeutet, daß die Zahl der (symptomfreien) Infizierten keineswegs „stark unterschätzt“ wird, sondern daß der „renommierte italienische Virologe“ deren Zahl offenbar stark ÜBERschätzt.

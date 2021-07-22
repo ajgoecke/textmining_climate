@@ -1,0 +1,187 @@
+Dabei soll in einer ersten diesbezügliche Überschlagsrechnung davon ausgegangen werden, dass lediglich die bisherige gesamte Stromerzeugung in Deutschland und der motorisierte Individualverkehr (MIV) durch alternative Energiequellen gedeckt wird. Fossile Energieträger für Raum- und Prozesswärme sowie andere Verkehrsträger (Luftfahrt, Straßengüterverkehr, Schifffahrt u. a.) sowie die Landwirtschaft, die immerhin noch mehr als 50% der CO2-Emissionen verursachen, werden wie bisher genutzt.
+Es gelten folgende Voraussetzungen:
+- Die gesamte derzeitige Stromerzeugung von jährlich 649 TWh[1] bleibt auf dem bisherigen Niveau und erfolgt durch erneuerbare Energiequellen.
+- Der motorisierte Individualverkehr erfolgt durch Elektrofahrzeuge.
+- Das fluktuierende Angebot von Wind und Sonne wird durch noch zu entwickelnde Energiespeicher mit einem Wirkungsgrad von 100%[2]
+- Die Stromerzeugung aus Photovoltaik, Wasser und biogene Brennstoffe lässt sich um 20% erhöhen.
+- Keine Nutzung von Kernenergie
+In 2018 betrug die Bruttostromerzeugung in Deutschland gem. Bundesumweltamt 649 TWh, davon aus erneuerbaren Energiequellen rd. 225 TWh. Diese setzten sich zusammen aus
+Windenergie 110,0 TWh
+Photovoltaik 45,8 TWh
+Wasserkraft 18,0 TWh
+Biogene Brennstoffe 50,8 TWh
+224,6 TWh → 34,6 % der Bruttostromerzeugung
+Ende 2018 waren 30.518 WKA (davon 1.305 Offshore) in Betrieb. Die mittlere jährliche Stromerzeugung je WKA der jetzigen Leistungsklasse beträgt somit
+Voraussetzungsgemäß wird die Stromerzeugung aus Photovoltaik, Wasser und biogene Brennstoffe um 20% gesteigert. Das sind
+1,2*(45,8 + 18,0 + 50.8) TWh = 137,5 TWh.
+Damit ergibt sich folgende Bilanz, wonach noch 401,5 TWh durch WKA abzudecken sind:
+aus Photovoltaik, Wasser biogene Brennstoffe 137,5 TWh
+aus existierenden WKA 110,0 TWh
+aus noch zu errichtenden WKA 401,5 TWh
+649,0 TWh.
+Um diese 401,5 TWh zu erzeugen, sind noch
+erforderlich. Mit den bereits existierenden WKA sind somit allein zur Deckung des bisherigen Strombedarfs zusammen
+111.500 + 30.518 = 142.018 bzw. rd. 142.000 WKA
+erforderlich.
+Der MIV ist mit einem Endenergieverbrauch (Benzin, Diesel, Gas) von 400 TWh der größte Energieverbraucher im Verkehrssektor (750 TWh). Im Fahrzeug wird Endenergie in Nutzenergie umgewandelt. Bei einem durchschnittlichen Wirkungsgrad über alle Fahrzeugtypen und Leistungsstufen von 30% folgen daraus 120 TWh als Nutzenergie. Diese muss als Strom durch WKA bereitgestellt und bis zum E-Motor des Fahrzeuges geleitet werden. Die Wirkungsgrade dieser Übertragung sollen für Stromtransport und Umspannung 90%, Batterie 90% und E-Motor 85% betragen,
+d. h. 0,9 * 0,9 * 0,85 = 0,69 bzw. 69%. Daraus folgt ein Strombedarf von 120/0,69 = 174 TWh. Dieser Strom reicht allerdings nicht aus, um den bisher üblichen Fahrkomfort zu gewährleisten. Es ist die Heizung, die bei Otto- und Dieselmotoren durch Abwärme erzeugt wird. Diese Fahrzeugheizung muss nunmehr durch Strom erfolgen, der ebenfalls durch eine WKA bereitzustellen ist. Es wird im Folgenden angenommen, dass die Fahrzeugheizung ca. 25% der Nutzenergie, d. h. 30 TWh ausmacht. Der effektive Strombedarf für den MIV würde somit 174 + 30 = 204 TWh betragen. Dafür sind
+erforderlich. Damit ergibt sich ein Gesamtbedarf an WKA für
+bisherigen Strombedarf 142.000 WKA
+motorisierten Individualverkehr 57.000 WKA
+199.000 WKA.
+Diese sind auf dem Territorium[3] von Deutschland, das ca. 390.000 km² beträgt, unterzubringen.
+Nun gibt es viele Gebiete, die als Standorte für Windkraftanlagen völlig tabu sind, so z. B. Natur- und Landschaftsschutzgebiete, Parkanlagen, historische Stadtkerne, dicht besiedelte Gebiete, Flugplätze, Kraftwerke, Bundeswehrgelände oder auch die US-Atomwaffenlager in der Eifel. Werden in erster Näherung zunächst nur die Naturschutzgebiete (gem. WIKIPEDIA 4,5%) und Landschaftsschutzgebiete (gem. WIKIPEDIA 28,5%) als mögliche Standorte abgezogen, verringert sich die verfügbare Fläche zur Aufstellung von WKA auf
+(1 – 0,045 – 0,285) * 390.000 km² = 261.300 km².
+Daraus folgt eine WKA-Dichte von
+Bei einer gleichmäßigen Verteilung dieser 199.000 WKA über die verfügbare Gesamtfläche Deutschlands[4]würde somit auf einer quadratischen Grundfläche mit einer Seitenlänge von 1.150 m je eine WKA stehen. Der Abstand von jedem beliebigen Standort in Deutschland zur nächsten WKA wäre folglich weniger als 580 m. Auf dem Territorium von Potsdam (187,86 km²) müssten somit 143 und von Cottbus (165,15 km²) 125 WKA aufgestellt werden.
+Fazit: Wenn der gesamte jetzige und der für die Elektrifizierung des motorisierten Individualverkehrs zusätzlich erforderliche Strom ausschließlich durch alternative Energiequellen und insbesondere Windräder (WKA) erzeugt werden soll, sind mindestens 199.000 WKA der jetzigen Leistungsklasse erforderlich (bisher gibt es ca. 31.000 WKA). Dies setzt allerdings voraus, dass hinreichend große Stromspeicher mit einem phantastischen Wirkungsgrad von 100% existieren. Würden diese 199.000 WKA gleichmäßig auf dem Territorium von Deutschland (ausschließlich Natur- und Landschaftsschutzgebiete und einschließlich der Küstenzonen) verteilt, so kommen auf einer quadratischen Grundfläche von 2 km Seitenlänge je 3 Windräder zu stehen.
+Reicht diese Entfernung aus, sodass jeder Bürger in den Genuss von Windbürgergeld kommt?
+[1] Alle hier verwendeten Energiewerte TWh, GWh beziehen sich auf ein Jahr
+[2] Ein geringerer Wirkungsgrad würde einen höheren Strombedarf zur Folge haben. Zum Vergleich: Pumpspeicherkraftwerke haben einen Wirkungsgrad von ca. 70%, Power-to-Gas-Anlagen von 30%.
+[3] Es setzt sich gem. WIKIPEDIA zusammen aus Staatsgebiet (einschl. Flüsse, Seen, Naturschutzgebiete u. a.) mit 357.376 km² und Küstenzone (Ausschließliche Wirtschaftszone) mit 32.832 km².
+[4] einschl. Städte und Gemeinden, Flüsse und Seen, Flugplätze und Bundeswehrgelände, Parks und Gärten
+Aktuell bläst der Wind kräftig und stetig, hohe Einspeiseleistung aus Wind sind die Folge.
+Und wie sieht das finanztechnisch aus?
+https://www.agora-energiewende.de/service/agorameter/chart/power_import_export/28.01.2020/31.01.2020/
+Deutschland verschenkt Strom zu < 40 €/MWh an seine Nachbaren. Östereich und Frankreich lachen sich krumm bei dem Geschäft. Dass man mit Wind kein Geld verdienen kann wusste schon Wilhelm Busch:
+Aus der Mühle schaut der Müller,
+der so gerne mahlen will.
+Stiller wird der Wind und stiller,
+und die Mühle stehet still.
+”So geht’s immer, wie ich finde!“
+rief der Müller voller Zorn.
+„Hat man Korn, so fehlt’s am Winde,
+hat man Wind, so fehlt’s am Korn.“
+Man muss nur "Korn" durch Börsenstrompreis" ersetzen und man erkennt, bis heute hat sich daran nichts geändert!
+am 31.1.2020 ist der Börsenpreis bis auf -2,8 Cent (ab 23:00, max. um 4:00 Uhr Ende der Negativen_Strompreise gegen 5:00Uhr).
+Wohlstand für die Leute mit dem Großen Stromspeicher und E-Autos wenn mal die Variablen Strompreise kommen.
+Auch heute 1.2.2020 sind wir mit -1 Cent/kWh dabei (von 1:00 bis 7:00 Uhr) und das in der Dunkelflaute Zeit !
+****** Super Aussichten für die Zukunft. ******
+30. JANUAR 2020 UM 17:59
+Na ja, alle mit einem Zuschlag von 0 Ct/KWh sind dem freien Markt ausgeliefert. Wenn Sie Kritik am Ausschreibungsverahren äußern wollen, dann tun Sie es. Daran gibt es genügend zu kritisieren, hat aber nichts mit meinem obigen Postulat zu tun.
+Sie können die Zahlen nicht interpretieren, macht aber nichts, ich bin gerne behilflich.
+Interessant sind die mengengewichteten Durchnittsvergütungen. 2017 lagen sie bei wenig über Null, also die gesamte Ausschreibung ging in den Markt. In 2018 lag dieser gewichtete Durchschnitt schon bei 4,66 €cent/kWh, bei einem Maximum von 9,x €cent/kWh haben sich nur noch die Hälfte der Bieter für die Vermarktung entschieden. in 2019 und bis jetzt auch in 2020 wurde auf weitere Ausschreibungen verzichtet; warum wohl? Windstrom ist nicht marktfähig und wird es auch nie werden, wenn Freitags die Vorrangeinspeisung entfällt ist Montags der gesamte EE-Strommarkt pleite! Auch wenn Sie das nicht verstehen (wollen?)….
+Ja heutige Windräder haben viel längere und unter aerodynamischen Gesichtspunkten auch besser geformte Propellerblätter als ihre bereits 20 Jahre alten Vorgänger, aber vor 20 Jahren hatte das digitale Zeitalter auch noch gar nicht richtig begonnen.
+Um zu erahnen wie viele dieser Super-Windmühlen und wie viele Quadratkilometer PV- Zellen- Fläche (abgesichert mit Notstromaggregaten für die Dunkelflaute) in deutschen Landen allein die fortschreitende Digitalisierung erforderlich machen wird , läßt ungewollt sogar ein notorischer Kernenergiegegner vom künstlerisch- rhetorischen Format eines Harald Lesch erahnen:
+https://www.youtube.com/watch?v=z0uRzkZuVuM
+DAS IST KEIN BEWEIS, Herr Tarantik!!
+Der einzige realitätsferne Argumentierer, sind allein Sie!!
+Die IAA zieht aus Frankfur weg, die einzige Messe, die OHNE ZUSCHÜSSE vom Staat lebte. Das hat mit Ihrem verachtungswürdigen Denken zu tun.
+dieses Thema ist für mich noch nicht ganz gegessen, deshalb habe ich alles einmal für die leistungsstärkste Offshore-WKA der Welt mit einer Höhe von 260 m, einem Rotordurchmesser von 220 m und einer Generatorleistung von 12MW nachgerechnet.
+Bei einem Luftdruck von 98285 Pascal in 260 m Höhe über dem Meeresspiegel, einer Temperatur von 15 Grad sowie einer relativen Luftfeuchte von 30% beträgt die Luftdichte ca. 1,18 kg/m^3.
+Daraus kann man die Leistung des Windes bei einer Windgeschwindigkeit von 5 m/s berechnen. Sie beträgt 939 KW. IDEAL mit dem Betz’schem Leistungsbeiwert = 16/27 multipliziert kann ich dem Wind maximal 556 KW bei 5 m/s Windgeschwindigkeit abzwacken. Dabei ist es völlig WUMPE, ob der Generator des Windspargels 1MW, 4MW, 7MW oder 12 MW leistet.
+Bei einem gemitteltem Stromverbrauch Deutschlands von 1680 GWh/Tag sind verlustfrei 125000 Offshore-WKA’s mit einer Generatorleistung > 556 KW indiziert, um eine Leistung von 70 GW bei 5 m/s Windgeschwindigkeit zu erzeugen.
+Die von Deutschland nutzbare Meeresfläche für Offshore-Wind sei 12500 km^2. Das ergibt 10 Windmühlen pro km^2 Meeresfläche – bzw. im Abstand von 315 m eine WKA.
+Für die oben genannte WKA wäre der Mindestabstand weit unterschritten. Man kann maximal 18000 WKA’s dieser Größenordnung in der von Deutschland nutzbaren Fläche von Nord-und Ostsee platzieren, aber dann BEISSEN sich die Dinger schon und rauben sich gegenseitig den Wind. Optimal wären weniger als 8660 dieser Anlagen im Abstand von ca. 1,1 km.
+Bei einem Weibull-Skalierungsfaktor von 15,5 m/s in 260 m Nabenhöhe und einem Formfaktor von 2,65 treten Windgeschwindigkeiten von 3-5 m/s statistisch gesehen 320 Stunden im Jahr auf. Windgeschwindigkeiten unterhalb der Anlaufgeschwindigkeit von 3 m/s dieser WKA würden 137 Stunden im Jahr auftreten.
+Also gemittelt 137 Stunden kein Strom von Offshore-Wind im Jahr.
+320 Stunden im Jahr, wo wir tatsächlich 125000 Offshore-WKA’s (Generator-Leistung > 556 KW) brauchen würden, um auf 70 GW Stromerzeugung aus Meereswind zu kommen.
+Das hört sich in der Tat nach einer gewaltigen Herausforderung an, obschon ich ziemlich windfreundlich gerechnet habe!
+Eine heutige Gesellschaft verbraucht tendenziell immer mehr Strom, vorausgesetzt, Idioten in Berlin, haben etwas dagegen, und erschweren ohne Not den freien Menschen das Leben. Der Mensch ist kein Sklave von Idioten.
+Und Sie müssen nur zwei Kriterien berücksichtigen, und ganz bestimmt nicht den „Weibull-Skalierungsfaktor“. Soll ich zu lachen anfangen?
+Die heutige Gesellschaft will BILLIGE und STETIGE Energie. Das genügt vollkommen. Und die anderen fähigen Fachleute haben Ihnen schon absolut sicher aufgezeigt: Windenergie braucht kein Mensche. Zumindest nicht in dieser Form, in dieser Kombination. Keine Subventionen mehr für diese inkompetente Spezies.
+Lernen Sie doch vorher, wie man echten Wohlstand kreiert, Mann!! Wohlstand ist immer eine Funktion von billiger und SICHERER Energie.
+Wieviele Arbeitsplätze sind diesem Land schon durch diesen kriminellen Unfug mit der Energiewende VERLOREN GEGANGEN? Das sollten Sie berechnen können. Aber, das wissen Sie nicht. Sie wissen nicht wie. Zu komplex für Sie.
+https://www.youtube.com/watch?v=VPiIAmHc5Rk&feature=share&fbclid=IwAR3FtL1u6iaSIxSz2ACM-tqfRxkycpjBn8com_GBhmn5jUGCfm1fvE6_dcg
+1. Ein verdoppeln der installierten Nennleistung einer Wka bringt nicht eine Verdoppelung der erzeugten Energie. Ein grober Fehler das anzunehmen. Zumal die grösse der Anlage und damit wieder der benötigte flächenbedarf ebenfalls ansteigt. Also vergessen wir mal die diesbezügliche Halbierung.
+2. Mal eben Photovoltaik zubauen. Ist der flächenbedarf denn hier geringer um die benötigten Kapazitäten zu erreichen?! Wohl nicht, eher noch größer.
+3. Offshore wka. Was niemand so richtig im Auge hat: diese stehen in der wohl technikfeindlichsten Umgebung, die man sich denken kann. Auf see! Die korrosionsbständigkeit erfordert allein schon erheblichen Aufwand. Der gesamte wartungsaufwand ist erheblich größer und schwieriger umzusetzen. Man kommt oft an die Anlagen kaum ran, bzw. Kann sie wetterbedingt nur viel schwieriger warten etc…. wie gut und wie lang die Dinger dort durchhalten, langfristig bilanziert….schauen mer mal…
+4. Vergessen wir die per politischem Diktat planwirtschaftlichen „Preise“ von energieerzeugungsformen. Die reale Ökonomie lässt sich nur aus dem EROI (ERERIE RETURNS ON INVESTED) ableiten, Punkt! Wind: 3,6, sonne 1,6, DFR 2000!!!! Daran kommt nicht mal der liebe Gott vorbei,wenn ich das mal so sagen darf…
+5. H. W. Sinn: um den Verkehr zu elektrifizieren müsste eine verfünffachung der Wka umgesetzt werden, mindestens. Und…Wind und sonnenstrom nehmen gar nicht am realen Markt teil, unter anderem wegen des eeg.
+Es ist und bleibt ein übler Holzweg, auf dem wir uns befinden…
+Da haben Sie recht Herr Tarantik…schönrechnen hilft da nicht…
+2. Bei Photovoltaik können Dächer und Flächen genutzt werden, die nicht weiter benötigt werden. Es wären genügend davon vorhanden. Trotzdem ist es sinnvoll auf geeigneten (Deponien, usw.) großen Flächen aus Kostengründen PV zu bauen. PV benötigt weniger als ein fünfzigstel der Fläche von Biomasse. Das Flächenargument müssen Sie also unbedingt bei Biomasse anwenden. Neueste Info: Silizium-Perowskit-Zellen haben einen Wirkungsgrad von 29% im Labor erreicht. Im Vergleich zu den ersten Zellen mit 13-15% Wirkungsgrad ist das schon beachtlich. (physikalische Obergrenze ist natürlich auch bekannt).
+3. Offshore. Wenn Schiffe und Bohrtürme diese technikfeindliche Umgebung jahrzehntelang aushalten, dann bin ich sicher (weil es ja auch DIN Regeln dafür gibt) dass auch Windräder so gebaut werden dass sie lange genug arbeiten. Die Investoren haben schließlich auch genügend Erfahrung und Know How.
+4. Das einzige was zählt sind die Kosten pro KWh. Niemand wird ein Kernkraftwerk bauen, das die KWh nur für 24 Ct und mehr produzieren kann, auch wenn es einen noch so hohen EROI hat. Ein Solarkraftwerk in Dubai, das die KWh für 1,5 Ct liefert, stellt dort sogar ein Ölkraftwerk in den Schatten. Öl zu exportieren bringt dort mehr Geld, als wegen Stromgewinnung zu verbrennen.
+5. H.W. Sinn denkt und rechnet immer nur eindimensional. Daher schafft er immer extrem abstruse Ergebnisse. Wenn man das will, dann kann man das machen. Ist aber nicht richtig.
+Richtig: Alte Anlagen nehmen nicht am realen Markt teil, weil sie eine feste Vergütung erhalten. Alle neuesten Anlagen (teilweise Offshore, neueste PV in Brandenburg), die keine Einspeisevergütung mehr brauchen (Ausschreibungszuschlag mit 0 Ct.) müssen am realen Markt bestehen. In Spanien sind das mittlerweile alle großen PV Anlagen. Die Marktfähigkeit ist dort seit 2019 erreicht. Es kann also nur noch besser und billiger werden.
+Ach Herr Tatantik, das einzige was zählt ist die Netzfrequenzstabilität. ALLE anderen Zahlen im Strommarkt reduzieren sich bei 0 HZ (blackout) zu genau 0 EURO. Aber das verstehen MINT ferne „Experten“ wie Sie erst wenn das Licht in Säcken in’s Haus getragen werden muss. Halten Sie also ihre „Lichtsäcke“ bereit, Sie werden sie brauchen….
+ein Dual Fluid Reaktor (DFR) produziert die kWh für schlappe 1,3 Cent. Noch billiger als Ihr „Solarkraftwerk in Dubai“. Billiger geht’s nimmer! Und vor allen Dingen konstant und sicher. Tag und Nacht, bei Sturm oder Dunkelflaute.
+Und ohne die Vögel zu schreddern, oder die Menschen krank zu machen, oder die Landschaft zu verschandeln. Nebenbei könnte man noch künstlichen Treibstoff Gas/Benzin/Diesel/Kerosin/Heizöl erzeugen, und, und, und
+der Dual Fluid Reaktor (DFR) produziert die kWh für schlappe 0kWh für schlappe 0 Cent am Tag und Nacht, bei Sturm oder Dunkelflaute in den nächsten 30 Jahren, da es keinen DFR gibt in Deutschland.
+Solaranlagen produziert die kWh für schlappe 6 Cent in den nächsten 20 Jahren mit einigen Tagen Vorlauf für die Errichtung der Solaranlage.
+Und mit den 1,17 €Cent/kWh wird das auch nichts beim DFR da die Zinsen bereits über 2 Cent/kWh sind.
+Sie behaupten einfach so ein DFR würde 4500$/kW kosten. Das ergäbe übrigens Stromkosten von 3,8 Cent/kWh und nicht 2,8 Cent, wie Sie fälschlicherweise angeben. Warum nicht gleich das 10-fache, also 12.000 $/kW? Sind Sie Experte für Kraftwerksbau? Oder warum wissen Sie das? Nicht jedes Bauprojekt wird von einer rot-rot-grünen Regierung gemanagt wie der BER.
+Gelten Ihre 6 Cent/kWh für Solar nur im Juni Mittags bei Sonnenschein, oder auch im Winter? Welchen Speicher haben Sie da? Reicht der ein halbes Jahr oder nur einen Tag?
+So ein DFR läuft und läuft und läuft ganz ohne externen Speicher, weil den hat er für 1 Jahr schon eingebaut (13 TWh).
+Apropo Wohlstand durch Energiewende. In Österreich hat man die Blöden für den Beitritt zur EU damit geködert, dass nach dem Beitritt das Schlagobers (Sahne) viel billiger wird. Wichtig ist noch zu sagen, dass man nicht über den Beitritt abgestimmt hat, sondern lediglich der Regierung das Mandatt gab die Verhandlungen mit der EU zu führen. Das Ergebnis kennen wir ja. EU-Beitritt und Schlagobers wurde nicht billiger.
+https://www.youtube.com/watch?v=LIgmfpHBiDw
+„Das ist der Anfang vom Ende des Ende des Projekts, das Projekt ist schlecht, das Projekt ist undemokratisch“
+Schaut euch doch bitte das YouTube Video von Professor Doktor Horst-Joachim Lüdecke an. Thema „ Naturgesetzliche Schranken der Energiewende „. Hier wird alles gesagt zur Energiedichte, Leistungsdichte in Abhängigkeit zur benötigten Fläche.
+1. Das fluktuierende Angebot von Wind und Sonne wird durch noch zu entwickelnde Energiespeicher mit einem Wirkungsgrad von 100%[2]
+Damit sind wir beim Wunderglauben angelangt. Es gibt kein physikalisch plausibles Konzept für Stromspeicher im EVU Maßstab.
+2. Die in Zukunft benötigte Anzahl an zusätzlichen WKA wird linear aus dem aktuellen Leistungsprofil/WKA hoch gerechnet. Das ist aber eine falsche Rechnung! Bei Standorten mit geringerer Windhöffigkeit fällt der Ertrag um den Faktor 1/x³ gegenüber einem Referenzstandort. Um den selben Energieertrag zu generieren muss also die Anzahl der installierten WKA mit dem Faktor x³ wachsen. In Zukunft strebt die Anzahl der Anlagen mit x³ gegen unendlich und deren Ertrag mit 1/x³ gegen Null.
+Die Deutsche Energiewende kann nur scheitern. Wir werden es erleben….
+Gefahren der Windkraft
+https://www.youtube.com/watch?v=uSR_WwI-VPs
+Vor gut einem Jahr an´s Netz gegangen:
+Der „saubere“ Windkraft-Genozid – Wie Mensch und Tier in den Wahnsinn getrieben werden…
+https://www.youtube.com/watch?v=y1oSAhjQ2bY
+Sie müssen Ihrer xxxxxxx-Pseudo-Rechnung die gigantischen Abschreibungen, xxxxxxxx Wertverluste beifügen. Das ist kein technologischer Fortschritt, welchen Sie hier vertreten, das ist brutalste Wohlstandszerstörung, Anti-Fortschritt. Sie lesen entweder die anderen Kommentare nicht oder verstehen diese nicht. Nicht einmal den roten Faden eines Artikels geben Sie korrekt wieder.
+In wieviel Windrädern sind Sie denn investiert?
+Sie haben von Wirtschaft, Schaffung von echtem Wohlstand nicht die geringste Ahnung. Sie wollen sich auf Kosten anderer unzulässig bereichern, aber Ihr famoso Kartenhaus wird absolut sicher zusammenstürzen.
+Hier herum zu kommentieren, und nie (!) etwas dazu zu lernen, ist SCHRECKLICH!!
+die ganze Herumrechnerei ist für´n Popo!
+Schauen Sie sich die beiden Videos von S. Interthal an, da finden sich genügend sachliche Argumente gegen diesen verbrecherischen Unsinn.
+Wie wäre es denn, wenn Sie mal eien praktische Versuch machen würden, über den Sie dann hier ausführlich berichten?
+Ich denke da an einen (kann ja auch temporär sein, ein Jahr z.B.) Umzug in ein Haus, welches umgeben ist von etlichen großen Windmühlen, die Sie ja zu lieben – jedenfalls jetzt noch – scheinen?
+Sie erzählen dummes Zeug. Rechnen Sie vor wie Sie zwischen dem 23.1. und 26.1. die benötigte Wind- und Solarstrommenge erzeugt haben wollen, und zwar die für gesamt Norddeutschland!
+Am 26.1.20 sind 34% von den erneuerbaren gekommen und auch noch 90GWh in das Ausland exportiert.
+Schauen Sie mal, wie präzise der verehrte Herr T. Heinzow argumentiert: Norddeutschland.
+Bei Ihrer Antwort ist welches Gebiet gemeint? Ganz Deutschland? Was ist mit den Tagen 24., 25.?
+Und dann lesen Sie bitte seinen Kommentar vom: T.Heinzow, 29. Januar 2020 um 13:25, hier in diesem gleichen Artikel, BITTE.
+Wir haben ein deutschlandweites Verbundnetz, nur „Norddeutschland“ zu betrachten bringt nichts. Ist ja nicht mal bekannt welches Gebiet genau gemeint ist, Herr T.Heinzow hat ja keine genaue Grenze gezogen.
+Den 24., 25.01.20 hat Herr T.Heinzow nicht als Beispiel gebracht.
+Ich kann natürlich auch heute den 30.1.2020 nehmen wenn man sich die Tage aussuchen kann da sind die Erneuerbaren bei 62%.
+Soso, die Italiener, ohne Kernkraft und praktisch fast ohne Kohlekraft, tragen also des Licht mit Säcken ins Haus. Ich denke, die Italiener und unsere Netzbetreiber sind deutlich schlauer als Sie. Weniger primitives Denken und argumentieren würde allen weiterhelfen. Z.B. einfach nicht immer die Spitzen- und Mittellastkraftwerke ausblenden.
+30 Jahre nach seiner endgültigen Abschaltung wird radioaktiver Abfall aus dem Abriss des AKW Caorso in Italien von dort in die Slowakei transportiert um verbrannt zu werden (reduziert das Volumen).
+https://www.world-nuclear-news.org/Articles/Second-phase-of-shipments-of-Italian-waste-to-Slov
+Der Abfall geht dann wieder zurück nach Italien um ins Endlager gekippt zu werden.
+Sobald es denn mal ein Endlager gibt…
+2018 betrug die durchschnittliche Leistung des Bestands der WKA 1,9 MW, aber die durchschnittliche Leistung der neu installierten WKA 3,2 MW (durchschnittlicher Rotordurchmesser 114 m, durchschnittliche Nabenhöhe 129 m – die durchschnittliche Nabenhöhe hat sich 2016-2018 nicht mehr verändert, der durchschnittliche Rotordurchmesser 2017-2018 nicht, wir haben also wahrscheinlich ein Plateau erreicht – größere Windräder lassen sich idR nicht errichten, weil die Verkehrsinfrastruktur – Brücken, Durchfahrten, Kurvenradien – deren Transport nicht zuläßt). Das ist jetzt nicht wirklich Ihr 2:1, aber immerhin 5:3. (Die durchschnittliche Leistung der stillgelegten 2018 entsprechend 1,2 MW).
+Beim Zubau lügen Sie sich natürlich in die Tasche – am Ende interessieren nicht die GW sondern die TWh … Sie brauchen 2 MW PVA, um (rechnerisch) 1 MW WKA zu ersetzen …
+Wer 1.000 TWh/a mit Onshore-WKA gewinnen will (neben 180 TWh von Offshore-WKA und 248 TWh aus PVA, 24 TWh Wasserkraft, 50 TWh tiefe Geothermie, 23 TWh Biogas und 140-150 TWh Import – für die beabsichtigten 3.000 TWh Brutto-Stromerzeugung immer noch zu wenig …), braucht dafür wohl ~175.000 Windräder von 3 bis 3,5 MW …
+Auf den 49.400 km², die man für WKA nutzen will (13,8% der Landfläche der BRD) wäre das dann alle 602 m so ein Windrad, 150-200 m hoch … Die fünf Rotordurchmesser Abstand in Hauptwindrichtung werden dann schon schwierig …
+Und das galt für ganz Norddeutschland inklusive der Windmühlen in der Nordsee. Und das bedeutet: Mit Windmühlen läßt sich niemals die benötigte Strommenge produzieren. Und da man sechsmal den Bodensee mit 400m Höhendifferenz braucht, läßt si ch auch nicht die notwendige Speichermenge sihern. Deshalb ist die Stromerzeugung mit Windmühlen und Solarzellen schlichtweg Betrug der Bürger. Zuiel ist schlichtweg nur die Geldabzocke der Bürger und nix anderes.
+Dr. A. Merkel
+R.F.
+Wenn 30.000 WKA in den letzten drei Tagen im Schnitt 20 GW geleistet haben, erbringen 199.000 WKA 140 GW…
+Wohin damit?
+KSM out
+Kohle- und Kernkraftwerke werden zurück gefahren, stillgelegt.
+https://www.energy-charts.de/power_inst_de.htm?year=2019&period=annual&type=inc_dec
+https://www.bwo-offshorewind.de/wp-content/uploads/2019/07/factsheet-status-des-offshore-windenergieausbaus_-erstes-halbjahr-2019.pdf
+Pressemitteilungen sind Nebelkerzen.
+EEG-Vergütung Offshore = 18,7 Ct/kWh.
+Wo sehen sie eine Wettbewerbsfähigkeit?
+https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/eeg-in-zahlen-xls.xlsx?__blob=publicationFile&v=12
+mfG RS
+Die allerersten Anlagen waren das natürlich nicht. Deren Kosten finden sich in den EEG-Zahlungen die Sie verlinkten. Hätte der Steuerzahler so wie bei der Kernkraft alle Entwicklungskosten übernommen, dann würde hier der Wert von ca. 0 (Null) stehen.
+viele sagen es hier ja. Sie machen nur schlechte Witze. Was gilt für Kernkraft? Und hier wird ihre Falschspielerei erkennbar. Kernkraft bietet BILLIGE UND SICHERE Energie, genau das, was jede Gesellschaft, die ihren Wohlstand erhalten und vergrößern will, BRAUCHT.
+Über die tiefgründigen, unzähligen Details, zum Thema Kernkraft, können Sie sich ja dann, mit den entsprechenden Fachleuten von mir aus 20.000 Jahre lang diskutieren.
+Ich will aber SICHERE und (!) BILLIGE Energie. Das war vor Ihrer Energiewende DER FALL.
+Jeder ehrlich Spieler unterschreibt das. Nur Sie NICHT. Und auch das verrät Sie!!
+Aber, Nigel Farage und Boris haben Ihnen schon den Teppich unter den Füßen weggezogen. Auch Ihr Reich wird sauber untergehen. Hahahahahaa.
+Sichere Energie ist allem anderen VORZUZIEHEN, bezahlbar. Haben wir gesehen. Der Verlust dieser Eigentschaft jedoch, wird unbezahlbar TEUER. Und Sie verheimlichen uns ja einige wichtige Dinge, die Sie dann restlos überführen würden. Ich ahne was.
+niedrigster Gebotswert, der einen Zuschlag erhalten hat 0,00 ct/kWh
+• höchster Gebotswert, der einen Zuschlag erhalten hat 6,00 ct/kWh
+• mengengewichteter durchschnittlicher Zuschlagswert 0,44 ct/kWh
+2. Ausschreibung 01.04.2018
+niedrigster Gebotswert, der einen Zuschlag erhalten hat 0,00 ct/kWh
+höchster Gebotswert, der einen Zuschlag erhalten hat 9,83 ct/kWh
+mengengewichteter durchschnittlicher Zuschlagswert 4,66 ct/kWh
+2019, offshore, keine Ausschreibungen
+2020, offshore, noch keine Ausschreibung terminiert.
+Wie gesagt, halten Sie genügend Säcke bereit um das Licht in die Deutsche „Energiewende“ zu tragen, Sie werden sie brauchen….
+gerade die Offshore-Anlagen werden massiv subventioniert!
+Sie verschweigen mal wieder, dass die Offshoreanbindungen (HVDC) von den Netzbetreibern bezahlt werden und über die Netzentgelte auf die Stromkunden umgelegt werden. Müssten die Offshorebetreiber ihre HVDC selber bezahlen, wäre gleich Schluss mit den Spuk.
+Wie hoch sind denn nun die Entwicklungskosten der Kernenergie gewesen, die der Steuerzahler tragen musste? Bitte belastbare Zahlen.
+https://www.youtube.com/watch?v=M1ngM_E91PE
+Kommt er vielleicht ebenso wie Otto Schyli zu der Erkenntnis, dass es besser wäre, schleunigst ein paar Milliarden in die Entwicklung von inhärent sicheren Kernkraftwerken der Generation 4.0 ( Molten Salt / Dual Fluid Reaktor ) zu investieren?
+Oder ist er dazu zu feige, weil er noch nicht “in Rente“ ist?
+Habe mich gefreut, ihren Artikel zu lesen. Mit energetischen Grüßen Peter Baars
+https://www.youtube.com/watch?v=LsT63rpPWA8
+Gesundheit ist uns weit mehr wert. Da können die SPDler* mit ihren Almosen winken wie sie wollen, sie selber als Großstädter (im Regelfall) sind ja nicht betroffen. Wir haben hier vor Ort auch so ein Vorhaben, was bisher noch abgewendet wurde, aber wir befürchten das Schlimmste.
+Das Einzige, was wir vom Lande als Gegenleistung tolerieren würden, wäre neue, sichere AKW auf Flüssigsalzbasis (o. ä.), natürlich nur in Stadtnähe. Wei gesagt – ein Ausgleich zu den Vorleistungen der gequälten Landbevölkerung muss schon sein. Und neue Windräder dann bitteschön mind. 2 km von Siedlungen entfernt!!!
+SPD = Soziätät zur Proletarier Demütigung
+Schön wär’s, wenn alle nicht-grünlinkensozis so denken würden.

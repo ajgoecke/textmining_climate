@@ -1,0 +1,162 @@
+Die Kalenderwochen KW 2 und KW 3 des Jahres 2017 ermöglichen einen anschaulichen Vergleich der regenerativen Energieerzeugung im Winter bei Hoch- und Tiefdruckwetterlagen über Deutschland.
+Die Quelle Agorameter ist jedem zugänglich:
+https://www.agora-energiewende.de/de/themen/-agothem-/Produkt/produkt/76/Agorameter/
+Laut BMWI, Bundesnetzagentur und obiger Grafik des Agorameters ergibt sich folgender Sachstand für in das deutsche Netz einspeisenden Ernergieerzeuger:
+|Anlagen||Installierte Leistung||Leistung bei Tiefdrucklage||Leistung bei Hochdrucklage|
+|In Betrieb||ca. 194,4 GW|
+|· davon Windkraft||ca. 45,0 GW||bis 32 GW (bis 71 %)||bis 7 GW (bis 16 %)|
+|· davon Photovoltaik||ca. 39,0 GW||bis 2 GW (bis 5 %)||bis 10 GW (bis 26 %)|
+Die geringe Leistung Auslastung der Windkraftanlagen bei Sturm von nur 71 % lässt sich aufgrund der gesetzlichen Vorrangeinspeisung nur durch Sicherheitsabschaltungen (Überlast und Überdrehzahl) erklären.
+Um die Versorgung zu sichern, wenn der Wind nicht weht und die Sonne nicht scheint, werden konventionelle Kraftwerksanlagen eingesetzt. Deren Einsatz lässt sich auf Grund der Vorrangeinspeisung für die fluktuierenden Anlagen planen, Regelenergie muss über die Börse erworben bzw. verkauft werden, was den aus Angebot und Nachfrage resultierenden Strompreis zur Folge hat.
+Fazit:
+Das Missverhältnis zwischen installierter Leistung und geringer verfügbare Leistung der Windenergieanlagen existiert nicht nur bei Flauten, sondern auch bei Stürmen.
+Für den Fall, das in absehbarer Zeit alle konventionellen Anlagen abgeschaltet werden sollten, wären Energiespeicher unumgänglich, um die Versorgungssicherheit zu gewährleisten.
+Frage:
+Für welche Energiemenge müssten die Speicherausgelegt sein?
+Abschätzend aus den Kurvenverläufen sollten laut Prof. Dr.-Ing. Helmut Alt (TH Aachen) Energiespeicher als Ersatz für konventionellen Kraftwerke für 5 Flaute-Tagen ausgelegt werden.
+Aus obiger dargestellten Verbrauchsleistung ergibt sich ein dem arithmetischen Mittelwert von ca. 70 GW, auf 5 Tage hochgrechnet von 8 TWh.
+8 TWh entsprechen beispielsweise
+- 1000 x PSW Goldisthal mit einer Leistung 1000 MW sowie einer Speicherkapazität max. 8,5 GWh bei einem Nutzvolumen von 12 Mio. m³ Wasser auf einer Fläche von 0,55 km² für 8 h Vollastbetrieb
+- 100 Mio. Lithium-Akkus mit einer Kapazität von 80 kWh – Tesla‘s absoluter Spitzenreiter, die Elektrolimousine Tesla S fährt mit der Batterie 90 D – einer Stromladung von 90 Kilowattstunden bis zu 560 Kilometer weit
+Ohne die den Stromkunden abgepressten „Förderungen“ wären schon Ihre Primärproduzenten, die Windmühlen und Sonnensammler, nicht wirtschaftlich. Ohne weitere, gesteigerte „Förderungen“ wahrscheinlich auch nicht ihre Speicher. Denn die müssen zunächst errichtet werden und anschließend auch noch wirtschaftlich betrieben werden.
+Eine „Speicher AG“ als Tochter der EE-Stom-Anbieter müsste jedoch als eigenständiges Unternehmen, basierend auf einem Entgelt X für jede ein- und jede ausgespeicherte kwh, einen Gewinn in seiner Bilanz ausweisen. Ansonsten bleibt nur der Weg zum Gesetzgeber um dann dort jammervoll eine Speicherabgabe auf den Endstrompreis zu erwirken.
+Möglicherweise wäre aber doch unter gewissenn, geänderten Randbedingungen ein Schritt zu etwas mehr „Wirtschaftlichkeit“ der Speicher möglich. Allein die Verhinderung von Zusatzkosten, welche allen Stromkunden durch das Verschleudern von wertlosem „Strommüll“ ins Ausland entstehen, würden schon einen Schub zu Investitionen in Speicher (unterschiedlichster Art!) auslösen können. Wenn man es denn wollte oder wenn es der Gesetzgeber erzwingen würde.
+An dieser Stelle sind nun Sie und die Lobbyisten gefragt, den Gesetzgeber entsprechend zu beeinflussen.
+Sebastian Herp
+4. Februar 2017 um 18:40
+Warum sollte eine 6500 GWh Batterie nicht 20 Jahre halten und warum sollten Batterien nicht 100 € pro kWh erreichen? Dass eine solch große Batterie tatsächlich sinnfrei ist habe ich weiter oben bereits geschrieben und sollte offensichtlich sein. Den zu erwartenden Preis habe ich ihnen ausgerechnet … keine sinnfreie Zahlenakrobatik.
+Warum sollte eine 6500 Gwh Batterie nicht 100 Jahre halten und warum sollten Batterien nicht 1 €/ kWh erreichen? Bemerken Sie etwas? Sie betreiben sinnfreie Zahlenakrobatik, man könnte nach Ihrer Methode jede beliebige Zahl an Batteriespeicherkapazität und Kosten einsetzen und dann den Sieg der „Energiewende“ ausrufen.
+„Den zu erwartenden Preis“ haben Sie nicht ausgerechnet sondern frei erfunden: Wortlaut:
+„Diesen Speichernutzungsverlauf kann man natürlich schlecht mit Batterien abdecken, also habe ich auch mal simuliert wie das ganze mit einem 100 GWh Batteriespeicher und Gas als Reserve aussieht. In diesem Fall hätte der Speicher im Jahr 2016 165 Vollzyklen durchlaufen. Bei einem kWh-Preis von 100 € und einer Haltbarkeit von 3000 Zyklen sind das 3,33 Cent pro kWh Aufpreis für Strom aus dem Speicher.“
+Womit begründen Sie diese Zahlen? Das ist der Knackpunkt, nicht das Rechnen selbst sondern die Plausibilität der Zahlen!
+So hat die RWTH Aachen in einer Prognose für die Lebenszykluskosten von Lithium-Ionen Akkus von 13,2 ct/kWh berechnet! Darin enthalten sind Investitionskosten, Leistungselektronik und Systemkosten, also locker das 4-fache von ihrer Zahl, wobei ich der RWTH Aachen mehr Kompetenz zusprechen als Ihnen….
+Auf 13,3 Cent komme ich auch, wenn man das aktuelle Tesla Powerwall Angebot für 9 Akkus ohne MwSt. heranzieht (Preis knapp 400 € pro kWh Akku, 3000 Zyklen in 10 Jahren). Ich würde davon ausgehen, dass „utility scale“ noch etwas günstiger ist und die Preisentwicklung nicht stehen bleibt, oder?
+Der Preis pro gespeicherter kWh steht und fällt mit der Anzahl der Zyklen in der Lebenszeit der Batterie und deren Kaufpreis. Letzterer fällt stetig, die Fähigkeit für ersteres steigt stetig. Und weil die Kosten stark von der tatsächlichen Zyklenzahl abhängen eignen sich Batterien nicht als Langzeitspeicher, die nur ein paar Mal im Jahr entladen werden.
+Die Simulation kann man natürlich auch mit 13,2 ct/kWh laufen lassen.
+Herr Herp, es kommt nun die interessante Frage auf, wer die zeitweiligen Überschüsse an Strom produziert. Sie und viele andere werden geneigt sein, diese Überschüsse den Kohle- Gas- und Kernkraftwerken zuzuschreiben.
+Anhand des parallelen Wetterverlaufes dürfte jedoch klar werden, dass die Windmüller und Sonnensammler zu einem erheblichen Teil dafür verantwortlich sind. Diese vergüteten Überschüsse, welche zum Strompreisanstieg beitragen („Verklappung“ in Nachbarländer mit Zuzahlung) könnte der Gesetzgeber mit einem Federstrich ausmerzen und mit einem weiteren Federstrich gesetzlich verankern, dass
+1. Entweder gar keine Vergütung stattfindet solange die Last nicht steigt
+oder
+2. die Windmüller und Sonnensammler aus ihren gegenwärtigen Profiten (also nicht mit zusätzlich den Menschen abgepressten Abgaben) in einen gemeinamen Fond einzahlen, aus dem Investitionen in Akku-Speicher, eventuell Pumpspeicher (eher unwahrscheinlich) und vor allem in die Wasserstofferzeugung erfolgen. Das würde die Fitmachung des bisherigen Erdgasnetzes für Wasserstoffzumischungen über 10% Volumen einschliessen müssen.
+Es ist besser, mit Überschußstrom Wasserstoff zu erzeugen als ihn wegzuwerfen bzw. noch Geld hinterher zu schiessen. Der Wasserstoff könnte in Heizungen verbrannt werden, vor allem aber Brennstoffzellen in Fahrzeugen ind Haushalten (eventuell nach Methanisierung, was ich nicht besonders befürworte) betreiben, sowie als Ausgangsprodukt für die chemische Industrie von Interesse sein (Haber Bosch Verfahren, Reforming, etc.).
+Warum ist all dies bis jetzt nicht im größeren Maßstab gelungen, geschweige denn angegangfen worden? An der Politik in Deutshcland knn es doch wohl nicht prinzipiell liegen. Natürlich sind auf diesem Weg Eingriffe des Staates inm geradezu planwirtschaftlicher Art notwändig, aber was solls, wir befinden uns doch ohnehin auf dem Weg in einen merkwürdigen Energiesozialismus. Schauen Sie sich doch mal das seit dem 1. Januar 2017 gültige EEG an! Schlimmer und komplizierter kann es mit Vorgaben und Regelungen im real existierenden Sozialismus kaum gewesen sein.
+Es liegt also an den Energiewendern in der Politik und den sie lobhudelnden Lobbyisten der EE-Wirtschaft, samt Verbänden hier vorwärts zu marschieren. „Die Energiewende in ihrem Lauf halten weder Ochs noch Kohlekraft auf.“
+Wenn Sie und Ihre Hinterleute „gewinnen“ wollen, Herr Herp, dann arbeiten Sie auch dafür, anstatt hier zu posten.
+Die Wirtschaft wird genau das machen, was Sie Ihr gesetzlich und lobbymäßig vorgeben.
+Sie erhalten dafür zwei Jahrzehnte Zeit ab jetzt. Sollte das Experiment fehlschlagen, werden wir alle den Kurs ändern. Das kann dann nur ein System Kernenergie-geeignete Regenerative mit Betonung auf Kernenergie (zumindset für Deutschland) bedeuten.
+Oder Mangelwirtschaft und Katastrophe.
+Weil es bisher nicht wirtschaftlich ist? Wozu soll man etwas speichern so lange es ohne Speicher funktioniert?
+Zu Sebastian Herp:
+Vorweg, die Stromgestehungskosten bei Gaskraftwerken liegt ohne CO2 Strafsteuer bei 5 ct/kWh.
+(Quelle: DIW Berlin Wochenbericht 44/2016)
+Bei der Windstromvergütung onshore wird über den Referenzertrag die Anfangsvergütung praktisch über die gesamte Laufzeit gezahlt. Die Vergütung ist ja heute mit 9,5 ct/kWh genau so hoch wie 2001 mit 9,1 ct/kWh. Von wegen „Anschubfinanzierung!
+Bei offshore wird über die Sonderregelung via Abstand zur Küste und Wassertiefe die erhöhte Anfangsvergütung auch über einen längeren Zeitraum gezahlt. Die Basisvergütung ist nur eine Propagandazahl, keine einzige WKA in Deutschland läuft zu diesen Vergütungssätzen.
+Bei Biomasse steht eine Degression erst gar nicht zur Diskussion – die Bauernlobby lässt grüßen.
+Welche Vergütungssätze tatsächlich gezahlt werden kann man im „EEG in Zahlen“ einsehen.
+PV Strom wird tatsächlich degressiv vergütet, aber immer noch auf einem Niveau weit über den Gestehungskosten thermischer Kraftwerke. Schon auf diesem hohen Niveau ist der PV-Zubau ja praktisch zusammengebrochen.
+Ohne die Krücke EEG würde die EE-Stromwirtschaft schlagartig zusammenbrechen, die ständig steigende EEG Umlage spricht da eine deutliche Sprache….
+Und zahlen wir nicht sehr Jahrzehnten Subventionen dafür, dass wir heimische Steinkohle abbauen? Auch das wäre ohne diese Zuzahlungen schon vor langer Zeit zusammengebrochen. Eventuell haben Subventionen ja aber auch einen Zweck und sind nicht nur einfach so da.
+In der Diskussion wurde jedoch vergessen, dass zur Politik der „Decarbonisierung“ auch gehört:
+1. Umstellung des Individualverkehrs auf E-Mobilität
+2. Deckung des Wärmebedarfes durch elektrischen Strom
+Schon einer dieser beiden Punkte wirft die Berechnungen über den Haufen. Allein für die E-Mobilität werden – Marktdurchdringung vorrausgesetzt – mindestens 100 Twh elektrische Arbeit zusätzlich benötigt.
+Ein weiterer Punkt:
+Über Speicherlösungen wird zwar viel gesprochen, aber auf privatwirtschaftlicher Ebene wenig investiert. Im schlechtesten Fall muss wieder die Allgemeinheit (Stromkunden, aber auch Steuerzahler) herangezogen werden, um den Windmüllern und Sonnensammlern ihre Speicher zu finanzieren. Die Regenerativwirtschaft hätte die „Schlacht um die Energiezukunft“ doch bereits gewinnen können, wenn sie in Deutschland ca. 20 Twh Speicher installiert hätte und die Herstellungskosten des Stroms in der Größenordnung liegen würden, wie von Herrn Herp angegeben, also 11 Cent je kwh.
+Gegen die staatlich finanzierte Grundlagenforschung im Bereich Speicher (aller Art) ist jedoch nichts einzuwenden.
+Das Problem mit den Speichern ist, dass diese ja zunächst einmal den Strompreis erhöhen. So lange man sie also nicht benötigt (kein Stromüberschuss) werden sie auch nicht gebaut, zumindest nicht ohne Förderung.
+20 TWh sind allerdings zu viel Speicher, zumindest in Form von Batterien. Heute wie auch in der Zukunft.
+Meine Hoffnung ist es, dass sich Batteriespeicher ganz allmählich von selbst rechnen. Erst als Speicher für privaten PV-Strom, dann in kostengünstigeren Elektroautos, eventuell vielleicht sogar in der Wohnung um von HT/NT Tarifen profitieren zu können und schlussendlich im großen Maßstab für das gesamte Stromnetz. Für Langzeitspeicherung von Strom werden sich Batterien jedoch nie eignen, egal wie günstig sie noch werden. Ein Akku den man fast nie benutzt, ist ein teurer Akku.
+Und nicht nur das! Warum sollte irgendjemand der klar im Kopf ist ein sehr gut funktionierendes System zerstören, in der Hoffnung dass in x Jahren ein Wunder geschieht, dass alle Probleme die man heute schon kennt, löst?
+Sowohl in dem Artikel, der Oben verlinkt ist, als auch in seinem Leserbrief in den ETG-Informationen 01/2017 des VDE (heute per Post erhalten) schreibt Prof. Alt von diesen 5 Tagen.
+Die dienen aber m.E. nur dazu, klar zu machen dass schon die Realisierung von Speichern für nur 5 Tage illusorisch sind; den Rest möge sich der geneigte Leser selbst ausrechnen.
+Der Gedankenfehler bei der Vervielfachung der Windstromleistung ist in der Ignorierung der Windhöffigkeit zu sehen! Windräder schwanken in der 3. Potenz mit der Windgeschwindigkeit. Wenn man sich den Windatlas Deutschlands ansieht kann man den Betrug mit der „verdoppelten Windstromleistung“ schnell erkennen. Die Skala reicht von >8 m/s Jahresmittelwert (selten) bis 2 m/s (häufig). Wenn man jetzt den aktuellen Windstromertrag einem Jahresmittelwert von 7 m/s zuordnet und davon ausgeht dass die besten Standorte belegt sind und der Zubau an Standorten mit durchschnittlich 5,5 m/s erfolgt (was immer noch optimistisch ist) beträgt der Faktor 0,48! D.h. Um den Windstromertrag zu verdoppeln muss man die Anzahl der Windräder verdreifachen! Bei einem weiteren Ausbau an Standorten mit 4,5 m/s Durchschnittswert liegt der Faktor bei nur noch 0,25! Die Windstromphantasien sterben an der x^3 Abhängigkeit, ein Umstand der aber in Öko-Kreisen entweder nicht verstanden oder schlicht ignoriert wird. So schafft man sich seine eigene Traumwelt in der alles, auch 100% Ökostrom, möglich ist. Es muss wohl erst das Licht ausgehen ehe vielen ein Licht aufgeht.
+Mit einem Ausbau auf die vierfache Leistung bei Solar und Onshore-Wind und der zehnfachen Leistung bei Offshore-Wind wird genug Strom für das ganze Jahr (ich habe nur 2016 simuliert) produziert. Die Nötige Speichermenge beträgt dann 6,5 TWh. Der Speicher hätte sich im Januar und im März beinahe entleert, würde dann den ganzen Sommer über nur sehr geringfügig genutzt werden. Erst im September 2016 hätte er sich wieder auf die Hälfte des Füllstandes entleert, sich danach wieder erholt und Mitte Oktober wieder 1/4 verloren. Bis Mitte November hätte der Speicher sich dann fast komplett entleert und schwankt dann stark bis Mitte Dezember. Kurz vor Weihnachten 2016 wäre es dann wieder fast leer, lädt dann bis Silvester allerdings auch wieder komplett voll.
+Diesen Speichernutzungsverlauf kann man natürlich schlecht mit Batterien abdecken, also habe ich auch mal simuliert wie das ganze mit einem 100 GWh Batteriespeicher und Gas als Reserve aussieht. In diesem Fall hätte der Speicher im Jahr 2016 165 Vollzyklen durchlaufen. Bei einem kWh-Preis von 100 € und einer Haltbarkeit von 3000 Zyklen sind das 3,33 Cent pro kWh Aufpreis für Strom aus dem Speicher. Der Gesamtverbrauch in 2016 lag bei 505 TWh, aus dem Speicher kämen in diesem Fall 17 TWh (3,36% des Endverbrauchs). Das ergibt eine Preissteigerung pro kWh von 0,11 Cent durch die Speicherung. Gaskraftwerke müssten in diesem Szenario übrigens mit einer Maximalleistung von 42 GW ingesamt 66 TWh Strom produzieren. Das sind nicht viel mehr als die im Jahr 2016 real aus Gas gewonnenen 44 TWh, allerdings müssten in der Tat noch ein paar Gaskraftwerke gebaut werden. 422 TWh werden direkt verbraucht und 120 TWh (!!!) der Stromproduktion müssten verworfen werden bzw. 70 TWh wenn wieder 50 TWh exportiert werden würden 😉
+Ich stelle das Tool mit dem solche Sachen simulieren kann demnächst online. Vielleicht interessiert das hier ja jemanden.
+da gehen Sie aber von sehr optimistischen Annahmen bei den notwendigen Speicherkapazitäten aus.
+Rechnen wir mal:
+Die durchschnittliche erzeugte tägliche Energiemenge in 2016 lag bei 1,5 TWh
+Die von Wind/Solar bei 0,3 TWh => Anteil 20%
+Um den geforderten Anteil von 80% zu erreichen, ist also die installierte Leistung zu vervierfachen.
+Berechnung des Speicherverbrauchs bei Wind/Solar:
+Konventionelle Kraftwerke benötigen keinen nennenswerten Speicher.
+Für volatile Energie müssen Sie sich die Stromerzeugung von Wind/Sonne über einen bestimmten Zeitraum anschauen und sich dann das Worst Scenario raussuchen, also den Zeitraum mit der geringsten aufsummierten Produktion.
+Tut mir leid, das ist nun mal so, die Speichergröße muss für den größten anzunehmenden Flautezeitraum berechnet werde, sonst ist der Ofen aus!
+Gehen wir von der aktuellen täglichen Mindestproduktion von Wind/Solar aus, bei der kein Speicherstrom benötigt würde, so wären das 0,3 TWh.
+Nehmen wir einen ganz aktuellen Zeitraum, und zwar den vom 15.1.17 bis zum 2.2.17, dann erkennen wir, dass die tägliche Stromproduktion von allen Wind- und Solaranlagen zusammen nur an drei! Tagen knapp über den 0,3 TWh lagen, an den restlichen Tagen wäre der Speicher abgegriffen worden.
+Der Saldo in diesem Zeitraum lag bei -2,49 TWh. Wenn wir diesen Wert auf den geplanten 80%-Anteil extrapolieren, sind wir bei 10 TWh, die wir Speicherstrom gebraucht hätten, um nicht in einen Riesen-Blackout zu fallen.
+Würden wir diese 10 TWh allein mit Akkus abdecken, wären das Kosten von 1 Billion € bei einem Speicherpreis von 100€ / KWh. PSW könnte nur einen minimalen Anteil abdecken.
+Außerdem ist der Wirkungsgrad zu berücksichtigen, der durch die Energieverluste beim Speichern entsteht. Da müssen Sie dann noch mal 20 – 70% installierte Leistung je nach Speicherungsart draufrechnen, um die Speicher überhaupt füllen zu können. Und das kostet!
+Das alles müssen Sie Rechnung miteinzubeziehen.
+Sie gehen auch von einem gleichbleibenden Strombedarf aus. Durch die geplante Sektorenkopplung, Beispiel E-Autos wird sich der Strombedarf mindestens verdoppeln.
+Meine Rechnung bei gleichbleibendem Strombedarf, der aber wie gesagt nicht realistisch ist:
+Akkuspeicherung: 1 Billion Kosten in 10 Jahren (optimistisch), pro Jahr 100 Mrd. Pro KWh netto 0,18€.
+Power-to-Gas: Für eine KWh gespeicherte Energie müssen drei KWh Strom erzeugt und bezahlt werden, bei 8ct KWh-Preis sind also zusätzlich 16ct zu berappen.
+Durch die enormen Spitzenströme müssten zig TWh verworfen werden, auch das schlägt unglaublich zu Buche.
+Dazu kommen Kosten der Netzinfrastruktur, die wir nicht einmal annähernd absehen können.
+Rechnen wir die üblichen Staatsabgaben hinzu, kann man mit einem mindestens dreifachen Strompreis rechnen, der sich durch die Sektorenkopplung in allen Lebensbereichen drastisch bemerkbar machen würde.
+Wie man es dreht und wendet, das Ganze ist unbezahlbar!
+Man darf sich gar nicht vorstellen, dass man das ganze Problem mit 30 KKWs der 2 GW-Klasse für 300 Mrd. ein- für allemal und absolut CO2-frei (wers braucht) lösen könnte.
+Ihr Text enthielt eine endlose Reihe von Codes. Bitte versuchen Sie es mit einem anderen Texteditor
+Soso, Herr Geiselhart, man kann das nicht?
+Ich möchte Ihnen nicht zu nahe treten, aber das müßte jeder mit mittlerer Reife können. Also auch dieser fulminante ex-Säufer der SPD, der zum Abitur nicht zugelassen wurde, also nicht durchrasselte und eine Buchhändlerlehre absolvierte.
+Dass Sie das bisher für sich behalten haben, ist nur Ihrer unendlichen Bescheidenheit zuzuschreiben;-)
+Nur weil Sie es nicht können, heißt das nicht, daß es andere ebenfalls nicht können. Für BWLer ist sowas ein Klacks. Irgendwie Größenördnung Bierdeckelformat. 😉
+Da der Flaute/Dunkel Zeitraum beinahe beliebig groß sein kann ist es ökonomisch sinnvoller keine riesige Batterie zu nehmen, sondern die Fehlzeiten mit z.B. Gaskraftwerken zu decken. Das rechnet sich dann, wenn EE-Strom günstiger ist als Gas zu verbrennen, da man sonst auch einfach 100% der Zeit Gas verbrennen könnte.
+Preisberechnung siehe weiter unten als Antwort zu Herrn Pesch.
+E-Autos können den Strombedarf nicht verdoppeln. 2016 wurden 505 TWh verbraucht. Selbst mit unrealistisch hohen 30 kWh pro 100 km wären das bei 45 Mio PKWs 37407 km pro PKW im Jahr … weit über dem Durchschnitt.
+Ich versuche meine Simulation so weit zu bekommen, dass man nach Preis optimieren kann.
+Atomkraftwerke bekommen sie heute nicht mehr so günstig gebaut und wie schon gesagt, eine so große Batterie ist unsinnig, da sie in ihrer Lebenszeit viel zu wenige Zyklen durchlaufen würde.
+Das rechnet sich dann, wenn EE-Strom günstiger ist als Gas zu verbrennen, da man sonst auch einfach 100% der Zeit Gas verbrennen könnte.
+Womit Sie bereits das Todesurteil über die „Energiewende“ gesprochen haben! Die durchschnittliche EEG Vergütung für Windstrom onshore betrug 2016 9,5 ct/kWh, offshore 18,8 ct/kWh, PV 29,2 ct/kWh.
+Es war, ist und bleibt immer billiger zu 100% der Zeit Erdgas zu verstromen statt „kostenlosen“ Wind- und Sonnenstrom einzuspeisen. Die grünen Schlümpfe werden sich aber eher die Zunge abbeißen als das zuzugeben….
+Ihre genannten Preise sind keine 2016-er Preise, sie beziehen die Vergangenheit mit ein. Die heutige Vergütung für PV-Anlagen auf Wohngebäuden und Lärmschutzwänden beträgt 11,09 bis 12,70 Cent / kWh und 8,91 Cent / kWh für sonstige Anlagen. Bei fester Einspeisevergütung (bis 100 kWp) noch etwas weniger. Es gab 2016 auch Ausschreibungen bei denen der Mittelwert die 7 Cent / kWh bereits erreicht hat. Offshore Wind kostet aktuell 10,8 Cent / kWh (20 Jahre Laufzeit, 12 Jahre 15,4 Cent dann 8 Jahre 3,9 Cent). Onshore Wind wurde Ende 2016 mit 8,48 Cent vergütet, nach 5 Jahren dann noch 4,72 Cent (5,66 Cent / kWh auf 20 Jahre gerechnet).
+Tendenz fallend.
+Wie „billig“ es tatsächlich ist Erdgas zu verbrennen, darüber lässt sich vortrefflich streiten. Dazu bin ich heute nicht hier.
+Ja, grüne Shildbürger und Lichtsackbeleuchtungsschaufler wäre in der Tat besser.
+Mit einem Ausbau auf die vierfache Leistung bei Solar und Onshore-Wind und der zehnfachen Leistung bei Offshore-Wind wird genug Strom für das ganze Jahr (ich habe nur 2016 simuliert) produziert.
+Bekanntes Muster, durch absurd hohe Ausbauzahlen kann man jede beliebige EE-Vollversorgung simulieren. Was das kostet? Egal. Wie sieht Deutschland nach einem Vervierfachen bzw. Verzehnfachen der Anzahl Windräder aus? Auch egal. Windhöfigkeit? Noch nie gehört, was soll das sein…
+Speicherkapazitäten werden schmerzfrei in den Ring geworfen (6.5 TWh = 650 x PSW Vianden). Dass sich diese Investitionen natürlich über die selbe Strommenge wie heute rentabilisieren müssen; alles kein Problem, kostet nur eine Kugel Eis Pro Monat. Die grünen Schlümpfe glauben ja ALLES wenn nur „Öko…“ drauf steht. Wir schaffen das….
+Würde die Batterie 20 Jahre halten und 100 € pro kWh kosten wären das 38,46 Cent Aufpreis pro gespeicherter kWh. Mit einer 6500 GWh Batterie wären 2016 16,44 % der verbrauchten Elektrizität aus der Batterie entnommen worden. Das wären also 6,32 Cent Aufpreis über alle kWh verteilt. Verschwendet werden in diesem Szenario 78 TWh, die nicht gespeichert werden können. Dadurch erhöht sich der Strompreis nochmal um 15,4%. Würde die kWh EE-Strom also 4 Cent in der Herstellung kosten würde ihr Preis durch Speicherung und Überproduktion auf knapp 11 Cent ansteigen. Nicht so toll …
+Es handelt sich um eine wertfreie Simulation. Ich habe die Stromproduktions- und Verbrauchsdaten genommen, Wind und Solar entsprechend vervielfacht und alle konventionellen Erzeuger rausgenommen. Dafür reicht für das Jahr 2016 eine Batterie mit 6500 GWh aus.
+Würde die Batterie 20 Jahre halten und 100 € pro kWh kosten wären das 38,46 Cent Aufpreis pro gespeicherter kWh.
+Wie gesagt, sinnfreie Zahlenakrobatik.
+Sie vervielfachen die Windstromleistung unter Vernachlässigung der x^3 Abhängigkeit.
+6,5 Twh ist eine Illusion. „Strom“ kann man nicht speichern, elektrischer Strom ist ein leitungsgeführtes Feld zur Leistungsübertragung, das kann man nicht speichern sondern nur wandeln. Diese Wandlungskette führt zu hohen Verlusten (Exergie ==> Energie ==> Exergie) . Es gibt schlicht kein Konzept solche Energiemengen zu speichern! „Eine Batterie von 6500 Gwh“ ist nur eine leer Worthülse
+Und wieder der Konjunktiv „würde die Batterie 20 Jahre halten und 100 €/kWh kosten“ ja dann… Es gibt diese Batterie schlicht nicht, von daher sind auch diesbezügliche Kostenbetrachtungen völlig sinnfrei. „Energiewende“ eben….
+Warum sollte eine 6500 GWh Batterie nicht 20 Jahre halten und warum sollten Batterien nicht 100 € pro kWh erreichen? Dass eine solch große Batterie tatsächlich sinnfrei ist habe ich weiter oben bereits geschrieben und sollte offensichtlich sein. Den zu erwartenden Preis habe ich ihnen ausgerechnet … keine sinnfreie Zahlenakrobatik.
+„Würde die Batterie 20 Jahre halten und 100 € pro kWh kosten wären das 38,46 Cent Aufpreis pro gespeicherter kWh.“
+Das kWh Stromspeicher kostet ca. 420€ mit Förderung ca. 320€
+Das sind dann ca. 10 Cent/kWh gespeicherten Strom und mit Förderung ca. 8 Cent/kWh.
+PV mit 7 Cent + 10 Cent für die Speicherung = ca. 17Cent und Strom aus dem Netz kostet ca. 31 Cent/kWh.
+Kompletter Blödsinn. Es wird die PSK-Kapazität von 6-mal Bodensee mit effektivem Hub von 400m benötigt. 6-mal Bodensee = drei Seen oben und drei Seen unten. Oder 3 Seen oben und dicke Leitung zum Mittelmeer oder zur Nordsee.
+Sehr geehrter Herr Heinrich,
+Ihren Hinweis kann ich so nicht stehen lassen.
+Ihr Problem ist das Verständnis der richtigen Verwendung der Begriffe Arbeit und Leistung.
+Die Arbeit (oder auch Energie) ist das Produkt von Leistung und Zeit (W=P * t) und entspricht der Fläche unter der Kurve des Leistungsverlaufes. Diese habe ich überschlagsmäßig über den Mittelwert der maximalen und minimalen Leistung ermittelt.
+Nun kommen wir zum Thema der Energieumwandlung.
+Bei der Umwandlung von elektrischer Energie über mechanische Energie in potentielle Energie (Pumpspeicher) bzw. chemische Energie (Akkumulator) benötigen wir Energiewandler (Pumpen, Ladegleichrichter etc. pp.), bei der Umwandlung aus potentieller bzw. chemischer Energie in elektrische Energie ebenfalls (Turbinen, Wechselrichter). Die müssen in der Leistung anforderungsrecht ausgelegt werden.
+Hier ist die Dimensionierung der Summe aller Wandler entsprechend der maximalen Netzlast (in der obigen Darstellung 81,361 GW) zuzüglich einer Sicherheitsreserve angebracht.
+Übersteigt die benötigte Leistung die Summe aller Wandler, würde das Netz trotz vorhandener gespeicherter Energie zusammenbrechen.
+wir reden aneinander vorbei!
+Ich habe versucht, abschätzend die erforderliche Arbeit eines imaginären Energiespeichers zur Überbrückung einer Dunkelflaute von 5 Tagen zu verifizieren. Diese entspricht der Fläche unter der Leistungskurve zwischen zwei Zeitpunkten. Ich bin nach wie vor der Meinung, das damit abschätzend der einfache Mittelwert der minimalen und maximalen Leistung aussagefähig ist.
+Ihr Ansatz ist dagegen richtig, wenn Sie die Dimensionierung der erforderlichen Leistung eines imaginären Energiewandlers zwischen dem Speicher und dem Netz, wichtig für beide Richtungen, betrachtet.
+Herbstlich/winterliche Hochdrucklagen können eine Dauer von 4 Wochen übertreffen.
+Wie da Speicher für 5 Tage ausreichen sollen, weiß vermutlich nicht mal dieser sog. Professor.
+Das gibt jetzt aber einen ganz dicken Besso-Trollo verliehen, denn vom Hörensagen her sollte man Herrn Prof. Dr.-Ing. Alt sowas nicht unterstellen!
+Aber wenn???
+http://tinyurl.com/grjoec7
+Habe selten so einen Stuss gelesen, aber Alles wird gut!
+Leider gibt es da keine Kommentarfunktion.
+Das ist offensichtlich eine weitere sehr teure aber dafür bundesweite Erziehungsbeilage unserer Regierung. Da wir sehr kürzlich den begabten Universalminister Gabriel gegen die ebenso vielseitig begabte Frau Zypries eintauschen durften und ihr Konterfei in der Broschüre abgebildet ist, jedoch so ein selektives Erziehungswerk doch einen rel. langen Vorlauf benötigt, steht zu vermuten, dass die erste Auflage mit Gabriel drauf eingestampft werden musste. Macht aber nix, taugt auch nichts, aber zahlt der Steuerzahler.
+Nach 5 Tagen sind aber die Pumpspeicherkraftwerke oder Lithium-Akkus leer.
+Wie sieht es aber aus mit dem auffüllen oder aufladen aus. Wo kommt die Energie her und wie schnell werden die 8TWh wieder verfügbar sein. Dann kommen dazu noch die Verluste die dann Bedeuten dass man mehr als 8TW bereitstellen muss.
+8 TWh = 8.000.000.000 KWh
+Dann wären das nicht nur 10 Mio. Akkus im Tesla-Format, sondern:
+8.000.000.000 KWh / 80 KWh = 100 Mio. Akkus
+Das Problem ist also um den Faktor 10 größer
+Vielleicht kann der Admin den Fehler korrigieren.
+Für den angestrebten Umstieg auf die Elektromobilität dürfte das aber nicht reichen.
+In der Diskussion über die erforderliche Speicherkapazität – ob für 5 Tage oder 4 Wochen – möchte ich mangels Hintergrundinformationen nicht äußern, das sollte den Kollegen in den Lastverteilungen vorbehalten bleiben.
+Interessant wäre aber noch die Frage der Investitionskosten.
+Gegenwärtig soll ein 80-kWh-Akku ca. 15.000 € kosten, Zweckoptimisten sagen einen absehbaren Preisverfall auf ca. 5.000 € voraus (Quelle finde ich nicht mehr), wie sich diese Voraussage beim steigenden Bedarf für E-Mobile und Stromspeicher darstellen wird, bleibt abzuwarten.

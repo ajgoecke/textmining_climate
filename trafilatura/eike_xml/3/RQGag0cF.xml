@@ -1,0 +1,265 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="El Hierro – 100 % Erneuerbare? Kann das funktionieren?" author="Webadmin" date="2016-04-10" source="https://eike-klima-energie.eu/2016/04/10/el-hierro-100-erneuerbare-kann-das-funktionieren/" hostname="eike-klima-energie.eu" excerpt="von Michael Treml Anlehnend an den Beitrag „100 % &quot;EE&quot; Millionengrab El Hierro Windenergie: Unreif für die Insel“ von Fred F. Mueller (hier) habe ich ein Programm entwickelt, das die Verhältnisse der Anlage auf El Hierro nach meinem Kenntnisstand modellhaft abbildet. Ich möchte hiermit die Komplexität der Stromversorgung einer Insel zeigen. Hier bei EIKE sind ja die politischen und ökonomischen Probleme schon gut diskutiert worden. Nur der technische Aspekt wird selten angesprochen." categories="Energie" tags="" fingerprint="wIwasa1zNghUeUVKanJdADice6Q=">
+  <main>
+    <head rend="h1">Betriebsstrategien für El Hierro ?</head>
+    <p>Das Programm (Bild rechts) ist in 5 logische Funktionen aufgeteilt, wie die Bedienoberfläche auch zeigt.</p>
+    <p>Von oben nach unten :</p>
+    <p>1. Die Erzeugung</p>
+    <p>2. Die Belastung</p>
+    <p>3. Der Speichermanager</p>
+    <p>4. Die Speicherfüllung</p>
+    <p>5. Die Frequenz</p>
+    <p>6. Die Leistungsverteilung</p>
+    <head rend="h1">Zu 1: Die Erzeugung</head>
+    <p>Die Erzeugung besteht aus drei Komponenten. Es ist in erster Linie die Windkraftanlage bestehend aus 5 Anlagen je 2,3 MW. Für die Simulation werden beim Programmstart alle WKAs als einsetzbar angesehen, wenn die Checkbox WKA-Betrieb gesetzt ist.</p>
+    <p>Mit den Commandfeldern + und – kann man die Anzahl per Hand einstellen. Die Checkbox WKA-Betrieb kann nur gesetzt werden wenn entweder die Checkbox Wasserturbine-Betrieb, die Checkbox Diesel-Betrieb oder beide gesetzt sind Das bedeutet, dass mindestens die Wasserturbine oder die Dieselmaschine ans Netz synchronisiert ist und die Netzfrequenz im Regelbereich liegt. Eine von beiden Anlagen muss laufen und die Netzfrequenz und Netzspannung diktieren. Mit dem Scrollbar Windkraftanlage kann man die Leistung, der vom zufälligen Wind abhängigen Stromerzeugung, für Versuche in dieser Simulation einstellen. Die Leistung und die Anzahl der WKA kann man in den beiden Textfeldern sehen. Die Oberwelligkeit der Stromerzeugung und ungünstige Windströmungsverhältnisse am WKA-Standort sind mir bekannt, werden aber in dieser Arbeit, ebenso wie Wirkungsgrade, nicht weiter berücksichtigt</p>
+    <p>Durch Anwahl der Checkbox Wasserturbine-Betrieb teilt man dem Programm mit, dass die Wasserturbinen ans Netz geschaltet sind und zur Regelung bereitstehen. Mit dem Scrollbar Wasserturbine kann man den Drehzahlsollwert einstellen und damit die Frequenz/Leistung der Maschine bestimmen. Im großen oberen Textfeld wird die Leistung der Maschinen angezeigt In den kleinen Textfeldern wird links der Frequenzeinfluß des Drehzahlreglers und rechts der Windeinfluß des Speichermanagers angezeigt. Die Summe der maximalen Leistung der vier Wasserturbinen beträgt 11,32 MW.</p>
+    <p>Durch Anwahl der Checkbox Diesel-Betrieb teilt man dem Sytem mit, dass das Dieselkraftwerk ans Netz geschaltet ist und zur Regelung bereitsteht. Ich nehme an es handelt sich um mehrere Synchrongeneratoren mit einer Leistung von insgesamt 11,5 MW. Mit dem Scrollbar Dieselkraftwerk kann man den Drehzahlsollwert einstellen und damit die Frequenz/Leistung der Maschine bestimmen. Im großen oberen Textfeld wird die Leistung des Werkes angezeigt . In dem kleinen Textfeld wird Frequenzeinfluß des Drehzahlreglers angezeigt.</p>
+    <p>Im grossen Textfeld rechts wird die Gesamtleistung der Erzeugeranlagen angezeigt</p>
+    <head rend="h1">Zu 2: Die Belastung</head>
+    <p>Die Belastung der Erzeugeranlagen wird von der Netzlast, den Speicherpumpen mit Festdrehzahl und den leistungsregelbaren Speicherpumpen gebildet.</p>
+    <p>Mit dem Scrollbar Netzlast wird die Leistung des Verteilernetzes eingestellt und auf dem Textfeld angezeigt.</p>
+    <p>Die Speicherpumpen mit Festdrehzahl kann man mit Checkbox Pumpe 1 bis 5 anwählen. Jede Pumpe hat eine Leistung von 0,5 MW. Die Summe wird im großen Textfeld angezeigt. Wann Pumpen zu- oder abzuschalten sind zeigt ein Textfeld mit begleitendem BEEP an. Zugeschaltet werden soll, wenn die Leistung der regelbaren Speicherpumpen 1,5 MW überschreitet. Abgeschaltet werden soll, wenn die Leistung der regelbaren Speicherpumpen 0,5 MW unterschreitet. Damit soll die Belastung durch Frequenzumrichter so gering wie möglich gehalten werden.</p>
+    <p>Die zwei regelbaren Speicherpumpen von je 1,5 MW werden vom Programm als beide Pumpen in Betrieb aufgefaßt. Ihre Leistung wird im Handbetrieb mit Scollbar Speicherpumpe eingestellt. Die aktuelle Leistung wird im großen Textfeld angezeigt. Die Summe der Pumpleistung ergibt sich aus der Addition der Leistung von Festdrehzahlpumpen plus Regeldrehzahlpumpen. Die Überschreitung von 3 MW für die regelbaren Pumpen wird verhindert und durch rote Hintergrundfärbung im Textfeld angezeigt. Die Pumpleistung wird von Speichermanager bestimmt, sofern die Option Windeinfluß Laden/entladen angewählt ist. Im linken kleinen Textfeld wird der Windeinfluß des Speichermanagers angezeigt. Im rechten kleinen Textfeld wird der Frequenzeinfluß angezeigt, wenn diese Betriebsstruktur durch die Checkbox Frequenzeinfluß gewählt ist. Mit dem Scrollbar Speicherpumpe Frequenzeinfluß kann man den Sollwert zwischen 47.5 Hz und 50 Hz einstellen, wenn man wieder 50 Hz im Netz wieder erreichen will. Im grossen Textfeld rechts oben wird die Gesamtleistung der Belastungen angezeigt</p>
+    <head rend="h1">Zu 3: Der Speichermanager</head>
+    <p>Der Speichermanager hat die Aufgabe das Einspeichern und Ausspeichern von Windenergie in/aus dem Höhenspeicher zu steuern. Ziel ist es die Energiegewinnung aus Windenergie zu vergleichmäßigen. Dazu ist die Ermittlung der mittleren Windleistung der letzten 7 Tage und eine Vorausschau für den aktuellen Tag nötig. Dies kann nicht Teil dieser Simulation sein. Ein fiktiver Wert kann mit dem Scrollbar Speichermanager eingestellt werden. Der Wert wird im grossen Textfeld rechts angezeigt. Überschreitet die Windleistung diesen Wert, dann wird die Leistung, die über diesem Wert liegt, mit den Speicherpumpen eingespeichert. Liegt die Windleistung unter dem Grenzwert, dann wird die Turbinenleistung vom Speichermanager so erhöht, dass die Summe aus Windleistung + Turbinenleistung dem Grenzwert entspricht. Dazu muss mit der Checkbox Windeinfluß Laden/Entladen diese Funktion eingeschaltet werden.</p>
+    <p>Eine weitere Funktion des Speichermanagers ist die Begrenzung der Windleistung bei steigender Füllung des Speichers. Dazu nimmt der Speichermanager steigend ab 260 MWh proportional WKA ausser Betrieb und verhindert damit eine Überfüllung des Speicher. Diese Funktion wird mit Checkbox Speicherniveaueinfluß aktiviert.</p>
+    <p>Bei fallendem Füllstand des Speichers wird die Turbinenleistung,beginnend bei 21 MWh Speicherfüllstand proportional gesenkt, bis sie bei 0 MWh den Nullpunkt erreicht. Diese Funktion wird ebenfalls mit der Checkbox Speicherniveaueinfluß aktiviert. Der Eingriff auf die aktuelle Turbinenleistung wird mit der Meldung Diesel zuschalten und begleitendem BEEP angezeigt.</p>
+    <head rend="h1">Zu 4: Die Speicherfüllung</head>
+    <p>Die Speicherfüllung ist mit dem Scrollbar Füllstand im Bereich 0 bis 270 MWh für Versuche einstellbar Beim Programmstart steht der Wert auf 135 MWh. Die Veränderung des Füllstandes, es handelt sich um ein integrales System, ergibt sich aus der Differenz der Textfelder SummeLeistung ungeregelt + Leistung geregelt der Speicherpumpen und LeistungTurbine der Erzeuger.</p>
+    <head rend="h1">Zu 5: Die Frequenz</head>
+    <p>Die Frequenz des Versorgungssystem ist das wichtigste Kriterium zur Beurteilung der Netzstabilität. Es handelt sich um ein System mit integralem Verhalten. Bei Leistungsüberschuss steigt die Frequenz, bei Leistungsmangel fällt die Frequenz kontinuierlich. Die Frequenz ergibt sich aus der Integration der Differenz aus Summe der Erzeugerleistung minus Summe der Netzlast. Das zeitliche Verhalten der Frequenz ist im Simulator gestreckt um etwa den Faktor 10. Sonst ist für den Operator nicht zu sehen, was da passiert. Zulässig ist eine Frequenz zwischen 47,5 Hz und 52,5 Hz . Wird dieser Bereich verlassen so wird „Schutzaus“ ausgelöst. Das wird durch ein rotes Textfeld mit Aufschrift „Schwarzfall“ angezeigt. Der weitere Verlauf der Simulation wird angehalten, damit man den Vorfall analysieren kann.. Weiter geht es mit Abwahl und Neustart des Programms.</p>
+    <head rend="h1">Zu 6: Die Belastungsverteilung</head>
+    <p>Im rechten Teil des Fenster ist eine graphische Darstellung der Leistungsverteilung für Erzeugung auf der linken Seite und Belastung auf der rechten Seite. Die Höhe der Säulen ist proportional den Leistungen. Die Farben entsprechen der Klassifizierung der linken Fensterseite.</p>
+    <head rend="h1">Betrachtungen zur Netzstabilität.</head>
+    <p>Der Betrieb von Windkraftanlagen ist nur in Kombination mit drehzahlgeregelten Erzeugern möglich, da eine WKA nicht zur Frequenzregelung fähgig ist. Weil das so ist, hat man sich für El Hierro etwas ausgedacht :</p>
+    <p>http://infoscience.epfl.ch/record/198519/files/1-s2.0-S0960148114000755-main.pdf[..]</p>
+    <p>Man will eine Wasserturbine ans Netz synchronisieren und dann das Arbeitswasser abstellen. Die läuft dann weiter wie ein Synchronmotor. Man stellt sich vor, man hätte dann einen rotierenden Speicher durch die Masse der rotierenden Maschinenteile und der würde die Frequenz stabilisieren. Aber das Ergebnis wird sein :</p>
+    <p>Maschine läuft als Synchronmotor</p>
+    <p>Maschine braucht Antriebsleistung</p>
+    <p>Maschine geht über Rückwatt vom Netz.</p>
+    <p>Hier einige Worte zu Rückwatt. Es ist der Kraftwerksausdruck für den Fall, dass eine Erzeugereinheit vom Netz Leistung aufnimmt und motorisch läuft. Die dabei auftretende Leistung nennt man Schleppleistung. Sie tritt auf, wenn man zB. einer Wasserturbine das Arbeitsmittel abstellt.</p>
+    <head rend="h1">Hier nochmal der Beitrag von Horst Maler #32:</head>
+    <p>die Rotationsenergie eines Turbosatzes können Sie bei Lastanstieg nur im Bereich zwischen 50 Hz und 47.5 Hz nutzen. Dann erfolgt "Schutz aus". Bei 49,8 Hz beginnt spätestens der Einsatz der Primärregelung.</p>
+    <p>Bei Lastausfall im Bereich 50 Hz bis 52,5 Hz.</p>
+    <p>E_rot= (47,5 / 50) ** 2 = 0.9025</p>
+    <p>100 % – 90,25% = 9,75 %.</p>
+    <p>9,75 % der im Turbosatz enthaltenen Rotationsenergie können Sie nutzen. Das ist sehr wenig. Vergessen Sie Rotationsenergie !</p>
+    <p>Die Generatorspannung ist abhängig von der Drehzahl der Maschine und vom Erregerstrom, der von einem Spannungsregler durch eine Erregeranlage geführt wird.</p>
+    <p>Das hat er sehr richtig erkannt und hier bekannt gemacht. Wie die Spanier auf diese Idee kamen ist mir ein Rätsel.</p>
+    <p>In der angegebenen Maschinenanordnung ist es nicht möglich nur mit Windkraftanlagen zu versorgen. Es muss immer die Wasserturbine (Abhängigkeit vom Speicher) und/oder der Diesel laufen, um die Frequenz und die Spannung zu diktieren.</p>
+    <p>Größtes Risiko bei einer Inselanlage ist der teilweise oder komplette Netzausfall oder der plötzliche Windleistungsanstieg (Böe) , denn beide müssen entweder von der Dieselanlage und/oder der Wasserturbine abgeworfen werden können. Dazu müssen die Erzeugeranlagen aber Leistung haben die sie abwerfen können.</p>
+    <p>Das die Speicherpumpen einen Frequenzeinfluß haben ist mir nicht bekannt, wäre auch sehr ungewöhnlich, aber eine großartige Idee. Das gibt es nur in dieser Simulation. Man könnte dann die positive Leistungsdifferenz, die zum Frequenzanstieg führt und letztlich zum Schwarzfall, per Frequenzeinfluß auf die Speicherpumpen umlegen. In meiner Simulation ist das möglich. Für die Speicherpumpen kann mit Checkbox Frequenzeinfluß diese Struktur für die regelbaren Speicherpumpen gewählt werden.</p>
+    <p>Der Speichermanager kann die Windleistung die grösser als der Windleistungsgrenzwert ist auf die Speicherpumpen umlegen. Ist die Windleistung kleiner als der Windleistungsgrenzwert dann wird die fehlende Leistung auf die Wasserturbinen umgelegt. Dazu ist im Speichermanager die Checkbox Windeinfluß Laden Entladen zu aktivieren. Die Leistung der Erzeuger Wasser + Diesel muß immer grösser sein als die maximal mögliche Störung durch Teilnetzausfall oder Windleistungsanstieg (Böe).</p>
+    <p>Der aufmerksame Leser wird bemerken, dass immer, wenn die Speicherpumpen laufen, auch die Wasserturbinen laufen. Die Speicherpumpen stellen ja für das Netz eine Belastung dar. Das ergibt dann eine Art Kreisverkehr des Energiefluß. Ein Teil der Pumpleistung geht gleich wieder zur Wasserturbine. Das ist leider alternativlos. Um mal diesen schönen Satz zu benutzen.</p>
+    <p>Wir kommen jetzt zu einem Thema, das meistens nicht zur Sprache kommt. Windanlagen speisen ihren Strom über netzsynchronisierte Wechselrichter in das Netz ein. Die Sinusform des Stroms wird durch Modulation des Impuls-/Pauseverhältnisses der Hochstromschalter erreicht. Trotz nachfolgender Filterung ergeben sich trotzdem Oberwellen in der Netzspannung. Je mehr WKA in Betrieb sind desto stärker die Oberwellen. Die Oberwellen im Netz gefährden die ordnungsgemäße Funktion von Geräten im öffentlichen Netz und müssen so gering wie möglich gehalten werden, was bei Landanlagen im Verbundnetz leichter gelingt als bei Inselanlagen.</p>
+    <p>Dazu kommt, dass man für die geregelten Speicherpumpen nicht Voithgetriebe sondern Frequenzumrichter einsetzt. Diese sind prinzipiell ähnlich den Wechselrichtern. Sie haben in der steuerbaren Ausgangsfrequenz ebenso Oberwellen wie die WKA, da die Sinusform des Stroms durch Modulation des Impuls-/Pauseverhältnisses der Hochstromschalter erreicht wird. Hier begrenzt sich die Schädlichkeit auf die Antriebsmotore der Speicherpumpen, die dann eine höhere Wärmeabfuhr erfordern, also eventuell ein Kühlgebläse oder größere Motorauslegung. Die Schädlichkeit für das Netz ergibt sich aus der Gleichrichtung des Drehstroms zur Ladung des Zwischenkreises. Der Ladestrom ist nicht sinusförmig und daher oberwellig. Beide, also WKA plus FU zusammen, ergeben in dem kleinen Inselnetz eine unheilvolle Mischung, der man nur mit Begrenzung der Pumpleistung entgegnen kann. Nun wird man sagen Voithgetriebe seien nicht Stand der Technik und man könnte große Motore mit 1,5 MW nicht im Inselnetz einschalten. Dem ist aber entgegenzuhalten, dass man einen solchen Motor von einem kleinen Anwurfmotor auf Drehzahl bringen kann und dann erst einschaltet. Die Lastfreiheit des Motors kann man durch Einfahren des Ölringschöpfrohres ins Voithgetriebe garantieren. Dann ergibt sich keine Oberwelligkeit im Netz durch diesen Antrieb.</p>
+    <head rend="h1">Jetzt die Praxis. Nur eine Einführung !</head>
+    <p>Wir starten das Simulationsprogramm „Hierro.exe“</p>
+    <p>Sie finden es hier bzw. hier</p>
+    <p>Achtung ! Zahlensystem : Englisch (USA) Visualbasic für Windows 6.0</p>
+    <p>F Netzfrequenz</p>
+    <p>WE Windeinfluß von Speichermanager auf Turbine</p>
+    <p>FE Frequenzeinfluß Drehzahlregler Turbine</p>
+    <p>PT Turbinenleistung</p>
+    <p>PW Windleistung</p>
+    <p>PP Pumpleistung</p>
+    <p>Auf die Leistungsverteilung achten.</p>
+    <p>Wir fahren jetzt die Anlage an. Wasserturbine Betrieb F=50 Hz</p>
+    <p>Wir fahren die Netzlast hoch auf 3 MW. F=49,348 Hz WE=0.0 MW FE=3,0 MW</p>
+    <p>PT=3 MW</p>
+    <p>Wir schalten den Speichermanager ein. Windeinfluß Laden/Entladen</p>
+    <p>Wir schalten den Frequenzeinfluß auf die Speicherpumpen ein. Frequenzeinfluß</p>
+    <p>Wir steigern die Netzleistung auf 4 MW F=49,783 Hz WE=3,0 MW FE=1,0 MW</p>
+    <p>Wir stellen den Turbinendrehzahlsollwert auf 3013,1 U/min F=50 Hz WE=3,0 MW FE=1,0 MW</p>
+    <p>PT=4 MW</p>
+    <p>Wir fahren jetzt die Windanlage an. WKA-Betrieb</p>
+    <p>Wir fahren die Windanlage auf 3 MW. F=50 Hz WE=0,0 MW FE=1,0 MW</p>
+    <p>PT=1 MW PW=3 MW</p>
+    <p>Wir fahren die Windanlage langsam auf 8,5 MW F=50 Hz WE=0,0 MW FE=1,0 MW</p>
+    <p>PT=1 MW PW=8,5 MW PP=5,5 MW</p>
+    <p>Wir sind jetzt an der oberen Grenze der Netzbelastung bei 4 MW Netzlast angekommen. Alle Pumpen laufen. Die geregelten Pumpen sind auf 3 MW (rote Warnung). Wenn jetzt eine Böe die Windleistung auf 9,5 MW erhöht dann ist Not angesagt. Die Turbine wirft dann 1 MW ab und hat dann Leistung 0 MW. Die Pumpen können nicht mehr höher. Nichts regelt mehr die Frequenz.</p>
+    <p>Wir fahren die Windanlage auf 9,5 MW F=50,218 Hz WE=0 MW FE=0,0 MW</p>
+    <p>PT=0 MW PW=9,5 MW PP=5,5 MW</p>
+    <p>Jetzt aber in letzter Not eine WKA abwerfen. Wir sind gerettet. Wenn wir nicht eine WKA abwerfen folgt vielleicht folgendes. Das Netz verliert 0,5 MW Last durch den Ausfall einer Speicherpumpe.</p>
+    <p>Die Netzlast auf fällt auf 9,0 MW F=52,518 Hz WE=0 MW FE=-10,44 MW</p>
+    <p>PT=0 MW PW=9,5 MW PP=5,0 MW</p>
+    <p>Wir haben den Schwarzfall.</p>
+    <p>Weitere Versuche können jetzt alle Interessierten selbst vornehmen. Aber bitte bekommen Sie keinen Nervenzusammenbruch.</p>
+    <p>In der Dateianlage zu dieser Arbeit befinden sich die folgende Dateien :</p>
+    <p>setup.exe hier Das Windows-Installationsprogramm</p>
+    <p>ElHierro.CAB hier Die Programmdatei zur Installation</p>
+    <p>Beide bitte in ein neues Verzeichnis herunterladen und dann setup.exe starten.</p>
+  </main>
+  <comments>
+    <p>Herzlichen Dank an Herrn Treml, der den Simulator zur Verfügung stellt.</p>
+    <p>Mein „Problem“, ich benutze seit Jahren kein Win mehr.</p>
+    <p>Mein Ausweg, entweder alter Rechner Insel mit Win oder Emulator.</p>
+    <p>Daher meine Frage:</p>
+    <p>Ab welcher Win-Version sollte der Hierro-Simulator laufen?</p>
+    <p>Werter Herre Treml,</p>
+    <p>zu 1) Entscheidenter Nachteil von Proportinalreglern ist, dass sie eine dauerhafte Abweichung vom Sollwert voraussetzen. Eigentlich lassen sich damit exakt 50 Hz nie einstellen.</p>
+    <p>Die Anlage ist unterdimensioniert. Bei einer installierten Nennleistung von 9,5 MW der WKAs kann man von einer tatsächlichen Dauerleistung von etwa 3 MW ausgehen (erzeugte Jahresenergie/8760). Die Dauerleistung auf der Insel beträgt aber schon 4 bis 4,5 MW. Außerdem reicht der Speicher für maximal 2 Tage, das ist zuwenig. Wieviel tatsächlich gebraucht wird, ist schwer zu sagen, aber das 10fache dürfte realistisch sein.</p>
+    <p>zu 3) Der Generator, der die Netzfrequenz zur Verfügung stellt, muss immer mit einer Mindestleistung laufen. Ist das die Wasserturbine, muss gewährleistet sein, dass immer genügend Wasser für deren Betrieb im Oberbecken ist (Mindestfüllung des Speichers, die nicht unterschritten werden darf). Alle anderen Erzeuger müssen sich in ihrer Arbeitsweise diesem unterordnen (Abschaltung WKA, Zuschaltung Diesel).</p>
+    <p>Aus diesem Grund habe ich dem Dieselaggregat die Grundlast zugeordnet und WKA/Speicher den Rest darüber. Damit wäre es möglich langsam durch Verringern der Leistung, die der Diesel bringt, die tatsächlichen Möglichkeiten der installierten Anlage zu bestimmen.</p>
+    <p>zu 4) Der Wirkungsgrad vom Pumpspeicherkraftwerken liegt bei 0,8 bis 0.85, da reicht kein anderer Energieerzeuger ran. Netzfrequenz, es ist nicht zwingend notwendig, 50 Hz aus der Drehzahl eines Generators abzuleiten.</p>
+    <p>zu 6) Also ich frage vorher nicht, ob ich eine andere Meinung haben darf. Zudem ist der Diskussionsstil in diesem Foren weit von sachlichen Diskussionen entfernt (muss nicht unbedingt Sie persönlich betreffen). Insofern passe ich mich nur der Umgebung an.</p>
+    <p>anfangs wollte ich Ihre Zuschrift ja nicht beantworten.</p>
+    <p>Trotzdem folgendes :</p>
+    <p>1.</p>
+    <p>Alle rotierenden Stromerzeuger die im Netz parallel geschaltet</p>
+    <p>sind haben einen Proportionalregler oder aber einen Frequenzeinfluß</p>
+    <p>auf den elektronischen Turbinenregler.</p>
+    <p>Der Proportionalregler hat da, wo er angewendet werden muss, keine Nachteile.</p>
+    <p>Die Dimensionierung der Anlage ist auch nicht zu klein. Es geht um die</p>
+    <p>Betriebsstrategie. Mein Aufsatz soll auch nicht beweisen das es nicht geht.</p>
+    <p>Es geht ja, aber nicht so wie man es öffentlich darstellt.</p>
+    <p>2.</p>
+    <p>Die Pumpanlage legt man nicht nach der maximalen Leistung der WKA aus.</p>
+    <p>Man orientiert sich an der am häufigsten vorkommenden Windleistung. Diese Leistung</p>
+    <p>minus der mittleren Netzbelastung ist ein ökonomisch vertretbares Maß für die</p>
+    <p>Installation der Pumpanlagen. Das hat man dort auch gemacht.</p>
+    <p>3.</p>
+    <p>Ich behaupte an keiner Stelle das man die WKA maximal ausnutzen soll.</p>
+    <p>Ihr Einsatz richtet sich nach Speicherfüllung und Pumpkapazität.Der Diesel ist</p>
+    <p>vom Ursprung der Gedanken der Erbauer sicher als letzte Rettung und nicht als</p>
+    <p>Grundlastlieferant im Konzept.</p>
+    <p>4.</p>
+    <p>Den ganzen Windstrom über den Speicher zu bringen, um die Oberwelligkeit der</p>
+    <p>Netzspannung zu vermeiden, können Sie vergessen. Dann ist der gesamte Windstrom</p>
+    <p>zusätzlich mit dem Wirkungsgrad der Pumpspeicherung belastet und die WKA, die</p>
+    <p>sich ja am Nulldurchgang der Netzspannung orientieren, haben kein frequenz-</p>
+    <p>bestimmendes Regulativ. Die Oberwelligkeit der WKA ist nicht zu vermeiden. Die</p>
+    <p>zusätzliche Oberwelligkeit durch die Frequenzumrichter hätte man durch den Einsatz</p>
+    <p>von Voith-Turboregelkupplungen vermeiden können.</p>
+    <p>5.</p>
+    <p>Ich nötige Sie ja nicht dazu ein Windowsprogramm auf Ihren PC zu installieren.</p>
+    <p>Das machen Sie doch, wie mit jeder Software die Sie kaufen, freiwillig.</p>
+    <p>Sie nehmen doch wohl nicht an, ich würde Ihnen ein Virusei ins Nest legen. Das hat</p>
+    <p>ja nichts mit meinen, sondern mit Ihrem, Sicherheitsdenken zu tun.</p>
+    <p>6.</p>
+    <p>Im Interesse einer konstruktiven Diskussion wäre es von Vorteil, wenn Sie Ihren</p>
+    <p>Stil etwas in den Bereich der Höflichkeit verschieben könnten.</p>
+    <p>MfG</p>
+    <p>Michael Treml, Bremen</p>
+    <p>„Deutlich ist zu erkennen, dass Sie die Funktion des Turbinendrehzahlreglers</p>
+    <p>nicht kennen. Es handelt sich um einen Proportionalregler. Der lebt von der</p>
+    <p>bleibenden Regelabweichung.“</p>
+    <p>Ist die Turbinendrehzahlregelung bei einer dampfbetriebenen Turbine (im Prinzip) anders?</p>
+    <p>1.) Aus diesem Grund war mir nicht verständlich, warum so ausführlich auf die Drehzahlregelung eingene.</p>
+    <p>2.) Proportionalregeler, mit all ihren Nachteilen, sind mir seit über 30 Jahren bekannt. Historisch baut die Frequenzregelung in der Stromversorgung auf der Abweichung von der Nenndrehzahl auf Grund Laständerungen auf. In Inselnetzen ist mit heutigen technischen Mitteln eine Frequenzregelung auch anders möglich.</p>
+    <p>3.) Die Dimensionierung der Gesamtanalage auf der Insel ist völlig falsch, da viel zu klein. Insofern ist es kein Kunststück nachzuweisen, dass es nicht geht.</p>
+    <p>„Ihre Meinung die maximale Pumpleistung müsste so groß sein wie die maximale</p>
+    <p>Windleistung ist nicht richtig. Sie wollen doch auch das Netz versorgen.“</p>
+    <p>Ist schon richtig, für den Fall, dass kein Verbraucher am Netz ist, aber maximale Leistung von den WKAs kommt. Praktisch müsste man im Lastverlauf den Punkt der minimalen Last suchen und die Differenz zur maximalen Leistung der WKAs als Dimensionierung der Pumpen annehmen.</p>
+    <p>„Der Diesel soll auch nicht die Grundlast übernehmen, sondern er ist die letzte</p>
+    <p>Rettung wenn kein Wind weht und der Speicher leer ist.“</p>
+    <p>Und das ist Unfug, die WKAs einfach nach Lust und Laune einspeisen zu lassen.</p>
+    <p>Ein weiteres Problem ist die Oberwelligkeit der Stromversorgung. Hohe Windleistung</p>
+    <p>einzuspeichern bei Pumpbetrieb mit Frequenzumrichtern ist ein Problem.“</p>
+    <p>Das Problem müsste quantitaiv genauer untersucht werden, vorallem wieveil Anteil an Oberwellenm durch Frequenzumrichter beim Verbraucher entstehen. Zudem ist die Frequenzumrichterentwicklung nicht stehen geblieben (siehe IGBT). Als allerletzte Lösung käme bei Inselbetrieb die Variante alles durch den Speicher zu schicken, in Frage. Dann wäre der erezugte Strom der WKAs völlig vom Inselnetz entkoppelt.</p>
+    <p>„Nun zu Ihrer Abneigung gegen Visualbasic für Windows 6.0 und Filehorst. Sie schreiben</p>
+    <p>VB käme nicht mehr auf Ihren PC und von Filehorst laden Sie nichts mehr herunter.“</p>
+    <p>Es ist erstaunlich, wie hoch Ihr Sicherheitsdenken in der Stromversorgung ist, in der Programmierung ist das nicht so Ihr Ding. Was Sie auf Ihrem PC machen, ist mir völlig egal, sobald Sie aber auf meinem PC bei mir ins Betriebssystem eingreifen (setup.exe macht das) habe ich das letzet Wort darüber.</p>
+    <p>Vielleicht bringt es ja den allgemeinen Verbraucher gar zum Lachen und sich halt Gedanken über deren Technik nutzen halt zu machen.</p>
+    <p>Anders gesehen ist es nichts anderes als mit ebendiesem – aus WKA Strom –, Wasserpumpen, also für Pumpspeicherkraftwerke anzutreiben. Doch wenn deren Kapazitäten halt erschöpft sind müssen andere „Verbraucher“ her.</p>
+    <p>Und beobachtens doch mal, die Dinger drehen sich – auch ohne Wind – kein Witz!</p>
+    <p>In Holzhausen a.d.Haide steht eine WKA. Wird diese eingeschaltet, dreht sie mit kontinuierlich 18 U/min – laut Anlagenbetreiber</p>
+    <p>Egal ob Wind weht oder nicht.</p>
+    <p>Das ich feststellen kann ob in 150 m Höhe Wind weht oder nicht, liegt an meiner Beobachtungsgabe.</p>
+    <p>Drehzahl der WKA Rotoren feststellen, aus dieser Drehzahl überschlägig die dazu erforderliche Wingeschwindigkeit zuordnen,</p>
+    <p>und dazu die Umgebung beobachten: Was machen der Bäume Äste, Wolken in Naher Umgebung</p>
+    <p>– denn abpruppt ändert sich die Windgeschwindigkeit auch von in 150 m Höhe nicht auf Null am Boden</p>
+    <p>oder eben auch mal versuchen einen Drachen Steigen zu lassen.</p>
+    <p>Und besonders auffallen tut es –das Drehen der Rotoren nicht aus Wind– wenn es an einem Sommerabend gar kein Lüftchen gibt und auch das Anemometer so in Höhe 20 m sich so gar nicht dreht.</p>
+    <p>Wissen´s, das sind so Vorgänge aus Physik</p>
+    <p>zu diesen zu beobachten</p>
+    <p>man braucht halt auch Geschick</p>
+    <p>zu erblicken wie die Dinge</p>
+    <p>da so sind verknüpft.</p>
+    <p>Ich melde mich bei Ihnen</p>
+    <p>#2: Neulen, Holger</p>
+    <p>Ich werte Ihren Beitrag als Satire.</p>
+    <p>#3: Holger Burowski</p>
+    <p>Lieber Herr Burowski,</p>
+    <p>wenn man sich weit aus dem Fenster heraus lehnt kann man auch raus fallen.</p>
+    <p>Das ist Ihnen nun passiert.</p>
+    <p>Deutlich ist zu erkennen, dass Sie die Funktion des Turbinendrehzahlreglers</p>
+    <p>nicht kennen. Es handelt sich um einen Proportionalregler. Der lebt von der</p>
+    <p>bleibenden Regelabweichung.</p>
+    <p>Bei einer Turbine hat dieser Regler in der Regel eine Statik von 5%.Umgerechnet</p>
+    <p>ist das ( 100 / 5 = 20 ) die Verstärkung 20.</p>
+    <p>Die Abweichung der Turbinendrehzahl(%)vom Turbinendrehzahlsollwert(%) wird mit 20</p>
+    <p>multipliziert und ergibt dann die Öffnungsstellung(%) der Ventile, die das</p>
+    <p>Arbeitsmittel der Turbine zuführen und damit Leistung generieren.Bei einem</p>
+    <p>Drehzahlsollwert von 3000 U/min erreichen Sie also volle Leistung der Turbine</p>
+    <p>bei 2850 U/min.Wenn Sie aber 50 Hz haben wollen, müssen Sie den Drehzahlsollwert</p>
+    <p>auf 3150 U/min stellen. Dann sind die Ventile bei 3000 U/min voll geöffnet und</p>
+    <p>man hat die Nennleistung der Maschine.</p>
+    <p>Auf die Frequenz bezogen hat der Regler einen Durchgriff von 4,6 MW/Hz.</p>
+    <p>Ihre Meinung die maximale Pumpleistung müsste so groß sein wie die maximale</p>
+    <p>Windleistung ist nicht richtig. Sie wollen doch auch das Netz versorgen.</p>
+    <p>Der Diesel soll auch nicht die Grundlast übernehmen, sondern er ist die letzte</p>
+    <p>Rettung wenn kein Wind weht und der Speicher leer ist.Ansonsten soll die</p>
+    <p>Wasserturbine die Grundlast und die Regelleistung übernehmen.Das geht aber nur wenn</p>
+    <p>man genügend Speicher hat.</p>
+    <p>Das ist auf El Hierro nicht der Fall. Daher ist der Diesel unverzichtbar.</p>
+    <p>Ein weiteres Problem ist die Oberwelligkeit der Stromversorgung.Hohe Windleistung</p>
+    <p>einzuspeichern bei Pumpbetrieb mit Frequenzumrichtern ist ein Problem.Man kann es</p>
+    <p>nur mit Leistungsbeschränkung der WKA und der Pumpen bekämpfen.</p>
+    <p>Nun zu Ihrer Abneigung gegen Visualbasic für Windows 6.0 und Filehorst. Sie schreiben</p>
+    <p>VB käme nicht mehr auf Ihren PC und von Filehorst laden Sie nichts mehr herunter.</p>
+    <p>Diese beiden Dinge, VB und Filehorst, haben aber nichts mit Ihrem Unverständnis</p>
+    <p>der Technik zu tun. Sie kreuzigen nur den Boten, der Ihnen eine Wahrheit, die Sie</p>
+    <p>nicht mögen, überbringt.</p>
+    <p>#4: Gerald Pesch</p>
+    <p>Vielen Dank für Ihre Anerkennung.</p>
+    <p>#5: T.Aigner</p>
+    <p>Lieber Herr Aigner,</p>
+    <p>der Aufsatz und die Software soll nicht zeigen das die Anlagen nicht funktionieren</p>
+    <p>können.Ich möchte nur die Grenzen und Risiken aufzeigen.</p>
+    <p>Weil man das Dieselwerk 25 Stunden ausschalten kann, ist das noch lange kein Beweis</p>
+    <p>für alles OK. Dann laufen eben die Wasserturbinen.Wenn Sie guten Wind haben und</p>
+    <p>Windstrom einspeichern wollen, dann muss zwangsläufig entweder der Diesel oder die Wasserturbine laufen um Regelleistung zu haben.Dabei wird man die Wasserturbinen</p>
+    <p>bevorzugen. Dann laufen die Turbinen und die Pumpen gleichzeitig und es ergibt sich</p>
+    <p>ein Kreisverkehr.</p>
+    <p>Die Pumpen stellen auf El Hierro keine Regelleistungsquelle dar. Es ist nicht</p>
+    <p>erforderlich eine Turbine im Leerlauf mitdrehen zu lassen um schnell Leistung zu</p>
+    <p>generieren. Die Turbine muss schon laufen um Leistung abwerfen zu können. Das Risiko</p>
+    <p>ist nicht der Leistungsmangel sondern der Leistungsüberschuss.</p>
+    <p>Die Sache mit dem entsalzten Wasser überdenken Sie doch bitte nochmal.</p>
+    <p>MfG</p>
+    <p>Michael Treml, Bremen</p>
+    <p>Die Peltonturbine läuft nicht frei mit um in erster Linie Schwungmasse zu bieten, sondern um sehr schnell durch Öffnen der Wasserzufuhr zu einem bereits synchronisierten Turbosatz positive Regelleistung erbringen zu können. Negative Regelleistung steht mehr als genug durch die Wasserpumpen zur Verfügung.</p>
+    <p>Wer sich genauer mit den Originalquellen beschäftigt, wird feststellen, dass kein Wasser im Kreis läuft, sondern die Anlage zu einem Großteil auch der Wasserversorgung hochgelegener Ortsteile dient. Hochgepumptes entsalztes Meerwasser wird in großem Umfang oben verbraucht und nicht wieder abgelassen. Die sichtbaren Zuflüsse ins Unterbecken kommen vermutlich aus der Entsalzung.</p>
+    <p>Trotz meiner vielfach gegenteiligen Ansichten bin ich EIKE dankbar für so viele Anregungen bzgl. interessanter Projekte.</p>
+    <p>„Wasserturbine Betrieb F=50 Hz“</p>
+    <p>Das Anfahren an sich bleibt außen vor. Dee Turbine hat eine Drehzahl von 3000 U/min und läuft im Leerlauf. Die Ventile der Wasserzufuhr sind soweit geöffnet, dass die Reibungsverluste ausgeglichen werden und die Drehzahl konstant bleibt.</p>
+    <p>„Wir fahren die Netzlast hoch auf 3 MW. F=49,348 Hz WE=0.0 MW FE=3,0 MW PT=3 MW“</p>
+    <p>Die Drehzahl der Turbine ist 2960 U/min (da 49,348 Hz) und da mit der Wasserturbine die Frequenz geregelt werden soll, wird deren Regelung die Wasserzufuhr bei der Lastzunahme erhöhen. Nach dem Zuschalten der Last stellt sich also der Zustand ein 50 Hz, 3000 U/min 3MW Leistungsabgabe und Speicher läuft leer.</p>
+    <p>„Wir steigern die Netzleistung auf 4 MW F=49,783 Hz WE=3,0 MW FE=1,0 MW“</p>
+    <p>Die Drehzahl der Wasserturbine ist jetzt 2987 U/min und die Regelung an dieser wird den Wasserzufluß erhöhen, bis wird 50 Hz und 3000 U/min und die Leistungsabgabe beträgt 1.004 MW. Wie kommen Sie übrigens auf die Frequenzen, dass kann ich nicht nachvollziehen? Netzlast und Netzleistung ist bei Ihnen dasselbe und ist die Verbraucherseite, sehe ich doch richtig?</p>
+    <p>„Wir stellen den Turbinendrehzahlsollwert auf 3013,1 U/min F=50 Hz WE=3,0 MW FE=1,0 MW PT=4 MW“</p>
+    <p>Herr Treml, jetzt bin ich von Stuhl gefallen! Bei 3013,1 U/min ist die Frequenz 50,2 Hz und nie 50 Hz. Wissen Sie warum? Hängt mit den Polpaaren im Generator zusammen. Die Frequenz die aus einem Wechselstromgenerator kommt, ergibt sich aus (n*p)/60, wobei n in U/min und p die Anzahl Polpaare ist.</p>
+    <p>Ehrlich gesagt weiß ich nicht so recht, was Sie mit den zwei letzten Schritten wollen. Die Wasserturbine liefert (willkürlich eingestellt) insgesamt 4 MW, wobei 3MW zurückgeregelt werden können, sobald Wind anfängt zu liefern. So habe ich das zumindest verstanden.</p>
+    <p>„Wir fahren die Windanlage auf 3 MW. F=50 Hz WE=0,0 MW FE=1,0MW PT=1 MW PW=3 MW“</p>
+    <p>Jetzt hat sich also tatsächlich der gewünschte Zustand eingestellt, jede weitere Energielieferung WKA regelt die Pumpen auf, da der Verbrauch 4 MW ist.</p>
+    <p>„Wir fahren die Windanlage langsam auf 8,5 MW F=50 Hz WE=0,0 MW FE=1,0 MW</p>
+    <p>PT=1 MW PW=8,5 MW PP=5,5 MW“</p>
+    <p>Wir sind jetzt an der oberen Grenze der Netzbelastung bei 4 MW Netzlast angekommen.</p>
+    <p>„Wir fahren die Windanlage auf 9,5 MW F=50,218 Hz WE=0 MW FE=0,0 MW PT=0 MW PW=9,5 MW PP=5,5 MW“</p>
+    <p>Das ist das maximal mögliche, danach muss eine WKA abgeregelt werden, alles andere ist Unfug und würde auch keiner projektieren. Entweder muss die Pumpenleistung so groß sein, wie die Nennleistung aller WKAs zusammen, damit ist man immer auf der sicheren Seite oder die WKAs werden abgeregelt. Wissen Sie, was ich auf Ihr wildes Scharzfall-Szenario immer antworte – stellen Sie sich vor, bei mir im Dorf kämen alle auf die Idee ihre maximal mögliche, vertraglich garantierte, Anschlußleistung zum gleichen Zeitpunkt auszunutzen. Wissen Sie, was da passiert? Das Ortznetz schaltet sich ab – Strom ist weg. Stromnetze werden nicht nach dem maximal möglichen Fall angelegt, sondern nach dem, was entsprechend der Lastkurven der zu versorgenden Verbraucher und einer entsprechenden Sicherheitszulage notwendig ist.</p>
+    <p>Ich hatte irgendwo in dem Beitrag zu El Hierro geantwortet, wie eine sinnvolle Integration von Diesel und Wind/Speicher möglich ist. Diesel übernimmt die Grundlast im Leistungsband bis x MW, alles darüber wird von Wind/Speicher zur Verfügung gestellt werden. Entsprechend der Zeitreihen Windstärke und Verbrauch muss die Gesamtanlage konzipiert werden. Alles andere macht wenig Sinn.</p>
+    <p>PS: VB kommt mir nicht mehr auf den PC und von „FileHorst“ lade ich mir auch keine Dateien runter. Was weiß ich, was da alles auf meinen PC landet. Schreiben Sie das ganz in Java, da kann es jeder im Browser abarbeiten und die Sicherheitsrestriktionen entsprechend hoch einstellen.</p>
+    <p>Ebenso belastet wird ja der Deutschen Stromnetz, auch sogar.</p>
+    <p>Es ist also zum Ausregeln von Überschuss von Leistung gerade wünschenswert einfach einen „Verbraucher“ hinzuschalten zu können gegenüber die Kraftwerksleistung zu reduzieren.</p>
+    <p>Hilfreich sind da die vielen Windenergieanlagen, die man ja auch als Verbraucher betreiben kann.</p>
+    <p>Zur Sicherung also der Netzstabilität, müssten also auch auf der Insel noch WKA installiert sein, um Überkapazität abzufangen.</p>
+    <p>Welche also von der Antreibs WKA Strom angetrieben werden, also als Verbraucher fungieren deren Rotorblätter gegen den Wind zu drehen.</p>
+    <p>Jedenfalls kann man diesen Nutzen von WKA manchmal – bei eigentlichen WINDSTILLE – sehr gut beobachten.</p>
+    <p>Denn der Anlagen Rotoren drehen sich, obwohl kein Wind dagegen blässt.</p>
+    <p>Jedenfalls wird dann so der konventionellen Elektrizitätswerke überschüssiger Strom ‚verbraucht‘.</p>
+    <p>vielen Dank für Ihre sachkundigen Ausführungen und die Mühe, die Sie sich mit dem Programm gemacht haben. Eine schöne Erweiterung meines Beitrags und ein weiterer Beweis dafür, dass solche Lösungen nicht „100 % EE“ liefern können.</p>
+    <p>Wenn es Sie interessiert, es gibt einen englischsprachigen Blog, auf dem etliche Informationen zu Betriebsweisen, erreichten Nutzungsgraden und eben auch kleinen „Zaubertricks“ der Betreiber zwecks Verschleierung der Realität nachzulesen sind. Anscheinend gibt es diverse dort lebende „Skeptiker“, die genau beobachten, was dort vor sich geht. Wenn Sie beim Admin Ihre e-mail-Anschrift hinterlassen, schicke ich Ihnen das Material gerne zu.</p>
+    <p>Mfg</p>
+  </comments>
+</doc>

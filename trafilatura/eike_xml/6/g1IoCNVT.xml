@@ -1,0 +1,76 @@
+<doc sitename="EIKE - Europäisches Institut für Klima &amp; Energie" title="Neue Studie: Batterie-Speicherung „keine ökonomische Perspektive“" author="Chris Frey" date="2018-04-21" source="https://eike-klima-energie.eu/2018/04/21/neue-studie-batterie-speicherung-keine-oekonomische-perspektive/" hostname="eike-klima-energie.eu" excerpt="Global Warming Policy Foundation Warnung an die Verbraucher vor Batteriespeicherung bei Solaranlagen auf dem Dach London, 16. April 2018: von wiederaufladbaren Batterien heißt es, dass sie den Anreiz zur Installationen von Solaranlagen auf dem Dach verstärken. Damit soll der tagsüber erzeugte überschüssige Strom für die Nacht gespeichert werden. Es sieht so aus, als würde die heimische Energiespeicherung zu einem Big Business werden: Tesla ist bereits am Markt, danach trachtend, seine Erfahrung bzgl. Batterien zu nutzen, um diese zu einer neuen Einnahmequelle zu machen. Andere Hersteller mit großen Namen dürften folgen." categories="Energie" tags="" fingerprint="JSk4DMVujSuFg7FKwNU2lREcMJY=">
+  <main>
+    <p>Allerdings enthüllt eine neue, von der Global Warming Policy Foundation (GWPF) veröffentlichte Studie, dass die Verbraucher Gefahr laufen, geprellt zu werden. Der Autor der Studie, der Energie-Ingenieur Dr. Capell Aris, hat die Ökonomie der Batteriespeicherung untersucht und herausgefunden, dass deren hohe Kosten in UK bedeuten, dass sie sich niemals rentieren werden. Er erklärt:</p>
+    <p>„Der Preis für die Batterien ist relativ hoch, aber die möglichen Einsparungen, wenn man sie einer Solar-Installation auf dem Dach zuschaltet, sind ziemlich begrenzt, vor allem als Bestandteil der normalen Stromrechnung. Führt man eine Kosten-Nutzen-Analyse durch, wird schnell klar, dass diese Batterien reine Geldverschwendung sind“.</p>
+    <p>Dies könnte sich ändern, falls der Preis der Batterien dramatisch sinken würde, aber die Lücke zwischen Kosten und Nutzen ist derzeit so riesig, dass ein solcher Preisrückgang in naher Zukunft sehr unwahrscheinlich ist. Aris erklärt weiter:</p>
+    <p>„Es gibt keinen Zweifel, dass die Batteriepreise sinken werden, aber selbst bei optimistischsten Schätzungen müssten die Preise um mindestens 50% sinken, um die Batterien rentabel zu machen. Soll damit ein Gewinn erwirtschaftet werden, muss der Preis sogar noch stärker sinken.Dass es dazu demnächst kommen wird, ist nicht erkennbar. Batteriespeicher für Solaranlagen auf dem Dach sind einfach keine ökonomische Perspektive, und das wird höchstwahrscheinlich so bleiben.</p>
+    <p>[Bemerkung des Übersetzers: Dies erinnert mich stark an das sog. „Kosten-Energie-Äquivalentgesetz“ von Dr. Heinz Schütte, wenn ich dieses richtig verstanden habe. Das jedoch hat er schon vor einigen Jahren veröffentlicht.]</p>
+    <p>Die ganze Studie (PDF) steht hier.</p>
+  </main>
+  <comments>
+    <p>Vermutlich nächstes Jahr werde ich eine kleine Inselanlage 12/24 Volt realisieren.</p>
+    <p>Die wird aus drei Solarmodulen und drei größeren Autobatterien bestehen.</p>
+    <p>Scheint nicht genug Sonne, wird mit einem speziellen Notstromaggregat 24 V geladen.</p>
+    <p>Die Anlage soll netzunabhängig mindestens einen Tag Strom liefern können.</p>
+    <p>Am günstigsten und am gängigsten sind Bleiakkus, z.B. Autobatterien.</p>
+    <p>Eine gängige Autobatterie 12 V 88 Ah kostet 2019 etwa 100 Euro.</p>
+    <p>12 V mal 88 Ah = 1056 Wh, rund eine kWh.</p>
+    <p>Das heißt im Klartext, ich muss 100 Euro zahlen, um 1 kWh speichern zu können.</p>
+    <p>Etwas bessere Bleiakkus schaffen so etwa 300 Ladezyklen.</p>
+    <p>100 Euro geteilt durch 300 gleich 33,3 Cent für eine abrufbare kWh!</p>
+    <p>Bei uns kostet aktuell 1 kWh beim Stromanbieter 30 Cent.</p>
+    <p>An hier merkt der Leser, Akkuspeicherung lohnt sich nicht gegenüber Netzstrom.</p>
+    <p>Ein Hausbesitzer mit Solardach sollte sich Akkuspeicherung dreimal überlegen.</p>
+    <p>Zuvor in meinen Überlegungen habe ich einfach und ideal gerechnet.</p>
+    <p>Monteurkosten, Material wie Ladeelektronik, etc. habe ich nicht eingerechnet.</p>
+    <p>Akkus für Solaranwendungen, egal welche Technik, sind pro kWh teurer.</p>
+    <p>Sinnvoller Vergleich ist nur möglich, wenn man den kWh-Preis pro Zyklus kennt.</p>
+    <p>Der wird üblicherweise verschwiegen, muss man sich selbst ausrechnen.</p>
+    <p>Abhängig von der Zyklenzahl muss man die Akkus immer wieder auswechseln.</p>
+    <p>Oben habe ich als Beispiel 300 Zyklen angegeben.</p>
+    <p>Rein rechnerisch und ideal würde ein Akkusatz kein Jahr halten.</p>
+    <p>Dabei gehe ich von einem Zyklus pro Tag aus, tagsüber laden und abends Strom.</p>
+    <p>So ideale Bedingungen, jeden Tag genug Sonne, wird es teilweise im Sommer geben.</p>
+    <p>Nichtmals einen Tag mit viel Wolken kann man damit überbrücken.</p>
+    <p>Neue Studie: Batterie-Speicherung „keine ökonomische Perspektive“</p>
+    <p>Die Studie kommt von der:</p>
+    <p>Global Warming Policy Foundation (GWPF)</p>
+    <p>Wenn man mal die einschlägigen Suchmaschinen und Nachschlagewerke befragt wird man fündig.</p>
+    <p>Zumindest ich hab den Eindruck dass es sich nicht um eine anerkennende und wissenschaftliche Vereinigung handelt.</p>
+    <p>Herr Dr. Capell Aris hat als Spezialist für Reaktorphysik in Informationstechnologie-Systeme gearbeitet und ob er der richtige ist um Akkus zu bewerten, liegt im Auge des Betrachters.</p>
+    <p>Nun wieder zurück zum Thema.</p>
+    <p>Die Schlussfolgerung von Herrn Dr. Capell Aris ist:</p>
+    <p>Herr Dr. Capell Aris,</p>
+    <p>geht bei seiner Betrachtung davon aus das der Einsatz von einer Akku nur den Eigenverbrauch um ca. +18% (710kWh) vom gesamten Strombedarf (3920kWh) denken kann.</p>
+    <p>https://www.thegwpf.org/content/uploads/2018/04/Aris2018.pdf</p>
+    <p>Figure 3:</p>
+    <p>Modelled energy flows for various methods of domestic electricity supply.</p>
+    <p>(c) With rooftop solar installation and battery</p>
+    <p>Bei richtiger Auslegung der PV + Akku kommt von der Akku ca. +30% andere sagen +40%.</p>
+    <p>https://cdn01.kaeuferportal.de/ratgeber/wp-content/uploads/2015/11/speicherzeiten.jpg</p>
+    <p>Von den 3920 kWh Jahresverbrauch kommen ca. 1200 bis 1500 kWh von der Akku in der Praxis, so ist das das doppelte was Herr Dr. Capell Aris angibt.</p>
+    <p>Nun sollen in Deutschland ca. 80.000 Akkuspeicher im Einsatz sein.</p>
+    <p>In 2017 sollen 30.000 neue dazugekommen sein.</p>
+    <p>In 2018 soll es auch wieder einen zweistelligen Zuwachs geben.</p>
+    <p>Zubau an Speicher in Deutschland.</p>
+    <p>https://www.solarwirtschaft.de/fileadmin/user_upload/bsw_infogr_pvspeichermarkt.jpg</p>
+    <p>Also müssten die ca. 80.000 Leute nicht rechnen können.</p>
+    <p>Zumindest bei unter 4000kWh Jahresverbrauch wir sich nur Herr Dr. Capell Aris mit einem Akkuspeicher beschäftigen.</p>
+    <p>Jeder der rechnen kann wir sofort verstellen das bei höherem Jahresstromverbrauch sich auch ein Speicher rechnet, besser rechnet.</p>
+    <p>MfG</p>
+    <p>Wen wundert das?</p>
+    <p>warten wir einfach mal ab, bis der Strompreis die 1,0 €/kWh überschreitet. Das wird viel schneller der Fall sein, als Sie denken. Dann wird man Häuser mit Solardach oder Freiland-Solaranlagen mit Maschinengewehren vor dem Mob schützen müssen. Haben Sie als Solarunternehmer schon einige kleine Feuerspritzen und genügend Muni im Keller?</p>
+    <p>Anton</p>
+    <p>Für den gesamten Klima‑Energiewende‑Schwachsinn kann es niemals eine ökonomische „Perspektive“ geben.</p>
+    <p>Wer das behauptet gehört in die Klapsmühle.</p>
+    <p>Der Preis spielt ganz einfach keine Rolle, weil ja die Welt vor einer katastrophalen und alles vernichtenden Klimaerwärmung gerettet werden muss.</p>
+    <p>Weil CO2 die Stellschraube für Klimaentwicklungen ist, was nicht stimmt, sorgt die Energiewende für die Reduzierung des Gases, was auch nicht stimmt.</p>
+    <p>Schöne heile links‑grüne, mörderische, Welt.</p>
+    <p>Die im Bundestag, zum Wohle und zum Schutze des Heimatlandes geschworen haben, genau denen müssen die Hände abfaulen mit denen sie geschworen haben.</p>
+    <p>Schlimm ist, der Michel folgt diesen, seinen Henkern.</p>
+    <p>Ich kann immer nur wiederholen: Ihr hab die ja gewählt, also beschwert Euch nicht!</p>
+    <p>Aber wenn von der Altersversorgung nach den Grünen Investments in Prokon-Genussrechten und Solarworld- Aktien noch was übrig ist, bitte schön. Die gefühlte moralische Überlegenheit muss einem das schon wert sein.</p>
+    <p>Vielen Dank, habe ich korrigiert – und auch gleich mit dem passenden Link hinterlegt!</p>
+    <p>MfG Chris Frey</p>
+  </comments>
+</doc>

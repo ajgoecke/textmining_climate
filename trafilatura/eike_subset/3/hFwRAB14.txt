@@ -1,0 +1,216 @@
+Für einen solchen „natürlichen atmosphärischen Treibhauseffekt“ gibt es unterschiedliche Modelle, einen experimentellen Ansatz und zwei Widerlegungen. Nachfolgend werden die wesentlichen THE-Thesen/Antithesen vorgestellt; Nischentheorien werden hier nicht berücksichtigt.
+THESE (1): Der konventionelle globale Stefan-Boltzmann-Ansatz mit einem „natürlichen atmosphärischen Treibhauseffekt“ von 33°C, der als Differenz zwischen einer vorgeblich „natürlichen“ theoretischen Temperatur unserer Erde von -18°C aus der der globalen Strahlungsbilanz und einer vorgeblich „gemessenen Globaltemperatur“ NST von 14,8°C abgeleitet wird.
+These(1.1): Die Erde wird als ein selbstleuchtender Stern betrachtet. Dazu wird der temperaturwirksame Anteil der Solarstrahlung über die gesamte Erdoberfläche gemittelt und mittels Stefan-Boltzmann-Gesetz eine Art „Abstrahlungstemperatur“ für die Erde umgerechnet. Der „natürliche atmosphärische Treibhauseffekt“ erklärt sich dann als Differenz zur vorgeblich „gemessenen Globaltemperatur“ NST.
+Vertreter: IPCC-TAR-Gutachter Dipl.-Ing Peter Dietze
+Referenz zu (1.1): Kommentar P. Dietze vom 5. August 2019 um 9:54 auf EIKE
+Kernaussage (1.1), Zitat aus der Referenz mit Hervorhebungen: „Herr Schulz, der Geometriefaktor der (rotierenden, gut speichernden und Wärme umverteilenden) Erdkugel ist 4. Wie auch Herr Weber angibt, erhält die Erde 4PiR²*235 W/m2 an mittlerer Einstrahlung. Da 1 W ein Joule/s ist, können Sie Ihre Zahl mit dem Erdradius leicht selbst ausrechnen. Wenn man 235 W/m² in Stefan-Boltzmann einsetzt, ergeben sich knapp 255 K. Die mittlere Bodentemperatur ist aber um 33 K höher – und das ist der Treibhauseffekt, den Herr Weber hinweg zu schummeln versucht.“
+Herr Dietze hatte seine Berechnungen in einer E-Mail vom 06.09.2019 um 11:01pm an Dr. Kramm auf dem üblichen Skeptiker-Verteiler noch weiter spezifiziert, Zitat mit Hervorhebungen:
+„Die S-B-Gleichung für den Treibhauseffekt lautet für das quasi isotherme Strahlungsmodell der rotierenden Erde mit 30% Wolkenalbedo und ansonsten solar transparenter Atmosphäre im Strahlungsfliessgleichgewicht mit
+S=absorbierter Solarstrahlung, im Mittel 240 W/m²
+T=solar bedingter Bodentemperatur, im Mittel 255K
+G=Gegenstrahlung 150 W/m²
+==> S+G = Sigma*(T+deltaT)^4
+Daraus ergibt sich deltaT=33 K und somit die Bodentemperatur zu T=288 K (+15 Grad) wie beobachtet. Q.e.d.“
+These (1.2): Die Klimawirksamkeit von Treibhausgasen
+These (1.2.1): Der „natürliche atmosphärische Treibhauseffekt“ beim konventionellen S-B-Ansatz wird durch Treibhausgase erzeugt.
+Vertreter: Der Geophysiker Michael Krüger (ScienceScepticalBlog)
+Referenz zu (1.2.1): „Grundlagen des Treibhauseffektes für EIKIANER“ (2016)
+Kernaussage (1.2.1), Zitat aus der Referenz mit Hervorhebungen: „Die Erdoberfläche strahlt Wärme mit durchschnittlich 390 Watt pro Quadratmeter ab. Das entspricht der Wärmeabstrahlung eines sog. Schwarzen Körpers bei 15°C. In 70 km Höhe strahlt die Erde nach Absorption durch Treibhausgase und Wolken innerhalb der Atmosphäre nur noch Wärme mit durchschnittlich 240 Watt pro Quadratmeter ab. Das entspricht der Wärmeabstrahlung eines sog. Schwarzen Körpers bei -18°C. Die Differenz zwischen Boden und 70 km beträgt 150 Watt pro Quadratmeter und 33°C. Das ist die sog. Differenz für den natürlichen Treibhauseffekt.“
+Und weiter unten heißt es dort, Zitat mit Hervorhebungen: „Sog. Treibhausgase wie CO2 und Wasserdampf und auch Wolken führen durch ihre Absorptions- und Strahlungseigenschaften von Wärmestrahlung dazu, dass wir eine Differenz von ca. 33°C zwischen Erdoberfläche und 70 km Höhe messen.“
+These (1.2.2): Der „natürlichen atmosphärische Treibhauseffekt“ durch Treibhausgase konnte experimentell nachgewiesen werden.
+Vertreter: Herr Dr. Michael Schnell (EIKE)
+Referenz zu (1.2.2): „Experimentelle Verifikation des Treibhauseffektes – 4. Mitteilung: die erdnahe CO2-Strahlung“ (2019)
+Kernaussage (1.2.2-1), Zitat aus der Referenz mit Hervorhebungen:
+„Anfang des 19. Jahrhunderts suchten verschiedene Forschergruppen einen mathematischen Zusammenhang zwischen Temperatur und IR-Strahlung eines Körpers. Unter anderen Dulong und Petit, die die Abkühlung eines heißen Thermometers (200 – 300 °C) in einem kalten Vakuumgefäß verfolgten (Abb. 3) [9]. Sie entwickelten eine einfache Formel, die hinreichend genau die zeitliche Abkühlung des Thermometers wiedergab. Die Gleichung versagte jedoch, wenn wesentlich heißere Körper, wie die der Sonne, berechnet werden sollten.
+Josef Stefan überprüfte die Versuche von Dulong und Petit und anderer Forschergruppen und konnte rein empirisch Gl. 1 ermitteln, womit die Wärmeübertragung P paralleler Oberflächen, auch bei sehr hohen Temperaturen, berechnet werden konnte [8]. Stefan brauchte den sogenannten Strahlungsaustauschgrad „E“ für blanke, also reflektierende Oberflächen (Emissionsgrad ε << 1). Geht man aber von einer Schwarz-Körper-Strahlung mit ε = 1 aus, wird auch E = 1 und wir haben mit Gleichung Gl. 2 den Vorläufer des Stefan-Boltzmann-Gesetzes (Gl. 3) vor uns, das von Ludwig Boltzmann 1884, einem Schüler von Stefan, theoretisch abgeleitet wurde [10].
+Mit Gl. 2 legt Stefan die Grundlage für die Berechnung des Treibhauseffektes. Die Abkühlung des Thermometers (Energieverlust) hängt sowohl von der Temperatur T1 als auch von T2 ab, also von der Differenz zwischen Ausstrahlung des Thermometers und Gegenstrahlung der Kupferwand.“
+Kernaussage (1.2.2-2), Zitat aus der Referenz mit Hervorhebungen: „… In einem bereits publizierten Demonstrations-Experiment [12], [11] wurden unter adiabatischen Bedingungen (ohne Wandheizung) die Auswirkungen von CO2 (und anderen Treibhausgasen) untersucht. Dabei wurde eine deutliche Erwärmung der Erd-Platte beobachtet, während innerhalb der Röhre, an den Messstellen Tp1 – Tp4, die Temperaturen konstant blieben (Abb. 8 und 9)…“
+These (1.3): Gegenüber einer variablen „gemessenen Globaltemperatur“ verändert sich die „Abstrahlungstemperatur“ der Erde nicht. Vielmehr beträgt die Abstrahlungsleistung der Erde beim konventionellen S-B-Ansatz immer 239 W/m². Bei einer Veränderung der Globaltemperatur NST verändert sich lediglich die „Abstrahlungshöhe“ bei -18°C.
+Vertreter: Der Astrophysiker Dr. Peter Heller (ScienceScepticalBlog)
+Referenz: „Der Treibhauseffekt“ (2010)
+Kernaussage (1.3), Zitat aus der Referenz mit Hervorhebungen: „Der Ansatz der Klimaforschung wird nun deutlich: Wenn man die Menge an Treibhausgasen in der Troposphäre steigert, erhöht sich die „Grenzschicht“, ab der die Atmosphäre für IR-Strahlung durchsichtig wird. Die Temperatur dieser „Grenzschicht“ ist aber immer -18° (aufgrund des oben angenommenen Strahlungsgleichgewichtes). Liegt sie nur 100 Meter höher, steigt dadurch die Temperatur der Luft am Erdboden um im Mittel 0,65° (es liegen dann eben nicht mehr 5 km Luft zwischen dieser Schicht und dem Erdboden, sondern 5,1 km).“
+THESE (2): Ein globales Modell analog zum konventionellen S-B-Ansatz mit einem global breitenabhängig gemittelten Strahlungsansatz und einem begrenzten thermischen „Slab“-Zwischenspeicher.
+Vertreter: Kramm et al. (2017)
+Referenz (2): “Using Earth’s Moon as a Testbed for Quantifying the Effect of the Terrestrial Atmosphere”
+Kernaussage (2.1): Zitat aus Kramm et al. (2017) mit Hervorhebungen: “The results of our numerical simulations using the multilayer-force-restore method for the 27.4 times higher angular velocity of the Earth are illustrated in Figure 22. Part (a) of this figure shows the daily mean slab temperature as a function of latitude and terrestrial day of the year.” (S. 281 3. Absatz)
+Dazu der unabhängige Google-Übersetzer (mit Korrektur): „Die Ergebnisse unserer numerischen Simulationen unter Verwendung der Multilayer-Force-Restore-Methode für die 27,4-fach höhere Winkelgeschwindigkeit der Erde sind in Abbildung 22 dargestellt. Teil (a) dieser Abbildung zeigt die tägliche mittlere Plattentemperatur als Funktion von Breite und Breite Erdtag des Jahres.“
+Kernaussage (2.2): Zitat Kramm et al. (2017) mit Hervorhebungen: “Thus, one has to conclude that concept of the effective radiation temperature oversimplifies the physical processes as it ignores the impact of local temperatures on the fluxes in the planetary radiative balance.” (S. 283 letzter Absatz, letzter Satz)
+Dazu der unabhängige Google-Übersetzer: „Daher muss man schließen, dass das Konzept der effektiven Strahlungstemperatur die physikalischen Prozesse zu stark vereinfacht, da der Einfluss lokaler Temperaturen auf die Flüsse im Strahlungshaushalt des Planeten ignoriert wird.“
+THESE (3): Eine „globale“ Stefan-Boltzmann-Integration, die in einem Widerspruch mit dem Betrag des „natürlichen atmosphärischen Treibhauseffektes“ von 33°C aus Modell (1) endet.
+Vertreter: Prof. Dr. Gerlich (†) und Dr. Ralf D. Tscheuschner, Hamburg
+Referenz (3) „Falsifizierung der atmosphärischen CO2 -Treibhauseffekte im Rahmen der Physik“
+Kernaussage: Gerlich and Tscheuschner (2009) leiten eine Stefan-Boltzmann-Integrallösung für die Durchschnittstemperatur der gesamten Erdoberfläche (4PIR2) her:
+Diese berechnete physikalische Globaltemperatur Tphys beträgt -129 °C, respektive 144,15 K für die gesamte Erdoberfläche (4PIR2) und würde daher zur Erklärung der vorgeblich „gemessenen“ globalen Durchschnittstemperatur einen Treibhauseffekt von weiteren 144 °C erfordern. Aus dem Widerspruch (33°C # 144°C) leiten Gerlich und Tscheuschner ab, dass es keinen „natürlichen atmosphärischen Treibhauseffekt“ gibt.
+THESE (4): Ein „hemisphärischer“ Stefan-Boltzmann-Ansatz ohne einen atmosphärischen Treibhauseffekt, bei dem die (hemisphärische) Temperaturgenese nach dem S-B-Gesetz auf die Tagseite der Erde beschränkt bleibt, während die Abstrahlung der gesamten Erdoberfläche über dessen Umgebungsgleichung erfolgt.
+Vertreter: Uli Weber (DGG und EIKE)
+Referenz (4) „Weitere Überlegungen zur hemisphärischen Herleitung einer globalen Durchschnittstemperatur“ @ DGG-Mitteilungen 1/2019:18-25
+Anmerkung: Hier wird ein Zweischichtfall für Erde-Atmosphäre mit Seff = 780 W/m² dargestellt, während ich in meinen Blogartikeln einen Einschichtfall mit Seff = 940 W/m² betrachte.
+Kernaussage (4): Die Temperaturgenese erfolgt ausschließlich auf der sonnenbeschienenen Tagseite unserer Erde. Zwischen den Wendekreisen und bis in die mittleren Breiten der Sommerhemisphäre werden gleichzeitig die „Energiespeicher“ unserer Erde (Atmosphäre und Ozeane) durch die Sonneneinstrahlung aufgeladen und damit das maximale S-B-Temperaturäquivalent nicht erreicht. Die Nachtseite im Tagesverlauf und die höheren Breiten im Jahresverlauf, insbesondere auf der Winterhemisphäre, profitieren durch Wärmeadvektion von den dort erwärmten globalen Zirkulationen über die S-B-Umgebungsgleichung.
+Um es noch einmal ganz deutlich zu machen: Nur in Ausnahmefällen (hocharide Wüstengebiete in niederen Breiten) wird das rechnerische S-B-Temperaturäquivalent (SBT) auf der Tagseite der Erde erreicht. Die Energiedifferenz zwischen dem SBT und der tatsächlichen Ortstemperatur in [W*s=J] fließt üblicherweise in die globalen Zirkulationen (Atmosphäre und Ozeane) – respektive wird die Ortstemperatur nachts und im Winterhalbjahr daraus unterstützt.
+In Teil 2 werden die hier vorgestellten Thesen/Antithesen dann ausführlich diskutiert.
+Soweit mir bekannt ist nimmt – milde ausgedrückt – Herr Dr. Kramm Herrn Dietze nicht ernst und deshalb auch keinerlei e-mails von ihm entgegen.
+Und wenn Herr Dr. Kramm das hier schreibt:
+„hiermit fordere ich Sie als Praesident von EIKE auf, dafuer zu sorgen, dass die Falschdarstellungen zu der Arbeit von Kramm et al. (2017) durch Weber auf der Webseite von EIKE (siehe https://www.eike-klima-energie.eu/2019/12/02/eine-analyse-der-thesen-antithesen-fuer-einen-natuerlichen-atmosphaerischen-treibhauseffekt-teil-1-gegenueberstellung-der-thesen-antithesen/ ) sofort entfernt werden.“
+Sollte dem nachgekommen werden.
+mfg
+T. Heinzow
+Frage: Worin bestehen in diesem Artikel eigentlich die vorgeblichen „Falschdarstellungen“, wenn dort ausschließlich Originalaussagen und deren unabhängige Übersetzung sowie Originalabbildungen aus einer wissenschaftlichen Veröffentlichung mit Quellenangabe zitiert/dargestellt werden???
+Im Teil 1 von 3 heisst es „Das Dumme daran ist: Er [der Treibhauseffekt] ist methodisch wissenschaftlich korrekt nicht nachzuweisen“ und Uli Weber sagt “Nischentheorien werden hier nicht berücksichtigt“ – wobei er natürlich zuallererst an seinen Hemisphärenansatz denken sollte – ganz abgesehen von Gerlich und Tscheuschner welche CO2 trotz HITRAN-Spektren fälschlich für klimaneutral halten und pikanterweise „aus dem Widerspruch zwischen 33 Grad [rotierende Erde] und 144 Grad [nicht rotierende Erde] ableiten dass es keinen natürlichen [sowie anthropogenen] atmosphärischen Treibhauseffekt gibt“.
+Hokuspokus, weg sind sogar die pösen 33 Grad welche offenbar i.w. von dem Herrn Dietze zu stammen scheinen. Anstatt zu dem Hemisphärenansatz, der auch im IKEK-Vortrag von Herrn Limburg 15 Grad und damit keinen Treibhauseffekt (!) ergab, hier ein Korrigendum erscheinen zu lassen, verspielt EIKE m.E. eher seine Glaubwürdigkeit.
+sie haben einfach immer noch nicht verstanden, das der hemisphaerishe Ansatz die Erde drehen laesst, waehrend ihrer eine Scheibenwelt vorraussetzt.
+Auch sie werden es nie zugeben, oder begreifen!
+Ihre „Spektren“ können Sie sich in die Haare schmieren
+https://www.eike-klima-energie.eu/2019/12/03/eine-analyse-der-thesen-antithesen-fuer-einen-natuerlichen-atmosphaerischen-treibhauseffekt-teil-2-diskussion-der-thesen-antithesen/#comment-232028
+Herr Holtz hat es fuer sie ordentlich erlaeutert.
+Wir kennen ca.200 Gase, atomare und molekulare. Alle Gase sind im Normalzustand
+(20°C und 1bar Druck)optisch durchsichtig und komprimierbar.
+Im Gegenasatz dazu sind in Dämpfen Flüssigkeitströpfchen die in Gasen schweben.
+Die optische Durchsichtigkeit reicht von durchsichtig bis undurchsichtig.
+In der DDR bezeichneten wir Dämpfe als Zwischenaggregatzustand um sie physikalich von Gasen und Flüssigkeiten zu unterscheiden. Bisher habe ich ich keine Veröffentlichung gefunden die die Wärmestrahlung auf Wolken erklären kann.
+Halt eben mal wärmend oder kühlend. Laut NACA ist die Erde zwischen ca.40% und
+70% mit Wolken bedeckt. Bei einem Luftvolumemgehalt von ca.4% Wasserdampf eine
+sehr variable Wärmestrahlungsgröße. Alle hier im Forum wissen CO² nur 0,038%.
+Bitte schauen sie sich dazu einen Beitrag von der „MAX-PLANK-GESELLSCHAFT“ auf
+YouTube an : “ Wolken-der nebulöse Klimafaktor “
+B.Lucke
+1.Selbst das IPCC sagt das man KEINE Vorhersagen machen kann.
+2.Es gibt verschieden Klimamodelle-es kann aber nur 1 richtig sein und bis heute lagen alle daneben und können nicht mal die Vergangenheit darstellen.
+3.Bei den Klimamodellen ist die Erde FLACH!Hat man damals gemacht weil die Computer sonst zu lange gebraucht hätten,hat man danach vergessen und keinem Klimaforscher fällt es auf…
+Herr Krüger, Sie verstehen nicht die Definition des „Treibhauseffektes“ da Sie Abstrahlungshöhe mit Strahlungsgleichgewichtstemperatur verwechseln und können die Abstrahlungshöhe nicht physikalisch korrekt dem Umgebungsdruck zuordnen. Ihre „Wärmestau“ Theorie ist physikalischer Nonsens und basiert auf Ihren falschen Annahmen bzw. falschen Defintionen. In Ihrer Physik mag es diesen CO2 Erwärmungseffekt ja gegen, in der Realität aber nicht. Aber was ist schon die Realität, alles nur ein Narrativ, so wie das Geschlecht auch….
+„Schwarze Löcher dieser Masse dürften gemäß der meisten aktuellen Modelle der Sternentwicklung in unserer Galaxie gar nicht existieren“
+Man hat aber doch solch ein „Ding“ gefunden.
+Nun übertrage man diese klare Aussage einfach mal auf die vielen THE-Deutungen.
+Quatsch!
+Ob es wirklich ein Schwarzes Loch mit einer Masse, die eigentlich gegen die bisherigen hypothetischen Postulate verstößt, gibt oder nicht (also Quatsch ist), ist doch gar nicht wichtig.
+Wichtiger ist die Erkenntnis, daß nicht nur in diesem Falle „unumstößliche“ wissenschaftliche Postulate durch neue Entdeckungen plötzlich ins Wanken geraten können. Und das wäre ja nicht das erste und einzige Mal allein nur in meinem Lebenszeitraum.
+Hallo Herr Brauns,
+schon klar.
+Nur war der THE nie eine „wissenschaftliche Erkenntnis“, sondern ein Marketingkonstrukt der Atomlobby, das sich verselbstständigt hat.
+Die angeblichen „schwarzen Löcher“ sind ebenso keine „Erkenntnis“, sondern eine unbewiesene Annahme die getroffen wird um andere unbewiesene Annahmen zu stützen.
+Wir leben in einer Welt voller Lobbys und Lügen!
+Deshalb die „“ bei unumstößlich usw.
+Bei uns in Bad Nauheim steht eine Tafel am Kerckhoff-Institut, die gut beschreibt, wie Einstein bei einer Tagung der hochrangigsten Physiker daselbst beinahe rausgeschmissen worden wäre, weil es einen Konsens der 97,… % gab.
+Wie waren die klugen Worte von Ernst Mach:
+„Was nicht physikalisch messbar ist, ist physikalisch nicht existent und sind nur theoretische Spinnereien.“
++ Globale Solareinstrahlung -> Spinnerei
++ Globale Temperatur -> Spinnerei
++ Globales Klima -> Spinnerei
+2. Alle Berechnungen, die sich auf eine Kreisfläche der Erde für die solare Einstrahlung beziehen sind falsch, weil die mittlere planetare (sphärische) Albedo nur für eine sphärische Objektfläche gilt. Die Anwendung auf eine andere Objektform-Fläche ist nicht zulässig.
+3. Die so genannte „Abstrahlhöhe“ von 5000m ist kompletter Unsinn, weil die Emissionsspektren von Satelliten gemessen für die CO2 Spektralbande keine Unterschiede bei wolkenlosen und bewölkten Himmel zeigen.
+Mfg
+Werner Holtz
+Die Abstrahlhöhe von rund 5.000 m gilt mit THG und Wolken. Das ist berücksichtigt.
+Mit freundlichen Grüßen
+AW
+Man kann aber wieder auf den Ursprung der Strahlung zurueckrechnen und der ist in 5km und 70 km der gleiche!
+Und Herr Heller beschreibt es auch korrekt. Nicht der Erdboden strahlt ins All ab, sondern die Atmosphäre aus im Mittel 5.000 m Höhe. Dort herrschen auch -18°C vor. Am Erdboden hingegen rund 15°C.
+Erhöht man die Konzentration an Treibhausgasen, so wird die Atmosphäre undurchlässiger für die Wärmeabstrahlung vom Erdboden, die mittlere Abstrahlungshöhe ins All steigt daher an. Auf über 5.000 m Höhe.
+Dort ist es kälter und weniger Wärme geht verloren. Daher muss es unter wärmer werden bis wieder soviel abgestrahlt wird wie zuvor. Einstrahlung = Abstrahlung.
+Sonneneinstrahlung und Wärmeabstrahlung der Erde ins All müssen sich immer die Wage halten.
+Herr Weber, Sie sind doch Geophysiker und kennen die Lehrbücher aus den 1960er Jahren dazu nicht? Z.B. Möller?
+Sie werden es nie zugeben oder begreifen.
+sie hatten es noch nie mit der Genauigkeit.
+Machen sie sich noch mal mit dem „Atmpsphaerischen Fenster“ vertraut, bevor sie behaupten, die Waerme der Erde wird scheinbar allein von der Atmosphaere abgestrahlt.
+Zum Grossteil durch sie hindurch, da wird ein Schuh draus.
+Von der Oberflaeche direkt in All.
+Und ihre globale Behauptung das Sonneneinstrahlung sich mit der Waermestrahlung die Waage halten muss, ist auch kein Naturgesetz. Wenn mehr Waerme haengen bleibt wird es waermer und wenn mehr Waerme abgegeben wird, wird es kaelter.
+Die grossen Umwaelz und Transportbewegungen der Weltozeane bestimmen das Klima.
+Ihre mantrahaften wiederholungen von Ihrem halbgewalkten Treibhauseffekt koennen sie lassen. Sie beruecksichtigen nicht mal, das die Abstrahlhoehe eine Ableitung der Luftdichte ist. UNd wenn mehr CO2 da ist, dann strahlt auch mehr Energie aus der Atmopshaere in den Weltraum.
+Sie sind doch Wissenschaftler, xxxxxx
+„Referenz zu (1.2.1): „Grundlagen des Treibhauseffektes für EIKIANER“ (2016)
+Kernaussage (1.2.1), Zitat aus der Referenz mit Hervorhebungen: „Die Erdoberfläche strahlt Wärme mit durchschnittlich 390 Watt pro Quadratmeter ab. Das entspricht der Wärmeabstrahlung eines sog. Schwarzen Körpers bei 15°C. In 70 km Höhe strahlt die Erde nach Absorption durch Treibhausgase und Wolken innerhalb der Atmosphäre nur noch Wärme mit durchschnittlich 240 Watt pro Quadratmeter ab. Das entspricht der Wärmeabstrahlung eines sog. Schwarzen Körpers bei -18°C. Die Differenz zwischen Boden und 70 km beträgt 150 Watt pro Quadratmeter und 33°C. Das ist die sog. Differenz für den natürlichen Treibhauseffekt.““
+Finden Sie auch so in diversen Lehrbüchern zur Physik der Atmosphäre. Und können Sie auch messen. Von Satelliten aus messen Sie eine Abstrahlungstemperatur der Erde von -18°C und am Erdboden im Mittel um die 15°C.
+Das sind keine Thesen, dass ist Grundlagenwissen der Atmosphärenphysik und Astronomen.
+Auch von Venus und Mars können Sie die Abstrahlungstemperatur bestimmen und die Bodentemperatur messen. Aus der Differenz ergibt sich auch dort der natürliche Treibhauseffekt.
+Wie kommen Sie auf die 70 km. Meines Wissens nach ist es dort viel, viel kälter.Stimmt das, was hier geschrieben wird nicht? https://www.space.com/17683-earth-atmosphere.html
+240 W/m2 strahlt der Erde dort ins All ab, dass entspricht -18°C Strahlungstemperatur. Diese 240 W/m2 empfängt die Erde auch von der Sonne. Einstrahlung=Ausstrahlung.
+Das es am Erdboden wärmer ist, um die 15°C, liegt daran, dass wir eine Atmosphäre haben, die die Wärmeabstrahlung vom Erdboden ins All behindert.
+Das ist auch bei Venus und Mars so. Aus der Differenz zwischen der gemessenen Temperatur am Boden zur Abstrahlungstemperatur ins All ergibt sich dort jeweils der natürliche Treibhauseffekt.
+Nochmal die Frage: Wie kommen Sie darauf, dass in 70 km Höhe eine Temperatur von – 18 ° herrscht.
+Und kennen Sie diese Aussage: In der Bundestagsdrucksache 11 /3246 (Bericht der Enquete-Kommission zum Schutze der Erdatmosphäre vom 2. November 1988) wird auf Seite 188 festgestellt:
+Sie verlegen die 240 W (≈ 236 W) in 70 km Höhe.
+Wer hat Recht?
+Nicht nur in 70 km, sondern auch in 100 km, oder 300 km, also im All misst man diese -18°C Abstrahlungstemperatur der Erde ins All. Z.B. der CERES-Satellit.
+In ca. 5.000-6.000 m Höhe misst man eine Umgebungstemperatur von -18°C.
+Das ist die mittlere Abstrahlungshöhe, aus der der Erde und Atmosphäre ihre Wärme ins All abstrahlen.
+Dann muss das wohl falsch sein:
+The mesosphere starts at 31 miles (50 km) and extends to 53 miles (85 km) high. The top of the mesosphere, called the mesopause, is the coldest part of Earth’s atmosphere, with temperatures averaging about minus 130 degrees F (minus 90 C). This layer is hard to study. Jets and balloons don’t go high enough, and satellites and space shuttles orbit too high. Scientists do know that meteors burn up in this layer.
+Earth’s Atmosphere: Composition, Climate & Weather
+https://www.space.com/17683-earth-atmosphere.html
+Es geht hier um Strahlungs-Temperaturen, die mit einem IR-Thermometer gemessen werden, das auf die Erd-Oberfläche gerichtet ist.
+Bitte erläutern:
+1. Wie kann man eine Strahlungstemperatur von einer „richtigen“ Temperatur unterscheiden?
+2. Wenn ich es richtig verstehe, dass wird über den 70 km (per Satellit) ein Ir-Thermometer auf die Erdoberfläche gerichtet.
+a.Was misst dieses Thermometer?
+b. Woher weiß man, dass der Wert von – 18 °C oder 240 W/m^2 der Höhe von 70 km zuzuordnen ist.
+2. Mal ist in 5 km höhe eine Strahlungsflussleistung von 240 W/qm zu messen, mal soll das in 70 km Höhe der Fall sein.Was ist richtig?
+Die registrierten 240 W/m2 koennten in 5 km und 70 km vielleicht gleich sein, weil man in Richtung Erdboden misst. Die von den THG absorbierte Strahlung verschleiert teilweise die Temperatur der Oberflaeche, bzw filtert Photen aus der Oberflaechenabstrahlung. Dadurch ist ein Bereich des Spektrums das vom Satellit gemessen wird, der Abstrahlung bei ungefaehr 5km geschuldet. Wer daraus eine Temperatur macht, kommt vielleicht auf diesem Wege zur Aussage der 240 W/m2. Nur leider ist die Abstrahlung der Atmosphaere nur ein paar in die 90 W/m2 (Bandstrahlung Wasser, Ozon und CO2). Der Rest kommt immer noch von der Oberflaeche.
+Ab 5 km Hoehe ist die Dichte der Atmosphaere so gering, das mehr oder weniger alle Strahlung die Atmosphaere verlassen kann. Das kommt dann am Satelliten an, dazwischen ist nicht mehr so viel, ausser etwa das Ozon in der Stratosphaere jedoch bei tieferen Temperaturen.
+Die Thermosphaere ist ein Bespiel wie sich die Temperaturen bei geringer Dichte verhalten koennen. Aber bisher habe ich noch keinen von einem Strahlstrom entsprechend der Temperatur reden gehoert.
+So sehe ich das auch. Aber vielleicht, nur vielleicht, haben wir dabei ja irgendeine Annahme, die genau das zu postulieren erlaubt, übersehen. Wer weiß? Es müsste sich eigentlich leicht klären lassen.
+Ein IR-Fernthermometer vom Satelliten, oder einer Sonde in 70 km Höhe oder im All misst eine Strahlungstemperatur der Erde von -18°C.
+Der Wert -18°C ist nicht 70 km Höhe zuzuordnen. Ein IR-Fernthermometer kann man auch unterschiedlich weit von einem Objekt platzieren, dessen Temperatur man messen will und es zeigt immer die gleiche Abstrahlungstemperatur des Körpers an.
+-18°C hat man bei der Erde in 5.000-6.000 m Höhe. Somit entspricht die Abstrahlungstemperatur der Erde ins All einer Temperatur, die man bei 5.000-6.000 m Höhe vorfindet.
+Das ist alles.
+So klingt es auch sehr nachvollziehbar. Danke. Und diese Temperatur von – 18 ° in 5000 m Höhe lässt sich ziemlich genau nach der adiabatischen Höhenformel berechnen, wenn man als Ausgangswert 15 °C am Boden annimmt.
+Was bleibt da noch für den Treibhauseffekt übrig?
+Die Messung der Strahlungs-Temperatur mit Hilfe von Satelliten können Sie der Veröffentlichung von CERES entnehmen
+https://ceres.larc.nasa.gov/documents/DQ_summaries/CERES_EBAF_Ed4.1_DQS.pdf
+„Each CERES instrument measures filtered radiances in the shortwave (SW; wavelengths between 0.3 and 5 μm), total (TOT; wavelengths between 0.3 and 200 μm), and window (WN; wavelengths between 8 and 12 μm) regions.“
+Die von der Erde emittierte IR-Strahlung ergibt sich dann als Differenz von TOT – SW. Die Messung der „richtigen“ Temperatur mit Hilfe von Satelliten ist Ihr Problem.
+2a).“Was misst dieses Thermometer?
+Mir ist nicht bekannt wie TOT gemessen wird. Ich nehme an dass es ein Bolometer ist.
+2b) „Woher weiß man, dass der Wert von – 18 °C oder 240 W/m^2 der Höhe von 70 km zuzuordnen ist.“
+Die Strahlung kommt aus verschiedenen Höhen inkl. Oberfläche. Das Mess-Prinzip lässt es nicht zu festzustellen aus welcher Höhe die Strahlung stammt. Dazu benötigt man detaillierte Strahlungs-Transfer-Rechnungen
+https://www.space.com/17683-earth-atmosphere.html
+„The thermosphere extends from about 56 miles (90 km) to between 310 and 620 miles (500 and 1,000 km). Temperatures can get up to 2,700 degrees F (1,500 C) at this altitude. The thermosphere is considered part of Earth’s atmosphere, but air density is so low that most of this layer is what is normally thought of as outer space. In fact, this is where the space shuttles flew and where the International Space Station orbits Earth.“
+Nach Ihrer Theorie müsste es ja auf der ISS sehr heiß sein.
+Das ist mir sehr gut bekannt, ebenso wie die Ursache für dieses auf den ersten Blick merkwürdige Phänomen. Doch anders als Sie glauben habe ich gar keine Theorie genannt.
+Ein simplifizierender Vergleich:
+Die Flamme einer Kerze hat ca. 800°C. Versuchen sie mal, damit das Haus zu heizen.
+Btw, auf der ISS ist tatsächlich nicht die Heizung das größere Problem, sondern die Wärme wegzubekommen!
+Es gibt ja im All keine Wärmeleitung, keine Konvektion, nur Strahlung.
+CO2 Partialdruck Erde: 36 Pa
+Mars: 608 Pa
+Effektive Einstrahlung: Erde: 239 W/m²
+Mars: 125 W/m²
+Strahlungsgleichgewichtstemperatur Erde : 255 K
+Mars : 226 K
+Mittlere Temperatur in Bodennähe : Erde : 290 K
+Mars : 210 K
+CO2 Masse Erde
+CO2 concentration by weight is obtained by the formula below:
+0.0383 V% x [44.0095/28.97] = 0.0582 m% CO2
+whereby molar mass CO2=44.0095 g/mole
+and mean molar mass of air=28.97 g/mole
+Then, to obtain the total mass of CO2, via wikipedia: according to the National Center for Atmospheric Research, “The total mean mass of the atmosphere is 5.1480×10^18 kg.
+Thus, the total weight of CO2 = 0.0582% x 5.1480 x 10^15 tonnes
+= 2.996×10^12 tonnes = 2.996 x 10^15 kg
+Masse Atmosphäre Mars (95% CO2)
+Total mass of atmosphere: ~2.5 x 10^16 kg =
+Mars hat ~10 x mehr CO2 als die Erde, aber von einem „Treibhauseffekt“ keine Spur. Den gibt es nur auf der Erde, da wo die grünen Männchen wohnen….
+Hier habe ich das beschrieben.
+https://webcache.googleusercontent.com/search?q=cache:RlahOR60q6QJ:www.science-skeptical.de/klimawandel/der-treibhauseffekt-auf-erde-venus-mars-in-einer-abbildung/0017496/+&cd=1&hl=de&ct=clnk&gl=de
+Der Mars ist der kühlste Planet und strahlt am wenigsten Wärme von den drei Planeten ab. Die mittlere Abstrahlungstemperatur liegt bei -62°C. Die mittlere Bodentemperatur liegt bei -55°C. Die Differenz von rund 7°C beschreibt den sogenannten natürlichen Treibhauseffekt auf dem Mars.
+Das Treibhausgase, das die Wärmeabstrahlung behindert ist hier vor allem das CO2. Wasserdampf kommt auf dem Mars nur in Spuren vor. Das CO2 verursacht auch auf dem Mars bei 15 Mikrometer einen kleinen, aber tiefen Absorptionstrichter. Die Marsatmosphäre ist zwar sehr dünn, aber Aufgrund der hohen CO2-Konzentration ist auch dort der CO2-Absorptionstrichter bei 15 Mikrometer Wellenlänge zwar klein, aber sehr tief. D.h. es kommt auch hier kaum noch etwas von der Wärmeabstrahlung der Marsoberfläche durch. Da der grau-schattierte Bereich aber nur sehr klein ist, handelt es sich nur um einen kleinen Treibhaus-Effekt.
+http://www.science-skeptical.de/wp-content/uploads/2019/02/Venus-Erde-Mars-Spektrum.gif
+Um es nochmal zu vereinfachen. Jeder feste Planet mit einer Atmosphäre hat auch einen Treibhauseffekt. Ganz einfach, da die Atmosphäre im IR die Wärmeaustrahlung des Bodens behindert! Das tun THG, Wolken und auch zweiatomige Moleküle durch Streuung. Dadurch wird nicht vom warmen Boden ins All abgestrahlt, sondern aus der Atmosphäre heraus, die nach oben idR kälter wird. Und da es oben nun mal kälter ist, wird dort weniger Wärme abgestrahlt. Folglich muss sich die Atmosphäre darunter erwärmen, solange bis sie dort oben genauso viel Wärme abstrahlt, wie sie von der Sonne zuvor empfangen hat.
+genau diese „Vereinfachung“ be-unruecksichtigt die wichtigsten Qualitaeten die die Atmosphaeren aufzuweisen haben – Masse.
+Die Venus hat nen Schafspelz aus SO2 und Co2 um den Hals, der dafuer sorgt, das es schoen warm ist. Der Mars hat ne duenne Jacke an und friert und die Erde hat ne ausreichende Isolierung genau dazwischen. Die Dicke der Jacke aeussert sich im Luftdruck, aber wie bei jeder anderen Isolierung, je dicker desto besser.
+Und Wärmedurchgangskoeffizient nicht vergessen. Fuer die Luft nicht so hoch also bessere Isolierwirkung. Waermeleitung spielt die Hauptrolle fuer jede Isolierung. Aber ob sie zurueckstrahlt, spielt keine Rolle. Abgesehen davon ist die Atmosphaere ein mieser Strahler.
+Wolken zeigen uns das immer wieder. Bodenfrost bei klarem Himmel, ein Zeichen der das die Atmosphaere keine Strahlkraft hat.
+Versteh´ich da etwas miß?
+Sie reden von N2 und O2 und der Autor von H20, CO2 etc., das die Strahlung diffus wird, ändert doch nichts daran, dass sie letzendlich in das Weltall entweicht.
+Also im energetischen Nullsummespiel der Strahlungsstreuung finden sie die Wirkursache des Treibhauseffektes?
+Und der Blaue Himmel macht die Erde waermer als sie ansonsten waere?
+Sie haben UNrecht wenn sie sagen, die Waerme entweicht nicht gerichtet in den Weltraum. Sie tut es. Es gibt keinen nennenswerten Waermefluss von der Atmosphaere zur Oberflaeche.
+Ja ein Versuch war es. Mehr auch nicht.
+Wenn sie als Vergleich die Bettdecke heranziehen, geben sie mir dann in den folgenden Punkten recht?:
+1. Die Bettdecke verhindert konvektiven Waermeverlust
+2. Die Bettdecke fuegt eine Isolierung ein, die ueber Waermeleitung funktioniert
+3. Bettdecken enthalten viel Luft welche eine geringe Waermeleitung hat
+4. Die Atmosphaere enthaelt viel Luft die eine geringe Waermleitung hat.
+5. Der Treibhauseffekt ist eine Isolierwirkung, so wie wir sie von der Bettdecke kennen, also funktioniert der THE durch die geringe Waermeleitung der Luft
+mfg Werner
+Es gibt also keine „Gegenstrahlung“ aus dem CO2 Trichter die die Bodentemperatur eines Planeten über seine Strahlungsgleichgewichtstemperatur hinaus anheben könnte. Nicht auf dem Mars und auch nicht auf der Erde….
+Doch, genau darum geht es beim THE. Auf Erde, Venus und Mars. Der Trichter zeigt, wo die Wärmeausstrahlung des Bodens behindert wird und in welcher Größe.

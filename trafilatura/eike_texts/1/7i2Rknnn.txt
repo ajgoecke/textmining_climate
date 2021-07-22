@@ -1,0 +1,190 @@
+Dazu als Ausführung: Ein Ereignis, zwei Interpretationen.
+Neujahr 2018, sechs Uhr früh: Ein EEG-Märchen wurde „wahr“, weil die offiziellen Verbrauchsangaben um 22 % differieren
+Süddeutsche Zeitung 4. Januar 2018: [1] … Als es endlich soweit ist, liegt fast ganz Deutschland friedlich in den Federn. Es merkt auch keiner nach dem Aufstehen. Kein Wecker blinkt, weil zwischenzeitlich der Strom ausgefallen ist. Dabei hat sich Deutschland gerade zum ersten Mal in der Geschichte komplett mit Ökostrom versorgt: am Neujahrsmorgen um sechs Uhr.
+Das jedenfalls belegen die offiziellen Zahlen der Bundesnetzagentur, die auf der Plattform Smard für jede Stunde Angebot und Nachfrage im deutschen Stromnetz abbildet. Naturgemäß ist die Nachfrage an einem Neujahrsmorgen schwach, der Verbrauch liegt bei knapp 41 000 Megawattstunden. Das ist etwas mehr als die Hälfte dessen, was an einem normalen Werktag verbraucht wird. Allerdings weht in den frühen Morgenstunden des neuen Jahres auch ein ordentlicher Wind: Allein er stillt 85 Prozent der Stromnachfrage. Wasserkraft und Biomasse besorgen den Rest. Die Sonne ist noch nicht aufgegangen, sie sorgt erst mittags für zusätzlichen Ökostrom. „Niemand hat erwartet, dass wir die 100 Prozent ausgerechnet an einem Wintertag früh morgens erreichen“, sagt Rainer Baake, zuständiger Staatssekretär im Bundeswirtschaftsministerium …
+Die GRÜNEN legten nach und meldeten: [14] Deutschland kann 100 Prozent Ökostrom.
+Wie sich das EEG-Märchen vom Neujahrstag im Netz selbst darstellte, ist anbei anhand der Darstellung aus dem Agora-Viewer gezeigt:
+Nach den Daten von Agora war es selbst in diesen wenigen Stunden nicht so euphorisch, wie es die SZ und der Staatssekretär, Herr Baake meldeten.
+Agora-Daten am 01.01.2018, 06 h:
+– Verbrauch: 49,948 GW
+– Regenerative Erzeugung gesamt: 42,898 GW
+– Anteil EEG-Versorgung damit: 86 %
+Bezüglich der Daten gibt es allerdings unterschiedliche Angaben. Bei der Entso-e wurden für diese Stunde wohl nur ca. 42.000 MW Verbrauch angegeben [3], wonach die 100 % „EEG-Energieerfüllung“ stimmen würde. Anmerkung: Im SZ-Artikel sind es 41,09 MWh.
+Auf die Nachfrage bei Agora nach der Diskrepanz zwischen den beiden Portalangaben kam eine vorbildlich schnelle und freundliche, leider etwas kryptische Antwort:
+Antwort von Agora: … Während das Agorameter die gleiche Datenquelle (über EEX) nutzt, werden hier die Daten mit bestimmten Korrekturfaktoren verrechnet (sehen Sie hierzu die Dokumentation … Dies geschieht, da die Daten von ENTSO-E nicht die gesamte Produktion abdecken. Aufgrund dieser Verrechnung kommt das Agorameter auf eine abweichende Produktion, somit auch Nachfrage und letztendlich auch Erneuerbaren-Anteil an der Nachfrage ...
+Der Autor leitet daraus ab, dass Agora überzeugt ist, die genauere Darstellung zu geben (Bild 1). Was sind auch schon ca. 15 % Datendifferenz, wenn man EEG-Strom sowieso im Überfluss hat [4]. Kleinlichkeit schadet da nur, mögen sich SZ und Staatssekretär gedacht haben. Und wer weiß schon, wann eine solche Stunde wieder kommt.
+Vollkommen unabhängig vom Autor fiel dies auch „Vernunftkraft“ auf und diese Seite kam mit genau der gleichen Überlegung (Und Nachfrage) zum gleichen Ergebnis wie der Autor:
+Basieren die politischen „Zerschlagungseuphorien“ zu unserem Energiesystem auf Datenfehlern?
+Beim Betrachten des enormen Datenunterschiedes beim Verbrauch kommt man ins Grübeln. Der Gesamtanteil Braunkohle am Energiemix beträgt ca. 23 %. Der Datenunterschied beträgt ca. 22 %. Basiert die Euphorie hochrangiger Politiker*innen und bestimmter Parteien, zum Beispiel die Braunkohlekraftwerke problemlos abschalten zu können, ganz einfach auf Datenfehlern? Wundern würde man sich darüber nicht (mehr).
+Es wäre für die AfD eine gute Gelegenheit, über eine Anfrage an den Datendienst des Bundestages diese eklatante Diskrepanz zwischen den Infoportalen (er)klären zu lassen.
+Experten sehen in dem Rekord einen Impuls, die Energiewende entscheidend voranzutreiben
+In Deutschland findet sich inzwischen wohl zu jedem Thema ein Überangebot an Experten und so fand auch die SZ wohl welche, die aus dem Ereignis das Positive herausschälen konnten:
+Süddeutsche Zeitung: [1] Experten sehen in dem Rekord einen Impuls, die Energiewende entscheidend voranzutreiben.
+Fachpersonen empfehlen eher, mit dem EEG-Wahnsinn aufzuhören
+Im Folgenden eine Darstellung, warum man aus diesem „geschichtlichen“ Ereignis alternativ auch weniger einen Erfolg, sondern das Desaster des EEG herauslesen kann. Das wurde vom Autor (und anderen) zwar in vielen Artikeln schon publiziert, bei einem solchen, ganz Deutschland betreffendem Thema, kann man es jedoch nicht oft genug wiederholen.
+Das folgende Bild erweitert den kurzen Zeitraum des Neujahrsmorgens auf einen Monat.
+Sofort sieht man, dass den (vielleicht – eher jedoch nicht) wenigen Stunden „EEG-Planerfüllung“, ausschließlich Zeiten gegenüberstehen, in welchen – so man sich auf das EEG verlassen müsste – eklatanter Energiemangel herrscht, welcher bis zur praktisch vollständigen Energiedunkelheit über eine ganze Woche reicht (A: 15. … 23. Dezember).
+Wie es das folgende Bild 3 zeigt, gilt dies auch für Wind offshore, der angeblich Grundlastfähigkeiten besitzen soll, wie es „Experten“ – die ja keine Fachpersonen sein müssen – regelmäßig versichern:
+EIKE 11.01.2017: Der Wind weht überhaupt nicht immer irgendwo: Ein Nachtrag zum Märchen von der Wind-Grundlastfähigkeit
+Münchner Stadtwerke: Christian Vogt, Leiter des Beteiligungsmanagements der Stadtwerke München:
+… Bis 2025 wollen wir so viel Ökostrom erzeugen, wie ganz München verbraucht. Eine ganz wesentliche Bedeutung bei der Umsetzung hat die Windkraft, insbesondere Offshore. Sie hat das größte Potenzial und ist sogar grundlastfähig.
+Außer, dass eine reine EEG-Versorgung wegen der nicht-Planbarkeit und dem fast vollständigen Fehlern ausreichend großer Speicher ein Desaster wäre, kann man eigentlich nichts anderes herauslesen.
+„Experten“, wie der beamtete Aktivist, Herr Baake (GRÜNER und ehemals mit-Bundesgeschäftsführer der Deutschen Umwelthilfe) verkünden jedoch dazu:
+[1] … Das Geschehen zeigt, dass wir noch mehr Flexibilität brauchen“, sagt Baake, „inflexible Großkraftwerke behindern die Energiewende“ …
+Wer behindert wen?
+Das mit der Flexibilität mag stimmen. Nachdem der EEG-Flatterstrom im Stundentakt gewaltige (unplanbare) Sprünge macht, wäre für das parallel immer erforderliche Backup-Versorgungssystem die gleiche – aber nun planbare – Sprunghaftigkeit nicht schlecht. Allerdings ist erwiesen, dass es stattdessen viel billiger und einfacher ist, den EEG-Überschuss einfach wegzuwerfen – heißt abzuregeln (wird i einem späteren Kapitel noch ausgeführt). Würde man gar die bedingungslose EEG-Vorrangeinspeisung beenden, wäre das Problem sowieso ganz schnell durch den Markt bereinigt.
+„Experten“ sprechen zwar davon:
+[1]… Das sehen Experten ähnlich. „Wir treten damit in eine neue Phase“, sagt Felix Matthes, Energie-Experte beim Öko-Institut. „Die Erneuerbaren sind damit endgültig aus der Nische heraus.“ Nun schlage die Stunde des Marktes.
+Doch meinen diese mit „Markt“ etwas ganz anderes, nämlich dessen vollständige Zerschlagung:
+WIKIPEDIA:… Unter Baakes Leitung half die Deutsche Umwelthilfe daher Bürgerinitiativen, Kommunalpolitikern und Landesregierungen in Auseinandersetzungen gegen neue Kohlekraftwerke ...
+Solche Aussagen – teils beamteter Personen an entscheidungsrelevanten Positionen – sind insofern erschütternd, weil im Bild 2 (und nicht nur dort [4]) erkennbar ist, dass die verbliebenen, konventionellen Kraftwerke das EEG nicht behindern, sondern dessen einzige Rettung sind. Man hat auch bei diesem Staatssekretär den Eindruck, dass als Hauptaufgabe vorrangig die Zerschlagung des Stromsystems gesehen wird und die negativen Folgen bewusst in Kauf genommen werden [5] [7], wie es allerdings auch seine Partei und Frau Hendricks [4] fordern.
+Die Rettungsgasse und die Sankas sind die „Freie Fahrt“ Blockierer
+Bei jeder Nachschau im EEG-System stellt man fest, dass das EEG alleine durch die (zum Glück noch) vorhandenen, konventionellen Kraftwerke vor dem Infarkt gerettet wird [4] [6]. Wer dennoch behauptet, diese würden die Netze verstopfen (zum Beispiel auch die „Expertin“, Frau C. Kemfert), hat entweder keine Ahnung, oder ideologische Scheuklappen. Wobei „keine Ahnung“ eher bei Personen in höchsten, politischen Ämtern zu vermuten ist. Um nicht immer nur die unselige Frau Hendricks zu zitieren, anbei andere Beispiele:
+WELT N24, 31.05.2016: Kohlekraftwerke „verstopfen“ Stromnetze
+… Der Kieler Energieminister Robert Habeck (Grüne) sagte der Deutschen Presse-Agentur: «Wir haben ja nicht zu viel Erneuerbaren Strom, sondern Kohle- und Atomkraftwerke, die das Netz verstopfen. Wenn die aus den Netzen verschwinden würden, hätten wir ordentlich Platz.»
+Bündnis 90 Die Grünen, 05.01.2018: [14] Deutschland kann 100 Prozent Ökostrom
+… Der erste Schritt ist, dass die alten, unflexiblen Kraftwerke vom Netz gehen. Die Atommeiler werden bis 2022 abgeschaltet. Doch sehr schnell müssen jetzt auch die alten Kohlekraftwerke raus aus der Produktion. Das schützt nicht nur das Klima, sondern bringt auch den Strommarkt wieder in Ordnung. Die Dinosaurier aus der alten Energiewelt müssen wir dann durch Erneuerbare sowie flexible und umweltfreundliche Kraftwerke oder Speicher ersetzen. So sieht die Stromwelt der Zukunft aus.
+Jedenfalls erinnert es an Autofahrer, welche im Stau stehen und sich über die Rettungsgasse und Feuerwehrautos beschweren, welche die Autobahn „verstopfen“ und die freie Fahrt behindern. Bei den GRÜNEN kommt noch dazu, dass sie Wünsche als bereits gelöste Probleme „verkaufen“.
+Wie im Sozialismus: Mangel ist doch ein Segen – und irgendjemand profitiert schon davon
+Die SZ als bezahlpflichtige, „GRÜNE Parteizeitung“, kann nicht anders, als überall Erfolge zu sehen. Parallel mit der C. Kemfert ist auch die SZ überzeugt, dass negative Börsenstrompreise „allen nutzt“. Gut, mit der Einschränkung: „ die Strom flexibel nachfragen können“, womit Privatverbraucher leider weitgehend ausgeschlossen sind. Das bringt nach SZ-Lesart jedoch kaum einen Nachteil, denn an den horrenden Differenz-Kosten sind sie dafür immer beteiligt.
+Süddeutsche Zeitung: [1] … Auch am Strommarkt geht das Ereignis nicht spurlos vorbei. An der Börse fällt der Strompreis am frühen Neujahrsmorgen auf minus 76 Euro pro Megawattstunde. Wer Strom erzeugt, muss in den ersten Stunden des neuen Jahres also Geld drauflegen, um ihn loszuwerden. Der Grund: Während Ökostrom erstmals mehr als genug Strom produziert, laufen konventionelle Kraftwerke weiter, vor allem Export. Doch sie erzeugen mehr, als gebraucht wird
+Süddeutsche Zeitung: [1]… Das sehen Experten ähnlich …
+(Felix Matthes, Energie-Experte beim Öko-Institut:) …Denn wenn die Preise stark schwanken, dann nutzt das all jenen, die ihren Strom flexibel nachfragen können. Batterien und andere Speicher lassen sich aufladen, Kühlhäuser herunterkühlen. Bei negativen Preisen lässt sich damit sogar Geld verdienen. Wird Strom knapp, lässt sich die gespeicherte Energie teurer verkaufen.
+Am besagten Neujahrstag bekamen also beispielhaft „Kühlhausbesitzer“ für die Abnahme von einer MWh Strom noch 76 EUR – also 7,6 Cent/kWh – Zuzahlung. Schade für die Besitzer, welche es vorher nicht wussten und ihr Kühlhaus vorschriftsmäßig bereits kalt hatten. Jedenfalls: Diese Gelegenheit zu einer Zeit, da man sowieso nichts Besseres zu tun hatte, werden sicher alle klugen Privatkunden in Deutschland spontan genutzt haben.
+Die es konnten, wurden in den wenigen Stunden mit 28,4 Millionen EUR (zusätzlich zum Strom) belohnt [3]. Etwas konsequenter und mit dem doppelten Effekt soll Österreich dieses Geschäftsmodell nutzen: Es nimmt gegen Zuzahlung deutschen Überschussstrom ab und leert seine Pumpspeicher-Kraftwerke, wenn Deutschland wieder dabei ist, im EEG-Strommangel zu versinken.
+Um keinen Neid aufkommen zu lassen, möge jeder seinen Nachbarn befragen, wie (viel) er am Neujahrsmorgen von diesem grandiosen Vorteil des EEG partizipiert konnte. Konnte er nicht, war wenigstens auch er an den Kosten beteiligt.
+Letztes Jahr waren dies (zusätzlich zu den EEG-Zwangs-Einspeisekosten): [3]
+-Ca. 1 Milliarde EUR für Redespatchmaßnahmen und
+-ca. 0,9 Milliarden EUR für Abregelungkosten (Zwangsvergütung an „Energieernter“ für nicht eingespeisten EEG-Strom)
+Und diese „Erfolge“ werden immer größer werden.
+Epoch Times 1. January 2018: Stromnetz unter Druck – Tennet meldet Rekordkosten für Noteingriffe (dpa)
+Fast eine Milliarde Euro musste der Netzbetreiber Tennet 2017 für sogenannte Noteingriffe ins Netz zahlen. Ursache ist der Ausbau der erneuerbaren Energie … … Der Präsident der Bundesnetzagentur, Jochen Homann, sieht Milliardenkosten auf die Verbraucher zukommen.
+Die GRÜNEN haben wenigstens „erkannt“, dass negative Börsenpreise irgendwie doch „etwas Schlechtes“ sind. Wie bei dieser Partei üblich, treibt man den Teufel dann bedenkenlos mit dem Belzebub aus und Kosten spielen bei dieser Partei – wo Wünsche als Tatsachen „verkauft“ werden – sowieso keine Rolle:
+Bündnis 90 Die Grünen: [14] … Es kann nicht sein, dass an jedem Feiertag, wenn der Wind auffrischt und die Sonne aufgeht negative Preise drohen. Dieser Irrsinn muss aufhören …
+… Flexibilität ist also das neue Zauberwort der Energiewende, doch sie zu erreichen ist keine Hexerei. Der erste Schritt ist, dass die alten, unflexiblen Kraftwerke vom Netz gehen. Die Atommeiler werden bis 2022 abgeschaltet. Doch sehr schnell müssen jetzt auch die alten Kohlekraftwerke raus aus der Produktion …Die Dinosaurier aus der alten Energiewelt müssen wir dann durch Erneuerbare sowie flexible und umweltfreundliche Kraftwerke oder Speicher ersetzen. So sieht die Stromwelt der Zukunft aus.
+Den (durch den bedingungslosen EEG-Einspeisevorrang) erzeugten Stromüberfluss wegwerfen, ist immer noch die billigste Rettung
+Man erinnere sich:
+-Der negative Strompreis während dieser „erfolgreichen, wegweisenden Ökostunden“ betrug 7,6 Cent/KWh,
+-die mittlere EEG-Einspeisevergütung beträgt derzeit ca. 15,78 Cent/kWh [15].
+Die Differenz von 23.5 Cent/kWh! bezahlt fast alleine der private Stromkunde.
+-Wirklich wert ist der Strom aber lediglich die typischen 3 … 4 Cent/kWh (Bild 4 ab ca. 18h).
+Alleine diese Gegenüberstellung zeigt den reinen Wahnsinn, welchen dieses Subventionssystem generiert hat und wie man es nur noch aus den schlimmsten Zeiten der EU-Agrarsubventionierungen kennt, als Butter in Kühlschiffen auf dem Meer „zwischengelagert“ wurde und in Griechenland hochsubventionierte – aber nicht absetzbare – Ernten vom Baum direkt auf die Müllkippe kamen.
+Im deutschen EEG-System hat man dieses Verfahren zur neuen Blüte weiter-entwickelt, ein Ende ist nicht abzusehen.
+GRÜNE: Deutschland kann 100 Prozent Ökostrom
+Bei manchen Politker*innen ahnt man, dass ihre Aussagen (hier zur Energie) auf reiner Dummheit beruhen. Frau Hendricks [4] und Cem Özdemir 16] sind dafür eklatante Beispiele.
+Wenn aber eine ganze Partei Fakten verdreht und die Bürger damit bewusst in die Irre führen will, sollte man es eigentlich nicht mehr tolerieren. Der Autor sieht einen solchen Vorgang mit der Meldung der GRÜNEN: [14] Deutschland kann 100 Prozent Ökostrom.
+In den frühen Morgenstunden des Neujahrstages 2018 vollzog sich, von der Öffentlichkeit fast unbemerkt, etwas für viele Überraschendes. Wind, Wasser und Biomasse lieferten ausreichend Strom, um erstmals den gesamten Bedarf in Deutschland abzudecken. In diesem Moment hätte die Stromversorgung also erstmalig klimaneutral sein können. War sie aber in der Realität nicht. Denn allen Ökostroms zum Trotz liefen auch die Atom- und Kohlekraftwerke weiter – und erzeugten überflüssigen Strom, der in die Nachbarländer exportiert werden musste.
+Wir haben in Deutschland bei der Energiewende viel erreicht .. Dank dieses Engagements kann Deutschland jetzt die Stromversorgung mit 100 Prozent Ökostrom gewährleisten.
+Aber jetzt müssen dringend die nächsten Schritte folgen. Es kann nicht sein, dass an jedem Feiertag, wenn der Wind auffrischt und die Sonne aufgeht negative Preise drohen. Dieser Irrsinn muss aufhören, und das Rezept ist längst bekannt: Die Flexibilität in der Stromversorgung erhöhen. So kann auch in einer Welt stark schwankender Wind- und Solarstromerzeugung die Versorgung jederzeit kostengünstig, sicher und klimaverträglich gewährleistet werden. …Flexibilität ist also das neue Zauberwort der Energiewende, doch sie zu erreichen ist keine Hexerei. Der erste Schritt ist, dass die alten, unflexiblen Kraftwerke vom Netz gehen. Die Atommeiler werden bis 2022 abgeschaltet. Doch sehr schnell müssen jetzt auch die alten Kohlekraftwerke raus aus der Produktion. Das schützt nicht nur das Klima, sondern bringt auch den Strommarkt wieder in Ordnung. Die Dinosaurier aus der alten Energiewelt müssen wir dann durch Erneuerbare sowie flexible und umweltfreundliche Kraftwerke oder Speicher ersetzen. So sieht die Stromwelt der Zukunft aus.
+Ist es nicht eine Unverschämtheit (das dort stehen sollende Wort wurde wegen der Maas-Netzwerkregeln nicht eingesetzt):
+Da liefert GREEN-Strom in ganz wenigen – nicht vorhersehbaren – Stunden im Jahr ungefähr der Hälfte des typisch benötigten Strombedarfes,
+und daraus erdichtet eine Partei: Deutschland könne jetzt die Stromversorgung mit 100 Prozent Ökostrom gewährleisten.
+Wer zu einem so wichtigen Thema, wie der Energieversorgung Deutschlands so bewusst und eklatant falsch informiert, hat doch jegliche Glaubwürdigkeit verspielt. Anstelle es dieser Partei jedoch „um die Ohren zu hauen“, findet sich nirgendwo ein Protest oder eine Rüge (zumindest hat der Autor nichts gefunden).
+Der Wahlslogan dieser Partei sollte vielleicht umgetextet werden:
+Die GRÜNEN haben seit Längerem zwar kein Regierungsmandat, doch ihre „Maulwürfe“ überall
+Der ehemalige Umweltminister Tritti(h)n war ein genialer Stratege. Während seiner Minister-Amtszeit sorgte er konsequent dafür, alle wichtigen Positionen mit Gesinnungsgenossen zu besetzen. Und die SPD machte mit der Besetzung solcher Schlüsselpositionen durch GRÜNE Aktivisten einfach weiter.
+Sarkastisch formuliert: Eine Frau Hendricks und eine Maria Krautsberger (Leitung Umweltbundesamt) lassen sich wohl auch in der SPD nur schwer doppeln. Weitere Personen, welche so konsequent ihre Hysterie über den Verstand siegen lassen [8] [9], holt man sich deshalb besser gleich bei der dafür prädestinierten Partei. (Mit) Ein Grund, warum Parteien wechseln können, die Gesinnung in den Ministerien aber nicht.
+Achgut.com 08.01.2018: [7] Mein Name ist Baake mit B wie Blackout
+Auf Herrn Baake ist Verlass … Wenn man sich nach Fukushima beim angekündigten Totschlag der deutschen Energiewirtschaft auf einen Mann verlassen konnte, dann war das der Herr Baake, der folgerichtig auch ohne jede grüne Regierungsbeteiligung als grüngraue Eminenz an beziehungsweise nahe der Macht bleiben durfte, zuletzt als Staatssekretär im Bundeswirtschaftsministerium, zuständig für Energiefragen.
+Dort konnte er dem Bundesrechnungshof vor einem Jahr nicht so genau sagen, wo all das Energiewendegeld seines Hauses hingeflossen ist und was genau es bewirkt, weswegen der BRH ziemlich not amused war. Baakes damaliger Chef, Sigmar Gabriel, der sinngemäß mal die Energiewende als Biotop für Bekloppte bezeichnet hat, auch wenn er dieses Diktum geschickt unseren Nachbarländern vom Maul abgeschaut zu haben vorgab, ist längst weg.
+Wer blieb, ist Baake, und wir können davon ausgehen, dass er auch die nächsten Regierungswechsel (oder -restaurationen) unbeschadet überstehen wird. Denn er wird ja gebraucht. Für die Energiewende. Und nun gehört ihm das ganze Zappelstromer Ländchen von Flensburg bis Passau, und, ja, wenn der Staatssekretär erzählt …
+Weiterlesen bitte im Original.
+Wenn Deutschland seine Visionen hat, schickt man es nicht zum Arzt, sondern die „Intelligenz“ visioniert mit
+Wenn Deutschland Visionen hat, soll daran auch immer die Welt teilhaben, besser: Genesen. Ein Grundsatz, der unerbittlich und wohl von jeder Generation beherzigt wird. Ausführende Personen in hohen, politischen Positionen finden sich immer und aus irgendwelchen Gründen gelingt es welchen an der politischen Spitze auch immer wieder, jegliche Opposition dagegen kaltzustellen. Diesmal sogar, sie zustimmend gleich ganz „verschwinden“ zu lassen. Ist das gelungen, macht auch die „gesellschaftliche Intelligenz“ begeistert mit:
+manager magazin 07.11.2017: … Mehr als 50 Unternehmen fordern raschen Kohleausstieg
+Und wenn alle mitmachen, steht auch die Kirche nie im Abseits: [10] „Ökologische Schuld“ der Industriestaaten
+… Als Lösung nennt der Papst explizit den schnellen Ausbau erneuerbarer Energien und den Ausstieg aus fossilen Kraftstoffen. Eine Absage erteilt er dem Handel mit Emissionszertifikaten, der bloß von nötigen radikaleren Lösungen ablenke …
+Das muss er (der Papst). Denn nach der Kirchenlehre entscheidet der Papst nicht einfach so, sondern wartet auf „Zeichen der Zeit“. Hat er ein solches erkannt, „weiß“ er Gottes Willen dahinter (auch wenn es wie in diesem Fall der Enzyklika, im Wesentlichen der von Herrn Schellnhuber ist).
+EIKE 18.04.2016: [12] Kirche und Klimawandel Viel „Mensch“, viele Bibelsprüche, die Orientierung vom PIK, von kritischer Reflexion keine Spur
+… Warum ist der Klimawandel ein Thema der Kirche geworden
+… Zur Begründung als christliche Offenbarung muss ein gesellschaftliches Thema als „ein Zeichen der Zeit“ festgestellt werden. Dies erfolgt mittels dem „discretio spirituum“ (Unterscheidung der Geister) einer normativen Überprüfung von göttlicher Begnadung. Die Bischöfe sind sich sicher, dass der Klimawandel dem discretio spirituum genügt und damit ein Zeichen der Zeit sei, welches den Glauben an Gott als Schöpfer und Erlöser nicht unberührt lässt …
+Dieses „Verfahren“ erklärt schlüssig, warum die Kirche immer erst hinterher „erkennt“, wenn sie in einer Beurteilung falsch lag, Gott aber nie daran schuld ist. Das „Fußpersonal“ darf und kann sich beim „ discretio spirituum“ ja irren.
+Warum diese Ausführung? Weil Deutschland dabei ist, die EU in dieses EEG-Desaster zu zwingen.
+Er hoffte, und es kam schlimmer: Die EU soll Deutschlands (nicht funktionierendes) EEG-System übernehmen
+(Anmerkung: Dieser Artikel erschien auch auf EIKE, trotzdem anbei ein Auszug daraus)
+TICHYS EINBLICK 6. Januar 2018: [5] Augen zu und durch EU – Energierat hat beschlossen: Planwirtschaft
+Immer wenn Akteure aus dem Berliner Politbetrieb wie Rainer Baake lauthals etwas von »Erfolg« verkünden, ist besonders hohe Vorsicht angebracht. »Das vom Energierat beschlossene Paket »Saubere Energie für alle Europäer« ist ein Meilenstein. Es gestaltet fast den gesamten europäischen Energierahmen neu.«, verkündete Baake Anfang dieser Woche.
+Baake ist einer der Hauptideologen der Energiewende, war früher Staatssekretär in Hessen, als Joschka Fischer Umweltminister in Wiesbaden war. Beide wollten das Kernkraftwerk Biblis sofort dichtmachen, der damalige Bundesumweltminister Töpfer verhinderte dies. Für alle Außenstehenden unverständlich machte der damalige Wirtschaftsminister Gabriel den Grünen zum Staatssekretär. Seine Nachfolgerin Zypris hat nichts daran geändert. Baake war auch einmal Bundesgeschäftsführer der äußerst dubiosen Deutschen Umwelthilfe und will das Energiesystem umbauen. Bisher allerdings trägt er die wesentliche Mitschuld an dem Energiedesaster, an extrem hohen Strompreisen und dem Ruin der alten Energieerzeuger. Der gelernte Volkswirt ist mit verantwortlich für die Vernichtung von Werten in Milliardenhöhe.
+Rainer Baake vertritt Deutschland bei den Brüsseler Energieverhandlungen. Jetzt will er nichts Geringeres als den europäischen Energiemarkt mal eben neu ordnen. Was in Deutschland schon nicht funktioniert, soll nun Europa aufgezwängt werden. »Saubere Energie für alle Europäer« soll ein Vorzeigeprojekt der EU sein. Sie basteln an einer »Energieunion«, sind sich aber darüber im Klaren, wie schwierig es werden würde, ein entsprechendes Gesetzpaket auf nationaler Ebene umzusetzen. Die EU-Kommission möchte 30 Prozent Energieeinsparung bis zum Jahr 2030 erreichen. Beachtlich hochfliegende Pläne, die Bürger Europas können sich lediglich glücklich schätzen, dass die meisten Gesetzesvorschläge als zahnloser Bettvorleger enden.
+Bisher zeigen die meisten europäischen Staaten – das abschreckende Beispiel Deutschlands vor Augen – wenig Neigung auf einen gemeinsamen Nenner zu kommen. Vor einem Jahr hat die EU ein »Winterpaket« (nennt sie tatsächlich so) vorgestellt, ein Paket an Gesetzesvorschlägen für eben »Saubere Energie für alle Europäer«.
+Mit der Parole: »keine Diskriminierung einer Stromart«
+TICHYS EINBLICK: [5] Im Wesentlichen handelt es sich um eine Verbreitung der deutschen Energievorstellungen über Europa. Unter anderem mit den Parolen »keine Diskriminierung einer Stromart«, alle Verbraucher sollen das Recht haben, Strom zu erzeugen und der Leerformel »Mehr Energieeffizienz«.
+In dieser Woche verkündet Baake lauthals, dass die »28 EU-Energieminister Weichen auf europäische Energiewende gestellt hätten«. …
+… Im Klartext: Den europäischen Ländern sollen Kohlekraftwerke verboten werden, nicht direkt, sondern über den Umweg, dass sie »an diesen Kapazitätsmärkten … nicht mehr teilnehmen (dürfen).« Klingt nicht direkt nach drastischem Verbot, ist aber im Effekt das Gleiche. Der Kohleausstieg für alle EU-Länder soll also durch die Hintertür eingeführt werden. Die Kommission hatte bereits vorgeschlagen, die Kohleverstromung in Europa zu reduzieren ….
+… Die Gefahr größerer Blackouts, vor der die Fachleute schon seit langem warnen, wird damit nicht nur Deutschland treffen, sondern auch andere EU-Länder. Auch eine Art Solidarität: Warum soll nur Deutschland allein den Untergang seiner industriellen Basis zu tragen haben?
+Weiterlesen bitte im Original: Energierat hat beschlossen: Planwirtschaft
+Hauptsache, Deutschland wird geschwächt
+Drei Mal darf man raten, wer es einmal bezahlen wird, wenn in der gesamten EU ein EEG-ähnliches „Zappelstromsystem“ errichtet ist und flautenzyklisch in sich zusammen fällt. Länder, welche ihre bewährten, konventionellen Kraftwerke vorsichtshalber jedoch nicht zurückbauen (im Gegensatz zu Deutschland, das alles Bewährte begeistert auf den Schrott wirft), werden dann Sieger. Vielleicht ein Grund, warum andere Länder daran teilnehmen.
+Nein, weil zur CO2-Verhinderung wirklich nichts auf der Welt zu aufwendig und zu teuer sein darf
+Mit dieser Aussage wird Alles und Jedes gerechtfertigt. In (vom Autor geschätzt) 99 % aller Informationen und Maßnahmeninfos zum EEG wird unisono erklärt, dass sie wegen der notwendigen (eigentlich: vorgegebenen) CO2-Minderung erfolgen.
+WELT N24, 13.12.2017: Wie Macron zeigen will, dass Klimaschutz cool ist
+Macron … Inzwischen inszeniert er sich als grüner Weltretter und Ökologe der ersten Stunde und preist erneuerbare Energien als Wachstumsfaktor an … Macron stellte darauf ein Video ins Netz. „Make our planet great again“ lautete dessen zentrale Botschaft
+… weil nach dem angekündigten Ausstieg der USA vor allem eins fehlt: das Geld, um die Energiewende zu finanzieren. 100 Milliarden Dollar pro Jahr sind den Entwicklungsländern ab 2020 in Paris versprochen worden. Auf insgesamt 90 Billionen Dollar schätzt (Weltbankchefin) Georgiewa die Summe, die im nächsten Jahrzehnt aufgebracht werden muss.
+Diese Prämisse wird nie in Frage gestellt. So lange das so ist, wird passieren, was viele religiösen Eiferer im Lauf der Geschichte schon gemacht haben: Die Bevölkerung zur Durchsetzung ihrer (klima-)religiösen Ziele (bis) zum eigenen Untergang zu zwingen.
+Quellen
+[1] Süddeutsche Zeitung 4. Januar 2018, online: Ökostrom An Neujahr versorgte sich Deutschland erstmals nur mit Ökostrom
+[2] Süddeutsche Zeitung, Printausgabe Nr. 4, 2018: Saubere Premiere
+[3] VERNUNFTKRAFT Landesverband Hessen e.V., R. Schuster: EEG-Dateninfo „Weihnachten Neujahr“
+[4] EIKE 07. Januar 2018: Ministerin Hendricks: Wir haben im Gegenteil sogar gigantische Stromüberschüsse
+[5] TICHYS EINBLICK 6. Januar 2018: Augen zu und durch EU – Energierat hat beschlossen: Planwirtschaft
+[6] EIKE 27.12.2017: Offshore lieferte jeden Tag Strom und onshore gab es im Jahr 2016 deutschlandweit keine einzige Stunde ohne Windstromerzeugung
+[7] Achgut.com 08.01.2018: Mein Name ist Baake mit B wie Blackout
+[8] EIKE 21. August 2017: POLITISCHE BILANZ: Nicht „ob“, sondern „wie schnell“
+[9] WELT N24 05.11.2017: Krautzberger: Autofahren muss im Kampf gegen Klimawandel reduziert werden
+[10] Neue Energie 18.06.15: Umwelt-Enzyklika Papst bezieht deutlich Stellung zum Klimawandel
+[11] EIKE 22.07.2016: Wurde ein Klimawandel-Einfluss bisher übersehen? Was ist, wenn Gott anstelle von CO2 das Klima lenkt?
+[12] EIKE 18.04.2016: Kirche und Klimawandel Viel „Mensch“, viele Bibelsprüche, die Orientierung vom PIK, von kritischer Reflexion keine Spur
+[13] EIKE 20.07.2017: Randalen von Atomfrontkämpfern werden von Frau Hendricks ausdrücklich als „Freunde des Staates und der Gesellschaft“ gelobt
+[14] Bündnis 90 Die Grünen, 05.01.2018: Deutschland kann 100 Prozent Ökostrom
+[15] BMWI: EEG in Zahlen: Vergütungen, Differenzkosten und EEG-Umlage 2000 bis 2018 (Stand: 16. Oktober 2017)
+[16] EIKE 15.08.2017: Cem Özdemir versucht sich in Energie
+In meinem persönlichen Umfeld beginnt langsam, aber schon seit einiger Zeit ein Umdenken. Das der Kaiser nackt ist erkennen immer mehr.
+Vielleicht kann EIKE das „Frameing“ in 2018 zu einem Teil auf Umweltschutzssünden und -probleme bringen. Nicht das Klima ist das Problem, sondern die gnadenlose Umweltzerstörung.
+Vor einiger Zeit hatte ich eine intensive Diskussion mit einem BUND-Mitglied zum Thema Windkraft. Ich konnte immerhin erreichen, dass er sich Folgendes Video ansah.
+https://www.youtube.com/watch?v=am2TkvrU8UA
+Ein kleiner Hinweis, daß es diesbezüglich Schwierigkeiten gegeben haben könnte steht weit oben im Artikel:
+„Süddeutsche Zeitung 4. Januar 2018: … Kein Wecker blinkt, weil zwischenzeitlich der Strom ausgefallen ist. Dabei hat sich Deutschland gerade … komplett mit Ökostrom versorgt…“ (Hervorhebung durch mich).
+die Netzfrequenz in D wird -gerade in Schwachlastphasen- relativ leicht von den europäischen Verbundpartnern mit deren konventionellen KW stabilisiert.
+Deutschland ist in vier Regelzonen aufgeteilt (50 Hertz, Tennet, Amprion und Transnet BW, früher hießen sie Vattenfall, e-on, RWE und EnBW), die alle einen separaten Regelzonenverantwortlichen haben, der für die Balance zwischen Erzeugung und Verbrauch verantwortlich ist. Im Normalfall (ohne geplante Energielieferung) sollte über die Schnittstellen zwischen den Regelzonen keine Ausgleichsenergie fließen.
+Die Leistungs-Frequenzregelung hat das Ziel, die Netzfrequenz auf 50,000 Hz stabil zu halten, weil die Frequenz ein direktes Maß für die Balance zwischen Erzeugung und Verbrauch ist. Sie arbeitet dreistufig aktiv als Primär-, Sekundär- und Tertiärregelung. Speziell für Primär- und Sekundärregelung kommen nur KW in Frage, deren Leistungsabgabe innerhalb von Sekunden steuerbar ist (Sekundenreserve). Gaskraftwerke und Speicher-KW eignen sich dazu am besten. Ca. 2,5% der Momentanregelzonenleistung sollten permanent als Sekundenresrve verfügbar sein. Ab 200 mHz Abweichung erreicht die Primärregelung bereits ihre maximale Regelwirkung, die für mindestens 30 sec. verfügbar sein muß, bis dahin übernimmt dann die Sekundärregelung, usw.
+Hier z. B. kann man die Frequenz im europäischen Verbundnetz online ansehen:
+https://www.apg.at/de/markt/Markttransparenz/Netzregelung/Netzfrequenz
+Weitere Details dazu bitte Googeln!
+Bei der PR müssen die Kraftwerke in der Lage sein, die vereinbarte Leistung innerhalb von 30 sec bereitstellen und sie mindestens 15 Minuten halten zu können.
+Das stimmt seit Mai 2010 nicht mehr (https://archive.is/20120729183532/http://www.bundesnetzagentur.de/cln_1911/DE/Presse/Publikationen/aktuell/aktuell_201001/4Netzregelverbund/Netzregelverbund_Basepage.html ). Damit soll verhindert werden, dass die einzelnen Netzbetreiber gegenläufig Regelenergie erzeugen.
+Natürlich kann man entgegen dieser Überlegung auch große Regelzonen machen. Dann allerdings muß man in Kauf nehmen, daß große Ausgleichsströme über weite Strecken fließen können und das mit hoher Richtungsvolatilität, die sich ev. sogar auf ausländischen Netze auswirkt, wenn diese niederohmiger sind. Jedenfalls muß das Netz über die entsprechenden Übertragungskapazitäten verfügen. Wenn nicht, kann es zu unerwünschten Schutzauslösungen kommen (sogar im Ausland!).
+Mein Beitrag war aber nicht auf solche Details ausgerichtet, sondern auf grundsätzliche Aspekte der Netzregelung.
+PR soll zur Hälfte innerhalb von 5 sec. verfügbar sein, gesamt spätestens nach 30 sec, sie soll maximal bis zu 30 min. zur Verfügung stehen.
+Da haben wir es mal wieder mit dem Zustand der Energiewende-Protagonisten (IWES und andere Wind“öko“stromglätter): wer selber keine Nennleistung im Gehirn hat, der kann auch keine bedarfsgerechte Leistung zur Verfügung stellen.
+Mir gelang es bisher nicht, die SMARD Darstellung auf vertikal Leistung umzuschalten. Hab ich ev. etwas übersehen? Ansonsten muß man umrechnen; die bereits erfolgte Mittelung kann man damit allerdings nicht mehr „herausrechnen“, erhält also den Leistungsmittelwert der Viertelstunde.
+die Auflösung (3 Einstellbox von links – Land, Datumsbereich, dann Auflösung, weiter Hilfe und Tabelle) lässt sich auf Viertelstunde, Stunde, Tag, Woche, Monat und Jahr je nach Betrachtungszeitraum einstellen.
+Für die bis zu 14 Tage im Datumsbereich funktioniert die Auflösung Stunde, größere Zeiträume dann Auflösung Tag!
+Mit freundlichen Grüßen, Jari Heinrich Grünig
+Danke für diesen Artikel und ihre unermüdliche Arbeit im Sinne des gesunden
+Menschenverstandes. Nur einen kleinen Rechenfehler muß ich bemängeln.
+76 €/MWh= 7,6ct/kWh
+Hochachtungsvoll Gerd Richter
+Danke ist korrigiert.
+Der Euro hat 100 Cent, eine MWh (sind 1000 KWh) kostet somit 7600 Cent.
+Also sind das 7600 / 1000 = 7,6 Cent/KWh.
+Ist bereits korrigiert. Trotzdem danke für den Hinweis.
+Schmutzstrom ist die Wanderung von Schmutzelektronen und Schmutzlöchern, die Kohle vor sich hertreibt. Schmutzstrom ist pfui und wird abgeschafft.
+Gasstrom lassen wir hier weg, das würde zu lang werden.
+Gelbstrom hat nichts mit EnBW und mit Chinesen zu tun, sondern ist das Übel per se. Die Kraft gespaltener Kerne in gelbem Pulver schiebt Gelbstromelektronen und Gelbstromlöcher mit Wucht durch alle Leitungen bis in den letzten Backofen der Republik.
+So war es hier, so ist es weltweit und so wird es ab 2023 hier gewesen sein, denn Gelbstrom ist hierzulande hyper-pfui. Weg damit. Und so werden Enten bald nur noch knusprig braun gebraten werden können, wenn Petrus es will. Essen Sie auf Vorrat.
+Neuer Vortrag von prof. Sinn im Stile „Energiewende ins Nichts“.
+https://www.youtube.com/watch?v=xzXAZad3TcE
+Unter dem Reiter „Strommarkt visualisieren“ kann man z. B. die Erzeugungsarten und den Stromverbrauch auswählen und die Deckung des Stromverbrauchs durch die grünen Erzeugungsarten eindrucksvoll grafisch darstellen. Für den 01.01.2018 06:00 ein eindrucksvolles Bild:
+16.890 MW Schwarze Energieerzeugung
+41.539 MW Grüne Energieerzeugung
+37.845 MW Energieverbrauch Prognose
+40.955 MW Energieverbrauch ist
+schon 6 Stunden später zeigt sich, das 12:00 Uhr trotz nun vorhandener Solarenergie der Bedarf nur mit Kernenergie oder Braunkohle gedeckt werden kann.
+Smard.de schreibt über sich selbst:
+Die Informationsplattform der Bundesnetzagentur über den deutschen Strommarkt ist online. Ihr Name SMARD steht für Strommarktdaten. Die auf SMARD veröffentlichten Daten geben einen aktuellen und umfassenden Überblick über das Geschehen am Strommarkt. Hintergrundartikel erläutern wichtige Begriffe und Zusammenhänge. Ein ansprechendes Design mit leicht verständlichen Grafiken bietet den Nutzern einen einfachen Zugang zum Informationsangebot von SMARD.
+Das intensive Studium und Austesten dieser offiziellen Webseite vermittelt eindrucksvoll realistische Sachverhalte anhand von Messdaten, auch wenn die Visualisierung wegen unzureichender Kombinationsmöglichkeiten und verzögerter Bereitstellung / fehlender von Geschäftsdaten der EVU unvollkommen ist.
+Letztendlich bestätigt auch diese Internetseite, das die 100-%-Abdeckung des Bedarfs durch EE ohne Stromspeicher technisch nicht möglich und mit Stromspeicher betriebswirtschaftlich nicht tragbar ist.
+Eine tolle Seite. Vorgestern und gestern zeigt sie das übliche Dunkelflauten Bild
+Das ist das Grün-Linke Utopia…das nicht nur im Bereich der Energie- Stromversorgung in Deutschland eingeschlagen hat. Siehe auch Währungsfeld (Euro als fremdbestimmte Währung- Haushaltspolitik), oder EU als NGO Besatzungsmacht in den europäischen Nationalstaaten, oder illegale Einwanderungsfeld (Multikulti-Fachkräftemangel Märchen) oder Bildung (Gender) usw.
+und das bei gleichzeitig neu hinzukommende Verbraucher eMobilität!
+Das kann nur eine Psychotische Argumentation sein bei der die Schuldigen bereits feststehen.

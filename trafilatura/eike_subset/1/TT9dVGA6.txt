@@ -1,0 +1,4 @@
+Menschliche Fehler bei Temperaturmessungen
+John Goetz
+Wie schon in einem früheren Beitrag beschrieben (hier, auf Deutsch beim EIKE hier), sind die Roh-Mittelwerte der USHCN-Daten berechnet, auch wenn bis zu neun Tagen tägliche Aufzeichnungen fehlen. Jene monatlichen Mittelwerte werden normalerweise nicht durch Qualitätskontrollen und Adjustierungs-Modelle des USHCN ausgesondert, obwohl die finalen Werte fast immer als ein Ergebnis dieses Prozesses geschätzt sind.
+Neueste Kommentare

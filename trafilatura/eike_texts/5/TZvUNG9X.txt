@@ -1,0 +1,66 @@
+Unten stehende Graphik zeigt das CO2-Niveau als eine Funktion der Weltbevölkerung während des Zeitraumes 1960 bis 2015. Man beachte, dass obwohl jeder Datenpunkt ein individuelles Jahr in fortlaufender Reihenfolge repräsentiert, die Zeit nicht explizit in dieser Graphik gezeigt wird, die nichts weiter zeigt als wie das CO2-Niveau mit der Gesamt-Weltbevölkerung in Beziehung steht.
+Schon durch bloßen Augenschein wird ziemlich offensichtlich, dass CO2 und Bevölkerung eng korreliert sind. Um dies in analytischerer Weise zu zeigen, können wir eine Trendlinie überlagern, die einfach eine zu den Daten passende mathematische Kurve ist. Nach ein wenig Herumprobieren kam heraus, dass eine Trendlinie, die ein Polynom dritter Ordnung enthält, sehr gut zu den Daten passt. Statistisch ausgedrückt ist der R²-Wert für diese Kurve größer als 0,999, was zeigt, dass die Korrelation mit den Daten eine Genauigkeit über 99,9% erreicht.
+Ein Vorteil einer Trendlinie ist, dass wir sie verlängern können, um vorherzusagen, was die Zukunft bereit hält, so wie es in der zweiten Graphik unten gemacht worden ist. Beide Achsen in dieser Kurve wurden hierzu erweitert.
+Natürlich hätte man die gleiche Graphik auch mit dem CO2-Niveau auf der horizontalen und der Bevölkerung auf der vertikalen Achse abbilden können, so dass die Bevölkerung als abhängige und CO2 als die unabhängige Variable erscheint. Es würde aber zwischen beiden die gleiche Korrelation bestehen.
+Die sich jetzt erhebende Frage lautet, ob die Bevölkerung das CO2-Niveau treibt oder das CO2 die Bevölkerung. Es gibt vier Möglichkeiten, diese Frage zu beantworten:
+1. Es gibt keinen Zusammenhang zwischen beidem, der offensichtliche Zusammenhang ist nichts als ein Zufall. Möglich, aber sehr unwahrscheinlich. Diese Möglichkeit kann man wohl ausschließen.
+2. Bevölkerung verursacht CO2. Diese ,offensichtliche‘ Erklärung würden wohl die meisten Menschen finden. Je mehr Menschen es auf unserem Planeten gibt, umso mehr CO2-erzeugende Aktivitäten wird es geben wie Stromerzeugung, industrielle Aktivität, Autos, Kochfeuer und so weiter.
+3. CO2 verursacht Bevölkerung. Sehr viel Bevölkerungszuwachs wird es in absehbarer Zukunft in Afrika südlich der Sahara geben. Das Bevölkerungswachstum in diesen Gebieten hängt zum großen Teil ab von der Versorgung mit Nahrungsmitteln, und wie wir wissen, steigt die Ernteausbeute mit einem steigenden CO2-Gehalt. Je mehr Nahrungsmittel es gibt, umso mehr Kinder werden geschlechtsreif.
+4. Die Verbindung zwischen CO2 und Bevölkerung resultiert aus einer noch nicht spezifizierten Kombination der Punkte 2 und 3.
+Meiner persönlichen Meinung nach, die nichts weiter als eine nicht gestützte Vermutung ist, ist Punkt 4 die wahrscheinlichste Antwort.
+Welche Schlussfolgerungen kann man daraus ziehen? Nun, zunächst einmal die, dass keine einzige der Maßnahmen der industrialisierten Länder zur Reduktion der CO2-Emissionen irgendeinen merklichen Effekt hat. Und es scheint auch wenig wahrscheinlich, dass diese Maßnahmen in absehbarer Zukunft irgendwelche signifikanten Auswirkungen zeitigen werden.
+Zweitens, die gegenwärtigen Bevölkerungs-Projektionen der UN zeigen, dass bis zum Jahr 2038 9 Milliarden Menschen und bis zum Jahr 2056 10 Milliarden Menschen auf der Erde leben werden (hier). Unter der Annahme, dass die Beziehung zwischen Bevölkerung und CO2 auch dann noch vorhanden ist, können wir bis zum Jahr 2038 ein CO2-Niveau von fast 460 ppm und bis zum Jahr 2056 von 500 ppm prophezeien.
+Bevölkerungswachstum ist eine Größe, die ziemlich gut ein oder zwei Dekaden im Voraus prophezeit werden kann. Während die Extrapolation einer Kurve zum Zweck von Prophezeiungen immer mit Gefahren behaftet ist, bin ich auf der Grundlage der Daten ziemlich zuversichtlich, dass diese Relation noch ein paar Jahre lang bestehen wird. Langfristig jedoch ist jede Vermutung von anderen so gut wie meine eigene, aber ich denke, dass wir gute Gründe haben zu vermuten, dass wir zur Mitte dieses Jahrhunderts ein CO2-Niveau von 450 bis 500 ppm haben werden. Ob die Welt dann in einer Rauchwolke verschwindet oder in ein neues goldenes Zeitalter beispielloser Ernten eintritt, bleibt abzuwarten.
+Roger Graves is a physicist and mathematician who, much to his chagrin, is not associated with big oil, big coal, or big anything else.
+Link: https://wattsupwiththat.com/2016/05/17/the-correlation-between-global-population-and-global-co2/
+Übersetzt von Chris Frey EIKE
+Mit Korrelation entsteht nur globale Verwirrung.
+Im Gemisch mit Wasserdampf ist der CO2 Anteil in der Luft viel zu gering, um irgend einen Einfluss auf die Temperatur haben zu können.
+Aus der Erdzeitgeschichte ist auch zu entnehmen, dass sich CO2 nicht ständig addiert, sondern ins Meerwasser wandert, wenn es wieder kälter wird.
+In die Klimafrage zu integrieren ist der Wasserdampf und die Definition von dessen Wirkung. Es ist noch nicht einmal sicher, ob Wasserdampf den Planeten kühlt oder wärmt. Spielt auch keine Rolle, weil schon mit blossem Auge erkennbar ist: Wasser sorgt zusammen mit Sonnenstrahlung und CO2 für die lebensfreundlichen Bedingungen auf der Erde, nicht immer und nicht überall.
+wenn nicht die Bevölkerungszahl auf 6 Milliarden reduziert wird in einer kompletten Katastrophe für unseren Planeten.Bei 6 Milliarden Menschen haben wir kaum Co2-Probleme und keine globelen Veränderungen in einem solchen Ausmaße
+wie zur Zeit. In der Kurve leicht nach zuvollziehen wenn weniger Menschen auf diesem Planeten leben.
+der Bevölkerung, steht ein 25%iger Anstieg des Gases gegenüber.
+Werden die 320 ppm je 1Millionen Bevölkerung auf die 3 Mrd umgelegt, so ergibt eich
+320/3000 =0,10666 und die 420 auf die 7 Mrd. Ergäben sich 0,06 ppm pro 1 Millionen Menschen
+Wenn es bei 3 Mrd 320 ppm sind wieviel müssten es bei 7 Mrd sein? ca. 747 ppm
+Das CO2 folgt dem Klimawandel wie seit Jahrtausenden gängig.
+——————-
+Folglich besteht Scheinkorrelation! Möglichkeit 1 ist richtig.
+Sehr geehrter Herr Steinbock,
+Sie postulieren eine Gegenthese, die ebensowenig belastbaare Fakten aufweist wie die Ursprungsthese.
+Ich stimme Beiden nur mit einschränkungen zu, denn es gibt in der realen Welt immer viele Faktoren, die Ereignisse beeinflussen. Monokausale Erklärungen verkürzen die Realität. Manchmal sind derartige Abstraktionen eingeschränkt sinnvoll.
+Eine Scheinkorrelation ist es mit Sicherheit nicht. Denn jedes Menschenleben führt zu CO2-Emissionen, zuerst über die Atemluft, dann aber über nahezu alle kulturellen Eigenschaften.
+Andererseits ist aber die Pro-Kopf-Emissionen stark nach Kultur und Einkommen unterschiedlich, dann kommen noch individuelle Unterschiede hinzu. Ob da ein Mittelwert eine Aussage hat, ist umstritten. Möglicherweise ja.
+So viel ich weiß ist dieser Ansatz aber auch bei Schellenhuber und Konsorten in der These. Sie sprechen von der Reduktion der Weltbevölkerung auf 1 Mrd. Menschen.
+Dieses Konzept wurde entsprechend überzeichnet in dem Film ‚Kingsmen‘: Der Bösewicht war eigentlich ein Gutmensch, der wegen der Klimakatastrophe die Erde retten wollte. Weil das wegen der vielen Menchen nicht funktionierte, wollte er durch die gegenseitige Tötung die Weltbevölkerung dezimieren.
+Eine bizarre Überzeichnung? Wenn man so manche Überlegungen von ernstmeinenden Klimahysterikern folgt, muss man schockiert feststellen: So abwegig ist dieser Gedanke für manche Menschen nicht.
+Habe allerdings schon lauter gelacht…
+MfG J.R. Huls
+1997 : „Der Mensch als urzeitlicher Klimasünder
+– Brandrodung mögliche Ursache für Trockenheit in Australien“ Der Autor dieses Artikels erwähnt auch starke Monsunregenfälle in Australien vor 70000 Jahren. Die Aborigines sind allerdings erst vor 50000 Jahren in Australien eingewandert. Nun die Frage an
+Dr. Paul : Fakt oder Fake ? (nicht mit mir schimpfen – ich habe den Artikel nicht geschrieben !)
+Und nun wäre es nicht übel auch mal gegen die Vostok Daten zu verifizieren für die letzten 150.000 Jahre.
+Oder auch nur für die letzten 10.000 Jährchen wo Hochzivilisationen existierten. Temperaturentwicklung klar mitberücksichtigen.
+Dann würde vielleicht herauskommen, dass die Erwärmung die CO2 Werte treibt (und nicht umgekehrt) und beides zusammen mehr Bevölkerung ermöglichen durch angenehmere Klima und mehr Pflanzenwachstum.
+Also Ursache und Wirkung wieder auf die Füße stellen.
+Das Bevölkerungswachstum war noch nie ein Problem.
+a. Welchen (tödlichen) Fehler beging Malthus? Warum war er ein (fürchterlicher und mathematischer) Dilettant?
+b. Wieviele Menschen kann diese Welt ernähren, aufnehmen?
+http://tinyurl.com/jzqcrgd
+zu #1: Dr. Peter Steinbock sagt: „…Scheinkorrelation…“
+Das brachte mich jetzt auf eine lustige wissenschaftliche Idee. Man nehme mal die Steigerung der Politiker- und Angeordnetendiäten und dazu die Steigerung des CO2-Ausstoßes in dieser Zeit. Daraus müssten unsere Klimaexperten erkennen, dass durch die Steigerung der Diäten der CO2-Ausstoß steigt. Genauso kann man berechnen, wie der CO2-Ausstoß mit den CO2-Gebühren steigt.
+Was man voraussagen kann ist eindeutig
+ein RÜCKGANG der Bevölkerungszunahme mit dem Wohlstand.
+sonst müsste es immer mehr Menschen in Deutschland geben,
+es gibt aber immer weniger (Deutsche).
+Nahrung und Wohlstand hat schon lange nichts mehr miteinander zu tun.
+Auch global hat die Zahl der Überernährten, die der Hungernden schon lange überholt.
+Und gerade in Afrika reicht die Nahrung nicht!
+Was für viele Menschen allerdings schwer zu verstehen ist,
+das ist der Zusammenhang von Arbeit und Wohlstand.
+Wohlstand hat weiter etwas mit Energieverfügbarkeit zu tun.
+Wenn man nun weder Nachwuchs möchte noch Energie,
+muss man schon die Grenzen zumachen, dass die Rechnung noch aufgeht.
+Oder noch besser Chaos mit Mord und Todschlag?
+Folglich besteht Scheinkorrelation! Möglichkeit 1 ist richtig.

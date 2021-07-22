@@ -1,0 +1,56 @@
+von Michael Limburg
+In einem im März 2014 bei Energy & Environment (E&E) erschienenen Aufsatz wird das Problem der minimalen Unsicherheit (Fehlerband) bei der Bestimmung der Anomalie der globalen Mitteltemperatur untersucht. Am Beispiel des bisher als selbstkorrigierend angesehenen „Algorithmen-Fehlers“ wird gezeigt, dass dies weder bei diesem, noch bei vielen anderen systematischen Fehlern, die so gut wie jede meteorologische Temperaturmessung begleiten, möglich ist. Unter Einbeziehung der bereits von P. Frank 2010 und 2011 vorgelegten Analysen addiert dieser Fehler mindestens ±0,23 K zu dem Fehlerband der Anomalie (Differenz zwischen Istwert und Referenzwert) hinzu. Das gesamte Fehlerband vergrößert sich deshalb mindestens auf eine Spanne zwischen ± 1,084 ° C bis ± 2,084 ° C. Da aber viel mehr Fehler bei der Temperaturbestimmung selbst anfallen, muss diese Spanne auf einen Wert, der mindestens 3 bis 5 mal größer ist, als oben genannt, angehoben werden. Das paper selbst ist in Englisch, es wurde hier auszugsweise übersetzt. Es kann als pdf-Anhang herunter geladen werden.
+von Albrecht Glatzle
+Spätestens mit der Veröffentlichung des FAO-Berichts “Livestocks Long Shadow“ (2006) ist die Viehzucht, und ganz besonders die Weidetierhaltung in den Tropen und Subtropen, aber auch der Agrarsektor insgesamt unter massiven medialen Beschuss geraten. Mit fraglichen Argumenten wird dem Konsumenten vorgerechnet, wie sehr er zum Klimawandel etwa durch Rindfleischverzehr beitrage. Von den 14,5% bis 18% der anthropogenen Treibhausgasemissionen, die der Tierhaltung weltweit angelastet werden, sollen fast 75% auf das Konto der großen Wiederkäuer (Rinder und Büffel) gehen (Fleisch- und Milchproduktion). Mit solchen Zahlen wird ein Alarmismus geschürt, der von der FAO 2013 in einem weiteren Bericht „Tackling Climate Change through Livestock“ noch einmal bekräftigt wurde. Erfreulicherweise hat dieser letzte Bericht aber keine mediale Beachtung mehr gefunden.
+H.-J. Lüdecke, A. Hempelmann, and C.O. Weiss: Multi-periodic climate dynamics: spectral analysis of long-term instrumental and proxy temperature records, Clim. Past., 9, 447-452, 2013, doi:10.5194/cp-9-447-2013, www.clim-past.net/9/447/2013/
+Abstract:
+The longest six instrumental temperature records of monthly means
+reach back maximally to 1757 AD and were recorded in Europe. All six
+show a V-shape, with temperature drop in the 19th and rise in the
+20th century. Proxy temperature time series of Antarctic ice cores
+show this same characteristic shape, indicating this pattern as a
+global phenomenon. We used the mean of the 6 instrumental records
+for analysis by discrete Fourier transformation (DFT), wavelets, and
+the detrended fluctuation method (DFA). For comparison, a
+stalagmite record was also analyzed by DFT. The harmonic
+decomposition of the above mentioned mean shows only 6 significant
+frequencies above periods over 30 yr. The Pearson correlation
+between the mean, smoothed by a 15 yr running average (boxcar) and
+the reconstruction using the 6 significant frequencies yields r =
+0.961. This good agreement has a 99.9% confidence level
+confirmed by Monte Carlo simulations. It shows that the climate
+dynamics is governed at present by periodic oscillations. We find
+indications that observed periodicities result from intrinsic
+dynamics.
+Jeder weiß es: Das Thermometer wurde erst vor einigen hundert Jahren erfunden. Präzisionsthermometer zur Messung meteorologischer Temperaturen (Assmann Thermometer) gibt es erst seit gut hundert Jahren. Trotzdem möchte man gerne wissen, insbesondere zur Beurteilung des Klimawandels, wie kalt oder warm war es in der Zeit, als es noch keine Thermometer gab (s. nebenstehende Grafik). Die Natur gibt uns für diese Zwecke Hinweise, die aber schwierig zu lesen sind. Die sog. Proxy- oder Stellvertreterdaten. Bäume z.B. wachsen schneller, wenn es hell, warm und feucht ist. Also gibt die Breite ihrer Jahres-Ringe einen gewissen Anhalt über die Wachstumsbedingungen zum Zeitpunkt ihres Wachsens. D.h. u.a. über Temperatur, Feuchte und Helligkeit.
+Bloß was hängt wovon ab? Michael Mann – der Erfinder der Hockeystick-Kurve behauptete, dass für die Temperatur der mehr als die letzten 1000 Jahre – und sogar weltweit- herausgefunden zu haben. Das IPCC folgte ihm und zeigte seine Kurve über 70 x in seinem dritten Bericht von 2001 (TAR). Andere haben Mann inzwischen Betrug nachgewiesen. Er hatte die vorliegenden, sehr unsicheren Daten von wenigen Bristlecone Kiefern zusätzlich manipuliert. Das zeigen die ClimateGate Emails und zuvor schon die ausführlichen Untersuchungen der kanadischen Wissenschaftler McKittrick und McIntyre. EIKE berichtete .mehrfach darüber
+Nur wenige Spezialisten sind in der Lage die komplizierten Regeln der Statistik korrekt anzuwenden. Seit dem vielfach in den Medien üblich gewordenen Zitieren von Studien, die über Korrelationen und Statistiken zu neuen Erkenntnissen zu gelangen glauben: oft mit Sätzen zitiert werden wie : „Eine neue Studie des Klimainstitutes XfürU in Potsdam zeigt, dass die Mehrzahl der Mäuse in Kirchen dank des Klimawandels dauerhaft arm sind“, glaubt hingegen jeder zweite Leser, sich mit Statistik auszukennen und daraus fundamentale Lehren ziehen zu dürfen. So auch in der Klimawissenschaft, in der das ungemein nützliche Werkzeug Statistik für vielerlei Gereimtes wie auch Ungereimtes benutzt wird. Unser Autor: Der Physiker und Statistiker Eckhard Schulze hat die Regeln der Statistik auf die Berechnung von Mitteltemperaturen angewendet und die Ergebnisse auch für Laien verständlich Schritt für Schritt dargestellt.
+Sein Fazit: „Für die normalverteilten Werte der globalen Monatsmittel ergibt eine Varianzanalyse, dass sich zwischen den arithmetischen Jahresmitteln keine signifikanten Unterschiede nachweisen lassen.“… und..“Die Angabe einer globalen Mitteltemperatur bzw. der Veränderung einer globalen Mittelwertanomalie (z. B. um 2°C gegenüber einem definierten Zeitpunkt) ist daher unter Beachtung statistischer Gesetzmäßigkeiten, ohne Angabe von Konfidenzintervallen als sinnlos zu betrachten.“ Lesen Sie selbst.
+Rainer Link and Horst-Joachim Lüdecke, A New Basic 1-Dimensional 1-Layer Model Obtains Excellent Agreement With the Observed Earth Temperature, International Journal of Modern Physics C, Vol. 22, No. 5, p. 449, doi:10.1142/S0129183111016361 (2011)
+Abstract:
+The Earth radiation and energy budget is calculated by a manifold of
+rather complex Global Circulation Models. Their outcome mostly
+cannot identify radiation in the atmosphere or energy budget
+relations. Therefore it is reasonable to look at more basic models
+to identify the main aspects of the model results. The simplest one
+of all of those is a 1-dimensional 1-layer model. However, most of
+these models – two are discussed here – suffer the drawback that
+they do not include essential contributions and relations between
+the atmospheric layer and the Earth. The 1-dimensional 1-layer model
+presented here integrates sensible and latent heat, the absorption
+of solar radiation in the atmosphere and the direct emission of the
+long wave radiation to space in addition to the standard
+correlations. For the atmospheric layer two different long wave
+fluxes are included, top of atmosphere to space and bulk emission to
+Earth. The reflections of long wave radiations are taken into
+account. It is shown that this basic model is in excellent agreement
+with the observed integrated global energy budget.
+Es war einmal eine kleine Glocke, die hing an einem starken Baum. Als der Wind leicht auffrischte, machte sie einen solchen Lärm, dass ein kleiner Fuchs sich mächtig erschrak. Als er aber das Glöcklein näher betrachtete, stellte er fest, dass es sich nur um viel Getöse handelte.
+An diese Fabel musste ich denken, als ich den Satz eines vom anthropogenen CO2-Effekt überzeugten Ozeanologen las, der in der Zeitschrift „nature“ mit den Worten zitiert wird:“ This paper is the final nail in the coffin (endgültige Sargnagel) for people who would like to make the Sun responsible for present global warming,“. Eine perfide Wortwahl, den Begriff „Sargnägel“ auf Menschen (those people) zu beziehen. Auch passt der Begriff in der Sache besser auf die anthropogene CO2Hypothese.
+Was verbirgt sich hinter diesem Wortgetöse?
+Auf der ersten UN-Umweltkonferenz in Stockholm 1972 ging es um Maßnahmen zum Schutze unserer Umwelt. Zwanzig Jahre später, 1992 in Rio de Janeiro wurde der Grundstein für die UN- Klimaverhandlungen gelegt. Es war ein Beginn und man beschloss, solche Konferenzen fortzusetzen, um Maßnahmen zum Schutze des Klimas zu verabreden, denn inzwischen stand der Klimaschutz im Vordergrund: Man glaubte eine globale Erwärmung diagnostiziert zu haben, die vor allem durch das Treibhausgas CO2 verursacht würde, und dass es „…um den Planeten zu retten…“ vor allem darauf ankam, die CO2-Emissionen der Industrieländer zu senken.
+Auf der ersten UN-Umweltkonferenz in Stockholm 1972 ging es um Maßnahmen zum Schutze un¬serer Umwelt. Zwanzig Jahre später, 1992 in Rio de Janeiro wurde der Grundstein für die UN- Klimaverhandlungen gelegt. Es war ein Beginn und man beschloss, solche Konferenzen fortzuset¬zen, um Maßnahmen zum Schutze des Klimas zu verabreden, denn inzwischen stand der Klima¬schutz im Vordergrund: Man glaubte eine globale Erwärmung diagnostiziert zu haben, die vor al¬lem durch das Treibhausgas CO2 verursacht würde, und dass es „…um den Planeten zu retten…“ vor allem darauf ankam, die CO2-Emissionen der Industrieländer zu senken. Auf der Konferenz in Ky¬oto 1997 verabschiedete die Staatengemeinschaft eine Klima-Rahmenkonvention, welche die völ¬kerrechtliche Grundlage für den internationalen Klimaschutz bilden sollte. Weitere 20 Jahre später wird von den offiziellen Klimainstituten die angeblich vom Menschen verursachte globale Erwär¬mung immer noch als die Hauptaufgabe der Menschheit angesehen, denn diese Erwärmung gefähr¬det angeblich ihre Existenz. Tatsächlich wurde bis heute nie bewiesen, dass das vom Menschen direkt oder indirekt produzierte CO2 die ihm zugedachte Wirkung hat. Diese Annahme beruht ledig¬lich auf Modellrechnungen für die künftige Entwicklung der Temperatur. Im Gegenteil: Nach den Grundgesetzen der Physik ist die vom Weltklimarat (IPCC) befürchtete Wirkung des CO2 gar nicht möglich.
+Nach mehreren Veröffentlichungen zum Thema Klima zum Verhältnis zwischen Politik und Klima, die in den Jahren 1998 bis 2006 erschienen, legte Herr Dr. rer. nat. Heinrich Röck Ende 2010 eine neue Arbeit vor, die sich – ausgehend von neuesten wissenschaftlichen Erkenntnissen – wiederum der Frage widmete, wie sich und wodurch sich das Klima auf der Erde entwickelte und entwickeln könnte. Dabei setzte er sich intensiv mit der Frage auseinander, ob der Mensch durch die Emission von Kohlendioxid und anderen Gasen, die Klimaentwicklung wesentlich beeinflussen kann oder nicht. Insbesondere setzte er sich kritisch mit den Auffassungen des IPCC auseinander.
+In einem weiteren Beitrag zur Berliner Wetterkarte BERLINER WETTERKARTE e.V.
+zur Förderung der meteorologischen Wissenschaft c/o Institut für Meteorologie der Freien Universität Berlin analysiert Prof. Horst Malberg den Einfluss der Sonne auf das irdische Klima. Diemal erweitert um den regionalen und globalen Anteil der Sonne.
+Neueste Kommentare
