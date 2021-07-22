@@ -18,6 +18,22 @@ Explanation of how to use Quanteda Package: http://inhaltsanalyse-mit-r.de/grund
 Quick Start Guide Quanteda: https://quanteda.io/articles/quickstart.html
 Explanation Webscraping Trafilatura: https://trafilatura.readthedocs.io/en/latest/tutorial0.html
 
+### Prerequisites
+To open and use this file you need to install the following:
+- R, RStudio
+```{r}
+#install.packages("quanteda")
+#install.packages("readtext")
+#install.packages("wordcloud")
+#install.packages("RColorBrewer")
+#install.packages("wordcloud2")
+#install.packages("tidyverse")
+#install.packages("tm")
+#install.packages("quanteda.textmodels")
+#install.packages("quanteda.textstats")
+#install.packages("quanteda.textplots")
+```
+
 ### Webscraping with Trafilatura
 ```{bash}
 # run link discovery through website and store the resulting links in a file
@@ -48,10 +64,27 @@ library("quanteda.textstats")
 To open the website text file we downloaded previously via trafilatura, we need to run the following code:
 
 ```{r}
-DATA_DIR <- system.file("extdata/", package = "readtext")
-fff_texts <- readtext(paste0(DATA_DIR, "/txt/fff_texts/*"))
-eike_texts <- readtext(paste0(DATA_DIR, "/txt/eike_subset/*"))
-klimarep_texts <- readtext(paste0(DATA_DIR, "/txt/klimareporter_texts/*"))
+# you can get current directory for importing the textfiles by setting current directory and open relative path from there with
+#texts <- readtext("path/*")
+
+#setwd("/Users/anna/Documents/textmining/textmining_climate")
+
+# Climate Activists
+fff_texts <- readtext("text_files/pro/fff_texts/*")
+fff_de_texts <- readtext("text_files/pro/fff_de_texts/*")
+ikem_texts <- readtext("text_files/pro/ikem_texts/*")
+klimarep_texts <- readtext("text_files/pro/klimareporter_texts/*")
+klimafakten_texts <- readtext("text_files/pro/klimafakten_texts/*")
+
+# Climate Change Deniers
+eike_texts <- readtext("text_files/contra/eike_subset/*")
+```
+
+```{r}
+#DATA_DIR <- system.file("extdata/", package = "readtext")
+#fff_texts <- readtext(paste0(DATA_DIR, "/txt/fff_texts/*"))
+#eike_texts <- readtext(paste0(DATA_DIR, "/txt/eike_subset/*"))
+#klimarep_texts <- readtext(paste0(DATA_DIR, "/txt/klimareporter_texts/*"))
 ```
 ### Building a Corpus
 
