@@ -1,0 +1,231 @@
+IKEM regularly disseminates the results of its research through studies, statements and articles in renowned journals. Through its PhD programme, the institute helps excellent young scholars in conducting and publishing their research.
+@book{etal.al.2021,
+title = {Automatisiertes Fahren auf der Schiene},
+author = {Friedrich-Wilhelm Hagemeyer and et al. },
+url = {https://www.springer.com/gp/book/9783658323271#aboutBook},
+doi = {10.1007/978-3-658-32328-8},
+year = {2021},
+date = {2021-06-02},
+publisher = {Springer Vieweg},
+abstract = {Getrieben durch akuten Fachkräftemangel besteht im Fernbahnbetrieb Bedarf an einer durchgreifenden Automatisierung unter Einsatz modernster Technologien. Chancen für eine wirtschaftliche Umsetzung bietet ein hochassistierter Betrieb, mit dem die Anforderungen an die Ausbildung von Triebfahrzeugführern radikal reduziert werden. In der vorliegenden Analyse werden die derzeitigen Tätigkeitsfelder eines Triebfahrzeugführers denen in einem vollautomatischen bzw. hochassistierten Bahnbetrieb hinsichtlich der rechtlichen und betrieblichen Randbedingungen gegenübergestellt. Dabei stellt der vollautomatische Bahnbetrieb in der regulatorischen Fragestellung den komplexesten Betrachtungsfall dar.},
+keywords = {Automatisiertes Fahren, Schienenverkehr},
+pubstate = {published},
+tppubtype = {book}
+}
+Getrieben durch akuten Fachkräftemangel besteht im Fernbahnbetrieb Bedarf an einer durchgreifenden Automatisierung unter Einsatz modernster Technologien. Chancen für eine wirtschaftliche Umsetzung bietet ein hochassistierter Betrieb, mit dem die Anforderungen an die Ausbildung von Triebfahrzeugführern radikal reduziert werden. In der vorliegenden Analyse werden die derzeitigen Tätigkeitsfelder eines Triebfahrzeugführers denen in einem vollautomatischen bzw. hochassistierten Bahnbetrieb hinsichtlich der rechtlichen und betrieblichen Randbedingungen gegenübergestellt. Dabei stellt der vollautomatische Bahnbetrieb in der regulatorischen Fragestellung den komplexesten Betrachtungsfall dar.
+@book{Schäfer-Stradowsky2021b,
+title = {Digitalisierung in der Energiewirtschaft},
+author = {Andreas Corusa and Georg Erdmann and Elena Timofeeve and Johannes Norbert Predel and Falk Ritschel and Christian Sprengel and Anne Walther and Daniel Kaufmann and Stefan Brühl and Victor Stocker and Christine Rosinger and Mathias Uslar and Simon Schäfer-Stradowsky},
+editor = {Technische Universität Berlin},
+url = {https://www.ikem.de/wp-content/uploads/2021/06/digitalisierung_energiewirtschaft.pdf},
+year = {2021},
+date = {2021-05-27},
+abstract = {Wir unternehmen mit diesem Werk den Versuch einen Teil der Komplexität des Themas anhand des Knowhows der beitragenden Autoren aus verschiedenen Disziplinen zu vereinen, um nicht nur Neugier des Lesenden zu wecken, sondern auch und um über das Thema Digitalisierung aufzuklären. Dabei besteht das Kompendium aus vier Teilen, die verschieden Herausforderungen der Digitalisierung beleuchten und systematische Einschätzungen sowie mögliche Lösungskonzepte präsentieren, die es aus Unternehmensperspektive zu beachten gibt. Das gesamte Werk stellt nur einen kleinen Teil dieser Herausforderungen dar, thematisiert aber besonders relevante.},
+keywords = {Daten und Sicherheit, Digitalisierung, Energieindustrie, Energiewirtschaft},
+pubstate = {published},
+tppubtype = {book}
+}
+Wir unternehmen mit diesem Werk den Versuch einen Teil der Komplexität des Themas anhand des Knowhows der beitragenden Autoren aus verschiedenen Disziplinen zu vereinen, um nicht nur Neugier des Lesenden zu wecken, sondern auch und um über das Thema Digitalisierung aufzuklären. Dabei besteht das Kompendium aus vier Teilen, die verschieden Herausforderungen der Digitalisierung beleuchten und systematische Einschätzungen sowie mögliche Lösungskonzepte präsentieren, die es aus Unternehmensperspektive zu beachten gibt. Das gesamte Werk stellt nur einen kleinen Teil dieser Herausforderungen dar, thematisiert aber besonders relevante.
+@misc{Karras2021,
+title = {#IKEMClimateFinanceWeek: Germany - Legal barriers to the decarbonisation of dwellings occupied by low-income tenants and financial incentives to overcome these barriers},
+author = {Jana Karras and Aleksandra Novikova},
+url = {https://www.ikem.de/wp-content/uploads/2021/05/Brief_5_Legal-barriers-to-the-decarbonisation-of-dwellings.pdf},
+year = {2021},
+date = {2021-05-21},
+keywords = {Gebäude, Klimafinanzierung, Wärmewende},
+pubstate = {published},
+tppubtype = {misc}
+}
+@misc{Novikova2021bc,
+title = {#IKEMClimateFinanceWeek: Lessons learned from financing energy efficiency in multi-residential buildings in Lithuania},
+author = {Aleksandra Novikova and Marina Olshanksaya and Kęstutis Kupšys and Rimantė Balsiūnaitė and Mats Dunkel},
+url = {https://www.ikem.de/wp-content/uploads/2021/05/Brief.4_Lessons-learned-from-financing-energy-efficiency-in-multi-residential-buildings-in-Lithuania.pdf},
+year = {2021},
+date = {2021-05-20},
+abstract = {In 2020, the European Commission launched the Renovation Wave initiative, which aims to double the renovation rate of European buildings in the next 10 years and contribute significantly to the decarbonisation of the EU building sector by 2050. Furthermore, it intends to improve energy and resource efficiency and reduce energy bills while improving the health, comfort and wellbeing of all Europeans, including those who can least afford the necessary investments. The question is how this goal can be achieved, as renovating the whole existing building stock to a very high level of energy and carbon performance entails high upfront costs. In different European countries, such costs can range from 1.5% to 3.5% of national GDP per year over the next 30 years.
+While the initiative is new, the challenge is not: it has been discussed for more than a decade in several countries. Some of these countries have also made their best attempts to address it; these efforts do not appear to have resolved the issue, however, as the challenge remains. Nevertheless, such experiences may offer very valuable lessons on what worked, what did not, and what improvements can be made in the next steps.
+One such experience is the financing of energy efficiency in multi-residential buildings in Lithuania over the last two decades, which has been recognised as a best-practice example both domestically and at a European level. The action was launched by the World Bank pilot project in 1996, with later funding provided from the national public budget, followed by even more funding from the European Structural and Investment Funds (ESIF) and finally by funds from a growing number of private financiers. While the action was designed to help countries meet their greenhouse gas (GHG) emission-reduction commitments, it generated other benefits in the form of jobs, support to small and medium enterprises, higher bank liquidity and a decrease in energy poverty. This process was not without its challenges, however, and some of these persist. This brief discusses these challenges, along with tested solutions and lessons learned, with a focus on energy poverty.},
+keywords = {Gebäude, Klimafinanzierung, Wärmewende},
+pubstate = {published},
+tppubtype = {misc}
+}
+In 2020, the European Commission launched the Renovation Wave initiative, which aims to double the renovation rate of European buildings in the next 10 years and contribute significantly to the decarbonisation of the EU building sector by 2050. Furthermore, it intends to improve energy and resource efficiency and reduce energy bills while improving the health, comfort and wellbeing of all Europeans, including those who can least afford the necessary investments. The question is how this goal can be achieved, as renovating the whole existing building stock to a very high level of energy and carbon performance entails high upfront costs. In different European countries, such costs can range from 1.5% to 3.5% of national GDP per year over the next 30 years.
+While the initiative is new, the challenge is not: it has been discussed for more than a decade in several countries. Some of these countries have also made their best attempts to address it; these efforts do not appear to have resolved the issue, however, as the challenge remains. Nevertheless, such experiences may offer very valuable lessons on what worked, what did not, and what improvements can be made in the next steps.
+One such experience is the financing of energy efficiency in multi-residential buildings in Lithuania over the last two decades, which has been recognised as a best-practice example both domestically and at a European level. The action was launched by the World Bank pilot project in 1996, with later funding provided from the national public budget, followed by even more funding from the European Structural and Investment Funds (ESIF) and finally by funds from a growing number of private financiers. While the action was designed to help countries meet their greenhouse gas (GHG) emission-reduction commitments, it generated other benefits in the form of jobs, support to small and medium enterprises, higher bank liquidity and a decrease in energy poverty. This process was not without its challenges, however, and some of these persist. This brief discusses these challenges, along with tested solutions and lessons learned, with a focus on energy poverty.
+@misc{Novikova2021,
+title = {#IKEMClimateFinanceWeek: Tracking investment to meet 2030 energy & climate targets in Germany, Czechia & Latvia},
+author = {Aleksandra Novikova and Michaela Valentová and Agris Kamenders},
+url = {https://www.ikem.de/wp-content/uploads/2021/05/Brief.3_CIC2030-project-1-1.pdf},
+year = {2021},
+date = {2021-05-19},
+abstract = {In 2020, EU Member States released National Energy and Action Plans (NECPs), which explained how each state would meet the
+2030 energy and climate targets. From 2018–2021, the Institute for Climate Protection, Energy and Mobility (IKEM), Czech Technical
+University in Prague (ČVUT), Riga Technical University (RTU), and Climate&Company participated in the joint project Climate
+Investment Capacity 2030, which provided evidence-based information for the development and implementation of NECPs in Germany,
+Czechia and Latvia. The project results were co-designed with national policymakers, the financing sector and other stakeholders to address
+specific needs, share expertise and integrate findings into decision-making.1 The analysis covered the following aspects:
+• investment needs to reach the 2030 climate and energy targets,
+• investment maps to track public finance and private investment flows into climate and energy transition actions,
+• capital raising plans to close the gap between the need and the current investment flows, and
+• investment and policy plans for the most carbon-intensive industrial branches.},
+keywords = {Investment map, Klimafinanzierung},
+pubstate = {published},
+tppubtype = {misc}
+}
+In 2020, EU Member States released National Energy and Action Plans (NECPs), which explained how each state would meet the
+2030 energy and climate targets. From 2018–2021, the Institute for Climate Protection, Energy and Mobility (IKEM), Czech Technical
+University in Prague (ČVUT), Riga Technical University (RTU), and Climate&Company participated in the joint project Climate
+Investment Capacity 2030, which provided evidence-based information for the development and implementation of NECPs in Germany,
+Czechia and Latvia. The project results were co-designed with national policymakers, the financing sector and other stakeholders to address
+specific needs, share expertise and integrate findings into decision-making.1 The analysis covered the following aspects:
+• investment needs to reach the 2030 climate and energy targets,
+• investment maps to track public finance and private investment flows into climate and energy transition actions,
+• capital raising plans to close the gap between the need and the current investment flows, and
+• investment and policy plans for the most carbon-intensive industrial branches.
+@online{Novikova2021b,
+title = {#IKEMClimateFinanceWeek: Debt-for-climate swaps},
+author = {Aleksandra Novikova and Marina Olshanksaya and Janna Hoppe and Erik Grigoryan},
+url = {https://www.ikem.de/wp-content/uploads/2021/05/Brief.2_Dept-for-nature-swaps.pdf},
+year = {2021},
+date = {2021-05-18},
+organization = {IKEM},
+abstract = {Climate finance plays a pivotal role in enabling developing countries to mitigate climate change and adapt to its impact. Thus far, the
+international community has failed to make progress towards the goal of mobilising an annual USD 100 billion for climate projects in
+the developing world by 2020. Meanwhile, substantial public debt and persistent fiscal deficits limit access to concessional and nonconcessional
+climate finance in most of the developing world. Debt-for-climate swaps offer a solution to both challenges by providing debt
+relief while mobilising funds for climate protection. Based on past evidence, we assessed the applicability of the scheme to countries of the
+Caucasus and Central Asia. They can stand as a good example for the challenges and opportunities of debt-for-climate swaps for other
+developing countries. This brief summarises our recommendations for the design of a debt-for-climate swap to maximise financial value,
+achieve climate benefits in line with national goals and ensure effective and transparent governance and implementation.},
+keywords = {International},
+pubstate = {published},
+tppubtype = {online}
+}
+Climate finance plays a pivotal role in enabling developing countries to mitigate climate change and adapt to its impact. Thus far, the
+international community has failed to make progress towards the goal of mobilising an annual USD 100 billion for climate projects in
+the developing world by 2020. Meanwhile, substantial public debt and persistent fiscal deficits limit access to concessional and nonconcessional
+climate finance in most of the developing world. Debt-for-climate swaps offer a solution to both challenges by providing debt
+relief while mobilising funds for climate protection. Based on past evidence, we assessed the applicability of the scheme to countries of the
+Caucasus and Central Asia. They can stand as a good example for the challenges and opportunities of debt-for-climate swaps for other
+developing countries. This brief summarises our recommendations for the design of a debt-for-climate swap to maximise financial value,
+achieve climate benefits in line with national goals and ensure effective and transparent governance and implementation.
+@misc{IKEM2021,
+title = {Gesetzesentwurf zum autonomen Fahren: Projektübergreifende Stellungnahme},
+author = {IKEM},
+url = {https://www.ikem.de/wp-content/uploads/2021/04/Stellungnahme_Gesetzesentwurf-zum-autonomen-Fahren.pdf},
+year = {2021},
+date = {2021-04-09},
+abstract = {Der Gesetzesentwurf zum autonomen Fahren ist ein guter Start für die Mobilität von Morgen. An einigen Stellen bestehen allerdings noch Unklarheiten und Regulierungslücken, wie zum Beispiel bei der Berücksichtigung externen Infrastruktur und der klaren Orientierung auf ÖPNV Anwendungen, unter den Leitgedanken Umweltschutz und Daseinsvorsorge im Mobilitätsbereich. Zu diesem Ergebnis kommt eine Stellungnahme des IKEM. },
+howpublished = {Stellungnahme},
+keywords = {Autonomes Fahren, BMVI, HEAT, Hub Chain, Mobilität, Stellungnahme},
+pubstate = {published},
+tppubtype = {misc}
+}
+Der Gesetzesentwurf zum autonomen Fahren ist ein guter Start für die Mobilität von Morgen. An einigen Stellen bestehen allerdings noch Unklarheiten und Regulierungslücken, wie zum Beispiel bei der Berücksichtigung externen Infrastruktur und der klaren Orientierung auf ÖPNV Anwendungen, unter den Leitgedanken Umweltschutz und Daseinsvorsorge im Mobilitätsbereich. Zu diesem Ergebnis kommt eine Stellungnahme des IKEM.
+@misc{Hartwig2020h,
+title = {Regulierung für Elektrische Straßensysteme (ERS) – Handlungsempfehlungen},
+author = {Matthias Hartwig},
+url = {https://www.ikem.de/wp-content/uploads/2021/03/IKEM_Handlungsempfehlungen_03032021.pdf},
+year = {2021},
+date = {2021-03-04},
+address = {IKEM},
+howpublished = {Präsentation entstanden im Rahmen des Projekts AMELIE},
+keywords = {AMELIE, Electric Road Systems, Mobilität, Oberleitungs-LKW},
+pubstate = {published},
+tppubtype = {presentation}
+}
+@article{Doderer2021b,
+title = {Regelungsgehalt der SINTEG-V am Beispiel der Netzentgeltermittlung und der Netzentgeltprivilegierung für Sonderformen der Netznutzung},
+author = {Hannes Doderer and Jonathan Metz},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/IKEM-SintegV.pdf},
+year = {2021},
+date = {2021-02-02},
+journal = {Artikel im Rahmen von WindNODE},
+keywords = {Netzentgelte, Netznutzung, SINTEG-V, Verordnung, WindNODE},
+pubstate = {published},
+tppubtype = {article}
+}
+Metz, Jonathan; Doderer, Hannes; Harsch, Victoria; Schäfer-Stradowsky, Simon
+Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung Technical Report
+@techreport{Metz2021b,
+title = {Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung},
+author = {Jonathan Metz and Hannes Doderer and Victoria Harsch and Simon Schäfer-Stradowsky},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-EE-Finanzierung-Broschuere-final.pdf},
+year = {2021},
+date = {2021-02-02},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {Analyse, EEG, Energierecht, Finanzierungsmodelle, WindNODE},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Krampitz2021,
+title = {Erfordernis eines code of conduct als praktische Hilfestellung für die Übersetzung der Straßenverkehrsordnung in technische Vorgaben},
+author = {Mathilde Krampitz},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-HEAT-Stellungnahme-code-of-conduct-StVO-1.pdf, Stellungnahme als PDF},
+year = {2021},
+date = {2021-01-28},
+abstract = {Noch immer liegt kein umfassender Rechtsrahmen für den Betrieb autonomer und vernetzter Fahrfunktionen vor. Wer das laufende Gesetzesvorhaben des BMVI verfolgt, erkennt, dass die unumgängliche Anpassung der Straßenverkehrsordnung (StVO) bislang nur zaghaft erfolgt und sich in einer bloßen Neutralisierung des Begriffs „Fahrzeugführer“ erschöpft, indem klargestellt wird, dass (alle) Fahrzeuge die Vorschriften der StVO zu beachten haben. Eine Öffnung der StVO in dem beschriebenen Umfang wird sich in der Praxis allerdings als zu kurz gegriffen erweisen.
+Das IKEM, Konsortialpartner des Projekts HEAT (Hamburg Electric Autonomous Transportation), fordert in dem Zusammenhang eine intensive Auseinandersetzung mit der Problematik, auf welche Art und Weise die Vorgaben der StVO, welche sich an menschliche Adressaten richten, konkret in der Praxis durch Hersteller technisch umgesetzt werden können.},
+type = {IKEM-Stellungnahme im Rahmen des Projekts HEAT},
+keywords = {Autonomes Fahren, E-Mobilität, HEAT, Mobilität, Stellungnahme},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Noch immer liegt kein umfassender Rechtsrahmen für den Betrieb autonomer und vernetzter Fahrfunktionen vor. Wer das laufende Gesetzesvorhaben des BMVI verfolgt, erkennt, dass die unumgängliche Anpassung der Straßenverkehrsordnung (StVO) bislang nur zaghaft erfolgt und sich in einer bloßen Neutralisierung des Begriffs „Fahrzeugführer“ erschöpft, indem klargestellt wird, dass (alle) Fahrzeuge die Vorschriften der StVO zu beachten haben. Eine Öffnung der StVO in dem beschriebenen Umfang wird sich in der Praxis allerdings als zu kurz gegriffen erweisen.
+Das IKEM, Konsortialpartner des Projekts HEAT (Hamburg Electric Autonomous Transportation), fordert in dem Zusammenhang eine intensive Auseinandersetzung mit der Problematik, auf welche Art und Weise die Vorgaben der StVO, welche sich an menschliche Adressaten richten, konkret in der Praxis durch Hersteller technisch umgesetzt werden können.
+@techreport{Metz2021,
+title = {Systemische Ansätze zur Reform der Netzentgelte für die Energiewende 2.0},
+author = {Jonathan Metz and Hannes Doderer},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-Netzentgelte-Broschüre.pdf},
+year = {2021},
+date = {2021-01-26},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {Analyse, Netzentgelte, Reform, WindNODE},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Doderer2021,
+title = {Synthesebericht: Flexibilität, Markt und Regulierung},
+author = {Hannes Doderer and Severin Beucker and Alexander Funke and Christopher Koch and Hendrik Kondziella and Jörn Hartung and Sandra Maeding and Henning Medert and Georg Meyer-Braune and Michael Rath and Niko Rogler},
+url = {https://www.windnode.de/fileadmin/Daten/Downloads/FMR_ES.pdf},
+year = {2021},
+date = {2021-01-13},
+type = {Synthesebericht im Rahmen von WindNODE},
+keywords = {Energierecht, Flexibilität, Markt, Regulierung},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Hartwig2020g,
+title = {Akteursmodell für die Finanzierung und Abrechnung elektrischer Straßensysteme (ERS)},
+author = {Matthias Hartwig },
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201217_ERS-Akteursmodelle.pdf, Working Paper als PDF},
+doi = {10.5281/zenodo.4337906},
+year = {2020},
+date = {2020-12-17},
+type = {IKEM Working Paper},
+keywords = {AMELIE, Electric Road Systems, Mobilität, Oberleitungs-LKW},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Eickelmann2020c,
+title = { Rechtliche Rahmenbedingungen für die Einbindung eines autonomen Shuttles über eine digitale Mobilitätsplattform in den Bedarfs- und Linienverkehr},
+author = {Elias Eickelmann and Mathilde Krampitz and Anna Bußmann-Welsch and David Stegmaier},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/202012_Hub-Chain-Studie.pdf, Studie als pdf},
+year = {2020},
+date = {2020-12-14},
+type = {Studie im Rahmen des Projekts Hub-Chain},
+keywords = {Autonomes Fahren, Hub Chain, Mobilität, ÖPNV, Verkehr},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Horng2020,
+title = {Wasserstoff - Farbenlehre: Rechtwissenschaftliche und rechtspolitische Kurzstudie},
+author = {Pauline Horng and Michael Kalis and Sabrina Heinecke and Jannis Glahe and Odile Stabon},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM_Kurzstudie_Wasserstoff_Farbenlehre.pdf},
+year = {2020},
+date = {2020-12-14},
+type = {Studie im Auftrag des Clusters Energietechnik},
+keywords = {Energiewende, Politik, Recht, Wasserstoff},
+pubstate = {published},
+tppubtype = {techreport}
+}

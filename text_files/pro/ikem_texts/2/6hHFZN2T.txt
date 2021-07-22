@@ -1,0 +1,41 @@
+Anika Nicolaas Ponder ist Wissenschaftliche Referentin sowie Leiterin des Teams Nachhaltigkeit und Innovation. In dieser Funktion ist sie verantwortlich für das preisgekrönte Energiewende-Malbuch “Infographic Energy Transition Coloring Book”, die IKEM Academy sowie ein Projekt zur Sichtbarmachung und Verbreitung der Ergebnisse aus dem Projekt WindNODE. Zudem war Sie Projektleiterin von Baltic InteGrid. Das durch das EU-Programm Interreg Baltic Sea Region finanzierte Projekt untersuchte das Potenzial eines vermaschten Offshore-Stromnetzes in der Ostsee.
+Sie studierte an der Amsterdam Business School und absolvierte den Masterstudiengang Economics and Development an der Sorbonne, Paris. Ihre akademische Karriere wird durch umfangreiche Berufserfahrung in internationalen Organisationen, z.B. der OSZE-Mission im Kosovo und den Vereinten Nationen, ergänzt. Dort arbeitete sie unter anderem zum Thema nachhaltige Entwicklung.
+@misc{Ponder2019,
+title = {An energy transition for everyone},
+author = {Anika Nicolaas Ponder},
+url = {https://medium.com/thebeammagazine/an-energy-transition-for-everyone-3fc0bf825ca0, Artikel Online},
+year = {2019},
+date = {2019-08-13},
+abstract = {People will care about climate change if we tell the right story — and if we tell the story right.},
+howpublished = {Namensartikel auf Medium.com/The Beam Magazine},
+keywords = {},
+pubstate = {published},
+tppubtype = {misc}
+}
+@techreport{Côté2018,
+title = {Market Analysis of the Offshore Wind Energy Transmission Industry: Overview for the Baltic Sea Region},
+author = {Elizabeth Côté and Michael Holton and Anika Nicolaas Ponder and Julia Sandén and Anna-Kathrin Wallasch},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/BIG_3.2_Market-Analysis-of-the-Offshore-Wind-Energy-Transmission-Industry_final.pdf},
+year = {2018},
+date = {2018-10-00},
+abstract = {The Baltic InteGrid project is an interdisciplinary research initiative designed to facilitate transnational cooperation and optimise offshore wind development in the Baltic Sea Region (BSR). The following analysis provides project stakeholders with up-to-date information on current market conditions for the development of a regional meshed grid. The report highlights relevant findings from the market analysis of the offshore wind energy transmission industry, with a particular focus on Europe and the Baltic Sea. It first provides a general overview of the European offshore wind energy industry, including information on relevant regulatory regimes, installed capacity, and technology trends. It then presents component-specific market overviews for high-voltage alternating current (HVAC) cables, high-voltage direct current cables (HVDC), converters, transformers, and substation foundations, as well as for the main operation, maintenance, and service (OMS) activities.},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+The Baltic InteGrid project is an interdisciplinary research initiative designed to facilitate transnational cooperation and optimise offshore wind development in the Baltic Sea Region (BSR). The following analysis provides project stakeholders with up-to-date information on current market conditions for the development of a regional meshed grid. The report highlights relevant findings from the market analysis of the offshore wind energy transmission industry, with a particular focus on Europe and the Baltic Sea. It first provides a general overview of the European offshore wind energy industry, including information on relevant regulatory regimes, installed capacity, and technology trends. It then presents component-specific market overviews for high-voltage alternating current (HVAC) cables, high-voltage direct current cables (HVDC), converters, transformers, and substation foundations, as well as for the main operation, maintenance, and service (OMS) activities.
+@article{Ponder2012,
+title = {Power-to-Gas. The Legal Framework for a Long-Term Energy Storage Technology in Germany.},
+author = {Anika Nicolaas Ponder and Eyk Bösche and Henning Thomas},
+url = {http://www.lexxion.de/en/verlagsprogramm-shop/details/2941/203/relp/relp-3/2012/power-to-gas--the-legal-framework-for-a-long--term-energy-storage-technology-in-germany.html},
+year = {2012},
+date = {2012-01-01},
+journal = {RELP},
+volume = {3/2012},
+pages = {159 ff.},
+abstract = {Unter Mitarbeit der IKEM-Mitarbeiterin Anika Nicolaas Ponder ist in der Ausgabe 3/2012 des Fachmagazins „Renewable Energy Law and Policy Review“ ein Aufsatz zum Thema „Power-to-Gas: The Legal Framework for a Long- Term Energy Storage Technology in Germany“ erschienen. Er kann entweder über die Zeitschrift oder beim Lexxion-Verlag erworben werden.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Unter Mitarbeit der IKEM-Mitarbeiterin Anika Nicolaas Ponder ist in der Ausgabe 3/2012 des Fachmagazins „Renewable Energy Law and Policy Review“ ein Aufsatz zum Thema „Power-to-Gas: The Legal Framework for a Long- Term Energy Storage Technology in Germany“ erschienen. Er kann entweder über die Zeitschrift oder beim Lexxion-Verlag erworben werden.

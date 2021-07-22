@@ -1,0 +1,82 @@
+Mobilitätsgarantie bei der Verzahnung von On-Demand- und Taktverkehren
+Projekbeschreibung
+Vor dem Hintergrund des demographischen Wandels und der abnehmenden Bevölkerung in ländlichen Regionen hat sich das vom Bundesministerium für Wirtschaft und Energie geförderte Projekt Hub Chain die Verzahnung von On-Demand- und Taktverkehr im ÖPNV durch digitale Mobilitätsdienste als Ziel gesetzt. Wesentliches Ziel ist es, auch in weniger verdichteten Räumen ein linien- und fahrplanunabhängiges Angebot mit einer Anschlussgarantie zu entwickeln.
+Gemeinsam mit den Partnern Stadtwerke Osnabrück, dem Innovationszentrum für Mobilität und gesellschaftlichen Wandel (InnoZ), dem Kompetenzzentrum ländliche Mobilität Wismar (KOMOB), dem Deutschen Zentrum für Luft- und Raumfahrt (DLR) und HaCon soll innerhalb des Projektzeitraums eine Distributionsplattform aufgebaut werden, die in Kombination mit einer Mobilitätsplattform für Kunden die Vernetzung des On-Demand-Verkehrsangebots mit einer zentralen Buslinie sowohl für das Verkehrsunternehmen als auch für den Kunden ermöglicht. Zudem soll die entwickelte Plattform auch auf ein autonomes Fahrzeug angewendet werden. Hier gilt es besonders die rechtlichen Rahmenbedingungen zu beachten, die das autonome Fahren im öffentlichen Raum aktuell beschränken. Daher werden im Projekt auch der Rechtsrahmen, die aktuellen Standards, der Datenschutz sowie die Akzeptanz der Bevölkerung innerhalb des Projekts betrachtet und eingebunden, um das System erfolgreich umzusetzen.
+Das IKEM wird den übrigen Projektpartnern während der Projektlaufzeit in Bezug auf ad hoc Rechtsfragen begleitend zur Verfügung stehen. Außerdem wird das IKEM praxistaugliche Betreiber- und Geschäftsmodelle unter Einbeziehung des Rechtsrahmens entwickeln und analysieren, sowie Maßnahmenvorschläge für den Weg dorthin begründen. Im Zusammenhang mit den Testfeldern Umland und Stadt Osnabrück, werden zudem Roadmaps zur rechtssicheren Etablierung autonomer Shuttles als ÖPNV-Zubringer entwickelt. Schließlich beteiligt sich das IKEM mit seiner einschlägigen Expertise im Bereich des autonomen Fahrens an der Entwicklung simulativ-prognostischer Zukunftsszenarien für neue Mobilitätsangebote mit deutlich erhöhtem Anteil an autonomen Fahrzeugen.
+Publikationen
+IKEM,
+Gesetzesentwurf zum autonomen Fahren: Projektübergreifende Stellungnahme Sonstige
+@misc{IKEM2021,
+title = {Gesetzesentwurf zum autonomen Fahren: Projektübergreifende Stellungnahme},
+author = {IKEM},
+url = {https://www.ikem.de/wp-content/uploads/2021/04/Stellungnahme_Gesetzesentwurf-zum-autonomen-Fahren.pdf},
+year = {2021},
+date = {2021-04-09},
+abstract = {Der Gesetzesentwurf zum autonomen Fahren ist ein guter Start für die Mobilität von Morgen. An einigen Stellen bestehen allerdings noch Unklarheiten und Regulierungslücken, wie zum Beispiel bei der Berücksichtigung externen Infrastruktur und der klaren Orientierung auf ÖPNV Anwendungen, unter den Leitgedanken Umweltschutz und Daseinsvorsorge im Mobilitätsbereich. Zu diesem Ergebnis kommt eine Stellungnahme des IKEM. },
+howpublished = {Stellungnahme},
+keywords = {},
+pubstate = {published},
+tppubtype = {misc}
+}
+Der Gesetzesentwurf zum autonomen Fahren ist ein guter Start für die Mobilität von Morgen. An einigen Stellen bestehen allerdings noch Unklarheiten und Regulierungslücken, wie zum Beispiel bei der Berücksichtigung externen Infrastruktur und der klaren Orientierung auf ÖPNV Anwendungen, unter den Leitgedanken Umweltschutz und Daseinsvorsorge im Mobilitätsbereich. Zu diesem Ergebnis kommt eine Stellungnahme des IKEM.
+Eickelmann, Elias; Krampitz, Mathilde; Bußmann-Welsch, Anna; Stegmaier, David
+Rechtliche Rahmenbedingungen für die Einbindung eines autonomen Shuttles über eine digitale Mobilitätsplattform in den Bedarfs- und Linienverkehr Forschungsbericht
+Studie im Rahmen des Projekts Hub-Chain, 2020.
+| Links:
+@techreport{Eickelmann2020c,
+title = { Rechtliche Rahmenbedingungen für die Einbindung eines autonomen Shuttles über eine digitale Mobilitätsplattform in den Bedarfs- und Linienverkehr},
+author = {Elias Eickelmann and Mathilde Krampitz and Anna Bußmann-Welsch and David Stegmaier},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/202012_Hub-Chain-Studie.pdf, Studie als pdf},
+year = {2020},
+date = {2020-12-14},
+type = {Studie im Rahmen des Projekts Hub-Chain},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Krampitz2020c,
+title = {Gesetz zum autonomen Fahren – Es bleibt noch viel zu tun},
+author = {Mathilde Krampitz},
+url = {https://www.busundbahn.de/publikationen/der-nahverkehr.html, Website des Verlags},
+year = {2020},
+date = {2020-12-01},
+journal = {Der Nahverkehr},
+volume = {12},
+number = {38},
+pages = {11-13},
+abstract = {Das Bundesministerium für Verkehr und digitale Infrastruktur will mit seinem geplanten Gesetz zum autonomen Fahren dafür sorgen, dass Deutschland zum Vorreiter in Sachen Fahrzeugautomatisierung wird. Leider schafft es der Entwurf nicht, sich von der Vorstellung eines menschlichen Fahrzeugführers als zentralem Adressaten und wesentlichem Leitbild des Straßenverkehrsrechts zu verabschieden. Auch in Sachen Klimaschutz bleibt er hinter den Erwartungen zurück. Stattdessen bräuchte es einen ganzheitlichen Ansatz, der die Unterschiede und Besonderheiten maschineller Lösungen in den Fokus rückt und in klare rechtliche Anforderungen übersetz und sich außerdem an unseren Klimaschutzzielen orientiert. },
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Das Bundesministerium für Verkehr und digitale Infrastruktur will mit seinem geplanten Gesetz zum autonomen Fahren dafür sorgen, dass Deutschland zum Vorreiter in Sachen Fahrzeugautomatisierung wird. Leider schafft es der Entwurf nicht, sich von der Vorstellung eines menschlichen Fahrzeugführers als zentralem Adressaten und wesentlichem Leitbild des Straßenverkehrsrechts zu verabschieden. Auch in Sachen Klimaschutz bleibt er hinter den Erwartungen zurück. Stattdessen bräuchte es einen ganzheitlichen Ansatz, der die Unterschiede und Besonderheiten maschineller Lösungen in den Fokus rückt und in klare rechtliche Anforderungen übersetz und sich außerdem an unseren Klimaschutzzielen orientiert.
+Unkostenbeiträge für genehmigungsfreie Bürgerfahrdienste: Rechtwissenschaftliche Studie zur Finanzierung ehrenamtlicher Mobilitätsangebote im ländlichen Raum Forschungsbericht
+Studie im Rahmen des Projekts Hub Chain, 2020.
+| Links:
+@techreport{Eickelmann2020,
+title = {Unkostenbeiträge für genehmigungsfreie Bürgerfahrdienste: Rechtwissenschaftliche Studie zur Finanzierung ehrenamtlicher Mobilitätsangebote im ländlichen Raum},
+author = {Elias Eickelmann and Alexandra Rose},
+url = {https://www.ikem.de/wp-content/uploads/2020/07/20200723_Unkostenbeiträge-für-genehmigungsfreie-Bürgerfahrdienste.pdf, Studie als PDF},
+year = {2020},
+date = {2020-07-23},
+type = {Studie im Rahmen des Projekts Hub Chain},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Klinge2020,
+title = {Betreiber und Geschäftsmodelle Digitaler Mobilitätsplattformen zur Verzahnung von On-Demand- und Taktverkehr},
+author = {Alexander Klinge and Lukas Torliene and Nils Pöstges},
+url = {https://www.ikem.de/wp-content/uploads/2020/07/AKlinge_et_al_2020_Geschäftsmodelle_Digitaler_Mobilitätsplattformen.pdf, Ergebnisreport als PDF},
+year = {2020},
+date = {2020-06-00},
+institution = {IKEM:},
+abstract = {Der Hub Chain Ergebnisreport in Arbeitsschritt 2.1.4 „Betreiber und Geschäftsmodelle Digitaler Mobilitätsplattformen zur Verzahnung von On-Demand- und Taktverkehr“ gibt einen übersichtlichen Einblick in die verschiedenen Dimensionen der Geschäfts- und Betreibermodellentwicklung für digitale Mobilitätsplattformen und legt einen speziellen Fokus auf die Einbindung eines On-Demand-Verkehrs. Zunächst zeigt eine tiefe Marktanalyse die Plattformvarietät auf und durch eine Kategorisierung wird aufbauend ein Referenzrahmen zur Einordnung, Bewertung und Abgrenzung verschiedener Mobilitätsplattformen erstellt. Dieser ermöglicht die Identifikation von Betreiber- und Geschäftsmodellen mit der Methodik des Business Model Canvas (BMC) nach Osterwalder und Pigneur.
+Der vorliegende Bericht liefert somit eine Übersicht der nötigen Betrachtungsdimensionen und ein erstes Toolkit zur Geschäftsmodellentwicklung im Bereich digitaler regionaler Mobilitätsplattformen durch öffentliche Akteure. Er soll somit Hilfestellung sein, um mögliche Hindernisse einer Implementierung zu identifizieren und resultierende Chancen zu nutzen.},
+type = {Hub Chain Ergebnisreport Arbeitsschritt 2.1.4},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Der Hub Chain Ergebnisreport in Arbeitsschritt 2.1.4 „Betreiber und Geschäftsmodelle Digitaler Mobilitätsplattformen zur Verzahnung von On-Demand- und Taktverkehr“ gibt einen übersichtlichen Einblick in die verschiedenen Dimensionen der Geschäfts- und Betreibermodellentwicklung für digitale Mobilitätsplattformen und legt einen speziellen Fokus auf die Einbindung eines On-Demand-Verkehrs. Zunächst zeigt eine tiefe Marktanalyse die Plattformvarietät auf und durch eine Kategorisierung wird aufbauend ein Referenzrahmen zur Einordnung, Bewertung und Abgrenzung verschiedener Mobilitätsplattformen erstellt. Dieser ermöglicht die Identifikation von Betreiber- und Geschäftsmodellen mit der Methodik des Business Model Canvas (BMC) nach Osterwalder und Pigneur.
+Der vorliegende Bericht liefert somit eine Übersicht der nötigen Betrachtungsdimensionen und ein erstes Toolkit zur Geschäftsmodellentwicklung im Bereich digitaler regionaler Mobilitätsplattformen durch öffentliche Akteure. Er soll somit Hilfestellung sein, um mögliche Hindernisse einer Implementierung zu identifizieren und resultierende Chancen zu nutzen.

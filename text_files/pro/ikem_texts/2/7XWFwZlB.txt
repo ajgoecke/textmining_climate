@@ -1,0 +1,75 @@
+Jonathan Metz arbeitet als Wissenschaftlicher Referent im Team Energierecht des IKEM. Schwerpunktmäßig ist er mit den Projekten FlexGeber und WindNODE befasst.
+Herr Metz studierte Rechtswissenschaften an der Universität Potsdam. Das Rechtsreferendariat absolvierte er bis Mai 2018 am Oberlandesgericht Brandenburg mit Stationen unter anderem bei einer auf Umwelt- und Planungsrecht spezialisierten Kanzlei in Berlin. Erfahrungen im Bereich des Energierechts sammelte er in der Wahlstation, die er Anfang 2018 bereits beim IKEM e.V. absolvierte. Seit 2020 ist er im Rahmen des Zertifikatslehrgangs „Regionale*r Energiesystem Manager*in“, Dozent an der TH Köln.
+Metz, Jonathan; Doderer, Hannes; Harsch, Victoria; Schäfer-Stradowsky, Simon
+Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung Forschungsbericht
+@techreport{Metz2021b,
+title = {Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung},
+author = {Jonathan Metz and Hannes Doderer and Victoria Harsch and Simon Schäfer-Stradowsky},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-EE-Finanzierung-Broschuere-final.pdf},
+year = {2021},
+date = {2021-02-02},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Doderer2021b,
+title = {Regelungsgehalt der SINTEG-V am Beispiel der Netzentgeltermittlung und der Netzentgeltprivilegierung für Sonderformen der Netznutzung},
+author = {Hannes Doderer and Jonathan Metz},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/IKEM-SintegV.pdf},
+year = {2021},
+date = {2021-02-02},
+journal = {Artikel im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+@techreport{Metz2021,
+title = {Systemische Ansätze zur Reform der Netzentgelte für die Energiewende 2.0},
+author = {Jonathan Metz and Hannes Doderer},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-Netzentgelte-Broschüre.pdf},
+year = {2021},
+date = {2021-01-26},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Doderer2020c,
+title = {Volatile Energie als Normalfall – Wie sehen die Stromnetzentgelte in der Zukunft aus?},
+author = {Hannes Doderer and Jonathan Metz and Johannes Antoni},
+url = {https://research.owlit.de/lx-document/REL1347300, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {42-46},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+@article{Doderer2020d,
+title = {Rechtlicher Überblick: Was hat sich 2019 im Energiewenderecht geändert?},
+author = {Hannes Doderer and Jonathan Metz},
+year = {2020},
+date = {2020-06-00},
+journal = {EnWZ},
+volume = {6/2020},
+pages = {216-221},
+abstract = {Die Autoren stellen im Rahmen eines Rückblicks die wichtigsten Entwicklungen des Rechts der Energiewende 2019 dar.
+- Eine wichtige Änderung stelle die NABEG-Novelle dar, welche einen zügigen Netzausbau ermöglichen und neue Maßnahmen im Netzengpassmanagement einführen solle.
+- Schwerpunkt der Energiewende seien 2019 aber das Klimaschutzprogramm 2030 und dessen Umsetzung gewesen. Kernelemente des Programms seien die Einführung des nationalen Emissionshandelssystems und der Kohleausstieg mit der damit einhergehenden Förderung erneuerbarer Energien. Klimaschutzbemühungen habe es auch im Gebäudesektor gegeben.
+- Weiterhin habe es Anpassungen und Veränderungen in einzelnen Gesetzen gegeben, so in der EEG-Innovationsausschreibungsverordnung, dem Stromsteuergesetz und dem Energiedienstleistungsänderungsgesetz.
+- Auf europäischer Ebene sei das sog. Winterpaket der EU Kommission "Saubere Energie für alle Europäer" zum Abschluss gelangt.
+- Darüber hinaus habe der EuGH die wichtige Entscheidung getroffen, dass der Finanzierungsmechanismus des EEG 2012 keine staatliche Beihilfe darstelle.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Die Autoren stellen im Rahmen eines Rückblicks die wichtigsten Entwicklungen des Rechts der Energiewende 2019 dar.
+- Eine wichtige Änderung stelle die NABEG-Novelle dar, welche einen zügigen Netzausbau ermöglichen und neue Maßnahmen im Netzengpassmanagement einführen solle.
+- Schwerpunkt der Energiewende seien 2019 aber das Klimaschutzprogramm 2030 und dessen Umsetzung gewesen. Kernelemente des Programms seien die Einführung des nationalen Emissionshandelssystems und der Kohleausstieg mit der damit einhergehenden Förderung erneuerbarer Energien. Klimaschutzbemühungen habe es auch im Gebäudesektor gegeben.
+- Weiterhin habe es Anpassungen und Veränderungen in einzelnen Gesetzen gegeben, so in der EEG-Innovationsausschreibungsverordnung, dem Stromsteuergesetz und dem Energiedienstleistungsänderungsgesetz.
+- Auf europäischer Ebene sei das sog. Winterpaket der EU Kommission "Saubere Energie für alle Europäer" zum Abschluss gelangt.
+- Darüber hinaus habe der EuGH die wichtige Entscheidung getroffen, dass der Finanzierungsmechanismus des EEG 2012 keine staatliche Beihilfe darstelle.

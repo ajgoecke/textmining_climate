@@ -1,0 +1,74 @@
+Im Rahmen des vom Bundesforschungsministerium geförderten Projekts Koperikus ENavi ist nun ein Diskussionspapier erschienen, dass Strategien zur Dekarbonisierung des Berliner Gebäudesektors beleuchtet. Diese Publikation ist Teil eines Forschungsschwerpunkts zur Energieeffizienz im Gebäudesektor.
+Weltweit ist die Bauindustrie einer der größten Verbraucher von Ressourcen und Energie, die 50% der weltweiten Stahlproduktion ausmacht und mehr als 3 Milliarden Tonnen an Rohstoffen verbraucht. Außerdem ist sie ein relevanter Erzeuger von CO₂-Emissionen. Beinahe die Hälfte (46,7%) der CO₂-Emissionen im Jahr 2009 stammen vom Bausektor. Bisher wurden vor allem CO2-Minderungsmaßnahmen umgesetzt, die sich auf die Bau- und Nutzungsphasen des Lebenszyklus von Gebäuden konzentrieren (z.B. Verbesserung der thermischen Gebäudehülle oder der HLK-Systeme). Die Analyse und Umsetzung von Maßnahmen in frühen Phasen des Gebäude-Lebenszyklus (Gebäudeplanung, Herstellung von Baumaterialien) fängt jedoch gerade erst an.
+Hier besteht umfangreicher Bedarf nach Forschung und anschließender Umsetzung entsprechender Maßnahmen. Im Projekt Kopernikus Enavi untersucht das IKEM anhand von Daten von ÖKOBAUDAT die graue Energie von Baumaterialen durch Ökobilanzierung der Lieferkette. Vorläufige Ergebnisse zeigen ein Einsparpotenzial von mehr als 15% beim PENRT (Primary Energy Non-Renewable – Total) bei Verwendung von alternativen „grünen“ Baumaterialen mit geringerer Grauwert-Energie.
+Mercado, José
+Pathways to Decarbonize the Built Environment – Towards a Circular Building Industry in Berlin Forschungsbericht
+IKEM: Diskussionspapier, Kopernikus ENavi, AP 4 Task 7, 2018.
+@techreport{Mercado2018b,
+title = {Pathways to Decarbonize the Built Environment – Towards a Circular Building Industry in Berlin},
+author = {José Mercado },
+url = {https://www.ikem.de/wp-content/uploads/2018/08/IKEM_2018_Pathways-to-decarbonize-the-built-environment.pdf},
+year = {2018},
+date = {2018-07-00},
+institution = {IKEM:},
+type = {Diskussionspapier, Kopernikus ENavi, AP 4 Task 7},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Das jetzt vorgelegte Diksussionspapier “Pathways to decarbonizing the Built Environment | Towards a Circular Building Industry in Berlin – Emerging Concepts from the Circular Economy” diskutiert die Umsetzung von Schlüsselaspekten (Prinzipien, Methoden und Geschäftsmodelle) des Kreislaufwirtschaftskonzepts (die so genannte Circular Economy) in der Bauindustrie. Der komplexe Innovationsprozess wird darin aus verschiedenen methodischen und empirischen Perspektiven beleuchtet.
+Das Gesamtprojekt Kopernikus ENavi basiert – wie dieser Bericht – auf Erkenntnissen aus der Analyse des Wohnungsbaus in Berlin. Die Ergebnisse sind jedoch auch für die Bauwirtschaft in anderen Bundesländern relevant. Da die Forschung maßgeblich von der internationalen Erfahrung und Diskussion profitiert, sollen die Ergebnisse auch zur internationalen Diskussion über den Kreislaufwirtschaftsansatz der bebauten Umwelt beitragen.
+Innerhalb des Projektes sind innerhalb der letzten Berichtsperiode außerdem folgende Publikationen entstanden:
+@techreport{Novikova2018f,
+title = {Climate finance landscape of the German building sector},
+author = {Aleksandra Novikova and Kateryna Stelmakh and Julie Emmrich},
+url = {https://www.ikem.de/wp-content/uploads/2018/08/IKEM_2018_Climate-Finance-Landscape_Buildings-Sector.pdf},
+year = {2018},
+date = {2018-07-00},
+institution = {IKEM:},
+abstract = {Buildings play a special role in Germany’s energy transition. Accounting for up to 30% of the country total GHG emissions, this sector has one of the most ambitious targets set by the German Energy Concept and the Climate Action Plan 2050. To decrease energy demand and emissions from buildings, the policy focus lies on increasing energy efficiency and producing the remaining energy through renewable sources. Substantial additional investments are needed to reach cli-mate targets and finance the energy transition. This report aims to track how much capital was invested in climate and energy transition measures in the German building sector in 2016.},
+type = {Bericht, Kopernikus ENavi, AP 4 Task 7},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Buildings play a special role in Germany’s energy transition. Accounting for up to 30% of the country total GHG emissions, this sector has one of the most ambitious targets set by the German Energy Concept and the Climate Action Plan 2050. To decrease energy demand and emissions from buildings, the policy focus lies on increasing energy efficiency and producing the remaining energy through renewable sources. Substantial additional investments are needed to reach cli-mate targets and finance the energy transition. This report aims to track how much capital was invested in climate and energy transition measures in the German building sector in 2016.
+@techreport{Stamo2018,
+title = {Energieeffizienz im Gebäudesektor in Berlin: Interaktion von verschiedenen Schlüsselakteuren},
+author = {Irina Stamo and Aleksandra Novikova},
+url = {https://www.ikem.de/wp-content/uploads/2018/08/IKEM_2018_Energieeffizienz_Schlüsselakteure.pdf},
+year = {2018},
+date = {2018-07-00},
+institution = {IKEM:},
+type = {Forschungsbericht, Kopernikus ENavi, AP 4 Task 7},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Decarbonization policies for the building sector in Berlin, Mecklenburg-Vorpommern and Baden-Württemberg: Mapping of selected policies and analysis of their replication potential to other regions in Germany Forschungsbericht
+IKEM: Forschungsbericht, Kopernikus ENavi, AP 4 Task 7, 2018.
+@techreport{Klinge2018,
+title = {Decarbonization policies for the building sector in Berlin, Mecklenburg-Vorpommern and Baden-Württemberg: Mapping of selected policies and analysis of their replication potential to other regions in Germany},
+author = {Alexander Klinge and Aleksandra Novikova },
+url = {https://www.ikem.de/wp-content/uploads/2018/08/IKEM_2018_Policy-mapping-of-German-regions.pdf},
+year = {2018},
+date = {2018-07-00},
+institution = {IKEM:},
+type = {Forschungsbericht, Kopernikus ENavi, AP 4 Task 7},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@incollection{Novikova2018c,
+title = {Klimafinanzierung in Deutschland – Investitionen in die Transformation},
+author = {Aleksandra Novikova and Ingmar Jürgens and Kateryna Stelmakh and Felix Peterka and Julie Emmrich},
+editor = {Matthias Stapelfeldt and Martin Granzow and Matthiaas Kopp},
+year = {2018},
+date = {2018-05-00},
+booktitle = {Greening Finance – Herausforderungen und Lösungsansätze für eine nachhaltige Zukunft},
+publisher = {Logos Verlag},
+address = {Berlin},
+keywords = {},
+pubstate = {published},
+tppubtype = {incollection}
+}

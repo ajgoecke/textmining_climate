@@ -1,0 +1,53 @@
+Roman Weidinger ist wissenschaftlicher Referent am IKEM sowie am Lehrstuhl von Prof. Dr. Michael Rodi für Öffentliches Recht, Finanzrecht, Umwelt- und Energierecht an der Universität Greifswald.
+Er studierte Rechtswissenschaften an der Westfälischen Wilhelms-Universität Münster, der Universidad de Salamanca in Spanien und zuletzt an der Humboldt-Universität zu Berlin mit dem Fokus auf Rechtsetzung und Rechtspolitik.
+Tätigkeitsschwerpunkt von Roman Weidinger ist neben dem Energierecht die Koordination des interdisziplinären Forschungsteams.
+Er promoviert zum Thema „Bedarfsplanung bei EE-Erzeugungsanlagen“ bei Herrn Prof. Dr. Rodi an der Universität Greifswald.
+Publikationen
+Weidinger, Roman
+Teilhabe am Ausbau der Erneuerbaren Energien – Zur Bürgerbeteiligung an Verfahren und Wertschöpfung Artikel
+@article{Weidinger2020b,
+title = {Teilhabe am Ausbau der Erneuerbaren Energien – Zur Bürgerbeteiligung an Verfahren und Wertschöpfung},
+author = {Roman Weidinger},
+url = {https://research.owlit.de/lx-document/REL1347305, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {52-55},
+abstract = {Der Ausbau von Erneuerbaren Energien (EE) führt zu grundlegenden Veränderungen in der Stromerzeugungslandschaft. Anders als bei der zentral geprägten Energieversorgung durch konventionelle Erzeuger
+zeichnet sich die Versorgung mit Strom aus EE durch eine gesamtsystemisch höhere Anlagenquantität und deren räumliche Dezentralität aus. Aufgrund begrenzter Flächenverfügbarkeiten
+rücken EE-Anlagen damit näher an Bürger:innen heran; Stromerzeugung wird erfahrbarer, Flächennutzungskonflikte häufiger.
+Akzeptanz wird damit zu einem zentralen Erfolgsfaktor der Energiewende. Akzeptanz lässt sich jedoch nicht einfach regeln; juristisch geht sie bislang bestenfalls indirekt aus der Berücksichtigung von Grundrechten sowie der Gewährleistung demokratischer Rechtssetzungsprozesse hervor. In der Regulierung des Energiewendeprozesses wird Akzeptanz indes zu einem Leitbild des Regelungsdesigns – und sozialwissenschaftliche Erkenntnisse damit zum Ausgangspunkt einer guten Akzeptanzpolitik.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Der Ausbau von Erneuerbaren Energien (EE) führt zu grundlegenden Veränderungen in der Stromerzeugungslandschaft. Anders als bei der zentral geprägten Energieversorgung durch konventionelle Erzeuger
+zeichnet sich die Versorgung mit Strom aus EE durch eine gesamtsystemisch höhere Anlagenquantität und deren räumliche Dezentralität aus. Aufgrund begrenzter Flächenverfügbarkeiten
+rücken EE-Anlagen damit näher an Bürger:innen heran; Stromerzeugung wird erfahrbarer, Flächennutzungskonflikte häufiger.
+Akzeptanz wird damit zu einem zentralen Erfolgsfaktor der Energiewende. Akzeptanz lässt sich jedoch nicht einfach regeln; juristisch geht sie bislang bestenfalls indirekt aus der Berücksichtigung von Grundrechten sowie der Gewährleistung demokratischer Rechtssetzungsprozesse hervor. In der Regulierung des Energiewendeprozesses wird Akzeptanz indes zu einem Leitbild des Regelungsdesigns – und sozialwissenschaftliche Erkenntnisse damit zum Ausgangspunkt einer guten Akzeptanzpolitik.
+@techreport{Salecki2020,
+title = {Finanzielle Beteiligung von betroffenen Kommunen bei Planung, Bau und Betrieb von erneuerbaren Energieanlagen(FinBEE)},
+author = {Steven Salecki and Katharina Heinbach and Bernd Hirschl and Roman Weidinger and Simon Schäfer-Stradowsky and Ralf Ott and Wieland Lehnert and Christine Kliem and Martin Altrock and Florian Umlauf and Matthias Puffe and Hannah Seiß and Yasin Yilmaz and Lisa Kahle},
+url = {https://www.ikem.de/wp-content/uploads/2020/09/20200914_FinBEE_Bericht_WEA.pdf},
+year = {2020},
+date = {2020-09-11},
+type = {Bericht im Rahmen des Projekts FinBee},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Weidinger2020,
+title = {Finanzielle Beteiligung von betroffenen Kommunen bei Planung, Bau und Betrieb von erneuerbaren Energieanlagen},
+author = {Steven Salecki and Wieland Lehnert and Roman Weidinger and Simon Schäfer-Stradowsky and Ralf Ott and Bernd Hirschl and Martin Altrock and Christine Kliem},
+editor = {{Institut für ökologische Wirtschaftsforschung} and {Institut für Klimaschutz, Energie & Mobilität} and {Becker Büttner Held}},
+url = {https://www.ikem.de/wp-content/uploads/2020/05/I%C3%96W-BBH-und-IKEM-2020-Finanzielle-Beteiligung-von-Kommunen-an-EE-An....pdf, Kurzpapier als PDF},
+year = {2020},
+date = {2020-05-25},
+institution = {IÖW, BBH, IKEM:},
+type = {Kurzpapier mit Empfehlungen zur kommunalen und Bürgerbeteiligung an Windenergieanlagen},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

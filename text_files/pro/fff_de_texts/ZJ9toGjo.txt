@@ -1,0 +1,568 @@
+|Neumayer-Station III (Antarktis) |
+|Bad Belzig (BB), 9:00 Uhr, Hofladen Lübnitz (Fahrraddemo) |
+|Bernau (BB), 12:15 Uhr, Marktplatz |
+|Bloischdorf (BB), 10:00 Uhr, Gartenstraße 38 |
+|Brandenburg an der Havel (BB), 16:00 Uhr, Neustädtischer Markt Parkingday |
+|Cottbus (BB), 13:00 Uhr, Heronplatz (Hugendubel) Mehr Infos|
+|Eberswalde (BB), 13:30 Uhr, Bahnhof |
+|Falkensee (BB), 10:30 Uhr, Bahnhof (Picknick) Mehr Infos|
+|Finsterwalde (BB), 11:55 Uhr, Marktplatz |
+|Frankfurt (Oder) (BB), 12:00 Uhr, Hauptbahnhof |
+|Heidesee (BB), 10:00 Uhr, KiEZ Hözerner See |
+|Luckenwalde (BB), 10:00 Uhr, Kreishaus |
+|Ludwigsfelde (BB), 10:30 Uhr, Bhf. Ludwigsfelde |
+|Nauen (BB), 13:10 Uhr, Rathausplatz |
+|Neuruppin (BB), 11:57 Uhr, Fontaneschule |
+|Niederlehme (BB), 11:00 Uhr, Wiesenhof-Schlachthof Mehr Infos|
+|Oranienburg (BB), 12:00 Uhr, Bahnhof Oranienburg |
+|Panketal (BB), 11:30 Uhr, Vor dem Rathaus / am S-Bahnhof Zepernick (Fahrraddemo) Mehr Infos|
+|Potsdam (BB), 11:58 Uhr, Alter Markt, Landtag Mehr Infos|
+|Rangsdorf (BB), 11:55 Uhr, Rathausvorplatz |
+|Schöneiche bei Berlin (BB), 17:00 Uhr, Dorfaue 1 Mehr Infos|
+|Schwedt (BB), 11:55 Uhr, Platz der Befreiung |
+|Senftenberg (BB), 11:55 Uhr, Marktplatz |
+|Stahnsdorf (BB), 9:30 Uhr, Gemeindezentrum (Annastraße 3) |
+|Templin (BB), 11:00 Uhr, Kurmeile |
+|Zehdenick (BB), 9:30 Uhr, Bahnhof - fahrt nach Templin |
+|Aalen (BW), 14:00 Uhr, Rathaus |
+|Albstadt-Ebingen (BW), 11:00 Uhr, Stadtbrunnen/Marktstraße |
+|Aulendorf (BW), 11:30 Uhr, Vor dem Rathaus |
+|Backnang (BW), 9:00 Uhr, Vor der Bibliothek Globaler Klimastreik |
+|Bad Mergentheim (BW), 10:30 Uhr, neues Rathaus |
+|Bad Schönborn (BW), 16:00 Uhr, Rathaus in Mingolsheim |
+|Bad Waldsee (BW), 11:00 Uhr, Volksbank (Grabenmühle) |
+|Baiersbronn (BW), 11:55 Uhr, Rosenplatz (Mahnwache) |
+|Biberach an der Riß (BW), 11:00 Uhr, Marktplatz |
+|Calw (BW), 11:00 Uhr, Marktplatz |
+|Edingen-Neckarhausen (BW), 10:00 Uhr, Bürgermeister-Reinle-Platz (Fahrraddemo) |
+|Ellwangen (BW), 13:00 Uhr, Fuchseck |
+|Esslingen (BW), 9:00 Uhr, Marktplatz (Fahrraddemo nach Stuttgart im Anschluss an die normale Demo) Mehr Infos|
+|Filderstadt/Bernhausen (BW), 13:30 Uhr, S-Bahnhof Bernhausen |
+|Freiburg (BW), 10:00 Uhr, Platz der alten Synagoge |
+|Freudenstadt (BW), 12:10 Uhr, Oberer Marktplatz |
+|Friedrichshafen, 11:30 Uhr, Stadtbahnhof (Franziskusplatz) |
+|Gerlingen (BW), 11:00 Uhr, Rathausplatz |
+|Göppingen (BW), 11:30 Uhr, Schillerplatz Göppingen |
+|Heidelberg (BW), 11:00 Uhr, Stadtbücherei |
+|Heidenheim an der Brenz (BW), 11:00 Uhr, Bahnhof Mehr Infos|
+|Heilbronn (BW), 11:30 Uhr, Bollwerksturm (Infostände) |
+|Hemsbach (BW), 11:30 Uhr, Parkplatz an Bahnhof |
+|Hockenheim (BW), 13:00 Uhr, Gauß Gymnasium Mehr Infos|
+|Isny (BW), 11:00 Uhr, Rathaus isny Demo+ clean up |
+|Karlsruhe (BW), 11:00 Uhr, Friedrichsplatz 18:00 Uhr Zirkus Maccaroni |
+|Kirchheim unter Teck (BW), 10:45 Uhr, Marktplatz |
+|Konstanz (BW), 11:30 Uhr, Herosé 19:00 Uhr Marktstätte Laternenumzug |
+|Kraichtal (BW), 16:00 Uhr, Friedrichsplatz Mehr Infos|
+|Künzelsau (BW), 12:00 Uhr, Rathaus |
+|Kuppenheim (BW), 15:00 Uhr, Friedensplatz |
+|Laupheim (BW), 12:30 Uhr, Marktplatz (Workshops) |
+|Leutkirch im Allgäu (BW), 11:00 Uhr, Bahnhof und Marktplatz |
+|Limbach (BW), 11:55 Uhr, Elisabethkirche |
+|Lörrach (BW), 12:00 Uhr, Lörrach (Musikalisches Programm) |
+|Ludwigsburg (BW), 12:00 Uhr, ZOB |
+|Magstadt (BW), 11:00 Uhr, Marktplatz |
+|Mannheim (BW), 17:00 Uhr, Mannheim Hauptbahnhofsvorplatz Mehr Infos|
+|Markdorf (BW), 11:00 Uhr, Hauptstrasse Mehr Infos|
+|Meersburg (BW), 14:00 Uhr, Marktplatz |
+|Möckmühl (BW), 11:00 Uhr, Sportheimparkplatz |
+|Mosbach (BW), 11:55 Uhr, Bahnhof |
+|Mössingen (BW), 10:00 Uhr, Hauptbahnhof - fahrt nach Tübingen |
+|Müllheim (BW), 14:00 Uhr, Markgräferplatz Mehr Infos|
+|Münsingen (BW), 13:00 Uhr, Rathausplat |
+|Neckargemünd (BW), 13:30 Uhr, Marktplatz |
+|Nürtingen (BW), 12:00 Uhr, Stadthalle K3N Mehr Infos|
+|Offenburg (BW), 11:00 Uhr, Fischmarkt |
+|Ostalbkreis (BW) |
+|Pforzheim (BW), 11:00 Uhr, Marktplatz Mehr Infos|
+|Rastatt (BW), 11:00 Uhr, vor dem Landratsamt |
+|Reutlingen (BW), 11:00 Uhr, Bahnhof |
+|Römerstein-Böhringen (BW), 11:00 Uhr, Rathaus |
+|Rötenberg (BW), 17:00 Uhr, Kirchplatz Rötenberg |
+|Rottenburg am Neckar (BW), 12:00 Uhr, Marktplatz |
+|Rottweil (BW), 11:30 Uhr, Rathaus |
+|Schorndorf (BW), 11:30 Uhr, Oberer Marktplatz in Schorndorf Mehr Infos|
+|Schramberg (BW), 13:30 Uhr, Rathaus |
+|Schwäbisch Gmünd (BW), 11:00 Uhr, Marktplatz Mehr Infos|
+|Schwäbisch Hall (BW), 13:30 Uhr, Marktplatz |
+|Schwetzingen (BW), 13:15 Uhr, Hebelgymnasium Schwetzingen |
+|Singen (BW), 10:00 Uhr, Heinrich-Weber-Platz (Workshops) |
+|Sinsheim (BW), 11:00 Uhr, Burgplatz |
+|St. Georgen im Schwarzwald (BW), 13:30 Uhr, Marktplatz |
+|Stuttgart (BW), 11:30 Uhr, Kernerplatz, Hölderlinplatz, Erwin-Schoettle-Platz Sterndemo - 3 Demozüge Mehr Infos|
+|Stuttgart Weilimdorf (BW), 12:00 Uhr, Löwenmarkt |
+|Tauberbischofsheim (BW), 11:00 Uhr, Schlossplatz |
+|Titisee-Neustadt (BW), 10:30 Uhr, Narrenbrunnen Mehr Infos|
+|Trossingen (BW), 12:00 Uhr, Rudolf-Maschke-Platz Trossingen (Versammlung) |
+|Tübingen (BW), 11:00 Uhr, Uhlandstraße - Zwischenkundgebung: Vor der neuen Aula - Abschlusskundgebung: Anlagenpark 18:00 Uhr Universitätsbibliothek 19:00 Uhr Holzmarkt Infostände im Anschluss Mehr Infos|
+|Ulm (BW), 15:00 Uhr, Marktplatz |
+|Villingen-Schwenningen (BW), 11:30 Uhr, Villingen Bahnhofsvorplatz |
+|Waldshut-Tiengen (BW), 18:00 Uhr, Rathaus |
+|Wangen im Allgäu (BW), 12:15 Uhr, Wiesenstreifen beim BSW |
+|Weinheim (BW), 10:45 Uhr, Schlossparkwiese unter dem Balkon des Oberbürgermeisters Mehr Infos|
+|Wertheim (BW), 10:00 Uhr, Marktplatz (Picknick) |
+|Wiesloch (BW), 11:30 Uhr, Mitarbeitercasino der PZN Wiesloch |
+|Adelsdorf (BY), 11:00 Uhr, Marktplatz (Eröffnung der Aktion Klimawürfel) Mehr Infos|
+|Aichach (BY), 16:00 Uhr, Altes Rathaus |
+|Altusried (BY), 12:00 Uhr, Rahausplatz |
+|Amberg (BY), 14:00 Uhr, Maltesergarten mit Zug zur Schiffgasse |
+|Ansbach (BY), 13:00 Uhr, Martin-Luther-Platz |
+|Aschaffenburg (BY), 12:00 Uhr, Theaterplatz |
+|Auerbach in der Oberpfalz (BY), 13:00 Uhr, Rathaus (unterer Markt) Mehr Infos|
+|Augsburg (BY), 11:00 Uhr, Rathausplatz |
+|Bad Endorf (BY), 17:00 Uhr, Kirchplatz (Menschenkette) |
+|Bad Grönenbach (BY), 10:00 Uhr, Marktplatz |
+|Bad Neustadt an der Saale (BY), 09:45 Uhr, Bahnhof |
+|Bad Tölz (BY), 11:00 Uhr, Rathaus |
+|Bad Windsheim (BY), 11:55 Uhr, Marktplatz |
+|Bamberg (BY), 11:30 Uhr, Bahnhofsvorplatz |
+|Bayreuth (BY), 10:00 Uhr, Rathaus (Fahrraddemo) |
+|Berg 82335 (BY), 16:00 Uhr, Aufkirchen |
+|Buch (BY), 8:30 Uhr, Obenhausener Ried / Buch Arbeitseinsatz in Sachen Moorschutz |
+|Buchenau (BY), 11:28 Uhr, S-Bahn - Fahrt nach München |
+|Burghausen (BY), 14:00 Uhr, Bahnhof |
+|Burgkunstadt (BY), 12:00 Uhr, Lange Gasse Mehr Infos|
+|Coburg (BY), 12:00 Uhr, Marktplatz Mehr Infos|
+|Dachau (BY), 10:30 Uhr, Treffpunkt am Bahnsteig der S-Bahn - fahrt nach München |
+|Deggendorf (BY), 10:00 Uhr, Luitpoldplatz vor der Grabkirche |
+|Dillingen (BY), 12:00 Uhr, Vor dem Stadtsaal |
+|Dingolfing (BY), 13:15 Uhr, Caprimaparkplatz Mehr Infos|
+|Dinkelsbühl (BY), 13:00 Uhr, TSV-Parkplatz |
+|Donauwörth (BY), 15:00 Uhr, Donaumeile |
+|Dorfen (BY), 10:00 Uhr, Friedhofsparkplatz Mehr Infos|
+|Eggenfelden (BY), 13:30 Uhr, Gymnasium |
+|Eichenau (BY), 11:36 Uhr, S-Bahn - Fahrt nach München |
+|Eichstätt (BY), 11:00 Uhr, Marktplatz Mehr Infos|
+|Erlangen (BY), 11:00 Uhr, Schlossplatz Mehr Infos|
+|Feldkirchen-Westerham (BY), 13:00 Uhr, Dorfplatz |
+|Feuchtwangen (BY), 13:15 Uhr, Schulzentrum |
+|Forchheim (BY), 12:00 Uhr, Le Perreux Park |
+|Freising (BY), 12:00 Uhr, Kriegerdenkmal Mehr Infos|
+|Fürstenfeldbruck (BY), 11:20 Uhr, Bahnsteig S-Bahn Buchenau - fahrt nach München 14:00 -19:00 Uhr PARK(ing) Day in der Hauptstraße Mehr Infos|
+|Fürth (BY), 16:00 Uhr , Dreiherrenbrunnen |
+|Füssen (BY), 15:55 Uhr, Kemptener Str. 11, vor dem Einzelhandelsgeschäft Feneberg Mehr Infos|
+|Garmisch Partenkirchen (BY), 11:00 Uhr, Rathausplatz |
+|Germering (BY), 11:55 Uhr, Therese-Giehse-Platz |
+|Gerolzhofen (BY), 13:30 Uhr, Erlöserkirche (evang. Kirche / Dreimühlenstraße) |
+|Grafing bei München (BY), 13:00 Uhr, Stadtpark Mehr Infos|
+|Grafrath (BY), 11:19 Uhr, S-Bahn - Fahrt nach München |
+|Günzburg (BY), 13:00 Uhr, Marktplatz |
+|Gunzenhausen (BY), 14:30 Uhr, Oettinger Parkplatz (Fahrraddemo) |
+|Haßfurt (BY), 11:30 Uhr, Hauptstraße/Unteres Tor Mehr Infos|
+|Herzogenaurach (BY), 10:00 Uhr, An der Schütt - Fahrt nach Erlangen |
+|Hof (BY), 14:00 Uhr, Altstadt/Kugelbrunnen |
+|Ingolstadt (BY), 13:00 Uhr, Münster |
+|Kaufbeuren (BY), 13:30 Uhr, Zollhäuschen |
+|Kempten (BY), 12:30 Uhr, Forum Allgäu |
+|Kitzingen (BY), 15:00 Uhr, Marktplatz |
+|Kronach (BY), 12:00 Uhr, Bushaltestelle Innerer Ring am Schulzentrum Mehr Infos|
+|Kulmbach (BY), 11:30 Uhr, Marktplatz |
+|Landau an der Isar (BY), 13:00 Uhr, Volksfestplatz (Clean-Up) |
+|Landsberg (BY), 14:00 Uhr, Hauptplatz mit anschließendem Demozug |
+|Landshut (BY), 12:30 Uhr, Rathaus |
+|Lindau (B) (BY), 11:55 Uhr, Altes Rathaus |
+|Lindenberg (BY), 12:30 Uhr, Stadtplatz Lindenberg |
+|Lohr am Main (BY), 15:00 Uhr, Seewegparkplatz Mehr Infos|
+|Mainburg (BY), 15:00 Uhr, Marktplatz (neben Stadtpfarrkirche) |
+|Markt Schwaben (BY), 13:40 Uhr, Marktplatz (Fahrraddemo) |
+|Markt Schwaben (BY), 18:00 Uhr, Unterbräusaal KlimaForum |
+|Marktbreit (BY), 9:40 Uhr, Bahnhof Marktbreit Mehr Infos|
+|Marktoberdorf (BY), 13:00 Uhr, Realschule |
+|Memmingen (BY), 12:00 Uhr, MARKTPLATZ |
+|Miesbach (BY), 13:00 Uhr, Haidmühlstraße 36 |
+|Mindelheim (BY), 13:00 Uhr, Marienplatz Mehr Infos|
+|München (BY), 12:00 Uhr, Königsplatz Mehr Infos|
+|Murnau (BY), 13:00 Uhr, Staffelsee Gymnasium |
+|Neuburg a.d. Donau (BY), 12:00 Uhr, Schrannenplatz 12:30 Uhr Zugfahrt nach Ingolstadt 13:00 Uhr Demo in Ingolstadt Mehr Infos|
+|Neumarkt (BY), 15:30 Uhr, Rathaus (Workshops) Mehr Infos|
+|Neumarkt Oberpfalz (BY), 15:30 Uhr, Rathausplatz |
+|Neustadt an der Aisch (BY), 13:00 Uhr, Marktplatz |
+|Nürnberg (BY), 12:05 Uhr, Lorenzerplatz Mehr Infos|
+|Oberaudorf (BY), 13:00 Uhr, Rathausvorplatz |
+|Passau (BY), 12:00 Uhr, Cagnes-sur-Mer-Promenade Mehr Infos|
+|Pegnitz (BY), 13:15 Uhr, Rathausvorplatz |
+|Penzberg (BY), 11:45 Uhr, Gymnasium |
+|Petershausen (BY), 14:00 Uhr, Pertrichplatz |
+|Pfaffenhofen an der Ilm (BY), 11:00 Uhr, Hauptplatz Mehr Infos|
+|Pfarrkichen (BY), 13:00 Uhr, Stadtplatz, Wimmerross |
+|Pfarrkirchen (BY), 13:00 Uhr, Stadtplatz |
+|Prien am Chiemsee (BY), 13:30 Uhr, Wendelsteinpark Prien |
+|Puchheim (BY), 11:55 Uhr, Grüner Markt |
+|Puchheim (BY), 11:38 Uhr, S-Bahn - Fahrt nach München |
+|Regensburg (BY), 15:00 Uhr, Hauptbahnhof (Fahrraddemo) 17:00 Uhr Ernst Reuter Platz (Menschenkette) Mehr Infos|
+|Rosenheim (BY), 14:00 Uhr, Max-Josefs-Platz |
+|Rothenburg ob der Tauber (BY), 13:00 Uhr, Marktplatz |
+|Schöngeising (BY), 11:22 Uhr, S-Bahn - Fahrt nach München |
+|Schwabach (BY), 16:00 Uhr, Schulhof der Wirtschaftsschule |
+|Schweinfurt (BY), 13:30 Uhr, Schillerplatz 17:00 Uhr Mahnwache |
+|Selb (BY), 13:15 Uhr, Marktplatz |
+|Sonthofen (BY), 13:30 Uhr, Vor dem Rathaus |
+|Stein (BY), 15:00 Uhr, FORUM STEIN (Hauptstraße 36) |
+|Straubing (BY), 10:00 Uhr, Theresienplatz Mehr Infos|
+|Traunstein (BY), 10:45 Uhr, Bahnhofsplatz |
+|Türkenfeld (BY), 11:14 Uhr, S-Bahn - Fahrt nach München |
+|Tutzing (BY) |
+|Vilsbiburg (BY), 13:15 Uhr, Verkehrsgarten |
+|Vöhringen (BY), 13:15 Uhr, Hettstedter Platz |
+|Volkach (BY), 15:00 Uhr, Marktplatz |
+|Waldkraiburg (BY), 13:45 Uhr, vor Haus der Kultur Mehr Infos|
+|Wasserburg am Inn (BY), 10:00 Uhr, Marienplatz |
+|Weiden Oberpfalz (BY), 13:00 Uhr, Weiden i.d.O Mehr Infos|
+|Weilheim (BY), 11:00 Uhr, Kirchplatz |
+|Wiesentheid (BY), 15:00 Uhr, Edeka Markt |
+|Würzburg (BY), 11:00 Uhr, Bahnhofsplatz |
+|Zorneding (BY), 15:00 Uhr, Birkenstraße Mehr Infos|
+|Alsfeld (HE), 14:00 Uhr, Marktplatz |
+|Bad Camberg (HE), 17:00 Uhr, Marktplatz |
+|Bad Hersfeld (HE), 16:00 Uhr, Stadthaus Mehr Infos|
+|Bad-Homburg (Hochtaunuskreis) (HE), 12:00 Uhr, Bahnhof |
+|Bensheim (HE), 12:00 Uhr, Rathaus |
+|Bischofsheim (HE), 16:00 Uhr, Seniorenpark Mehr Infos|
+|Büdingen (HE), 12:00 Uhr, Willi-Zinnkann-Halle - Eberhard-Bauner-Allee |
+|Darmstadt (HE), 12:00 Uhr, Hauptbahnhof Mehr Infos|
+|Finkenbach (HE), 10:00 Uhr, Fahrt nach Bad Kreuznach |
+|Frankenberg/Eder (HE), 12:45 Uhr, Garten des Landratsamtes |
+|Frankfurt am Main (HE), 12:00 Uhr, Alte Oper Mehr Infos|
+|Frankfurt am Main 1 (HE), 11:00 Uhr, Bockenheim Hülya Platz Mehr Infos|
+|Frankfurt am Main 2 (HE), 11:30 Uhr, Mainufer Mehr Infos|
+|Frankfurt am Main 3 (HE), 10:30 Uhr, Gallus Galluswarte Mehr Infos|
+|Frankfurt am Main Architects 4 Future (HE), 15:00 Uhr, Deutsches Architekturmuseum Auditorium |
+|Friedberg (HE), 11:30 Uhr, Bahnhofsvorplatz |
+|Fritzlar (HE), 16:00 Uhr, Stadthalle Fritzlar (Demozug) |
+|Fulda (HE), 11:00 Uhr, Gellingshalle (Infostände) |
+|Gelnhausen (HE), 11:00 Uhr, Müllerwiese 13:00 Uhr Bollenweg Klimafest Mehr Infos|
+|Gießen (HE), 11:00 Uhr, Kirchenplatz |
+|Gladenbach (HE), 18:00 Uhr, Marktplatz (Brunnen) Mahnwache |
+|Groß Bieberau (HE), 09:15 Uhr, Großsporthalle Groß-Bieberau Mehr Infos|
+|Groß-Bieberau (HE), 9:15 Uhr, Großsporthalle Groß-Bieberau Mehr Infos|
+|Groß-Gerau (HE), 11:00 Uhr, Marktplatz |
+|Hanau (HE), 13:00 Uhr, Freiheitsplatz Mehr Infos|
+|Haunetal (HE), 13:00 Uhr, Kirchplatz in Wehrda |
+|Homberg (HE), 12:00 Uhr, Marktplatz |
+|Idstein (HE), 17:00 Uhr, Idsteiner Bahnhof |
+|Kassel (HE), 12:00 Uhr, Hauptbahnhof (Demozug) |
+|Kaufungen (HE), 10:30 Uhr, Brauplatz Oberkaufungen (Fahrraddemo) |
+|Korbach (HE), 12:00 Uhr, Fußgängerzone -T iefebene am Berndorfer Tor |
+|Laubach (HE), 15:30 Uhr, Marktplatz |
+|Lauterbach (HE), 13:00 Uhr, Marktplatz |
+|Limburg (HE), 11:30 Uhr, Bahnhofsvorplatz Mehr Infos|
+|Lorch (Rhein) (HE), 11:00 Uhr, Kirche St.Martin - Museumsplatz |
+|Marburg (HE), 12:00 Uhr, Hauptbahnhof und Marktplatz Mehr Infos|
+|Michelstadt (HE), 11:45 Uhr, Odenwaldhalle |
+|Odenwaldkreis (HE), 11:45 Uhr, Odenwaldhalle |
+|Reichelsheim/Odenwald (HE), 11:00 Uhr, Parkplatz Reichenberg-Schule |
+|Rüsselsheim am Main (HE), 12:00 Uhr, Bahnhofsplatz |
+|Schöneck-Büdesheim (HE), 12:00 Uhr, Ev. Andreaskirche Büdesheim |
+|Waldeck (HE), 13:00 Uhr, Landratsamt |
+|Wehrda (HE), 13:00 Uhr, Kirchplatz |
+|Weilburg (HE), 18:30 Uhr, König-Konrad-Platz Wahnmache |
+|Wetzlar (HE), 14:30 Uhr, Bahnhof |
+|Wiesbaden (HE), 10:00 Uhr, Luisenplatz |
+|Witzenhausen (HE), 13:30 Uhr, BS Witzuenhausen |
+|Anklam (MV), 13:00 Uhr, Markt |
+|Bergen auf Rügen (MV), 10:00 Uhr, Markt 2 |
+|Demmin (MV), 10:00 Uhr, Luisenplazt |
+|Greifswald (MV), 10:00 Uhr, Mühlentor |
+|Ludwigslust (MV), 14:00 Uhr, Bahnhof |
+|Rostock (MV), 13:00 Uhr, Hauptbahnhof Mehr Infos|
+|Schwerin (MV), 11:30 Uhr, Südufer Pfaffenteich Mehr Infos|
+|Waren (Müritz) (MV), 10:00 Uhr, Neuer Markt |
+|Wismar (MV), 14:00 Uhr, Markt |
+|Neubrandenburg (MVP), 10:00 Uhr, Friedländer Straße 1 Infostand Mehr Infos|
+|Neustrelitz (MVP), 13:00 Uhr, Carolinum/Strelitzhalle |
+|Sternberg (MVP), 10:00 Uhr, Marktplatz |
+|Achim (NDS), 10:00 Uhr, Rathaus |
+|Aurich (NDS), 11:30 Uhr, Sparkassen-Arena (Parking Day) |
+|Bad Gandersheim (NDS), 11:00 Uhr, Westportal Stiftskirche |
+|Bassum (NDS), 13:30 Uhr, Bahnhof |
+|Brake (NDS), 10:00 Uhr, . |
+|Braunschweig (NDS), 10:00 Uhr, Schlossplatz Mehr Infos|
+|Bremervörde (NDS), 10:00 Uhr, Rathausmarkt Mehr Infos|
+|Bruchhausen-Vilsen (NDS), 15:30 Uhr, Platz vor Bullenkamp Mehr Infos|
+|Buchholz in der Nordheide (NDS), 12:00 Uhr, Kirche St. Paulus |
+|Buxtehude, 10:00 Uhr, Schafmarktplatz |
+|Celle (NDS), 11:30 Uhr, Stechbahn Mehr Infos|
+|Cloppenburg (NDS), 10:00 Uhr, Bahnhof Mehr Infos|
+|Cuxhaven (NDS), 12:00 Uhr, Wochnmarktplatz |
+|Delmenhorst (NDS), 11:30 Uhr, Marktplatz |
+|Diepholz (NDS), 10:00 Uhr, Schulzentrum Diepholz Mahnwache |
+|Dissen am Teutoburger Wald (NDS), 11:00 Uhr, Schwarzer Platz (Schulzentrum) |
+|Einbeck (NDS), 11:30 Uhr, Start am Marktplatz |
+|Emden (NDS), 11:30 Uhr, Kreuzung an der Pizzeria Mammut am Wall (in Emden) Mehr Infos|
+|Gifhorn (NDS), 10:30 Uhr, Schillerplatz |
+|Goslar (NDS), 13:30 Uhr, Goslar Bahnhof Die In |
+|Göttingen (NDS), 12:00 Uhr, Neues Rathaus |
+|Hameln (NDS), 12:00 Uhr, Hochzeitshaus |
+|Hann. Münden (NDS), 16:00 Uhr, Rathaus |
+|Hannover 1 (NDS), 12:30 Uhr, Opernplatz 8 Tage Aktionscamp |
+|Hannover 2 (NDS), 12:30 Uhr, Braunschweiger Platz |
+|Hannover 3 (NDS), 12:30 Uhr, Altenbekner Damm |
+|Hannover 4 (NDS), 12:30 Uhr, Küchengarten |
+|Harpstedt (NDS), 15:30 Uhr, Marktplatz |
+|Haselünne (NDS), 10:00 Uhr, Am Wasserturm |
+|Hemmingen (NDS), 11:30 Uhr, Haupteingang CFGS (Fahrraddemo) |
+|Hildesheim (NDS), 14:00 Uhr, Hauptbahnhof |
+|Holzminden (NDS), 13:30 Uhr, Marktplatz (Fahrraddemo) |
+|Hoya (NDS), 11:00 Uhr, Johann Beck Gymnasium |
+|Jaderberg (NDS), 10:45 Uhr, Oberschule Jaderberg |
+|Leer (NDS), 13:30 Uhr, Mühlenplatz Workshops & Streik |
+|Lehrte (NDS), 11:30 Uhr, Neues Zentrum |
+|Lingen (NDS), 8:00 Uhr, Bahnhof Mehr Infos|
+|Loxstedt (NDS), 9:00 Uhr, Rathaus |
+|Lüchow-Dannenberg (NDS), 10:00 Uhr, Marktplatz |
+|Lüneburg (NDS), 12:00 Uhr, Marktplatz |
+|Meppen (NDS), 12:00 Uhr, Marktplatz (Workshops) |
+|Nienburg (Weser) (NDS), 11:00 Uhr, Bushaltestelle Im Meerbachbogen |
+|Norden (NDS), 10:00 Uhr, Norden - Marktplatz Busreise nach Aurich, Sparkassenarena |
+|Norderney (NDS), 12:00 Uhr, Watt Welten Besucherzentrum 11:00 Uhr Schulhof der KGS Mehr Infos|
+|Nordhorn (NDS), 12:00 Uhr, Alte Kirche am Markt |
+|Northeim (NDS), 12:05 Uhr, Mühlenanger |
+|Oldenburg (NDS), 12:00 Uhr, Bahnhof - Schloss (Workshops) Mehr Infos|
+|Osnabrück (NDS), 13:30 Uhr, Theatervorplatz 13:30 Demo 15:00 Übergabe Resolution an die Stadt Mehr Infos|
+|Osterholz-Scharmbeck (NDS), 10:00 Uhr, Bahnhof |
+|Papenburg (NDS), 14:00 Uhr, Rathaus |
+|Peine (NDS), 12:00 Uhr, Peine |
+|Rastede (NDS), 10:00 Uhr, ab KGS Rastede |
+|Soltau (NDS), 16:00 Uhr, Gymnasium Soltau Parkplatz Mehr Infos|
+|Spiekeroog (NDS), 9:30 Uhr, Rathaus Mehr Infos|
+|Stade (NDS), 16:00 Uhr, Hospitalstraße Demo Mehr Infos|
+|Stadthagen (NDS), 13:30 Uhr, Festplatz |
+|Ströhen (NDS), 11:00 Uhr, Dorfplatz an der Varreler Straße |
+|Sulingen (NDS), 15:00 Uhr, Neuer Markt Mehr Infos|
+|Syke (NDS), 13:30 Uhr, Rathausplatz |
+|Tostedt (NDS), 12:00 Uhr, Tostedter Rathaus Nur Kundgebung |
+|Uelzen (NDS), 11:00 Uhr, Bahnhof |
+|Uslar (NDS), 12:45, ZOB Zur Schwarzen Erde |
+|Vechta (NDS), 12:00 Uhr, Europaplatz |
+|Verden (Aller) (NDS), 11:00 Uhr, Bahnhof |
+|Visselhövede (NDS), 11:55 Uhr, Marktplatz |
+|Walsrode (NDS), 11:30 Uhr, Sportplatz Gymnasium Walsrode |
+|Wangerooge (NDS), 13:00 Uhr, Bahnhofsvorplatz |
+|Wennigsen (Deister) (NDS), 11:30 Uhr, KGS Wennigsen |
+|Westerstede (NDS), 10:00 Uhr, Alter Marktplatz Westerstede |
+|Weyhe (NDS), 11:30 Uhr, Kgs Kirchweyhe |
+|Wilhelmshaven (NDS), 12:00 Uhr, Rambla in der Bahnhofstraße |
+|Winsen (Luhe) (NDS), 10:00 Uhr, Bahnhof |
+|Wittmund (NDS), 11:30 Uhr, Marktplatz |
+|Wolfenbüttel (NDS), 10:00 Uhr, Stadtmarkt Mehr Infos|
+|Wolfsburg (NDS), 12:00 Uhr, Bahnhof |
+|Worpswede (NDS), 14:00 Uhr, Wiese gegenüber vom EDEKA |
+|Wunstorf (NDS), 12:00 Uhr, Rathaus |
+|Zetel (NDS), 14:00 Uhr, Am Markthamm |
+|Zeven (NDS), 13:45 Uhr, St. Viti Parkplatz Mehr Infos|
+|Aachen (NRW), 10:00 Uhr, Elisenbrunnen Mehr Infos|
+|Ahaus (NRW), 15:00 Uhr, Rathausplatz |
+|Albersloh (NRW), 15:30 Uhr, Teckelschlaut 11 - Wiemhove |
+|Anröchte (NRW), 15:30 Uhr, Bürgerhausvorplatz Mehr Infos|
+|Bad Berleburg (NRW), 17:00 Uhr, Rathausplatz |
+|Beckum (NRW), 14:00 Uhr, Marktplatz vor dem Stadtmuseum |
+|Bergisch Gladbach (NRW), 10:00 Uhr, Marktplatz Mehr Infos|
+|Bielefeld (NRW), 12:05 Uhr, HBF Demozug |
+|Bocholt (NRW), 15:30 Uhr, Berliner Platz (Neues Rathaus) |
+|Bochum (NRW), 11:45 Uhr, Dr. Ruer Platz Mehr Infos|
+|Bonn (NRW), 11:00 Uhr, Hofgarten Demo anschließend streikwoche Mehr Infos|
+|Borgholzhausen (NRW), 10:45 Uhr, Gesamtschule |
+|Borken (NRW), 13:00 Uhr, Marktplatz Mehr Infos|
+|Bottrop (NRW), 14:30 Uhr, Rathausplatz (Ernst-Wilczock-Platz) |
+|Brueggen (NRW), 15:30 uhr, Rathaus, kreuzherrenplatz |
+|Bünde (NRW), 10:30 Uhr, Bünde Marktplatz (Fahrraddemo) |
+|Castrop-Rauxel (NRW), 13:00 Uhr, Marktplatz/Rathaus |
+|Datteln (NRW), 12:00 Uhr, Neumarkt |
+|Detmold (NRW), 13:30 Uhr, Marktplatz |
+|Dinslaken (NRW), 12:00 Uhr, Neutorplatz (Demozug) |
+|Dorsten (NRW), 10:30 Uhr, Marktplatz |
+|Dortmund (NRW), 12:00 Uhr, Friedensplatz Mehr Infos|
+|Duisburg (NRW), 12:30 Uhr, Hauptbahnhof |
+|Dülmen (NRW), 10:00 Uhr, Marktplatz |
+|Düren (NRW), 10:00 Uhr, Vor dem Leopold-Hoesch Museum Mehr Infos|
+|Düsseldorf (NRW), 11:00 Uhr, Corneliusplatz Mehr Infos|
+|Enger, 12:05 Uhr, Widukind-Gymnasium Enger |
+|Erkelenz (NRW), 13:30 Uhr, Rathaus |
+|Essen (NRW), 10:00 Uhr, Burgplatz 12 Stunden Aktion mit Bühnenprogramm und Infoständen nach dem Demonstrationszug |
+|Geilenkirchen (NRW), 8:00 Uhr, Gesamtschule |
+|Geldern (NRW), 08:45 Uhr, Bahnhof Geldern, Gleis 1 |
+|Gelsenkirchen (NRW), 12:00 Uhr, Heinrich König Platz |
+|Goch (NRW), 9:15 Uhr, Bahnhof Goch Gemeinsame Anreise nach Kleve |
+|Gronau (NRW), 11:45 Uhr, Theodor - Heuss - Platz vor dem Extrablatt |
+|Gummersbach (NRW), 11:00 Uhr, Bahnhof |
+|Gütersloh (NRW), 12:00 Uhr, Vor dem Rathaus |
+|Haan (NRW), 12:00 Uhr, Park Ville d Eu Mehr Infos|
+|Hagen (NRW), 12:00 Uhr, Johanniskirche |
+|Halle (Westfalen) (NRW), 12:45 Uhr, Rathaus |
+|Hamm (NRW), 10:00 Uhr, Beibder Stadtbücherei |
+|Hattingen (NRW), 9:30 Uhr, Untermarkt |
+|Herdecke (NRW), 18:00 Uhr, Kirchender Dorfweg 44 Mehr Infos|
+|Herford (NRW), 12:30 Uhr, Rathaustreppe |
+|Herne (NRW), 10:00 Uhr, Europaplatz |
+|Herten (NRW), 10:00 Uhr, Am Glashaus Mehr Infos|
+|Hilden (NRW), 8:00 Uhr, Dietrich-Bonhoeffer Gymnasium |
+|Hochneukirch (NRW), 14:00 Uhr, Aussichtspunkt Garzweiler Nord (Fahrraddemo) |
+|Iserlohn (NRW), 10:00 Uhr, Hemberg Parkplatz Reden |
+|Jüchen (NRW), 12:55 Uhr, Schulzentrum (Fahrraddemo) |
+|Jülich (NRW), 16:00 Uhr, Schlossplatz Jülich |
+|Kaarst (NRW), 12:00 Uhr, Neumarkt (Workshops) |
+|Kempen (NRW), 11:30 Uhr, Gymnasium Thomaeum |
+|Kerpen (NRW), 16:30 Uhr, Kerpen Europagymnasium |
+|Kleve (NRW), 10:15 Uhr, Parkplatz Ludwig-Jahn-Straße (Klimafest) Mehr Infos|
+|Köln (NRW), 11:00 Uhr, Hans Böckler Platz DGB Haus Mehr Infos|
+|Krefeld (NRW), 12:00 Uhr, Hauptbahnhof |
+|Langenberg (NRW), 12:00 Uhr, Rathaus |
+|Lemgo (NRW), 12:30 Uhr, Marktplatz Mehr Infos|
+|Leopoldshöhe (NRW), 9:00 Uhr, Marktplatz Mehr Infos|
+|Leverkusen (NRW), 11:30 Uhr, Rathausvorplatz |
+|Lienen (NRW), 10:30 Uhr, Kirchplatz |
+|Lippstadt (NRW), 11:55 Uhr, Rathausplatz |
+|Löhne (NRW), 13:30 Uhr, Rathaus |
+|Lübbecke (NRW), 9:30 Uhr, Schulhof des Wittekind-Gymnasiums 11:00 Uhr Marktplatz |
+|Lüdenscheid (NRW), 10:00 Uhr, Sternplatz Mehr Infos|
+|Lünen (NRW), 12:00 Uhr, Europaplatz |
+|Marl (NRW), 12:00 Uhr, Rathausplatz |
+|Meerbusch (NRW), 17:00 Uhr, Dr. Franz Schütz Platz |
+|Metelen (NRW), 8:00 Uhr, Parkplatz Netto Markendisk (Fahrraddemo) |
+|Minden (NRW), 11:30 Uhr, Marktplatz |
+|Mönchengladbach (NRW), 11:55 Uhr, Brucknerallee (Am Fischerturm/Amtsgericht) |
+|Much (NRW), 10:00 Uhr, Schulhof Gesamtschule Much |
+|Mülheim an der Ruhr (NRW), 14:00 Uhr, Kurt-Schumacher-Platz |
+|Münster (NRW), 10:00 Uhr, Prinzipalmarkt Mehr Infos|
+|Neukirchen Vluyn (NRW), 16:00 Uhr, Vluyner Platz |
+|Neuss (NRW), 12:15 Uhr, Marienkirchplatz |
+|Oberbergischer Kreis (NRW), 11:00 Uhr, Bahnhof Mehr Infos|
+|Oberhausen (NRW), 11:30 Uhr, Rathaus Schwartzstraße |
+|Ochtrup (NRW), 16:00 Uhr, Lamberti-Kirchplatz |
+|Oer-Erkenschwick (NRW), 10:30 Uhr, Berliner Platz Mehr Infos|
+|Olpe (NRW), 15:00 Uhr, ZOB Olpe |
+|Paderborn (NRW), 14:00 Uhr, Marktplatz |
+|Ratingen (NRW), 11:30 Uhr, Marktplatz Laufdemo |
+|Recklinghausen (NRW), 12:00 Uhr, Bahnhof Sterndemo |
+|Rees (NRW), 10:45 Uhr, Busparkplatz Gymnasium |
+|Rhein-Sieg-Kreis (NRW), 9:30 Uhr, Siegburg Markt Kreativ Mehr Infos|
+|Schwerte (NRW), 9:00 Uhr, Rohrmeisterei Schwerte Mehr Infos|
+|Selm (NRW), 13:00 Uhr, Freibad/Bürgerhaus Mehr Infos|
+|Sendenhorst (NRW), 10:00 Uhr, Teigelkamp 5 |
+|Siegburg (NRW), 9:30 Uhr, Marktplatz |
+|Siegen (NRW), 10:30 Uhr, Bismarckplatz |
+|Soest (NRW), 11:30 Uhr, Marktplatz |
+|Solingen (NRW), 10:00 Uhr, Rathaus |
+|Unna (NRW), 12:00 Uhr, Rathausplatz |
+|Warendorf (NRW), 9:30 Uhr, Schulviertel dann Richtung Marktplatz Mehr Infos|
+|Werl (NRW), 11:00 Uhr, Salzsieder-Denkmal |
+|Wermelskirchen (NRW), 14:00 Uhr, Rathaus |
+|Werne (an der Lippe) (NRW), 12:00 Uhr, Solebadparkplatz |
+|Werther (Westfalen) (NRW), 13:00 Uhr, Platz zwischen Ev. Kirche und Gemeindehaus |
+|Wesel (NRW), 16:00 Uhr, Rathaus |
+|Willich (NRW), 17:00 Uhr , Kaiserplatz |
+|Windeck-Schladern (NRW), 11:55 Uhr, Bahnhof, hinterer Parkplatz |
+|Witten (NRW), 12:00 Uhr, Rathaus |
+|Wülfrath (NRW), 11:15 Uhr, Sparkasse Wülfrath |
+|Wuppertal (NRW), 11:00 Uhr, Hauptbahnhof |
+|Xanten (NRW), 11:55 Uhr, Markt |
+|Zülpich (NRW), 11:30 Uhr, Adenauerplatz |
+|Alzey (RLP), 10:00 Uhr, Rossmarkt (Clean-Up) Mehr Infos|
+|Bad Dürkheim (RLP), 11:30 Uhr, Parkplatz Tennisclub - Kanalstr. 44 |
+|Bad Kreuznach (RLP), 11:30 Uhr, . |
+|Bernkastel-Kues (RLP), 13:15 Uhr, Busparkplatz |
+|Bitburg (RLP), 9:00 Uhr, Am Spittel |
+|Edenkoben (RLP), 15:30 Uhr , Parkplatz Goldenes Eck Infostand |
+|Frankenthal (RLP), 11:00 Uhr, Röntgenplatz |
+|Gerolstein (RLP), 07:30 Uhr, Parkplatz am Heimatmuseum Mehr Infos|
+|Grünstadt (RLP), 15:30 Uhr, Luitpoldplatz |
+|Hachenburg (RLP), 8:30 Uhr, Bahnhof Hachenburg Gemeinsame Fahrt per Zug nach Koblenz |
+|Idar-Oberstein (RLP), 12:00 Uhr, Platz Auf der Idar bis Schleiferplatz |
+|Ingelheim am Rhein (RLP), 10:00 Uhr, Bahnhof |
+|Kaiserslautern (RLP), 11:30 Uhr, Hauptbahnhof Mehr Infos|
+|Koblenz (RLP), 11:55 Uhr, Hauptbahnhof Reichensbergerplatz |
+|Landau in der Pfalz (RLP), 12:05 Uhr, Stadtbibliothek (Demozug) Mehr Infos|
+|Ludwigshafen am Rhein (RLP), 11:00 Uhr, Europaplatz |
+|Mainz 1 (RLP), 12:30 Uhr, Universität Mehr Infos|
+|Mainz 2 (RLP), 12:00 Uhr, Bahnhofsplatz Mehr Infos|
+|Mainz 3 (RLP), 12:30 Uhr, Kastel Bahnhof Mehr Infos|
+|Marienstatt (RLP), 11:55 Uhr, Privates Gymnasium Marienstatt Mehr Infos|
+|Meisenheim (RLP), 15:00 Uhr, Ehemaliger Bahnhof - Bismarckplatz |
+|Montabaur (RLP), 12:05 Uhr, Am BBS-Kreisel Mehr Infos|
+|Neustadt an der Weinstraße (RLP), 10:00 Uhr, Marktplatz Mehr Infos|
+|Nieder-Olm (RLP), 16:00 Uhr, Rathausplatz Mehr Infos|
+|Sausenheim (RLP), , Grundschule |
+|Simmern (Hunsrück) (RLP), 10:00 Uhr, Schlossplatz |
+|Sinzig (RLP), 16:00 Uhr, Jahnwiese |
+|Speyer (RLP), 11:00 Uhr, Eingang Adenauerpark Mehr Infos|
+|Steinwenden (RLP), 12:00 Uhr, protestantische Kirche |
+|Trier (RLP), 10:00 Uhr, Domfreihof Mehr Infos|
+|Westerburg (RLP), 11:55 Uhr, Liebfrauen Westerburg) Mehr Infos|
+|Wittlich (RLP), 12:30 Uhr, Ottensteiner Platz am ZOB |
+|Worms (RLP), 10:00 Uhr, Bahnhof |
+|Zweibrücken (RLP), 11:30 Uhr, Alexanderplatz |
+|Bad Oldesloe (SH), 8:30 Uhr, Vom Rathaus mit dem Fahrrad nach Bargteheide Fahrradfahren zur Demo in Bargteheide |
+|Bad Segeberg (SH), 12:00 Uhr, Marktplatz Danach Critical Mass |
+|Baltrum (SH), 13:30 Uhr, Fähranleger Mehr Infos|
+|Bargteheide (SH), 10:30 Uhr, Bahnhof Mehr Infos|
+|Eckernförde (SH), 9:00 Uhr, Hafenspitze |
+|Elmshorn (SH), 12:00 Uhr, St-Nikolai-Kirche |
+|Enge-Sande (SH), 08:45 Uhr, GreenTEC Campus, Lecker Straße 7 Firmenintern |
+|Eutin (SH), 10:30 Uhr, Wasserturm > Demozug > Programm vorm Rathaus |
+|Fehmarn (SH), 11:30 Uhr, Marktplatz |
+|Flensburg (SH), 10:00 Uhr, Hafenspitze |
+|Fredeburg (SH), 10:00 Uhr, Demter-Hof |
+|Glückstadt (SH), 8:00 Uhr, MOIN Bio Backwaren - Hinterm Hofe 15 |
+|Halstenbek (SH), 14:00 Uhr, Rathausplatz |
+|Heide (SH), 13:00 Uhr, Marktplatz vor der St. Jürgen Kirche |
+|Helgoland (SH), 12:00 Uhr, Am Südstrand/Kurpromenade |
+|Hooge (SH), 12:00 Uhr, Hallig Hooge (Clean-Up) |
+|Husum (SH), 12:30 Uhr, Parkplatz Neue Freiheit |
+|Itzehoe (SH), 10:00 Uhr, Zob |
+|Joldelund (SH), 11:00 Uhr, Bäckerei Norderweg 7 |
+|Kaltenkirchen (SH), 14:30 Uhr, Holstenplatz am Hauptbahnhof |
+|Kiel (SH), 11:55 Uhr, Rathausplatz |
+|Kreis Pinneberg (SH) |
+|Lübeck (SH), 11:15 Uhr, MuK Vorplatz 13:00 Uhr Stadion Buniamshof Mehr Infos|
+|Neumünster (SH), 12:00 Uhr, Bahnhof |
+|Niebüll (SH), 13:30 Uhr, Rathausplatz |
+|Pellworm (Nordseeinsel) (SH), 13:00 Uhr, Amt Pellworm |
+|Plön (SH), 9:30 Uhr, Rathaus |
+|Rendsburg (SH), 8:00 Uhr, Theatervorplatz (Clean-up) |
+|Schleswig (SH), 9:45 Uhr, NoSpa am Capitolplatz |
+|Sylt (SH), 12:00 Uhr, Sylt (Picknick) |
+|Westerland (SH), 12:30 Uhr, Rathausvorplatz |
+|Wyk auf Föhr (SH), 10:00 Uhr, Rathausplatz Wyk |
+|Homburg/Saar (SL), 10:00 Uhr, Waldstadion |
+|Saarbrücken (SL), 14:30 Uhr, Landwehrplatz |
+|St. Ingbert (SL), 14:30 Uhr, Alten Feuerwache am Landwehrplatz |
+|Bautzen (SN), 14:30 Uhr, Theaterplatz |
+|Chemnitz (SN), 12:30 Uhr, Roter Turm Mehr Infos|
+|Delitzsch (SN), 11:00 Uhr, Marktplatz Mehr Infos|
+|Döbeln (SN), 16:30 Uhr, Rathaus Obermarkt |
+|Dresden (SN), 11:55 Uhr, Hauptbahnhof & Alaunpark Global Strike |
+|Freiberg (SN), 16:00 Uhr, Obermarkt |
+|Görlitz (SN), 14:30 Uhr, Wilhelmsplatz (Picknick) |
+|Grimma (SN), 12:45 Uhr, Markt Mehr Infos|
+|Leipzig (SN), 15:00 Uhr, Augustusplatz Mehr Infos|
+|Marienberg (SN), 14.30 Uhr, Marktplatz |
+|Plauen (SN), 16:00 Uhr , Theaterplatz |
+|Tharandt (SN), 11:55 Uhr, Rathaus |
+|Zittau (SN), 14:00 Uhr, Postplatz (Clean-Up) |
+|Zwickau (SN), 13:00 Uhr, Hauptmarkt |
+|Aschersleben (ST), 13:00 Uhr, Herrenbreite Mehr Infos|
+|Beetzendorf Poppau (ST), 12:00 Uhr, Dorfplatz Sieben Linden Genossenschaftliche Veranstaltung |
+|Dessau-Roßlau (ST) |
+|Halberstadt (ST), 13:30 Uhr, Holzmarkt |
+|Halle (Saale) (ST), 12:00 Uhr, Hallmarkt |
+|Lutherstadt Wittenberg (ST), 13:00 Uhr, Marktplatz Wittenberg (Clean-Up) |
+|Magdeburg (ST), 12:00 Uhr, Domplatz Mehr Infos|
+|Naumburg (ST), 13:30 Uhr, Alle Schulen 14:00 Uhr Markt |
+|Quedlinburg (ST), 11:00 Uhr, Marktplatz |
+|Salzwedel (ST), 11:30 Uhr, Am Rathausturmplatz |
+|Stendal (ST), 14:00 Uhr, Marktplatz |
+|Wernigerode (ST), 13:00 Uhr, Nicolaiplatz Musikalische Demo |
+|Altenburg (TH), 10:00 Uhr, Bahnhof ABG Mehr Infos|
+|Erfurt (TH), 12:00 Uhr, Angerdreieck Mehr Infos|
+|Gera (TH), 12:00 Uhr, Kuk |
+|Gotha (TH), 12:00 Uhr, Unterer Hauptmarkt |
+|Greiz (TH), 14:00 Uhr, Kirchplatz |
+|Jena (TH), 14:00 Uhr, Stadtkirche, Holzmarkt, Paradiesbahnhof Plastikwelle, Freeze Mehr Infos|
+|Mühlhausen (TH), 12:00 Uhr, Blobach |
+|Suhl (TH), 12:00 Uhr, Bahnhof Suhl |
+|Waltershausen (TH), 14:00 Uhr, Marktplatz |
+|Weimar (TH), 12:00 Uhr, Theaterplatz Mehr Infos|
+|Berlin, 12:00 Uhr, Brandenburger Tor Mehr Infos|
+|Berlin Reinickendorf, 10:00 Uhr, Tegel vor C&A (Fahrraddemo) |
+|Bremen, 10:00 Uhr, Bahnhofsvorplatz Mehr Infos|
+|Bremerhaven, 10:00 Uhr, Klimahaus |
+|Hamburg, 12:00 Uhr, Jungfernstieg Mehr Infos|

@@ -1,0 +1,76 @@
+Energieeffizienz gibt an, wie sich die eingesetzte Energie und die Erreichung ihres bestimmten Nutzens gegenüberstehen. Eine hohe Energieeffizienz birgt demnach geringe „Verluste“ und ist eine wichtige Grundlage für effektives Energiesparen.
+Mit dem Efficiency-First-Prinzip soll zukünftig die Rolle von Energieeffizienz bei politischen und Investitionsentscheidungen gestärkt werden – in allen Sektoren. Dies ist auch bei der energetischen Gebäudesanierung im Rahmen der Wärmewende von Bedeutung.
+Das IKEM hat diverse Publikationen zum Thema Energieeffizienz veröffentlicht, unter anderem eine Kurzstudie zur Schaffung eines Energieeffizienzgesetzes und ein Themenpapier zur Energieeffizienz im Gebäudesektor in Berlin.
+Das Projekt hat das Ziel, die Energieeffizienz der öffentlichen Beleuchtung zu steigern und damit die dabei anfallenden CO2-Emissionen zu reduzieren. In Zusammenarbeit mit der Universität Greifswald wird das IKEM Finanzierungsmodelle entwickeln und den rechtlichen Rahmen für die dynamische Lichtsteuerung klären.
+Unveiling the contribution of building’s embodied energy to global CO₂ emissions: The case of residential buildings in Berlin Forschungsbericht
+IKEM: Bericht im Rahmen des Projekts Kopernikus ENavi, 2019.
+| Links:
+@techreport{Mercado2019b,
+title = {Unveiling the contribution of building’s embodied energy to global CO₂ emissions: The case of residential buildings in Berlin},
+author = {José Mercado and Johannes Becker},
+url = {https://www.ikem.de/wp-content/uploads/2020/06/Mercado-Becker.2019.Unveiling-the-contribution-of-building’s-embodied-energy-to-global-CO₂-emissions.pdf},
+year = {2019},
+date = {2019-07-01},
+institution = {IKEM: },
+type = {Bericht im Rahmen des Projekts Kopernikus ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Making Resources in the Construction Industry go Round and Round: Implementing the Circular Economy in Berlin Forschungsbericht
+IKEM: Bericht im Rahmen des Projekts Kopernikus ENavi, 2019.
+| Links:
+@techreport{Mercado2019c,
+title = {Making Resources in the Construction Industry go Round and Round: Implementing the Circular Economy in Berlin},
+author = {José Mercado},
+url = {https://www.ikem.de/wp-content/uploads/2020/06/Mercado.2019.Making-the-resources-in-the-construction-industry-go-round-and-round.pdf},
+year = {2019},
+date = {2019-07-01},
+institution = {IKEM:},
+type = {Bericht im Rahmen des Projekts Kopernikus ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@misc{Mercado2019,
+title = {Quo vadis öffentliche Beleuchtung? Leitfaden für die Beschaffung von Beleuchtungsanlagen in der EU mit dem Fokus auf Deutschland},
+author = {José Mercado and Johannes Antoni},
+url = {https://www.ikem.de/wp-content/uploads/2019/12/2019-05-06_IKEM_Vortrag_EU_Beschaffung_Beleuchtungsanlagen_AntoniMercado.pdf},
+year = {2019},
+date = {2019-06-05},
+abstract = {Am 6. Mai 2019 fand die IKEM-Veranstaltung zum Thema: „Beleuchten und Laden: quo vadis öffentliche Beleuchtung?” von 9:00 bis 13:00 Uhr in der Magazinstraße 15-16, 10179 Berlin statt.
+Im Rahmen der halbtägigen Veranstaltung wurden unter anderem, Möglichkeiten die öffentlichen Beleuchtung durch die Umsetzung dynamischer Lichtstrategien zu modernisieren diskutiert. Ferner wurde erörtert, wie moderne Beleuchtung mit der Ladeinfrastruktur für Elektrofahrzeuge verknüpft werden kann. },
+keywords = {},
+pubstate = {published},
+tppubtype = {presentation}
+}
+Am 6. Mai 2019 fand die IKEM-Veranstaltung zum Thema: „Beleuchten und Laden: quo vadis öffentliche Beleuchtung?” von 9:00 bis 13:00 Uhr in der Magazinstraße 15-16, 10179 Berlin statt.
+Im Rahmen der halbtägigen Veranstaltung wurden unter anderem, Möglichkeiten die öffentlichen Beleuchtung durch die Umsetzung dynamischer Lichtstrategien zu modernisieren diskutiert. Ferner wurde erörtert, wie moderne Beleuchtung mit der Ladeinfrastruktur für Elektrofahrzeuge verknüpft werden kann.
+Sofortmaßnahmen für Klimaschutz in der Industrie Forschungsbericht
+Kurzgutachten im Auftrag des WWF Deutschland, 2019.
+| Links:
+@techreport{Martin2019,
+title = {Sofortmaßnahmen für Klimaschutz in der Industrie},
+author = {Bénédicte Martin and Jonathan Metz and David Stegmaier and Michael Kalis and Julia Borger and Yasin Yilmaz and Susan Wilms and Johannes Antoni and Paul Jäde},
+url = {/wp-content/uploads/2019/06/WWF-KSG-Gutachten-3-Klimaschutzmassnahmen-im-Industriesektor.pdf, Download als PDF
+https://www.wwf.de/2019/mai/dem-klima-recht-geben/, Pressemitteilung des WWF},
+year = {2019},
+date = {2019-05-28},
+type = {Kurzgutachten im Auftrag des WWF Deutschland},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Kondziella2019,
+title = {Peer-Review-Paper: Marktdesign, Regulierung und Gesamteffizienz von Flexibilität im Stromsystem},
+author = {Hendrik Kondziella and Sören Graupner and Thomas Bruckner and Hannes Doderer and Simon Schäfer-Stradowsky and Christopher Koch and Simon Letzgus and Georg Erdmann and Jörn Guder and Jens-Christian Holst},
+editor = {WindNODE-Arbeitspaket 5 „Marktdesign und Regulierung – neue Spielregeln und Rollen im Energiesystem“. },
+url = {https://www.windnode.de/fileadmin/Daten/Downloads/Publikationen/PRP_Marktdesign__Regulierung_und_Gesamteffizienz_von_Flexibilit%C3%A4t_im_Stromsystem.pdf},
+year = {2019},
+date = {2019-04-12},
+abstract = {Das WindNODE Peer-Review-Paper „Marktdesign, Regulierung und Gesamteffizienz von Flexibilität im Stromsystem" beschreibt den Status quo des Zusammenspiels von Strommarkt und -netz sowie des Rechtsrahmens im Hinblick auf die Aktivierung von Flexibilität für das Stromsystem. Anhand eines Praxisbeispiels werden zudem die Herausforderungen bei der Erschließung der Flexibilität industrieller Prozesse aufgezeigt. Darüber hinaus wird die qualitative Wirkung von Flexibilität im Gesamtsystem analysiert, wobei ein Schwerpunkt auf der Betrachtung industrieller Letztverbraucher liegt.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Das WindNODE Peer-Review-Paper „Marktdesign, Regulierung und Gesamteffizienz von Flexibilität im Stromsystem" beschreibt den Status quo des Zusammenspiels von Strommarkt und -netz sowie des Rechtsrahmens im Hinblick auf die Aktivierung von Flexibilität für das Stromsystem. Anhand eines Praxisbeispiels werden zudem die Herausforderungen bei der Erschließung der Flexibilität industrieller Prozesse aufgezeigt. Darüber hinaus wird die qualitative Wirkung von Flexibilität im Gesamtsystem analysiert, wobei ein Schwerpunkt auf der Betrachtung industrieller Letztverbraucher liegt.

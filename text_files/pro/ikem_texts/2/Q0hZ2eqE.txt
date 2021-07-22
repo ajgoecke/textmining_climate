@@ -1,0 +1,22 @@
+Aktualisierter Wissenschaftlicher Gesamtbericht zum EEG veröffentlicht
+Ende September 2019 veröffentlichte das Bundesministerium für Wirtschaft und Energie (BMWi) den aktualisierten wissenschaftlichen Gesamtbericht zum EEG. Die Erstellung des wissenschaftlichen Gesamtberichts wurde maßgeblich durch das IKEM koordiniert.
+Gemäß § 97 EEG 2017 ist das EEG kontinuierlich von der Bunderegierung zu evaluieren. Über die Evaluationsergebnisse, insbesondere zum Stand des Ausbaus der erneuerbaren Energien, den Erfahrungen mit den Ausschreibungen und der Entwicklung und Verteilung der Kosten, muss sie dem Bundestag durch Vorlage des EEG-Erfahrungsberichts grundsätzlich alle vier Jahre berichten. Der EEG-Erfahrungsbericht wurde zuletzt im Juni 2018 veröffentlicht.
+Grundlage für den Erfahrungsbericht sind Untersuchungen und Berichte verschiedener Forschungseinrichtungen und Branchenexperten. Für die wissenschaftliche Vorbereitung und Begleitung des Erfahrungsberichts hatte das zuständige Bundesministerium für Wirtschaft und Energie neun Teilvorhaben beauftragt. Das IKEM ist am Teilvorhaben I „Direktvermarktung und Koordinierung“ beteiligt und wirkte als Koordinierungsvorhaben an der Erstellung eines Wissenschaftlichen Gesamtberichts aller Vorhaben mit. Der Bericht stellt überblicksartig wesentliche Trends bei Zubau, Marktentwicklung und Stromgestehungskosten erneuerbarer Energien in Deutschland sowie bei der EEG-Umlage, Direktvermarktung, Besondere Ausgleichsregelung, Eigenversorgung und Akteursvielfalt dar.
+In Zusammenarbeit mit den Teilvorhaben hat das IKEM eine überarbeitete Fassung des wissenschaftlichen Gesamtberichts erstellt, die Ende September 2019 vom BMWi veröffentlicht wurde. Der Bericht umfasst neben aktuellen Zahlen und Informationen zur Entwicklung der Erneuerbaren Energien nun auch Handlungsempfehlungen für die Weiterentwicklung des EEG.
+@techreport{Antoni2019,
+title = {Wissenschaftlicher Gesamtbericht (EEG-Erfahrungsbericht 2018)},
+author = {Johannes Antoni and Simon Schäfer-Stradowsky and Marian Klobasa and Benjamin Pfluger and Benjamin Lux and Michael von Bonin and Norman Gerhardt and Uwe Holzhammer },
+url = {https://www.ikem.de/wp-content/uploads/2019/10/20190927_WGB_2019.pdf, PDF-Download
+https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/bmwi_de/fraunhofer-iee-ikem-fraunhofer-iee-vorbereitung-begleitung-eeg.html, Bericht auf den Seiten des BMWi
+https://www.erneuerbare-energien.de/EE/Navigation/DE/Recht-Politik/Das_EEG/EEG-Erfahrungsberichte-und-Studien/eeg-erfahrungsberichte-und-studien.html, EEG-Erfahrungsbericht und zugehörige Studien auf den Seiten des BMWi},
+year = {2019},
+date = {2019-09-27},
+institution = {IKEM, Fraunhofer IEE, Fraunhofer ISI:},
+abstract = {Wissenschaftlicher Gesamtbericht der Teilvorhaben im Vorhaben "Vorbereitung und Begleitung bei der Erstellung eines Erfahrungsberichts gemäß § 97 Erneuerbare-Energien-Gesetz 2017". Erstellt im Auftrag des Bundesministeriums für Wirtschaft und Energie vom Teilvorhaben I, Querschnittsvorhaben.
+Dieser wissenschaftliche Gesamtbericht stellt überblicksartig und stark verkürzt, wesentliche Trends bei Zubau, Marktentwicklung und Stromgestehungskosten erneuerbarer Energien in Deutschland sowie bei der EEG-Umlage, Direktvermarktung, Besondere Ausgleichsregelung, Eigenversorgung und Akteursvielfalt dar. Daten- und Informationsgrundlage des Berichts sind neun wissenschaftliche Vorhaben, die das Bundesministerium für Wirtschaft und Energie im Jahr 2016 zur Vorbereitung des EEG-Erfahrungsberichts in Auftrag gegeben hat.},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Wissenschaftlicher Gesamtbericht der Teilvorhaben im Vorhaben "Vorbereitung und Begleitung bei der Erstellung eines Erfahrungsberichts gemäß § 97 Erneuerbare-Energien-Gesetz 2017". Erstellt im Auftrag des Bundesministeriums für Wirtschaft und Energie vom Teilvorhaben I, Querschnittsvorhaben.
+Dieser wissenschaftliche Gesamtbericht stellt überblicksartig und stark verkürzt, wesentliche Trends bei Zubau, Marktentwicklung und Stromgestehungskosten erneuerbarer Energien in Deutschland sowie bei der EEG-Umlage, Direktvermarktung, Besondere Ausgleichsregelung, Eigenversorgung und Akteursvielfalt dar. Daten- und Informationsgrundlage des Berichts sind neun wissenschaftliche Vorhaben, die das Bundesministerium für Wirtschaft und Energie im Jahr 2016 zur Vorbereitung des EEG-Erfahrungsberichts in Auftrag gegeben hat.

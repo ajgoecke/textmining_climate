@@ -1,0 +1,83 @@
+Wir müssen dafür sorgen, dass selbstfahrende Fahrzeuge zur Lösung bestehender Probleme beitragen, statt diese zu verschärfen. Deshalb forscht das IKEM zu innovativen Mobilitätskonzepten im Kontext von autonomen Systemen, künstlicher Intelligenz und Digitalisierung.
+Das Team Mobilität stellt sich den Herausforderungen, die sich aus der Digitalisierung und der Entwicklung autonomer Fahrzeuge ergeben. Weiterhin forscht es zu innovativen Mobilitätskonzepten und einer nachhaltigen Logistik sowie einen attraktiven ÖPNV.
+Wir sind führend in der Forschung zu autonomer Mobilität. Kein anderes Institut hat eine ähnlich hohe Expertise.
+Der Transport von Menschen und Gütern ist für umfangreiche Treibhausgasemissionen und zahlreiche weitere Umweltprobleme verantwortlich. Gleichzeitig ist Mobilität Grundlage für wirtschaftliche Entwicklung und sozialen Zusammenhalt sowie eine wichtige Triebkraft für Innovationen. Deshalb müssen wir zum Beispiel dafür sorgen, dass die Digitalisierung des Verkehrs bis hin zu selbstfahrenden Fahrzeugen zur Lösung bestehender Probleme beiträgt, statt diese zu verschärfen. Mit diesem Ziel forscht das IKEM zu innovativen Mobilitätskonzepten im Kontext von autonomen Systemen, künstlicher Intelligenz und Digitalisierung.
+Um autonomes Fahren möglich zu machen, arbeitet das Team Mobilität in mehreren Praxisprojekten zu den Themen Standardisierung, Zulassung und Haftung und einem Verkehrsrecht, dass autonomes Fahren bei hohem Sicherheitsstandard ermöglicht. Die Forschungsergebnisse bilden die Grundlage für die Evaluation bestehender Gesetze und Empfehlungen zu deren Weiterentwicklung.
+Darüber hinaus befasst sich das IKEM mit den Voraussetzungen für einen Attraktiven ÖPNV sowie verschiedensten Konzepten nachhaltiger und innovativer Mobilität – insbesondere auch für den ländlichen Raum. So begleitet das Institut den Aufbau von Mobilitätszentralen durch rechtliche, stadtplanerische und betriebswirtschaftliche Expertise. Multimodale Mobilitätskonzepte und bedarfsorientierte Bedienformen sind ein weiteres Arbeitsfeld des Teams Mobilität.
+Einen Beitrag zur nachhaltigen Logistik soll der Ansatz der Oberleitungs-LKW leisten, den das IKEM untersucht. Außerdem werden neue Pilotangebote initiiert, zum Beispiel Bürgerbusse und Flottensharing.
+Erstellung eines rechtswissenschaftlichen Gutachtens im Rahmen des Projektes OmniConnect, bei dem ein Sensorsystem zur Standort- und Zustandsbestimmung von Gegenständen und Personen entwickelt wurde, das mithilfe von Radar und sehr kleinen Tags funktioniert.
+Wie können Kommunen im Zuge der Urbanisierung auf neue verkehrliche und städtbauliche Anforderungen reagieren? Das IKEM analysiert die rechtlichen Bedingungen der Umwidmungs- und Umgestaltungsmaßnahmen und erarbeitet Empfehlungen für Städte und Gemeinden.
+Das IKEM untersucht den Rechtsrahmen für flächensparende, integrierte Mobilitätsangebote im Quartier und mögliche Betreibermodelle in so unterschiedlichen Rechtsgebieten wie dem Mietrecht (private Ladeinfrastruktur), dem Straßen- und Straßenverkehrsrecht (z.B. Parkraummanagement) und entstehenden neuen Mobilitätsgesetzen (z.B. Elektromobilitätsgesetz, Carsharinggesetz).
+@misc{IKEM2021,
+title = {Gesetzesentwurf zum autonomen Fahren: Projektübergreifende Stellungnahme},
+author = {IKEM},
+url = {https://www.ikem.de/wp-content/uploads/2021/04/Stellungnahme_Gesetzesentwurf-zum-autonomen-Fahren.pdf},
+year = {2021},
+date = {2021-04-09},
+abstract = {Der Gesetzesentwurf zum autonomen Fahren ist ein guter Start für die Mobilität von Morgen. An einigen Stellen bestehen allerdings noch Unklarheiten und Regulierungslücken, wie zum Beispiel bei der Berücksichtigung externen Infrastruktur und der klaren Orientierung auf ÖPNV Anwendungen, unter den Leitgedanken Umweltschutz und Daseinsvorsorge im Mobilitätsbereich. Zu diesem Ergebnis kommt eine Stellungnahme des IKEM. },
+howpublished = {Stellungnahme},
+keywords = {},
+pubstate = {published},
+tppubtype = {misc}
+}
+Der Gesetzesentwurf zum autonomen Fahren ist ein guter Start für die Mobilität von Morgen. An einigen Stellen bestehen allerdings noch Unklarheiten und Regulierungslücken, wie zum Beispiel bei der Berücksichtigung externen Infrastruktur und der klaren Orientierung auf ÖPNV Anwendungen, unter den Leitgedanken Umweltschutz und Daseinsvorsorge im Mobilitätsbereich. Zu diesem Ergebnis kommt eine Stellungnahme des IKEM.
+Regulierung für Elektrische Straßensysteme (ERS) – Handlungsempfehlungen Vortrag
+Präsentation entstanden im Rahmen des Projekts AMELIE, IKEM, 04.03.2021.
+| Links:
+@misc{Hartwig2020h,
+title = {Regulierung für Elektrische Straßensysteme (ERS) – Handlungsempfehlungen},
+author = {Matthias Hartwig},
+url = {https://www.ikem.de/wp-content/uploads/2021/03/IKEM_Handlungsempfehlungen_03032021.pdf},
+year = {2021},
+date = {2021-03-04},
+address = {IKEM},
+howpublished = {Präsentation entstanden im Rahmen des Projekts AMELIE},
+keywords = {},
+pubstate = {published},
+tppubtype = {presentation}
+}
+@techreport{Krampitz2021,
+title = {Erfordernis eines code of conduct als praktische Hilfestellung für die Übersetzung der Straßenverkehrsordnung in technische Vorgaben},
+author = {Mathilde Krampitz},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-HEAT-Stellungnahme-code-of-conduct-StVO-1.pdf, Stellungnahme als PDF},
+year = {2021},
+date = {2021-01-28},
+abstract = {Noch immer liegt kein umfassender Rechtsrahmen für den Betrieb autonomer und vernetzter Fahrfunktionen vor. Wer das laufende Gesetzesvorhaben des BMVI verfolgt, erkennt, dass die unumgängliche Anpassung der Straßenverkehrsordnung (StVO) bislang nur zaghaft erfolgt und sich in einer bloßen Neutralisierung des Begriffs „Fahrzeugführer“ erschöpft, indem klargestellt wird, dass (alle) Fahrzeuge die Vorschriften der StVO zu beachten haben. Eine Öffnung der StVO in dem beschriebenen Umfang wird sich in der Praxis allerdings als zu kurz gegriffen erweisen.
+Das IKEM, Konsortialpartner des Projekts HEAT (Hamburg Electric Autonomous Transportation), fordert in dem Zusammenhang eine intensive Auseinandersetzung mit der Problematik, auf welche Art und Weise die Vorgaben der StVO, welche sich an menschliche Adressaten richten, konkret in der Praxis durch Hersteller technisch umgesetzt werden können.},
+type = {IKEM-Stellungnahme im Rahmen des Projekts HEAT},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Noch immer liegt kein umfassender Rechtsrahmen für den Betrieb autonomer und vernetzter Fahrfunktionen vor. Wer das laufende Gesetzesvorhaben des BMVI verfolgt, erkennt, dass die unumgängliche Anpassung der Straßenverkehrsordnung (StVO) bislang nur zaghaft erfolgt und sich in einer bloßen Neutralisierung des Begriffs „Fahrzeugführer“ erschöpft, indem klargestellt wird, dass (alle) Fahrzeuge die Vorschriften der StVO zu beachten haben. Eine Öffnung der StVO in dem beschriebenen Umfang wird sich in der Praxis allerdings als zu kurz gegriffen erweisen.
+Das IKEM, Konsortialpartner des Projekts HEAT (Hamburg Electric Autonomous Transportation), fordert in dem Zusammenhang eine intensive Auseinandersetzung mit der Problematik, auf welche Art und Weise die Vorgaben der StVO, welche sich an menschliche Adressaten richten, konkret in der Praxis durch Hersteller technisch umgesetzt werden können.
+Akteursmodell für die Finanzierung und Abrechnung elektrischer Straßensysteme (ERS) Forschungsbericht
+IKEM Working Paper, 2020.
+| Links:
+@techreport{Hartwig2020g,
+title = {Akteursmodell für die Finanzierung und Abrechnung elektrischer Straßensysteme (ERS)},
+author = {Matthias Hartwig },
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201217_ERS-Akteursmodelle.pdf, Working Paper als PDF},
+doi = {10.5281/zenodo.4337906},
+year = {2020},
+date = {2020-12-17},
+type = {IKEM Working Paper},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Eickelmann, Elias; Krampitz, Mathilde; Bußmann-Welsch, Anna; Stegmaier, David
+Rechtliche Rahmenbedingungen für die Einbindung eines autonomen Shuttles über eine digitale Mobilitätsplattform in den Bedarfs- und Linienverkehr Forschungsbericht
+Studie im Rahmen des Projekts Hub-Chain, 2020.
+| Links:
+@techreport{Eickelmann2020c,
+title = { Rechtliche Rahmenbedingungen für die Einbindung eines autonomen Shuttles über eine digitale Mobilitätsplattform in den Bedarfs- und Linienverkehr},
+author = {Elias Eickelmann and Mathilde Krampitz and Anna Bußmann-Welsch and David Stegmaier},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/202012_Hub-Chain-Studie.pdf, Studie als pdf},
+year = {2020},
+date = {2020-12-14},
+type = {Studie im Rahmen des Projekts Hub-Chain},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

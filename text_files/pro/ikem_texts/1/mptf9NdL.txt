@@ -1,0 +1,57 @@
+Benjamin Grosse works as a senior research associate at IKEM since January 2021, he is a member of our Mobility team. His work focuses on sector coupling and business model analysis. As an industrial engineer, he supports various projects at the interface between technology, regulation and economic analysis.
+He studied Bachelor Energy and Environmental Management at Flensburg University of Applied Sciences and spent one semester at Al Akhawayn University in Morocco. He then transferred to TU Berlin, where he completed a master’s degree in industrial engineering with a focus on energy and resource management. After his graduation, he worked for six years as a research assistant at the FG Energy and Resource Management of the TU Berlin. In addition to his employment at IKEM, he is an active lecturer and member of the Working Group on Renewable Energies and Energy Technology of the VDI Berlin-Brandenburg.
+@techreport{Jahnke2020,
+title = {Flexibilisierung der erneuerbaren Stromerzeugung aus Biomasse-KWK-Anlagen – eine technische, ökonomische und rechtliche Analyse},
+author = {Philipp Jahnke and Tim Scherwath and Joschka Selinger and Denise Held and Simon Schäfer-Stradowsky and Michael Teigeler and Peter Erb and Virena Schmeink and Benjamin Grosse and Johannes Kochems and Rinus Heizmann and Yannick Werner and Flora von Mikulicz-Radecki and Arian Hohgräve and Simon Byrtus and Joachim Müller-Kirchenbauer},
+url = {https://www.ikem.de/wp-content/uploads/2020/12/ENavi-Biomasse-KWK.pdf, Arbeitspapier als PDF},
+doi = {10.5281/zenodo.4304039},
+year = {2020},
+date = {2020-12-03},
+institution = {IKEM, BBH, Stadtwerke Heidelberg, TU Berlin:},
+type = {Arbeitspapier im Rahmen des Kopernikus-Projekts ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Grosse2020,
+title = {Bewertung regulatorischer Maßnahmen der Sektorenkopplung für den Einsatz von Power-to-Heat},
+author = {Benjamin Grosse and Yannick Werner and Denise Held and Joschka Selinger and Simon Schäfer-Stradowsky and Joachim Müller-Kirchenbauer },
+doi = {https://doi.org/10.1007/s12398-020-00287-5},
+year = {2020},
+date = {2020-10-13},
+journal = {Zeitschrift für Energiewirtschaft},
+abstract = {Die Kopplung der Sektoren Strom, Wärme, Gas und Verkehr stellt die nächste Stufe der Energiewende in Deutschland dar. Hierzu muss einerseits ein verbindlicher Rechtsrahmen geschaffen werden, andererseits müssen Geschäftsmodelle entstehen, welche auf Basis dieses Rechtsrahmen die Sektorenkopplung auch in die Praxis umsetzen. Aktuell bestehen jedoch verschiedene regulatorische Hemmnisse, welche einer solchen Praxisanwendung entgegenstehen und insbesondere die Integration von erneuerbarem Strom in den Wärmesektor (Power-to-Heat, PtH) behindern. In diesem Beitrag werden ausgehend von einer Darstellung des regulatorischen Status Quo auf Basis eines Literaturreviews 21 regulatorische Maßnahmen untersucht und miteinander verglichen. Für vier ausgewählte Maßnahmen, die einerseits auf eine Reduktion der Netzentgelte, der EEG-Umlage und andererseits auf die Einführung einer sektorenübergreifenden CO2-Bepreisung zielen, wird eine detaillierte einzel-ökonomische, rechtliche und systemische Analyse am Fallbeispiel einer PtH-Anlage in einem Fernwärmnetz durchgeführt. Es zeigt sich, dass eine PtH-Anlage im Status Quo nicht betriebswirtschaftlich auskömmlich zu betreiben ist. Darüber hinaus scheint die Einführung einer sektorenübergreifenden CO2-Bepreisung aus allen betrachteten Perspektiven besonders vorteilhaft. Jedoch sind weitere Maßnahmen notwendig und erscheinen rechtlich und systemisch möglich, um unter den getroffenen Annahmen die Investition in eine PtH-Anlage ökonomisch rentabel zu machen.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Die Kopplung der Sektoren Strom, Wärme, Gas und Verkehr stellt die nächste Stufe der Energiewende in Deutschland dar. Hierzu muss einerseits ein verbindlicher Rechtsrahmen geschaffen werden, andererseits müssen Geschäftsmodelle entstehen, welche auf Basis dieses Rechtsrahmen die Sektorenkopplung auch in die Praxis umsetzen. Aktuell bestehen jedoch verschiedene regulatorische Hemmnisse, welche einer solchen Praxisanwendung entgegenstehen und insbesondere die Integration von erneuerbarem Strom in den Wärmesektor (Power-to-Heat, PtH) behindern. In diesem Beitrag werden ausgehend von einer Darstellung des regulatorischen Status Quo auf Basis eines Literaturreviews 21 regulatorische Maßnahmen untersucht und miteinander verglichen. Für vier ausgewählte Maßnahmen, die einerseits auf eine Reduktion der Netzentgelte, der EEG-Umlage und andererseits auf die Einführung einer sektorenübergreifenden CO2-Bepreisung zielen, wird eine detaillierte einzel-ökonomische, rechtliche und systemische Analyse am Fallbeispiel einer PtH-Anlage in einem Fernwärmnetz durchgeführt. Es zeigt sich, dass eine PtH-Anlage im Status Quo nicht betriebswirtschaftlich auskömmlich zu betreiben ist. Darüber hinaus scheint die Einführung einer sektorenübergreifenden CO2-Bepreisung aus allen betrachteten Perspektiven besonders vorteilhaft. Jedoch sind weitere Maßnahmen notwendig und erscheinen rechtlich und systemisch möglich, um unter den getroffenen Annahmen die Investition in eine PtH-Anlage ökonomisch rentabel zu machen.
+@article{Albert2018b,
+title = {Sektorkopplung – Was ist darunter zu verstehen?},
+author = {Denise Albert and Martin Wietschel and Patrick Plötz and Marian Klobasa and Joachim Müller-Kirchenbauer and Johannes Kochems and Lisa Hermann and Benjamin Grosse and Lukas Nacken and Michael Küster and David Naumann and Christoph Kost and Ulrich Fahl and Daniel Timmermann},
+url = {https://doi.org/10.1007/s12398-018-0241-3},
+doi = {10.1007/s12398-018-0241-3},
+issn = {1866-2765},
+year = {2018},
+date = {2018-10-19},
+journal = {Zeitschrift für Energiewirtschaft},
+abstract = {Sektorkopplung ist in den letzten Jahren in der Energie- und Klimapolitik als neue Begrifflichkeit aufgetaucht und hat aktuell einen sehr hohen Stellenwert in der energiepolitischen Diskussion als eine der zentralen Maßnahmen zur Minderung der Treibhausgase. Eine Auswertung der Literatur zeigt allerdings, dass für den Begriff Sektorkopplung bislang kein einheitliches Begriffsverständnis existiert.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Sektorkopplung ist in den letzten Jahren in der Energie- und Klimapolitik als neue Begrifflichkeit aufgetaucht und hat aktuell einen sehr hohen Stellenwert in der energiepolitischen Diskussion als eine der zentralen Maßnahmen zur Minderung der Treibhausgase. Eine Auswertung der Literatur zeigt allerdings, dass für den Begriff Sektorkopplung bislang kein einheitliches Begriffsverständnis existiert.
+@techreport{Schäfer-Stradowsky2018b,
+title = {Sektorkopplung – Definition, Chancen und Herausforderungen},
+author = {Simon Schäfer-Stradowsky and Daniel Timmermann and Denise Albert and Martin Wietschel and Patrick Plötz and Benjamin Pfluger and Marian Klobasa and Anke Eßer and Michael Haendel and Joachim Müller-Kirchenbauer and Johannes Kochems and Lisa Hermann and Benjamin Grosse and Lukas Nacken and Michael Küster and Johannes Pacem and David Naumann and Christoph Kost and Robert Kohrs and Ulrich Fahl
+},
+url = {https://www.ikem.de/wp-content/uploads/2018/02/WP_Sustainability-and-Innovation_Sektorenkopplung_S01-2018.pdf},
+year = {2018},
+date = {2018-01-00},
+address = {Karlsruhe},
+institution = {Fraunhofer ISI:},
+type = {Working Paper Sustainability and Innovation No. S 01/2018},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

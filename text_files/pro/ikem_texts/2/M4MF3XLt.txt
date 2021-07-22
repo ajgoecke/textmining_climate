@@ -1,0 +1,76 @@
+Simon Schäfer-Stradowsky ist Jurist und Experte für innovatives Energie- und Klimaschutzrecht.
+Simon Schäfer-Stradowsky studierte Rechtswissenschaft an der Freien Universität Berlin und war anschließend als Jurist im Bundestag und als Rechtsanwalt, mit Schwerpunkt Energierecht, bei der Kanzlei Becker Büttner Held tätig.
+Seit 2014 ist Simon Schäfer-Stradowsky Geschäftsführer des IKEM – Institut für Klimaschutz, Energie und Mobilität. Zu seinen Forschungsschwerpunkten zählen Förderregime für Erneuerbare Energien, die Flexibilisierung des Strommarktes und die Etablierung eines Rechtsrahmens für grünen Wasserstoff und Ammoniak.
+@book{Schäfer-Stradowsky2021b,
+title = {Digitalisierung in der Energiewirtschaft},
+author = {Andreas Corusa and Georg Erdmann and Elena Timofeeve and Johannes Norbert Predel and Falk Ritschel and Christian Sprengel and Anne Walther and Daniel Kaufmann and Stefan Brühl and Victor Stocker and Christine Rosinger and Mathias Uslar and Simon Schäfer-Stradowsky},
+editor = {Technische Universität Berlin},
+url = {https://www.ikem.de/wp-content/uploads/2021/06/digitalisierung_energiewirtschaft.pdf},
+year = {2021},
+date = {2021-05-27},
+abstract = {Wir unternehmen mit diesem Werk den Versuch einen Teil der Komplexität des Themas anhand des Knowhows der beitragenden Autoren aus verschiedenen Disziplinen zu vereinen, um nicht nur Neugier des Lesenden zu wecken, sondern auch und um über das Thema Digitalisierung aufzuklären. Dabei besteht das Kompendium aus vier Teilen, die verschieden Herausforderungen der Digitalisierung beleuchten und systematische Einschätzungen sowie mögliche Lösungskonzepte präsentieren, die es aus Unternehmensperspektive zu beachten gibt. Das gesamte Werk stellt nur einen kleinen Teil dieser Herausforderungen dar, thematisiert aber besonders relevante.},
+keywords = {},
+pubstate = {published},
+tppubtype = {book}
+}
+Wir unternehmen mit diesem Werk den Versuch einen Teil der Komplexität des Themas anhand des Knowhows der beitragenden Autoren aus verschiedenen Disziplinen zu vereinen, um nicht nur Neugier des Lesenden zu wecken, sondern auch und um über das Thema Digitalisierung aufzuklären. Dabei besteht das Kompendium aus vier Teilen, die verschieden Herausforderungen der Digitalisierung beleuchten und systematische Einschätzungen sowie mögliche Lösungskonzepte präsentieren, die es aus Unternehmensperspektive zu beachten gibt. Das gesamte Werk stellt nur einen kleinen Teil dieser Herausforderungen dar, thematisiert aber besonders relevante.
+Metz, Jonathan; Doderer, Hannes; Harsch, Victoria; Schäfer-Stradowsky, Simon
+Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung Forschungsbericht
+@techreport{Metz2021b,
+title = {Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung},
+author = {Jonathan Metz and Hannes Doderer and Victoria Harsch and Simon Schäfer-Stradowsky},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-EE-Finanzierung-Broschuere-final.pdf},
+year = {2021},
+date = {2021-02-02},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Jahnke2020,
+title = {Flexibilisierung der erneuerbaren Stromerzeugung aus Biomasse-KWK-Anlagen – eine technische, ökonomische und rechtliche Analyse},
+author = {Philipp Jahnke and Tim Scherwath and Joschka Selinger and Denise Held and Simon Schäfer-Stradowsky and Michael Teigeler and Peter Erb and Virena Schmeink and Benjamin Grosse and Johannes Kochems and Rinus Heizmann and Yannick Werner and Flora von Mikulicz-Radecki and Arian Hohgräve and Simon Byrtus and Joachim Müller-Kirchenbauer},
+url = {https://www.ikem.de/wp-content/uploads/2020/12/ENavi-Biomasse-KWK.pdf, Arbeitspapier als PDF},
+doi = {10.5281/zenodo.4304039},
+year = {2020},
+date = {2020-12-03},
+institution = {IKEM, BBH, Stadtwerke Heidelberg, TU Berlin:},
+type = {Arbeitspapier im Rahmen des Kopernikus-Projekts ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Breidenbach2020,
+title = {1,5 Grad – Recht neu denken, Klimaziele erreichen},
+author = {Stephan Breidenbach and Simon Schäfer-Stradowsky},
+url = {https://research.owlit.de/lx-document/REL1347290, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {Rethinking Law},
+volume = {5/2020},
+pages = {20-22},
+abstract = {Alle Beteiligten sind sich darüber im Klaren, dass die Abkehr von fossilen Energiequellen ein großer Herausforderung darstellt. Wir müssen jetzt dafür sorgen, dass staatliche Stellen, Unternehmen, aber auch jede:r Einzelne von uns Entscheidungen treffen, die uns dem 1,5-Grad-Ziel näherbringen. Hierfür benötigen wir zuallererst einen klaren und kohärenten Rechtsrahmen, damit aus der Klimaaufgabe zugleich ein Konjunkturmotor wird.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Alle Beteiligten sind sich darüber im Klaren, dass die Abkehr von fossilen Energiequellen ein großer Herausforderung darstellt. Wir müssen jetzt dafür sorgen, dass staatliche Stellen, Unternehmen, aber auch jede:r Einzelne von uns Entscheidungen treffen, die uns dem 1,5-Grad-Ziel näherbringen. Hierfür benötigen wir zuallererst einen klaren und kohärenten Rechtsrahmen, damit aus der Klimaaufgabe zugleich ein Konjunkturmotor wird.
+@article{Held2020,
+title = {Ausweg aus dem Paragrafendschungel: Utopie eines konsistenten Energierechts},
+author = {Denise Held and Simon Schäfer-Stradowsky},
+url = {https://research.owlit.de/lx-document/REL1347292, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {24-29},
+abstract = {Ein wichtiger Schritt der deutschen Energiewende(gesetzgebung) war die Verabschiedung des ersten Erneuerbare-Energien-Gesetzes. Damit hat die Bundesrepublik eine Vorreiterrolle in Sachen Klimaschutz übernommen.
+Inzwischen sind die Erneuerbaren eben weniger die Ausnahme als die Regel und es ist damit Zeit für eine Revision: Was ist da, was kann weg, was muss neu geschaffen werden? Dafür ist eine klare Vorstellung über unser Energierecht von Morgen nötig, die einen Weg aus dem Paragrafendschungel weist. Dieser Beitrag will ein solches Ziel skizzieren – die Utopie eines konsistenten Energierechts.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Ein wichtiger Schritt der deutschen Energiewende(gesetzgebung) war die Verabschiedung des ersten Erneuerbare-Energien-Gesetzes. Damit hat die Bundesrepublik eine Vorreiterrolle in Sachen Klimaschutz übernommen.
+Inzwischen sind die Erneuerbaren eben weniger die Ausnahme als die Regel und es ist damit Zeit für eine Revision: Was ist da, was kann weg, was muss neu geschaffen werden? Dafür ist eine klare Vorstellung über unser Energierecht von Morgen nötig, die einen Weg aus dem Paragrafendschungel weist. Dieser Beitrag will ein solches Ziel skizzieren – die Utopie eines konsistenten Energierechts.

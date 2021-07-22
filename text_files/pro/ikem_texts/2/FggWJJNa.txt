@@ -1,0 +1,52 @@
+Elias Eickelmann ist als wissenschaftlicher Referent im IKEM am Standort Berlin beschäftigt. Seine Arbeitsschwerpunkte liegen im Bereich des Planungs- und Immissionsschutzrechts, der Wärmeplanung sowie zuvor im Recht des öffentlichen Personennahverkehrs.
+Er leitete das Projekt HubChain, in welchem digitale Lösungen für die Verknüpfung von Linien- und On-Demand Verkehren unter Einbeziehung eines autonomen Fahrzeugs und einer eigens für diese Anwendung entwickelten App in Zusammenarbeit mit den Stadtwerken Osnabrück entwickelt wurden. Mit diesem Projekt gewann das Konsortium sowohl den Deutschen Mobilitätspreis als auch den Innovationspreis 2020. Außerdem war er für das Projekt MAMBA verantwortlich, in welchem ehrenamtliche Mobilitätslösungen im europäischen ländlichen Raum um die Ostsee herum entwickelt und unterstützt werden, wobei vom IKEM insbesondere der internationale Rechtrahmen verglichen wurde. Insoweit kann er auf vielfältige internationale Kontakte zurückgreifen. Er war bereits federführend an der Erstellung eines Rechtsgutachtens zum des NVBW zum Rechtsrahmen ehrenamtlich betriebener Bürgerfahrdienste sowie der Erstellung eines Gutachtens über die planungsrechtlichen Voraussetzungen des Baus einer Ammoniakerzeugnungsanlage und damit verbundener Erzeugungsanlagen für erneuerbare Energien im Rahmen des Projekts Campfire 6.2 beteiligt.
+Er studierte Rechtswissenschaften an der Freien Universität Berlin und absolvierte anschließend seinen juristischen Vorbereitungsdienst am Landgericht Potsdam. Nachdem er sein zweites Staatsexamen erfolgreich abgelegt hatte, arbeitete er ein Jahr lang als juristischer Referent beim Staatlichen Schulamt Brandenburg an der Havel, wo er praktische Erfahrungen in der Anwendung des Verwaltungsrechts und der allgemeinen Verwaltungsarbeit sammelte. Seit 2019 ist er nun am IKEM tätig.
+@techreport{Eickelmann2020c,
+title = { Rechtliche Rahmenbedingungen für die Einbindung eines autonomen Shuttles über eine digitale Mobilitätsplattform in den Bedarfs- und Linienverkehr},
+author = {Elias Eickelmann and Mathilde Krampitz and Anna Bußmann-Welsch and David Stegmaier},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/202012_Hub-Chain-Studie.pdf, Studie als pdf},
+year = {2020},
+date = {2020-12-14},
+type = {Studie im Rahmen des Projekts Hub-Chain},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Bahareva2020,
+title = {Maximising Mobility and Access to Services In Rural Regions – A Policy Guideline},
+author = {Vizma Bahareva and Elias Eickelmann and Julien Grunfelder},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/Maximising-mobility-and-access-to-services-in-rural-areas-.pdf, Report als PDF},
+year = {2020},
+date = {2020-10-13},
+abstract = {These guidelines are based on the pilot actions implemented during the MAMBA project, including legislative, economic and socio-cultural analyses. This document shall assist policymakers, government ministries, transport service providers and municipalities when working on mobility solutions in rural areas, and encourage all stakeholders to become more open to alternative transport solutions and to expand their traditional services.},
+type = {Veröffentlichung im Rahmen des Interreg-Projekts MAMBA},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+These guidelines are based on the pilot actions implemented during the MAMBA project, including legislative, economic and socio-cultural analyses. This document shall assist policymakers, government ministries, transport service providers and municipalities when working on mobility solutions in rural areas, and encourage all stakeholders to become more open to alternative transport solutions and to expand their traditional services.
+@misc{Eickelmann2020d,
+title = {Nahverkehrsplan und Anordnung nach StVO – Urbane und ländliche Verkehrswende und das Recht},
+author = {Elias Eickelmann and Friederike Pfeifer},
+url = {https://www.ikem.de/wp-content/uploads/2021/03/2020-10-10_Pegasus-IKEM_Eickelmann-Pfeifer-3.pdf},
+year = {2020},
+date = {2020-10-10},
+abstract = {Die Rahmenbedingungen der Mobilitätswende haben werden – neben vielen weiteren Komponenten – vor allem vom rechtlichen Rahmen vorgegeben. Zurzeit befinden sich nicht nur die Straßenverkehrsordnung (StVO) und das Personenbeförderungsgesetz (PBefG) im Umbruch. Die StVO-Novelle 2020 und die Diskussionen um eine bessere Integration neuer Mobilitätsdienstleistungen sind nur ein kleiner Teil der hochdynamischen Rechtsentwicklungen. Daneben entstehen unter anderem Mobilitätsgesetze und Mobilitätsfördergesetze auf Landesebene (z.B. in Berlin und Hessen), die die bessere Vernetzung der Verkehrsmittel mit dem Ziel einer multimodalen, emissionsarmen Mobilität verfolgen. In welchem Verhältnis stehen sie zur klassischen Regulierung des ÖPNV und zum Verhalten im Straßenverkehr, und wie lassen sich innovative Ansätze gut vereinen?
+Die Transformation urbaner Mobilität stellt dabei auch an das Recht ganz andere Anforderungen als die Transformation ländlicher Mobilität. Im Vortrag werden das Projekt Move Urban als Beispiel für urbane Mobilität und das Projekt Hubchain als Beispiel für ländliche Mobilität präsentiert. Der Vortrag stellt die beiden Projekte gegenüber und erläutert Unterschiede und Gemeinsamkeiten. Um die oft abstrakten rechtlichen Inhalte greifbarer zu machen, wird ein Teil des Vortrags als Dialog zwischen Nahverkehrsplan und Straßenverkehrsanordnung gestaltet: Was kannst du, was kann ich? Und brauchen wir als Dritten im Bunde vielleicht noch einen Mobilitätsplan, damit die Transformation gelingt? },
+keywords = {},
+pubstate = {published},
+tppubtype = {presentation}
+}
+Die Rahmenbedingungen der Mobilitätswende haben werden – neben vielen weiteren Komponenten – vor allem vom rechtlichen Rahmen vorgegeben. Zurzeit befinden sich nicht nur die Straßenverkehrsordnung (StVO) und das Personenbeförderungsgesetz (PBefG) im Umbruch. Die StVO-Novelle 2020 und die Diskussionen um eine bessere Integration neuer Mobilitätsdienstleistungen sind nur ein kleiner Teil der hochdynamischen Rechtsentwicklungen. Daneben entstehen unter anderem Mobilitätsgesetze und Mobilitätsfördergesetze auf Landesebene (z.B. in Berlin und Hessen), die die bessere Vernetzung der Verkehrsmittel mit dem Ziel einer multimodalen, emissionsarmen Mobilität verfolgen. In welchem Verhältnis stehen sie zur klassischen Regulierung des ÖPNV und zum Verhalten im Straßenverkehr, und wie lassen sich innovative Ansätze gut vereinen?
+Die Transformation urbaner Mobilität stellt dabei auch an das Recht ganz andere Anforderungen als die Transformation ländlicher Mobilität. Im Vortrag werden das Projekt Move Urban als Beispiel für urbane Mobilität und das Projekt Hubchain als Beispiel für ländliche Mobilität präsentiert. Der Vortrag stellt die beiden Projekte gegenüber und erläutert Unterschiede und Gemeinsamkeiten. Um die oft abstrakten rechtlichen Inhalte greifbarer zu machen, wird ein Teil des Vortrags als Dialog zwischen Nahverkehrsplan und Straßenverkehrsanordnung gestaltet: Was kannst du, was kann ich? Und brauchen wir als Dritten im Bunde vielleicht noch einen Mobilitätsplan, damit die Transformation gelingt?
+@techreport{Eickelmann2020,
+title = {Unkostenbeiträge für genehmigungsfreie Bürgerfahrdienste: Rechtwissenschaftliche Studie zur Finanzierung ehrenamtlicher Mobilitätsangebote im ländlichen Raum},
+author = {Elias Eickelmann and Alexandra Rose},
+url = {https://www.ikem.de/wp-content/uploads/2020/07/20200723_Unkostenbeiträge-für-genehmigungsfreie-Bürgerfahrdienste.pdf, Studie als PDF},
+year = {2020},
+date = {2020-07-23},
+type = {Studie im Rahmen des Projekts Hub Chain},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

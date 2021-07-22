@@ -1,0 +1,64 @@
+Hannes Doderer joined at the Institute for Climate Protection, Energy and Mobility (IKEM) in 2014 and holds the position of Senior Research Associate. Since September 2017 Mr. Doderer is IKEM’s representative in Stuttgart and leads the Energy Law team.
+Hannes Doderer studied Law at the Eberhard Karls University of Tübingen and worked at the former Chair of Public Law, including international law with Prof. i. R. Dr. Dr. h. c. Wolfgang Graf Vitzthum, LL. M. (Columbia). He completed his legal clerkship at the district court of Stuttgart. Mr. Doderer’s work focuses on mobility and energy.
+In the field of energy, Mr. Doderer examines the legal energy-related obstacles to sector coupling with regard to the transfer of energy from the electricity sector to the heating, industrial and transport sectors and the associated flexibility options by means of technologies such as power-to-heat or power-to-gas. A particular focus of Mr. Doderer’s research work is in the field of heat, including heat infrastructure (heating networks and heat storage tanks). There, he examines the question of how the demand for heat can be met with a high proportion of renewable heat, in order to enable a climate-friendly heat supply. Further research interests are in the field of (industrial) waste heat and the integration of wastewater treatment plants in the overall energy supply system. In addition, Mr. Doderer has expertise in energy efficiency and bog protection.
+In the field of mobility, he deals in particular with questions of (highly) automated and autonomous driving, taking into account road traffic and administration law as well as liability issues of automated systems. In addition, Mr. Doderer has expertise in public transport and passenger transport law, with special emphasis on municipal traffic concepts, flexible forms of passenger transport law, the financing regulations for public transport and the legal classification and treatment of digital mobility platforms als well as the field of freight traffic.
+Metz, Jonathan; Doderer, Hannes; Harsch, Victoria; Schäfer-Stradowsky, Simon
+Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung Technical Report
+@techreport{Metz2021b,
+title = {Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung},
+author = {Jonathan Metz and Hannes Doderer and Victoria Harsch and Simon Schäfer-Stradowsky},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-EE-Finanzierung-Broschuere-final.pdf},
+year = {2021},
+date = {2021-02-02},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Doderer2021b,
+title = {Regelungsgehalt der SINTEG-V am Beispiel der Netzentgeltermittlung und der Netzentgeltprivilegierung für Sonderformen der Netznutzung},
+author = {Hannes Doderer and Jonathan Metz},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/IKEM-SintegV.pdf},
+year = {2021},
+date = {2021-02-02},
+journal = {Artikel im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+@techreport{Metz2021,
+title = {Systemische Ansätze zur Reform der Netzentgelte für die Energiewende 2.0},
+author = {Jonathan Metz and Hannes Doderer},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-Netzentgelte-Broschüre.pdf},
+year = {2021},
+date = {2021-01-26},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Doderer2021,
+title = {Synthesebericht: Flexibilität, Markt und Regulierung},
+author = {Hannes Doderer and Severin Beucker and Alexander Funke and Christopher Koch and Hendrik Kondziella and Jörn Hartung and Sandra Maeding and Henning Medert and Georg Meyer-Braune and Michael Rath and Niko Rogler},
+url = {https://www.windnode.de/fileadmin/Daten/Downloads/FMR_ES.pdf},
+year = {2021},
+date = {2021-01-13},
+type = {Synthesebericht im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Doderer2020c,
+title = {Volatile Energie als Normalfall – Wie sehen die Stromnetzentgelte in der Zukunft aus?},
+author = {Hannes Doderer and Jonathan Metz and Johannes Antoni},
+url = {https://research.owlit.de/lx-document/REL1347300, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {42-46},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}

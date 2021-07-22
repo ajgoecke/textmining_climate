@@ -1,0 +1,81 @@
+Dennis Nill ist Referent der Geschäftsführung. Er unterstützt die Geschäftsführung, steuert interne Prozesse und koordiniert die Zusammenarbeit mit den Teams. Er leitet zudem die Öffentlichkeitsarbeit des Instituts und ist dabei unter anderem für Publikationen sowie die inhaltliche Betreuung des Online- und Social-Media-Auftritts zuständig. Außerdem unterstützt er die Forschungsaktivitäten des Instituts, u.a. durch Mitwirkung an Akquisen und Projekten der Geschäftsführung sowie des Teams Energierecht.
+Dennis Nill ist seit 2016 am IKEM und war zunächst als wissenschaftlicher Mitarbeiter tätig. In dieser Position arbeitete er in zahlreichen Projekten mit, unter anderem zum EEG-Erfahrungsbericht und zum Thema Autonomes Fahren.
+Dennis Nill studierte Politikwissenschaft an der Freien Universität Berlin, der Universidad Complutense Madrid sowie der Universität Potsdam. Das Masterstudium mit dem Schwerpunkt europäische Integration beendete er 2016 mit einer Abschlussarbeit zu unterschiedlichen nationalen Diskursen in Bezug auf die gemeinsamen europäischen Maßnahmen während der Eurokrise. Vor seiner Tätigkeit am IKEM konnte Herr Nill berufliche Erfahrungen in verschiedenen Verbänden und öffentlichen Stellen sammeln; hierzu zählen der Deutsche Bundesjugendring, die Bundesstiftung Magnus Hirschfeld und die Antidiskriminierungsstelle des Bundes.
+@techreport{Antoni2019cb,
+title = {Monitoring der Direktvermarktung von Strom aus Erneuerbaren Energien. Quartalsbericht (06/2019)},
+author = {Johannes Antoni and Dennis Nill and Simon Schäfer-Stradowsky and Marian Klobasa and Benjamin Lux and Benjamin Pfluger and Michael von Bonin and Norman Gerhardt and Uwe Holzhammer},
+url = {https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/Berichte/monitoring-der-direktvermarktung-quartalsbericht-06-2019.html, Bericht auf der Seite des BMWi
+https://www.ikem.de/wp-content/uploads/2019/08/monitoring-der-direktvermarktung-quartalsbericht-06-2019.pdf, Bericht als PDF},
+year = {2019},
+date = {2019-06-00},
+institution = {IKEM, Frauhofer ISI, Fraunhofer IEE:},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Antoni2019c,
+title = {Monitoring der Direktvermarktung von Strom aus Erneuerbaren Energien. Quartalsbericht (03/2019) },
+author = {Johannes Antoni and Dennis Nill and Simon Schäfer-Stradowsky and Marian Klobasa and Benjamin Lux and Benjamin Pfluger and Michael von Bonin and Norman Gerhardt and Uwe Holzhammer},
+url = {https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/Berichte/monitoring-der-direktvermarktung-quartalsbericht-03-2019.html, Bericht auf der Seite des BMWi
+https://www.ikem.de/wp-content/uploads/2019/05/monitoring-der-direktvermarktung-quartalsbericht-03-2019.pdf, Bericht als PDF},
+year = {2019},
+date = {2019-03-00},
+institution = {IKEM, Frauhofer ISI, Fraunhofer IEE:},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Schäfer-Stradowsky2019,
+title = {Erfahrungsschatz zum Kohleausstieg nutzen: Das Reallabor Ensdorf der VSE AG im ENavi Projekt – praktische Erprobung der Transformation},
+author = {Simon Schäfer-Stradowsky and Yasin Yilmaz and Denise Albert and Dennis Nill and Michael Küster and Christian Heck},
+url = {https://www.ikem.de/wp-content/uploads/2019/01/20190123_Konversionsstandort_Ensdorf.pdf},
+year = {2019},
+date = {2019-01-23},
+institution = {IKEM, VSE AG:},
+abstract = {Die an den verschiedenen Kohlestandorten anstehenden Strukturveränderungen können eine Chance für innovative Lösungen und die wirtschaftliche Entwicklung der Regionen sein. Dies zeigt das ENavi Reallabor Ensdorf, das die bereits vorhandene Netzinfrastruktur gewinnbringend weiternutzt. Besonderer Treiber für neue Geschäftsmodelle können Experimentierklauseln sein. Insbesondere für die Implementierung von Sektorenkopplungstechnologien und Konzepten zur regionalen Wertschöpfung bieten sich Experimentierklauseln zum testweisen Abbau bestehender regulatorischer Hemmnisse an. Dem Beispiel Ensdorfs folgend, sollen weitere Kohlestandorte die Möglichkeit einer sozialverträglichen und zukunftsweisenden Transformation erhalten. Von diesen Beispielen können sodann nicht nur andere Kohleregionen lernen. Vielmehr können allgemeingültige Erkenntnisse für die nächsten Phasen der Energiewende insgesamt generiert werden. },
+type = {Arbeitspapier. Entstanden im Rahmen des Arbeitspakets 13 „praktische Erprobung und Rückkopplung“},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Die an den verschiedenen Kohlestandorten anstehenden Strukturveränderungen können eine Chance für innovative Lösungen und die wirtschaftliche Entwicklung der Regionen sein. Dies zeigt das ENavi Reallabor Ensdorf, das die bereits vorhandene Netzinfrastruktur gewinnbringend weiternutzt. Besonderer Treiber für neue Geschäftsmodelle können Experimentierklauseln sein. Insbesondere für die Implementierung von Sektorenkopplungstechnologien und Konzepten zur regionalen Wertschöpfung bieten sich Experimentierklauseln zum testweisen Abbau bestehender regulatorischer Hemmnisse an. Dem Beispiel Ensdorfs folgend, sollen weitere Kohlestandorte die Möglichkeit einer sozialverträglichen und zukunftsweisenden Transformation erhalten. Von diesen Beispielen können sodann nicht nur andere Kohleregionen lernen. Vielmehr können allgemeingültige Erkenntnisse für die nächsten Phasen der Energiewende insgesamt generiert werden.
+@techreport{Antoni2018d,
+title = {Monitoring der Direktvermarktung von Strom aus Erneuerbaren Energien. Quartalsbericht (12/2018)},
+author = {Johannes Antoni and Simon Schäfer-Stradowsky and Dennis Nill and et al.},
+url = {https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/Berichte/monitoring-der-direktvermarktung-quartalsbericht-12-2018.html
+https://www.ikem.de/wp-content/uploads/2019/02/20190131_EEG-QB_12-2018.pdf},
+year = {2018},
+date = {2018-12-30},
+institution = {IKEM, Fraunhofer ISI, Fraunhofer IEE:},
+abstract = {Die Direktvermarktung betrifft als Schnittstellenthema alle Technologien der Energieerzeugung und hat in den letzten Jahren eine überaus positive Entwicklung genommen. Die Quartalsberichte untersuchen diese Entwicklung in Hinblick auf Anlagenanzahl und Teilnahme an den verschieden Märkten sowie die Wirkung auf die Systemintegration. Der Bericht identifiziert Hemmnisse und analysiert Möglichkeiten zur qualitativen und quantitativen Weiterentwicklung der Direktvermarktung. Neue Regelungen, wie die verpflichtende Direktvermarktung, verpflichtende Fernsteuerbarkeit, Einspeisevergütung in Ausnahmefällen oder der Entfall der Förderung bei 6 Stunden am Stück negativer Preise, werden evaluiert. Weiterhin werden die Entwicklung der Börsenstrompreise, die Anmeldungen für den Bezug der Flexibilitätsprämie sowie die Beteiligung von fluktuierenden erneuerbaren Energien am Regelenergiemarkt betrachtet.},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Die Direktvermarktung betrifft als Schnittstellenthema alle Technologien der Energieerzeugung und hat in den letzten Jahren eine überaus positive Entwicklung genommen. Die Quartalsberichte untersuchen diese Entwicklung in Hinblick auf Anlagenanzahl und Teilnahme an den verschieden Märkten sowie die Wirkung auf die Systemintegration. Der Bericht identifiziert Hemmnisse und analysiert Möglichkeiten zur qualitativen und quantitativen Weiterentwicklung der Direktvermarktung. Neue Regelungen, wie die verpflichtende Direktvermarktung, verpflichtende Fernsteuerbarkeit, Einspeisevergütung in Ausnahmefällen oder der Entfall der Förderung bei 6 Stunden am Stück negativer Preise, werden evaluiert. Weiterhin werden die Entwicklung der Börsenstrompreise, die Anmeldungen für den Bezug der Flexibilitätsprämie sowie die Beteiligung von fluktuierenden erneuerbaren Energien am Regelenergiemarkt betrachtet.
+@techreport{Yilmaz2018,
+title = {Regulatorischer Rahmen für die Sektorenkopplung in den vom Strukturwandel betroffenen Tagebauregionen},
+author = {Yasin Yilmaz and Dennis Nill and Simon Schäfer-Stradowsky},
+url = {https://www.ikem.de/wp-content/uploads/2019/03/20181203_IKEM-Studie_Regulatorischer_Rahmen_für_die_Sektorenkopplung_in_den_Tagebauregionen_neu.pdf},
+year = {2018},
+date = {2018-12-18},
+institution = {IKEM:},
+abstract = {Den Braunkohleregionen steht im Zuge des anvisierten Kohleausstiegs ein umfassender Strukturwandel bevor. Derzeit entwickelt die Kommission für Wachstum, Strukturwandel und Beschäftigung („Kohlekommission“) Vorschläge für Maßnahmen zur sozialen und strukturpolitischen Entwicklung der Kohleregionen. In einem Zwischenbericht wurden erste Leitlinien dargelegt; dabei kommt u.a. der Transformation der Energiewirtschaft im Zuge der Energiewende eine besondere Rolle zu.
+Der Strukturwandel bietet auch Chancen. Die Braunkohleregionen bieten ein geeignetes Umfeld zur Erprobung zukunftsweisender Energietechnologien. Teil des Umbaus in diesem Strukturwandel ist der weitere Ausbau der Erneuerbaren sowie insbesondere die Schaffung neuer Wertschöpfungsketten, u.a. durch neue Nutzungsformen der grünen Energie vor Ort und deren Integration in bestehende Industrieprozesse. Um die Chancen des Strukturwandels aufzugreifen, wird ein hochgradig innovationsfreundliches Umfeld benötigt. Wie eine Reihe der Innovationsprojekte der Innovationsregion Lausitz und ihrer Partner gezeigt haben, bestehen insbesondere im Energiewirtschaftsrecht dafür jedoch zahlreiche Hemmnisse. Entsprechende Handlungsspielräume könnten laut Kohlekommission durch regulatorische Ausnahmeregelungen geschaffen werden. Darunter fallen neben Reallaboren auch Experimentierklauseln als Instrument zur praxisnahen Erprobung und Weiterentwicklung neuer Technologien.
+Das vorliegende juristische Kurzgutachten gibt einen Überblick über den gegenwärtigen regulatorischen Rahmen und diskutiert Möglichkeiten zur Überwindung der vorhandenen Hemmnisse. Im Einzelnen werden in diesem Gutachten folgende Optionen vorgestellt:
+- Neue Ausnahmeregelungen bei einzelnen Strompreisbestandteilen
+- Experimentierklausel
+- Schaffung eines Sonderfördergebiets
+- Innovative EE-Stromvermarktung},
+type = {Rechtswissenschaftliches Kurzgutachten im Auftrag der Innovationsregion Lausitz (iRL) GmbH},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Den Braunkohleregionen steht im Zuge des anvisierten Kohleausstiegs ein umfassender Strukturwandel bevor. Derzeit entwickelt die Kommission für Wachstum, Strukturwandel und Beschäftigung („Kohlekommission“) Vorschläge für Maßnahmen zur sozialen und strukturpolitischen Entwicklung der Kohleregionen. In einem Zwischenbericht wurden erste Leitlinien dargelegt; dabei kommt u.a. der Transformation der Energiewirtschaft im Zuge der Energiewende eine besondere Rolle zu.
+Der Strukturwandel bietet auch Chancen. Die Braunkohleregionen bieten ein geeignetes Umfeld zur Erprobung zukunftsweisender Energietechnologien. Teil des Umbaus in diesem Strukturwandel ist der weitere Ausbau der Erneuerbaren sowie insbesondere die Schaffung neuer Wertschöpfungsketten, u.a. durch neue Nutzungsformen der grünen Energie vor Ort und deren Integration in bestehende Industrieprozesse. Um die Chancen des Strukturwandels aufzugreifen, wird ein hochgradig innovationsfreundliches Umfeld benötigt. Wie eine Reihe der Innovationsprojekte der Innovationsregion Lausitz und ihrer Partner gezeigt haben, bestehen insbesondere im Energiewirtschaftsrecht dafür jedoch zahlreiche Hemmnisse. Entsprechende Handlungsspielräume könnten laut Kohlekommission durch regulatorische Ausnahmeregelungen geschaffen werden. Darunter fallen neben Reallaboren auch Experimentierklauseln als Instrument zur praxisnahen Erprobung und Weiterentwicklung neuer Technologien.
+Das vorliegende juristische Kurzgutachten gibt einen Überblick über den gegenwärtigen regulatorischen Rahmen und diskutiert Möglichkeiten zur Überwindung der vorhandenen Hemmnisse. Im Einzelnen werden in diesem Gutachten folgende Optionen vorgestellt:
+- Neue Ausnahmeregelungen bei einzelnen Strompreisbestandteilen
+- Experimentierklausel
+- Schaffung eines Sonderfördergebiets
+- Innovative EE-Stromvermarktung

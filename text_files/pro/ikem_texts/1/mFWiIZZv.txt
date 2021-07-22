@@ -1,0 +1,76 @@
+Ein zentraler Baustein der Energiewende ist die Sektorenkopplung, die Nutzbarmachung erneuerbaren Stroms im gesamten Energiesystem. Dies umfasst neben dem Stromsektor auch die Sektoren Verkehr, Wärme und Industrie.
+Während der Anteil der Erneuerbaren im Stromsektor stetig steigt, ist die Entwicklung in den Sektoren Wärme und Verkehr weit weniger dynamisch. Die Gründe hierfür sind vielfältig, umfassen aber auch die eingeschränkte Verfügbarkeit der regenerativen Energieträger. Deshalb ist die Kopplung der Sektoren Voraussetzung dafür, dass der Anteil Erneuerbarer Energien auch außerhalb des Stromsektors steigen kann.
+Mögliche Bestandteile von Sektorenkopplung sind zum Beispiel die Elektrifizierung von Verkehrsmitteln oder die Umstellung von Gebäuden auf elektrische Heizungssysteme. Wo eine Elektrifizierung nicht direkt möglich ist, können auch Verfahren zur Umwandlung von Strom in andere Energieträger (z.B. Wasserstoff, synthetisches Methan, Ammoniak) durch Power-to-X-(PtX) Technologien genutzt werden. Diese Energieträger eignen sich zum Teil auch als Speicher und können somit zur Bereitstellung von Flexibilität im Energiesystem verwendet werden.
+Allerdings wird die Sektorenkopplung durch das aktuelle Energierecht noch nicht ausreichend gewürdigt. Hemmnisse sind die hohe Belastung von Strom mit staatlich veranlassten Umlagen und Abgaben sowie die fehlende Möglichkeit zur Weitergabe der „grünen“ Eigenschaft des erneuerbaren Stroms in die anderen Sektoren.
+Das IKEM forscht in mehreren Projekten (Kopernikus ENavi, WindNODE, QUARREE100, KEROSyN100) zu dieser Thematik und einer Fortentwicklung des Rechtsrahmens. In einem Arbeitspapier hat das Institut mit seinen Partnern den Stand der wissenschaftlichen Diskussion zur Sektorenkopplung zusammengefasst.
+Im Projekt KlimAW untersucht das IKEM, welchen Beitrag die Abwasserwirtschaft zur Erreichung von Klimaschutz- und Energieeffizienzzielen leisten kann und welche Anpassungen des Rechtsrahmens dabei unterstützend wirken können.
+@misc{Held2020b,
+title = {Der Rechtsrahmen für die Sektorenkopplung – Hemmnis und Chance zugleich},
+author = {Denise Held},
+url = {https://www.e-world-essen.com/de/ikem?no_cache=1#c2667, Beitrag bei e-World
+https://www.energate-magazine.de/de/profiles/c3bf0b9b0d37-energate-magazine/editions/e-word-magazin-3-2020/, Komplettes Magazin},
+year = {2020},
+date = {2020-11-09},
+abstract = {Die Energiewende und die dafür notwendigen technischen Innovationen und Investitionen benötigen einen Rechtsrahmen, der hierfür ausreichend Spielraum lässt und die notwendigen Veränderungen bestmöglich anreizt. Ein zentrales Element für das Gelingen der Energiewende ist der Einsatz von Strom aus erneuerbaren Energien auch in den Sektoren Gebäude, Verkehr und Industrie. Ohne diese Sektorenkopplung bleibt die Energiewende auf halbem Wege stecken. },
+howpublished = {Gastbeitrag für das E-world Magazin (November 2020)},
+keywords = {},
+pubstate = {published},
+tppubtype = {misc}
+}
+Die Energiewende und die dafür notwendigen technischen Innovationen und Investitionen benötigen einen Rechtsrahmen, der hierfür ausreichend Spielraum lässt und die notwendigen Veränderungen bestmöglich anreizt. Ein zentrales Element für das Gelingen der Energiewende ist der Einsatz von Strom aus erneuerbaren Energien auch in den Sektoren Gebäude, Verkehr und Industrie. Ohne diese Sektorenkopplung bleibt die Energiewende auf halbem Wege stecken.
+@article{Grosse2020,
+title = {Bewertung regulatorischer Maßnahmen der Sektorenkopplung für den Einsatz von Power-to-Heat},
+author = {Benjamin Grosse and Yannick Werner and Denise Held and Joschka Selinger and Simon Schäfer-Stradowsky and Joachim Müller-Kirchenbauer },
+doi = {https://doi.org/10.1007/s12398-020-00287-5},
+year = {2020},
+date = {2020-10-13},
+journal = {Zeitschrift für Energiewirtschaft},
+abstract = {Die Kopplung der Sektoren Strom, Wärme, Gas und Verkehr stellt die nächste Stufe der Energiewende in Deutschland dar. Hierzu muss einerseits ein verbindlicher Rechtsrahmen geschaffen werden, andererseits müssen Geschäftsmodelle entstehen, welche auf Basis dieses Rechtsrahmen die Sektorenkopplung auch in die Praxis umsetzen. Aktuell bestehen jedoch verschiedene regulatorische Hemmnisse, welche einer solchen Praxisanwendung entgegenstehen und insbesondere die Integration von erneuerbarem Strom in den Wärmesektor (Power-to-Heat, PtH) behindern. In diesem Beitrag werden ausgehend von einer Darstellung des regulatorischen Status Quo auf Basis eines Literaturreviews 21 regulatorische Maßnahmen untersucht und miteinander verglichen. Für vier ausgewählte Maßnahmen, die einerseits auf eine Reduktion der Netzentgelte, der EEG-Umlage und andererseits auf die Einführung einer sektorenübergreifenden CO2-Bepreisung zielen, wird eine detaillierte einzel-ökonomische, rechtliche und systemische Analyse am Fallbeispiel einer PtH-Anlage in einem Fernwärmnetz durchgeführt. Es zeigt sich, dass eine PtH-Anlage im Status Quo nicht betriebswirtschaftlich auskömmlich zu betreiben ist. Darüber hinaus scheint die Einführung einer sektorenübergreifenden CO2-Bepreisung aus allen betrachteten Perspektiven besonders vorteilhaft. Jedoch sind weitere Maßnahmen notwendig und erscheinen rechtlich und systemisch möglich, um unter den getroffenen Annahmen die Investition in eine PtH-Anlage ökonomisch rentabel zu machen.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Die Kopplung der Sektoren Strom, Wärme, Gas und Verkehr stellt die nächste Stufe der Energiewende in Deutschland dar. Hierzu muss einerseits ein verbindlicher Rechtsrahmen geschaffen werden, andererseits müssen Geschäftsmodelle entstehen, welche auf Basis dieses Rechtsrahmen die Sektorenkopplung auch in die Praxis umsetzen. Aktuell bestehen jedoch verschiedene regulatorische Hemmnisse, welche einer solchen Praxisanwendung entgegenstehen und insbesondere die Integration von erneuerbarem Strom in den Wärmesektor (Power-to-Heat, PtH) behindern. In diesem Beitrag werden ausgehend von einer Darstellung des regulatorischen Status Quo auf Basis eines Literaturreviews 21 regulatorische Maßnahmen untersucht und miteinander verglichen. Für vier ausgewählte Maßnahmen, die einerseits auf eine Reduktion der Netzentgelte, der EEG-Umlage und andererseits auf die Einführung einer sektorenübergreifenden CO2-Bepreisung zielen, wird eine detaillierte einzel-ökonomische, rechtliche und systemische Analyse am Fallbeispiel einer PtH-Anlage in einem Fernwärmnetz durchgeführt. Es zeigt sich, dass eine PtH-Anlage im Status Quo nicht betriebswirtschaftlich auskömmlich zu betreiben ist. Darüber hinaus scheint die Einführung einer sektorenübergreifenden CO2-Bepreisung aus allen betrachteten Perspektiven besonders vorteilhaft. Jedoch sind weitere Maßnahmen notwendig und erscheinen rechtlich und systemisch möglich, um unter den getroffenen Annahmen die Investition in eine PtH-Anlage ökonomisch rentabel zu machen.
+@techreport{Doderer2020,
+title = {Denkbare Weiterentwicklungsoptionen für die umfassende Flexibilisierung des Energiesystems und die Sektorenkopplung},
+author = {Hannes Doderer and Simon Schäfer-Stradowsky and Johannes Antoni and Jonathan Metz and Fanny Knoll and Julia Borger},
+url = {https://www.ikem.de/wp-content/uploads/2020/04/20201_IKEM_WindNODE_Gutachten_Weiterentwicklungsoptionen_Flexibilisierung_Sektorenkopplung.pdf, Gutachten als PDF},
+year = {2020},
+date = {2020-01-00},
+abstract = {Das vorliegende Papier widmet sich möglichen Weiterentwicklungsoptionen der rechtlichen Rahmenbedingungen, mit dem Ziel, die Flexibilität des Energiesystems zu forcieren und die Hemmnisse der Sektorenkopplung abzubauen. Es baut auf dem IKEM Papier „SINTEG-WindNODE – Bestandsaufnahme der rechtlichen Hemmnisse und Anreize für die umfassende Flexibilisierung des Energiesystems“ vom Juli 2018 auf und adressiert die dort ermittelten Hemmnisse. Ein besonderer Fokus wird dabei auf die Letztverbraucher-abgaben gelegt, die für den Strombezug fällig werden.},
+type = {Gutachten im Rahmen des Sinteg-Projekts WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Das vorliegende Papier widmet sich möglichen Weiterentwicklungsoptionen der rechtlichen Rahmenbedingungen, mit dem Ziel, die Flexibilität des Energiesystems zu forcieren und die Hemmnisse der Sektorenkopplung abzubauen. Es baut auf dem IKEM Papier „SINTEG-WindNODE – Bestandsaufnahme der rechtlichen Hemmnisse und Anreize für die umfassende Flexibilisierung des Energiesystems“ vom Juli 2018 auf und adressiert die dort ermittelten Hemmnisse. Ein besonderer Fokus wird dabei auf die Letztverbraucher-abgaben gelegt, die für den Strombezug fällig werden.
+@article{Schäfer-Stradowsky2019c,
+title = {Die bunte Welt des Wasserstoffs},
+author = {Simon Schäfer-Stradowsky and Michael Kalis},
+isbn = {1619-5795},
+year = {2019},
+date = {2019-09-00},
+journal = {EW – Magazin für die Energiewirtschaft},
+volume = {9/2019},
+pages = {10-13},
+abstract = {Was genau bedeuten die Farbattribute grau, blau oder grün beim eigentlich farblosen Energieträger Wasserstoff? Ausgehend von der aktuellen Verwendung dieser Begriffe bringen Simon Schäfer-Stradowsky und Michael Kalis vom IKEM Ordnung in die Farbpalette des Wasserstoffs. Sie geben damit Anknüpfungspunkte für eine sektorenübergreifende Regulierung von Wasserstoff, der in einer künftigen Energiewirtschaft eine immer wichtigere Rolle einnehmen wird.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Was genau bedeuten die Farbattribute grau, blau oder grün beim eigentlich farblosen Energieträger Wasserstoff? Ausgehend von der aktuellen Verwendung dieser Begriffe bringen Simon Schäfer-Stradowsky und Michael Kalis vom IKEM Ordnung in die Farbpalette des Wasserstoffs. Sie geben damit Anknüpfungspunkte für eine sektorenübergreifende Regulierung von Wasserstoff, der in einer künftigen Energiewirtschaft eine immer wichtigere Rolle einnehmen wird.
+@article{Buchmüller2019,
+title = {Der Rechtsrahmen für die Vermarktung von grünem Wasserstoff},
+author = {Christian Buchmüller and Susan Wilms and Michael Kalis},
+url = {https://online.ruw.de/suche/zner/De-Rechtsrahm-fu-di-Vermarktu-vo-gruen-Wassersto-7d7217465f40ffa04d2be58966e56f76},
+year = {2019},
+date = {2019-06-27},
+journal = {ZNER},
+volume = {03/2019},
+pages = {194-204},
+abstract = {Grüner Wasserstoff kann ein entscheidendes Puzzlestück für die Energiewende sein und einen wichtigen Beitrag zur Dekarboniserung insbesondere des Verkehrssektors und der Industrie leisten. Entsprechend stark nimmt derzeit das Interesse an der Erzeugung von grünem Wasserstoff zu. Mit zunehmender Realisierung von Wasserstoffprojekten gewinnen auch Fragen rund um die Vermarktung des erzeugten Wasserstoffs an Bedeutung. Im Folgenden werden daher die allgemeinen regulierungs- und wettbewerbsrechtlichen Rahmenbedingungen für die Vermarktung von grünem Wasserstoff sowie spezifische rechtliche Vorgaben für die Inanspruchnahme von Privilegien und Anreizen für die Verwertungspfade Einspeisung ins Gasnetz, Rückverstromung, Wärmeversorgung, Einsatz im Verkehrssektor sowie in der Industrie untersucht.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Grüner Wasserstoff kann ein entscheidendes Puzzlestück für die Energiewende sein und einen wichtigen Beitrag zur Dekarboniserung insbesondere des Verkehrssektors und der Industrie leisten. Entsprechend stark nimmt derzeit das Interesse an der Erzeugung von grünem Wasserstoff zu. Mit zunehmender Realisierung von Wasserstoffprojekten gewinnen auch Fragen rund um die Vermarktung des erzeugten Wasserstoffs an Bedeutung. Im Folgenden werden daher die allgemeinen regulierungs- und wettbewerbsrechtlichen Rahmenbedingungen für die Vermarktung von grünem Wasserstoff sowie spezifische rechtliche Vorgaben für die Inanspruchnahme von Privilegien und Anreizen für die Verwertungspfade Einspeisung ins Gasnetz, Rückverstromung, Wärmeversorgung, Einsatz im Verkehrssektor sowie in der Industrie untersucht.

@@ -1,0 +1,509 @@
+---
+title: "Text Mining in Social Sciences - Quanteda"
+output:
+  html_notebook: default
+  pdf_document: default
+editor_options:
+  chunk_output_type: inline
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Enter*. 
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Alt+I*.
+
+Explanation of how to use R Notebooks: https://bookdown.org/yihui/rmarkdown/notebook.html
+Explanation of how to use Quanteda Package: http://inhaltsanalyse-mit-r.de/grundlagen.html
+Quick Start Guide Quanteda: https://quanteda.io/articles/quickstart.html
+Explanation Webscraping Trafilatura: https://trafilatura.readthedocs.io/en/latest/tutorial0.html
+
+### Webscraping with Trafilatura
+```{bash}
+# run link discovery through website and store the resulting links in a file
+$ trafilatura --sitemap "https://www.klimareporter.de" --list > klimareporterlinks.txt
+
+# to process list of links and get texts
+$ trafilatura -i klimareporterlinks.txt -o klimareporter_texts
+```
+### Insert Webscraping with Python here!
+
+Quanteda:  
+We first need to load the libraries we require for this project
+
+### Loading Libraries
+```{r}
+# load libraries
+
+library(quanteda)
+library(readtext)
+library(wordcloud)
+library(RColorBrewer)
+library(wordcloud2)
+library(tidyverse)
+library(tm)
+library("quanteda.textplots")
+library("quanteda.textstats")
+```
+To open the website text file we downloaded previously via trafilatura, we need to run the following code:
+
+```{r}
+DATA_DIR <- system.file("extdata/", package = "readtext")
+fff_texts <- readtext(paste0(DATA_DIR, "/txt/fff_texts/*"))
+eike_texts <- readtext(paste0(DATA_DIR, "/txt/eike_subset/*"))
+klimarep_texts <- readtext(paste0(DATA_DIR, "/txt/klimareporter_texts/*"))
+```
+### Building a Corpus
+
+Next step is to build a corpus from the readtext object and have a look at it
+```{r}
+fff_corpus <- corpus(fff_texts)
+summary(fff_corpus, 5)
+```
+```{r}
+eike_corpus <- corpus(eike_texts)
+summary(eike_corpus, 5)
+```
+```{r}
+klimarep_corpus <- corpus(klimarep_texts)
+summary(klimarep_corpus, 5)
+```
+
+
+To extract texts from a corpus, we simply coerce this to a plain character type, using as.character().
+
+```{r}
+as.character(fff_corpus)[2]
+```
+To add information to the corpus summary, use the following command: 
+```{r}
+if (requireNamespace("tm", quietly = TRUE)) {
+    data(crude, package = "tm")    # load in a tm example VCorpus
+    vcorp <- corpus(crude)
+    summary(vcorp)
+
+    data(acq, package = "tm")
+    summary(corpus(acq), 5)
+
+    vcorp2 <- tm::VCorpus(tm::VectorSource(fff_corpus))
+    fff_corpus <- corpus(vcorp2)
+    summary(fff_corpus, 5)
+}
+```
+```{r}
+docvars(fff_corpus, "origin") <- "FFF"
+docvars(fff_corpus, "language") <- "en"
+summary(fff_corpus, 5)
+```
+```{r}
+docvars(eike_corpus, "origin") <- "EIKE"
+docvars(eike_corpus, "language") <- "de"
+summary(eike_corpus, 5)
+```
+```{r}
+docvars(klimarep_corpus, "origin") <- "Klimareporter"
+docvars(klimarep_corpus, "language") <- "de"
+summary(klimarep_corpus, 5)
+```
+### Exploring the Corpus 
+To explore the corpus you can use the `kwic` function (keyword-in-context) which performs a search for a word an allows us to view the contexts in which it occurs
+
+```{r}
+fff_kwic <- kwic(fff_corpus, "climate")
+fff_kwic
+```
+```{r}
+eike_kwic <- kwic(eike_corpus, "klima")
+eike_kwic
+```
+```{r}
+klimarep_kwic <- kwic(klimarep_corpus, "klima")
+klimarep_kwic
+```
+
+```{r}
+write.csv(eike_kwic, "eike_kwic.csv")
+write.csv(fff_kwic, "fff_kwic.csv")
+write.csv(klimarep_kwic, "klimarep_kwic.csv")
+```
+
+### Tokenizing Texts
+To tokenize a text, you can simply use the command `tokens()`. It produces an intermediate object, consisting of a list of tokens in the form of character vectors, where each element of the list corresponds to an input document
+
+```{r}
+ex_2 <- as.character(fff_corpus)[2]
+ex_2
+tokens(ex_2, remove_numbers =TRUE, remove_punct=TRUE)
+```
+You can also do this on character or sentence level:
+
+```{r}
+tokens(ex_2, what="character", remove_numbers=TRUE, remove_punct=TRUE)
+```
+```{r}
+tokens(ex_2, what="sentence", remove_numbers=TRUE, remove_punct=TRUE)
+
+```
+### Plotting Corpus Statistics 
+
+```{r}
+fff_sum <- summary(fff_corpus)
+
+ggplot(fff_sum, aes(id, Tokens, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Tokens per Textfile")
+```
+```{r}
+ggplot(fff_sum, aes(id, Types, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Types per Textfile")
+```
+```{r}
+ggplot(fff_sum, aes(id, Sentences, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Sentences per Textfile")
+```
+```{r}
+ggplot(fff_sum, aes(Tokens, Types, group=1, label= id)) +
+  geom_smooth(method = "lm", formula ="y ~ x", se = FALSE) +
+  geom_text(check_overlap = T) +
+  ggtitle("Type-Token-Relation per Text")
+```
+### Constructing a document-feature matrix
+To create a document_feature matrix, simply use the `dfm()` function. It performs tokenization and tabulates the extracted features into a matrix of documents by features. It applies certain options by default, such as `tolower()`- a separate function to lower-casing texts - and removes punctuation 
+
+#### Modifying stopword lists
+```{r}
+#english stopword list
+en_stopwords <- stopwords::stopwords("en", source="snowball")
+en_stopwords <- c(en_stopwords, "phqghume", "+")
+
+#german stopword list
+de_stopwords <- stopwords::stopwords("de", source="snowball")
+de_stopwords <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "mal", "c")
+```
+
+```{r}
+fff_dfm <- dfm(fff_corpus, remove = en_stopwords, stem = FALSE, remove_punct = TRUE, remove_numbers=TRUE)
+fff_dfm
+```
+```{r}
+eike_dfm <- dfm(eike_corpus, remove = de_stopwords, remove_punct = TRUE, remove_numbers=TRUE)
+eike_dfm
+```
+
+```{r}
+klimarep_dfm <- dfm(klimarep_corpus, remove = de_stopwords, remove_punct = TRUE, remove_numbers=TRUE)
+klimarep_dfm
+```
+The dfm can be inspected with respect to multiple features. To access a list of most frequently occurring features, we can use `topfeatures()`:
+
+```{r}
+fff_top50 <- topfeatures(fff_dfm, 50) #top 50 words
+eike_top50 <- topfeatures(eike_dfm, 50)
+```
+FFF DFM
+```{r}
+#To sort DFM: n = number of documents, nf = number of features 
+head(dfm_sort(fff_dfm, decreasing=TRUE, margin = "features"))
+```
+EIKE DFM
+```{r}
+head(dfm_sort(eike_dfm, decreasing=TRUE, margin = "features"))
+```
+Klimareporter DFM
+```{r}
+head(dfm_sort(klimarep_dfm, decreasing=TRUE, margin = "features"))
+```
+#### DFM Select 
+To select specific features use `dfm_select`
+
+```{r}
+fff_climate <- dfm_select(fff_dfm, pattern ="climat*")
+eike_klima <- dfm_select(eike_dfm, pattern ="klima*")
+klimarep_klima <- dfm_select(klimarep_dfm, pattern="klima*")
+
+fff_climate
+```
+```{r}
+klima1 <- topfeatures(eike_klima, 100)
+klima2 <- topfeatures(klimarep_klima, 100)
+```
+**TO-DO**: 
+- Liste mit "geladenen" Klimabegriffen erstellen und abgleichen mit Vorkommnissen auf den jeweiligen Websites
+```{r}
+klima1
+```
+
+```{r}
+klima2
+```
+
+### Plotting of "Klima" Word Frequencies
+```{r}
+klima1_dfm <- textstat_frequency(eike_klima, n=100)
+klima2_dfm <- textstat_frequency(klimarep_klima, n=100)
+plot_eike <- with(klima1_dfm, reorder(feature, -frequency))
+plot_klimarep <- with(klima2_dfm, reorder(feature, -frequency))
+
+#create plot for eike klima words frequencies
+plot1 <- ggplot(klima1_dfm, aes(x=feature, y=frequency)) + 
+  geom_point()+ggtitle("EIKE 'Klima' Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
+plot1
+
+#create plot for klimareporter klima words frequencies
+plot2 <- ggplot(klima2_dfm, aes(x=feature, y=frequency)) + 
+  geom_point()+ ggtitle("Klimareporter 'Klima' Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1)) 
+  
+ggsave(plot=plot2, width = 10, height = 5, dpi=300, filename="klima_klimarep_plot.jpeg" )
+plot2
+```
+### Keyness
+
+```{r}
+keyness_eike <- textstat_keyness(eike_klima)
+textplot_keyness(keyness_eike)
+```
+
+
+
+### TF-IDF
+To check absolute word frequencies you can use `topfeatures`
+`dfm_weight` then gives the weight of the words proportional to the whole corpus
+
+```{r}
+eike_weight_klima <- dfm_weight(eike_klima, scheme="prop")
+eike_weight_klima
+eike_relfreq <- textstat_frequency(eike_weight_klima, n=100)
+
+plot_eike2 <- with(eike_relfreq, reorder(feature, -frequency))
+
+#create plot for eike klima words frequencies
+plot3 <- ggplot(eike_relfreq, aes(x=feature, y=frequency)) + 
+  geom_point()+ggtitle("EIKE 'Klima' Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+#ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
+plot3
+
+eike_relfreq
+
+klimarep_weight_klima <- dfm_weight(klimarep_klima, scheme="prop")
+klimarep_relfreq <- textstat_frequency(klimarep_weight_klima, n=100)
+plot_klimarep2 <- with(klimarep_relfreq, reorder(feature, -frequency))
+
+#create plot for klimareporter klima words frequencies
+plot4 <- ggplot(klimarep_relfreq, aes(x=feature, y=frequency)) + 
+  geom_point()+ ggtitle("Klimareporter 'Klima' Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1)) 
+
+plot4
+```
+
+
+```{r}
+fff_weight <- dfm_weight(fff_dfm, scheme="prop")
+topfeatures(fff_weight)
+```
+
+To calculate tf-idf use the `dfm_tfidf` function
+
+```{r}
+fff_tfidf <- dfm_tfidf(fff_dfm)
+topfeatures(fff_tfidf, n=50)
+```
+```{r}
+eike_tfidf <- dfm_tfidf(eike_dfm)
+topfeatures(eike_tfidf, n=50)
+```
+
+```{r}
+klimarep_tfidf <- dfm_tfidf(klimarep_dfm)
+topfeatures(klimarep_tfidf, n=50)
+```
+
+Plotting a word cloud, using `textplot_wordcloud()`
+```{r}
+#jpeg("fff_top50.jpeg", width=600, height=600)
+textplot_wordcloud(fff_dfm, min_size=1, max_words=30,colors = RColorBrewer::brewer.pal(8, "Dark2") )
+
+textplot_wordcloud(fff_climate, min_size=1, max_words=30,colors = RColorBrewer::brewer.pal(8, "Dark2") )
+#dev.off()
+```
+```{r}
+#jpeg("eike_top50.jpeg", width=600, height=600)
+textplot_wordcloud(eike_dfm, min_size=1, max_words=30, colors = RColorBrewer::brewer.pal(8, "Dark2"))
+#dev.off()
+
+textplot_wordcloud(eike_klima, min_size=1, max_words=30, colors = RColorBrewer::brewer.pal(8, "Dark2"))
+
+```
+```{r}
+#jpeg("klimarep_top50.jpeg", width=600, height=600)
+textplot_wordcloud(klimarep_dfm, min_size=1, max_words=30, colors = RColorBrewer::brewer.pal(8, "Dark2"))
+#dev.off()
+
+textplot_wordcloud(klimarep_klima, min_size=1, max_words=30, colors = RColorBrewer::brewer.pal(8, "Dark2"))
+```
+#### Word Frequencies (different approach)
+```{r}
+fff_freqs <- textstat_frequency(fff_dfm)
+fff_freqs
+```
+```{r}
+eike_freqs <- textstat_frequency(eike_dfm)
+eike_freqs
+```
+### Collocations
+Inspect words that co-occur:
+```{r}
+fff_coll <- textstat_collocations(fff_corpus, min_count=3)
+arrange(fff_coll, desc(count))
+```
+
+```{r}
+arrange(fff_coll, desc(lambda))
+```
+Lambda describes the probability that those two terms follow each other. This is not the same as the absolute frequency which does not regard the occurrence of a term with others. 
+```{r}
+klimarep_coll <- textstat_collocations(klimarep_corpus, min_count=3)
+arrange(klimarep_coll, desc(count))
+
+write.csv(klimarep_coll, "klimarep_coll.csv")
+```
+
+
+```{r}
+col <- tokens(klimarep_corpus) %>%
+  tokens_select(pattern = "^[A-Z]", valuetype = "regex", case_insensitive = TRUE, padding = TRUE) %>% 
+  textstat_collocations(min_count = 5, tolower = FALSE)
+
+col
+```
+
+
+```{r}
+#eike_coll <- textstat_collocations(eike_corpus, min_count=3)
+#arrange(eike_coll, desc(count))
+```
+### Word Similarity
+```{r}
+corpus_sents <- corpus_reshape(fff_corpus, to="sentences")
+fff_dfm_sents <- dfm(corpus_sents, remove_numbers=TRUE, remove_punct=TRUE, remove_symbols=TRUE, remove=stopwords("english"))
+fff_dfm_sents <- dfm_trim(fff_dfm_sents, min_docfreq=5)
+similarities <- textstat_simil(fff_dfm_sents, fff_dfm_sents[,"climate"], margin ="features", method="cosine")
+head(similarities[order(similarities[,1], decreasing=T),],10)
+```
+### Word Distance
+
+```{r}
+distance <- textstat_dist(fff_dfm_sents, fff_dfm_sents[,"climate"], margin = "features", method = "euclidean")
+head(distance[order(distance[,1], decreasing = T),], 10)
+```
+
+### Topic Models 
+
+```{r}
+quant_dfm <- dfm_trim(eike_dfm, min_termfreq = 3, max_docfreq = 10)
+quant_dfm
+```
+
+```{r}
+set.seed(100)
+if (require(stm)) {
+  my_lda_fit20 <- stm(quant_dfm, K =10, verbose = FALSE)
+  plot(my_lda_fit20)
+}
+
+```
+### Sentiment Analysis
+
+```{r}
+pos_words.bl <- read.delim(file.choose())
+neg_words.bl <- read.delim(file.choose())
+```
+```{r}
+sentiment_lexicon <- dictionary(list(positive=pos_words.bl, negative=neg_words.bl))
+str(sentiment_lexicon)
+```
+```{r}
+fff_sentiment <- dfm(fff_corpus, dictionary = sentiment_lexicon)
+fff_sentiment
+```
+
+#### Combined Corpora (german)
+
+```{r}
+de_corpus <- eike_corpus + klimarep_corpus
+#summary(de_corpus)
+de_dfm <- dfm(de_corpus, remove_numbers = TRUE, remove_punct=TRUE, remove=de_stopwords)
+```
+
+```{r}
+#to get frequencies
+de_freqs <- textstat_frequency(dfm_weight(de_dfm, scheme="prop"), groups=origin)
+de_freqs
+```
+
+```{r}
+#to get klima words
+de_klima <- dfm_select(de_dfm, pattern ="klima*")
+de_relfreq <- dfm_weight(de_klima, scheme="prop")
+de_freqs <- textstat_frequency(de_relfreq, groups=origin)
+```
+
+
+
+
+```{r}
+de_freqs
+```
+```{r}
+#plotting 
+freqs.eike <- filter(de_freqs, group == "EIKE") %>% as.data.frame() %>% select(feature, frequency)
+freqs.kr <- filter(de_freqs, group == "Klimareporter") %>% as.data.frame() %>% select(feature, frequency)
+freqs <- left_join(freqs.eike, freqs.kr, by = "feature") %>% head(25) %>% arrange(frequency.x) %>% mutate(feature = factor(feature, feature))
+ggplot(freqs) +
+  geom_segment(aes(x=feature, xend=feature, y=frequency.x, yend=frequency.y), color="grey") +
+  geom_point(aes(x=feature, y=frequency.x), color = "red", size = 3 ) +
+  geom_point(aes(x=feature, y=frequency.y), color = "lightblue", size = 3 ) +
+  ggtitle("Word Frquencies") + 
+  xlab("") + ylab("Wortfrequenz") + 
+  coord_flip()
+```
+
+```{r}
+de_klima <- dfm_select(de_dfm, pattern="klima*")
+de_freqs <- textstat_frequency(de_klima, groups=origin)
+
+
+```
+```{r}
+freqs.eike <- filter(de_freqs, group=="EIKE") %>% as.data.frame() %>% select(features, frequency)
+
+freqs.kr <- filter(de_freqs, group="Klimareporter") %>% as.data.frame() %>% select(features, frequency)
+
+freqs <- left_join(freqs.eike, freqs.kr, by="feature") %>% head(25) %>% arrange(frequency.x) %>% mutate(feature=factor(feature,feature))
+
+ggplots(freqs) +
+  geom_segment(aes(x=feature, xend=feature, y=frequency.x, yend=frequency.y), color="grey") +
+  geom_point(aes(x=feature, y=frequency.x), color = "red", size = 3 ) +
+  geom_point(aes(x=feature, y=frequency.y), color = "lightblue", size = 3 ) +
+  ggtitle("Word Frequencies") +
+  xlab("") + ylab("Wortfrequenz") +
+  coord_flip()
+
+```
+
+
+
+
+

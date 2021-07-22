@@ -1,0 +1,72 @@
+Ein nachhaltiger Klimaschutz erfordert den Ausbau erneuerbarer Energien. Für den erfolgreichen Übergang hin zu “sauberer” Energie ist die Unterstützung der breiten Öffentlichkeit gefragt.
+Während die Energiewende im Allgemeinen den Zuspruch der breiten Bevölkerung genießt, gibt es bei konkreten Projekten – z.B. beim Bau neuer Windenergieanlagen oder Stromtrassen – regelmäßig Widerstand von Anwohnern.
+Neben einer dezentralen Gestaltung der Energiewende und Maßnahmen der Bürgerbeteiligung in den Planungsprozessen kann auch die wirtschaftliche und finanzielle Teilhabe akzeptanzfördernd wirken.
+Das IKEM hat in diesem Zusammenhang eine Sonderabgabe für Windparks entwickelt, die betroffenen Kommunen zugutekommen soll. Die Sonderabgabe errechnet sich aus der Höhe, der Leistung sowie den Stromerträgen der jeweiligen Anlage – der Betreiber hätte neben einer Einmalzahlung bei Inbetriebnahme auch ein jährliches Entgelt zu entrichten. Damit nicht nur die Standortkommune von den weit sichtbaren Windenergieanlagen profitiert, sollte sie auf sämtliche Gemeinden in einem bestimmten Umkreis verteilt werden.
+Im Themenfeld Systemintegration der Forschungsinitiative „Kopernikus“ erforscht das IKEM die Umwandlungsprozesse von Strom in andere Energieträger und deren Potenziale für den nachhaltigen Umbau des Energiesystems.
+@article{Weidinger2020b,
+title = {Teilhabe am Ausbau der Erneuerbaren Energien – Zur Bürgerbeteiligung an Verfahren und Wertschöpfung},
+author = {Roman Weidinger},
+url = {https://research.owlit.de/lx-document/REL1347305, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {52-55},
+abstract = {Der Ausbau von Erneuerbaren Energien (EE) führt zu grundlegenden Veränderungen in der Stromerzeugungslandschaft. Anders als bei der zentral geprägten Energieversorgung durch konventionelle Erzeuger
+zeichnet sich die Versorgung mit Strom aus EE durch eine gesamtsystemisch höhere Anlagenquantität und deren räumliche Dezentralität aus. Aufgrund begrenzter Flächenverfügbarkeiten
+rücken EE-Anlagen damit näher an Bürger:innen heran; Stromerzeugung wird erfahrbarer, Flächennutzungskonflikte häufiger.
+Akzeptanz wird damit zu einem zentralen Erfolgsfaktor der Energiewende. Akzeptanz lässt sich jedoch nicht einfach regeln; juristisch geht sie bislang bestenfalls indirekt aus der Berücksichtigung von Grundrechten sowie der Gewährleistung demokratischer Rechtssetzungsprozesse hervor. In der Regulierung des Energiewendeprozesses wird Akzeptanz indes zu einem Leitbild des Regelungsdesigns – und sozialwissenschaftliche Erkenntnisse damit zum Ausgangspunkt einer guten Akzeptanzpolitik.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Der Ausbau von Erneuerbaren Energien (EE) führt zu grundlegenden Veränderungen in der Stromerzeugungslandschaft. Anders als bei der zentral geprägten Energieversorgung durch konventionelle Erzeuger
+zeichnet sich die Versorgung mit Strom aus EE durch eine gesamtsystemisch höhere Anlagenquantität und deren räumliche Dezentralität aus. Aufgrund begrenzter Flächenverfügbarkeiten
+rücken EE-Anlagen damit näher an Bürger:innen heran; Stromerzeugung wird erfahrbarer, Flächennutzungskonflikte häufiger.
+Akzeptanz wird damit zu einem zentralen Erfolgsfaktor der Energiewende. Akzeptanz lässt sich jedoch nicht einfach regeln; juristisch geht sie bislang bestenfalls indirekt aus der Berücksichtigung von Grundrechten sowie der Gewährleistung demokratischer Rechtssetzungsprozesse hervor. In der Regulierung des Energiewendeprozesses wird Akzeptanz indes zu einem Leitbild des Regelungsdesigns – und sozialwissenschaftliche Erkenntnisse damit zum Ausgangspunkt einer guten Akzeptanzpolitik.
+Finanzielle Beteiligung von betroffenen Kommunen bei Planung, Bau und Betrieb von erneuerbaren Energieanlagen(FinBEE) Forschungsbericht
+Bericht im Rahmen des Projekts FinBee, 2020.
+| Links:
+@techreport{Salecki2020,
+title = {Finanzielle Beteiligung von betroffenen Kommunen bei Planung, Bau und Betrieb von erneuerbaren Energieanlagen(FinBEE)},
+author = {Steven Salecki and Katharina Heinbach and Bernd Hirschl and Roman Weidinger and Simon Schäfer-Stradowsky and Ralf Ott and Wieland Lehnert and Christine Kliem and Martin Altrock and Florian Umlauf and Matthias Puffe and Hannah Seiß and Yasin Yilmaz and Lisa Kahle},
+url = {https://www.ikem.de/wp-content/uploads/2020/09/20200914_FinBEE_Bericht_WEA.pdf},
+year = {2020},
+date = {2020-09-11},
+type = {Bericht im Rahmen des Projekts FinBee},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Lerm2018,
+title = {Regionale Grünstromvermarktung},
+author = {Verena Lerm and Simon Schäfer-Stradowsky and Denise Albert},
+url = {https://www.ikem.de/wp-content/uploads/2018/03/IKEM_Regionale-Grünstromvermarktung.pdf},
+year = {2018},
+date = {2018-03-22},
+institution = {IKEM:},
+abstract = {Die umfassende und sektorenübergreifende Nutzung nachweislich „grüner“ Strommengen ist für die Erreichung der politischen Klimaschutzziele unentbehrlich. Weist der Grünstrombezug regionale Bezüge auf, kann dieser mit einer Netzentlastung einhergehen und so die Systemintegrationskosten, sowie die Folgekosten aus Abregelungen verringern. Der Status quo des Energiewirtschaftsrecht kennt eigentlich nur den physikalischen Grünstrombezug über Direktleitungen und die vorgesehenen EE-Stromveräußerungsformen erlauben es nicht, die Strommengen aus dem Netz der allgemeinen Versorgung im Zeitpunkt des Letztverbrauchs eindeutig einer erneuerbaren Energiequelle zuzuordnen. Die energiewirtschaftsrechtliche Gleichstellung physikalisch „grüner“ Strommengen mit bilanziellen Strommengen kann hier perspektivisch Abhilfe schaffen. Die Umsetzung könnte durch die Implementierung einer bilanzkreisgestützten Veräußerungsform erfolgen. An einem entsprechenden Geschäftsszenario der Energiewende könnten die Bürger vor Ort beteiligt werden.},
+type = {Kurzstudie im Rahmen des Projekts Kopernikus ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Die umfassende und sektorenübergreifende Nutzung nachweislich „grüner“ Strommengen ist für die Erreichung der politischen Klimaschutzziele unentbehrlich. Weist der Grünstrombezug regionale Bezüge auf, kann dieser mit einer Netzentlastung einhergehen und so die Systemintegrationskosten, sowie die Folgekosten aus Abregelungen verringern. Der Status quo des Energiewirtschaftsrecht kennt eigentlich nur den physikalischen Grünstrombezug über Direktleitungen und die vorgesehenen EE-Stromveräußerungsformen erlauben es nicht, die Strommengen aus dem Netz der allgemeinen Versorgung im Zeitpunkt des Letztverbrauchs eindeutig einer erneuerbaren Energiequelle zuzuordnen. Die energiewirtschaftsrechtliche Gleichstellung physikalisch „grüner“ Strommengen mit bilanziellen Strommengen kann hier perspektivisch Abhilfe schaffen. Die Umsetzung könnte durch die Implementierung einer bilanzkreisgestützten Veräußerungsform erfolgen. An einem entsprechenden Geschäftsszenario der Energiewende könnten die Bürger vor Ort beteiligt werden.
+Das Recht der Windkraftnutzung zu Lande unter Reformdruck – Zwingen Planungs- und Akzeptanzdefizite zu einer Neujustierung der Rechte von Staat, Kommunen, Anlagenbetreibern, Landeigentümern und betroffenen Bürgern? Artikel
+@article{Rodi2017c,
+title = {Das Recht der Windkraftnutzung zu Lande unter Reformdruck – Zwingen Planungs- und Akzeptanzdefizite zu einer Neujustierung der Rechte von Staat, Kommunen, Anlagenbetreibern, Landeigentümern und betroffenen Bürgern?},
+author = {Michael Rodi},
+url = {https://www.ikem.de/wp-content/uploads/2017/12/ZUR_2017_12_Rodi_RechtWindkraftnutzung.pdf},
+year = {2017},
+date = {2017-12-00},
+journal = {ZUR},
+volume = {28},
+number = {12},
+pages = {658-666},
+abstract = {Die Zweifel mehren sich, ob der Staat die von ihm so ehrgeizig gesteckten Ziele im Zubau erneuerbarer Energien erreichen kann. In Bezug auf die Windenergie zu Lande scheint die Akzeptanz der Bürger vor Ort zu schwinden, organisierter Widerstand nimmt zu. In der Folge nutzen einzelne Bundesländer und Kommunen ihre planerischen und regulativen Spielräume zunehmend restriktiv. Im folgenden Beitrag werden (instrumentelle) Wege erörtert, die aus diesem Dilemma führen könnten. Dabei wird nicht nur das Rechtsregime der Planung von Windkraftanlagen grundsätzlich in Frage gestellt. Darüber hinaus werden auch die Rechtspositionen von Anlagenbetreibern, Landeigentümern und Betroffenen auf den Prüfstand gestellt und neue Konzepte erörtert (Beteiligungs-, Konzessions- sowie Steuer- und Abgabenmodelle). },
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Die Zweifel mehren sich, ob der Staat die von ihm so ehrgeizig gesteckten Ziele im Zubau erneuerbarer Energien erreichen kann. In Bezug auf die Windenergie zu Lande scheint die Akzeptanz der Bürger vor Ort zu schwinden, organisierter Widerstand nimmt zu. In der Folge nutzen einzelne Bundesländer und Kommunen ihre planerischen und regulativen Spielräume zunehmend restriktiv. Im folgenden Beitrag werden (instrumentelle) Wege erörtert, die aus diesem Dilemma führen könnten. Dabei wird nicht nur das Rechtsregime der Planung von Windkraftanlagen grundsätzlich in Frage gestellt. Darüber hinaus werden auch die Rechtspositionen von Anlagenbetreibern, Landeigentümern und Betroffenen auf den Prüfstand gestellt und neue Konzepte erörtert (Beteiligungs-, Konzessions- sowie Steuer- und Abgabenmodelle).

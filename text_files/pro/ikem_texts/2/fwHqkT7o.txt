@@ -1,0 +1,52 @@
+Yasin Yilmaz ist wissenschaftlicher Referent am Institut für Klimaschutz, Energie und Mobilität. Er arbeitet im Energierechtsteam und befasst sich vor allem mit steuer- und abgabenrechtlichen Fragen der Energiewende.
+Herr Yilmaz studierte Rechtswissenschaften an der Freien Universität Berlin und machte seinen Schwerpunkt im Wirtschafts-, Unternehmens- und Steuerrecht. Sein Rechtsreferendariat absolvierte er von 2016 bis 2018 am Kammergericht Berlin. Dabei war er unter anderem im Bundesministerium für Wirtschaft und Energie, in der Rechtsanwaltskanzlei Dentons und in der deutsch-türkischen Industrie- und Handelskammer in Istanbul tätig.
+Er promoviert zum Thema CO2-Bepreisung bei Herrn Prof. Dr. Rodi an der Universität Greifswald.
+@techreport{Salecki2020,
+title = {Finanzielle Beteiligung von betroffenen Kommunen bei Planung, Bau und Betrieb von erneuerbaren Energieanlagen(FinBEE)},
+author = {Steven Salecki and Katharina Heinbach and Bernd Hirschl and Roman Weidinger and Simon Schäfer-Stradowsky and Ralf Ott and Wieland Lehnert and Christine Kliem and Martin Altrock and Florian Umlauf and Matthias Puffe and Hannah Seiß and Yasin Yilmaz and Lisa Kahle},
+url = {https://www.ikem.de/wp-content/uploads/2020/09/20200914_FinBEE_Bericht_WEA.pdf},
+year = {2020},
+date = {2020-09-11},
+type = {Bericht im Rahmen des Projekts FinBee},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Joasetal.(2019),
+title = {Klimaneutrale Industrie: Schlüsseltechnologien und Politikoptionen für Stahl, Chemie und Zement},
+author = {Dr. Fabian Joas and Wido Witecka and Thorsten Lenck and Frank Peter and Fiona Seiler and Dr. Sascha Samadi and Clemens Schneider and Dr. Georg Holtz and Dr. Georg Kobiela and Prof. Dr. Stefan Lechtenböhmer and Katja Dinges and Dr. Karoline Steinbacher and Jonas Schröder and Thobias Sach and Matthias Schimmel and Christine Kliem LL.M. and Dr. Martin Altrock and Dr. Wieland Lehnert LL.M. and Dr. Jasper Finke and Yasin Yilmaz},
+editor = {Agora Energiewende und Wuppertal Institut },
+url = {https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrale-industrie/},
+year = {2019},
+date = {2019-11-01},
+institution = {Agora Energiewende und Wuppertal Institut },
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Altrocketal.(2019),
+title = {Klimaneutrale Industrie: Juristische Kurzbewertung der Politikoptionen},
+author = {Dr. Martin Altrock and Dr. Wieland Lehnert LL.M. and Christine Kliem LL.M. and Dr. Jasper Finke and Yasin Yilmaz},
+editor = {BBH und IKEM},
+url = {https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrale-industrie-1/},
+year = {2019},
+date = {2019-11-01},
+institution = {BBH und IKEM},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+MORGEN – Moorrevitalisierung als Greifswalder Anpassungsstrategie. Rechtwissenschaftliche Studie zu aktuellen Hemmnissen und Weiterentwicklungsoptionen im Ordnungs- und Planungsrecht zugunsten der Moorrevitalisierung als Umsetzung von Klimaanpassungs- und Klimaschutzmaßnahmen Forschungsbericht
+IKEM: Gutachten im Auftrag der Michael Succow Stiftung, 2019.
+@techreport{Schäfer2019,
+title = {MORGEN – Moorrevitalisierung als Greifswalder Anpassungsstrategie. Rechtwissenschaftliche Studie zu aktuellen Hemmnissen und Weiterentwicklungsoptionen im Ordnungs- und Planungsrecht zugunsten der Moorrevitalisierung als Umsetzung von Klimaanpassungs- und Klimaschutzmaßnahmen},
+author = {Judith Schäfer and Yasin Yilmaz},
+url = {https://www.ikem.de/wp-content/uploads/2019/10/IKEM_Gutachten_Paludikultur.pdf},
+year = {2019},
+date = {2019-09-03},
+institution = {IKEM:},
+type = {Gutachten im Auftrag der Michael Succow Stiftung},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

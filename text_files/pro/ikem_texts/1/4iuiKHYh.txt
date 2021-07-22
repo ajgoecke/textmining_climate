@@ -1,0 +1,38 @@
+Initiative für den Aufbau einer deutschlandweiten H2-Infrastruktur
+Projektinformationen
+Wasserstoff und die Power-to-Gas-Technologie gelten als Schlüssel für eine gelingende Energiewende. Insbesondere zur weitergehenden Dekarbonisierung der Sektoren Industrie und Verkehr und Wärme ist Wasserstoff als Bindeglied relevant. Die Initiative „GET H2“ hat das Ziel einen wesentlichen Beitrag zum Erreichen der verbindlichen Treibhausgasemissionsziele der Bundesrepublik Deutschland zu leisten. Die Initiative ist überzeugt, dass dies mittels einer bundesweiten Wasserstoffinfrastruktur erfolgen kann. Unter bestmöglicher Nutzung der vorhandenen Gasinfrastrukturen soll eine möglichst große Zahl an Abnehmern insbesondere mit erneuerbarem Wasserstoff versorgt werden können.
+Als Nukleus dieser Vision soll in Lingen ein erstes Wasserstoffteilnetz entstehen. Der Auftraggeber plant im ersten Schritt ein Teilnetz des bestehenden Gasversorgungsnetzes als – ausschließlich mit Wasserstoff gespeistes – Wasserstoffnetz zu nutzen. Entsprechende Einspeisebegehren für regenerativen Wasserstoff liegen ebenso wie potenzielle Abnehmer vor. In diesem Nukleus können eine Wasserstoffinfrastruktur sowie eine Wasserstoffwirtschaft erprobt werden. Dabei kann vom Standort aus auch eine Erweiterung des Wasserstoffnetzes und damit eine zeitnahe Skalierung durchgeführt werden.
+Vor diesem Hintergrund untersucht das IKEM den Rechtsrahmen für ein solches Wasserstoffteilnetz sowie die rechtlichen Rahmenbedingungen für den Betrieb des Elektrolyseurs. Hierbei stehen insbesondere die Strompreisbestandteile und die EEG-Umlage im Fokus. Zudem untersucht das IKEM den regulatorischen Rahmen hinsichtlich potenzieller Verwertungspfade des erzeugten Wasserstoffs. Basierend hierauf können Geschäftsmodelle entwickelt und Handlungsempfehlungen formuliert werden. Insgesamt deckt das IKEM mit der Initative GET H2 wesentliche Rechtsfragen einer Wasserstoffwirtschaft ab.
+Publikationen
+Kalis, Michael; Schräder, Christian; Willnauer, Lisa
+GET H2 – Aufbau einer Wasserstoff Infrastruktur Artikel
+gwf Gas und Energie, 160 , S. 106-109, 2019, ISBN: 23669594.
+@article{Kalis2019b,
+title = {GET H2 – Aufbau einer Wasserstoff Infrastruktur},
+author = {Michael Kalis and Christian Schräder and Lisa Willnauer},
+url = {https://www.gwf-gas.de/produkte/2019-get-h2-aufbau-einer-wasserstoff-infrastruktur/},
+isbn = {23669594},
+year = {2019},
+date = {2019-11-01},
+journal = {gwf Gas und Energie},
+volume = {160},
+pages = {106-109},
+abstract = {Die Initiative „GET H2“ will unter bestmöglicher Nutzung der vorhandenen Gasinfrastrukturen eine bundesweite Wasserstoffinfrastruktur aufbauen. Dabei sollen Erzeuger und eine möglichst große Zahl an Abnehmern zusammengebracht und letztere sicher mit erneuerbarem Wasserstoff versorgt werden. Um dieses Ziel zu erreichen, soll in einem ersten Schritt von Lingen bis ins nördliche Nordrhein-Westfalen ein Wasserstoffteilnetz entstehen. Der Aufbau eines solchen Teilnetzes ist zwar auch im derzeitigen Rechtsrahmen zulässig, für eine größtmögliche Integration von Wasserstoff in den Gasmarkt und eine rechts- sowie investitionssichere bundesweite, öffentliche Wasserstoffinfrastruktur, sollte der Gesetzgeber den Rechtsrahmen allerdings öffnen und weiterentwickeln. Das Ziel ist die Einführung eines dritten Gasversorgungsnetzes neben H- und L-Gas: Ein Wasserstoff-Gasversorgungsnetz.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Die Initiative „GET H2“ will unter bestmöglicher Nutzung der vorhandenen Gasinfrastrukturen eine bundesweite Wasserstoffinfrastruktur aufbauen. Dabei sollen Erzeuger und eine möglichst große Zahl an Abnehmern zusammengebracht und letztere sicher mit erneuerbarem Wasserstoff versorgt werden. Um dieses Ziel zu erreichen, soll in einem ersten Schritt von Lingen bis ins nördliche Nordrhein-Westfalen ein Wasserstoffteilnetz entstehen. Der Aufbau eines solchen Teilnetzes ist zwar auch im derzeitigen Rechtsrahmen zulässig, für eine größtmögliche Integration von Wasserstoff in den Gasmarkt und eine rechts- sowie investitionssichere bundesweite, öffentliche Wasserstoffinfrastruktur, sollte der Gesetzgeber den Rechtsrahmen allerdings öffnen und weiterentwickeln. Das Ziel ist die Einführung eines dritten Gasversorgungsnetzes neben H- und L-Gas: Ein Wasserstoff-Gasversorgungsnetz.
+@techreport{Kalis2019,
+title = {Rechtsrahmen für ein H2 - Teilnetz Nukleus einer bundesweiten, öffentlichen Wasserstoffinfrastruktur},
+author = {Michael Kalis },
+url = {https://www.ikem.de/wp-content/uploads/2019/10/Rechtsrahmen-f%C3%BCr-ein-H2-Teilnetz.pdf, Gutachten als PDF
+https://www.get-h2.de/politik-recht/, Gutachten auf der Seite von GET H2},
+year = {2019},
+date = {2019-09-30},
+institution = {IKEM:},
+type = {Gutachten im Auftrag der nowega GmbH},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

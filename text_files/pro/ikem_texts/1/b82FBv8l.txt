@@ -1,0 +1,85 @@
+AMELIE II is the successorproject to AMELIE. In AMELIE II, a coherent, technically, legally and organizationally feasible implementation vision for a market ramp-up of Electric Road Systems (ERS) shall be developed. In doing so, the project builds on the knowledge and solutions of its predecessor project, such as the stakeholder model and the preferred solution for billing and accounting, while fitting into the existing structures on the highway and in the energy industry. At the same time, the process required politically for this is to be described and communicated and coordinated with the relevant decision-makers. In addition, the IKEM is working with the project partners to produce a joint strategy paper “Synergy Potentials of Electrified Roads” with the future vision “Digital Road”. The AMELIE II project is thus making a significant contribution to achieving the European climate protection targets in heavy road freight transport.
+IKEM’s role in the project
+The IKEM deals with all relevant legal and economic issues concerning the integration of ERS into the existing transport and energy system. In close exchange with the project partners at the University of Applied Sciences Erfurt and Siemens Mobility, a practical legal framework is to be developed that will enable the establishment of ERS in Germany and Europe.
+Publications
+Hartwig, Matthias
+Regulierung für Elektrische Straßensysteme (ERS) – Handlungsempfehlungen Presentation
+Präsentation entstanden im Rahmen des Projekts AMELIE, IKEM, 04.03.2021.
+@misc{Hartwig2020h,
+title = {Regulierung für Elektrische Straßensysteme (ERS) – Handlungsempfehlungen},
+author = {Matthias Hartwig},
+url = {https://www.ikem.de/wp-content/uploads/2021/03/IKEM_Handlungsempfehlungen_03032021.pdf},
+year = {2021},
+date = {2021-03-04},
+address = {IKEM},
+howpublished = {Präsentation entstanden im Rahmen des Projekts AMELIE},
+keywords = {},
+pubstate = {published},
+tppubtype = {presentation}
+}
+@techreport{Hartwig2020g,
+title = {Akteursmodell für die Finanzierung und Abrechnung elektrischer Straßensysteme (ERS)},
+author = {Matthias Hartwig },
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201217_ERS-Akteursmodelle.pdf, Working Paper als PDF},
+doi = {10.5281/zenodo.4337906},
+year = {2020},
+date = {2020-12-17},
+type = {IKEM Working Paper},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@misc{Bußmann-Welsch2020c,
+title = {Abrechnungs-, Rollenmodelle und technische Lösungsansätze},
+author = {Anna Bußmann-Welsch and Matthias Hartwig and Werner Pfliegl
+},
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201218_AMELIE_AGAbrechnungssysteme.pdf, Präsentation als PDF},
+year = {2020},
+date = {2020-12-03},
+address = {IKEM/Siemens Mobility},
+howpublished = {Präsentation entstanden im Rahmen des Projekts AMELIE},
+keywords = {},
+pubstate = {published},
+tppubtype = {presentation}
+}
+@techreport{Hartwig2020i,
+title = {AMELIE - RED – Abrechnungssysteme und -methoden für elektrisch betriebene Lkw sowie deren interoperable Infrastrukturen im europäischen Kontext},
+author = {Matthias Hartwig and Anna Bußmann-Welsch and Fynn Claes and Lisa Schneider},
+url = {https://www.ikem.de/wp-content/uploads/2021/06/20210122_Final-Report_AMELIE.pdf},
+year = {2020},
+date = {2020-12-00},
+institution = {IKEM: },
+abstract = {Vorliegend handelt es sich um eine rechtswissenschaftliche Studie des Instituts für Klimaschutz Ener- gie und Mobilität (IKEM) im Rahmen des Projektes AMELIE. Die Untersuchung wurde nach den Me- thoden und Standards rechtswissenschaftlichen Arbeitens auf Grundlage des zum Bearbeitungszeit- punkt geltenden Rechts durchgeführt. Wenngleich die rechtswissenschaftliche Auseinandersetzung mit konkreten Einzelfällen möglich ist, vermag die Studie eine Rechtsberatung zu konkreten rechtli- chen Fragestellungen nicht zu ersetzen. Insbesondere können konkrete Vorfragen für unternehmeri- sche, legislative oder administrative Entscheidungen nicht durch Gutachten des IKEM verbindlich ge- klärt werden. Geäußerte Rechtsmeinungen entsprechen grundsätzlich der wissenschaftlich fundier- ten Einschätzung der Autor:innen, müssen aber nicht der Rechtsmeinung oder Entscheidungspraxis von Behörden und Gerichten entsprechen, die mit Entscheidungen in Bezug auf den begutachteten Sachverhalt befasst sind oder befasst sein werden. Rechtsberatung und die dazu erforderliche recht- liche Prüfung des Einzelfalls kann und darf vom IKEM aufgrund § 3 Rechtsdienstleistungsgesetz nicht erbracht werden. Es muss dazu insbesondere auf anwaltliche Rechtsberatung verwiesen werden. Das IKEM übernimmt damit auch keine Haftung für rechtliche Fehleinschätzungen und Fehlentscheidun- gen aufgrund der von dessen Autoren geäußerten rein wissenschaftlichen Rechtsmeinungen.},
+type = {Abschlussbericht und rechtswissenschaftliche Studie im Rahmen des Projekts AMELIE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Vorliegend handelt es sich um eine rechtswissenschaftliche Studie des Instituts für Klimaschutz Ener- gie und Mobilität (IKEM) im Rahmen des Projektes AMELIE. Die Untersuchung wurde nach den Me- thoden und Standards rechtswissenschaftlichen Arbeitens auf Grundlage des zum Bearbeitungszeit- punkt geltenden Rechts durchgeführt. Wenngleich die rechtswissenschaftliche Auseinandersetzung mit konkreten Einzelfällen möglich ist, vermag die Studie eine Rechtsberatung zu konkreten rechtli- chen Fragestellungen nicht zu ersetzen. Insbesondere können konkrete Vorfragen für unternehmeri- sche, legislative oder administrative Entscheidungen nicht durch Gutachten des IKEM verbindlich ge- klärt werden. Geäußerte Rechtsmeinungen entsprechen grundsätzlich der wissenschaftlich fundier- ten Einschätzung der Autor:innen, müssen aber nicht der Rechtsmeinung oder Entscheidungspraxis von Behörden und Gerichten entsprechen, die mit Entscheidungen in Bezug auf den begutachteten Sachverhalt befasst sind oder befasst sein werden. Rechtsberatung und die dazu erforderliche recht- liche Prüfung des Einzelfalls kann und darf vom IKEM aufgrund § 3 Rechtsdienstleistungsgesetz nicht erbracht werden. Es muss dazu insbesondere auf anwaltliche Rechtsberatung verwiesen werden. Das IKEM übernimmt damit auch keine Haftung für rechtliche Fehleinschätzungen und Fehlentscheidun- gen aufgrund der von dessen Autoren geäußerten rein wissenschaftlichen Rechtsmeinungen.
+@techreport{Hartwig2020f,
+title = {Leitbilder für den Aufbau von elektrischen Straßensystemen in Europa},
+author = {Matthias Hartwig and Anna Bußmann-Welsch},
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201216_WP_Electric-Road-Systems_DE.pdf, Deutsche Version
+https://www.ikem.de/wp-content/uploads/2020/12/20201216_WP_Electric-Road-Systems_EN.pdf, Englische Version},
+doi = {10.5281/zenodo.4327276},
+year = {2020},
+date = {2020-10-28},
+type = {IKEM Working Paper},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@inproceedings{Hartwig2019,
+title = {Regulative framework for overhead contact lines for trucks on motorways – The AMELIE project aiming at a European approach of financing and billing for ERS},
+author = {Matthias Hartwig and Michael Lehmann},
+url = {https://www.ikem.de/wp-content/uploads/2019/05/S4_-_Hartwig_et_al_-_Regulative_framework_for_overhead_contact_lines_for_trucks_on_motorways_-_The_AMELIE_p.pdf},
+year = {2019},
+date = {2019-05-00},
+booktitle = {3rd Electric Road Systems Conference 2019 (7.-8. Mai 2019)},
+address = {Frankfurt am Main},
+abstract = {According to current laws, overhead contact lines for trucks on motorways are integral part of both the motorway and the electricity distribution grid. Accordingly they fall under two regulatory and financing systems. In some parts these regulator systems match, even though they regulate subjects the specific regulation was not intended for. Especially regarding the two independent but partly contradictory financing systems (i.e. motorway tolls or user charges and electricity network charges) the legislator’s decision is required, whether ERS should be financed as part of the motorway, the electricity distribution grid or a mixed or alternative financing approach is preferred.},
+keywords = {},
+pubstate = {published},
+tppubtype = {inproceedings}
+}
+According to current laws, overhead contact lines for trucks on motorways are integral part of both the motorway and the electricity distribution grid. Accordingly they fall under two regulatory and financing systems. In some parts these regulator systems match, even though they regulate subjects the specific regulation was not intended for. Especially regarding the two independent but partly contradictory financing systems (i.e. motorway tolls or user charges and electricity network charges) the legislator’s decision is required, whether ERS should be financed as part of the motorway, the electricity distribution grid or a mixed or alternative financing approach is preferred.

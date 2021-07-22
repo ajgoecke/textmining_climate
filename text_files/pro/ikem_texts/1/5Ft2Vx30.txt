@@ -1,0 +1,68 @@
+Die Weltgemeinschaft hat sich in zahlreichen Zielvereinbarungen darauf festgelegt, den Klimawandel zu begrenzen. Die kontinuierliche Anpassung der regulatorischen Rahmenbedingungen ist notwendig, um diese Klimaschutzziele zu erreichen.
+Der Klimawandel und die daraus resultierenden Folgen sind eine globale Herausforderung. Um die Erderwärmung auf 2°C, besser sogar 1,5°C, gegenüber dem vorindustriellen Niveau zu begrenzen, braucht es einen ambitionierten Klimaschutz. Die Weltgemeinschaft hat sich in zahlreichen Zielvereinbarungen darauf festgelegt, den Klimawandel zu begrenzen.
+Nicht nur das die zukünftigen Handlungen vor. sind im Energiekonzept der Bundesregierung, dem Aktionsprogramm Klimaschutz 2020 und dem Klimaschutzplan 2050 festgelegt. Derzeit arbeitet die Bundesregierung ferner an einem Klimaschutzgesetz.
+Zu den zentralen Zielen der Bundesrepublik Deutschland zählt die Steigerung des Anteils Erneuerbarer Energien am Bruttoendenergieverbrauch bis 2020 auf 18 Prozent. Deutschland strebt weiterhin an, bis 2050 nahezu treibhausgasneutral zu werden. Zu diesem Zeitpunkt sollen die Erneuerbaren mindestens 80 Prozent des Bruttostromverbrauchs decken.
+Doch es bedarf Veränderungen in allen relevanten Handlungsfeldern. Im Klimaschutzplan 2050 wurden deshalb auch Sektorenziele definiert: Zu den Sektoren zählen neben der Energiewirtschaft auch die Industrie, Gebäude, Verkehr, GHD (Gewerbe, Handel, Dienstleistungen) und Landwirtschaft. Die Ziele zu erreichen, ist die nächste große Herausforderung der Energiewende.
+Die kontinuierliche Anpassung europäischer und nationaler Rechtsvorschriften ist notwendig, um die Klimaschutzziele zu erreichen und den Ausbau Erneuerbarer Energien voranzutreiben. Dazu erstellt das IKEM rechtswissenschaftliche Analysen und erarbeitet Empfehlungen für eine Regulatorik. So setzt das Institut Impulse für den Klimaschutz.
+Im Projekt KlimAW untersucht das IKEM, welchen Beitrag die Abwasserwirtschaft zur Erreichung von Klimaschutz- und Energieeffizienzzielen leisten kann und welche Anpassungen des Rechtsrahmens dabei unterstützend wirken können.
+@article{Breidenbach2020,
+title = {1,5 Grad – Recht neu denken, Klimaziele erreichen},
+author = {Stephan Breidenbach and Simon Schäfer-Stradowsky},
+url = {https://research.owlit.de/lx-document/REL1347290, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {Rethinking Law},
+volume = {5/2020},
+pages = {20-22},
+abstract = {Alle Beteiligten sind sich darüber im Klaren, dass die Abkehr von fossilen Energiequellen ein großer Herausforderung darstellt. Wir müssen jetzt dafür sorgen, dass staatliche Stellen, Unternehmen, aber auch jede:r Einzelne von uns Entscheidungen treffen, die uns dem 1,5-Grad-Ziel näherbringen. Hierfür benötigen wir zuallererst einen klaren und kohärenten Rechtsrahmen, damit aus der Klimaaufgabe zugleich ein Konjunkturmotor wird.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Alle Beteiligten sind sich darüber im Klaren, dass die Abkehr von fossilen Energiequellen ein großer Herausforderung darstellt. Wir müssen jetzt dafür sorgen, dass staatliche Stellen, Unternehmen, aber auch jede:r Einzelne von uns Entscheidungen treffen, die uns dem 1,5-Grad-Ziel näherbringen. Hierfür benötigen wir zuallererst einen klaren und kohärenten Rechtsrahmen, damit aus der Klimaaufgabe zugleich ein Konjunkturmotor wird.
+@misc{Schäfer-Stradowsky2018e,
+title = {Wie Berlin seine Klimaziele erreichen kann},
+author = {Simon Schäfer-Stradowsky and Dominik Dicken},
+url = {https://www.ikem.de/wie-berlin-seine-klimaziele-erreichen-kann/},
+year = {2018},
+date = {2018-12-13},
+abstract = {Die deutsche Hauptstadt will ihren Kohlendioxidausstoß bis 2050 um mindestens 85 Prozent reduzieren. Bisher ist allerdings der Erneuerbaren-Anteil bei Strom und Wärme noch sehr gering. Dabei könnte Berlin aus Brandenburg mit echtem Grünstrom versorgt werden. Wie das gelingen könnte, schreiben Simon Schäfer-Stradowsky und Dominik Dicken.},
+howpublished = {Beitrag im Tagesspiegel Background},
+keywords = {},
+pubstate = {published},
+tppubtype = {misc}
+}
+Die deutsche Hauptstadt will ihren Kohlendioxidausstoß bis 2050 um mindestens 85 Prozent reduzieren. Bisher ist allerdings der Erneuerbaren-Anteil bei Strom und Wärme noch sehr gering. Dabei könnte Berlin aus Brandenburg mit echtem Grünstrom versorgt werden. Wie das gelingen könnte, schreiben Simon Schäfer-Stradowsky und Dominik Dicken.
+@techreport{Hartwig2018c,
+title = {Diesel-Fahrverbote als neustes Symptom einer zu zögerlichen Energiewende im Verkehrsbereich},
+author = {Matthias Hartwig and Felix Nowack and Clara Burzlaff and Nora Sondhauß},
+url = {https://www.ikem.de/wp-content/uploads/2018/07/20180730_SN_Diesel.pdf},
+year = {2018},
+date = {2018-07-30},
+institution = {IKEM:},
+abstract = {Die zögerliche Umsetzung internationalen und europäischen Rechts sowie mangelnde Ambitionen des Bundes in Bezug auf eine Energiewende im Verkehrsbereich, insbesondere in Sachen Elektromobilität, zwingen Länder und Kommunen zu notgedrungenen Maßnahmen. Denn die aktuellen Diesel-Fahrverbote zeigen vor allem, dass die Umsetzung der richtigen Maßnahmen zur Forcierung alternativer Antriebe dringender denn je ist.
+Die Stellungnahme wurde im Rahmen des Kopernikus Projekts ENavi erstellt.},
+type = {Stellungnahme, erstellt im Rahmen des Kopernikus-Projekts ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Die zögerliche Umsetzung internationalen und europäischen Rechts sowie mangelnde Ambitionen des Bundes in Bezug auf eine Energiewende im Verkehrsbereich, insbesondere in Sachen Elektromobilität, zwingen Länder und Kommunen zu notgedrungenen Maßnahmen. Denn die aktuellen Diesel-Fahrverbote zeigen vor allem, dass die Umsetzung der richtigen Maßnahmen zur Forcierung alternativer Antriebe dringender denn je ist.
+Die Stellungnahme wurde im Rahmen des Kopernikus Projekts ENavi erstellt.
+@techreport{Schäfer-Stradowsky2018b,
+title = {Deutschland verpasst die EU-Klimaziele 2020},
+author = {Simon Schäfer-Stradowsky and Dennis Nill},
+url = {https://www.ikem.de/wp-content/uploads/2018/01/IKEM_Stellungnahme_EU-Klimaziele-2020_20180205.pdf, Download der Stellungnahme},
+year = {2018},
+date = {2018-01-29},
+institution = {IKEM:},
+abstract = {Die EU-Klimapolitik war, gemessen an den eignen Zielvorgaben, auf einem guten Weg. Dieses Bild wird jedoch von aktuellen Aussagen des deutschen Umweltstaatssekretärs Jochen Flasbarth getrübt, wonach Deutschland die Zielvorgaben zur Treibhausgasreduktion für 2020 nicht erreichen wird und Emissionszuweisungen einkaufen muss. Die Verfehlungen des ehemaligen Vorreiters und größten Emittenten der EU rücken damit ein Verfahren in den Blick, welches aufgrund seiner Intransparenz dringend reformiert werden sollte.
+Die Stellungnahme wurde im Rahmen des Kopernikus Projekts ENavi erstellt.},
+type = {Stellungnahme},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Die EU-Klimapolitik war, gemessen an den eignen Zielvorgaben, auf einem guten Weg. Dieses Bild wird jedoch von aktuellen Aussagen des deutschen Umweltstaatssekretärs Jochen Flasbarth getrübt, wonach Deutschland die Zielvorgaben zur Treibhausgasreduktion für 2020 nicht erreichen wird und Emissionszuweisungen einkaufen muss. Die Verfehlungen des ehemaligen Vorreiters und größten Emittenten der EU rücken damit ein Verfahren in den Blick, welches aufgrund seiner Intransparenz dringend reformiert werden sollte.
+Die Stellungnahme wurde im Rahmen des Kopernikus Projekts ENavi erstellt.

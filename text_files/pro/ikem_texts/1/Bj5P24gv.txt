@@ -1,0 +1,193 @@
+The Baltic Sea region holds great development potential for offshore wind energy, but is home to only 15% of the EU’s offshore wind parks. The other 85% are located mainly in the North Sea, where studies indicated that the international coordination and integration of offshore grid infrastructure between countries, also known as an offshore meshed grid, allows for significant savings. Against this background, the relatively early development stage of offshore wind infrastructure in the Baltic Sea can be a competitive advantage, allowing the region to integrate findings from the North Sea to optimize the design of a regional meshed offshore grid.
+Today, no comprehensive cross-sector study on offshore grid planning and integration in the Baltic Sea region exists, although the need for increased international coordination and interconnectors between national energy markets is prioritized by the EU, BASREC and national governments.
+Project Information
+The Baltic InteGrid will fill this gap, contributing to sustainable regional electricity generation, further integration of electricity markets and security of supply by applying the meshed grid approach in the Baltic Sea region to optimize the potential and efficiency of offshore wind energy. To this end, the project partners from all eight EU MSs in the BSR will work in close cooperation with key stakeholders (transmission system operators (TSOs), OWE industry, policymakers, national authorities, academia). The project will connect relevant stakeholders in debates and topical knowledge exchange with a view to optimize transnational coordination of offshore wind energy infrastructure. Additionally, the project’s innovative research efforts will equip stakeholders with state-of-the-art insights on the framework conditions for the optimal development of a regional meshed grid.
+Baltic Grid Forum
+The Baltic Grid Forum is a platform for stakeholder engagement. At the occasion of country workshops, sector specific conferences and public events, the Forum will build a regional expert network for offshore wind grid development, and ensure the relevance and practical application of the research focus and findings of the Baltic Grid Concept.
+Baltic Grid Concept
+The Baltic Grid Concept will set out the framework conditions for the successful development of an integrated offshore wind infrastructure in the Baltic Sea region through international interdisciplinary research and analysis. The Concept will serve as a point of reference for regional stakeholders.
+Prefeasibility Studies
+Two in-depth prefeasibility studies will be carried out: The first includes Poland and Sweden, with the possibility to extend to Lithuania and Germany. The second case study includes Germany and Denmark. The studies also investigate a South Baltic transmission „grid ring”: building additional on- and offshore connections between the South Baltic countries.
+All eight EU Members States in the Baltic Sea region are represented in the partnership of the Baltic Integrid. The complex interdisciplinary nature of the topic of grid integration is reflected in the expertise of the consortium, with a total of fourteen partners covering the fields of policy, regulation, maritime spatial planning, grid infrastructure and technology, civil society engagement, business and industry. Through the consortium’s large circle of Associated Organisations, industry, ministries, utility providers and TSOs will be integrated into the knowledge creation and research process of the project.
+Consortium
+Denmark
+Technical University of Denmark
+Aarhus University
+Germany
+Institut für Klimaschutz, Energie und Mobilität
+German Offshore Wind Energy Foundation
+Deutsche WindGuard
+Rostock Business and Technology Development
+Estonia
+University of Tartu
+Finland
+Aalto University, Department of Real Estate, Planning and Geoinformatics
+Latvia
+Latvian Association of Local and Regional Governments
+Lithuania
+Klaipeda University Coastal Research and Planning Institute (CORPI)
+Poland
+Foundation for Sustainable Energy
+Maritime Institute in Gdansk
+Sweden
+Energy Agency for Southeast Sweden
+Lund University
+Associated Partners
+Denmark
+The Danish Energy Association
+Energinet.dk
+The Danish Wind Industry Association
+Germany
+Siemens AG
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (BMUB)
+Ministerium für Energie, Infrastruktur und Landesentwicklung Mecklenburg-Vorpommern
+50Hertz Transmission GmbH
+Ecologic Institut
+Kisters AG
+Becker Büttner Held
+Estonia
+Elering-generating opportunities
+Finland
+Finnish Wind Power Association
+Latvia
+Ministry of Economics of the Republic of Latvia
+Lithuania
+The Ministry of Energy of the Republic of Lithuania
+Litgrid AB
+Poland
+Inwestycje Infrastrukturalne Sp. Z O.O
+Maritime Office in Gdynia- PGE Energia Odnawialna S.A.
+@techreport{Hoffrichter2019,
+title = {International Cooperation on the Expansion of Offshore Wind Generation Capacity: Potential Benefits and Pitfalls of Joint Projects from an Institutional Economic Perspective},
+author = {Albert Hoffrichter and Thorsten Beckers},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/BIG_3.1_international-cooperation-on-the-expansion-of-offshore-wind-generation_v90_20181010.pdf},
+year = {2019},
+date = {2019-09-00},
+abstract = {This research paper takes a detailed look at potential benefits and pitfalls associated with joint OWP projects. The central research questions can be summarised as follows: Which effects might arise from joint OWP projects for the participating countries? Which hurdles exist for the realisation of joint projects? Under which circumstances do international cooperations on the development and funding of OWP projects make sense? Which measures might help to facilitate the realisation of joint OWP projects?},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+This research paper takes a detailed look at potential benefits and pitfalls associated with joint OWP projects. The central research questions can be summarised as follows: Which effects might arise from joint OWP projects for the participating countries? Which hurdles exist for the realisation of joint projects? Under which circumstances do international cooperations on the development and funding of OWP projects make sense? Which measures might help to facilitate the realisation of joint OWP projects?
+@article{Sunila2019,
+title = {A supra-national TSO to enhance offshore wind power development in the Baltic Sea? A legal and regulatory analysis},
+author = {Kanerva Sunila and Claire Bergaentzlé and Bénédicte Martin and Ari Ekroos},
+doi = {https://doi.org/10.1016/j.enpol.2019.01.047},
+issn = {0301-4215},
+year = {2019},
+date = {2019-05-00},
+journal = {Energy Policy},
+volume = {128},
+number = {Mai 2019},
+pages = {775-782},
+abstract = {Offshore wind power development is expected to play an important role in meeting the EU climate targets. To integrate offshore wind power, advanced offshore infrastructures such as meshed grids are suggested to optimise the grid development. Meshed offshore grids refer to integrated offshore infrastructure where offshore wind power hubs are interconnected to several countries as opposed to radial connection linking the wind farm to one single country and market. However, development of meshed architectures is hindered by the legal and regulatory barriers.
+Earlier research has identified the lack of cooperation and misalignments in national legal and regulatory frameworks as being the main risk factors in integrated offshore network investments. The purpose of this article is to investigate whether a supra-national TSO could facilitate regional cooperation and coordinated investments to develop meshed offshore grids.
+Several studies have discussed the case of North Seas, but the Baltic Sea region has had less attention despite the large offshore wind development potential. In this paper, a multi-disciplinary approach combining legal dogmatics and regulatory economics is used to identify the existing barriers and the possible solutions. The Baltic Sea countries are used as illustration. We suggest legal and regulatory recommendations that comply with the EU energy policy targets of sustainability, competition and reliability.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Offshore wind power development is expected to play an important role in meeting the EU climate targets. To integrate offshore wind power, advanced offshore infrastructures such as meshed grids are suggested to optimise the grid development. Meshed offshore grids refer to integrated offshore infrastructure where offshore wind power hubs are interconnected to several countries as opposed to radial connection linking the wind farm to one single country and market. However, development of meshed architectures is hindered by the legal and regulatory barriers.
+Earlier research has identified the lack of cooperation and misalignments in national legal and regulatory frameworks as being the main risk factors in integrated offshore network investments. The purpose of this article is to investigate whether a supra-national TSO could facilitate regional cooperation and coordinated investments to develop meshed offshore grids.
+Several studies have discussed the case of North Seas, but the Baltic Sea region has had less attention despite the large offshore wind development potential. In this paper, a multi-disciplinary approach combining legal dogmatics and regulatory economics is used to identify the existing barriers and the possible solutions. The Baltic Sea countries are used as illustration. We suggest legal and regulatory recommendations that comply with the EU energy policy targets of sustainability, competition and reliability.
+Lifetime estimation and performance evaluation for offshore wind farms transmission cables Conference
+15th IET international conference on AC and DC Power Transmission (5.-7.01.2019), 2019, (15th IET international conference on AC and DC Power Transmission ; Conference date: 05-01-2019 Through 07-01-2019).
+@conference{Pérez-Rúa2019,
+title = {Lifetime estimation and performance evaluation for offshore wind farms transmission cables},
+author = {Juan-Andrés Pérez-Rúa and Kaushik Das and {Nicolaos Antonio} Cutululis},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/BIG-3.3_Lifetime-estimation-and-performance-evaluation-for-offshore-wind-farms-transmission-cables.pdf},
+year = {2019},
+date = {2019-02-01},
+booktitle = {15th IET international conference on AC and DC Power Transmission (5.-7.01.2019)},
+abstract = {A novel methodology for life estimation and performance evaluation of offshore wind farms high voltage AC export cables is presented. The method applies Dynamic Temperature Prediction (DTP) analysis using a Thermo-Electrical Equivalent model (TEE). Furthermore, it is suggested how the cable lifetime might be inferred based on the accumulated ageing effects. Afterwards, a sensitivity analysis of the seabed temperature variations is performed. Finally, a holistic procedure for calculating more accurately the electrical power losses of the cable is presented. Results show that an important increase of the total installed power, or cross-section reduction, can be achieved compared to traditional sizing methods.},
+note = {15th IET international conference on AC and DC Power Transmission ; Conference date: 05-01-2019 Through 07-01-2019},
+keywords = {},
+pubstate = {published},
+tppubtype = {conference}
+}
+A novel methodology for life estimation and performance evaluation of offshore wind farms high voltage AC export cables is presented. The method applies Dynamic Temperature Prediction (DTP) analysis using a Thermo-Electrical Equivalent model (TEE). Furthermore, it is suggested how the cable lifetime might be inferred based on the accumulated ageing effects. Afterwards, a sensitivity analysis of the seabed temperature variations is performed. Finally, a holistic procedure for calculating more accurately the electrical power losses of the cable is presented. Results show that an important increase of the total installed power, or cross-section reduction, can be achieved compared to traditional sizing methods.
+@techreport{Bergaentzlé2019,
+title = {Paving the way to a meshed offshore grid – Recommendations for an efficient policy and regulatory framework},
+author = {Claire Bergaentzlé and Albert Hoffrichter and Pia Isojärvi and Federico Marco and Bénédicte Martin and Birgitte Egelund Olsen and Lise-Lotte Pade and Hannes Veinla},
+url = {https://www.ikem.de/wp-content/uploads/2019/03/BIG_5.3_Recommendations-for-an-efficient-policy-and-regulatory-framework.pdf},
+year = {2019},
+date = {2019-02-00},
+institution = {Baltic InteGrid},
+abstract = {Research conducted within the Interreg Baltic InteGrid project is intended to facilitate the establishment of a meshed offshore grid connecting offshore wind farms (OWFs) and national electricity markets in the Baltic Sea. To this end, the project partners have prepared three sets of recommendations for EU and national level stakeholders. This report elaborates on the partners’ recommendations for the policy and regulatory framework.},
+type = {Abschlussbericht},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Research conducted within the Interreg Baltic InteGrid project is intended to facilitate the establishment of a meshed offshore grid connecting offshore wind farms (OWFs) and national electricity markets in the Baltic Sea. To this end, the project partners have prepared three sets of recommendations for EU and national level stakeholders. This report elaborates on the partners’ recommendations for the policy and regulatory framework.
+@techreport{Avdic2019b,
+title = {Baltic InteGrid review: towards a meshed offshore grid in the Baltic Sea},
+author = {Dàmir Belltheus Avdic and Pierre Ståhl},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/Baltic-InteGrid_-towards-a-meshed-offshore-grid-in-the-Baltic-Sea_SUMMARY-REPORT.pdf},
+year = {2019},
+date = {2019-02-00},
+type = {Summary Report},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Avdic2019,
+title = {Baltic InteGrid review: towards a meshed offshore grid in the Baltic Sea},
+author = {Dàmir Belltheus Avdic and Pierre Ståhl},
+url = {http://www.baltic-integrid.eu/files/baltic_integrid/Arbeitspaket%202/WP%203%20Development%20of%20the%20Baltic%20Grid%20Concept/3.7%20-%20High-Level%20Concept/Baltic%20InteGrid:%20towards%20a%20meshed%20offshore%20grid%20in%20the%20Baltic%20Sea_FINAL%20REPORT.pdf},
+year = {2019},
+date = {2019-01-01},
+abstract = {Governments across the globe are finally recognising the urgent need to jointly address climate change. This has led to the commitments under the Paris Agreement to curb greenhouse gas emissions and keep global warming well below 2 °C. While the global energy transition is gaining momentum, there is far too little progress to stay within the 2 °C target. To accelerate the shift to a sustainable energy system, we need innovative ideas that go beyond business as usual.
+Europe has been a leader in climate policy in general, and in the development of renewable energy in particular – although other countries are quickly catching up. The European Union has set out to foster renewable energy development and further market interconnection, reducing emissions by 80% to 95% by 2050 in the process.
+Offshore wind energy is crucial to this renewable energy future. Boasting a higher generation capacity and more full load hours than onshore wind, the sector has achieved remarkable cost reductions in recent years. The Baltic Sea has great potential in this regard, thanks to a range of favourable conditions like shallow waters, strong winds and short distances to shore.
+With 2.2 GW of installed capacity and rising, the offshore wind market in the Baltic Sea is on the cusp of accelerated development. Now is the time to explore state-of-the-art solutions for the connection and distribution of offshore wind energy. A meshed grid is one such solution: an innovative, efficient way to link offshore wind farms while connecting electricity markets. Combining interconnector infrastructure with export cables, a meshed offshore grid in the Baltic Sea would boost system stability and the integration of electricity markets, reduce issues linked to curtailment and ensure a high utilisation rate for cable infrastructure. Moreover, the installation, maintenance and service sector that would be developed around a meshed offshore grid could help the Baltic Sea Region excel in green technologies and innovation while creating jobs for local populations.
+While a meshed offshore grid has many benefits, it is also characterised by a multilateral and capital-intensive nature, the complexity of which needs to be alleviated through a guiding hand from policy-makers. Keeping in mind the long lead times of offshore wind and grid projects, it is imperative that interest in meshed offshore grids translate into bold policy-making and reinforced transnational cooperation soon, before the region is further locked into a suboptimal energy system.
+The Baltic Sea Region has the potential to be a major player in innovative offshore wind technologies and grid solutions. It is high time to start planning for that future, together.},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Governments across the globe are finally recognising the urgent need to jointly address climate change. This has led to the commitments under the Paris Agreement to curb greenhouse gas emissions and keep global warming well below 2 °C. While the global energy transition is gaining momentum, there is far too little progress to stay within the 2 °C target. To accelerate the shift to a sustainable energy system, we need innovative ideas that go beyond business as usual.
+Europe has been a leader in climate policy in general, and in the development of renewable energy in particular – although other countries are quickly catching up. The European Union has set out to foster renewable energy development and further market interconnection, reducing emissions by 80% to 95% by 2050 in the process.
+Offshore wind energy is crucial to this renewable energy future. Boasting a higher generation capacity and more full load hours than onshore wind, the sector has achieved remarkable cost reductions in recent years. The Baltic Sea has great potential in this regard, thanks to a range of favourable conditions like shallow waters, strong winds and short distances to shore.
+With 2.2 GW of installed capacity and rising, the offshore wind market in the Baltic Sea is on the cusp of accelerated development. Now is the time to explore state-of-the-art solutions for the connection and distribution of offshore wind energy. A meshed grid is one such solution: an innovative, efficient way to link offshore wind farms while connecting electricity markets. Combining interconnector infrastructure with export cables, a meshed offshore grid in the Baltic Sea would boost system stability and the integration of electricity markets, reduce issues linked to curtailment and ensure a high utilisation rate for cable infrastructure. Moreover, the installation, maintenance and service sector that would be developed around a meshed offshore grid could help the Baltic Sea Region excel in green technologies and innovation while creating jobs for local populations.
+While a meshed offshore grid has many benefits, it is also characterised by a multilateral and capital-intensive nature, the complexity of which needs to be alleviated through a guiding hand from policy-makers. Keeping in mind the long lead times of offshore wind and grid projects, it is imperative that interest in meshed offshore grids translate into bold policy-making and reinforced transnational cooperation soon, before the region is further locked into a suboptimal energy system.
+The Baltic Sea Region has the potential to be a major player in innovative offshore wind technologies and grid solutions. It is high time to start planning for that future, together.
+@techreport{Wallasch2019,
+title = {Cost-benefit Analysis of an Integrated Offshore Grid in the Baltic Sea Comparison of different levels of grid integration based on case studies},
+author = {Anna-Kathrin Wallasch and Rasmus Borrmann and Tobias Künne },
+url = {http://www.baltic-integrid.eu/index.php/download.html?file=files/baltic_integrid/Arbeitspaket%202/WP%203%20Development%20of%20the%20Baltic%20Grid%20Concept/3.6%20Cost%20Benefit%20Analysis/BIG_3.6_Cost-Benefit%20Analysis_final.pdf},
+year = {2019},
+date = {2019-01-00},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Hoffrichter2018,
+title = {Economic considerations on the regulatory framework for offshore wind and offshore meshed grid investments},
+author = {Albert Hoffrichter and Claire Bergaentzlé and Lise-Lotte Pade and Elizabeth Côté},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/BIG_3.1_Economic-considerations_regulatory-framework-for-offshore-wind-investments_v20_20181010.pdf},
+year = {2018},
+date = {2018-10-00},
+abstract = {One of the main technologies for renewable power production, offshore wind electricity (OWE) is an integral component of decarbonising the European power sector. The costs of OWE highly depend on the regulatory frameworks for the provision of wind farms and offshore grids. Regarding generation investment, the distribution of decisional responsibilities and risks between the generators and the regulator is vital for a costefficient deployment of offshore wind farms (OWF). Targeted OWE instruments which offer predictable revenues to generators promise significant advantages over decentralised approaches based on the Energy-only market concept. Putting out contracts for building and operating OWFs in locations predetermined by the regulator to competitive tender, appears to be a suitable approach in many cases.
+A coherent regulatory framework for meshed grid investments must address network expansion requirements in a cost-efficient manner. In this context we recommend considering four elements: firstly, the harmonisation of the methods for distributing connection costs between transmission system operators (TSOs) and OWE generators; secondly, sharing network development expenses between the involved TSOs in a transparent way; thirdly, similar grid access tariffs for OWE operators; and fourthly, establishing a coherent regulatory regime for the TSOs’ cost recovery at the offshore meshed grid level. Future regulatory frameworks for offshore meshed grid will require a strong engagement of policy makers and regulators. The role of European institutions to pave the way to stable and harmonised institutional frameworks is critical.
+This report presents the main findings of three comprehensive working papers developed within the scope of Baltic InteGrid (Integrated Baltic Offshore Wind Electricity Grid Development), an interdisciplinary Interreg research project, bringing together experts from Member States present in the Baltic Sea Region to coordinate the implementation of these policy objectives. The goal of the Baltic InteGrid project is to track current regional, national, and European energy developments and propose recommendations to optimise regulatory frameworks.},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+One of the main technologies for renewable power production, offshore wind electricity (OWE) is an integral component of decarbonising the European power sector. The costs of OWE highly depend on the regulatory frameworks for the provision of wind farms and offshore grids. Regarding generation investment, the distribution of decisional responsibilities and risks between the generators and the regulator is vital for a costefficient deployment of offshore wind farms (OWF). Targeted OWE instruments which offer predictable revenues to generators promise significant advantages over decentralised approaches based on the Energy-only market concept. Putting out contracts for building and operating OWFs in locations predetermined by the regulator to competitive tender, appears to be a suitable approach in many cases.
+A coherent regulatory framework for meshed grid investments must address network expansion requirements in a cost-efficient manner. In this context we recommend considering four elements: firstly, the harmonisation of the methods for distributing connection costs between transmission system operators (TSOs) and OWE generators; secondly, sharing network development expenses between the involved TSOs in a transparent way; thirdly, similar grid access tariffs for OWE operators; and fourthly, establishing a coherent regulatory regime for the TSOs’ cost recovery at the offshore meshed grid level. Future regulatory frameworks for offshore meshed grid will require a strong engagement of policy makers and regulators. The role of European institutions to pave the way to stable and harmonised institutional frameworks is critical.
+This report presents the main findings of three comprehensive working papers developed within the scope of Baltic InteGrid (Integrated Baltic Offshore Wind Electricity Grid Development), an interdisciplinary Interreg research project, bringing together experts from Member States present in the Baltic Sea Region to coordinate the implementation of these policy objectives. The goal of the Baltic InteGrid project is to track current regional, national, and European energy developments and propose recommendations to optimise regulatory frameworks.
+@techreport{Côté2018,
+title = {Market Analysis of the Offshore Wind Energy Transmission Industry: Overview for the Baltic Sea Region},
+author = {Elizabeth Côté and Michael Holton and Anika Nicolaas Ponder and Julia Sandén and Anna-Kathrin Wallasch},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/BIG_3.2_Market-Analysis-of-the-Offshore-Wind-Energy-Transmission-Industry_final.pdf},
+year = {2018},
+date = {2018-10-00},
+abstract = {The Baltic InteGrid project is an interdisciplinary research initiative designed to facilitate transnational cooperation and optimise offshore wind development in the Baltic Sea Region (BSR). The following analysis provides project stakeholders with up-to-date information on current market conditions for the development of a regional meshed grid. The report highlights relevant findings from the market analysis of the offshore wind energy transmission industry, with a particular focus on Europe and the Baltic Sea. It first provides a general overview of the European offshore wind energy industry, including information on relevant regulatory regimes, installed capacity, and technology trends. It then presents component-specific market overviews for high-voltage alternating current (HVAC) cables, high-voltage direct current cables (HVDC), converters, transformers, and substation foundations, as well as for the main operation, maintenance, and service (OMS) activities.},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+The Baltic InteGrid project is an interdisciplinary research initiative designed to facilitate transnational cooperation and optimise offshore wind development in the Baltic Sea Region (BSR). The following analysis provides project stakeholders with up-to-date information on current market conditions for the development of a regional meshed grid. The report highlights relevant findings from the market analysis of the offshore wind energy transmission industry, with a particular focus on Europe and the Baltic Sea. It first provides a general overview of the European offshore wind energy industry, including information on relevant regulatory regimes, installed capacity, and technology trends. It then presents component-specific market overviews for high-voltage alternating current (HVAC) cables, high-voltage direct current cables (HVDC), converters, transformers, and substation foundations, as well as for the main operation, maintenance, and service (OMS) activities.

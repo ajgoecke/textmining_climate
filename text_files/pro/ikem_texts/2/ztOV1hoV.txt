@@ -1,0 +1,73 @@
+Bénédicte Martin ist seit September 2017 wissenschaftliche Referentin im Bereich Energierecht am IKEM. Sie leitet seit Ende 2020 das Energierechtsteam am IKEM.
+Sie studierte Rechtswissenschaften an der Université Montesquieu-Bordeaux IV und spezialisierte sich im Europarecht. Im Anschluss arbeitete sie bei der Kanzlei Becker Büttner Held in Berlin und befasste sich mit deutschem und europäischem Energierecht. Sie hat einen Master of Laws (LL.M.) von der Humboldt-Universität zu Berlin. Ihr Rechtsreferendariat absolvierte sie am Kammergericht Berlin.
+Ihr inhaltlicher Schwerpunkt ist das europäische sowie das deutsche Energie- und Umweltrecht. In Campfire forscht sie aus juristischer Perspektive an den rechtlichen Rahmenbedingungen zur Genehmigung und zum Betrieb von aus lokal erzeugtem Windstrom gewonnenen Ammoniak-Tankstellen für die Schifffahrt. Ein weiterer Schwerpunkt ist die Rolle von grünem Wasserstoff in der Energiewende.
+@techreport{Hartwig2020c,
+title = {Rechtliche Rahmenbedingungen für den Einsatz von autonomen Robotern in Assistenzfunktionen},
+author = {Matthias Hartwig and Bénédicte Martin and Oskar Schuhmacher},
+editor = {Institut für Klimaschutz, Energie & Mobilität},
+url = {https://www.ikem.de/wp-content/uploads/2020/02/20200211_Gutachten_Rechtliche-Rahmenbedingungen_Assistenzroboter.pdf},
+year = {2020},
+date = {2020-02-11},
+type = {Studie im Rahmen des BMBF-Begleitprojekts ARAIG Teilvorhaben „Ethische und rechtliche Aspekte der Service-Robotik“},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Martin2019,
+title = {Sofortmaßnahmen für Klimaschutz in der Industrie},
+author = {Bénédicte Martin and Jonathan Metz and David Stegmaier and Michael Kalis and Julia Borger and Yasin Yilmaz and Susan Wilms and Johannes Antoni and Paul Jäde},
+url = {/wp-content/uploads/2019/06/WWF-KSG-Gutachten-3-Klimaschutzmassnahmen-im-Industriesektor.pdf, Download als PDF
+https://www.wwf.de/2019/mai/dem-klima-recht-geben/, Pressemitteilung des WWF},
+year = {2019},
+date = {2019-05-28},
+type = {Kurzgutachten im Auftrag des WWF Deutschland},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Sunila2019,
+title = {A supra-national TSO to enhance offshore wind power development in the Baltic Sea? A legal and regulatory analysis},
+author = {Kanerva Sunila and Claire Bergaentzlé and Bénédicte Martin and Ari Ekroos},
+doi = {https://doi.org/10.1016/j.enpol.2019.01.047},
+issn = {0301-4215},
+year = {2019},
+date = {2019-05-00},
+journal = {Energy Policy},
+volume = {128},
+number = {Mai 2019},
+pages = {775-782},
+abstract = {Offshore wind power development is expected to play an important role in meeting the EU climate targets. To integrate offshore wind power, advanced offshore infrastructures such as meshed grids are suggested to optimise the grid development. Meshed offshore grids refer to integrated offshore infrastructure where offshore wind power hubs are interconnected to several countries as opposed to radial connection linking the wind farm to one single country and market. However, development of meshed architectures is hindered by the legal and regulatory barriers.
+Earlier research has identified the lack of cooperation and misalignments in national legal and regulatory frameworks as being the main risk factors in integrated offshore network investments. The purpose of this article is to investigate whether a supra-national TSO could facilitate regional cooperation and coordinated investments to develop meshed offshore grids.
+Several studies have discussed the case of North Seas, but the Baltic Sea region has had less attention despite the large offshore wind development potential. In this paper, a multi-disciplinary approach combining legal dogmatics and regulatory economics is used to identify the existing barriers and the possible solutions. The Baltic Sea countries are used as illustration. We suggest legal and regulatory recommendations that comply with the EU energy policy targets of sustainability, competition and reliability.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Offshore wind power development is expected to play an important role in meeting the EU climate targets. To integrate offshore wind power, advanced offshore infrastructures such as meshed grids are suggested to optimise the grid development. Meshed offshore grids refer to integrated offshore infrastructure where offshore wind power hubs are interconnected to several countries as opposed to radial connection linking the wind farm to one single country and market. However, development of meshed architectures is hindered by the legal and regulatory barriers.
+Earlier research has identified the lack of cooperation and misalignments in national legal and regulatory frameworks as being the main risk factors in integrated offshore network investments. The purpose of this article is to investigate whether a supra-national TSO could facilitate regional cooperation and coordinated investments to develop meshed offshore grids.
+Several studies have discussed the case of North Seas, but the Baltic Sea region has had less attention despite the large offshore wind development potential. In this paper, a multi-disciplinary approach combining legal dogmatics and regulatory economics is used to identify the existing barriers and the possible solutions. The Baltic Sea countries are used as illustration. We suggest legal and regulatory recommendations that comply with the EU energy policy targets of sustainability, competition and reliability.
+@techreport{Bergaentzlé2019,
+title = {Paving the way to a meshed offshore grid – Recommendations for an efficient policy and regulatory framework},
+author = {Claire Bergaentzlé and Albert Hoffrichter and Pia Isojärvi and Federico Marco and Bénédicte Martin and Birgitte Egelund Olsen and Lise-Lotte Pade and Hannes Veinla},
+url = {https://www.ikem.de/wp-content/uploads/2019/03/BIG_5.3_Recommendations-for-an-efficient-policy-and-regulatory-framework.pdf},
+year = {2019},
+date = {2019-02-00},
+institution = {Baltic InteGrid},
+abstract = {Research conducted within the Interreg Baltic InteGrid project is intended to facilitate the establishment of a meshed offshore grid connecting offshore wind farms (OWFs) and national electricity markets in the Baltic Sea. To this end, the project partners have prepared three sets of recommendations for EU and national level stakeholders. This report elaborates on the partners’ recommendations for the policy and regulatory framework.},
+type = {Abschlussbericht},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Research conducted within the Interreg Baltic InteGrid project is intended to facilitate the establishment of a meshed offshore grid connecting offshore wind farms (OWFs) and national electricity markets in the Baltic Sea. To this end, the project partners have prepared three sets of recommendations for EU and national level stakeholders. This report elaborates on the partners’ recommendations for the policy and regulatory framework.
+@techreport{Blazauskas2018,
+title = {Towards a Baltic Offshore Grid: connecting electricity markets through offshore wind farms},
+author = {Nerijus Blazauskas and Rasmus Borrmann and Elizabeth Côté and Łukasz Gajewski and Clemens Gerbaulet and Anna-Kathrin Wallasch and Natalia Kaczmarek and Thilo Krupp and Marija Lazić and Joanna Makowska and Anna Marczak and Bénédicte Martin and Andreas Möser and Joanna Pardus and Joanna Przedrzymirska and Maciej Stryjecki and Jörgen Svensson and Łukasz Szydłowski and Magda Trzaska and Richard Weinhold and Mariusz Wójcik},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/BIG_4.1-4.2_PreFeasibility-Case-Studies_Towards-a-Baltic-Offshore-Grid_2018_final.pdf},
+year = {2018},
+date = {2018-09-00},
+type = {Pre-Feasibility Studies report for Polish-Swedish-Lithuanian and German-Swedish-Danish interconnectors integrated with offshore wind farms},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

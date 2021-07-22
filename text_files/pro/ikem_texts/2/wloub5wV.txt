@@ -1,0 +1,63 @@
+Hannes Doderer studierte Rechtswissenschaften an der Eberhard Karls Universität Tübingen und arbeitete am ehem. Lehrstuhl für Öffentliches Recht, einschließlich Völkerrecht bei Prof. i.R. Dr. Dr. h.c. Wolfgang Graf Vitzthum, LL.M. (Columbia). Seinen juristischen Vorbereitungsdienst absolvierte er am Landgericht Stuttgart. Die Arbeitsschwerpunkte von Herrn Doderer liegen im Energiebereich. Expertise besteht darüber hinaus auch im Mobilitätsbereich.
+Im Energiebereich untersucht Herr Doderer die energierechtlichen Hemmnisse der Sektorenkopplung im Hinblick auf die Übertragung von Energie aus dem Stromsektor in den Wärme-, Industrie- und Verkehrssektor und den damit im Zusammenhang stehenden Flexibilisierungsmöglichkeiten mittels Technologien wie bspw. Power-to-Heat oder Power- to-Gas. Ein besonderer Fokus der Forschungsarbeiten von Herrn Doderer liegt im Wärmebereich, einschließlich der Wärmeinfrastruktur (Wärmenetze und Wärmespeicher). Dort geht er der Frage nach, wie die Wärmenachfrage mit hohen Anteilen erneuerbarer Wärme gedeckt werden kann, um eine klimaschonende Wärmeversorgung zu ermöglichen. Weitere Forschungsschwerpunkte liegen im Bereich der industriellen Abwärmenutzung und der Integration von Kläranlagen in das Gesamtenergieversorgungssystem. Darüber hinaus hat Herr Doderer Expertise im Bereich der Energieeffizienz und des Moorschutzes.
+Seit Herbst 2014 ist er wissenschaftlicher Referent am Institut für Klimaschutz, Energie und Mobilität. Seit September 2017 vertritt Herr Doderer das IKEM am Standort Stuttgart und leitet das Energierechtsteam.
+Metz, Jonathan; Doderer, Hannes; Harsch, Victoria; Schäfer-Stradowsky, Simon
+Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung Forschungsbericht
+@techreport{Metz2021b,
+title = {Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung},
+author = {Jonathan Metz and Hannes Doderer and Victoria Harsch and Simon Schäfer-Stradowsky},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-EE-Finanzierung-Broschuere-final.pdf},
+year = {2021},
+date = {2021-02-02},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Doderer2021b,
+title = {Regelungsgehalt der SINTEG-V am Beispiel der Netzentgeltermittlung und der Netzentgeltprivilegierung für Sonderformen der Netznutzung},
+author = {Hannes Doderer and Jonathan Metz},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/IKEM-SintegV.pdf},
+year = {2021},
+date = {2021-02-02},
+journal = {Artikel im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+@techreport{Metz2021,
+title = {Systemische Ansätze zur Reform der Netzentgelte für die Energiewende 2.0},
+author = {Jonathan Metz and Hannes Doderer},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-Netzentgelte-Broschüre.pdf},
+year = {2021},
+date = {2021-01-26},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Doderer2021,
+title = {Synthesebericht: Flexibilität, Markt und Regulierung},
+author = {Hannes Doderer and Severin Beucker and Alexander Funke and Christopher Koch and Hendrik Kondziella and Jörn Hartung and Sandra Maeding and Henning Medert and Georg Meyer-Braune and Michael Rath and Niko Rogler},
+url = {https://www.windnode.de/fileadmin/Daten/Downloads/FMR_ES.pdf},
+year = {2021},
+date = {2021-01-13},
+type = {Synthesebericht im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Doderer2020c,
+title = {Volatile Energie als Normalfall – Wie sehen die Stromnetzentgelte in der Zukunft aus?},
+author = {Hannes Doderer and Jonathan Metz and Johannes Antoni},
+url = {https://research.owlit.de/lx-document/REL1347300, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {42-46},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}

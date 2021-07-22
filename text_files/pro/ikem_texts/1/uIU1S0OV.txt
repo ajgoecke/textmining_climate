@@ -1,0 +1,462 @@
+IKEM regularly disseminates the results of its research through studies, statements and articles in renowned journals. Through its PhD programme, the institute helps excellent young scholars in conducting and publishing their research.
+Metz, Jonathan; Doderer, Hannes; Harsch, Victoria; Schäfer-Stradowsky, Simon
+Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung Technical Report
+@techreport{Metz2021b,
+title = {Zukünftige Finanzierung von Erneuerbaren Energien: Rechtliche Analyse von Reformüberlegungen für den EEG-Fördermechanismus und Ausblick auf eine Finanzierung Erneuerbarer Energien jenseits der EEG-Förderung},
+author = {Jonathan Metz and Hannes Doderer and Victoria Harsch and Simon Schäfer-Stradowsky},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-EE-Finanzierung-Broschuere-final.pdf},
+year = {2021},
+date = {2021-02-02},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Krampitz2021,
+title = {Erfordernis eines code of conduct als praktische Hilfestellung für die Übersetzung der Straßenverkehrsordnung in technische Vorgaben},
+author = {Mathilde Krampitz},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-HEAT-Stellungnahme-code-of-conduct-StVO-1.pdf, Stellungnahme als PDF},
+year = {2021},
+date = {2021-01-28},
+abstract = {Noch immer liegt kein umfassender Rechtsrahmen für den Betrieb autonomer und vernetzter Fahrfunktionen vor. Wer das laufende Gesetzesvorhaben des BMVI verfolgt, erkennt, dass die unumgängliche Anpassung der Straßenverkehrsordnung (StVO) bislang nur zaghaft erfolgt und sich in einer bloßen Neutralisierung des Begriffs „Fahrzeugführer“ erschöpft, indem klargestellt wird, dass (alle) Fahrzeuge die Vorschriften der StVO zu beachten haben. Eine Öffnung der StVO in dem beschriebenen Umfang wird sich in der Praxis allerdings als zu kurz gegriffen erweisen.
+Das IKEM, Konsortialpartner des Projekts HEAT (Hamburg Electric Autonomous Transportation), fordert in dem Zusammenhang eine intensive Auseinandersetzung mit der Problematik, auf welche Art und Weise die Vorgaben der StVO, welche sich an menschliche Adressaten richten, konkret in der Praxis durch Hersteller technisch umgesetzt werden können.},
+type = {IKEM-Stellungnahme im Rahmen des Projekts HEAT},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Noch immer liegt kein umfassender Rechtsrahmen für den Betrieb autonomer und vernetzter Fahrfunktionen vor. Wer das laufende Gesetzesvorhaben des BMVI verfolgt, erkennt, dass die unumgängliche Anpassung der Straßenverkehrsordnung (StVO) bislang nur zaghaft erfolgt und sich in einer bloßen Neutralisierung des Begriffs „Fahrzeugführer“ erschöpft, indem klargestellt wird, dass (alle) Fahrzeuge die Vorschriften der StVO zu beachten haben. Eine Öffnung der StVO in dem beschriebenen Umfang wird sich in der Praxis allerdings als zu kurz gegriffen erweisen.
+Das IKEM, Konsortialpartner des Projekts HEAT (Hamburg Electric Autonomous Transportation), fordert in dem Zusammenhang eine intensive Auseinandersetzung mit der Problematik, auf welche Art und Weise die Vorgaben der StVO, welche sich an menschliche Adressaten richten, konkret in der Praxis durch Hersteller technisch umgesetzt werden können.
+@techreport{Metz2021,
+title = {Systemische Ansätze zur Reform der Netzentgelte für die Energiewende 2.0},
+author = {Jonathan Metz and Hannes Doderer},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM-Netzentgelte-Broschüre.pdf},
+year = {2021},
+date = {2021-01-26},
+type = {Metaanalyse im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Doderer2021,
+title = {Synthesebericht: Flexibilität, Markt und Regulierung},
+author = {Hannes Doderer and Severin Beucker and Alexander Funke and Christopher Koch and Hendrik Kondziella and Jörn Hartung and Sandra Maeding and Henning Medert and Georg Meyer-Braune and Michael Rath and Niko Rogler},
+url = {https://www.windnode.de/fileadmin/Daten/Downloads/FMR_ES.pdf},
+year = {2021},
+date = {2021-01-13},
+type = {Synthesebericht im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Hartwig2020g,
+title = {Akteursmodell für die Finanzierung und Abrechnung elektrischer Straßensysteme (ERS)},
+author = {Matthias Hartwig },
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201217_ERS-Akteursmodelle.pdf, Working Paper als PDF},
+doi = {10.5281/zenodo.4337906},
+year = {2020},
+date = {2020-12-17},
+type = {IKEM Working Paper},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Eickelmann2020c,
+title = { Rechtliche Rahmenbedingungen für die Einbindung eines autonomen Shuttles über eine digitale Mobilitätsplattform in den Bedarfs- und Linienverkehr},
+author = {Elias Eickelmann and Mathilde Krampitz and Anna Bußmann-Welsch and David Stegmaier},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/202012_Hub-Chain-Studie.pdf, Studie als pdf},
+year = {2020},
+date = {2020-12-14},
+type = {Studie im Rahmen des Projekts Hub-Chain},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Horng2020,
+title = {Wasserstoff - Farbenlehre: Rechtwissenschaftliche und rechtspolitische Kurzstudie},
+author = {Pauline Horng and Michael Kalis and Sabrina Heinecke and Jannis Glahe and Odile Stabon},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM_Kurzstudie_Wasserstoff_Farbenlehre.pdf},
+year = {2020},
+date = {2020-12-14},
+type = {Studie im Auftrag des Clusters Energietechnik},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Jahnke2020,
+title = {Flexibilisierung der erneuerbaren Stromerzeugung aus Biomasse-KWK-Anlagen – eine technische, ökonomische und rechtliche Analyse},
+author = {Philipp Jahnke and Tim Scherwath and Joschka Selinger and Denise Held and Simon Schäfer-Stradowsky and Michael Teigeler and Peter Erb and Virena Schmeink and Benjamin Grosse and Johannes Kochems and Rinus Heizmann and Yannick Werner and Flora von Mikulicz-Radecki and Arian Hohgräve and Simon Byrtus and Joachim Müller-Kirchenbauer},
+url = {https://www.ikem.de/wp-content/uploads/2020/12/ENavi-Biomasse-KWK.pdf, Arbeitspapier als PDF},
+doi = {10.5281/zenodo.4304039},
+year = {2020},
+date = {2020-12-03},
+institution = {IKEM, BBH, Stadtwerke Heidelberg, TU Berlin:},
+type = {Arbeitspapier im Rahmen des Kopernikus-Projekts ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Hartwig2020i,
+title = {AMELIE - RED – Abrechnungssysteme und -methoden für elektrisch betriebene Lkw sowie deren interoperable Infrastrukturen im europäischen Kontext},
+author = {Matthias Hartwig and Anna Bußmann-Welsch and Fynn Claes and Lisa Schneider},
+url = {https://www.ikem.de/wp-content/uploads/2021/06/20210122_Final-Report_AMELIE.pdf},
+year = {2020},
+date = {2020-12-00},
+institution = {IKEM: },
+abstract = {Vorliegend handelt es sich um eine rechtswissenschaftliche Studie des Instituts für Klimaschutz Ener- gie und Mobilität (IKEM) im Rahmen des Projektes AMELIE. Die Untersuchung wurde nach den Me- thoden und Standards rechtswissenschaftlichen Arbeitens auf Grundlage des zum Bearbeitungszeit- punkt geltenden Rechts durchgeführt. Wenngleich die rechtswissenschaftliche Auseinandersetzung mit konkreten Einzelfällen möglich ist, vermag die Studie eine Rechtsberatung zu konkreten rechtli- chen Fragestellungen nicht zu ersetzen. Insbesondere können konkrete Vorfragen für unternehmeri- sche, legislative oder administrative Entscheidungen nicht durch Gutachten des IKEM verbindlich ge- klärt werden. Geäußerte Rechtsmeinungen entsprechen grundsätzlich der wissenschaftlich fundier- ten Einschätzung der Autor:innen, müssen aber nicht der Rechtsmeinung oder Entscheidungspraxis von Behörden und Gerichten entsprechen, die mit Entscheidungen in Bezug auf den begutachteten Sachverhalt befasst sind oder befasst sein werden. Rechtsberatung und die dazu erforderliche recht- liche Prüfung des Einzelfalls kann und darf vom IKEM aufgrund § 3 Rechtsdienstleistungsgesetz nicht erbracht werden. Es muss dazu insbesondere auf anwaltliche Rechtsberatung verwiesen werden. Das IKEM übernimmt damit auch keine Haftung für rechtliche Fehleinschätzungen und Fehlentscheidun- gen aufgrund der von dessen Autoren geäußerten rein wissenschaftlichen Rechtsmeinungen.},
+type = {Abschlussbericht und rechtswissenschaftliche Studie im Rahmen des Projekts AMELIE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Vorliegend handelt es sich um eine rechtswissenschaftliche Studie des Instituts für Klimaschutz Ener- gie und Mobilität (IKEM) im Rahmen des Projektes AMELIE. Die Untersuchung wurde nach den Me- thoden und Standards rechtswissenschaftlichen Arbeitens auf Grundlage des zum Bearbeitungszeit- punkt geltenden Rechts durchgeführt. Wenngleich die rechtswissenschaftliche Auseinandersetzung mit konkreten Einzelfällen möglich ist, vermag die Studie eine Rechtsberatung zu konkreten rechtli- chen Fragestellungen nicht zu ersetzen. Insbesondere können konkrete Vorfragen für unternehmeri- sche, legislative oder administrative Entscheidungen nicht durch Gutachten des IKEM verbindlich ge- klärt werden. Geäußerte Rechtsmeinungen entsprechen grundsätzlich der wissenschaftlich fundier- ten Einschätzung der Autor:innen, müssen aber nicht der Rechtsmeinung oder Entscheidungspraxis von Behörden und Gerichten entsprechen, die mit Entscheidungen in Bezug auf den begutachteten Sachverhalt befasst sind oder befasst sein werden. Rechtsberatung und die dazu erforderliche recht- liche Prüfung des Einzelfalls kann und darf vom IKEM aufgrund § 3 Rechtsdienstleistungsgesetz nicht erbracht werden. Es muss dazu insbesondere auf anwaltliche Rechtsberatung verwiesen werden. Das IKEM übernimmt damit auch keine Haftung für rechtliche Fehleinschätzungen und Fehlentscheidun- gen aufgrund der von dessen Autoren geäußerten rein wissenschaftlichen Rechtsmeinungen.
+@techreport{Kalis2020d,
+title = {Rechtsrahmen für Wasserstoffnetze. Anpassungsvorschläge für die Kooperationsvereinbarung Gas},
+author = {Michael Kalis},
+url = {https://www.ikem.de/wp-content/uploads/2020/11/20201104_IKEM_Rechtsrahmen_Wasserstoff_KoV.pdf},
+year = {2020},
+date = {2020-11-05},
+type = {IKEM Gutachten im Auftag von GASCADE Gastransport GmbH, Nowega GmbH, RWE Generation SE und Uniper SE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@book{etal.al.2021,
+title = {Automatisiertes Fahren auf der Schiene},
+author = {Friedrich-Wilhelm Hagemeyer and et al. },
+url = {https://www.springer.com/gp/book/9783658323271#aboutBook},
+doi = {10.1007/978-3-658-32328-8},
+year = {2021},
+date = {2021-06-02},
+publisher = {Springer Vieweg},
+abstract = {Getrieben durch akuten Fachkräftemangel besteht im Fernbahnbetrieb Bedarf an einer durchgreifenden Automatisierung unter Einsatz modernster Technologien. Chancen für eine wirtschaftliche Umsetzung bietet ein hochassistierter Betrieb, mit dem die Anforderungen an die Ausbildung von Triebfahrzeugführern radikal reduziert werden. In der vorliegenden Analyse werden die derzeitigen Tätigkeitsfelder eines Triebfahrzeugführers denen in einem vollautomatischen bzw. hochassistierten Bahnbetrieb hinsichtlich der rechtlichen und betrieblichen Randbedingungen gegenübergestellt. Dabei stellt der vollautomatische Bahnbetrieb in der regulatorischen Fragestellung den komplexesten Betrachtungsfall dar.},
+keywords = {},
+pubstate = {published},
+tppubtype = {book}
+}
+Getrieben durch akuten Fachkräftemangel besteht im Fernbahnbetrieb Bedarf an einer durchgreifenden Automatisierung unter Einsatz modernster Technologien. Chancen für eine wirtschaftliche Umsetzung bietet ein hochassistierter Betrieb, mit dem die Anforderungen an die Ausbildung von Triebfahrzeugführern radikal reduziert werden. In der vorliegenden Analyse werden die derzeitigen Tätigkeitsfelder eines Triebfahrzeugführers denen in einem vollautomatischen bzw. hochassistierten Bahnbetrieb hinsichtlich der rechtlichen und betrieblichen Randbedingungen gegenübergestellt. Dabei stellt der vollautomatische Bahnbetrieb in der regulatorischen Fragestellung den komplexesten Betrachtungsfall dar.
+@book{Schäfer-Stradowsky2021b,
+title = {Digitalisierung in der Energiewirtschaft},
+author = {Andreas Corusa and Georg Erdmann and Elena Timofeeve and Johannes Norbert Predel and Falk Ritschel and Christian Sprengel and Anne Walther and Daniel Kaufmann and Stefan Brühl and Victor Stocker and Christine Rosinger and Mathias Uslar and Simon Schäfer-Stradowsky},
+editor = {Technische Universität Berlin},
+url = {https://www.ikem.de/wp-content/uploads/2021/06/digitalisierung_energiewirtschaft.pdf},
+year = {2021},
+date = {2021-05-27},
+abstract = {Wir unternehmen mit diesem Werk den Versuch einen Teil der Komplexität des Themas anhand des Knowhows der beitragenden Autoren aus verschiedenen Disziplinen zu vereinen, um nicht nur Neugier des Lesenden zu wecken, sondern auch und um über das Thema Digitalisierung aufzuklären. Dabei besteht das Kompendium aus vier Teilen, die verschieden Herausforderungen der Digitalisierung beleuchten und systematische Einschätzungen sowie mögliche Lösungskonzepte präsentieren, die es aus Unternehmensperspektive zu beachten gibt. Das gesamte Werk stellt nur einen kleinen Teil dieser Herausforderungen dar, thematisiert aber besonders relevante.},
+keywords = {},
+pubstate = {published},
+tppubtype = {book}
+}
+Wir unternehmen mit diesem Werk den Versuch einen Teil der Komplexität des Themas anhand des Knowhows der beitragenden Autoren aus verschiedenen Disziplinen zu vereinen, um nicht nur Neugier des Lesenden zu wecken, sondern auch und um über das Thema Digitalisierung aufzuklären. Dabei besteht das Kompendium aus vier Teilen, die verschieden Herausforderungen der Digitalisierung beleuchten und systematische Einschätzungen sowie mögliche Lösungskonzepte präsentieren, die es aus Unternehmensperspektive zu beachten gibt. Das gesamte Werk stellt nur einen kleinen Teil dieser Herausforderungen dar, thematisiert aber besonders relevante.
+@online{Novikova2021b,
+title = {#IKEMClimateFinanceWeek: Debt-for-climate swaps},
+author = {Aleksandra Novikova and Marina Olshanksaya and Janna Hoppe and Erik Grigoryan},
+url = {https://www.ikem.de/wp-content/uploads/2021/05/Brief.2_Dept-for-nature-swaps.pdf},
+year = {2021},
+date = {2021-05-18},
+organization = {IKEM},
+abstract = {Climate finance plays a pivotal role in enabling developing countries to mitigate climate change and adapt to its impact. Thus far, the
+international community has failed to make progress towards the goal of mobilising an annual USD 100 billion for climate projects in
+the developing world by 2020. Meanwhile, substantial public debt and persistent fiscal deficits limit access to concessional and nonconcessional
+climate finance in most of the developing world. Debt-for-climate swaps offer a solution to both challenges by providing debt
+relief while mobilising funds for climate protection. Based on past evidence, we assessed the applicability of the scheme to countries of the
+Caucasus and Central Asia. They can stand as a good example for the challenges and opportunities of debt-for-climate swaps for other
+developing countries. This brief summarises our recommendations for the design of a debt-for-climate swap to maximise financial value,
+achieve climate benefits in line with national goals and ensure effective and transparent governance and implementation.},
+keywords = {},
+pubstate = {published},
+tppubtype = {online}
+}
+Climate finance plays a pivotal role in enabling developing countries to mitigate climate change and adapt to its impact. Thus far, the
+international community has failed to make progress towards the goal of mobilising an annual USD 100 billion for climate projects in
+the developing world by 2020. Meanwhile, substantial public debt and persistent fiscal deficits limit access to concessional and nonconcessional
+climate finance in most of the developing world. Debt-for-climate swaps offer a solution to both challenges by providing debt
+relief while mobilising funds for climate protection. Based on past evidence, we assessed the applicability of the scheme to countries of the
+Caucasus and Central Asia. They can stand as a good example for the challenges and opportunities of debt-for-climate swaps for other
+developing countries. This brief summarises our recommendations for the design of a debt-for-climate swap to maximise financial value,
+achieve climate benefits in line with national goals and ensure effective and transparent governance and implementation.
+@article{Doderer2021b,
+title = {Regelungsgehalt der SINTEG-V am Beispiel der Netzentgeltermittlung und der Netzentgeltprivilegierung für Sonderformen der Netznutzung},
+author = {Hannes Doderer and Jonathan Metz},
+url = {https://www.ikem.de/wp-content/uploads/2021/02/IKEM-SintegV.pdf},
+year = {2021},
+date = {2021-02-02},
+journal = {Artikel im Rahmen von WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+@proceedings{Pfeifer2021,
+title = {Rechtliche Herausforderungen und Ansätze für eine umweltgerechte und nachhaltige Stadtentwicklung},
+author = {Friederike Pfeifer and Felix Nowack},
+url = {https://www.ikem.de/wp-content/uploads/2021/03/Rechtliche-Herausforderungen-und-Ansaetze-fuer-eine-umweltgerechte-und-nachhaltige-Stadtentwicklung_Nomos.pdf},
+year = {2021},
+date = {2021-00-00},
+publisher = {Nomos},
+keywords = {},
+pubstate = {published},
+tppubtype = {proceedings}
+}
+@article{Krampitz2020c,
+title = {Gesetz zum autonomen Fahren – Es bleibt noch viel zu tun},
+author = {Mathilde Krampitz},
+url = {https://www.busundbahn.de/publikationen/der-nahverkehr.html, Website des Verlags},
+year = {2020},
+date = {2020-12-01},
+journal = {Der Nahverkehr},
+volume = {12},
+number = {38},
+pages = {11-13},
+abstract = {Das Bundesministerium für Verkehr und digitale Infrastruktur will mit seinem geplanten Gesetz zum autonomen Fahren dafür sorgen, dass Deutschland zum Vorreiter in Sachen Fahrzeugautomatisierung wird. Leider schafft es der Entwurf nicht, sich von der Vorstellung eines menschlichen Fahrzeugführers als zentralem Adressaten und wesentlichem Leitbild des Straßenverkehrsrechts zu verabschieden. Auch in Sachen Klimaschutz bleibt er hinter den Erwartungen zurück. Stattdessen bräuchte es einen ganzheitlichen Ansatz, der die Unterschiede und Besonderheiten maschineller Lösungen in den Fokus rückt und in klare rechtliche Anforderungen übersetz und sich außerdem an unseren Klimaschutzzielen orientiert. },
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Das Bundesministerium für Verkehr und digitale Infrastruktur will mit seinem geplanten Gesetz zum autonomen Fahren dafür sorgen, dass Deutschland zum Vorreiter in Sachen Fahrzeugautomatisierung wird. Leider schafft es der Entwurf nicht, sich von der Vorstellung eines menschlichen Fahrzeugführers als zentralem Adressaten und wesentlichem Leitbild des Straßenverkehrsrechts zu verabschieden. Auch in Sachen Klimaschutz bleibt er hinter den Erwartungen zurück. Stattdessen bräuchte es einen ganzheitlichen Ansatz, der die Unterschiede und Besonderheiten maschineller Lösungen in den Fokus rückt und in klare rechtliche Anforderungen übersetz und sich außerdem an unseren Klimaschutzzielen orientiert.
+@phdthesis{b,
+title = {Perspektiven einer vollharmonisierten Förderung erneuerbarer Energien in der Europäischen Union},
+author = { Agnes Julia Behm},
+url = {http://www.wvberlin.de/data/inhalt/behm.html},
+year = {2016},
+date = {2016-01-01},
+publisher = {Wissenschaftlicher Verlag Berlin},
+school = {Universität Greifswald},
+abstract = {Die Europäische Union und die Mitgliedstaaten streben ein Energiesystem mit einem wachsenden Anteil erneuerbarer Energien an. Fraglich ist, ob der Regelungsansatz nach der Erneuerbare-Energien-Richtlinie von 2009 auch mit Blick auf die europäischen Klima- und Energieziele für 2030 Erfolg versprechend ist. Eine Alternative könnte die vollharmonisierte Förderung erneuerbarer Energien sein, deren Möglichkeiten und Grenzen in dieser Arbeit rechtswissenschaftlich untersucht werden. Besonders deutlich werden dabei die Einschränkungen des unionsrechtlichen Handlungsspielraums, die sich daraus ergeben, dass eine vollharmonisierte Förderung bei einem steigenden Anteil erneuerbarer Energien die mitgliedstaatliche Wahl zwischen verschiedenen Energiequellen erheblich berührt. Auch müssten bei einer vollharmonisierten Förderung Mechanismen zur Verteilung von Kosten und Nutzen zwischen den Mitgliedstaaten geschaffen werden, die - je nachAusgestaltung - eine weitere unionsrechtliche Herausforderung darstellen.},
+keywords = {},
+pubstate = {published},
+tppubtype = {phdthesis}
+}
+Die Europäische Union und die Mitgliedstaaten streben ein Energiesystem mit einem wachsenden Anteil erneuerbarer Energien an. Fraglich ist, ob der Regelungsansatz nach der Erneuerbare-Energien-Richtlinie von 2009 auch mit Blick auf die europäischen Klima- und Energieziele für 2030 Erfolg versprechend ist. Eine Alternative könnte die vollharmonisierte Förderung erneuerbarer Energien sein, deren Möglichkeiten und Grenzen in dieser Arbeit rechtswissenschaftlich untersucht werden. Besonders deutlich werden dabei die Einschränkungen des unionsrechtlichen Handlungsspielraums, die sich daraus ergeben, dass eine vollharmonisierte Förderung bei einem steigenden Anteil erneuerbarer Energien die mitgliedstaatliche Wahl zwischen verschiedenen Energiequellen erheblich berührt. Auch müssten bei einer vollharmonisierten Förderung Mechanismen zur Verteilung von Kosten und Nutzen zwischen den Mitgliedstaaten geschaffen werden, die - je nachAusgestaltung - eine weitere unionsrechtliche Herausforderung darstellen.
+@phdthesis{9783406608544,
+title = {Regulierung des Zugangs zu Speicheranlagen},
+author = { Sven Fischerauer},
+url = {http://www.ebook.de/de/product/11592397/sven_fischerauer_regulierung_des_zugangs_zu_speicheranlagen.html},
+isbn = {340660854X},
+year = {2010},
+date = {2010-06-22},
+publisher = {C. H. Beck},
+school = {Universität Greifswald},
+abstract = {Neben dem Gasnetzzugang, der lange Zeit im Mittelpunkt der nationalen und europäischen Gasmarktregulierung stand, ist der Zugang zu Speicheranlagen ein wesentlicher Baustein für die Schaffung effektiven Wettbewerbs auf den Gasmärkten. Ohne diskriminierungsfreien Speicherzugang können Wettbewerbspotenziale nicht ausgeschöpft werden, da den Marktteilnehmern ein wichtiges Mittel zur Flexibilisierung des Gasgeschäfts und besonders zur Senkung der Bezugskosten fehlt. Nachdem sich die wissenschaftliche Diskussion bis dato vornehmlich auf die Regulierung des Gasnetzzugangs konzentrierte, untersucht das vorliegende Werk die Rechtsgrundlagen für den Zugang zu Speicheranlagen. Im Zentrum steht die Analyse der Zugangsvorschriften der 26, 28 EnWG in ihrer wettbewerbsbegründenden Funktion. Die diesbezüglichen Vorgaben des Gemeinschaftsrechts werden kritisch beleuchtet. Darüber hinaus befasst sich das Werk mit den verfahrensrechtlichen Möglichkeiten zur Durchsetzung des Speicherzugangs und der Entflechtung von Speicherbetreibern in vertikal integrierten Unternehmen. In diesem Zusammenhang finden die bis März 2011 umzusetzenden Speicherregelungen des Dritten EU-Energiepakets, die im Vergleich zur bisherigen Rechtslage deutliche Verschärfungen mit sich bringen, nähere Beachtung.},
+keywords = {},
+pubstate = {published},
+tppubtype = {phdthesis}
+}
+Neben dem Gasnetzzugang, der lange Zeit im Mittelpunkt der nationalen und europäischen Gasmarktregulierung stand, ist der Zugang zu Speicheranlagen ein wesentlicher Baustein für die Schaffung effektiven Wettbewerbs auf den Gasmärkten. Ohne diskriminierungsfreien Speicherzugang können Wettbewerbspotenziale nicht ausgeschöpft werden, da den Marktteilnehmern ein wichtiges Mittel zur Flexibilisierung des Gasgeschäfts und besonders zur Senkung der Bezugskosten fehlt. Nachdem sich die wissenschaftliche Diskussion bis dato vornehmlich auf die Regulierung des Gasnetzzugangs konzentrierte, untersucht das vorliegende Werk die Rechtsgrundlagen für den Zugang zu Speicheranlagen. Im Zentrum steht die Analyse der Zugangsvorschriften der 26, 28 EnWG in ihrer wettbewerbsbegründenden Funktion. Die diesbezüglichen Vorgaben des Gemeinschaftsrechts werden kritisch beleuchtet. Darüber hinaus befasst sich das Werk mit den verfahrensrechtlichen Möglichkeiten zur Durchsetzung des Speicherzugangs und der Entflechtung von Speicherbetreibern in vertikal integrierten Unternehmen. In diesem Zusammenhang finden die bis März 2011 umzusetzenden Speicherregelungen des Dritten EU-Energiepakets, die im Vergleich zur bisherigen Rechtslage deutliche Verschärfungen mit sich bringen, nähere Beachtung.
+@phdthesis{templin2009recht,
+title = {Recht der Konzessionsverträge: eine historische, verfassungsrechtliche, rechtstatsächliche und rechtspolitische Analyse des Konzessionsvertrages als Instrument gemeindlicher Energiepolitik},
+author = { W. Templin},
+url = {https://books.google.de/books?id=a1tkPgAACAAJ},
+isbn = {9783406589416},
+year = {2009},
+date = {2009-01-01},
+publisher = {C.H. Beck},
+school = {Universität Greifswald},
+series = {Energie- und Infrastrukturrecht},
+keywords = {},
+pubstate = {published},
+tppubtype = {phdthesis}
+}
+@phdthesis{9783939804284,
+title = {Klimaschutzrelevante Emissionsabgaben in der russischen Föderation: Eine interdisziplinäre Untersuchung ihrer Effizienz},
+author = { Janine Rechel},
+url = {http://www.ebook.de/de/product/7100442/janine_rechel_klimaschutzrelevante_emissionsabgaben_in_der_russischen_foederation.html},
+isbn = {3939804282},
+year = {2008},
+date = {2008-03-11},
+publisher = {Lexxion Verlag},
+school = {Universität Greifswald},
+abstract = {Angesichts der wachsenden Probleme und volkswirtschaftlichen Kosten des Klimawandels stellt sich auch für Transformationsstaaten wie die Russische Föderation die Frage nach effektiven rechtlichen Instrumenten gegen exzessive Schadstoffemissionen. Trotz der Ratifizierung des Kyoto Protokolls befinden sich die dort vorgesehenen Instrumente noch in der Entwicklung, so dass den Emissionsabgaben eine besondere Rolle zukommt. Die vorliegende Arbeit untersucht die Funktionsweise der russischen Emissionsabgaben, ihre Entwicklungstendenzen, ihre Homogenität im Umwelt- und Steuerrecht und ihre administrative Umsetzung. Sie versucht, Erklärungsansätze für die erheblichen Vollzugsdefizite zu finden und stützt sich dabei auch auf ökonomische Theorien zu Umweltschutz, Behördenvollzug und Transformationsfragen.},
+keywords = {},
+pubstate = {published},
+tppubtype = {phdthesis}
+}
+Angesichts der wachsenden Probleme und volkswirtschaftlichen Kosten des Klimawandels stellt sich auch für Transformationsstaaten wie die Russische Föderation die Frage nach effektiven rechtlichen Instrumenten gegen exzessive Schadstoffemissionen. Trotz der Ratifizierung des Kyoto Protokolls befinden sich die dort vorgesehenen Instrumente noch in der Entwicklung, so dass den Emissionsabgaben eine besondere Rolle zukommt. Die vorliegende Arbeit untersucht die Funktionsweise der russischen Emissionsabgaben, ihre Entwicklungstendenzen, ihre Homogenität im Umwelt- und Steuerrecht und ihre administrative Umsetzung. Sie versucht, Erklärungsansätze für die erheblichen Vollzugsdefizite zu finden und stützt sich dabei auch auf ökonomische Theorien zu Umweltschutz, Behördenvollzug und Transformationsfragen.
+@phdthesis{b,
+title = {Modelle zur Förderung erneuerbarer Energieträger: Eine rechtsvergleichende Untersuchung von Modellen zur Förderung erneuerbarer Energieträger am Beispiel Polens und Deutschlands},
+author = { Dorota Michałowska},
+url = {https://www.deutsche-digitale-bibliothek.de/binary/QXLINLUDFAPHQKUWUAWKB6655NSPZZAS/full/1.pdf},
+year = {2008},
+date = {2008-01-01},
+school = {Universität Greifswald},
+keywords = {},
+pubstate = {published},
+tppubtype = {phdthesis}
+}
+@phdthesis{9783936232790,
+title = {Die Identifikation der Steuervergünstigungen},
+author = { Daniel J. Reinke},
+url = {http://www.ebook.de/de/product/6438944/daniel_j_reinke_die_identifikation_der_steuerverguenstigungen.html},
+isbn = {3936232792},
+year = {2006},
+date = {2006-12-11},
+publisher = {Lexxion Verlag},
+school = {Universität Greifswald},
+abstract = {Die Arbeit beschäftigt sich mit der Identifikation der Steuervergünstigung als Akt der Auslegung. Es werden vier Qualifikationsmerkmale der Steuervergünstigung herausgearbeitet, die für eine zuverlässige Identifikation notwendig sind. Im weiteren Verlauf der Arbeit wird die Differenzierungskraft der gefundenen Abgrenzungsmerkmale amBeispiel der Einkommensteuer und der Kraftfahrzeugsteuer untersucht. Hierbei sind Gegenstand der Untersuchung nur solche Regelungen, die dem Umweltschutz im weitesten Sinne dienen könnten.},
+keywords = {},
+pubstate = {published},
+tppubtype = {phdthesis}
+}
+Die Arbeit beschäftigt sich mit der Identifikation der Steuervergünstigung als Akt der Auslegung. Es werden vier Qualifikationsmerkmale der Steuervergünstigung herausgearbeitet, die für eine zuverlässige Identifikation notwendig sind. Im weiteren Verlauf der Arbeit wird die Differenzierungskraft der gefundenen Abgrenzungsmerkmale amBeispiel der Einkommensteuer und der Kraftfahrzeugsteuer untersucht. Hierbei sind Gegenstand der Untersuchung nur solche Regelungen, die dem Umweltschutz im weitesten Sinne dienen könnten.
+@phdthesis{9783936232806,
+title = {Quotenmodelle zur Förderung erneuerbarer Energien},
+author = { Thomas Komorowski},
+url = {http://www.ebook.de/de/product/6438941/thomas_komorowski_quotenmodelle_zur_foerderung_erneuerbarer_energien.html},
+isbn = {3936232806},
+year = {2006},
+date = {2006-10-11},
+publisher = {Lexxion Verlag},
+school = {Universität Greifswald},
+abstract = {Ausgehend von der Prämisse, dass der Einsatz erneuerbarer Energien im Bereich der Elektrizitätserzeugung in Zukunft weiter erheblich gesteigert werden soll und am gegenwärtig praktizierten Fördersystem des Erneuerbare-Energien-Gesetzes (EEG) grundlegende ökonomische Kritik geübt wird, untersucht der Verfasser ein Quotenmodell mit handelbaren Zertifikaten auf seine verfassungs- und europarechtliche Kompatibilität. Dabei werden insbesondere auch die verschiedenen Ausgestaltungsoptionen, wie Ersatzzahlungen, staatliche Interventionsmöglichkeiten auf dem Zertifikatsmarkt oder Abnahmepflichten für regenerativ erzeugte Elektrizität beleuchtet. Der Verfasser zeigt anhand der obergerichtlichen Rechtsprechung auf, dass grundlegende Bedenken gegen einen Wechsel in der Förderpolitik zumindest aus rechtlicher Sicht nicht bestehen und dort wosie vorhanden sind, durch entsprechende Ausgestaltung des Quotenmodells umgangen werden können.},
+keywords = {},
+pubstate = {published},
+tppubtype = {phdthesis}
+}
+Ausgehend von der Prämisse, dass der Einsatz erneuerbarer Energien im Bereich der Elektrizitätserzeugung in Zukunft weiter erheblich gesteigert werden soll und am gegenwärtig praktizierten Fördersystem des Erneuerbare-Energien-Gesetzes (EEG) grundlegende ökonomische Kritik geübt wird, untersucht der Verfasser ein Quotenmodell mit handelbaren Zertifikaten auf seine verfassungs- und europarechtliche Kompatibilität. Dabei werden insbesondere auch die verschiedenen Ausgestaltungsoptionen, wie Ersatzzahlungen, staatliche Interventionsmöglichkeiten auf dem Zertifikatsmarkt oder Abnahmepflichten für regenerativ erzeugte Elektrizität beleuchtet. Der Verfasser zeigt anhand der obergerichtlichen Rechtsprechung auf, dass grundlegende Bedenken gegen einen Wechsel in der Förderpolitik zumindest aus rechtlicher Sicht nicht bestehen und dort wosie vorhanden sind, durch entsprechende Ausgestaltung des Quotenmodells umgangen werden können.
+@phdthesis{9783832905101,
+title = {Umweltverträgliche Energieversorgung – Analyse eines neuen Gesetzeszwecks im Energiewirtschaftsrecht},
+author = { Michael Kuxenko},
+url = {http://www.ebook.de/de/product/2814882/michael_kuxenko_umweltvertraegliche_energieversorgung.html},
+isbn = {3832905103},
+year = {2004},
+date = {2004-03-11},
+publisher = {Nomos},
+school = {Universität Greifswald},
+abstract = {Der Gesetzeszweck einer »umweltverträglichen Energieversorgung« ist im Jahre 1998 in das novellierte Energiewirtschaftsgesetz aufgenommen worden. Im Zuge der Liberalisierung der leitungsgebundenen Energieversorgung ist damit gleichzeitig das »Duopol« der herkömmlichen Gesetzesziele des deutschen Energierechts, die preisgünstige und sichere Energieversorgung, zu einer durchaus nicht spannungsfreien Zieltrias erweitert worden. Diese gesetzliche Zweckerweiterung ist nicht nur theoretischer Natur. Vielmehr ergeben sich aus ihr konkrete Rechtsfolgen bei der Auslegung des Energiewirtschaftsgesetzes sowie bei der Ermessensausübung durch Verwaltung und Verordnungsgeber. Der Autor erörtert eingehend die Fragen der Rechtsanwendung des neuen Gesetzeszwecks in den Einzelbestimmungen des Energiewirtschaftsgesetzes, z.B. den Regelungen zum verhandelten Netzzugang oder zum Planfeststellungsverfahren für Energiefreileitungen. Darüber hinaus werden die umwelt- und rechtspolitischen Hintergründe der Einführung des Umweltverträglichkeitsziels sowie die verfassungsrechtlichen Fragestellungen erläutert.},
+keywords = {},
+pubstate = {published},
+tppubtype = {phdthesis}
+}
+Der Gesetzeszweck einer »umweltverträglichen Energieversorgung« ist im Jahre 1998 in das novellierte Energiewirtschaftsgesetz aufgenommen worden. Im Zuge der Liberalisierung der leitungsgebundenen Energieversorgung ist damit gleichzeitig das »Duopol« der herkömmlichen Gesetzesziele des deutschen Energierechts, die preisgünstige und sichere Energieversorgung, zu einer durchaus nicht spannungsfreien Zieltrias erweitert worden. Diese gesetzliche Zweckerweiterung ist nicht nur theoretischer Natur. Vielmehr ergeben sich aus ihr konkrete Rechtsfolgen bei der Auslegung des Energiewirtschaftsgesetzes sowie bei der Ermessensausübung durch Verwaltung und Verordnungsgeber. Der Autor erörtert eingehend die Fragen der Rechtsanwendung des neuen Gesetzeszwecks in den Einzelbestimmungen des Energiewirtschaftsgesetzes, z.B. den Regelungen zum verhandelten Netzzugang oder zum Planfeststellungsverfahren für Energiefreileitungen. Darüber hinaus werden die umwelt- und rechtspolitischen Hintergründe der Einführung des Umweltverträglichkeitsziels sowie die verfassungsrechtlichen Fragestellungen erläutert.
+@book{9783869652955b,
+title = {Behandlung von Stromspeichern im Stromsteuer- und Energiewirtschaftsrecht},
+author = { Michael Rodi and Erik Gawel and Simon Schäfer-Stradowsky and Alexandra Purkus},
+url = {http://books.lexxion.eu/books/view/9783869652955},
+isbn = {978-3-86965-295-5},
+year = {2016},
+date = {2016-01-01},
+publisher = {Lexxion},
+series = {IKEM-Schriftenreihe},
+abstract = {Im Rahmen der Energiewende gewinnen volatile Stromspeicherungen und die Notwendigkeit eines flexiblen Ausgleichs von Angebot und Nachfrage bei der Elektrizitätsversorgung zunehmende Bedeutung. Energiespeicher können einen wichtigen Beitrag zur Flexibilisierung der Stromerzeugung und zur Bereitstellung von Systemdienstleistungen durch nicht-konventionelle Kraftwerke leisten. Zurzeit ergeben sich jedoch rechtliche Hindernisse, die einem fairen Wettbewerb zwischen Speichern und anderen Flexibilitätsoptionen im Stromversorgungssystem entgegenstehen. Der vorliegende, interdisziplinär ausgerichtete Band bietet eine
+Übersicht über die gegenwärtige Rechtslage und bewertet gesetzliche Anpassungsmöglichkeiten anhand rechtlicher und ökonomischer Kriterien. Im Fokus steht dabei die Behandlung von Speichern im Stromsteuergesetz, für dessen Weiterentwicklung Empfehlungen entwickelt werden.},
+keywords = {},
+pubstate = {published},
+tppubtype = {book}
+}
+Im Rahmen der Energiewende gewinnen volatile Stromspeicherungen und die Notwendigkeit eines flexiblen Ausgleichs von Angebot und Nachfrage bei der Elektrizitätsversorgung zunehmende Bedeutung. Energiespeicher können einen wichtigen Beitrag zur Flexibilisierung der Stromerzeugung und zur Bereitstellung von Systemdienstleistungen durch nicht-konventionelle Kraftwerke leisten. Zurzeit ergeben sich jedoch rechtliche Hindernisse, die einem fairen Wettbewerb zwischen Speichern und anderen Flexibilitätsoptionen im Stromversorgungssystem entgegenstehen. Der vorliegende, interdisziplinär ausgerichtete Band bietet eine
+Übersicht über die gegenwärtige Rechtslage und bewertet gesetzliche Anpassungsmöglichkeiten anhand rechtlicher und ökonomischer Kriterien. Im Fokus steht dabei die Behandlung von Speichern im Stromsteuergesetz, für dessen Weiterentwicklung Empfehlungen entwickelt werden.
+@collection{9783869651682,
+title = {Die Eisenbahn im Zeitalter von Elektromobilität},
+author = { },
+editor = {Michael Rodi},
+url = {http://www.lexxion.de/en/verlagsprogramm-shop/details/4035/175/umwelt--und-planungsrecht/ikem-%E2%80%93-interdisziplin%C3%A4re-studien-zu-klimaschutz,-energie-und-mobilit%C3%A4t/die-eisenbahn-im-zeitalter-der-elektromobilit%C3%A4t},
+isbn = {3869651687},
+year = {2014},
+date = {2014-01-11},
+publisher = {Lexxion},
+series = {IKEM-Schriftenreihe},
+abstract = {Mit der zunehmenden Marktdurchdringung der Elektromobilität im Straßenverkehr stellt sich die Frage nach der systemischen Rückwirkung auf den Schienenverkehr. Dieser Thematik haben sich im beiliegenden Sammelband Experten aus verschiedenen Disziplinen angenommen und die wesentlichen Fragestellungen in technischer, rechtlicher, politischer und verkehrswissenschaftlicher Perspektive erörtert.},
+keywords = {},
+pubstate = {published},
+tppubtype = {collection}
+}
+Mit der zunehmenden Marktdurchdringung der Elektromobilität im Straßenverkehr stellt sich die Frage nach der systemischen Rückwirkung auf den Schienenverkehr. Dieser Thematik haben sich im beiliegenden Sammelband Experten aus verschiedenen Disziplinen angenommen und die wesentlichen Fragestellungen in technischer, rechtlicher, politischer und verkehrswissenschaftlicher Perspektive erörtert.
+@collection{9783869651521,
+title = {Opportunities and Drivers on the Way to a Low Carbon Society},
+author = { },
+editor = {Michael Rodi },
+url = {http://www.lexxion.de/en/verlagsprogramm-shop/details/3163/177/umwelt--und-planungsrecht/proceedings-of-the-summer-academy-%5C%27energy-and-the-environment%5C%27/opportunities-and-drivers-on-the-way-to-a-low-carbon-society.html},
+isbn = {978-3-86965-152-1},
+year = {2013},
+date = {2013-01-01},
+publisher = {Lexxion},
+series = {IKEM-Schriftenreihe},
+abstract = {Climate change, financial crises and the depletion of fossil fuels are all symptoms of an increasingly apparent cause: The ultimately unsustainable nature of our current model of consumption, production and overall society. As countries around the globe are committing to greener practices and policies, the issue of sustainability has become a standard point on the agenda of policy-makers. Although the transition to a low-carbon society has proven to be extremely challenging, the ecological, economic and social benefits are multifold. From job creation to improved public health, from preserved bio-diversity to new business prospects, the 2011 volume of the Summer Academy proceedings addresses the opportunities on the way to a low-carbon society, and draws attention to the obstacles as well.},
+keywords = {},
+pubstate = {published},
+tppubtype = {collection}
+}
+Climate change, financial crises and the depletion of fossil fuels are all symptoms of an increasingly apparent cause: The ultimately unsustainable nature of our current model of consumption, production and overall society. As countries around the globe are committing to greener practices and policies, the issue of sustainability has become a standard point on the agenda of policy-makers. Although the transition to a low-carbon society has proven to be extremely challenging, the ecological, economic and social benefits are multifold. From job creation to improved public health, from preserved bio-diversity to new business prospects, the 2011 volume of the Summer Academy proceedings addresses the opportunities on the way to a low-carbon society, and draws attention to the obstacles as well.
+@collection{9783869652047,
+title = {Anspruchsvoller Umweltschutz in der Fach- und Raumplanung},
+author = { },
+editor = {Michael Rodi},
+url = {http://www.lexxion.de/verlagsprogramm-shop/details/2689/11/umwelt--und-planungsrecht/anspruchsvoller-umweltschutz-in-der-fach--und-raumplanung.html#},
+isbn = {3869652047},
+year = {2012},
+date = {2012-06-11},
+publisher = {Lexxion Verlag},
+series = {IKEM-Schriftenreihe},
+abstract = {Vor dem Hintergrund aktueller Diskussionen und Entwicklungen im Planungs- und Zulassungsrecht für Großvorhaben veranstalteten das IKEM und das Umweltbundesamt die Tagung „Anspruchsvoller Umweltschutz in der Fach- und Raumplanung – Planungskaskaden bei Großvorhaben“. Thematische Schwerpunkte des Tagungsbands bilden die Beiträge zu den Themen Rechtsschutz und Öffentlichkeitsbeteiligung in Planungskaskaden. In weiteren Referaten nehmen Referenten aus Wissenschaft und Praxis das aktuelle Verfahren der Netzplanung nach der EnWG-Novelle und dem Netzausbaubeschleunigungsgesetz (NABEG) sowie die Bundesverkehrswegeplanung in den Blick. Ein Beitrag zu den Handlungsfeldern zur Fortentwicklung des Planungsrechts rundet den Tagungsband ab.},
+keywords = {},
+pubstate = {published},
+tppubtype = {collection}
+}
+Vor dem Hintergrund aktueller Diskussionen und Entwicklungen im Planungs- und Zulassungsrecht für Großvorhaben veranstalteten das IKEM und das Umweltbundesamt die Tagung „Anspruchsvoller Umweltschutz in der Fach- und Raumplanung – Planungskaskaden bei Großvorhaben“. Thematische Schwerpunkte des Tagungsbands bilden die Beiträge zu den Themen Rechtsschutz und Öffentlichkeitsbeteiligung in Planungskaskaden. In weiteren Referaten nehmen Referenten aus Wissenschaft und Praxis das aktuelle Verfahren der Netzplanung nach der EnWG-Novelle und dem Netzausbaubeschleunigungsgesetz (NABEG) sowie die Bundesverkehrswegeplanung in den Blick. Ein Beitrag zu den Handlungsfeldern zur Fortentwicklung des Planungsrechts rundet den Tagungsband ab.
+@collection{9783869651507,
+title = {Energy Infrastructure and Policy Options for a Sustainable Future},
+author = { },
+editor = {Michael Rodi},
+url = {http://www.lexxion.de/en/verlagsprogramm-shop/details/2682/177/umwelt--und-planungsrecht/proceedings-of-the-summer-academy-%5C%27energy-and-the-environment%5C%27/energy-infrastructure-and-policy-options-for-a-sustainable-future},
+isbn = {978-3-86965-150-7},
+year = {2012},
+date = {2012-01-01},
+publisher = {Lexxion},
+series = {IKEM-Schriftenreihe},
+abstract = {The combined edition of 2009–2010 of the international and inter disciplinary Summer Academy proceedings sheds light on major challenges in the ? eld of energy and the environment: climate policy, renewable energy and grid related questions. The collection of articles begins with an overview of efforts in the ? eld of international climate policy and development, such as the United Nations’ CDM (Clean Development Mechanism). It goes on to study the regional particularities of climate and environmental policy-making, using case studies from Europe, China and Africa. Finally, the proceedings consider the important part that energy will play in curbing climate change. After all, this sector is the major contributor of CO2 emissions and therefore the major cause of global warming. Transitional energy sources like gas will be discussed, and the necessary adjustments to our current energy infrastructure will be analyzed in case studies on grids from South America and Europe.},
+keywords = {},
+pubstate = {published},
+tppubtype = {collection}
+}
+The combined edition of 2009–2010 of the international and inter disciplinary Summer Academy proceedings sheds light on major challenges in the ? eld of energy and the environment: climate policy, renewable energy and grid related questions. The collection of articles begins with an overview of efforts in the ? eld of international climate policy and development, such as the United Nations’ CDM (Clean Development Mechanism). It goes on to study the regional particularities of climate and environmental policy-making, using case studies from Europe, China and Africa. Finally, the proceedings consider the important part that energy will play in curbing climate change. After all, this sector is the major contributor of CO2 emissions and therefore the major cause of global warming. Transitional energy sources like gas will be discussed, and the necessary adjustments to our current energy infrastructure will be analyzed in case studies on grids from South America and Europe.
+@collection{9783869651125,
+title = {Bridging the Divide in Global Climate Policy: Strategies for Enhanced Participation and Integration},
+author = { },
+editor = {Michael Rodi},
+url = {http://www.lexxion.de/en/verlagsprogramm-shop/details/1571/177/umwelt--und-planungsrecht/proceedings-of-the-summer-academy-%5C%27energy-and-the-environment%5C%27/bridging-the-divide-in-global-climate-policy--strategies-for-enhanced-participation-and-integ},
+isbn = {978-3-86965-112-5},
+year = {2009},
+date = {2009-01-01},
+publisher = {Lexxion},
+abstract = {While climate change is a global challenge facing all humankind, every attempt to negotiate a common response has been fraught with division – a rift born out of the widely divergent interests of nation states and regions engaged in multilateral diplomacy. Still, as our understanding of the climate threat improves and lends substance to an increasingly urgent call for action, traditional dividing lines are beginning to shift; in many areas, formerly entrenched positions are giving way to a discussion about compromise. Yet even so, the road to an agreed solution will be long and filled with obstacles. Offering new perspectives on this evolutionary process, the essays collected in this volume describe the current state of negotiations and highlight the political realities guiding central actors in the diplomatic arena. More importantly, their value goes beyond providing an updated assessment of the present debate to helping understand the dynamics that have shaped past and existing divisions.},
+keywords = {},
+pubstate = {published},
+tppubtype = {collection}
+}
+While climate change is a global challenge facing all humankind, every attempt to negotiate a common response has been fraught with division – a rift born out of the widely divergent interests of nation states and regions engaged in multilateral diplomacy. Still, as our understanding of the climate threat improves and lends substance to an increasingly urgent call for action, traditional dividing lines are beginning to shift; in many areas, formerly entrenched positions are giving way to a discussion about compromise. Yet even so, the road to an agreed solution will be long and filled with obstacles. Offering new perspectives on this evolutionary process, the essays collected in this volume describe the current state of negotiations and highlight the political realities guiding central actors in the diplomatic arena. More importantly, their value goes beyond providing an updated assessment of the present debate to helping understand the dynamics that have shaped past and existing divisions.
+@collection{9783939804369,
+title = {Between Theory and Practice: Putting Climate Policy to work},
+author = { },
+editor = {Michael Rodi},
+url = {https://www.amazon.com/Between-Theory-Practice-proceedings-Environment/dp/3939804363%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D3939804363},
+isbn = {978-3-939804-36-9},
+year = {2008},
+date = {2008-01-01},
+publisher = {Lexxion},
+abstract = {This volume closely reflects the international, interdisciplinary and integrative conception of the Summer Academy “Energy and the Environment.” In the third year of its existence, participants contributed a remarkable number of excellent contributions, necessitating publication in two separate volumes. The first part of this present volume explores challenges currently faced under the flexibility mechanisms of the Kyoto Protocol, notably their efficiency and their role for developing countries in a future climate regime. The second half is devoted to the wider range of policies und measures, with topics as diverse as the promotion of renewable energy, the measurement of energy efficiency, and the exploration of legal aspects of innovative – yet also controversial – Carbon Capture and Sequestration technologies. Well-rounded and accessible, this volume provides an informative canvas of the broader debate on available instruments to mitigate climate change.},
+keywords = {},
+pubstate = {published},
+tppubtype = {collection}
+}
+This volume closely reflects the international, interdisciplinary and integrative conception of the Summer Academy “Energy and the Environment.” In the third year of its existence, participants contributed a remarkable number of excellent contributions, necessitating publication in two separate volumes. The first part of this present volume explores challenges currently faced under the flexibility mechanisms of the Kyoto Protocol, notably their efficiency and their role for developing countries in a future climate regime. The second half is devoted to the wider range of policies und measures, with topics as diverse as the promotion of renewable energy, the measurement of energy efficiency, and the exploration of legal aspects of innovative – yet also controversial – Carbon Capture and Sequestration technologies. Well-rounded and accessible, this volume provides an informative canvas of the broader debate on available instruments to mitigate climate change.
+@collection{9783939804246,
+title = {Implementing the Kyoto Protocol - Chances and Challenges for Transition Countries},
+author = { },
+editor = {Michael Rodi},
+url = {http://www.ebook.de/de/product/6889638/implementing_the_kyoto_protocol_chances_and_challenges_for_transition_countries.html},
+isbn = {393980424X},
+year = {2007},
+date = {2007-07-11},
+publisher = {Lexxion},
+abstract = {From 21 to 27 August 2005, participants from a broad range of geographic and professional backgrounds convened by the shores of lake Baikal in Irkutsk, Russia, to attend the 2nd International Summer Academy ‘Energy and the Environment.’ Drawing on the recent ratification of the Kyoto Protocol by the Russian Federation, they addressed the opportunities and challenges arising for transition countries under the Protocol’s flexible mechanisms. These proceedings bring together the results of a close dialogue between participants and local experts during the Summer Academy, identifying obstacles to the implementation of the flexible mechanisms within existing economic, political and legal structures, and also highlighting the potential risks facing project partners and foreign investors. Together, the contributions to this volume canvas an interdisciplinary, practice-oriented survey of the market mechanisms underlying the incipient carbon market, and provide a timely and useful source of information for researchers and practitioners alike.},
+keywords = {},
+pubstate = {published},
+tppubtype = {collection}
+}
+From 21 to 27 August 2005, participants from a broad range of geographic and professional backgrounds convened by the shores of lake Baikal in Irkutsk, Russia, to attend the 2nd International Summer Academy ‘Energy and the Environment.’ Drawing on the recent ratification of the Kyoto Protocol by the Russian Federation, they addressed the opportunities and challenges arising for transition countries under the Protocol’s flexible mechanisms. These proceedings bring together the results of a close dialogue between participants and local experts during the Summer Academy, identifying obstacles to the implementation of the flexible mechanisms within existing economic, political and legal structures, and also highlighting the potential risks facing project partners and foreign investors. Together, the contributions to this volume canvas an interdisciplinary, practice-oriented survey of the market mechanisms underlying the incipient carbon market, and provide a timely and useful source of information for researchers and practitioners alike.
+IKEM contributes to research publications in the fields of of climate protection, energy and mobility published by the Lexxion and Claeys & Casteels publishing houses. The following journals are published in cooperation with the institute:
+Never has there been a time when so much of the world’s attention is focused on the rapidly increasing potential and need for renewable energy. The Journal of Renewable Energy Law and Policy provides a platform for review and discussion, both in Europe and internationally, of the legal and policy issues surrounding renewable energy.
+The journal reports on the dynamic and quickly changing developments taking place in Europe and around the world in the renewable energy sector, from bio-energy, solar and wind power to developing technologies like fuel cells and nuclear fusion. The journal serves a growing international community of renewable energy practitioners, lawyers and thought leaders with timely updates on legal and policy issues impacting renewable energy technologies and development.
+Each issue reports on trends and critical issues from the European Union and its active Member States, cutting edge experience from North America, Australia, and Japan, as well as opportunities and challenges in emerging markets and various corners of the developing world. Leading renewable energy scholars and practitioners report on the legal and policy implications of recent technology advances, political and regulatory decisions, market trends, as well as insightful new literature and relevant events. Above all, the journal provides a discussion forum and source of ideas and opportunities about critical issues of renewable energy – issues that will likely change our world.
+As climate policies evolve around the globe, attention is shifting from their conceptual design to the challenges of implementation. Where theoretical concerns once dominated, legal professionals are now called upon to ensure smooth operation of the regulatory framework. No area reflects this better than the carbon market, where each transaction is subject to sophisticated contractual arrangements, liability rules, accounting practices, and other mandatory constraints.
+Responding to the growing demand for a discussion forum on these issues, the Carbon & Climate Law Review strikes a balance between the interests of practitioners, notably those engaged in the rapidly evolving carbon market, and a more doctrinal focus, alternating legal policy recommendations with timely articles on legal aspects of carbon trading and other dimensions of greenhouse gas regulation.
+A section on current developments updates readers on recent market trends, political decisions, new literature and relevant events. Most importantly, however, the Carbon & Climate Law Review brings together representatives from the legal discipline and other stakeholders in one specialised journal, allowing them to engage in a dynamic debate on the law of climate change

@@ -1,0 +1,71 @@
+Denise Albert is a Senior Research Associate and lead of the energy law team at the Institute for Climate Protection, Energy and Mobility. She coordinates the Kopernikus project ‘ENavi’ funded by the Federal Ministry of Education and Research. Denise Alberts’ focus lies on energy law, especially the legal framework conditions of sector coupling. Within the ENavi project she researches the transformation of energy supply and the integration of renewable energies into the overall energy system from a legal perspective.
+She studied law at the Leibniz Universität in Hanover and focused on energy and economic law. At the chair in civil and economic law (Prof. Dr. Dr. Peter Salje) she worked as a student and later as a research assistant. She completed her legal clerkship in the region of the Higher Regional Court Celle.
+@techreport{Jahnke2020,
+title = {Flexibilisierung der erneuerbaren Stromerzeugung aus Biomasse-KWK-Anlagen – eine technische, ökonomische und rechtliche Analyse},
+author = {Philipp Jahnke and Tim Scherwath and Joschka Selinger and Denise Held and Simon Schäfer-Stradowsky and Michael Teigeler and Peter Erb and Virena Schmeink and Benjamin Grosse and Johannes Kochems and Rinus Heizmann and Yannick Werner and Flora von Mikulicz-Radecki and Arian Hohgräve and Simon Byrtus and Joachim Müller-Kirchenbauer},
+url = {https://www.ikem.de/wp-content/uploads/2020/12/ENavi-Biomasse-KWK.pdf, Arbeitspapier als PDF},
+doi = {10.5281/zenodo.4304039},
+year = {2020},
+date = {2020-12-03},
+institution = {IKEM, BBH, Stadtwerke Heidelberg, TU Berlin:},
+type = {Arbeitspapier im Rahmen des Kopernikus-Projekts ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@misc{Held2020b,
+title = {Der Rechtsrahmen für die Sektorenkopplung – Hemmnis und Chance zugleich},
+author = {Denise Held},
+url = {https://www.e-world-essen.com/de/ikem?no_cache=1#c2667, Beitrag bei e-World
+https://www.energate-magazine.de/de/profiles/c3bf0b9b0d37-energate-magazine/editions/e-word-magazin-3-2020/, Komplettes Magazin},
+year = {2020},
+date = {2020-11-09},
+abstract = {Die Energiewende und die dafür notwendigen technischen Innovationen und Investitionen benötigen einen Rechtsrahmen, der hierfür ausreichend Spielraum lässt und die notwendigen Veränderungen bestmöglich anreizt. Ein zentrales Element für das Gelingen der Energiewende ist der Einsatz von Strom aus erneuerbaren Energien auch in den Sektoren Gebäude, Verkehr und Industrie. Ohne diese Sektorenkopplung bleibt die Energiewende auf halbem Wege stecken. },
+howpublished = {Gastbeitrag für das E-world Magazin (November 2020)},
+keywords = {},
+pubstate = {published},
+tppubtype = {misc}
+}
+Die Energiewende und die dafür notwendigen technischen Innovationen und Investitionen benötigen einen Rechtsrahmen, der hierfür ausreichend Spielraum lässt und die notwendigen Veränderungen bestmöglich anreizt. Ein zentrales Element für das Gelingen der Energiewende ist der Einsatz von Strom aus erneuerbaren Energien auch in den Sektoren Gebäude, Verkehr und Industrie. Ohne diese Sektorenkopplung bleibt die Energiewende auf halbem Wege stecken.
+@article{Held2020,
+title = {Ausweg aus dem Paragrafendschungel: Utopie eines konsistenten Energierechts},
+author = {Denise Held and Simon Schäfer-Stradowsky},
+url = {https://research.owlit.de/lx-document/REL1347292, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {24-29},
+abstract = {Ein wichtiger Schritt der deutschen Energiewende(gesetzgebung) war die Verabschiedung des ersten Erneuerbare-Energien-Gesetzes. Damit hat die Bundesrepublik eine Vorreiterrolle in Sachen Klimaschutz übernommen.
+Inzwischen sind die Erneuerbaren eben weniger die Ausnahme als die Regel und es ist damit Zeit für eine Revision: Was ist da, was kann weg, was muss neu geschaffen werden? Dafür ist eine klare Vorstellung über unser Energierecht von Morgen nötig, die einen Weg aus dem Paragrafendschungel weist. Dieser Beitrag will ein solches Ziel skizzieren – die Utopie eines konsistenten Energierechts.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Ein wichtiger Schritt der deutschen Energiewende(gesetzgebung) war die Verabschiedung des ersten Erneuerbare-Energien-Gesetzes. Damit hat die Bundesrepublik eine Vorreiterrolle in Sachen Klimaschutz übernommen.
+Inzwischen sind die Erneuerbaren eben weniger die Ausnahme als die Regel und es ist damit Zeit für eine Revision: Was ist da, was kann weg, was muss neu geschaffen werden? Dafür ist eine klare Vorstellung über unser Energierecht von Morgen nötig, die einen Weg aus dem Paragrafendschungel weist. Dieser Beitrag will ein solches Ziel skizzieren – die Utopie eines konsistenten Energierechts.
+@article{Grosse2020,
+title = {Bewertung regulatorischer Maßnahmen der Sektorenkopplung für den Einsatz von Power-to-Heat},
+author = {Benjamin Grosse and Yannick Werner and Denise Held and Joschka Selinger and Simon Schäfer-Stradowsky and Joachim Müller-Kirchenbauer },
+doi = {https://doi.org/10.1007/s12398-020-00287-5},
+year = {2020},
+date = {2020-10-13},
+journal = {Zeitschrift für Energiewirtschaft},
+abstract = {Die Kopplung der Sektoren Strom, Wärme, Gas und Verkehr stellt die nächste Stufe der Energiewende in Deutschland dar. Hierzu muss einerseits ein verbindlicher Rechtsrahmen geschaffen werden, andererseits müssen Geschäftsmodelle entstehen, welche auf Basis dieses Rechtsrahmen die Sektorenkopplung auch in die Praxis umsetzen. Aktuell bestehen jedoch verschiedene regulatorische Hemmnisse, welche einer solchen Praxisanwendung entgegenstehen und insbesondere die Integration von erneuerbarem Strom in den Wärmesektor (Power-to-Heat, PtH) behindern. In diesem Beitrag werden ausgehend von einer Darstellung des regulatorischen Status Quo auf Basis eines Literaturreviews 21 regulatorische Maßnahmen untersucht und miteinander verglichen. Für vier ausgewählte Maßnahmen, die einerseits auf eine Reduktion der Netzentgelte, der EEG-Umlage und andererseits auf die Einführung einer sektorenübergreifenden CO2-Bepreisung zielen, wird eine detaillierte einzel-ökonomische, rechtliche und systemische Analyse am Fallbeispiel einer PtH-Anlage in einem Fernwärmnetz durchgeführt. Es zeigt sich, dass eine PtH-Anlage im Status Quo nicht betriebswirtschaftlich auskömmlich zu betreiben ist. Darüber hinaus scheint die Einführung einer sektorenübergreifenden CO2-Bepreisung aus allen betrachteten Perspektiven besonders vorteilhaft. Jedoch sind weitere Maßnahmen notwendig und erscheinen rechtlich und systemisch möglich, um unter den getroffenen Annahmen die Investition in eine PtH-Anlage ökonomisch rentabel zu machen.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Die Kopplung der Sektoren Strom, Wärme, Gas und Verkehr stellt die nächste Stufe der Energiewende in Deutschland dar. Hierzu muss einerseits ein verbindlicher Rechtsrahmen geschaffen werden, andererseits müssen Geschäftsmodelle entstehen, welche auf Basis dieses Rechtsrahmen die Sektorenkopplung auch in die Praxis umsetzen. Aktuell bestehen jedoch verschiedene regulatorische Hemmnisse, welche einer solchen Praxisanwendung entgegenstehen und insbesondere die Integration von erneuerbarem Strom in den Wärmesektor (Power-to-Heat, PtH) behindern. In diesem Beitrag werden ausgehend von einer Darstellung des regulatorischen Status Quo auf Basis eines Literaturreviews 21 regulatorische Maßnahmen untersucht und miteinander verglichen. Für vier ausgewählte Maßnahmen, die einerseits auf eine Reduktion der Netzentgelte, der EEG-Umlage und andererseits auf die Einführung einer sektorenübergreifenden CO2-Bepreisung zielen, wird eine detaillierte einzel-ökonomische, rechtliche und systemische Analyse am Fallbeispiel einer PtH-Anlage in einem Fernwärmnetz durchgeführt. Es zeigt sich, dass eine PtH-Anlage im Status Quo nicht betriebswirtschaftlich auskömmlich zu betreiben ist. Darüber hinaus scheint die Einführung einer sektorenübergreifenden CO2-Bepreisung aus allen betrachteten Perspektiven besonders vorteilhaft. Jedoch sind weitere Maßnahmen notwendig und erscheinen rechtlich und systemisch möglich, um unter den getroffenen Annahmen die Investition in eine PtH-Anlage ökonomisch rentabel zu machen.
+@techreport{Knoll2020b,
+title = {Rechtsrahmen der Digitalisierung},
+author = {Fanny Knoll and Denise Held},
+url = {https://www.ikem.de/wp-content/uploads/2020/11/ENavi_Digitalisierung.pdf},
+year = {2020},
+date = {2020-01-31},
+type = {Forschungsbericht im Rahmen von Kopernikus ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

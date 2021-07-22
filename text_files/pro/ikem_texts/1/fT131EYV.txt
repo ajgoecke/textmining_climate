@@ -1,0 +1,57 @@
+Fanny Knoll is a senior research associate at the IKEM and a member of the chair for public law, financial law, environmental and energy law of Prof. Dr. Rodi at the University of Greifswald. She studied law at the Freie Universität Berlin. She is currently doing her doctorate on the subject of energy network stability under Prof. Dr. Rodi at the University of Greifswald.
+After completing her First State Examination, she worked for the German Bundestag in the parliamentary groups (international area) for one year. She then completed her legal clerkship at the Kammergericht Berlin. Her legal clerkship stations included the law firm Taylor Wessing Partnerschaftsgesellschaft mbB, the Federal Ministry of Labour and Social Affairs (international section) and the Federal Ministry of Foreign Affairs / Permanent Mission to the United Nations in Geneva (Switzerland).
+Fanny Knoll’s work focuses on energy and data law, with particular emphasis on the digitalisation of the energy system transformation in conjunction with Smart Grid, artificial intelligence, blockchain and IT security.
+Publications
+Knoll, Fanny; Witting, Annabel; Antoni, Johannes
+Das Smart Grid – Eine neue Infrastruktur und deren Beitrag zur stabilen Stromversorgung Journal Article
+@article{Knoll2020,
+title = {Das Smart Grid – Eine neue Infrastruktur und deren Beitrag zur stabilen Stromversorgung},
+author = {Fanny Knoll and Annabel Witting and Johannes Antoni},
+url = {https://research.owlit.de/lx-document/REL1347302, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {47-51},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+@techreport{Knoll2020b,
+title = {Rechtsrahmen der Digitalisierung},
+author = {Fanny Knoll and Denise Held},
+url = {https://www.ikem.de/wp-content/uploads/2020/11/ENavi_Digitalisierung.pdf},
+year = {2020},
+date = {2020-01-31},
+type = {Forschungsbericht im Rahmen von Kopernikus ENavi},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Doderer2020,
+title = {Denkbare Weiterentwicklungsoptionen für die umfassende Flexibilisierung des Energiesystems und die Sektorenkopplung},
+author = {Hannes Doderer and Simon Schäfer-Stradowsky and Johannes Antoni and Jonathan Metz and Fanny Knoll and Julia Borger},
+url = {https://www.ikem.de/wp-content/uploads/2020/04/20201_IKEM_WindNODE_Gutachten_Weiterentwicklungsoptionen_Flexibilisierung_Sektorenkopplung.pdf, Gutachten als PDF},
+year = {2020},
+date = {2020-01-00},
+abstract = {Das vorliegende Papier widmet sich möglichen Weiterentwicklungsoptionen der rechtlichen Rahmenbedingungen, mit dem Ziel, die Flexibilität des Energiesystems zu forcieren und die Hemmnisse der Sektorenkopplung abzubauen. Es baut auf dem IKEM Papier „SINTEG-WindNODE – Bestandsaufnahme der rechtlichen Hemmnisse und Anreize für die umfassende Flexibilisierung des Energiesystems“ vom Juli 2018 auf und adressiert die dort ermittelten Hemmnisse. Ein besonderer Fokus wird dabei auf die Letztverbraucher-abgaben gelegt, die für den Strombezug fällig werden.},
+type = {Gutachten im Rahmen des Sinteg-Projekts WindNODE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Das vorliegende Papier widmet sich möglichen Weiterentwicklungsoptionen der rechtlichen Rahmenbedingungen, mit dem Ziel, die Flexibilität des Energiesystems zu forcieren und die Hemmnisse der Sektorenkopplung abzubauen. Es baut auf dem IKEM Papier „SINTEG-WindNODE – Bestandsaufnahme der rechtlichen Hemmnisse und Anreize für die umfassende Flexibilisierung des Energiesystems“ vom Juli 2018 auf und adressiert die dort ermittelten Hemmnisse. Ein besonderer Fokus wird dabei auf die Letztverbraucher-abgaben gelegt, die für den Strombezug fällig werden.
+@techreport{Schäfer2019b,
+title = {Urbane Energiewende – Teil C: Gutachterliche Ausarbeitung zu regulatorischen Herausforderungen},
+author = {Judith Schäfer and Susan Wilms and Simon Schäfer-Stradowsky and Hermann Blümel and Felix Nowack and Julia Borger and Fanny Knoll and Friederike Pfeifer and Julia Schmidt and Denise Albert and Johannes Antoni},
+url = {https://www.dena.de/fileadmin/dena/Publikationen/PDFs/2019/dena_UrbEW_Abschlussbericht_Teil_C.pdf, Teil C als PDF
+https://www.dena.de/urbewbericht, Gesamtbericht },
+year = {2019},
+date = {2019-11-00},
+institution = {dena},
+type = {Abschlussbericht zum dena-Projekt Urbane Energiewende},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

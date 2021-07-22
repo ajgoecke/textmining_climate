@@ -1,0 +1,69 @@
+Matthias Hartwig has been working at IKEM since 2011 and has been head of the mobility department since 2014.
+As a lawyer, he conducts research on legal issues relating to the mobility transition and its economic, political and social prerequisites in an interdisciplinary context.
+He is an expert in technical and economic administrative law in relation to the transport sector, in particular road, road traffic and railroad law; passenger transport and freight transport law; energy industry, specialist planning, competition, state aid and product safety law; all within the context of international and European law.
+Matthias Hartwig studied economics and law in Hamburg, Greifswald and Alcalá de Henares (Spain). After his legal clerkship in Hamburg, he worked as a research assistant at the University of Greifswald (Prof. Dr. Uwe Kischel) and at the law firm Becker Büttner Held (Dr. Martin Altrock).
+In his ten years at IKEM, Matthias Hartwig has led various national, European and international research projects on automated and connected driving, public transport and new mobility services, alternative drives and fuels, sustainable logistics and autonomous and AI systems. In addition to legal project support, recommendations for the further development of legal and policy frameworks with incentive and funding models and operator and business models were developed. The results of these projects under his leadership have been reflected in numerous legal opinions, research reports, statements, specialist publications and lectures. Matthias Hartwig has also guided various student research projects, master’s theses and diploma theses.
+@misc{Hartwig2020h,
+title = {Regulierung für Elektrische Straßensysteme (ERS) – Handlungsempfehlungen},
+author = {Matthias Hartwig},
+url = {https://www.ikem.de/wp-content/uploads/2021/03/IKEM_Handlungsempfehlungen_03032021.pdf},
+year = {2021},
+date = {2021-03-04},
+address = {IKEM},
+howpublished = {Präsentation entstanden im Rahmen des Projekts AMELIE},
+keywords = {},
+pubstate = {published},
+tppubtype = {presentation}
+}
+@techreport{Hartwig2020g,
+title = {Akteursmodell für die Finanzierung und Abrechnung elektrischer Straßensysteme (ERS)},
+author = {Matthias Hartwig },
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201217_ERS-Akteursmodelle.pdf, Working Paper als PDF},
+doi = {10.5281/zenodo.4337906},
+year = {2020},
+date = {2020-12-17},
+type = {IKEM Working Paper},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@misc{Bußmann-Welsch2020c,
+title = {Abrechnungs-, Rollenmodelle und technische Lösungsansätze},
+author = {Anna Bußmann-Welsch and Matthias Hartwig and Werner Pfliegl
+},
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201218_AMELIE_AGAbrechnungssysteme.pdf, Präsentation als PDF},
+year = {2020},
+date = {2020-12-03},
+address = {IKEM/Siemens Mobility},
+howpublished = {Präsentation entstanden im Rahmen des Projekts AMELIE},
+keywords = {},
+pubstate = {published},
+tppubtype = {presentation}
+}
+@techreport{Hartwig2020i,
+title = {AMELIE - RED – Abrechnungssysteme und -methoden für elektrisch betriebene Lkw sowie deren interoperable Infrastrukturen im europäischen Kontext},
+author = {Matthias Hartwig and Anna Bußmann-Welsch and Fynn Claes and Lisa Schneider},
+url = {https://www.ikem.de/wp-content/uploads/2021/06/20210122_Final-Report_AMELIE.pdf},
+year = {2020},
+date = {2020-12-00},
+institution = {IKEM: },
+abstract = {Vorliegend handelt es sich um eine rechtswissenschaftliche Studie des Instituts für Klimaschutz Ener- gie und Mobilität (IKEM) im Rahmen des Projektes AMELIE. Die Untersuchung wurde nach den Me- thoden und Standards rechtswissenschaftlichen Arbeitens auf Grundlage des zum Bearbeitungszeit- punkt geltenden Rechts durchgeführt. Wenngleich die rechtswissenschaftliche Auseinandersetzung mit konkreten Einzelfällen möglich ist, vermag die Studie eine Rechtsberatung zu konkreten rechtli- chen Fragestellungen nicht zu ersetzen. Insbesondere können konkrete Vorfragen für unternehmeri- sche, legislative oder administrative Entscheidungen nicht durch Gutachten des IKEM verbindlich ge- klärt werden. Geäußerte Rechtsmeinungen entsprechen grundsätzlich der wissenschaftlich fundier- ten Einschätzung der Autor:innen, müssen aber nicht der Rechtsmeinung oder Entscheidungspraxis von Behörden und Gerichten entsprechen, die mit Entscheidungen in Bezug auf den begutachteten Sachverhalt befasst sind oder befasst sein werden. Rechtsberatung und die dazu erforderliche recht- liche Prüfung des Einzelfalls kann und darf vom IKEM aufgrund § 3 Rechtsdienstleistungsgesetz nicht erbracht werden. Es muss dazu insbesondere auf anwaltliche Rechtsberatung verwiesen werden. Das IKEM übernimmt damit auch keine Haftung für rechtliche Fehleinschätzungen und Fehlentscheidun- gen aufgrund der von dessen Autoren geäußerten rein wissenschaftlichen Rechtsmeinungen.},
+type = {Abschlussbericht und rechtswissenschaftliche Studie im Rahmen des Projekts AMELIE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Vorliegend handelt es sich um eine rechtswissenschaftliche Studie des Instituts für Klimaschutz Ener- gie und Mobilität (IKEM) im Rahmen des Projektes AMELIE. Die Untersuchung wurde nach den Me- thoden und Standards rechtswissenschaftlichen Arbeitens auf Grundlage des zum Bearbeitungszeit- punkt geltenden Rechts durchgeführt. Wenngleich die rechtswissenschaftliche Auseinandersetzung mit konkreten Einzelfällen möglich ist, vermag die Studie eine Rechtsberatung zu konkreten rechtli- chen Fragestellungen nicht zu ersetzen. Insbesondere können konkrete Vorfragen für unternehmeri- sche, legislative oder administrative Entscheidungen nicht durch Gutachten des IKEM verbindlich ge- klärt werden. Geäußerte Rechtsmeinungen entsprechen grundsätzlich der wissenschaftlich fundier- ten Einschätzung der Autor:innen, müssen aber nicht der Rechtsmeinung oder Entscheidungspraxis von Behörden und Gerichten entsprechen, die mit Entscheidungen in Bezug auf den begutachteten Sachverhalt befasst sind oder befasst sein werden. Rechtsberatung und die dazu erforderliche recht- liche Prüfung des Einzelfalls kann und darf vom IKEM aufgrund § 3 Rechtsdienstleistungsgesetz nicht erbracht werden. Es muss dazu insbesondere auf anwaltliche Rechtsberatung verwiesen werden. Das IKEM übernimmt damit auch keine Haftung für rechtliche Fehleinschätzungen und Fehlentscheidun- gen aufgrund der von dessen Autoren geäußerten rein wissenschaftlichen Rechtsmeinungen.
+@techreport{Hartwig2020f,
+title = {Leitbilder für den Aufbau von elektrischen Straßensystemen in Europa},
+author = {Matthias Hartwig and Anna Bußmann-Welsch},
+url = {https://www.ikem.de/wp-content/uploads/2020/12/20201216_WP_Electric-Road-Systems_DE.pdf, Deutsche Version
+https://www.ikem.de/wp-content/uploads/2020/12/20201216_WP_Electric-Road-Systems_EN.pdf, Englische Version},
+doi = {10.5281/zenodo.4327276},
+year = {2020},
+date = {2020-10-28},
+type = {IKEM Working Paper},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}

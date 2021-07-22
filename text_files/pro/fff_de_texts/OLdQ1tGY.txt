@@ -1,0 +1,23 @@
+Toll dass Du uns hilfst bei der Promotion des kreativen Digital Streik am 19.03.! 🙌🏼 💚
+Bitte such Dir eines der beiden Promo Banner unten aus.
+Wir werden es dann automatisch ersetzen und Du musst Dir nach dem ersten Einbauen in Deiner Webseite um nichts mehr kümmern. Es sollten so schnell wie möglich live gehen und bis zum 20.03. online bleiben.
+Hier ist der Plan:
+- Jetzt bis 12.03. “Kostenloses Sprühkreide-Kit jetzt bestellen für den 19.03. Fridays for Future Klimastreik!”
+- 12.3. – 18.3 “Besucht unsere 19.03. Seite!”
+- 19.03. „Streike mit uns Online!” https://FridaysForFuture.de/AlleFuer1Komma5/ rotierende (alle ~5min) Ortsgruppen Aktions Fotos und ‘Best Of’ Streikende Fotos“Streike mit uns!” (moderiert, nur die besten Fotos werden genutzt)
+Alles wird automatisch von uns aktualisiert – es ist also keine extra Arbeit für Dich!
+Bei Fragen schreib uns eine E-Mail: websitebanner@fridaysforfuture.de
+Banner einbinden
+Platziere einfach den HTML-Code an die Stelle an der der Banner erscheinen soll!
+Vielleicht musst Du noch den CSS Style noch etwas anpassen damit alles perfekt aussieht 🙂
+Quadratisch
+<iframe style="width: 300px; height: 300px; border-width: 0;" src="https://fridaysforfuture.de/allefuer1komma5/banner/300x300"></iframe>
+Rechteckig
+<div style="position: relative; width: 100%; padding-top: 15.3472222%;"><iframe style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; bottom: 0; right: 0; border-width: 0;" src="https://fridaysforfuture.de/allefuer1komma5/banner/vertical"></iframe></div>
+Banner als Overlay einbinden
+Platziere einfach Code im <head> der Seite und das Banner erscheint automatisch als ausblendbares Overlay!
+Bei beiden Varianten kann die Platzierung durch Änderung des position Wertes angepasst werden.
+Quadratisch
+<script> var DIGITAL_CLIMATE_STRIKE_OPTIONS = { websiteName: 'example.com', style: '300x300', position: 'top_right' // <-- bzw. 'top_left', 'bottom_right' oder 'bottom_left' } </script> <script src="https://fridaysforfuture.de/allefuer1komma5/banner/widget.js"></script>
+Rechteckig
+<script> var DIGITAL_CLIMATE_STRIKE_OPTIONS = { websiteName: 'example.com', style: 'vertical', position: 'header' // <-- bzw. 'footer' } </script> <script src="https://fridaysforfuture.de/allefuer1komma5/banner/widget.js"></script>

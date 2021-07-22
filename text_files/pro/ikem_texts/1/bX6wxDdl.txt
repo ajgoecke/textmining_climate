@@ -1,0 +1,80 @@
+Für eine zukunftssichere Entwicklung der Wärmewirtschaft kommt es maßgeblich darauf an, im Verbund mit anderen Branchenakteuren frühzeitig Antworten auf die Herausforderungen der veränderten Bedingungen im politischen Raum zu finden und diese zielgerichtet gegenüber den maßgeblichen Entscheidungsträgern zu kommunizieren. Dabei bedarf es eines verlässlichen Rechtsrahmens, um für unternehmerische Entscheidungen die notwendige Investitionssicherheit zu erhalten.
+Mit dem Forum Wärmewende hat das IKEM deshalb eine Plattform für den direkten Austausch zwischen Wissenschaft, Expert_innen aus der Wärmewirtschaft sowie Entscheidungsträger_innen aus Politik und Verwaltung geschaffen. Ziel des Forums ist es, konkrete Maßnahmen für die Ausgestaltung der Wärmewende und einen klimafreundlichen Wärmemarkt zu erarbeiten. Hierzu organisiert das IKEM regelmäßig Diskussionsveranstaltungen und Arbeitsgruppen.
+Im Projekt KlimAW untersucht das IKEM, welchen Beitrag die Abwasserwirtschaft zur Erreichung von Klimaschutz- und Energieeffizienzzielen leisten kann und welche Anpassungen des Rechtsrahmens dabei unterstützend wirken können.
+Im Themenfeld Systemintegration der Forschungsinitiative „Kopernikus“ erforscht das IKEM die Umwandlungsprozesse von Strom in andere Energieträger und deren Potenziale für den nachhaltigen Umbau des Energiesystems.
+@article{Grosse2020,
+title = {Bewertung regulatorischer Maßnahmen der Sektorenkopplung für den Einsatz von Power-to-Heat},
+author = {Benjamin Grosse and Yannick Werner and Denise Held and Joschka Selinger and Simon Schäfer-Stradowsky and Joachim Müller-Kirchenbauer },
+doi = {https://doi.org/10.1007/s12398-020-00287-5},
+year = {2020},
+date = {2020-10-13},
+journal = {Zeitschrift für Energiewirtschaft},
+abstract = {Die Kopplung der Sektoren Strom, Wärme, Gas und Verkehr stellt die nächste Stufe der Energiewende in Deutschland dar. Hierzu muss einerseits ein verbindlicher Rechtsrahmen geschaffen werden, andererseits müssen Geschäftsmodelle entstehen, welche auf Basis dieses Rechtsrahmen die Sektorenkopplung auch in die Praxis umsetzen. Aktuell bestehen jedoch verschiedene regulatorische Hemmnisse, welche einer solchen Praxisanwendung entgegenstehen und insbesondere die Integration von erneuerbarem Strom in den Wärmesektor (Power-to-Heat, PtH) behindern. In diesem Beitrag werden ausgehend von einer Darstellung des regulatorischen Status Quo auf Basis eines Literaturreviews 21 regulatorische Maßnahmen untersucht und miteinander verglichen. Für vier ausgewählte Maßnahmen, die einerseits auf eine Reduktion der Netzentgelte, der EEG-Umlage und andererseits auf die Einführung einer sektorenübergreifenden CO2-Bepreisung zielen, wird eine detaillierte einzel-ökonomische, rechtliche und systemische Analyse am Fallbeispiel einer PtH-Anlage in einem Fernwärmnetz durchgeführt. Es zeigt sich, dass eine PtH-Anlage im Status Quo nicht betriebswirtschaftlich auskömmlich zu betreiben ist. Darüber hinaus scheint die Einführung einer sektorenübergreifenden CO2-Bepreisung aus allen betrachteten Perspektiven besonders vorteilhaft. Jedoch sind weitere Maßnahmen notwendig und erscheinen rechtlich und systemisch möglich, um unter den getroffenen Annahmen die Investition in eine PtH-Anlage ökonomisch rentabel zu machen.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Die Kopplung der Sektoren Strom, Wärme, Gas und Verkehr stellt die nächste Stufe der Energiewende in Deutschland dar. Hierzu muss einerseits ein verbindlicher Rechtsrahmen geschaffen werden, andererseits müssen Geschäftsmodelle entstehen, welche auf Basis dieses Rechtsrahmen die Sektorenkopplung auch in die Praxis umsetzen. Aktuell bestehen jedoch verschiedene regulatorische Hemmnisse, welche einer solchen Praxisanwendung entgegenstehen und insbesondere die Integration von erneuerbarem Strom in den Wärmesektor (Power-to-Heat, PtH) behindern. In diesem Beitrag werden ausgehend von einer Darstellung des regulatorischen Status Quo auf Basis eines Literaturreviews 21 regulatorische Maßnahmen untersucht und miteinander verglichen. Für vier ausgewählte Maßnahmen, die einerseits auf eine Reduktion der Netzentgelte, der EEG-Umlage und andererseits auf die Einführung einer sektorenübergreifenden CO2-Bepreisung zielen, wird eine detaillierte einzel-ökonomische, rechtliche und systemische Analyse am Fallbeispiel einer PtH-Anlage in einem Fernwärmnetz durchgeführt. Es zeigt sich, dass eine PtH-Anlage im Status Quo nicht betriebswirtschaftlich auskömmlich zu betreiben ist. Darüber hinaus scheint die Einführung einer sektorenübergreifenden CO2-Bepreisung aus allen betrachteten Perspektiven besonders vorteilhaft. Jedoch sind weitere Maßnahmen notwendig und erscheinen rechtlich und systemisch möglich, um unter den getroffenen Annahmen die Investition in eine PtH-Anlage ökonomisch rentabel zu machen.
+@article{Niederste-Hollenberg2020,
+title = {Die Potenziale der Energieeinsparung in der Abwasserwirtschaft},
+author = {Jutta Niederste-Hollenberg and Gitta Schirmer and Julia Borger and Jenny Winkler and Lin Zheng and Markus Fritz and Thomas Hillenbrand and Gerd Kolisch},
+url = {http://dx.doi.org/10.14512/OEW350347},
+year = {2020},
+date = {2020-09-00},
+journal = {Ökologisches Wirtschaften},
+volume = {3},
+number = {35},
+pages = {47-50},
+abstract = {Welche Potenziale birgt die Abwasserwirtschaft im Sinne der Klimaschutzziele? Und welche rechtlichen Rahmenbedingungen sind dabei zu berücksichtigen? Durch innovative Ansätze sowie die Einbindung in den Energiemarkt können erhebliche Effizienzpotenziale ausgeschöpft werden.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Welche Potenziale birgt die Abwasserwirtschaft im Sinne der Klimaschutzziele? Und welche rechtlichen Rahmenbedingungen sind dabei zu berücksichtigen? Durch innovative Ansätze sowie die Einbindung in den Energiemarkt können erhebliche Effizienzpotenziale ausgeschöpft werden.
+Einbindung von Wärmeverbrauchern in grüne Wärmenetze – Kommunale Steuerungsinstrumente Forschungsbericht
+Kurzstudie im Rahmen des Projekts QUARREE100, 2020.
+| Links:
+@techreport{Buchmüller2020,
+title = {Einbindung von Wärmeverbrauchern in grüne Wärmenetze – Kommunale Steuerungsinstrumente},
+author = {Christian Buchmüller and Ilka Hoffmann and Judith Schäfer},
+url = {https://www.ikem.de/wp-content/uploads/2020/04/202004_Kurzstudie_Kommunale_Steuerungsmöglichkeiten_Wärmenetze.pdf, Kurzstudie als PDF},
+year = {2020},
+date = {2020-04-00},
+type = {Kurzstudie im Rahmen des Projekts QUARREE100},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Urbane Energiewende – Teil C: Gutachterliche Ausarbeitung zu regulatorischen Herausforderungen Forschungsbericht
+dena Abschlussbericht zum dena-Projekt Urbane Energiewende, 2019.
+| Links:
+@techreport{Schäfer2019b,
+title = {Urbane Energiewende – Teil C: Gutachterliche Ausarbeitung zu regulatorischen Herausforderungen},
+author = {Judith Schäfer and Susan Wilms and Simon Schäfer-Stradowsky and Hermann Blümel and Felix Nowack and Julia Borger and Fanny Knoll and Friederike Pfeifer and Julia Schmidt and Denise Albert and Johannes Antoni},
+url = {https://www.dena.de/fileadmin/dena/Publikationen/PDFs/2019/dena_UrbEW_Abschlussbericht_Teil_C.pdf, Teil C als PDF
+https://www.dena.de/urbewbericht, Gesamtbericht },
+year = {2019},
+date = {2019-11-00},
+institution = {dena},
+type = {Abschlussbericht zum dena-Projekt Urbane Energiewende},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Doderer2019d,
+title = {Abwärmenutzung in Unternehmen},
+author = {Hannes Doderer and Ali Aydemir and Felix Hoppe and Sibylle Braungardt},
+url = {https://www.ikem.de/wp-content/uploads/2019/06/Abwärmestudie-BW_final_25.06.2019.pdf},
+year = {2019},
+date = {2019-03-00},
+institution = {Fraunhofer ISI, IKEM, BBHC, Öko-Institut:},
+abstract = {Die Energiewende in Deutschland schreitet mit großen Schritten voran. Insbesondere vor dem Hintergrund der sektorenübergreifenden Klimaschutzziele der Bundesregierung und des Landes Baden-Württemberg ist es unerlässlich, nicht nur die Energieerzeugung aus erneuerbaren Energien zu forcieren, sondern deren Ausbau mit Energieeffizienzmaßnahmen zu flankieren und Energieträger, deren Potenziale insbesondere im Wärmebereich bislang nicht umfassend genutzt wurden, stärker in den Fokus zu rücken. Große Einsparpotenziale birgt dabei die anfallende Energie aus Abwärmequellen, insbesondere im Bereich von Unternehmen und des produzierenden Gewerbes.
+Das Ministerium für Umwelt, Klima und Energiewirtschaft des Landes Baden-Württemberg hat die vorliegende Studie in Auftrag gegeben, um einen Einstieg in die Thematik der Abwärmenutzung zu erhalten und um eine Grundlage für ein geplantes Landeskonzept Abwärmenutzung Baden-Württemberg zu schaffen. Ein interdisziplinäres Projektteam untersuchte hierfür die ökologischen, technischen, wirtschaftlichen und rechtlichen Aspekte von Abwärme und deren Nutzung.
+},
+type = {Studie für das Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Die Energiewende in Deutschland schreitet mit großen Schritten voran. Insbesondere vor dem Hintergrund der sektorenübergreifenden Klimaschutzziele der Bundesregierung und des Landes Baden-Württemberg ist es unerlässlich, nicht nur die Energieerzeugung aus erneuerbaren Energien zu forcieren, sondern deren Ausbau mit Energieeffizienzmaßnahmen zu flankieren und Energieträger, deren Potenziale insbesondere im Wärmebereich bislang nicht umfassend genutzt wurden, stärker in den Fokus zu rücken. Große Einsparpotenziale birgt dabei die anfallende Energie aus Abwärmequellen, insbesondere im Bereich von Unternehmen und des produzierenden Gewerbes.
+Das Ministerium für Umwelt, Klima und Energiewirtschaft des Landes Baden-Württemberg hat die vorliegende Studie in Auftrag gegeben, um einen Einstieg in die Thematik der Abwärmenutzung zu erhalten und um eine Grundlage für ein geplantes Landeskonzept Abwärmenutzung Baden-Württemberg zu schaffen. Ein interdisziplinäres Projektteam untersuchte hierfür die ökologischen, technischen, wirtschaftlichen und rechtlichen Aspekte von Abwärme und deren Nutzung.

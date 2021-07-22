@@ -1,0 +1,49 @@
+IKEM-Studie: Marktzugang für Erneuerbare im B2B-Bereich
+Grünen Strom besser vermarktbar zu machen – das war das Ziel einer Kurzstudie des Instituts für Klimaschutz, Energie und Mobilität (IKEM), die heute im Auftrag des Bundesverbands WindEnergie (BWE) in Berlin veröffentlicht wurde. In der zweiteiligen Rechtsstudie untersucht das IKEM zum einen, wie Windstrom im B2B-Bereich vermarktet werden kann. Der zweite Teil der Studie beleuchtet die Vereinbarkeit mit dem Europarecht.
+Die Ziele der Energiewende können nur erreicht werden, wenn der Bestand an erneuerbare Energie-Anlagen kontinuierlich ausgebaut wird. In den nächsten Jahren drohen jedoch aufgrund zwei paralleler Entwicklungen eine zu geringe Ausbaurate beziehungsweise der Rückbau von Anlagen: Zum einen setzt die politisch angestrebte Marktintegration der erneuerbaren Energien (EE)-Anlagenbetreiber beziehungsweise deren Direktvermarkter vor neue Herausforderungen. Zum anderen laufen die Zahlungsansprüche im Rahmen des Erneuerbare-Energien-Gesetzes (EEG) für viele ältere EE-Anlagen aus.
+Um die drohende Lücke beim Ausbau zu schließen, müssen erneuerbare Energie Anlagen auch unabhängig von Förderungen ausreichend Erträge erzielen. Die Vermarktung der „grünen“ Eigenschaft des EE-Stroms bietet Unternehmern eine marktkonforme Möglichkeit zusätzliche Erträge zu erwirtschaften. Bislang fehlt jedoch die Möglichkeit, grünen Strom über den Erwerb von Herkunftsnachweisen oder sonstigen Zertifikaten in der Vermarktung auszuweisen.
+Märkte für „grünen“ Strom schaffenDamit ein Markt entsteht, auf dem der Mehrwert grünen Stroms nutzbar ist, wurde in der IKEM-Studie die Einführung des Marktentwicklungsmodells rechtlich geprüft. Das Modell schafft eine neue Form der sonstigen Direktvermarktung im EEG. Sie basiert auf der Weitergabe der grünen Eigenschaft der erneuerbaren Energie. Das ermöglicht einen flexiblen Wechsel zwischen der neuen Vermarktungsform und der Direktvermarktung mit Marktprämie. Ergänzt wird dies durch einen EEG-Konto-neutralen Anreiz für die Lieferung des erneuerbaren Stroms, der keine EEG-Förderung in Anspruch nimmt und über das neue Marktentwicklungsmodell vermarktet wird.
+Durch die Reduktion der EEG-Umlage für Strommengen, die Anlagenbetreiber trotz Vergütungsanspruch direkt an Letztverbraucher liefern, finden Erzeuger und Verbraucher zusammen. Denn durch die niedrigere Umlage entsteht ein Verhandlungsspielraum, der sowohl einen attraktiven Strompreis als auch eine Kompensation des entfallenden Vergütungsanspruchs ermöglicht. Für das EEG-Konto ist dieser Vorgang neutral, denn die EEG-Umlagepflicht reduziert sich nur um den Betrag der Vergütung auf den der Anlagenbetreiber verzichtet.
+Zusammenfassend bietet das Modell viele Vorteile:
+Es steigert den Nutzungsgrad von erneuerbarer Energien,
+erschließt große CO2-Senkungspotenziale in der Industrie sowie im Gewerbe,
+es ermöglicht die Nutzung zusätzlicher Synergieeffekte durch Flexibilisierung des Industriebetriebs.
+Das rechtswissenschaftliche Kurzgutachten belegt darüber hinaus die Vereinbarkeit der Vorschläge mit dem Europarecht.
+Antoni, Johannes; Schäfer-Stradowsky, Simon
+Direkte Vermarktung von Windstrom und anderem erneuerbaren Strom im B2B-Bereich Forschungsbericht
+IKEM: Rechtswissenschaftliche Studie im Auftrag des Bundesverbands WindEnergie e.V. (BWE), 2018.
+@techreport{Antoni2018,
+title = {Direkte Vermarktung von Windstrom und anderem erneuerbaren Strom im B2B-Bereich},
+author = {Johannes Antoni and Simon Schäfer-Stradowsky
+},
+url = {https://www.wind-energie.de/fileadmin/redaktion/dokumente/publikationen-oeffentlich/themen/03-sektorenkopplung/20180417_ikem_studie_marktentwicklungsmodell_und_kurzgutachten_vereinbarkeit.pdf, Komplette Studie
+https://www.ikem.de/wp-content/uploads/2018/07/IKEM_Zusammenfassung_Marktentwicklungsmodell_MEM.pdf, Zusammenfassung},
+year = {2018},
+date = {2018-02-00},
+institution = {IKEM: },
+abstract = {Die Ziele der Energiewende können nur erreicht werden, wenn der Bestand an EE-Anlagen kontinuierlich ausgebaut wird. Bestands- und Neuanlagen werden sich nur im Markt halten, wenn sie auch unabhängig von einer Förderung ausreichende Erträge erzielen. Dafür benötigen sie alternative Vermarktungsoptionen, zum Beispiel über die Nutzung der „grünen“ Eigenschaft des EE-Stroms beim Transfer in die Sektoren Gebäude (Wärme/Kälte), Verkehr und Industrie.
+Von Seiten der Unternehmer besteht zwar großes Interesse, jedoch fehlt bisher die Möglichkeit, diese Eigenschaft über den Erwerb von Herkunftsnachweise oder sonstigen Zertifikaten in der Vermarktung auszuweisen. Damit diese Lücke geschlossen wird und ein Markt entsteht, auf dem der Mehrwert „grünen“ Stroms nutzbar ist, wurde in der vorliegenden Studie die Einführung des sog. Marktentwicklungsmodells (MEM) rechtlich geprüft. Das MEM schafft eine neue Form der sonstigen Direktvermarktung im Erneuerbare-Energien-Gesetz zur Weitergabe der „grünen“ Eigenschaft der erneuerbaren elektrischen Energie und ermöglicht einen flexiblen Wechsel zwischen der neuen Vermarktungsform und der Direktvermarktung mit Marktprämie. Ergänzt wird dies durch einen EEG-Konto-neutralen Anreiz für die Lieferung von EE-Strom, der keine EEG-Förderung in Anspruch nimmt und über das neue Marktentwicklungsmodell vermarktet wird. },
+type = {Rechtswissenschaftliche Studie im Auftrag des Bundesverbands WindEnergie e.V. (BWE)},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Die Ziele der Energiewende können nur erreicht werden, wenn der Bestand an EE-Anlagen kontinuierlich ausgebaut wird. Bestands- und Neuanlagen werden sich nur im Markt halten, wenn sie auch unabhängig von einer Förderung ausreichende Erträge erzielen. Dafür benötigen sie alternative Vermarktungsoptionen, zum Beispiel über die Nutzung der „grünen“ Eigenschaft des EE-Stroms beim Transfer in die Sektoren Gebäude (Wärme/Kälte), Verkehr und Industrie.
+Von Seiten der Unternehmer besteht zwar großes Interesse, jedoch fehlt bisher die Möglichkeit, diese Eigenschaft über den Erwerb von Herkunftsnachweise oder sonstigen Zertifikaten in der Vermarktung auszuweisen. Damit diese Lücke geschlossen wird und ein Markt entsteht, auf dem der Mehrwert „grünen“ Stroms nutzbar ist, wurde in der vorliegenden Studie die Einführung des sog. Marktentwicklungsmodells (MEM) rechtlich geprüft. Das MEM schafft eine neue Form der sonstigen Direktvermarktung im Erneuerbare-Energien-Gesetz zur Weitergabe der „grünen“ Eigenschaft der erneuerbaren elektrischen Energie und ermöglicht einen flexiblen Wechsel zwischen der neuen Vermarktungsform und der Direktvermarktung mit Marktprämie. Ergänzt wird dies durch einen EEG-Konto-neutralen Anreiz für die Lieferung von EE-Strom, der keine EEG-Förderung in Anspruch nimmt und über das neue Marktentwicklungsmodell vermarktet wird.
+@techreport{Antoni2018b,
+title = {Vereinbarkeit der Vorschläge der Studie – Direkte Vermarktung von Windstrom und anderem erneuerbaren Strom im B2B-Bereich – mit dem Europarecht},
+author = {Johannes Antoni and Bénédicte Martin},
+url = {https://www.wind-energie.de/fileadmin/redaktion/dokumente/publikationen-oeffentlich/themen/03-sektorenkopplung/20180417_ikem_studie_marktentwicklungsmodell_und_kurzgutachten_vereinbarkeit.pdf, Komplettes Gutachten
+https://www.ikem.de/wp-content/uploads/2018/07/IKEM_Zusammenfassung_Marktentwicklungsmodell_MEM.pdf, Zusammenfassung},
+year = {2018},
+date = {2018-02-00},
+institution = {IKEM: },
+abstract = {Die nationalstaatlich organisierte Förderung von erneuerbaren Energien ist stets im Kontext des europäischen Zieles eines EU-weiten Binnenmarktes für Elektrizität zu betrachten. Denn die Europäische Kommission verfolgt aktiv das Ziel eines Gemeinsamen Marktes im Energiesektor, die sogenannte Energieunion.
+Das von der Studie vorgeschlagene Marktintegrationsmodell (MEM) – insbesondere die darin vorgesehene Anrechnung von ersparten EEG-Zahlungen auf die EEG-Umlage (§ 61l EEG 2017 – neu –) und der bilanzielle Nachweis für den Erhalt der „grünen“ Eigenschaft von EE-Strom bei Lieferung über das Netz der allgemeinen Versorgung (§ 79b EEG 2017 – neu –) – ist derzeitig voraussichtlich mit dem EU-Recht vereinbar.},
+type = {Rechtswissenschaftliches Kurzgutachten im Auftrag des Bundesverbands WindEnergie e.V. (BWE)},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Die nationalstaatlich organisierte Förderung von erneuerbaren Energien ist stets im Kontext des europäischen Zieles eines EU-weiten Binnenmarktes für Elektrizität zu betrachten. Denn die Europäische Kommission verfolgt aktiv das Ziel eines Gemeinsamen Marktes im Energiesektor, die sogenannte Energieunion.
+Das von der Studie vorgeschlagene Marktintegrationsmodell (MEM) – insbesondere die darin vorgesehene Anrechnung von ersparten EEG-Zahlungen auf die EEG-Umlage (§ 61l EEG 2017 – neu –) und der bilanzielle Nachweis für den Erhalt der „grünen“ Eigenschaft von EE-Strom bei Lieferung über das Netz der allgemeinen Versorgung (§ 79b EEG 2017 – neu –) – ist derzeitig voraussichtlich mit dem EU-Recht vereinbar.

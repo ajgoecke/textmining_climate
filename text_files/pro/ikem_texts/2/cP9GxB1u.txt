@@ -1,0 +1,74 @@
+Das IKEM untersucht innovative Wege der Systemtransformation und macht die Ergebnisse mit innovativen Kommunikationsformaten zugänglich. Wir schaffen Sichtbarkeit und Akzeptanz für Nachhaltigkeitsthemen und sorgen dafür, dass unsere Forschung auch praktisch zur Anwendung kommt.
+Das IKEM untersucht innovative Wege der Systemtransformation und macht die Ergebnisse mithilfe von innovativen Kommunikationsformaten, wie zum Beispiel dem Energiewende-Malbuch, einer breiten Öffentlichkeit zugänglich. Wir schaffen Sichtbarkeit für Nachhaltigkeitsthemen und fördern so nicht nur Akzeptanz, sondern leisten echte Überzeugungsarbeit für die Chancen der Energiewende.
+Die Energiewende kann nicht gegen den Willen der Menschen gelingen. Dabei wird Akzeptanz nicht ausreichen. Wir müssen Begeisterung wecken!
+Die Debatten um den Bau von Windrädern und Stromtrassen zeigen: Die Energiewende gelingt nur, wenn sie von der gesamten Gesellschaft getragen wird. Fundiertes Wissen über die Herausforderungen, die der Klimawandel mit sich bringt, sind dabei ebenso wie Hinweise zu Klimaschutzlösungen und Handlungsoptionen zentrale Bausteine für gesellschaftliches Engagement und neue Wege der Systemtransformation.
+Das IKEM forscht deshalb zu sozialen Innovationen und entwickelt zielgerichtete Kommunikationsstrategien für Nachhaltigkeitsthemen. In diesem Bereich zeigt sich immer wieder, dass wichtige Informationen aufgrund von Fachausdrücken und kryptischen Abkürzungen für Außenstehende oft schwer zugänglich sind. Aus diesem Grund entwickelt das IKEM Formate wie das Infographic Energy Transition Coloring Book, um komplexe Themen für ein breites Publikum greifbar zu machen. Aktuell unterstützt das IKEM auch das Projekt WindNODE beim Ergebnistransfer, zum Beispiel durch eine umfangreiche Präsentationsbibliothek, die Organisation von Pressereisen und ein Handbuch für Transformationsprozesse in Kohleregionen.
+Mit zahlreichen Wissenschaftskooperationen, europäischen und internationalen Projekten setzt das IKEM auch außerhalb Deutschlands Impulse für die Energiewende. Zudem vernetzt das IKEM Wissenschaftler_innen und Praktiker_innen durch interdisziplinäre Konferenzen, Trainings und Workshops. Hierzu zählt auch die renommierte IKEM Academy, die seit 2004 führende Energiewende-Expert_innen aus der ganzen Welt zusammenbringt.
+Das Energiewende-Malbuch vom IKEM und Ellery Studio verpackt das komplexe Thema Energie- und Klimaschutzpolitik in einer Reihe von leicht verständlichen und spielerischen Infografiken, die nur darauf warten mit Farbe gefüllt zu werden!
+Joas, Dr. Fabian; Witecka, Wido; Lenck, Thorsten; Peter, Frank; Seiler, Fiona; Samadi, Dr. Sascha; Schneider, Clemens; Holtz, Dr. Georg; Kobiela, Dr. Georg; Lechtenböhmer, Prof. Dr. Stefan; Dinges, Katja; Steinbacher, Dr. Karoline; Schröder, Jonas; Sach, Thobias; Schimmel, Matthias; LL.M., Christine Kliem; Altrock, Dr. Martin; LL.M., Dr. Wieland Lehnert; Finke, Dr. Jasper; Yilmaz, Yasin
+Klimaneutrale Industrie: Schlüsseltechnologien und Politikoptionen für Stahl, Chemie und Zement Forschungsbericht
+Agora Energiewende und Wuppertal Institut 2019.
+| Links:
+@techreport{Joasetal.(2019),
+title = {Klimaneutrale Industrie: Schlüsseltechnologien und Politikoptionen für Stahl, Chemie und Zement},
+author = {Dr. Fabian Joas and Wido Witecka and Thorsten Lenck and Frank Peter and Fiona Seiler and Dr. Sascha Samadi and Clemens Schneider and Dr. Georg Holtz and Dr. Georg Kobiela and Prof. Dr. Stefan Lechtenböhmer and Katja Dinges and Dr. Karoline Steinbacher and Jonas Schröder and Thobias Sach and Matthias Schimmel and Christine Kliem LL.M. and Dr. Martin Altrock and Dr. Wieland Lehnert LL.M. and Dr. Jasper Finke and Yasin Yilmaz},
+editor = {Agora Energiewende und Wuppertal Institut },
+url = {https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrale-industrie/},
+year = {2019},
+date = {2019-11-01},
+institution = {Agora Energiewende und Wuppertal Institut },
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@misc{Ponder2019,
+title = {An energy transition for everyone},
+author = {Anika Nicolaas Ponder},
+url = {https://medium.com/thebeammagazine/an-energy-transition-for-everyone-3fc0bf825ca0, Artikel Online},
+year = {2019},
+date = {2019-08-13},
+abstract = {People will care about climate change if we tell the right story — and if we tell the story right.},
+howpublished = {Namensartikel auf Medium.com/The Beam Magazine},
+keywords = {},
+pubstate = {published},
+tppubtype = {misc}
+}
+@techreport{Bergaentzlé2019,
+title = {Paving the way to a meshed offshore grid – Recommendations for an efficient policy and regulatory framework},
+author = {Claire Bergaentzlé and Albert Hoffrichter and Pia Isojärvi and Federico Marco and Bénédicte Martin and Birgitte Egelund Olsen and Lise-Lotte Pade and Hannes Veinla},
+url = {https://www.ikem.de/wp-content/uploads/2019/03/BIG_5.3_Recommendations-for-an-efficient-policy-and-regulatory-framework.pdf},
+year = {2019},
+date = {2019-02-00},
+institution = {Baltic InteGrid},
+abstract = {Research conducted within the Interreg Baltic InteGrid project is intended to facilitate the establishment of a meshed offshore grid connecting offshore wind farms (OWFs) and national electricity markets in the Baltic Sea. To this end, the project partners have prepared three sets of recommendations for EU and national level stakeholders. This report elaborates on the partners’ recommendations for the policy and regulatory framework.},
+type = {Abschlussbericht},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Research conducted within the Interreg Baltic InteGrid project is intended to facilitate the establishment of a meshed offshore grid connecting offshore wind farms (OWFs) and national electricity markets in the Baltic Sea. To this end, the project partners have prepared three sets of recommendations for EU and national level stakeholders. This report elaborates on the partners’ recommendations for the policy and regulatory framework.
+@techreport{Côté2018,
+title = {Market Analysis of the Offshore Wind Energy Transmission Industry: Overview for the Baltic Sea Region},
+author = {Elizabeth Côté and Michael Holton and Anika Nicolaas Ponder and Julia Sandén and Anna-Kathrin Wallasch},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/BIG_3.2_Market-Analysis-of-the-Offshore-Wind-Energy-Transmission-Industry_final.pdf},
+year = {2018},
+date = {2018-10-00},
+abstract = {The Baltic InteGrid project is an interdisciplinary research initiative designed to facilitate transnational cooperation and optimise offshore wind development in the Baltic Sea Region (BSR). The following analysis provides project stakeholders with up-to-date information on current market conditions for the development of a regional meshed grid. The report highlights relevant findings from the market analysis of the offshore wind energy transmission industry, with a particular focus on Europe and the Baltic Sea. It first provides a general overview of the European offshore wind energy industry, including information on relevant regulatory regimes, installed capacity, and technology trends. It then presents component-specific market overviews for high-voltage alternating current (HVAC) cables, high-voltage direct current cables (HVDC), converters, transformers, and substation foundations, as well as for the main operation, maintenance, and service (OMS) activities.},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+The Baltic InteGrid project is an interdisciplinary research initiative designed to facilitate transnational cooperation and optimise offshore wind development in the Baltic Sea Region (BSR). The following analysis provides project stakeholders with up-to-date information on current market conditions for the development of a regional meshed grid. The report highlights relevant findings from the market analysis of the offshore wind energy transmission industry, with a particular focus on Europe and the Baltic Sea. It first provides a general overview of the European offshore wind energy industry, including information on relevant regulatory regimes, installed capacity, and technology trends. It then presents component-specific market overviews for high-voltage alternating current (HVAC) cables, high-voltage direct current cables (HVDC), converters, transformers, and substation foundations, as well as for the main operation, maintenance, and service (OMS) activities.
+@techreport{Côté2018b,
+title = {Market and supply chain analysis and overview of SME investment opportunities for offshore wind transmission assets in the Baltic Sea Region},
+author = {Elizabeth Côté and Kate Miller},
+url = {https://www.ikem.de/wp-content/uploads/2019/04/BIG_3.2_Qualified-Overview-Paper_final.pdf},
+year = {2018},
+date = {2018-10-00},
+abstract = {Offshore wind capacity in the Baltic Sea Region (BSR) could reach 9.5 GW by 2030.1 The objective of the Baltic InteGrid (BIG) project is to conduct interdisciplinary research that will promote efficient offshore wind deployment in the region. BIG research explores the framework conditions, opportunities, and barriers relevant to the development of a regional meshed grid. This qualified overview paper summarises four previous BIG reports that cover the market and supply chain for offshore transmission in Europe and the BSR; potential Baltic hubs for offshore grid development; and business opportunities for local small and medium-sized enterprises (SMEs).},
+type = {Qualified overview paper},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+Offshore wind capacity in the Baltic Sea Region (BSR) could reach 9.5 GW by 2030.1 The objective of the Baltic InteGrid (BIG) project is to conduct interdisciplinary research that will promote efficient offshore wind deployment in the region. BIG research explores the framework conditions, opportunities, and barriers relevant to the development of a regional meshed grid. This qualified overview paper summarises four previous BIG reports that cover the market and supply chain for offshore transmission in Europe and the BSR; potential Baltic hubs for offshore grid development; and business opportunities for local small and medium-sized enterprises (SMEs).

@@ -1,0 +1,43 @@
+Friederike Pfeifer is a Senior Research Associate at IKEM. She works on projects in the field of electromobility, charging infrastructure and sustainable mobility concepts (Move Urban, MUV). Besides, she is working on a PhD at Greifswald University (Prof. Dr. Rodi).
+She studied law at Humboldt University of Berlin. In 2013-2015, she conducted her legal clerkship at Kammergericht Berlin – including stages at the Federal Ministry of the Interior and at the German Embassy in Dhaka/Bangladesh. At Oeko-Institut e.V. and at the German Bar Association (DAV), she gained further professional experience in the fields of environmental law, policy advice and event organization. Prior to joining IKEM, she was employed at the Federal Foreign Office.
+@proceedings{Pfeifer2021,
+title = {Rechtliche Herausforderungen und Ansätze für eine umweltgerechte und nachhaltige Stadtentwicklung},
+author = {Friederike Pfeifer and Felix Nowack},
+url = {https://www.ikem.de/wp-content/uploads/2021/03/Rechtliche-Herausforderungen-und-Ansaetze-fuer-eine-umweltgerechte-und-nachhaltige-Stadtentwicklung_Nomos.pdf},
+year = {2021},
+date = {2021-00-00},
+publisher = {Nomos},
+keywords = {},
+pubstate = {published},
+tppubtype = {proceedings}
+}
+@article{Pfeifer2020e,
+title = {Elektromobilität: Neues Recht für neue Infrastruktur},
+author = {Friederike Pfeifer},
+url = {https://research.owlit.de/lx-document/REL1347312, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {64-67},
+abstract = {Mit jedem heute in Deutschland zugelassenen Auto mit Verbrennungsmotor kann man weltweit an Tankstellen Kraftstoff tanken: Einfüllstutzen, Zapfsäule und Kraftstofftypenbezeichnungen sind standardisiert und ohne Nachdenken nutzbar. Diese Selbstverständlichkeit gibt es im Bereich E-Mobilität nicht: Zwar gelten E-Fahrzeuge, betrieben mit Strom aus erneuerbaren Energien, seit Jahren als ein wichtiger Baustein der neuen Mobilität, aber der Wettlauf um neue Lösungen ist noch lange nicht entschieden. Die neuen Geschäftsfelder sind noch nicht ausbuchstabiert – technische Innovationen überholen sich, und erst langsam bilden sich Hauptströmungen, die zukünftig die neuen Standards bilden werden.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Mit jedem heute in Deutschland zugelassenen Auto mit Verbrennungsmotor kann man weltweit an Tankstellen Kraftstoff tanken: Einfüllstutzen, Zapfsäule und Kraftstofftypenbezeichnungen sind standardisiert und ohne Nachdenken nutzbar. Diese Selbstverständlichkeit gibt es im Bereich E-Mobilität nicht: Zwar gelten E-Fahrzeuge, betrieben mit Strom aus erneuerbaren Energien, seit Jahren als ein wichtiger Baustein der neuen Mobilität, aber der Wettlauf um neue Lösungen ist noch lange nicht entschieden. Die neuen Geschäftsfelder sind noch nicht ausbuchstabiert – technische Innovationen überholen sich, und erst langsam bilden sich Hauptströmungen, die zukünftig die neuen Standards bilden werden.
+@misc{Eickelmann2020d,
+title = {Nahverkehrsplan und Anordnung nach StVO – Urbane und ländliche Verkehrswende und das Recht},
+author = {Elias Eickelmann and Friederike Pfeifer},
+url = {https://www.ikem.de/wp-content/uploads/2021/03/2020-10-10_Pegasus-IKEM_Eickelmann-Pfeifer-3.pdf},
+year = {2020},
+date = {2020-10-10},
+abstract = {Die Rahmenbedingungen der Mobilitätswende haben werden – neben vielen weiteren Komponenten – vor allem vom rechtlichen Rahmen vorgegeben. Zurzeit befinden sich nicht nur die Straßenverkehrsordnung (StVO) und das Personenbeförderungsgesetz (PBefG) im Umbruch. Die StVO-Novelle 2020 und die Diskussionen um eine bessere Integration neuer Mobilitätsdienstleistungen sind nur ein kleiner Teil der hochdynamischen Rechtsentwicklungen. Daneben entstehen unter anderem Mobilitätsgesetze und Mobilitätsfördergesetze auf Landesebene (z.B. in Berlin und Hessen), die die bessere Vernetzung der Verkehrsmittel mit dem Ziel einer multimodalen, emissionsarmen Mobilität verfolgen. In welchem Verhältnis stehen sie zur klassischen Regulierung des ÖPNV und zum Verhalten im Straßenverkehr, und wie lassen sich innovative Ansätze gut vereinen?
+Die Transformation urbaner Mobilität stellt dabei auch an das Recht ganz andere Anforderungen als die Transformation ländlicher Mobilität. Im Vortrag werden das Projekt Move Urban als Beispiel für urbane Mobilität und das Projekt Hubchain als Beispiel für ländliche Mobilität präsentiert. Der Vortrag stellt die beiden Projekte gegenüber und erläutert Unterschiede und Gemeinsamkeiten. Um die oft abstrakten rechtlichen Inhalte greifbarer zu machen, wird ein Teil des Vortrags als Dialog zwischen Nahverkehrsplan und Straßenverkehrsanordnung gestaltet: Was kannst du, was kann ich? Und brauchen wir als Dritten im Bunde vielleicht noch einen Mobilitätsplan, damit die Transformation gelingt? },
+keywords = {},
+pubstate = {published},
+tppubtype = {presentation}
+}
+Die Rahmenbedingungen der Mobilitätswende haben werden – neben vielen weiteren Komponenten – vor allem vom rechtlichen Rahmen vorgegeben. Zurzeit befinden sich nicht nur die Straßenverkehrsordnung (StVO) und das Personenbeförderungsgesetz (PBefG) im Umbruch. Die StVO-Novelle 2020 und die Diskussionen um eine bessere Integration neuer Mobilitätsdienstleistungen sind nur ein kleiner Teil der hochdynamischen Rechtsentwicklungen. Daneben entstehen unter anderem Mobilitätsgesetze und Mobilitätsfördergesetze auf Landesebene (z.B. in Berlin und Hessen), die die bessere Vernetzung der Verkehrsmittel mit dem Ziel einer multimodalen, emissionsarmen Mobilität verfolgen. In welchem Verhältnis stehen sie zur klassischen Regulierung des ÖPNV und zum Verhalten im Straßenverkehr, und wie lassen sich innovative Ansätze gut vereinen?
+Die Transformation urbaner Mobilität stellt dabei auch an das Recht ganz andere Anforderungen als die Transformation ländlicher Mobilität. Im Vortrag werden das Projekt Move Urban als Beispiel für urbane Mobilität und das Projekt Hubchain als Beispiel für ländliche Mobilität präsentiert. Der Vortrag stellt die beiden Projekte gegenüber und erläutert Unterschiede und Gemeinsamkeiten. Um die oft abstrakten rechtlichen Inhalte greifbarer zu machen, wird ein Teil des Vortrags als Dialog zwischen Nahverkehrsplan und Straßenverkehrsanordnung gestaltet: Was kannst du, was kann ich? Und brauchen wir als Dritten im Bunde vielleicht noch einen Mobilitätsplan, damit die Transformation gelingt?

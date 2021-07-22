@@ -1,0 +1,76 @@
+Michael Kalis is a Senior Research Assistant at IKEM, with focus on energy law.
+He studied law with specialization on International and European law at the the European University Viadrina and the University of Luxembourg. After his first state exam he did his legal clerkship at the Kammergericht Berlin, with placements at the federal anti-discrimination agency, Amnesty International e.V., the law firm Geulen & Klinger and the permanent mission of Germany to the United Nations in Geneva.
+@techreport{Horng2020,
+title = {Wasserstoff - Farbenlehre: Rechtwissenschaftliche und rechtspolitische Kurzstudie},
+author = {Pauline Horng and Michael Kalis and Sabrina Heinecke and Jannis Glahe and Odile Stabon},
+url = {https://www.ikem.de/wp-content/uploads/2021/01/IKEM_Kurzstudie_Wasserstoff_Farbenlehre.pdf},
+year = {2020},
+date = {2020-12-14},
+type = {Studie im Auftrag des Clusters Energietechnik},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@techreport{Kalis2020d,
+title = {Rechtsrahmen für Wasserstoffnetze. Anpassungsvorschläge für die Kooperationsvereinbarung Gas},
+author = {Michael Kalis},
+url = {https://www.ikem.de/wp-content/uploads/2020/11/20201104_IKEM_Rechtsrahmen_Wasserstoff_KoV.pdf},
+year = {2020},
+date = {2020-11-05},
+type = {IKEM Gutachten im Auftag von GASCADE Gastransport GmbH, Nowega GmbH, RWE Generation SE und Uniper SE},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+@article{Kalis2020c,
+title = {Wasserstoff in der Energiewende – Herausforderungen an Recht und Governance},
+author = {Michael Kalis and Johannes Antoni },
+url = {https://research.owlit.de/lx-document/REL1347320, Artikel auf OWLIT
+https://www.rethinking-law.com/zeitschrift/archiv/ausgabe-5-2020/, Inhaltsverzeichnis der Gesamtausgabe},
+year = {2020},
+date = {2020-10-27},
+journal = {REthinking Law},
+volume = {5/2020},
+pages = {30-33},
+abstract = {Wasserstoff kann ein klimaschützendes Multitalent sein – wenn Herstellung und Nutzung stimmen. Das erste Element im Periodensystem ist ein nachhaltiger Energieträger, gasförmig und – durch technische Verfahren verflüssigt – speicher- sowie transportfähig, Grundstoff in der Industrie und wesentlicher Bestandteil der Sektorenkopplung. Für den Ausstieg aus fossilen Energiequellen
+– dem sog. phase-out – und den damit einhergehenden Umstieg auf alternative, nachhaltige Energieträger ist Wasserstoff daher unerlässlich
+und bildet einen zentralen Bestandteil der Dekarbonisierung.
+Doch die Förderung und der Einsatz von Wasserstoff machen „H2“ keineswegs voraussetzungslos zu einer tragenden Säule der Energiewende, denn Wasserstoff ist nicht per se klimaneutral. Deshalb sind die Wahl und der Einsatz eines geeigneten Rechtsrahmens – und entsprechende Steuerungsinstrumente maßgeblich.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Wasserstoff kann ein klimaschützendes Multitalent sein – wenn Herstellung und Nutzung stimmen. Das erste Element im Periodensystem ist ein nachhaltiger Energieträger, gasförmig und – durch technische Verfahren verflüssigt – speicher- sowie transportfähig, Grundstoff in der Industrie und wesentlicher Bestandteil der Sektorenkopplung. Für den Ausstieg aus fossilen Energiequellen
+– dem sog. phase-out – und den damit einhergehenden Umstieg auf alternative, nachhaltige Energieträger ist Wasserstoff daher unerlässlich
+und bildet einen zentralen Bestandteil der Dekarbonisierung.
+Doch die Förderung und der Einsatz von Wasserstoff machen „H2“ keineswegs voraussetzungslos zu einer tragenden Säule der Energiewende, denn Wasserstoff ist nicht per se klimaneutral. Deshalb sind die Wahl und der Einsatz eines geeigneten Rechtsrahmens – und entsprechende Steuerungsinstrumente maßgeblich.
+@article{Antoni2020b,
+title = {Grün vs. Grau – Begriff, Nachweis und Weitergabe der „grünen“ Eigenschaft erneuerbaren Stroms},
+author = {Johannes Antoni and Michael Kalis},
+url = {https://www.ruw.de/suche/zner/Grue-vs.-Grau-Begr-Nach-und-Weiter-der-grue-Eigens-63e2b09d7fb23aa2d90d5bc334aadb10?crefresh=1, Artikel auf der Website der ZNER },
+year = {2020},
+date = {2020-10-22},
+journal = {ZNER},
+volume = {5},
+number = {24},
+pages = {382-389},
+abstract = {Im Rahmen des Artikels untersuchen die Autoren die Weitergabe der "grünen" Eigenschaft von erneuerbar erzeugtem Strom. Ausgangspunkt ist die Herleitung einer Begriffsdefinition für die "grüne" Eigenschaft von Strom unter Zugrundelegung der derzeitigen Rechtslage.},
+keywords = {},
+pubstate = {published},
+tppubtype = {article}
+}
+Im Rahmen des Artikels untersuchen die Autoren die Weitergabe der "grünen" Eigenschaft von erneuerbar erzeugtem Strom. Ausgangspunkt ist die Herleitung einer Begriffsdefinition für die "grüne" Eigenschaft von Strom unter Zugrundelegung der derzeitigen Rechtslage.
+@techreport{Kalis2020b,
+title = {KEROSyN100 – Regulatorische Hemmnisse und Anreizmechanismen für den Einsatz synthetischer Kraftstoffe in der Luftfahrt},
+author = {Michael Kalis and Susan Wilms },
+url = {https://www.ikem.de/wp-content/uploads/2020/05/20200528_IKEM_KeroSyn100_Regulatorische-Hemmnise-und-Anreize.pdf},
+year = {2020},
+date = {2020-05-28},
+institution = {IKEM:},
+abstract = {In dieser Studie werden die gegenwärtigen regulatorischen Rahmenbedingungen für die Herstellung und den anschließenden Einsatz des synthetischen Kerosins untersucht. Die Analyse folgt dabei dem gesamten Herstellungsprozess und untersucht folglich den Rechtsrahmen zur Elektrolyse, zur CO2-Gewinnung sowie den Einsatz möglicher Zwischen- und Nebenprodukte. Im Fokus der Untersuchung steht dabei die Treibhausgasminderung. Daher werden zunächst die bestehenden Treibhausgasminderungsinstrumente des derzeitigen und absehbaren Rechtsrahmens dargestellt. Anschließend wird eine Anwendbarkeit dieser Instrumente auf den Fall des synthetischen Kerosins bzw. mögliche Zwischen- und Nebenprodukte geprüft. },
+type = {Rechtswissenschaftliche Studie im Rahmen des Projekts KeroSyn100},
+keywords = {},
+pubstate = {published},
+tppubtype = {techreport}
+}
+In dieser Studie werden die gegenwärtigen regulatorischen Rahmenbedingungen für die Herstellung und den anschließenden Einsatz des synthetischen Kerosins untersucht. Die Analyse folgt dabei dem gesamten Herstellungsprozess und untersucht folglich den Rechtsrahmen zur Elektrolyse, zur CO2-Gewinnung sowie den Einsatz möglicher Zwischen- und Nebenprodukte. Im Fokus der Untersuchung steht dabei die Treibhausgasminderung. Daher werden zunächst die bestehenden Treibhausgasminderungsinstrumente des derzeitigen und absehbaren Rechtsrahmens dargestellt. Anschließend wird eine Anwendbarkeit dieser Instrumente auf den Fall des synthetischen Kerosins bzw. mögliche Zwischen- und Nebenprodukte geprüft.
