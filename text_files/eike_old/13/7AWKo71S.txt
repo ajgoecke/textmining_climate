@@ -1,0 +1,141 @@
+Auf der letzten Eike Konferenz in München (ach, schon wieder so lange her) und im privaten, bin ich wieder danach gefragt worden. Daher habe ich eine Basis für unsere Leser mit Fachwissen auf anderen Gebieten zusammengestellt.
+Die Fachleute unter unseren Lesern sind hier nicht angesprochen. Diese Leser finden unter den u.g. Links fachlich tiefergehende Informationen. Wer kommentieren möchte, bitte schreiben Sie genau, was Sie meinen und wie Sie es ausdrücken würden, damit die o.g. Gruppe unserer Leser es besser versteht. Pauschale Kritik fällt auf den Kommentator zurück.
+Wie entsteht Wechselspannung?
+Zwischen den Polen eines Magneten dreht sich ein Leiter.
+Durch die Bewegung in dem magnetischen Feld, wird in dem Leiter (Draht) eine Spannung induziert. Ist die Drahtschleife geschlossen, so fließt ein Strom, der periodisch zu- und abnimmt. Steht die Leiterschleife gerade unter einem Pol, ist die Spannung (der Strom) am größten, steht die Leiterschleife zwischen den Polen – in der neutralen Zone- wird keine Spannung induziert, durch die weitere Bewegung ändert die Spannung (der Strom) ihre Polarität (seine Richtung).
+Es ist egal, ob die Leiterschleife oder der Magnet bewegt wird – die induzierte Spannung und damit der Strom, pulsiert sinusförmig.
+Anwendungsbeispiele sind Generatoren die Spannung erzeugen. Der Stromkreis ist dann über den Verbraucher geschlossen (Haushalte, Industrie, Straßenbeleuchtung, Bahnen, … )
+Die Bewegung des stromdurchflossenen Leiters im Generator, erzeugt selbst ein der Drehbewegung entgegengesetztes Magnetfeld – das muss der Antrieb des Generators dann als mechanische Arbeit leisten – je geringer der fließende Strom (die abgenommene Leistung ) ist, umso weniger mechanische Antriebsleistung ist notwendig und umgekehrt.
+Eine gute Beschreibung finden Sie hier
+https://group.vattenfall.com/de/unternehmen/geschaeftsfelder/strom-gas/wie-wird-strom-erzeugt
+Historische Ergänzung:
+Am Anfang der Entwicklung konnte man mit „wechselndem Strom“ nicht viel anfangen. Man kannte nur Gleichstrom. Dazu baute man die Generatoren mit einem Kommutator „Stromwender“. Gut zu erkennen an diesem Generator
+Ausstellungsdynamo von Sigmund Schuckert, hergestellt für die Ausstellung „L’electricè“ in Paris 1881 – Foto vom Autor, Industriemuseum Tafelwerk, Nürnberg
+Man sieht rechts und links die Erregerspulen (Magnetspulen), der Läufer ist im runden Mittelteil, links der Kommutator mit Kupferbürsten. Der Ausdruck „Bürste“ hat sich gehalten, auch für die später genutzten Kohlestifte.
+1881 baute Werner von Siemens die erste elektrische Straßenbahn, damals mit 400 VDC Stromzuführung über die Schienen. (Prinzip Gleichstrom Modelleisenbahnen, ein Beispiel: Fleischmann)
+Transformator
+Ebenso, wie vorstehend beschrieben, erzeugt ein fließender Strom um einen Leiter ein Magnetfeld. Ist der Strom pulsierend, so wird in einer in einer daneben angebrachten Spule ebenfalls eine Spannung induziert. Diese Anordnung kann dann ein Trafo sein, bei dem die Wicklungen elektrisch (galvanisch) getrennt sind, aber einen gemeinsamen Kern aus zueinander isolierten Eisenblechen haben, das Joch. – die Energie wird dann durch das Magnetfeld übertragen. Die primär – sekundär Spannung wird dann im Verhältnis der jeweiligen Anzahl an Windungen herauf oder herabgesetzt.
+https://www.udo-leuschner.de/basiswissen/index.htm
+Motor
+Grundsätzlich funktioniert ein Motor wie ein Transformator, nur dass beim Motor die sekundäre Wicklung dann der Läufer ist. Der Läufer dreht sich in einem Motor, wenn die Ständerwicklungen ein Drehfeld induzieren, quasi das Gegenteil des oben beschriebenen Generatoreffektes. (Das war am Anfang der Entwicklung nicht sofort klar!)
+Wichtige Formeln:
+Mit dem Ohmschen Gesetz kann der Strom errechnet werden, der bei einer bestimmten Spannung durch einen Widerstand (-sleiter) fließt: Strom = Spannung / Widerstand,
+als Formel I = U/R – I in Ampere, U in Volt, R in Ohm
+Die Leistung, die notwendig ist, um den Strom zu treiben: P = U * I , P in Watt,
+Verlustleistung ist auch Leistung, nach Umstellen der Formeln gilt auch Pv = I² * R
+Die geleistete Arbeit ergibt sich mit Leistung mal Zeit,
+W = P * t, an den Stromanbieter zahlen wir meist nach verbrauchten kWh (Kilo Watt Stunden)
+Nichts funktioniert ohne Verluste, was wir nutzen hat einen Wirkungsgrad. Fließt Strom durch eine Leitung, so sind die Verluste natürlich abhängig vom Widerstand des Leiters, wesentlich ist der Strom, der geht nach obiger Formel quadratisch ein.
+Stromnetz im Gleichtakt
+Wechselspannung bietet Vorteile, es ist einfach mit einen Transformator die Spannung herauf zusetzen, für verlustärmere Fernübertragung (höhere Spannung, kleinerer Strom]. Für den Verbraucher wird die Spannung wieder herab gesetzt.
+Der Nachteil ist, dass alle an das Netz angeschlossenen Generatoren, ihre Spannung im Gleichtakt einspeisen müssen. Der exakte Takt – die Frequenz, beträgt für z.B. Deutschland, Österreich, Schweiz 50Hz, das sind 50 Zyklen / sec. [Erst 1930 wurden in Deutschland die 50 Hertz als Normfrequenz festgeschrieben.]
+Die aktuelle Netzfrequenz finden Sie hier: https://www.netzfrequenzmessung.de/,
+Ein Ing. Büro, das auch professionelle Auswertungen zur Verfügung stellt.
+Messung der Netzfrequenz
+In jedem Augenblick muss von den Kraftwerken genau so viel Strom erzeugt werden, wie von den Verbrauchern abgenommen wird. Liegt die abgenommene Leistung über der den Generatoren zugeführten Leistung, dann wird das Leistungsdefizit zwischen zugeführter und abgenommener Leistung aus der Rotationsenergie der Generatoren gedeckt. Diese werden dadurch langsamer, d.h. die Netzfrequenz sinkt.
+Verschiedene gestaffelte Regelmechanismen sorgen bei einer Abweichung von der Sollfrequenz zu einer Leistungsanpassung an den Generatoren, um wieder die 50,0 Hz zu erreichen. Links dargestellt ist die aktuelle Netzfrequenz. Die Skala ist so groß ausgeführt, um die geringen Frequenzänderungen detailliert darstellen zu können. Im normalen Netzbetrieb treten Abweichungen bis 0,150 Hz auf, die Primärregelleistung wird erst bei einer Abweichung von 0,200 Hz voll eingesetzt.
+Die derzeit Primärregelleistung beträgt im obigen Screenshot gerade 521 MW, d.h., dass müssen konventionelle Kraftwerke gerade zusätzlich abgeben. Wind und Sonne können „kein Gas geben“.
+Zeitlicher Verlauf der Netzfrequenz: https://www.netzfrequenzmessung.de/verlauf.htm (etwas warten, die Grafik wird zeitlich aktuell erstellt)
+Weicht nun ein Generator davon ab, kommt es zu Ausgleichsströmen, die je nach Frequenzabweichung bis zur Zerstörung der Netzkomponenten oder der Generatoren führen kann.
+Um Generatoren miteinander zu koppeln, müssen übereinstimmen:
+Die Frequenz, die Phasenlage (der Beginn), die Höhe der Spannung
+Um es deutlich darzustellen, sehen Sie im obigen Beispiel einen Frequenzunterschied von 1:2. Und auch eine Phasenverschiebung. An vielen Stellen ist der Wert (die Spannung) der beiden Sinuswellen sehr unterschiedlich, im realen Netz kommt zu Ausgleichsströmen.
+Die Pfeile könnten an allen Stellen angebracht sein, hier zeigen sie nur auf Beispiele: „Blau“ hat den Maximalwert, „Rot ist fast maximal Negativ, oder „Rot hat Maximalwert, „Blau“ ist fast maximal Negativ..
+Wann kann es zu Frequenzabweichungen kommen?
+Im ausgeglichenen Zustand, liefert der Generator gerade so viel Strom, wie gebraucht wird, der Motor dreht den Generator gleichmäßig, Wird mehr Energie (Strom) gefordert, so wird der Antrieb des Generators etwas langsamer werden, die Frequenz geht zurück- der Antrieb muss nachgeregelt werden. Die wichtigste Regelgröße ist die Frequenz (was der Drehzahl entspricht).
+Wird Last abgeschaltet, so leuchtet es ein, dass die Drehzahl und damit die Frequenz zunehmen. Der Regler reduziert die Energiezufuhr des Antriebes.
+- die Frequenz ist im Stromnetz das Maß für ein Leistungsgleich- bzw. ungleichgewicht.
+- Solche Lastsprünge treten auch auf, wenn Wind und Sonne „Einspeise- bzw. Abfallsprünge“ verursachen.
+Was ebenfalls nicht erwünscht ist: Blindleistung
+In Wechselstrom-Netzen gilt: Wirkleistung + Blindleistung = Scheinleistung
+Einfach erklärt: https://www.youtube.com/watch?v=p7AEHfs9EOA
+Komplexer erklärt: https://docplayer.org/67158225-Blindleistung-blinde-leistung-ohne-nutzen.html
+„Blindströme“ lassen sich grundsätzlich nicht vermeiden, sie sollten jedoch gering sein, da sie die Leitungen ebenfalls belasten und Übertragungsverluste nach obiger Formel Pv= I² *R ergeben.
+Die Begriffe beziehen sich auf Wechselstromkreise. In diesen ist das Induktionsgesetz gültig, d.h. Spulen und Kondensatoren können in Form von Magnetfeldern und elektrischen Feldern Energie speichern (und wieder abgeben). Da im Falle von Spulen und Kondensatoren sowohl der Feldaufbau als auch der Feldabbau eine gewisse Zeit benötigt, verschieben sich Stromfluss und Spannungsverlauf zeitlich gegeneinander.
+Auf dieser Webseite gibt es weitere interessante Erklärungen.
+https://www.emf.ethz.ch/de/emf-info/themen/physik/verknuepfung-von-elektrischen-und-magnetischen-feldern/wirkleistung-blindleistung-scheinleistung/
+Obige Sinuskurven habe ich mit MS-Excel erstellt. Sie können die Exceldatei Sinus herunterladen und durch verändern der Parameter selbst sehen, wie sich die Kurvenverläufe – und vor allem die zusammengesetzten, verändern
+Andreas Demmig
+Ich hoffe, ich konnte den Einstieg in die Wirkungsweise der rotierenden Generatoren zur Stromerzeugung vermitteln. Eine Information wieviel Kraftwerke bzw. welche Leistungen als Mindestreserve für die Stabilität unserer Energieversorgung wichtig sind, kommt in einem weiteren Beitrag.
+***
+Möglicherweise auch Interessant:
+Übertragung elektrischer Energie, Prof. Dr. Muhr, TU Graz
+https://www.tugraz.at/fileadmin/user_upload/Events/Eninnov2014/files/pr/PR_Muhr.pdf
+https://www.e-steiermark.com/pressemitteilungen/blackout-leitfaden-fuer-alle
+http://publications.rwth-aachen.de/record/760181/files/760181.pdf
+Sehr geehrte Leser,
+vielen Dank für Ihre Kommentare.
+Für obigen Beitrag habe ich etwa 2/3 meiner Gedanken wieder gekürzt, um es zum einen nicht zu unübersichtlich, als auch nicht zu fachlich detailliert zu machen. Das wäre Thema verfehlt.
+Ich arbeite an der Fortführung des Themas, was auch Ihre Vorschläge z.T. schon berücksichtigt.
+[Das es noch sehr viel zu schreiben gäbe, …. . Als Student kamen wir auch nicht um den Küpfmüller (theoretische E.-technik) herum. Wollte in meinem Berufsleben aber keiner von mir wissen]
+Der Link funktioniert nicht.
+Ich habe dann gesucht und dieses pdf gefunden
+https://www.iosb.fraunhofer.de/content/dam/iosb/iosbtest/documents/publikationen/jahresberichte/Fraunhofer-IOSB_Jahresbericht-2012_2013.pdf
+Im Dokument habe ich dann nur etwas zu Simulation der Leitungsbelastung (S.56) gefunden. [… erinnert mich an Simulationen: Brauchen wir zwei oder drei Fahrspuren auf der Autobahn?]
+In der Einleitung wird großspurig (meine Meinung) was geschrieben von:
+„Durch den massiven Ausbau der erneuerbaren Energien kommt es bereits heute zu einem Ungleichgewicht zwischen der Stromerzeugung und -nachfrage, das sich in Zukunft noch weiter verstärken wird. Die lokale Verteilung dieses Ungleichgewichts in Deutschland und die Frage, ob es eher einen Strommangel (positiver Energieausgleichsbedarf) oder einen Stromüberschuss (negativer Energieausgleichsbedarf) geben wird,…“
+So, und dann wird darüber philosophiert, ob die Verbindungs-Netzleitungen ausreichen oder überlastet werden. Kein Wort zur Energiesicherheit.
+Als Supergrid – wird ein Übertragungsnetz verstanden, ähnlich wie wir es für Frei- (Fern-)leitungen schon haben, aber mit Hochspannungsgleichstrom – Übertragung. [Desertec lässt grüßen]. Freileitungen übertragen etwa die Leistung eines Kraftwerkes, Gleichstromübertragung soll das doppelte bis dreifache können, ist bislang aber erst in Erforschung.
+Damit wird phantasiert, man könnte verlustärmer z.B. aus fernen Ländern, wo viel Sonne scheint oder immer Wind weht, die Energie von dort beziehen, und bei uns könnten die Kraftwerke abgeschaltet werden.
+Eine Gleichstrom-Leitung hat etwas weniger Verluste, als eine Wechselstrom-Leitung – unterwegs(!) Aber der Aufwand zum Betrieb und Wartung ist wesentlich höher und störungsanfälliger.
+(für diesen Basis-Beitrag sei damit genug geschrieben)
+haben Sie herzlichen Dank für Ihr Feedback mit guten Erklärungen, mit denen ich hoffentlich Paroli bieten kann als auch mit Ihrem sehr interessanten Link. Anbei noch einmal ein Versuch von mir. meinen Link öffnen zu können :
+https://www.iosb-ast.fraunhofer.de/content/dam/iosb/ast-iosb/documents/Abteilungen/Energie/Energiesystemeundkomponenten/Energiesysteme_SuperGrid.pdf
+Da können Sie den Leuten exakt zeigen wieviel Strom wann erzeugt werden kann und wann gar keiner.
+Und das Schöne ist: Die Daten gelten problemlos für ganz Niedersachsen, Schleswig-Holstein und Mecklenburg-Vorpommern.
+Nicht vergessen: Bei 12 m/sec ist maximale Windmühlenstromerzeugung und bei halber Geschwindigkeit von 6 m/sec rein rechnerisch maximal 1/8.
+Desweiteren gibt es auf der Erde keine Länder mit konstanter Windgeschwindigkeit. Selbst die Kanarischen Inseln haben variable Windgeschwindigkeiten.
+Auch Ihnen herzlichen Dank für Ihr Feedback, Herr Heinzow. Ihre Ausführungen waren mir bereits bekannt und ich stimme zu 100 % damit überein. Die Dummies (auch Frau Kemfert kann man damit nicht überzeugen), denen ich damit Paroli bieten wollte, wollten dies jedoch nicht akzeptieren und faselten immer von Super-Grid. Herr Demmig hat mir schon sehr gut weiter geholfen, vielleicht bekomme ich auch noch zusätzliche Tipps von Herrn Winter und Herrn Puschner.
+Sehr geehrter Herr Dr. Denzer,
+vielen Dank für Ihren Beitrag und Ihrer interessanten Frage. Den ersten Teil der Antwort haben Sie sich schon selber gegeben: Es wird sehr, sehr teuer! Bis hier her war es einfach und in Wirklichkeit nichts weiter als eine Behauptung. Also von Anfang an: Supergrid, was soll das sein? Supergrid ist erst mal eine Wortschöpfung, ein selbst gebastelter Anglizismus den selbst die Briten nicht verstehen würden. Ähnlich wie das Wort „Handy“. Ein kluger Mann hat mir mal gesagt, Anglizismen benutzen Menschen, die durch interessant und wichtig klingende Worte ihre eigene Inkompetenz vertuschen wollen. Kann man so sehen, muss man aber nicht. Der dickliche Mann aus dem Wirtschaftsministerium nennt den Supergrid auch gerne „Stromautobahn“. Ein meiner Ansicht nach genauso dämlicher Begriff.
+Supergrid beschreibt die Idee, ein Hochspannungs- Gleichstrom- Übertragungsnetz (HGÜ) zu errichten, das ganz Europa und Teile Nordafrikas miteinander vernetzt. Heute gibt es schon Punkt zu Punkt Verbindungen, die autark funktionieren. Aber warum nun plötzlich Gleichspannung, wenn wir doch ein gut funktionierendes, europaweites Wechselspannungs- Verbundnetz haben? Oder sollte ich besser sagen „hatten“? Betrachten wir mal nur Deutschland. Deutschland ist in vier Regelzonen aufgeteilt, die je ein Kraftwerksverbund sind. Die Regelzonen sind untereinander gekoppelt, was die Versorgungssicherheit noch erhöht. Über die Koppelstellen sollte im Normalfall kein Strom fließen. Die Kraftwerke stehen mehr oder weniger nah am Verbraucher, so das Leistungsverluste bei der Energieübertragung möglichst gering gehalten werden sollen. Leistungsverluste entstehen zum Einen über den Netzinnenwiderstand, zum Anderen erzeugen die elektromagnetischen Wechselfelder Blindströme, die die Leitungen zusätzlich belasten. Das sind die Blindleistungen, die Herr Demmig oben beschrieben hat. Die Netzbetreiber kompensieren diese Blindleistung aber weitest gehend.
+Heute sind wir, durch das leidige EEG, in der Situation, dass fluktuierende Wind- und Sonnenenergie aus dem Norden der Republik in den Süden übertragen werden muss. Unser Energieversorgungsnetz ist dafür aber nicht gebaut. Durch Zwangseinspeisung s.g. Erneuerbarer und reihenweise Abschaltung grundlastfähiger Kraftwerke wird das Netz immer instabiler. Die Idee ist nun, die elektrische Energie mit bis zu 560kV Gleichspannung über weite Strecken zu übertragen. Im Gleichspannungsnetz ist der Leistungsverlust etwas geringer als bei Wechselspannung. Außerdem gibt es in den statischen elektromagnetischen Feldern der Gleichspannung keine Blindleistung. Das klingt doch verlockend, oder? Jetzt muss man die Kabeltrassen aber noch bauen, am besten unterirdisch. 1000M eines solchen Einleiterkabels wiegen etwa 50t, mehr kann man über Land nicht transportieren. Davon braucht man aber mindestens zwei. Das bedeutet alle 1000m zwei Muffen unter Reinraumbedingungen zu bauen. Technisch ist das zweifellos möglich, auch über 800 km. Über eine solche Trasse kann man dann 2GW Leistung übertragen, vielleicht auch etwas mehr. Die Supergrid Superplaner träumen allerdings von 32 GW bis 70 GW. Wo sollen die tausende Tonnen Kupfer herkommen. Der Kupferpreis hat sich seit letztem Jahr mehr als verdoppelt auf jetzt ca. 1000 €/t. Kunststoffe für Isolierungen und Rohre werden grad immer knapper. Kunstoffpellets sind meines Wissens ein Nebenprodukt der Kerosinproduktion. Frisst hier grad die Dekarbonisierung-Revolution ihre eigenen Kinder?
+Selbst wenn die Kabeltrassen gebaut sind, ist das erst der halbe Weg. An jeden Einspeisepunkt braucht man große Trafos und Gleichrichter, an jeden Endpunkt Wechselrichter und natürlich große Trafos. An jeden Netzknoten braucht man Spannungsregler, und zwar für Höchstspannung. So etwas hat bis heute noch keiner gebaut. All diese aktiven Anlagenteile sind nicht nur ressourcenintensiv, sie bedürfen einer regelmäßigen Wartung und ständiger Überwachung. Das sind nicht unerhebliche Kosten, die während der gesamten Betriebszeit anfallen.
+Herr Dr. Denzer, Sie hätten gerne elektrotechnische Argumente, die sich gegen dieses Supergrid aussprechen. Solche kann ich Ihnen leider nicht liefern. Elektrotechnisch kann man die sinnbefreitesten Dinge realisieren, wenn man über Kosten und Nutzen nicht nachdenken muss. Geld kann man drucken, Rohstoffe nicht. Meiner Ansicht nach ist der Supergrid genau so eine Schnapsidee wie grüner Wasserstoff. Wir werden noch viel darüber hören, aber ich glaube nicht, dass wir jemals ausgereifte Techniken zu sehen bekommen. Wind- und Sonnenenergie, Supergrid und Wasserstoff sind nicht die Lösung irgendein Problems. Sie sind das Problem!
+Seit 200 Jahren gibt es die Idee, dass CO2 irgend etwas mit der Temperatur unserer Erde zu tun hätte. In den letzten 200 Jahren haben kluge Leute mit Spektralanalyse den Weltraum erforscht, die Dampfmaschine durch Elektro- und Dieselmotore ersetzt, die Telegraphie, Glühlampen, Radio, Fernsehen erfunden und den ersten Computer gebaut. Sie entdeckten das Penecelin, die Relativitätstheorie und die Unschärferelation. Sie machten die Kernkraft nutzbar, bauten die größte Maschine der Welt und fanden damit das Higgs-Boson. An der Dummheit der Menschen kann es wohl kaum liegen, dass wir bis heute, abgesehen von einigen mathematisch wie physikalisch fragwürdigen Modellen und Theorien, keinen greifbaren Beweis für die Klimasensitivität von CO2 haben. Hier liegt das wahre Problem! Ist es wirklich nötig, dass wir auf Grund eines unbewiesenen grünen Narrativ einer angeblichen Klimakatastrophe unsere Wirtschaft an die Wand fahren, Fauna und Flora zerstören, Menschen krank machen und unseren Kindern und Enkelkindern eine ungewisse Zukunft bereiten? Nein! Natürlich gibt es Klimaveränderungen und es ist gut darauf vorbereitet zu sein. Aber dafür braucht es die freie und unabhängige Forschung, den freien und offenen Meinungs- und Erkenntnisaustausch von Wissenschaftlern. Spinnerte Ideen von bildungsfernen, regierungsfinanzierten ThinkTanks bringen hier wenig.
+Mit besten Grüßen
+haben Sie herzlichen Dank für Ihre großartigen Erklärungen. Allein die gewaltigen Rohstoff- und damit Kostenprobleme beim Bau der Kabeltrassen sind ein sehr gutes Argument, um den Super-Grid Fans Paroli bieten zu können. Wer diese Argumente nicht akzeptieren will, dem/der kann man nur Borniertheit vorwerfen. Nochmals herzlichen Dank für Ihren Kommentar !
+Mit besten Grüßen
+Ich vermute, damit ist „smart grid“ gemeint, also intelligentes Netz. In einem smart grid gibt es eine Menge von Kommunikations- und Steuermöglichkeiten zwischen den einzelnen Netzelementen. Bekanntestes Beispiel, das „smart meter“, also der intelligente elektrische Verbrauchszähler, der fernablesbar ist und auch von Ferne geschaltet werden kann, um Verbrauchergruppen freizugeben oder nicht.
+Ziel ist eine „Über-alles-Effizienzsteigerung“ bzw. Verbrauchsanpassung an die Erzeugungskapazitäten. In letzter Konsequenz heißt das, es gibt irgendwo einen Supercomputer, der alle Teilnehmer und Vorgänge im Netz kennt und aktiv optimiert.
+In der Theorie ist das ein spannendes Thema, in der Praxis stößt es auf jede Menge Probleme aus allen Bereichen der Systemtechnik und der Juristerei.
+Kleine Teilbereiche werden sicher kommen, aber wie die Sicherheitsdebatte bei den smart meters schon zeigt, ist selbst hier mit Problemen zu rechnen.
+Als Riesenproblem gilt auch die Anfälligkeit gegenüber Hackern, weil wer so ein System in seine Gewalt bringt, hat ein ganzes Land in seiner Gewalt.
+haben Sie herzlichen Dank für Ihre guten Erklärungen zum Smart Grid, dass aber nach den guten Erklärungen von Herrn Michael Winter zum Super-Grid (Elektrizitätsnetz über große Entfernungen, wofür auch HGÜ eingeplant werden muss) nicht mit diesem identisch ist aber wahrscheinlich damit kombiniert wird. Ihre guten und anschaulichen Erklärungen geben mir aber gute Argumente, auch die Hype um das Smart Grid zu relativieren. Nochmals herzlichen Dank dafür !
+Zusätzlich ist klassisch das (n-1) Kriterium eine Richtlinie für die Netzkonstruktion. Das bedeutet, wenn ein Netzelement ausfällt, egal welches, muß der verbleibende Rest trotzdem eine 100%ige Verfügbarkeit gewährleisten können. Es sind also sowohl operativ als auch konstruktiv entsprechende Redundanzen vorzusehen. Dieses Konzept gerät durch die dezentrale Einspeisung auf Mittelspannungsebene durch Wind und PV unter Druck. Zusätzlich werden die Umspannstationen von Hoch- auf Mittelspannung dadurch umgekehrt betrieben.
+Im Gegensatz zum Maschennetz ist eine HGÜ eine Punkt zu Punkt Verbindung, die nur in einer Richtung betrieben wird. Ob an zweisystemigen Bau von Nord nach Süd gedacht ist, weiß ich nicht, aus Verfügbarkeitsüberlegungen wäre es erforderlich.
+HGÜs haben die Eigenschaft, daß man sie „unterwegs“ so gut wie nicht abschalten kann, weil Nulldurchgänge fehlen und bei mechanischer Trennung ein Lichtbogen entstünde, der nicht löschbar ist. Es gibt von der Industrie zwar Konzepte auf Halbleiterbasis, ob die bereits einsatzfähig sind, weiß ich aber nicht.
+Weil HGÜs also Punkt zu Punkt Verbindungen sind, ist die Bezeichnung Grid für mich daher unpassend. Das Grid arbeitet also weiter als Dreiphasen Maschennetz, in dem einzelne gerichtete Punkt-Punkt Verbindungen als HGÜ ausgebildet sein können. Auf die Rückwirkungen solcher „niederohmiger“ Punkt-Punkt Verbindungen über weite Entfernungen auf die Netzregelung, möchte ich hier nicht eingehen.
+Eine Eigenschaft soll aber nicht unerwähnt bleiben, weil HGÜs gerichtet sind, kann man sie auch zur Lastflußsteuerung einsetzen.
+„Früher “ „knallte“ es, wenn man ein „Trafo-Netzteil“ aus der Steckdose zog, heute knallt es (meist viel heftiger) beim Einstecken, sogar bei den Minidingern fürs Handy.
+Die modernen Energiespar- Heizungsumwälzpumpen (eigentlich ein Segen…) haben anfangs die alten Steuerungen geschädigt, indem die Einschaltströme der Pumpe die Kontakte der Relais überlastet haben, was unweigerlich zum Ausfall führt, hätte man eigentlich von Anfang an wissen können….
+Zum cos phi: Ich habe oben einen cos phi von 95 angegeben. Das ist natürlich Quatsch! Es muss heißen: cos phi von 0,95. Ich bitte um Entschuldigung.
+Mit besten Grüßen
+also, ich muß nicht alles nur auf dieser Webseite finden, ansonsten sie ja die Bibel wäre, an diesem Wochenende sogar mit dem Fest des Heiligen Geistes korrelieren würde.
+Den von Ihnen beschriebenen Frequenzabfall habe ich mitgekriegt von:
+https://www.youtube.com/watch?v=3RaWrmbVySM
+Sehr geehrter Herr Heimo Suntinger und Jari Heinrich Grünig,
+zu der Meldung vom 17.5.2021 um 16:34 Uhr eine kleine oberflächliche Ergänzung.
+Es ist richtig,dass mit Voranmeldung 2000 MW aus der Kraftwerkszentrale Belchatow vom Netz gingen.Über die Kuppelleitungen nach Deutschland kamen 200 MW Soforthilfe.Die Kuppelleitungen von der Ukraine und der Slovakei lieferten weiter die vereinbarte Leistung von 193MW bzw. 300 MW.Die automatische Regelleistung in Polen und um Polen herum war ausgeschaltet.Die Angleichung der Netzfrequenz erfolgte über zusätzliche 300 MW aus Pumpspeicherkraftwerken.Der große Anteil kam aus den zahlreichen Steinkohlekraftwerken innerhalb Polens.Im Automatikbetrieb würde die Zuschaltung der Regelleistung wesentlich schneller realisiert.Es geht nach dem Motto:viele Hände machen schnell ein Ende.Je nach Fahrplan haben einzelne Kraftwerke Reserveleistung zwischen 5MW und 25MW,die in Sekunden zugeschaltet werden können.An diesem Tag wollte die Lastverteilung es definitiv nicht!!
+Dieses Scenario spielt sich meist jeden Tag in gewandelter Aufgabenstellung in einem Teilbereich des europäischen Verbundnetzes statt.
+Als Muster habe ich Ihnen vom selben Morgen die Zuschaltung von 2800 MW mit der Auswirkung auf die Netzfrequenz, in einem Diagramm visualisiert.Um 7 Uhr sind es innerhalb von 10 Minuten 1200 MW.Ordnung ist das halbe Leben
+Vielen Dank für Ihre Informationen.
+Gehe ich richtig in der Annahme, daß derzeit gerne aus Mücken Elefanten gemacht werden?
+Oder stimmt eher: Vorsicht ist die Mutter der Porzellankiste?
+Sehr geehrter Herr Prof. Puschner,
+ja, ihre Beschreibung ist korrekt(er). So habe ich es auch gelernt.
+Im Freundeskreis habe ich jedoch damit keinen Erfolg gehabt, denn es kam dann der Einwand (von einem Laien), dass wenn der Verbraucher den Strom bestimmt, meine Sorge um fehlende Einspeisung (Ausfall, wetterabhängig) wohl unnötig wäre. Daher lieber so – nicht ganz falsch.
+Ich bin aber noch weiter dran, um die Sache mit der Netzfrequenz Überwachung aufzubereiten, und auch,
+Sehr geehrter Herr Grüning, die von Ihnen aufgeführten Störungen.
+Danke
+wie verhält es sich mit den im Kommentar am 15. Mai 2021 um 15.03 Uhr bei „Der stärkste geomagnetische Sturm des 20. Jahrhunderts …“ von Herrn Deutering erwähnten möglichen Unterstützung durch „ dezentrale Stromversorgung und Blindleistungskompensation durch Batterie-Speicherkraftwerke “?
+Man nehme ein Fahrrad mit Dynamo und Glühlämpchen, nicht LED.
+Üblicherweise hat der Scheinwerfer 2,4 und das Rücklicht 0,6 Watt.
+Man nehme das Rad hoch und deue den Reifen am Dynamo mit der Hand an.
+Die Zeit, bis der Reifen still steht, merken wir uns.
+Nun drehen wir das Scheinwerferlämpchen heraus.
+Die Zeit bis Stillstand wird länger.
+Gleiches auch mit zusätzlich herausgedrehtem Rücklichtlämpchen.
+Dieser einfache Versuch zeigt nebenbei die Bedeutung der Schwungmasse.
+Das ist nur bei mieserablen Uraltdynamos notwendig. Ansosten merkt ein Radler das nicht.
+Normalradfahrer verbraucht so bei Tempo 18 bis 20 an die 400 kcal pro Stunde. Und die Elektrodingsbumse in den Radnaben funktionieren anders als die Klappdingsbumse der Vorzeit. Hab aber noch so ein Ding an meinem Altfahrrad mit Vorder- und Hinterradfederung. Fahr bei Dunkelheit aus Sicherheitsgründen mit dem Auto. Die saugefährlichen Grünen haben die Radwege auf die Fahrbahnen verlegt. Und da fahr ich nun nicht. Die kriminellen Autofahrer machen zwar viele Radler platt, aber hauen dann ab. Erst jetzt wieder einer in HH.

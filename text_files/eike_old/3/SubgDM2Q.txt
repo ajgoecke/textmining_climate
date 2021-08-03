@@ -1,0 +1,23 @@
+Seit vielen Jahren zeigt die Webseite von EIKE dasselbe Gesicht. Doch im Hintergrund hat sich sehr viel getan. Das zugehörige Redaktionssystem war zunächst eine Eigenprogrammierung, dann stiegen wir auf Typo 3 um und ab Anfang Dezember 2016 auf WordPress.
+WordPress erlaubte u.a. die freie Wahl eines Startbildes sog. Theme, dass der gewohnten Anmutung mit Startartikel, gefolgt von der „Bühne“ mit den vier jeweils jüngsten Folgeartikeln und dann senkrechter Anordnung der älteren Artikel, entsprach, aber nicht extra in jedem Detail programmiert werden musste, weil als Standard bspw. in Modulen weitgehend vorhanden. Natürlich mussten die 3 Spalten erhalten bleiben, ebenso, wie die Inhalte derselben.
+Aus Gründen der Rückwärtskompatibilität, wir wollten Ihnen liebe Leserinnen und Leser, ja jederzeit die Suche im Archiv bei gewohnte Ansicht ermöglichen, waren unsere Programmierer trotzdem gezwungen, auch das gewählte „Theme“ umfangreich umzuprogrammieren, um dies zu ermöglichen.
+Das führte auf Dauer zu dem Problem, dass viele vorprogrammierte kleine Hilfsprogramme sog. PlugIns, die das Arbeiten mit WordPress (WP) so effizient und angenehm machen, nicht einfach so – dynamisch per Mausklick – aktualisiert werden durften. Es hätte sonst geschehen können, und ist auch geschehen, dass an irgendeiner Stelle dann ein Fehler auftritt, der nur mit viel Suchaufwand gefunden und behoben werden kann.
+Nachdem dies immer klarer und vor allem häufiger wurde, entschlossen wir uns Ende vergangenen Jahres, nicht nur die Seite auf einen anderen Server umzuziehen, sondern auch ein neues, sehr viel leichter pflegbares Thema (Theme) zu verwenden. Dessen Programmierung steht kurz vor der Fertigstellung und damit seine Einführung.
+Dass hat aber auch zur Folge, dass wir an der alten Seite nichts mehr machen, weil dafür baldigst die neue kommt. Und dort wird es auch die Möglichkeit geben, dass Sie unser Publikum, direkt mit uns kommunizieren, Fehler und Probleme melden können und deren Lösungen dann auch für jedermann einsehbar sind.
+Lassen Sie sich überraschen.
+Der Umzug kann dann ein bis zwei Tage Stillstand in Anspruch nehmen.
+Hoffentlich ist es bald soweit. Wir melden uns.
+Die völlige Rückwärtskompatibilität zu erhalten ist Ziel der Übung.
+Das sollte kein Problem sein, da sich die URLs der Beiträge nicht ändern.
+Da aber der Import der zehntausenden Beiträge bis zurück in 2007 sehr aufwändig ist, werden zunächst nur die letzten Jahre verfügbar sein und ich werde peu a peu die älteren Beiträge nachschießen.
+Gruß
+Webadmin
+Die Verwendung Leserinnen und Leser ist korrekt. Das hier wäre nicht korrekt: Leser/innen. Aber Sie haben Recht: Man muß sich nicht alles von der in HH geborenen und m.E. überzeugten Ulbrichtistin und Honeckeristin gefallen lassen. Der Blick auf ihre Tätigkeit vor dem Haus von Havemann sagt doch Alles über diese Frau. Und ich weiß etwas mehr über die, denn ich hab mit einem von deren Ex-Kollegen aus Berlin-Ost in demselben Institutsgebäude an der Uni HH als Wissenschaftler gearbeitet.
+Wir lasse alle Inhalte in WordPress, und erneuern „nur“ das hoffentlich besser pflegbare Theme. Das Archiv mit allen Inhalten ist mehrfach gesichert.
+Die Beiträge sind mehrfach, auch extern gesichert.
+Die Webseite wird vollkommen, nicht nur das Theme, neu sein, mit anderen Plugins und Möglichkeiten. Die Funktionalität bleibt hier im Grund aber die gleiche. Funktionalitäten die mit älteren, heute obsoleten Addins hergestellt wurde, wird leider wegfallen, andere kommt dazu. Grundsätzlich wird aber vieles vereinfacht.
+MfG
+Webadmin
+Danke für den Hinweis. Doch inzwischen ist die Übernahme so weit fortgeschritten, dass wir bald eine 1:1 Version Neu vs. Alt verfügbar haben werden. Es bleibt immer noch ein WordPress-System, aber mit einem (hoffentlich) besser pflegbaren Theme.
+An und für sich sollten aktuelle Redaktionssysteme irgend eine Art von Migrationsunterstützung des Vorgängersystems eigentlich serienmäßig unterstützen, weil das ja oft der Regelfall sein dürfte.
+Das tat es auch, leider nicht perfekt genug. Es war/ist viel Nacharbeit nötig.

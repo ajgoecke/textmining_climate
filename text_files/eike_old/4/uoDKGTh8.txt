@@ -1,0 +1,205 @@
+Die grundsätzlichen Fragestellungen dieser Forschung sind: Kann ein Treibhausgas die Temperatur eines Körpers durch eine dabei auftretende Gegenstrahlung erhöhen?
+Ist es möglich, dass es eine Sättigungsgrenze der Treibhausgaskonzentrationen gibt, bei der keine weitere Steigerung der Gegenstrahlungseffekte mehr eintreten? Ist diese Sättigungsgrenze bei CO2 in der Atmosphäre bereits erreicht?
+Die hier vorgestellten Experimente sind nur ein erster Schritt und sollen ausschließlich einem grundlegenden Wissensgewinn dienen.
+Bei den Versuchen wurde das Prinzip der Vordergrund- und Hintergrundstrahlung zugrunde gelegt (M. Schnell, Experimentelle-Verifikation-des-Treibhauseffektes hier).
+Nach diesem Prinzip kann eine Hintergrundstrahlung die Wirkung einer
+Vordergrundstrahlung vollständig überlagern, wenn beide die gleichen Wellenlängen nutzen und hier die gleiche Strahlungsdichte besitzen. Aus diesem Grunde sind Messungen des Treibhauseffektes nur vor einem kälteren Hintergrund möglich. Deswegen hatten die untersuchten Gase eine höhere Temperatur als der Hintergrund, der durch eine Eiswasserschale bzw. einen wolkenfreien Himmel gebildet wurde.
+Hatten bei Kontrollversuchen Gas und Hintergrund die gleiche Temperatur, wurde auch tatsächlich kein messbarer Effekt festgestellt.
+Der Messsensor
+Um festzustellen, ob ein Körper durch ein Treibhausgas erwärmt wird, musste ein Messsensor entwickelt werden, welcher nur auf Strahlungseffekte reagiert. Umwelteinflüsse bzw. Wärmetransporte anderer Art, mussten möglichst verhindert werden. Gleichzeitig wurde ein Sensor-Aufbau angestrebt, welcher auch im Feldversuch möglichst genaue Aufzeichnungen liefert, um vergleichbare Ergebnisse, mit dem Laborversuch, zu erzielen.
+Als abstrahlender Körper im Messsensor wurde ein einseitig schwarz beschichtetes Cu-Plättchen gefertigt. Die geringe Wandstärke von 1 mm mit gleichzeitig guter Wärmeleitfähigkeit des Materials, wirkt sich positiv auf schnelle Reaktionszeiten aus (< 10 Sek.). Dieses Plättchen wurde mit einer Klammer und Wärmeleitpaste zusätzlich mit einem Gleichstrom Heizelement (Vollkeramisches Heizelement aus Siliziumnitrid Typ Hi, 7,5 Ohm bei Raumtemperatur) verbunden. Dieses Heizelement wurde jedoch bei den hier vorgestellten Versuchen noch nicht in Betrieb genommen und soll erst bei zukünftigen Experimenten verwendet werden.
+Damit der abstrahlende Körper möglichst nur in die gewünschte Richtung (zum IR Fenster) strahlt, wurde die Rückseite des Cu-Körpers poliert. Ein verchromtes Messingteil, sowie die verspiegelte Innenseite des Druckgehäuses verhindern weitgehend Abstrahlung in die falsche Richtung.
+Damit die Temperatur des Cu-Plättchens ermittelt werden kann, wurde auf der Rückseite ein poliertes Messingröhrchen aufgelötet. Dieses wird als Einschub für den Messstab des elektronischen Thermometers verwendet und mit einer Wärmeleitpaste gefüllt.
+Der gesamte Messsensor wird für den Messbetrieb evakuiert. Damit ist Konvektion im Messsensor verhindert, als auch der Einfluss der Wärmeleitfähigkeiten der gemessenen Gase. Für die Temperaturerfassung kam ein Handmessgerät XP100 von Lufft® mit dem Temperaturfühler PT100 zum Einsatz.
+Der Versuchsaufbau im Laborbetrieb/Funktionsprinzip
+Der Messsensor wird für den Laborbetrieb, mittels Dichtung, gasdicht auf ein poliertes Edelstahlrohr fixiert. Das Edelstahlrohr wird auf der anderen Öffnung in ein Gefäß mit Eiswasser getaucht, um es ebenso gasdicht zu verschließen.
+Durch das IR Fenster hat der abstrahlende Körper im Messsensor nun eine optische Verbindung mit den Eiswürfeln im Eiswasser (Eis absorbiert nahezu 100% der Infrarotstrahlung und bleibt im Wasser konstant bei 0 °C).
+Das Edelstahlrohr (Durchmesser 120 mm x 500 mm) hat zwei seitliche, verschließbare Öffnungen. Diese dienen zur Befüllung des Rohres mit einem Gas (Entlüftungs- und Befüllstutzen). Die polierte Oberfläche des Rohres hat einen hohen Reflektionsgrad und damit absorptionsarme Eigenschaften.
+Mit diesem Aufbau können Infrarot aktive Gase geprüft werden, in wie weit diese, den Strahlungsfluss beeinflussen können
+Wie in der Abbildung 4 zu sehen ist, stellt sich nach dem Platzieren des Eiswassers ein niedrigeres Temperaturniveau des Messsensors ein.
+Diese Abkühlung wird durch IR-Abstrahlung verursacht, bis sich ein Gleichgewicht zwischen IR-Strahlung und Wärmezufuhr aus der unmittelbaren Umgebung eingestellt hat.
+Messergebnisse des Versuchsaufbaus im Laborbetrieb
+Messergebnisse Argon
+Um festzustellen, ob die Änderung der Wärmeleitfähigkeit der eingelassenen Gase einen Einfluss auf den Messsensor hat, wurde Argon als nicht IR aktives Gas verwendet.
+Bei der Messung mit Argon wurde kein Einfluss auf den Verlauf der Temperaturkurve festgestellt. Es ist davon auszugehen, dass der Messsensor nicht von unterschiedlichen Wärmeleitfähigkeiten der Prüf-Gase beeinflusst wird.
+Messergebnisse CO2
+Bei der Messung von CO2 regierte der Messsensor durch eine unmittelbare Reaktion
+auf das Einlassen des Kohlendioxids, die Abkühlung des Sensors wurde deutlich beeinflusst.
+Wie in Abbildung 5 zu erkennen ist, war die Temperatur des Messsensors noch in einem deutlichen Abwärtstrend. Dieser kehrte sich augenblicklich nach dem Einleiten von 0,75 L CO2 in einen positiven um.
+Messergebnisse Propan/Butan
+In Abbildung 6 ist zu sehen, dass sich der Messsensor beim Einlassen von 0,75 L Propan/Butan noch stärker als beim CO2 erwärmt.
+Nachdem das Propan/Butan wieder aus der Messröhre durch Spülen mit Luft entfernt wurde, trat wieder eine Abkühlung des Sensors, mit der bereits bekannten Abkühlungsrate, ein.
+Diskussion der Ergebnisse:
+Es konnte demonstriert werden, dass die IR-aktiven Gase die Temperatur des Sensors messbar beeinflussen können. Die Wirksamkeit einer Gegenstrahlung wurde damit nachgewiesen.
+Die untersuchten Gase wurden vor dem Einlassen auf die gleiche Temperatur wie die Röhre erwärmt und ohne große Druckdifferenz (< 2 Pa) in das Prüfrohr eingelassen.
+Gegenprobe mit IR-Kamera
+Um die erhaltenen Ergebnisse mit einem anderen Messverfahren zu überprüfen, wurden die Strahlungen der untersuchten Gase mit der Wärmebildkamera der Firma Testo detektiert und auch der Versuchsaufbau variiert.
+Hierbei wird die mit dem Messsensor der Testo-Kamera empfangene IR-Strahlung in eine fiktive Temperatur umgerechnet.
+Verwendetes Gerät: Testo 872, Thermografie Kamera 320 x 240 Pixel, 60mK
+IR Kamera Laborversuch
+Bei dem Einsatz der IR-Kamera im Laborversuch blickt diese durch ein verspiegeltes gasdichtes Rohr auf den Boden mit Eiswasser und misst aus dieser Position die Temperatur des Eiswassers.
+Wird nun ein Gas in die Versuchsanordnung eingelassen, kann nun direkt an der IR-Kamera
+abgelesen werden, ob das zu prüfende Gas, die in den Messsensor gelangende IR-Strahlung, verstärkt, abschwächt oder unverändert lässt.
+Messergebnisse des Versuchsaufbaus im Laborbetrieb
+Messergebnisse Kohlendioxid:
+Die Kamera gibt für das Eiswasser ohne IR-Gase eine Temperatur von -3,1 °C an. Da die Kamera nicht geeicht werden kann und ohnehin nur die Veränderung von Interesse ist, wird dieser Wert als Startwert genommen.
+Die Temperatur der Eiswasseroberfläche stieg nach Einlassen von 0,75 L Kohlendioxid unmittelbar von -3,1 °C auf -0,2 °C; also ein Temperaturanstieg von 2,9 Kelvin.
+Messergebnisse Propan/Butan:
+Die angezeigte Temperatur der Eiswasseroberfläche stieg nach Einlassen von 0,75 L Propan/Butan unmittelbar von -1,5 °C auf 3 °C; also ein Temperaturanstieg von 4,5 Kelvin.
+Diskussion der Ergebnisse:
+Es konnte demonstriert werden, dass die IR-aktiven Gase den Strahlungsfluss messbar beeinflussen können.
+Die verwendete IR-Kamera ist also in der Lage, Veränderungen der Strahlungsintensitäten welche durch die untersuchten Gase verursacht werden zu detektieren.
+Auch hier wurden die untersuchten Gase vor dem Einlassen auf die gleiche Temperatur wie die Röhre erwärmt und ohne große Druckdifferenz (< 2 Pa) in das Prüfrohr eingelassen.
+Der Versuchsaufbau im Feldversuch/Funktionsprinzip
+Um den Ansatz der Vorder- und Hintergrundstrahler weiter zu verfolgen, wurde nach den Laborversuchen der klare Nachthimmel anstatt der Eiswürfel als „Hintergrundstrahler“ herangezogen.
+Die Versuche wurden bei 20 °C auf 800 m Seehöhe und ca. 75% rel. Luftfeuchte durchgeführt.
+Der Messsensor wird für den Feldversuch, mittels Dichtung, gasdicht auf ein poliertes Edelstahlrohr fixiert. Die Messöffnung blickt nach oben. Das am oberen Ende offene Edelstahlrohr wird nahezu senkrecht dem klaren Himmel entgegen gerichtet. Dabei darf kein Objekt der Umgebung höher als das Edelstahlrohr sein, da sonst IR Strahlung aus der Umgebung in das Edelstahlrohr eingestrahlt wird. Die Messungen werden bei Dunkelheit durchgeführt, um eine Bestrahlung durch die Sonne auszuschließen.
+Durch die polierte Oberfläche des Rohres (hoher Reflektionsgrad) hat der abstrahlende Körper im Messsensor nun eine optische Verbindung mit dem Himmel.
+Das Edelstahlrohr hat zwei seitliche, verschließbare Öffnungen. Diese dienen zur Befüllung des Rohres mit einem Gas. Mit diesem Aufbau kann somit geprüft werden, ob eine zusätzliche Menge an IR-aktiven Gasen die Gegenstrahlung erhöht und die Abkühlungsrate des Sensors beeinflusst
+Um möglichst den Gasverlust an die Umgebung durch das offene Rohr zu minimieren,
+kann eine Rohrverlängerung eingesetzt werden. Ebenso sollten nur Prüf-Gase verwendet werden, die deutlich schwerer als die Umgebungsluft sind.
+Messergebnisse CO2
+Wie in Abbildung 11 zu sehen, konnte keinerlei Beeinflussung des Temperaturverlaufes durch Einlassen von 0,75 L Kohlendioxid in das Messrohr festgestellt werden, auch ein nochmaliges Einlassen von weiteren 0,75 L Kohlendioxid brachte keinerlei Beeinflussung des Messsensors.
+Messergebnisse Propan/Butan
+Später, aber im selben Messzyklus, wurde auch Propan/Butan in das Messrohr eingelassen, siehe Abbildung 12.
+Unmittelbar nach dem Einlassen von 0,75 L Propan/Butan wurde der Temperaturverlauf messbar beeinflusst.
+Diskussion der Ergebnisse
+Bei diesem Feldversuch konnte, im Gegensatz zum Laborversuch, keinerlei Reaktion des Messsensors auf das Einlassen von Kohlendioxid in das Prüf-Rohr beobachtet werden.
+Bei Propan/Butan erfolgte unmittelbar nach ihrer Zugabe, sowohl im Laborversuch als auch im Feldversuch, eine Erwärmung des Sensors.
+Weitergehende Erläuterungen der unterschiedlichen Reaktionen der IR-Gase finden sich im Kapitel „IR Kamera Feldversuch“.
+Bild: Joujou / pixelio.de
+IR Kamera Feldversuch
+Bei dem Einsatz der IR-Kamera im Feldversuch blickt diese durch ein verspiegeltes gasdichtes Rohr direkt in den wolkenfreien Nachthimmel. Die Erd- Atmosphäre strahlt gemäß ihrer Gaseigenschaften und Temperatur in die IR-Kamera und diese ordnet der (Gegen)Strahlung eine Temperatur zu.
+Wird nun ein Prüf-Gas in die Versuchsanordnung eingelassen, kann nun direkt an der IR-Kamera abgelesen werden, ob das zu prüfende Gas, die in den Messsensor gelangende IR-Strahlung (in diesem Fall die atmosphärische Gegenstrahlung), verstärkt, abschwächt oder unverändert lässt.
+Messergebnisse des Versuchsaufbaus im Feldversuch
+Messergebnisse Kohlendioxid:
+Beim Einlassen von 0,75 L Kohlendioxid wurde keine signifikante Änderung der Temperatur festgestellt. Der angezeigte Unterschied von 0,1 K liegt innerhalb der Messgenauigkeit der IR-Kamera.
+Messergebnisse Propan/Butan:
+Nach Einlassen von 0,75 L Propan/Butan-Gases wurde ein Temperaturanstieg von rund 17 Kelvin festgestellt!
+Diskussion der Ergebnisse:
+Propan/Butan sind nur in sehr kleinen Spuren in der Atmosphäre vorhanden und Ihre Absorptionsbanden sind bei rund 3 bzw. 7 µm teilweise von der Wasserdampf-Strahlung und vom atmosphärischen Fenster (8 – 13 µm) betroffen. Die Hintergrundstrahlung des wolkenfreien Himmels kann die Strahlung von Propan/Butan nicht vollständig überlagern. Die Strahlung des viel wärmeren Propan/Butans in der Röhre verursachte deswegen einen deutlichen Erwärmungseffekt bzw. eine Zunahme der Gegenstrahlung.
+CO2 ist mit 400 ppm ein relevanter Bestandteil der Atmosphäre. Da seine Strahlung schon nach wenigen 100 m gesättigt ist (Lit. M. Schnell, siehe Einleitung), hat das atmosphärische CO2 auch keinen signifikanten Temperatur-Nachteil gegenüber dem CO2 in der Röhre. Die atmosphärische CO2-Strahlung überlagert hier vollständig die CO2-Strahlung in der Röhre, so dass eine Temperatur-Erhöhung nicht feststellbar war.
+Die beiden Versuche mit den IR-aktiven Gasen CO2 und Propan/Butan sind eine experimentelle Bestätigung des Prinzips der Vorder- und Hintergrundstrahlung.
+Drüber hinaus sollte mit den CO2-Versuchen auch der Frage nachgegangen werden, ob die atmosphärische CO2-Strahlung bei einer Konzentration von 400 ppm bereits gesättigt ist. Die Ergebnisse sprechen für diese Aussage, allerdings muss man auch die einfache Versuchsdurchführung und die geringe Empfindlichkeit der Detektoren berücksichtigen. Es kann nicht ausgeschlossen werden, dass der Nachweis eines geringen CO2-Effektes an begrenzten Möglichkeiten der Messsysteme gescheitert ist.
+Geplante Versuchsreihen:
+Die Feldversuche wurden bis dato in Sommernächten durchgeführt, welche eine feuchte Luft aufwiesen (75% relative Luftfeuchtigkeit). Daher sind nun im Winter klare und trockene Nächte für weitere Versuchsreihen angestrebt.
+Ebenso wird in der laufenden Arbeit die Sensitivität des Messsensors überprüft, da eine Detektion der Gegenstrahlung im sehr kleinen Leistungsbereich liegt.
+Als weiteres „Treibhausgas“ soll auch Methan untersucht werden.
+ein Leben lang bearbeite ich das Thema Umwelt und Wirtschaft und habe um Menschen ein besseres Verständnis über die Vorgänge in unserer Welt zu vermitteln mit meiner Frau einen Vorführhof aufgebaut der eine Vielzahl von Umwelttechniken in der Landschaft zeigt. Bei Führungen über dieses Areal versuchen wir eine Vielzahl interessanten Dinge aus aller Welt anzusprechen um Menschen zu offnen und zu begeistern. Dabei ist das Thema Wetterveränderung immer wieder im Focus. Eine Frage, die dabei eine Rolle spielt, wie kommt das schwere CO2 in die Stratosphäre um zu wärmen oder zu kühlen.
+Ich würde mich sehr über eine Antwort freuen. Ihrem Satz:“Die Atmosphäre ist ein Kühlhaus nicht ein Treibhaus“ gibt es nichts hinzu zu fügen, er ist korrekt.
+Sie haben es richtig verstanden. Von der Wärme des Strahlers vor dem Aquarium kommt dahinter nichts mehr an. Das Aquarium, was dahinter liegt. Genau so ist es mit der IR-aktiven Atmosphäre auch. Dieses Nicht-Durchlassen der Wärme der Sonne passiert schon weit oben, wo keine Wassermolekül mehr existieren, weil sie ab 12 km ausgefroren und verschwunden sind. Deshalb ist dort oben alleine CO2 für die Kühlung der Erde relevant. Deshalb ist es das wichtigste Kühlmittel der Erde. Dort oben passiert die kühlende Emission in Weltall (der von unten indirekt als ehemaliges Licht hoch kommenden Wärme der Sonne plus der direkt von der Sonne kommenden Wärme). Das 2019er Klimasystem des Hessischen Landesamtes für Naturschutz, Umwelt und Geologie zeigt das ganz perfekt. Das CO2 Treibhaus ist ein perfekter Betrug!
+https://tinyurl.com/y5nlz6og (Ohne CO2, ohne Treibhaus, völlig korrekt!)
+Sie schreiben: „der von unten indirekt als ehemaliges Licht hoch kommenden Wärme der Sonne“
+Ist das gesichert, dass das sichtbare Licht der Sonne in Wärme umgesetzt wird?
+Wenn ich meine Led Lampen untersuche strahlen die nur Licht aus und keine Wäreme. Könnte es nicht sein, dass der sichtbare Lichtanteil der Sonne ganz einfach als Licht wieder retour gesendet wird?
+Die Wärme der Sonne kommt ja aus deren Infraroter Abstrahlung, die Spüren wir auf ja auch auf unserer Haut in der Sonne.
+eine Frage eines Halblaien, darf natürlich jeder andere auch beantworten, der die Antwort weiss.
+mfG
+Franz Jäger
+danke für Ihre Antwort. Die Strahlungsspektren sind mir bekannt.
+Eine Led mit 1,75 Watt Leistung und einer Abmessung 5/5mm hat eine Strahldichte von 700 W/m² das ist inetwa gleich mit der Sonne.
+Das Licht erwärmt aber kaum.
+Das Sonnenspektrum reicht ja auch tief in den infraroten Bereich hinein.
+Meine These ist, dass das sichtbare Licht der Sonne kaum eine Erwärmung hervorruft und das was wir an der Sonne als warm wahrnehmen allein deren infraroter Anteil ist.
+erst heute (4.5.19) lese ich Ihre Frage.
+Ihre Frage ist sehr berechtigt. In der Tat wird zum Beispiel bei der photodyanmischen Therapie Rotlicht mit 610 nm als „kaltes Rotlicht“ bezeichnet, weil es wegen zu wenig Absorption, zu wenig Transparenz (also Eindringtiefe) und zu viel Reflexion die Haut praktisch nicht erwärmt. Dabei spielt die Glätte der Haut eine große Rolle, also die Struktur der Oberfläche. Wäre die Haut rauh und porös, wie die meisten chemischen Strukturen der Landoberfläche, wäre das anders.
+Besonders lehrreich ist das Wasser. Seine im allgemeinen auch glatte Oberfläche wird durch direkte Sonnenstrahlung praktisch nicht erwärmt. Aufgrund der großen Transparenz (= tiefes Eindringen des Lichts) wird aber im Volumen des Wassers praktisch jede Art von Sonnenstrahlung in Wärme umgesetzt, daher die hohe Temperatur der Ozeane.
+Dr. Gerhard Stehlik, Hanau
+CO2 absorbiert Infrarot um 15 Mikrometer. das ist der Wert, der nicht bestritten wird. Aus einem Lehrbuch der physikalischen Chemie lernte ich, dass diese Strahlungsabsorption die C=O-Bindungen zu Schwingungen senkrecht zur Bindungsachse anregt. In einem anderen Kommentar hier wurde schon angedeutet, dass das Gesamtmolekül dadurch nicht beschleunigt wird, so sehe ich das auch. Falls jetzt irgendetwas mit Wärme kommen sollte, kann es schonmal kein direkter Effekt sein. Für mich stellt sich die grundlegende Frage, was mit der aufgenommenen Energie passiert. Ewig wird die Bindungsschwingung nicht anhalten. Bei einem Zusammenstoß z. B. mit einem Stickstoffmolekül in der Zeit kann ich mir vorstellen, dass das es zu einem winzigen Zuwachs der mittleren Bewegungsenergie der Teilchen kommt. Sozusagen nicht nur Anrempeln sondern auch noch Ohrfeige von seiten des CO2 (bitte die Anthropomorphismen zu entschuldigen). Aber was sonst? Bei Lichtabsorption durch Elektronenübergänge wird beim Rückfall ins tiefere Orbital immer eine energieärmere Strahlung abgegeben plus, so sagen uns die Lehrbücher, nicht mehr nutzbare Wärme. Die Abgabe genau der gleichen Strahlungsmenge mit der gleichen Frequenz, wie die aufgenommene Strahlung war, widerspricht doch grundlegend thermodynamischen Prinzipien. Ein Perpetuum mobile erster Art! Und ein Wärmeübergang von der kälteren Atmosphäre zurück zur wärmeren Erdoberfläche widerspricht eindeutig dem 2. Haupsatz der Thermodynamik. Diese „Rückstrahlung“ ist doch ein Popanz!
+Es ist ja nicht der erste Bericht über so einen komplizierten Versuch hier. Aber kein Versuch ergibt einen Sinn, wenn er von falschen Voraussetzungen ausgeht. Aber ich lasse mich gern eines Besseren belehren.
+Ich habe es in ganz simpler Weise ausprobiert: Hinter einem wassergefüllten Aquarium (IR-Filter) lässt sich der schwärzeste Gegenstand durch den stärksten konventionellen Baustrahler, mit dem empfindlichsten Thermosensor gemessen, nicht erwärmen. Da kann ich ihn mit 100%iger CO2-Atmosphäre umgeben (Methan haben wir auch ausprobiert, nur zum Spaß).
+Die ganze „Treibhaus-Effekt“-Diskussion, die die Autoren dieses Artikels, aus welchen Gründen auch immer, politisch-korrekt unterstützen (wollen), enthält doch so viel Denkfehler, Halb- und Unwahrheiten, dass man sie nur ersatzlos in die Tonne treten kann. Ein Physiknobelpreisträger (der Name ist mir entfallen, vielleicht war es Friedman) soll mal gesagt haben, dass ein Phänomen, das mit einer Lüge in die Welt kam, nie als Grundlage für weitreichende Entscheidungen verwendet werden soll, nicht einmal als Grundlage für eigene Verbesserungen der Theorie. Und genau dieser Fehler wird beim „Treibhauseffekt“ gemacht.
+diese Frage, was passiert mit der Strahlungsleistung des sichtbaren Lichtes der Sonne, habe ich mich auch schon gefragt.
+Eigentlich müsste das doch das Licht sein, dass die Erde in den Weltraum wieder abstrahlt?
+Die Leistung des nicht reflektierten Lichtes, falls da überhaupt etwas übrig bleibt, müsste zu einer Erwärmung führen, wohin soll sonst die absorbierte Energie hingehen?
+Helles weisses Ledlicht führt zu keiner Erwärmung, was den Schluss zulässt, dass der sichtbare Anteil der Sonnenstrahlung zu keiner Erwärmung beitragen kann und alles wieder reflektiert wird.
+Wissen Sie darüber näheres, es würde mich sehr interessieren?
+mfG
+Franz Jäger
+Was man aber empirisch fassen kann, ist die Hypothese, dass IR-aktive Gase in der Atmosphäre die IR-Abstrahlung von der Erde STÖREN. Lassen wir mal weg, dass hier von „Gegenstrahlung“ gesprochen wird, was sicher falsch ist.
+Entscheidend ist doch, dass die IR-aktiven Gase mit der Strahlung wechselwirken, diese absorbieren und dann die Strahlungsenergie durch Relaxation und teilweise Wieder-Abstrahlung abgegeben wird.
+Die Idee der „Sättigung“ des Effekts der IR-Gase ist insofern genial als sie sagt: ok – wenn es den Effekt gibt – dann kann ich experimentell bestimmen, wie groß seine Reichweite ist. Und genau das macht der Versuch. Wenn aber der Versuch bestätigt, dass die CO2 Menge in der Atomsphäre bereits so groß ist, dass die Störung durch weiteres CO2 gar nicht mehr messbar ist, dann ist die Hypothese vom Mensch-gemachten Klimawandel durch CO2-Emission (welche die IR-Strahlung von der Erde wie auch immer beeinflusst) falsifiziert.
+Dieses Fenster hat eine gewisse Temperatur, das Eiswasser unten ist kälter, dazwischen ist Luft – es stellt sich da ein Transmissionswärmestrom, eine Konvektion und Strahlung ein.
+Wenn Sie Ihr Medium zB Luft durch ein anderes Medium zB CO2 ersetzen ändert sich auch der Wärmedurchgangskoeffizient des Mediums, was natürlich am Fenster eine andere Temperatur ergibt.
+Wie können Sie diese anderen Transportmechanismen ausschliessen?
+Wo ein Medium ist, ist immer auch Transmission, bei Gasen auch immer Konvektion.
+anbei Daten für das KCL-Fenster.
+Es besteht aus reinem Kalium-Chlorid Salz und besitzt folgende Eigenschaften:
+Durchlässigkeitsbereich bei 50% der Gesamttransmission) 0,18 – 25 µm (Dicke 2mm)
+Brechungsindex 1,488099 @633nm
+Reflexionsverlust 3,45% @10 µm
+Reststrahlenwellenlänge 63,1 µm
+Wärmeleitfähigkeit 6,53 W/(m·K) @322K
+spez. Wärmekapazität 693,26 J/(kg·K)
+Löslichkeit in Wasser 34,7g /100g @20°C
+Kristallstruktur Einkristall, synthetisch
+Anwendung IR-Spektroskopie
+Dieses „Fenster“ hat den Sinn, das Vakuum in der Druckkammer standzuhalten und gleichzeitig IR Strahlung ungehindert passieren zu lassen, ohne sich selbst dabei zu erwärmen. Dies wurde auch mit der Argon Probe gegengetestet.
+Schöne Grüße,
+Christoph und Matthias Marvan
+Das Fenster folgt mit seiner Temperatur der Temperatur des Gases darüber.
+Deshalb sollte auch die Temperatur des Gasraumes überhalb des Fensters gemessen werden…
+im Feldversuch ist die Röhre offen Richtung Himmel gerichtet. Die Gase in der Röhre haben Umgebungstemperatur. Die Versuche wurden bei 20 °C auf 800 m Seehöhe und ca. 75% rel. Luftfeuchte durchgeführt.
+Schöne Grüße,
+Christoph und Matthias Marvan
+Theoretisch ja.
+Jedoch wird durch die Lage und Auslegung der Röhre eine Durchmischung mit der Umgebungsluft/Umgebungstemperatur verhindert.
+Eine Überprüfung von T und Feuchte wären schon wünschenswert, denn:
+Der Unterschied zwischen Theorie und Praxis ist in der Praxis oft viel größer als in der Theorie…
+Unabhängig davon freut es mich, daß sich endlich mal jemand dieses Themas annimmt!
+Danke für Ihren Kommentar, welcher sehr richtig ist. Wir selbst sind im Experimentieren auf dieses Problem gestoßen. Es gibt kaum eine Stromquelle die konstant genug wäre, um den Temperaturverlauf nicht zu beeinflussen. Dadurch war in den Versuchsreihen die Heizung nie aktiv im Einsatz (Siehe Absatz nach Abbildung 1). Sie sehen dies an der Abkühlung des Sensors im Messbetrieb.
+Die Heizung dient eigentlich nur dazu, um Kondensation nach dem Messbetrieb zu verhindern, da das Kaliumchlorid-Fenster sehr empfindlich auf Luftfeuchtigkeit reagiert (Es löst sich im Wasser auf und wird umbrauchbar). Deshalb wird nach dem Messbetrieb das Vakuum durch Gaseinlass in den Druckkörper beseitigt und das Heizelement wird beheizt.
+Schöne Grüße,
+Christoph und Matthias Marvan
+Alle solche Versuche sollen zeigen, dass CO2 ein IR-aktives Gas ist – Schulphysik- und dass dabei eine Erwärmung der Umgebung eben durch jene IR-Absorption stattfindet. Denkbar wäre genauso, dass das einzelne CO2-Molekül sich nicht erwärmt, weil es die aufgenomme IR-strahlung gleich wieder abstrahlt und sich somit überhaupt nichts an seiner mittleren Molekülgeschwindigkeit ändert. Es könnte dann durch Molekülstöße mit den Nachbarmolekülen auch keine höhere Bewegungsenergie weitergegeben. Der Messensor, bzw. die Thermometer in jedem Versuch sollen den Beweis erbringen. Dazu aber erst mal einige nachdenkliche Fragen: Warum hat man im Laborversuch mit Argon überprüft- siehe Text nach Abb. 4 und nicht mit Luft selbst? Außerdem: Warum wurde Argon gewählt und kein anderes Edelgas? Und: Könnte man die Beobachtungen nicht auch mit der unterschiedlichen Wärmekapazität der Gase deuten? Und: Welche Messergebnisse stellen sich ein, wenn der Temperatursensor an anderen Stellen des Gefässes angebracht wird? Und: wie verändern sich die Beobachtungsergebnisse, wenn die Stelle zum Einblasen der Gase verändert wird. Grundsätzlich fragt sich ein Experimentalphysiker: Erfasst der Temperatursensor hier wirklich die Auswirkungen einer IR-Absorption oder auch/nur andere Gaseigenschaften? Um darüber näher zu urteilen, muss ich mir den wirklich interessanten Aufbau mit Beschreibung erst noch einige Male durchlesen. Nehmen wir mal an, all die Fragen wären geklärt, dann wundert mich, weshalb man nicht eine Direktbestimmung der Klimasensitivität durchgeführt hat, dann mit 10 facher CO2-Konzentration, usw. bis 100% CO2. Solche Ergebnisreihen dauern natürlich, u.U. auch Jahre und kosten viel. Da sind doch unsere PIK-Computerspielchen billiger und die CO2-Sensitiviät wird mittels Mehrheitsbeschluss auf 1,5 bis 5 K festgelegt, wobei Herr Schellnhuber die Mehrheit ist. Wer das anzweifelt wird eh bei der Abstimmung ausgeschlossen.
+Vielen Dank für diesen wirklich brauchbaren Anfang einer Suche nach der wissenschaftlichen Wahrheit. Die grundsätzlichen Deutungen von Herrn Dr. Stehlik sind aber auch zu bedenken.
+Danke für Ihren Kommentar. Gerne beantworten wir Ihre Fragen.
+Wie im Absatz nach Abbildung 2 erwähnt, wird der gesamte Messsensor für den Messbetrieb evakuiert. Um zu kontrollieren ob der Sensor wirklich nur auf IR-Strahlung reagiert, und nicht auf unterschiedliche Wärmeleitfähigkeiten der Gase, wurde auf Argon zurückgegriffen (Argon ist nicht IR-Aktiv und hat eine Wärmeleitfähigkeit von 0,01772 W·m−1·K−1 Wärmeleitfähigkeit). Die Wärmeleitfähigkeit von CO2 ist dieser sehr ähnlich.
+Schöne Grüße,
+Christoph und Matthias Marvan
+Das hängt von der Anzahl der Stöße pro Zeiteinheit (entspricht dem „Druck“) ab.
+Die Lebensdauer ab dem Zeitpunkt der Anregung ist bei CO2 τrad = (uj / ∆uj)2 / ν ≈ 6μs.
+Referenz: Dr. Reinhart, Swiss Federal Institute of Technology, Lausanne
+http://www.centil-europe.ch/Forschung/2017.01-20-FKR-sur-CO2.pdf
+Wir sollten folgende Grundsätze vor Augen haben, und anderen vermitteln:
+1, Im Treibhaus wird nicht deswegen wärmer, weil die obere Glasscheibe die nach außen strebenden IR-Strahlen im Gegensatz zum eingehenden sichtbaren Licht nicht mehr durchlassen kann. (Siehe die Versuche von R. Wood, E. Loock.) Demzufolge sind alle Theorien, die das Wort Treibhaus aussprechen, per se falsch.
+2, CO2 absorbiert und emittiert bei den Frequenzen um 4,3 µm und 15 µm. Diese Bereiche liegen außerhalb dem atmosphärischem Fenster (7-12 µm). Ihre Konzentration spielt also keine Rolle bei der Frage einer globalen Erwärmung. Die Abstrahlung Richtung Weltall erfolgt zum größten Teil in diesem Bereich (7-12 µm).
+3, Bei den Bereichen, wo die Absorption und Emission der IR-Strahlen durch CO2-Moleküle eine Rolle spielen könnte, sind die Wassermoleküle ebenfalls IR-aktiv. Und da die Konzentration der Wassermoleküle 50-mal größer ist, als die der CO2-Moleküle, ist ihre Absorption ebenfalls 50-mal größer.
+4, Was passiert mit der CO2-Molekül, nachdem sie ein Quantum IR-Strahlen absorbiert hat? Gibt sie diese wieder als IR-Strahl in alle Himmelsrichtungen, in einem Raumwinkel von 360 Grad ab? Nein! Bei den in der Bodennähe herrschenden Drücken und Temperaturen wären dazu Zeiten in Millisekundenbereich nötig. Es gibt aber eine andere quantumchemische Reaktion, welche in Nanosekunden abläuft: die Abgabe der erhaltenen Strahlungsenergie, als kinetische Energie an die Umwelt, sprich an die O2 und N2 Moleküle. Das heißt, die CO2-Molekül ist ein Medium, welches hilft, die Strahlungsenergie ex Erdoberfläche an die Luft abzugeben, d.h. die Luft zu erwärmen. Aber: Mehr CO2 bedeutet nicht, dass mehr Energie von der Erdoberfläche abgestrahlt wird. Und die warme Luft steigt eben nach oben. Und an ihre Stelle strömt kältere Luft. Keine Erwärmung, weder globale, noch lokale, kein Weltuntergang. Nanosekunde und Millisekunde ist ein Unterschied, wie eine Sekunde zu 20 Minuten. (Planck, Jablonski).
+5, Emission als IR-Strahlung wird erst eine Rolle spielen in einer Höhe von 20 km und bei einem Druck von 20 milibar. Aber das ist unabdingbar in der Strahlungsbilanz Erde-Weltall.
+6, Die Abhängigkeit der Absorption CO2 durch IR-Strahlen ist eine logarithmische Funktion. Die ersten 20 ppm absorbieren das meiste, bei 400 ppm und darüber spielte eine weitere Konzentrationserhöhung praktisch keine Rolle mehr. Siehe die Versuche von David Archibald.
+Unabhängig davon würde mich die Temperatur des Raumes überhalb des Sensors (in der Röhre) interessieren…
+im Feldversuch ist die Röhre offen Richtung Himmel gerichtet. Die Gase in der Röhre haben Umgebungstemperatur. Die Versuche wurden bei 20 °C auf 800 m Seehöhe und ca. 75% rel. Luftfeuchte durchgeführt.
+Schöne Grüße,
+Christoph und Matthias Marvan
+Schicken sie das Ergebnis dieses Versuchs jetzt an ein einschlägiges Magazin? Damit es veröffentlicht wird! Wird vermutlich sofort abgelehnt, weil es beim peer review wegen wissenschaftlicher Relevanz durchfällt.
+Vielleicht können die Herren Latif und Rahmstorf erklären, warum der Versuch Hasenkram sein könnte. Levermann würde ich nicht fragen, der kennt sich mit CO2 nicht so aus.
+Oder steigt die Dichte? Oder eine Kombination aus beiden? Darüber liest man nie etwas. Wie hat sich also der O2 Gehalt innerhalb der letzten Jahrzehnte verhalten?
+Als Anwort auf Ihre Frage nehmen sie 10 Kugeln 2 blaue und 8 rote. Sie haben dann 2 von 10 Rote Kugeln. Fuegen sie eine rote hinzu und rechnen sie das Verhaeltnis auf zehn um. Im gleichen Masse wie der Anteil der roten Kugeln steigt, sinkt der Anteil der Blauen.
+Das interessante ist dabei, das das gleich passiert, wenn sie Blaue Kugeln Wegnehmen!
+Von daher sind alleinige ppm Messungen von CO2 unbrauchbar, wenn nicht sichergestellt ist, das Sauerstoff und Stickstoff oder ander Gase nicht abgenommen haben.
+mfg Werner
+Meine Frage ist: Was ist tatsächlich passiert: Wir wissen der CO2 Anteil ist auf 400ppm gestiegen.
+Aber was ist passiert: Welche(s) andere Gas(e) ist/sind nun weniger geworden? Oder hat sich gar die Dichte erhöht, immerhin hat sich bei der Verbrennung ein C Atom hinzugekommen.
+Eigentlich müsste sich ja die Dichte ändern, dadurch das ein C Atom durch Verbrennung hinzugekommen ist.
+Dann beruecksichtigen sie in Ihrer Frage doch bitte auch das das C Atom sich mit zwei Sauerstoff Atomen verbindet was sich insofern auf die Anzahl der Teilchen auswirkt. Also Sauerstoff wird theoretisch weniger. Weiterhin reden wir hier ueber 400 part per million. Nur wenn sie alle anderen Masseneintraege und austraege kennen, werden sie eine vernueftige Antwort bekommen, zumal die Dichte stark temperaturabhaenging ist.
+Ich bezweifle das wir Messgeraete haben, die diese Veraenderung der Masse in der Atmosphaere von Waermeeffekten unterscheiden koennen.
+Und dann denken sie noch mal daran das wir nur 3 kleine Prozent Anteil am gesamten CO2 Haushalt haben.
+Sauerstoff mag weniger werden. Die Sauerstoffatome selbst verbleiben jedoch nach der Verbrennung in der Luft, nur halt in Verbindung mit dem C Atom als CO2. Und genau das habe ich in meiner Frage Berücksichtigt, indem ich geschrieben habe das ein C Atom hinzugekommen ist und nicht ein CO2 Molekül.
+Im Prinzip geht meine Frage darauf hinaus wie unsinnig es ist 400ppm anzugeben, wenn die Dichte nicht berücksichtigt wird etc. Wie sie ja auch schon anmerkten.
+Korrekt, ppm ist ja auch nur wichtig fuer die Ermittlung der Absorptionsstaerke ala Beer Lambert Gesetz.
+Woher das CO2 wirklich kommt oder warum sich die Konzentration aendert interessiert die Klimaunwissenschaftler herzlich wenig.
+Na ja wir verbrennen schon ein bisschen. Immer hin sind wir am CO2 Haushalt mit ungefaehr 3% beteiligt?
+Ach so, eines noch. Vorsicht beim Aussatmen, da kommt glatt 100 mal mehr Co2 raus als in der Luft als Konzentration enthalten ist.
+Bestimmt kann man damit sein Haus heizen und braucht keinen Ofen mehr oder wozu noch ein Dach ueberm Kopf!
+Holger Narrog
+Da tut sich wohl kaum etwas meßbares.
+Wie wurde die Abkühlung des Sensor im Feldversuch bewerkstelligt? Im Diagramm ist Abkühlung zu sehen. Doch im Bericht finde ich keinen Hinweis auf ein Abkühlmedium. Oder habe ich etwas übersehen?
+Danke für Ihren Kommentar.
+Der abstrahlende Sensor befindet sich im Vakuum. Dadurch, dass der Sensor in den kalten Himmel blickt, gibt er mehr Strahlung ab, als er empfängt und kühlt sich dadurch ab.
+Schöne Grüße,
+Christoph und Matthias Marvan
+Keine weiteren Fragen!
+Da finden Sie dazu Graphen und Diagramme
+Technisch waeren die Bilder unbrauchbar, aber wir koennten ruhiger schlafen, wenn wir nicht mehr darueber diskutieren muessten.
+Wie im Freien bei Regen, Nebel, Bewölkung oder bei klarem Himmel die Temperaturdifferenz zwischen Boden und Himmel aussieht, kann man dann in eine Temperatur-Zeit-Kurve unter Angabe der meteorologischen Gegebenheiten eintragen. Bei Regen ist die Strahlungskühlung der Erdoberfläche durch die Atmosphäre am geringsten, bei klarem Himmel am größten. Eine Erwärmung der Erdoberfläche durch die Atmosphäre findet nur bei Zufuhr von warmem Südwind statt. Die Atmosphäre ist das Kühlhaus, nicht das Treibhaus der Erde. Diese Webseite zeigt die Kurven der experimentellen Temperatur-Zeit-Daten: http://tinyurl.com/kgje845. Jede chemische Struktur ist ein „Treibhaus“ der Erde, weil Strahlung als Energie gespeichert wird. Das größte Treibhaus der Erde sind die Ozeane mit +16,1 °C Oberflächentemperatur!

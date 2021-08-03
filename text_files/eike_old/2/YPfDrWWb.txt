@@ -1,0 +1,91 @@
+Selbst mit dem Fehlen des Computer-Codes jedoch sollte es möglich sein, einige der grundlegenden Abschätzungen in Ferguson20 näher zu betrachten – vor allem jene auf der Grundlage des ,nichts tun‘-Szenarios – und auf diese Weise festzustellen, ob es irgendwelche offensichtliche Probleme bei der Studie gibt. Da es keinerlei Belege dafür gibt, dass irgendjemand in der Regierung eine solche Verifikation vorgenommen hatte, habe ich mich entschlossen, das selbst zu tun. Die Ergebnisse zeigen: entweder hat Ferguson20 grundlegende Prämissen falsch wiedergegeben oder ausgelassen, oder ihr Modell leitet die Zahlen der Menschen nicht korrekt ab, welche infiziert sind und/oder durch das COVID-19-Virus sterben.
+Ich habe die relevanten Eingangs-Prämissen von Ferguson20 herangezogen (ohne irgendeine Meinung dazu zu äußern), ebenso wie Daten der Bevölkerung in UK, um die Zahlen der Todesrate und der Krankenhaus-Einweisungen zu berechnen. Die sich daraus ergebenden Zahlen können als Prozentzahlen der Gesamt-Infektionen ausgedrückt und mit den äquivalenten Werten in Ferguson20 verglichen werden. Ich habe auch Abschätzungen aus einer anderen Studie (Verity20) des gleichen Teams am Imperial herangezogen, aus welcher die von mir betrachteten Ferguson20-Prämissen abgeleitet worden waren, um damit die Altersabhängigkeit abzuschätzen, die in Ferguson20 für die Infektionsrate angesetzt worden ist (der Anteil der mit dem Coronavirus infizierten Bevölkerung). Dann habe ich die Krankenhaus-Einweisungen nach Ferguson20 einer Gegenprüfung unterzogen. Details hierzu finden sich im Anhang dieses Artikels.
+Infektions- und Sterberaten sowie -zahlen
+Tabelle A zeigt, dass die Ferguson20-Schätzung von 81% der Gesamtbevölkerung, die in einem „Nichtstun“-Szenario infiziert wird, fast 54 Millionen Menschen in UK entspricht, die im Laufe der Epidemie an COVID-19 erkrankt sind. Auf dieser Grundlage schätzt Ferguson20, dass 510.000 Menschen sterben werden, was ein Verhältnis zwischen Infektion und Todesfall (IFR) von 0,948% ergibt. Das ist konsistent mit der gerundeten Zahl von 0,9%, die Ferguson20 nennt (dabei ignorieren die Autoren die potentielle negative Auswirkung des unzureichenden Gesundheitssystems auf die Sterberate).
+Wie auch immer, mit den genannten Prämissen von Ferguson20 berechnete ich eine um 30% höhere Todeszahl von etwa 660.000 Menschen (Spalte A7), was einen IFR von 1,23% impliziert.
+Um die Anzahl der Krankenhaus-Einweisungen zu überprüfen, brauche ich die relative Infektionsrate der herangezogenen Altersgruppe. Ferguson20 sagt hierzu jedoch nichts. Daher schätze ich die relative Infektionsrate nach Altersgruppen aus den Relationen der um die Ferguson20-Angriffsrate bereinigten IFRs zu den unbereinigten Verity20-IFRs, auf denen sie basieren. Dann verwendete ich jene von Ferguson20 geschätzten relativen Infektionsraten in meiner eigenen Analyse der Krankenhaus-Einweisungen (die Infektionsrate ist validiert durch den Vergleich der Zahlen in Spalte A8 mit denen in Spalte A7).
+Tabelle A: Schätzungen der Infektions-Todesrate, abgeleitet aus den Prämissen in Ferguson20 und den Bevölkerungsdaten von UK, im Vergleich mit jenen Schätzungen, die sich in Ferguson20 finden:
+Anmerkungen dazu:
+1) Für jede Altersgruppe ist die implizite Anzahl der infizierten Personen das Produkt von 81% der Bevölkerung in jener Altersgruppe (Spalte A2) sowie der geschätzten relativen Infektionsrate (Spalte A5)
+2) Für jede Altersgruppe ist die Anzahl der Todesfälle in Spalte 7 das Produkt aus der adjustierten Infektionsrate nach Ferguson20 (Spalte A4) und 81% der Bevölkerung (Spalte A)
+3) Für jede Altersgruppe ist die Anzahl der Todesfälle in Spalte 8 das Produkt der in Verity20 geschätzten IFR (Spalte A4) und der implizierten Anzahl der infizierten Menschen (Spalte A6). Die große Übereinstimmung zwischen diesen Todesfällen und jenen in Spalte A7 validiert die geschätzte relative Infektionsrate in Spalte A5.
+Raten und Zahlen der Krankenhaus-Einweisungen
+Tabelle B zeigt: die Ferguson20-Schätzung von 81% der Gesamtbevölkerung, die bei einem „Nichtstun“-Szenario mit COVID-19 infiziert sind und von denen zwei Drittel unter Symptomen leiden, entspricht fast 36 Millionen Menschen im Vereinigten Königreich, die im Verlauf der Epidemie symptombehaftet infiziert wurden (Spalte B2). Auf der Grundlage adjustierten Schätzungen von Ferguson20 der symptombehafteten Fälle, die einen Krankenhausaufenthalt erfordern (Spalte B3), würden fast 2,8 Millionen Menschen einen Krankenhausaufenthalt benötigen (Spalte B8).
+Mittels der von Ferguson20 genannten Prämissen berechne ich folglich, dass 5,17% der infizierten Menschen ins Krankenhaus müssten, das ist eine um 17,5% höhere Rate als die von Ferguson20 genannten 4,4%.
+Außerdem schreibt Ferguson20, dass seine Rate der Krankenhaus-Einweisungen auf Zahlen für die geschätzten Verhältnisse von Infektionen basiert, welche nach Verity20 ins Krankenhaus müssten. Die Anwendung dieser Verity20-Schätzungen (nach Anpassung von einer Grundlage pro Infektion auf eine Basis pro symptombehafteter Infektion und für eine uneinheitliche Infektionsrate) (Spalte B7) legt nahe, dass fast 4,5 Millionen Infizierte ins Krankenhaus eingeliefert werden würden (Spalte B9), 89% mehr als die Zahlen von Ferguson20 implizieren und 61% mehr als die fast 2,8 Millionen Menschen, die ich auf der Grundlage der von Ferguson20 angegebenen Annahmen errechne. Dies deutet darauf hin, dass Ferguson20 die Verity20-Einweisungsraten deutlich gesenkt hat. Es gibt einen Hinweis darauf, dass dies möglicherweise getan wurde, um die Verwendung von Eingabedaten, die letztlich aus einem chinesischen Kontext abgeleitet wurden, in einem GB/US-Kontext zu korrigieren: Das Papier spricht davon, die Daten so zu skalieren, dass die Hospitalisierungsraten für die Altersgruppe 80+ mit den in einem GB/US-Kontext erwarteten Raten übereinstimmen.[6] Da die Verity20 Hospitalisierungsraten jedoch bereits an einen britischen Kontext angepasst wurden,[7] ist nicht klar, warum die Ferguson20-Autoren es für notwendig hielten, diesen Schritt zu unternehmen.*
+[*Dieser Absatz ist ausnahmsweise einer Übersetzungsmaschine übergeben worden. Anm. d. Übers.]
+Tabelle B: Schätzungen der Krankenhaus-Einweisungen abgeleitet aus den Ferguson20-Prämissen und den Verity20-Daten im Vergleich mit jenen, die von Ferguson20 genannt werden:
+Es mag eine perfekte Erklärung geben für die von mir gefundenen offensichtlichen substantiellen Diskrepanzen zwischen den von Ferguson20 genannten Schätzungen der Krankenhaus-Einweisungen und der Todesfälle durch das Coronavirus. Anders als tatsächliche Falsch-Berechnungen in Ferguson20, könnten sie bedeutende Hypothesen falsch angewendet oder ausgelassen haben – oder ich habe ihre Hypothesen missverstanden oder wie sie diese anwenden; vielleicht gibt es auch einen Fehler in meinen Berechnungen. Solange das COVID-19-Reaktionsteam des Imperial Colleges jedoch nicht zeigt, dass eine Kombination dieser Möglichkeiten für die offensichtlichen Diskrepanzen verantwortlich ist, müssen alle Ergebnisse ihrer Studie mit Vorsicht behandelt werden, da sie möglicherweise erheblich fehlerhaft sind, selbst wenn die Annahmen zutreffen.
+[Es folgt eine detaillierte Beschreibung des Verfahrens von Autor Nic Lewis, die hier nicht mit übersetzt wird. Aus Obigem geht schon hervor, dass auch bei diesem Thema mit Zahlen und Hypothesen getrickst wird. Anm. d. Übers.]
+[1] Neil M Ferguson et al., Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand, Imperial College COVID-19 Response Team Report 9, 16 March 2020, https://spiral.imperial.ac.uk:8443/handle/10044/1/77482
+[2] Verity R, Okell LC, Dorigatti I, et al. Estimates of the severity of COVID-19 disease. medRxiv 13 March 2020; https://www.medrxiv.org/content/10.1101/2020.03.09.20033357v1.
+[3] Their page 7.
+[4] Their page 5.
+[5] Further investigation suggests that Ferguson20 in fact applied the Verity20 ‘Percentage of infections hospitalised’ estimates to the Ferguson20 attack-rate adjusted number of people infected, and then scaled the resulting estimates by approximately 0.82 overall, uniformly for ages 40+ but with varying scaling for the (much lower hospitalisation rate) younger age-groups. Since the Verity20 hospitalisation rates per infection were derived by converting rates per symptomatic case using Verity20’s estimates of the fraction of infections showing symptoms, which are age-varying and all lower than the 2/3 estimate used in Ferguson20, it seems to me inappropriate to use the Verity20 hospitalisation rates per infection in this way.
+[6] Ferguson20 Table 1 caption.
+[7] Verity20 Table 3 caption.
+[8] Their Table 1.
+[9] Verity20 Table 1.
+[10] The calculated common relative attack-rate of 0.936 is consistent, within rounding uncertainty, with the Verity20 IFR to Ferguson20 IFR ratios for all separate under-50 age groups.
+[11] Table MYE2 of https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland/mid20182019laboundaries/ukmidyearestimates20182019ladcodes.xls
+[12] For Verity20, the proportion of infections that were symptomatic is estimated by dividing by the ratio of the IFR in the final column of Table 1 of Verity20 to the fully adjusted case fatality rate (CFR) in the penultimate column of that table.
+Link: https://judithcurry.com/2020/04/01/imperial-college-uk-covid-19-numbers-dont-seem-to-add-up/
+Übersetzt von Chris Frey EIKE
+2. Zitat:
+„Professor Willich erklärte nochmals, was viele andere Experten bereits gesagt haben: Oft ist bei den Todesopfern nicht klar, ob sie an oder mit dem Coronavirus gestorben seien. Trotzdem würden sie mitgezählt, obwohl nicht klar ist, welche anderen Faktoren eine viel entscheidendere Rolle gespielt haben.“
+Quelle:
+https://www.freiewelt.net/nachricht/professor-stefan-willich-wirkliche-zahl-der-coronavirus-infizierten-bleibt-spekulativ-10080870/
+3. Zitat:
+„Eine Kombination aus Hydroxychloroquin, Azithromycin und Zinksulfat: Dr. Vladimir Zelenko therapierte damit bisher erfolgreich 699 COVID-19 Patienten, was einer Erfolgsquote von 99,9 Prozent entspricht. Dr. Zelenko appellierte am 21. März an US-Präsident Trump, die Kombination landesweit einzusetzen, die US-Behörde FDA lies daraufhin den Notfall-Einsatz von Hydroxychloroquin zu.“
+https://www.epochtimes.de/wissen/forschung/mix-mit-hydroxychloroquin-landarzt-berichtet-von-nahezu-100iger-erfolgsquote-bei-covid-19-therapie-a3205388.html
+4. Auch in Portugal wird die Geschichte eines über 73-jährigen Mannes erzählt, der angeblich an COVID-19 erkrankt, dank dieses „Hydroxychloroquin“ geheilt wurde und das Krankenhaus gesund wieder hat verlassen dürfen. Und das in Portugal. Dort gehört das Gesundheitssystem nicht zu den Besten der Welt. Das ist absolut sicher.
+5. Am gefährlichsten sind im Moment Fachleute, Bürokraten, Produkthaftung, Zertifizierung und Regulierung, die die schnelle Massenproduktion von lebensnotwendigen Materialien verhindern. Also müssen wir es – wie zu DDR Zeiten – selber in die Hand nehmen.
+Dieses Land ist eine einzige perverse Katastrophe. Man hat den Eindruck, die Regierung will überhaupt nicht, dass wir frei und gesund sein sollen. Und sowohl der Gesundheitsminister als auch der Wirtschaftsminister sind bekennende Perverse und jeweils keine Fachleute auf deren jeweiligen momentanten Tätigkeitsfeld. Merkels nützliche Idioiten. Ein Skandal.
+http://www.gigapico.de/Corona_Virus_Sterbefälle_Deutschland_Prognose_Gompertz.jpg
+sind die täglich beobachtete Sterbefälle und deren Fortschreibung nach der Gompertz-Funktion aufgetragen. Zum Vergleich: in Deutschland sterben pro Tag etwa 2550 Menschen (933.000 pro Jahr)
+Danke und Grüße
+Michael Schneider
+Für private Zwecke finden Sie das Tool für Windows zusammen mit den Daten und einer Hilfe hier
+http://www.gigapico.de/Gompertz.zip
+mit Ernst Wolf (The Collapse of the System ) DE mit Englischen Untertiteln
+Das war es dann!
+Jemand erklärt, daß eine Schätzung (auf Klardeutsch: raten) nicht stimmen kann, weil er eine andere Schätzung (auf Klardeutsch: raten) hat.
+Was kommt als nächstes? Wetten daß?
+Es gibt die Daten und Informationen von der princess paradise. Inzwischen gibt es abgeriegelte Orte in der BRD. Auch dort kann man Daten und Informationen sammeln.
+Der HW Ludwig vom Blog „Fassadenkratzer“ hat einige Artikel zum Thema geschrieben.
+Und vor allem schreibt er das wir die Panikmacher endlich zum schweigen bringen sollten.
+Also guckste hier :
+https://fassadenkratzer.wordpress.com/2020/04/01/die-panikmachende-irrefuehrung-bei-den-steigenden-corona-fallzahlen-ist-nun-auch-hier-belegt/
+Textauszug:
+Die täglich gemeldeten Zahlen der Neu-Infizierten suggerieren eine besorgniserregende exponentielle Steigerung. Doch sie beziehen sich nicht auf die Bevölkerung, sondern auf die Anzahl der Tests. Diese Relation wird aber vom Robert Koch-Institut (RKI) und der Bundesregierung verschwiegen. So wird mit aus dem Zusammenhang gerissenen Fallzahlen Angst und Panik geschürt. Erstmals belegen nun Zahlen des RKI, dass die exponentielle Zunahme der Fallzahlen im Wesentlichen aus der exponentiellen Zunahme der Tests resultiert.
+Nun ja, auch einige der alternativen Medien machen auf Panik.
+Der Blog „ScienceFiles“ zum Beispiel.
+Als ich deren Panikartikel las schrieb ich Kommentare dazu, sie wurden meist nicht freigeschaltet.
+Tja, die lieben die düsteren Szenarien so sehr das sie andere Meinungen zensieren.
+Das war der Kommentar.
+Corona Viren sind in 4 Hauptstämme eingeteilt und von deren Subtypen gibt es offenbar an die 100.
+– Warum in Italien so viele mehr sterben ist Momentan nicht klar.
+Es sind da etliche Fragen die geklärt werden müssen, was aber Monate benötigen wird.
+– In Italien sind Spitalinfektionen weit verbreitet, es sind wesentlich mehr wie in Deutschland und der Schweiz. Das Spitalwesen ist also mangelhaft.
+– Der Italienische Chef des Zivilschutzes hat zugegeben, dass sie nicht alle Verstorbenen sauber Obduzieren und die Todesursache feststellen, sondern die werden alle in die Corona Liste eingetragen.
+Die Fehlerquote ist also sehr gross.
+– Dort wären also auch noch Grippeopfer zu finden, Krebstodesfälle usw. usf. Alles was zum Todeszeitpunkt auf positiv auf Corona getestet ist, wird in die Corona Liste eingetragen.
+– Ein Krebspatient z.B. wurde in DE während seinem Endstadium zur palliativen Betreuung ins Krankenhaus eingewiesen, bei ihm wurde Corona nachgewiesen und als er verstarb wurde er als Corona-Opfer gelistet. Das sind Fehler welche die Fallzahlen enorm erhöhen.
+Starb einer „an“ Corona oder nur „mit“ Corona?
+– In Norditalien gibt es wegen der schlechten Luft in den Industriestädten viele Atemwegserkrankungen.
+Offenbar hat man in diesem Winter eine grössere Impfaktion gegen Meningokokken durchgeführt. Manche Wissenschaftler möchten nun klären, ob diese Impfungen, die offenbar den Körper belasten, ältere Patienten gegen Corona geschwächt haben könnte.
+– Schon bei der üblichen Grippe-Impfung fragt jeder Arzt ……ob man nicht gerade irgendeine Erkältung oder Krankheit habe, bevor er Impft.
+Impfungen werden nur dann gemacht wenn man an sich gesund ist, denn sie belasten die Immunabwehr, der Körper muss sich diese ja auch bei einer Impfung erst erschaffen. Also gilt mittlerweile eine kürzliche Grippeimpfung zusammen mit Corona als Doppelbelastung des Immunsystems.
+In England werden so geimpfte nun als Risikofälle eingestuft.
+Also bleibt die Frage…. könnte diese Meningokokken Impfaktion etwas mit der hohen Sterblichkeit der älteren Italiener an Corona zu tun haben ?
+Es bleibt jedenfalls noch viel zu tun.
+Tatsache ist, die Influenza fordert seit Jahrhunderten Jährlich zehntausende Menschenleben.
+Ja es ist einer der Alterstode die man sonst kaum als besonders schlimm wahrnimmt.
+Bislang sind die Zahlen von Corona nicht darüber hinausgegangen…..
+Ob sie das tun, muss erst abgewartet werden…. so ist das nun mal, so war das schon immer.
+Wir haben eine Panik-Krise….. und Angst schwächt die Immunabwehr zusätzlich, das gilt als erwiesen.
+Trotzdem hilft es nicht, vor den Besonderheiten von Covid-19 die Augen zu verschließen. Sich stapelnde Särge, Kühlzelte für Tote und Bestatter, die nicht nachkommen, sind nun mal Realität, auch wenn die Medien solche Bilder bevorzugen. Logischerweise steigen überall die Todeszahlen am schnellsten und die Kurven sehen eher so aus, als würden sie allerorts früher oder später denselben alarmierenden Verlauf einnehmen. Am stärksten betroffen die Großstädte…
+Die Befürchtung des RKI halte ich für durchaus realistisch, dass trotz besserer Ausstattung/Intensivpflegeplätze/Versorgung in D wir früher oder später ähnliche Engpässe wie in Spanien oder Italien erleben könnten. Hoffnungsschimmer: Verdoppelungszeit bei den Neuinfizierten in D schon über 10 Tage, allerdings in Bayern angeblich erst 6 Tage. Es bleibt aber eine schwierige Entscheidung, wann und wie man lockern kann (muss)…
+Es ist deshalb eine absolute Notwendigkeit, sich ernsthaft mit möglichen Pandemien auseinanderzusetzen und zu planen, die noch weitaus unangenehmer wie Covid-19 verlaufen können. Und nicht die Energien sowie Unsummen für Blödsinn wie „Klimanotstand“ verplempern!
+Auch der Versuch von Frau Schulze neulich, Umweltschäden und die gefährdete Tierwelt verantwortlich zu machen, ist angesichts der Realitäten ein mehr als schwachsinniger Beitrag! Umwelt ist zwar wichtig, aber sie hat sich in unserem Land zu einem vielfach missbrauchten Vehikel für Politiker entwickelt, um allergrößten Blödsinn unters Volk zu bringen!
+Diese Ignoranz gegenüber der Aussagekraft der berechneten Zahlen ist aber nicht nur Lewis sondern auch Ferguson vorzuwerfen. Wer glaubt, er könne (wie beide Autoren) zukünftige Fallzahlen auf eine Person genau berechnen, ist vielleicht ein guter Rechner, steht aber mit Mathematik auf dem Kriegsfuß (wie der ehrwürdige Herr Gauß schon wußte).

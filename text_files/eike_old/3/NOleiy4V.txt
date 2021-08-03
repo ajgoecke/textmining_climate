@@ -1,0 +1,71 @@
+Jetzt gibt es einen neuen Mitspieler im Prozess der „Karlisierung“ – Carl Mears, leitender Wissenschaftler für RSS (Remote Sensing Systems) in Santa Rosa, Kalifornien. Hierbei handelt es sich um ein Privatgeschäft, das rein zufällig einen auf Satellitenmessungen basierenden Klimadatensatz erstellt (hier), der ähnlich dem UAH-Satelliten-Datensatz ist, der von Roy Spencer und John Christy erzeugt wird. Seit Jahren zeigen die RSS-Daten kaum eine Erwärmung, und auf der RSS-Website entblödeten sie sich nicht zu sagen:
+Um dieses letzte Problem zu illustrieren, zeigen wir hier mehrere Plots. Jedes dieser Plots umfasst eine Zeitreihe von TLT-Temperaturanomalien* mittels eines Referenz-Zeitraumes von 1979 bis 2008. In jedem Plot ist das blaue Band die 5% bis 95% Einhüllende für das Unsicherheits-Ensemble von RSS V3.3 MSU/AMSU. Das gelbe Band zeigt die Einhüllende von 5% bis 95% für die Ergebnisse von 33 Modellsimulationen der CMIP5-Klimamodelle (19 unterschiedliche Modelle, viele mit multiplen Realisierungen). Sie sollen das Erdklima im Verlauf des 20. Jahrhunderts simulieren. Für den Zeitraum vor dem Jahr 2005 gingen in die Modelle historische Werte von Treibhausgasen ein sowie vulkanische Aerosole und der solare Output. Nach dem Jahr 2005 wurden geschätzte Projektionen dieser Antriebe verwendet. Falls die Modelle als Ganzes die Vergangenheit auf akzeptable Weise simuliert haben, sollten die Beobachtungen zumeist innerhalb des gelben Bandes liegen. Den ersten beiden Plots zufolge, die die globalen und die tropischen Mittelwerte zeigen, ist dies nicht der Fall. Nur für die hohen nördlichen Breiten liegen die Beobachtungen zumeist innerhalb der Bandbreite der Modellprojektionen.
+[*TLT = Temperature Lower Troposphere]
+Abbildung 1: Globale (80S bis 80N) mittlere TLT-Anomalie, dargestellt als eine Funktion der Zeit. Das blaue Band markiert die Einhüllende für Unsicherheits-Ensemble von RSS V3.3 MSU/AMSU. Das gelbe Band zeigt die Einhüllende von 5% bis 95% für die Ergebnisse von 33 Modellsimulationen der CMIP5-Klimamodelle. Der mittlere Wert jedes Zeitreihen-Mittels von 1979 bis 1984 ist auf Null gesetzt, so dass die Änderungen mit der Zeit besser erkennbar sind. Man beachte, dass die Beobachtungen nach dem Jahr 1988 unter den simulierten Werten liegen, was belegt, dass das System als Ganzes zu viel Erwärmung zeigt.
+Quelle: Source: http://www.remss.com/research/climate Archived here – http://www.webcitation.org/6fiQcrQDQ
+All das wird sich jetzt ändern. Mancher Leser wird sich an ein Video erinnern, das von der abscheulichen „Klima-Krücke der Woche“, dem Aktivisten Peter Sinclair produziert worden ist. Die zugrunde liegende Prämisse darin lautet: „die Satelliten lügen!“. Mir scheint es aufgrund seiner jüngsten Kommentare so, als ob Dr. Mears die Nase voll hätte von Leuten, die den RSS-Datensatz heranziehen, um zu zeigen, dass die Welt sich nicht so erwärmt wie sie es seiner Erwartung nach hätte tun sollen. In dem Video erklärt Mears:
+Sie wollten einfach wissen, verstehen Sie, sie wollten ihr Statement feinabstimmen, verstehen Sie, ob – verstehen Sie – die Temperaturmessungen genauer sind oder die Satelliten-Temperaturen genauer sind; und ursprünglich wollten sie in etwa sagen „aber man sollte den Satelliten-Temperaturen wirklich nicht trauen, sondern diese Bodenbeobachtungen zur Grundlage machen“; und ich sagte „nun, was würden Sie empfehlen; Sie wollen wirklich all diese unterschiedlichen Datensätze betrachten, also wollen Sie nicht allein den Satelliten-Temperaturen vertrauen, Sie wollen die Bodenbeobachtungen betrachten – und all solches Zeug.
+Auf seiner Website findet sich dieses Statement von Mears:
+Jüngst fand sich in der Mainstream-Presse eine Anzahl von Artikeln des Inhalts, dass es nur eine geringe oder gar keine Änderung der global gemittelten Temperatur während der letzten beiden Jahrzehnte gegeben habe. Aus diesem Grunde stellt man uns eine Menge Fragen mit dem Tenor „ich habe diesen Plot auf der Website von Leugnern gesehen. Sind das wirklich Ihre Daten?“ Während einige dieser Berichte cherry-picked hinsichtlich ihrer Endzeitpunkte sind, um den angeblichen Beweis deutlicher zu machen, gibt es kaum einen Zweifel daran, dass die Erwärmungsrate seit Ende der neunziger Jahre geringer ist als von den meisten Simulationen des historischen Klimas im IPCC AR5 prophezeit. Dies geht aus den RSS-Daten hervor, ebenso wie aus den meisten anderen Temperatur-Datensätzen. Beispiel: Die Abbildung unten ist ein Plot der Temperatur-Anomalie (Abweichung vom Normalen) der unteren Troposphäre während der letzten 35 Jahre aus dem RSS-Datensatz „Temperature Lower Troposphere (TLT)“. Für diesen Plot haben wir über fast den gesamten Globus gemittelt, von 80S bis 80N, und haben den gesamten TLT-Datensatz verwendet mit Beginn im Jahre 1979. (Die Leugner mögen es wirklich, ihre Trends im Jahre 1997 beginnen zu lassen, so dass das gewaltige ENSO-Ereignis am Beginn ihrer Zeitreihe liegt, was zu einem linearen Fit mit der geringstmöglichen Neigung führt).
+Quelle: http://www.remss.com/blog/recent-slowing-rise-global-temperatures Archived here: http://www.webcitation.org/6fiS2rI7k
+Mears verwendet den Terminus „Leugner“, und damit ist seine Objektivität dahin, wenn er glaubt, Leuten so etwas unterstellen zu müssen.
+Eindeutig: er ist eingeschnappt. Was also tun? Er zieht einen Hinweis von dem anderen Karl heran, er veröffentlicht eine Studie und behauptet, dass neue und verbesserte Adjustierungen jene fehlende Erwärmung „gefunden“ hätten.
+Mears, C., and F. Wentz, 2016: Sensitivity of satellite-derived tropospheric
+temperature trends to the diurnal cycle adjustment. J. Climate. doi:10.1175/JCLID-
+15-0744.1, in press.
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0744.1?af=R
+Hier das Ergebnis: Es gibt hier Differenzen zwischen der alten und der neuen Version von RSS:
+Abbildung 8: Vergleich zwischen RSS V3.3 global (80°S to 80°N)-Anomalie-Zeitreihen und das Resultat des V4.0-Verschmelzungs-Algorithmus‘ mit unterschiedlich starken Adjustierungen.
+Die neue Version V4.0 zeigt einen fast doppelt so hohen Erwärmungstrend wie UAH V5.6; siehe folgende Abbildung:
+Abbildung 9: Vergleiche zwischen fast globalen (80S bis 80N) und tropischen (30S bis 30N)-Anomalie-Zeitreihen, erzeugt von unterschiedlichen Gruppen. Um die Differenzen in den Trends besser ersichtlich zu machen, wurden die Anomalie-Zeitreihen adjustiert so dass ihre Mittelwerte über 1979 gleich Null sind.
+Falls man jetzt glaubt, dass das etwas bedeutet für die Tropen 30S bis 30N: Die neue Erwärmungsrate von RSS V4.0 ist fast fünf mal größer als bei UAH!
+Dr. Gavin Smith von NASA GISS scheint begeistert, dass die neue Adjustierung kommt:
+Dr. Roy Spencer und Dr. John Christy haben sich diese jüngste „Karlisierung“ bereits angeschaut und dabei etwas herausgefunden, was ein furchtbarer Schwindel zu sein scheint. In einer E-Mail an mich schreibt Spencer:
+In der Studie geht es um MT, nicht LT … aber ich glaube, wir können davon ausgehen, dass Änderungen in einer Reihe in der anderen Reihe reflektiert werden, wenn Mears seine Analyse vervollständigt.
+Von dem bisschen, das wir bislang betrachtet haben, scheint es so, als ob sie die unberechtigte Erwärmung in NOAA-14 MSU relativ zu NOAA-15 AMSU nicht korrigiert hätten … sehen Sie deren Abbildung 7c. Sie haben sie einfach stehen gelassen.
+Da diese unberechtigte Erwärmung nahe der Mitte des gesamten Zeitraumes liegt, macht dies die zweite Hälfte der Satelliten-Aufzeichnung wärmer, wenn NOAA-14 MSU (die letzte in der MSU -Reihe) auf NOAA-15 AMSU übergeht (die erste AMSU-Zeitreihe).
+Warum halten wir NOAA-14 MSU für falsch?
+1) AMSU soll ein „Cadillac“-Kalibrierungs-Design haben (diesen Terminus benutzte ein NASA-Ingenieur namens Jim Shiue, als er mir das AMSU-Design beschrieb, in das er involviert war)
+2) NOAA-14 MSU erfordert eine starke Korrektur der kalibrierten TB, die in den Instrumentenaufzeichnungen zunimmt, wenn sich der Satellit in einen anderen Orbit verschiebt. NOAA-15 AMSU erfordert keine derartige Korrektur … und es war sowieso nicht die Verschiebung während des fraglichen Zeitraumes.
+Es sieht also alles danach aus, als ob sie sich entschlossen haben, gute Daten dazu zu bringen, zu schlechten Daten zu passen. Kommt einem das bekannt vor?
+Oh ja, genau das tut es!
+Zusatz: Hier folgt Abbildung 7 aus der von Dr. Spencer angesprochenen Studie:
+Abbildung 7: MSU minus AMSU-Zeitreihen fast global (60S bis 60N) für Festland, Ozean sowie 802 kombinierte Festlands-Ozean-Regionen. Jedes Paneel zeigt die Ergebnisse nach unterschiedlichen Niveaus von 803 Adjustierungen angebracht an die Daten.
+Aktualisierung: Angesichts des Umstandes, dass diese Art Arbeit nur von zwei Gruppen praktiziert wird, ist es doch ein sehr enger Bereich spezieller Wissenschaft, stellte ich Dr. Spencer diese Frage:
+Ich vermute, weder Sie noch Christy wurden aufgefordert, diese Studie zu begutachten? So viele Experten für Satellitendaten gibt es ja nicht auf der Welt.
+Er erwiderte:
+Interessante Frage…
+John [Christy] begutachtete detailliert ihre Originalstudie, bei JGR eingereicht, und fragte nach zusätzlichen Beweisen – sprach sich aber nicht für eine Zurückweisung der Studie aus. Am Ende hat der Herausgeber von JGR diese aber doch abgelehnt.
+Mears & Wentz überarbeiteten die Studie daraufhin, reichten sie dann bei J. Climate ein und forderten wahrscheinlich, uns als Begutachter auszuschließen.
+Link: http://wattsupwiththat.com/2016/03/02/the-karlization-of-global-temperature-continues-this-time-rss-makes-a-massive-upwards-adjustment/
+Übersetzt von Chris Frey EIKE
+Frage des Übersetzers: Ist es jetzt ein Alarmzeichen, dass man nun auch den Satelliten-Daten an den kragen will?
+Herr Urbahn, „… wissen Sie was aktuelleres?“
+Sie haben das sicher übersehen Herr Urbahn – wissen Sie nun was aktuelleres? Oder war Ihr Vorwurf etwas voreilig?
+„werter marvin Müller,
+wenn Sie das Ganze richtig verfolgt hättwen, dann wüßten Sie wär hier wieder einmal gute Daten an schlechte anpaßt.“
+Hmm, Spencers letzte Aussage dazu war, dass der Teil, auf den Sie sich da wohl gerade beziehen bereits in RSS v3.3 enthalten war. Oder wissen Sie was aktuelleres? Dann zitieren Sie doch einfach mal (bitte die Originalaussage, nicht Ihre Wiedergabe – da gibt es manchmal drastische Diskrepanzen).
+Und was hat das ganze mit der etwas unpräzisen Ansage in #1 zu tun? Momentan bewegen sich beide Satellitendatensätze und zwar in entgegengesetzte Richtungen – UAH schon seit etwa einem Jahr. Da kann man schon mal etwas genauer sein. Oder wollen Sie sich etwa Frau Meinhardt anschließen und Christy/Spencer als lügende Klima-Deppen-Pseudo-Wissenschafts-Heinis einstufen?
+PS: der Text von Spencer (Wiedergabe eines Hinweises von Chip Knappenberger): „… when RSS v4 is compared to RSS v3.3, the increase in warming might be mostly due to their new diurnal cycle adjustment. In other words, the NOAA-14 calibration issue was also in their v3.3 …“
+http://www.climate4you.com
+Klicken Sie einfach auf das Stichwort:
+„Data smoothing“ in der linken Menü-Leiste.
+Und dann die einzelnen Daten-Quellen.
+Er kann sie auch alle gemeinsam darstellen (all in one).
+GISS (NASA) ist traditionell am auffälligsten, hier muss man wirklich immer up to date sein, um zu wissen welche Temperatur denn nun 1980 oder 1990 geherrscht hat, da die sich laufend ändern- streng wissenschaftlich natürlich.
+Um sich nun in dem Dschungel der verschiedenen Temperaturen der gleichen Erde nicht zu verlaufen hat Ole Humlum freundlicherweise sozusagen ein Ranking vorgenommen nach Quality class 1 bis 3,
+aber lesen Sie selbst.
+Eine Gegenstrahlungsmessung werden Sie allerdings bei ihm vergeblich suchen,
+denn Wolken kühlen ja, wie man messen kann.
+mfG
+wenn Sie das Ganze richtig verfolgt hättwen, dann wüßten Sie wär hier wieder einmal gute Daten an schlechte anpaßt. selbt mann schreibt ja inzwischen, daß T. Karl völlig falsch liegt. aei Ihnen gilt ja: Palmström der schließt messerscharf, daß nicht sein kann, was nicht sein darf.
+mfG
+a. Der verehrte Herr Poost muss gar nix.
+b. Es ist (bereis) sonnenklar. Ihnen vielleicht nicht.
+c. Welches Problem woll(t)en Sie noch einmal lösen?
+d. Das ist ein Phänomen unserer neuen Zeit, dass wenn ein Individuum etwas nicht begreifen will (oder kann), der es der restlichen Gemeinschaft in die Schuhe schieben will. „Wir“ haben mit Ihrer (anscheindenden) Verständnisschwierigkeit jedoch nix am Hut.
+Ich habe den verehrten Herrn Poost sehr gut verstanden.
+Es ist ja nicht das erste Mal, dass die Klima-Deppen-Pseudo-Wissenschafts-Heinis lügen, nicht wahr? Die Datenbanken quellen ÜBER!! Und was eine Datenbank sein will, müsste auch Ihnen klar sein wollen. Die lassen sich sehr schnell absuchen.
+MODTRAN hin oder her. Ich warne Sie. Ich rufe die Hexen zur Hilfe. Die lieben die Frauenquote.
+„Das man jetzt an den Satellitendaten „herumbastelt“ ist Ausdruck purer Verzweiflung.“
+Sie sollten das etwas mehr ausführen, sonst wird nicht ganz klar, wer denn Ihrer Meinung nach Verzweifelt ist – Spencer/Christy von UAH, die die Temperatur nach unten zu geringeren Trend hin korrigieren oder RSS, deren Korrekturen zu einem höheren Trend führen.

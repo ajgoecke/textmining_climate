@@ -1,0 +1,578 @@
+Im heutigen Beitrag wollen wir eine kleine Übersicht über die neuen Studien des vergangenen Jahres (2014) geben. Wer ist mit welchem Wert aktuell im Rennen? Bevor wir beginnen, sollte jedoch noch kurz erwähnt sein, dass es zwei verschiedene Typen der Klimasensitivität gibt, die nicht verwechselt werden dürfen, die ECS und die TCR. Hier sollte man peinlichst darauf achten, um welchen Wert es in der entsprechenden Arbeit geht, ansonsten vergleicht man Äpfel mit Birnen. Wikipedia erklärt uns den Unterschied:
+ECS und TCR
+Aufgrund der thermischen Trägheit der Weltmeere reagiert das globale Klimasystem grundsätzlich nur langsam auf Veränderungen des Strahlungsantriebs. Man unterscheidet daher zwischen der Equilibrium Climate Sensitivity, (ECS) und der Transient Climate Response (TCR). Die ECS beschreibt den Temperaturanstieg, der zu beobachten ist, nachdem das Klimasystem nach einer Veränderung des Strahlungsantriebs den neuen Gleichgewichtszustand erreicht hat, wofür Jahrtausende nötig sind. Um den Einfluss des Menschen auf das Klima zu quantifizieren, ist die Transient Climate Response besser geeignet. Diese ist definiert als der Temperaturanstieg, der zum Zeitpunkt einer Verdoppelung der CO2-Konzentration in einem Szenario beobachtet wird, bei dem diese pro Jahr um 1% anwächst.
+Laut dem fünften Klimazustandsbericht des IPCC (AR5) liegt die ECS irgendwo zwischen 1.5°C bis 4.5°C. Der IPCC hat sich diesmal aus taktischen Gründen geweigert, einen offiziellen Mittelwert anzugeben. Nehmen wir daher einen Wert von 3°C an, den hatte der IPCC in seinem vierten Klimabericht (AR4) verwendet und nach eigenen Angaben habe sich vom vierten auf den fünften Bericht nicht viel geändert. Überhaupt geht der IPCC in allen seinen bisherigen Berichten seit 1990 stets von der gleichen Wertespanne aus (Abbildung 1).
+Die kurzfristigere TCR sieht der IPCC in ihrem aktuellen AR5-Bericht zwischen 1,0°C und 2,5°C (siehe Seite 14 hier).
+Abbildung 1: Übersicht der in den IPCC-Berichten angegebenen CO2-Klimasensitivitäten. Aus Lewis & Crok (2014).
+ECS – Die Equilibrium Climate Sensitivity [Gleichgewichts-Klimasensitivität]
+Beginnen wollen wir unseren wissenschaftlichen Streifzug mit Studien zum Langfrist-Wert, der ECS. Dabei arbeiten wir uns von den hohen zu den niedrigen ECS-Werten.
+Im April 2014 erschien im Fachblatt Climate Dynamics eine Arbeit von Troy Masters. Er kommt auf eine Wertespanne für die ECS von 1,5-2,9°C, eliminiert also einen Großteil der überhitzten IPCC-Szenarien. Als ECS-Mittelwert gibt Master 2,2° C an, was knapp ein Grad kälter ist, als der IPCC-Wert.
+Fünf Monate später, im September 2014, kamen von der Heydt und Kollegen in einer Studie in den Geophysical Research Letters auf einen recht ähnlichen Wert, nämlich 2,26°C. Die Forscher untersuchten hierzu das Paläoklima der letzten 800.000 Jahre. Aus der Kurzfassung:
+Wendet man ein neues Verfahren an, um die Abhängigkeit vom Hintergrundzustand [background state dependency] zu berücksichtigen, kommt man zu dem Ergebnis Sa=0.61±0.07 K (W/ m²)-1 (±1σ) unter Verwendung einer Rekonstruktion der Abkühlung zum letzten glazialen Maximum (LGM) um -4,0 K und eine deutlich geringere Klimasensitivität während glazialer Klimate.
+(Hinweis: Der dort angegebene Wert von Sa=0,61±0,07 K (W m−2)−1 muss mit 3,7 W/m2 multipliziert werden, um auf die ECS pro CO2-Verdopplung zu gelangen.)
+In einer Modellierungsstudie ermittelte Crag Loehle vom US-amerikanischen National Council for Air and Stream Improvement eine ECS von 1,99°C. Die Ergebnisse präsentierte er im März 2014 im begutachteten Fachblatt Ecological Modelling.
+Im selben Monat erschien im Fachjournal Earth System Dynamics eine Arbeit von Skeie et al., die auf eine ECS von 1,8°C kommen. Zum exakt gleichen Ergebnis gelangte auch Jeff L. in einem Beitrag auf WUWT , der dort am 13. Februar 2014 gepostet wurde.
+Bereits im Juni 2010 beschrieb Roy Spencer auf seiner Webseite eine ECS von 1,7°C:
+Unter dem Strich stützt meine Analyse eine Best-Estimate-Klimasensitivität von 1,7°C, was etwas mehr ist als die Hälfte von dem, was Tung & Camp (3,0°C) gefunden haben, und es nähert sich der unteren Grenze dessen, was das IPCC als wahrscheinlich behauptet (1,5°C).
+Nur einen Tick niedriger verorteten Nicholas Lewis und Judith Curry die ECS. In ihrer im September 2014 im Fachblatt Climate Dynamics publizierten Arbeit kamen die Autoren auf einen Wert von 1,64°C. Lewis präsentierte in einem Beitrag im Blog Climate Audit zudem eine detaillierte Gesamttabelle mit ECS-Spannen für verschiedene Zeitfenster sowie Vergleichswerte anderer Arbeiten (Abbildung 2):
+Abbildung 2: Klimasensitivitäten nach Lewis & Curry (2014) sowie weitere Vergleichswerte aus der Literatur. Quelle: Climate Audit.
+Bemerkenswert ist auch eine Arbeit von Spencer & Braswell die im Februar 2014 im Asia-Pacific Journal of Atmospheric Sciences herauskam. Die beiden Autoren integrierten die natürliche ENSO-Variabilität in ihr Modell und kamen auf eine ECS von 1,3°C, was ziemlich genau zwischen den beiden in unserem Buch „Die kalte Sonne“ präsentierten Szenarien liegt.
+Einige Autoren sehen sogar die Möglichkeit von ECS-Werten unterhalb von 1,0°C. So stellte im November 2014 Hermann Harde von der Hamburger Helmut-Schmidt-Universität im Journal of Atmospheric and Climate Change ein Modell mit einer ECS von 0,6°C vor.
+Und schließlich sei noch eine Arbeit erwähnt, die im Oktober 2014 auf der Webseite der Stockholm-Initiative erschien. Magnus Cederlöf beschreibt dort eine ECS von 0,28°C.
+Der generelle Trend in der Wissenschaft hin zu niedrigeren ECS-Klimasensitivitäten ist mittlerweile unübersehbar und stürzt den IPCC und die beteiligten Forscher in ein Dilemma. Viele der Arbeiten erschienen nach Redaktionsschluss des AR5-Klimaberichts und konnten daher nicht mehr in den Bericht eingearbeitet werden. Überhaupt gleichen die IPCC-Klimaberichte einem schweren Supertanker, der etliche Jahre benötigt um seinen Kurs auch nur geringfügig zu ändern. Das Herzstück des AR5 bilden aufwendige Computer-Klimamodellierungen, die noch von einer veralteten, überhöhten ECS ausgingen. Im Prinzip hätte man nun die Modellierungsresultate verwerfen und erneut zu rechnen beginnen müssen. Dafür gab es nun aber keine Zeit mehr und die Veröffentlichung des AR5 wäre um mehrere Jahre verzögert worden. Offenbar entschied man sich für die Methode „Augen zu und durch“, in der Hoffnung, dass die Unzulänglichkeiten hoffentlich keinem auffallen. Da der Großteil der Medienlandschaft die IPCC-Ergebnisse sowieso generell ungeprüft übernimmt, hat dies auch ziemlich gut funktioniert.
+Im Februar 2014 thematisierten Nicholas Lewis und Marcel Crok das IPCC-Dilemma bezüglich der Klimasensitivität in einem lesenswerten Bericht, der als GWPF Report 12 erschienen ist:
+Auszug aus der Zusammenfassung:
+Erst während der letzten Jahre ist es möglich geworden, gute empirische Schätzungen der Klimasensitivität vorzunehmen aus gemessenen Daten wie Temperatur und ozeanischen Wärmerekorden. Diese Schätzungen, publiziert in führenden wissenschaftlichen Journalen, zeigen bei einer Verdoppelung des CO2-Gehaltes zumeist eine Klimasensitivität, die zu einer langfristigen Erwärmung unter 2°C führt und unter 1,5°C während einer Periode von 70 Jahren. Dies zeigt eindeutig, dass die Modelle eine zu hohe Sensitivität bzgl. Kohlendioxid annehmen und in fast allen Fällen die wahrscheinliche globale Erwärmung übertreiben. … Gute empirische Schätzungen sowohl langfristig als auch über Zeiträume von 70 Jahren implizieren jetzt sehr unterschiedliche Erwartungen hinsichtlich einer zukünftigen Erwärmung verglichen mit den Klimamodellen – etwa 40% bis 50% niedriger bis zum Zeitraum 2018 bis 2100. Dies ist fast mit Sicherheit das wichtigste Ergebnis der Klimawissenschaft während der letzten Jahre, vor allem weil es gute Gründe gibt, die Zuverlässigkeit der Klimamodell-Vorhersagen anzuzweifeln. Allerdings geht das IPCC in seinem Bericht auf diesen Punkt nur indirekt ein. Mehr noch, anstatt die Best Estimate der Klimasensitivität im Licht der neuen empirischen Schätzungen zu reduzieren hat es einfach die untere Grenze der Unsicherheits-Bandbreite tiefer gelegt und es versäumt, eine Best Estimate zu geben ohne angemessen zu erklären, warum dies zu tun erforderlich war. Erst in der im Januar 2014 veröffentlichten Endfassung wurde in der Technical Summary ein Absatz mit etwas mehr Erklärung hinzugefügt. Die neue Information zur Klimasensitivität zeigt, dass das Zwei-Grad-Ziel der Regierung selbst bei relativ hohen Emissionen wahrscheinlich erst zum Ende des Jahrhunderts erreicht wird.
+Eine gute graphische Übersicht von 14 wichtigen Arbeiten der vergangenen vier Jahre haben Patrick Michaels und Paul Knappenberger am 25. September 2014 auf WUWT zusammengestellt (Abbildung 3):
+Abbildung 3: Übersicht der ECS-Klimasensitivität aus bedeutenden Arbeiten der vergangenen vier Jahre. Quelle: Patrick Michaels und Paul Knappenberger, WUWT.
+Eine noch umfangreichere Auflistung gibt es auf The Hockeyschtick. Hier werden gleich 40 wissenschaftliche Studien vorgestellt, die eine ECS von 2,0°C oder weniger postulieren.
+TCR – kurzlebige Reaktionen des Klimas [Transient Climate Response]
+Schauen wir jetzt noch kurz in die kurzfristigere TCR. Der IPCC interpretiert in seinem aktuellen 5. Bericht eine TCR zwischen 1,0°C und 2,5°C. Ein Mittelwert ist erneut nicht angegeben, würde aber 1,75°C entsprechen.
+Auch hier kommen neuere Studien auf deutlich niedrigere Werte. So reichten van der Werf und Dolman im Mai 2014 eine Arbeit im Fachblatt Earth System Dynamics ein, in dem sie eine TCR von 1,3°C darstellen. Das hat den IPCC-Torwächtern natürlich gar nicht gefallen. Im Begutachtungsverfahren „überzeugte“ man die Autoren, die TCR auf 1,6°C hochzusetzen, so dass die finale Version des Artikels aus dem Oktober 2014 jetzt diesen Wert enthält.
+Da waren Nicholas Lewis und Judith Curry deutlich standfester. In ihrer im September 2014 in Climate Dynamics erschienenen Arbeit berichten sie eine TCR in Höhe von 1,33°C, was am unteren Ende des vom IPCC im AR5 verbreiteten Möglichkeitsspektrums liegt.
+Craig Loehle geht mit einer TCR von 1,09°C sogar fast an den untersten Rand der IPCC-Werte. Diese Arbeit erschien wie bereits berichtet im März 2014 im Fachblatt Ecological Modelling.
+Ein Forscherteam um Krasting und Kollegen ging im April 2014 in den Geophysical Research Letters sogar von noch niedrigeren TCR-Werten aus, nämlich einem Bereich zwischen 0,76 und 1,04°C.
+Weitere neuere Erkenntnisse
+Neben den harten ECS/TCR-Werten gab es auch noch andere Erkenntnisgewinne. So räumte Kim Cobb im April 2014 im IPCC-nahen Fachblatt Nature Climate Change ein, dass die Klimasensitivität wohl doch insgesamt niedriger ist als gedacht. Man habe die natürliche Klimavariabilität auf der Südhalbkugel wohl unterschätzt.
+Im Dezember 2014 berichteten Winton et al. in den Geophysical Research Letters dass man wohl die AMOC-Ozeanzyklik zu wenig auf der Rechnung hatte und die TCR-Abschätzungen deshalb wohl in der Vergangenheit zu hoch ausgefallen sind.
+Einen interessanten Einblick in die Denkweise von IPCC-nahen Wissenschaftlern gab es im April 2014 in den Geophysical Research Letters. Dort gestanden Kummer & Dessler ein, dass die historischen Temperaturdaten des 20. Jahrhunderts lediglich eine ECS von 2,3°C rechtfertigen würden, was krass von den 3°C der theoretischen IPCC-Modelle abweicht. Im Paper fangen sie dann an laut zu denken. Wie konnte dies nur passieren, wie kriegen wir diesen unbequemen Umstand möglichst elegant und leise vom Tisch? In ihrer Verzweiflung fangen sie dann an, Gründen für die zu schwache Erwärmung der letzten 150 Jahre zu ersinnen. Dabei greifen sie letztendlich auf den bereits in unserem Buch „Die kalte Sonne“ ausführlich beschriebenen Trick zurück und erhöhen einfach die kühlende Wirkung der Aerosole, der Schwebteilchen in der Atmosphäre. Zur Linderung der Modellierungsschmerzen muss auch das Ozon seinen Beitrag leisten. Nach Anwendung von Trick 17 und Trick 18 ist dann die reale Welt an die wunderbare Computerwelt angepasst und alle können wieder beruhigt ihrem alarmistischen Tagesgeschäft nachgehen. Im Folgenden die Kurzfassung der Arbeit:
+Schätzungen der Gleichgewichts-Klimasensitivität der Erde (ECS) aus Beobachtungen im 20. Jahrhundert sagen eine niedrigere ECS vorher als Schätzungen der Klimamodelle, paläoklimatische Daten und Variabilität von Jahr zu Jahr. Hier zeigen wir, dass Schätzungen der ECS aus Beobachtungen im 20. Jahrhundert hinsichtlich der vermuteten Wirksamkeit von Aerosol- und Ozon-Antrieb sensitiv sind (Wirksamkeit eines Antriebs ist die Größe der Erwärmung pro Einheit globaler mittlerer Antrieb dividiert durch die Erwärmung pro Antriebseinheit aus CO2). Frühere Schätzungen der ECS auf der Grundlage von Beobachtungen im 20. Jahrhundert haben nahe gelegt, dass die Wirksamkeit einheitlich ist, wobei sich in unserer Studie eine ECS von 2,3 K ergibt (5% bis 95% Bandbreite von 1,6 bis 4,1 K), was dicht an der unteren Grenze der vom IPCC angebotenen Bandbreite von 1,5 bis 4,5 K liegt. Eine Zunahme der Aerosol- und Ozon-Wirksamkeit auf 1,33 lässt die ECS steigen auf 3,0 K (1,9 bis 6,8 K), ein Wert, der in ausgezeichneter Übereinstimmung mit anderen Schätzungen steht. Die Wirksamkeit von Antrieben bietet daher einen Weg, den Graben zwischen verschiedenen ECS-Schätzungen zu überbrücken.
+Eine mysteriöse Geschichte gab es am 3. Dezember 2014 auf der Webseite von Bild der Wissenschaft zu lesen:
+Klima: Schnell aufgeheizt und lange warm
+Die Treibhauswirkung von Kohlendioxid ist längst unstrittig: Das Gas hält Wärme in der Atmosphäre fest und trägt damit zum Klimawandel bei. Wie schnell sich aber eine Emission von CO<sub>2</sub> tatsächlich am globalen Thermometer bemerkbar macht, das war bisher unklar. Zwei US-Forscher haben diese Unsicherheit nun beseitigt. Ihre Modellsimulationen zeigen, dass das Klimasystem deutlich schneller auf das CO<sub>2</sub> reagiert als gedacht: Schon zehn Jahre nach einer CO<sub>2</sub>-Emission tritt die dadurch verursachte Erwärmung ein – diese Klimawirkung hält dann allerdings über mehr als ein Jahrhundert an. Für die Klimaverhandlungen in Lima sollte das eine Mahnung sein. […] Das Ergebnis: Es dauert im Mittel 10,1 Jahre, bis eine Dosis freigesetzten Kohlendioxids ihre maximale Treibhauswirkung entfaltet. Der CO<sub>2</sub>-Gehalt der Atmosphäre steigt dabei schon deutlich schneller an. Aber vor allem die thermische Trägheit der Ozeane bremst die dadurch erzeugte Erwärmung ab, so dass sie sich erst nach rund einem Jahrzehnt bemerkbar macht, wie die Forscher erklären.
+Im Prinzip heißt dies nichts anderes, als dass ECS und TCR viel näher aneinander liegen könnten als gedacht. Nach 10 Jahren wäre die volle Wärmewirkung erreicht, lautet das Ergebnis der Modellierung. In der Realität sieht es leider anders aus: Seit nunmehr 16 Jahren verharrt die globale Temperatur auf einem Plateauwert, und das obwohl der CO2-Gehalt in der gleichen Zeit munter weiter angestiegen ist. Nach deutlich mehr als 10,1 Jahren hat es das CO2 offenbar immer noch nicht geschafft, die ihm zugeschriebene starke Erwärmungswirkung zu entfalten. Ist das CO2 vielleicht doch nicht so klimatreibend wie gedacht? Oder ist die natürliche Variabilität viel stärker als vom IPCC vorgeschlagen? Fakt ist, dass die angeblich so schnell auf das CO2 reagierende Atmosphäre noch immer voll und ganz durch die natürlichen Prozesse dominiert wird. Weshalb diskutiert Bild der Wissenschaft diese Fragen nicht?
+Angesichts der mageren Temperatursteigerung im 20. Jahrhundert und der fehlenden Erwärmung der letzten 16 Jahre fragen sich die Wissenschaftler, wann wohl genug Daten vorliegen könnten, so dass man die wahre CO2-Klimasensitivität endlich festnageln und genau eingrenzen könnte. Ein Forscherteam um Nathan Urban hat im April 2014 in den Geophysical Research Letters versucht, einen Entscheidungshorizont abzuschätzen. Vermutlich wird es erst 2030 möglich sein, zu erkennen, ob die ECS eher 1,5°C oder 3,0°C beträgt. Im Falle noch höherer ECS-Wert würde dies sogar noch länger dauern. Allerdings sind höhere ECS-Beträge angesichts der neueren Arbeiten eher unwahrscheinlich. Auszug aus der Kurzfassung:
+Wir zeigen, dass eine Klimasensitivität von 1,5°C statistisch unterschieden werden kann von 3°C bis 2030, 3°C von 4,5°C bis 2040 und 4,5°C von 6°C bis 2065. Das Erkennen von Raten ist am langsamsten in den größte Bedenken hervorrufenden Szenarien (hohe Sensitivitäten) infolge einer längeren Zeit der ozeanischen Reaktionen bei der Abwägung zwischen Abwarten und vorsorglicher Abschwächungspolitik.
+Wer sich noch tiefer in das Thema einarbeiten möchte, dem sei der Climate Dialogue aus dem Mai 2014 „Climate Sensitivity and Transient Climate Response“ mit James Annan, John Fasullo und Nic Lewis empfohlen. Eine gute Übersicht zum Thema gibt es auch von Chip Knappenberger, die am 19. März 2012 auf WUWT erschien. Und schließlich greifen auch Frank Bosse und Fritz Vahrenholt in ihrer monatlichen Sonnenkolumne immer wieder das Thema der CO2-Klimasensitiität auf (z.B. hier, hier, hier).
+Link: http://www.kaltesonne.de/studien-aus-2014-geben-hoffnung-erwarmungswirkung-des-co2-wohl-doch-deutlich-uberschatzt-und-muss-nach-unten-korrgiert-werden/
+Dieser Artikel ist zuerst bei „Die Kalte Sonne“ erschienen (siehe Link). Übersetzungen der englischen Passagen durch Chris Frey EIKE
+„Professor Kneer hat nichts falsches gesagt“
+Das hatte ich schon mal geschrieben: Ich habe den Eindruck, Paul weiß eine ganze Menge und nutzt sein Wissen um Verwirrung zu stiften.
+Das Diagramm Kneers zeigt, daß bei einer Verdopplung der CO2-Menge keine Verdopplung der abgestrahlten Leistung eintritt – jedenfalls bei der Menge in der Erdatmosphäre (gegteilig: der Unsinn von Stehlik).
+@ #82: Dr.Paul sagt am Samstag, 14.02.2015, 15:08
+„die bis 2800K reichen.“
+Warum nennt Paul nicht die untere Diagrammgrenze von 400 K, wo die Kurven fast waagerecht verlaufen und auf Atmosphärentemperaturen extrapoliert werden können? Also wie geschrieben: böse Absicht.
+@ #82: Dr.Paul sagt am Samstag, 14.02.2015, 15:08
+„.1) … 2.)“
+Paul tut wieder mal dumm, denn das er nicht lesen kann, ist kaum zu glauben. Shotsky schreibt richtig, daß keine Konvektion stattfindet, weil die Luft unten kälter ist (Oberflächentemperaturen wie ohne Atmosphäre) und deswegen keine Konvektion. Selbst Wärmeleitung ist fast unmöglich, weil ruhende Luft ein ganz schlechter Wärmeleiter ist.
+@ #82: Dr.Paul sagt am Samstag, 14.02.2015, 15:08
+„der „Planet“ darf sich dabei nicht nur NICHT DREHEN“
+Das ist natürlich genau so Unsinn, die Bodenreibung nimmt die Atmosphäre mit. Im Gleichgewicht ist nur dia treibhausgaslose Atmosphäre am Äquator wegen der Fliehkraft etwas dicker – aber alles ruht relativ zur Erdoberfläche.
+@ #82: Dr.Paul sagt am Samstag, 14.02.2015, 15:08
+„mit der kleinen zusätzlichen Schwäche“
+Dieser Satz zeigt eben, warum Paul Unsinn schreibt.
+MfG
+Das macht er ja auch mit Schwarzschild oder Angström 🙂 Er hat also wieder ein neues „Opfer“ gefunden.
+Zunächst befasst sich Kneer weder mit Klima, noch mit der Erdatmosphäre, sondern mit dem Verhalten von Verbrennungsabgasen, das sehen Sie an den Temperaturen in den von Ebel zitierten Diagrammen, die bis 2800K reichen.
+Und gerade Verbrennungsgase haben es an sich, dass sie sehr CO2-reich sind was solche Strahlungs-Berechnungen dann auch erforderlich macht (z.B. PKW-Motor).
+Weiterhin zitiert Herr Kneer darin die bekanntem Emessivitätskurven von CO2 von Hottel und Mitarbeiter,
+die zeigen, dass gerade CO2 alles andere als ein Schwarzkörper ist und als Quelle für eine gewünschte Gegenstrahlung allein wegen der viel zu geringen Emessivität absolut untauglich ist.
+Das ist auch der tiefere Grund warum ich auf die Frage der Emessivität von CO2 oder der genauen Schwindel-Formel für die „Messung“ einer Gegenstrahlung durch einen sog. Pyrgeometer KEINE Antwort erhalte, von all den hier vertretenen Klimaallarmisten.
+zu Ebel #76 und #77,
+ich kann nicht alle seine Kommentare beantworten:
+1) die Wärme fließt immer in Richtung der Konvektion, wohin sonst!!! (am Äquator wird Wärme aufgenommen, an den Polen Wärme abgegeben)
+2) Thieme hat Shotsky mit seinem 3-Planeten-Modell-Übherlegungen zitiert, die im Prinzip bis auf den Konvektionsstillstand richtig sind, da die Abstrahlungskühlung der Gase fehlt.
+Auch Herr Heinzow hat bereits messerscharf erkannt, dass dieser Konvektionsstillstand nur im absoluten Gleichgewicht möglich ist, der „Planet“ darf sich dabei nicht nur NICHT DREHEN, sondern, es darf noch nicht einmal eine Kugel sein (Temperaturdiffrerenz Äquator-Pool),
+sondern eine von mir aus kreisrunde flache Scheibe, die in allen Punkten eine identische Einstrahlung erhält.
+Das ist übrigens, wie ich früher hier x-mal erläutert habe,
+die korrekte physikalische Basis für das übliche Strahlungstreibhausmodell mit den ominösen 33°
+mit der kleinen zusätzlichen Schwäche, dass die Sonne dann nicht so stark strahlen darf (1/4).
+mfG
+Von Physik verstehen Sie nicht allzuviel. Bei Gasen ergibt sich die Dichte aus … ?
+„Der genannte Herr Prof. Dr. Ing. ist mir völlig unbekannt und zudem nicht in meinem Fachgebiet tätig.“
+Also können Sie Prof. Kneer und anderen nicht unterstellen für irgendeinen KLimapunkt zu lügen – also lesen Sie meinen Tip:
+http://tinyurl.com/Feu-Kne S. 38 – 44, besonders Bild 2.32.
+Zur Erläuterung: die Dicke einer Schicht aus reinem CO2, die genau so viel CO2 hat wie die gesamte Atmosphäre, ist bei 1 bar etwa 4,8 m dick. Also zusmmengefaßt etwa 4,8 bar m (das ist äquivalent zu den Dobson-Angaben bei Ozon).
+Und wenn Sie das ordentlich gelesen haben, sollten Sie sich entschuldigen.
+MfG
+„1.) bei einer nichtstrahlenden Atmosphäre gibt es keine Konvektion.
+Lieber Herr Ebel, es ist schon sehr merkwürdig, wie Sie auf diesen Unsinn kommen.“
+In http://tinyurl.com/Tiemer schreibt Thieme viel Unsinn, aber das im „Nachtrag“ sein Planet 3 nach einer Anfangsphase keine Konvektion mehr hat ist richtig:
+„Da aber infolge der Dichteunterschiede die kälteren Atmosphärenschichten stets unten, also an der Planetenoberfläche sind, wärmere Atmosphärenmassen werden unverzüglich in die Höhe abgeführt, kann lediglich die Wärmezufuhr von der Planetenoberfläche in die Atmosphäre stattfinden, es können aber keine nennenswerten Wärmemengen aus der Atmosphäre an die Planetenoberfläche abgeführt werden. Eine solche Atmosphäre heizt sich auf, bis sie etwa die höchste auftretende Oberflächentemperatur des Planeten angenommen hat. Eine weitere Wärmeaufnahme in die Atmosphäre wäre dann wegen des nicht mehr vorhandenen Temperaturgefälles zwischen Planetenoberfläche und Atmosphäre nicht mehr möglich.“
+Oder begreifen Sie das auch nicht?
+MfG
+„b) eine einseitige Wärmezufuhr“
+Und wo ist die winseitige Wärmeabfuhr?
+MfG
+Zitat Ebel: „Bei einer nichtstrahlenden Atmosphäre gibt es keine Konvektion.“
+Wäre die Erde eine Scheibe, hätte er Recht. Aber daß die Erde keine Scheibe ist, kann man mit dem F. Pendel beweisen.
+Man braucht Herrn Ebel kein umfangreiches Konvolut zu schreiben, um seine Aussagen zu widerlegen.
+Er beherrscht sein Fach einfach nicht bzw. hat vor lauter Ideologie nicht gelernt sauber und präzise Problemstellungen und Lösungen zu formulieren.
+Bei der Kanzlerin kann Ähnliches beobachten. Liegt wohl daran, daß in der „DDR“ keine korrekte Wissenschaft betrieben (gelehrt) werden durfte, denn sonst hätte die Elita ja erkennen können, wie unwissenschaftlich und unsinnig der Marxismus im Gewand des „real existierenden Sozialismus“ war. gibt ja immer noch tragische Figuren, die dem Marxismus frönen und jede Wirtschaft an die Wand fahren.
+1.) bei einer nichtstrahlenden Atmosphäre gibt es keine Konvektion.
+Lieber Herr Ebel, es ist schon sehr merkwürdig, wie Sie auf diesen Unsinn kommen. Da Sie so Schwarzschild-fixiert sind, wollen Sie vermutlich sagen, dass es keine Sonne ohne Strahlung gibt.
+Das ist richtig, weil die Sonne nichts anderes ist als eine selbst-gravitierende heiße Plasmakugel.
+Ich hoffe wenigstens dass Ihnen bekannt ist, was Plasma ist. Die untere Erdatmosphäre ist ganz sicher KEIN Plasma.
+Ihre Behauptung ist physikalisch deshalb falsch FALSCH,
+weil es auch ganz ohne Plasma IN JEDEM FLUID und auch ganz ohne Strahlung Konvektion gibt,
+wenn 2 Bedingungen erfüllt sind:
+a) ein Gravitationsfeld
+b) eine einseitige Wärmezufuhr
+Das was in einem Gravitationsfeld die Konvektion auslöst nennt man auch AUFTRIEB, eine gerichtete Kraft im Schwerefeld.
+Ohne diese würden wir an unserer eigenen Ausatmungsluft (CO2) ersticken. Dazu braucht es keine Strahlung, auch nicht für den Auftrieb eines Luftballons.
+Wann dieser Auftrieb und damit die Konvektion genau einsetzt,
+beantwortet die sog. Rayleigh-Zahl Ra(dimensionslos),
+bzw. die kritische Ra.
+http://de.wikipedia.org/wiki/Rayleigh-Zahl
+Sie werden darin genauso wenig „Strahlung“ wiederfinden, wie Sie auch in der Formel des adiabatischen Höhengradient der Atmosphäre keine Konvektion finden.
+In beiden finden Sie allerdings die Erdbeschleunigung g (9,81 m/s²)
+weiterhin ist in der Rayleigh-Zahl u.a.
+der Wärmeausdehnungskoeffizient und
+die kinematische Viskosität enthalten.
+Gas dehnt sich durch Erwärmung sehr stark aus (=Auftrieb) und hat eine sehr geringe Viskosität,
+also kaum einen Widerstand gegen Bewegung.
+Deshalb reichen schon unmessbar kleine Temperaturdifferenzen, um Konvektion auszulösen.
+Zu ihrer merkwürdigen Frage 2)
+Ja SELBSTVERSTÄNDLICH ist Konvektion Wärmetransport und zwar ein sehr effektiver, wesentlich effektiver als Wärmeleitung, sonst gäbe es auch auf der Sonne keine Konvektion, das Schwarzschild-Kriterium.
+Auch bei einem Haarföhn können Sie die Effektivität des Wärmetransportes durch Konvektion ganz ohne Strahlung wahrnehmen.
+Nur kommt jetzt leider Ihr bekanntes Verständnisproblem, dass Sie zwischen Temperatur, einer intensiven Größe und Wärme, einer extensiven Größe, nicht unterscheiden können,
+weil sich beim Aufstieg der Luft diese ausdehnt, was man auch Volumenarbeit nennt und dabei ohne Energie zu verlieren, kälter wird.
+Ohne diese Konvektion wäre es jedoch an der oberen Troposphärengrenze noch deutlich kälter,
+leicht auszurechnen mit 1°Celsius/100m ganz ohne Konvektion.
+Ich wiederhole noch einmal,
+dieser konvektive mächtige Energietransport der Erdatmosphäre kühlt also die Erdoberfläche bei Sonneneneinstrahlung, so dass sie am Tag nicht so heiß werden kann wie der Mond ohne Atmosphäre.
+Da, wo die Sonne am meisten scheint, kommt es deshalb immer zu einem deutlichen Strahlungsdefizit zum Weltraum gegenüber der Sonneneinstrahlung, das in der Erdatmosphäre gefangen ist.
+Und nun kommt noch die mächtige horizontale Konvektion hinzu, von warm nach kalt, die diesen „Wärmeüberschuss“ polwärts transportiert, wo es über 50°C kälter wäre ohne diese konvektive Wärmezufuhr,
+und hier haben wir dann zum Weltraum den entsprechenden Abstrahlungsüberschuss, der genau das äquatoriale Defizit ausgleicht.
+Alles nicht gasförmige in der Atmosphäre führt ZUSÄTZLICH zur Abkühlung auf der Erdoberfläche.
+Das befielt nun wirklich der erste und zweite HS der Thermodynamik, weil die ursprüngliche Wärmequelle die außerhalb liegende Sonne ist und bleibt.
+Wolken, oder ein Vulkanausbruch führen also nicht zu einem „Treibhauseffekt“ sondern zu einer Abkühlung auf der Erdoberfläche, weil die Sonnenstrahlen unten nicht mehr ankommen.
+MfG
+Es ging um Ihre vollmundige Behauptung:
+„Meine Aussagen sind alle gesichert und damit nicht zu widerlegen.“
+Soso! Naja, hier ist noch so ein „Schreibfehler“:
+„Ohne Konvektion wäre der Temperaturgradient erheblich größer und wird durch die Konvektion auf den adiabatischen Wert reduziert.“
+Ob Sie den „Schreibfehler“ entdecken?
+Noch ein Tip: Bevor Sie anderen vorwerfen, sie würden von Physik nix verstehen müssen Sie erst mal Ihre „Schreibfehler“ eliminieren. Es soll ja Leute geben, die sehen die sofort. Und denken Sie dran: „Schreibfehler“ ist ungleich Tippfehler.
+„Konvektion der nicht strahlenden Erdatmosphäre führt zur Kühlung der Erdoberfläche bei Sonneneinstrahlung“
+Gleich 2 mal falsch:
+1.) bei einer nichtstrahlenden Atmosphäre gibt es keine Konvektion
+2.) Wenn es Konvektion gäbe, wo bliebe die transportierte Wärme? (Paul: Konvektion ist immer mit Wärmetransport verbunden)
+MfG
+„Die Menge der Treibhausgase in der Stratosphäre spielt nach Überschreiten einer Mindestmenge fast keine Rolle mehr, denn der Temperaturgradient ist durch die Feuchtekonvektion bestimmt.“
+Kleiner Schreibfehler in #9: (Ebel sagt am Freitag, 06.02.2015, 10:17,) gemeint war die Troposphäre. Geht auch schon aus Punkt 3. hervor
+(„3.) Oberhalb der Troposphäre ist die Stratosphäre,“). Also:
+„Die Menge der Treibhausgase in der Troposphäre spielt nach Überschreiten einer Mindestmenge fast keine Rolle mehr, denn der Temperaturgradient ist durch die Feuchtekonvektion bestimmt.“)
+@ #68: T.Heinzow sagt am Dienstag, 10.02.2015, 16:43
+„Jo, Konvektion in der Stratosphäre. Ich lach mich schlapp.“
+Eie Restkonvektion ist – allerdigs ist der Zyklus in der Troposphäre Tage, in der Stratosphäre Monate.
+Einmal lachen Sie sich über diesen Unterschied schlapp, aber die Nichtnennung eines erheblich größeren Unterschiedes kritisieren Sie:
+@ #68: T.Heinzow sagt am Dienstag, 10.02.2015, 16:43
+„Und was ist mit der Erdwärme?“
+MfG
+Leute wie Sie tragen eine Mitschuld am Untergang Deutschlands. Schade, dass man diese Leute nicht zur Rechenschaft ziehen kann. Na ja, wer weiss ……
+“ Nehmen wir die hier: „die Erde muß ins Weltall genau so viel Energie abstrahlen, wie sie an Solarstrahlung absorbiert.“
+Und was ist mit der Erdwärme? “
+siehe auch Gerlich/Teuschner:
+Verhältnis von radiativen Ungleichgewicht zur Erdmasse.
+Die Erde muß nur eines:
+Abstrahlen, was ihrer Temperatur entspricht.
+MfG
+„Meine Aussagen sind alle gesichert …“ behaupten Sie. Allein der Beweis fehlt.
+Nehmen wir die hier: „die Erde muß ins Weltall genau so viel Energie abstrahlen, wie sie an Solarstrahlung absorbiert.“
+Und was ist mit der Erdwärme?
+Oder die hier:
+„Die Menge der Treibhausgase in der Stratosphäre spielt nach Überschreiten einer Mindestmenge fast keine Rolle mehr, denn der Temperaturgradient ist durch die Feuchtekonvektion bestimmt.“
+Jo, Konvektion in der Stratosphäre. Ich lach mich schlapp.
+Ach so:
+q.e.d.
+Auch mit dem Physikmodell einer solchen Behauptung klappt das leider nicht,
+siehe #48,
+haben Sie vermutlich überlesen,
+kann ja mal passieren.
+Merke:
+Konvektion der nicht strahlenden Erdatmosphäre führt zur Kühlung der Erdoberfläche bei Sonneneinstrahlung
+und verhindert das von den AGW-Ideologen phantasierte „Strahlungsgleichgewicht“.
+Das läge etwa bei 130°C (Mond).
+Diese Kühlung ist also WESENTLICH!
+Ist wahrscheinlich zu schwierig für Sie zu verstehen,
+obwohl sie das doch als Heizungsingeniör gelernt haben müssten.
+Nun ja vielleicht wieder vergessen.
+Also, was genau meinen Sie denn bewiesen zu haben?
+mfG
+„Unbewiesenen Aussagen braucht man nicht zu widerlegen, Herr Ebel.“
+Meine Aussagen sind alle gesichert und damit nicht zu widerlegen. Als hilflose Ausrede behaupten Sie, die Aussagen wären unbewiesen.
+MfG
+auch wenn es unser unbelehrbare Herr E. sicher verdient hat.
+Die Frage der Unehrlichkeit, oder auch der vorsätzlichen Meinungskontrolle hat nichts mit politisch rechts oder links zu tun
+und führt damit eher auf Nebenschauplätze,
+die vom Klimaschwindel nur ablenken.
+Auch ein Nebenschauplatz, schon Geschichte:
+In Lybien unter Gadafi war der Strom kostenlos.
+Das hat wohl einige so arg gestört, dass sie Bomben werfen mussten 🙂
+mfG
+mfG
+„Fast alle Armut auf der Welt ist dem verfluchten Marxismus geschuldet.“
+Jedenfalls da, wo die Industrialisierung Einzug gehalten hat. Anderswo ist es der Feudalismus gepaart mit sog. „Religiosität“ (auch wieder feudalistisch, kastenmäßig), die den Fortschritt verbietet.
+Und da die sog. Umweltschützer – es gibt auch echte! – dem Marxismus = Gutmenschentum = Faschismus (siehe K. Schumacher) der marxistischen Religion angehören, verursachen die Armut, z.B. mit Hilfe der Windmühlen. Und wie in der „DDR“ üblich, gibt es dann ein paar reiche Funktionäre, die abgeschottet in einem Ghetto leben. Wo lebten Honecker & Co noch? Herr Ebel wird es wissen.
+An einen ungebildeten Menschen. Der Hochmut ist das wichtigste Element des Marxismus. Die christliche Ideologie flieht doch genau davor, in die Demut. So ist diese definiert. Sie warnt ja geradezu davor. Und wird deshalb von vielen gehaßt. Ist doch logisch, Ebel(chen).
+Wer ständig fällt, ist der Marxismus und seine Varianten. DDR, Venezuela, Cuba, Nordkorea, Sowjet-Union, Portugal, Ostblock, Algerien, und viele andere. Selbst hier lügen Sie weiter. Fast alle Armut auf der Welt ist dem verfluchten Marxismus geschuldet. Sie stellen den faulen über den fleißigen Menschen und (!) der faule und dumme und hochmütige Marxist soll die Welt kommandieren? :)) Niemals. Nur über meine Leiche.
+Mit nicht marxistischen Grüßen
+„Keine Aussgen widerlegen können, …“
+Unbewiesenen Aussagen braucht man nicht zu widerlegen, Herr Ebel.
+„Herr Ebel, dafür erhalten Sie wieder eine besondere Ihnen eigene Auszeichnung.“
+Keine Aussgen widerlegen können, aber versuchen sich aufs hohe Roß zu setzen. Ganz schön frecher Hochmut – und das bei ständigem Fall.
+MfG
+„Accepted on: January 25, 2015“
+Über das Paper von jemanden, der den II. HS der Thermodynamik anzweifelt, obwohl der sich 170 Jahre bewährt und immer richtige Aussagen geliefert hat, und weitere Späße macht, kann man nur schmunzeln.
+Eine Büttenrede bleibt eine Büttenrede – auch wenn sie ganz neu ist.
+MfG
+Kümmern Sie sich mal lieber um die Meßergebnisse, die Ihre Brut, unter den Teppich kehren will, weil diese den zuvor anvisierten Ergebnissen nicht genügen kann, und daher der Betrug zu leicht auffliegen würde. Ein Wink mit dem Zaunpfahl, zu früher. Sie liegen abgeschlagen, weit zurück, Feind(chen).
+So funktioniert echte Wissensgenerierung nicht.
+Der verehrte Herr Werner Holtz, er möge mir verzeihen, führt immer noch.
+P.S.: Zitat:
+„4.Welche Widersprüche gibt es?
+Keine – Sie können ja mal suchen.“
+Herr Ebel, dafür erhalten Sie wieder eine besondere Ihnen eigene Auszeichnung. Goethe wäre von Ihnen begeistert.
+Irgendwie passen Sie ja zueinander. Der Wegbereiter der modernen (!!!!) Astrophysik und Sie, als Anhänger des marxistischen Opium rauchenden Schamanismus. Die Moderne hat sich die Erfindung aller wichtigen Dinge auf die Fahnen geschrieben, Ebelchen. Aus Hochmut. Kann aber natürlich deren Versprechen niemals einlösen. Genau wie Sie, Feind(chen). Sie sind erledigt.
+am Sonntag, 08.02.2015, 14:19
+@#39: Günter Heß schrieb „… dass [Ebel] fachlich fundiert argumentier[t] …“
+– ptep-online.com/index_files/2015/PP-41-04.PDF
+Das ist fachlich fundiert, und nicht aus SchlauMichWeiss Büchlein abgetippt und auf den Zeigefinger eingeredet.
+[Sarcasm on]
+Und vor allem kritisch begutachtet.
+[Sarcasm off]
+Schauen Sie mal ans Ende des Artikels:
+Submitted on: January 24, 2015 / Accepted on: January 25, 2015
+First published online on: January 28, 2015
+Plank mit Plank widerlegen, das ist Ebelwerk, aber er findet keine fehlende Messungen und unbelegte Behauptungen.
+Sie haben Ihre Gegenschrift zum Paper schon eingereicht? Ich bin sicher die Foristen sind schon alle sehr gespannt auf Ihre Veröffentlichung.
+EOD, kein Trollfutter mehr.
+„PP-41-04.PDF
+Das ist fachlich fundiert, und nicht aus SchlauMichWeiss Büchlein abgetippt und auf den Zeigefinger eingeredet.“
+Ob das fachlich fundiert ist können Sie beurteilen. War aber ganz lustig das zu lesen. Da will jemand mit Planck, Planck widerlegen. Ich empfehle mal Willy Wien „Temperatur und Entropie der Wärmestrahlung“ zu lesen.
+Noch ein Tip: Hohlraumstrahlung gehört mit zu den bestens untersuchten Zusammenhängen.
+MfG
+„Der Nebensatz von Schwarzschild reicht leider nicht aus, die physikalische Bedeutung des Wortes adiabatisch in Ihrem gewünschten Sinne zu verändern.“
+Es hindert Sie keiner, das ganze Paper zu lesen.
+@ #51: Werner Holtz sagt am Montag, 09.02.2015, 01:22
+„Aber versuchen Sie es selbst, und stellen Sie das Extrakt der Veröffentlichung hier ins Forum.“
+Wenn Sie die wenigen Seiten nicht selbst lesen können, zeigen Sie, daß Sie keine Ahnung von Physik haben. Aber spaßeshalber beantworte ich Ihre Fragen:
+1.Was hat Schwarzschild wirklich betrachtet?
+Unter welchen Bedingungen ein Gas ein Strahlungsgleichgewicht hat und unter welchen Bedingungen ein näherungsweise adiabatisches Gleichgewicht – mit spezieller Anwendung dieser Erkenntnisse auf die Sonnenatmosphäre.
+2.Welche Voraussetzungen hat er dabei getroffen?
+Das die Gasgesetze gelten und das das Gas emittieren und absorbieren kann.
+3.Welche Schlussfolgerungen und Aussagen hat er getätigt?
+Schwarzschild-Kriterium
+4.Welche Widersprüche gibt es?
+Keine – Sie können ja mal suchen.
+MfG
+„#38: Lieber Herr Ebel,…
+So dumm können Sie doch gar nicht sein.“
+Hmmmmmmmmmmmmmmmmmmmmmm….
+„Na dann lesen doch mal Schwarzschilds Paper.“
+Habe ich doch. Ist zwar schon Jahre her, aber das was Sie daraus lesen wollen, steht da nicht drin. Einbildung ist auch eine Art von Bildung.
+Aber versuchen Sie es selbst, und stellen Sie das Extrakt der Veröffentlichung hier ins Forum. Diese Fragen sollten Sie sich dabei selbst stellen und beantworten.
+1.Was hat Schwarzschild wirklich betrachtet?
+2.Welche Voraussetzungen hat er dabei getroffen?
+3.Welche Schlussfolgerungen und Aussagen hat er getätigt?
+4.Welche Widersprüche gibt es?
+Mfg
+Werner Holtz
+Dann, der sehr geehrte Herr Werner Holtz (#44). Es kommt ganz entscheidend auf das kluge Fragen an, Herr Ebel. Gute Fragen sind sehr oft wichtiger als [..] Antworten. Die Fragen dürfen auch sehr gut sein. 😉
+Wenn Sie Latein nicht mögen oder nicht verstehen, Popper hat im Jahr 1960 (vermutlich dt. Übersetz.) einen Text publiziert, mit dem Titel: Erkenntnis ohne Autorität. Für Sie heisst das, Pflichtlektüre. Lesen und verstehen müssen. Sonst haben Sie als Troll niemals eine echte Chance. Nicht einmal als Troll. Und ein Herr Günter Heß kann Ihnen da auch nicht helfen. Der bräuchte selbst welche.
+EeeeEEEEEeeeeeebel(chen). Der Text ist logisch (!) aufgebaut. 😉 & :))
+Die Logik war die Königsdisziplin (auch an unseren Unis) bis das rot-grüne Virus auftauchen wollte. Rauchen Sie daher nicht soviel Opium.
+Mit nicht marxistischen Grüßen
+P.S.: Wenn Sie am Abgrund stehen, und „eine[r] der größten Physiker“ sagt zu Ihnen, spring, dann tun Sie was? Autoritätshörig? Den Sturz überlebt ein Marxist niemals. Auch sind Ihre marxistischen Versuche der Immunisierung schwach.
+Und Ebel(chen). Die Logik ist immer (!) noch die Königsdisziplin. Natürlich. Nur angewendet wird diese immer weniger. Leider. Die Logik selbst ist daran aber unschuldig. Das könnten Sie wissen, wenn Sie gewollt hätten. Was die echten Experten von EIKE, die Gegner der AGWler, mit zwei Fingern und der Muttermilch begierig aufsogen, müssen Sie sich anlesen. Sie könnten, aber Sie wollen nicht. Das ist nicht gut und nicht intelligent. Das ist marxistisch. Sie sind schlimm.
+Der weniger gut informierte Leser steht nicht unter Ihrem Einfluß. 🙂 Sie haben keinerlei Achtung und Respekt vor diesem. Wer viel weiß, verdient eine ganz andere Strafe, als derjenige, der weniger wissen tut. So steht es geschrieben, Sie freiheitsberaubender Marxist der gescheiterten Immunologie.
+„Jeder blamiert sich so gut er kann.“
+Der Meister der Blamage hat gesprochen.
+Und wie das so in der Physik ist, jedenfalls bei Gasen, gehört zum Druck noch die Temperatur, sonst wird das nix. Und dann muß man das noch alles sauber formulieren können, was Sie, wie hier ausführlich dank Ihrer tätigen Mithilfe bewiesen, nicht können.
+zu #45
+„Gerade deswegen habe ich ja auf ein Paper verlinkt,“
+Und Sie meinen ernsthaft, daß unsereins sich sowas anschaut, nur weil Sie nicht in der Lage sind Inhalte und Aussagen korrekt wiederzugeben und zu formulieren?
+Irgendwie haben Physiker Probleme mit der sauberen Formulierung. Da kommt es offenbar sehr häufig vor, daß die Realität mit dem Modell verwechselt wird und umgekehrt.
+Sowas ist natürlich Quatsch: „… wenn sie von auf- und absteigenden Strömungen gründlich durchmischt ist.“
+Das ist so ähnlich wie die Typen vom IPCC mit Hilfe variabler linearer Regression eine Beschleunigung nachweisen wollten.
+Nun dürfen Sie darüber nachdenken, was denn an der Aussage Ihres „Übermenschen“ falsch wird.
+wenn Sie hier:
+„Stefan, Boltzmann, Planck, Schwarzschild, Einstein usw.“
+für Ihrer Verballhornung eines „adiabatischen Gradient“ bemühen wollen.
+Der Nebensatz von Schwarzschild reicht leider nicht aus, die physikalische Bedeutung des Wortes adiabatisch in Ihrem gewünschten Sinne zu verändern.
+Dazu reicht schon Wikipedia.
+Ich sage es gerne ein weiteres mal,
+auch für jeden physikalischen Laien verständlich:
+„adiabatisch“ heißt OHNE Wärmetransport.
+Und Konvektion IST Wärmetransport.
+Vielleicht fällt es ihnen ja leichter, wenn Sie berücksichtigen,
+dass ein Gradient keine VERÄNDERUNG ist, sondern eine (Gleichgewichts-)ZUSTAND.
+Für einen „Gradient“ muss sich also gar nichts bewegen, bis auf die Braunsche Molekularbewegung, denn ohne sie kann man überhaupt nicht von einer „Temperatur“ reden.
+Ich versichere Ihnen, auch in ganz ruhiger Luft existiert diese Braunsche Molekularbewegung.
+Noch witziger ist ja Ihre Behauptung,
+dass dieser Wärmetransport die URSACHE für den adiabatischen Gradient sein soll.
+Das heist wirklich nichts anderes lieber Herr Ebel, als dass Sie mit Wärmetransport KÜHLEN wollen. Denn ohne die Wärme von unten müsste es nach Ihrer Vorstellung oben nicht kälter, sondern wärmer sein ! ! !
+Wärme kühlt also?
+So dumm können Sie doch gar nicht sein.
+Es muss da also eine ganz andere Ursache existieren.
+Welche das ist, werde ich Ihnen diesmal nicht verraten, mal sehen ob Sie oder der sehr verehrte Herr Hess dieses Geheimnis lüften können.
+Es ist hier schon oft genug zitiert worden,
+wie auch die exakte physikalische Formel dieses adiabatischen Gradienten für die Erdatmosphäre, die garantiert nicht von mir persönlich stammt,
+großes Ehrenwort.
+In der Formel steckt auch die Antwort auf meine Frage an Sie und den sehr verehrten Herrn Hess.
+Noch ein Tipp,
+Konvektion kommt darin überhaupt nicht vor.
+mfG
+„Was hat Schwarzschild wirklich betrachtet?“
+Na dann lesen doch mal Schwarzschilds Paper.
+MfG
+„Jetzt gibt es nach Ebel sogar eine CO2-Schicht in der Atmosphäre. Und deren Schichtdicke mißt man nach Ebel in bar m.“
+Jeder blamiert sich so gut er kann.
+Die Ozon-Schicht wird in Dobsoneinheiten (DU) angegeben.
+1DU = 0,01 bar mm oder eine reine Schicht von Ozon von 1 mm bei einem Druck von 1 bar.
+Dementsprechend hat die Zusammenfassung der gesamten CO2-Menge in einer reinen CO2-Schicht bei 1 bar eine Dicke von 4,8 m.
+MfG
+„Lieber Herr Ebel, die meisten Leser hier merken, dass sie fachlich fundiert argumentieren und werden ihre Erklärungen wertschätzen.“
+Danke Herr Heß für die unterstützenden Worte.
+Verblüfft war ich, wie schnell Heinzow bestätigt hat, das er einen der größten Physiker als Stümper ansieht:
+#40: T.Heinzow sagt am Sonntag, 08.02.2015, 12:17
+„Und daß das da oben Unsinn ist, sollten Sie als Physiker eigentlich wissen:“
+Heinzow sollte mal das ganze Paper lesen (falls er dazu imstande ist), damit er nicht weiter versucht einen der größten Physiker als Stümper vorzuführen.
+@ #41: T.Heinzow sagt am Sonntag, 08.02.2015, 12:29
+„Der genannte Herr Prof. Dr. Ing. ist mir völlig unbekannt und zudem nicht in meinem Fachgebiet tätig.“
+Damit bestätigen Sie, mit Scheuklappen rumzulaufen und nur Dinge sehen zu wollen, die in Ihre Unsinnsphysik paßt. Gerade deswegen habe ich ja auf ein Paper verlinkt, daß Sie Ihren Horizont etwas erweitern können und nicht weiter Unsinn von sich geben.
+MfG
+„die meisten Leser hiermerken, dass sie fachlich fundiert argumentieren und werden ihre Erklärungen wertschätzen.“
+Klasse Witz! – Oder war das sarkastisch gemeint?
+Herr Ebel konnte/hat noch nie etwas „fachlich fundiert“ erklärt. Vieles ist nur inhaltsloses Gelaber, weil er es selbst nicht verstanden hat.
+Zum Beispiel: Was hat Schwarzschild wirklich betrachtet? Welche Voraussetzungen hat er dabei getroffen? Welche Schlussfolgerungen und Aussagen hat er getätigt?
+Mfg
+Werner Holtz
+„Zur Erläuterung: die Dicke der CO2-Schicht der Atmosphäre ist etwa 4,8 bar m.“
+Jetzt gibt es nach Ebel sogar eine CO2-Schicht in der Atmosphäre. Und deren Schichtdicke mißt man nach Ebel in bar m.
+Kein Wunder, daß der Arbeiter- und Bauernstaat auf dem Schrottplatz der Geschichte landete.
+– ptep-online.com/index_files/2015/PP-41-04.PDF
+Das ist fachlich fundiert, und nicht aus SchlauMichWeiss Büchlein abgetippt und auf den Zeigefinger eingeredet.
+Deutungsdrang angesichts fehlender Messung und unbelegter Behauptungen, manchmal leicht / manchmal schwer zu ermitteln. Da hilft nur noch argumentum ad verecundiam …
+„Und merken dabei nicht mal, daß sie damit andere Fachleute beleidigen – im speziellen Fall Prof. Reinhold Kneer von der RWTH Aachen.“
+Jetzt kommt die Troll-Nummer mit der Beleidigung. Der genannte Herr Prof. Dr. Ing. ist mir völlig unbekannt und zudem nicht in meinem Fachgebiet tätig. Das schließt jegliche Beleidigung aus bereits im Vorfeld aus.
+Aber mit der Logik haben Sie ja schon immer Probleme gehabt, sonst würden Sie nicht bei der SED-Nachfolgepartei sein.
+„meine fachlich richtigen Aussagen“
+Jaja, der „Glaube“ an die marxistische Unfehlbarkeit. In der „Politischen Ökonomie des Sozialismus“ sind Sie tatsächlich vom Fach, aber was heißt das schon nbei dem Unfug, der in besagtem „DDR“-Lehrbuch drinsteht?
+„„Im Vordergrunde der Betrachtung stand bisher allgemein das sog. adiabatische Gleichgewicht, wie es in unsrer Atmosphäre herrscht, wenn sie von auf- und absteigenden Strömungen gründlich durchmischt ist.“
+Und daß das da oben Unsinn ist, sollten Sie als Physiker eigentlich wissen:
+Die Atmosphäre ist nie im Gleichgewicht.
+die meisten Leser hiermerken, dass sie fachlich fundiert argumentieren und werden ihre Erklärungen wertschätzen.
+Da brauchen sie sich nicht immer zu rechtfertigen. Erklären sie lieber weiterhin die Physik statt sich mit Parkwächtern, Flächentheoretikern und Transmissionsverwechselern auseinanderzusetzen.
+Grüße
+Günter Heß
+„2) versuchen Sie den Begriff adiabatischer Gradient in einem Schwerefeld zu verstehen.“
+Nicht nur Heinzow „beweist“, daß hervorragende Fachleute (Kneer, Schack usw.) nur Stümper sind, sondern auch Paul „beweist“, daß hervorragende Physiker (Stefan, Boltzmann, Planck, Schwarzschild, Einstein usw.) im Vergleich zu ihm (Paul) nur Stümper sind.
+Schreibt doch der Stümper Karl Schwarzschild 1906 [ http://tinyurl.com/schwara – S. 41 (Adobe: 2)]:
+„Im Vordergrunde der Betrachtung stand bisher allgemein das sog. adiabatische Gleichgewicht, wie es in unsrer Atmosphäre herrscht, wenn sie von auf- und absteigenden Strömungen gründlich durchmischt ist.“
+Mit unserer Atmosphäre ist die Erdatmosphäre gemeint.
+MfG
+„Und zum Glauben gehen Sie bitte in die Kirche …“
+Ich habe öfter mit verschiedenen Personen zu tun. Fachleute beurteilen mich nach meinen Fähigkeiten, andere schreiben Unsinn.
+Personen, die fachlich unterbelichtet sind (u.a. Paul, Heinzow) versuchen meine fachlich richtigen Aussagen durch Ablenkung mit unqualifizierte persönlichen Angriffen zu diskreditieren. Und merken dabei nicht mal, daß sie damit andere Fachleute beleidigen – im speziellen Fall Prof. Reinhold Kneer von der RWTH Aachen. Außerdem müßte auch schon Schack (1924), Nußelt (1924) usw. aus der DDR stammen.
+Also Unsinn auf der ganzen Linie, weil fachlich unterbelichtet.
+MfG
+„Ich glaube, Sie haben trotz Erklärung noch nicht verstanden, welche Widersprüche zur Physik Rösicke macht.“
+Welche Erklärung? Und zum Glauben gehen Sie bitte in die Kirche, wie ich es einer reduziert gebildeten Frau aus der SED-Nachfolgepartei gestern empfahl.
+„Wenn Ihnen die Wellenlängenabhängigkeit der Intensität noch nicht bekannt ist, …“
+Wenn ist ein sehr schwierig zu gebrauchendes Wort. Auch das mit unabhängigen und abhängigen Variablen müssen Sie auch noch fleißig üben. Kompliziert wird es, wenn es zwei oder mehr unabhängige Variablen gibt. Da sind Sie wohl bei der Formulierung des Problems und dessen Lösung überfordert.
+„Das fängt bereits dabei an die Hypothese von Herrn Roesicke verstehen zu wollen.“
+Vielleicht verstehen Sie, daß Rösicke Unsinn redet, wenn Sie sich die Vorlesung der Uni Aachen ansehen:
+http://tinyurl.com/Feu-Kne S. 38 – 44, besonders Bild 2.32.
+Zur Erläuterung: die Dicke der CO2-Schicht der Atmosphäre ist etwa 4,8 bar m.
+Und diese Ausführungen sind keine Ausführungen des IPCC.
+MfG
+„Sie produzieren ‚am laufenden Band‘ Nullsätze.“
+Wenn Ihnen die Wellenlängenabhängigkeit der Intensität noch nicht bekannt ist, sollten Sie sich mal die Intensitätspektren anschauen, die mit Satelliten gemessen wurden – finden Sie z.B. bei Ermecke.
+MfG
+Da Paul lernresistent ist, ist es Perlen vor die Säue werden, auf seinen Unsinn zu reagieren.
+MfG
+„Neue … Nullsatzhitparade:“
+Ich glaube, Sie haben trotz Erklärung noch nicht verstanden, welche Widersprüche zur Physik Rösicke macht.
+MfG
+„Wir gehen doch bisher alle aus von A=E?“
+Ja, aber nur lokal, also A(x) = E(x), und A (=E) ist ortsabhängig. Aus den Bedingungen a) lokales thermodynamisches Gleichgewicht in der Atmosphäre und der Erdoberfläche (daraus folgt A=E lokal) und b) stationären (d.h zeitlich konstante) Wärmeleistungsflüsse (insbesondere also, daß ins Weltall genau so viel Energie pro Zeiteinheit abgegeben wird wie vom der Erde Sonnenenergie aufgenommen wird), daß eine Atmosphäre, die absorbierendes Gas enthält, eine höhere Temperatur am Erdboden hat, als eine Atmosphäre ohne absorbierende Gase.
+„Die Diskussion mit Rösicke geht schon einige Jahre, ohne das er die Physik begreift.“
+Auch wieder ein Nullsatz aus der Verzweiflung heraus eine Behauptung oder Modellvorstellung mangels Fähigkeit nicht falsifizieren zu können.
+Das fängt bereits dabei an die Hypothese von Herrn Roesicke verstehen zu wollen.
+Stellen wir uns mal ganz dumm und fragen, wie das mit der Abstrahlfläche eines Volumens so nach Roesicke ist. Berechnen Sie die mal für 100000 CO2-Moleküle und danach für 200000.
+Wie ist das mit der die Windgeschwindigkeit reduzierenden effektiven Stirnfläche einer Windmühlenansammlung? Dazu das Bild hier:
+http://tinyurl.com/q7zt6n9
+Und jetzt mal die Physik anwenden. Reduktion einer Volumeneinheit auf eine Flächeneinheit.
+„Wichtig für den Treibhauseffekt ist jedoch die Tatsache, daß sich die Wärmestromverteilung mit der Wellenlänge ändert.“
+Das muß man Ihnen lassen, Sie sind ein würdiger Nachfolger von Rudi Carell, denn Sie produzieren ‚am laufenden Band‘ Nullsätze.
+Ebel:
+Wichtig für den Treibhauseffekt ist jedoch die Tatsache, daß sich die Wärmestromverteilung mit der Wellenlänge ändert.
+Kommentar:
+„Wärmestrom“ ist an Masse gebunden und folgt dem 2.HS, von warm nach kalt.
+Strahlung ist lichtschneller Energietransport, den man nicht mit echtem Wärmetransport verwechseln sollte.
+Deshalb ist das folgende natürlich falsch:
+Ebel:
+In den absorbierenden Wellenlängenbereichen ist der Wärmestrom reduziert wegen der Behinderung der Wärmeausbreitung durch Absorption, „dafür“ muß in den nicht absorbierenden Wellenlängenbereichen der Wärmestrom erhöht sein.
+„..“ von mir zugefügt
+FALSCH! Herr Ebel.
+warum:
+Absorption (ohne Emission in der Troposphäre) bedeutet Umwandlung in Wärme, die den „Wärmestrom“ der Atmosphäre (=Auftrieb) nicht verschlechtert sondern verbessert.
+Die Strahlenquelle (Erdoberfläche) richtet sich mit ihrer Strahlungsintensität AUSSCHLIEßLICH nach ihrer (variablen) Temperatur,
+abgesehen von der Materialkonstanten, der Emessivität.
+Die korrekte physikalische Frage muss also lauten:
+Ob und ggf. wie
+die CO2-Absorption in der Atmosphäre diese Bodentemperatur beeinflussen kann.
+Dabei darf zunächst ausgeblendet werden, ob man diesen 0,04% CO2 – Anteil als Verstärkung des Wärmeflusses überhaupt messen könnte,
+Gerlich sagt nein (die Erde ist kein Hochofen).
+Antwort:
+Durch die CO2-Absorption kann der Wärmefluss, um bei dem Wort von Ebel zu bleiben, also nur erhöht und nicht erniedrigt werden.
+Was bedeutet das?
+Wärmefluss der Atmosphäre von der Erde weg kann nur einen Effekt haben
+und der heißt KÜHLUNG.
+Das sieht man sehr schön am Beispiel der Mondtagseite.
+Denn dem Mond fehlt diese Kühlung,
+er wird daher wesentlich heißer als die Erde ca.130°C
+Merke, ein materieller „Wärmefluss“ verursacht eine wesentlich stärkere Kühlung (Energieabgabe) der Wärmequelle als eine „Wärmestrahlung“.
+Es ist daher wirklich ein Zumutung von einem seriösen Physiker, das Gegenteil zu behaupten.
+Ein Astronaut im Weltraum in seinem Schutzanzug wird daher seine von im selbst KONTINUIERLICH erzeugte Körperwärme nicht los, er muss künstlich gekühlt werden, was übrigens mit Wasser gemacht wird.
+Ein CO2-Treibhaus-Effekt ist also nur durch mehrfache Vergewaltigung von Physik möglich, was Ebel hier leider permanent versucht,
+siehe seinen „adiabatischen“ Gradient.
+Der größte Fehler der Treibhauskünstler
+ist daher die weitgehende Beschränkung dieser Modellbauer auf den Strahlungsanteil der Energieabgabe der Erdoberfläche.
+Die wesentlich größere materielle Wärmeabgabe durch Konvektion einschl. des „latenten“ Wärmetransportes durch Wasserdampf wird sofort offensichtlich,
+wenn man die Erde mit dem Mond ohne Atmosphäre vergleicht.
+GLEICHZEITIG ist die Atmosphäre als Ganzes gerade deshalb ein erwärmender Energiespeicher,
+weil er WESENTLICH SCHLECHTER als diese Erdoberfläche Energie ABSTRAHLEN kann.
+Das wirkt sich nachts aus und erhöht die errechnete DURCHSCHNITTSTEMPERATUR.
+mfG
+Gruß Roesicke
+„daß in beiden Fällen der Wärmestrom ins Weltall der gleiche sein muß (bei gleicher Wärmeaufnahme durch Sonneneinstrahlung). Ist also physikalisch trivial mit ohne ohne Lehrbuch.“
+Das ist richtig für den Gesamtwärmestrom über alle Wellenlängen. Wichtig für den Treibhauseffekt ist jedoch die Tatsache, daß sich die Wärmestromverteilung mit der Wellenlänge ändert. In den absorbierenden Wellenlängenbereichen ist der Wärmestrom reduziert wegen der Behinderung der Wärmeausbreitung durch Absorption, dafür muß in den nicht absorbierenden Wellenlängenbereichen der Wärmestrom erhöht sein.
+Die Temperatur des Abstrahlungsbereiches ist von der Größe des abgestrahlten Wärmestroms abhängig. Im nichtabsorbierenden Bereich ist der Abstrahlungsbereich in den Weltraum die Erdoberfläche, deshalb ist die Temperatur der Erdoberfläche hoch. Im absorbierenden Bereich erfolgt die Abstrahlung in den Weltraum aus größeren Höhen. Wegen des verringerten Wärmestroms ist dort die Temperatur niedrig.
+MfG
+Neue sozialistische Nullsatzhitparade:
+Vorschlag Nr. 2:
+„Ohne genaue Erläuterung seiner Fehlschlüsse werden oft seine Fehlschlüsse nicht erkannt.“
+Autor: J. Ebel
+Sozialistisches Wirtschaftswachstum:
+Honecker: Wir haben eine florierende Autoindustrie mit einer Wachstumsrate von 100%. im 1. Jahr baute man einen Trabant, im 2. 2 im 3. 4 im 4. 8 … . Rasant nähert man sich den stagnierenden Absatzzahlen von VW.
+@Admin, da werden Unterstellungen ausgedacht damit man schlau dagegen sein kann. Ich plädiere für Löschung mit Hinweis auf Strohmann-Argument. EIKE ist doch sonst nicht so zahm.
+Ebel zu erklären, was ein adiabatischer Gradient der Gasatmosphäre im Schwerefeld bedeutet.
+Oder wollen Sie sich freiwillig auf Ebel-Niveau begeben,
+und behaupten,
+dass aufsteigende warme Luft die Atmosphäre oben kälter macht ???
+Und nun zu Ihrem:
+Das schon, aber Ihr Fehler liegt darin begründet, daß Sie postulieren, der Wärmestrom in Watt, bliebe konstant, wenn man N2 gegen CO2 austauscht.
+Was hat dieser „Fehler“ bitte damit zu tun,
+dass CO2 strahlt und N2 nicht?
+Ihre „Schwachsinn“-Polemik in#10 ist damit offensichtlich in gar keiner Weise begründet
+mfG
+„Die korrekte Berechnung ist zu schwierig für ihn.
+Für mich übrigens auch.
+Es geht nicht einfach um eine Fläche.“
+Die Strahlung erfolgt aus einem Volumen. Zur Anschauung habe ich Rösickes Bezeichnung als Fläche übernommen.
+Aber eine Abschätzung ist möglich. Der Erdradius ist ca. 6300 km. Wenn das abstrahlende Volumen (bzw. die abstrahlende Fläche) um 10 km höher ist (was sicherlich zuviel ist), steigt die Oberfläche um weniger als 0,3 % [(6310/6300)²], da die Oberfläche dem Quadrat des Durchmessers proportional ist.
+MfG
+„Indessen liegen die Fakten (auch ohne Lehrbuch) so einfach:
+eine N2-Atmosphäre kann seine Wärme nur „unten“ an die Erdfläche abgeben; eine CO2-Atmosphäre auch dort plus „oben“ direkt in das Vakuum des Alls.“
+Sicher, daß wurde hier schon mehrmals von Ebel und mir erklärt.
+„Die mit der Temperatur korrelierende Wärmestromdichte hat die Dimension W/m². Wenn also bei konstantem W die Fläche m² durch eine zusätzliche Abgabemöglichkeit vergrößert wird, muß die Temperatur sinken. So einfach ist das.“
+Das schon, aber Ihr Fehler liegt darin begründet, daß Sie postulieren, der Wärmestrom in Watt, bliebe konstant, wenn man N2 gegen CO2 austauscht. Dieses Postulat ist jedoch nicht mit der Randbedingung vereinbar, daß in beiden Fällen der Wärmestrom ins Weltall der gleiche sein muß (bei gleicher Wärmeaufnahme durch Sonneneinstrahlung). Ist also physikalisch trivial mit ohne ohne Lehrbuch.
+„Ohne die beleidigenden Zwischentöne wäre Ihr Kommentar wesentlich glaubwürdiger!“
+Das sind keine beleidigenden Zwischentöne, sondern leider notwendige Feststellungen.
+Die Diskussion mit Rösicke geht schon einige Jahre, ohne das er die Physik begreift. Ohne genaue Erläuterung seiner Fehlschlüsse werden oft seine Fehlschlüsse nicht erkannt.
+MfG
+„Tip: da muss sich überhaupt nichts bewegen, sonst wird es diabatisch“
+Obwohl schon oft erklärt, hat Paul den Temperaturverlauf in der Troposphäre immer noch nicht verstanden. Ohne Vertikalzirkulation kommt kein adiabatischer Temperaturgradient zustande. Der tatsächliche Temperaturgradient hat nicht ganz den theoretischen Wert, da ohne Transport keine Strömung. Wegen der hohen Beweglichkeit der Luft ist aber der Unterschied zwischen dem tatsächlichen Temperaturgradienten und dem exakt adiabatischen minnimal.
+Ohne Konvektion kein adiabatischer Temperaturgradient, was die Stratosphäre beweist. Und die Stratosphäre hat ca. 1/5 der Gesamtmasse der Atmosphäre.
+MfG
+wenn dem anderen nicht etwas unterstellt wird, was er nicht behauptet hat.
+Die korrekte Berechnung ist zu schwierig für ihn.
+Für mich übrigens auch.
+Es geht nicht einfach um eine Fläche.
+mfG
+Manches ist schon putzig: Wenn die Temperaturen deutlich steigen, kommt von den Klimaleugnern, daß das kein Beweis der Erwärmung sei, weil die betrachtete Zeit zu kurz sei. Wenn die Temperaturen kaum steigen, kommt von den Klimaleugnern, daß das ein Beweis sei, der die Erwärmung widerlegt.
+Würden Sie denn erwarten, daß wenn die Temperaturen kaum steigen, dies von den ´Klimaleugnern´ als Beweis für die behauptete Erwärmung verstanden wird?? (Schön, daß Sie uns hier zum lachen bringen.)
+Lieber Herr Ebel,
+etwas verstanden haben – bzw. zu meinen etwas verstanden zu haben – und etwas vermitteln das sind drei verschiedene Dinge.
+Ich z.B. hätte die Frage, die Ihnen Fr. Meinhardt in #13 gestellt hat, nicht gestellt.
+Aber ich habe mir ihre verlinkte Grafik angeschaut und kann damit nichts anfangen. Ich sehe da einen Punktehaufen von Meßwerten durch den eine Regressionsgrade gelegt wurde. Ich habe mal gelernt: Korrelation und Kausalität – da werden die größten Fehler gemacht, ibs. wenn die Zeit im Spiel ist. (Sie kennen das mit den Störchen und den Babies.) Eine wirkliche Erklärung ist bei der Grafik auch nicht bei. Und so haben Sie mit ihrer Grafik für mich nichts belegt.
+Sehr geehrter Herr Ebel,
+Sie haben Ahnung (Gratulation!)und wir sind doof (sorry) – ist´s das, was Sie uns klarmachen wollen? – nur mal so blöd frag.
+MfG
+„… wegen der Vergrößerung der Austrittsfläche des konstanten Wärme-Energie-Stromes …“
+Wer nur wenigstens etwas Ahnung hat, glaubt das Rösicke meint, die Abstrahlungsfläche würde größer, weil die Höhe steigt, aus der emittierte Photonen das Weltall erreichen. Wegen der Kugelgestalt der Erde wird wegen der Durchmesserzunahme die abstrahlende Fläche etwas größer. Dieser Effekt ist zwar auch vorhanden – aber vernachlässigbar.
+Aber so vernünftig denkt Rösicke nicht. Er erkennt zwar die Abstrahlungsfläche des CO2, addiert aber dazu die Abstrahlungsfläche der Erdoberfläche, was nach Rösickes Meinung zur Fast-Verdopplung der Abstrahlungsfläche führt. Bloß vergißt er, daß die Emission von der Erdoberfläche nicht den Weltraum erreicht, weil sie unterhalb der Abstrahlungsfläche in den Weltraum bereits vollständig absorbiert ist.
+Die Emissionsfläche in den Weltraum vergrößert sich also nicht.
+MfG
+„“1.) die Erde muß ins Weltall genau so viel Energie abstrahlen, wie sie an Solarstrahlung absorbiert.“
+Woher wissen Sie das?“
+Katrinchen schon mal was von Energieerhaltungssatz gehört? Zwar ist im Mittel die Absorption etwas größer als die Emission – aber nur wenig.
+Die Differenz zwischen Emission und Absorption wird in der Erde gespeichert. Wenn diese Differenz erheblich wäre, müßte sich die Temperatur sehr schnell ändern – sie ändert sich aber langsam.
+MfG
+Ebel:
+2.) Die Menge der Treibhausgase in der Stratosphäre spielt nach Überschreiten einer Mindestmenge fast keine Rolle mehr, denn der Temperaturgradient ist durch die Feuchtekonvektion bestimmt. Ohne Konvektion wäre der Temperaturgradient erheblich größer und wird durch die Konvektion auf den adiabatischen Wert reduziert. Wegen des geringen Anteils an Spurengasen ändern sich die Gaseigenschaften fast nicht.
+katastrophal falsch
+Ebel:
+4.) Ohne Berücksichtigung der UV-Absorption ist die Stratosphäre fast isotherm
+ist auch falsch und widerspricht 2)
+Ebel:
+5.) Das Strahlungsgleichgewicht hängt von der optischen Masse darüber ab
+Es gibt kein Strahlungsgleichgewicht mit dem Weltall, zu keinem Zeitpunkt auf keinem Ort in der Erde
+mfG
+p.s.
+1) lernen Sie richtig zu zitieren
+2) versuchen Sie den Begriff adiabatischer Gradient in einem Schwerefeld zu verstehen.
+Tip: da muss sich überhaupt nichts bewegen, sonst wird es diabatisch
+„1.) die Erde muß ins Weltall genau so viel Energie abstrahlen, wie sie an Solarstrahlung absorbiert.“
+Woher wissen Sie das?
+MnmG
+P.S.: Klimaleugner? Das gibt es nicht. So reden aber heimliche Anhänger des Schamanismus, marxistische Variante. Ein Unding an sich. Ebel(chen). Wie kommt es, daß der dialektische Materialismus in der Klimaforschung gelandet ist? Verstehen Sie die Frage überhaupt? Sie können mit dem Wetter nicht reden. Und anfassen geht auch nicht. :)) Also, was (!!) suchen Sie hier?
+#10: Nicht abheben, Möchtegern-Doktor NicoBaecker. Sie beschreiben sich wieder einmal sehr treffend. Ebel kann das auch.
+lernen Sie einfach mal dass ein Absorbtionsspektrum oder ein Transmissionsspektrum
+KEIN Emissionsspektrum darstellt,
+ist das zu viel verlangt???
+Eine CO2 – Strahlung auf die Erdoberfläche gibt es leider nicht,
+müsste sich bei den Experten eigentlich schon rumgesprochen haben.
+#10: NicoBaecker
+ist ihnen mal wieder der Mund offen stehen geblieben,
+weil Sie nichts zu Roesicke entgegnen können?
+Er bezieht sich schlicht auf das Stefan-Boltzmangesetz, das die AGW-Jünger ja dringend gebrauchen für ihre angeblich strahlende Atmosphäre.
+Wenn Sie es nicht kennen,
+Wikipedia hilft weiter:
+P = sigma * A * T^4
+P ist die Strahlungsleistung.
+Roesicke spricht von der Vergrößerung von A,
+dann muss auch P größer werden.
+Zu schwer für einen Student?
+Jetzt lassen Sie sich mal eine vernünftige physikalische Erklärung einfallen,
+wenn Sie können.
+mfG
+eine N2-Atmosphäre kann seine Wärme nur „unten“ an die Erdfläche abgeben; eine CO2-Atmosphäre auch dort plus „oben“ direkt in das Vakuum des Alls. Die mit der Temperatur korrelierende Wärmestromdichte hat die Dimension W/m². Wenn also bei konstantem W die Fläche m² durch eine zusätzliche Abgabemöglichkeit vergrößert wird, muß die Temperatur sinken. So einfach ist das. Sie – die Herren von #6,8,10 müssen kein Physikbuch lesen, sondern nur denken. Die Analogie könnte ein Druckbehälter sein, in den ständig, Luft konstanten Drucks hineingepumpt wird, die aus einer Öffnung wieder entweicht. Wird ein weiteres Ablaß-Ventil am Behälter geöffnet, sinkt bei gleichem Luftdurchsatz der Druck. So einfachh ist das, meine Herren. Gruß Roesicke
+„Herr Roesicke hat immer noch nicht begriffen …“
+ich weiß, ich mache mich ja nur lustig über den immer gleichen Schwachsinn.
+Ich verstehe nur nicht, woher die Leute die Motivation nehmen, sich immer wieder neu zum Narren zu machen, obwohl sie wissen, daß die Wissenschaft sie einfach abwatschen wird.
+Diese Leute müssen mit der Selbsteinschätzung ihrer Position in der Gesellschaft ein riesiges Problem haben und sehen als Ausweg für sich nur die Rolle des Clowns (aus Sicht der Gesellschaft) bzw. (aus ihrer Sicht?) eines Märtyrers zur Verfechtung eines Standpunktes, den außer sie selbst keiner vertritt, anzunehmen.
+Dabei sind die Grundlagen des Treibhauseffekts schon lange bekannt:
+1.) die Erde muß ins Weltall genau so viel Energie abstrahlen, wie sie an Solarstrahlung absorbiert.
+2.) Die Menge der Treibhausgase in der Stratosphäre spielt nach Überschreiten einer Mindestmenge fast keine Rolle mehr, denn der Temperaturgradient ist durch die Feuchtekonvektion bestimmt. Ohne Konvektion wäre der Temperaturgradient erheblich größer und wird durch die Konvektion auf den adiabatischen Wert reduziert. Wegen des geringen Anteils an Spurengasen ändern sich die Gaseigenschaften fast nicht. (Fortak 1971, S. 73 f).
+3.) Oberhalb der Troposphäre ist die Stratosphäre, wo der Temperaturgradient vom Strahlungsgleichgewicht bestimmt wird (ebenfalls Fortak).
+4.) Ohne Berücksichtigung der UV-Absorption ist die Stratosphäre fast isotherm (ebenfalls Fortak).
+5.) Das Strahlungsgleichgewicht hängt von der optischen Masse darüber ab (Schwarzschild 1906).
+6.) Daraus folgt ein Anstieg der Tropopausenhöhe bei Zunahme der CO2-Konzentration (Ernest Gold 1908 bzw. Folge des Schwarzschildkriteriums).
+7.) Die Tropopausenhöhe schwankt stark.
+8.) Die Tropopausenhöhe wird schon lange von Wetterballons gemessen – z.B. 47 Jahre in Hohenpeißen. http://tinyurl.com/Tropopau
+9.) Die Meßwerte sind violette Punkte. Die rote Linie ist die Ausgleichsgerade der Meßpunkte. Diese Ausgleichsgerade muß entsprechend dem Schwarzschildkriterium zwischen konstanter (braune Linie) und proportionaler (blaue Linie) optischer Masse liegen und tut das natürlich auch.
+10.) Aus der Extrapolation der Ausgleichsgerade folgt eine Klimasensititvität in Hohenpeißen von ca. 3 K
+11.) Da Hohenpeißen auf einem mittleren Breitengrad liegt, dürfte die Klimasensitivität in Hohenpeißen weitgehend für die ganze Erde relevant sein.
+Erklärung:
+Wegen der Behinderung des Strahlungstransports durch die Treibhausgase verursacht zwei Effekte: die Stratosphäre kühlt sich ab und in den absorbierenden Wellenbereichen wird weniger abgestrahlt. Als Ausgleich (konstante Gesamtabstrahlung!) wird in den nichtabsorbierenden Wellenlängenbereichen mehr abgestrahlt. Letzteres ist dadurch erfüllt, daß die Oberflächentemperatur höher wird.
+MfG
+Herr Roesicke hat immer noch nicht begriffen daß die Abstrahlfläche der Erde praktisch konstant bleibt und die Temperaturänderung nur über das Spektrum erfolgt. Grob gerechnet würde eine Bodenbeschichtung, die 10% des IR- Spektrums zurückhält, zu einer Temperaturerhöhung um den Faktor 4.Wurzel (1/(1-0,1)) führen.
+Abgesehen davon müßte Herr Roesicke – wenn er Recht hätte – in der Satellitenmessung die vermeintlich zusätzliche kühlende Abstrahlung nachweisen können. Aber daran scheitet es bereits, weshalb er die Messung (ebenso wie die der bodennahen Gegenstrahlung welche zu Erwärmung führt) einfach ignoriert.
+Empirisch oder idealistisch? Gar beides?
+„Alle sog. Klimagase in der Atmosphäre verringern wegen der Vergrößerung der Austrittsfläche des konstanten Wärme-Energie-Stromes(gemessen in Watt)die Wärme-Stromdichte gemessen in Watt/Fläche)und damit physikalisch zwangsläufig die Temperatur. “
+Interessant, zu was für einen physikalischen Schwachsinn manche fähig sind, also Treibhausgase vergrößern Flächen, Wärmeenergieströme müssen konstantbleiben und dadurch wird es kühler. Manche sind zu Physik nicht mehr befähigt. Tip: einfach mal ein Physikbuch nehmen und die Übungsaufgaben versuchen, oder sich ins Seniorenstudium einschreiben und merken, daß man so ziemlich nichts mehr von der Physik weiß.
+Gruß
+Roesicke
+Eigentlich erfreulich daß mal solch eine umfassende Literatur-Untersuchung der zentralen und strittigen CO2-Klimasensitivität gemacht wurde und eine deutliche Reduzierung des IPCC-Hype in Aussicht gestellt wird. Schade nur daß der Verfasser sich auf diese Untersuchung beschränkt ohne uns eine eigene kritische Stellungnahme sowie den nach seiner Meinung richtigen Wert zu liefern.
+Tatsache ist daß der globale Treibhauseffekt (Equilibrium Climate Sensitivity ECS) ein strahlungsphysikalisches Phänomen ist welches anhand des mit höchster Präzision gemessenen HITRAN-Transmissionsspektrums für das CO2 als globale Schicht über einem gleichmäßig solar beheizten Schwarzkörper-Boden leicht berechnet werden kann. Und weil der seit der Industrialisierung beobachtbare Zusatzeffekt gegenüber den (i.w. solar und durch Wolkenbedeckung) bedingten natürlichen Temperaturänderungen relativ gering (nämlich nur knapp 0,7 °C pro Verdoppelung) und nur schwer diskriminierbar ist – sowie insbesondere nicht über lange Zeiträume ungestört beobachtbar ist – sind viele auf Beobachtung gestützte Werte eher fragwürdig.
+Viele Autoren kennen nicht die Temperaturänderungen in den Ozeanen und damit auch nicht die CO2-Ausgasung. Diese kann zu einem erheblichen Fehler führen da die „Ausgasungssensitivität“ etwa das 20fache (!) der uns interessierenden „Strahlungssensitivität“ ist. Beispiel: Würde eine Erhöhung um 100 ppm zu einer Temperaturerhöhung (ECS durch Gegenstrahlung) von 0,5 °C führen, so würde eine solar bedingte Temperaturerhöhung von 0,5 °C nur zu einer CO2-Erhöhung durch Ozean-Ausgasung um 10 ppm führen – und damit zu einer vermeintlich erheblich zu hohen Sensitivität.
+An diesem Problem, das durch Verwechslung von Ursache und Wirkung bedingt ist, leiden (abgesehen davon daß sie die damalige Solaraktivität nicht genau kennen) besonders alle Paläoklimatologen welche eiszeitliche Temperaturen und CO2-Konzentrationen in Beziehung setzen. Bedingt durch die große Diskrepanz war m.E. IPCC gezwungen, fälschlich einen viel zu hohen „best guess“ ECS-Kompromißwert von 3 °C pro CO2-Verdoppelung zu verwenden – der weder für anthropogene Klimaprojektionen noch für paläoklimatische Berechnungen paßt.
+Wer og. Fakten kennt, dürfte beobachtungsgestützte und insbesondere paläoklimatisch ermittelte Werte aus der Literatur nicht allzu ernst nehmen. Erst recht nicht ernst zu nehmen sind solche Wissenschaftler die für CO2 keinen oder gar einen kühlenden Effekt behaupten – obwohl im Satellitenspektrum im CO2-Bereich eine Zurückhaltung von etwa 27 W/m² der Erdabstrahlung (mit Wasserdampfüberlappung, bei clear sky) gemessen wird. Ernst zu nehmen ist jedoch z.B. die genannte strahlungsphysikalische Arbeit von Prof. Harde der schließlich mit diversen Nebeneffekten auf insgesamt nur etwa 0,6 °C pro CO2-Verdoppelung kommt (http://tinyurl.com/po9jxav und http://tinyurl.com/nkpwrcb).
+Zu beachten ist daß die in IPCC-Modellen benutzte „Klimasensitivität“ für global clear sky gilt, jedoch unter 60% Wolkenbedeckung (IR-Schwarzkörper) das CO2 *keinen* Effekt hat. Abgesehen davon wird die Reduktion durch Wasserdampfüberlappung ignoriert und fälschlich wird auch eine viel zu hohe Wasserdampfrückkopplung angenommen. IPCC wird in der Tat wegen der deutlichen Überschätzungen zu einer drastischen offiziellen Korrektur gezwungen sein.
+Wie war das noch mal?
+„Existieren für eine Aufgabe verschiedene Lösungsansätze, so ist die einfachste Lösung die wahrscheinlichste“
+Nachdem nix zu messen und nix festzustellen ist, ist der richtige Wert „0“.

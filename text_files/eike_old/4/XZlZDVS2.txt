@@ -1,0 +1,47 @@
+Vor einigen Tagen wären im nördlichen Teil Europas beinahe die Lichter ausgegangen. Die Ursache scheint nun gefunden. Sie war klein, aber die Wirkung groß. Entsprechende Meldungen dürften sich demnächst mehren.
+TE berichtete als eines der ersten deutschen Medien überhaupt vom Frequenzeinbruch im nördlichen Teil des europäischen Stromnetzes am 8. Januar 2021. Nun gibt es ein erstes Untersuchungsergebnis: Relativ kleine Ursache – große Wirkung.
+Der europäische Koordinator des Stromnetzbetriebes, ENTSO-E, veröffentlichte ein erstes Untersuchungsergebnis. Demnach hatte eine Störung an einer 400-Kilovolt-Sammelschienen-Kupplung im Umspannwerk Ernestinovo im Norden Kroatiens das Ereignis verursacht. Dadurch wurden die Stromflüsse über dieses Umspannwerk gestoppt und der Strom über benachbarte Leitungen geführt. Dort kam es dann zu Überlastungen. Die Leitung zwischen den serbischen Städten Subotica und Novi Sad fiel durch eine Überstromauslösung aus, es folgten im Dominoeffekt weitere 13 Leitungen. Die für solche Fälle vorgesehenen Regelungen der ENTSO-E funktionierten wie vorgesehen, so dass keine wirklich gravierenden oder dauerhaften Folgen auftraten.
+Die größte mediale Beunruhigung trat im nahen Österreich auf. Der Netzbetreiber Austrian Power Grid (APG) forderte umgehend mehr Flexibilitätsoptionen sowie zusätzliche Netz- und Speicher-Optionen, auch „um die Volatilitäten der Erneuerbaren“ auszugleichen. Diese waren zwar am Ereignis unbeteiligt, deren weiterer Ausbau verschärft jedoch die Schwankungen im Netz.
+Der österreichische Krisenexperte Herbert Saurugg rechnet mit einem Blackout innerhalb der nächsten fünf Jahre. Unterdessen soll Polen Deutschland aufgefordert haben, seine Kernkraftwerke (KKW) wieder in Betrieb zu nehmen.
+Die Liste der am Ereignistag außer Betrieb befindlichen Kraftwerke ist lang: Beide Blöcke in Fessenheim fehlen (maßgeblich dem deutschen Druck geschuldet), das Kraftwerk Hamburg-Moorburg erkaltet seit dem 18. Dezember, im sächsischen Braunkohlekraftwerk Boxberg wie auch im tschechischen KKW Dukovany waren Blöcke in Reparatur, die KKW Philippsburg und Mühleberg in der Schweiz sind schon seit Ende vorigen Jahres dauerhaft außer Betrieb. Das Steinkohlekraftwerk in Heyden, „Gewinner“ der Ausschreibung zur Stilllegung und am Strommarkt nicht mehr zugelassen, war schon vor dem Ereignis auf Weisung des Netzbetreibers wieder in Betrieb gegangen. In Frankreich standen mehrere Kernkraftwerke in pandemiebedingt länger währenden Revisionen.
+Diese Aufzählung ist nicht abschließend. Nach deutschen Atom- und Kohleausstiegsgesetzen werden in diesem Jahr noch 4 Gigawatt (GW) KKW- und über 3 GW Kohlekraftwerksleistung dauerhaft vom Netz gehen.
+Das Echo in Deutschland zum Ereignis am 8. Januar war sehr gedämpft. In einer Fragestunde im Deutschen Bundestag am 14. Januar äußerte sich Staatssekretärin Winkelmann-Becker dahingehend, dass langfristig Energieimporte nötig seien, also Wasserstoff aus Afrika und Chile, ein smart-Grid sei nötig und wir müssten uns „etwas einfallen lassen“. Beim Thema Wasserstoff müsse man forschen und vorankommen. Wer sich ihre Ausführungen im Original anhören möchte, kann das hier (vor allem von Minute 6:10 bis 10:30) tun.
+Aber mit Sprüchen allein läßt sich kein Strom erzeugen.
+Quellen:
+https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/
+https://futurezone.at/digital-life/kettenreaktion-war-ursache-fuer-beinahe-blackout-in-europa/401169037
+https://www.news.at/a/krise-herbert-saurugg-blackout-11551032
+Der Beitrag erschien zuerst bei TE hier
+Sie wollen doch wohl nicht behaupten das ein Energiespeicher mit einer Kapazität von 1,2 MWh oder besser 1200 KWh. Einen großen Anteil bei der Lösung dieses Frequenzabfalls geleistet hat.
+ich habe nicht gesagt das 1,2 MWh die Lösung dieses Frequenzabfalls im Europäischen Verbundnetz sind.
+Meine Aussage ist das Akkuspeicher schneller als ein Konventionelles Kraftwerk auf Leistungsschwankungen reagiert und mit zusätzlicher Leistungsabgabe reagiert.
+Als Beispiel habe das verhalten vom PRL-Stromspeicher der Smart Power GmbH beim Störfall am 8. Januar gebracht.
+https://3pkem226sk6p252wx4117ivb-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2021/01/PRL-Antwort-Smart-Power.png
+grün: Netzfrequenz,
+gelb: kumulierte gelieferte Leistung der Smart Power-Speicher
+Die Leistung vom Stromspeicher ist um ca. 14:05 von -2,5MW innerhalb von nur wenigen Sekunden auf über +24MW angestiegen.
+Herr Belling kein Konventionelles Kraftwerk kann so schnelle die Leistungsabgabe erhöhen.
+Die rotierenden Schwungmassen der Generatoren können praktisch keine zusätzliche Leistung abgeben im GW Bereich.
+Mit X* kleinen und auch größeren Stromspeicher ist das aber möglich.
+in Ihrem Diagramm wird nicht eine kumulierte gelieferte Leistung der Smart Power-Speicher gezeigt sondern
+der Frequenzverlauf im Nord-West Gebiet (grün) und Süd-Ost Gebiet(gelb) vom 08.01.2020.
+siehe
+https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/
+Der Frequenzabfall wurde verursacht durch ein Leistungsdefizit von (ca. -6,3 GW) im Nordwestgebiet.
+Aufgrund der geringen Frequenz im Nordwesten kam es zu Lastabwürfen bei Großkunden in Frankreich und Italien von (insgesamt rund 1,7 GW).
+Dazu wurden automatisch 420 MW und 60 MW unterstützende Leistung aus den Synchrongebieten Nordic und Großbritannien aktiviert.
+Dazu kommen Kunden in der Größenordnung von 70 MW im Nordosten die keine elektrische Energie hatten.
+In Ihrem Diagramm wird nicht eine kumulierte gelieferte Leistung der Smart Power-Speicher gezeigt sondern
+der Frequenzverlauf im Nord-West Gebiet (grün) und Süd-Ost Gebiet(gelb) vom 08.01.2020.
+siehe
+https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/
+Der Frequenzabfall wurde verursacht durch ein Leistungsdefizit von (ca. -6,3 GW) im Nordwestgebiet.
+Aufgrund der geringen Frequenz im Nordwesten kam es zu Lastabwürfen bei Großkunden in Frankreich und Italien von (insgesamt rund 1,7 GW).
+Dazu wurden automatisch 420 MW und 60 MW unterstützende Leistung aus den Synchrongebieten Nordic und Großbritannien aktiviert.
+Dazu kommen Kunden in der Größenordnung von 70 MW im Nordosten die keine elektrische Energie hatten.
+Mit dem Kernkraftwerksstromdetektor koennen sie nicht nur sicherstellen, das sie solchen nicht beziehen muessen! Nein, dieser Detektor stellt krisensicher ihren Strom ab sobald kein Gruenstrom mehr im Netz vorhanden ist.
+Damit tragen auch sie zur Netzstabilitaet bei!
+Heute noch hier bei mir anfragen.
+Sehr geehrter Herr Marius Frank,
+dass von Ihnen verlinkte Bild entspricht leider nicht der Realität.
+Als Beweis habe ich Ihnen einen Screenshot ins Netz gestellt.Da sehen Sie,welche Leistung im europäischen Verbundnetz benötigt wird ,wenn eine Frequenzänderung herbeigeführt wird.https://tinyurl.com/yymbgs7fIm Automatik-Betrieb haben die teilnehmenden Kraftwerke (schwankt zwischen 40 bis 60 Teilnehmern) für die vier deutschen Bilanzkreise eine Gesamt PRL von 1600 MW.Die werden in Portionen von 5 bis 20 MW/sec ins Netz eingespeist,bzw. reduziert.

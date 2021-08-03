@@ -1,0 +1,75 @@
+Zielsetzung
+Es ist nicht das Ziel dieser Studie, ein optimales Energieversorgungssystem unter Verwendung heutiger technischer Lösungen auszulegen. Vielmehr geht es darum, die Charakteristiken und die Struktur des Prozesses Energiewende aufzuzeigen.
+Das Projekt Energiewende umfasst den Neu- bzw. Umbau folgender Systeme:
+- Wandler so genannter Erneuerbarer Energien (EE), z.B. Windenergieanlagen (WEA) oder Photovoltaik (PV)
+- Speicher (für elektrische, thermische oder mechanische Energie), z.B. Li-Jonen Akkus oder Pumpspeicher
+- Energieübertragungsnetze (einschließlich aller Zusatzeinrichtungen)
+- Energieverbraucher
+- industrielle Wirtschaft
+Das Hauptproblem der nutzbaren EE-Träger (z.B. Wind, Sonne, Wasser) sind ihre geringen und zeitlich nicht konstanten Energiedichten. Daran kann zukünftige Entwicklung nichts ändern. Daher sind Wandler und Speicher gigantischer Ausmaße erforderlich. Der Material- und Energieeinsatz für die Lieferung einer KWh ist deshalb um mindestens zwei Zehnerpotenzen (> Faktor 100) größer als bei Wandlern fossiler Energie.
+Modellrechnung
+Obgleich der Energiebedarf steigt, wird angenommen, er werde auf dem heutigen Niveau bleiben. Da die meisten Wandler elektrische Energie liefern, wird der elektrische Anteil um ein Vielfaches steigen. Es werden WEA als Wandler eingesetzt, da sie um den Faktor 3 effizienter sind als z.B. PV. Es werden Langzeitspeicher elektrischer Energie für ca. 2,7% der jährlich benötigten Energiemenge zur Kompensation der Volatilität der EE-Träger zugrunde gelegt. Dafür wird unterstellt, dass Kosten und Energieeinsatz für die Herstellung von Speichern deutlich unter dem jetzigen Niveau liegen werden und sich die Lebensdauer auf 20 Jahre verdoppeln wird. Die Übertragungsnetze von den dezentralen Wandlern zu den Verbrauchern werden für die vielfache Menge an Strom erweitert. Das emissionsfreie System soll in 40 Jahren (2021-2060) aufgebaut werden.
+Es werden die verursachten Energieaufwendungen gegen gerechnet. Es wird unterstellt, dass der Aufwand des Umbaus zu (elektrischen) Verbrauchern und der Wirtschaft im Rahmen des Ersatzbedarfes aus dem laufenden Energiebudget erfolgt. Ebenfalls nicht berücksichtigt sind die Energieaufwendungen für Eigenverbrauch, Verluste und Wandlung elektrischer Energie z.B. in synthetische Kraftstoffe (z.B. für Flug- und Frachtverkehr). Die Einsparungen durch den schrittweise möglichen Abbau des fossilen Systems werden berücksichtigt.
+Ergebnisse
+- Der Umfang des emissionsfreien Energieversorgungssystem hängt von der Differenz großer Zahlen ab: gewandelte Energie abzüglich Energieaufwand für die Herstellung, Nutzung, Entsorgung und den Ersatz aller erforderlichen technischen Einrichtungen.
+- Die Modellrechnung zeigt, dass die Umsetzung mit heute verfügbaren technischen Lösungen (insbesondere Speicher) einen Energieeinsatz erfordern würde, der über der Energielieferung des emissionsfreien Systems liegen würde.
+- Mit den Annahmen zukünftiger Entwicklungsergebnisse würde sich ein Wandler-Bedarf von ca. 1,8 Mio. WEA (1,5 MW) ergeben. Wegen der Lebensdauer (20 Jahre) müssten dazu ca. 3 Mio. WEA in 40 Jahren errichtet werden. Im Mittel müssten jährlich 2,5-mal so viele WEA errichtet werden wie in den vergangenen 20 Jahren zusammen. Das ergäbe eine Wandler-Dichte von 11 WEA pro km2(Abstand 300 m) über die gesamte Agrarfläche Deutschlands. Die Ausbeute hängt vom Standort, der Dichte WEA/km2und dem Wetter ab. Entsprechend ungünstig wäre die mittlere erzielte Ausbeute.
+- Da ab 2061 die jährliche Nutzung des emissionsfreien Systems etwa soviel Energie benötigt wie Haushalte, Handel, Gewerbe und Dienstleistungen zusammen, muss sie zusätzlich erzeugt werden. Das bedeutet, dass sich die Gesamtmenge des über das Netz zu übertragenden Stromes versiebenfachen würde. Die maximal mögliche Überschussleistung (bei Starkwind) wäre zeitweise bis zu 33-mal so groß wie die maximale Leistung aller heutigen Kraftwerke und müsste den dezentralen Speichern zugeführt werden.
+- Der Energieaufwand für den Aufbau des emissionsfreien Systems in 40 Jahren würde der Lieferung aller heutigen Kraftwerke in 70 Jahren entsprechen. Ab 2027 erzeugt das System im Aufbau erstmalig einen Energieüberschuss und bis 2031 könnten die fossilen Kraftwerke schrittweise stillgelegt werden. Im Jahr 2032 würde die CO2-Emission um ca. 43% unter dem heutigen Wert liegen.
+- Für die Herstellung des emissionsfreien Systems würden in 40 Jahren ca. 4,1 Mrd. t Materialien verarbeitet: für WEA ca. 2,7 Mrd. t (u.a. ca. 660 Mio. t Stahl und Eisen, 50 Mio. t Kupfer, 0,6 Mio. t Aluminium, 40 Mio. t Kunststoffe, 1.900 Mio. t Beton), für Speicher ca. 1 Mrd. t und für Netze ca. 0,4 Mrd. t.
+- Die Kosten für den Aufbau und die Nutzung des emissionsfreien Systems liegen in den ersten 40 Jahren bei ca. 30 Billionen € (Wandler 4 Bio. €, Speicher 25 Bio. €, Netzausbau ca. 0,6 Bio. €) abzüglich ca. 4 Bio. € für das nicht mehr benötigte fossile System.
+- Die laufenden Kosten für Erhalt und Nutzung des emissionsfreien Systems ab dem Jahr 2061 lägen bei ca. 900 Mrd. €/a. Davon abzuziehen sind die Einsparungen für das fossile System in Höhe von ca. 200 Mrd. €/a.
+- Teilt man die Investitionskosten für die jährliche Kapazitätserweiterung (ohne Zinsen) durch die damit während der nächsten 20 Jahre gewandelte Energie, erhält man im Jahr:2021 (Standort mit einer Wandler-Ausbeute von ca. 30 % an der S-H Westküste, nur WEA und Nutzung, keine Speicher, kein Ersatzbedarf): ca. 0,02 €/KWh.2031 (WEA, Netze und Speicher, Ausbeute ca. 25%): ca. 0,14 €/KWh.2041 (WEA, Netze und Speicher, Ersatz, Ausbeute ca. 17%): ca. 0,65 €/KWh.2061 nach Abschluss des Aufbaus (nur Ersatzinvestition und Nutzung) für die vom System gelieferte Energie: ca. 0,27 €/KWh.Ähnlich sind die Zusammenhänge zwischen gelieferter EE und Vermeidung von CO2. Mit der ersten errichteten WEA könnte man mit einer KWh investierter Energie ungefähr 16 kg CO2in 20 Jahren vermeiden, mit der letzten WEA nur noch ca. 3,4 kg.
+Resümee
+Modellrechnungen lassen sich mit allen möglichen Kombinationen von technischen Lösungen variieren. Der häufigste Fehler politischer Betrachtungen ist, dass die Energieinvestitionen vernachlässigt werden. Grundsätzliche Erkenntnisse sind:
+- Es gibt keine EE. Es bleibt zudem unerwähnt, dass die enormen Materialressourcen für den Aufbau und die Nutzung des emissionsfreien Systems nicht erneuerbar sind.
+- Die Kosten je gelieferter KWh sinken nicht, sondern steigen mit zunehmendem Ausbau.
+- Je mehr Arbeitsplätze durch das emissionsfreie System entstehen, desto teurer wird es.
+- Für jede zusätzlich vermiedene Menge CO2steigen die Aufwendungen.
+- Komplexe Vorhaben erfordern komplexe Lösungen (Gesetz von John Casti). Das heutige simple Subventionssystem der Energiewende ist ineffizient. Etwa 60% der jährlichen Subventionen bewirken keine CO2-Reduktion.Für jeden in die Energiewende investierten Euro sollte die maximalevermiedene Emissionzugrunde gelegt werden. Auch Energiesparen kostet große Mengen Energie.
+- Erst wenn umsetzbare technische Lösungen vorhanden sind, sollte mit dem weiteren Ausbau eines emissionsfreien Energieversorgungssystems begonnen werden.
+Die Langversion der Studie kann hier Struktur der Energiewende _Oktober 2018_ eingesehen werden.
+Ähnliche Beiträge:
+Schützen Wind, Sonne und Faulgasstromerzeuger das Klima?
+Erneuerbare Energien“ beurteilt unter dem Aspekt des „Kosten-Energie-Äquivalenzgesetzes“
+Über den Autor;
+Prof. Dr. Gonde Dittmer hat Elektrotechnik studiert und wurde in Mathematik promoviert. Danach war er Dozent an der Technischen Universität Darmstadt (Hochfrequenztechnik), Selbständiger Unternehmensberater, Vice President, international tätige Anlagenbaufirma (5.000 Mitarbeiter), Mitglied des Vorstandes, international tätiges Automobilzulieferunternehmen (10.000 Mitarbeiter), Ressort „Technik und Vertrieb“ weltweit, Aufsichtsratsvorsitzender des obigen Unternehmens, Aufsichtsratsvorsitzender eines IT Unternehmens und Professor an der Fachhochschule Kiel (Regelungstechnik, elektrische Antriebe).. und nahm auch noch weitere öffentliche Funktionen wahr. Mehr Details dazu hier
+Uniper und der Vorgängerkonzern E.on haben Moorburg um 3 Milliarden Euro
+Vom Kraftwerk Moorburg ist der Bauherr Vattenfall
+Das mit den Kosten ist einfach zu beantwortenden.
+Das letzte in Deutschland errichtete Steinkohlekraftwerk ist Moorburg.
+Leistung 1645 MW, Uniper und der Vorgängerkonzern E.on haben Moorburg um 3 Milliarden Euro in das Kraftwerk investiert, sind so um die 1.820 €/kW Leistung.
+Photovoltaikanlagen so um die 950 €/kW Leistung.
+Windkraftanlagen so um die 1.500 €/kW Leistung.
+Das Steinkohlekraftwerk Moorburg macht mehr kWh/kW Leistung, nur kostet der Brennstoff bereits um die 2,2 Cent/kWh (Strom).
+.
+Sie begreifen es nicht!
+X GW Leistung aus konventionellen KW stellen im Mittel über mindestens 85 % der Zeit ihre maximale Leistung nachfragegesteuert zur Verfügung. Deren Strom (Arbeit) ist das was alle brauchen und kaufen. PVA Anlagen können das naturgesetzlich nicht. Dieselben X GW Leistung liefern wg, des miserablen Nutzungsgrades nur Bruchteile der Strommenge der konventionellen KW. Ihr Nutzungsgrad liegt im Mittel bei rd. 10 % der Zeit in der sie in der Lage sind ihren Strom (Arbeit) dem Markt anzubieten, und dank des gesetzlichen Privilegs der „Vorrangeinspeisung“ und auch trotz völlig überhöhter Preise und oft am Bedarf vorbei, abgenommen zu kriegen.
+Nun rechnen Sie mal!
+Sie vergleichen nicht mal Äpfel mit Birnen, sie vergleichen Johannisbeeren mit Kürbissen.
+Deshalb hab ich doch auch geschrieben:
+Für den Bürger und Firmen ist PV-Strom ohnehin der günstigste.
+Eine 1,3kWp PV-Anlage für den „Balkon“ kostet im Einkauf (bei Abholung) noch so 1100 € incl. MwSt., also um die 850 €/kWp und das bei einer Mini-PV-Anlage.
+Eine größere ca. 10kWp PV ist man incl. Montage, also Schüsselfertig bei unter 1000 €/kWp.
+http://greenakku.de/PV-Komplettpakete/selfPV/selfPV-Komplettpaket-solaX-X1-1350Wp::1295.html?MODsid=tm00kv235cnput80ou8po8g361
+Mit der 1,3kWp PV-Anlage kann man den Verbrauch von Netzstrom um ca. 300 bis 340 € jährlich verringern. Steigt der Netzstrompreis hat man natürlich eine höhere Einsparung in € jedes Jahr.
+Das ist ein „Money return“ von ca. 25% das bringen nur sehr wenige Investitionen.
+.
+Schauen Sie mal hier rein. Stichwort „Erntefaktor“
+Wende bedeutet Umkehr, nichts anderes. Wohin soll es gehen? Diese Antwort können nicht einmal die Wendebefürworter liefern. Es ist eine Art Augen zu und durch, jedenfalls solange sie als Profiteure damit durchkommen. Und dann?
+Hochspannungsleitungen waren einmal ein Angriffspunkt für die „Naturschützer“. Diese verschandelten die „Umwelt“. Was ist eigentlich mit meinen Mitmenschen los, daß sie sich neben einer Wegnahme ihres sauer verdienten Geldes auch noch ihre Heimat dermaßen verschandeln lassen.
+Eine Bitte an EIKE. Können Sie mal einen Querschnitt einer WKA samt Fundament abbilden? Und was davon im Erdreich verborgen bleibt, wird der oberirdische Schrott und die nicht recycligfähigen Rotorblätter (wo bleiben die eigentlich?) abgebaut? Danke.
+Was ist beim Wort „WENDE“ nicht zu verstehen?!
+Wende bedeutet…zurück ins Mittelalter…und noch weiter zurück…im Mittelalter hat man wenigsten noch das Privilleg Feuer zu machen…sich mit CO2 über Wasser zu halten…
+ich verstehe den wahren „Wert“ bzw. den Begriff „Wende“. Ich wollte zum Nachdenken provozieren. Glauben doch so viele Mitbürger auch daran, daß 1989 eine „Wende“ stattgefunden hätte. Es war ein Spurwechsel ohne Blinken, nichts weiter.
+Ich stimme, um das eindeutig zu klären, mit Ihrer Beschreibung von Wende völlig überein.
+Die Wahl ist verbunden mit Volksabstimmungen.
+Hier hat einer das „Kleingedruckte“ dazu ausgewertet
+https://www.youtube.com/watch?v=YQUW2kCQqi0
+Ein uns betreffender Punkt wird ab 9:40 angesprochen.
+2 Cent/kWh an Herstellungskosten? Das geht nicht!
+Windmühlen halten auch keine 20 Jahre.
+Nichtsdestotrotz: Der Mann hat Recht, daß das mit den Windmühlen Quatsch ist.
+Aber das stimmt nicht: „Das ergäbe eine Wandler-Dichte von 11 WEA pro km2(Abstand 300 m) über die gesamte Agrarfläche Deutschlands.“ Bei 400m Abstand wären es 9 Windmühlen.
+Nur bringt das nix, denn wie soll die Windenergie, die Windmühlen der Luft entnehmen, von oben nach unten kommen? Mal dumm gefragt? Warum ist es in den Wäldern immer fast windstill?
+Aber nichtsdestotrotz: Das Ergebnis stimmt. Mit Windmühlen ist Deutschland nicht mit dem benötigten Strom zu beliefern.

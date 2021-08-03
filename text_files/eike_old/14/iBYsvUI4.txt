@@ -1,0 +1,176 @@
+Am 05.10.2019 hat die WELT[1]berichtet:
+Altmaier will Naturschutz für mehr Windkraft lockern
+„Die Bundesregierung will bis 2030 einen Ökostrom-Anteil von 65 Prozent erreichen. Damit das klappt, treibt Wirtschaftsminister Altmaier den Windkraftausbau voran. …
+Innenminister Horst Seehofer (CSU) soll beispielsweise noch in diesem Jahr dafür sorgen, dass Windräder nur noch in einem Abstand von 1000 Metern zur nächsten Wohnsiedlung gebaut werden dürfen.“
+Weiterhin wird angegeben, dass für das 1. Quartal 2019 3,23 TWh abgeregelt werden mussten, was 364 Mill.€[2]entspricht.
+Offenbar zählt die Bundesregierung Strom aus Kernenergie nicht zum Ökostrom. Das bedeutet, dass die verbleibenden 35% ausschließlich aus Kraftwerken mit fossilen Energieträgern kommen müssen.
+Für das Klima ist der Ökostromanteil keine primäre Zielgröße. Vielmehr ist – unterstellt man die AGW-Hypothese – die CO2-Konzentration der Luft die Zielgröße. Der Ökostromanteil ist lediglich ein Mittel und bei weitem nicht das einzige. Damit stellen sich zwei grundsätzliche Fragen:
+- Welche Konsequenzen hat diese Erhöhung des Ökostromanteils?
+- Welche Wirkung hat diese Maßnahme?
+Analyse
+Wenn es um die Quantifikation solcher Fragen geht, werden oft nur einfache energetische Dreisatzrechnungen vorgenommen. Damit kommt man zwar zu einer Größenordnung, aber eben nicht zu einer ausreichenden Genauigkeit unter Berücksichtigung verschiedener, wichtiger Zusammenhänge.
+Aufgrund eines vorhandenen Stromversorgungsmodells, das die Wetterstochastik, alle Stromerzeuger und die schwankende Last berücksichtigt, können die Konsequenzen konkret ermittelt werden. Dieses Modell rechnet mit Wetterdaten, die einen typischen EE-Ertrag repräsentieren. Im Takt von einer Viertelstunde werden die Leistungen aller Stromerzeuger, Speicher und Verbraucher verrechnet, so dass zu jedem Zeitpunkt die Leistungsbilanz ermittelt wird. Diese Vorgehensweise ist weit aussagekräftiger, als Energiebilanzen über ein Jahr aufzustellen, denn es reicht eben nicht, wenn nur verschiedene Mittelwerteberechnet werden. Genauso wenig, wie ein Mieter mit einer mittleren Raumtemperaturzufrieden wäre (im Sommer 35°C im Winter 5°C, macht im Durchschnitt 20°C), ist auch ein Stromversorgungssystem unbrauchbar, wenn nur die mittlerebereitgestellte Leistung dem durchschnittlichenBedarf entspricht.Genau so wird aber meist gerechnet. Der Stromkunde, ob privat oder Industrie, erwartet (weil es bisher selbstverständlich war), dass er zu jedem Zeitpunkt so viel Strom aus dem Netz entnehmen kann, wie er gerade braucht.
+Überschussenergie
+Wir wissen, dass die Volatilen Erneuerbaren Energien (VEE) mal zu wenig und mal zu viel Strom erzeugen. Der VEE-Strom, der nicht genutzt werden kann, wird als Überschussenergiebezeichnet. Dies ist eine wichtige Größe in einem zu beurteilenden Stromversorgungssystem. Mit steigendem Ausbau der VEE, wird immer weniger Energie aus den konventionellen Kraftwerken benötigt. Eine steigende VEE verdrängt somit zunehmend diesen Kraftwerksanteil. Um diesen Anteil auf das noch zulässige Maß zu reduzieren, muss die VEE soweit gesteigert werden, dass es in Folge immer mehr Zeitbereiche gibt, wo mehr VEE-Leistung zur Verfügung steht, als gebraucht wird. Wegen mangelnder Speicherkapazität, muss man diese Energie „wegwerfen“.
+Modellierungsgrundlagen, Annahmen
+In guter Näherung kann man bis 2030 von einem unveränderten Strombedarf ausgehen. Das heißt, dass die Sektorkopplung (mit E-Mobilität) noch keinen nennenswerten Einfluss auf den Strombedarf hat. (1 Mill. E-PKW bis 2030 würden rund 3 TWh/a an zusätzlicher Energie erfordern).
+- Angesetzt wird für 2030 der gleiche Stromverbrauch, nämlich 530 TWh[3], was einer Bruttostromerzeugung von 580 TWh entspricht.
+- Biomasse und Wasserkraft hatten einen Anteil von 62 TWh in 2018, davor auch zeitweise etwas mehr. Es ist allgemeiner Konsens, dass dieser Anteil kaum zu steigern ist, sondern langfristig eher eine fallende Tendenz hat (Diskussion um Energiepflanzen, Monokulturen etc.). Daher wird für die Modellierung großzügig 70 TWh angenommen.
+- Wenn der Ökostromanteil 65% betragen soll, so müssen von 580 TWh 377 TWh aus EE kommen. Zieht man 70 TWh ab, verbleiben 307 TWh, die aus Wind und Sonne zu erzeugen sind. Oder anderes: der konventionelle Anteil inkl. Gas-Backup-Kraftwerke, beträgt noch 203 TWh.
+- Als verfügbare Speicher bleiben nur die bestehenden Pumpspeicherkraftwerke (PSPW), mit rund 40 GWh und einer Lade- bzw. Entladeleistung von 10 GW[4]. Batteriespeicher sind dagegen völlig vernachlässigbar. Aber auch die PSKWs spielen nur eine marginale Rolle für das Ergebnis.
+- Andere Speicherkonzepte sind bis 2030 im großtechnischen Maßstab nicht vorhanden.
+- Import oder Export von Strom findet in keinem nennenswerten Umfange statt.
+- Ausbauanteile: Es wird das Verhältnis von Onshore, Offshore und Photovoltaik von 2018 konstant gehalten, d.h. alle drei VEE-Komponenten werden mit dem gleichen Faktor in ihrer Nennleistung erweitert.
+Ergebnisse und Bewertung
+Hinweis:
+Einen detaillierten Bericht über die Analyse und die Ergebnisse finden Sie unten zum Download.
+Die Untersuchung zu der Zielsetzung der Bundesregierung bis 2030 65% der Stromerzeugung aus Ökostrom bereitzustellen, hat gezeigt:
+- Wenn man bei den VEE-Anlagen den Ausbau mit dem bestehenden Verhältnis der drei VEE-Erzeuger fortsetzt, müssen alle Arten (Onshore, Offshore und Photovoltaik) auf mehr als das 2,5-fache von 2018 ausgebaut werden, ohne dass neue Stromverbraucher (E-Mobilität) hinzukommen.
+- Die vorhandenen PSKWs sind nur ein Tropfen auf den heißen Stein. Tatsächlich stellen sie für die Sektorkopplung nur rund ein Tausendstel der erforderlichen Speicherkapazität.
+- Modelliert wurde die Situation eines durchschnittlichen Es bedeutet, dass in Jahren von geringerem Ertrag, die Backup-Kraftwerke einen größeren Beitrag leisten müssten, der zu mehr CO2 führt.
+In Jahren mit weit überdurchschnittlichem Ertrag können sich die Überschussenergie und die damit verbundenen Kosten mehr als verdoppeln.
+- Es erscheint schon schwer vermittelbar, dass Onshore-Windenergieanlagen um das 2 bis 3-fache auszubauen sind. Dabei ist man mit 65% an der Stromversorgung noch lange nicht am Ziel, das 90%, besser 100% CO2-Reduktion für alle Energiesektoren Modellrechnungen haben mit Sektorkopplung, für alle Szenarien, einen Ausbau aller VEE-Anlagen von mindestens dem 10-fachen ergeben.
+- Angesichts der notwendigen Verdopplungbis Verdreifachungder VEE-Nennleistungen erscheint die CO2-Einsparung von kaum mehr als 7% viel zu gering. Hier fehlt die Verhältnismäßigkeit von Aufwand (Belastungen, Kosten) und Ergebnis.
+Das herausgegebene Ziel von 65% Ökostrom lässt den Bürger vermuten, dass damit bereits 2/3 zur völligen Dekarbonisierung erreicht sei, was die Sachlage völlig verkennt. Es erscheint wie eine „Beruhigungspille“, in der Hoffnung, man merke es schon nicht.
+Ehrlich wäre gewesen, wenn man mit der Bekanntgabe des 65%-Ökostromziels auch die Verdopplung bis Verdreifachung aller VEE-Anlagen verkündet hätte.
+Es stellt sich tatsächlich die Frage, ob die Bundesregierung und ihre Mitarbeiter und Berater tatsächlich so blauäugig sind, oder ob sie auf Zeit spielen und auf den „Wunderspeicher“ hoffen.
+Bereits dieses Zwischenziel, das noch meilenweit vom Endziel der völligen Dekarbonisierung mit Sektorkopplung ist, zeigt deutlich, dass bei weiter steigendem Ökostrom (d.h. ausschließlich VEE), das Stromversorgungssystem ohne ausreichende Speicher technisch nicht realisierbar ist. Da ein Durchbruch (hinsichtlich Kapazität und Kosten) bei der Speichertechnik in den nächsten Jahren ausbleiben wird,
+ist das Projekt der Energiewende auf Basis VEE gemäß dem Grundsatz verantwortlichen Handelns sofort abzubrechen.
+Download der vollständigen Analyse: https://tinyurl.com/yxmpqtm9
+oder hier 65 Prozent bis 2030 V1.0
+[1] https://www.welt.de/wirtschaft/article201432724/Windkraft-Peter-Altmaier-will-Ausbau-von-Windraedern-beschleunigen.html
+[2] Die Windenergiebetreiber bekommen 95% der Vergütungen für den Strom den sie hätten produzieren können, der aber wegen Überangebot nicht eingespeist werden konnte.
+[3] wie der Durchschnitt der letzten 15 Jahre;
+https://de.statista.com/statistik/daten/studie/164149/umfrage/netto-stromverbrauch-in-deutschland-seit-1999/
+Ich glaube die Herren Lötz und Rinkert provozieren mit voller Absicht, um damit Ihre (Puschner, Frey) wunderbaren, verständlichen, wissenschaftlich fundierten Komentare, technische Abhandlungen und Erklärungen zu ermöglichen. Vielleicht denken andere Leser ähnlich.
+Gruss D. Sauerwald
+Verständniskompetenz, Wissen und Logik sind die Basis des Naturwissenschaftler.
+Wer das nicht versteht macht Nebengleise auf ohne Schienen. Dann rattert es nur.
+Chris Frey, 18. OKTOBER 2019 UM 17:42
+nun, die Ansichten darüber, was sachlich ist und was nicht, können durchaus differieren. Wenn Sie damit aber andeuten wollen, dass unsachliche Kommentare grundsätzlich gelöscht werden können, dann frage ich mich, warum hier zuhauf eben solche Kommentare der Klima-„Skeptiker“, in denen Meinungsgegner verunglimpft, beleidigt und als Idioten beschimpft werden, zum Zuge kommen? Zumindest wird in dieser Hinsicht bei EIKE mit extrem unterschiedlichen Maßstäben gemessen!
+Und wie ist das mit den vielen menschenverachtenden Äußerungen zu Greta Thunberg, sowohl in den Artikeln, die hier veröffentlicht werden, als auch in den Kommentaren dazu? Sind die etwa sachlich?
+Also die Kraftwerke, die Deutschland bei einer Dunkelflaute eventuell noch vor einem Blackout größten Ausmaßes retten könnten.
+Ein Patient auf der Intensivstation fordert die Abschaltung des Beatmungsgeräts.
+Das ist Frau Schwarzelühr-Sutter. Studierte Ökonomin, aber von Klima keine Ahnung, und von Kernenergie erst recht nicht.
+Ich füge hinzu, im Durchschnitt war der Graben nur 1 m tief und trotzdem ist die Kuh ersoffen. Der Landwirt vor Ort wüsste was da zu tun ist. Politiker ohne naturtwissenschaftliches Verständnis delegieren das „Problem“ in die Ausschüsse.
+Ergebnis wie bei der Suche nach der schwarzen Katze in einem dunklen Raum, die gar nicht drinne ist und der Aufschrei Hurra, wir haben sie!
+Den Stromleistungsbedarf in Deutschland bestimmen die Kunden. Er wird in GW gemessen!! Wie die Energiewirtschaft das sekundlich realisiert bzw. kann trotz des Zappelstromes interessiert kaum jemand.
+Die Arbeit des Stromes als Integral der Leistung in GWh. So wie aus einer Wasserverbundleitung niemals das Wasser aus den Alpen in Hamburg ankommt ist es auch mit dem Strom. Er wird nur je nach Anbieter verrechnet. Die Physik der Stromerzeugung, Verteilung und des Verbrauches ist durch die Priorisierung des Wind- und Photovoltaikstromes von der Ökonomie und Verrechnung entkoppelt. Das treibt die tollsten Blüten, die niemand mehr erklären kann, außer die die Katze erwischt haben.
+Weder das Wetter noch irgend ein Klima der Erde wird von den deutschen Maßnahmen irgend etwas bemerken. Die einzigen, die etwas zu spüren bekommen, sind die deutschen Bürger. Sie werden stark zur Kasse gebeten und bekommen dafür durchwegs schlechtere Energieversorgung. Und mit schlechterer Energieversorgung verschlechtert sich automatisch alles mit (Produktion, Handel, Gewerbe, usw.). Aber die globalen Mitbewerber freut es natürlich, wenn Deutschland sich freiwillig selbst aus dem Rennen nimmt (unter dem freitäglichen Beifall von Kindern) …
+„Getrieben durch den Druck der Straßen, ausgelöst durch den Greta-Hype,“
+„Aktuell kommt nun die Nachricht, ganz konkret den Ökostromanteil an der Stromversorgung bis 2030 auf 65% zu steigern.
+Leichte Fehleinschätzung mit dem Greta-Hype und und „Aktuell kommt nun die Nachricht“
+bereits seit 12. März 2018 ist das mit den 65% bis 2030 im Koalitionsvertrag festgelegt, so steht es zumindest in Zeile 442 und 3245.
+https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1
+Herr Maier immer bei der Wahrheit bleiben.
+@Klaus Maier
+„Offenbar zählt die Bundesregierung Strom aus Kernenergie nicht zum Ökostrom. Das bedeutet, dass die verbleibenden 35% ausschließlich aus Kraftwerken mit fossilen Energieträgern kommen müssen.“
+Die Kernkraft hat an der Nettostromerzeugung in Deutschland 2018 nur einen Anteil von um die 13,4%.
+Herr Maier immer bei der Wahrheit bleiben.
+Die Kernkraftwerke haben um die 72TWh in das Stromnetz abgegeben
+und um die 48TWh ist der Exportüberschuss an Strom 2018.
+Sind die AKW abgeschaltet bleibt eine Stromlücke bis 2030 von um die -24TWh.
+Der jährliche EE Zubau muss um die +2,4TWh Strom bringen die nächsten 10 Jahre.
+Wir brauchen einen jährlichen Zubau bei Solar von um die 2,4GWp Solarleistung.
+Oder 1.300 MW an Windradleistung (um die 325 Stück mit je 4MW Leistung)
+oder 163 Windkraftanlagen plus 6,6qkm Solarmodule (1,2GWp).
+In 2018 ist der Zubau bei der PV bereits +3,59GWp gebraucht wir aber nur ein jährlicher Zubau von nur +2,4GWp im Jahr um den Niedergang der Kernkraftwerk bei der Strommenge auszugleichen.
+Nur alleine der Solarzubau gleicht mehr aus als was bei der Kernkraft sich verabschiedet.
+In 2019 haben wir auch bereits in den ersten 8 Monaten +2GWp bei Solar zugebaut, dass werden auch bis zum 31.12.2019 über die erforderlichen +2,4GWp werden.
+man sollte sehr vorsichtig sein, anderen Menschen vorzuwerfen, nicht bei der Wahrheit geblieben zu sein. Dies gilt erst recht bei Ihrem Kommentar. Ihr erster Vorwurf kommt nur zustande, weil Sie nicht lesen können (mangelnde Lesekompetenz), ihr zweiter Vorwurf beruht darauf, dass Sie keine Ahnung von Prozentrechnung haben (Vergleich von Prozentsätzen unterschiedlicher Grundwerte). Im Folgenden überzeugen Sie nur noch damit, dass Sie offensichtlich nicht wissen, was ein arithmetisches Mittel (Durchschnitt) ist.
+Es trifft sich bei Ihnen wieder einmal sehr eindrucksvoll Inkompetenz und arrogante Anmaßung.
+MfG
+„Dies gilt erst recht bei Ihrem Kommentar. Ihr erster Vorwurf kommt nur zustande, weil Sie nicht lesen können (mangelnde Lesekompetenz)“
+Herr U. Langer,
+der „Greta-Hype“ begann erst 2019 und das mit den 65% EE-Strom ist bereits 2018 gesetzt für 2030 bei den Regierungsparteien.
+@U. Langer
+„ihr zweiter Vorwurf beruht darauf, dass Sie keine Ahnung von Prozentrechnung haben (Vergleich von Prozentsätzen unterschiedlicher Grundwerte).“
+Man kann das auch mit absoluten Zahlen in TWh rechen da kommt auch nichts anderes heraus.
+Die genanten 65% werden beim jetzigen EE-Ausbautempo bis 2030 leicht erreicht, auch wenn ab ende 2022 sich alle Kernkraftwerke in Deutschland und einige im EU-Ausland verabschiedet haben.
+Die Strommengen der Kernkraftwerke werden zum größten Teil von den Erneuerbaren übernommen.
+Haben Sie anderer Zahlen für Deutschland ?
+Null?
+„Nur alleine der Solarzubau gleicht mehr aus als was bei der Kernkraft sich verabschiedet.“
+Aber nur rechnerisch. Da jedoch bekanntlich die Sonne immer noch nicht bei Dunkelheit liefert (im Gegensatz zum Atomkraftwerk) sind diese Vergleiche eigentlich absurd!
+„Aber nur rechnerisch“
+Herr Klaus Maier hat ja nur die 65% EE-Strom bis 2030 vorgegeben und das ist kein Problem.
+Oder habe ich eine (mangelnde Lesekompetenz) ?
+„3. Bleiben Sie beim Thema des zu kommentierenden Beitrags.“
+Tehma sind die 65% bis 2030 EE-Strom.
+AKW nur schlecht ersetzen. In die 35% kann man die Wasserkraft reinpacken. Zur Not muss Deutschland halt importieren, die Devisen haben wir ja.
+warum blamieren Sie sich öffentlich dermaßen, indem Sie der Welt zeigen, dass Sie von Energietechnik und Energieversorgung absolut keine Ahnung haben. Reicht es Ihnen schon, einfach ein Freund von politischen Trampolinspringern und Eisverkäufern zu sein?
+Wenn Sie den von Ihnen errechneten Anteil von Nuklearkraftwerken abgeschaltet haben, sagen Sie doch den Bürgern und der interessierten Fachwelt, wie dann bei Wind- und Dunkelflaute die Leistung gedeckt werden soll! Das Integral der Leistung über das Jahr (Energie) gibt leider keinen Aufschluss über den momentanen Leistungsbedarf und die Deckung durch Kraftwerke. Wenn nach der Abschaltung konventioneller Kraftwerke kein Wind weht, können auch 100.000 zusätzlich installierte WKA keine elektrische Energie erzeugen.
+Was halten Sie von der Konsequenz aus Ihrer falschen und abstrusen Rechnung, wenn Sie dann behaupten, es sind sogar schon 1370 WKA mit je 4 MW zu viel gebaut worden?
+Und wenn Sie sich weiter technologisch auf dem Gebiet elektrischer Energieversorgung tummeln wollen, schreiben Sie doch einfach dazu, dass Sie nur Ihre Meinung vertreten, weil Sie auf dem Gebiet ahnungslos sind. Aber untermauern Sie Ihre Meinung nicht mit Rechnungen, die bereits im Ansatz falsch sind.
+Das können Sie ruhig unseren Politikern überlassen, die dürfen das im Auftrag der Meinungsmehrheit, die aber bald merken wird, dass trotz ihrer Meinung die elektrische Versorgung in Deutschland vor dem Zusammenbruch steht, auch wenn es sich im Verständnis erst einmal nur bei den Energiepreisen bemerkbar macht.
+Nur zur Aufbesserung Ihres Grundlagenverständnisses: „Sind die AKW abgeschaltet bleibt eine Stromlücke bis 2030 von um die -24TWh.“ Strom wird in A angegeben und nicht in TWh (Energie). Strom „fließt“ vom Generator zum Verbraucher und mit gleichem Betrag auch wieder vom Verbraucher zum Generator zurück (Kirchhoffsches Gesetz). Und grundsätzlich ist die Überproduktion elektrischer Energie mit teurer Verklappung politischen Gesetzen geschuldet (EEG) und nicht physikalisch bedingt.
+Hallo Herr Prof. Puschner,
+ganz herzlichen Dank für diesen Kommentar! Erstens zeigt er, wie sehr es sich lohnt, es eben nicht so zu machen wie auf den Alarmisten-Blogs und abstruse Meinungen zu sperren. Und zweitens – ich habe eigentlich auch keine Ahnung von Energieversorgung (außer dem, was aus meinen Übersetzungen hängen geblieben ist), aber ich sage das offen. Ihr Kommentar trägt da sehr viel zu meinem Verständnis bei. Und ohne Herrn Rinkert hätten Sie ihn vermutlich nicht geschrieben!
+Chris Frey
+„es eben nicht so zu machen wie auf den Alarmisten-Blogs und abstruse Meinungen zu sperren.“
+Das finde ich jetzt überaus witzig, wo hier doch jede Menge abstruser Meinungen zu lesen sind, z. B. über die angebliche Nichtwirkiung von CO2.
+Andersherum habe ich die Erfahrung gemacht, dass Meinungen, die nicht der des Admins entsprechen, allzu oft gelöscht werden, insbesondere dann, wenn sie mit harten Fakten untermauert sind, die die Eikianer schlecht leugnen können.
+Ich gehe mal davon aus, dass dieser Kommentar auch wieder nicht freigeschaltet wird, aber zumindest muss der Admin ihn zur Kenntnis nehmen.
+Herr Lötz,
+es werden beim EIKE GRUNDSÄTZLICH KEINE SACHLICHEN KOMMENTARE GELÖSCHT! Nehmen Sie das bitte zur Kenntnis! Und nennen Sie endlich nur einen einzigen Kommentar, der Ihrer Ansicht nach zu Unrecht gelöscht wurde!
+i. A. i. V. Admin
+https://www.welt.de/regionales/hamburg/article202094970/Neuntklaessler-in-Naturwissenschaften-schlechter-geworden.html?wtrid=onsite.onsitesearch
+„Hüpfen für das Klima“ statt Physik. Gute Nacht, Deutschland….
+wenn Sie bezüglich der Wirkung des CO2 so bewandert sind, dann erklären Sie doch einmal den Mechanismus, der in seiner Wirkung beim PIK (Schellnhuber, Rahmstorf) als angenommener Parameter in die Computer-Modellierung einfließt und als Ergebnis sog. Projektionen liefert. Projektionen sind keine Prognosen!
+Insbesondere die Schwingungsanregung durch Wärmestrahlung und deren Rückstrahlung zur Erde, um die Energiebilanz (nicht die Temperatur!) zu höheren Werten zu verschieben. Berücksichtigen Sie bei Ihrer Erklärung insbesondere die Dämpfung, die jeglicher Strahlung innerhalb der Erdatmosphäre widerfährt und geben Sie vielleicht auch noch an, nach wie vielen Dämpfungsvorgängen bei der Durchdringung der 99,94 % der restlichen Gasmolekühle der Atmosphäre die Strahlung auf 63 % bzw. 95 % als Wärme in der Atmosphäre wieder umgewandelt worden ist. Interessant wäre noch zu erfahren, auf wie vielen Millimeter Strecke Entfernung vom ursprünglich angeregten CO2-Molekül das passiert.
+Wenn Sie das dann weiterverfolgen, werden auch Sie zum dem Schluss kommen, dass die CO2-Rückstrahlung die Erde gar nicht mehr erreichen wir. Dämpfung kennen Sie sicher, wenn das Satellitensignal (HF-Strahlung) Ihre Antenne je nach Witterung nicht oder nur stark abgeschwächt erreicht und das Fernsehbild verschwindet.
+Da Sie sich über die Nichtwirkung des CO2 beschweren, können Sie gerne meine Fragen beantworten. Und wenn das gar nicht Ihr Gebiet ist, sollten Sie Kontakt zu den 97 % aussortierten Wissenschaftlern aufnehmen. Ich bin jedenfalls gespannt.
+„Und nennen Sie endlich nur einen einzigen Kommentar, der Ihrer Ansicht nach zu Unrecht gelöscht wurde!“
+Hallo Chris Frey,
+EIKE Zensiert, Beispiel:
+@Admin
+„Ihr Beitrag wurde wg. Regelverletzung gelöscht. Aber danke für den Hinweis auf den Stellenfehler im zughörigen Beitrag.“
+„Stromlücke bis 2030 von um die -24TWh.“ Strom wird in A angegeben und nicht in TWh (Energie).“
+Die 24THh sind Strom eine Strommenge in diesen Zusammenhang.
+A = Amper = Basiseinheit der elektrischen Stromstärke.
+https://de.wikipedia.org/wiki/Ampere
+Das sollte als Prof. Dr.-Ing. bekannt sein !
+? Strom ?
+In der Physik ist ein „Strom“ der Transport einer mengenartigen Größe.
+Bei der Stromversorgung sind das kWh, MWh, GWh, Twh usw.
+Das sollte als Prof. Dr.-Ing. bekannt sein !
+„…In der Physik ist ein „Strom“ der Transport einer mengenartigen Größe…“
+Nun versuchen Sie doch nicht, sich hier neunmalklug herauszureden.
+In dem Gebiet der Physik um den es hier geht, der Elektrotechnik, wird Strom in Ampere (A) gemessen.
+Dass landläufig Elektroenergie als „Strom“ bezeichnet wird, ändert daran nichts.
+Herr Manfred Pelowski, Strom wird in kWh, MWh …. gemessen betrachten Sie mal Ihre Stromrechnung wenn dann noch zweifel besten Bitte melden.
+Stromstärke wird in Ampere (A) gemessen wenn noch zweifel besten Bitte melden.
+Bei so machnen Aussagen von Herr Peter Puschner, Prof. Dr.-Ing. hat man so den Eindruck das er von Stromsektor und Energiesektor keine Ahnung hat.
+Sie sind bezüglich elektrotechnischer Grundlagen nicht nur erschreckend unbedarft, sondern zu allem Überfluss auch noch frech. Ein Elektrotechniker braucht nicht Wikipedia um zu wissen, dass Strom die Größe Ladungsträger pro Zeiteinheit ist. Und Strom ist weder Leistung in kW noch Energie in kWh. Und eine Menge Strom gibt es so wenig wie eine Menge Geschwindigkeit oder eine Menge Drehmoment. Und eine Stromleitung ist auch keine Wasserleitung, die etwas transportiert. Und wenn Energie transportiert wird, findet das außerhalb der Leitung statt. Dafür steht das Vektor-Produkt aus B- und H-Feld und das gibt auch gleich noch die Richtung an (sonst könnte man Hochspannungsleitungen nicht mit größerer Leistung bei gleichem Leitungsquerschnitt betreiben). Vielleicht haben Sie ja noch nicht verinnerlicht, dass der vom Generator gelieferte Strom zwangsläufig in diesen Generator wieder zurück fließt, er kann also gar nichts transportieren und irgendwo liegen lassen. Oder hat Ihre Leitung zum Toaster nur eine Ader? Schauen Sie doch einfach einmal nach! Es reicht der Blick auf den Stecker, nicht dass Sie da noch unter Spannung mit dem Schraubenzieher dran gehen (und ich es dann schuld bin).
+Eines allerdings macht Ihr Schreiben klar: Bei Dummheit kann man ruhig von einer Menge Dummheit sprechen. Und was die Elektrotechnik betrifft, das alles ist mir als Prof. Dr.-Ing. bekannt. Wie skurril Ihre Ausführungen sind, weiß man allerdings erst nach dem Lesen.
+Ihrem Schreibstil und sehr eingeschränktem Verständnis nach verbirgt sich hinter Ihrem Namen Harald Rinkert eher Владимир Калугин oder Vladimir Kalugin. Stimmt’s?!
+Liebe Grüße Jürgen Trilling
+Twh -> TWh
+Man komme den linksgrünen Neofaschisten doch nicht mit so einfachen Gedanken. Die glauben doch nicht, daß das so einfach ist. Wer viel Pech beim Denken hat, sieht den Wald vor lauter Bäumen schon lange nicht mehr.
+…. darf man Sie nach Ihrer Ausbildung bzw. Ihrer beruflichen Tätogkeit fragen? Mir schwant da was ….., sonst käme nicht diese „Qualität“ zum tragen.
+„…. darf man Sie nach Ihrer Ausbildung bzw. Ihrer beruflichen Tätogkeit fragen?“
+„sonst käme nicht diese „Qualität“ zum tragen.“
+…. darf man Sie nach „Tätogkeit“ fragen?
+Man kann unsere unter Bildungsnotstand (nicht Klimanotstand) leidenden Politiker bis zur Kanzlerin nicht in nennenswerter Zeit erforderliches Verständnis der Elektrotechnik und Energietechnik beibringen. Das gilt auch, wie ich vor kurzem geschrieben habe, für Staatssekretäre des BMWi. Nur nebenbei: Generatoren unseres 50 Hz Wechselstromnetzes erzeugen Spannung. Sie können durchaus im Leerlauf arbeiten und erzeugen dann keine Energie, die zu irren Kosten verklappt werden muss. Das bedingt die Physik. (Eine Spannungsquelle einer Taschenlampe (Batterie) leidet keine technische Not, wenn das Birnchen nicht eingeschaltet ist. Die darin gespeicherte Energie muss nicht verklappt werden.) Die Verklappung ist kein physikalisches Erfordernis, sondern ein willkürliches von Politikern geschaffenes Gesetz.
+Der größere Wahnsinn findet sich an ganz anderer Stelle. Ich formuliere es einmal als Frage für die angestrebte 100 % Versorgung mit sog. erneuerbaren Energien:
+Wie naiv muss man eigentlich bei der inzwischen als Hype hochgepeitschten Klimabesorgnis sein, wenn man der Atmosphäre mit all ihren noch längst nicht bekannten Besonderheiten allein in Deutschland jährlich 600 TWh Energie entzieht, diese in Ballungszentren und Industrie verschiebt, wo sie letztlich im Endzustand als Wärme wirkt. Mit allen Verlusten ergeben sich noch 20 % bis 30 % höhere Werte, also nahe an 1000 TWh. Und dieser äußerst massive Eingriff in das Ökosystem soll ohne Folgen sein?
+Das ist der Grund, warum ich vom Bildungsnotstand spreche, der dringend ausgerufen werden muss. Bei den Politikern sollte man anfangen. Dabei gibt es für dieses Gebiet weltweit Ingenieure und Fachleute, die die physikalischen und elektrotechnischen Gesetze beherrschen. Warum müssen sich Trampolinspringer, Eiskugel-Verkäufer, Soziologen und sonstige Personen daran machen, unser über Jahrzehnte gewachsenes stabiles Energiesystem für ein paar Wählerstimmen zu ruinieren?
+Man kann es noch viel einfacher sehen, so kann es auch von der genannten Personengruppe verstanden werden: Wir bekommen in unserem irdischen Leben nichts geschenkt. Jeder Eingriff, ob Kohleabbau, Zementbrennen, Solaranlagen- und Windanlagenherstellung, Akku-Bereistellung, Wasserkraftwerke usw. hinterlässt Spuren im Ökosystem, im Neusprech Fußabdrücke. Die Verleugnung nachteiliger Eingriffe durch Energieentzug aus der empfindlichen Atmosphäre ist nur mit beschränkter Denkweise, schlicht, Dummheit zu erklären.
+Ein altes, aber bewährtes Sprichwort lautet: „Schuster bleib‘ bei deinem Leisten!“ Wieso wollen oder müssen technisch unausgebildete Politiker in unserem Land eigentlich mit Energieversorgung herumspielen und das Leben einer gesamten Nation auf’s Spiel setzen? Dürfen die das, nur weil sie es selbst nicht merken? Oder haben sie zusammen mit Schellnhuber, Rahmstorf, Greta, Luisa und anderen Tausende Milliarden Euro Rückstellungen gemacht, wenn man sie in naher Zukunft zur Rechenschaft ziehen wird?
+Zwar gibt es derzeit keine Lösung und es ist auch meilenweit keine in Sicht. Aber der Bayerische Umweltminister und der Ministerpräsident Söder wissen genau, dass das nur an bisher zu wenig Forschung liegt.
+Deshalb wird die Forschung verstärkt (Einstellen vieler, vieler, zusätzlicher Professoren). Bei der Bekanntgabe vermittelte Herr Söder, dass damit das Speicherproblem gelöst ist. Er vergaß zu sagen, wann und wenn überhaupt einmal, zu welchen Kosten. Solche Überpräzisierungen will aber von einem Juristen wohl auch niemand verlangen.
+Auch kann sich die Bayerische Koalition auf die Fachexpertise großer, bayerischer Versorger (selbstverständlich auch von C. Kemfert und Fachprofessor Quaschning) stützen, die das Speicherproblem für nebensächlich und damit als nicht prior betrachten.
+Die bisherige Lösung im Energiesystem, immer ausreichend Strom parat zu halten, war starr und unflexibel und schrie geradezu nach Innovation. Denn heutzutage geht man nicht stur konservativ und veraltet technisch vor, sondern modern mit „Intelligenz“, dazu ganz wichtig: künstlicher.
+Dem Stromkunden muss endlich klar sein, dass Strom eine rein freiwillige Leistung des Versorgers ist und die Grundgebühr nur die Möglichkeit einer Belieferung beinhaltet, er auf das Lieferns selbst also gar keinen Anspruch hat. Schließlich leben damit die Bewohner vieler Länder zufrieden und glücklicher als die im „immer verfügbar“-gehetzten im Westen.
+Wer trotzdem weiterhin meint, Strom immer zu benötigen, kann vom Versorger ein Akku-Backup kaufen. Damit hat er endlich die Möglichkeit, für sich optimiert, seine persönliche, versorgungssichere Zeit zu bestimmen und nur diese (zusätzlich) zu bezahlen. Eine typische, „hoch-intelligente“ Win-Win Situation für beide Partner (vor allem für den Versorgervorstand, der gleichzeitig die Akku-Verkaufsfirma betreibt).
+Sollte daran irgendetwas doch wider Erwarten schief gehen, gibt es ja zudem noch ein Backup: Strom zu Gas.
+Strom wird gewandelt, methanisiert, im Gasnetz gespeichert und dann zurückgewandelt. Gut, großtechnisch noch nirgens verfügbar oder erprobt und mit 25 … 30 % Wirkungsgrad führt es auch zu einem höheren Strompreis.
+Doch gelöst sind auch diese Probleme bereits: Bayern verstärkt die Forschung dazu und stellt (bald) viele, viele, neue Professoren ein ….
+Man erkennt, in Bayern schlagen die Uhren seit Söder und Freie Wähler-Koalition hoch-intelligent. Und eben nicht nur ausreichend Speicher, sondern sogar zwei Lösungen dafür sind bereits (politisch) verfügbar. Es ist ja bereits gelungen, die Drähte der Stromleitungen „Verbraucherintelligent“ zu machen, warum soll das beim Rest des Energiesystems nicht auch gelingen? Nur wer unseren Politikern voll vertraut, kann ruhig schlafen …
+„Energiewende ins nichts“
+ich habe mir den ganzen Vortrag nicht angehört, fand aber beeindruckend, dass Prof. Sinn gleich zu Anfang (ca. 1:40) allen Klima-„Skeptikern“ eine große Klatsche verpasst: „Der Treibhauseffekt als solcher steht hier nicht infrage und ich bin auch zutiefst überzeugt, dass er stattfindet und eine große Bedrohung für die Menschheit ist.“ Im Folgenden macht er CO2 für Klimaänderungen verantwortlich. Damit sollte er sich eigentlich für alle Klima-„Skeptiker“ als Autorität, auf die man argumentativ verweisen könnte, erledigt haben.
+Das kommt dabei heraus, wenn, auch Herr Hans-Werner Sinn, Experten über Dinge reden, von denen sie keine Ahnung haben.
+Wäre er gehört worden, hätte er das Glaubensbekenntnis nicht heruntergeleiert?
+Herr Prof. Sinn,
+ist der Meinung das man das mit 100% EE-Strom berechnet und kommt zum Ergebnis das es nicht klappt.
+Nur sollte Herr Prof. Sinn sich an der Realität orientieren und das sind 65% bis 2030 beim Strom politisch erst mal gesetzt.

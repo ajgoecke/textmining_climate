@@ -1,0 +1,196 @@
+Bild rechts: Stufen! Bild: Rainer Sturm / pixelio.de
+Viele glauben, dass die Temperaturen mit dem ziemlich stetig zunehmenden CO2-Eintrag so stetig und stabil zunehmen würden, wie es beispielhaft die Grafiken aus WIKIPEDIA (Bild1) und vom wiki.bildungsserver (Bild2) darstellen.
+Bild1 Darstellung der globalen Temperatur-Anomalie aus WIKIPEDIA
+Bild2 Darstellung vom wiki.bildungsserver über den CO2- Einfluss auf die Temperatur
+Solche Darstellungen mit stark gedehnter Temperatur-Achse und Mittelwertverdichtung „verstellen“ jedoch den Blick auf die wirklichen Klima-Variabilitäten und „wischen“ wichtige Problem-Details der Temperaturkurven beiseite.
+Die „Temperaturtreppen“
+Bereits im Bild 1 lassen sich deutlich Sprünge im Verlauf erkennen. Löst man diese weiter auf, kommt man zur Überlegung, wie CO2 als vorwiegendes Forcingelement dazu führen soll. In einem Flyer des Vereins Klimanotizen finden sich dazu Darstellungen und in der Publikation Temperature Trends – an alternative analysis that challenges the consensus-view von Professor Raunsø Jensen steht Detaillierteres. Doch soll eine Ursachenfindung nicht Inhalt dieses Artikels sein.
+Im Artikel über die „Fühlbarkeit des Klimawandels“ wurde vom Autor beispielhaft gezeigt, wie solche Temperaturkurven aussehen und dass sich bei detaillierter Betrachtung in Deutschland (nach Meinung des Autors) kein Anlass für einen Klimaalarm ergibt. Die Grafiken in diesem Artikel waren durch die WEB-Umsetzung leider etwas klein geraten und damit unscharf. Zudem wurde von Bloglesern bemängelt, dass die Datenquellen nicht vollständig nachvollziehbar wären.
+Deshalb hat der Autor ganz aktuell vom DWD-Datenserver Langfrist-Klimadaten mit Tagesauflösung geladen und grafisch aufbereitet, um in der Detaillierung zu zeigen, dass die „beschworene“ Korrelation zwischen stetig steigendem CO2 und Temperaturverlauf über sehr weite Zeitstrecken nicht existiert – und dass es im Verlauf Sprünge gibt, welche (neben deutlichen Zyklen) auf stärkere, andere Ursachen für die Temperaturveränderungen schließen lassen. Zudem wird damit auch wohl jedem klar, warum Klimaalarm-Zeitreihen oft um 1980 beginnen (wie Bild 2) und dass die angeblich den Untergang beschwörende 2 °C Welt-Erwärmung nicht einmal im temperaturschwankungsarmen Deutschland außerhalb natürlicher Schwankungen liegen.
+Dargestellt wurden dazu der Temperatur-Mittelwert und parallel die Maximalwerte, welche besonders Klimawandel-auskunftsträchtig, d. h. stark erhöhend sein müssten.
+Hinweis: In fast allen Datensätzen sind um 1945 -46 erhebliche Datenfehler enthalten. Soweit diese eindeutig waren, wurden Datenfehler entfernt (aber nicht homogenisiert).
+Hohenpeißenberg
+DWD-Datensatz Hohenpeißenberg (Bayern, Stations-ID 2290) mit Tagesauflösung, Bereich 1781 – 2014
+Bild3.1 Hohenpeißenberg Verlauf der Temperatur-Mittelwerte 1781 – 2014
+• Blau: Temperatur Jahresmittel (linke Temperaturskala 3 …. 10 °C)
+• Rot: Temperatur 30-Jahresmittel (linke Temperaturskala 3 … 10 °C)
+Bild3.2 Hohenpeißenberg (Bayern) Verlauf der Temperatur-Maximalwerte 1880 – 2014
+• Rot: Maximaltemperatur Tageswerte (linke Temperaturskala -25 …. +35 °C)
+• Blau: Maximaltemperatur Jahresmittel (rechte Temperaturskala 4 … 16 °C)
+• Rot: Maximaltemperatur 30-Jahresmittel (rechte Temperaturskala 4 … 16 °C)
+Zugspitze
+DWD-Datensatz Zugspitze (Stations-ID 5792) mit Tagesauflösung, Bereich 1900 – 2014
+Bild4.1 Zugspitze Verlauf der Temperatur-Mittelwerte 1900 – 2014
+• Blau: Temperatur Jahresmittel (linke Temperaturskala -8 …. -2 °C)
+• Rot: Temperatur 30-Jahresmittel (linke Temperaturskala -8 … -2 °C)
+Bild4.2 Zugspitze Verlauf der Temperatur-Maximalwerte 1900 – 2014
+• Rot: Maximaltemperatur Tageswerte (linke Temperaturskala -40 …. +20 °C)
+• Violett: Maximaltemperatur Jahresmittel (rechte Temperaturskala -7 … +2 °C)
+Potsdam
+DWD-Datensatz Potsdam (Stations-ID 3987) mit Tagesauflösung, Bereich 1893 – 2014
+Bild5.1 Potsdam Verlauf der Temperatur-Mittelwerte 1893 – 2014
+• Blau: Temperatur Jahresmittel (linke Temperaturskala +6 …. +13 °C)
+• Rot: Temperatur 30-Jahresmittel (linke Temperaturskala +6 … +13 °C)
+Bild5.2 Potsdam Verlauf der Temperatur-Maximalwerte 1893 – 2014
+• Rot: Maximaltemperatur Tageswerte (linke Temperaturskala -20 …. +40 °C)
+• Violett: Maximaltemperatur Jahresmittel (rechte Temperaturskala +7 … +19 °C)
+Bremen
+DWD-Datensatz Bremen (Stations-ID 691) mit Tagesauflösung, Bereich 1890 – 2014
+Bild6.1 Bremen Verlauf der Temperatur-Mittelwerte 1890 – 2014
+• Blau: Temperatur Jahresmittel (linke Temperaturskala +6 …. +13 °C)
+• Rot: Temperatur 30-Jahresmittel (rechte Temperaturskala +8 … +11 °C)
+Bild6.2 Bremen Verlauf der Temperatur-Maximalwerte 1890 – 2014
+• Rot: Maximaltemperatur Tageswerte (linke Temperaturskala -16 …. +40 °C)
+• Violett: Maximaltemperatur Jahresmittel (rechte Temperaturskala +6,5 … +20,5 °C)
+Greifswald
+DWD-Datensatz Greifswald (Stations-ID 1757) mit Tagesauflösung, Bereich 1898 – 2014
+Bild7.1 Greifswald Verlauf der Temperatur-Mittelwerte 1898 – 2014
+• Blau: Temperatur Jahresmittel (linke Temperaturskala +4 …. +12 °C)
+• Rot: Temperatur 30-Jahresmittel (linke Temperaturskala +4 …. +12 °C)
+Bild7.2 Greifswald Verlauf der Temperatur-Maximalwerte 1898 – 2014
+• Rot: Maximaltemperatur Tageswerte (linke Temperaturskala -22 …. +38 °C)
+• Violett: Maximaltemperatur Jahresmittel (rechte Temperaturskala +4,5 … +18,5 °C)
+Deutschland
+DWD-Datensatz Deutschland, Bereich 1880 – 2014. Anm.: Dieser hat nur Jahresauflösung und bietet keine Maximaltemperaturen.
+Bild8.1 Deutschland Verlauf der Temperatur-Jahreswerte 1880 – 2014
+• Blau: Temperatur Jahresmittel (linke Temperaturskala +6 …. +11 °C)
+Bild 8.2 Deutschland Verlauf der Temperatur-Mittelwerte vom Monat Juli 1880 – 2015
+• Blau: Temperatur Mittelwerte Juli 1880 – 2015 (linke Temperaturskala +14 …. +22 °C)
+Fazit
+Wer sich bis hier zum Ende durchgesehen hat, wird sich wohl fragen, wo die vom IPCC beschworene, absolut sichere CO2-Korrelation mit der Temperaturerhöhung ableitbar sein soll und warum die Maximalwerte nicht zunehmen, obwohl es aufgrund des CO2-Eintrags immer heißer werden „muss“.
+Und wird sich fragen, was passieren würde, falls es jemandem gelänge, die „Temperaturtreppe“ um 1990 als nicht CO2-bedingt zu belegen*. Oder umgekehrt, ob es deshalb gerechtfertigt ist, Deutschland zwangsweise zu „Entkarbonisieren“.
+*Damit dies nicht geschehen kann, sorgt inzwischen die in Deutschland neu errichtete „Mediale Klimaforschung“. Politik- und Medienwissenschaftler forschen im öffentlichen Lehrstuhl-Auftrag, wie sicher verhindert wird, dass Medien noch über Klimaskeptiker und –Leugner berichten (dürfen).
+Auswirkungen sind bereits erkennbar. Zum Beispiel haben die 8 gelisteten Redakteure vom Portal Klimaretter.info die Kern-Ausbildungen:
+7x Politik oder / und Philosophie, 1x Umwelt- und Energieverfahrenstechnik
+Herr Kuntz,
+es gibt keine CO2-Theorie. Das was Sie meinen ist eine Hypothese, die noch des Beweises entsprechend den Regeln der Wissenschaftstheorie harrt.
+Und was die Temperaturmessungen betrifft, sollten Sie sich mal anschauen, wo in Lübeck auf dem Flughafen die Meßgeräte positioniert sind. Ohne genaue Stationshistorie sind Zeitreihen unbrauchbar. Das gilt für Niederschläge, Windgeschwindigkeiten, Temperaturen und die Wettererscheinungen. Über einer Metropole wie Hamburg ist die Konvektion stärker als im Umland und die Wolkenbasis der Cumuli höher.
+„Der Aufwand CO2 einzusparen ist übrigens beiweiten nicht so hoch, wie gerne geglaubt wird, insbesondere im Vergleich zu den Folgekosten, wenn man nix tun würde.“
+Den Glauben halten weder Ochs noch Igel auf.
+Hatte gehofft, dass jemand aus der Klimawandelfraktion dazu fundierteres sagen würde,als nur an den Kurven und Zacken rumzumäkeln.
+Für mich zeigt es damit weiterhin, dass entweder an der CO2-Theorie etwas nicht stimmt, oder / und an den Temperaturkurven.
+Der vorletzte Satz soll lauten:
+Ist die LUFTTEMPERATUR_MAXIMUM gleitend über 365 x 30 Tage gemittelt (damit 30 Jahre)
+Sehr geehrter Herr Ketterer. Für Sie anbei die Bezeichnungen im DWD-Datensatz und die Herleitungen für die Grafik.
+Bild3.2 Hohenpeißenberg (Bayern) Verlauf der Temperatur-Maximalwerte 1880 – 2014
+• Rot: Maximaltemperatur Tageswerte (linke Temperaturskala -25 …. +35 °C)
+DWD: LUFTTEMPERATUR_MAXIMUM (Tageswerte)
+Die 85000 Werte sind in den roten Balken „versteckt“. Würde man zoomen, könnte man es auflösen.
+• Blau: Maximaltemperatur Jahresmittel (rechte Temperaturskala 4 … 16 °C)
+DWD: LUFTTEMPERATUR_MAXIMUM; über 365 Tage gleitend gemittelt
+Es damit der Mittelwert der MAXIMUM-Werte alleine, nicht MAX-MIN-Werte.
+• Rot: Maximaltemperatur 30-Jahresmittel (rechte Temperaturskala 4 … 16 °C)
+Ist das gleitende Jahresmittel gleitend über 365 x 30 Tage gemittelt
+Die Mittelwerte sind immer gleitend. Sonst wäre die Ermittlung bei den vielen Datensätzen zu aufwendig geworden.
+Man hat die Solarkonstante mehrfach gemessen und misst diese glaube ich mittlerweile mehr oder weniger kontinuierlich. Frage: Ist die langwellige Abstrahlung der Erde auch gemessen worden bzw. wird gemessen? Oder ist das ein Ansatz, der sich ausschließlich auf Grund der Hauptsätze als theoretisch Größe ergeben muss?
+Eine interessante Webseite zu diesem Thema ist http://ceres.larc.nasa.gov (CERES: Clouds and the Earth’s Radiant Energy System)
+Sehr geehrter Kommentator, wenn die Allgemeinheit nur aus der EIKE-Homepage bestehen würde, hätten Sie vollkommen Recht.
+Der Aufwand CO2 einzusparen ist übrigens beiweiten nicht so hoch, wie gerne geglaubt wird, insbesondere im Vergleich zu den Folgekosten, wenn man nix tun würde. Alleine eine höhere Energieeffizienz ist ökonomisch sinnvoll. Man muss aber zuvor bereit sein Geld in die Hand zu nehmen und zu investieren.
+Nette Feststellung die Sie da liefern. Nur braucht die Wirtschaft zur Effizienzsteigerung keine politischen Vordenker. Das können die Betriebswirtschaftler wesentlich besser und mit Sicherheit auch effezienter.
+Zu # 17: Ich kann Ihnen nicht erklären, was Sie bei den Grafiken falsch gemacht haben.
+Wenn diese aber nicht das darstellen, was in der Bildunterschrift steht, was soll ich dann mit Ihnen diskutieren oder Ihnen erklären?
+Nehmen wir Bild3.2 (das beim 30-Jahresmittle eine seltsame Zitterkurve aufweist und mehr Werte in der Kurve (blau) hat als Jahre im jeweiligen Intervall liegen):
+Maximaltemperatur Tageswerte Ich nehme an, sie meinen die täglichen Maximumwerte. Soweit kann ich Ihnen folgen: Sowohl bei den „Warmen Monaten“ als auch bei den kalten Monaten sehe ich eine Zunahme der Maximalwerte, die sich auch im steigenden „Korridor“ (1980 bis 2015) der „Maximaltemperatur Jahresmittel“ andeutet.
+Nur ist mir nicht klar, was nun die Kurven darstellen:
+a)Die rote Balkengrafik: sie schreiben Maximaltemperatur Tageswerte. Es stellt sich mir die Frage, ob Sie versuchen hier 85000 Werte darzustellen?
+b)Den Jahresmittelwert der täglichen Temperaturmaxima?
+c)Dem Mittelwert aus täglicher Maximum und Minimum Temperatur?
+zu a und b: warum sind dann hier mehr werte als Jahre vorhanden?
+d)Die Maximaltemperatur der Jahresmittel solle nur ein nur ein Temperaturwert sein. Das Maximum der Jahresmittel: 8,3°C
+Sie sehen: solange Ihre Darstellungen unklar sind erübrigt sich jede Diskussion.
+„könnten Sie mir bitte einen Link zu einer verständlichen Darstellung des Gegenstrahlungseffektes nach gängiger IPCC-Lehrmeinung übermitteln?“
+Man könnte beim IPCC selbst kucken oder wenn es eine andere Quelle sein darf und auch englisch nicht im Wege steht: scienceofdoom.com
+Herr Lüdecke und Herr Frei haben eine ganze Artikelserie von dort hier übersetzt zur Verfügung gestellt. Unter den Rubriken „Atmospheric Radiation and the “Greenhouse” Effect“, „Back Radiation“, „Earth’s Energy Budget“,…, sollten Sie ausreichend Material finden. Da sollten am Ende eigentlich keine Fragen offen bleiben und falls doch, der Autor der Webseite diskutiert auch jede noch so schräge Frage relativ offen und sachlich.
+„könnten Sie mir bitte einen Link zu einer verständlichen Darstellung des Gegenstrahlungseffektes nach gängiger IPCC-Lehrmeinung übermitteln?“
+Hallo Herr Frei,
+das ist eine berechtigte Bitte.
+Damit fing mein „Skeptikertum“ an, da es diesen Link erstaunlicherweise nicht gibt.
+Jedenfalls kenne ich keinen.
+Nach Aussage von Prof. Kramm gibt es 13 verschiedene Beschreibungen des Treibhauseffektes, die ulkigste findet sich im IPCC-Report von 2004 (glaube ich):
+dort wird das Bildchen von Al Gore verwendet, in 8 km Höhe wirft das CO2 die IR-Strahlung der Oberfläche auf diese zurück.
+Aktuellere Varianten basieren auf der Anwendung der Strahlungstransportgleichung und der Nettierung von entgegengerichteten Strahlungsflüssen.
+Herr Ohle hat mir kürzlich mit folgenden Link auf eine Beitrag geantwortet:
+http://tinyurl.com/oocfbq9
+Er bezieht sich auf einen Artikel auf Science Sceptikal, ich glaube von Peter Heller himself
+Dieser Link funktioniert aber nicht mehr, vielleicht kann Herr Ohle nochmals nachlegen,
+oder Sie suchen auf Science Sceptical unter
+„Peter Heller“.
+MfG
+Guten Tag Herr Keks,
+könnten Sie mir bitte einen Link zu einer verständlichen Darstellung des Gegenstrahlungseffektes nach gängiger IPCC-Lehrmeinung übermitteln? Sie scheinen sich mit dem Thema intensiv auseinanderzusetzen.
+Danke!
+Peter Frei
+M;an hat die Solarkonstante mehrfach gemessen und mistt diese glaube ich mittlerweile mehr oder weniger kontinuierlich. Frage: Ist die langwellige Abstrahlung der Erde auch gemessen worden bzw. wird gemessen? Oder ist das ein Ansatz, der sich ausschließlich auf Grund der Hauptsätze als theoretisch Größe ergeben muss?
+Wie werden die Anteile der im gängigen Klimamodell angesetzten Strahlungs-/ Konvektionsflüsse gemessen? Gibt es hierzu überhaupt Messungen? Woher weiß man, dass die ankommende solare Strahlung mit einem Anteil von 77W/m² von der Atmosphäre und mit 30 W/m² von der Erdoberfläche reflektiert wird? Ist das alles nur Modell oder sind diese Werte messtechnisch nachgewiesen? Wenn ja, mit welchen Verfahren?
+Danke für Links, die das klären/ erklären können!
+Sehr geehrter Herr Knutz,
+Im Prinzip haben Sie schon recht, nur ist die Beweisführung mit lokalen Temperaturkurven etwas problematisch. V. allem Ozeanzyklen verschieben die Temperaturen im 30+30 Jahresrhytmus.
+Wir wissen, dass dadurch die Temperaturen auf der Nordhalbkugel in den Letzten Jahrzehnten stärker gestiegen sind, was man auch am leicht verringerten arktischen Meereis sieht.
+Nimmt man global einigermaßen verlässliche globale Datensätze, dann sieht man einen Anstieg von ca. 1975 bis 1998 und von da an sogar einen leichten Abfall.
+Verlässliche CO2-Aufzeichnungen haben wir erst seit 1958. Erst nach dem 2. Weltkrieg haben wir Menschen überhaupt nennenswert CO2 in die Atmosphäre eingetragen, so dass Aussagen über Einflüsse seit 1750 oder sogar seit der Steinzeit eher Ouatsch mit Soße und nicht ernst zu nehmen sind.
+Hier sehen wir Hadcrut3 und RSS Daten im Vergleich mit der Mauna Loa CO2-Kurve:
+http://tinyurl.com/pn465su
+Auch wenn der Begriff „richtige globale Durchschnittstemperatur“ nicht sinnvoll ist, geben globale Datensätze doch ein eindeutigeres Bild.
+Sehr geehrter Herr Ketterer. Anstelle Zacken abzuzählen hätte es mir gefallen, von Ihnen zum Thema Erklärungen zu bekommen.
+Das Enden meines letzen Posts sollte nicht „… „Zacken“ aks jare vorhanden sind.“
+heißen, sondern nicht „… „Zacken“ als Jahre vorhanden sind.“
+Wenn ich mir die Abbildungen 7.1 und 6.1 anschaue, kommen mir Zwiefel an Ihrer „internen Qualitätsprüfung“. Wie bekommen Sie die „Zitterkurven“ beim 30 Jahresmittel hin?
+Und wie in #14 schon angemerkt:
+Ihre Jahresmittelwerte haben in den jeweiligen Intervallen mehr „Zacken“ aks jare vorhanden sind“
+wenn Abb 3.1 und 4.1 Jahresmittelwerte darstellen (sollen) wieso weißen die Kurven wit mehr „Zacken“ auf als die Abbildung 8.1. Ich hätte Kurven wie in 8.1 erwartet (für Jahresmittel): nicht mehr als 20 Werte in einem 20 Jahresintervall
+Dann erzählen Sie das doch den Umweltminister-/innen, dass der IPCC bezüglich CO2 als wichtigem Faktor bisher vollkommen missverstanden wurde und die CO2-Reduzierungsmaßnahmen unsinnig sind, da eine für jeden Laien erkennbare Fehlinterpretation der Berichte.
+Wie von N. Baecker kommen auch von Ihnen zwar oft kluge Einwände, aber selten Erklärungen, welche zum Artikelinhalt beitragen.
+Wenn man die grafisch aufgetragenen Durchschnittswerte der einzelnen Jahre mit einer Trendlinie versieht, sieht man eine Linie, die einen Temperaturanstieg von 1 Grad in diesem Zeitraum darstellt. Legt man die Trendlinie über den Zeitraum von 1890 bis 1934, beträgt hier der Temperaturanstieg bereits 0,9 Grad. 1934 bis 1987 fällt die Trendlinie wieder um 0,4 Grad. Auch für den Zeitraum 1911 bis 1987 fällt der Trend um 0,3 Grad. Für den Zeitraum 1988 bis 2012 wird ein Trend von 0,3 Grad Temperaturanstieg ermittelt. Da die Durchschnittstemperaturen von Jahr zu Jahr stark schwanken, kann man die Richtung des Trends wesentlich beeinflussen, indem man einen entsprechend niedrigen oder hohen Anfangs- oder Endpunkt der Linie wählt. Bei jährlichen Schwankungen der Durchschnittstemperatur zwischen den einzelnen Jahren von 2 bis 3 Grad nach oben und unten sowie durch das Fehlen einzelner Jahre sind solche Trends statistisch sehr zweifelhaft. Außerdem muss man berücksichtigen, dass sich in den 122 Jahren die Meßgeräte geändert haben und durch starke Bebauung ein Wärmeinseleffekt nicht auszuschließen ist.
+Das scheint wohl der Unterschied zu sein, mich haben die Aussagen von NicoBaecker nicht überrascht, weil es mir schon vorher bekannt war. Es ist auch nicht so, dass ALLE die IPCC-Berichte so interpretieren, wie Sie es tun. Wenn Sie persönlich die Berichte so wahrgenommen haben, dann ist das in Ordnung, aber wie kommen Sie darauf, von allen zu sprechen? Ich kann nur das wiederholen, was auch schon hier mehrfach geschrieben wurde, der Anteil der Treibhausgase in der Atmosphäre ist ein wichtiger Faktor in der Klimaentwicklung, aber nicht der einzige.
+MfG
+S.Hader
+„Natürlich sieht man keinen direkten Zusammenhang zwischen CO2 und Temperatur.
+Wie denn auch? Wieviele unabhängige Variablen bestimmen die Temperatur an einem Ort und wieviele abhängige zum Zeitpunkt t, t+1, … t + n?
+Sie sagen „natürlich sieht man keinen Zusammenhang zwischen CO2 und Temperatur“. Und meinen, „in den letzten Jahrzehnten ist das meiste CO2 ausgestoßen worden.“
+Bringen Sie doch bitte einfach eine Erklärung, warum dann die Temperaturänderung seit Beginn der Industrialisierung als wesentlich gilt und „kein Zusammenhang“ ein Belegt ist. Zudem, warum ein überproportionaler CO2-Anstieg zu einer Treppenfunktion im Verlauf führt, der im Wesentlichen nur die Kälte „entfernt“, die Temperaturspitzen aber nicht erhöht (Deutschland ev. +0,1 Grad in 32 Jahren).
+Wenn Sie nach „Klimawandel Hitze“ googeln, dann gilt gerade die Erhöhung der Maximaltemperaturen als wesentliches Merkmal dieses „Wandels“. Und genau das passiert nicht
+(falls Sie meine anderen Artikel lesen: weder in Deutschland noch im nahen Osten). Es wird nur in Simulationen heißer. Und wie (un-)genau diese sind und was von den Vorhersagen der „führenden“ Klimazunft zu halten ist, zeigt sehr schön der heutige Artikel über den Kilimandscharogletscher.
+Hier ist auch das meiste CO2 ausgestoßen worden.
+Natürlich sieht man keinen direkten Zusammenhang zwischen CO2 und Temperatur. Aber die Kurven sind auch kein Beweis, dass CO2 gar keinen Einfluss hat.
+Ich habe bislang nicht davon gehört, daß beim Klima die Physik gescheitert wäre.
+Können Sie mir daher das/die physikalische(n) Gesetz(e) im Konkreten nennen, das/die Ihrer Meinung nach bei dem Zusammenhang zwischen CO2 und bodennaher Temperatur wie die Äthertheorie gescheitert ist/sind?
+Über Ihre Aussagen bin ich etwas überrascht. Vielleicht behauptet es der IPCC im hintersten Winkel seiner langen Darstellungen nicht. Nur alle lesen es so und der IPCC widerspricht dem nicht.
+Zitat aus Klimfakten.de:
+Die gegenwärtige Erderwärmung vollzieht sich viel zu schnell und zu heftig, als dass sie mit orbitalen Faktoren erklärt werden könnte zumal die gegenwärtigen Veränderungen der Erdbahnparameter zu einer sehr langsamen Abkühlung führen müssten.
+Im fünften Sachstandsbericht des IPCC Teilbericht 1 (Wissenschaftliche Grundlagen) steht:
+Atmosphäre: Die globale Mitteltemperatur in Bodennähe stieg im Zeitraum von 1880 bis 2012 um 0,85 °C. Jedes der drei vergangenen Jahrzehnte war wärmer als alle vorhergehenden seit 1850.
+Was zeigen meine Darstellungen? Seit 1930..40 bis ca. 1980 .. 90 verliefen die Temperaturen in Deutschland durchgängig wie mit der Wasserwaage gezogen. Dann erfolgt ein Sprung um ca. 1 Grad, wobei in vielen Kurven der obere Wert gleich bleibt. Die Maximaltemperaturen in praktisch allen Kurven haben sich über den gesamten Messzeitraum aber fast nicht verändert. Bild 4.2 Zugspitze ist dazu ein extremes Beispiel.
+Und jetzt haben Sie recht: genau das sagt das IPCC an dieser Stelle.
+Nur sagt es nicht, dass dadurch, und weil die Maximalwerte im Gegensatz zum über Berechnung gewonnenen Mittelwert nicht (mit) steigen eine CO2-Korrelation eigentlich ausgeschlossen werden müsste. Wenn es dazu keine alternative Erklärung gibt (wobei es viele gäbe, von Messproblemen angefangen) kann trotzdem die des CO2 falsch sein. Alleine die waagerechten Kurvenverläufe über so lange Zeiträume mit den Sprüngen wären zudem ein Grund am grundlegenden Zusammenhang zu zweifeln.
+Das mit der „Physik in den Computer schütten“ ist einfach genial. Der moderne Papst wird bald die Bibel in den Computer schütten und simuliert dann genau, wann Jesus wiederkommt. Für den neuen PIK-Supercomputer sollte das kein Problem sein und Herr Schellnhuber fabuliert bestimmt gerne (gegen päpstliche Fördermittel) die Gleichungen.
+„Der kausale Zusammenhang und damit auch eine quantitative Korrelation (wenn auch nicht einfach linear) zwischen CO2 und bodennaher Temperatur folgt nicht aus der Beobachtung, sondern der Physik.“
+„Zudem findet sich kein Grund, der dem grundlegenden Zusammenhang zwischen CO2 und Temperatur entgegen spräche.“
+Es gibt auch keinen Grund, der dafür spricht!
+Aus der Physik folgt gar nix, höchstens aus der physikalischen Hypothese.
+Und die ist falsch!
+„Die Beobachtung läßt sich damit nur erklären.“
+Auch falsch!
+Oder wie paßt der 18-jährige Temperaturstillstand zum Anstieg des CO2 in der Atmosphäre und zur Treibhaushypothese?
+„Man kippt einfach die Physik in den Computer und raus kommt der Zusammenhang.“
+Klingt sehr nach „Klimawissenschaft“…
+Man muß aber fragen, welche „Physik“ in den Computer gekippt wird.
+„Die Abweichungen vom glatten Verlauf der Temperatur im Vergleich zum glatten Anstiegs des CO2 ist den angesprochenen weiteren Klimafaktoren geschuldet.“
+Na klar, was sonst!
+Welche sind das denn?
+Kann man die nicht auch in den Computer kippen?
+Sind Sie sicher, daß Sie einen Computer meinen und keinen Mülleimer?
+MfG
+das haben sie aber schön beschrieben: Beim Computer gilt garbage in garbage out. Besser kann den CO2 -Unfug nicht beschreiben. Chapeau für soviel Einsicht.
+MfG
+Sehr geehrter Herr Heinzow. Genau deshalb habe ich extra die aktuellen Daten vom DWD-Server geladen.
+Ich habe schon öfters publiziert, dass mich die teilweise „grausam schlechten“ Datenqualitäten wundern und vor allem, wie man daraus eine weltweite Temperatur mit der angegebenen Genaugkeit ermitteln will. Das gilt sowohl aktuell, vor allem aber historisch („historisch“ beginnt aber schon bei mehr als zwei Jahrzehnten zurück).
+Der Datensatz Hohenpeißenberg existiert in mehreren Varianten, da unterschiedliche Homogenisierungen der (natürlich zu warmen) historischen Daten vorgenommen wurden.
+„Wer sich bis hier zum Ende durchgesehen hat, wird sich wohl fragen, wo die vom IPCC beschworene, absolut sichere CO2-Korrelation mit der Temperaturerhöhung ableitbar sein soll und warum die Maximalwerte nicht zunehmen, obwohl es aufgrund des CO2-Eintrags immer heißer werden „muss“.“
+Die Antwort ist einfach und weitlich bekannt.
+a) behauptet dies der IPCC in keinem seiner reports in dieser simplen Weise.
+b) dann überrascht es auch nicht, daß in den IPCC Reports viele Klimafaktoren aufgelistet werden, die das Klima auf verschiedenen Zeitskalen determinieren. Die gegenwärtige anthropogene Zunahme der Treibhausgase auf der Zeitskala von Jahrzehnten wird vom IPCC und anderen wissenschaftlichen Institutionen und deren Wissenschaftlern als gegenwärtig der dominante Klimafaktor angesehen.
+c) „dominant unter vielen anderen“ Faktoren heißt nicht „einzig“, also ist Ihre Unterstellung schon einmal falsch.
+Der kausale Zusammenhang und damit auch eine quantitative Korrelation (wenn auch nicht einfach linear) zwischen CO2 und bodennaher Temperatur folgt nicht aus der Beobachtung, sondern der Physik. Die Beobachtung läßt sich damit nur erklären. Der Punkt ist, daß trotz der Forschung der Klimawissenschaftler in den letzten Jahrzehnten danach keine alternative Erklärung dafür gibt, die physikalisch überzeugend ist. Zudem findet sich kein Grund, der dem grundlegenden Zusammenhang zwischen CO2 und Temperatur entgegen spräche. Man kippt einfach die Physik in den Computer und raus kommt der Zusammenhang.
+Die Abweichungen vom glatten Verlauf der Temperatur im Vergleich zum glatten Anstiegs des CO2 ist den angesprochenen weiteren Klimafaktoren geschuldet.
+und absolutes Maximum 8,3 °C.
+Irgendwas stimmt da nicht mit den publizierten Daten.

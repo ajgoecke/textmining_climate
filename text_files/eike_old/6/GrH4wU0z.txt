@@ -1,0 +1,108 @@
+4Die Stadtwerke Haßfurth als kleiner Versorger (Vorsitzender des Aufsichtsrats: Der Bürgermeister von Haßfurth; städtischer Anteil: 82,1 %) hat sich enorm in EEG-Investitionen gestürzt:
+Bild 1 Stadtwerke Haßfurth, eigener Ökostromanteil
+Wie man anhand von Bild 1 sieht, entspricht das Strom-Einspeisevolumen an eigener Ökoenergie ziemlich genau dem Bundes-Mittelwert. Nun haben die Stadtwerke Haßfurt einen weiteren Schritt in die EEG-Zukunft vollzogen und einen Strom zu Gas-Konverter errichtet:
+Stadtwerke Haßfurth, Pressemitteilung: Ein Meilenstein der Energiewende
+Sie soll überflüssigen Windstrom „speichern“: Haßfurter Power-to-Gas-Anlage im Mainhafen geht in Betrieb.
+Pro Jahr werde der containergroße Elektrolyseur eine Million Kilowattstunden des Öko-Gases für 14 000 Pro-Windgas-Kunden von Greenpeace Energy“ liefern, … Geschäftspartner Zösch erklärte, dass sich durch den im Geldbeutel kaum spürbaren Mehrbetrag die Investition in die zwei Millionen Euro teure Anlage refinanzieren soll.
+Die Weiterführung von Zukunftsvisionen und wie ein Hochschulinstitut darüber für Jahre mit Forschungsmitteln versorgt wird, bitte direkt in der Pressemitteilung lesen.
+Fortschritt ist selten umsonst und was dieser kostet, soll einmal ganz grob anhand der spärlich recherchierbaren Zahlen abgeschätzt werden (die Stadtwerke Haßfurt haben auf die Nachfrage des Autors zu Kosten nicht geantwortet).
+Abschätzung Investkosten-Umlage
+Investkosten PEM-Anlage: 1,25 MW Leistung, Investitionskosten 2 Mio. EUR. Nach ca. 15 Jahren ist sie zu erneuern. Anm.: Eine PEM-Zelle hält lt. [1] ca. 6 Jahre, dazu kämen noch hier nicht berücksichtigte Wartungskosten und Betriebskosten. Die folgende Abschätzung liefert also diesbezüglich einen sehr geschönten Wert, während eine höhere Auslastung im Gegenzug zu Verbilligungen führen würde.
+Bild 2 PEM-Anlage Investkosten-Umlage-Abschätzung
+Abschätzung der Kosten pro kWh
+Dazu werden nur die reinen Umwandlungsverluste – berechnet aus dem Wirkungsgrad – berücksichtigt. Zudem wurden zur Vereinfachung die aktuellen Startwerte der EEG-Umlage und nicht der höhere Mittelwert eingesetzt. Die wahren Kosten dürften deshalb höher sein.
+Bild 3 PEM-Anlage Umwandlungskosten-Abschätzung
+Die Summe der auf kWh umgerechneten Investkosten und der Wandlungsverlust-Kosten betragen somit:
+Gesamtkosten Wasserstoffwandlung über die Anlagen-Laufzeit: 18 ct / kWh
+Eine Äquivalenz-Ökostrom kWh aus der PEM-Anlage als Wasserstoff kostet damit:
+Mittlere Ökostrom-Mix EEG-Vergütung 15,6 ct / kWh + PEM-Wasserstoff-Umwandlungskosten 18 ct / kWh =
+33,6 ct / kWh zuzüglich die Steuer- und Umlagen-Kostentreppe
+Der (vereinfachte) Marktwert des Wasserstoffgases inclusive der Umlagen-Kostentreppe beträgt dagegen:
+Stadtwerke Haßfurth, Gastarif haGas fix24: Arbeitspreis: 5,46 ct/kWh (4,59 ct/kWh netto)
+Anmerkung: Im Klimaschutzplan 2050 unserer Umweltministerin soll Erdgas verboten werden. Man kann nun ahnen, warum dies (auch) erforderlich ist: Der Kostenunterschied der Energieträger ist einfach zu ärgerlich und würde irgendwann zu argumentativen Problemen führen.
+Selbst wenn die Abschätzung viele Annahmefehler enthält (z.B. dass eine Teil der PEM-Anlage länger als 15 Jahre hält und fehlende Berücksichtigung von Steuern, höhere Auslastung als die aktuelle, es speisen zusätzlich noch private Solaranlagen ein, der kWh-Wert des Wasserstoffgases ist nicht direkt vergleichbar) zeigen alleine die Kostendimensionen trotzdem deutlich die Problematik.
+Dabei handelt es sich jedoch um die billigst mögliche Wandlungsform. Bei größeren Einspeisevolumen in das Gasnetz muss man den Wasserstoff zusätzlich methanisieren (wird in der Meldung erklärt), bei einer Strom-Rückgewinnung entständen nochmals hohe Kosten und der Gesamtwirkungsgrad sinkt auf 20 … 40 % [5].
+Ist damit eine Lösung erzielt?
+Nein, weder für das Abregel-Problem bei Überlast, noch für eine ausreichende Zwischenspeicherung.
+Die aktuelle Verstromungsleistung kann gerade einmal 1 % der Anschlussleistung (125 MW) der werkseigenen Ökoenergie umsetzen:
+– PEM-Verstromungsleistung: 1,25 MW
+– Ökostrom-Anschlussleistung Stadtwerke Haßfurth: Windparks: 30 MW; Solaranlagen: 95 MW; Summe: 125 MW
+Für eine Lösung (seltenere Abregelung) würde man realistisch 40 … 60 % Umsetzleistung, für eine Lösung ganz ohne Abregelung würde man 100 % ! benötigen. Für eine Lösung, die wirklich ausreichend „Speicherstrom“ für längere Flaute- und sonnenarme Zeiten bevorratet, reicht die Ökostrom-Anschlussleistung der Stadtwerke sowieso hinten und vorne nicht:
+EIKE: EIKE 08.01.2016: Die neuen Energien im Jahr 2015 und im Jahr 2050 nochmals erklärt für Dummies Teil 1+
+Die Kosten kann man sich damit ausmalen.
+Trotzdem hält es „Fachpostillen“ nicht davon ab, (wohl in Abstimmung mit den Stadtwerken) größten fachlichen Unsinn zu berichten:
+Erneuerbare Energien: [3] Stadtwerke Haßfurt verschieben Ökostrom ins Gasnetz
+Power-to-Gas bietet Versorgungssicherheit
+Auf diese Weise kann der zu viel produzierte Ökostrom langfristig gespeichert werden. Der Vorteil: Die Windkraft- und Solaranlagen müssen nicht abgeregelt werden, wenn der Strom zum Zeitpunkt der Produktion keinen Abnehmer findet. Die Projektpartner verweisen auf Studien, die belegen, dass im Zuge der Energiewende die Stromüberschüsse aus solchen volatilen Erzeugungsanlagen stark anwachsen werden.
+Auch sonst scheint der Leiter der Stadtwerke sehr GREEN eingestellt zu sein. In einem Foliensatz von ihm wurden direkt Werte von Greenpeace Energie übernommen (mit denen man ja kooperiert). Mit solchen Werten kann man seinen Kunden alles schönrechnen.
+Bild 4 [2] Vortrags-Foliensatzbild mit den Elektro-Energiekosten verschiedener Energieerzeuger
+Bild 5 WIKIPEDIA Stromgestehungskosten verschiedener Energieerzeuger in Eurocent je Kilowattstunde (vom Autor gekürzt)
+Bestimmt fangen die Versorger nun an zu sparen
+Bei solchen Kostenrelationen und dem Wissen, dass der Strom inzwischen schon sehr teuer ist (weshalb sich die Kunden ja bei Frau Merkel beschweren sollen) denkt man, das Beispiel wäre vielleicht ein Einzelfall. Das ist es aber beileibe nicht, sondern erst der Beginn einer selbst verursachten Kostenlawine.
+Am 22. Nov. brachte eine Lokalausgabe der nordbayerischen Nachrichten einen Bericht: „Gasleitungen statt Stromtrassen“, mit Aussagen des N-Ergie Vorstandsvorsitzenden und Politikern zur Speicherthematik.
+Erinnerung: N-Ergie ist ein Versorger, dessen Vorstandsversitzender keine Gelegenheit auslässt, am EEG auf Kosten seiner Stromkunden zu verdienen und dies mit dem (selbst auferlegten) Zwang zu strengster, politisch korrekter Loyalität begründet, siehe den folgenden Auszug der zurückgemailten Begründung auf eine entsprechende Anfrage des Autors:
+Artikel: „Ein lokaler Versorger bricht die Macht der Stromgiganten“
+(Auszug der Begründung) Die N-ERGIE betrachtet es als ihre Aufgabe, die politischen Vorgaben entsprechend des geltenden gesetzlichen Handlungsrahmens möglichst effizient umzusetzen. Dies ist die Vorgabe des EnWG.
+Gesellschaftliches und politisches Ziel in Deutschland ist die Entwicklung einer vieldimensional nachhaltigen Energiewirtschaft auf der Grundlage der Zieltrias aus Versorgungssicherheit, Wirtschaftlichkeit und Umweltverträglichkeit. Der notwendige Beitrag regenerativer Energiequellen zur Stromerzeugung steigt nach dem deutschen Energiekonzept sukzessive auf bis zu 80 % im Jahr 2050; fossile Energieträger werden nur mehr ergänzende Funktion im zukünftigen Energiesystem einnehmen. Dies ist die aktuelle Vorgabe der Politik.
+Die Einbindung von 45.000 EEG-Anlagen in unserem Netzgebiet ist z.B. eine solche politische Vorgabe. Die N-ERGIE sucht nun Lösungen, um diese Anlagen auch nach dem Auslaufen ihrer gesetzlich zugesicherten Einspeisevergütung effizient in das Energiesystem zu integrieren. Denn unsere Aufgabe als Energieversorgungsunternehmen ist es, bei der Herausforderung zur Transformation der Infrastruktur angemessene Gestaltungsoptionen zu finden.
+Anmerkung: Eine solche „Ergebenheitsadresse“ an die Politik würde man eher in Nordkorea, als bei einem Deutschen Versorger erwarten.
+Gasleitungen statt Stromtrassen
+Nun zum Bericht der Zeitung über die Ratssitzung der Metropolregion Nürnberg: [6] „Gasleitungen statt Stromtrassen“.
+Darin erklärt der N-Ergie Vorstandsvorsitzende J. Hasler (Diplom-Betriebswirt, früher bei CONTIGAS AG und Ruhrgas AG) gleich zu Anfang: „ … sieht die Umwandlung von Windstrom in Gas als Alternative zu Stromtrassen“ und weiter: „Es sei zudem sehr wichtig, die regenerativen Energien weiter auszubauen“.
+Dann bemerkt er noch: „ Doch mangels Speichermöglichkeiten bringe das alles nicht viel ...“ und verweist konkret auf die Rückverstromung von Gas: „Gas hilft uns in Notzeiten, wenn Großbetriebe gerade dringend Strom brauchen ...“, dabei dem Redakteur gegenüber vergessend zu erwähnen, dass der Wirkungsgrad der Verfahren P2H2, wahlweise P2H (Erklärungen siehe [5]) physikalisch bedingt zwischen 21 … 42 % beträgt und die reinen Verfahrens- und Betriebskosten einer rückverstromten kWh Strom damit zwischen 33 … 46 ct netto, ohne die weiteren, erheblichen Zuschläge betragen. Es also viel billiger ist, den Strom abzuregeln (also die mittlere EEG-Vergütung von 6 … 18 ct / kWh „wegzuschmeißen“) oder zu verschenken (selbst gegen eine „Strafgebühr“ des ausländischen Abnehmers).
+Gegen solche Entscheidungen ist allerdings die Politik, der wirklich jegliche Minimalkenntnis zum Thema fehlt, wie deren Vertreter auf dieser Ratssitzung leibhaftig bewiesen (Zitate aus [6]):
+Stefan Müller (Bankfachwirt, Parlamentarischer Staatssekretär im Bundesbildungsministerium): „ … glaubt, dass sein Ressort einen wichtigen Beitrag leisten kann: „ Wir müssen viel Geld in die Energieforschung und in die Entwicklung von Speichern stecken ….“
+Armin Kroder, (Jurist, Landrat im Nürnberger Land, Beirat N-ENERGIE AG, Beirat EON Wasserkraft): „ … In der Energiewendedebatte hört man oft nur was nicht geht. Mir fehlt da der Glaube an unsere Ingenieurskunst. Wir sollten Vertrauen haben, dass sich bei den Speichertechnologien in den nächsten Jahren viel weiterentwickeln wird.“
+Diese Aussage legen offen, dass „die Politik“ immer noch keinerlei Ahnung von den physikalischen Gegebenheiten der Stromspeicherung und deren Kosten hat und somit jedem Energiescharlatan seine Heilsversprechungen bedingungslos abnimmt und bezahlt. Wer, vielleicht aufgrund von Wissen, widerspricht, ist eben nicht der richtige Ingenieur für unsere Politiker. VW lässt grüßen, deren Vorstände hatten auch bis zuletzt „volles Vertrauen“ in die versprochene Lösung und der Nürnberger Landrat zeigt, dass dieses „Glauben, nur nicht nachfragen oder überlegen wie es gegen die Physik funktionieren soll“ Prinzip ganz offiziell weiter gepflegt und sogar verkündet wird.
+Erkennbar auch, dass auf der Veranstaltung „Ratssitzung der Metropolregion Nürnberg“ wohl kein Energiefachmann zu im Podium war oder zu Wort gekommen ist.
+Wie man belegen kann, ist dieses politische Unwissen nicht neu, weshalb man kaum auf eine Änderung hoffen darf:
+EIKE: Das Positionspapier des CSU Arbeitskreises Energiewende, Keine Vernunft mehr, nirgendwo
+EIKE: Wie Politiker ihre Kuh schlachten und sich danach beklagen, dass diese keine Milch mehr gibt
+Fazit
+Schon dieses Beispiel eines kleinen Versorgers zeigt, wie und wo Kosten der EEG-Versorgung entstehen. Dabei sind die Kosten für Netze und wirklichen Speicherausbau noch nicht einmal angesprochen. Es zeigt aber auch die Unverfrorenheit der Versorger, zu behaupten, sie könnten überhaupt nichts für die hohen Stromkosten, der Kunde solle sich deshalb bitte unbedingt direkt (mit ihrem Beschwerdeformular [4]) bei Frau Merkel beklagen.
+Quellen
+[1] Studie: Entwicklungskonzept Energiespeicher Niedersachsen
+[2] Norbert Zösch Geschäftsführer Stadtwerk Haßfurt GmbH, Foliensatz: EE-Ausbaustrategien in Haßfurt
+[3] Erneuerbare Energien: Stadtwerke Haßfurt verschieben Ökostrom ins Gasnetz
+http://www.erneuerbareenergien.de/stadtwerke-hassfurt-verschieben-oekostrom-ins-gasnetz/150/436/97774/
+[4] EIKE 22.11.2016: Energieversorger helfen ihren Kunden gegen teuren EEG-Strom! Aktion lokaler Versorger in Bayern: Energiewende bezahlbar
+http://www.eike-klima-energie.eu/news-cache/energieversorger-helfen-ihren-kunden-gegen-teuren-eeg-strom-aktion-lokaler-versorger-in-bayern-energiewende-bezahlbar/
+[5] EIKE: Elektro-Energiespeicherung, Notwendigkeit, Status und Kosten. Teil 3 (Abschluss)
+http://www.eike-klima-energie.eu/energie-anzeige/elektro-energiespeicherung-notwendigkeit-status-und-kosten-teil-3-abschluss/
+[6] nordbayerische Nachrichten, Lokalausgabe am 22.11.2016: Artikel „Gasleitungen statt Stromtrassen“
+„Naja, wenn die sog. Erneuerbaren Energieeerzeuger dann immer noch sooooviieeeellll Stromüberschuss machen können, dann sehe ich da auch kein Problem für die Wirtschaftlichkeit so eines „Elyse“. ;)“
+Genau darauf läuft es hinaus:
+Will man alle Dächer nutzen? Will man auf fossile Energieträger weitgehend verzichten? Ist man bereit, dafür (wieviel) mehr zu zahlen?
+In einer freiheitlichen Markwirtschaft sollte das jeder selbst entscheiden können.
+Dazu braucht man nicht dieses EEG – aber auch keinen Anschlusszwang, keine 24/7-Versorgung zum Festpreis usw. – nur Standards und Gesetze, die Kompatibilität und Gefahrenabwehr sichern, keine Geschäftsmodelle!!!
+Im Sommer kann man also damit „Speicherung“ betreiben, wenn die Sonne vom Himmel strahlt und der Wind sich gelegt hat. Die Klimaanlagen und Kühlanlagen auf Hochtouren laufen um die Serverfarmen und IT Anlagen, die immer mehr werden sollen, zu kühlen.
+Und das E-Auto dann am Tag für die Nacht auch noch geladen werden soll und der eigene Hausbatteriespeicher auch schon ziemlich im Mindestmengenbereich herumdümpelt.
+Naja, wenn die sog. Erneuerbaren Energieeerzeuger dann immer noch sooooviieeeellll Stromüberschuss machen können, dann sehe ich da auch kein Problem für die Wirtschaftlichkeit so eines „Elyse“. 😉
+Stromüberschuss bekomme ich doch nur mit unseren Kraftwerken hin. Habe ich keine Kraftwerke mehr im Hintergrund mitlaufen, dann habe ich einen Mangel vorliegen….Einen Mangel an Erneuerbarer Stromerzeugung.
+Sie ermöglicht, überschüssigen Strom über längere Zeit (als Batterien oder PSW) zu speichern:
+Im Sommer, wenn über Wochen mehr erzeugt wird, als verbraucht wird, im Winter höchstens bei Lagen mit anhaltend starkem Westwind und wenig Heizbedarf.
+Es ist eine Möglichkeit, ob inwieweit sie genutzt wird, ist natürlich eine zu diskutierende Frage, wie der Artikel ja zeigt.
+MfG
+Lieber Hr. Drees,
+die von Ihnen erwähnte Aussage eines EU-Parlamentariers zum Ohmschen Gesetz interssiert mich. Haben Sie da einen Link oder Angaben, über die man per Suchmaschine einen entsprechenden Beleg auftreiben könnte?
+Besten Dank schon mal
+Für was taugt diese „Elyse“ dann überhaupt noch?
+„Wie verhält sich eigentlich die Elektrolyse Technik/Prozess im Winter (meter dicken Eis und Schnee) oder bei Trockenheit im Sommer?“
+Wetten wir, dass man im Winter eine bessere Verwendung für den Strom findet, als die E’lyse 😉 ?!!
+Wie lautet der Spruch: Ich habe mir meine Meinung gebildet und jetzt kommen Sie mir mit Fakten!
+Notfalls könnte man ja auch noch das Ohmsche Gesetz ändern, wie ein EU-Abgeordneter vorschlug. ( Aussage ist belegt )
+„Armin Kroder, (Jurist, Landrat im Nürnberger Land, Beirat N-ENERGIE AG, Beirat EON Wasserkraft): „ … In der Energiewendedebatte hört man oft nur was nicht geht. Mir fehlt da der Glaube an unsere Ingenieurskunst. Wir sollten Vertrauen haben, dass sich bei den Speichertechnologien in den nächsten Jahren viel weiterentwickeln wird.“ “
+Wählt der Wähler gehirnamputierte Pappnasen, so kriegt er sie…
+geht man von der kürzeren Lebensdauer (6 Jahre) der Anlage aus, erhöhen sich die Kosten für eine kWh Erdgas auf etwa 53Cent/kWh.
+Bei der ganzen Rechnung fehlt dann noch, dass hier ja Wasserstoff in das Erdgasnetz eingespeist wird, was nur in geringen Anteilen möglich ist. Will man in der Zukunft auf Erdgas verzichten, muss man den Wasserstoff noch in Methan umwandeln und das Methan für Flautentage auch noch speichern, was natürlich den Preis pro kWh noch deutlich erhöhen wird.
+„Schön“ fand ich auch den Hinweis der Stadtwerke, dass man die Mehrkosten kaum spüren würde. Es wird von den Stadtwerken wegen dieser kleinen Anlage eine Preiserhöhung von 0,4 Cent/kWh durchgeführt. Das sind dann bei 10000 kWh Erdgasverbrauch im Jahr kaum spürbare Mehrkosten von 40,- Euro pro Jahr.
+Man kann nun aber auch fein „rückwärts“ rechnen – nur mal so zur Kontrolle Ihrer Rechnung Herr Kuntz:
+Die 1,1 Mill. KWh der Power-to-Gas-Anlage werden auf 14000 Kunden verteilt. Da bekommt jeder Kunde tolle 80 kWh „Ökogas“ (fast 2 Tage Heizen mit Ökogas im Jahr – toll!) für unmerkliche 40,- Euro! Das sind dann 50 Cent/kWh (und verdächtig nahe an obigen 53 Cent/kWh)!
+Werden später einmal alle 10000kWh mit „Ökogas“ abgedeckt, erhält man nicht mehr 40,- Mehrkosten pro Haushalt, sondern 4500,- Euro Mehrkosten pro Jahr.
+Heizen wird zum Luxus, den sich nur noch wohlhabende Gutmenschen leisten können!
+MfG
+Und was ist mit deisen Nachteilen….
+Zitat Uni Köln!
+Der große Nachteil der Elektrolyse sind die hohen Gestehungskosten für den Wasserstoff durch den hohen Energieverbrauch (ca. 4,5 kWh/m3 oder 110% des Wasserstoffbrennwertes). Daher ist die elektrolytische Wasserstofferzeugung nur dort wirtschaftlich, wo Strom extrem kostengünstig erzeugt werden kann.
+Armin Kroder, (Jurist, Landrat im Nürnberger Land, Beirat N-ENERGIE AG, Beirat EON Wasserkraft): „ … In der Energiewendedebatte hört man oft nur was nicht geht. Mir fehlt da der Glaube an unsere Ingenieurskunst. Wir sollten Vertrauen haben, dass sich bei den Speichertechnologien in den nächsten Jahren viel weiterentwickeln wird.“
+Ja ja, der fehlende Glaube hat Deutschland schon einmal einen „Endsieg“ gekostet. In den Trümmern Deutscher Städte fuhren die US-Panzer vorbei an großen Aufschriften „Unser Glaube, der totale Sieg“. Heute lauten die Parolen „wir glauben an die Energiewende“ – das Resultat wird entsprechend ausfallen. Die Stunde Null der Deutschen Energiewirtschaft ist absehbar. Wir schaffen das….

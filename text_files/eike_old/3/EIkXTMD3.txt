@@ -1,0 +1,384 @@
+Der sogenannte „natürliche atmosphärische Treibhauseffekt“ ist die Basis aller Befürchtungen über eine menschengemachte Klimakatastrophe, weil dieser sich durch den technischen CO<sub>2</sub>-Ausstoß der Menschheit angeblich noch weiter verstärken und zu einer globalen Selbstverbrennung führen soll. Für einen solchen „natürlichen atmosphärischen Treibhauseffekt“ gibt es unterschiedliche Modelle, einen experimentellen Ansatz und zwei Widerlegungen. In Teil 1 wurden die unterschiedlichen Thesen/Antithesen vorgestellt und in Teil 2 diskutiert. Dieser Teil 3 behandelt nun die Erkenntnisse und Ergebnisse dieser Analyse.
+ERKENNTNIS zu THESE (1) = Der konventionelle globale Stefan-Boltzmann-Ansatz mit einem „natürlichen atmosphärischen Treibhauseffekt“ von 33°C (Dietze, Krüger, Schnell, Heller):
+Dieser Ansatz ist grundlegend falsch, weil er die Randbedingung der GLEICHZEITIGKEIT im Stefan-Boltzmann-Gesetz UND den 2. HS der Thermodynamik verletzt. Alle Klimamodelle, die auf diesem Ansatz basieren, sind folglich hoch toxisch.
+Denn die fehlerhaft abgeleitete Temperaturgenese muss in diesen Modellen zwangsläufig auf andere Systemkomponenten verlagert werden, um der gemessenen Realität zu entsprechen. Dadurch wiederum ergeben sich rein rechnerische Atmosphäreneffekte (beispielsweise der äquatoriale Hotspot) und Wechselwirkungen (beispielsweise die sogenannten Kipp-Punkte) außerhalb jeder Realität.
+In den Geowissenschaften ist bereits seit fast einem Jahrhundert bekannt, dass die Temperaturgenese auf unserer Erde allein von der Sonneneinstrahlung bestimmt wird. Bereits 1924 schrieben Köppen und Wegener in der Einleitung zu ihrem Buch “Die Klimate der geologischen Vorzeit” (Bornträger) auf den Seiten 3 und 4, Zitat mit Heraushebungen und Einfügungen:
+„… Unter diesen Voraussetzungen gewinnt die KURVE DER SOMMERLICHEN STRAHLUNGSMENGEN [=Milankovic-Zyklen] für die letzten 6500 000 Jahre den Charakter einer ABSOLUTEN Chronologie des Eiszeitalters. Ihre Einzelheiten stimmen, wie gezeigt werden wird, in weitgehendem Maße mit den Annahmen der hervorragendsten Eiszeitforscher überein, so daß es unnötig erscheint, nach weiteren Ursachen für Klimaänderungen in dieser Zeit zu suchen.
+Von den zahlreichen sonstigen Hypothesen, die zur Erklärung von Klimaänderungen aufgestellt worden sind, wird daher in diesem Buche nicht die Rede sein. Insbesondere erblicken wir in dem System der fossilen Klimazeugen KEINEN EMPIRISCHEN ANHALT für die Annahme, daß die von der Sonne ausgehende Strahlung sich im Laufe der Erdgeschichte geändert habe. Desgleichen fehlt es an Tatsachen, welche durch Änderung der DURCHSTRAHLBARKEIT der Atmosphäre (ARRHENIUS) oder des Weltalls (Nölke) zu erklären wären; …“
+Der Nachdruck dieses Buches ist bei Schweizerbart erhältlich.
+ERKENNTNIS zu THESE (2) = Breitenabhängige Mittelung der solaren Einstrahlung über Tag und Nacht (Kramm et al.):
+Kramm et al. können die Temperaturgenese auf unserer Erde mit ihrem Modell weder abbilden noch erklären. Sie sind vielmehr die einzigen Protagonisten, die konkrete Aussagen zur Temperaturgenese auf der Erde vermeiden und zugleich auch eine klare Positionierung zum sogenannten atmosphärischen Treibhauseffekt unterlassen. Insbesondere fehlt dort die sinnstiftende Erklärung, wo denn eigentlich die Energie zur Überwindung des Temperaturunterschieds zwischen den aus einer globalen breitenabhängigen „Faktor-4“-Mittelung der solaren Einstrahlung berechneten Modelltemperaturen und den tatsächlich gemessenen Temperaturen auf der Erde herkommen soll.
+Stattdessen invertieren Kramm et al. die primäre physikalische Wirkungskette (Sonneneinstrahlung => Temperatur), um ihr Modell argumentativ zu stützen. Die modellbedingte Verlagerung der globalen „Klimaküche“ auf den geographischen Pol der Sommerhemisphäre bricht dem Modell von Kramm et al. endgültig das Genick, weil diese Verlagerung einen jahreszeitlich wechselnden Verlauf der globalen Zirkulationen vom jeweiligen Sommerpol zum Winterpol der Erde erfordern würde.
+Das Modell von Kramm et al. (2017) ist nicht von dieser Welt und enthält Richtiges und Falsches; nur wurde das Richtige nicht erstmals von Kramm et al. veröffentlicht, und das Falsche wurde von Kramm et al. schließlich als deren eigenes „Faktor4“-Strahlungsmodell identifiziert, Zitat:
+„These values demonstrate that the power law of Stefan and Boltzmann provides inappropriate results when applied to globally averaged skin temperatures.“ (Seite 283 im unteren Drittel vom letzten Absatz)
+Dazu sagt der unparteiische Google-Übersetzer: „Diese Werte zeigen dass das Potenzgesetz von Stefan und Boltzmann unangemessene Ergebnisse liefert, wenn es auf global gemittelte Hauttemperaturen angewendet wird.“
+Im Klartext heißt dieses Ergebnis von Kramm et al. (2017) also:
+ENTWEDER ist das S-B-Gesetzt falsch ODER die globale Mittelung.
+Da aber das Stefan-Boltzmann-Gesetz ein GÜLTIGES physikalisches Gesetz ist, MUSS also die GLOBALE Mittelung FALSCH sein:
+Kramm et al. erbringen mit dieser Erkenntnis den Nachweis, dass alle drei Ansätze (1), (2) und (3) falsch sind, weil dort bei (1) und (2) die tagseitige Sonneneinstrahlung (@PIR²) sowie bei (3) das tagseitige S-B-Temperaturäquivalent global über die gesamte Erdoberfläche (@4PIR²) gemittelt wird – und sie bestätigen damit implizit die Richtigkeit meines HEMISPHÄRISCHEN Stefan-Boltzmann-Ansatzes (@2PIR²).
+ERKENNTNIS zu THESE (3) = Globale Stefan-Boltzmann-Integration (Gerlich&Tscheuschner):
+Gerlich und Tscheuschner beginnen richtig mit einem dreidimensionalen S-B-Rechenmodell und mitteln dieses Ergebnis dann zweidimensional über die gesamte Erdoberfläche. Damit landen sie am Ende wieder bei dem globalen „Faktor4“-Ansatz über Tag- und Nachtseite der Erde aus den Thesen (1) und (2).
+Der von Gerlich und Tscheuschner aufgezeigte Widerspruch (33°C # 144°C) ist also konkludent nach dem falschen „Faktor4“-Ansatz für den „natürlichen atmosphärischen Treibhauseffekt“ (Modelle 1 und 2) abgeleitet worden. Damit haben Gerlich & Tscheuschner den „natürlichen atmosphärischen Treibhauseffekt“ direkt aus diesem fehlerhaften THE-Modell heraus widerlegt, allerdings ohne eine konkrete Perspektive für die tatsächliche Temperaturgenese auf der realen Erde aufzuzeigen.
+ERKENNTNIS zu THESE (4) = „Hemisphärischer“ Stefan-Boltzmann-Ansatz (Weber):
+Mein hemisphärischer Stefan-Boltzmann-Ansatz beruht strenggenommen lediglich auf der unverstandenen Randbedingung einer strengen GLEICHZEITIGKEIT im Stefan-Bolzmann-Gesetz – und diese physikalische Randbedingung spielt offenbar für Laien UND Fachleute keine Rolle.
+Jedenfalls unterscheidet mein hemisphärischer S-B-Ansatz dreidimensional zwischen Tag und Nacht und ist in der Lage, die Temperaturgenese auf der Tagseite unserer Erde über das Stefan-Boltzmann-Gesetz und die Abstrahlung der Erde über die S-B-Umgebungsgleichung zu erklären.
+ERGEBNIS DIESER ANALYSE UND PERSPEKTIVE FÜR KÜNFTIGE KLIMAMODELLE
+Die Erde erhält einen Anteil der solaren Abstrahlung auf einer Kreisfläche von (PI*R²) mit dem Erdradius R und der Solarkonstante 1.367 W/m². Der Fehler bei der konventionellen THE-Berechnung besteht nun darin, diese Solarkonstante über die Tag- und Nachtseite der Erde (@4*PI*R²) zu mitteln.
+Die Thesen (1), (2) und (3) stellen also zweidimensionale Modelle der Erde dar, die durch eine realitätswidrige Tag&Nacht-Mittelung der temperaturwirksamen solaren Einstrahlung bzw. dessen S-B-Temperaturäquivalentes charakterisiert werden können. Damit fehlt in allen diesen Ansätzen ein ausreichend großes S-B-Strahlungsäquivalent, um die tatsächlich gemessenen Temperaturen auf der Erde erklären zu können.
+Die nachfolgend abgebildete Mollweide Projektion in Abbildung A für eine 2D-Erde veranschaulicht diesen zweidimensionalen Ansatz. Und der vorgebliche „natürliche atmosphärische Treibhauseffekt“ ist genau dieser fehlerhaften Tag&Nacht-Mittelwertbildung geschuldet, um deren Differenz zur vorgeblich „gemessenen“ Globaltemperatur NST zu erklären. Meine hemisphärische S-B-Herleitung (4) ermöglicht als dreidimensionales Modell (Abbildung B) dagegen eine korrekte Implementierung von Tag und Nacht und kommt ohne einen solchen atmosphärischen Treibhauseffekt aus:
+Diese eingeschränkte zweidimensionale Sicht auf unsere dreidimensionale Erde ist der tiefere Grund für den gegenwärtigen klimareligiösen Alarmismus. Am 26. September 2019 erschien auf ScienceFiles ein Beitrag mit dem Titel „Klimaalarmisten, das IPCC, die UN denken nachweislich, die Erde sei eine Scheibe [keine Satire]“, Zitat mit Hervorhebungen:
+„Dass die Erde eine Scheibe sei, ist nämlich eine Annahme, die allen Klimamodellen, die wiederum Grundlage der Behauptung, der Klimawandel sei menschengemacht sind, eigen ist.
+Michael J. Prather und Juno C. Hsu haben in einem brandneuen Beitrag für die Zeitschrift „Proceedings of the National Academy of Science“ (PNAS – peer reviewed) auf diesen zwischenzeitlich vergessenen Umstand aufmerksam gemacht:
+„In allen Klimamodellen”, so schreiben sie, “wird angenommen, dass die Oberfläche der Erde flach 2D und nicht 3D ist“ (19330).“
+Dr. Paul Berberich hatte in einer bisher leider unveröffentlicht gebliebenen Arbeit den Globus in eine hemisphärische Tag- und Nachtseite aufgeteilt. Eine Verschiebung des Zentralmeridians (nebenstehende Abbildung) führt dann zu beliebig vielen Hemisphären. Dr. Berberich verwendet in seiner Betrachtung 5°-Schritte und erhält somit über den 24-Std.-Tag 72 Hemisphären. Diese Hemisphären sind nicht unabhängig voneinander, sondern ergänzen sich paarweise zur Global-Temperatur.
+In Bild 8 bis 10 werden dort die Jahres-Mittel- Temperaturen für die Jahre 2016 bis 2018 in hemisphärischer Darstellung dargestellt. Die Temperaturdifferenz zwischen den Hemisphären T60W und T120E („Hysterese“) verringert sich während dieser Jahre beträchtlich von 0,202 auf 0,001 °C:
+In 2015/2016 trat ein starker El Niño mit großer „Hysterese“ auf, allerdings tritt bei großer „Hysterese“ nicht immer zwingend ein El Niño-Ereignis ein. Diese hemisphärische „Hysterese“ wäre aber umgekehrt ein guter Negativindikator, denn bei geringer Temperaturdifferenz zwischen den Hemisphären T60W und T120E kann umgekehrt offenbar kein El Niño auftreten. Dr. Berberich leitet aus seiner hemisphärischen Analyse die Aussage ab, dass man die die El Niño-Vorhersage um einen (solchen?) globalen Indikator ergänzen sollte.
+Die Basis von zweidimensionalen Klimamodellen hatte zwischenzeitlich auch ein Anonymus namens Aulus Agerius hinterfragt und auf Grundlage meines hemisphärischen S-B-Ansatzes ein alternatives dreidimensionales Klimamodell erstellt. In seinem Buch „Kritische Analyse zur globalen Klimatheorie: Widerlegung der Basisstudie KT97 des IPCC mit den Messwerten des ERBS Satelliten an einem neuen Modell“ deckt er erhebliche Widersprüche in der IPCC-Basisstudie KT97 auf. Deren Mittelbildung zwischen Tag- und Nachtseite der Erde folgen implizit ja auch die hier diskutierten Ansätze (1) bis (3). Diesem IPCC-Modell stellt er sein „Modell 5“ entgegen, das wiederum auf meinem hemisphärischen Strahlungsmodell aufbaut und ohne einen atmosphärischen Treibhauseffekt auskommt:
+Zitate aus der Kurzzusammenfassung (mit Hervorhebungen): „Die Studien der letzten 15 Jahre, die die Existenz eines Treibhauseffektes befürworten, beziehen sich mit kleineren Modifikationen final auf eine Studie von J. H. Kiehl und Kevin E. Trenberth aus dem Jahr 1997, bezeichnet als KT971. Die Erderwärmung durch CO2, der Treibhauseffekt, wurde in dieser (Ur-) Studie aus einer Gleichgewichtsberechnung von flächenbezogenen Energieflüssen abgeleitet, die durch die Sonne verursacht werden. Hierbei wurde die Atmosphäre als Modell in einem Gleichgewichtszustand von Energieflüssen, umgangssprachlich Strahlung, betrachtet.
+… In Abschnitt 5 wird mit einer modifizierten Modellbildung (Strahlungsverteilung nach Modell Ulrich O. Weber2) die von der Sonne emittierte Strahlung auf die Erde verteilt und neuerlich eine Budget- bzw. Gleichgewichtsbetrachtung vorgenommen.
+… Mit Modell 5 wird der Treibhauseffekt mit den Messwerten der Satelliten ERBS, TERRA und AQUA widerlegt. Durch die Eigenschaften der Reflektion von Erde und Atmosphäre kann ein kühlender Effekt, sun umbrella Effekt, festgestellt werden (Abschnitt 6). In Abschnitt 7 wird aufgezeigt, wie sich Strahlungs- und Albedo-Änderungen im Modell nach Abschnitt 5 zu Änderungen der globalen Mitteltemperatur und damit zu Eiszeiten und zu Warmzeiten führen könnten – ohne CO2-Einfluss…“
+FAZIT: In einer dreidimensionalen Betrachtung der Temperaturgenese auf unserer Erde macht allein eine Albedosteuerung der solaren Einstrahlung als natürlicher Antrieb des Paläoklimas Sinn, und zwar ganz ohne einen „natürlichen atmosphärischen Treibhauseffekt“.
+Denn die spezifische Strahlungsleistung der Solarkonstante von 1.367 W/m² stellt nach dem Stefan-Boltzmann-Gesetz mit etwa 120 Grad Celsius das maximal mögliche Temperaturäquivalent für unsere Erde aus der solaren Einstrahlung dar. Und nur die Albedo der Erde kann ausreichend große Energiemengen der einfallenden Sonneneinstrahlung steuern, um die nachgewiesenen Schwankungen des natürlichen Paläoklimas zu erklären.
+Der rechnerische Nachweis für eine solche Albedosteuerung ist in meiner englischsprachigen Veröffentlichung “An Albedo Approach to Paleoclimate Cycles” (Mitteilungen der Deutschen Geophysikalischen Gesellschaft Nr. 2015/3 ab Seite 18) zu finden, die deutsche Übersetzung „Ein natürlicher Albedo-Antrieb erklärt die globale Klimagenese“ in meinem aktuellen Buch „Mehr geht nicht“ und eine deutsche Kurzfassung auf KalteSonne.
+Ein grobes Reaktionsmodell für die globale Klimagenese war schließlich auf KalteSonne veröffentlicht worden:
+Auszug aus Wikipedia:
+https://de.wikipedia.org/wiki/Mond
+Wenn ich aber die Mond-Albedo (0,11) in die die „Flacherde“ Gleichung ansetze, die für die „berühmte“-18°C benutzt wurde (mit 342 W/m2)
+https://de.wikipedia.org/wiki/Treibhauseffekt
+bekomme ich nur -2,5°C.(Für Mond / die gleiche Solarkonstante gemittelt wie THE Flacherde-strahlende Stern)
+Also ist die -18 auch Falsch.
+LG A.Mika
+Sie sollten doch langsam selber merken, in welche Logikfalle sie da hineingeraten sind!
+Sie akzeptieren, dass im „natürlichen Treibhauseffekt“ das CO2 mit ca 6 bis 25 % an der angeblichen Atmosphärenstrahlung von 333 W/m² u. ca 33 Grad C Temperaturerhöhung, beteiligt ist!
+Und jetzt versuchen sie hier, zusätzliches CO2 in der Atmosphäre, mit aller Gewalt, kleinzurechnen!
+Wie paßt das zusammen?
+Und vor allem, wer soll sie denn überhaupt ernst nehmen?
+Die Klimaalarmisten bestimmt nicht u. sehr viele Leser hier und anderswo, auch nicht!
+Wer diesen Artikel und die Beiträge in der Diskussion dazu liest, erkennt sofort, was für einen Unsinn die Ketzer
+seit 10 Jahren unverdrossen veranstalten. Er lacht und geht schnurstracks in der Klimakirche zurück zum Gebet.
+Ob es wohl plötzlich soviel Intelligenz regnet, dass dieser Ablauf gestört werden könnte?
+Fazit: Der Spuk kann nur enden, wenn die „normalen“ Bürger von den Realitäten seiner Umsetzung hautnah und hinreichend geschädigt werden und/oder wenn die natürlichen Grenzen den Betrug stoppen. Es beginnt z. B. damit,
+dass Windmühlen nicht gebaut werden können, weil niemand sie vor seiner Hautür zulässt. – Ob wohl die Bundesnetzagentur die Abschaltung der letzten Kernkraftwerke (nur) solange (!!!) verbietet, bis es Stromspeicher u. a. Erforderliches gibt? – Die Ketzer helfen mit, dass man es leider abwarten muss, oder?
+Aber ich denke, ohne politischen Druck werden sich z.B. die Verantwortlichen vom PIK kein Jota bewegen. Deshalb meine Frage: Was kann EIKE tun, damit diese neuen Erkenntnisse in einer breiteren Öffentlichkeit bekannt werden? Was könnte ich persönlich tun? (Die 16 Fragen an unsere Bundestagsabgeordneten habe ich bereits unterzeichnet.)
+MfG M. Radschikowsky
+ich bedanke mich für Ihre positive Rückmeldung. Ihre Frage kann ich leider auch nicht beantworten; die Rahmenbedingungen der 13. IKEK haben uns ja vor Augen geführt, wie es heute tatsächlich um die Versammlungs- und Meinungsfreiheit steht. Dieser gesellschaftspolitische Klimawandel hat inzwischen sogar bewirkt, dass kritische wissenschaftliche Studien unter Pseudonym veröffentlicht werden. Dem ist wohl nichts mehr hinzuzufügen – außer einem ganz herzlichen Dank an die EIKE-Redaktion für die Möglichkeit, dass auf diesem Blog in guter wissenschaftlicher Tradition konträre Modelle dargestellt und vertreten werden können.
+Mit freundlichen Grüßen – Uli Weber
+Leseempfehlung: https://sciencefiles.org/2019/12/03/ein-einblick-in-das-ausmas-des-klimabetrugs/
+Damit die Erde nicht vor Sonnenenergie platzt, muss sie die eintreffende Sonnenenergie wieder los werden. Nach dem Stefan-Boltzmann-Gesetz gilt: Die Erde wird die Sonnenenergie teilweise wieder los, ohne sich von ihr beeindrucken zu lassen, und teilweise, indem sie vorher irgendwo irgendwelche ihrer Moleküle wackeln lässt, d.h. Wärme entwickelt und abstrahlt.
+An der traditionellen Herleitung des Treibhauseffekts ist schon mal die Voraussetzung Quatsch, dass sich diese Moleküle unbedingt in der Atmosphäre befinden müssen. Allein die Meere bieten einen riesigen Vorrat an Sonnenenergieempfangsmolekülen. Der „Treibhauseffekt“ bezeichnet eine Variante möglicher Wärmeentwicklungen unter anderen.
+Die Varianten möglicher Wärmeentwicklungen unterscheiden sich durch die Zeit, die vergeht, ehe es zur Abstrahlung der Sonnenenergie als Wärme kommt. Bei einigen Varianten findet die Wärmeabstrahlung statt noch während sich das „betroffene“ Molekül auf der sonnenzugewandten Seite der Erde befindet; bei anderen erst, wenn sich die Erde auf die Nachtseite gedreht hat; bei wieder anderen erst nach vielen Umdrehungen. Je nach Beschaffenheit der irdischen Dinge legt die empfangene Sonnenenergie diverse Zwischenstationen und Zustände ein, bevor sie als Wärmeabstrahlung erscheint. Der Zusammenhang aus Erdbewegung und Behandlung der Sonnenenergie durch die irdischen Dinge bildet in unaufhörlichem Wechsel Wind und Wetter, wobei die Sonnenenergie selbst quantitativ und qualitativ unterschiedlich beschaffen sein kann, so dass ihre Behandlung durch die irdischen Dinge unterschiedlich verläuft.
+Nach Uli Webers Ansatz lassen sich die dabei entstehenden – durch die Gebietsbezogenheit der Wärmeentstehung unvermeidlich gebietsbezogen anfallenden, unterschiedlichen – Temperaturen ausrechnen, wenn zu jedem Zeitpunkt die Beschaffenheit der Erde bekannt ist (Emissionsgrade und Quantität von Wolken, Meerwasser usw.). Mit dem traditionellen Ansatz wäre das nicht möglich, weil er der Erde keine Temperaturdifferenzen zugesteht, so dass sie zum Leichnam wird, ohne jeden Lebenshauch.
+Das Stefan-Boltzmann-Gesetz nützt nichts zur Bestimmung eines „Treibhauseffekts“. Aber es nützt zur Bestimmung der Temperatur, über die die Erde nicht hinaus könnte, auch wenn sie alle Sonnenenergie sofort als Wärme abstrahlen würde. Dadurch nützt es indirekt zur Bestimmung der Temperaturen, die die irdischen Dinge, darunter CO2, aus der Sonnenenergie tatsächlich machen.
+Wenn CO2 dein Feind ist, solltest du ihn möglichst gut kennen und daher lieber Weber lesen als die Wikipedia.
+@ M. Jacobi
+Herzlichen Dank für das positive Feedback (habe ich erst jetzt bemerkt). Die „Popularisierung“ ist tatsächlich ein Problem, und die globale Wärmespeicherung hatte ich hier mal versucht näher aufzudröseln.
+————————- IN=OUT——————
+==================================================
+Hört sich sehr nach Verkehr an , aber nicht nach der Suche des
+—————–
+—————-
+———————————-
+vermeintlichen „natürlichen Treibhauseffektes“!
+Denken Sie einmal genau darüber nach, was es für die Temperaturen auf unsere Welt bedueten würde, wenn Sie Recht hätten!
+Etwas logisches Denken, genaues Beobachten der Natur – und sofort verschwindet die These vom „Treibhauseffekt“, wie der morgentliche Herbst-Nebel:
+1) Unsere Erde befindet sich zu keinem Zeitpunkt im thermischen Gleichgewicht!
+2) Unsere Erde ist ein sich zyklisch erwärmender u. abkühlender Körper.
+—-Aus der zugeführten Energiemenge kann kein Mensch auf seine abolute —-Temperatur schliessen.
+3) Berechnete Durchschnittswerte haben für einen seriösen Wissenschaftler keine —-Aussagekraft!
+4) Unsere Erde ist keine idealer, schwarzer Körpper, jede Anwendung der S *B —Gesetze und Formeln, verbietet sich von selbst!
+5) Die eingestrahlte Energiemenge der Sonne wirkt nur auf eine Hälfte der Erde.
+— Ein Tag-Nacht Durchschnitt zeigt nicht die Realität, sonder vermindert die —-Energiemenge auf der Tagseite um ca 50%!
+6) Auf jedem Planeten ohne Atmosphäre erhalten wir höhere Maximaltemperaturen, —-als mit Atmosphäre, siehe Mond!
+Und letztendlich:
+7) CO2 strahlt auf der Erde nur im CO2 Laser!
+Bis heute gibt es keinen einzigen Beweis, dass es einen „Treibhauseffekt“ gibt und keinen einzigen Beweis, dass das CO2 Molekül durch Emission aus der Atmospähre unsere Erde erwärmen kann – Punkt!
+Merkwürdig warum sich durch CO2-Gasstrahlung dann auch Öfen mehr erwärmen als ohne.
+http://www.uni-magdeburg.de/isut/TV/Download/Kapitel_8_Waerme-_und_Stoffuebertragung.pdf.
+Die elektromagnetische Welle hat in der Regel eine Quelle.Und die funktioniert ohne Masse nicht.
+Bei den Fanatikern steht das Hirn in Flammen was auf eine synaptische Reizverstärkung, hervorgerufen von viral unterstützter Vernebelung der Verarbeitung von Informationen, zurückzuführen ist.
+meine Hochachtung vor dem Berufsstand des Zimmerers.
+Ohne Ihre fundamentalen Kenntnisse wäre Bergbau,egal in welcher Form nicht denkbar.
+Ihr pathologischer Befund ist genial.
+Mit herzlichem Glückauf
+Ferdinand Peters
+Bergmann
+Ein Glück Auf und Gut Holz zurück.
+Ich neige hin und wieder gerne zu solch ironischer bzw. Sarkastischen Betrachtungen ?
+Die Abstrahlung bei etwa 15 Grad (288 K) für die Kugeloberfläche würde 390 W/m² auf 4PiR² betragen. 4*390/960 ist 1,625. Herr Weber geht also mit seinem Ansatz fälschlich davon aus dass die Erde ein Energie erzeugendes Perpetuum Mobile ist.
+Nur das rotierende Erdmodell mit mittleren -18 Grad ergibt bei einer Abstrahlung von etwa 240 W/m² 4*240/960=1, also IN=OUT. Da aber am Boden die Temperatur im Mittel etwa +15 Grad beträgt (nicht 255 sondern 288 K und auf der Nachtseite nur ca. 4 Promille weniger als auf der Tagseite) müssen wir davon ausgehen dass die Differenz von etwa 33 Grad am Boden durch den Treibhauseffekt verursacht wird.
+Dieser entsteht innerhalb der Atmosphäre durch Absorption von Bodenabstrahlung, Thermalisierung, Re-Emission und etwa hälftiger Rückstrahlung. Und weil statischer Luftdruck nicht dauernd Energie erzeugt, wie z.T. fälschlich angenommen wird, scheidet dies als Wärmeffekt aus. Die Hemisphären-Temperaturgenese von Herrn Weber ist damit widerlegt.
+Um diesen Widerspruch aufzulösen, hat Herr Weber in der n-ten Iteration seines Ansatzes das S-B-Umgebungsgesetz eingeführt: ΔS = S – S_0, mit ΔS – netto Abstrahlung der Erdoberfläche, S – Abstrahlung der Erdoberfläche und S_0 – Abstrahlung aus der Atmosphäre. Damit reduziert sich die Abstrahlung der Erdoberfläche wieder auf 240W/m² und alles ist in Ordnung 🙂
+Auf meine Nachfragen dazu geht Herr Weber nicht ein:
+* Gilt das S-B-Umgebuingsgesetz auch, wenn es keine im Infrarotbereich strahlenden Gase (Treibhausgase) in der Atmosphäre gibt?
+* Ist das nicht nur eine andere Beschreibung des Treibhauseffektes (die im Infrarot-Bereich strahlenden Gase in der Atmosphäre reduzieren die Abstrahlung der Erdoberfläche)?
+Auf Fragen dieser Art gibt es keine Antwort von Herrn Weber.
+Das Schweigen ist ganz einfach zu verstehen, denn seit dem 25. Februar 2018 um 15:11 Uhr stehen Sie auf meiner Troll-Liste: https://www.eike-klima-energie.eu/2018/02/22/eine-barrierefreie-erklaerung-fuer-die-hemisphaerische-temperaturgenese-auf-unserer-erde/#comment-192035
+Interessante Variante, Fragen aus dem Weg zu gehen.
+Aber wenn Sie mich schonmal diese fast 2 Jahre alte Sache rauskramen: In Ihrer Antwort schrieben Sie:
+Das Stefan-Boltzmann-Gesetz lautet:
+Die Einheit von sigma enthält W = J/s. Ich habe damals ein s zuviel eingebaut, sie wollten eins unter den Tisch fallen lassen. War das auch nur ein Trollversuch? Oder meinten Sie das ernst?
+Herr Müller, das ist NICHT in Ordnung, sondern grottenfalsch! Durch Gegenstrahlung von 150 W/m² reduziert sich doch nicht die Abstrahlung des Bodens von 390 auf 240 W/m² wobei aber die 15 Grad erhalten bleiben! Es ist gerade umgekehrt. Im Strahlungsmodell addieren sich 240 und 150 W/m² und ergeben eine Bodenabstrahlung von 390 W/m². Dadurch steigt die Temperatur um 33 Grad von -18 auf +15 Grad.
+Ich würde Sie bitten, meinen Kommentar als ganzen aufzufassen und nicht nur Teile rauszuziehen. So wäre es mir z.B. wichtig, dass ich von Nettoabstrahlung schrieb (in dem Teil, den Sie weggelassen haben). Ich stimme mit Ihnen überein, dass sich die Bodentemperatur so einstellt, dass es ein Gleichgewicht zwischen zu- und abfliessender Energie gibt.
+Das eigentlich wichtige an meinem Kommentar war allerdings, dass Herr Weber zur Behebung eines Defizits in seinem Ansatz etwas eingeführt hat, was andere als Treibhauseffekt bezeichnen.
+bei Ihnen addiert sich ein falsche physiklaoische Aussage mit der anderen.
+Strahlstaerken sind nicht additativ. Wenn sie es waeren koennten sie mit zwei Eiszapfen Wasser kochen.
+Falsch bleibt falsch.
+Danke das sie weiterhin, unbeugsam, ihr physiklaisches Unverstaendnis praesentieren.
+Man muss mitlerweile koonsternieren, sie haben keine Ahnung von Physik.
+Herr Schulz, ihre Physik-Unkenntnisse haben Unterhaltungswert. Eiszapfen erzeugen keine Energie und stellen für IR-Strahlung netto eher eine Senke dar. Stellen Sie sich vor, die Erde würde von zwei gleichen Sonnen beschienen. Dann hätten wir die doppelte Strahlungsleistung und ohne Treibhauseffekt ergäbe sich mit 480 statt 240 W/m² ein Mittelwert von +30 statt -18 Grad (255 K*4.Wurzel(2)). Ist Ihnen noch nie aufgefallen dass ein Kronleuchter mit vielen gleichen Birnen deutlich heller ist als nur mit einer Birne?
+Sie gehen doch bestimmt davon aus,viele Leser hier im Forum die gut formulierten Argumente lesen.Ob das Unterhaltungswert hat oder zum besseren Verständnis der Zusammenhänge um den Einfluss der Kohlendioxid-Moleküle beträgt,lässt sich in diesem Format der EIKE-Plattform leider nicht quantifizieren.Grundsätzlich besser finde ich persönlich bei der Argumentation mit Bildbeispielen den dahinterstehenden Gedanken zu verdeutlichen.
+Ihr Idee von dem IN=Out hat einen gewissen Charme.
+Gestern habe ich einem Fußballspiel beigewohnt und Ihre Argumention(immer im Hinterkopf) irgendwie zu begreifen.Bei einem Elfmeter kam dann die zündende Idee.Die Sonne befindet sich auf diesem Elfmeterpunkt und strahlt in alle Richtungen.Im passenden Maßstab reden wir über ein Sandkorn auf der Torlinie.Da befindet sich unsere Erde zum Zeitpunkt,wenn der Elfmeterschütze den Ball trifft.
+Ihre Idee mit dem Kronleuchter ist genial für die Beschreibung,wie sich der Herr Stefan diese Gesetzmäßigkeit mit Helligkeitsverbesserung,Wärmeverlust und Leistungsbereitstellung in seiner Problemstellung befasste.
+Dann schreiben Sie : Zitat: „[…]Ist Ihnen noch nie aufgefallen dass ein Kronleuchter mit vielen gleichen Birnen deutlich heller ist als nur mit einer Birne?[…].“
+Ob das jetzt Unterhaltungswert hat oder Erkenntnisgewinn sollte vielleicht in einer STUDIE bewiesen werden.
+Gäbe es einen physikalischen Grund,dass IN=Out nicht funktioniert,wäre das Sandkorn weg.Einfach nur weg!!!
+Das muss man nicht verstehen.Das muss man auch nicht begreifen.Es ist umgangsprachlich nur Realität.
+Jetzt wird es interessant.
+Also Eiszapfen, die bei einer Temperatur von sagen wir mal -1 Grad Celsius und einem Emissionsgrad von 0.98 = 305 W/m2 an Strahlung emitiieren sind „Senken“. Bei Ihnen sind also 305 W/m2 eine Senke aber die Atmosphaere nicht?
+Das heisst, zwei Zapfen addieren sich bei Ihnen zu 605 W/m2?
+Ist das soweit richtig.
+Mir faellt zu Ihrem Kronenleuchter nichts ein. Ist heller gleich waermer? Aendert sich die Temperatur des Lichtes, weil eine anderes Licht da ist?
+Sie nicht sagen!
+Zur Selbsterfahrung würde ich vorschlagen die Strahlung gleich wegzulassen und damit zu kuscheln – vielleicht dämmert es dann wohin der Energiefluss geht
+Auch Falsch!
+305 W/m² 1. Zapfen
+305 W/m² 2. Zapfen 363 W/m²
+T = POTENZ(305^4+305^4;0,25)
+was er“zaehlen“ sie da?
+Brauch ich jetzt mehr Eiszapfen zum Wasserkochen? Wieviel?
+Geht das was sie da machen auch mit Eiswuerfeln? Bringen sie regelmaessig ihren Cocktail zum Kochem?
+„Brauch ich jetzt mehr Eiszapfen zum Wasserkochen? Wieviel?“
+Selber rechnen macht vielleicht schlauer:
+…der Weltraum, unendliche Weiten, Vakuum…
+mittendrin ein kugelförmiges schwarzes Hähnchen,
+drumherum in großer Entfernung n Eiszapfen,
+die das Hähnchen bezogen auf seinem Rattenschiss
+mit je 305 W/m² bestrahlen.
+Um nicht zu überhitzen muss das arme Hähnchen
+nun die n*305W/m² von seiner KUGELoberfläche
+wieder abstrahlen.
+Wie viele Eiszapfen werden benötigt, damit dieses
+Hähnchen bei 160°C bräunt?
+Rechnet sich übrigens auch mit Eiswürfeln…
+Null-Bock auf selber rechnen – oder was?
+Hänchen mit Eiszapfen grillen:
+Rattenschiss 1m²
+Radius 1,128379167m
+Oberfläche 4m²
+160°C benötigen 1993W/m² (Stefan-Boltzmann)
+bei 4m² also 7972W
+1 Eisz. liefert 305W
+somit erford. 26,13770492 Eiszapfen
+Guten Appetit
+Die Abstrahlung bei etwa 15 Grad (288 K) für die Kugeloberfläche würde 390 W/m² auf 4PiR² betragen. 4*390/960 ist 1,625. Herr Weber geht also mit seinem Ansatz fälschlich davon aus dass die Erde ein Energie erzeugendes Perpetuum Mobile ist. “
+So sieht es aus. Herr Weber wird es aber wieder anders sehen, da er schon diverse Bücher zum „Perpetuum Mobile“ Erde veröffentlicht hat.
+Damit schadet es übrigens den „Skeptikern“.
+https://www.tichyseinblick.de/kolumnen/lichtblicke-kolumnen/ueber-einen-vergeblichen-versuch-den-treibhauseffekt-zu-widerlegen/
+Nun ist die Erde aber kein „kalter Körper“, Stichwort: heißer Magmakern,, also ist Ihre Voraussetzung mathematisch unzulässig.
+Die Erde „erzeugt“ zwar keine Energie, besitzt aber durchaus eine nicht geringe Rest-Eigenwärme-Menge.
+Diese bei der Oberflächentemperatur einfach „unter den Tisch fallen zu lassen“, ist auch eine Form von Leugnung!
+in der Grundüberlegung sind Sie auf dem rechten Weg.An der Randzone des Pariser Beckens liegt die unverrizte Bodentemperatur von 20°C (293,17 Kelvin) in einer Teufe von 93 Metern.
+Das sollte dem Herrn Weber aus seiner Schul- und Unizeit bekannt sein.Welche Konsequenzen diese Tatsache hat,kann man ihm aber nicht in die Schuhe schieben.Ein Gehirn kann nur über Dinge nachdenken,die ihm bekannt sind.
+An den vielen widersprüchlichen Kommentaren kommt ans Tageslicht,was die föderale Bildung nach dem 2.Weltkrieg in Deutschland angerichtet hat.Die Betroffenen können da nichts dafür.Aber es wird Ihnen in die Schuhe geschoben.
+Max Planck hat in seinen Vorlesungen immer auf genaue sprachliche Darlegung geachtet.Lange Strecken sehr ermüdend und anstrengend.Er hat aber ganz deutlich darauf hingewiesen,das Wärme die Eigenschaft einer elektromagnetischen Welle hat.Das wird hier völlig ignoriert,bzw. lückenhaft angewendet.
+Eine Bemerkung mit etwas Ironie: haben Sie schon einmal eine Amsel mit einer Formelsammlung unter den Flügeln angetroffen?Wahrscheinlich nicht.Und auswendig gelernt hat sie die Naturgesetze auch nicht.Sie hat sie einfach nur verstanden!!!
+So ist es!
+Und noch niemand hat ein Photon gesehen…
+Danke fuer kritisches Mitdenken. Gerade bei Herrn Dietze ist das leider geboten.
+Alleinig diese Aussage von Ihm zeigt wie wenig Verstaendnis er in der Materie mitbringt.
+Treibhausgase kuehlen die Atmosphaere.
+danke für Ihre Antworten. Als normaler Mensch (nur Dipl.-Ing. für Maschinenbau) kann man nämlich „verrückt“ werden an dem ganzen hochwissenschaftlich verbrämten Hokuspokus. Einfaches (man könnte auch sagen unbelastetes) Denken zeigt einem dann solche (bewussten?) Verstöße gegen den gesunden Menschenverstand auf.
+So bin ich zum Beispiel auch über eine Aussage gestolpert, bei der sinngemäß behauptet wird, dass man die Erde als Schwarzkörper betrachten darf, da es ja „nur“ um die IR-Strahlung geht. Gleichzeitig wird aber ständig darauf herumgeritten, dass die einfallende Sonnenstrahlung fast nur aus sichtbarem Licht besteht, weshalb die „Abschirmung“ durch THG nicht funktioniert. Das heißt dann allerdings, daß diese Lichtstrahlen erst einmal in Wärme umgewandelt werden müssen, was Verluste zur Folge hat, zu Teilen (Wasseroberfläche) auch als kurzwellige Strahlung reflektiert werden, was ebenfalls von der „Wärmebilanz“ abgezogen werden müsste usw. usf.
+Also kommen einem die ganzen Treibhaustheorie-Verfechter wie die Könige der Rosinenpickerei vor.
+Wenn so Wissenschaftlichkeit aussieht, dann bin ich froh, nur Maschinenbauingenieur zu sein.
+Da kann man nämlich mit wiederholbaren Versuchen bewiesen, daß das Vernachlässigen von 0,001 (Maßeinheit je nach Beispiel) tödliche Auswirkungen hat.
+deltaT=deltaS/S/4*T
+Das ergibt mit S=390 W/m² und T=288 K nur 0,0092 Grad. Sie glauben doch wohl nicht im Ernst daran dass man die global-mittleren Temperaturen und Strahlungsflüsse mit einer derartigen Genauigkeit rechnen kann, wenn sich schon Einige hier darüber streiten ob der solar bedingte Mittelwert -18 oder +15 Grad beträgt, die CO2-Verdoppelungssensitivität umstritten ist und der Einfluss von Wolken, Solaraktivität, Wind und Meeresströmungen nicht genau bekannt ist.
+Ihr Verstaendins vom gesagten ist nicht vorhanden.
+Es geht um den Waermegehalt und nicht um irgendeinen Waermestrom.
+Die Zeit und die Oberfläche bilden eine Bezugs-Einheit [(O*t)]. Man muss sich immer auf die Gesamtheit eines Körpers beziehen, um Teile zu spezifizieren.
+Kugel (Gesamtheit vom Körper): O – [Oberfläche], t – [Rotationsperiode] und zusammengesetzt die Ot = [(O*t)] [Periodenoberfläche]
+Für die halbe Gesamtheit gilt: O/2 – [halbe Oberfläche] , t/2 – [halbe Rotationsperiode] und für die halbe Periodenoberfläche ergibt sich Ot/2 = [(O*t)]/2
+Einstrahlung am Erd-Hemisphären-Rand: Q_a = S * [(O*t)]/2
+Einstrahlung am TOA der Erd-Hemisphäre: Q_i = M(i) * [(O*t)]/2
+Ausstrahlung der Oberfläche: Q_s = M(s) * [(O*t)]
+Ausstrahlung am TOA der Erd-Sphäre: Q_p = M(p) * [(O*t)]
+Mit den bekannten Werten (gerundet) aus den Messungen (ERBE, CERES und SORCE):
+Q_a = 1361 W/m^2 * [(5,1*10^14 m^2 * 24h)]/2 = 8,3*10^18 Wh = 3*10^22 J/d
+Q_i = 1361 W/m^2 * (1 – 0,3) * [(5,1*10^14 m^2 * 24h)]/2 = 5,8*10^18 Wh = 2,1*10^22 J/d
+Q_s = 378 W/m^2 * [(5,1*10^14 m^2 * 24h)] = 4,6*10^18 Wh = 1,7*10^22 J/d
+Q_p = 238 W/m^2 * [(5,1*10^14 m^2 * 24h)] = 2,9*10^18 Wh = 1*10^22 J/d
+Manche versuchen es immer wieder den Erhaltungssatz der Energie bzw. Energiebilanz auszutricksen. Die Gesamt-Energiebilanz am TOA Q_i/2 = Q_p muss ungefähr ausgeglichen sein, damit der Erhaltungssatz erfüllt wird. Damit hat sich jedweder „atmosphärische Treibhauseffekt“ ins Nirwana verabschiedet. Es gibt diesen Effekt nicht!
+Mfg
+Werner Holtz
+Es gibt die Möglichkeit, Dinge zu zitieren. Wenn ich etwas falsches schreibe, räume ich das gerne ein. Aber kritisieren Sie bitte eine konkrete Aussage, mit direktem Zitat.
+Ich ziehe mir mal aus dem, was Sie geschrieben haben das heraus, wo ich mit Ihnen übereinstimme.
+So ohne Zitat ist schwer zu verstehen, was Sie da als Machtwort verstehen. Herr Holtz hat lediglich ein paar Zahlen in die Runde geworfen, denen ich nicht mal widersprechen würde. Und die auch nicht im Widerspruch zu irgendwas stehen, was ich gesagt hätte.
+Sie sehen an den Zahlen von Herrn Holtz, dass die Abstrahlung am Boden größer ist, als an TOA (Q_s > Q_p). Warum das so ist, dazu hat sich Herr Holtz meines Wissens nach noch nicht wirklich geäussert …
+nehmen sie das doch einfach als Definition eines Treibhauseffektes.
+Es kann sie keiner daran hindern.
+Warum die Erde 15 Grad C oder vielleicht eigentlich 14 Grad C warm ist, koennen sie damit nicht erklaren.
+Die Beobachtung kann nicht die Erklaerung sein.
+Herr Holtz, Ihre Energiebilanz an TOA (mit Albedo) ist völlig richtig: 4*240/960=1, also IN=OUT. An TOA gibt es keinen Treibhauseffekt. Der wird erst weiter unten durch IR-Absorption sowie thermische Re-Emission erzeugt und tritt durch Gegenstrahlung am Boden auf – wo wir ja leben.
+Sie können sich das wie eine Teil-Rückspiegelung der Abstrahlungsleistung vorstellen, also analog zur Wärmedämmung als „Strahlungsdämmung“. Beide erhöhen bei konstanter mittlerer Heizleistung sowie Wärmespeicherung und -umverteilung (rotierende, überwiegend quasi isotherme Erde) die Temperatur. Am Boden gilt im Strahlungsmodell bei globalem Gleichgewicht 4*(240+150)/960=1, also ebenfalls IN=OUT.
+Dort haben wir den Treibhauseffekt, der etwa 33 Grad beträgt und die Temperatur von -18 auf +15 Grad erhöht. Die rein solare Temperaturgenese (ohne Gegenstrahlung) liefert mit S-B nur -18 Grad und NICHT +15 Grad, wie Herr Weber uns mit seinem Hemisphärenansatz nun zum 15. Mal weis zu machen versucht. Ich konnte z.B. durch dynamische Berechnung des solar bedingten Temperaturverlaufs (mit Albedo) über Tag/Nacht bei einer Schwarzkörper-Speicherplatte am Äquator nachweisen dass dort der solare Temperaturmittelwert nur minus 3 Grad (!!) beträgt. Die mittlere solare Einstrahlung beträgt 1364*0,7/Pi=304 W/m², womit S-B näherungsweise denselben Wert ergibt.
+==> Am Boden gilt im Strahlungsmodell bei globalem Gleichgewicht 4*(240+150)/(960+4*150)=1, also ebenfalls IN=OUT.
+Falls sie damit irgenwelche Temperaturen berechnen wollen, beziehen sie doch bitte alle temperaturwirksamen Waermestroeme mit ein. Bei Ihnen gibt es keine Wasserverdunstung, keine Waermeleitung, oder keine sehr geringe Waermeleitung, keine Konvektion – nichts.
+Und wie dumm Ihre Berechnungen sind, kann man daran Ablesen, das sie am Aequator auf -3 Grad C „Solaren Mittelwert“ kommen, was auch immer das ist. Da haben sie sicher kraeftig in der Nacht dumm rumgessessen und „mitgemessen“, als die Sonnen nicht schien?
+Klassische Fehlmessung und Auswertung. Wo nichts ist, koennen sie auch nichts Messen. Vielleicht haetten sie sich noch mal ueberzeugen sollen, das die eingestrahlte Sonnenleistung allein bei 960 W/m2 so geben Mittag, ihnen eine Temperatur von 88 Grad C haette geben muessen.
+Und haben sie das gemessen?
+Warum nicht?
+Das ist völliger Stuss. Sie können nicht den Wert am TOA der Einstrahlung auf die Oberfläche beziehen.
+Mfg
+Werner Holtz
+Können Sie diese Energie-Bilanz-Betrachtung einmal konkret formulieren?
+Ich möchte von Ihnnen eine Energie-Bilanz-Betrachtung der Energie-Zufuhr und -Abgabe bezogen auf den TOA mit Oberfläche und Atmosphäre für die Erde, als ein konservatives System (IN = OUT).
+Mfg
+Werner Holtz
+Der Treibhauseffekt ist also eine interne Angelegenheit zwischen Atmosphäre und Erdboden. An TOA gibt es ihn nicht! Der externe (!) „Strahlungsantrieb“ des IPCC von 3,7 W/m² für CO2-Verdoppelung an TOA wirkt für das Rechenmodell wie eine verstärkte Sonneneinstrahlung und stammt aus der Absorptionszunahme (Flankenintegral von HITRAN, höchstpräzise Labormesswerte für militärische Zwecke, d.h. IR-Suchköpfe von Abwehrraketen).
+Der Wert 3,7 ist berechnet für den Fall dass die Atmosphäre vom (Schwarzkörper-)Boden mit 350 W/m² durchstrahlt wird (dem Wert aus der Trenberth-Grafik), was ich durch Nachrechnung überprüft habe. Dabei sind Wolken (unterhalb derer CO2 weitgehend wirkungslos ist) und Wasserdampf (Überlappung sowie Feedback) NICHT berücksichtigt. So war dann ein Fake-Feedbackfaktor 2,7 nötig um die falschen 3±50% Grad des IPCC aus Eisbohrkernen zu erreichen.
+Ein weiteres Problem sind die etwa 100 W/m² von Verdunstung und Konvektion. Dies bleibt im vereinfachten Strahlungsmodell unberücksichtigt weil der größte Teil davon nur interne Kreislaufenergie ist und man auch davon ausgeht dass in erster Näherung CO2 auf diese Werte in der Bilanz kaum einen Einfluss hat, also die 100 W/m² sich nicht ändern und daher ausgeklammert werden können.
+fuer die Einstrahlung gibt es keinen Geometriefaktor 4. Das waere eine flache Erde, Scheibenwelt.
+Die Verstaerkung der IR Strahlung von der sie da reden ist physikalisch unmoeglich. Strahlstaerken sind nicht additiativ.
+Erklaren sie bitte warum Konvektion eine interne Kreiuslaufenergie sein soll, und an welcher Stelle Konvektion Energie wieder aus der Atmosphaere an den Boden abgeben soll. Diesen Kreislauf gibt es so gar nicht!
+Vielleicht verwechseln sie den internen Strahlungskreislauf mit der Waermeabfuehrung durch Konvektion?
+Aber Ihr Verstaendnis ist in der Hinsicht von Ihrer Ueberzeugung getruebt.
+Schon falsch!
+Wie alles andere auch.
+Mich beschäftigt die Frage: „warum beschäftigen wir uns überhaupt mit diesem Thema und verschwenden unsere Geisteskraft damit. In Ehrfurcht vor der Gewalt der Natur der wir ausgeliefert sind ohne etwas an der Sache selbst etwas ändern zu können, bleibt uns doch nur die bestmögliche Anpassung bzw. Unterordnung“
+Wir machen es nur um denen, die ihr Gehirn noch nicht an der Pforte zur Glaubensgemeinschaft abgegeben haben, die Augen zu öffnen.
+Keines der Modelle ist der Weisheit letzter Schluß, wobei die vom Mainstream vertretenen der Realität nicht mal nahe kommen und absurde Wege im Denkansatz gehen.
+Satire:
+Nun sitze ich an der Donau. Knapp Stromab habe ich 8 Wäscheleinen quer zum Strom unter der Wasserlinie gespannt. 4 sind für den Wasserdampf eine für das Kohlenstoffdioxid, eine für Methan und Co und eine für die Wasserdampfverstärkung. Jetzt spanne ich eine zusätzliche für mein Dasein und aller anderen Menschen auf dieser Welt. Warum steigt das Wasser nicht zu meinen Füßen? Weil es zu wenig geregnet hat, die Alpengletscher schon ganz abgetaut sind oder was?
+Ab zur Pasterze auf die Kuhweide zum melken, die Sonne genießen und all die 13 Trillionen Moleküle pro Kubikmeter (Halt- da oben wohl nur rund 11), welche so toll umhersausen und durch ihre Stöße gegen meine implantierten Wärmesensoren ein wohliges Gefühl der Wärme erzeugen.
+Es sei denn die Gleichgewichtstemperatur zwischen mir und meiner Umgebung geht mir zu Lasten. Dann steh ich da und friere.
+Mit freundlichen Grüßen!
+Christian Möser
+Zimmerer
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+http://www.gigapico.de/Anwendungen_der_hemisphaerischen_Darstellung.pdf
+Die Studie beschäftigt sich nicht mit dem Treibhaus-Effekt, sondern mit der Frage, wie die Ozeane die Global-Temperatur der Erde beeinflussen.
+Auch wenn es niemand mehr hören will: Die Temperatur ist eine Zustandsgröße isolierter thermodynamischer Systeme im Gleichgewicht. Weder die Erde noch großräumige Teilsysteme haben also eine Temperatur. (Vom Mittelwert solcher intensiven Größen zu schweigen.)
+Ob und wie man sich diesem extrem schwierigen Thema überhaupt theoretisch nähern kann – keine Ahnung. Aber schon die fundamentale Kritik an den Modellen der Protagonisten ist wichtig und heilsam. mfG!
+von den fast 100 Anmerkungen dieser Trilogie gefällt mir Ihre Einlassung am besten.
+In der aktuellen Technik habe ich nach einem praktischen Beispiel gesucht, und nach meinem Dafürhalten auch gefunden.
+Es ist die Temperatur am Ausgang des Primär-Kreislaufes in einem Druckwasser-Reaktor von einem Kernkraftwerk.Deckt sich diese Situation mit Ihrer Aussage: Zitat: „[…] Die Temperatur ist eine Zustandsgröße isolierter thermodynamischer Systeme im Gleichgewicht […].“ ???
+Die S-B-Umgebungsgleichung beschreibt, dass die von der Erdoberfläche abgegebene Energie sich als Differenz zwischen der Abstrahlung der Erdoberfläche und der Abstrahlung aus der Atmosphäre ergibt: Gleichung (5) in „Weitere Überlegungen zur hemisphärischen Herleitung einer globalen Durchschnittstemperatur“: δS = S – S_0 (S – Abstrahlung der Erdoberfläche, S_0 – Abstrahlung der Atmosphäre). Damit beschreiben Sie eigentlich nur mit anderen Worten das gleiche, das z.B. auch die angeblich widerlegten Kiel/Trenberth beschreiben. Vielleicht können Sie ja doch mal darauf eingehen, was da nun eigentlich bei Ihrem Ansatz anders ist. Gefragt habe ich Sie das schon des öfteren …
+Ich habe da das kleine und das grosse Delta verwechselt, das sollte ΔS = S – S_0 sein …
+Zu Ihren Thesen:
+ERKENNTNIS zu THESE (1) = Der konventionelle globale Stefan-Boltzmann-Ansatz mit einem „natürlichen atmosphärischen Treibhauseffekt“ von 33°C
+„Dieser Ansatz ist grundlegend falsch … folglich hoch toxisch.“
+Die „hohe Toxizität“ ist so nicht richtig: Dieser Ansatz über das Stefan-Boltzmanngesetz besagt lediglich, daß die solare Einstrahlung, die das Erde-Atmosphären-Ozean-System pro Quadratmeter Erdoberfläche unter der Berücksichtigung der Albedo der Erde gleich der Solarkonstanten S0 mal der Querschnittsfläche der Erde mal (1-Albedo) = 236 [W/m^2] ist. Mehr nicht: Es geht um eine L e i s t u n g s bilanz!
+Diese Leistung entspricht bei einem Schwarzkörper (im Infraroten sind praktisch alle Körper „schwarz“) einer Abstrahltemperatur von 254 Grad Kelvin = -19 Grad Celsius.
+Selbstverständlich sind die wahren Temperaturen über die Breitengrade sehr unterschiedlich, aber wenn man nur kleine Änderungen betrachten will, zum Beispiel Änderungen der sogenannten „Globaltemperatur“, dann ist es erlaubt, mit Mittelwerten zu rechnen (im Prinzip bedeutet das in einem linearen Ansatz nur, daß man die Reihenfolge der Integrationen ändert).
+Solche Mittelungen der Temperatur sind um so mehr gerechtfertigt, je schneller ein Himmelskörper rotiert, und je mehr seine Atmosphäre hohe Speicher- und Austauschkapazität hat.
+So besitzt die Venus z.B auf allen Breitengraden und auf Tag- und Nachtseite praktisch die gleiche Bodentemperatur, weil sie so langsam rotiert und dadurch der Äquator-Pol-Austausch in der Atmosphäre kaum durch Coriolisbeschleunigungen behindert wird.
+Dem gegenüber ist eine solche Mittelung auf dem langsam rotierenden atmospärelosen Mond viel zu ungenau. Hier steigt z.B. im äquatorialen Bereich (Hadley-Rille) die Temperatur am Mittag auf etwa 120 Grad, und in der Nacht sinkt sie bis auf -180 Grad ab. Eine einfache Mittelung der Temperaturen würde viel zu grobe Fehler verursachen: Hier muß man direkt mit Leistungen rechnen. Die aus den Leistungen gemittelte Temperatur von ca. – 55 Grad stellt sich über Wärmeleitung unter der Mondoberfläche bereits in ca. 1 Meter Tiefe ein.
+Die Erde ist da ein Mittelding: Sie rotiert relativ schnell und die Atmosphäre hat eine ausreichende Speicherkapazität für einen relativ guten Tag-Nachtausgleich. In Breitengradenrichtung verhindern die Corioliseffekte einen Austauch zwischen den Wetterzonen. Die Fehler, die sich aus einer Mittelung ergeben, sind noch einigermaßen tolerabel.
+Fazit: der „toxische Ansatz“ ist also garnicht so schlecht, um die Größenordnung des irdischen – wie auch immer gearteten „Treibhauseffektes“ (Treibhausgase, Wolken, Niederschlag, Konvektion) abzuschätzen.
+MfG
+Gerhard Wedekind
+Es geht genau um die Leistung. Die Angabe 236 W/m2 fuer die Einstrahlung ist falsch.
+Die richtige Angabe der Leistung ergibt sich aus der bestrahlten hemisphaerischen Flaeche.
+Die 236 W/m2 gelten fuer die Ausstrahlung, da wir wissen, das sich die Erde langsam unter der Sonne hinwegdreht und die aufgenommene Waerme in den Ozeanen, weniger auf den Landmassen und in der Atmosphaere gespeichert wird.
+Diese Energie steht fuer die Abstrahlung in der Nacht zur Verfuegung. Der dafuerr zustaendige Speicherstrom kann als die Haelfte der eingestrahlten Leistung angenommen werden.
+Damit ergibt sich ein einfaches Bild.
+Es strahlen Hemisphaerisch, auf der Tagseite 472 W/m2 ein, 236 W/m2 werden abgestrahlt und der Rest (die andere Haelfte) wird fuer die Nacht zwischengespeichert und von der Sonnen-Nicht-Beschienenen Seite abgestrahlt.
+Der grosse Fehler ist, eine Leistungsangabe die sich auf Joule pro Sekunde bezieht auf die gesamte Erdoberflaeche zu beziehen. Die Sonne bescheint immer nur eine Halbkugel.
+Mit diesem Ansatz brauchen sie keinen THE mehr zu definieren. Sie koennen das natuerlich aufgrund der Joule pro m2 machen aber wenn sie dann ueber die Zeit mitteln, verlangen sie nicht, das Ihnen einer abnimmt, das sie aus diesen Rechenkuensten mit dem SB Gesetz eine Temperatur ableiten koennen.
+mfg Werner
+Genauso ist es, Herr Schulz. Mit 236 W/m² hat die Tagseite gemäss S-B aber nicht +15 sondern -19 Grad. Und wenn auch 236 W/m² zwischengespeichert zur Nachtseite gehen, kommt die ebenfalls auf -19 Grad, d.h. weder -273 noch +15 Grad. Den Rest, also +33 Grad besorgt die Gegenstrahlung. Und den von Herrn Weber vermuteten fehlenden Faktor 2 gibt es nicht.
+na klar gibt es den Faktor 2. Haben sie doch gerade bestaetigt als sie zugegeben haben das 472 W/m2 WAERME auf der HHemisphaere ankommen!
+Die Abgabe von Waerme ist nicht das Gleiche wie die Strahlstaerke berechnet mit den SB Gesetz ueber die Temperatur.
+Sie zeigen wiedermals das sie keine Ahnung von Thermodynamik haben.
+236 W/m2 ist die abgabe von WAERME, aber nicht die Strahleistung. Die Strahlleistung ist am Oberrand der Atmosphaere anders als an der Oberflaeche, weil die Temperaturen anders sind. Na und?
+Die Erde gibt Energie von der Oberflaeche dirkt ins Weltall ab durchs atmosphaerische Fenster. UND dazu kommt ein Energiestrom von den die Atmosphaere kuehlenden Treibhausgasen.
+Die Gegenstrahlung besorgt gar nichts, weil selbst wenn sie im vollem Schwarzkoerperspektrum waere ist der WAERMEfluss NULL.
+Eine Erhoehung der Temperatur mit einem WAERMEfluss von NULL ist nicht moeglich.
+Lernen sie die Grundlagen der Physik und Thermodynamik ehe sie sich wieder melden.
+Zitat aus #68 (Weber): „Der Kardinalfehler in der vorliegenden Berechnung von Professor Möller besteht nun darin, dass bereits in Formel (11.1) die spezifische Strahlungsleistung der einfallenden Sonneneinstrahlung auf die gesamte Erdoberfläche verteilt wird.“
+Zitat aus #69 (Krüger 14. Dezember 2018 20:19): „Die Temperaturgegensätze sind auf der Erde relativ gering, so gilt das T^4-Gesetz für die gesamte Erdkugel.“ Und im letzten Absatz von #69 wird dort ein experimenteller Nachweis für dieses Postulat beschrieben.
+Zitat aus #73 (Weber): „Wenn Ihr Postulat aus #69 stimmt, dann ist eine Mittelung der hemisphärischen Sonneneinstrahlung über die gesamte Erdoberfläche widersinnig und der Treibhauseffekt obsolet.“
+Herr Lüdecke von Eike hat hier auf Eike schon 2010 im wesentlichen korrekt den THE erklärt.
+https://www.eike-klima-energie.eu/2010/01/28/der-treibhauseffekt-wie-funktioniert-er/
+Wobei er korrekterweise den natürlichen THE als Differenz der 15°C Bodentemperatur und der -18°C Abstrahlungstemperatur der Erde hätte noch nennen müssen.
+Ich stimme im wesentlichen mit Herrn Lüdecke und den Wissenschaftlern bei Eike und deren Beschreibung des THE überein.
+Seinen es Lüdecke, Shaviv, Scafetta, Svensmark, etc..
+Aber Herr Weber, wenn Sie denen den unbedingt widersprechen wollen, seis drum.
+Sie sind trotz ausdrücklicher Aufforderung die Erklärung schuldig geblieben, woher das ominöse IR-Spektrum aus Ihrer THE-Glaubensschrift „Grundlagen des Treibhauseffektes für EIKIANER“ (2016) stammt. Sie konnten hier weder Autor und Titel der entsprechenden Veröffentlichung nennen, noch Ort und Datum der zugehörigen IR-Messung angeben.
+Folglich sind Sie mit einem manipulierten F-Wort-Spektrum aufgeflogen.
+Herr Krüger hatte Ihnen den Artikel von Herrn Lüdecke verlinkt. Dort finden Sie folgende Referenz für einen der verwendeten Graphen:
+[2] Hanel, R. et al.: The NIMBUS 4 infrared spectroscopy experiment, Journ. Geophys. Res. 77, 2629-2641 (1972)
+Online können Sie die Graphen z.B. hier finden:
+The Nimbus 4 Infrared Spectroscopy Experiment, IRIS-D. Part 1: Calibrated Thermal Emission Spectra
+Das sind Veröffentlichungen aus den 70er Jahren. Wenn Sie sich dafür interessieren, gibt es bei Erbe oder Ceres sicherlich aktuellere Daten …
+Messungen finden Sie vom Nimbus-Satelliten und Folgesatelliten mit IR-Spektrometern z.B. hier:
+https://tinyurl.com/styswwx
+Und bitte erzählen Sie mir nicht die Satellitendaten werden seit den 1970er Jahren manipuliert. Von USA, Russen, etc..
+ANALYSE: Passt die ANTWORT von Michael Krüger @ 7. Dezember 2019 um 13:24 Uhr zu meiner AUSSAGE @ 5. Dezember 2019 um 11:05 Uhr ???
+ERGEBNIS: Auf keinen Fall lässt sich aus meiner Aussage ableiten, ich hätte SIE gefragt, wo man GENERELL IR-Spektren finden kann oder gar angedeutet, „Satellitendaten werden seit den 1970er Jahren manipuliert“. Vielmehr wird IHNEN im Text ganz konkret vorgeworfen, SIE hätten GENAUDASEINE von IHNEN gezeigte IR-Spektrum MANIPULIERT. Der Fehler muss also im Sprachverständnis des betreffenden Kommentators Krüger zu finden sein. Dieser Herr Krüger wird daher höflich gebeten, seine Defizite gefälligst selbst zu ermitteln; man kann auch spezialisierte Fachkräfte für die Lösung dieser Problematik hinzuziehen. Und wenn Sie Ihre Probleme gelöst haben sollten, dann können Sie Sich gerne nochmal melden. Bis zum Beweis des Gegenteils halte ich daher meine Kernaussage aufrecht:
+Herr Krüger, Sie sind mit einem manipulierten F-Wort-Spektrum aufgeflogen!
+ERNEUTER ZAHLUNGSHINWEIS: Sie hatten sicherlich nur „vergessen“, die Frage der Admin vom 2. Dezember 2019 um 18:35 Uhr aus Teil 1 beantworten, Zitat:
+„So klingt es auch sehr nachvollziehbar. Danke. Und diese Temperatur von – 18 ° in 5000 m Höhe lässt sich ziemlich genau nach der adiabatischen Höhenformel berechnen, wenn man als Ausgangswert 15 °C am Boden annimmt. Was bleibt da noch für den Treibhauseffekt übrig?“
+IHRE diesbezügliche Antwort ist SOFORT fällig – und würde auch mich sehr interessieren!
+In der Vergangenheit war Niemand in der Lage, Zustandsänderungen im menschlichen Lebensraum zu prognostizieren. Auch heute ist Niemand in der Lage zu berechnen, wann es bei mir regnet, hagelt oder schneit und ob eine „mittlere“ Niederschlagsmenge in den nächsten Monaten, Jahren oder gar Jahrzehnten für die Bewässerung meines Gartens ausreicht. Wenn offenbar Mathematik dazu nicht ausreicht, wie könnte sie es wohl ermöglichen, die vorgenannte energetische Rückkopplung mit Hilfe von mathematischen „Modellen“ quantitativ nachzuweisen? –
+Zum Glück ist nicht Mathematik die Grundlage der Naturwissenschaften, sondern die Beobachtung: „Wenn die Sonne aufgeht, wird es hell, wenn Wolken aufziehen, kann es regnen, hageln oder schneien, Ebbe und Flut korrelieren mit der Mondstellung u. a. m.“
+Wir beobachten – inzwischen sogar aus dem Weltraum -, dass von der eintreffenden messbaren Solarstrahlung vermutlich etwa 30% reflektiert werden, der Rest überwiegend von den Ozeanen und der sonstigen Materie an der Erdoberfläche absorbiert, mehrfach gewandelt und schliesslich in Form von Wärmestrahlung (zeitabhängig schwankend) wieder in den Weltraum emittiert wird.
+An der Erdoberfläche stellen sich dadurch die lokal messbaren Temperaturen ein. Im Mittel sind das etwa 14 bis 15 Grad C. Die lokal messbare Emission von Wärmestrahlung, die Verdampfung der Niederschläge, Konvektion und Wärmeleitung beweisen qualitativ, dass dieser Energieverlust den Zufluss von Solarenergie wesentlich übersteigt. Zusammen mit der lokal messbaren „Rückstrahlung“ ist damit die Existenz des sog. atmosphärischen Treibhauseffektes zwar qualitativ aber eindeutig nachgewiesen.
+Eine sehr kleiner Beitrag des CO2 zur Wirkung dieser Rückkopplung wäre nur dann möglich, wenn es auch an der Emission der Wärmestrahlung in den Weltraum beteiligt wäre. Das verhindern nämlich dominante Wasser und Eis Aerosole, die Veränderungen seiner Wirkung stets gegenläufig korrigieren.
+Dieser Sachverhalt wird erstens bei den unsinnigen Versuchen einer Quantifizierung ignoriert, ist zweitens mit Blick auf die überlagerte dominante Wirkung der Wasser und Eis Aerosole sehr unwahrscheinlich und wurde drittens auch niemals nachgewiesen.
+https://de.scribd.com/document/413528852/Atmospha-risches-Kohlendioxid-tra-gt-nicht-zur-Erwa-rmung-bei
+Fazit: Die energetische Rückkopplung des atmosphärischen Treibhauseffektes existiert und die mehr als zweiatomigen Gasmoleküle sind „mit an Sicherheit grenzender Wahrscheinlichkeit“ an seiner signifikanten Wirkung nicht beteiligt.
+Wenn sie von energetischen Rueckkopplungen sprechen, was meine sie damit?
+Ist das ein Begriff der Esotherik ala Klimaphysik mit „Rueckstrahlung“ usw?
+Haben sie da Literatur?
+Ich habe aber eine Frage an sie.
+Bei einer Zimmerwand kann man davon ausgehen, das diese entsprechend Ihrer Oberflaechenbeschaffenheit die Heizenergie „zurueck“ strahlt. Bisher kann ich nicht finden, das diese Eigenschaft die Isolierwirkung der Zimmerwand ausmacht. Man koennte diese ja auch superduenn, zum Beispiel aus Stoff machen. Ausser Verhinderung von Konvektion sehe ich da kaum Potential.
+Eine gute Isolierung hat eine enstsprechende Dicke und eine geringes Waermeleitzahl.
+Kann es also sein, das die Isolierwirkung der Atmosphaere entsprechend nicht mit der Strahlfaehigkeit einhergeht, sondern nur entsprechend der Dicke und geringen Waermeleitfaehigkeit?
+Fazit, man braucht vielleicht keine esotherischen Begriffe um die Isolierwirkung der Atmosphaere zu beschreiben. Was denken sie?
+die energetische Rückkopplung sollte jeder Physiker kennen . Schon Goebbels nutzte sie zur Verstärkung des schwachen Signals vom staatlichen Rundfunk, um die Stimme seines Herrn im Lautsprecher des Volksempfängers hörbar zu machen.
+Hier geht es um das Signal der Sonne in Form von „Solarstrahlung“. Man kann es zum kleinen Teil mit dem Photoapparat, der Videokamera oder komplett z. B. durch Absorption in Materie und Wandlung in Wärme empfangen. Je länger die Energie braucht, bevor sie abfließt, umso größer wird das Signal, die Temperatur des Absorbers.
+Diese Wirkung lässt sich signifikant verstärken, wenn abfließende Energie nicht einfach im Weltraum verschwindet, sondern von geduldigen Wasser und Eis Aerosolen zurück gestrahlt wird, sodass sie noch einmal Zurückgehalten und daran gehindert wird , klammheimlich die Erde hinter sich zu lassen.
+nachdem sie hier ihre Grundlagen und Referenzen zitiert haben, ziehe ich es vor, nicht weiter mit Ihnen zu diskutieren.
+Die Energetische Rueckkopplung ist also ein propagandistisches Machwerk und keine Physik. Mehr braucht man darueber nicht zu wissen.
+Zur Frage ob nur 2-atomige Moleküle am Wärmeprozess beteiligt sind gibt die Modellvorstellung des idealen Gases einen guten Hinweis: Jedes Molekül wird als Teilchen betrachtet und nur die 3 translatorischen Freiheitsgrade bewirken Temperaturänderungen. Auf Grund dieser Erkenntnis wurde auch das Thermometer skaliert. Kann man auf Grund der tatsächlichen Wärmekapazität von CO2 gut nachvollziehen. Hat eine höhere Wärmekapazität pro Mol als Luft die aber den Zustandsänderungen nicht entsprechen weil diese im Verhältnis zur gesamten Energieaufnahme zu gering ist. Also spielt bei Temperaturänderungen nur der Gasdruck unter Berücksichtigung des atm. Druckes eine Rolle.
+Die Rotations- und Schwingungsenergie ist zunächst nur innere Energie. Klar ist auch dass Moleküle abstrahlen. Aber auf Grund der Tabellenwerte ist kein wesentlicher Einfluss auf die Temperaturerhöhung dieses Gases erkennbar. Aber das Gesagte betrifft nur die Erwärmung und nicht den Kühlprozess eines Gases. CO2 kann ja auch als Kältemittel verwendet werden und zwar deshalb weil Energie weggespeichert wird.
+Offenbar ist er darüber für 2 Dinge völlig blind. Erstens ist da nicht bloß ein Haar, sondern ein ganzer Pelz in der Suppe. Zweitens sind seine Theorien ein völlig sinnloses Rumstochern im Dunkeln, mit hanebüchenen Irrtümern.
+Der Unsinn wäre sicher leichter zu ignorieren, gäbe es hier auch eine fundierte Diskussion zu den Problemzonen des „THE“. Genau diese unterbleibt jedoch leider. Und so tut sich „Eike“ leider keineswegs damit hervor aufklärend zu wirken, denn solche Beiträge bewirken das genaue Gegenteil.
+Eine solch grundlegende Erkenntnis ließe sich beispielsweise alleine schon anhand der angesprochenen Mond-Temperaturen gewinnen. Wie sich leicht zeigen lässt herrschen am Mond deutlich höhere Temperaturen vor als sich nach dem Rechenschema des irdischen „THEs“ ergeben müssten. Auch der Mond hat also einen Treibhauseffekt, kalkulatorisch zumindest. Denn bei angenommener Albedo von 0.13 gilt:
+(1368 * (1 – 0.13) / 5.67e-8)^0.25 = 380.6K
+Der Mond könnte im Idealfall, am Äquator maximal 380.6K heiß werden. Durchschnittlich erreicht er ebenda aber sogar ~394K, was erheblich wärmer ist. Das gleiche ergibt sich, wenn man die Oberflächentemperaturen mit dem Faktor 4 mittelt. Auch dann sind die so gemittelten Durchschnittstemperaturen mit ~276K deutlich höher als die theoretischen 269K.
+So oder so ist der Mond deutlich zu warm, was natürlich nicht auf eine bisher unentdeckte Gashülle mit Treibhauswirkung hinweist. Vielmehr zeigt sich der Brachialfehler eines angenommenen perfekten (Oberflächen-) Emissionsgrades von 1. Mit dieser Annahme wird man immer viel zu niedrige Temperaturen errechnen und die reale Abweichung hiervon fälschlich als „THE“ bezeichnen..
+Zu „Kritische Analyse zur globalen Klimatheorie: Widerlegung der Basisstudie KT97 des IPCC mit den Messwerten des ERBS Satelliten an einem neuen Modell“
+Gibt es in diesem Buch eine Sensitivitäts-Analyse der Parameter der Einflußgrößen?
+Wenn es eine Sensitivitäts-Analyse gibt, dann dem Artikel hinzufügen.
+Wenn es keine Sensitivitäts-Analyse gibt, dann das Energie-Bilanz-Modell hinzufügen, die diese Aussage stützt.
+Mfg
+Werner Holtz
+Im Grunde ist die Sache relativ einfach, wenn auch in der Quantität unsicher. Das Vorzeichen bei mehr CO2 z.B. ist jedoch eindeutig, solange man sonst nichts verändert.
+Aus einen sehr trivialen Grund. IR Strahlung der CO2 Bande(n) kann erst ab ein paar km Höhe beginnen, ins All zu entweichen. Da es dort oben im Mittel immer viel kälter ist, als darunter bzw. an der Oberfläche, ist auch die Strahlungsleistung wesentlich geringer. Die Bilanz kann durch einen T Anstieg wieder ausgeglichen werden. Der T Anstieg durch die Troposphäre funktioniert primär über die ziemlich konstante Lapserate, denn jene Schicht, wo nun CO2 gerade noch nicht ins All emittiert muss ja wenig aber doch wärmer werden und das war´s im Grunde. Wie viel das tatsächlich ausmacht, darüber kann man wahrlich diskutieren, aber wenn es so was wie „Konsens“ unter den Experten gibt, dann jenen, dass jede CO2 Verdopplung ca. +0,8-1,2K im globalen Mittel ergeben sollte.
+Alles klar!
+Da kommt einem ja die Behauptung von Herrn Vahrenholt als Erlösung vor: „CO₂ ist schädlich und muss verpresst werden, sonst wird es uns umbringen, aber erst in 80 Jahren, also keine Eile.“
+die 0.8 – 1.2 K begruenden sich auf einer Erhoehung des Strahlungsrueckflusses, den es so nicht geben kann, da CO2 ein selektiver Bandstrahler ist.
+Der Energierueckfluss ist hoechstens 30% von dem, was in der Klimaphysik verbrochen wird.
+Zusaetzlich stehen dem Energierueckfluss aus der atmsophaerischen Strahlung ungeregelte Waerme oder man sollte sagen Kuehlraten durch Verdunstung und Konvektion gegenueber.
+Damit ist die Sensitivitaet hoechstens theoretisch und praktisch nicht messbar.
+Und da warme luft weniger dicht ist, verschiebt sich die theoretische Abstrahlhoehe nach unten und damit gleicht der THG Thermostat die erwaermung durch Mehrabstrahlung aus der Atmosphaere wieder aus.
+THG kuehlen.
+Und 1 Grad mehr in der Atmosphaere erhoeht den Energiegehalt um 0.3%.
+Ihr Satz: „Der T Anstieg durch die Troposphäre funktioniert primär über die ziemlich konstante Lapserate, denn jene Schicht, wo nun CO2 gerade noch nicht ins All emittiert muss ja wenig aber doch wärmer werden und das war´s im Grunde. “
+Macht physikalisch keinen Sinn.
+Astrein ist anders!
+Natürlich sinken die T durch die Troposphäre (Lapserate), wenn man nach oben geht, VICE VERSA! Und da die Sache mit den IR Emissionen primär eine reine Strahlungsangelegenheit in der oberen Troposphäre darstellt, setzt sich die Erwärmung bei Ann. konst. Lapserate bis an die Oberfl. durch. Eliminieren sie die THG und sie erhalten eine ähnlich T wie am Mond von im Mittel ca. -55°C, jedoch mit beträchtlichen Unterschieden zwischen Tag/Nacht.
+sie sagten alles ist astrein erklaert. Ich frage mich warum sie nunmehr darauf bestehen, eine weitere Erklaerung abzugeben.
+Bei Ihnen faengt die Lapsrate oben an und bestimmt dadurch die Temperatur an der Oberflaeche? Definieren sie mal ihr oben. Wo faengt die Lapserate da an?
+Bin gespannt!
+kommt da noch was?
+„umgangssprachlich Strahlung“! Da liegt der Hase im Pfeffer. Die Energieflüsse am Erdboden werden von der Konvektion und dem latenten Wärmetransport dominiert. Daher ist die „Gegenstrahlung“ aus 340 W/m² zur Begründung der Erdbodentemperatur physikalischer Nonsens…..
+Und der Versuch von Ordowski beweist, daß das so ist.
+Wer es nicht glaubt, soll sich einen Hähnchengrill zulegen…
+Fazit:
+Das Ganze ist ein Tanz ums goldene Kalb!
+Die Nettosteuerzahler sollten sich von diesem pädagogisierenden [expletive deleted] nicht mehr [expletive deleted] lassen.

@@ -1,0 +1,133 @@
+Gänzlich anders als in Deutschland, in dem man sich mehr denn je zurück ins Mittelalter träumt, setzt man in USA verstärkt auf die Ausbildung junger Ingenieure und Wissenschaftler und ermutigt sie, eigene Unternehmen zu gründen. Eines der Programme ist das Gateway for Accelerated Innovation in Nuclear (GAIN), des U.S. Department of Energy (DOE). Vereinfacht gesagt, gibt es dort Gutscheine, die die (sonst kostenpflichtige) Nutzung staatlicher Forschungseinrichtungen durch Unternehmensgründungen ermöglicht. Acht solcher “Gutscheine” im Gesamtwert von zwei Millionen Dollar gingen an sog. startups aus der Kerntechnik.
+Eines dieser jungen Unternehmen der Kerntechnik ist Transatomic Power Corporation (TPC). Wie so oft in den USA, ist es eine Gründung von Absolventen des MIT. Glückliches Amerika, in dem noch immer tausende junger Menschen bereit sind, sich den Strapazen eines Kerntechnik-Studienganges aussetzen, während man hierzulande lieber “irgendwas mit Medien” studiert. Allerdings kennt man in den USA auch keine Zwangsgebühren zur Schaffung von hoch dotierten Nachrichtenvorlesern und Volksbelehrern. Jeder Staat setzt halt seine eigenen Prioritäten.
+Noch etwas ist in den USA völlig anders. Das junge Unternehmen hat bereits mehrere Millionen Dollar privates Risikokapital eingesammelt. Es braucht noch mehr Kapital und hat deshalb ein Papier veröffentlicht, in dem das Konzept seines Reaktors näher beschrieben ist. Sicherlich ein erhebliches wirtschaftliches Risiko. Man vertraut offensichtlich darauf, mangelnde “Geldmacht” durch Schnelligkeit kompensieren zu können. Erklärtes Ziel ist es, möglichst schnell einen kleinen Versuchsreaktor mit 20 MWth zu bauen. Das erste kommerzielle Kraftwerk soll rund 500 MWel (1250 MWth) Leistung haben und rund zwei Milliarden Dollar kosten.
+Abgebrannte Brennelemente als Brennstoff
+Der Reaktor ist vom Typ “molten salt”. Der Brennstoff wird in geschmolzenem Salz gelöst, welches gleichzeitig dem Wärmetransport dient. Populär ist dieser Reaktortyp im Zusammenhang mit Thorium gemacht worden. Man beschränkt sich hier bewußt auf Uran als Brennstoff, um auf die dafür vorhandene Infrastruktur zurückgreifen zu können. Thorium wird eher als Option in ferner Zukunft gesehen.
+Der besondere Charme dieses Konzeptes liegt in der Verwendung abgebrannter Brennelemente aus Leichtwasserreaktoren als Brennstoff. Solche abgebrannten Brennelemente bestehen zu rund 95% aus Uran–238 und etwa je einem Prozent Uran–235 und Plutonium. Der Rest sind Spaltprodukte als Abfall. Das klassische Modell, wie es z.B. in Frankreich praktiziert wird, ist die Wiederaufbereitung nach dem Purex-Verfahren: Man erhält sehr reines Uran, welches als Ersatz für Natururan wieder in den Kreislauf zurückgeführt wird und reines Plutonium, welches als Mischoxid zu neuen Brennelementen verarbeitet wird. Die Spaltprodukte mit Spuren von Aktinoiden werden verglast und als Atommüll endgelagert. Für diese chemischen Prozeßschritte (Wiederaufbereitungsanlage) geht man von Kosten in Höhe von 1300 bis 3000 US-Dollar pro kg aus. Bei heutigen Preisen für Natururan eine unwirtschaftliche Angelegenheit. Deshalb füllen sich die Lager mit abgebrannten Brennelementen auch weiterhin. Allein in den USA lagern über 70.000 to ausgedienter Brennelemente. Für die “Zwischenlagerung” in Behältern (ähnlich den Castoren in Deutschland) geht man von etwa 100 Dollar pro kg aus. Für die “Entsorgung” haben sich bereits über 31 Milliarden US-Dollar Rücklagen angesammelt – was etwa 400 Dollar pro kg entspricht.
+Wem es gelingt, einen Reaktor zu bauen, der die abgebrannten Brennelemente “frißt”, ist in der Rolle einer Müllverbrennungsanlage: Er wird für die Beseitigung des Mülls bezahlt und kann sich mit seinem Preis an den anderen Möglichkeiten (z. B. Müllkippe) orientieren. Die entstehende Wärme ist umsonst. Die elektrische Energie aus der “Müllbeseitigung” ist ein weiteres Zubrot. Es kommt lediglich darauf an, eine besonders günstige “Müllverbrennungsanlage” zu bauen. Genau an diesem Punkt, setzt TPC an.
+Das Transatomic Konzept
+Die Angst vor dem “Atommüll” wird mit seiner Langlebigkeit begründet. Es gibt wahrlich gefährlichere Stoffe, als abgebrannte Brennelemente. Solange man sie nicht aufisst, sind sie recht harmlos. Es ist aber die berechtigte Angst, ob man diese Stoffe für Jahrmillionen sicher von der Biosphäre fern halten kann, die viele Menschen umtreibt. Spaltprodukte sind in diesem Sinne kein Problem, da sie in wenigen hundert Jahren faktisch von selbst verschwunden sind. Jahrhunderte sind aber durch technische Bauwerke (Kathedralen, Pyramiden etc.) oder natürliche Barrieren (einige hundert Meter gewachsene Erdschichten) sicher beherrschbar.
+Man kann aber alle langlebigen Aktinoide durch Spaltung in kurzlebige Spaltprodukte umwandeln und dabei noch riesige Mengen Energie erzeugen – am besten in einem Kernkraftwerk. Ein solcher Reaktor muß besonders sparsam mit den bei einer Spaltung freiwerdenden Neutronen umgehen, um möglichst viele andere Kerne umzuwandeln und letztendlich zu spalten.
+Spaltprodukte haben teilweise sehr große Einfangquerschnitte. Mit anderen Worten, sie wirken parasitär indem sie wertvolle Neutronen “wegfangen”. Die Konsequenz ist eine integrierte Wiederaufbereitung. Dies läßt sich nur über eine Brennstofflösung erreichen.
+Es dürfen nur möglichst wenig Neutronen das System verlassen. Dazu muß man den Reaktor mit einem Reflektor versehen, der die Neutronen wieder in den Reaktor zurück streut. Idealerweise verwendet man dafür ebenfalls Uran, damit nicht zurück streubare Neutronen bei ihrem Einfang wenigstens neuen Spaltstoff – hier Plutonium – erzeugen.
+Bei Reaktoren mit festen Brennstoffen, kann man die Spaltstoffe nicht kontinuierlich ersetzen. Man benötigt deshalb zu Anfang eine Überschußreaktivität. So zu sagen, mehr Spaltstoff als eigentlich zuträglich ist. Diese Überschußreaktivität muß durch Regelstäbe und abbrennbare Gifte kompensiert werden: Wertvolle Neutronen werden unnütz weg gefangen.
+Will man mit möglichst geringer Anreicherung auskommen – was einem bereits abgebrannten Brennelement entspricht – muß man zwingend auf ein thermisches Neutronenspektrum übergehen. Sogenannte “Schnelle Brüter” erfordern eine zweistellige Anreicherung. Also wesentlich höher, als sie in einem frischen Brennelement für einen Leichtwasserreaktor vorliegen. Man kann in einem thermischen Reaktor zwar nicht brüten – also mehr Spaltstoff erzeugen als beim Betrieb verbraucht wird – aber fast genau soviel erzeugen, wie verbraucht wird. Man muß es auch gar nicht, da ja der “Atommüll” noch Spaltstoff enthält.
+Wieviel wird nun gespart?
+Ein heutiger Leichtwasserreaktor produziert pro 1000 MWel etwa 20 to abgebrannter Brennelemente pro Jahr. Geht man von einer direkten Endlagerung aus, ist dies die Menge “Atommüll” die in ein Endlager muß. Erzeugt man die gleiche elektrische Energie aus eben solchem “Atommüll”, ist diese Menge schon mal komplett eingespart.
+Gleichzeitig wird aber auch der ursprünglich vorhandene “Atommüll” in der Form abgebrannter Brennelemente weniger. Die Energie wird durch die Spaltung von Atomkernen erzeugt. Sie sind nach der Spaltung unwiederbringlich vernichtet. Wird Uran noch von vielen Menschen als natürlich und damit relativ harmlos angesehen, ist z. B. Plutonium für sie reines Teufelszeug. Genau diese Stoffgruppe dient aber bei diesem Reaktortyp als Brennstoff und wird beständig verbraucht.
+Ein solcher Reaktor produziert rund 1 to Spaltprodukte pro 1000 MWel und Jahr. Die Spaltprodukte sind darüberhinaus in einigen Jahrhunderten – gegenüber 100.000den von Jahren bei Plutonium – verschwunden. In Bezug auf die Energieversorgung sind solche Reaktoren eine echte Alternative zu sog. “Schnellen Brütern”. Bereits die vorhandenen abgebrannten Brennelemente und die absehbar hinzukommenden, wären eine schier unerschöpfliche Energiequelle.
+Was ist neu bei diesem Reaktortyp?
+In den USA hat man über Jahrzehnte Erfahrungen mit Salzschmelzen in Versuchsreaktoren gesammelt. Hier strebt man bewußt die Verwendung von Uran und nicht von Thorium an. Dies hat bezüglich des Salzes Konsequenzen: Lithiumfluorid kann wesentlich höhere Konzentrationen Uran gelöst halten (LiF-(Actinoid)F4) als das bekanntere FLiBe-Salz. Erst dadurch ist der Einsatz abgebrannter Brennelemente (niedrige Anreicherung) möglich. Allerdings liegt die Schmelztemperatur dieses Brennstoffs bei etwa 500 °C. Ein wesentliches Sicherheitskriterium ist daher, Verstopfungen in Kanälen und Rohrleitungen durch Ablagerungen sicher zu vermeiden.
+Als Moderator sollen Stäbe aus Zirconiumhydrid eingesetzt werden. Sie wirken wie “umgekehrte Regelstäbe”: Je tiefer sie in die Schmelze eingetaucht werden, um so mehr Neutronen werden abgebremst und die Spaltungsrate erhöht sich. Die Moderation solcher Stäbe ist gegenüber früher verwendetem Graphit so viel besser, daß fast der doppelte Raum für die Salzschmelze bei einem vorgegebenen Reaktorvolumen zur Verfügung steht. Ein weiterer wichtiger Schritt zu der Verwendung von “Atommüll” als Brennstoff.
+Die integrierte Wiederaufbereitung
+Die Spaltprodukte müssen kontinuierlich aus der Salzschmelze entfernt werden. Sie wirken nicht nur parasitär, sondern stellen auch das eigentliche Sicherheitsproblem dar. Je weniger Spaltprodukte gelöst sind, um so weniger Radioaktivität könnte bei einem Störfall freigesetzt werden.
+Etwa 20% der Spaltprodukte sind Edelgase. Sie sollen mit Helium aus der Salzschmelze abgeschieden werden und anschließend in Druckgasflaschen gelagert werden.
+Rund 40% der Spaltprodukte sind Metalle, die Kolloide in der Schmelze bilden. Sie sollen mit Geweben aus Nickel ausgefiltert werden.
+Der Rest – hauptsächlich Lanthanoide – sind sehr gut in der Salzschmelze gelöst. Sie sollen mittels flüssigen Metallen extrahiert werden und anschließend in eine keramische Form zur Lagerung überführt werden.
+In der Abscheidung, Behandlung und Lagerung der Spaltprodukte dürfte die größte Hemmschwelle bei der Einführung von Reaktoren mit Salzschmelzen liegen. Welcher Energieversorger will schon gern eine Chemiefabrik betreiben? Vielleicht werden deshalb erste Anwendungen dieses Reaktors gerade in der chemischen Industrie liegen.
+Zusammenfassung
+Der Gedanke, “Atommüll” möglichst direkt als Brennstoff einzusetzen, hat Charme. Wirtschaftlich kommt man damit in die Situation einer Müllverbrennungsanlage. Man kann sich an den Aufbereitungs- und Entsorgungspreisen des Marktes orientieren. Diese Einnahmen sind schon mal vorhanden. Die Stromproduktion ist ein Zubrot. Es wird noch sehr viel Entwicklungszeit nötig werden, bis ein genehmigungsfähiger Reaktor vorliegt. Auch die Kostenschätzung über zwei Milliarden Dollar für den ersten kommerziellen Reaktor, ist in diesem Sinne mit der gebotenen Vorsicht zu betrachten. Allerdings handelt es sich bei diesem Reaktor nicht um ein Produkt einer “Erfindermesse”. Man hat sehr sorgfältig den Stand der Technik analysiert und bewegt sich auf allen Ebenen auf dem machbaren und gangbaren Weg. Es ist nur zu hoffen, daß diesem jungen Unternehmen noch etwas Zeit verbleibt, bis es – wie so viele vor ihm – auf und weg gekauft wird.
+Weltweit tut sich etwas in der Entsorgungsfrage: Salzbadreaktoren, Entwicklung metallischer Brennstoffe – sogar für Leichtwasserreaktoren – und abgespeckte chemische Wiederaufbereitungsverfahren in Rußland.
+Übernommen von NUKEKLAUS hier
+„Die Stromproduktion ist ein Zubrot.“ Diese Bemerkung erscheint mir auf etwas tönernen Füßen zu stehen. Immerhin wirbt das Unternehmen auf seiner Webseite damit, dass bei 96-prozentiger energetischer Umsetzung des weltweit aktuell vorhandenen „Atommülls“ der Weltstrombedarf für 72 Jahre gedeckt werden kann.
+#4 T.Heinzow
+„Bekanntlich fordert ein Herr Carnot hierfür hohe Temperaturgefälle und Drücke … .“
+Hohe Temeraturgefälle haben alle Salzschmelzenreaktortypen. Die Drücke sind dagegen sehr niedrig, was die Betriebssicherheit dieser Anlagen sicher positiv beeinflusst. Im der „Turbine hall“ können sie den Dampf aus dem Niedrigtemperaturteil natürlich auch noch mal komprimieren. Superkritisches CO2 ist auch möglich.
+„Stellt sich nur noch die Frage, wie man die Salzschmelze auf derartige Temperaturen nach einem Abschalten bringt.“
+Die Frage erscheint nebulös. Sie sollten die Frage noch einmal überarbeiten. Aber eins ist klar: Nach einem Störfall oder aber wenn keine Leistung abgefordert wird, haben Salzschmelzenreaktoren sehr günstige Eigenschaften.
+Störfall (Ausfall jeglicher Stromversorgung): „Freeze plug“ öffnet sich und die Salzschmelze fließt gravitativ bedingt in Kammern unterhalb des Reaktors (Drain tanks). Unterkritische Anordnungen!
+Wird keine Leistung abgefordert, kommt es zu einem kurzzeitigen Temperaturanstieg, der parallel eine Dichteminderung der Schmelze zur Folge hat. Geringere Dichte = geringere Zahl an Spaltungsreaktionen = geringere Freisetzung von Wärmeenergie (u.a.).
+Letzteres ist der Grund, warum aus Kreisen des „Next Nuclear“ oft zu hören ist, dass sich solche Reaktoren als Bestandteil eines regenrativ-nuklearen Mischsystems technisch hervorragend eignen, die erzeugungsseitigen Schwankungen bei Windmühlen und Krähenspiegeln sehr schnell auszugleichen.
+„Also wieder mal ungelegte Eier … .“
+Diese Behauptung ist damit – zumindest für das Prinzip des Wasteburners – unzutreffend und muss zurückgewiesen werden.
+Online-Processing, Materialstandzeiten und etliches mehr harren natürlich einer genehmigungsfähigen Form und Ausprägung.
+Das Unternehmen hat eine ganze Reihe von Investmentfirmen mit langfristigem Erwartungshorizont hinter sich.
+MfG
+Dirk Weißenborn
+ich hätte 2 Fragen:
+1. Sie schreiben, die Erfinder dieses Reaktors wollen abgebrannte BE als Brennstoff für ihren KKW nehmen. Meine Frage: Sollen die abgebrannten BE erst wiederaufgearbeitet werden?
+2. Arbeitet dieser Reaktor mit schnellen oder mit thermischen Neutronen.?
+MfG
+Glaube nichts, weil ein Weiser es gesagt hat.
+————
+Warum sollten wir diesem Satz folgen? Weil Buddha ihn gesagt haben soll? Wer die Weisheit anderer nicht schätzt, wir wohl kaum zu eigener Weisheit gelangen.
+————- #7: H.R. Vogt sagt:
+————-
+Glaube nichts, weil alle es glauben.
+Auch hier: Warum nicht? Natürliche können alle Menschen dieser Welt irren, nur ich erkenne das Wahre aus mir Selbst … aber ist es weise, so zu denken?
+————- #7: H.R. Vogt sagt:
+————-
+Glaube nichts, weil es geschrieben steht.
+Sollte eine wesentliche Erkenntnis oder Offenbarung nicht schriftlich fixiert werden? Als alleiniger Grund wäre allerdings das ‚Geschrieben steht‘ für zu schwach. Im Besonderen, da das Geschriebene des Verständnisses und der Interpretation bedarf.
+————- #7: H.R. Vogt sagt:
+————-
+Glaube nichts, weil es als heilig gilt.
+Wichtiger ist die Frage, ob es das Heilige gibt. Ist es Sinnvoll, etwas als Heilig zu betrachten, z.B. das Leben des anderen Menschen? Oder kann man sich über alles hinweg setzen?
+————- #7: H.R. Vogt sagt:
+————-
+Glaube nichts, weil ein anderer es glaubt.
+Auch hier gilt: Wenn ein anderer, vertrauenswürdiger Mensch zu einer Ansicht oder Erfahrungen gekommen ist, vermag das sehr wohl das eigenes Nachdenken anzuregen. Das Vertrauen alleine zu einem Dritten sollte allerdings kein hinreichender Grund sein, Beliebiges zu glauben. Denn dann würde man sich des eigenen Urteils entledigen.
+————- #7: H.R. Vogt sagt:
+————-
+Glaube nur das, was Du selbst als wahr erkannt hast.“ Buddha
+Was kannst du auf welchem Wege denn erkennen, wenn du die Erfahrungen und Weisheit Dritter ablehnst? Ist es nicht ebenso beliebig, was man auf diesem Wege erreicht? Erkenntnis kann nur aus unterschiedlichen Quellen mit einer kritischen Prüfung reifen.
+Mir ist das die Version von Paulus lieber:
+‚Prüft alles, das Gute behaltet‘
+Sein ernüchterndes Fazit war seinerzeit:
+————
+Was die „Erfindung des Dual Fluid Reaktors“ betrifft, handelt es sich eher um den Entwurf für ein neues Perry Rhodan Heft, als um ein Patent für einen genehmigungsfähigen Reaktor.
+Was mich an diesem Text am Meisten irritierte war, dass eine kritische Besprechung weitgehend ausgeblieben ist. Humpich, den ich fraglos für einen ausgemachten Experten halte, hätte es jenen, die den Argumenten zum DLF gefolgt sind, zumindest erläutern müssen, warum er zu einem derartig harschen Urteil kommt.
+Im Besonderen, da er nun in der Diskussion um TPC um offensichtlich ähnliche Konzepte geht, die er hier sehr positiv bespricht, und zwar mit den Argumenten, die wir vom DLF bereits kennen.
+———— #11: H.R. Vogt sagt:
+————
+Kaum anzunehmen, dass sich an dieser Beurteilung inzwischen etwas geändert hat.
+Ich wäre mict Annahmen etwas vorsichtiger und würde es eher begrüßen, wenn Dr. Humpich sich elbst zu dem Vergleich äußern würde.
+———— #11: H.R. Vogt sagt:
+————
+BTW:
+Science -fiction –Geschichten habe ich schon immer als ziemlich albern empfunden.
+Wenn sie jetzt auf Perry-Phodan abheben, dann mag das zutreffen. Die lieteraturgattung hat allerdings weit weniger mit rein spekulativer Entwicklung zu tun, auch wenn man das nach Jules Verne denken können sollte. Vielmehr geht es in den meisten Exemplaren des Genres weit mehr um menschliche Probleme und philosophische Fragen. Einige wollen schlicht nur unterhalten, aber die Impulse, die von dieser Gattung ausgehen, sind in keinem Fall zu unterschätzen.
+———— #11: H.R. Vogt sagt:
+————
+Vielleicht fehlt mir etwas der dafür erforderliche Hang zur Gläubigkeit.
+Ich liebe viele SciFi-Romane und Filme, glaube aber nicht, dass es so was wie interstellare Reisen und fremde Intelligenzen im All geben wird, oder das wir je mit denen in Berührung kommen. Wer so was glaubt, wird sich eher an vordergründigen Spekulationen festbeißen, aber das Ziel der meisten Konzepte versäumen.
+———— #11: H.R. Vogt sagt:
+————–
+Diese angeborene Charaktereigenschaft ist jedoch unabdingbare Voraussetzung für das Gelingen jeder Art von Indoktrination.
+Ob eine sogenannte ‚Gläubigkeit‘ angeboren oder sozialisiert ist, kann sich diskutiert werden. Ich glaube aber eher, dass bierernste Skeptiker in mancher Hinsicht für Indoktrinationen auf andere Weise geeignet sind als Phantasten, die eben eher über Alternativen Nachdenken.
+In keinem Fall halt ich es für sinnvoll, die Einen gegen die Anderen ausspielen zu wollen, von angeborenen Charaktereigenschaften zu reden, die gar schicksalhaft die Menschen entmündigt.
+Ohne Visionäre und Menschen mit Phantasie und Mut hätte es wohl kaum die Entdeckungen und Entwicklungen gegeben, ohne Skeptiker hätten jene weit eher die Bodenhaftung verloren.
+Selbstkorrektur
+Konstruktionskosten SMR:
+Laut Nuscale für ein 50 MW Module: ca. 80 Millionen Dollar wenn ich das richtig verstehe. Also war die Schätzung nicht ganz falsch.
+Die Baunebenkosten d.h. der nichtnukleare Teil sind allerdings erheblich.
+http://tinyurl.com/jfpqa3h
+(ganz unten auf die Grafik klicken. Dort befindet die Kostenschätzung von Nuscale für ein 570 MW-Kraftwerk bestehend aus 12 Modulen)
+http://tinyurl.com/zmvuzwc
+Sein ernüchterndes Fazit war seinerzeit:
+Was die „Erfindung des Dual Fluid Reaktors“ betrifft, handelt es sich eher um den Entwurf für ein neues Perry Rhodan Heft, als um ein Patent für einen genehmigungsfähigen Reaktor.
+Kaum anzunehmen, dass sich an dieser Beurteilung inzwischen etwas geändert hat.
+BTW:
+Science -fiction –Geschichten habe ich schon immer als ziemlich albern empfunden. Vielleicht fehlt mir etwas der dafür erforderliche Hang zur Gläubigkeit.
+Diese angeborene Charaktereigenschaft ist jedoch unabdingbare Voraussetzung für das Gelingen jeder Art von Indoktrination.
+Nun erkläre man mir warum ein SMR (mPower, Nuscale), der gerade mal 700 Tonnen wiegt und in Serie gebaut werden soll, fast genau so viel kosten soll (Angaben von Nuscale/Babcock&Wilcox)
+Es müsste doch möglich sein einen solchen Small Module Reactor (bis max. 200 MW el) für einen Preis von ca. 100 Millionen Euro zu produzieren. Damit wären SMRs absolut konkurrenzlos preiswerte Stromerzeuger.
+am Montag, 18.07.2016, 16:21
+Mit 2 Milliarden Dollar könnte man in Deutschland fast einen Monat lang die EEG-Subventionen bezahlen.
+Das ist so nicht richtig, denn die Subventionierung verursacht Schäden und Verluste in allen anderen Sektoren. Die sind zu monetarisieren, diskontieren und zu verzinsen.
+Deshalb ist die „Subventionierung“ wesentlich höher.
+Glaube nichts, weil ein Weiser es gesagt hat.
+Glaube nichts, weil alle es glauben.
+Glaube nichts, weil es geschrieben steht.
+Glaube nichts, weil es als heilig gilt.
+Glaube nichts, weil ein anderer es glaubt.
+Glaube nur das, was Du selbst als wahr erkannt hast.“ Buddha
+Um mit den bereits vorhandenen abgebrannten Brennelementen ganz egal wie noch etwas Sinnvolles anzustellen, muß man sie zunächst mechanisch zerkleinern und danach chemisch in die für die im Weiteren geplanten Verfahrensschritte erforderlichen Bestandteile zerlegen.
+Um eine zielgerechte Wiederaufbereitung kommt man also leider auch auf diesem neuen Wege nicht herum.
+„Die elektrische Energie aus der “Müllbeseitigung” ist ein weiteres Zubrot.“
+Bekanntlich fordert ein Herr Carnot hierfür hohe Temperaturgefälle und Drücke … .
+„Ein wesentliches Sicherheitskriterium ist daher, Verstopfungen in Kanälen und Rohrleitungen durch Ablagerungen sicher zu vermeiden.“
+Stellt sich nur noch die Frage, wie man die Salzschmelze auf derartige Temperaturen nach einem Abschalten bringt.
+Also wieder mal ungelegte Eier … .
+Darüber war hier bei EIKE ja schon mehrfach berichtet worden, beispielsweise http://tinyurl.com/hbux4ab und http://tinyurl.com/jb4wwd4 .
+https://dual-fluid-reaktor.de/

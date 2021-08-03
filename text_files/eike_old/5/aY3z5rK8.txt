@@ -1,0 +1,120 @@
+Die Kernkraftwerke in Deutschlands Nachbarländern seien nicht ausreichend gegen die Kosten eines schweren nuklearen Unfalls versichert, behauptet eine kürzlich veröffentlichte Studie des Forums Ökologisch-Soziale Marktwirtschaft (FÖS). Das im Auftrag des Ökoenergieanbieters Greenpeace Energy erstellte Papier nennt wahrscheinliche Kosten für einen Super-GAU (eigentlich: auslegungsüberschreitender Störfall) von 100 bis 430 Milliarden Euro. Die international vereinbarte Haftungs- und Deckungsvorsorge sei jedoch meist auf dreistellige Millionenbeträge begrenzt, ist im Blog von Greenpeace Energy zu lesen.
+Wie realistisch sind die Annahmen der FÖS-Studie?
+Bevor wir das nachrechnen, sollten wir eigentlich noch prüfen, ob die genannte Spanne von 100 bis 430 Milliarden Euro überhaupt realistisch ist. Aus der FÖS-Studie geht nicht wirklich hervor, wie sich diese Summe im einzelnen zusammengesetzt. Klar ist nur, daß es sich um Evakuierungskosten sowie um Sach- und Personenschäden handelt.
+Laut FÖS-Studie muß je nach Art des Nuklearunglücks in bis zu 600 Kilometern Entfernung vom Unglücksort evakuiert werden. Wenn das stimmte, zöge das natürlich entsprechend hohe Evakuierungskosten nach sich. Aber daß diese Annahme realistisch und vernünftig ist, darf getrost bezweifelt werden. Zum Vergleich: Die Evakuierungszone in Fukushima reichte maximal 50 Kilometer weit. Auf die Evakuierung hätte Japan besser verzichten sollten, denn sie richtete mehr Schaden als Nutzen an. Die Menschen wurden durch die Evakuierungsmaßnahmen weit mehr in ihrer Gesundheit beeinträchtigt als es die Strahlung vermocht hätte. Ein signifikanter Anstieg der Krebszahlen durch das Nuklearunglück ist laut WHO und UNSCEAR nicht zu befürchten.
+Ich will das Thema Wirkung ionisierender (»radioaktiver«) Strahlung an dieser Stelle gar nicht weiter vertiefen oder auf die Erkenntnisse der Strahlenbiologie aus den letzen 10 – 20 Jahre verweisen. Evakuierungsmaßnahmen Dutzende oder gar Hunderte von Kilometern vom Unglücksort entfernt erscheinen jedenfalls mehr als fragwürdig.
+Gehen wir aber trotz der Fragwürdigkeit solcher Evakuierungen einfach mal von der Annahme aus, diese Evakuierungen seien nötig und der schlimmstmögliche Schaden betrüge tatsächlich 430 Milliarden Euro pro Super-GAU. Dann haben wir immerhin eine Abschätzung nach oben hin, nach dem Motto: Schlimmer geht’s nimmer – auch wenn eine eine geringere Schadenshöhe viel realistischer ist.
+Wie oft gibt es einen Super-GAU?
+Um zu wissen, ob die Kernkraftwerksbetreiber einen 430-Milliarden-Euro-Schaden schultern können oder nicht, müssen wir außerdem wissen, wie oft solch ein Schadensereignis eintritt. Die FÖS-Studie gibt immerhin zu, daß die Häufigkeit von nuklearen Katastrophen global abnimmt. Sie geht davon aus, eine Katastrophe mit dem Ausmaß von Fukushima oder größer trete mit einer Wahrscheinlichkeit von 50 Prozent alle 60 bis 150 Jahre ein.
+Damit aber auch die schwärzesten Schwarzmaler unter den Lesern dranbleiben, wähle ich auch hier einen weit pessimistischeren Ansatz. Ich rede hier nicht über die Sicherheitsfeatures moderner Reaktoren der Generation III+ oder gar über die inhärente Sicherheit der kommenden Reaktorgeneration IV, die radiologische Folgen außerhalb der Anlage praktisch unmöglich machen. Nein, für die nachfolgende Berechnung gehe ich bewußt von einer pessimistischen Annahme aus. Die hat zwar mit der Realität nicht unbedingt viel zu tun, setzt aber – ähnlich wie die angenommene Schadenshöhe von 430 Milliarden Euro – eine klare Grenze nach oben.
+Bislang gab es zwei schwere Nuklearunfälle mit einer Einstufung von 7 auf der INES-Skala, nämlich Tschernobyl im Jahr 1986 und Fukushima-Daiichi in 2011. Ursachen waren zwar in beiden Fällen klare Auslegungsfehler, nämlich ein falsch designter Reaktortyp (Tschernobyl) und eine falsche Standortwahl (Fukushima), und diese Fehler werden sich mit Sicherheit nirgendwo wiederholen, aber sei’s drum. Zwischen beiden Unfällen lagen 25 Jahre, und daher rechnen wir nun so, als ob es alle 25 Jahre zu einem Super-GAU käme – und zwar zu einem, der sich nicht auf das Kernkraftwerk selbst beschränkt, sondern mit weiträumiger Freisetzung radioaktiver Stoffe.
+Wieviel teurer muß die Kilowattstunde sein?
+Wir treffen also zwei ganz bewußt pessimistische Annahmen:
+- Die maximale Schadenshöhe beträgt 430 Milliarden Euro.
+- Der Schaden tritt alle 25 Jahre ein.
+Die Kernkraftwerksbetreiber in aller Welt müssten also alle 25 Jahre 430 Milliarden Euro zurücklegen, um den Schaden begleichen zu können – oder 17,2 Milliarden Euro pro Jahr.
+Um dieses zusätzliche Geld aufzubringen, müßten die Kraftwerke ihren Strom entsprechend teurer verkaufen. Doch wieviel würde das ausmachen? Wie hoch müßte der Aufpreis für eine Kilowattstunde (kWh) sein? Wäre Strom aus Kernenergie damit noch wettbewerbsfähig?
+Um das zu auszurechnen, teilen wir den Betrag von 17,2 Milliarden Euro durch die Anzahl der Kilowattstunden, die die Kernkraftwerke weltweit innerhalb eines Jahres produzieren. Wieviele kWh sind das? Das kann man in der PRIS-Datenbank der IAEA nachschlagen. Demnach produzierten die Kernkraftwerke im Jahr 2016 insgesamt 2.476,22 Terawattstunden (TWh) Strom. Das entspricht 2.476.220.000.000 Kilowattstunden und ist ein mittlerer Wert, den wir gut für unsere Rechnung verwenden können.
+So, damit haben wir alles, was wir für die Berechnung brauchen. 17.200.000.000 Euro geteilt durch 2.476.220.000.000 Kilowattstunden, das ergibt gerade mal einen Aufpreis von 0,0069 Euro oder 0,69 Cent pro Kilowattstunde – ein Kleckerbetrag! Und setzt man anstelle der 25 Jahre die in der FÖS-Studie genannten 60 oder 150 Jahre ein, sind es sogar nur 0,29 ¢/kWh beziehungsweise 0,12 ¢/kWh.
+Bezahlbarer Versicherungsschutz ist möglich
+Wir sehen: Heruntergebrochen auf die Kilowattstunde verliert die Riesensumme von 430 Milliarden Euro ihren Schrecken und wird zu einem Betrag, der sich ohne Schwierigkeiten stemmen läßt.
+Ein bezahlbarer Versicherungsschutz, der auch sehr hohe Schäden abdeckt, sei jedenfalls leicht möglich, sagt Mark Tetley, Managing Director beim Lloyd’s-Broker Price Forbes & Partners. Er sieht die Versicherer in der Pflicht, entsprechende Produkte zu entwickeln: »Ich bin davon überzeugt, daß die Versicherer mehr tun könnten. Wir könnten der Nuklearindustrie eine wesentlich höhere finanzielle Unterstützung zu günstigen Konditionen bieten, die Kostenlast reduzieren, die heute auf Regierungen und Steuerzahlern liegt, und das Image der Nuklearindustrie verbessern.«
+Quellen
+- Nukleare Haftungs- und Deckungsvorsorge – Wer zahlt einen Super-GAU in Deutschlands Nachbarländern?; Lena Reuster, Sebastian Hienzsch; Forum Ökologisch-Soziale Marktwirtschaft (FÖS); 2017-04-25
+- Neue Studie belegt mangelhafte Absicherung von Atomunfällen; Christoph Rasch; Greenpeace Energy; 2017-04-25
+- Fukushima evacuations were not worth the money, study says; William Hollingworth; Kyodo; The Japan Times; 2016-03-14
+- Health risk assessment from the nuclear accident after the 2011 Great East Japan earthquake and tsunami, based on a preliminary dose estimation; WHO; 2013
+- UNSCEAR 2013 Report to the General Assembly with Scientific Annexes. VOLUME I. Scientific Annex A, Levels and effects of radiation exposure due to the nuclear accident after the 2011 great east-Japan earthquake and tsunami; UNSCEAR; 2013
+- Developments since the 2013 UNSCEAR Report on the levels and effects of radiation exposure due to the nuclear accident following the great east-Japan earthquake and tsunami; UNSCEAR; 2016
+- Strahlung – ein Blick auf die Fakten; Nuklearia; Januar 2015
+- Trend in Electricity Supplied; Power Reactor Information System (PRIS); IAEA; 2017-04-26
+- Insurers can help improve the image of nuclear; World Nuclear Association; 2014-09-16
+Dieser Beitrag erschien zuerst im Blog des Autors.
+Rainer Klute ist Diplom-Informatiker, Nebenfach-Physiker und Vorsitzender des Nuklearia e. V. Seine Berufung zur Kernenergie erfuhr er 2011, als durch Erdbeben und Tsunami in Japan und das nachfolgende Reaktorunglück im Kernkraftwerk Fukushima-Daiichi auch einer seiner Söhne betroffen war.
+In krautistan handelt es sich aber um eine politische Forderung von dritter Seite,die mit Hilfe der grünen Angst nur unsichtbar gemacht wird.Tatsächlich darf krautistan keine Kerntechnik haben ,da es sonst auch noch in den Besitz von Kernwaffen kommen könnte .Deshalb mußten auch alle Kernforschungsanlagen schon vor über 20 Jahren aufgelöst werden.Die US Doktrin verlangt daß alle Staaten außer Israel und den USA (die Guten) keine Kernwaffen besitzen dürfen.Als besetzter , nichtsouveräner Staat hat germany da keine Chancen.
+Es gibt eine Wahrscheinblichkeit p, dass dieses Ereignis eintritt, wann es eintritt, kann damit nicht bestimmt werden. Das ist wie mit dem Jahrhunderthochwasser. Zwischen zweien können ein Jahr oder ein Jahrhunder liegen. Insofern ist die Annahme 25 Jahre bedeutunglos.
+Diesen Taschenspielertrick muss man sich auf der Zunge zergehen lassen. Da haften doch tatsächlich alle KKWs dieser Welt, für eines auf dieser Welt, wenn das zerstört wird. Der deutsche Stromkunde bezahlt dann also für ein KKW irgendwo auf der Welt? Ist der Autor tatsächlich von diesem Unsinn überzeugt? Realistisch betrachtet müsste der Betreiber eines 1 GW-Blockes pro Jahr (bei angenommen 25 Jahren Ansparphase) pro kWh etwa 2 Euro zurücklegen. Noch Fragen?
+Eine sehr vernünftige Annahme. Die radioaktiven Wolken, wenn sie denn auftreten, kümmern sich ja auch nicht um Grenzen.
+Zynisch sind allein Ihre Versuche das Versicherungsprinzip umzudeuten. Zynisch sind aber auch die Versuche des Medienkonzerns Greenpeace und seiner Zeloten in den entsprechenden „Instiuten“ mit falschen Studien bestimmte Ziele durchzusetzen.
+geht es noch „Super“ Dümmer? – Wenn von 400 Kraftwerken alle 25 Jahre in ein Kraftwerk einen solchen Unfall erleiden würde, und dafür (von allen) in 25 Jahren 25 x2x2.476.220.000.000 Euro vorsorglich zurückgelegt werden, entstünde ein (unnützer) Geldberg von 123.366.100.000.000 Euro“ – Das sind schlappe 123,4 Billionen oder das 60 Fache der Deutschen Staatsverschuldung!
+Nur zu ihrer Info, es gibt keine Möglichkeit, vorherzusagen, wann(!) das Ereignis eintritt und wo.
+Als erstes hat jeder für sich selbst zu sorgen, um im Falle eines Falles den Schaden beheben zu können. Das war meine Rechnung. Es können sich auch mehrere Betreiber zusammentun und gegenseitig haften. Das nennt man die Gründung einer Versicherung. Nur ist das nicht ganz so einfach, denn die Versicherungsmathematiker lassen sich nicht auf die Luftnummer mit den 6 Cent und 25 Jahre ein. Denn Versicherungen müssen zu jeder Zeit in der Lage sein, den Schaden zu ersetzen und nicht erst im Jahre 25.
+Natürlich können auch alle KKW-Betreiber der Welt eine Versicherung gründen, um für den Fall der Fälle vorgesorgt zu haben. Nur ist das eine völlig unrealistische Vorstellung. In Indien wird man sich bedanken, jetzt 6 Cent mehr auf die kWh zu bezahlen, um für die KKWs in Frankreich zu haften! Die 6 Cent sind propagandistisch für den Stammtisch sehr schön, nur leider wird dort dann vergessen, auf was für einer unrealistischen Annahme diese Aussage beruht.
+Aha, das heißt, im Falle das Sie Ihren (hoffentlich nie eintretenden) Krankenhausfall, Wohnungsbrand etc. nicht von der Versicherung bezahlt bekommen, haben Sie schon etliche Millionen beiseite geschafft?
+Woher haben Sie das mit den 6 cent? Oben wurden 0,69cent / KWh ausgerechnet.
+Die müssen ja bei der Versicherung nicht mitmachen, dann bekommen Sie aber auch nichts wenn eines Ihrer vielen eigenen KKW abraucht.
+Mindestens 6 Cent müssten Sie mehr zahlen, wenn sie auf PV umstellen (Speicher noch nicht eingerechnet)
+Tatsächlich würde eine weltweite Versicherungspflicht sogar Sinn machen und langfristig das Risiko senken. Wer z.B. nur 2 Dieselgeneratoren hat und keine Acht, zahlt 0,2 cent mehr. Wer keine Rekombinatoren zum Wasserstoffabbau hat zahlt 0,2 cent mehr für die Versicherung.
+Und die Versicherungen werden schon aus Eigeninteresse ordentlich prüfen.
+Nach Stammtisch klingen eher Ihrer Aussagen, weil sie durch nichts belegt sind und auch noch falsch.
+Sie schreiben richtig:
+„Als erstes hat jeder für sich selbst zu sorgen, um im Falle eines Falles den Schaden beheben zu können.“
+Der „Fall“ in Deutschland in je 25 Jahren:
+O,5 Millionen Tote durch Unfall.
+200 Millionen Verletzt durch Unfall!
+Wir sorgen uns darum!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Wahnsinn, meine KFZ Versicherung haftet tatsächlich für alle KFZ die dort versichert sind. Jeder KFZ Halter sollte seine eigene Vericherung bilden, mit 100.000€ pro Jahr Rücklage, damit er, falls er innerhalb 50 Jahre einen schweren Unfall baut auch die kosten zwischen 1 und 5 Millionen zahlen könnte.
+Herr Dietmar Schubert, Sie haben den Sinn von VErsicherungen nicht verstanden.
+Welchen Sinn habe ich denn entstellt, wenn nicht den, welchen ich zitiert habe? Liegt es vielleicht daran, das Sie etwas anderes unterstellt haben, als der Autor angenommen hat? Der Autor hat nämlich eine Einzahlung in eine Versicherung vorgeschlagen welche dann dafür haften würde.
+Sie haben daraus gemacht, das plötzlich alle KKWs für eines haften. Sie sollten die Aussagen andere besser Interpretieren:
+„Ein bezahlbarer Versicherungsschutz, der auch sehr hohe Schäden abdeckt, sei jedenfalls leicht möglich, sagt Mark Tetley, Managing Director beim Lloyd’s-Broker Price Forbes & Partners. Er sieht die Versicherer in der Pflicht, entsprechende Produkte zu entwickeln“
+Scheinbar lernt man in Ihrem ‚Kommunikationsseminar‘ auch wie man möglichst um den heißen Brei herumredet und anderen mit Taschenspielertricks völlig andere Aussagen unterjubelt.
+im Prinzip ist Ihr Hinweis darauf, dass die Wahrscheinlichkeit nichts über den Eintrittszeitpunkt aussagt richtig, aber Ihre Schlussfolgerung ist falsch. Derartige Risiken werden in der Versicherungsbranche durch Rückversicherungen (hier ggf. weltweit) abgedeckt, so dass die im Beitrag vorgerechnete Kalkulation stimmt. International tätige Versicherungskonzerne könnten dieses Risiko also locker schultern.
+Beispiel MunichRe oder HannoverRe.
+Ihr zweiter Hinweis ist Unsinn, denn auch hier gilt, dass viele Versicherungen europa- oder sogar weltweit operieren und damit Versicherungsbeiträge schon heute grenzüberschreitend eingesetzt werden; das ist also längst üblich.
+Wo ist also Ihr Problem?
+die Frage ist doch ganz einfach zu beantworten. Gibt es eine Versicherung, die das im Beitrag erwähnte Risiko vollständig versichert? Ja oder Nein?
+Wenn ja, wie heißt die Versicherung?
+Wenn nein, warum nicht? Die Argumentation des Autors ist so simpel, dass doch wohl sämtliche Versicherungsmathematiker Deppen sein müssen, wenn sie noch nicht auf diese Idee gekommen sind. Aber vielleicht sind alle Versicherungen auch ökofaschistisch ausgerichtet und versichern deshalb keine KKWs.
+Laut http://www.kernenergie.de haben die deutschen Kernkraftwerksbetreiber je eine Haftpflichversicherung über 250 Mio. Euro und desweiteren einen Pool (in dem sie gegenseitig haften) mit einem Volumen von 2,5 Mrd. Euro. Das ist alles. Wenn man davon ausgeht, dass der Sinn einer Versicherung ist, im Schadensfall für alle Kosten aufzukommen, das schließt sowohl den Neuaufbau als auch die Beseitigung des Schadens ein, sind 2,5 Mrd. Euro doch wohl eine Lachnummer. Selbst der Abriß eines ordnungsgemäß außerbetriebgesetzten KKWs ist mit 2,5 Mrd. wohl kaum zu stemmen. Ganz zu schweigen von dem Ersatz, sprich Nauaufbau. Zuzeit gibt es weder eine Technologie, noch eine Technik, havarierte KKWs abzureißen, außer eine Schutzhülle drüber bauen und hoffen, irgendwann weiß irgendwer wie es geht. Die Kosten für den Abriß eines havarierten KKWs sind unbekannt. Wenn Sie Quellen haben, die sowohl Technologie als auch Technik für diesen Fall beschreiben, bin ich für einen Link dankbar.
+Und? Als die ersten Kutschen fuhren gab es dafür auch noch keine Versicherungen. Das heist nicht, das diese nicht versicherbar wären.
+warum es keine entsprechend hohe Versicherung gibt?
+Ganz einfach! Es gibt keinen Zwang dazu!
+Hätten wir eine Betreiber- Haftpflichtversicherung mit den erwähnten Beträgen, gäbe es sie längst! Da aber keine Nachfrage danach besteht, gibt es auch kein Angebot. Die gesetzlichen Haftungsgrenzen sind nunmal niedriger; und das offensichtlich weltweit.
+Nochwas zu den Havarien in Tschernobyl und Fukushima: Ich bezweifle, dass in beiden Schadensfällen eine Versicherung gezahlt hätte, denn im ersten Fall war der Betreiber grob fahrlässig und im zweiten Fall war die Anlage nicht auf dem aktuellen Stand der Technik (unzureichende Notstromversorgung).
+Ist dieses Zitat nun vom Informatiker R.Klute oder vom Admin. Ich nehme an es ist nicht von R.Klute. Informatiker können Semantik entschlüsseln, Der Autor des obigen Zitates scheitert daran:
+Er fragt ob es etwas größer sein kann als „größter“ zuvor spricht er aber vom „größten anzunehmenden Unfall“. Natürlich gibt es die Semantik her, von etwas zu sprechen, das größer ist als das, was man als größtes „Ereignis“ angenommen hat. Die Annahmen waren dann einfach zu „klein“. Dies wird von der Logik mitnichten verboten und von Mruphy’s Law immer wieder bestätigt. Siehe die Lage der Notstromaggregate in Fukushima, die nicht für den Unterwasserbetrieb ausgelegt waren.
+Auch „Deutsche Semantik“ ändert nichts daran, dass auch das „vermeintlich besondere Risiko der Kernenergie“ ein Deutsches Pflegekind ist:
+https://de.scribd.com/doc/313025202/Das-Risiko-Der-Kernenergie-Ist-Deutsch
+Offenbar sind Flora und Fauna (nicht nur durch die liebe Sonne) auch an die Strahlung der Produkte aus Kernspaltung gut angepasst, zumal die Zustandsgleichungen (und Lebensdauer) der Quellen deren „Wanderfreudigkeit“ enge Grenzen setzt!
+Und das ist Schmonzes.
+Sehe ich anders. Größer als größter kann meiner Logik nach nichts werden.
+Aber das führt mich zu dem netten Witz den Gregor v. Rezzori in seinen unvergessenen Maghrebinischen Geschichten erzählte.
+Der geht so.
+Ein Rabbi wird gefragt: Lieber Rabbi, ist denn Gott allmächtig? Worauf der Rabbi sagt: Natürlich: Gott ist allmächtig. Dann kann er auch einen Stein erschaffen, der so schwer ist, dass er ihn nicht mehr heben kann! Aber, ist er dann noch allmächtig?
+In diesem Sinne. M.L.
+Was Sie da semantisch ausbreiten, hat doch mit Logik nichts zu tun: das ist Rabulistik. Wenn eine Annahme als „zu klein“ erachtet wird, dann ist die größere die größte anzunehmende und nicht die „super größte“. Und Ihr „Mruphy“ ist da nicht angebracht.
+Nix für ungut
+Merke: Logik ist zwar immer notwendig, jedoch allein nicht hinreichend:
+Auch Scenarien „jenseits des GAU“, deren geringe Eintrittswahrscheinlichkeit nicht mehr zu quantifizieren ist, werden in Risikoanalysen untersucht, die Ergebnisse ggf. sogar berücksichtigt! Siehe den Einbau von Katalysatoren, den man in Fukushima leider versäumt hatte. (Nur deshalb sind Schaltanlagen und Gebäude „ausgefallen.“)
+Einfach toll.
+Bei „und eine falsche Standortwahl (Fukushima),“ habe ich jedoch geringfügige Einwände. Wenn die gesicherten Notstromdiesel schon in Betrieb gewesen wären, hätte die Havarie nicht stattgefunden. Und wenn man von sonst einem Versagen der Notstromversorgung ausgeht, hätten immer noch die Abluftfilter und die Überdruck (Wallmann)-Ventile gefehlt um den Aktivitätsaustritt zu verhindern.
+Ich fände daher „und fehlende Sicherheitsausrüstung (Fukushima),“ angebrachter.
+Oder habe ich mir da Falschinformationen angeeignet??
+Der dreizehnte Diesel
+Bis zum Jahr 2002 hatte
+TEPCO erkannt, daß die Risikobewertung
+der Tsunami-Gefahr
+zu optimistisch
+gewesen war. Insbesondere
+den Dieselgeneratoren
+drohte Überflutung.
+Also installierte TEPCO
+nachträglich drei Diesel an
+erhöhter Position: für die
+Blocks 2, 4 und 6. 57) Diese
+drei überlebten die Flut.
+Aber in den Blocks 2 und 4
+waren die Schaltanlagen
+unbrauchbar. Daher blieb
+nur der Diesel im Block 6
+einsetzbar: sein Output
+rettete die Blocks 5 und 6.
+Die Fahrlässigkeit des Vorstands,
+nicht zügig und
+konsequent nachzurüsten,
+büßen die Aktionäre jetzt
+mit einem zweistelligen
+Milliardenschaden.
+Deutschland allein hat also innerhalb von nur ca. 10 Jahren die Kosten für einen halben GAU aufgebracht der in einem Kernkraftwerk irgendwo in der Welt hätte passieren können.
+Ich glaube das ist kürzer und deutlich einfacher zu vermitteln, als lange Rechnungen 😉

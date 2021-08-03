@@ -1,0 +1,77 @@
+Diese Bilder folgen hier:
+Abbildung 1: von der NASA gezeigte OCO-2-Daten vom 1. Oktober bis zum 11. November 2014
+Quelle: http://www.nasa.gov/sites/default/files/thumbnails/image/mainco2mappia18934.jpg
+Abbildung 2: von der NASA gezeigte OCO-2-Daten vom 21. November bis 27. Dezember 2014. Quelle: http://www.nasa.gov/sites/default/files/thumbnails/image/mainco2mappia18934.jpg
+Im Mai 2015 kam es zu einer Veröffentlichung einiger visualisierter Daten, die das Mischungsverhältnis [mixing ratios] über den Ozeanen zeigen (hier):
+Aus irgendwelchen Gründen hat sich die NASA nicht entschlossen, neueste Aktualisierungen der OCO-2-Satellitendaten zu veröffentlichen. Viele Menschen sind an diesen Daten interessiert, hatten aber keinen Zugang zu der Information. Die NASA hat zwar den Zugang zu den Rohdaten von OCO-2 jetzt zugänglich gemacht, doch stehen die Daten im HDF file format. Kein allgemein übliches Programm wie z. B. Excel kann die Daten in dieser Form lesen.
+Ich habe ein Programm entwickelt, diese Daten zu transformieren und versucht, sie in einer Form graphisch darzustellen, die gut zum Output der NASA-Bilder passt. Die Daten sind verfügbar vom 20. 9. 2014 bis zum 22. 9. 2015, wenn ich dies schreibe. Ich habe die Plots in Intervalle von etwa 6 Wochen generiert. Man braucht diese Datenmenge, um den größten Teil des Globus‘ mit beobachteten Daten zu erfassen. Man erkennt den Weg des Orbits aus dieser NASA-Visualisierung:
+NASA: „Der Satellit brauchte 16 Tage und 233 Umläufe, um ein vollständiges globales Bild des Kohlendioxids zu erstellen“.
+Einige Anmerkungen zur Implementierung
+Die Daten jeder Testmenge sind in einem Feld dargestellt. Jeder Punkt wird dem Feld als Kreis hinzugefügt. Der Mittelpunkt des Kreises hat die Wichtung 1 für die Mittelungs-Funktion. Die übrigen Punkte in dem Kreis werden abwärts gewichtet, je weiter sie vom Mittelpunkt entfernt sind. Diese Wahl basiert auf den Bildern der NASA, welche kreisförmige Artefakte zeigen.
+Alle Bilder sind mit der gleichen Minimum-Maximum-Skala von 380 bis 440 ppm gezeigt. Dies ergibt nicht die beste dynamische Bandbreite für jedes Bild, aber es präsentiert eine gute Bandbreite über alle Bilder.
+Die NASA-Bilder reichen von 60°S bis 60°N. Ich habe mich entschlossen zu zeigen, was immer an Daten vorhanden ist.
+Alle Datenpunkte sind geplottet aus den OCO-2-Files unabhängig vom Warn-Niveau [warn_level; ?]. Das Warn-Niveau wird verwendet, um die Qualität der Testmenge zu beurteilen. Die OCO-2-Files sagen, dass es sich um Testmengen „hoher Qualität“ handelt, so dass ich alle verwendet habe.
+Die Daten für diese Bilder stammen aus dem OCO-2-Lite v7-Datensatz. Diesen kann man hier einsehen.
+Visualisierungen
+Die im Folgenden präsentierten Daten erscheinen ohne Kommentar. Ich möchte es anderen überlassen, darüber nachzudenken, was die Daten bedeuten. Ohne weitere Vorrede – hier also sind diese Daten:
+Abbildung 3*: 1. Oktober bis 11. November 2014
+Abbildung 3 ist der Versuch, sich dem ersten NASA-Bild vom 1. Oktober bis zum 11. November 2014 zu nähern, um zu sehen, wie gut mein Algorithmus passt. Man beachte, dass die NASA den Datensatz viele Male adjustiert hat seit der Veröffentlichung des NASA-Bildes. Die jetzige Version ist v7. Ich bin mir nicht sicher, welche Änderungen an den Daten vorgenommen worden waren.
+[*Warum der Autor die vorigen beiden Bilder aus der Zählung der Abbildungen herausgenommen hat, erschließt sich mir nicht. „Abbildung 3“ ist also die 5. Abbildung in diesem Beitrag. Das gilt auch für alle folgenden Abbildungs-Nummern. Anm. d. Übers.]
+Abbildung 4 : 16. November bis 31. Dezember 2014
+Abbildung 5 : 1. Januar bis 15. Februar 2015
+Abbildung 6 : 16. März bis 31. März 2015
+Abbildung 7 : 1. April bis 15. Mai 2015
+Abbildung 8 : 16. Mai bis 30. Juni 2015
+Abbildung 9 : 1. Juli bis 15. August 2015
+Abbildung 10 : 16. August bis 12. September 2015
+Aktualisierung: Eric Swenson präsentiert diese Karte im Kommentarbereich. Sie zeigt CO2 über das gesamte Jahr von September 2014 bis Oktober 2015:
+Außerdem zeigt Kommentator „edimbukvarevic” diese Karte der anthropogenen CO2-Emissionen zum Vergelich:
+Link: http://wattsupwiththat.com/2015/10/04/finally-visualized-oco2-satellite-data-showing-global-carbon-dioxide-concentrations/
+Übersetzt von Chris Frey EIKE
+Diese Bilder folgen hier:
+Wenn wir von der Annahme ausgehen, dass die Satellitendaten hinreichend zuverlässig Informationen über CO2 Konzentrationen sind, bleibt die Deutung schwierig. Denn es eit ein Bezug zwischen atmosphärischen CO2 Konzentration und anthropogene CO2 Emissionen weitgehend nicht erkennbar. Gemeinhin ist aber bekannt, dass anthropogene Emissionen nur einen geringen Anteil der Gesamtemissionen ausmachen. Nur wurde der Natürliche Anteil bislang als Konstant dargestellt und damit für die globale Entwicklung als Null-Bilanz mit den Senken herausgelöst.
+Die Visualisierungen zeigen aber starke Schwankungen natürlicher Emissionen, die überwiegend von Jahreszeit / Vegetationsperioden und Wetterlagen getrieben sein könnten. Anthropogene Emissionen wirken da eher als Rauschen – zumindest habe ich diesen Eindruck bei der Betrachtung der Bilder gewonnen. Es ist darum durchaus zweifelhaft, ob die anthropogenen Emissionen wirklich die alleinigen oder Hauptverursacher des beobachtbaren CO2 Anstieges sind.
+Dies ist völlig unabhängig davon, ob und wie stark ein Zusammenhang zwischen dem CO2 Anteil und der Erdmitteltemperatur besteht.
+Arroganz? Überheblichkeit? Oder doch eher Angst? Blanke Unwissenheit?
+Ich denke, es gibt nichts, was einen solchen Kommentar wirklich in Worte fassen kann.
+Ihren Kommentar verstehe ich nicht. Der Autor HAT sich doch die Daten verfügbar gemacht! Er hat doch nur gesagt, dass sie in einem nicht gängigen Format stehen, wodurch ein wenig zusätzliche Arbeit erforderlich war.
+Was soll das mit der Intelligenz?
+Chris Frey, Übersetzer
+Heute wieder keine Pillen in der Anstalt abgreifen können?!
+Immer diese debilen AGW-Fascho-Trollos…
+Da nun diese Moleküle sowohl absorbieren als auch emittieren können, ergibt sich das erste Problem, ob man nun das FEHLEN oder das erhöhte VORHANDENSEIN der charakteristische selektiven Banden zu messen hat.
+A) Dummerweise ändert sich ja die Situation ganz dramatisch mit der Position des Messgerätes.
+Die erste Frage wäre also,
+IN WELCHER HÖHE misst denn dieser Satellit.
+B) Das nächste Problem ist, dass diese gemessenen Wellen kein Fänchen mit sich tragen auf denen die Herkunft der vermehrten oder fehlenden Wellen notiert wäre.
+Konkurrent Nr.1 ist da bekanntlich das H2O (Wasserdampf),
+in einer viel höheren Konzentration als CO2!
+Und die schlimmsten Breitband-Filter für die Emission von der Erdoberfläche sind nun mal die Wolken zwischen Satellit und Oberfläche. Die haben noch die unangenehme Eigenschaft, dass sie nicht stillstehen, sondern sich bewegen.
+C) Weiterhin fragt sich der neugierige Leser, was der Blödsin mit der Minimum-Maximum-Skala von 380 bis 440 ppm soll.
+fazit:
+was hier visualisiert ist, ist nicht gemessen, sondern berechnet mit fragwürdigem Wert.
+Immerhin ist noch erkennbar, dass Ozeane und der tropische Äquatorialbereich die Hauprolle spielen, nicht „der Mensch“.
+zu#1
+bestünde kein „netto“-Gleichgewicht zwischen Ein- und Ausstrahlung, müsste sich die Temperatur so lange ändern, bis das wieder der Fall ist, sagt die Physik. Das permanente LOKALE Ungleichgewicht ist der wesentliche Motor für die Zirkulation.
+Bekannt ist schon lange auch in meteorologischen Lehrbüchern,
+dass grob gesprochen in den Tropen ein massivers Abstrahlungsdefizit zum „Weltraum“ herrscht und über den Polen ein entsprechender Überschuss,
+verursacht durch den materiellen Energietransport, genannt globale Zirkulation.
+mfG
+NASA: „OCO-2 will not be measuring CO2 directly; but actually, the intensity of the sunlight reflected … instrument will use a diffraction grating […] to separate the incoming sunlight into a spectrum of multiple component colors.“
+– de.wikipedia.org/wiki/Prisma_(Optik)
+Das CO2 steht bestimmt immer schon Schlange um noch vor der Reflektion von H2O „gemessen“ zu werden /sarc
+MfG
+„Gerade habe ich wieder den Link auf zwei Videos erhalten, die Experimente zeigen, welche den Treibhauseffekt begründen sollen.“
+Sehr geehrter Herr Dr. Stehlik,
+gezeigt wird die Absorption von IR_Strahlung durch CO2.
+Das ist soweit richtig.
+Warum dies zu höheren Erdtemperaturen führen soll, wird n i c h t gesagt.
+Das fällt den Hirnis, die den Treibhausmüll für bare Münze nehmen aber nicht auf.
+MfG
+Hmm, also wenn jemand die Aufgabe nicht lösen kann, Daten im HDF-Format zu laden, was will er dann überhaupt mit den Daten? Das ist quasi der erste Intelligenztest und wenn man den schon nicht besteht…
+Mit dieser unüberschaubar großen Datenmenge kann man die Leute beliebig lange über die richtige Antwort auf die simplen Frage uninformiert halten, wärmt mehr CO2 die Erde oder kühlt mehr CO2 die Erde.
+Gerade habe ich wieder den Link auf zwei Videos erhalten, die Experimente zeigen, welche den Treibhauseffekt begründen sollen. Was hier gezeigt wird ist die Wirkung der Sonne, die Wirkung des Weltalls wird bei solchen Experimenten immer bewusst unterschlagen. Das ist wissenschaftlicher Betrug. Leider ist wissenschaftlicher Betrug heute Alltag.
+https://www.youtube.com/watch?v=pPRd5GT0v0I
+https://www.youtube.com/watch?v=Ge0jhYDcazY
+(Keine URL Verkürzung, weil kleiner als eine Zeile.)
+Würde man diese Experimente statt mit der Sonne mit dem Weltall machen, würde man feststellen, dass das Weltall mehr Energieabfluss bewirkt als die Sonne an Energiezufluss bewirkt.

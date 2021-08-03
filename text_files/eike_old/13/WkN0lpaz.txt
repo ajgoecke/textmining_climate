@@ -1,0 +1,154 @@
+INEES Studie (Hervorhebungen durch den Autor): [1] Intelligente Netzanbindung von Elektrofahrzeugen
+Die Integration der Fahrzeuge in den SchwarmDirigent® der LichtBlick SE zeigt, dass Elektrofahrzeuge mit hoher Sicherheit und kurzer Reaktionszeit eine Leistungsreserve für das Stromnetz bereitstellen können. Damit wurde im Projekt nachgewiesen, dass die Erbringung von Regelleistung mit einem Elektrofahrzeugpool technisch möglich ist. Allerdings lassen die Projektergebnisse ebenfalls erkennen, dass ein hoher Energieumsatz, der den durch die Mobilität verursachten jährlichen Energieumsatz um ein Vielfaches übersteigt, aus technischen und wirtschaftlichen Gründen zu vermeiden ist. Denn dieser führt zu einer hohen zusätzlichen Alterung der Fahrzeugbatterien, zusätzlichen Umwandlungsverlusten und Umlagekosten auf den für die Zwischenspeicherung bezogenen Strom. Damit eignet sich ein Elektrofahrzeugpool mehr für die Vermarktung seines Leistungs- als seines Arbeitsvermögens.
+Die energiewirtschaftliche Analyse zeigt, dass unter den aktuellen Rahmenbedingungen über die Erlöse am Markt für Regelleistung die laufenden Kosten des Betriebs derzeit nicht gedeckt werden können.
+Dabei wurden folgende Rahmenbedingungen als hinderlich identifiziert, die derzeit auch im Zusammenhang mit der allgemeinen Einbindung von dezentralen Stromerzeugungseinheiten kontrovers diskutiert werden:
+• die Kosten für Abrechnung und Messwesen für leistungsgemessene Anschlüsse • die regulatorischen Rahmenbedingungen der Sekundärregelleistung (verpflichtende Leistungsvorhaltung für eine Woche, Nachweisführung) • die technischen Anschlussbedingungen an das Niederspannungsnetz (60 Sekunden Netzüberwachung vor Zuschaltung einer bidirektionalen Ladestation) • die in voller Höhe zu bezahlenden Umlagekosten auf den für die Zwischenspeicherung bezogenen Strom und die damit einhergehende Benachteiligung gegenüber anderen Speichertechnologien
+Fazit der Studie: Wenn schon, dann sollen E-Autos zum Fahren benutzt werden. Als EEG-Zwischenspeicher sind sie (wie jeder Akku) technisch mit entsprechendem Aufwand zwar grundsätzlich geeignet, aber nur, wenn die hohen Kosten unberücksichtigt bleiben.
+Selbst verständlich listet die Studie auch Lösungen dafür, welche – wie sollte es beim EEG anders sein – in erhöhte Subventionen (Änderung der Rahmenbedingungen) münden. Aber selbst das reicht nicht:
+[1] Änderungen an diesen Rahmenbedingungen können dazu beitragen, die laufenden Kosten zu senken und das Potenzial der Fahrzeuge besser einzusetzen. Dennoch ist nicht zu erwarten, dass allein durch diese Änderungen eine vollständige Kostendeckung erreicht werden kann. Nötig wären vielmehr höhere Erlöse an den entsprechenden Märkten. Die Entwicklung während der INEES-Projektlaufzeit ging jedoch in die entgegengesetzte Richtung.
+Ein Teilnehmer an dieser Studie, die LichtBlick SE meldete es trotzdem als einen Erfolg und lässt auf ihrer Internetseite das wirkliche Studienergebnis einfach weg, denn das ist ja negativ für ihr Geschäftsfeld.
+LichtBlick SE:
+[3] Wie E-Autos mit SchwarmEnergie® die Stromnetze stabilisieren können
+Die Ergebnisse des Forschungsprojekts INEES sind vielversprechend. So konnte gezeigt werden, dass es technisch möglich ist, kurzfristige Schwankungen im Stromnetz mit einem Pool von rückspeisefähigen Elektroautos auszugleichen. Unter den aktuellen Rahmenbedingungen ist die Einbindung in den Strommarkt noch nicht rentabel genug. Doch geplante Gesetzesänderungen und technische Weiterentwicklungen können die Wirtschaftlichkeit in naher Zukunft deutlich steigern.
+Damit ist die LichtBlick SE nicht alleine. Unserem Bundesministerium für Umwelt Naturschutz Bau und Reaktorsicherheit muss das Ergebnis ebenfalls so peinlich gewesen sein, dass es in seiner Mitteilung die vernichtende Kostenproblematik und Schlussaussage ebenfalls nicht erwähnte. Allerdings spricht es nicht wie die Fa. Lichtblick von „vielversprechend“, sondern nur von „könnten“:
+Bundesministerium für Umwelt Naturschutz Bau und Reaktorsicherheit:
+[4] Batterien von Elektrofahrzeugen könnten – intelligent genutzt – im gesamten Stromnetz einen Beitrag zum Lastmanagement leisten, indem zu Zeiten hoher Stromerzeugung und geringem Strombedarf Energie gespeichert und bei Lastspitzen wieder abgegeben wird. Ein Pool von Elektrofahrzeugen könnte Systemdienstleistungen anbieten und am Regelenergiemarkt teilnehmen.
+Portale der EEG-Lobby fanden ein Teil-Ergebnis der Studie für so wichtig, dass sie darüber sofort informierten:
+Solarbranche.de Branchenportal für die Solarenergie: Elektrofahrzeuge als Leistungsreserve für das Stromnetz geeignet
+Eine wichtige Option für das weitere Vorankommen der Energiewende
+… obwohl es eigentlich nichts weiter aussagt, als dass eine teure Studie erneut belegen konnte, dass Akkus Strom speichern und auch abgeben können und mit teurer Intelligenz und zusätzlicher Infrastruktur (Beides aktuell nirgends vorhanden) sogar gesteuert.
+Wie gesagt: Beim EEG an Kosten zu denken, geschweige zu erwähnen, gilt in Deutschland als rufschädigend und Standortnachteil.
+Interessant sind in der Studie Grafiken, welche den exorbitanten Verschleiß der E-Akkus durch Regelenergie-Bereitstellung und bei niedriger Temperatur aufzeigen. Leider sin diese (für Kritiker) hochinteressanten Hinweise (bewusst?) sehr mager hinterlegt, was man auch daran erkennen kann, dass die Achsen der Grafiken keine Zahlen zeigen. Jedenfalls bestätigen diese Ergebnisse das, was bereits in [5] über diese hoch-sensiblen E-Akkus berichtet wurde.
+Bild1 [1] Alterung durch Lagerung und mit Regelleistungsbeanspruchung. SOH: State of Health; SRL: Sekundärregelleistung
+Bild2 [1] Temperaturabhängigkeit der Akkukapazität. SOH: State of Health
+Zum Thema Mittelzeitspeicherung hält sich die Studie bedeckt. Man hat den Eindruck, dass man sich gar nicht erst getraut hat, dazu Stellung zu nehmen, bzw. die Analysen dahingehend auszuweiten. Somit kann man fast unbesehen davon ausgehen, dass die Vorhersagen unserer „Energieintelligenz“ wie sie zum Beispiel der e.on Vorstand darstellt ebenso schnell und hoffnungslos in die Brüche gehen wird, sobald sich eine „ehrliche“ Studie auch damit beschäftig (Anm.: es gibt solche bereits und die Ergebnisse darin sind für Akkuspeicher desaströs [7]Elektro-Energiespeicherung, Notwendigkeit, Status und Kosten):
+e.on: [2] Elektroautos als Energiespeicher
+Wir stehen am Anfang einer revolutionären Entwicklung in der Mobilität. In Zukunft wird die E-Mobilität aus unserem Alltag nicht mehr wegzudenken sein und als integraler Bestandteil der Energiewelt von morgen den Ausbau der Erneuerbaren Energien unterstützen.
+In den letzten Jahren und Jahrzehnten galt in der Energiewirtschaft: Ein Kraftwerk produziert nur dann Strom, wenn der Kunde ihn braucht – also nach Bedarf. Erneuerbare Energieträger wie Windkraft oder Photovoltaik funktionieren allerdings nicht auf Abruf, sie sind abhängig vom Wetter, konkret von Windintensität oder Sonnenscheindauer. Elektroautos könnten nun einen wichtigen energiewirtschaftlichen Beitrag zur Nutzung von Erneuerbaren Energien leisten. Die Akkus vieler Elektroautos bilden nämlich zusammen einen großen dezentralen Speicher, der einen Puffer für die wetterabhängig schwankende Stromproduktion aus Erneuerbaren Energien bilden kann.
+Was wird man in Berlin wohl machen, nachdem die reale Physik sich wieder nicht den politischen Vorgaben entsprechend verhält? Ganz einfach: Zuerst einmal verstärkt forschen lassen. Wer der Politik nicht gehorcht, wird (aus)geforscht.
+Bundesministerium für Bildung und Forschung: Batterieforschung für Elektroautos
+Die Batterieforschung für Elektroautos ist ein Aushängeschild des Bundesforschungsministeriums. Bald sollen die besten Batterien aus Deutschland kommen. "Wir wollen Innovationsweltmeister werden", sagt Bundesministerin Johanna Wanka.
+"Batterie 2020" – eine neue Generation
+Die im August 2014 veröffentlichte Maßnahme "Batterie 2020" setzt die strategische Linie des BMBF fort.
+Und dann kann man beliebig weiter den Wunsch subventionieren. Zumindest mittelfristig ließ sich damit noch immer jeder Unsinn des EEG wenigstens übergangsweise kaschieren. Die letzte Subventionsbereitstellung für E-Autos hat gezeigt, wie leicht das geht, wenn „alle“ an einem Strang ziehen:
+SPIEGEL ONLINE: [6] Elektroautos: Gewinne für die Firmen, Kosten für den Staat
+Die deutschen Autohersteller betteln beim Staat um Milliardensubventionen für Elektroautos. Der Vorstoß ist ein dreister Versuch, betriebswirtschaftliche Risiken auf die Steuerzahler abzuwälzen.
+Bei etwa einer Million Elektroautos, die bis zum Jahr 2020 auf Deutschlands Straßen fahren sollen, geht es unterm Strich also um fünf Milliarden Euro, mit denen sich die Autokonzerne vom Staat subventionieren lassen wollen. Fünf Milliarden Euro: Das, nur mal so zum Vergleich, ist ziemlich exakt auch der Betrag, den die Bundesregierung ansonsten für sämtliche Forschungsprojekte ihrer neuen Hightech-Strategie in diesem Jahr auszugeben bereit ist.
+Solange allein die Herstellung eines Elektroantriebes samt Batterie mehr Energie verbraucht, als ein herkömmlicher Mittelklassewagen auf 100.000 Kilometern vertankt, hat auch die Umwelt nichts davon. Und wo kommt eigentlich der Strom für die Ladesäulen her? Wirklich nur aus erneuerbaren Energiequellen, wie es in den Hochglanzbroschüren an den Frankfurter Messeständen suggeriert wird? Oder doch eher aus dem deutschen Stromnetz mit über 50 Prozent Kohle- und Gaskraft.
+In einem EIKE-Blog formulierte ein Leser: „Als Außenstehender hat man mittlerweile den Eindruck, dass in Deutschland das Finanzieren von absurden technischen Lösungen auf Kosten der Allgemeinheit der Volkssport Nr. 1 ist."
+Dieser Wahrheit braucht man nichts hinzu zu fügen.
+Zu welchen absurden Leistungen unsere Ministerialbürokratie dabei fähig ist, wurde bereits im Artikel: [8] Ein Blick zurück in die Zukunft Die Studie zu „neuen Kategorien alternativer Energien“ aufgedeckt.
+Quellen
+[1] INEES Studie: Intelligente Netzanbindung von Elektrofahrzeugen zur Erbringung von Systemdienstleistungen – INEES Gefördert durch das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+[2] e.on: Elektroautos als Energiespeicher
+https://www.eon.de/pk/de/energiezukunft/erneuerbare-energien/technologie/energiespeicherung/elektroautos-speicher.html
+[3] LichtBlick SE: Wie E-Autos mit SchwarmEnergie® die Stromnetze stabilisieren können
+https://www.lichtblick.de/privatkunden/schwarm-energie/innovationen/schwarmmobilitaet
+[4] Bundesministerium für Umwelt Naturschutz Bau und Reaktorsicherheit: INEES Intelligente Netzanbindung von Elektrofahrzeugen zur Erbringung von Systemdienstleistungen
+http://www.erneuerbar-mobil.de/de/projekte/foerderung-von-vorhaben-im-bereich-der-elektromobilitaet-ab-2012/kopplung-der-elektromobilitaet-an-erneuerbare-energien-und-deren-netzintegration/inees
+[5] EIKE 19.02.2016: Gleiches Recht für Alle: Warum dürfen Elektroautos so weit von den Prospektangaben abweichen?
+http://www.eike-klima-energie.eu/news-cache/gleiches-recht-fuer-alle-warum-duerfen-elektroautos-so-weit-von-den-prospektangaben-abweichen/
+[6] SPIEGEL ONLINE: Elektroautos: Gewinne für die Firmen, Kosten für den Staat
+http://www.spiegel.de/wirtschaft/soziales/elektroautos-die-bettelei-um-subventionen-ist-dreist-a-1053697.html
+[7] EIKE 18.06.2015: Elektro-Energiespeicherung, Notwendigkeit, Status und Kosten. Teil 3 (Abschluss)
+http://www.eike-klima-energie.eu/energie-anzeige/elektro-energiespeicherung-notwendigkeit-status-und-kosten-teil-3-abschluss/
+http://www.eike-klima-energie.eu/news-cache/ein-blick-zurueck-in-die-zukunft/
+[8] EIKE 04.02.2016: Ein Blick zurück in die Zukunft
+Die Studie zu „neuen Kategorien alternativer Energien“ des Bundesministeriums für wirtschaftliche Zusammenarbeit
+http://www.eike-klima-energie.eu/news-cache/ein-blick-zurueck-in-die-zukunft/
+Sehr geehrter Herr Wedekind,
+die von Ihnen vermisste Simulation wurde schon von mehreren Instituten durchgeführt. Der VDI und der DIW (Frau C. Kemfert) sind dabei zu dem Ergebnis gekommen, dass es problemlos ist.
+Sie brauchen also nicht mehr selbst simulieren, sondern nur die Studien analysieren.
+Ich denke, so mit zwei Wochen Aufwand ist es für einen Geübten möglich,herauszufinden, wie die Ergebnisse zustande gekommen sind.
+„Genau genommen müßte man das ganze System von Wind- und Sonnenstromerzeugung inklusive Speicher und Verbraucher simulieren.“
+Genau das habe ich bereits gemacht. Und zwar über 5 Jahre (2009 bis 2013). Allein für die NBL ergibt sich ein Speicherbedarf von mindestens 35 TWh.
+In den Lübecker Nachrichten stand gestern drin, daß in Schleswig-Holstein letztes Jahr 3 TWh Windmühlen- und Solarzellenstrom nicht abgesetzt werden konnten, weil sonst das Netz zusammengebrochen wäre, also die Anlagen abgeschaltet werden mußten. Bezahlen mußte der Verbraucher trotzdem.
+VW als größter Autokonzern der Welt wäre längst pleite, wenn er die Kosten für die virtuelle Produktion und Verschrottung der nichtabsetzbaren Autoproduktion übernehmen müßte und auf die Preise abwälzen müßte.
+Beim Strom geht das aber irgendwie, weil der Verbraucher zu doof ist, sich der Propaganda zu widersetzen.
+„Das wäre ein nettes Spielchen für einen Rentner, das Problem mit einem Progrämmchen einem Optimierungsverfahren „zum Fraße vorzuwerfen“ oder auf einem EXCEL-Blatt „nachzuspielen“, was ich aber bis jetzt noch nicht gemacht habe.“
+Das simple Progrämmchen habe ich auf der Fahrt von HH nach Wiesbaden zum Hessischen Landtag geschrieben und getestet, bevor ich dort als Sachverständiger entsprechende Fragen beantwortet habe. Irgendwo im Protokoll steht dann, wieviele PSKW vom Typ Edersee-PSKW man benötigen würde, um mit Windenergie Hessen mit Strom versorgen zu können.
+Um z.B. ein 1000 MW Grundlastkraftwerk mit Faulgasanlagen (Mais als Betriebsstoff) ersetzen zu können, benötigt man die gesamte Ackerfläche Hessens. Nur mal so als Hausnummer zum Verständnis der Größenordnungen, was der Ökoquatsch tatsächlich für Ressourcen verbraucht.
+„Was sind das für Leute und was haben die gelernt?“
+Lieber Herr Wedekind,
+wenn Sie mich schon drum bitten:
+Abzocker, A…kriecher, Idioten und verlogene A…löcher
+Sollte ich eine Gruppierung vergessen haben, bitte ich die Mitforisten um Ergänzung
+(Politiker sind in obiger Aufstellung schon enthalten…).
+MfG
+Zum Thema „14 Tage Ausfall“:
+Ich gebe Ihnen vollkommen recht: Die 14 Tage sind nur ganz grob die Löcher nach den Daten der Bundesnetzargentur. Genau genommen müßte man das ganze System von Wind- und Sonnenstromerzeugung inklusive Speicher und Verbraucher simulieren. Die Zappelei der Energieerzeugung könnte man aus den Daten der BNA entnehmen; die Verbrauchercharakteristik ist bekannt, und daraus ließe sich der Speicherbedarf und dessen Charakteristik abschätzen. Dann bekäme man besser belastbare Daten über die benötigten Speichereigenschaften bezüglich Energie und Leistung heraus.
+Das wäre ein nettes Spielchen für einen Rentner, das Problem mit einem Progrämmchen einem Optimierungsverfahren „zum Fraße vorzuwerfen“ oder auf einem EXCEL-Blatt „nachzuspielen“, was ich aber bis jetzt noch nicht gemacht habe.
+Trotzdem sollte man sich ernsthaft die andere Frage stellen, was eigentlich Kurzzeitspeicher für einen Sinn haben, wenn Langzeitspeicher sowieso nötig sind. Damit hat man aus dem einfachen System heute (Kraftwerke) ein dreifaches System (Wind/Sonnenenergieerzeugung, Kurzzeit- und Langzeitspeicher) gemacht mit entsprechend erhöhten Kosten. Um das System zu vereinfachen und billiger zu machen, flöge als erstes sofort der Kurzzeitspeicher heraus, weil dessen Funktion vom Langzeitspeicher ohne Mehraufwand zu 100% übernommen werden kann.
+Für mich beängstigend ist wirklich, daß niemand aus der Szene sich solche offensichtlichen Fragen stellt und zuallererst einfache Abschätzungen macht, bevor er eine großangelegte Studie lostritt. Was sind das für Leute und was haben die gelernt?
+MfG
+G.Wedekind
+Papperlapapp!! E-Mobile werden von Zauberern und Wunderheilern entworfen und gefertigt.
+Wo ist das Problem? 2 Jahre time to market? Null Problemo
+„Automobilfirmen werden über den E-Auto-Hype vermutlich nicht ganz unglücklich sein. Denn schließlich wurde durch diesen Hype das Auto bzw. das Autofahren bei den Grünschlümpfen und Weltverbesserern wieder höffähig. E-Autos sorgen für ein gutes Gewissen und vermutlich auch gute Verkäufe.“
+Blödsinn. Für jeden I3 den BMW verkauft (gezwungen wird zu verkaufen, wegen Flottenverbrauch) müssen die drei SUVs verkeufen, um die Verluste wieder einzufahren.
+Warum sollten die sich darüber freuen?
+Die echten Autohersteller funktionieren ja nicht wie Tesla, das ist ein Schneeballsystem. Das wird irgendwann kollabieren, aber dann waren wieder mal andere Schuld (tippe auf Ölmultis, den Staat der mit Subventionen zu knausrig war, oder die bösen Medien).
+Die Naturkräfte werden es richten bzw. Gericht über die Gesellschaft halten die sich mit Wind und Sonne untergeordnet hat.
+Energiewende: E.on muss offenbar Milliarden auf Uniper abschreiben
+Die eigene Aufspaltung kommt E.on wohl teuer zu stehen: Grund dafür sollen unrealistische Kalkulationen für die Tochter Uniper sein.
+….
+……..
+Anleger des Energiekonzerns E.on Chart zeigen müssen sich erneut auf Verluste einstellen. Nach Angaben des „Handelsblatt“ muss das Unternehmen offenbar Milliarden abschreiben. Der Konzern dürfte so in diesem Jahr zum dritten Mal in Folge in die Verlustzone geraten, heißt es unter Berufung auf Konzernkreise.
+Wer hätte das gedacht, die „Energiewende“ ruiniert Deutschland. Wir schaffen das!
+„Auf letzteren insbesondere deßhalb, weil für seine Produktion im Schnitt 1,5L Mineralöl erforderlich sind.“
+Das ist ’nur‘ im Ergebnis richtig, denn es handelt sich um ein Äquivalent, weil ja auch zur Produktion Kohle und Uran genutzt wird und auch Windmühlen- und Photozellenstrom etc. . In fast jedem Produkt steckt der virtuelle Strom drin. 😉
+„Nach den Daten der Bundesnetzargentur ist abzuschätzen, daß aber etwa mit 14 Tage Ausfall der Erneuerbaren zu rechnen sein muß, die man mit Speicher abdecken muß.“
+Sehr geehrter Herr Wedekind,
+Ihre Aussage ist leider unzutreffend.
+Auszugleichen sind neben den stochastischen Schwankungen durch das Wetter die jahreszeitlichen Schwankungen der Stromproduktion mittels Windmühlen und Photozellenplatten. Desweiteren gibt es noch dekadische Schwankungen. Zudem unterliegt die Stromnachfrage täglichen, wöchentlichen und jahreszeitlichen Schwankungen. Eine Halbierung der Windgeschwindigkeit hat die Folge, daß die nutzbare kinetische Energie nur noch ein Achtel beträgt. Deshalb ist die Totalflautenzeit auch völlig irrelevant. Der tatsächliche Speicherbedarf entspricht der PSKW-Speicherkapazität des sechsfachen Volumens (Ober- und Unterbecken zusammen) des Bodensees und einem effektiven Höhenunterschied von 400m. Deshalb kann man diese Kapazität auch nicht mit Autoakkus bereitstellen. Soviele Autos gibt es in D nicht. Bei 50 kWh Speicher pro Auto (225 kg, 120 Liter Volumen) ergeben sich man gerade läppische 2,2 TWh. Benötigt wird aber das Hundertfache.
+„Die in der Stadt am Straßenrand stehenden Autos sind mit einem Kabel verbunden? Wie und wo soll das gehen? Liegen dann überall Strippen auf dem Gehweg? Wie wird der wieder eingespeiste Strom abgerechnet?“
+Blöde Frage!
+Auf Basis der Notstandsgesetze zur Rettung des Weltklimas werden folgende Verordnungen erlassen:
+Verantwortlich für die Installation der Steckdosen am Straßenrand ist der angrenzende Grundstückseigentümer.
+Der ist ja auch schon für den Winterdienst verantwortlich und weiß, was das bedeutet.
+Die Installationskosten dürfen verteilt auf 30 Jahre von den Mieteinnahmen des Grundstückes abgesetzt werden.
+(Eigentümer, die selbst vor Ort wohnen, werden diesen Vorteil zu schätzen wissen)
+Die laufenden Stromkosten dürfen am Jahresende dem EVU in Rechnung gestellt werden.
+Zur Deckung der Ausgaben der EVU wird eine Spritfreser- und Klimarettungsabgabe auf alle Mineralölprodukte wie Benzin, Heizöl, Kunststoffe sowie auf Biosprit erhoben.
+Auf letzteren insbesondere deßhalb, weil für seine Produktion im Schnitt 1,5L Mineralöl erforderlich sind.
+Eine etwaige Überdeckung aus diesem Topf verbleibt als Steuereinnahme beim Reich, eine Unterdeckung geht zu Lasten der EVUs.
+„Wieder nur eine Luxuslösung für Leute mit Einzelgarage oder eigenem Stellplatz direkt am Haus.“
+Wo kommen Sie denn her?
+Bubbawubbalummerland?
+SELBSTVERSTÄNDLICH ist das Vorhaben NICHT für die besitzlose Mittel-und Unterschicht gedacht.
+Dafür gibt es nicht den geringsten Anlaß!
+1. Wenn ich ein Elektroauto hätte, dann würde ich mir bestimmt nicht durch andere bzw. die Netzbetreiber oder gar örtliche Energiegenossenschaften laufend meinen Akku ent- und beladen lassen, so dass dessen Lebensdauer deutlich sinkt. Denn dadurch würde mein Eigentum schneller kaputt, nur damit es anderen nützt.
+2. Derart viele dynamische Energiespeicher, deren Nutzungsverhalten nur eingeschränkt planbar wäre, sind einfach zu viele und zu unvorhersehbare Variablen im Stromnetz eines Industrielandes. Das würde zu noch mehr Instabilität führen.
+3. Damit es überhaupt funktionieren würde, müssten alle Elektroautos im Stand durchgehend ans Kabel, was wenig realistisch ist.
+4. Was ist, wenn mir mein Akku gerade entladen würde (z.B. wenn gerade wegen Flaute und/oder Dunkelheit mehr sicher verfügbarer Strom benötigt wird) und ich aber gerade losfahren möchte? Dann kann ich statt 300km vielleicht nur 10km fahren. Wenn man das nicht möchte, müsste man also jedesmal, wenn man sein Auto abstellt genau festlegen, wann ich wieder zurück bin. Aber was ist, wenn ich aus welchem Grund auch immer früher da bin???
+Die ideologische deutsche Energiewende und diese Vorschläge für die Nutzung von Elektroautos als Energiespeicher sind deshalb in der Realität so nicht machbar. Jedoch spricht dies aus meiner Sicht nicht gegen Elektroautos an sich. Da muss man differenzieren.
+am Dienstag, 02.08.2016, 13:32
+„KEIN Projekt der „Energiewende“ lässt sich ökonomisch oder technisch rechtfertigen“
+Da haben Sie noch einen 3. Punkt vergessen. Keines dieser irrsinnigen Projekte läßt sich auch ökologisch rechtfertigen. Aber das begreifen die öko-verblödeten BRD-Opfer ja nicht und falls man es ihnen sagt, dann ist es egal, wegen „der Umwelt“, „alternativlos“ halt.
+Wer setzt diesem Unsinn endlich ein Ende?
+Wieder nur eine Luxuslösung für Leute mit Einzelgarage oder eigenem Stellplatz direkt am Haus.
+Man nehme ein Frachtschiff am Kanal dass gerade festgemacht hat. Dem Erstklässler wird gezeigt wie man die Leinen lockert und wieder festzieht — im Rythmus der Schiffbewegung. Dadurch nimmt der 1250 Tonner langsam Fahrt auf in eine gewünschte Richtung (das ist Wirklichkeit für Schleppkahnschiffer).
+Wo liegt der Fehler? (ist vom Typ unzulässige Verallgemeinerung). Hint: K.I. funktioniert genau so, Klatschhäschen Energie ebenfalls.
+Mal abgesehen von den Wahnsinnskosten …
+Hat jemand einmal die Speicherkapazität aller angepeilter Elektroautos überschlagen?
+Nehmen wir einmal an, wir hätten 30 Millionen Elektro-Autos in Deutschland, und zwar so kleine Nuckelpinnen (entsprechend einem 3-Liter Diesel) mit 180 km Reichweite, von dem man 30% Restenergie noch zum Fahren haben will – denn schließlich ist das Fahren die eigentliche Aufgabe dieser Autochen.
+In dem Szenario müßten wir etwa 110 GW mittlere elektrische Leistung zur Verfügung stellen. Das ist zwar mehr als die 65 GW heute, aber irgendwoher muß ja auch die Elektroenergie der Autochen und anderes alternatives CO2-freies herkommen.
+Dann könnten wir mit den Batterien der Autos (11.5 kWh pro 100 km) gerade mal so um die vier (!) Stunden die geforderte Leistung bereitstellen, abgesehen von allen anderen Problemen und Kosten, die eine solche Speicherung mit sich brächte.
+Nach den Daten der Bundesnetzargentur ist abzuschätzen, daß aber etwa mit 14 Tage Ausfall der Erneuerbaren zu rechnen sein muß, die man mit Speicher abdecken muß. Dem gegenüber sind die vier Stunden Energiereserve der Elekroautos zu vergessen. Da braucht man garnicht erst anzufangen.
+Man kann es drehen und wenden wie man will und an den Zahlen herumdrehen: Es ist und bleibt wegen der viel zu geringen Kapazität Unsinn. Und Kurzzeitspeicher überhaupt anzudenken, wenn Langzeitspeicher unbedingt vonnöten sind, das ist ebenso Unsinn: Man stellt neben einen großen Wassereimer nur ein kleines Schnapsglas und meint, damit die Probleme lösen zu können.
+Beängstigend ist nur, daß niemand so eine einfache Abschätzung macht, bevor er überhaupt eine großangelegte Studie darüber anfängt und sich damit blamiert.
+MfG
+G.Wedekind
+Wenn jetzt mal endlich die Gigafabrik von Musk fertig ist, werden Akkus immer billiger und besser, dann lohnt sich das immer mehr!
+Jetzt nur noch 2 oder 3 oder 4 Jahre warten, dann hat es sich endgültig durchgesetzt und die deutschen Autobauer schauen in die Röhre weil sie den Zug verschlafen haben!
+Wenn man dann in Zukunft mal nicht fahren kann, weil gerade kein Wind weht und die Pufferbatterie gebraucht wird, ist das doch gar nicht schlimm, dann geht man eben mal zu Fuss oder nimmt das Radl! Ist doch gesund!
+Andere Leute haben überhaupt kein Auto, habt ihr mal an die gedacht!
+Der Elektromobilität gehört die Zukunft, jeder der dagegen ist hat keine Ahnung!
+Habe mal gehört oder gelesen, dass in den Kauf- oder Leasingverträgen der E-Autos den Kunden die Verwendung der Akkus als Regelenergiespeicher untersagt ist; zumindest in den Verträgen, bei denen die Akkus geleast werden.
+Finde dazu im Web leider Nichts – wer hat dazu genauere Infos?
+Gegen Batterieforschung ist überhaupt nichts einzuwenden, Wer kann etwas dagegen haben, wenn ein Schrittmacher doppelt so lange läuft, man ein Smartphone nur noch einmal pro Woche aufladen muss, elektrische Turbolader Motoren effizienter machen und, und, und. Batterien sind daher IMMER für etwas gut. Hätten die Idioten in Fukushima ausreichend dimensionierte Batterien gehabt, wäre NICHTS passiert. Jetzt wird dagegen vor dem Hintergrund des CO2-Märchens und dieses Industrieunfalls unsere Energieversorgung und in deren Folge die Wirtschaft komplett zerstört – und Michel schreit auch noch laut „Hurra!“ – das muss ich zum Glück nicht verstehen.
+Wie soll denn das gehen, darf dann etwa bei Flaute nicht mehr Auto gefahren werden, muss dann der Strom ins Netz eingespeist werden? Ungefähr so wie v. Weizsäckers Lösung, dass Fabriken nur bei Sturm arbeiten dürfen, weils dann mal Windstrom gibt.
+Es hört sich an wie ein Wettbewerb um die abstrusesten Ideen. Das Schlimme daran ist, dass wertvolle Ingenieursressourcen für diesen Unsinn verschwendet werden. Man darf sich gar nicht überlegen, was diese Ingenieure und Wissenschaftler alles leisten könnten, wenn man die bereits bestehende leistungsfähige, stabile und günstige Stromversorgung beibehalten und optimiert hätte, anstatt sie durch eine Dauerbastelstube zu ersetzen.
+Man könnte irre werden bei dem Gedanken. Ich hoffe, ich werde es nicht, Irre haben wir ja schon genug in Deutschland!
+Die sog. Erneuerbaren Energien werden NIE in der Lage sein den Strom verbrauchs-bedarfsgenau zu erzeugen und bereit zu stellen.
+Das ist UNMÖGLICH! Und damit ist eigentlich schon alles gesagt.

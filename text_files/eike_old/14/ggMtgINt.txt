@@ -1,0 +1,1218 @@
+Anmerkung der Redaktion: Der folgende Text enthält keine Abbildungen und keine Quellenangaben. Für Leser, die daran interessiert sind, ist der vollständige Text als pdf angehägt.
+Im Strahlungsmodell für eine quasi-isotherme Modellerde (die genügend schnell rotiert, Wärme gut speichert und umverteilt) kann die globale Temperaturerhöhung durch eine Erhöhung der Einstrahlung am Schwarzkörper-Boden im Gleichgewicht mit der Formel deltaT = deltaS/S/4*T berechnet werden (Equilibrium Climate Sensitivity ECS).
+Darin bedeutet das deltaS Gegenstrahlung welche die Bodentemperatur erhöht – entgegen der Fehlinterpretation des 2.HS vom antiken Clausius 1887 "Die Wärme kann nicht von selbst aus einem kälteren in einen wärmeren Körper übergehen". Durch Strahlung wird nämlich keine Wärme, wohl aber Energie (W/m²) aus der kälteren Atmosphäre auf den wärmeren Boden transportiert, wo sie absorbiert und in Wärme umgewandelt – und dann auch wieder emittiert wird.
+Die deltaT-Formel entsteht durch Differentiation der Stefan-Boltzmann-Gleichung S = Sigma*T^4 nach T wobei sich für dS/dT = 4*Sigma*T^3 = 4*S/T ergibt – was beim Mainstream (sowie bei Vielen, die aufgrund von Beobachtungen versuchen, diesen Wert mehr oder weniger falsch zu ermitteln) weitgehend unbekannt zu sein scheint.
+IPCC gibt für clear sky (ohne Wolken und ohne Wasserdampf) gemäß HITRAN-Integration (line by line, Dr. Shine) für CO2-Verdoppelung am oberen Atmosphärenrand (TOA) einen "Strahlungsantrieb" von deltaS = 3,7 W/m² an, der als Zurückhaltung oder als zusätzliche externe Einstrahlung interpretiert werden kann. Diese Integration habe ich überprüft. Der Wert wäre korrekt, wenn eine Atmosphäre (nur mit CO2, bei 360 ppm) mit 350 W/m² vom Boden her durchstrahlt wird.
+Dann würden vom CO2 insgesamt 74 W/m² in der Atmosphäre absorbiert (HITRAN, Bild 1) und in den Flanken sind es für jede CO2-Verdoppelung 7,4 W/m² mehr. Im Gleichgewicht stellt sich die Temperatur so ein dass diese Strahlungsleistung wieder thermisch emittiert wird. Dabei geht etwa die Hälfte, also 3,7 W/m² in Richtung Boden, was als Strahlungsantrieb angegeben wird. Damit ergibt sich am Boden (mit Eps = 239/391, Bild 2) bei +15 Grad (288 K) mit og. Formel der bekannte IPCC-Basiswert ("Planck Response") zu deltaT = 3,7/391/4*288/Eps = 1,11 Grad.
+Tatsache ist aber dass die Absorption nur proportional zur "Nettodurchstrahlung" ist (z.B. ergibt die IR-Strahlung zwischen zwei Platten gleicher Temperatur keine Absorption). Und da die Nettodurchstrahlung wegen der im Modell für kurzwelliges Sonnenlicht transparent angenommenen Atmosphäre im Mittel statt 350 nur 239 W/m² beträgt (1364/4*0,7 wegen 30% Albedo), ist der IPCC-Wert 3,7 W/m² mit dem stets gerechnet wird, um den Faktor 1,464 zu hoch.
+Weiter berücksichtigt IPCC nicht die Tatsache dass Wolken für IR Schwarzkörper (!) sind und somit CO2 unter etwa 55% Wolken keinen zusätzlichen Erwärmungseffekt am Boden hat. Damit ergibt sich mit etwa 29% CO2 über den Wolken ein plausibler Reduktionsfaktor von 0,29+0,45*0,71 = 0,61. Auch die Wasserdampfüberlappung wird von IPCC nicht berücksichtigt, die gemäß Satelliten(trichter)messung einen Reduktionsfaktor von 27/37 = 0,73 ergibt.
+IPCC nimmt als drastische Verstärkung des CO2-Effekts am Boden ein Wasserdampf-Feedback mit dem Faktor 2,7 an (1,11*2,7 = 3,0 Grad als "best guess"). Da aber auch der Wasserdampf weitgehend gesättigt ist, ist hier etwa eine Reduktion der Erhöhung von +1,7 auf die Hälfte bzw. von Faktor 2,7 auf 1,85 anzusetzen. Nicht berücksichtigt wird von IPCC auch, dass die tropische Feuchtkonvektion einen Bypass zum Energie-Abtransport durch IR-Strahlung darstellt und somit eine Reduktion etwa um den Faktor 0,82 bewirkt.
+Wenn man auch noch für den längeren Absorptionsweg durch Schrägstrahlung eine Korrektur um den Faktor 1/cos(32°) = 1,179 nimmt und für den Strahlungsantrieb am Boden alle sechs Korrekturfaktoren berücksichtigt, ergibt die Berechnung für eine realistische Erwärmung bei CO2-Verdoppelung
+deltaT = 1,11/1,464*0,61*0,73*1,85*0,82*1,179 = 0,6 °C
+Nach https://de.wikipedia.org/wiki/Klimasensitivität nennt IPCC dagegen 3 °C als besten ‚Schätzwert‘ und eine Sensitivität von unter 1,5 °C als "sehr unwahrscheinlich". Natürlich ist jeder Korrekturfaktor mit Unsicherheit behaftet, so dass die 0,6 °C auch eine gewisse Bandbreite aufweisen. Bekanntlich hat Prof. Harde unabhängig hiervon mit sorgfältigen Modellrechnungen ebenfalls einen Wert von 0,6 Grad ermittelt. Man kann diesen also als weitgehend richtig betrachten.
+Interessant und sensationell ist die Tatsache dass das 2-Grad-Ziel der COP 21 in Paris mit 1/5 des ECS einen CO2-Anstieg von vorindustriell 280 auf 2820 ppm (!!) zulässt, womit jegliche CO2-Reduzierung und insbesondere die Dekarbonisierung ad absurdum geführt wird, da wir bei Verbrennung aller nutzbaren fossilen Reserven nur höchstens 500 ppm und 0,5 Grad erreichen können:
+deltaT = 0,6*ln(2820/280)/ln(2) = 2,0 Grad
+und 0,6*ln(500/280)/ln(2) = 0,5 Grad
+Das CO2-Problem ist also in Wirklichkeit ein Nonproblem!
+diese Zeilen habe ich geschrieben mit dem Gedanken, dass hier auf dem EIKE-Forum Wissen vermittelt wird um daraus Erkenntnisse zu gewinnen.
+Festzuhalten bleibt die Tatsache, dass ein Kohlendioxid Molekül bei einer bestimmten Frequenz im IR-Bereich Strahlung absorbiert und wieder emittieren kann.
+Wenn dies dann wirklich passiert, stellt sich mir die Frage ob Wärme frei wird und wo Sie bleibt.
+Ich würde sagen, wenn in der Atmosphäre irgendwann irgendwo Wärme frei wird, geht Sie mit dem Wärmestrom der übrigen Materie ins Weltall.
+Die Materie teilchen müssen gezwungener Maßen im Einflussbereich der Erde verbleiben wegen dem Gravitationsfeld.
+All denen, die an den Treibhauseffekt glauben, empfehle ich einen 4 wöchentlichen Urlaub in
+Workuta . Dort können diese Menschen sich erholen auf Permafrostboden und erträglichen Temperaturen bei momentan -10° C.
+Die tägliche Sonneneinstrahlung reicht nicht aus, die die Erdkruste unterhalb der Oberfläche so zu erwärmen wie es in unseren Breitengrade gelingt.
+Die nächtliche Abstrahlung ist größer als der „Zugewinn“ durch die tägliche Sonneneinstrahlung.
+Die Konsequenz aus dieser Beobachtung hat Eugen Ordowski
+in seinem Kommentar #43: http://tinyurl.com/het4a7a
+in allgemein verständlicher Form erklärt.
+Mit herzlichem Glückauf
+Die Gleichung aus #133 L = (1-exp(-k*d*x))*B folgt übrigens – wie man leicht sieht – aus der Gleichung dL/dx = k*d*(-L+B) und stimmt mit Kramms Gleichung in #194 1/(r k_n) dI_n/ds = – I_n + S_n für den Fall S=B für den Quellterm überein.
+Die Gleichung stellt – wie gesagt – die thermische Emission des Gases dar. Wenn Sie zusätzlich noch die Absorption von von außen einstrahlender Strahlung (z.B. der des Bodens in einer bodennahen Luftschicht mit CO2) berücksichtigt haben wollen, so müssen Sie freilich die Formel um einen Term (Lambert-Beersches-Gesetz) erweitern.
+und sie zeigen, dass sie nach zehn Jahren Kampftrollen kein Meteorologe wird.
+mangelndes Verständnis an den Gasgesetzen und dem Einfluss der Schwerkraft auf Druck UND Temperaturverteilung in der Atmosphäre.
+Warum sollte es denn in der Nacht auf der Erde (-80 °C) so viel wärmer sein als auf dem Mond ohne Atmosphäre (?160 °C)???
+Jetzt dürfen Sie aber nicht mit dem Treibhauseffekt kommen,
+denn dann müsste es am Tag auch heißer als auf dem Mond sein, also heißer als 130 °C
+mfG
+„Ich war da mißverständlich, da es natürlich auch konvektiven Ein- und Austrag gibt.“
+Das hatten Sie offensichtlich aber nicht gefragt. In einem Quader Luft kann von sich aus keine Konvektion einsetzen.
+„Selbstverständlich strahlt CO2, …Wenn es überhaupt strahlt ;-)“
+Ein logischer Widerspruch als Witz?
+„Und das soll ja eine Messung beweisen…“
+Nun, wenn Sie dem CO2 eine Ausnahme in Erfüllung physikalischer Grundgesetze zubilligen, sind Sie wohl dazu verdammt, den Fall persönlich zu überprüfen. Wenn Sie nun feststellten, daß die Physik für jedes Material mit Ausnahme des CO2 gilt, so wären die Naturwissenschaften freilich in einer Krise und würden das Feld der Esoterik überlassen müssen. Aber der CO2-Laser z.B. demonstriert ja eindrucksvoll, daß CO2 auch strahlt, wenn die entsprechenden angeregten Zustände besetzt werden. Diesen nützlichen Laser hätte man nicht, wenn die Natur nach Ihren Vorstellungen funktionierte.
+Nun, wenn Sie diesen Beweis nicht antreten, werden Sie sich an die Lehrbuchphysik auf Basis der bisherigen Erkenntnisse richten müssen. Danach ist völlig klar, daß CO2 keine Ausnahme macht und sich wie jedes andere Material nach den Naturgesetzen verhält, also mit elektromagnetischer Strahlung wechselwirkt, eine Termstruktur gemäß dem Molekülaufbau hat und demnach thermisch gemäß den bei gegebener Temperatur daraus resultierenden Linienstärken abstrahlt.
+„Ich war da mißverständlich, da es natürlich auch konvektiven Ein- und Austrag gibt.“
+Das hatten Sie offensichtlich aber nicht gefragt. In einem Quader Luft kann von sich aus keine Konvektion einsetzen.
+„Selbstverständlich strahlt CO2, …Wenn es überhaupt strahlt ;-)“
+Ein logischer Widerspruch als Witz?
+„Und das soll ja eine Messung beweisen…“
+Nun, wenn Sie dem CO2 eine Ausnahme in Erfüllung physikalischer Grundgesetze zubilligen, sind Sie wohl dazu verdammt, den Fall persönlich zu überprüfen. Wenn Sie nun feststellten, daß die Physik für jedes Material mit Ausnahme des CO2 gilt, so wären die Naturwissenschaften freilich in einer Krise und würden das Feld der Esoterik überlassen müssen. Aber der CO2-Laser z.B. demonstriert ja eindrucksvoll, daß CO2 auch strahlt, wenn die entsprechenden angeregten Zustände besetzt werden. Diesen nützlichen Laser hätte man nicht, wenn die Natur nach Ihren Vorstellungen funktionierte.
+Nun, wenn Sie diesen Beweis nicht antreten, werden Sie sich an die Lehrbuchphysik auf Basis der bisherigen Erkenntnisse richten müssen. Danach ist völlig klar, daß CO2 keine Ausnahme macht und sich wie jedes anderen Material nach den Naturgesetzen verhält, also mit elektromagnetischer Strahlung wechselwirkt, eine Termstruktur gemäß dem Molekülaufbau hat und demnach thermisch gemäß den bei gegebener Temperatur daraus resultierenden Linienstärken abstrahlt.
+wie kann ein Meteorologe schreiben, in der Prandtl Schicht spielt Strahlung kaum eine Rolle. Gucken sie mal in Fairbanks auf´s Thermometer nach Sonnenuntergang, einmal bei 7/8 Bedeckung und einmal bei staub trockenen 0/8. Sie werden den Strahlungsunterschied mit freiem Auge erkennen, wenn sie es länger als einige Minuten vor dem Thermometer aushalten…
+Im Übrigen hat ihr ganzes Geschreibe schon wieder nichts mit dem zu tun, was ich Stehlik vorgehalten haben, denn dieser Mensch glaubt ja tatsächlich, dass der Luftdruck unsere T determiniert. Ja, so schlimm ist es, sie müssen den Unsinn einfach ertragen lernen.
+das Wiensche Verschiebungsgesetz ist die Nullstelle der ersten Ableitung der Planckschen Strahlungsverteilung. Das bestimmte Integral der Strahlungsverteilung entspricht dem Stephan Boltzmann Gesetz, also alles im Lot.
+„Sensationell!!! Also macht die Atmosphäre (einschließlich Wolken) einen Treibhauseffekt von 144 K – wir haben ja am Boden im globalen Mittel 288 K.“
+Und das behaupten Sie obwohl Sie (offensichtlich als Strahlungs-Halblaie) einen TE sowie die CO2-Sensitivitaet für nicht existent halten und alle damit befassten Fachleute zu Blödeln erklären!! Es ist nicht zu fassen!!“
+———-
+Dietze,
+Sie wissen nicht, wovon Sie schwadronieren. Was Sie nicht begreifen, ist die Tatsache, dass die oberflächennahe Lufttemperatur, über die global gemittelt wird, durch Strahlung nur unwesentlich beeinflusst wird. Zu dieser Lufttemperatur tragen die Flüsse von sensibler und latenter Wärme bei, die den Austausch zwischen den oberflächennahen Land- und Wassermassen und der Atmosphäre bewirken, sowie die Advektion von Luftmassen bei. Diese Prozesse können im Falle einer Erde ohne Atmosphäre nicht wirksam sein.
+Sie, Dietze, der vollkommen fachfremd ist, bezeichnen mich als Strahlungs-Halblaie. Dabei sind Sie es, der überhaupt nicht begreift, dass das Anwenden des Gesetzes von Beer, Bouguer und Lambert auf die Atmosphäre unzulässig ist. Ihre obigen Ergebnisse beruhen auf dieser unzulässigen Approximation. Ihre Ergebnisse sind also genauso wertlos wie die Ergebnisse, die Sie mit Ihrem Kohlenstoffmodell erzeugt haben. Deswegen können Sie Ihre Ergebnisse auch nicht in Fachzeitschriften publizieren, weil Sie damit gegen grundlegendes Lehrbuchwissen verstossen.
+Für Sie zum mitschreiben: Die Strahlungsübertragungsgleichung, wie sie in auf die Atmosphäre anzuwenden ist, beruht immer noch auf der Form
+1/(r k_n) dI_n/ds = – I_n + S_n
+Hierin sind r die Luftdichte, k_n der Absorptionskoeffizient, I_n die Intensität der monochromatischen Strahlung, s der Weg und S_n der Quellterm, wobei der Index n die Frequenz bedeutet. Um diesen Quellterm geht es. Dieser Quellterm beinhaltet den Effekt durch Emission und Vielfachstreuung. Falls lokales thermodynamisches Gleichgewicht existiert, kann die Emission mit Hilfe der Planckschen Strahlungsfunktion B_n(T) beschrieben werden. Diese ist selbstverständlich abhängig von der Temperatur des lokalen Volumens, in dem sich die IR-aktiven Gase befinden. Zum Gesetz nach Beer, Bouguer und Lambert gelangt man, wenn man den Quellterm ignoriert, was Sie getan haben. Das ist unvereinbar mit dem Lehrbuchwissen in der Physik der Atmosphäre. Das habe ich Ihnen schon mehrfach in e-mails dargelegt, denn Sie haben diese unzulässige Approximation schon in Ihrem merkwürdigen Artikel in der „Energiewirtschaft“ schon erwähnt und dann auch noch anderen vorgeworfen, sie würden nichts von Strahlungsphysik verstehen. Sie sind es, Dietze, der davon nichts versteht. Anscheinend glauben Sie immer noch, dass Sie im Recht sind. Ein solches Verhalten ist typisch für Fachfremde, die selbst in ihren eigenen Fachgebieten nichts zu bestellen hatten.
+Im Gegensatz zu Ihnen, der also über keine adäquatem Kenntnisse in der Strahlungsphysik verfügt, arbeite ich seit 35 Jahren mit Strahlungstransportmodellen.
+Im übrigen habe ich an der University of Alaska Fairbanks Strahlungsvorlesungen für M.S. und Ph.D. Studenten gehalten. Ihnen hätte ich nach kurzer Zeit empfohlen, doch besser Politikwissenschaften zu studieren. Bei mir hätten Sie keinen Leistungsnachweis erhalten, denn es gehört auch zur Verantwortung eines Professors, Leute wie Sie von den exakten Naturwissenschaften fernzuhalten.
+„Findet man in jedem „guten“ Buch der Wärme- und Stoffübertragung.“
+Stimmt, hilft aber nicht!
+„Prandtl wußte es offenbar auch.
+In seiner Untersuchung der Wärmeflüsse in der bodennahen Atmosphäre kommt der Begriff „IR-Strahlung“ erst gar nicht vor.“
+So ist es. Gut, dass Sie darauf hinweisen.
+„http://tinyurl.com/z4wr6oc“
+Hm,
+mit dem Diagramm komme ich nicht ganz klar:
+X-Achse: Produkt aus Partialdruck und Schichtdicke?
+Der Partialdruck von CO2 liegt bei 0,0004 atm.
+Mal 1m gleich 0,0004 m atm.
+Das gibt das Diagramm nicht her…
+Damit ist auch keine Emissionsleistung mit der angegeben Formel zuberechnen!
+„Zuerst behauptet er nach G&T, es wären ohne Atmosphäre 144K und dann kommt das beste! Der Druck von 1 bar macht daraus 288K. Wie man damals Akademiker werden konnte…“
+Wie sind Sie eigentlich Akademiker geworden? Diese 144 K entsprechen der global gemittelten Oberflaechentemepratur fuer eine Erde ohne Atmosphaere. Dieser Wert beruht auf einer Temperaturverteilung, die sich aus einer Verteilung der lokalen Strahlungsbilanz ergibt. Da wie bei der effektiven Strahlungstemperatur einer Erde ohne Atmosphaere von 255 K der Effekt des Erdbodens nicht betrachtet wird, geht es also nur darum darzulegen, dass diese 255 K beliebig falsch sind. Und wenn Sie mit dem Luftdruck argumentieren wollen, dann muessten Sie das auf im Falle der effektiven Strahlungstemperatur vornehmen.
+Was Sie nicht begreifen, ist die Tatsache, dass die oberflaechennahe Lufttemperatur, ueber die global gemittelt wird, durch Strahlung nur unwesentlich beeinflusst wird. Zu dieser Lufttemperatur tragen die Fluesse von sensibler und latenter Waerme bei, die den Austausch zwischen den oberflaechennahen Land- und Wassermassen und der Atmosphaere bewirken, sowie die Advektion von Luftmassen bei. Diese Prozesse koennen im Falle einer Erde ohne Atmosphaere nicht wirksam sein.
+Die Absorption von Strahlung findet in den oberflaechennahen Land- und Wassermassen statt. In der Prandtl-Schicht spielt die Strahlung kaum eine Rolle, es sei denn bei der Entstehung von Strahlungsnebel. Dann sind allerdings die auf der Hoehenkonstanz der Fluesse beruhenden Parameterisierungen fuer die Prandtl-Schicht sowieso nicht mehr gueltig.
+„Der Punkt ist (ich wiederhole dies nun schon zum dritten Male), daß die Abstrahlungsleistung des CO2 von der eigenen Temperatur abhängt – von sonst nichts.“
+Wo Sie recht haben, haben Sie recht.
+Ich war da mißverständlich, da es natürlich auch konvektiven Ein- und Austrag gibt.
+Selbstverständlich strahlt CO2, so wie auch der Boden, nur abhängig von Temperatur, Druck und Materialkonstante.
+Wenn es überhaupt strahlt 😉
+Und das soll ja eine Messung beweisen…
+„“Diese Frage habe ich vor ein paar Wochen schon mal gestellt, die Antwort war 70W/qm.
+Nun ja, die Richtung stimmt…“
+Betraf das nicht die Absorption der Bodenstrahlung durch die gesamte drüberliegende Luftsäule? Also offensichtlich eine völlig andere Fragestellung und daher ein anderer Zahlenwert.“
+Nein, es ging, soweit ich mich erinnere ausschließlich um den CO2-Anteil.
+Ich weiß aber nicht mehr, WER diese Antwort gegeben hat.
+http://tinyurl.com/z59qxo9
+was schließt ihr denn alle aus dieser dollen Kurve????
+Vielleicht fangen wir damit an, dass offensichtlich der Emissionsgrad bei sinkendem Partialdruck immer kleiner wird (nanu, warum?) und der damit notwendigen Frage an alle drei,
+wie hoch ist denn der Partialdruck von CO2 in Meereshöhe in Bar???
+Und wer sich all diese Arbeiten von Eckert und Co wirklich angesehen hat wird auch noch beantworten können, bei welcher Temperatur er GEMESSEN hat und bei welcher er „extrapoliert“ hat, das steht da nämlich auch.
+Daraus folgt wieder die Frage, ob man bei einem frequenzspezifischen Strahler extrapolieren darf.
+mfG
+„http://tinyurl.com/ox5dxwr
+Auf der Seite 11 ist das Absorptionsvermögen von Kohlendioxid und Wasser dargestellt.
+Und dann kommt der Hinweis auf die jeweilige Konzentration bei der Messung.“
+Ja, sehr schön.
+Aber was wollen Sie damit mitteilen?
+Daß CO2 IR-Strahlung bestimmter Frequenzen absorbiert?
+Oder daß der Inhalt der Arbeit nichts mit dem Treibhauseffekt zu tun hat?
+…Wassertropfen emittieren an ihrer Oberfläche bei Temperaturen zwischen O und 20 Grad C eine IR Strahlung zwischen 310 und 410 W/m^2….
+http://tinyurl.com/h5hxfu7
+Fakt ist auch: Wassertropfen emittieren an ihrer Oberfläche bei Temperaturen zwischen O und 30 Grad C eine IR Strahlung zwischen 310 und 410 W/m^2.
+Eispartikel emittieren bei Temperaturen zwischen -20 Grad C und -30 Grad C eine IR Strahlung von 230 bis 200 W/m^2. Die typischen kleinen Werte werden unter wolkenfreiem Himmel auch am Hamburger Wettermastregelmäßig gemessen. Überall in der Atmosphäre sinken bekanntlich die Temperaturen bis zur Tropopause unter -50 Grad C ab. Überall sind die bei diesen Temperaturen gemessenen Werte der Luftfeuchte deutlich größer als Null. Der Ausschluss der Existenz von Eis in der Atmosphäre hat daher keine physikalische Grundlage.
+Dagegen wachsen überall in großer Höhe sehr kleine Eispartikel sehr langsam, und schweben daher sehr lange. Bereits kleine Eismengen können mit ihrer insgesamt großen Oberfläche offenbar auch am wolkenfreien Himmel das sog. atmosphärische Fenster für IR Strahlung schließen.
+Fazit: Niemand konnte jedoch bisher – nach meinem Kenntnistand – zeigen, dass CO2 die Gegenstrahlung von Wasser und Eis verändern könnte. Ändert sich nämlich die CO2 Konzentration, so kompensieren Wasser und Eis die resultierende Veränderung des jeweiligen CO2 Beitrages.
+„beim Stehlik ist es ja noch viel schlimmer. Zuerst behauptet er nach G&T, es wären ohne Atmosphäre 144K und dann kommt das beste! Der Druck von 1 bar macht daraus 288K.“
+G&T, 114K und 288K kommen bei mir nicht vor.
+Leider kann man gegen anonyme Forentrolle nicht zivilrechtlich vorgehen.
+EIKE sollte endlich einen wissenschaftlichen Blog mit sauberer persönlicher Registrierung einrichten.
+„“Wasser strahlt, grundsätzlich ja, aber jeder Aggregatzustand völlig anders, Eis sehr wenig, Ozean etwas, Gas extrem viel.“““
+Sie haben wohl noch nie den Meteorologen Spruch gehört:
+der weiße Schnee strahlt wie ein Schwarzer Strahler? Damit ist gemeint, dass Schnee im IR fast wie ein ideal schwarzer Körper IR emittieren kann. Selbstvertändlich ist die IR Strahlungsleistung von festen Stoffen weit höher, als die von Gasen, das ist Matura Physik. Oh je oh je, was sie da schreiben, tzzzzz
+Zitat: Was sagt Google dazu: „Keine Ergebnisse für +Eckert +1937 +CO2 gefunden“ – Dazu passend gibt es für die unter dem Link gezeigte Buchseite keine bibliographischen Angaben.Dazu passend gibt es für die unter dem Link gezeigte Buchseite keine bibliographischen Angaben.
+Eckert, E.R.G. – „Messung der Gesamtstrahlung von Wasserdampf und Kohlensäure in Mischung mit nicht-strahlenden Gasen bei Temperaturen bis 1300°C“, VDI Forschungshefte, Vol. 37, 1937
+Findet man in jedem „guten“ Buch der Wärme- und Stoffübertragung.
+Mfg
+Werner Holtz
+Zitat:
+Was sagt Google dazu: „Keine Ergebnisse für +Eckert +1937 +CO2 gefunden“
+http://tinyurl.com/jhgpuxg
+http://tinyurl.com/z59qxo9
+und was sagt uns der druck und t abhängige Emissionsgrad über die Strahlungsleistung? Was schwadronieren sie über Plank und Thoch 4, wenn sie nicht mal Äpfel von Krautsalat unterscheiden können? Wo hatten sie bitte nochmals ihr Studium beendet? Da will ich auch hin, die schmeißen mir eine ordentliche Professur sicher gratis hinterher…:-)
+„Schon mal etwas von Planck, vom Energieerhaltungssatz und vom beheizten Dietze-Haus gehört, dessen Innentemperatur sich erhöht wenn draussen die Temperatur z.B. von -10 auf -5 Grad steigt??“
+Wie gesagt, Sie haben es nicht drauf.
+Wo kommt (ceteris paribus) die Energie für den Anstieg der Außentemperatur her?
+„“Das ist nicht der Punkt. Sie müssen sich zunächst erst einmal klar machen, daß ein Gasvolumen mit CO2 darin thermische Strahlung entsprechend seiner Temperatur emittiert.“
+Habe ich was anderes behauptet???“
+Ja, offensichtlich, denn Sie schrieben:
+„Der Punkt ist doch, ob die Atmosphäre – und hier sehr wichtig: der erste Meter der Atmosphäre – die vom Boden abgehende StrahlungsLEISTUNG zur Hälfte wieder in Richtung Boden abstrahlen kann.“
+und
+„…Sie habenalso berechnet, daß CO2 19,6 W/qm aus der Bodenabstrahlung absorbiert und jeweils die Hälfte nach oben und zum Boden abstrahlt.“
+Der Punkt ist (ich wiederhole dies nun schon zum dritten Male), daß die Abstrahlungsleistung des CO2 von der eigenen Temperatur abhängt – von sonst nichts.
+Sie hingegen, stellen die Strahlungsleistung vom CO2 jedoch mit der Strahlungsleistung eines Bodens in Zusammenhang. Meine Berechnung oben betrifft einen Quader Luft mit CO2 drin. Zum vierten Male: die Strahlungslseitung vom Quader ist völlig umabhängig von Bedingungen der Umgebung, der Quader würde im leeren Weltall bei gegebenen inneren Bedingungen (Temperatur, Druck, Konzentration, Geometrie) genauso abstrahlen wie auf oder in der Nähe eines Bodens irgendwelcher Bedingungen.
+Auch für den Fall, daß Boden und Luft gleiche Temperatur haben, stimmt Ihre Aussage immer noch nicht, wie Sie an den Zahlen sehen.
+„Diese Frage habe ich vor ein paar Wochen schon mal gestellt, die Antwort war 70W/qm.
+Nun ja, die Richtung stimmt…“
+Betraf das nicht die Absorption der Bodenstrahlung durch die gesamte drüberliegende Luftsäule? Also offensichtlich eine völlig andere Fragestellung und daher ein anderer Zahlenwert.
+beim Stehlik ist es ja noch viel schlimmer. Zuerst behauptet er nach G&T, es wären ohne Atmosphäre 144K und dann kommt das beste! Der Druck von 1 bar macht daraus 288K. Wie man damals Akademiker werden konnte…
+„Was sagt Google dazu: „Keine Ergebnisse für +Eckert +1937 +CO2 gefunden““
+Dann schauen Sie mal hier:
+http://tinyurl.com/j7723j2
+Und hier:
+http://tinyurl.com/hqtu3zx
+Lehrbuchwissen seit Mitte der 1930er Jahre.
+MfG
+Krüger
+#140:Herr Klaus Konejung, Sie möchten also den Zusammenhang von Temperatur und Frequenz der Strahlung abstreiten?
+ha, ha
+mfG
+am Samstag, 29.10.2016, 09:09
+#167 besso Keks:
+Eine zusätzliche Einstrahlung (so es sie gäbe) erhöht gar nix solange sie von einem kälteren Körper stammt. Nochmal 2ter H!auptsatz, nochmal der Verweis auf „von selbst““
+Schon mal etwas von Planck, vom Energieerhaltungssatz und vom beheizten Dietze-Haus gehört, dessen Innentemperatur sich erhöht wenn draussen die Temperatur z.B. von -10 auf -5 Grad steigt??
+########################################“,
+Und warum steigt die Außentemperatur? Weil die „Strahlung“ aus dem „Dietze Haus“ die Luft erwärmt, diese Wärme dann in das „Dietze Haus“ zurückgestrahlt wird, worauf es sich weiter erwärmt! Im „Dietze Haus“ wird gleich der 1 HS und der 2 HS vergewaltigt, und das unter dem Applaus der Klimakirche. Willkommen in Öko-Deutschland….
+„betrifft das nicht auch die Energieflußbilanz“
+Nein, die hier beteiligten Flüsse werden einfach nur absolut gemessen und haben mit irgendwelchen Theorien nichts zu tun. 1903, als die ersten in Potsdam gemessen wurden, war den Meteorologen über Wärmestrahlung noch wenig bekannt. Schon alleine das zeigt, wie unbedeutend in mittleren Breiten der elektromagnetische Einfluss von H2O und CO2 insgesamt auf die Flüsse ist, welche die lokale Ein-Aus-Bilanz zustande bringen. Tendenz gegen Null.
+Über der Sahara sieht das anders aus, deshalb zeigen die Betrüger ja auch so gerne die Spektren um 14 Uhr mittags über der Sahara!
+Die Kurven haben mit Planck – Kurven und so weiter nichts, aber auch gar nichts gemein.
+Sie stehen im völligen Widerspruch zum T hoch 4 – Gesetz. Man beachte, wo das Emissionsmaximum von CO2 liegt!
+http://tinyurl.com/z59qxo9
+Gut, dass die Administratoren von EIKE wenigstens dazu schweigen.
+„Tja, was hat dann Eckert 1937 gemessen, wenn nicht die Strahlung/ Emission von CO2 bei Atmosphärendruck und Umgebungstemperatur.
+http://tinyurl.com/z4wr6oc“
+Was sagt Google dazu: „Keine Ergebnisse für +Eckert +1937 +CO2 gefunden“
+Dazu passend gibt es für die unter dem Link gezeigte Buchseite keine bibliographischen Angaben.
+Links neben den Spektren steht zwar Emissionsgrad. Nur, was da graphisch gezeigt wird, ist ein in der chemischen Analytik übliches Absorptionsspektrum gemessen in Durchlässigkeit zwischen Null und Eins!
+Wo man hinschaut, kommt wissenschaftlicher Betrug hervor!
+Eine zusätzliche Einstrahlung (so es sie gäbe) erhöht gar nix solange sie von einem kälteren Körper stammt. Nochmal 2ter H!auptsatz, nochmal der Verweis auf „von selbst““
+Schon mal etwas von Planck, vom Energieerhaltungssatz und vom beheizten Dietze-Haus gehört, dessen Innentemperatur sich erhöht wenn draussen die Temperatur z.B. von -10 auf -5 Grad steigt??
+„Was bei einem solchen Unfug herauskommt, haben Gerlich & Tscheuschner (2009) schon belegt. Die global gemittelte Oberflaechentemperatur einer Erde ohne Atmosphaere betraegt nach Gerlich & Tscheuschner etwa 144 K, wenn der Erdboden wie im Falle der effektiven Strahlungstemperatur (= 255 K) vernachlaessigt wird“
+Sensationell!!! Also macht die Atmosphäre (einschließlich Wolken) einen Treibhauseffekt von 144 K – wir haben ja am Boden im globalen Mittel 288 K.
+Und das behaupten Sie obwohl Sie (offensichtlich als Strahlungs-Halblaie) einen TE sowie die CO2-Sensitivitaet für nicht existent halten und alle damit befassten Fachleute zu Blödeln erklären!! Es ist nicht zu fassen!!
+„#155 sagt:
+„k läßt sich (heute) für Gase exakter berechnen als es für die Quantifizierung des Treibhauseffektes nötig wäre.“
+Reine Gerede, solange Sie nicht hier in diesem Blog die Literatur mit der ‚a initio‘ Rechnung für den Verlauf von k in Abhängigkeit von der Wellenlänge für flüssiges Wasser zeigen.“
+Sehr geehrter Herr Stehlik,
+betrifft das nicht auch die Energieflußbilanz, da Wasser bezüglich der Absorption der Solarstrahlung immer als „Schwarzer Strahler “ mit k=1 angesetzt wird?
+MfG
+„Das ist nicht der Punkt. Sie müssen sich zunächst erst einmal klar machen, daß ein Gasvolumen mit CO2 darin thermische Strahlung entsprechend seiner Temperatur emittiert.“
+Habe ich was anderes behauptet???
+„x(m) L(x)(W/m2)
+0 0.0
+0,1 3,3
+0,25 6,3
+1 9,8
+2 10,0“
+Vielen Dank!
+Sie habenalso berechnet, daß CO2 19,6 W/qm aus der Bodenabstrahlung absorbiert und jeweils die Hälfte nach oben und zum Boden abstrahlt.
+Diese Frage habe ich vor ein paar Wochen schon mal gestellt, die Antwort war 70W/qm.
+Nun ja, die Richtung stimmt…
+Jetzt, da die Rechnung vorliegt, muß überprüft werden, ob sie stimmt.
+Wer hat die Gegenstrahlung, die im relevanten Längenbereich am Boden auftrifft, gemessen?
+Was sagen die Messergebnisse?
+„Sie haben weder Stefan-Boltzmann noch das Strahlungsgleichgewicht begriffen. Eine zusätzliche Einstrahlung erhöht zunächst die Bodentemperatur, bis dann die Abstrahlung soweit ansteigt dass E(ab)=E(zu) wird.“
+Eine zusätzliche Einstrahlung (so es sie gäbe) erhöht gar nix solange sie von einem kälteren Körper stammt.
+Nochmal 2ter Hauptsatz, nochmal der Verweis auf „von selbst“
+„Von einem Treibhauseffekt ist in dieser Arbeit nicht die Rede, denn die Leute um Hanel wussten, wovon sie schrieben.“
+Prandtl wußte es offenbar auch.
+In seiner Untersuchung der Wärmeflüsse in der bodennahen Atmosphäre kommt der Begriff „IR-Strahlung“ erst gar nicht vor.
+MfG
+Und Sie haben nicht begriffen, dass das Stefan-Boltzmann-Gesetz nur lokal gueltig ist und das Anwenden auf globale Mitteltemperatur an grobem Unfug grenzt.
+Was bei einem solchen Unfug herauskommt, haben Gerlich & Tscheuschner (2009) schon belegt. Die global gemittelte Oberflaechentemperatur einer Erde ohne Atmosphaere betraegt nach Gerlich & Tscheuschner etwa 144 K, wenn der Erdboden wie im Falle der effektiven Strahlungstemperatur (= 255 K) vernachlaessigt wird. Diese Temperatur von 144 K ergibt sich aus einer Temperaturverteilung, die auf einer lokalen Strahlungsbilanz. Das Ergebnis von Gerlich & Tscheuschner gilt auch fuer eine rotierende Erde, was ich nachgewiesen habe. Mittelt man global ueber alle lokalen Strahlungsfluesse, so erhaelt man eine globale Strahlungsbilanz, deren Zahlen vollkommen mit denen der globalen Strahlungsbilanz uebereinstimmen, die bei der Berechnung der effektiven Strahlungstemperatur verwendet wird. Offensichtlich sind Sie der Auffassung, dass man physikalische Gesetzmaessigkeiten ignorieren kann, wenn es darum geht, politisch und wirtschaftlich geforderte Zahlen zu liefern.
+„Nehmen Herr Paul, Keks und Stehlik leider nicht zur Kenntnis. CO2 Strahlt in der unteren Atmosphäre bei 15 um mit Emissionsgrad 1, also wie ein Schwarzer Körper, wie die oben aufgeführten Messungen aus den 1930er Jahren zeigen. Es wird bei 15 um von CO2 Wärmestrahlung in alle Richtungen abgestrahlt, also auch zurück zur Erdoberfläche. D.h. die vom Erdboden abgestrahlte Wärme kann bei 15 um nicht ungehindert in den Weltraum entweichen, sondern wird zum Teil in der Atmosphäre durch CO2 zurück gehalten und zum Erdboden zurück gestrahlt. D.h. es wird weniger Wärme-Energie ausgestrahlt mit CO2 als ohne CO2. So einfach ist das.“
+So einfach ist das also oder auch nicht.
+Die IR-aktiven Gase emittieren auf Grund der Temperatur des oertlichen Luftvolumens, in dem sich diese Molekuele befinden. Dieses belegen schon die Arbeiten von Einstein (1917) und Milne (1928).
+Was Sie behaupten ist also nachweislich falsch. Und das ist schon seit Anfang der 1970er Jahre bekannt. Mit dem Hinweis auf ihre Abb. 12 schrieben Hanel et al. (1972):
+„The spectra of the polar regions are quite different from the spectra of the tropical desert areas. The brightness temperature of the Greenland ice cap (Figure 12a) follows the 240°K blackbody temperature curve except for the 667 cm^(-1) CO2 band. The lower brightness temperature in that range is an indication of lower atmospheric temperatures, except for the Q branch at 667 cm^(-1), which signals a reversal of the temperature profile toward a warmer stratosphere. The strong water vapor lines between 400 and 550 cm^(-1) appear in absorption. The ozone band near 1040 cm^(-1) registers very weakly, not because of a lack of ozone but because the weighted mean temperature of the layer is almost the same as the temperature of the surface. An Antarctic spectrum (Figure 12b) indicates a surface temperature of about 223°K and only small amounts of water vapor. In another Antarctic spectrum (Figure 12c), some atmospheric layers seem to be warmer than the surface, which is very cold (about 205°K). Water vapor lines appear in emission, but ozone is not detectable, owing to a lack of temperature contrast between the ozone layer and the ground. In the coldest spectrum recorded on this orbit (Figure 12d), the whole atmosphere is warmer than the surface; carbon dioxide, water vapor, and ozone can be recognized as emission features.“
+Von einem Treibhauseffekt ist in dieser Arbeit nicht die Rede, denn die Leute um Hanel wussten, wovon sie schrieben.
+In diesem Jahr erschien dann die Arbeit von Schmithuesen et al., „How increasing CO2 leads to an increased negative greenhouse effect in Antarctica“. Obwohl die Arbeit von Hanel et al. weiterging als die von Schmithuesen et al., wurde weder diese Arbeit noch eine andere Arbeit der Leute um Hanel zitiert. Ich habe mich natiuerlich gefragt, ob man einen negativen Treibhauseffekt als atmosphaerischen Kuehltruheneffekt bezeichnen kann. Mit Lemke ist ein Mitglied des WBGU Mitautor.
+Ich glaube grundsätzlich nichts. Wer was glauben will, der gehe in die Kirche. Da muß man glauben.
+Wie nennt man die „blaue“ Himmelsstrahlung?
+hoffentlich haben Sie Ihr Haus/Wohnung inzwischen auf CO2-Heizung umgestellt.
+MfG
+nach mehrmonatiger Abstinenz möchte ich einen Beitrag zur Versachlichung in dieser aufgeheizten Stimmung leisten.
+In dem Literaturhinweis sind die notwendigen Begriffen allgemeinverständlich dargestellt.
+http://tinyurl.com/ox5dxwr
+Auf der Seite 11 ist das Absorptionsvermögen von Kohlendioxid und Wasser dargestellt.
+Und dann kommt der Hinweis auf die jeweilige Konzentration bei der Messung.
+Wenn Sie als Leser jetzt bereit sind, die tägliche Wirklichkeit zur Bewertung dieses physikalischen Phänomens heranzuziehen, wird es Ihnen wie Schuppen von den Augen fallen, was da gespielt wird.
+Es gibt ja noch unter den Dozenten an deutschen Hochschulen welche, die Ihren pädagogischen Auftrag ernst nehmen.
+Einer von Ihnen hat kürzlich mal in einer ausgewählten Öffentlichkeit sein Herz ausgeschüttet.
+http://tinyurl.com/zfr5dzr
+Schliessen möchte ich mit diesem schönen Beispiel von Schellnhuber und Gabriel aus dem Bereich der Prozentrechnung.
+90 % der Bevölkerung ist so mit dem Tagesgeschäft abgelenkt,dass keine Zeit für theoretische Überlegungen bleibt.
+9 % beschäftigt sich sein Leben lang mit Theorien.
+Und das letzte Prozent geht im Rauschen unter.
+Wahrscheinlich stürzt das besagte Flugzeug wirklich nicht ab, darauf können Sie sich verlassen.
+Mit herzlichem Glückauf
+Ich mit dem Absorptionsverlauf k (Frequenz) der 15um-CO2 Bande gerechnet. In meiner obigen Abschätzung hatte ich ein etwa zu schmales Band angenommen. Bei 288 K/1025hPa bekommt man für einen Quader Luft der Dicke x Meter mit 400ppm bzw 800 ppm CO2 folgende Strahlungsleistungsdichten L in W/m2 durch thermische Emission der CO2s in je beide Richtungen des x-dicken Quaders. Mit zunehmender Dicke liefert die schwache Absorption in den Flügeln auch einen nicht vernachlässigbaren Beitrag, daher steigt die Strahlungsleistungsdichte mit zunehmender Dicke weiter, da die Bande effektiv immer breiter wird.
+x (m) L400 L800
+0.05 2.7 4.8
+0.25 9.4 13.9
+0.5 13.9 18.8
+1 18.8 23.9
+2 23.9 28.9
+10 35.5 40.5
+20 40.5 45.5
+50 47.1 52.0
+200 57.0 61.9
+1000 68.4 73.3
+„k läßt sich (heute) für Gase exakter berechnen als es für die Quantifizierung des Treibhauseffektes nötig wäre.“
+Reine Gerede, solange Sie nicht hier in diesem Blog die Literatur mit der ‚a initio‘ Rechnung für den Verlauf von k in Abhängigkeit von der Wellenlänge für flüssiges Wasser zeigen.
+Ein Übersetzer unserer Vier-Autoren-Veröffentlichung „Warum CO2 die Erdoberfläche kühlt“ auf meiner Homepage ist übrigen Direktor eines renommierten Instituts für Theoretische Chemie.
+Dr. Gerhard Stehlik (Google findet mich!)
+„Wir waren allerdings bereits einen Schritt weiter, dass nämlich 15µm-Strahlung (CO2) „von oben“ überhaupt nicht auf der Erdoberfläche ankommt.“
+Herr Paul, darf ich nochmal erinnern.
+Tja, was hat dann Eckert 1937 gemessen, wenn nicht die Strahlung/ Emission von CO2 bei Atmosphärendruck und Umgebungstemperatur.
+http://tinyurl.com/z4wr6oc
+Unmittelbare Messungen der Gesamtstrahlung von Wasserdampf und Kohlensäure (CO2) stammen von
+E. SCHMIDT, HOTTEL und MANGELSDORF, E. SCHMIDT und ECKERT, ECKERT sowie von HOTTEL und EGBERT.
+SCHMIDT, E.: Messung der Gesamtstrahlung des Wasserdampfes bei Temperaturen bis 1000° C. Forsch. Ing.-Wes. 3 (1932) 57/70.
+HOTTEL, H. C., u. H. G. MANGELSDORF: Heat transmission by radiation from nonluminous gases. Experimented study of carbon dioxyde and water vapor. Trans. Amer. Inst. Chem. Engrs. 31 (1935) 517/549.
+SCHMIDT, E., u. E. ECKERT: Die Wärmestrahlung von Wasserdampf in Mischung mit nichtstrahlenden Gasen. Forsch. Ing.-Wes. 8 (1937) 87/90.
+ECKERT, E.: Messung der Gesamtstrahlung von Wasserdampf und Kohlensäure in Mischung mit nichtstrahlenden Gasen bei Temperaturen bis zu 1300° C. VDI-Forsch.-Heft Nr. 387. Berlin 1937.
+HOTTEL, H. C., u. R. B. EGBERT: Radiant heat transmission from water vapor. Trans. Amer. Inst. Chem. Engrs. 38 (1942) 531/568.
+Alles seit Mitte der 1930er Jahre bekannt und gemessen. Der Emissiongrad von CO2 bei unterschiedlichen Temperaturen, Drücken und Atmosphären-Schichtdicken.
+Nehmen Herr Paul, Keks und Stehlik leider nicht zur Kenntnis. CO2 Strahlt in der unteren Atmosphäre bei 15 um mit Emissionsgrad 1, also wie ein Schwarzer Körper, wie die oben aufgeführten Messungen aus den 1930er Jahren zeigen. Es wird bei 15 um von CO2 Wärmestrahlung in alle Richtungen abgestrahlt, also auch zurück zur Erdoberfläche. D.h. die vom Erdboden abgestrahlte Wärme kann bei 15 um nicht ungehindert in den Weltraum entweichen, sondern wird zum Teil in der Atmosphäre durch CO2 zurück gehalten und zum Erdboden zurück gestrahlt. D.h. es wird weniger Wärme-Energie ausgestrahlt mit CO2 als ohne CO2. So einfach ist das.
+MfG
+Michael Krüger
+Sie glauben, daran sind CO2 Moleküle Schuld???
+„Ist ja das reinste Tollhaus hier.
+Erst E(zu) – E(ab) = 0 voraussetzen und dann behaupten, der Boden würde wärmer werden“
+Sie haben weder Stefan-Boltzmann noch das Strahlungsgleichgewicht begriffen. Eine zusätzliche Einstrahlung erhöht zunächst die Bodentemperatur, bis dann die Abstrahlung soweit ansteigt dass E(ab)=E(zu) wird.
+„Da wird klar, es gibt kein k=Zahlenwert, sondern k ist eine komplexe Funktion der chemischen Stoffeigenschaften.“
+Wie oben schon geschrieben, ergibt sich die gesamte Strahlungsleistung durch Integration von L = (1-exp(-k*d*x))*B über den gesamten Frequenzbereich. Da, wo k = 0 ist, kann ergibt sich der Beitrag Null (Fall c), sonst entsprechend der Gleichung. Sowohl k wie auch B sind bekanntlich frequenzabhängig. In meiner obigen Abschätzung, die die Größenordnung des Effekts quantifiziert, habe ich ein für die 15um-Absorptionsbande des CO2 effektives k angesetzt.
+k läßt sich (heute) für Gase exakter berechnen als es für die Quantifizierung des Treibhauseffektes nötig wäre, siehe Lehrbücher der Molekülphysik oder Physik der Strahlung in der Atmosphäre.
+#139
+„Also ist jedes Gasteilchen mit einer Geschwindigkeit ein Gas.“
+Hallo, immer noch nicht verstanden? Einem einzelnen Molekül kann man offensichtlich keine Temperatur zuordnen. Dazu muß man die Geschwindigkeitsverteilung eines statistischen Ensembles von Molekülen messen. Die Moleküle eines thermalisierten Gases zeigen eine Maxwellverteilung, deren Form durch die Temperatur determiniert wird.
+„Wer von einem „thermalisierten“ Gas und ergo von einem „nicht thermalisierten Gas“ spricht, ist ein Betrüger!“
+Nana. Ein nicht-thermalisiertes Gas bekommen Sie z.B. indem Sie ein Ensemble von Molekülen schneller anregen als sie thermalisieren können. Z.B. mit einem Femtosekunden-Pulslaser. Nach jedem Puls ist das Ensemble nicht-thermalisert und benötigt typischerweise einige Pikosekunden, um die von einigen Molekülen absorbierte Laserlichtenergie auf das Ensemble zu verteilen. Erst danach – nachdem das Ensemble eine thermisch Verteilung erreicht hat (inkl. Eine Maxwellsche Geschwindigkeitsverteilung) – kann man dem Gas eine Temperatur zuordnen und das Ensemble ist von einem nicht-thermalisierten Zustand zu einem thermalisierten übergegangen.
+PS: Forschung auf diesem Gebiet wird auch von Physikochemikern betrieben. Besonders reizvoll ist die Erzeugung von chemischen Verbindungen, die über angeregte Zustände erst Bindungszustände erreichen.
+„Die Emission von Photonen ist unmöglich …“
+Wie funktioniert denn dann die Geschichte mit dem blauen Himmel?
+„kühlt dieselbe und wärmt gleichzeitig“
+Wissenschaftsbetrug! Möglich, weil angeblich keine „kontrollierten Experimente“ gemacht werden können!
+„kein kontrolliertes Experiment“ sei in der Atmosphäre möglich!
+Mit solch einem Quatsch, wollen Meteorologen mit ihren sinnlosen Theorien die Hoheit über die Gesellschaft behalten. Jedes Flugzeug, jeder Heißluftballon ist ein kontrolliertes Experiment in der Atmosphäre.
+Völlig zurecht fordert der „Deutsche Hochschulverband“ durch den Geschäftsführer Michael Hartmer den Straftatbestand „Wissenschaftsbetrug“ (3SAT „NANO“ vom 19. Juli 2013 (Video hier: http://tinyurl.com/zmnvqbo, gegen Ende des Films)
+„Natürlich strahlt jeder Schwarzkörper bei jeder Temperatur über den gesamten Frequenzbereich, nur mit unterschiedlichen Intensitäten.“
+Herr Dr. Stehlik hat diesen Link eingestellt:
+http://tinyurl.com/qgje59c
+Wie paßt das Gezeigte zu Ihrer Aussage?
+Und wie paßt es zu den Messungen eines
+Dr. Pierre-Marie Robitaille ?
+„Dass die am Boden absorbierte Strahlungsleistung wieder emittiert wird, bedeutet nicht dass der Boden nicht seine Temperatur erhoeht, was nur bei Reflektion der Fall wäre.“
+Ist ja das reinste Tollhaus hier.
+Erst E(zu) – E(ab) = 0 voraussetzen und dann behaupten, der Boden würde wärmer werden.
+Energie aus dem Nichts!
+Ist die „erneuerbar“?
+Sie schreiben:
+„Die Erklärungsmodelle von ihnen und Herrn Tietze springen zu kurz. Die Physik der Atmosphäre ist komplizierter.“
+Richtig ist: „Der Zustand der Atmosphäre ist sogar viel zu „kompliziert“, um ihn mathematisch, quantitativ beschreiben zu können!“
+Sie schreiben:
+„Wenn oben behauptet wird, CO2 würde in der Troposphäre nicht emittieren, dann ist das Quatsch.“
+Wer das behauptet, ist mehr als nur strohdumm!“ – Eine Wirkung kann jedoch nicht entstehen, weil seine Interaktion nicht die Energieflüsse in der Atmosphäre verändert, sondern lediglich das Spektrum im „Kreislauf der Wätmestrahlung“. Siehe dazu: http://tinyurl.com/h5hxfu7
+Eine Antwort ist nicht möglich, da der „vermeintliche Fachmann“ einmal mehr nichts zur Sache vorträgt.
+Ich bin kein Fachmann,aber für mich als Laie in der Physik der Atmosphäre läßt sich folgendes einfach erkennen.
+Herr Kramm und Herr Baecker haben ihnen die Physik richtig erklärt. Herr Stehlik schreibt zum Beispiel:
+„Ein „thermalisiertes Gas“ ist kein chemisches Gas wie CO2 oder N2, sondern ein theoretisches Gas aus „Schwarzen Löcheren“.“
+Das hat mit Physik nichts zu tun. Ein physikalischer Chemiker sollte besser wissen, was Thematisierung bedeutet.
+Die Erklärungsmodelle von ihnen und Herrn Tietze springen zu kurz. Die Physik der Atmosphäre ist komplizierter.
+Wenn oben behauptet wird, CO2 würde in der Troposphäre nicht emittieren, dann ist das Quatsch. Herr Kramm hat dazu mit seiner Bemerkung zu „detailed balance“ alles gesagt was notwendig ist.
+„Nicht Physiker, Chemiker, Meteorologen, Theorien oder Modelle bestimmen was Physik, Chemie etc. ist, sondern reproduzierbare, präzise und richtige Experimente.“
+Offensichtlich sind Sie der Auffassung, dass nur Chemiker in der Lage sind, Experimente in der Atmosphaere durchzufuehren. Ihre Auffasssung ist vollkommen unsinnig, denn niemand ist in der Lage, ein kontrolliertes Experiment in der Atmosphaere oder im Ozean durchzufuehren. Es ist nur die messtechnische Beobachtung moeglich, aber kein kontrolliertes Experiment.
+Nochmals: Ihre Behauptung zum Stefan-Boltzmann-Gesetz sind falsch. Die sog. Klimasensitivitaet hat damit ueberhaupt nichts zu tun. Lesen Sie die Arbeiten von Dickinson (1985), „Climate Sensitivity“ (ADVANCES IN GEOPHYSICS, VOLUME 28A) sowie Berger & Tricot (1986), „Die Modellierung des Spurenstoffeinflusses auf das Klima“ (promet 1/86). Was Sie verbreiten, hat mit diesen Arbeiten nichts zu tun. Da ich Ihnen diese Arbeiten schon vor Jahren zugesandt habe, frage ich mich, warum Sie weiterhin Ihre absurden Behauptung aufrechterhalten.
+Was Sie beschreiben, ist im heutigen Sprachgebrauch richtig, falls man noch der Vollstaendigkeit halber die Bedingung des thermischen Gleichgewicht erwaehnt.
+Mit dem Wienschen Verschiebungsgesetz meinen Sie natuerlich dei Beziehung
+T l_max = const.
+wobei T die Temperatur und l_max die Wellenlaenge des Maximums der Planckschen Strahlungsfunktion sind. Nur ist das im eigentlichen Sinne nicht das Wiensche Verschiebungsgesetz, denn dieses lautet (siehe z.B. Wien, 1896, Ehrenfest, 1911, Planck, 1913, Einstein, 1917):
+r = n^3 f(n/T)
+wobei r die Energiedichte der Strahlung und n die Frequenz sind. Landau & Lifschitz bezeichnen daher T l_max = const. als Wienscher Verschiebungssatz.
+Falls man die Plancksche Funktion durch T^5 dividiert und das Ergebnis gegen l T auftraegt, so kann man den Wert fuer die Konstante im Wienschen Verschiebungssatz direkt ablesen.
+Ihre Auflistung von ‚Fachleute‘ Trifft nur auf Prof. G. Kramm zu
+Im Gegensatz zu Ihnen arbeite ich seit fast vie Jahrzehnte auf dem Gebiet der Meteorologie. Was Sie staendig verbreiten, hat mit dem Lehrbuchwissen meines Fachgebiets, was ich als Professor in Forschung und Lehre vertreten habe, nichts zu tun. Was Sie verbreiten, ist eine Mischung von Gutem und Neuem. Nur ist das wenige Gute nicht neu, und das viele Neue nicht gut. Bevor Sie sich weiter aeussern, sollten Sie den Versuch unternehmen, ein Lehrbuch zur Physik der Atmosphaere zu lesen.
+„Fachleute“, wie die Herren Dietze, NicoBaecker, Kramm und Stehlik wissen bereits Alles! Daher richten sich die folgenden Anmerkungen hauptsächlich an interessierte „Klima-Prognose-Laien“ – wie ich einer bin. (Selbst eine Wetterprognose kann ich nicht!)
+Alle Materie in der Atmosphäre, die Wärmestrahlung emittiert, kühlt dieselbe und wärmt gleichzeitig sowohl Festland, Ozeane als auch den Weltraum. Zusammen mit dem Energiefluss von der Sonne reicht das aus, um die Oberfläche der Erde recht angenehm bewohnbar zu machen.
+Als Folge können die Ozeane an 71% der Erdoberfläche bei Wassertemperaturen zwischen -2 und +30 Grad C kontinuierlich Wärmestrahlung mit einer Intensität von 300 bis 480 W/m^2 emittieren, besorgen die gesamte Versorgung des Festlandes mit Niederschlägen, treiben Konvektion und leiten Wärme bis in die Tropopause (mit einer Temperatur unter -50 Grad C).
+Der Energiefluss der Sonne ist bekannt, doch welche Materie in der Atmosphäre ist das „missing link“, dass die Rückstrahlung erledigt?
+Fakt ist, dass 1. Wolken aus Eis- und Wasserpartikeln ständig 60 bis 70% der Erdoberfläche bedecken, dass 2. die Projektion dieser Partikel auf eine Kugelschale eine geschlossene Schicht ergibt und dass 3. die Partikel alle Energieflüsse von unten und oben aufnehmen und in Wärmestrahlung gewandelt in Richtung Erdoberfläche und Weltraum emittieren. (Die unter wolkenfreiem Himmel gemessenen Werte der Gegenstrahlung, der Temperaturen ebenfalls unter -50 Grad C absinken und der Luftfeuchte machen es sehr wahrscheinlich, dass sehr kleine Eispartikel auch dort ein atmosphärisches Fenster für Wärmestrahlung schließen.)
+Damit sollt jeder Leser selbst entscheiden können, ob die mehr als zweiatomigen Gase unter und in den Wolken die Intensität der für das Leben auf der Erde unverzichtbaren Rückstrahlung von Sonnenenergie verändern können! – Ich behaupte: Wenn sie verschwinden ändert sich am Wetter und Klima nichts, lediglich das Spektrum der Wärmestrahlung sieht anders aus!
+war das jetzt Kindergartenphysik? Das Wiensche Verschiebungsgesetz beschreibt das Maximum der Planckschen Strahlungsverteilung. Natürlich strahlt jeder Schwarzkörper bei jeder Temperatur über den gesamten Frequenzbereich, nur mit unterschiedlichen Intensitäten. Für die Berechnung der temperaturabhängigen Intensität gilt das Plancksche Strahlungsgesetz. Das funktioniert übrigens auch für Bandenstrahler, wenn Sie nur die Intensität über die Breite der Bande integrieren.
+Mein Lateinlehrer hätte gesagt „geh spielen“.
+„Wie gesagt jedes Gas mit definierter Temperatur ist thermalisiert.“
+Also ist jedes Gasteilchen mit einer Geschwindigkeit ein Gas. Wer von einem „thermalisierten“ Gas und ergo von einem „nicht thermalisierten Gas“ spricht, ist ein Betrüger!
+In der Physikalischen Chemie kann wird unterschieden zwischen Gas-Atomen oder Gas-Molekülen im „elektronischen Grundzustand“ und in „angeregten Zustanden“.
+Für IR-Strahlung ist der Übergang zwischen Rotationsschwingungs-Quantenzuständen relevant. Diese sind charakteristisch für das Gesamtmolekül, manchmal sind sie auf chemische Bindungsgruppen wie -O-H (Hydroxyl), =O (Aldehyd, Keton) lokalisierbar.
+„Eintreffende Frequenzen unterhalb der „Kappschwelle“ eines schwarzen Strahlers werden durch Resonanz absorbiert und reemittiert und können folglich NICHT zu einer Erwärmung führen“
+Da haben Sie sich leider total verbrannt. Dass die am Boden absorbierte Strahlungsleistung wieder emittiert wird, bedeutet nicht dass der Boden nicht seine Temperatur erhoeht, was nur bei Reflektion der Fall wäre.
+Bei Absorption und Emission kommt nämlich Stefan-Boltzmann ins Spiel und damit
+deltaT = deltas/S/4*T
+Das ergibt 0,184 K/(W/m2) an Temperaturerhöhung. Letztlich resultiert daraus auch der ECS-Wert von 0,6 Grad pro CO2-Verdoppelung, wie ich gezeigt habe.
+„Was man schon gemäß dem Kirchhoffschen Gesetz weis.“
+Theorie, nichts als Theorie, „Schwarze Löcher“ etc. Schauen Sie mal hier, wie die Wirklichkeit aussieht:
+https://www.youtube.com/watch?v=3Hstum3U2zw
+Da wird klar, es gibt kein k=Zahlenwert, sondern k ist eine komplexe Funktion der chemischen Stoffeigenschaften. Das k von Wasser ändert sich über mehrere Zehnerpotenzen in nicht berechenbarer, aber sehr wohl einfach messbarer Art und Weise.
+Hier ist eine Grafik linear und logarithmisch mit Literatur-Daten für Wasser, die jeder Chemielaborant bestens kennt:
+http://tinyurl.com/qgje59c
+Und der (logarithmisch dargestelle) k-Wert für blaugünes Licht macht den Ozean zum Treibhaus der Erde!
+dann darf ich auch diese „Klarstellung“ #119 für Herrn Wolff zum 2.HS wiederholen, denn der betrifft nicht nur Wärmeenergie.
+Frage:
+Warum ist auch der radiative Wärmeaustausch zwischen zwei Körpern immer vom wärmeren zum kälteren ausgerichtet?
+• Warum kann hochfrequente Strahlung in Wärmeenergie umgewandelt werden?
+• Warum kann Wärmeenergie nur dann zu einer Strahlung bestimmter Frequenz umgewandelt werden, wenn die Temperatur hoch genug ist?
+Das hängt mit Wien und Planck zusammen und damit, dass sowohl Wärme wie Strahlung eine Frequenz besitzt, bei der also „Resonanz“ eine Rolle spielt, ähnlich einem Ton auf einer Saite.
+-> Eintreffende Frequenzen unterhalb der sog. Kappschwelle (maximum Wien) werden durch Resonanz absorbiert und reemittiert und erhöhen deshalb die Temperatur NICHT.
+-> Nur eintreffende Frequenzen oberhalb der Kappschwelle werden dissipativ absorbiert und als interne Wärmeenergie gespeichert.
+.. auch nach Kirchhoff so lange bis der absorbierende Körper die gleiche Temperatur hat wie die Quelle.
+Anders formuliert verliert ein wärmerer Körper auch durch Strahlung MEHR Energie, als er durch einen kälteren durch Strahlung erhalten kann.
+Das kann zu einer LANGSAMEREN ABKÜHLUNG führen, aber niemals zu einer Erwärmung.
+Wir waren allerdings bereits einen Schritt weiter, dass nämlich 15µm-Strahlung (CO2) „von oben“ überhaupt nicht auf der Erdoberfläche ankommt.
+mfG
+„Wollen Sie als Chemiker den Physikern sagen, was Physik ist?“
+Das ist einfach nur substanzloses Geschwätz.
+Leider trifft das auf viele Kommentare zu.
+Nicht Physiker, Chemiker, Meteorologen, Theorien oder Modelle bestimmen was Physik, Chemie etc. ist, sondern reproduzierbare, präzise und richtige Experimente.
+#127 ist leider KEINE Klarstellung.
+Frage: Warum kann Wärmeenergie nur dann zu einer Strahlung bestimmter Frequenz umgewandelt
+werden, wenn die Temperatur hoch genug ist(Wien)?
+Eintreffende Frequenzen unterhalb der „Kappschwelle“ eines schwarzen Strahlers werden durch Resonanz absorbiert und reemittiert und können folglich NICHT zu einer Erwärmung führen.
+Ein Schwarzkörper, der sein Strahlungsmaximum bei 15µm hat, hat übrigens eine Temperatur von ca. minus 80°C.
+Temperatur ist eine intensive Größe und CO2 ist kein Schwarzkörper.
+Eigentlich egal, da 15µm eh nicht unten ankommen 🙂
+mfG
+„Der Punkt ist doch, ob die Atmosphäre – und hier sehr wichtig: der erste Meter der Atmosphäre – die vom Boden abgehende StrahlungsLEISTUNG zur Hälfte wieder in Richtung Boden abstrahlen kann.“
+Das ist nicht der Punkt. Sie müssen sich zunächst erst einmal klar machen, daß ein Gasvolumen mit CO2 darin thermische Strahlung entsprechend seiner Temperatur emittiert.
+„Aufgabe an Sie:
+Berechnen Sie die Strahlungsleistung der 1m starken Atmosphärenschicht an der Grenze zum Boden bei 0,04 %CO2 und 288°K.“
+Ich habe sowas schon öfter hier vorgerechnet. Die thermische Strahlungsleistung L aus einem ausdehnten Quader Gas der Dicke x in einem Spektralbereich berechnet sich gemäß: L = (1-exp(-k*d*x))*B, wenn d seine Dichte und k der (spektrale) Massenabsorptionskoeffizient des Gases und B die (spektrale) Leistung von Schwarzkörperstrahlung in diesem Spektralbereich und der Temperatur des Gases ist.
+Das Gesetz gilt ziemlich allgemein. Man kann zunächst verschiedene Fälle durchspielen:
+a) Keine Absorption im Spektralbereich, d.h. k = 0. Daraus folgt L =0. Das Gas emittiert in diesem Spektralbereich nicht.
+b) Schwache Absorption im Spektralbereich, d.h. k*d*x ist von der Größenordnung kleiner als 1. Dann läßt sich exp(-k*d*x) linear entwickeln, d.h. L ca.= k*d*x*B, L ist ein Bruchteil von B und wächst linear mit der Schichtdicke x.
+c) Starke Absorption im Spektralbereich, d.h. k*d*x ist viel größer als 1. Dann ist exp(-k*d*x) nahe Null, d.h. L quasi = B.
+Was man schon gemäß dem Kirchhoffschen Gesetz weis: Das Gas emittiert in den Absorptionsbanden. Mit wachsender Dicke x wächst die thermische Strahlungsleistung L zunächst linear und sättigt dann, wobei dann maximal die Schwarzkörperstrahlungsleistung erreicht wird, die Dicke also so groß ist, daß das Gas optisch dick wird wie ein schwarzer Strahler.
+Der lineare Absorptionskoeffizient k*d von 0,04% CO2 beträgt bei Normaldruck ca. 0,25 m in der Absorptionsbande um 15µm (genau genommen ist dieser dort stark durch die Rotationsbanden moduliert).
+Nehmen wir mal an, daß in diesem Absorptionsband um 15µm bei 288 K die Schwarzkörperstrahlung B = 10 W/m2 beträgt (läßt sich durch Integration des Planckschen Gesetzes über das Spektralband ermitteln). Dann strahlt der Quader Luft mit 0,04% CO2 (und ohne andere Treibhausgase) in Abhängigkeit von seiner Dicke x zu beiden Seiten folgendes L(x) ab:
+x(m) L(x)(W/m2)
+0 0.0
+0,1 3,3
+0,25 6,3
+1 9,8
+2 10,0
+Lieber Herr Ordowski, #121
+Bei Ihrer Argumentation gehen Sie von unzutreffenden Vorstellungen über die Physik der Atmosphäre aus. Was bringt es Ihnen, seit 25 Jahren zu versuchen, etwas zu widerlegen, was nicht behauptet wird?
+„Die Emission von Photonen ist unmöglich, ansonsten könnten man jeden CO2 Laser in den Garten stellen u. der müßte strahlen.“
+Wenn ich einen CO2-Laser hätte, könnte ich den auch im Garten strahlen lassen…man braucht nur eine Steckdose und sollte geeignete Schutzmaßnahmen gegen die Strahlung vorsehen.
+Lieber Herr Stehlik, #120
+„Ein „thermalisiertes Gas“ ist kein chemisches Gas wie CO2 oder N2, sondern ein theoretisches Gas aus „Schwarzen Löcheren“.“
+Wie gesagt jedes Gas mit definierter Temperatur ist thermalisiert. Denn ohne dem wäre die Zustandsgröße Temperatur gar nicht definiert. Man kann dies auch messen, indem man z.B. die Geschwindigkeitsverteilung der Gasmoleküle misst. Die Geschwindigkeitsverteilung eines thermalisierten Gases ist die Maxwellverteilung.
+#101 sagt:#101:
+„–„Wärme“ wird in der klassischen Physik definiert als kinetische Energie von Atomen oder Molekülen (gasförmig, flüssig oder fest). Ihre Messgröße ist die Temperatur,….. Gemessen wird die Temperatur bekanntlich mit dem Gasthermometer auf der Grundlage der Gasgesetze.
+Wird in solcher Materie durch Absorption und Wandlung anderer Energieformen, z.B. Strahlung, die mittlere kinetische Energie „der Teilchen“ erhöht, so steigt die gemessene Temperatur entsprechend an. Es wirkt jeweils die gesamte gewandelte Strahlung, unabhängig von den jeweiligen unterschiedlichen Temperaturen der Emitter…. ….Der 2.HS der Thermodynamik hilft hier nicht!………(Wenn Zustandsänderungen erfasst werden sollen, empfiehlt sich die Verwendung des „Enthalpie“ Begriffes in Verbindung mit den jeweiligen „Zustandsgleichungen“.)“
+Ihr Kommentar –Teil 1 – hat keinen Bezug zur Aussage: Der 2.HS der Thermodynamik ist nicht betroffen!
+Ihr Kommentar – Teil 2 – hat ebenfalls keinen Bezug zur Aussage: „Die Enthalpie quantifiziert die Energiemenge, die erforderlich ist, um die betroffene Materie vom Zustand am absoluten Nullpunkt der Temperatur in den jeweils beobachteten Zustand zu versetzen.“
+Fazit: Ihr Kommentar will offenbar nur beleidigen und vom Thema in #101 ablenken.
+Worum geht es?
+a) Wie stark erwärmt eine Verdoppelung des CO2 Gehaltes in der Atmosphäre die Erde?
+Theoretische Berechnungen zeigen einen Wert von ca 1.1 Grad C. Dies wird auch so von den IPCC Leuten so gesehen u. nicht bestritten. Allerdings konnte kein Experiment bis heute den Beweis führen.
+Somit, keine Grundlagen für Horrorszenarien!
+b)Klima Sensitivität
+Hier wird dem H2O die Hauptrolle angedichtet.
+CO2 ist sozusagen der Initiator, die gewaltige Arbeit verrichtet aber das H2O!
+Es kommt angeblich ein sich selbst verstärkender Prozeß in Gang. Mehr H2O in der Atmosphäre, mehr Rückstrahlung, die Erde wird wärmer, noch mehr H2O, usw.
+Dem widerspricht schon die eigenen Altagserfahrung, ganz ohne Physik.
+Mehr H2O in der Atmosphäre, bedeutet mehr Dunst, Nebel u. Wolken. Diese wiederum verringern die Sonneneinstrahlung.
+Es wird kälter.
+Letztendlich sieht man auch hier wieder, mit theoretischen Berechnungen kann man fast alles beweisen. Nur, die Wirklichkeit kümmert sich nicht um diese „Beweise“.
+Leider kümmern sich auch sehr viele „Experten“ NICHT um die Wirklichkeit.
+Warum lesen Sie nicht ein gutes Lehrbuch zur Elektrodynamik? In solchen Lehrbuechern werden auch die Maxwellschen Gleichungen fuer Materie behandelt. Wollen Sie das Rad um zwei Jahrhunderte zurueckdrehen? Wollen Sie als Chemiker den Physikern sagen, was Physik ist? Es wird langsam Zeit, dass Sie ueberlegen, was Sie schreiben.
+Muessen Sie einmal mehr Ihre Inkompetenz dokumentieren. Mein Kommentar zu Ihren Behauptungen bestand aus zwei Teilen. Zum einen ging es um den 2. Hauptsatz der Thermodynamik. Wenn es um den 2. Hauptsatz der Thermodynamik geht, dann ist die Entropie gefragt, nicht die Enthalpie.
+Der zweite Teil betraf die Enthalpie. Diese spiel nur eine Rolle bei der Herleitung der prognostischen Gleichung fuer die Temperatur. Das koennen Sie in jedem guten Lehrbuch finden. Aber Sie lesen ja nicht und berufen sich auf Ihr Diplom in Physik von 1962 oder so.
+Es ist aber ganz einfach, Strahlungsgesetze korrekt angewandt verletzen keine Hauptsätze, schon gar nicht den zweiten.
+Relevant ist also nur, was von der Quelle (Sonne) geliefert wird und was in der Senke (Weltall) verschwindet und welche Flüsse durch die Materie hindurch beteiligt sind.
+Der Fluss von der Sonne endet vorwiegend tief im Ozean in Form des intensivsten blau-grünen Lichts.
+Wer das weg lässt, hat bereits angefangen, die Menschheit zu betrügen!
+„Aber, weil dieser mathematisch richtige Formalismus auf keinen (chemischen) Stoff angewiesen ist, beschreibt er auch die physikalischen Verhältnisse von keinem chemischen Stoff…“
+1 BESSO mit * und ein Kasten feinstes Unertl-Weizenbier, abholbar in M.
+Klasse!
+„Der Punkt ist natürlich, daß die Treibhausgase-Säule mehr vom Boden nach oben gerichtete IR Strahlung absorbiert (ca. 350 W/m2) als ins Weltall emittiert (ca. 200 W/m2).“
+Vor allem 350W/qm…
+Grill, Hähnchen, grill !!!
+offenbar ist Ihnen beim Lesen eine kleine Unaufmerksamkeit unterlaufen: Es geht nicht um Entropie, sondern um Änderung der Enthalpie, bzw. nur um die Änderung der Temperatur. Auch der Satz von der Erhaltung der Energie ist „voll dabei“!
+Wollen Sie zur Sache selbst etwas sagen?
+wieso müssen „eingeschwungene Zustände“ betrachtet werden? Wo sollen die denn existieren? – Hatten Sie denn meinen Hinweis übersehen? Der Zustand in u Serien Lebensraum kann mathematisch nicht beschrieben werden!
+den Zusammenhang zwischen absorbierter/gewandelter Strahlung und kinetischer Energie/Temperatur des Absorbers habe ich beschrieben. Möchten Sie dazu etwas ergänzen?
+Dass es keinen „Treibhauseffekt“ geben kann, zeigen die Daten für die sonnenbeschienene, halbe Erdkugel. Die tatsächlichen Temperaturen auf Erde sind nur auf die Strahlungsleistung der Sonne zurückzuführen.
+Die Erde wiederum, mit riesigen Wassermassen bedeckt, ist ein hervorragender Wärmespeicher.
+Die Atmosphäre, mit allen Molekülen vermindert
+die starke Sonneneinstrahlung u. sorgt durch kontinuierliche Strömungen für den entsprechenden Wärmeaustausch.
+In unzähligen Experimenten versuchte man den Beweis zu führen, dass die IR aktiven Moleküle in der Atmophäre, Energie wieder zur Erde zurückstrahlen (emittieren) u. diese zusätzlich erwärmen.
+Kein einziges Experiment hat diesen Beweis zustandegebracht.
+IR aktiven Moleküle bilden ein Dipol.
+Und wie groß muß die Strahlungsintensität sein, damit hier die Elektronen ihre Bahnen verlassen, und beim Zurückfedern diese Energie wieder emittieren?
+Die Strahlungsphysik gibt Antwort.
+(Herr NicoBaecker hat da ja schon fast richtig zitiert).
+Nochmals, bei den Temperaturen (Strahlungsintensität),auf der Erde u. Atmosphäre, werden auch die IR aktiven Moleküle nur zum „gemütlichen“ Schwingen angeregt. (kinetische Energie).
+Die Emission von Photonen ist unmöglich, ansonsten könnten man jeden CO2 Laser in den Garten stellen u. der müßte strahlen.
+MfG
+Eugen Ordowski
+„Die Strahlungstransportgleichung beschreibt auch den Transport thermischer Strahlung, d.h. der Strahlung eines thermalisierten Gases, korrekt.“
+Ein „thermalisiertes Gas“ ist kein chemisches Gas wie CO2 oder N2, sondern ein theoretisches Gas aus „Schwarzen Löcheren“.
+man kann auch bei der „Temperaturwirksamkeit“ von Strahlung den 2.HS nicht einfach ignorieren, wie das Treibhauskünstler gedankenlos versuchen.
+Denken Sie an das Wiensche Gesetz und den Zusammenhang von Frequenz und Temperatur eines Strahlers.
+Und googeln Sie dazu nach Claes Johnson.
+mfG
+„„Die entscheidende Frage liegt bei „wieder (tlw.) emitieren“.
+Diese Frage ist keinesfalls „entscheidend“, sie ist hier physikalisch unsinnig. Bei der Emission thermischer Strahlung gibt es kein „wieder“. „Wieder“ von was?
+Ein bisschen Thermodynamik:…“
+Jaja, Herr Baecker, ist doch klar.
+Der Punkt ist doch, ob die Atmosphäre – und hier sehr wichtig: der erste Meter der Atmosphäre – die vom Boden abgehende StrahlungsLEISTUNG zur Hälfte wieder in Richtung Boden abstrahlen kann.
+Da wie Sie richtig schreiben die einfallende BodenstrahlungsLEISTUNG „thermalisiert“ (soll heißen durch CO2 absorbiert und dann, wie Sie schreiben, im Esemble thermalisiert ) wird, strahlen die CO2-Moleküle bestenfalls (Dr. Pauk!) im von der Temperatur des Esembles abhängigen Maß.
+Bei Bodentemperatur sollen dabei 3% der CO2-Moleküle in einem abstrahlfähigen Zustand sein.
+Aufgabe an Sie:
+Berechnen Sie die Strahlungsleistung der 1m starken Atmosphärenschicht an der Grenze zum Boden bei 0,04 %CO2 und 288°K.
+„Wie kann man nur soviel absurdes Zeug verbreiten?“
+Das ist die typische Argumentation eines Theoretikers.
+Solle sich jemand für die physikalische und vor allem für die chemische Wirklichkeit interessieren, möge er dieses Video anschauen und versuchen, die Wirklichkeit zu verstehen:
+https://www.youtube.com/watch?v=3Hstum3U2zw
+Theoretische Physiker und Meteorologen glauben alles sei ein „Schwarzes Loch“ (Plankscher Strahler“)
+Die Wirklichkeit von Wasser und Luft ist alles andere, aber niemals ein „Schwarzer Strahler“.
+#104 sagt:
+„Der Poynting-Vektor S = (c/(4 pi)) E x H beschreibt die Energieflussdichte der elektromagnetischen Strahlung. Diese ist auf keinen Stoff angewiesen.“
+Diese Aussage ist völlig korrekt. Aber, weil dieser mathematisch richtige Formalismus auf keinen (chemischen) Stoff angewiesen ist, beschreibt er auch die physikalischen Verhältnisse von keinem chemischen Stoff und vor allem nicht zwischen chemischen Stoffen untereinander. Er ist einfach nur sinnlos in bezug auf den Elektromagnetismus innerhalb chemischer Materie und vor allem beim Übergang von einer chemischen Materie auf eine andere. Von Wasser auf Luft – beides „Schwarze Löcher“? Von Sand auf Luft oder grünen Blättern auf Luft – alles „Schwarze Löcher? Typisch sinnlose Theorie!
+„Der 2.HS der Thermodynamik hilft hier nicht!“
+Diese Behauptung ist falsch. Bekanntlich enthaelt die lokale Bilanzgleichung fuer die Entropie, die im Falle des 2. HS dominant ist, eine Entropieerzeugung. Darin ist auch der Term -(1/T^2) R . grad T enthalten, wobei T die Temperatur und R die Strahlungsflussdichte (Vektor) sind. Da dieser Term immer entweder gleich Null (reversibler Vorgang) oder groesser als Null (irreversibler Vorgang) sein muss, ist im Falle der infraroten Strahlung die Verteilung der Temperatur essentiell fuer die Entropieerzeugung. Dass die infrarote Strahlungsflussdichte nicht proportional zum Temperaturgradienten ist, ist in der Fachliteratur bekannt. Eine Diskussion zu diesem Sachverhalt findet sich z.B. im Lehrbuch von Lange (2002).
+Sie schreiben:
+„Die jeweilige Energiebilanz der betrachteten Materie zeigt, ob ihre Temperatur steigt, fällt, oder sich nicht verändert. (Wenn Zustandsänderungen erfasst werden sollen, empfiehlt sich die Verwendung des „Enthalpie“ Begriffes in Verbindung mit den jeweiligen „Zustandsgleichungen“.) “
+Damit widersprechen Sie sich selbst. Im Falle der Energieerhaltung geht es nur um die Gesamtenergie (= innere E. plus potentielle E. plus kinetische E.) Nur im Falle der Gesamtenergie existieren keine Netto-Quellen bzw. -Senken in der terrestrischen Atmosphaere.
+Die lokale Bilanzgleichung fuer die Enthalpie wird benoetigt, um die prognostische Gleichung fuer die Temperatur herzuleiten, in der dann die spez. Waerme bei konstantem Druck erscheint. Diese Gleichung enthaelt eine Reihe von Quelltermen, so dass man daraus keine Schlussfolgerung hinsichtlich der Erhaltung der Gesamtenergie ziehen kann. Das ist schon seit vielen Jahrzehnten bekannt.
+„Die Leistung geht von der Sonne aus…“
+Richtig!
+Und zwar nur von EINER Sonne.
+„“Wo kommt die Energie zur Steigerung der Außentemperatur her?“
+Dafür gibt es zu jeder Zeit an jedem Ort immer verschiedene mögliche Quellen, wie z. B.
+– die Sonne geht auf, oder
+– ein wärmerer Wind fällt ein, oder
+– mit aufziehenden wärmeren Wolken erhöht sich die Intensität der „Gegenstrahlung“ u. a. m.
+Das ist zu begreifen, oder?“
+Nein, ist es nicht!
+Warum?
+Es können nur „eingeschwungene“ Gleichgewichtszustände betrachtet werden.
+Engergieunterschiede innerhalb der Systemgrenzen müssen gemittelt betrachtet werden.
+„CO2, selbst in den kältesten Luftschichten, strahlt doch sehr intensiv ins All und kühlt dadurch die Atmosphäre durch Strahlungskühlung.“
+Die bodennah von CO2 und vom Boden nach oben emittierte Strahlung wird selbstverständlich auch wieder von CO2 darüber absorbiert. Der Punkt ist natürlich, daß die Treibhausgase-Säule mehr vom Boden nach oben gerichtete IR Strahlung absorbiert (ca. 350 W/m2) als ins Weltall emittiert (ca. 200 W/m2).
+„Freusche Fehlleistng: 😉
+„Wo kommt die Energie zur Steigerung der Außentemperatur her?“
+Innentemperatur wäre richtig.“
+Henne/Ei?
+Die Zusatzenergie innen kommt von der Zusatzenergie außen und diese kommt von außerhalb der Systemgrenze.
+Dietze hat eine zweite Sonne installiert, die die Atmosphäre heizt.
+Damit sinkt natürlich der Temperaturgradient zwischen Haus innen und außen und drinnen wird es wärmer, da die Heizung (Energiequelle) innen ist.
+Gäbe es eine regelbare zweite, zusätzliche Sonne mit Atmosphärenheizwirkung, würde der Boden auch wärmer, wenn man die zweite Sonne aufdreht.
+Im Fall des behaupteten Treibhauseffektes heist aber nicht die Sonne, sondern der Boden die Atmosphäre.
+Das ist keine Zusatzenergie, die ins System gebracht wird.
+Was Sie behaupten, ist falsch. Mit dem Begriff „Thermalisierung“ wird die Kollision zweiter Art zwischen einem Molekül und einem anderen Teilchen (Atom, Ion, Elektron) in Verbindung gebracht. Dabei wird die Energie eines Photons beim strahlungslosen Übergang von einem höheren Energiezustand des Moleküls zu dem nächst niedrigen Energiezustand in kinetische Energie umgewandelt. Da gleichzeitig auch Kollisionen erster Art stattfinden, also die strahlungslose Anregung des Moleküls durch Kollision (siehe Franck-Hertz-Versuch), und sich im statistischen Mittel die Zahl der durch Kollision erster Art angeregten Moleküle gleich der Zahl der durch Kollision zweiter Art abgeregten Moleküle ist („principle of detailed balancing“), ändert sich die Maxwell-Boltzmannsche Geschwindigkeitsverteilung nicht. Einstein (1917) hat diesen Sachverhalt auch bei der Herleitung der Planckschen Strahlungsfunktion im Falle von Molekülen verwendet. Darauf hat Milne (1928) hingewiesen. Es ist die Grundlage des lokalen thermodynamischen Gleichgewichts (LTE). Lesen Sie nach, was in Lehrbüchern zum „breakdown of thermodynamic equilibrium“ zu finden ist.
+Falls Sie damit nicht einverstanden sind, dann können Sie allein aus diesem Grunde alle Ergebnisse der Klimamodellierung vergessen, denn das Verwenden der Planckschen Strahlungsfunktion als Quellfunktion in der Strahlungsübertragungsgleichung, was LTE voraussetzt, beruht auf den Arbeiten von Einstein (1917) und Milne (1928).
+Werden eine schwarz lackierte und eine weißlackierte Fläche der Sonnenstrahlung ausgesetzt, so ergibt sich bei der schwarzen eine, gegenüber der umgebenden Luft, erhöhte Temperatur. Wird dann bei der weißen kein Unterschied zur umgebenden Lufttemperatur gemessen? Denn ein Körper wird weiß genannt, wenn er überhaupt nicht strahlt.Nicht strahlen verstehe ich so, daß keine Wärme abgeben wird, also solch ein Körper keinen Einfluß auf die Umgebungstemperatur hat.
+Russ hat einen Emissionsgrad epsilon von 0,95 – Eine Rußschicht, auf eine Schneedecke aufgebracht, läßt diese rascher schmelzen. Wer aber bewirkte am Ende das schmelzen? Die Sonne oder der Ruß? Würde der Schnee auch schmelzen, wenn der Ruß nach Sonnenuntergang aufgebracht würde? Ob er nun mit einer Schicht Russ versehen wird oder nicht. Bei entsprechend intensiver Sonnenbestrahlung löst sich die Schneedecke ohnehin auf.
+Emittieren kann nur, was vorher absorbierte. Wenn CO2 fast mit der Stärke eines schwarzen Strahlers= 1? oder der Kennzahl des Russes 0,95 emittiert, dann kann es das nur, wenn es vorher die entsprechende Menge an Wärme aufgenommen hat. Wohin strahlt ein erwärmter Körper ab? Wärme hat nun die Eigenschaft, unbeeinflußt von Umständen, die nicht in der „Macht“ des CO2 liegen, nach Oben zu strahlen. Warme Luft steigt unter allmählichen Temperaturverlust nach Oben. Umstände, die einen Transport nach Oben unterbinden können sind Wolkendecken-und C02 Da das Gas immer vorhanden ist, sind es die Wolken nur zeitweise. Die Klimawirksamkeit des CO2 vorausgesetzt; und dass es wärmt bzw.den Abfluß der Wärme behindert, sollte logischerweise ein stetiger Anstieg der Temperaturen die Folge sein.Es sei denn, man verlegt sich darauf, daß die Vorindustriellen Werte seit bestehen der Welt sich nie änderten und erst der Mensch des Industriezeitalters eine Erhöhung von sowohl Temperatur als auch CO2 Gehalt bewirkte.
+Das CO2 kühlt ist nachvollziehbar, denn auch wenn es oft nicht so den Anschein hat , aber die Sonne ist immer da , so daß für eine permanente Abkühlung die Zeit fehlt.
+Die Vorgänge, die sich in den unterschiedlichen Schichten der Atmosphäre abspielen, beeinflussen im Zusammenspiel ,all ihrer Bestandteile, die Temperaturen. Keine Temperatur wird je die Stärke erreichen, die sich Top der Atmosphäre messen läßt. Umgerechnet 120°C was in etwa der Solarkonstante entspricht. Während die SK abhängig von der Oberflächentemperatur der Sonne, gleich bleibt, variiert das an Energie, in W/m2 ,was am Boden ankommt, je nach Klimazone.Und sonstigen Einflüssen. Die irdische, die marsische, die merkurische Atmosphären kühlen. Die der Venus tut dies nicht, sondern das Gegenteil-Es kommt mehr Wärme auf der Venus an, als sich, nach der Solarkonstante für die Venus, berechnen läßt. Bei Sonnennächstem Stand 2644 W/m² oder 191°C gemessen werden 497°C Maximaltemperatur. Liegt dieser Unterschied an den über 96% CO2 in der Atmosphäre der Venus? Die wieder vom Abstand zur Sonne ermittelte SK des Mars
+errechnete ich den Wert (kürzeste Distanz zur Sonne) mit 714,72 oder knapp 62 °C angegeben sind für diesen Planeten, mit CO2 Werten > 95%, 27 °C! Hat das Gas, Hier, eine kühlende Wirkung, während es bei der Venus eine wärmende,ja aufheizende, zeigt!? Die Wärmeverteilung hängt nicht ab von ein oder zwei Bestandteilen der jeweiligen Atmosphäre.
+Selbst die Daten, die Wiki für den Mars angibt, 589 W/m² liegen in ihrer Umrechnung mit 46°C
+über den 27 °C
+Wiki veröffentlicht durchschnittliche Werte.
+Für den Abstand, 1 AE, berechnete ich, die Ede betreffend, ein Leistung von 1363,08 W/m² Für den geringsten Sonnenabstand 1410,63W/m² und 1317,89W/m2 für den größten Abstand von der Sonne.
+Die Daten, die Wiki, kolportiert sind 1367, 1420 und 1325 nicht gemessen sondern festgelegt (ob nach Messungen oder nicht ist mir unbekannt)
+Die Stärke der SK richtet sich nach dem Abstand von der Quelle. Ebenso wie sich der Wärmeeindruck verringert, wenn man sich von einem Heizkörper (Ofen, Kamin) entfernt.
+sondern um Atomschwingungen in einer Molekülverbindung auch Vibration genannt und auch nur dann, wenn sich dadurch die Polarität (Dipol) verändert,
+was bekanntlich bei N2, O2 und Argon nicht der Fall ist, und selbst bei CO2 nicht bei allen Schwingungen.
+Das mit der „determinierten Wahrscheinlichkeit“ für eine Reemission ist wieder richtig, hier kann man quantenmechanich einen Zeitfaktor einsetzen,
+und der ist leider um etliche 10nerPotenzen größer als die „Abregung“ durch Stoßkontakt mit Nachbarmolekülen.
+Jedenfalls erdnah bis zur Grenze der Stratosphäre. Das hängt wieder mit der Geschwindigkeit der Gasmoleküle und dem Abstand untereinander zusammen.
+In der Stratosphäre sind diese Moleküle schon so weit auseinander, dass so ein CO2-Molekül Zeit genug bekommt auch so ein Photon abzuschießen, bevor es eine Alternative nützen kann.
+Ein Emissionsmaximum wird bei ca. 50km Höhe angegeben.
+Bis runter zur Erdoberfläche können sie nach dem Gesagten natürlich nicht,
+deshalb klappt das physikalisch auch nicht mit der CO2-Treinhaushypothese.
+mfG
+Die Atmosphäre ist kein Hochofen
+Sie machen sich damit lächerlich.
+Auch die Erdoberfläche, mit Ausnahme von Vulkanen strahlt NICHT mm 4,2µm Bereich, dafür ist sie zu kalt.
+Und selbst so eine IR-Signatur zum Beispiel aus einem 500°C heißen Schornstein, verliert durch Absorption OHNE Reemission sehr schnell in der kälteren Luft den 4,2 µm-Bereich.
+#97: Werner Holtz, was soll der „pseudokritische“ Einwurf („so ein Unsinn“) über die Lichtgeschwindigkeit von EM Wellen, wenn wir von Luft reden, Sie enttäuschen mich.
+Die Erklärung bei Wiki, warum Licht in der Luft minimal langsamer ist, ist übrigen FALSCH.
+Wollen sie etwa damit andeuten,
+man könne an der „Geschwindigkeit“ der 15µm-Strahlung die Strahlungsquelle erkennen?
+oder was?
+Insbesondere wenn die Strahlung 0 ist!!!
+Es ist doch wohl offensichtlich, dass sowohl bei der „bolometrischen“, wie beider frequenzselektiven Gegenstrahlungsbehauptung wissenschaftlicher Betrug stattfindet!!!
+Hieran kann man unschwer ideologische „Treibhausvertreter“ erkennen.
+Nur darum geht es hier!
+mfG
+Wann begreifen Sie, was bei Clausius „von selbst“ bedeutet?
+Ihr obiger Beitrag ist so absurd, dass man sich fragen muss, wann jemand den Antragt stellt, EIKE die Gemeinnuetzigkeit zu entziehen.
+Wie kann man nur soviel absurdes Zeug verbreiten?
+„Die entscheidende Frage liegt bei „wieder (tlw.) emitieren“.
+Diese Frage ist keinesfalls „entscheidend“, sie ist hier physikalisch unsinnig. Bei der Emission thermischer Strahlung gibt es kein „wieder“. „Wieder“ von was?
+Ein bisschen Thermodynamik: Ein Molekül emittiert thermische Strahlung (ein Photon) und verliert die entsprechende Photonenenergie durch Abregung eines angeregten elektronischen Zustands. Da das Molekül zu einem Ensemble von Molekülen mit einer bestimmten Temperatur gehört, sind die möglichen elektronischen Anregungszustände mit einer durch die Temperatur determinierten Wahrscheinlichkeit besetzt, d.h. zu jedem elektronischen Zustand gibt einen Prozentsatz von Molekülen in dem Ensemble, welche sich zu jeder Zeit in diesem Zustand befinden. Das einzelne Molekül verändert den Zustand fortwährend durch Stoß oder Strahlungsemission bzw. –absorption, aber die Zahl der einzelnen Zustände im Ensemble ändern sich nicht (bzw. genauer schwankt kaum).
+Ein Gasensemble mit konstanter Temperatur hat in dem Sinne keine Historie. Ein einzelnes Molekül verändert fortlaufend durch An- und Abregungen seinen Zustand, im zeitlichen Mittel mittelt sich dies zur thermischen Energie pro Molekül, die durch die Wärmekapazität entsprechend der Gastemperatur gegeben ist.
+„Dabei sind die Praktiker hier der Meinung, daß „unten“ thermalisiert wird und „oben“ abgestrahlt wird. Für die Theoretiker hier gibt es keine Thermalisierung, sie wenden die Strahlungstransportgleichung an. Nur ein Standpunkt kann richtig sein…“
+Das ist physikalisch unsinnig, denn jedes Gas einer bestimmten Temperatur ist per Definition thermalisiert und emittiert daher thermisch Photonen für die elektronisch erlaubten Zustandsänderungen (optische Übergänge). Die beiden Prozesse (Thermalisieren und Emittieren) können sich somit gegenseitig nicht ausschließen wie Sie behaupten, sondern die thermische Emission ist eine Folge des Vorliegens eines thermalisierten Gases (äquivalent zu, daß das Gas eine Temperatur hat).
+Die Strahlungstransportgleichung beschreibt auch den Transport thermischer Strahlung, d.h. der Strahlung eines thermalisierten Gases, korrekt.
+Wie kommen Sie dazu, mich falsch zu zitieren? Lesen Sie doch, was ich geschrieben habe.
+„Strahlung einfach so (d.h. ohne physikalischen Sinn und Verstand) als Energieform zu bezeichnen, ist ein Fehler, den Physiker leider, sogar lehrbuchmäßig, machen.“
+Wuerden Sie endlich aufhoeren, hier baren Unsinn zu verbreiten. Der Poynting-Vektor S = (c/(4 pi)) E x H beschreibt die Energieflussdichte der elektromagnetischen Strahlung. Diese ist auf keinen Stoff angewiesen. Lernen Sie endlich die Grundlagen der Physik und der Mathematik.
+Zustimmung.
+Die Leistung geht von der Sonne aus und die Leistung mit dem Faktor Zeit auf Null ab.
+Jeder kann sich also sein Schlussfolgerung über den angeblichen CO2-Treibhauseffekt selbst machen…
+„Wärme“ wird in der klassischen Physik definiert als kinetische Energie von Atomen oder Molekülen (gasförmig, flüssig oder fest). Ihre Messgröße ist die Temperatur, ein Begriff, der nur für eine hinreichend große Population gelten kann. Gemessen wird die Temperatur bekanntlich mit dem Gasthermometer auf der Grundlage der Gasgesetze.
+Wird in solcher Materie durch Absorption und Wandlung anderer Energieformen, z.B. Strahlung, die mittlere kinetische Energie „der Teilchen“ erhöht, so steigt die gemessene Temperatur entsprechend an. Es wirkt jeweils die gesamte gewandelte Strahlung, unabhängig von den jeweiligen unterschiedlichen Temperaturen der Emitte. – Der 2.HS der Thermodynamik hilft hier nicht!
+Die jeweilige Energiebilanz der betrachteten Materie zeigt, ob ihre Temperatur steigt, fällt, oder sich nicht verändert. (Wenn Zustandsänderungen erfasst werden sollen, empfiehlt sich die Verwendung des „Enthalpie“ Begriffes in Verbindung mit den jeweiligen „Zustandsgleichungen“.)
+„Unmittelbare Messungen der Gesamtstrahlung von Wasserdampf und Kohlensäure (CO2) stammen von
+E. SCHMIDT, HOTTEL und MANGELSDORF, E. SCHMIDT und ECKERT, ECKERT sowie von HOTTEL und EGBERT.
+SCHMIDT, E.: Messung der Gesamtstrahlung des Wasserdampfes bei Temperaturen bis 1000° C. Forsch. Ing.-Wes. 3 (1932) 57/70.“
+Es geht um die Erwärmung wärmerer Erdoberflächen durch CO2 in kälteren Luftschichten mittels Strahlung. Das ist physikalisch unmöglich.
+Dass ein kälteres Gas einen wärmeren Körper erwärmt ist physikalisch unmöglich. Aber ganz normal ist es, dass IR-aktive Materialien einschließlich der Gase zum Weltall Strahlung abgibt ist ganz selbstverständlich.
+Niemand bestreitet doch, dass es IR-Strahlung an sich gibt, sondern ganz im Gegenteil! Diese Unterstellung ist eine Frechheit.
+CO2, selbst in den kältesten Luftschichten, strahlt doch sehr intensiv ins All und kühlt dadurch die Atmosphäre durch Strahlungskühlung.
+„Wo kommt die Energie zur Steigerung der Außentemperatur her?“
+Dafür gibt es zu jeder Zeit an jedem Ort immer verschiedene mögliche Quellen, wie z. B.
+– die Sonne geht auf, oder
+– ein wärmerer Wind fällt ein, oder
+– mit aufziehenden wärmeren Wolken erhöht sich die Intensität der „Gegenstrahlung“ u. a. m.
+Das ist zu begreifen, oder?
+Schwieriger wird es schon mit dem festen Glauben des lieben Herrn Dietze, in den 30 bis 40% der stets wolkenfreien Atmosphäre bei Temperaturen, die auch dort überall unter -50 Grad C absinken, würde Wasser nur in der Gasform und niemals z. B. in Form sehr kleiner, sehr lange schwebender Eispartikel existieren.
+„Nehmen Herr Paul und Stehlik leider nicht zur Kenntnis.“
+Nehmen Sie doch mal zur Kenntnis, daß es um Leistung geht. StrahlungsLEISTUNG !!!
+Es grüßt der Hähnchengrill
+Zitat: 3. Sie haben den 2. HS nicht richtig verstanden. Der bezieht sich nur auf Wärmenergie, nicht auf Strahlungsenergie. Wärme ist Energie abber immer an Materie gebunden, ebenso ist Strahlung Energie aber von anderer Art, die z.B. den leeren Raum durchdringen kann. Beide Energiearten sind also grundverschieden.
+So ein Unsinn. Der 2.HS hat nichts mit den Energieformen zu tun. Und Strahlungsenergie ist ebenso an einen stofflichen Emittent bzw. Absorber gebunden (Emission und Absorption sind irreversible Prozesse, hier entsteht Entropie oder umgangssprachlich „Wärme“ – Wärme ist eine Prozeßgröße). Der Energietransport durch Strahlung ist nicht stoffgebunden.
+Ein Beispiel:
+Ki und Ka seien zwei konzentrische Kugelflächen mit Radien ri und ra > ri. Die Kugeln seien zum Hohlraum zwischen den Kugelflächen „schwarz“, d.h. absorbieren auftreffende Strahlung vollständig. (Infolge dieser Annahme gibt es keine Mehrfach-Reflektionen, was die Betrachtung wesentlich vereinfacht.) Der Hohlraum sei leer gepumpt. Die Temperaturen auf den Flächen seien Ti und Ta, wobei Ta < Ti angenommen wird. Beide Flächen seien gegen weitere Energiezufuhr isoliert, so dass Ki und Ka mit dem dazwischen befindlichen Hohlraum ein abgeschlossenes System bilden. Nach dem Stefan-Boltzmann-Gesetz strahlt ein Oberflächenelement dO eines schwarzen Körpers der Temperatur T pro Flächeneinheit in den angrenzenden Raum die Leistung: dL = sigma*T^4*dO ab. Die Leistungsbilanz der Außenkugelschale Ka lautet demnach (Zufluss - Abfluss)a = C*[ri^2*Ti^4 - (ri/ra)^2*ra^2*Ta^4] = C*ri^2*[Ti^4 - Ta^4] > 0,
+während die Bilanz der Innenkugel Ki ergibt:
+(Zufluss – Abfluss)i = C*[(ri/ra)^2*ra^2*Ta^4 – ri^2*Ti^4] = C*ri^2*[Ta^4 – Ti^4] < 0. Die Konstante C entspricht dem Wert C = 4*pi*sigma. Wie vom 2. Hauptsatz vorausgesagt, erhält also + die Kugelschale Ka mit der Temperatur Ta ("kälteres Objekt") von der Kugel Ki mit der Temperatur Ti ("wärmeres Objekt") per Strahlung einen Energiezuwachs, d.h. sie wird wärmer, + und der Kugel Ki mit der Temperatur Ti ("wärmeres Objekt") wird genau dieser Energiebetrag durch Abstrahlung entzogen, sie kühlt sich ab. #46: Dr.Paul sagt: Zitat: EM-Strahlung bewegt sich mit Lichtgeschwindigkeit, egal wo die herkommt, das ist Physik. Wieder so ein Unsinn. Die Lichtgeschwindigkeit ist vom Medium abhängig, also keine Konstante. #80: gkramm sagt: Und noch etwas (Clausius hat den umgangssprachlich Begriff "Wärme" verwendet, der heute aus wissenschaftlicher Sicht unscharf ist.) Solche Begriffe wie Wärmeaustausch, Wärmefluss, Wärmezufuhr/abfuhr usw. sind physikalisch unzutreffend. Überall müsste der Wortteil "Wärme" durch "Entropie" ersetzt werden. Wenn man also von "Wärmeaustausch" spricht, dann sollte einem klar sein, dass man Wärme "eigentlich" gar nicht austauschen kann, denn dies wäre ein Austausch eines Austausches: die Wärme selbst beschreibt ja schon einen Austausch, den mit T multiplizierten Entropie-Austausch! Wärme beschreibt keinen Systemzustand, sondern einen Systemprozess. Prozessgrößen beschreiben den Verlauf eines Prozesses, aber nicht den Transport einer Größe. Nur die Zustandsgrößen erlauben die Beschreibung eines Transportes oder Austausches oder Flusses. Mfg Werner Holtz
+„Die Schwerkraft kann ich an jedem Ort u. zur jeder Zeit messen!!!!
+Das kann man wohl von der angeblichen Rückstrahlung der Atmosphäre nicht sagen.“
+Ihre Aussage ist unverständlich. Sowohl die Schwerkraft als auch die Gegenstrahlung kann man grundsätzlich an jedem beliebigen Ort und zu jeder Zeit messen. Man muß dort und dann nur ein Meßgerät (Gravimeter bzw. Pyrgeometer) aufstellen und messen.
+Freusche Fehlleistng: 😉
+„Wo kommt die Energie zur Steigerung der Außentemperatur her?“
+Innentemperatur wäre richtig.
+Dietze:“Und so gefaellt’s offenbar der grossteils physikalisch unterbelichteten Mitglieder- und Kommentatoren-Schar – aber MIR und anderen Fachleuten NICHT.“
+„MIR und anderen Fachleuten…“
+Siehe Stockfehler in #89: P. Dietze sagt:
+„Auch zu dem Missverständnis bezüglich 2.HS sowie Waerme- oder Strahlungstransport ist noch etwas zu sagen: Denken Sie sich ein elektrisch z.B. mit konstant 6 kW beheiztes Haus – ohne Thermostat. Aussen möge die Temperatur -10 Grad und innen +20 Grad betragen.
+Steigt aussen die Temperatur auf -5 Grad, so wird innen die Temperatur bei gleicher Heizleistung etwa auf +25 Grad steigen. Die Annahme, das könne nicht sein da ein kälterer Körper einen wärmeren nicht erwärmen kann, ist offensichtlich falsch.“
+Wie gesagt!
+Sie werden es nie begreifen.
+Kleiner Hinweis:
+Wo kommt die Energie zur Steigerung der Außentemperatur her?
+“ Alles IR wird absorbiert, dann aber auch wieder thermisch emittiert.“
+Wenn alles absorbiert und emittiert wird, ist das ein physikalischer Zustand, in welchem weder Materie noch Energie (besser wäre Kraft) transportiert wird. Hier gibt es weder Strahlung noch Strahlungstransfer.
+Tatsächlich wird aber in der Atmosphäre warme Materie und Wärmestrahlung nur nach oben transportiert.
+Kalte Materie, die nach unten transportiert wird, wird in der Atmosphäre nur durch Strahlungskühlung gebildet und das bis zum Erdboden hinunter siehe #81 („Strickscheid)
+Der Treibhauseffekt findet im Ozean statt.
+Herr Paul begreift es immer noch nicht.
+Tja, was hat dann Eckert 1937 gemessen, wenn nicht die Strahlung/ Emission von CO2 bei Atmosphärendruck und Umgebungstemperatur.
+http://tinyurl.com/z4wr6oc
+Unmittelbare Messungen der Gesamtstrahlung von Wasserdampf und Kohlensäure (CO2) stammen von
+E. SCHMIDT, HOTTEL und MANGELSDORF, E. SCHMIDT und ECKERT, ECKERT sowie von HOTTEL und EGBERT.
+SCHMIDT, E.: Messung der Gesamtstrahlung des Wasserdampfes bei Temperaturen bis 1000° C. Forsch. Ing.-Wes. 3 (1932) 57/70.
+HOTTEL, H. C., u. H. G. MANGELSDORF: Heat transmission by radiation from nonluminous gases. Experimented study of carbon dioxyde and water vapor. Trans. Amer. Inst. Chem. Engrs. 31 (1935) 517/549.
+SCHMIDT, E., u. E. ECKERT: Die Wärmestrahlung von Wasserdampf in Mischung mit nichtstrahlenden Gasen. Forsch. Ing.-Wes. 8 (1937) 87/90.
+ECKERT, E.: Messung der Gesamtstrahlung von Wasserdampf und Kohlensäure in Mischung mit nichtstrahlenden Gasen bei Temperaturen bis zu 1300° C. VDI-Forsch.-Heft Nr. 387. Berlin 1937.
+HOTTEL, H. C., u. R. B. EGBERT: Radiant heat transmission from water vapor. Trans. Amer. Inst. Chem. Engrs. 38 (1942) 531/568.
+Alles seit Mitte der 1930er Jahre bekannt und gemessen. Der Emissiongrad von CO2 bei unterschiedlichen Temperaturen, Drücken und Atmosphären-Schichtdicken.
+Nehmen Herr Paul und Stehlik leider nicht zur Kenntnis.
+MfG
+Michael Krüger
+„in vielen Debatten (nicht nur über das Klima) kommt bei mir der Punkt, wo ich einfach sage:“ Ja, du hast recht, und ich meine Ruhe.“
+Ist natürlich in Ihrem Fall eine vertane Chance, etwas dazuzulernen und die eigenen Widersprüche zu klären.
+„Das, was wir hier wieder erleben, (in dieser Diskussion), läuft ja nun schon seit mehr als 25 Jahren. Immer im Kreis herum.“
+Im Kreis dreht sich da nichts. Die Physik des Treibhauseffektes war schon verstanden bevor es überhaupt Klimaskeptiker gab und bevor diese ihren gegen die Gesellschaft gerichteten Groll auf Wissenschaftler projizierten, die die Physik der Atmosphäre wollen. Warum Sie sich seit 25 Jahren im Kreis drehen, müssen Sie sich selbst beantworten, aber Sie sind selber schuld.
+„Man kann doch nicht ernsthaft behaupten, die Erdstrahlung kommt im 15µm -Bereich „nicht durch“, aber trotzdem strahlt das CO2 wie ein Schwarzkörper völlig ungehindert „nach unten“ ???“
+Sie haben leider noch nicht verstanden dass CO2 im Kernbereich um 15 mue gesättigt ist, sich also quasi wie eine Schwarzkoerpersaeule verhaelt. Alles IR wird absorbiert, dann aber auch wieder thermisch emittiert.
+Auch zu dem Missverständnis bezüglich 2.HS sowie Waerme- oder Strahlungstransport ist noch etwas zu sagen: Denken Sie sich ein elektrisch z.B. mit konstant 6 kW beheiztes Haus – ohne Thermostat. Aussen möge die Temperatur -10 Grad und innen +20 Grad betragen.
+Steigt aussen die Temperatur auf -5 Grad, so wird innen die Temperatur bei gleicher Heizleistung etwa auf +25 Grad steigen. Die Annahme, das könne nicht sein da ein kälterer Körper einen wärmeren nicht erwärmen kann, ist offensichtlich falsch. Das Haus erwärmt sich nämlich weil es beheizt ist und nun der Wärmeverlust durch Strahlung und Leitung geringer wird. Dasselbe geschieht auch dann wenn die Waermedaemmung des Hauses verstaerkt wird. Fazit: Der vermeintliche Widerspruch zum 2.HS entsteht bei beheizten Koerpern. Auch der Erdboden wird durch Sonnenstrahlung (im Mittel) mit konstanter Leistung beheizt – deshalb kann sich seine Temperatur ebenfalls erhöhen wenn die Gegenstrahlung aus der kälteren Atmosphäre (z.B. bei CO2-Anstieg) zunimmt und damit die Strahlungskuehlung verringert wird – ohne dass dies dem 2.HS widerspricht.
+Dazu ein Mail-Wechsel mit Dietze vom 3. Sept. d.J:
+Thiele an Dietze.
+„Herr Dietze, können Herr Limburg, Prof. Lüdecke und die EIKE-Beiräte nicht für sich selber sprechen?
+Brauchen diese Sie als Airbag?
+Dr. Stehlik hatte einen guten Vorschlag gemacht.“
+Antwort Dietze:
+„Können sie schon, aber wollen sie offenbar nicht. EIKE erscheint mir eher wie ein Gemischtwaren- und Saftladen, wo man das Prinzip verfolgt, alle Meinungen – selbst abstruse zur Physik (!!) – gelten zu lassen.
+Prof. Luedecke sagt in seinem Buch ja klar dass ECS=1,2 Grad (ohne feedbacks) ist, also IPCC (z.T. ??), denn über die feedbacks lässt er sich nicht aus, obwohl er sicher nicht an den Faktor 2,5 glaubt.
+Und Herr Limburg weigert sich, die nur 0,6 Grad von Dietze/Harde anzuerkennen obwohl er sich ueber jede Verringerung freut und gern die Tendenz zu Null beobachtet. Aber an was er glaubt (Hoffmann, Kramm, Monckton?) will er nicht verraten. Also, das praktizierte Stochern im Nebel geht – trotz fortschreitenden wiss. Erkenntnissen immer weiter. Und so gefaellt’s offenbar der grossteils physikalisch unterbelichteten Mitglieder- und Kommentatoren-Schar – aber MIR und anderen Fachleuten NICHT.
+P. D.“
+zu bestehen, ist mir ein Rätsel.
+Ich drücke Ihnen alle vier Daumen und hoffe inständig, daß es gelingt.
+Nehmen Sie bitte weiterhin allen Mut und bleiben Sie standhaft, fallen Sie nicht um. Letztlich wird das Ausland mit seiner Mehrheit gewinnen, wir Deutschen allein werden es nicht schaffen.
+Dr. Paul schreibt:
+„Ein Detektor misst Frequenz und Intensität (Strahlungsdichte) mehr nicht,
+das ist Physik. Es gibt technisch KEINE MÖGLICHKEIT Strahlung gleicher Frequenz nach der Entfernung der Strahlungsquelle zu unterscheiden.“
+Da kann ich nur fragen: Haben Sie jemals etwas von abbildender Optik gehoert, und von der Messung von optischer und IR-Strahlung von Sternen? Selbstverstaendlich koennen die Strahlungsquellen identifiziert werden und dann damit die Transmission der Atmosphaere in verschiedenen Hoehen gemessen werden.
+Gemessen wird natuerlich auch die IR-Strahlung der Treibhausgase einschliesslich der Gegenstrahlung (abwaerts gegen aufwaers gerichtete Strahlungsstroeme), ob Sie nun Klimmzuege machen zur Leugnung oder die Augen verschliessen vor direkt gemessenen Spektralverteilungen. Keiner behauptet, das Wasserdampf, CO2 u.a. wie schwarze Koerper strahlen.
+Carsten
+—
+http://thumulla.com/home/ein_gedankenexperiment_zum_klima_auf_der_erde.html
+Sie schreiben:
+————————–
+—————————–
+„allerdings ist „Wärmetransport“ IMMER diabatisch, nicht adiabatisch.“
+Das ist natürlich korrekt.
+MfG
+Eugen Ordowski
+Sie schreiben:
+————————-
+———————-
+„Wie kommen Sie darauf dass man das nicht kann? Nach Ihrer grotesken Logik könnten Sie auch die Schwerkraft anzweifeln wenn man Ihnen nur eine Messung vorlegt“
+Sehr trefflich argumentiert.
+Die Schwerkraft kann ich an jedem Ort u. zur jeder Zeit messen!!!!
+Das kann man wohl von der angeblichen Rückstrahlung der Atmosphäre nicht sagen.
+Nochmals – wäre das richtig , was Sie schreiben –
+würden wir hier überhaupt nicht diskutieren.
+MfG
+Eugen Ordowski
+Lieber Herr Baecker,
+in vielen Debatten (nicht nur über das Klima) kommt bei mir der Punkt, wo ich einfach sage:“ Ja, du hast recht, und ich meine Ruhe.“
+Das, was wir hier wieder erleben, (in dieser Diskussion), läuft ja nun schon seit mehr als 25 Jahren. Immer im Kreis herum.
+Wer an etwas laubt, wird sich immer die Welt so zusammenrechnen, dass seinen Glauben bestätigt.
+Und nochmals, die Theorie vom „Treibhauseffekt“ ist ein wissenschaftlicher Irrtum.
+MfG
+Eugen Ordowski
+„rel. wärmer wird als die strahlende Erdoberfläche“
+Messungen der Agrarmeteorologie in Rheinland-Pfalz (Internet: DLR-RLP)in -20cm, -5cm, +20cm und 2m Lufthöhe zeigen das Gegenteil. Die Atmosphäre wird schneller kalt als der Erdboden und die Atmosphäre ist auch immer kälter als der Erdboden. Bei Warmluft-Advektion aus der Sahara mag das kurzzeitig mal anders aussehen.
+Mittelwerte 1-11.10.16 in Strickscheid/ Eifel:
+-20cm: 13,1°C
+– 5cm: 12,0°C
++ 5cm: 8,1°C
++ 2 m: 8,1°C
+„Nun ersetzen wir diese kalte Platte durch eine wärmere, die aber nur -53 Grad hat. Dadurch wird die warme Platte wärmer – obwohl sie immer noch durch abfließende Strahlung gekühlt wird.“
+Das ist falsch, denn die waermere Platte verliert immer noch mehr Energie durch Emission als sie von der kaelteren Platte an Strahlung erhaelt und absorbiert. Ein Koerper erwaermt sich nicht dadurch, dass er Energie verliert.
+Clausius hat es in seinem Lehrbuch von 1887 folgendermassen ausgedrueckt:
+„Die Wärme kann nicht von selbst aus einem kälteren in einen wärmeren Körper übergehen.”
+Er fährt dann fort:
+“Die hierin vorkommenden Worte „von selbst“, welche der Kürze wegen angewandt sind, bedürfen, um vollkommen verständlich zu sein, noch einer Erläuterung, welche ich in meinen Abhandlungen an verschiedenen Orten gegeben habe. Zunächst soll darin ausgedrückt sein, dass durch Leitung und Strahlung die Wärme sich nie in dem wärmeren Körper auf Kosten des kälteren noch mehr anhäufen kann. Dabei soll dasjenige, was in dieser Beziehung über die Strahlung schon früher bekannt war, auch auf solche Fälle ausgedehnt werden, wo durch Brechung oder Reflexion die Richtung der Strahlen irgend wie geändert, und dadurch eine Concentration derselben bewirkt wird.”
+An späterer Stelle in seinem Lehrbuch schrieb Clausius dann noch:
+“Der von mir zum Beweise des zweiten Hauptsatzes aufgestellte Grundsatz, dass die Wärme nicht von selbst (oder ohne Compensation) aus einem kälteren in einen wärmeren Körper ühergehen kann, entspricht in einigen besonders einfachen Fällen des Wärmeaustausches der alltäglichen Erfahrung. Dahin gehört erstens die Wärmeleitung, welche immer in dem Sinne vor sich geht, dass die Wärme vom wärmeren Körper oder Körpertheile zum kälteren Körper oder Körpertheile strömt. Was ferner die in gewöhnlicher Weise stattfindende Wärmestrahlung anbetrifft, so ist es freilich bekannt, dass nicht nur der warme Körper dem kalten, sondern auch umgekehrt der kalte Körper dem warmen Wärme zustrahlt, aber das Gesammtresultat dieses gleichzeitig stattfindenden doppelten Wärmeaustausches besteht, wie man als erfahrungsmässig feststehend ansehen kann, immer darin, dass der kältere Körper auf Kosten des wärmeren einen Zuwachs an Wärme erfährt.”
+Das ist die Quintessenz der von Clausius zusaetzlich durchgefuehrten Untersuchungen.
+Ich habe die von Clausius verwendete Schreibweise beibehalten, um zu dokumentieren, daß diese Texte direkt aus seinem Lehrbuch übernommen wurden.
+Falls Sie der Auffassung sind, dass Clausius das Problem nicht verstanden hat, dann befinden Sie sich in Uebereinstimmung mit Dietze. Nur haben Ihre und Dietzes Vorstellungen nichts mit Physik zu tun.
+Ihre Behauptungen sind alle falsch. Offensichtlich kennen Sie die Fachliteratur nicht, denn sonst wuerden Sie nicht solche Behauptungen aufstellen.
+Die sog. atmosphaerische Gegenstrahlung ist das Ergebnis der Emission durch IR-aktive Molekuele. Diese Emission ist abhaengig von der lokalen Temperatur des Luftvolumens, in dem sich die Molekuele befinden. Beim CO2 zeichnet sich hauptsaechlich die Rotationsschwingungsbande aus, die um eine Wellenzahl von 667 cm^(-1) zentriert ist.
+„Ja, diese Dimension schreiben die Gerätehersteller an Ihre Geräte. Und weil das genau falsch ist, ist die Klarstellung der Autoren so wichtig. Auch beim Pyrgeometer des Kollegen Kramm findet diese Falsch-Angabe statt.“
+Offensichtlich sind Sie nicht in der Lage zwischen der Messung einer spektralen Verteilung und einer Pyrgeometer-Messung zu unterscheiden. Selbstverstaendlich liefern Pyrgeometer eine Strahlungsflussdichte, die ueblicherweise in J/(s m^2) ausgedrueckt wird. Da 1 J = 1 W s entspricht, erhaelt man also W/m^2. Lernen Sie erst einmal die Grundlagen zum Strahlungstransport in der Atmosphaere.
+Vertikaler Wärmefluss ist messbar mit Ballontemperatursonden und entspricht exakt der Differenz zwischen dem adiabatischen Gradient von 1°C/100 Meter und der gemessenen Temperatur, also „durchschnittlich“ 0,65°C/100m.
+anders formuliert beträgt der vertikale Wärmefluss in der Troposphäre „durchschnittlich“ 0,35°C/100m Höhe.
+Sonst wäre es in 10.000m Höhe nicht minus 50°C (Stadartatmosphäre mit Boden +15°C)
+sondern minus 85°C.
+mfG
+„Das ist des Pudels Kern zwischen „Vernunft und Religion“ (Zitat anonymer Administrator im Kommentar in #14) zu unterscheiden. Oder zwischen den Theorien der Theoretiker Kramm, Dietze & Co und der physikalischen und chemischen Wirklichkeit.“
+Offensichtlich wollen Sie mit Ihren Behauptungen, den Herrn Dietze als Theoretiker aufwerten. Erst einmal ist Dietze vollkommen fachfremd. Zweitens verfuegt Dietze ueber keine wissenschaftliche Qualifikation, denn er hat weder ein Doktorat noch eine Reihe von Arbeiten in Fachzeitschriften vorzuweisen, die als Gleichwertigkeit zum Doktorat betrachtet werden koennte.
+Ich arbeite zwar seit vielen Jahren als Theoretiker, aber ich habe zuvor auf dem Gebiet der Strahlungsmessungen und der messtechnischen Beobachtung turbulenter Stroemungen gearbeitet. Das haengt damit zusammen, dass ich neben dem Studium der Meteorologie auch noch ueber ein abgeschlossenes Maschinenbaustudium verfuege.
+Was Sie an Behauptungen zur Physik der Atmosphaere verbreiten, Herr Stehlik, ist unvereinbar mit den Gesetzmaessigkeiten der Physik der Atmosphaere.
+„Beide Energiearten sind also grundverschieden.“
+Strahlung einfach so (d.h. ohne physikalischen Sinn und Verstand) als Energieform zu bezeichnen, ist ein Fehler, den Physiker leider, sogar lehrbuchmäßig, machen.
+Strahlung ist ein elektromagnetisches Fernwirkungskraftfeld im leeren Raum, kurz ein stoffliches und energetisches Nichts.
+Aus diesem Nichts kann, wenn ganz bestimmte besondere Bedingungen erfüllt sind, Energie gewonnen werden.
+Am besten zu Verstehen ist das im Fall Radiowelle und Resonanz-Fall als Voraussetzung für den Sender-Empfang.
+Auch in der Meteorologie wird aus der Gravitation als Fernwirkungsmassen-Anziehungskraft gerne eine „potentielle Energie“ macht, obwohl das wissenschaftlich nicht „potentielle Energie“ genant werden sollte, sondern Potential oder schlicht Höhe über NN.
+mit dem Aldi-Gerät, ich habe auch ein Pyrgeometer,
+können Sie überhaupt keine CO2-Strahlung messen (Frequenzbereich ist unterhalb 15µm!).
+Und zwar nicht weil CO2 nicht strahlt, sondern weil das Gerät in diesem mittel- und langwelligen IR-Bereich überhaupt nicht misst.
+Lesen Sie einfach die Gebrauchsanweisung dieser Dinger. Das Gerät hat frequenzspezifische Sensoren, höhere „Temperaturen“ (NIR) sind damit rel. leicht zu messen, mittel-und langwellige IR sind messtechnisch für den Laien unbezahlbar.
+Hinzu kommt die Eigentemperatur des Messgeräts.
+Wie wollen Sie denn eine Temperatur von minus 80°C messen, wenn das Gerät +15° warm ist?
+Festkörper strahlen ganz sicher.
+Feste und flüssige Körper in der Luft können strahlen.
+Und sie können auch die Temperatur einer 10 m entfernten Mauer messen, WEIL die Luft dazwischen NICHT strahlt, auch wenn die Luft zwischen Messgerät und Mauer WÄRMER ist als die Mauer. In der Praxis eine wichtige Anwendung zur Erkennung von Feuchtigkeitsschäden in einer beheizten Wohnung.
+merke:
+es strahlt DURCH die Luft,
+nicht AUS der Luft.
+Anderenfalls gäbe es überhaupt keine Temperaturmessung auf Distanz.
+Die Astronomie
+http://tinyurl.com/cvrssgr
+nutzt Sensoren, die bis nahe an den absoluten 0-Punkt gekühlt sind.
+Die zeigen,
+dass 15µm Strahlung (CO2) die Erdoberfläche NICHT erreichen.
+mfG
+„Sehr geehrter Herr gkramm,
+ob einer „nur“ Elektroingenieur, Prof.Dr. oder Klimawissenschaftler ist, ist mir eigentlich völlig gleichgültig.
+Die, nun über 25 Jahre andauernde Klimadebatte, zeigt, dass gerade von „Experten“ viel wissenschaftlicher Unsinn geschrieben wird.“
+Und die meisten dieser selbsternannten Experten, sind Fachfremde, wozu auch der Elektroingenieur Dietze zaehlt. Was Dietze seit mehr als zwei Jahrzehnten treibt, ist eine Verhoehnung der Wissenschaft. Der Mann hat von der Physik der Atmosphaere so viel Ahnung wie eine Giraffe von der Boersenspekulation.
+Der Begriff „Klimasensitivitaet“ ist aus physikalischer Sicht barer Unsinn, was man sehr leicht nachweisen kann. Was Dietze allerdings daraus gemacht hat, das stellt alles in den Schatten. Das beginnt mit dem Gesetz nach Beer, Bouguer und Lambert, was er gnadenlos auf die Atmosphaere anwendet, obwohl diese Approximation unzulaessig ist, und das hoert bei der sog. Klimasensitivitaet auf.
+Was wollen Sie eigentlich mit der sog, Rueckkopplung. Diese Rueckkoplung wird zwar von Schneider & Mass (1975) mit dem sog. globalen Ebergiebilanzmodell beschrieben, aber dieses Modell ist aus physikalischen und mathematischen Gruenden zu verwerfen. Die Rueckkopplung beruht also auf hanebuechenem Unsinn.
+Ob ein System sich in einem stabilen Zustand befindet oder nicht, darueber entscheidet nicht ein voellig falsches Modell, sondern vor allem der 2. Hauptsatz der Thermodynamik.
+Im uebrigen sollten Sie zur Kenntnis nehmen, dass ich schon seit vielen Jahren gegen diese CO2-Treibhausbloedelei kaempfe. Der Begriff stammt von dem leider verstorbenen Prof. Dr. habil. Gerhard Gerlich, der 30 Jahre lang Theoretische Physik an der TU Braunschweig gelehrt hat.
+„Konvektion ist keine Einbahnstraße, sondern ein Kreislauf.
+Tags kühlt sie, nachts erwärmt sie.“
+Rekordverdächtig als Traurigmacher des Monats.
+Ob unsereins wohl heute Nacht auf der Parkbank von der Atmosphäre gewärmt werden würde?
+Haben Sie eigentlich noch Ihre Approbation?
+„Flüsse an Wärmeenergie durch die Atmosphäre nach oben erfordern zwei Messpunkte in unterschiedlicher Höhe.
+Möglich wäre das auch mit zwei IR-Spektren in unterschiedlicher Höhe, die Differenz beider Spektren (in der oben gewählten Maßzahl) wäre dann tatsächlich der Strahlungsfluss von einem Messort zum anderen.“
+Der Strahlungsfluß an einem Ort wird an diesem Ort gemessen, indem man die Strahlungsenergie in einer Fläche absorbiert und die entsprechende Leistung misst und umrechnet. Dazu muß man keine Differenzen bilden. Flußgrößen sind immer durch (orts)punktweise definierte Vektorfelder definiert.
+„Sehen Sie sich doch mal die Ordinate an: mW/m²/Steradiant/cm^-1“
+Ja, diese Dimension schreiben die Gerätehersteller an Ihre Geräte. Und weil das genau falsch ist, ist die Klarstellung der Autoren so wichtig. Auch beim Pyrgeometer des Kollegen Kramm findet diese Falsch-Angabe statt.
+Flüsse an Wärmeenergie durch die Atmosphäre nach oben erfordern zwei Messpunkte in unterschiedlicher Höhe.
+Möglich wäre das auch mit zwei IR-Spektren in unterschiedlicher Höhe, die Differenz beider Spektren (in der oben gewählten Maßzahl) wäre dann tatsächlich der Strahlungsfluss von einem Messort zum anderen.
+„richtig ist jedenfalls sicher dass eine Wirkung nicht zu beobachten ist“
+Das gilt nur für Wetter- und Klimaphänomene, aber nicht für die Physik der Atmosphäre.
+Hier wird experimentell die Abkühlung um 5 bis 10 K durch den CO2-Anstieg in der Stratosphäre gemessen. (Leibniz Institut Atmosphären-Physik, Ostseebad Kühlungsborn)
+In der Stratosphäre ist die CO2 Strahlungskühlung am intensivsten, das bedeutet aber nicht, dass sie in Bodennähe Null wäre!
+Die Strahlungskühlung in Bodennähe ist mit jedem handelsüblichen IR-Fernthermometer messbar.
+Das Gerät ändert seine Messmethodik nicht, wenn man es von unten Richtung Boden nach oben Richtung Himmel dreht. Aber die Atmosphäre hat keine Oberfläche, sondern nur ein Volumen.
+Die Messergebnisse sind dennoch völlig eindeutig und überall reproduzierbar wiederholbar und der Wetterlage entsprechend! Die Strahlungskühlung geht bei Regen gegen Null, ohne je Null zu werden und ist bei klarem Himmel maximal. Alle ganz logisch und richtig!
+Messergebnisse hier: http://tinyurl.com/kgje845
+Jemand wie Dietze, der andere „Küchenschabe“ u.ä. nennt, kann gar kein „Herr“ sein.
+wer so ein Differenzspektrum zeigt:
+http://tinyurl.com/cnrbxyn muss doch den eklatanten logischen Widerspruch zu behaupteten Behinderung der Abstrahlung erkennen!
+Man kann doch nicht ernsthaft behaupten, die Erdstrahlung kommt im 15µm -Bereich „nicht durch“, aber trotzdem strahlt das CO2 wie ein Schwarzkörper völlig ungehindert „nach unten“ ???
+Also entweder oder.
+Zudem muss hier immer wieder daran erinnert werden, dass die Skalierung mit der Wellenzahl (wavenumber, cm-1) IRREFÜHREND ist, weil sie ein Strahlungsmaximum ausgerechnet bei CO2 suggeriert.
+Das ist bekanntlich FALSCH.
+Das Strahlungsmaximum der Erdoberfläche ist „im freien Fenster“ zwischen 8 und 14µm.
+zu Admin, wenn Sie Frau Thiele und Herrn Kramm löschen, wundere ich mich
+ich wundere mich, dass Sie das nicht löschen:
+#60: T.Heinzow, denn mein Satz:
+„Es gibt technisch KEINE MÖGLICHKEIT Strahlung gleicher Frequenz nach der Entfernung der Strahlungsquelle zu unterscheiden.“
+ist völlig korrekt!
+mfG
+der 2.HS ist das richtige Stichwort,
+allerdings ist „Wärmetransport“ IMMER diabatisch, nicht adiabatisch.
+Und 2.HS heißt auch dass nachts, wenn die Sonne nicht scheint, die Atmosphäre, weil sie nicht strahlt, rel. wärmer wird als die strahlende Erdoberfläche und damit der Wärmestrom sich umkehrt. Konvektion ist keine Einbahnstraße, sondern ein Kreislauf.
+Tags kühlt sie, nachts erwärmt sie.
+Die Situation ohne Atmosphäre zeigt der Mond:
+am Tag VIEL heißer,
+in der Nacht VIEL kälter.
+mfG
+„Auf Ihre ausführungen gehe ich hier nicht weiter ein“
+was ja nichts anderes heißt, als das Sie sie nicht verstanden haben.
+Macht aber nichts, ich wollte Ihre Irrtümer nur berichtigen.
+„aber ein Rat: Rechnen Sie doch einmal alles durch, was Sie da an Behauptungen aufstellen.“
+Etwas unkonkret…was genau nun?
+Aber grundsätzlich das ist natürlich alles schon auch quantitativ verifiziert – wie allgemein in der Physik.
+„Irgendwelche Texte, aus Wikipedia oder auch woher, hier reinzukopieren, ist keine Basis für eine Debatte.“
+Der Text ist – wie Sie eigentlich schon selber wissen (kann man ja heutzutage schnell überprüfen) – nicht reinkopiert, sondern heute kurz vor 10.54 von mir eigenhändig verfasst worden.
+Besser kann man sich nicht outen als „Schutztruppe“ der CO2-Nutznießer.
+Man muß Dietze richtig dankbar sein, daß er Auslöser dieser einzigartigen Offenbarung wurde, mit der sich auch das Rätsel auflöst, warum EIKE die staatliche Anerkennung als „Forschungs- und Bildungsinstitut“ genießt.
+Laut EIKE-Präsident Thuss betreibt EIKE „genuine Forschung“.
+Laut Satzung ist Ziel EIKEs: „Beendigung der Kernenergie-Diskrimininierung“.
+Der Rest Ihres Kommentars wurde wegen Regelverletzung gelöscht.
+“Nein, das ist Atom- bzw. Molekülphysik………….. e = h*v, v=Frequenz der Strahlung, h=Plancksches Wirkungsquantum…………“
++++++++++++++++
+Ja da hilft wohl zwecks Erklärung zusätzlich auch noch die Quantenphysik zu bemühen!
+Denn :
+Die Kohlendioxid -Konzentration in der Atmosphäre über der nördlichen Halbkugel der Erde hat im vergangenen April laut der Weltorganisation für Meteorologie einen neuen monatlichen Höchststand von durchgehend 400 ppm erreicht.
+(Vor der Industrialisierung lag die CO2-Konzentration noch bei 278 ppm.)
+Dass es trotzdem noch immer nicht katastrophal wärmer geworden ist, könnte vielleicht quantenphysikalisch begründbar sein, denn die Quantenphysik widerspricht doch auch dem gesunden Menschenverstand!
+Sie erlaubt es, dass
+die Wirkung zeitlich vor der Ursache liegt,
+ein Teilchen an zwei Orten gleichzeitig ist ,
+eine Katze gleichzeitig tot und quicklebendig ist!
+(Je nachdem, wann wir hinschauen, verhält sich das Elektron, wie es die Alltagserfahrung sagt, oder nach den Gesetzen der Quantenphysik.)
+Man stelle sich deshalb ganz einfach die Menschheit in einer verschlossenen, von außen nicht einsehbaren Lebenswelt (“primordialen Sphäre “) alias UMWELT vor und dazu, ebenfalls noch in dieser UMWELT, kernphysikalische Massen- Mord-Apparaturen, die alle miteinander vom Zerfall eines einzigen radioaktiven Atoms gesteuert sind.
+Der Zerfallsvorgang läuft komplett zufällig ab. Man kann zwar sagen, wie viele von 1000 Atomen binnen einer Stunde zerfallen werden. Doch es ist unmöglich, die restliche Lebenszeit für ein einzelnes Atom zu bestimmen.
+In welchem Zustand befindet sich die Menschheit in ihrer von außen nicht einsehbaren UMWELT?
+Aus Sicht der Quantentheorie lautet die Antwort:
+In einer Überlagerung aus den beiden Zuständen „tot“ und „lebendig“. Doch sobald ein außerirdischer quasi göttlicher Beobachter diese UMWELT-KISTE öffnet, entscheidet sich der Zustand der Menschheit.
+„Wasser strahlt (emittiert), Luft strahlt NICHT.“
+Naturwissenschaft ist Präzision und Richtigkeit.
+N2 und O2 strahlen nicht, Luft aber schon und zwar sehr intensiv wegen H2O Gas und CO2 Gas.
+Wasser strahlt, grundsätzlich ja, aber jeder Aggregatzustand völlig anders, Eis sehr wenig, Ozean etwas, Gas extrem viel.
+Grund dafür ist Bewegungsfreiheit des emittierenden innermolekularen elektrischen Bindungsdipols der Knickschwingung H-O-H bei der Schwingung des O nach oben und unten (aus der Zeile heraus nach oben und unten).
+„Was hier gemessen wird ist das von mir unter #30 beschriebene elektromagnetische Feld IR-aktiver chemischer Bindungen. Ein solches Spektrum ist kein Energiefluss und auch keine Gegenstrahlung“
+Sehen Sie sich doch mal die Ordinate an: mW/m²/Steradiant/cm^-1
+Wenn 105 mit Pi multipliziert wird und dann mit der mittleren Breite des „CO2-Zahns“ von 127 cm^-1, erhält selbst ein naturwiss. promovierter Halblaie 41,9 W/m². Das soll kein Energiefluss und auch keine Gegenstrahlung sein?? Was hätten Sie denn gern?
+Nota bene ist elektromagnetische Strahlung ein Energiefluß, und da der Energieerhaltungsatz gilt, wird diese Energie nach Absorption im Boden mangels anderer Möglichkeiten in Wärme umgewandelt – da mag mancher Jünger des eingebildeten 2.HS protestieren soviel er will.
+„Es gibt technisch KEINE MÖGLICHKEIT Strahlung gleicher Frequenz nach der Entfernung der Strahlungsquelle zu unterscheiden.“
+Doch, die gibt es.
+Aber davon versteht der Strahlenmediziner nix. Wahrscheinlich glaubtder immer noch, daß Bernbeck aus Barmbek unter hygienischen Bedingungen genial operierte und das Streuen von Terramycinpuder in offene Wunden vielen Menschen Gesundheit gebracht hat.
+„“Das würde den Prinzipien (um einmal den Juristen Baum zu bemühen) widersprechen.“
+Sie bestätigen Sie gerade.“
+Die Prinzipen (Axiome) der Physik kann man nicht bestätigen.
+„Der Wasserdampf-Anteil liegt zwischen 0 und 4 % in der Atmosphäre.“
+Die spez. Wärmekapazität von Wsserdampf liegt bei 2 kJ/(kG*K). Nach Milchmädchen verringert ein steigender Wasserdampfanteil die Dichte der Luft nichtlinear (Magnus-Formel) in Abhängigkeit von der Temperatur. Gleichzeitig erhöht er die spez. Wärmekapazität. Das ist aber angesichts der Schwarzkörpertrahlung der Erdoberfläche (incl. Pflanzen) vernachlässigbar. Bei einer isothermen Atmophäre enthielte die Luftsäule über einer gleichtemperierten Wassersäule von 2,5 m dieselbe Wärmemenge.
+Deshalb: Wo verbleibt denn die Energie, die über dem Ozean abgestrahlt wird?
+„Jetzt überlegen Sie einmal. Es ist eine einzige Messung aus Alaska. Der „Treibhauseffekt“ soll ja überall und zur jeder Zeit wirken. Somit müßte man ihn auch überall u. jederzeit messen können“
+Wie kommen Sie darauf dass man das nicht kann? Nach Ihrer grotesken Logik könnten Sie auch die Schwerkraft anzweifeln wenn man Ihnen nur eine Messung vorlegt… Erstaunlich, welche pseudophysikalischen Blüten die Ablehnung des unerwünschten TE so treibt…
+Lieber Herr Baecker,
+Sie kommen mir manchmal vor, wie ein Schüler, der immer den Finger hebt, und ruft: „Ich weiß was“.
+Auf Ihre ausführungen gehe ich hier nicht weiter ein, aber ein Rat: Rechnen Sie doch einmal alles durch, was Sie da an Behauptungen aufstellen.
+Irgendwelche Texte, aus Wikipedia oder auch woher, hier reinzukopieren, ist keine Basis für eine Debatte.
+MfG
+Eugen Ordowski
+Hallo, Herr Dr. Paul,
+wenn Sie alles oberhalb des absoluten 0-Punktes als „Wärme“ dwfinieren, gebe ich Ihnen Recht.
+Wie der Wärmetrastport in der Atmosphäre funktioniert, wissen Sie ja auch. Alles adiabatische Vorgänge, die zu den bekannten Temperaturen führen.
+Das Wasser hat praktisch die höchste spezifische Wärme, somit DER Wärmespeicher überhaupt.
+Vertikale u. horizontale Luftströmungen verteilen diese, durch Konvektion u. Strahlung, erzeugte Erwärmung der Moleküle.
+Wie schon öfters ausgeführt, bei den niedrigen Temperaturen, wandeln auch IR aktive Moleküle diese geringe Strahlungsleistung nur in kinetische Energie um.
+Nochmals, die Atmosphäre ist bezogen auf die Erde „eiskalt“. Energietransport von dort zur der warmen Erde, kann diese niemals erwärmen.
+Siehe 2. HT.
+MfG
+Eugen Ordowski
+der Lügner sind diejenigen, die solche „Messungen“ behaupten:
+http://tinyurl.com/cnrbxyn
+denn das sind Differnzspektren!
+Das nicht:
+http://tinyurl.com/bso5jkc
+und das auch nicht:
+http://tinyurl.com/cvrssgr
+Fehlt nur noch, dass Sie jetzt den Pyrgeometer zitieren,
+der einfach aus einer Temperatur eine Schwarzkörperstrahlung macht,
+der allergrößte physikalische Fehler aller Treibhausvertreter!
+mfG
+„Hier ist die Messung von Barrow/Alaska mit der CO2-Gegenstrahlung um 15 mue (667 Wellen/cm) am Boden, die integriert etwa 42 W/m2 ausmacht:
+http://tinyurl.com/cnrbxyn“
+Was hier gemessen wird ist das von mir unter #30 beschriebene elektromagnetische Feld IR-aktiver chemischer Bindungen. Ein solches Spektrum ist kein Energiefluss und auch keine Gegenstrahlung.
+Ein Spektrum zur Strahlung zu erklären
+Quelle:
+P. Camagni, S Sandroni (Joint Research Centre, Ispra, Italy): Optical Remote Sensing of Air Pollution, ELSEVIER, 1984, Seite 3
+1. Scattering, Absorption, Emission and Radiative Trensfer in the Atmosphäre
+1.4 Radiant Flux Density
+Entscheidender Satz:
+The quantities that have been introduced, describe the local state of the radiation field independently of whether there is a radiating or an irradiated surface or not and whether a detector is present or not.
+Übersetzung der wesentlichen Aussage:
+Diese Größen beschreiben den l o k a l e n Z u s t a n d des Strahlungsfeldes!
+selbstverständlich ist die Atmosphäre ein Wärmespeicher.
+Gas ist ein „Aggregatszustand“ der per definitione ohne Wärmeenergie gar nicht existieren kann, von einzelnen Molekülen außerhalb des Schwerefeldes im Weltraum mal abgesehen.
+Und Gas hat auch Gewicht,
+auf 1 m2 Fläche der Erdoberfläche in Meereshöhe ca. 10 Tonnen. ZEHN TONNEN.
+Warum also sollte das kein Wärmespeicher sein???
+Der atmosphärische Wärmespeicher ist bei diesen beliebten „Bilanzen“ deshalb so wichtig,
+weil die erwärmte Troposphäre zu 99,96% eben NICHT ihre Wärme durch Strahlung an den Weltraum abgeben kann.
+Das kann der viel größere Ozeanspeicher, aber nicht die Atmosphäre. Wasser strahlt (emittiert), Luft strahlt NICHT.
+Noch ein großer Unterschied,
+Luft ist ganz erheblich komprimierbar, Wasser nicht.
+Deshalb hat der Ozean vergleichsweise kaum einen Temperaturgradient in der Vertikalen, die Luft schon.
+Und die Zirkulationsgeschwindigkeit von Luft ist wegen der viel geringeren Viskosität so viel höher,
+dass der Äquatorial/Pol-Gradient trotz geringerer Wärmekapazität zu ca. 70% durch die Atmospäre reduziert wird.
+Die Pole wären sonst ca. 50°C kälter,
+siehe Mondoberfläche.
+Das ist aber altes Meteorolgenwissen.
+Der reine Schwerkraft-Höhengradient ist nicht 6,5°/1000m, sondern knapp 10°C/1000m.
+Die Differenz entspricht dem vertikalen Wärmetransport.
+Wärmetransport OHNE Strahlung.
+mfG
+„Ca 99 % der Moleküle in der Atmosphäre sind nicht IR aktiv, erwärmen sich trotzdem.“
+…und kühlen können sie sich auch. Das kommt dadurch zustande, weil die Moleküle gegenseitig Energie austauschen, per Stöße, die IR-aktiven zusätzlich noch per Strahlung. Wenn dem Gasensemble von außen Energie zugeführt wird (z.B. durch Strahlung) so wird diese Energie durch Stöße auf das gesamte Ensemble verteilt (man nennt dies Thermalisieren). Ebenso bei Abfuhr: wenn N CO2 Moleküle abstrahlen, so wird die Energie e für jedes Photon (N) durch Übergang der N Moleküle in einen niedrigeren Anregungszustand geliefert. Die Energie N*e wird aus dem Ensemble durch Stöße nachgeliefert. Wenn es keine Zufuhr gibt, so würde sich das (gesamte) Gasensemble also entsprechend dem Energieverlust abkühlen. Im thermischen Gleichgewicht, d.h. konstanter Temperatur, halten sich Energiezufuhr- und abfuhr von außen die Waage. Diese ist im LTE erfüllt, wenn die Strahlung thermische ist und aus der gleichwarmen Umgebung stammt.
+„Was macht denn den Unterschied zwischen den IR aktiven Molekülen und den nicht IR aktiven Molekülen aus?“
+Die elektronischen (Energie)-Zustände, die bestimmen u.a. die optischen Eigenschaften der Moleküle.
+„Alles in der Strahlenphysik beschrieben.“
+Nein, das ist Atom- bzw. Molekülphysik.
+„Welche Energie ist überhaupt notwendig, um die IR aktiven Moleküle überhaupt zu Strahlen zu bringen? (Photonen zu emittieren, siehe CO2 Laser).“
+e = h*v, v=Frequenz der Strahlung, h=Plancksches Wirkungsquantum.
+„Alle physikalischen Gesetze zeigen immer nur eines, bei den auf der Erde u. Atmosphäre herrschenden Temperaturen können die Moleküle die Energie nur in kinetische Energie umwandeln, auch die IR aktiven Moleküle!“
+Das ist falsch, siehe z.B. IR-Bilder der Erde und Atmosphäre.
+„Die Atmospäre erfüllt 2 Aufgaben:“
+Ein bisschen wenig…
+„Und, letztendlich, liefert der Mond ja genug Möglichkeiten, so manche Theorie zu überprüfen.
+(Die Tage u. Nächte sind ja ziemlich lange. Siehe wikipedia).
+Welche Temperaturen herrschen dort?
+Welche Temperaturen dürften aber theoretisch sich dort nur einpendeln?“
+Der Temperaturverlauf auf dem Mond läßt sich sehr gut durch die Theorie erklären. Die Amplitude zwischen Tag- und Nachtseite ist natürlich deswegen so hoch, weil der Mond so langsam rotiert.
+selbstverständlich ist die Atmosphäre ein Wärmespeicher.
+Gas ist ein „Aggregatszustand“ der per definitione ohne Wärmeenergie gar nicht existieren kann, von einzelnen Molekülen außerhalb des Schwerefeldes im Weltraum mal abgesehen.
+Und Gas hat auch Gewicht,
+auf 1 m2 Fläche der Erdoberfläche in Meereshöhe ca. 10 Tonnen. ZEHN TONNEN.
+Warum also sollte das kein Wärmespeicher sein???
+Der atmosphärische Wärmespeicher ist bei diesen beliebten „Bilanzen“ deshalb so wichtig,
+weil die erwärmte Troposphäre zu 99,96% eben NICHT ihre Wärme durch Strahlung an den Weltraum abgeben kann.
+Das kann der viel größere Ozeanspeicher, aber nicht die Atmosphäre. Wasser strahlt (emittiert), Luft strahlt NICHT.
+Noch ein großer Unterschied,
+Luft ist ganz erheblich komprimierbar, Wasser nicht.
+Deshalb hat der Ozean kaum einen Temperaturgradient, die Luft schon.
+Und die Zirkulationsgeschwindigkeit von Luft ist wegen der viel geringeren Viskosität so viel höher,
+dass der Äquatorial/Pol-Gradient trotz geringerer Wärmekapazität zu ca. 70% durch die Atmospäre reduziert wird.
+Die Pole wären sonst ca. 50°C kälter,
+siehe Mondoberfläche.
+Das ist aber altes Meteorolgenwissen.
+Der reine Schwerkraft-Höhengradient ist nicht 6,5°/1000m, sondern knapp 10°C/1000m.
+Die Differenz entspricht dem vertikalen Wärmetransport.
+Wärmetransport OHNE Strahlung.
+mfG
+Sie schreiben:
+—————————
+————————–
+„Hier ist die Messung von Barrow/Alaska mit der CO2-Gegenstrahlung um 15 mue (667 Wellen/cm) am Boden, die integriert etwa 42 W/m2 ausmacht“
+Ja, diese Grafik benutzt auch Prof. Dr. Lüdecke in seiner Darstellung des „Treibhauseffektes“, von 2010.
+Jetzt überlegen Sie einmal. Es ist eine einzige Messung aus Alaska.
+Der „Treibhauseffekt“ soll ja überall und zur jeder Zeit wirken. Somit müßte man ihn auch überall u. jederzeit messen können.
+Wäre das der Fall, würden wir hier u. heute darüber überhaupt nicht diskutieren.
+MfG
+Eugen Ordowski
+„Erfreulich sind die Erfolge der Wetterkundler, denen es inzwischen gelingt, wahrscheinliche Zustandsänderungen sogar für eine Woche in die Zukunft zu ermitteln.“
+Wer sich für die Aufteilung in Rückstrahlung zur Erdoberfläche und Emission in den Weltraum interessiert, sollte den Wasserkreislauf nicht übersehen! (Das CO2 ist nämlich lediglich ein Untermieter, der die „Optik“ (das Spektrum, nicht den gesamten Energiefluss) bearbeitet!
+„Leider kann ich beim EIKE-Jahrestreffen nicht dabei sein. Da wird hoffentlich ein intensive und grundlegende Auseinandersetzung über Ihren THE-XXXXXX stattfinden.“
+Ich kann leider auch nicht und die THE-Gegner Ermecke, Thieme und Tscheuschner haben EIKE bereits verlassen, Beck und Borchert sind tot. Theo Eichten resigniert und ich sollte wirklich austreten.
+Vielleicht sollte das „Manifest von Heiligenroth“ neu und noch eindeutiger formuliert werden.
+„Was dann oben CO2 ab 20% des Druckes Stratosphäre davon in den Weltraum „abstrahlen“ kann konnte mir quantitativ noch kein Physiker genau vorrechnen,…“
+Was für eine Gläubigkeit an Rechen-Ergebnisse?
+Die enorme IR-Emission aus der oberen Atmosphäre ins Weltall ist gemessen. Da braucht es keine Rechnung. Und die Theorie dazu ist ganz einfach:
+Triebkraft ist unendliche und absolute „Kälte“ des Weltalls. Und die Fähigkeit Energie von dort ins All abzugeben, beruht auf Verdunstung, IR-Strahlung innerhalb der Atmosphäre und Thermik.
+Warum können die die Daten von IPCC, NASA und den Lehrbüchern nicht akzeptieren? Und da oben gibt es wegen des Tripelpunktes des Wasser praktisch kein H2O Gas mehr, sondern nur noch CO2 und ganz weit oben nur noch NO (siehe Sonnensturm und dessen Energie-Vernichtung).
+http://tinyurl.com/cvrssgr
+EM-Strahlung bewegt sich mit Lichtgeschwindigkeit, egal wo die herkommt,
+das ist Physik.
+Ein Detektor misst Frequenz und Intensität (Strahlungsdichte) mehr nicht,
+das ist Physik.
+Es gibt technisch KEINE MÖGLICHKEIT Strahlung gleicher Frequenz nach der Entfernung der Strahlungsquelle zu unterscheiden.
+Das hätten Sie wohl gerne und das musste auch Herr Harde akzeptieren.
+mfG
+Mit dem Werkzeug der Naturwissenschaft zeigt die Beobachtung, dass Ozeane und Festland Energie exklusiv als Strahlung der Sonne und deren teilweiser Rückstrahlung aus der Atmosphäre erhalten. Von der Materie in die Atmosphäre ausgehende Energieflüsse umfassen Strahlung, Verdampfung, Konvektion und Wärmeleitung. Diese Vorgänge schaffen bekanntlich mit der Absenkung der Temperaturen in der Atmosphäre die Grundlage für den lebenswichtigen Wasserkreislauf.
+Erfreulich sind die Erfolge der Wetterkundler, denen es inzwischen gelingt, wahrscheinliche Zustandsänderungen sogar für eine Woche in die Zukunft.
+Auf dieser Grundlage lässt sich die Kakophonie „der Fachleute“ beliebig fortsetzen.
+Oh, Mann, was für ein XXXXXX: „absorbieren und emitieren“…das soll „Physik der Atmosphäre“ sein?
+Es grüsst erneut der 2. HS der Thermodynamik.
+Sie, werter Admin/Lüdecke, sollten diesen XXXXXX ersteinmal einem seriösen Chemiker (!) erklären. Ohne diesen Vorgang wissenschaftlich zu erklären, bezeichnen Sie diese Gase bereits als „Treibhausgase“ („THE-Gase“). Das entlarvt Sie erneut, mit welchen Absichten Sie unterwegs sind: Der THE darf (zugunsten der Kernenergie) nicht sterben.
+Leider kann ich beim EIKE-Jahrestreffen nicht dabei sein. Da wird hoffentlich ein intensive und grundlegende Auseinandersetzung über Ihren THE-XXXXXX stattfinden.
+Hallo, Herr Dr. Paul,
+wer an den „Treibhauseffekt“ glaubt, versucht ja dauernd, mittels den physikalischen Gesetzen, zu beweisen, dass es ihn doch gibt.
+Seit ca 25 Jahren tun es ja sehr viele, mit sehr unterschiedlichen Resultaten! (Wie man auch hier in vielen Kommentaren lesen kann).
+Dabei ist auffällig, wie oft solche Kommentare die totale Unkenntnis der Strahlenphysik, wie auch der Gesetze der Thermodynamik der Gase, dokumentieren.
+Auch hier könnte schon alleine die Logik helfen.
+Ca 99 % der Moleküle in der Atmosphäre sind nicht IR aktiv, erwärmen sich trotzdem.
+Was macht denn den Unterschied zwischen den IR aktiven Molekülen und den nicht IR aktiven Molekülen aus?
+Alles in der Strahlenphysik beschrieben.
+Welche Energie ist überhaupt notwendig, um die IR aktiven Moleküle überhaupt zu Strahlen zu bringen? (Photonen zu emittieren, siehe CO2 Laser).
+Alle physikalischen Gesetze zeigen immer nur eines, bei den auf der Erde u. Atmosphäre herrschenden Temperaturen können die Moleküle die Energie nur in kinetische Energie umwandeln, auch die IR aktiven Moleküle! ( Ihre Atome bilden ein Dipol, haben somit mehr Schwingungsmöglichkeiten).
+Die geringe Intensität der Erdstrahlung ist nur in der Lage, die bodennahe Luft etwas zu erwärmen.
+Danach geht es steil „bergab“, ca 6.5 Grad C pro tausend Meter. Bei 10 km haben wir – 56 Grad C!
+Die Atmosphäre als „Wärmespeicher“ zu bezeichnen, ist nur blanker Unsinn.
+Die Atmospäre erfüllt 2 Aufgaben:
+a) Sie verhindert eine starke Sonneneinstrahlung, hier besonders das H2O, kann man leicht nachweisen. Man messe die Sonneeinstrahlung z.B. in den äquatornahen Wüsten, trockene Luft.
+Um die Mitttagszeit wird man bis zu 1.250 W/m² messen können.
+b) Sie ist eine riesige „Wärmeverteilungsmaschine“.
+Und, letztendlich, liefert der Mond ja genug Möglichkeiten, so manche Theorie zu überprüfen.
+(Die Tage u. Nächte sind ja ziemlich lange. Siehe wikipedia).
+Welche Temperaturen herrschen dort?
+Welche Temperaturen dürften aber theoretisch sich dort nur einpendeln?
+MfG
+Eugen Ordowski
+„Keinesfalls wurde allerdings eine „CO2-Gegenstrahlung“ auf der Erdoberfläche GEMESSEN. Alle, die sich wie Herr Dietze darauf berufen, sind Schwindler“
+Bayerl, Sie wissen offenbar nichts über thermische Emission von Gasen und haben leider noch nie solch eine Messung gesehen. Sie verbreiten hier unverfroren Ihre Laien-Lügen. Hier ist die Messung von Barrow/Alaska mit der CO2-Gegenstrahlung um 15 mue (667 Wellen/cm) am Boden, die integriert etwa 42 W/m2 ausmacht:
+http://tinyurl.com/cnrbxyn
+Admin sagt:
+„Niemand der sich mit der Physik der Atmosphäre befasst, kann leugnen, dass die „THE-Gase“ Infrarotstrahlung (und damit Energie) absorbieren und wieder (tlw.) emitieren.“
+Das tut, glaube ich wenigstens, niemand.
+Die entscheidende Frage liegt bei „wieder (tlw.) emitieren“.
+Und hier liegt auch das Kernproblem der Diskussion.
+Dabei sind die Praktiker hier der Meinung, daß „unten“ thermalisiert wird und „oben“ abgestrahlt wird.
+Für die Theoretiker hier gibt es keine Thermalisierung, sie wenden die Strahlungstransportgleichung an.
+Nur ein Standpunkt kann richtig sein…
+„http://tinyurl.com/cvrssgr
+DAS IST eine Messung! CO2 absorbiert, aber strahlt NICHT bei einem Druck und einer Dichte der unteren Atmosphäre.“
+Ich hatte es schon öfter gefragt, und sie schweigen jedesmal. Ich versuchs einfach nochmal:
+Lesen Sie auch den Text zu den Diagrammen? Es geht um Infrarot-Astronomie und die Diagramme zeigen, wieviel der Infrarotstrahlung von Sternen auf der Erde bzw. in der Höhe der Sofia detektiert werden können: (https://goo.gl/JXbcPG) „Die folgende Abbildung zeigt einerseits, wieviel Prozent der elektromagnetischen Strahlung in den jeweiligen Spektralbereichen tatsächlich am Erdboden ankommt und somit beobachtbar ist. In der typischen Flughöhe von SOFIA von etwa 13 Kilometer kann andereseits der großteil der Infraroten Strahlung detektiert werden.“ Es geht also um ein Signal, dass von entfernten Sternen ausgeht und naheliegenderweise am Erdboden nicht mehr zu erkennen ist. In großer Höhe jedoch schon noch. Das ist keine Aussage darüber, ob Co2 in Bodennähe strahlt, oder nicht …
+„Und der Weg dahin ist mit vielen Hindernissen, Umwegen etc. gespickt. Da kann schon ein großer Teil der Energie – letztendlich- landen.“
+Das würde den Prinzipien (um einmal den Juristen Baum zu bemühen) widersprechen. Die trockene Atmosphäre kann nur entsprechend der Wärmekapazität der Gase Energie als kinetische Energie = Wärme speichern. Mit Wasserdampf kommt noch die latente Wärme hinzu. Über jedem m² Erdoberfläche lagern ca. 10 Tonnen Atmosphäre (10 m Wassersäule oder 760 mm Quecksilber). Die Wärmekapazität der Luft beträgt 1 kj/(kg*K). Viel ist das nicht gegenüber flüssigem Wasser mit dem Vierfachen.
+Deshalb: Wo verbleibt denn die Energie, die über dem Ozean abgestrahlt wird? In der Luft kann ja nicht viel bleiben. Wäre es anders würde der besso-Grill ja funktionieren.
+ich bin auch mit der „Strahlungsübertragungsgleichung (RTE)“ incl. Manabe & Strickler, die ich gelesen habe, NICHT einverstanden,
+denn auch das ist KEINE Messung, sondern ein Modell einschließlich der Vorstellung eines lokalen Strahlungsgleichgewichts, das irgendwie an ein perpetuum mobile erinnert.
+http://tinyurl.com/cvrssgr
+DAS IST eine Messung!
+CO2 absorbiert, aber strahlt NICHT bei einem Druck und einer Dichte der unteren Atmosphäre.
+mfG
+Für CO2 geht das dabei nicht nur um wieviel, sondern auch, falls CO2 strahlt, wohin.
+Das IST bereits alles gemessen: oberflächennah ist es NUR die Absorption, klar definiert mit der Absorptionslänge.
+Also kürzer oder länger in Abhängigkeit der Zahl der CO2-Moleküle, die nicht strahlen.
+Sonst gäbe es den Begriff nicht.
+Was dann oben CO2 ab 20% des Druckes Stratosphäre davon in den Weltraum „abstrahlen“ kann konnte mir quantitativ noch kein Physiker genau vorrechnen, zumal die Energie dafür überwiegend NICHT von der Erdoberfläche stammt, sondern von der Sonne (Ozonschicht), was daher auf der Erdoberfläche nicht mehr ankommt.
+Das sind „Bilanzfragen“.
+Keinesfalls wurde allerdings eine „CO2-Gegenstrahlung“ auf der Erdoberfläche GEMESSEN.
+Alle, die sich wie Herr Dietze darauf berufen,
+sind Schwindler.
+mfG
+nun kommen Sie der Sache näher.
+99,96% unserer (wasserfreien) Luft können NICHT strahlen und isolieren DESHALB die Erde zum (kalten) Weltall hin.
+Ich möchte nur noch darauf hinweisen, dass man das trotzdem NICHT Treibhauseffekt nennen sollte.
+Bei diesem „Informationskrieg“ darf man ihnen nicht entgegen kommen und auch nur den kleinen Finger geben.
+„Kritiker“ werden ja auch nicht höflich behandelt, sondern unverschämt polemisiert z.B. als Klimataliban (Lesch).
+Der „Treibhauseffekt“ beruht auf der Verhinderung der (kühlenden)Luftzirkulation.
+„Atmosphäreneffekt“ ist dagegen die korrekte Bezeichnung und beinhaltet zusätzlich noch die schwerkraftbedingte ERDNAHE Luftverteilung mit entsprechendem Temperaturgradient. Denn auch Luft hat ein Gewicht.
+Offensichtlich eine physikalisch unüberwindbare Verständnishürde für alle Treibhauskünstler.
+Jetzt muss nur noch für Herrn P. Dietze u.a. zum 1000 mal erklärt werden,
+warum auch das 0,04% CO2 bei einem Gasdruck von 1 atm NICHT strahlt.
+mfG
+Hallo, Herr besso keks,
+Patent angemeldet. Wenn im Patentamt genauso grosses „Fachwissen“ vorhanden ist, wie hier teilweise dokumentiert, werde ich das Patent auch erhalten.
+Ich bin gerade dabei, eine neue „Wärmekraftmaschine“ zu entwicklen.
+Sehen Sie, die Erde strahlt ja schon bei 15 Grad C mit einer Leistung von ca 396 W/m², dazu kommt ja noch der „Treibhauseffekt“ mit ca 333 W/m², also zusammen ca 729 W/m²!!!
+Damit muß sich doch etwas machen lassen, oder?
+MfG
+Eugen Ordowski
+Wirken… Jedenfalls nicht so, wie es beim „Treibhauseffekt“ behauptet wird, weil es der Energie aus dem Nichts gleich wäre! Zum 100-sten mal…
+„Füllen sie Ihren Griller ordentlich mit Eiswürfeln,
+Ihr Hähnchen soll ja auch dann gar u. knusprig werden.“
+Guter Tipp!
+Danke!
+Ich glaube, ich nehme Trockeneis.
+Ist ja CO2, strahlt wie blöd und das verdampfte CO2 isoliert mein Hähnchen zusätzlich.
+Und nicht nur das:
+es heizt es auch noch weiter auf.
+Genial!
+Sollten Sie zu Patent anmelden.
+Ich nehme gleich eine Lizenz.
+„“Durch Strahlung wird nämlich keine Wärme, wohl aber Energie (W/m²) aus der kälteren Atmosphäre auf den wärmeren Boden transportiert, wo sie absorbiert und in Wärme umgewandelt – und dann auch wieder emittiert wird.““
+Werter Herr Dr. Stehlik,
+das ist Treibhausphysik, das Neueste vom Neuesten.
+Basis für für eine Reihe neuer, sehr nützlicher Produkte!
+Zweifeln Sie bitte nicht dran, ich brauch das dringend für meinen Hähnchengrill…
+Grill, Hähnchen grill!
+„Denken Sie sich eine +15 Grad warme beheizte Platte, die einer kalten Platte mit -270 Grad gegenüber steht.
+Nun ersetzen wir diese kalte Platte durch eine wärmere, die aber nur -53 Grad hat. Dadurch wird die warme Platte wärmer – obwohl sie immer noch durch abfließende Strahlung gekühlt wird.“
+Sie werden es nie lernen!
+Wo bitte kriegt denn die -53° kalte Platte ihre Energie her??????????????????????????
+Die all diesen abgeleiteten Begriffen übergeordnete Basisgröße ist eine einzige, die Kraft, genauer die resultierende, wirklich wirksame Kraft. Wenn man Wärme und Strahlung nicht auf die Kraft an sich zurückführen kann, weil man darüber nicht ausgebildet wurde, kann man beliebig viel darüber Unsinn erzählen wie zum Beispiel Gegenstrahlung oder, Wärme sei keine Energie.
+Wärme ist Bewegung. Diese Bewegung ist e i n e r resultierenden Kraft in einem Kraftfeld zuzuordnen. Das Gravitationsfeld greift in dieses Kräftespiel mit ein und damit auch in das Termperaturfeld. Das ist Punkt 1 der kinetischen Grundlage von Wärme.
+Beim Elektromagnetismus, also dem elektromagnetischen Kraftfeld, geht man am besten erst einmal zurück zum elektrischen Feld und der anziehenden o d e r abstroßenden Kraft. Auch hier gibt es nur eine resultierende wirksame Kraft entweder anzeihend oder abstroßend.
+Ein schwingendes elektromagnetrisches System zum Beispiel Wechselstrom kommt zustande, wenn eine Drehbewegung als weiteres Kraftfeld mitwirkt. Auf einem 230 V 60 Hz Kabel resultiert eine elektromagnetische Kraftwirkung in Stromrichtung, auch wenn 230 V „Spannung“ anliegt, die mit 60 Hz schwingt erst, wenn der Stromkreis geschlossen ist. Erst dann wirkt die elektromagnetrische Kraft in Stromrichtung, und der „Strom fließt“. Kein Hochfrequenztechniker käme auf die Idee, es könnte Energie aus dem Radio auf den Radiosender entgegengestrahlt werden, wenn der Drehkondensator auf den Resonanzfall gedreht wird und ein Radiosender empfangen wird.
+Richtig ist, dass IR-aktive chemische Bindungen, und das sind „unendlich“ viele, ein gemeinsames elektromagnetisches Feld bilden. Bei isotherm ruhender Materie ist gemeinsame elektromagnetrische Feld homogen. Erst wenn eine inhomogene Fremdwirkung analog dem Spannugnsabfall beim Stromfluss hinzukommt, bildet es einen Gradienten und „IR-Strahlung“ kann entstehen. Dieser „Spannungsabfall“ ist beim elektromagnetrischen Feld der chemischen Bindungen der Temperaturabfall zwischen den chemischen Bindungen.
+Der Vollständigkeit halber sei noch hinzugefügt, IR-inaktive chemische Bindungen gibt es nur sehr wenige, kugelsymmetrische wie bei den Edelgasatomen und rotationssymmetrische wie bei N2 und O2. Der Denkfehler von Fourier, Tynall, Arrhenius und den heuten „Treibhäuslern“ besteht darin, die extreme Sonderstellung von N2 und O2 missverstanden zu haben. N2 und O2 sind Wärmespeicher, welche ihre Wärme nicht ans Weltall abstrahlen können und von der Kälte des All nicht gekühlt werden. Wenn überhaupt, dann sind N2 und O2 die Treibhausgase. Allerdings ist der Ozean ein viel größerer Wärmespeicher und auch ein relativ schlechter IR-Strahler. Er ist das warme Treibhaus der Erde.
+„Ergebnis: Im Jahresmittel gibt es nur Kühlung der Erdoberfläche durch die Atmosphäre, keine Erwärmung, schon gar keine Erwärmung durch Wäremestrahlung“
+Elektromagnetische Strahlung hat keine Temperatur (also nix mit 2.HS) und überträgt keine Waerme sondern Energie (W/m2) – auch von kalt nach warm.
+Die Atmosphäre kühlt *nicht*! Denken Sie sich eine +15 Grad warme beheizte Platte, die einer kalten Platte mit -270 Grad gegenüber steht.
+Nun ersetzen wir diese kalte Platte durch eine wärmere, die aber nur -53 Grad hat. Dadurch wird die warme Platte wärmer – obwohl sie immer noch durch abfließende Strahlung gekühlt wird.
+Das wird ja auch bei Stefan-Boltzmann berücksichtigt: S=Sigma*(T1^4-T2^4). Wenn also T2 steigt (mehr CO2, mehr Gegenstrahlung) wird – bei gleicher Heizleistung S – T1 grösser.
+Warum?
+CO2 erweitert die Abflußmöglicheit des ansonsten gleich bleibenden Leistungsflusses durch das System (Erdfläche plus zusätzlich Atmosphäre), was die Fließdichte (W/m²) verringert und nach Stef-Boltzm. (W/m²=sig.*T^4; durch CO2 wird m² größer) zu einer Temperatur-Verringerung führen muß.
+„Diese Strahlungs-Energie muss irgendwo bleiben und auch wirken.“
+Stimmt, ist trivial, aber eben deshalb nur ein Nullsatz ohne Beweiswert.
+Wo Strahlungsenergie letztendlich landet, ist ja bekannt: Im Nirwana.
+mich würde deshalb interessieren, wie sich im Laufe der Zeit die pysikalischen Eigenschaften eines Glühfadens nach Einschaften einer Glühbirne änern.
+Vielleicht kann mir das ja mal einer der „Experten“ hier erklären?
+„Jeder muss für sich entscheiden…“
+Das ist des Pudels Kern zwischen „Vernunft und Religion“ (Zitat anonymer Administrator im Kommentar in #14) zu unterscheiden. Oder zwischen den Theorien der Theoretiker Kramm, Dietze & Co und der physikalischen und chemischen Wirklichkeit. Eine solche messbare Wirklichkeit, die lokal (mit Fehlergrenzen!) gemessen werden kann stellen die Energieflüsse senkrecht nach oben von der Erdoberfläche ins Weltall dar (Erste Messung 1903 in Potsdam als Differenz zwischen Seehöhe und Telegrafenbarg).
+Ergebniss: Im Jahresmittel gibt es nur Kühlung der Erdoberfläche durch die Atmosphäre, keine Erwärmung, schon gar keine Erwärmung durch Wäremestrahlung.
+N2 und O2 sind IR-inaktiv und können keine Wärme ans Weltall durch IR-Strahlung abgeben. N2 und O2 sind als Wärme speichernder Mandel die eigentlichen „Treibhaus-Gase“. Erst die IR-aktiven Gase wie CO2 befähigen die Atmosphäre sich zum Weltall durch IR-Spraklung abzukühlen.
+Hier hat nimand „für sich zu entscheiden“. Hier gibt es jederzeit prüfbare Fakten, die entscheiden. Selbst die globalen Energiefluss- und Energie-Bilanz-Daten von IPCC und NASA sind „netto“ völlig korrekt und beweisen die Kühlwirkung der IR-aktiven Spurengase.
+EIKE ist als Projekt gegen den CO2-Treibhauseffekt gescheitert und wurde von „Saulus zum Paulus“ (oder, wie es jeder selbst entscheiden möge, auch umgekehrt).
+EIKE Gründungsmitglied Dr. Gerhard Stehlik, Hanau
+„Durch Strahlung wird nämlich keine Wärme, wohl aber Energie (W/m²) aus der kälteren Atmosphäre auf den wärmeren Boden transportiert, wo sie absorbiert und in Wärme umgewandelt – und dann auch wieder emittiert wird.“
+XXXXXxxx
+Da gibt es eine Handvoll Professoren der Physik, welche diesen Unsinn abgenickt haben!
+#7 Kommentar: „Und wenn er doch existierte, aber verschwindend klein ist, wo läge dann Ihr Problem?“
+==========================================
+Das Problem ist auch, dass DIEJENIGEN, die „verschwindend klein“ behaupten, NICHT definieren, was unter „verschwindend klein“ verstanden wird.
+Vier Jahre im Exil oder 7 Jahre in der Klapse wie Gustl Mollath sind erdgeschichtlich (!) auch „verschwindend klein“.
+Der Trick ist: Wenn behauptet wird, etwas sei „verschwindend klein“, dann wird damit gleichzeitig unterbewusst behauptet, es würde auch in Wirklichkeit existieren. Das ist das Motiv, warum Kernenergielobbyisten bei EIKE weiterhin behaupten, der menschengemachte Treibhauseffekt sei „verschwindend klein“. Die Kernenergielobby braucht den Treibhauseffekt definitiv als Argument „PRO-Kernenergie“.
+Darin liegt „MEIN PROBLEM“ !! Die Kernenergielobby argumentiert seit über 30 Jahren mit dieser Lüge, der Treibhauseffekt würde definitiv existieren. Denn das ist der Trick, wenn behauptet wird: „verschwindend klein“.
+Nur wenn das CO2-Thema und die Lüge vom Treibhauseffekt vollends aus der energiepolitischen Debatte und als perfides Argument gänzlich verschwindet, erst dann kann wieder eine vernunftbasierende Energieversorgungsdiskussion in Deutschland und weltweit geführt werden. PUNKT
+Sie schreiben:
+—————————–
+—————————
+„Dietze auch noch als Theoretiker zu bezeichnen, ist wohl das letzte. Der Mann ist Elektroingenieur,………“
+Sehr geehrter Herr gkramm,
+ob einer „nur“ Elektroingenieur, Prof.Dr. oder Klimawissenschaftler ist, ist mir eigentlich völlig gleichgültig.
+Die, nun über 25 Jahre andauernde Klimadebatte, zeigt, dass gerade von „Experten“ viel wissenschaftlicher Unsinn geschrieben wird.
+Sie erheben dann noch oft den Anspruch, nur ihre Sichtweise ist die absolute Wahrheit. Einen Konsens gibt es selten.
+Zum Thema.
+Sie werden sich vielleicht erinnern, früher hieß das „Kind“ einfach nur „Rückkopplungen“.
+Positiv oder negativ, nicht ganz leicht einzuschätzen.
+Dann kamen die cleveren IPCC Leute auf die Idee, diesem „Kind“ einen neuen Namen zu geben.
+KLIMASENSITIVITÄT – das klang wissenschaftlich und plötzlich war alles berechenbar – sogar auf 2 Stellen nach dem Komma.
+Und was erleben wir seither?
+Berechnungen, Berechnungen und nochmals Berechnungen.
+Was zeigt mir das?
+Alle, sogenannten „Experten“ stochern mit ihrer Stange im Nebel herum, streiten sich dann, wessen Berechnungen wohl richtig sind.
+Wie ich hier schon öfters ausgeführt habe, die Theorie des „Treibhauseffektes“ beruht auf einem einfachen Denkfehler, der zur einer falschen Berechnungsformel führte.
+Ich weiß, die studierte Wissenschaft will sich nicht eingestehen, dass sie hier, schon einem fast blamablen Denkfehler, aufgesessen ist.
+So einfach kann das NICHT sein.
+Aber es ist so.
+Hat man das einmal verstanden, erübrigen sich alle krampfhaften Versuche, etwas zu beweisen, das nicht existiert.
+MfG
+Eugen Ordowski
+„„Green Economy““ ist kompletter Unfug, denn es gibt nur eine Ökonomie und die ist nicht grün. So wie „Bio“-Produkte nur einen Nutzen für die Vermarkter = Händler haben, denn deren Gewinn richtet sich nach dem Umsatz * spez. Preis, wobei prinzipiell der Lebensmittelhandel einen proportionalen Umsatz zur Bevölkerungsentwicklung hat, ist der Gewinn der Produzenten nur abhängig vom spez. Händlereinkaufspreis * Umsatz – Ressourceneinsatz, der aufgrund der geringeren Produktionsmengen und dem höheren Ressourceneinsatz meist geringer ist, als der von konventionell erzeugten Produkten. „Green Economy“ geht also mit höheren Preisen und höherem Ressourceneinsatz einher ohne bessere Produkte zu erzeugen. Also eine Propagandabezeichnung, wie es z.B. der Begriff „planwirtschaftliche Maßnahmen“ in den Haushalten von Großhamburg während der NS-Zeit war. Propaganda dieser Art ist absolut bösartig und als Gutmenschentum daher.
+Es fängt auch harmlos mit Dreisatzaufgaben für Kinder in der Schule an.
+Nicht nur der Satz
+– „“Und wenn er doch existierte, aber verschwindend klein ist, wo läge dann Ihr Problem?“
+entlarvt Lüdecke, genau so sein Satz
+– „…. sollte nicht vergessen werden, dass wir uns im Krieg befinden. Krieg gegen unsere Industrie und damit unsere Lebensgrundlage“.
+Tatsächlich sollte lieber nicht vergessen werden, was Lüdecke als Plädoyer FÜR eine CO2-Steuer im NZZ-Leserbrief verbreitete, O-Ton Lüdecke:
+— „Jeder Mensch atmet dagegen 0,4 Tonnen CO2 im Jahr aus. Dieses CO2 ist nicht natürlich wie etwa bei Waldtieren, denn wir ernähren uns nicht von rohem Fleisch und wilden Beeren. „
+Die deutsche Industrie will eine CO2-Steuer, Lüdecke macht den Lieferservice, diffamiert zu diesem Zweck die Fleisch- und Brot-essenden Bürger und will denen gleichzeitig weismachen, dieser Krieg der deutschen Industrie GEGEN die Bürger wäre ein Krieg GEGEN die Industrie.
+Dreister geht es nicht.
+Da liegt das Problem: Eine Beweisführung, dass etwas „verschwindend klein“ ist, was aber in Wirklichkeit GAR NICHT EXISTIERT, kann nur falsch sein. Daher widerlegbar, und deshalb nutzlos. So ist es mit dem physikalisch unmöglichen „Treibhauseffekt“.
+„in der Fachpublikation von F. Gervais sind in Fig. 1 die wichtigsten Paper zur CO2 Klimasensitivität TCR und ECS aufgeführt http://tinyurl.com/huwszqk.“
+Dass Sie, Herr Luedecke, die Dietzeschen Ergebnisse verteidigen wuerden, war mir klar. Sie selbst haben sich ja schon in Ihrer Erklaerung des Treibhauseffekts vom Januar 2010 auf Dietze bezogen und auch auf die Formel von Dietze, Dittrich u.a. zurueckgegriffen. Ein Jahr spaeter haben Sie dann eine andere Formel verwendet, womit Sie selbst bereits dargelegt haben, was sie von der Dietzeschen Formel halten.
+Nur frage ich mich, ob Sie irgend einen Beweis dafuer vorlegen koennen, aus dem hervorgeht, dass das Gesetz von Beer, Bouguer und Lambert auf die Atmosphaere angewendet werden darf. Weiterhin frage ich mich, ob Sie einen Beweis vorlegen koennen, dass das globale Energiebilanzmodell von Schneider & Mass (1975) relevant ist. Auf diesem Modell beruht naemlich das Konzept der Klimasensitivitaet, was Dickinson (1985) sowie Berger & Tricot (1986) dokumentiert haben. Berger & Tricot zitieren zwar die um einen Term erweiterte Gleichung von Siegenthaler & Oeschger (1984), aber dieser Term beschreibt nur die Waermeleitung von der ozeanischen Mischungsschicht in den tieferen Ozean. Dieser Term wurde von Schneider & Mass als irrelevant fuer das Problem betrachtet.
+Dass das globale Energiebilanzmodell von Schneider & Mass (1975) aus physikalischen und mathematischen Gruenden zu verwerfen ist, haben Dlugi und ich bereits nachgewiesen. Ein Konzept wie das der Klimasensitivitaet, was auf einem solchen Modell beruht, ist ebenfalls zu verwerfen, denn ein falsches Modell liefert im allgemeinen auch falsche Ergebnisse.
+Dass die Konvektionsadjustierung irrelevant ist und nichts mit einer Theorie zu tun hat, laesst sich bereits an Hand des mathematischen Terms
+w dT/dz
+darlegen, in dem w die Vertikalkomponente der Windgeschwindigkeit, T die Temperatur und z die Hoehe sind. Wer also nur die Vertikalkomponente des Temperaturgradienten betrachtet, der hat die Physik des konvektiven Transports nicht verstanden.
+Richard Lindzen (1994, Annu. Rev. Fluid Mech.) hat dazu folgendes geschrieben:
+„Pure radiative heat transfer leads to a surface temperature of about 350 K rather than 288 K. The latter temperature is only achieved by including a convective adjustment that consists simply in adjusting the vertical temperature gradient so as to avoid convective instability while maintaining a consistent radiative heat flux. [It should be noted that this is a crude and inadequate approach to the treatment of convection; however, the development of better approaches is still a matter of active
+research (Arakawa & Schubert 1974, Lindzen 1988, Geleyn et al 1982, Emanuel 1991).]“
+Offensichtlich wissen Sie nicht, was die Arbeit eines Theoretikers ist.
+Dietze auch noch als Theoretiker zu bezeichnen, ist wohl das letzte. Der Mann ist Elektroingenieur, der von der Materie nicht die Spur einer Ahnung hat. Dass er Integrationen auch noch falsch durchfuehrt, weil er nicht weiss, was ein integrierender Faktor ist, belegt nur seine Inkompetenz.
+Sie sollten sich einmal fragen, wieso Dietze als „Privatperson“ ohne jegliche Qualifikation einer der 25 deutschen Gutachter des 3. Berichts der Working Group I zum IPCC werden konnte. Er verfuegt weder ueber ein Doktorat in seinem eigenen noch in einem anderen Fachgebiet. Er hat auch keine Artikel zu dem Thema der Working Group I des IPCC verfasst. Als ich vor einiger Zeit bei der deutschen IPCC-Koordinierungsstelle, die 1998 gegruendet wurde, anfragte, warum Dietze als Gutachter ausgewaehlt worden sei, konnte man mir darauf keine Antwort geben.
+Vielleicht wissen Sie nicht, dass der Mannsche Hockeystick in dem 3. Bericht der Working Group I verankert wurde. Um einen solchen Unsinn in diesem Bericht verankern zu koennen, waren Leute wie Dietze gefragt.
+Sie schreiben:
+———————————
+——————————
+„Vergreifen Sie sich bitte nicht an den physikalischen Grundlagen meines Hähnchengrills“
+Da kann ich Sie beruhigen.
+Seit Beginn der Klimadebatte gibt es ja einige neue
+„physikalischen Gesetze“.
+Füllen sie Ihren Griller ordentlich mit Eiswürfeln,
+Ihr Hähnchen soll ja auch dann gar u. knusprig werden. Sie müssen nur etwas Geduld haben.
+MfG
+Eugen Ordowski
+Herr Estermeier,
+es geht darum, ein voellig falsches Konzept wie das der Klimasensitivitaet als solches zu entlarven, denn ein Streit um Zahlen, die nichts bedeuten, ist das beste Mittel eine aus den Fugen geratene Klimatologie als unwissenschaftlich darzustellen.
+MfG
+G.K.
+„Bei allen Differenzen zum Berechnungsweg, geäußert von den EIKE-Foristen, sollte nicht vergessen werden, dass wir uns im Krieg befinden. Krieg gegen unsere Industrie und damit unsere Lebensgrundlage.“
+Wir befinden uns nicht in einem Krieg, sondern wir diskutieren über eine offene Frage. Dieses Problem kann nicht gelöst werden durch zu einfache Berechnungswege. Schauen Sie sich die Jahresmitteltemperaturen längs des 50. Breitengrads Nord an. Sie variieren zwischen -3 °C und 12 °C. Im Januar ist die Variationsbreite von -28 °C bis 12 °C, im Juli von 8 °C bis 25 °C. Die Menschen, die sich an das jeweilige Klima angepasst haben, möchten wissen, was sie in Zukunft erwartet. Die Klimasensitivität gibt keine Auskunft darüber.
+es gibt weder einen „natürlichen“ noch eonen „anthopogenen“ Treibhauseffekt. Deshalb bleibe ich dabei der letzte Satz ist der beste dieses Artikels. Im Übrigen, was heißt sehr klein wäre. Heißt dies er liegt bei 10E-5 oder 10E-500?
+MfG
+Diesen „CO2-Krieg“ hat die Kerntechnische Gesellschaft ausgerufen, 1978, unter Berufung auf die Christenverantwortung.
+Und vor Tschernobyl schon schürten KTG, Deutsches Atomforum und DPG mächtig CO2-Panik.
+Und 1990 stimmte dann die ganze deutsche Wirtschaft unter Führung von Siemens und BDI mit ein, betrieb Volksverblendung, schürte Illusionen von „Green Economy“ und trieb mit allen Mitteln die Kyoto-Vereinbarung voran.
+„3) Wenn man das trotzdem tut, sollte man die geringe Intensität der Strahlung, bei ca 300 K,eines schwarzen Körpers, nicht außer acht lassen.“
+Vergreifen Sie sich bitte nicht an den physikalischen Grundlagen meines Hähnchengrills.
+Da ist die Science gesettelt, da geht gar nichts mehr.
+Grill, Hühnchen, Grill!
+„Was der Theoretiker nicht lösen kann, hält er für irrelevant.“
+Schöner Satz, sehr geehrter Herr „Passant“ –
+dabei auch noch zutreffend…
+Für mich ist es höchst interessant die konträren Berechnungen des atmosphärischen Zustandes und Wirkens zu lesen. Als Laie kann ich beide Seiten weder bestätigen noch widerlegen. Allerdings ist es Fakt, das beide Fakultäten mit ihren Rechenmethoden die CO2-Katastrophe als politischen Aktionismus entlarfen. Das Problem ist so oder so ein nonproblem.
+Im übrigen wurde auch bereits von einigen „Klimawissenschaftlern“ eingestanden, daß die hohen Erwartungen nur durch Verstärkungsfaktoren (also gegenseitiges Aufschaukeln) erreicht werden.
+Also bitte nicht so verbissen diskutieren. Für das „gemeine Volk“ reicht der Nachweis des betrügerischen Klimaaktionismus. Welche wissenschaftlichen Modelle nun tatsächlich der Realität nahe kommen, wird wohl noch einige Jahre an Forschungsarbeit benötigen. Vermutlich sind ja noch nicht einmal alle klimarelevanten Parameter bekannt.
+„Das CO2-Problem ist also in Wirklichkeit ein Nonproblem!“
+Aber nur deswegen, weil der CO2-Effekt nicht existiert.
+MfG
+Man lese den Kommentar @4 gkramm.
+2 Theoretiker unter sich, 2 Meinungen.
+Ca 100 Theoretiker debattieren – ca 80 Meinungen.
+Es sind doch immer wieder diese „Scheuklappen“ – jeder „Experte“ behauptet, nur seine Sicht der Dinge ist richtig.
+Schon die Grundlagen der „Treibhaustheorie“ werden mißachtet.
+Beispiele:
+1) Man geht von folgender Bedingung aus:
+Sonnenstrahlleistung = Erdabstrahlleistung
+Diese Bedingung trifft für die Erde praktisch nie zu.
+Wenn überhaupt, kann man nur über die Energiemengen (niemals Leistungen) rechnen.Dann wiederum nur über einen langen Zeitraum (ca 20 oder 30 Jahren).
+Die Erde ist ein sich zyklisch abkühlender u. erwärmender Körper.
+Tag-Nach, 4 Jahreszeiten, es gibt warme Jahre und kalte, Photosynthes,El Nino, La Nina, usw.
+2) Die Erde ist abolut kein idealer, schwarzer Körper. Auch nicht annäherungsweise.
+Die Anwendung der Stefan Boltzmann Gesetze ist hier unzulässig.
+3) Wenn man das trotzdem tut, sollte man die geringe Intensität der Strahlung, bei ca 300 K,eines schwarzen Körpers, nicht außer acht lassen.
+4) Warum „sehen“ die Sateliten keine Strahlung in bestimmten Wellenbereichen?
+Nun, hier absorbieren die IR aktiven Moleküle diese Strahlung u. setzen sie in kinetische Energie um.(Bei diesen,geringen herrschenden Temperaturen physikalisch klar begründbar)
+Wäre es nicht so, und die IR aktiven Moleküle würden die Strahlung wieder emittiern, würden das die Sateliten „sehen“. Die Moleküle emittieren in alle Richtungen, 50 % in den Weltraum, 50 % zur Erde.
+5) Die Berechnung eines Tag-Nacht Durchschnitts der Sonnenstrahlleistung ist wissenschaftlicher Unsinn. Die beschienen Erdseite (halbe Erdoberfläche) wird immer 683.5 W/m² angestrahlt.
+Somit ist der „Treibhauseffekt“ tot
+Alle weiteren Berechnungen über die Möglichkeit, dass eine eiskalte Atmosphäre, eine weit wärmere Erde erwärmt, ist Hokus-Pokus!
+MfG
+Eugen Ordowski
+„Da eine solch hochgradig instabil geschichtete Troposphäre nichts mit der Realität gemein hat, wurden dann von Manabe & Strickler (1964) sowie Manabe & Wetherald (1967) sog. Strahlungs-Konvektionsmodelle entwickelt, in denen eine Konvektionsadjustierung an Hand einer adiabatischen Temperaturabnahme in der feuchten Atmosphäre von 6,5 K/km vorgenommen wurde.“
+Für diese Konvektionsadjustierung muss es real einen äquivalenten Prozess geben, worin wird dieser vermutet oder ist der zwischenzeitlich widerspruchfrei gefunden worden?
+Meist ist es die Bequemlichkeitshypothese (in Form von vereinfachenden Annahmen), die zu relevanten Fehlern führen (meine Erfahrung).
+Was der Theoretiker nicht lösen kann, hält er für irrelevant.
+Sie konvergieren gegen Werte, die mit den Ausführungen von Dietze grob übereinstimmen. Bei allen Differenzen zum Berechnungsweg, geäußert von den EIKE-Foristen, sollte nicht vergessen werden, dass wir uns im Krieg befinden. Krieg gegen unsere Industrie und damit unsere Lebensgrundlage.
+Krieg ohne Bomben aber mit Indoktrination und perfider Ausgrenzung der Vernünftigen bis herunter in die Kindergärten. Kernkraftindustrie, Kohle, Autoindustrie, Chemie, Fleischverzehr, Gentechnik,.. alles steht unter Beschuss der bis jetzt sehr erfolgreichen Zerstörer.
+Eine der ersten Argumentationspfeiler der Zerstörer ist die Behauptung von einem höchst gefährlichen Klimawandel infolge anthropogener CO Emissionen. Dieser ist primär entgegen zu treten. Jeder muss für sich entscheiden, ob die von Dietze vertretene Position einer unmaßgeblichen Beeinflussung des Menschen oder ob er den „CO2-Nulleffekt“ bevorzugt.
+Meiner Auffassung nach ist die Position von F. Gervais überzeugend. Auf diese Überzeugung einer verwirrten und von Ideologen verführten Bevölkerung, nicht aber auf die sachliche Richtigkeit (die ohnehin nur Spezialisten beurteilen können) kommt es an. In der Sache selbst ist es unerheblich, ob ein Effekt vernachlässigbar oder ob er „Null“ ist.
+Es grenzt geradezu an Ignoranz, wenn Dietze glaubt, dass das Gesetz von Beer, Bouguer und Lambert (BBL) auf die Atmosphäre angewendet werden darf. Wenn Dietze glaubt, dass man die Quellfunktion in der Strahlungsübertragungsgleichung (RTE) ignorieren darf, dann kennt er die einschlägige Fachliteratur nicht. Diese Quellfunktion beschreibt die Wirkung von Emission und Vielfachstreuung. Letztere ist in vielen Fällen des Transfers von infraroter Strahlung vernachlässigbar; die Emission von infraroter Strahlung jedoch nicht. Unter der Bedingung des lokalen thermodynamischen Gleichgewichts (siehe z.B. Milne, 1928) kann diese Quellfunktion durch die Plancksche Strahlungsfunktion ersetzt werden, die für monochromatische Strahlung nur eine Funktion der Temperatur ist. Dieses Vorgehen lässt sich mit der Arbeit von Einstein (1917) begründen. Ergebnisse, die also nur auf der Anwendung des BBL-Gesetz beruhen, sind daher vollkommen wertlos.
+Die Lösung der RTE liefert im allgemeinen Strahlungsflussdichten für den solaren und den infraroten Bereich. Um nun die Wirkung auf den Temperaturverlauf zu beschreiben, sind die Ergebnisse der Lösung der RTE in die prognostische Gleichung für die Temperatur einzugeben. Darin erscheinen die Strahlungsflussdichten unter dem Divergenzzeichen. Das bedeutet, dass nur die räumliche Änderungen der Strahlungsflussdichten entscheidend sind, aber nicht deren Absolutwerte. Da zur Lösung der RTE bereits eine Temperaturverteilung vorzugeben ist, wie sie die Plancksche Strahlungsfunktion fordert, ergibt sich nach der Lösung der RTE selbstverständlich eine neue Temperaturverteilung. Die exakte Lösung ist also nur numerisch-iterativ machbar, wie es bereits von Möller & Manabe (1961) sowie Manabe & Möller (1961) beschrieben wurde. Dabei wurden die Effekte von Wasserdampf, Kohlendioxid und Ozon berechnet.
+Eine solches Verfahren liefert dann im stationären Zustand ein Strahlungsgleichgewicht. Allerdings führt diese Lösung zu einem Temperaturprofil in der Troposphäre, was einer Temperaturabnahme von 14 – 15 K/km entspricht. Die Oberflächentemperaturen betragen etwa 340 – 350 K. Da eine solch hochgradig instabil geschichtete Troposphäre nichts mit der Realität gemein hat, wurden dann von Manabe & Strickler (1964) sowie Manabe & Wetherald (1967) sog. Strahlungs-Konvektionsmodelle entwickelt, in denen eine Konvektionsadjustierung an Hand einer adiabatischen Temperaturabnahme in der feuchten Atmosphäre von 6,5 K/km vorgenommen wurde. Später wurden solche Modelle auch von Ramanathan & Coakley (1978) sowie Hansen et al. (1981) verwendet, um Klimasensitivitäten zu ermitteln.
+Diese Klimasensitivitäten haben allerdings nichts mit dem gemein, was Dietze hier beschrieben hat. Wie in den Übersichtsartikeln von Dickinson (1985) sowie Berger & Tricot (1986, promet) dargelegt, bildet das globale Energiebilanzmodell nach Schneider & Mass (1975) die Grundlage zur Herleitung der Klimasensitivität. Dietze ignoriert nachweislich diese Artikel, obwohl ich sie ihm mehrfach zugeschickt habe.
+Da Dietze schon seit zwei Jahrzehnten die Menschen mit seinem Kohlenstoffmodell nervt, habe ich im März 2016 einen Kommentar zu diesem Kohlenstoffmodell verfasst, indem ich auch die Herleitung der sog. Klimasensitivität dargelegt habe. Dietze kennt diesen Kommentar. Man darf erstens festhalten, dass Dietzes Kohlenstoffmodell selbst noch hinter dem von Revelle & Suess (1957) zurückbleibt. Zweitens ist die von Dietze durchgeführte Integration hochgradig falsch. Sein Streit mit dem IPCC hinsichtlich der Verweilzeit von CO2 in der Atmosphäre beruht auf der falsch durchgeführten Integration.
+„Hier wird ein einfaches strahlungsphysikalisches Verfahren auf der Basis von Stefan-Boltzmann vorgestellt, bei dem eine quasi isotherme Modellerde benutzt wird, die genügend schnell rotiert, Wärme gut speichert und umverteilt, so dass trotz globaler Mittelwerte für Strahlung und Kelvin-Temperaturen auch bei T^4 hinreichend genau gerechnet werden kann.
+Hierbei wird nicht, wie oft vermutet, das Klima der Erde völlig falsch berechnet. Es wird für diesen Fall nur näherungsweise der globale Parameter Klimasensitivität bestimmt, mit dessen Hilfe globale Temperaturänderungen im Sinne von Trends berechnet werden, welche die realen Temperaturverläufe überlagern.“
+Ich halte das verwendete Modell viel zu einfach. Wenn man damit die Temperaturverteilung auf der Erdoberfläche nicht gut berechnen kann, kann man auch globale Änderungen nicht gut berechnen, die ja aus der Summation über die lokalen Temperaturänderungen hervorgehen. Im übrigen sind die meisten Menschen vor allem an den lokalen Temperaturänderungen interessiert, globale Veränderungen sind demgegenüber uninteressant.
+Ein Tummelplatz für Theoretiker.
+So habe ich in den letzten Jahren Ergebnisse von 0.01 Grad C bis zu 10 Grad C, als Wirkung dieses Phänomens, gelesen.
+Experimetell konnte bis Heute nichts beweisen werden.
+Zitat aus :
+http://tinyurl.com/zmnvqbo

@@ -1,0 +1,178 @@
+Im Teil 1 wurden einige grundlegende Darstellungen zum Populationsbestand gezeigt. Nun geht es weiter mit der Darstellung, wie eine Simulation des Eisbärbestandes durchgeführt wurde und welche Ergebnisse dabei herauskommen sind.
+Simulation des Eisbärbestandes zum Jahr 20150 in der Studie [1]
+Der verwendete Datensatz
+Der Autor hat von der Studie [1] die Daten der Tabelle 3: Abundance estimates for the 19 polar bear subpopulations, in Excel übertragen und gesichtet.
+Die Unsicherheiten der gelisteten Bestandsdaten betragen:
+Mittelwert, 95 % Vertrauensintervall: -32 % … + 43 %
+Mittelwert Spannweite: -63 % … +110 %
+Vereinfacht: Bezogen auf den Mittelwert haben die angezogenen Bestandsschätzungen eine mittlere Unsicherheit von absolut 70 % und eine Spannweite der Max- / Min-Werte von 173 %
+Anmerkung: Diese Daten sind geschönt, da in mehreren Fällen – weil nicht bekannt – keine Min- / Max-Grenzen angegeben sind.
+Die daraus in der Studie [1] für das Jahr 2050 berechneten Daten
+In der Studie wird die Projektion zum Jahr 2050 für drei Annahmen berechnet:
+Annahme 1 „assumed a one-to-one proportional relationship between ice and N“:
+Im Jahr 2050: Mittelwert der Abnahme: -30 %
+Wahrscheinlichkeit, dass die Abnahme mehr als 30 % beträgt: 56 %; für mehr als 50 %: vernachlässigbar
+Annahme 2 „estimated a global relationship between ice and normalized values of N using a maximum of two abundance estimates per subpopulation“:
+Im Jahr 2050: Mittelwert der Abnahme -4% (95% CI = -62%, 50%).
+Wahrscheinlichkeit, dass die Abnahme mehr als 30 % beträgt: 20 %
+Annahme 3: estimated ecoregion-specific linear relationships between ice and normalized values of N that reflected the influence of additional abundance estimates for relatively well-studied subpopulations.
+Im Jahr 2050: Mittelwert der Abnahme -43% (95% CI = -76%, -20%).
+Wahrscheinlichkeit, dass die Abnahme mehr als 30 % beträgt: 86 %
+Fazit
+Der zur Berechnung der Korrelation verwendete Urdatensatz hat Streuungen, welche eine (seriöse) Auswertung ganz einfach verbieten. Zudem ist er nach den neuen Kenntnissen sowieso grundsätzlich falsch ([4] und Bild 3).
+Trotzdem wird damit hemmungslos gerechnet – und trotzdem sind die Aussagen weit weg von einem Alarm:
+Annahme 1: Dass die Abnahme bis 2050 mehr als 30 % beträgt hat eine Wahrscheinlichkeit von56 %.
+Anmerkung: Die Aussagegenauigkeit ist damit ganz knapp höher als sie ein Würfel mit 50 % bietet.
+Annahme 2: Die Abnahme bis 2050 kann zwischen -62 % … + 50 % betragen.
+Anmerkung: Mit dieser (Un-)Genauigkeit kann man wirklich alles sicher vorhersagen.
+Zum Beispiel: Sie kommen ganz sicher in den Himmel oder in die Hölle.
+Und trotzdem wird diese Studie häufig als Beleg für das „Verschwinden“ der Eisbären zitiert.
+Warum man es simulierte und wider besserem Wissen publizierte ist klar:
+DIE WELT[10]: Anlass für die Neubewertung der Überlebenschancen von Eisbären ist der Weltklimagipfel, der vom 30. November bis 11. Dezember in Paris stattfindet. Die Wissenschaftler glichen Daten zu allen Populationen in der Arktis mit Statistiken zur Eisschmelze in den vergangenen Jahrzehnten ab und fütterten mit den Daten ein spezielles Computerprogramm.
+Diese vom Klimawandel so gefährdeten Tiere darf man trotzdem massiv bejagen
+Obwohl die Eisbären zum Aussterben verdammt sein sollen, werden sie in allen – bis auf eine Region – gejagt. Und das in einer nicht unerheblichen Anzahl:
+[20] Pro Wildlife: „Jedes Jahr werden vermutlich über 1.000 Eisbären getötet. Die meisten davon ganz legal, vor allem in Kanada. In Grönland werden derzeit pro Jahr etwa 140 Tiere legal getötet, in den USA 29. In Russland ist die Jagd offiziell noch verboten. Allerdings werden hier bis zu 300 Tiere jährlich gewildert, und die Regierung erwägt derzeit, den Abschuss von 29 Tieren zu erlauben. Norwegen ist das einzige Land, das Eisbären streng schützt.“
+Die Bejagung verringert den Bestand jährlich fast um 5 %! Und trotz dieser jährlichen Reduktion vermindert sich die Population seit Jahrzehnten nicht. Was die massive Bejagung zahlenmäßig für Auswirkungen hat, zeigt Bild 9. Alleine diese Tatsache belegt alle Angaben über eine Gefährdung durch den Klimawandel als vollkommen absurd.
+Bild 9 Grüne. gestrichelte Linie. Eisbärpopulation ohne die Bejagung von 1.000 Eisbären pa (keine Nachkommen eingerechnet)
+Man könnte sich allerdings vorstellen, dass der Bestand regional inzwischen eine Größenordnung erreicht hat, der die Nahrung knapp werden lässt. Und alleine dies schon zu den beobachteten Effekten und einer beginnenden Bestandsbegrenzung führt.
+Doch wenn die Daten keinen Alarm hergeben – erzeugen ihn Bilder
+Ein erschütterndes Foto erscheint in den Medien
+Die Fotografin des Fotos (Bild 10) ist nach eigenen Aussagen tätig als „ … as an environmentalist and photographer for Greenpeace Nordic in Norway, Sweden and the North Atlantic“[12]. Das bedeutet nicht, dass das Foto nicht eine Wirklichkeit abbildet – aber es lässt vermuten, dass an Fotos von gut genährten Eisbär-(innen) kein übergroßes Interesse bestand.
+Link zum Foto der abgemagerten Eisbärin auf Bild.de
+Bild 10 Abgemagerte Eisbärin. Anmerkung: wegen unsicherem Copyright kann das Bild hier nicht direkt gezeigt werden.
+Unsere Presse nutzte natürlich die Gunst der Stunde und informierte, dass diese magere Eisbärmutter ganz sicher eine Kronzeugin des Klimadramas ist – und ließ sich dies auch gleich noch durch die Greenpeace-Aktivistin bestätigen.
+MERKUR.de 01.12.15: Der Klimawandel verurteilt diese abgemagerte Eisbärin zum Tode
+München – Wenn es ein Bild gibt, das einem die Folgen des Klimawandels ins Gesicht klatscht, dann hat es die deutsche Fotografin Kerstin Langenberger geschossen. Sie lichtete eine völlig abgemagerte Eisbärin ab.
+Das Foto des abgemagerten Eisbären ging in den vergangenen Tagen um die Welt. Forschern ist das Problem schon bekannt. Sie sagen: Eisbären sind in 50 Jahren ausgestorben.
+Fotografiert hat Langenberger die Eisbärin auf einer Tour nahe des norwegischen Spitzbergen. Die völlig abgemagerte Eisbärin ist kein Einzelfall: "Nur selten habe ich schön fette Mütter mit schön fetten Jungen gesehen. Oft habe ich furchtbar dünne Bären gesehen, und das waren ausschließlich Bärinnen – wie diese hier. Ein bloßes Skelett, am vorderen Bein verletzt – möglicherweise von einem verzweifelten Versuch, ein Walross zu jagen", schreibt Langenberger. Bären wie diese seien "zum Tode verurteilt".
+Schuld daran, ist sich die Fotografin sicher, sei der Klimawandel: "Ich sehe, wie die Sommer angenehmer und wärmer als jemals zuvor werden. Ich sehe die Gletscher kalben, sie ziehen sich Dutzende bis Hunderte Metern pro Jahr zurück. Ich sehe das Packeis in Rekordgeschwindigkeit verschwinden."
+Letzteres lässt die Eisbären verhungern. Sie finden keine ausreichend großen Eisschollen mehr, auf denen sie ihre Jungen unterbringen können, und die Futtersuche wird immer schwieriger. Langenberger widerspricht einigen Experten, die behaupten, dass die Eisbärpopulation um Spitzbergen herum noch auf stabilem Niveau sei. "Ich habe keine wissenschaftlichen Daten, die meine Beobachtungen beweisen. Aber ich habe die Augen im Kopf – und ein Gehirn, um Schlussfolgerungen zu ziehen. Der Klimawandel findet in der Arktis im großen Stil statt. Und es ist unsere Entscheidung, zu versuchen, daran etwas zu ändern." Der Appell der Fotografin kommt rund zwei Monate vor der UN-Klimakonferenz, bei der wieder einmal um konkrete Maßnahmen gegen die Erderwärmung gerungen wird.
+Update vom 28. September 2015: Der abgemagerte Eisbär steht stellvertretend für den Klimawandel. Wir haben eine Expertin aus dem Tierpark Hellabrunn gefragt, wie sie die Lage beurteilt. Ihre Prognose ist besorgniserregend.
+Update vom 25. September 2015: Das Foto des abgemagerten Eisbären ging in den vergangenen Tagen um die Welt. Forschern ist das Problem schon bekannt. Sie sagen: Eisbären sind in 50 Jahren ausgestorben.
+Die offizielle Bestandsschätzung durch das Norwegische Polarinstitut im Sommer 2015 ergab das Gegenteil
+Ein nicht erschütterndes Foto – erscheint nicht in den Medien
+Man hätte auch das folgende ganz aktuelle Bild bringen können und dazu eine Klimagefahr-Entwarnung des Norwegischen Polarinstituts.
+Bild 11 [14] Ein wohl genährter Svalbard Eisbär im Herbst 2015. Sea. Photo: Jon Aars / Norwegian Polar Institute
+Denn genau zur gleichen Zeit (Sommer 2015) wurde eine offizielle Eisbärzählung durch das norwegische Polarinstitut über die Barents-See (mit Spitzbergen) durchgeführt. Und die kam zu einem vollkommen anderen Ergebnis als dem der Greenpeace-Aktivistin.
+Norwegisches Polarinstitut [22]
+The Barents Sea polar bear population was counted over 4 weeks in autumn 2015, in Svalbard and in Norwegian parts of the Barents
+The scientists now estimate that there are around 975 polar bears in the Norwegian region, whereas they estimated a number of 685 in 2004. – The bears were in good physical condition,
+[14] Susan J. Crockford:
+Die Ergebnisse der Barentssee Populationsuntersuchung von diesem Herbst wurden vom Norwegischen Polarinstitut freigegeben und sie sind phänomenal: Trotz einiger Jahre mit schlechten Eisbedingungen, gibt es um Svalbard jetzt mehr Bären (~ 975) als noch im Jahr 2004 (~ 685) (ein Anstieg von 42%) und die Bären waren in gutem Zustand.
+Sogar (ganz wenige) Zeitungen berichteten darüber:
+Stuttgarter Zeitung [18]: „ … Doch Jon Aars berichtet etwas Erfreuliches. Der norwegische Polarforscher hat im Sommer die Eisbären auf Spitzbergen gezählt. Ihre Zahl ist deutlich gestiegen: 972 Eisbären leben auf der norwegischen Inselgruppe am Polarkreis, etwa 40 Prozent mehr als bei der letzten Zählung vor elf Jahren. "Die Bären befinden sich in einem guten Zustand", sagt Jon Aars"
+Und ergänzend speziell zum Ernährungszustand:
+www.polarbearscience.comSusan J. Crockford:
+[15] Given what we now know about the animals and their naturally changing habitat, it is time to concede that data do not support predictions that polar bears, walrus, and Arcticseals are threatened with extinction due to habitat in stability.
+Fazit
+Irgendwie sind die Aussagen überhaupt nicht vereinbar. Die Greenpeace-Aktivistin und der Polarforscher vom Norwegischen Polarinstitut sind zur gleichen Zeit auf der gleichen Inselgruppe und trotzdem treffen sie ihren Erzählungen nach vollkommen gegensätzliche Verhältnisse an. Die Frage stellt sich, ob der Termin des Klimagipfels mehr Einfluss als das Klima hat?
+Rekapitulation der Populationsdaten
+Von einem Bestand an 5.000 … 10.000 Tieren um das Jahr 1960 ist die Population auf 20.000 … 31.000 (Mittelwert 25.500) gestiegen. Das ist ungefähr eine Verdreifachung.
+Würde man die Abschussrate von ca. 1.000 Tieren pa seit 1990 hinzurechnen, beträge der Bestand ohne Berücksichtigung von Nachkommen 45.000 … 56.000 Tiere. Das wäre ungefähr eine Verfünffachung.
+Die aktuelle und wohl genaueste wissenschaftliche Bestandszählung des Norwegischen Polarinstitutes im Jahr 2015 ergab eine Bestandserhöhung vom Jahr 2004 zum Jahr 2015 um 43 %. Dieses Ergebnis ist auch deshalb interessant, weil nur Norwegen keinerlei Abschuss von Eisbären erlaubt und somit diese Zählung die wirkliche natürliche Populationsveränderung zeigt.
+Fazit
+Wie lässt sich daraus ein Verschwinden des Eisbärbestandes bis zum Jahr 2050 ableiten? In der Klimawissenschaft gelingt das problemlos.
+Ein konstruiertes Beispiel soll den Mechanismus erklären:
+Wissenschaftler aus dem Fach Erziehungswissenschaften stellten fest, dass die Lösungen von Kindern zur Rechenaufgabe 2+2 = ? unterschiedlich ausfallen. Diese Abweichungen korrelieren vor allem in den untersten Klassen zudem erschreckend mit der Anzahl Hitzetage.
+Aus dieser eindeutigen Korrelation ließ sich simulieren dass mit einem hohen Vertrauensbereich von 50 % das Ergebnis der Aufgabe 2+2 =? im Jahr 2050 auf den Wert 5 ansteigen muss.
+Publiziert wurde diese Erkenntnis durch das Wissenschaftsteam Mathematiklegastheniker et al unter dem Titel „Mathematik ist klimasensitiv – wie eine Simulation eindeutig belegt, kann eine Klimakrümmung mathematische Ergebnisse beeinflussen“.
+In der Zeitschrift „Klima rette dich“ kam es unter der Schlagzeile: Was selbst Einstein noch nicht ahnte, konnten Wissenschaftler nun belegen. Die Mathematik krümmt sich durch den Klimawandel. Müssen in Zukunft alle Formeln neu geschrieben werden?
+Um diesen in der gesamten Menschheitsgeschichte noch nie gemessenen Effekt genauer untersuchen zu können, wurden sofort Fördergelder bewilligt und ein Institut zur Erforschung aufgebaut. Und seitdem kann diese mathematische Klimakrümmung überall auf der Welt beobachtet werden.
+Manche (nicht oft bei EIKE vorbeischauende) Leser könnten vielleicht denken, dies wäre eine rein hypothetische und weit hergeholte Fabel. Doch solche gibt es bereits:
+Nature 527, Pages: 235–239, published 12 November 2015: Global non-linear effect of temperature on economic production
+http://www.nature.com/nature/journal/v527/n7577/full/nature15725.html
+Schlussbetrachtung
+Das Thema Eisbär und Klimawandel ist eines der Beispiele, wie aus mehr als sehr zweifelhaften und extrem streuenden Daten sowie darauf basierenden Simulationen gewünschte Ergebnisse erzeugt werden – und es über viele Jahre keinem Wissenschaftler auffällt – bis es zufällig herauskommt. Was dann aber nirgends publiziert wird.
+Es ist ein Thriller der Wissenschaft – sowie vollkommen versagender Medien
+HNA (Hessische/Niedersächsische Allgemeine) 26.11.15[19]:
+Experten-Interview zu Eisbären: Ist alles noch viel schlimmer?
+Der Klimawandel führt zum Aussterben der Eisbären, aber es gibt einige weitere Aspekte, die diese Entwicklung beschleunigen. Erschreckend ist, dass möglicherweise noch weniger Eisbären existieren als vermutet wird. Ein Interview mit einem ehemaligen Arktis-Expeditionsleiter.
+Forscher gehen inzwischen davon aus, dass der Eisbär aufgrund des Klimawandels in 50 Jahren ausgestorben sein wird. Ein Grund dafür ist vor allem der Klimawandel, …
+Sogenannten „investigativen“ Infoportalen
+Klimaretter.Info, Dienstag, 21. Juli 2015: Eisbären schaffen die Anpassung nicht
+Die Überlebenschancen von Eisbären in der Arktis sind geringer als bisher angenommen. Das legen neue Daten nahe, die von US-amerikanischen Wissenschaftlern an 26 Eisbären in der Beaufort-See nordöstlich von Alaska erhoben wurden.
+Wie auch einer dem Bürger nicht mehr die Wahrheit vermittelnden Bundesregierung
+Bild 12 Darstellung in einem beim Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit (BMUR) aktuell hinterlegtem Arbeitsheft für Schüler und Schülerinnen Grundschüler, Titel: Klimawandel
+PISA hat es vorgemacht. Man muss sich auf internationales Niveau reduzieren. Das der FIFA und Nordkorea hat die Klimawissenschaft schon erreicht. Welches ist das nächste Ziel? Vielleicht ist das ein Beispiel,
+kaltesonne: „Simbabwes Diktator beantragt 1,5 Milliarden Dollar an UNO-Klimaschutzgeldern – und lässt sich gleichzeitig seine Geburtstagsparty mit 800.000 Dollar sponsorn““.
+Ganz bestimmt sterben bei Greenpeace, BN, unserer Bundesregierung und dem Tierpark Hellabrunn die Eisbären auch weiterhin wegen dem Klimawandel aus. Mit was sollte man denn sonst werben und was sollte man auch mit den vielen im Fundus liegenden Eisbärkostümen anfangen.
+Quellen Teil 1 / 2
+[1]
+RUCN Red List: Polar Bear (Ursus maritimus) Supplementary material for Ursus maritimus Red List assessment
+Studie mit Berechnung der Formel für die Eisbärpopulation bis zum Jahr 2050
+[2]
+EIKE: Zehn düstere Prophezeiungen bzgl. des Unterganges von Eisbären sind gescheitert: jetzt wieder 20.000 bis 30.000 Exemplare
+http://www.eike-klima-energie.eu/news-cache/zehn-duestere-prophezeiungen-bzgl-des-unterganges-von-eisbaeren-sind-gescheitert-jetzt-wieder-20000-bis-30000-exemplare/
+[3]
+IUCN Redlist, Population: (Table 3 in the Supplementary Material) results in a total of approximately 26,000 Polar Bears ( 95% CI = 22,000-31,000 ).
+http://www.iucnredlist.org/details/22823/0
+[4]
+kaltesonne 15. Dezember 2014: Eisbären-Statistik-Gruppe räumt ein: Veröffentlichte Eisbärenzahlen sind lediglich eine “qualitative Vermutung mit dem Ziel das öffentliche Interesse zu befriedigen”
+http://www.kaltesonne.de/eisbar-statistik-gruppe-raumt-ein-veroffentlichte-eisbarenzahlen-sind-lediglich-eine-qualitative-vermutung-mit-dem-ziel-das-offentliche-interesse-zu-befriedigen/
+[5]
+Hellabrunn der Münchner Tierpark Eisbärenflyer 2014
+http://www.hellabrunn.de/fileadmin/pdf/Flyer_Plaene_TP-Ordnung/Eisbaerenflyer_2014_Web.pdf
+[6]
+EIKE 03.12.2014: Die neueste Eisbären-Ente
+http://www.eike-klima-energie.eu/climategate-anzeige/die-neueste-eisbaeren-ente/
+[7]
+PeTA: Klimawandel: Eine Gefahr für Eisbären?
+http://www.peta.de/klimawandel-eine-gefahr-fuer-eisbaeren
+[8]
+FOCUS Magazin | Nr. 48 (2010): Es wird wärmer – gut so! 6. Sterben die Eisbären aus?
+http://www.focus.de/wissen/klima/tid-20791/es-wird-waermer-gut-so-6-sterben-die-eisbaeren-aus_aid_582723.html
+[9]
+Uni Bremen, Institut für Geographie, Dr. Karin Steinecke: Können Eisbären ohne Meereis überleben?
+[10]
+DIE WELT 20.11.15 Die großen Verlierer des Klimawandels
+http://www.welt.de/wissenschaft/umwelt/article149065091/Die-grossen-Verlierer-des-Klimawandels.html
+[11]
+kaltesonne 13. Dezember 2014: Studie: Eisbären können ihre Fressgewohnheiten den Umweltbedingungen anpassen
+http://www.kaltesonne.de/studie-eisbaren-konnen-ihre-fressgewohnheiten-den-umweltbedingungen-anpassen/
+[12]
+Kerstin Langenberger arctic dreams. About me
+http://www.arctic-dreams.com/en/about;3.0.0.0.html
+[13]
+Neue Zürcher Zeitung, 19.2.2014: Eisbären im Klimawandel Nutzung neuer Nahrungsquellen
+http://www.nzz.ch/wissenschaft/nutzung-neuer-nahrungsquellen-an-land-1.18245954
+[14]
+EIKE 28.12.2015: Fette Eisbären: Population der Svalbard Eisbären ist in den letzten 11 Jahren um 42% gestiegen.
+http://www.eike-klima-energie.eu/climategate-anzeige/fette-eisbaeren-population-der-svalbard-eisbaeren-ist-in-den-letzten-11-jahren-um-42-gestiegen/
+[15]
+The Global Warming Policy Foundation, GWPF Briefing 16. Susan Crockford: THE ARCTIC FALLACY Sea ice stability and the polarbear
+[16]
+Notz, D. (2015): Historische und zukünftige Entwicklung des Arktischen Meereises. In: Lozán, J.L., H.Grassl, D.Kasang,
+D.Notz & H.EscherVetter (Hrsg.). Warnsignal Klima: Das Eis der Erde. pp. 194198
+[17]
+kaltesonne 12. Mai 2012: Hamburger Max-Planck-Institut mit fragwürdiger Beweisführung zum arktischen Meereis
+http://www.kaltesonne.de/hamburger-max-planck-institut-mit-fragwurdiger-beweisfuhrung-zum-arktischen-meereis/
+[17]
+Polar Bear Science, June 16, 2015: Same amount of sea ice for Hudson Bay polar bears as 2013, bears still on the ice
+Same amount of sea ice for Hudson Bay polar bears as 2013, bears still on the ice
+[18]
+RP.Online, 9. Januar 2016: Eisbären – Opfer des Klimawandels
+http://www.rp-online.de/panorama/wissen/eisbaeren-opfer-des-klimawandels-aid-1.5676747
+Gleicher Artikel in der Stuttgarter Zeitung vom 08. Januar 2016: Weiße Jäger auf der Suche nach neuer Beute
+http://www.stuttgarter-zeitung.de/inhalt.eisbaeren-weisse-jaeger-auf-der-suche-nach-neuer-beute.7801fa9e-b140-4290-bca4-e09bef575cad.html
+[19]
+HNA (Hessische/Niedersächsische Allgemeine) 26.11.15: Experten-Interview zu Eisbären: Ist alles noch viel schlimmer?
+kaltesonne 1. Mai 2012: Nicht Wärme sondern Schrotflinten sind die größten Feinde der Eisbären
+http://www.kaltesonne.de/nicht-warme-sondern-schrotflinten-sind-die-grosten-feinde-der-eisbaren/
+[21]
+J.L. McKay at al: Holocene fluctuations in Arctic sea-ice cover: dinocyst-based reconstructions for the eastern Chukchi Sea
+[22]
+Norwegian Polar Institute, December 23 2015: Polar bears in Svalbard in good condition – so far
+http://www.npolar.no/en/news/2015/12-23-counting-of-polar-bears-in-svalbard.html
+http://preview.tinyurl.com/hnd63lq
+MfG
+http://tinyurl.com/ygpavtn
+mit einer Grafik zum Populationsstatus.
+Das haben wohl unsere „Umweltexperten“ nicht mitgekriegt.
+Das Aussterben der Eisbären geht ganz einfach. Die Zahl der Eisbären ist von 5000 auf 25000 angestiegen. Unsere Experten sagen, dass sich die Arktis durch die Eisschmelze auf 3 Mio. km2 reduziert hat. Dort leben also gegnwärtig 0,008 Eisbären pro km2.
+Und jetzt machen wir es wie Greenpeace: Die Eisbären sind fast ausgestorben. Wir rechnen jetzt die Flächen von Europa, Afrika und Australien hinzu. Die Zahl der Eisbären reduziert sich auf 0,0005 Eisbären pro km2. Jetzt leben nur noch 6% der Eisbären auf der Welt. Ein Unglück, die sind fast ausgestorben.
+So hat es vor einigen Jahren Greenpeace bei den Delphinen gemacht. Greenpeace wollte Geld und hat auf diese Weise die Delphine aussterben lassen. Erst haben sie ein Gebiet genommen, wo Delphine leben. Und dann haben sie ein Gebiet 10 Jahre danach eingerechnet, wo noch nie ein Delphin gelebt hat. So kriegt Greenpeace es hin und so können die Geld von der dann heulenden Bevölkerung einsammeln.
+Damals kamen solche kritischen Aussagen noch im Fernsehen:
+http://tinyurl.com/ooavrh7
+Heute dreht man das um und im Fernsehen kommen fast nur noch Katatrophen.
+Wir sollten auch daran denken, dass die Lebensdauer der Eisbären in menschlicher Obhut auf nur 45 Jahre begrenzt ist. 45 Jahre? Ist doch traurig. … Achso, in der Natur schaffen die es auf 25 bis 30 Jahre.
+Die Welt geht unter. Aber dafür kassieren die Naturschützer Geld. Kernkraft hat sich für Greenpeace auch gelohnt. Die haben ohne zu arbeiten aus einem einzigen Kernkraftwerk innerhalb nur eines Jahres 43 Mio. Euro Gewinn erzielt. Das war 2011 Fukushima.

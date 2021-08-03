@@ -1,0 +1,39 @@
+Wir wussten bereits, dass der jährliche SLR lediglich niedrige einstellige Millimeter-Bereiche ausmachte. Die Gründe, warum Satelliten-Altimetrie ein solches Maß an Genauigkeit nie erreichen kann, sind sehr grundlegend und waren der NASA auch bekannt: Das erforderliche Referenz-Ellipsoid der Erde ist unregelmäßig [lumpy], die Ozeane haben variierende Wellen, die Atmosphäre variierende Feuchtigkeit – so dass die NASA niemals ihr selbst gestecktes Ziel erreichen konnte, nämlich den Meeresspiegel auf diese Weise bis auf Bruchteile von Millimetern pro Jahr genau zu messen, äquivalent zu Tidenmessungen. Die NASA behauptet, das sehr wohl zu können, aber deren Spezifikationen sagen, sie kann nicht. Dies wurde in jenem Beitrag belegt.
+In diesem Beitrag stellen wir die gleichen Fragen bzgl. des ARGO-Programms.
+Anders als bei Jason 3 gibt es keine gute Äquivalent-Mission von Tidenmessungen, mit denen man Vergleiche anstellen kann. Die neuen ozeanographischen Ziele (unten) enthielten die Messung mehrerer Dinge, und zwar zum allerersten Mal ,rigoros‘. ;Rigoros‘ bedeutete NICHT präzise. Ein Parameter, nämlich der ozeanische Wärmegehalt OHC war zuvor nur sehr ungenau geschätzt worden. OHC ist viel mehr als einfach nur die Wassertemperatur SST. Diese wurden vormals von Schiffen gemessen, die auf den gängigen Handelsrouten unterwegs waren, mit Eimern oder durch Messungen des in die Schiffsmotoren einströmenden Kühlwassers. Im tieferen Ozean ist überhaupt nicht gemessen worden, bis XBT-Sensoren für die Navy entwickelt worden waren. Diese maßen die Tiefe, in der sie sich gerade befanden, jedoch sehr ungenau.
+Ob ARGO zweckdienlich ist oder nicht, involviert ein komplexes Entwirren der Ziele, für welche die Bojen ausgelegt waren, plus viele darauf bezogene Fakten. Die kurze ARGO-Antwort lautet möglicherweise ja, obwohl OHC-Fehlerbalken nachweislich in der wissenschaftlichen Literatur bzgl. ARGO untertrieben dargestellt sind.
+Wer eine weitergehende Untersuchung der Schlussfolgerungen dieses Beitrags vornehmen will, der wende sich an die Website www.ARGO.uscd.edu. Die meisten Inhalte dieses Beitrags sind direkt daraus abgeleitet oder führen direkt zu den ARGO-Beiträgen bei WUWT von Willis Eschenbach. Die vier grundlegendsten seiner Beiträge sind unten verlinkt.
+[Es folgen eine Reihe technischer Einzelheiten bzgl. des Aufbaus der Bojen und technische Details, die hier nicht mit übersetzt werden. Weiter unten werden diese graphisch und zusammenfassend dargestellt. Anm. d. Übers.]
+…
+Das grundsätzliche Design der ARGO-Bojen sieht so aus:
+Und das Messprogramm von ARGO so:
+Die Frage, ob das ARGO-Programm zweckdienlich bzgl. OHC ist (mittels des Temperaturprofils bis hinab auf 2000 m) gliedert sich in zwei relevante Teilfragen. 1) Sind 2000 m ausreichend tief? 2) Sind die Sensoren genau genug, um die 10 W/m² pro 1000 km pro Kante zu ,pixeln‘?
+Hinsichtlich der Tiefe gibt es zwei Antworten von unterschiedlichen Seiten, die aber beide ,ja‘ lauten für alle Zwecke der Mission.
+Bzgl. des Salzgehaltes reichen die ARGO-Profile aus. Frühere ozeanographische Studien zeigen, dass der Salzgehalt unterhalb von 750 m Tiefe in allen Ozeanen bemerkenswert invariabel ist. Dies bietet glücklicherweise eine natürliche ,Kalibrierung‘ des Salzgehaltes für jene empirisch problematischen Sensoren.
+Bzgl. der Temperatur zeigen die typischen thermoklinen Profile, dass die Temperatur unterhalb 2000 m kaum noch abhängig von der geographischen Breite variiert, was eine weitere natürliche ARGO-,Kalibrierung‘ darstellt. Dies zeigt Abbildung 3 (in Grad Fahrenheit). Die Bojen bis zu einer Tiefe von 2000m auszulegen war eine kluge Wahl. [rote Kurve: Tropen, grüne Kurve: gemäßigte Zone, blaue Kurve: Polargebiete]
+Ist das ARGO-Programm zweckdienlich?
+Als Hintergrund für die Ziele des ARGO-Programms werden noch ein paar weitere Grundlagen benötigt.
+Taucht eine ARGO-Boje an die Oberfläche, um seine Daten zu übermitteln, wird dessen Position mittels GPS auf 100 m genau bestimmt. Angesichts der Größe der Ozeane ist das eine überaus präzise Messung der Position für ,umfassende räumliche Größenordnungen‘ der Strömungen und 1.000.000 km² OHC/Salzgehalt-Pixel.
+Dank der Stabilität des Salzgehaltes unterhalb von 750 Metern sind die ,Salzgehalt-korrigierten‘ ARGO-Instrumente genau (nach Bojen-spezifischen Korrekturen) bis auf ±0,01 psu [= Primary Sampling Unit?], was vernünftige Schätzungen des ,Süßwasser-Gehaltes‘ zulässt. …
+Die verbleibende große Frage nach ,hinreichender Genauigkeit‘ ist die nach dem OHC. Dinge wie Trenberths infame „fehlende Wärme“ sind nichts als heiße Luft. Der OHC ist eine sehr knifflige Sensor-Frage, da die große Wärmekapazität des Ozeanwassers bedeutet, dass eine sehr große Änderung der in den Ozeanen gespeicherten Wärme eine sehr geringe Änderung der absoluten Temperatur des Meerwassers bewirkt.
+Wie gut sind die ARGO-Sensoren? Oberflächlich betrachtet könnte man meinen, kommt darauf an, denn die ARGO-Bojen weisen nicht nur ein, sondern gegenwärtig fünf verschiedene Sensor-Typen auf, geschuldet der Internationalität des Programms.
+Unter diesen fünf Typen sind jedoch nur zwei Temperatursensoren, von denen einer sich rasch als fehlerhaft herausstellte. Alle fünf Typen der ARGO-Bojen messen daher die Temperatur mit einem Sensor mit der Bezeichnung SBE38, entwickelt im Jahre 2015.
+Dieser Sensor wird von SeaBirdScientific konstruiert, näheres dazu bei www.seabird.com. Der SeaBirdE38-Sensor weist folgende Spezifikationen auf:
+Messbereich:
+-5 to +35 °C
+Initiale Genauigkeit:
+± 0.001 °C (1 mK)
+Typische Stabilität
+0.001 °C (1 mK) innerhalb sechs Monaten, zertifiziert
+Auflösung:
+Reaktionszeit 500 msec
+Selbsterwärmungs-Fehler:
+< 200 μK
+Das ist ein bemerkenswert guter Sensor der Wassertemperatur. … Aber es gibt immer noch ein großes ,Für-Den-Zweck-Geeignet‘-Problem trotz aller Positiva von ARGO. Klimastudien auf der Grundlage von ARGO untertreiben gewöhnlich die tatsächliche resultierende OHC-Unsicherheit – um etwa 10 W/m². (Judith Curry nannte dies eine Form ihres ,Ungenauigkeits-Monsters‘. Willis Eschenbach hat dazu Einiges bei WUWT gepostet, und seine vier relevantesten Beiträge bzgl. der Frage nach der Zweckdienlichkeit datieren aus den Jahren 2012 bis 2015. Die vier Beiträge sind hier verfügbar:
+An Ocean of Overconfidence
+More Ocean-Sized Errors In Levitus Et Al.
+Can We Tell If The Oceans Are Warming
+Und damit können wir hinsichtlich der Zweckdienlichkeit von ARGO folgern: ja, sie sind vermutlich geeignet – aber nur, wenn auf ARGO basierende Studien auch korrekt die Fehlerbalken der ,rigorosen, wenngleich umfassenden räumlichen Verteilung‘ darstellen.
+Link: https://wattsupwiththat.com/2019/01/16/argo-fit-for-purpose/
+Übersetzt von Chris Frey EIKE
+Dieser Artikel ist recht interessant, allerdings nur für den Experten. Das liegt daran, dass nicht einfach beschrieben wird, was gemessen wird: Die mittlere Temperatur der Ozeane. Worauf bezieht sich die OHC-Unsicherheit von +/-10 W/m²? Auf die Meeresoberfläche, auf die Oberfläche der Erde, auf TOA?

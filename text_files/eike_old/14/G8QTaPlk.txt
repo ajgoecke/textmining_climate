@@ -1,0 +1,88 @@
+Es handelt sich dabei um die Verminderung des relativen Risikos, an einer schweren Form von Covid-19 zu erkranken.
+Dieser Wert ist abhängig:
+- Von den Bedingungen des klinischen Tests,
+- Von den Personen, die daran teilgenommen haben,
+- Und vom Zeitpunkt, an dem der Test durchgeführt wurde.
+Wenn die ausgewählten Personen z. B. älter gewesen wären oder mehr Vorerkrankungen gehabt hätten oder wenn der Test zum Zeitpunkt einer größeren Virenverbreitung durchgeführt worden wäre, wäre die relative Effizienz der Impfung viel kleiner gewesen.
+Für die Personen, denen man eine Impfung oder reine Behandlung anbietet, ist das absolute Risiko wichtiger.
+Das relative Risiko (auf Englisch abgekürzt RRR) ist eine Zahlenangabe, die Ihnen sagt, wie etwas, das Sie tun oder unterlassen, ihr Erkrankungsrisiko verändert.
+Wenn Sie z.B. nicht rauchen, sinkt Ihr Risiko, an Herz-Kreislauf-Problemen zu erkranken, im Vergleich zu den Rauchern um 30 Prozent. Es geht dabei immer um den Vergleich zwischen zwei Gruppen. Wenn Sie wissen, zu welcher Gruppe Sie gehören, können Sie die Wahrscheinlichkeit einer Erkrankung abschätzen.
+Diese Angabe ist also relativ und bezieht sich nicht unbedingt auf Ihren persönlichen Fall, sondern auf die Gruppe, der Sie angehören. Die Information über die relative Risikominderung ist sinnvoll für Forscher, die Meta-Analysen durchführen, denn sie erlaubt es die Ergebnisse verschiedener klinischer Studien zu kombinieren. Auf keinen Fall können Sie daraus ersehen, ob eine Behandlung ihnen persönlich nützt, denn sie berücksichtigt nicht ihr persönliches Erkrankungs-Risiko ohne Behandlung.
+Für jeden von uns ist es wichtig zu wissen, was eine Behandlung oder Impfung für eine Einzelperson bewirken kann. Dafür braucht man den Wert der absoluten Risikominderung (auf Englisch abgekürzt ARR).
+Das absolute Risiko ist Ihre anfängliche Wahrscheinlichkeit, eine Krankheit wie Krebs, Bluthochdruck …oder Covid-19 nach einer SARS-CoV-2-Infektion zu bekommen. Sie müssen deshalb wissen, wie hoch Ihr Risiko (in %) ist, diese Krankheit ohne Behandlung zu entwickeln. Von diesem Wert müssen Sie das in klinischen Studien ermittelte absolute Risiko abziehen.
+- Diesen Wert müssen Sie kennen, um eine rationale Entscheidung über den Nutzen einer Behandlung im Vergleich zu den damit verbundenen Nebenwirkungen treffen zu können.
+Aber diese Prozentzahl der «absoluten Risikominderung» ist immer viel niedriger als die Zahl der «relativen Risikominderung» und ist deshalb nicht sexy genug, um eilig entwickelte Produkte an den Mann zu bringen. Aus diesem Grund benutzen die Pharma-Hersteller viel lieber den RRR als den ARR.
+Hier ein einfaches Beispiel eines klinischen Tests:
+Sie werden so leicht verstehen, warum die Pharma-Labore lieber den RRR als den ARR verwenden.
+Die Prozentzahl der relativen Risikoreduktion wird von den Herstellern gerne im Marketing benutzt, weil sie den erwarteten Nutzen einer Behandlung übertreibt. Die gleichen Hersteller benutzen aber die ARR, um Nebenwirkungen zu verharmlosen.
+Die Mediziner sollten den Personen, die sich für eine Behandlung oder Impfung entscheiden müssen, den ARR mitteilen, damit sie deren REALEN Nutzen beurteilen können. Das ist die Basis einer aufgeklärten Einwilligung.
+Demonstrieren wir das am Beispiel der klinischen Studien, die den Corona-Impfstoffen von BionTech-Pfizer und Moderna zugrunde liegen. (Quelle 2) https://bestpractice.bmj.com/info/toolkit/learn-ebm/how-to-calculate-risk/
+BionTech-Pfizer (Quelle 3) :
+Wenn Sie also jung sind und ein gegen Null gehendes Risiko, an einer schweren Form von Covid-19 zu erkranken haben, würden Sie sich dann für eine Risikominderung von 0,71 % impfen lassen und dabei eventuell schwere Nebenwirkungen in Kauf nehmen? Selbst wenn ihr Covid-Risiko bei 30 Prozent läge, würde dann dessen Verminderung um 0,71% für Sie etwas ändern?
+Für Ihre Entscheidung ist ein weiterer Wert von Interesse: der NNT. Das ist die Zahl der Geimpften, die erreicht werden muss, damit wenigstens eine Person davon profitieren kann.
+Im Fall BionTech-Pfizer: NNT = 1 / ARR = 1 / 0.0071 = 141.
+Das bedeutet, dass von 141 mit diesem Produkt geimpften Personen 140 das Risiko schwerer bis tödlicher Nebenwirkungen in Kauf nehmen müssen, ohne davon einen Nutzen zu haben!
+Würden Sie dieses Risiko akzeptieren?
+Hier noch eine Überraschung: Die Zahlen der in Israel durchgeführten massiven Impfkampagne bestätigen mit einem ermittelten RRR von 94% durchaus die Hersteller-Angaben. Aber der im realen Leben (mit Masken- und Abstandsgebot) ermittelte ARR sank gegenüber der klinischen Studie auf 0,46%! In diesem Fall musste man also 217 Personen impfen, damit eine einzige davon profitieren konnte. Aber die «Experten» haben sich gehütet, das an die große Glocke zu hängen.
+Nun zum Impfstoff von Moderna (Quelle 4) :
+https://www.nejm.org/doi/full/10.1056/nejmoa2035389
+In diesem Fall ist der NNT = 1 / ARR = 1 / 0.011 = 91.
+91 Personen müssen sich also impfen lassen, damit ein Individuum davon profitiert. Die 90 übrigen nehmen das Risiko schwerer bis tödlicher Nebenwirkungen in Kauf.
+Das ist die ganze Wahrheit über die Impfstoffe, die die Welt retten sollen!
+Zu den Vorschriften der US-Genehmigungsbehörde FDA für die Vermarktung von Pharma-Produkten (Quelle 5) gehört die Verpflichtung der Hersteller, der Öffentlichkeit alle diese Daten zugänglich zu machen, damit jede Person die Vor- und Nachteile einschätzen und sich bewusst entscheiden kann.
+(Quelle 5):
+P60. https://www.fda.gov/media/81597/download + https://www.fda.gov/about-fda/reports/communicating-risks-and-benefits-evidence-based-users-guide
+2. Provide absolute risks, not just relative risks. Patients are unduly influenced when risk information is presented using a relative risk approach; this can result in suboptimal decisions. Thus, an absolute risk format should be used.
+Doch für die hier zur Debatte stehenden Impfstoffe haben weder die FDA noch die EMA etwas derartiges verlangt. Sie haben nur auf die RELATIVE Risikominderung hingewiesen. Dieses Versäumnis ist nicht nur unehrlich, sondern auch gefährlich.
+Wie ist es möglich, dass unsere Gesundheitsbehörden und unsere Minister uns auf dieser Datengrundlage erzählen können, dass die Covid-Impfstoffe funktionieren, dass ihr Nutzen größer ist als die Risiken und uns aus der Krise herausführen können?
+Wie können sie ins Auge fassen, Personen ohne Risiko und sogar Kinder impfen zu lassen, wo ihnen doch diese Impfstoffe nicht nur nichts nützen und die Meldungen über schwere bis tödliche Nebenwirkungen täglich zahlreicher werden.
+Allerdings weisen manche darauf hin, dass die Impfung doch funktioniere, indem sie auf die Beispiele Israel und England verweisen, wo es praktisch kaum noch Todesopfer gebe.
+Betrachten wir deshalb die Mortalitätskurven dieser beiden Länder (Quellen 7 und 8). Israel und Großbritannien haben mit der Impfung der ältesten und fragilsten Personen begonnen: Nach dem Beginn der Impfkampagne kam es zu einer Explosion der Mortalität, ein Phänomen, das in allen Ländern mit Massenimpfungen beobachtbar ist. Das bezeichnen manche Epidemiologen als „Ernte-Effekt“: Die Impfung hat das Ableben von Personen beschleunigt, die ohnehin nicht mehr lange gelebt hätten.
+So ist es kein Wunder, dass die Kurve der Sterblichkeit danach wieder absackt.
+Überall auf der Welt vermehren sich die Infektionszahlen bei doppelt geimpften Personen. Die Insassen der Pflegeheime sterben weiter und niemand möchte der Wahrheit ins Auge blicken. Niemand wagt es, die richtigen Fragen zu stellen. Im Gegenteil versteift man sich in einer morbiden Flucht nach vorne.
+Es wird also wohl im Herbst eine vierte Corona-Welle geben, die die verletzlichsten Personen, ob geimpft oder nicht, mitreißen wird. Anstatt die Nutzlosigkeit und Gefährlichkeit der Gen-Therapien anzuerkennen, hat man bereits ein Narrativ vorbereitet, um davon abzulenken. Die Rede ist von neuen Virus-Varianten, von der geringen Wirksamkeit von Impfstoffen, die nach sechs Monaten einer Auffrischung bedürfen. Es wird eine Art Jahres-Abo bei Pfizer geben. Dessen Chef hat das zynischer Weise selbst angekündigt (Quelle 9):
+https://www.latribune.fr/economie/international/une-troisieme-dose-du-vaccin-pfizer-probablement-necessaire-selon-son-pdg-882539.html
+Wie sind wir da hinein geraten? Es ist schwer, diesen wütenden Wahnsinn zu verstehen, der viele Kranke, Invalide und Tote zurücklassen wird. Welche Gesellschaft kann so etwas akzeptieren? Welche Gesellschaft, die sich ohnehin bereits gegenüber der jungen Generation versündigt hat, bereitet sich nun darauf vor, diese durch eine Gen-Therapie mit unabsehbarem Langzeit-Nebenwirkungen noch größeren Gefahren auszusetzen?
+Um ihre Ziele zu erreichen, bereiten die europäischen Führer*innen den Impfpass vor. Sie halten die Bevölkerung in Angststarre, um sie am Nachdenken zu hindern.
+Viele werden sich daran erinnern…und die Verantwortlichen werden Rechenschaft ablegen müssen! (Übersetzung: Edgar L. Gärtner)
+Quelle: Collectif Citoyen für FranceSoir (https://www.francesoir.fr/opinions-tribunes/efficacite-des-vaccins-tout-est-une-question-de-presentation)
+ich weiß zwar nicht, warum meine Antwort an Sie nicht veröffentlicht wurde aber da Sie
+a) einen Kommentar falsch interpretiert haben, weil Sie wahrscheinlich xxxxxxxxxx
+b) dadurch Schnappatmung bekommen haben
+anbei nochmals meine Erklärungen :
+1) Ich schätze die Herren Besso Keks und Peter Georgiev als kompetente Kommentatoren. Beide Herren haben sich hier in früheren Kommentaren zu anderen Artikeln als AfD Wähler geoutet. Weiterhin kann ich es auch als FDP-Wähler nicht leiden, wenn Wähler andere Parteien einschließlich der AfD durch solche hinterhältigen und sachlich falschen Korrelationen diffamiert werden (Hat Ihr xxxxxxx jetzt begriffen, dass dies meinerseits keine Diskriminierung von AfD-Wählern war, Herr Tengler ?). Daher wollte ich Besso Keks und Peter Georgiev darüber informieren, damit diese dann notfalls dies zur Sprache bringen können, falls sie es wollen.
+2) Da dies ein aktueller Zeitungsartikel war und zum Thema Coronavirus gut passt, habe ich die beiden hier angeschrieben, obwohl sie zu diesem Artikel bisher keine Kommentare hinterlassen hatten !
+2)
+nochma
+Unbedingt mäßigen!
+2. Schnappatmung hatte ich gewissnicht, aber eine gewisse ziemliche Enttäuschung bezüglich Ihrer Person schon ….., also halte ich die Frage nach Ihrem „Corona-Impfstatus“ aufrecht ….
+Sie hatten sich in der Interpretation meiner Email an Herrn Besso Keks und Herrn Peter Georgiev geirrt. Wenn Sie dies bis jetzt nicht begriffen haben (ich hatte den Zeitungsartikel über AfD-Wähler kritisiert und nicht die AfD-Wähler !), so trifft der Vorwurf, den Sie mir mit „Corona-Impfstatus“ unterstellt haben, wohl eher auf Sie zu !!
+Ihre beiden Adressaten im Ausgangsbeitrag haben sich bisher nicht zu Ihrem Link geäußert, möglicherweise, weil die Ihren Beitrag ebenso aufgefaßt haben wie ich. War wohl doch sehr mißverständlich …..
+wenn wir noch ein wenig weiter über den Tellerrand schauen, dann müssen wir feststellen, daß abgesehen von Großbritannien, Israel und den U.S.A in keinem(!) Land eine dämpfende Wirkung auf die „Wellen“ von Covid-‘Fällen‘ und –‘Covid-‘ Sterbefällen zu beobachten ist (Stand 24.05.2021, OWID – Our World in Data).
+// In Polen, Schweden, Serbien, Norwegen, Niederlanden, Italien, Ungarn, Türkei, Griechenland, Deutschland, Frankreich, Finnland, Canada, Kambodscha, Österreich, Slowenien und Argentinien sehen wir Wochen nach Einsetzen der Impfkampagnen sehr wohl – teilweise markante – neue Gipfel von Fall- und/oder Sterbezahlen.
+// In Dänemark, Süd-Korea steigen immerhin die Fallzahlen wieder oder immer noch parallel zur wachsenden Zahl der Impfungen.
+// In Chile sieht es so aus, als ob die Fall- und Sterbewellen überhaupt erst mit der Impfung angefangen haben.
+// Die Interpretation all dieser Beobachtungen steht natürlich unter dem Einschränkung, daß (zeitliche) Assoziation oder Korrelation als solche keinen Schluß auf Verursachung zulassen.
+// Das gilt allerdings genauso für die drei wenigen ‘positiven‘ Beobachtungen.
+// Schlußendlich gilt das erst recht für die kindlichen – besser kindischen – Assoziationen zwischen atmosphärischem CO2-Gehalt und Klimaerscheinungen – von Erd-Erwärmung mal ganz abgesehen :–)
+R.F.
+https://wissenschaft3000.wordpress.com/2021/05/25/neue-tribunale-1-000-anwalte-und-10-000-arzte-haben-klage-wegen-verstosen-gegen-den-nurnberger-kodex-eingereicht-pravda-tv/
+Bisher war Windkraft der größte Verstoß gegen den Nürnberger Kodex 1947: da wurden alle 10 Punkte genau umgedreht (so viel Schaden, Tote, Krüppel, Behinderte, usw. zu erzeugen, wie es nur irgendwie geht), da das Impf-Entvölkerungsprogramm ja die ganze Welt betrifft, ist das noch viel schlimmer.
+Jedoch:
+Wikipedia: Der Internationale Gerichtshof (IGH; französisch Cour internationale de Justice, CIJ; englisch International Court of Justice, ICJ) ist das Hauptrechtsprechungsorgan der Vereinten Nationen und hat seinen Sitz im Friedenspalast im niederländischen Den Haag.
+Wenn die Klage hier eingereicht wurde oder wird, dann man das Urteil vorhersagen – falls die Klage überhaupt angenommen wird. Die Vereinten Nationen sind Komplizen wenn nicht Drahtzieher in diesem Spiel, und das nicht nur auf dieser Bühne – siehe WHO, IPCC!.
+R.F.
+Deshalb: Immer alles von den Typen im weißen Kittel schriftlich begründen lassen, mit Literaturangabe. Das schützt vor deren Interessen.
+Ich halte ihn für übertrieben. Aber die dort zitierte Warnung des Ex-WHO-Experten Dr. ten Bossche wird meines Wissens in Fachkreisen ernsthaft diskutiert. Viel spricht dafür, dass die gentechnische „Impfung“ unser natürliches Immunsystem schwächt. Nachgewiesen ist ein schroffer Abfall der Zahl der Lymphozyten unmittelbar nach der Impfung. Auch dieser Artikel des Mediziners Adorján Kovács geht in diese Richtung: https://www.achgut.com/artikel/der_mensch_als_ersatz_virus_
+Die nicht beantwortete“Frage“ ist ja die nach der tatsächlichen Infektiosität der Viren bei den Normalbürgern. Früher gabs die Masern, Mumps, Röteln, Windpocken. Davon hatte unsereiner die Masern, Windpocken und die Röteln. War halt ganz normal. Irgendwann hat man aber auch gegen die impfen können.
+Was jetzt abgeht ist für mich nicht so nachzuvollziehen. Allerdings hat man ja mit den langen Zügen und U-Bahnen für eine leichtere Verbreitung der Anstecker gesorgt. Nicht zu vergessen die vielen Tunnelsysteme statt der offenen Bahnstrecken. Und die Bahnwaggons haben keine Abteile mehr. Ein Infizierter kann also alle Mitfahrer infizieren, früher nur die im Abteil. Und deshalb fahr ich jetzt nur mit meinem TöffTöff. Da kann mich niemand infizieren.
+Vielen Dank für den Hinweis auf Dr. Geert van dem Bossche, Herr Gärtner. Anbei noch einmal ein Link zu seinen Arbeiten :
+https://deutsche-wirtschafts-nachrichten.de/510390/Notsignal-wegen-Corona-Massenimpfungen-Forscher-erwartet-katastrophale-Folgen
+Coleman schadet mit seinem hysterischen Artikel (noch schlimmer als bei den Klimaaktivisten) dem Anliegen von Herrn van dem Bossche. Coleman scheint aber zu blöd zu sein, dies zu erkennen !
+In den Bayerischen Impfzentren z.B. in Fürstenfeldbruck wird lustig drauflos geimpft, gedeckt durch den Rat der Impfkommission, daß eine Aspiration nach dem Einstich nicht notwendig ist. Aspiration bedeutet, daß der Kolben der Spritze kurz etwas angezogen wird, sollte sich das Impfgut vorne rot ververärben, besteht die Gefahr, daß das Impfgut in einer Blutader landet, dort sollte es aber keinesfalls hin, sondern nur in den Muskel. Diese Vorgehensweise bei einem neuen Impfstoff mit dubiosem Inhalt kann man nur als Leichtsinnig bezeichnen. Übrigens ist heute am 23.05. „Tag des Grundgesetzes“ welches in einem Artikel die körperliche Unversehrtheit verspricht. Daran sollte man die Impfkommision erinnern. Einige Sekunden durch Unterlassen der Aspiration gespart, kann einen Dauerschaden hervorrufen. Ist das vernünftig?
+https://tinyurl.com/tyz8n6jm
+„Für Dezember 2020 und Januar 2021 insgesamt 46.000 Sterbefälle über dem Durchschnitt bei gleichzeitiger Verschiebung Richtung 75+„
+Und wann begann in Deutschland die Impferei (am 28.12.) und wievile der Gestorbenen waren geimpft? Die Übersterblichkeit der Altersgruppe über 75 hatte ihren Peak VOR dem Einsetzen der Impfungen.
+So wie es aussieht geht es einer bestimmten Industrie und Berufsgruppe ums Geld abschöpfen.
+Ich weiß noch was auf der Meteor passierte, als wir nach 6 Wochen auf See in Gran Canaria an Land konnten. Etliche mußten nach der Weiterfahrt zum Schiffsarzt. Warum wohl?
+Und oben am Nordcap war es auf der Frithjof ähnlich.

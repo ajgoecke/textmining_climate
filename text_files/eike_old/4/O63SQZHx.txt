@@ -1,0 +1,74 @@
+In Deutschland waren Ende 2016 mehr als 28.000 Windräder installiert; Tendenz steigend, die aber nur etwa 12% des in Deutschland erzeugten Stroms produzierten (1). Ihre enorme Zunahme begann nach der Mitte der 1990er Jahre:
+Wären die Windräder gleichmäßig verteilt, so würde etwa alle 3 Kilometer in Deutschland eines stehen; doch sie konzentrieren sich in dem besonders windigen Land zwischen dem Mittelgebirgsnordrand und den Küsten; manche stehen auch im Meer („offshore“). Deshalb wird sich die folgende Betrachtung auf Norddeutschland konzentrieren. Auch die in Hauptwindrichtung liegenden Nachbarstaaten Holland, Großbritannien und Dänemark stellten massiv Windräder auf. Doch welche meteorologischen Risiken birgt der Wind als Lebenselixier dieser Anlagen?
+Die Windgeschwindigkeit schwankte langfristig stark
+Windräder können keine gleichbleibenden Strommengen liefern. Ein Blick auf die Leistungskurve einer typischen Anlage verdeutlicht das:
+In Norddeutschland ist es zwar windig, aber die zum Erreichen der Nennleistung erforderlichen 6 Beaufort werden nur selten über längere Zeiträume erreicht, und Flauten (erst im Grenzbereich von 2 bis 3 Beaufort springen die meisten Anlagen an) sind leider recht häufig. Selbst der windigste Ort Norddeutschlands, der Brocken, hat nur etwa 5,5 Beaufort im Jahresmittel zu bieten; an der Nordsee etwa 3,5 bis 5, im Binnenland sind es nur 2 bis 3 Beaufort. Auch wenn die Windstärken in Nabenhöhe etwas höher sind, verdeutlichen diese Werte schon, warum trotz der enormen Anlagenzahl nur so wenig Strom erzeugt wird. Langfristige Daten zur Windgeschwindigkeit sind in Deutschland leider sehr selten und extrem lückig. Immerhin fanden sich mit Potsdam- Telegrafenberg und Bremen zwei Stationen, deren Aufzeichnungen bis mindestens 1893 zurückreichen. Folgendes ist jedoch zu beachten: Alle Angaben in den DWD- Datensätzen sind in Beaufort (m/s oder Km/h wären aussagefähiger), und sie werden in der Regel in nur 10 Metern Höhe gemessen oder beobachtet, während die meisten Windräder Nabenhöhen von 50 bis deutlich über 100 Metern Höhe aufweisen, wo es windiger ist. Trotzdem lassen diese Daten nicht nur die kurz-, sondern auch die langfristige Schwankung der Windstärke erahnen (Näheres zur Beaufort- Skala ist leicht im Internet abrufbar):
+Der langfristige Trend zeigt bei beiden Stationen eine Abnahme der Windgeschwindigkeit:
+Auch wenn man den Daten vor etwa 1950 nicht zu sehr vertrauen sollte (Mess- und Beobachtungsfehler sind wahrscheinlich), so lassen sie doch bereits zwei Schlussfolgerungen zu: Die Windgeschwindigkeit schwankt nicht nur kurzfristig, sondern auch langfristig merklich. Und insgesamt nahm sie leicht ab, was möglicherweise eine Folge der Erhöhung der Oberflächenrauigkeit durch Bebauung sein kann. Flaute- Jahre wie etwa 1926 (in Bremen und Potsdam erkennbar) hätten den Ertrag wegen des Kubischen Gesetzes erheblich geschmälert- durchaus beunruhigende Nachrichten für die Betreiber von Windrädern. Und ganz falsch können die Beobachtungsergebnisse nicht sein, denn die NAO, ein Maß für das Luftdruckgefälle zwischen Azorenhoch und Islandtief, hatte im frühen 20. Jahrhundert ein Maximum (hohes Druckgefälle bedeutet viel Wind), was die windreiche Zeit in Bremen um 1915 als plausibel erscheinen lässt (sie liefert freilich bloß ganz grobe, unscharfe Anhaltspunkte für das Windverhalten; speziell das des Winters). Eine eindeutige Erklärung der Ursachen des langfristigen Windverhaltens ist jedoch, auch aufgrund der mangelhaften Datenlage, kaum möglich. Hierfür kommen außer der Bebauung auch geänderte Häufigkeitsverhältnisse der Großwetterlagen und möglicherweise auch die Sonnenaktivität in Betracht; es bedarf gesonderter Untersuchungen.
+Die Entwicklung der Windgeschwindigkeit in den letzten 20 Jahren (1997 bis 2016)
+Windkraftgegner behaupten, wegen des massiven Windkraft- Zubaus habe die Windgeschwindigkeit bereits abgenommen. Daher erscheint eine Betrachtung der letzten 20 Jahre sinnvoll, auch wenn dieser Zeitraum recht kurz und daher in seiner Aussagefähigkeit unsicherer als längere Zeiträume ist, für welche aber bei vielen Stationen die Winddaten fehlen. Anders als bei den Lufttemperaturen, dem Niederschlag und der Sonnenscheindauer, gibt es für die Windgeschwindigkeit keine DWD- Flächenmittel für Deutschland oder einzelne Bundesländer. Deshalb wurden 25 Stationen aus den Ländern Schleswig- Holstein, Niedersachsen/Bremen, Mecklenburg, Brandenburg sowie den Nordteilen von Sachsen, Sachsen- Anhalt und Nordrhein- Westfalen mit halbwegs vollständigen Daten im DWD- Archiv gesucht und gemittelt (Stationsliste im Anhang). Die Entwicklung des Jahresmittels der Windgeschwindigkeit für Norddeutschland sieht so aus; eine mögliche Erklärung für die erkennbare Windabnahme inklusive:
+Man müsste also die weitere Entwicklung der Großwetterlagenverhältnisse kennen, um Prognosen über die künftige Entwicklung der Windgeschwindigkeiten zu treffen, was leider nicht möglich ist; Näheres zur Großwetterlagenklassifizierung bei (4). Alleinige Ursache ist sie nicht, denn an den einzelnen Stationen nahm die Windgeschwindigkeit sehr unterschiedlich ab (Anhang); in Bremerhaven und Schleswig nahm sie gar geringfügig zu. Das erhärtet den Verdacht einer zunehmenden Beeinflussung durch verschiedenste Bebauungsmaßnahmen, wobei Windräder die massivsten Veränderungen bewirken (4) (5) (6). Wegen der großflächigen Windenergie- Nutzung in Mittel- und Nordwesteuropa ist auch eine Beeinflussung der Großwetterlagen- und Luftdruckverhältnisse nicht mehr auszuschließen (erhöhte Oberflächenrauigkeit führt zu mehr Reibung, schnellerer Auffüllung von Tiefdruckgebieten; außerdem können sich die Wind- und Temperaturverhältnisse örtlich stark ändern).
+Das jahres- und tageszeitliche Windverhalten, Dunkelflauten und Mittags- Schwemmen
+Von den so genannten Erneuerbaren Energien (die gibt es physikalisch nicht) vermögen bloß Wind- und Solarenergie nennenswerte Strommengen zu liefern. Auf den ersten Blick scheinen sie sich ganz gut zu ergänzen- im sonnenscheinarmen Winter ist es windiger als im sonnigeren Sommer, und sonnenscheinreiche Hochdruckwetterlagen sind bei flüchtiger Betrachtung meist windärmer. Doch leider gibt es auch im Winter zwei Probleme, welche schon die Abbildung 1 andeutet- kein Windstrom bei Flaute und keiner bei schwerem Sturm. Bei höchstens 8 Sonnenstunden (oftmals nur Null bis 2) fehlt er im Winter umso dringender. Ein Beispiel für eine Dunkelflaute war der 24. Januar 2017:
+Guten Naturbeobachtern wird sicher das häufige Auffrischen des Windes gegen Mittag aufgefallen sein. Denn die Windstärke zeigt leider auch einen Tagesgang, der im Sommerhalbjahr viel ausgeprägter als in der kalten Jahreszeit ist:
+Abb. 7: Tagesgang der Windstärke in Jena (Abweichungen vom Mittelwert) im von Hochdruckwetter dominierten August 2003. Man erkennt ein Minimum am frühen Morgen- wenn im einsetzenden Berufsverkehr besonders viel Strom verbraucht wird. Bildquelle (7)
+Ursache hierfür ist die mit der Einstrahlung einsetzende Konvektion, welche dafür sorgt, dass die in reibungsärmeren, höheren Luftschichten meist herrschende größere Windgeschwindigkeit in tiefere Luftschichten „durchschlägt“. Aber selbst bei schwachgradientigem Hochdruckwetter können lokale Windsysteme wie Land-/Seewind, Berg-/Talwind oder Flurwinde durchaus genügend Wind für den Betrieb der Windräder liefern- leider wird er dann meist nicht gebraucht, denn diese Winde haben ihr Maximum meist am späten Mittag bis späten Nachmittag, wenn die Solarenergie auch reichlich anfällt. Oft müssen deshalb Windräder abgestellt werden- der Verbraucher bezahlt den Ausfall mit seiner Stromrechnung. Aber nachts, wenn der Wind gebraucht würde, weht er deutlich schwächer und liefert nur wenig Strom:
+Und selbst im Sommer kann es „Dunkelflauten“ geben – jüngstes Beispiel war die Regenwetterphase vom 10./11.08.2017:
+Lokale Windsysteme sind auch deshalb problematisch, weil deren Nachtwind fast immer zu schwach für den Betrieb der Windräder ist. Außerdem gibt es zwei Phasen mit Flaute, nämlich jeweils vor dem Wechsel zum Tag- und zum Nachtwind. Am Beispiel des Seewindes sei das Prinzip der Lokalwinde kurz erläutert:
+Seewinde reichen meist nur wenige Kilometer landeinwärts; selten einmal weiter als 30 Km, und werden mit jedem Kilometer landeinwärts schwächer. Lokale Windsysteme könnten jedoch mit erklären, warum mancherorts die Windstärke leicht zunahm, denn sie können in Einzelfällen auch durch Wärmeinseleffekte ausgelöst oder verstärkt werden. Auch die Windräder selbst können in Einzelfällen, nämlich bei stabiler Luftschichtung (Inversionen), bei denen der Wind am Boden besonders schwach ist, Turbulenzen erzeugen, die Wind zum Boden transportieren, der die nächtliche Abkühlung sowie Bodennebel- und Taubildung behindert, ansonsten aber völlig nutzlos ist. Derartige Schichtungsprofile zeigt die folgende Abbildung:
+Sind Offshore- Anlagen die Lösung?
+Der beschleunigte Ausbau riesiger Windparks auf See („off- shore“) soll nun der müden Windenergie auf die Sprünge helfen. Doch außer den enormen logistischen Herausforderungen bei Errichtung, Betrieb und Wartung dieser Anlagen sowie den ökologischen Folgeschäden für die Meere könnte das fatale Folgen für die bereits bestehenden, umfangreichen küstennahen Windparks an Land haben- der Wind wird noch mehr geschwächt. Jede Steilküste stört und schwächt den Wind; riesige Windparks auf See werden eine zweite solche Störungs- und Schwächungszone erzeugen:
+Bei den Offshore-Anlagen tritt außerdem wegen der extremen Wetterverhältnisse (Stürme, salzige, feuchte Luft) ein enormer Verschleiß auf, welcher selbst bei gleichbleibender Windmenge zu verminderter Leistungsabgabe führt- ein Umstand, der schon bei den Anlagen an Land zu beobachten ist. Man kann das mit einem Auto vergleichen, was entweder durch Verschleiß zum Erreichen einer bestimmten Fahrgeschwindigkeit immer mehr Sprit verbraucht – oder bei gleichbleibendem Verbrauch immer langsamer fährt:
+Zusammenfassung: Langfristig kann der Wind, vermutlich auch wetterlagenbedingt, in Norddeutschland erheblich stärker schwanken, als das in den vergangenen 20 bis 25 Jahren seit dem Beginn des massiven Ausbaus der Windenergie der Fall war. Windenergie ist keinesfalls unerschöpflich. In den letzten 20 Jahren nahm die Windstärke an den meisten Orten Norddeutschlands schon leicht ab; der Ausbau der Windenergie kann dafür durchaus mit verantwortlich sein. Wind- und Solarenergie ergänzen sich insgesamt nicht besonders gut. Tagsüber sorgen, gerade bei reichlich Sonne, die Konvektion und lokale Windsysteme eher für einen nicht verwertbaren Stromüberschuss; nachts wird der Wind oft schwächer. Nicht selten gibt es „Dunkelflauten“, bei denen Sonne und Wind fast völlig ausfallen; und bei schwerem Sturm kann die Windenergie auch nicht genutzt werden. „Offshore- Anlagen“ werden das Problem der Windstörung und Windabschwächung verschärfen; außerdem unterliegen sie einem rapiden Verschleiß; der aber auch bei den Windrädern an Land zu merklichem Leistungsabfall und sinkendem Stromertrag führt. Insgesamt erweist sich die Nutzung der Windenergie als unzuverlässige, technisch schwer beherrschbare Energiequelle mit ungewisser Zukunft.
+Anhang
+Stationsliste (Stationsname, DWD- ID; Windmittel in Bft und Trend 1997 bis 2016)
+Angermünde 00164 2,67 -0,21
+Arkona 00183 4,18 -0,37
+Berlin- Schönefeld 00427 2,76 -0,04
+Boltenhagen 00596 3,51 -0,18
+Bremen 00691 2,86 -0,11
+Bremerhaven 00701 3,39 +0,08
+Brocken 00722 5,42 -0,21
+Cottbus 00880 2,23 -0,17
+Cuxhaven 00891 3,43 -0,12
+Düsseldorf 01078 2,76 -0,15
+Greifswald 01757 2,69 -0,13
+Hannover 02014 2,69 -0,09
+Helgoland 02115 4,58 -0,33
+Köln/Bonn 02667 2,4 -0,08
+Leipzig/Halle 02932 2,87 -0,19
+Lindenberg 03015 2,53 -0,08
+List/Sylt 03032 4,15 -0,2
+Lüchow 03093 2,21 -0,05
+Magdeburg 03126 2,12 -0,29
+Münster/Osnabrück 01766 2,38 -0,17
+Neuruppin 03552 2,24 -0,42
+Potsdam 03987 2,91 -0,12
+Rostock- Warnemünde 04271 3,13 -0,06
+Seehausen/Altmark 04642 2,58 -0,14
+Schleswig 04466 2,79 +0,02
+Quellen
+- https://1-stromvergleich.com/strom-report/windenergie/
+- http://www.science-skeptical.de/blog/landraub-durch-erneuerbare-energien/0015300/
+- https://eike.institute/2016/10/19/wetterlagenhaeufigkeit-und-jahrestemperaturverhalten-in-deutschland/
+- https://wind-turbine.com/magazin/innovationen-aktuelles/umwelt/6219/lokale-klimaveraenderungen-durch-windparks.html
+- http://www.donnerwetter.de/presse/immer-weniger-wind-durch-immer-mehr-windraeder_cid_24106.html
+- http://www.bild.de/regional/leipzig/leipzig/windraeder-haben-einfluss-aufs-wetter-30997886.bild.html
+- http://wetter.mb.eah-jena.de/station/statistik/index.html
+- BALZER, K.: WEITERE AUSSICHTEN: WECHSELHAFT. Verlag Neues Leben Berlin, 1982
+- HEYER, E.: WITTERUNG UND KLIMA. BSB B. G. TEUBNER VERLAGSGESELLSCHAFT, LEIPZIG 1977
+- BERTH/KELLER/SCHARNOW: WETTERKUNDE. TRANSPRESS VERLAG BERLIN, 1979
+- http://www.science-skeptical.de/energieerzeugung/warum-der-wind-niemals-keine-rechnung-schickt-und-windkraft-teuer-bleibt/0013948/
+Stefan Kämpfe, Diplom- Agraringenieur, unabhängiger Natur- und Klimaforscher
+Temperaturanstieg durch die Maschinenabwärme (Generatoren) und anderes.
+Der absolute „Supergau“ wenn die WEA’S abgestellt werden müssen.
+Ich bin mal gespannt was kommt.
+Mit freundlichem Glück Auf
+Günter Bartsch
+Also die Phänomene, die dem Klimawandel zugeschrieben werden, sind eigentlich Phänomene der – vorgeblichen – Maßnahmen gegen diesen.
+Gibt es da schon Forschungsarbeiten in D oder werden diese, wie z.B. diejeneigen zum Infraschall, staatlicherseits unterdrückt?
+Letztens wurde die gesamte Belegschaft aus dem halbtäglichen Mittagsschlaf gerissen & mit toller pwp Präse verkündet, dass nun die Auftragsbücher voll seien und man anstrebe, die komplette Nordsee mit wka`s zuzupflastern!! Eine Folie zeigt wie nach und nach alles komplett zugestellt wird. Schiffen sollen nur noch winzige Korridore zur Verfügung stehen.
+Zu den Arbeitsabläufen in der Firma: jedes Amt in Addis Abeba ist ein F1 Renner gegen diese Zeitlupenklitsche!
+Die Nachtschicht hockt auf dem Hallendach und kifft, wenn morgens die Arbeit vom Vorabend noch da liegt, grummelt der Schichtleiter irgenetwas & es wird weiter geschlafen…
+Und hier habe ich nur das aller Harmloseste angeschnitten!
+ps selbstverständlich werden alle fürstlichst bezahlt/korrumpiert

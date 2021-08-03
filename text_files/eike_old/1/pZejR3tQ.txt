@@ -1,0 +1,5 @@
+Über die unsachgemäße Anwendung der Regression kleinster Quadrate
+Greg Goodman
+[Vorbemerkung des Übersetzers: In diesem Beitrag werden mathematische Prozesse und Begriffe angesprochen und verwendet, die mir unklar sind. Manche Begriffe habe ich kursiv gesetzt aus dem Original übernommen, um nicht ggf. eine falsche Übersetzung zu riskieren. – C. F.]
+Die unsachgemäße Anwendung der linearen Regression kann falsche und erheblich zu niedrige Schätzungen der wahren Neigung einer linearen Beziehung ergeben, falls beide Variablen signifikante Messfehler oder andere Störfaktoren aufweisen. Genau das ist der Fall, wenn man versucht, den modellierten oder gemessenen Strahlungsfluss gegen die Temperaturen an der Erdoberfläche einer Regression zu unterziehen, um die Sensitivität des Klimasystems abzuschätzen.
+Neueste Kommentare

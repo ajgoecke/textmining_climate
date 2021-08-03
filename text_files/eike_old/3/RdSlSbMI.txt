@@ -1,0 +1,154 @@
+Konfrontiert mit zunehmend kostenbewusster werdenden und nervösen Finanzministerien – selbst von China hört man, dass es seine Subventionen kürzt – hat die Erneuerbaren-Industrie während der letzten paar Jahre mit heftigen Beteuerungen reagiert, denen zufolge die bisher geleistete öffentliche Unterstützung (in UK beispielsweise über 20 Milliarden Pfund seit dem Jahr 2002) jetzt erste Ergebnisse zeitigt und dass einige Technologien, besonders Wind und Solar, fast schon im Wettbewerb mithalten können ohne weitere Unterstützung. Man muss nicht extra erwähnen, dass die Industrie eilends hinzufügt, dass sie nicht ganz dazu in der Lage ist und dass Subventionen schon noch etwas länger fließen müssen: Da mihi castitatem et continentiam, sed noli modo. [Für des Lateinischen nicht mächtige Leser: „Schenke mir Keuschheit und Enthaltsamkeit – aber nicht gleich!“ Übersetzung aus Wikipedia {hoffentlich nicht zensiert!} Anm. d. Übers.]
+Bei näherer Betrachtung erscheinen die Details von vielen dieser Behauptungen längst nicht mehr so solide. Der viel gerühmte Angebots-Preis [bid price] des dänischen Offshore-Windparks bei Krieger’s Flak, 49 Euro pro MWh, stellt sich lediglich als fragwürdiger Beweis von Kostenreduktionen heraus, da der Park tatsächlich sehr nahe der Küste liegt und weil die Entwickler nicht die Kosten der Verbindung zum Netz und Offshore-Transformatorenstellen einbezogen haben (etwa 500 Millionen Pfund) (hier). Selbst zu diesem niedrigen Angebotspreis (ein Fluch des Gewinners?) wird erwartet, dass die Station während der ersten 15 Jahre etwa 400 Millionen Pfund einstreichen muss, was etwa die Hälfte des Einkommens während jener Zeit ausmacht. Mit anderen Worten, dieses Projekt ist eine nahe der Küste gelegene Stelle, einfach zu errichten, hat große Kosteneinsparungen infolge der Subventionen für die Netzanbindung, braucht aber trotzdem erhebliche Unterstützung, um sie existenzfähig zu machen. Kaum so etwas wie eine Revolution.
+Selbst Jahresabschlüsse, die als besonnen [sober] angesehen werden können, wie etwa die folgende Graphik aus dem im vorigen Monat veröffentlichten Energy Outlook 2017 von BP, scheinen bei detaillierter Prüfung etwas zu zeigen, das inkompatibel mit ihren Schlagwörtern ist:
+Als eine visuelle Graphik lenkt diese Darstellung den Betrachter eindeutig zu der Schlussfolgerung, dass fossil erzeugter Strom immer teurer wird, wobei die roten und schwarzen Balken Kohle und Gas repräsentieren, die stetig über die gesamte Abbildung steigen, während Erneuerbare viel billiger werden. Folglich ist das Wachstum im Sektor der Erneuerbaren implizit spontan und resultiert aus „zunehmender Wettbewerbsfähigkeit“, wie die Graphik suggeriert. Auf den ersten Blick würden man denken, dass neue Kohle- und Gaskraftwerke bis Mitte der zwanziger Jahre dieses Jahrhunderts sehr unwahrscheinlich auf rein ökonomischen Grundlagen stehen.
+Allerdings müssen die Anmerkungen zu dieser Graphik berücksichtigt werden. Erstens, der Indizierung zufolge handelt es sich hier um Durchschnittskosten [Levelised Costs] über die gesamte Lebensdauer des Kraftwerkes, eine Tatsache, welche den misstrauischen Leser daran erinnern soll, dass die ökonomische Lebensdauer konventioneller Generatoren gut verstanden ist, während dies für Erneuerbare nicht der Fall ist und diese wirklich kontrovers sind. BP schreibt hier nichts von seiner Hypothese, aber wahrscheinlich handelt es sich um den fragwürdigen Industriestandard in zwanzig Jahren und noch weiter voraus. (Die Subventionen für Krieger’s Flak sind jedoch auf 15 Jahre ausgelegt, was eine bessere Annäherung an die Wahrheit ist).
+Zweitens und eher ungewöhnlich sind die „Kostenschätzungen der Systemintegrationskosten“ für Wind und Solar. Das ist ein wichtiger Punkt und aufrichtig zu begrüßen, aber auf der anschließenden Seite bemerken die Autoren von BP, dass die Systemkosten für die bis 2035 projizierten Penetrationsgrade [Anteile der EE an der Energieversorgung] wahrscheinlich relativ niedrig sind. Wer mit den Kosten der Versorgungsnetz-Erweiterung vertraut ist und bei niedrigem Lastfaktor [tatsächlich gelieferte Energie der EE] eine nahezu unveränderte konventionelle Kraftwerkskette zur Gewährleistung der Versorgungssicherheit kennt, wird das etwas unplausibel finden. Die Kosten sind bereits jetzt nicht unbedeutend, aber bis 2035 sind sie wahrscheinlich sehr hoch].
+[Dieser Absatz ist nur für Energiefachleute verständlich. Ich möchte mich bei meinem Übersetzer-Kollegen Herrn Andreas Demmig bedanken, der mir als Fachmann bei derÜbersetzung zu Hilfe gekommen ist. Anm. d. Übers.]
+Also scheint der Lack schon bei geringem Kratzen an der Oberfläche der in dieser Darstellung projizierten Preisrückgänge für Erneuerbare abzugehen – mit Sicherheit genug, um sich zu fragen, ob die Gesamtkosten für die Verbraucher von Solarstrom in Nordamerika wirklich von 85 Dollar pro MWh im Jahr 2015 auf 55 Dollar pro MWh im Jahre 2035 zurückgehen. Angesichts dessen, dass die billigsten Stellen bereits entwickelt worden sind und die Systemkosten steil steigen mit zunehmender Penetration, scheint dies ziemlich unwahrscheinlich.
+Die Zahlen für die fossilen Treibstoffe stellen sich als noch bemerkenswerter heraus. Oben merken die BP-Autoren an, dass sie einen Kohlenstoffpreis „mittlerer Lebensdauer“ von 20 Dollar pro Tonne CO2 abgeschätzt haben, 40 Dollar im Jahre 2025 und 60 Dollar in 2035. Hat man die Emissionen pro Megawattstunde aus Gasturbinen und Kohlestationen im Kopf, kann man berechnen, welche Proportionen der dargestellten Preise in den BP-Projektionen sich ergeben aus der Kohlenstoff-Besteuerung und welche aus technologischen Grundlagen und dem Treibstoffpreis.
+Aus der Graphik können wir ablesen, dass der BP-Schätzung zufolge die Strompreise aus neu gebauten Gasturbinen in Nordamerika im Jahre 2015 in der Bandbreite zwischen 32 und 56 Dollar pro MWh lagen. Unter der Annahme, dass BP einen Emissionsfaktor von 0,35 Tonnen emittierten CO2 pro MWh (hier) ansetzt, ergibt dies eine Kohlenstoffsteuer von etwa 7 Dollar pro MWh, was bedeutet, dass die Bandbreite der Preise etwa 25 bis 49 Dollar pro MWh beträgt. Im billigsten Fall ist dies viel weniger als bei jeder anderen Treibstoff-Technologie, und selbst im teuersten Fall ist es immer noch billiger als die mittlere Bandbreite von Wind un d Solar.
+Im Jahre 2035 steigen die Preise für Gasturbinen in Nordamerika auf 43 bis 68 Dollar pro MWh, einschließlich einer Kohlenstoffsteuer von 60 Dollar pro Tonne emittierten CO2. Die Emissionen pro MWh einer neu errichteten Combined Cycle Gas Turbine in jenem Jahr sind ungewiss, aber eine gewisse Verbesserung kann erwartet werden, und BP muss das zugestanden werden. Bleiben wir mal auf der konservativen Seite und nehmen an, dass es lediglich eine moderate Verbesserung der thermischen Effizienz gibt und die Emissionen auf auf etwa 0,3 Tonnen emittierten CO2 pro MWh zurückgehen. Dies würde eine Kohlenstoff-Steuerlast ergeben von etwa 18 Dollar pro MWh. Man subtrahiere das von dem projizierten Preis, und die Bandbreite im Jahre 2035 fällt auf 25 bis 49 Dollar pro MWh, was identisch ist mit den fundamentalen Kosten im Jahre 2015 und deutlich unter den Kosten sowohl von Solar- als auch von Windstrom liegt.
+Führt man die gleiche grobe Berechnung für Schätzungen des Kohlepreises durch unter der Annahme, dass BP Emissionen von etwa 0,74 Tonnen emittierten CO2 pro MWh für die gegenwärtige super-kritische [?] Kohle ansetzt und 0,67 Tonnen emittierten CO2 pro MWh bei zukünftiger verbesserter superkritischer Kohle [?] [0.74 tCO2e/MWh for current super-critical coal and 0.67 tCO2e/MWh for future advanced supercritical coal], dann zeigt sich das überraschende Ergebnis, dass der in der BP-Graphik geschätzte Kohlenstoffpreis einen signifikanten Rückgang des Preises der Kohle-Erzeugung maskiert. Die Preise im Jahre 2015 lagen zwischen 48 Dollar pro MWh und 73 Dollar pro MWh ohne Kohlenstoffsteuer (15 Dollar pro MWh), während die Preise im Jahre 2035 zwischen 45 Dollar pro MWh und 59 Dollar pro MWh liegen ohne Kohlenstoffsteuer (40 Dollar pro MWh). Derartige Preise machen die Kohle auch im Jahre 2035 wettbewerbsfähig gegenüber Wind und Solar.
+Mit anderen Worten, praktisch die gesamte Steigerung der in der BP-Graphik präsentierten Kosten der Kohle- und Gaserzeugung ist das Ergebnis von Kohlenstoff-Besteuerung, nicht von technologischen und Treibstoff-Grundlagen. Eine Graphik, die vordergründig einen stetigen Triumph von Erneuerbaren sogar über die billigsten fossilen Treibstoffe zeigen, zeigt jetzt, dass Strom aus Gas- und sogar aus Kohlekraftwerken wahrscheinlich noch viele Jahrzehnte lang fundamental billig bleiben wird, und dass Erneuerbare nur unter optimistischen Annahmen hinsichtlich Kostensenkungen wettbewerbsfähig werden sowie mit einer willkürlichen und politisch angreifbaren Zwangsabgabe für fossile Treibstoffe in Gestalt einer Kohlenstoffsteuer.
+Ich habe nicht den Wunsch, ausschließlich BP einer Einzelkritik zu unterziehen. Darstellungen wie diese werden hundertfach von Unternehmen und Regierungen in der ganze Welt gezeigt. Dies ist Gruppendenken im größten Maßstab. Natürlich glauben dies nicht alle. Mr. Trump hat ambitionierte Pläne einer Re-Militarisierung der USA, zusammen mit einer Agenda niedriger Steuern und Reduktionen bei öffentlichen Ausgaben. Billige fossile Treibstoffe wie jene implizit in der BP-Studie werden diesen Kreis nicht nur quadrieren, sondern werden es dem Präsidenten auch erlauben, gegenüber den Bergarbeitern und Produktions-Mitarbeitern Wort zu halten, welche ihn ins Amt wählten. Der Outlook mag ziemlich konfus daherkommen, aber die Aussichten sind für jedermann klar erkennbar.
+Link: http://www.thegwpf.com/the-future-of-fossil-fuels-dark-or-bright/
+Übersetzt von Chris Frey EIKE
+@ C. Hansen, 19. Februar 2017 um 12:22
+Stimmt, keine Kostensenkung.
+WKA benötigen nun mal Wind. Da die ertragreichsten Gebiete schon mit den Anlagen überfüllt sind, geht man, mit der Umweltverschandlung, jetzt an die noch weniger ertragreichen Flächen und muss, in der Hoffnung auf mehr Wind, in die Höhe bauen. Man ringt halt nach Argumenten, um WKA weiterhin zu legitimieren. Die Erhöhung der Vollaststunden wird da nur zum Eigennutz als Argument vorgeschoben.
+Dazu gehört auch der Unfug mit den Supraleitern. Die Technik erhöht die Anschaffungskosten und die notwendige Kühlung erhöht allenfalls die Unrentabilität.
+Es ist schon erstaunlich, dass für dieses Anwendungsgebiet Forschungsgelder bezahlt werden. Es gibt keinen Grund WKA einzusetzen.
+Geldverschwendung! Betrug?
+„Da ist, heute, bei Wind schon lange die Luft raus. Zukunft bei Wind, null.“
+Der weltweite Siegeszug der Windenergie geht weiter.
+Auch im Jahr 2015 hat sich der Zubau neuer Windkraftanlagen beschleunigt.
+Die Wachstumsrate erreicht rund +17 Prozent und ist damit erneut leicht angestiegen.
+Mit einem Zubau (2015) von ca. +63 GW Windkraftleistung wurden noch nie so viele Windräder weltweit errichtet wie 2015.
+2015 gingen aber nur ca. 10 GW an AKW-Leistung ans Netz.
+In 2015 gab es ja auch einige AKW Stilllegungen die, die 10 neuen AKWs kompensieren müssen, da reden wir von einem realen Zubau bei den AKWs von +1 bis +3 %.
+Gruß
+1. Ihr Text enthielt jede Menge Codes. Bitte anderen Texteditor verwenden.
+2. Sie schreiben hier triumphierend, was alle Blätter jeden Tag schreiben. Das ist nichts Neues. Nur schreiben Sie nichts über die horrenden Subventionen samt Vorrangeinsspeisung, die die Windradbauer dazu verleiten ihr Geld in diese Uralttechnologie zu stecken.
+3. Sie schreiben auch nichts darüber dass diese GW Wind nur einen Nutzungsgrad von ca. 20 % (In Deutschland sogar deutlich drunter) haben. Damit schrumpfen Ihre 63 GW Wind-Installation auf mickrige 12GW bis 14 GW verglichen mit konventionellen oder Kernkraftwerken. Wie hier vorgerechnet.
+Da Sie das alles längst wissen müssten, gehe ich davon aus, dass Sie ihre verdrehten Informationen hier als Troll einbringen wollen. Zum Erkenntnisgewinn tragen sie nichts bei.
+Sehr geehrter Herr Werner Mueller,
+so ein XXXXXX wie Sie kann mir nicht das Wort im Munde herumdrehen.
+Noch einmal: Bei Windkraftanlagen gibt es nichts mehr zum Weiterentwickeln. Allein deshalb ist da die Luft raus.
+Die Technologie, um die AKW, mit ständigen Neuerungen, geht dagegen immer weiter.
+Windkraft? Masse ist nicht gleich Klasse. Das nennen Sie Siegeszug. Auch wenn der Zubau der Flatterstromerzeuger vervielfacht wird, das ganze multipliziert mit null bleibt null.
+Bei AKW kommt heraus, was drauf steht. Ich gehe davon aus, dass Sie das sehr wohl wissen. Dieses vorausgesetzt, sind Sie ein primitiver XXXXX, dem es, wahrscheinlich aus Eigennutz, völlig egal ist, wenn eine Volkswirtschaft vor die Wand gefahren wird.
+Leider muss man Menschen wie Ihnen immer wieder antworten. Leichtgläubige Menschen glauben Ihnen sonst, denn bei Lügen ist Masse tatsächlich Klasse.
+Sehr geehrter Admin, bitte lassen Sie das noch einmal durchgehen! Das musste raus.
+ich stimme Ihnen zu, dass man bei der AKW-Technologie noch sehr viel weiter entwickeln kann.
+Aber bitte erklären Sie, was Sie damit meinen, dass es bei den Windkraftanlagen nichts mehr zu entwickeln gibt.
+Meinen Sie damit, dass in der Vergangenheit schon alles entwickelt wurde und ab jetzt Schluss ist oder meinen Sie damit, dass es das Prinzip Windmühle schon immer gab?
+Die technologische Evolution der Windkraft geht ja offensichtlich immer noch weiter.Die Anlagen werden weiterhin größer, höher und die Volllastanden werden erhöht. Man hat jetzt die 9 MW offshore erreicht, die höchste Anlagen hat 240 m, die besten Anlagen erreichen jetzt im Binnenland 3.000 Vh/a (offshore fast 5.000 Vh).
+Die ersten Anlagen mit Supraleitergenerator werden gerade im großen Dimensionen erprobt. Man stellt von Blinklicht auf Radar um. Die Fundamente und Türme werden ständig weiterentwickelt (Hybrid, Holz usw.) usw. usw.
+Das alles ändert das Grundprinzip nicht, aber es ist offensichtlich, dass diese Anlagen technologisch nichts mehr mit den Holzmühlen oder mit den 100 kW / 80 Meter-Anlagen von vor 15 Jahren zu tun haben.
+auch für die tollsten und evolutionär weiter entwickelten WKAs (von mir aus auch gerne mit Supraleitern) gilt: kein Wind, kein Strom!
+Im Jahre 2016 war die Onshore-Windeinspeisung mit 66,8TWh geringer als im Jahr zuvor (2015) mit 70,9TWh.
+Ist das die Evolution, von der Sie träumen? Dann träumen Sie weiter!
+Nach Ihrer Logik ist der technologische Rückschritt bei Kohle und Atomkraft als0 am stärksten.
+Es ist schon seit Jahrzehnten bekannt, dass es windstarke und und windschwache Jahre gibt. Es ist also eigentlich nicht so ungewöhnlich, dass es mal ein 1/2 Jahre weniger ist. Wobei es bei machen vielleicht doch für Überraschung gesorgt. Die großen „Windpausen“ in 2016 waren da sicherlich schon für die EE-Branche schwerer zu verdauen.
+Nette Ironie, aber Ihnen ist die Ursache der rückläufigen Einspeisungen der konventionellen Erzeuger schon klar, die Nichts mit technologischer Schwäche zu tun hat – oder?
+Im Gegensatz zu den EE, die aus genau diesem Grund regelmäßig versagen; aber immerhin zu der fundamentalen Erkenntnis führen, dass es auch mal windschwache Jahre gibt – ja wer hätte das vorher gedacht?
+Derartige „Windpausen“ gab es übrigens auch schon 2009 und 2010.
+Tja, der Wind, das himmlische Kind….
+Da haben Sie recht.
+Die technologische Evolution in Richtung größer und höher führt im Endeffekt dazu, dass die Anlagen immer unwirtschaftlicher werden.
+Die Weiterentwicklung von Generatoren hat nichts mit WKA zu tun. Generatoren werden halt zur Stromerzeugung benötigt.
+Jeder Cent, der in die „Erneuerbaren“ investiert wird, ist weggeworfenes Geld.
+Es gibt keinen Grund, Steinzeittechnologie, in neuem Gewand, einzuführen. Ich schätze, Sie kommen jetzt mit Ihrem CO2-Quatsch und der Klimarettung.
+Das sehe ich anders. Mir ist nicht bekannt, in welch einem anderem Bereich z.B. supraleitende Generatoren in Serie produziert werden sollen. Das ist ein spezieller Anforderungsbereich der Windindustrie, um das Gondelgewicht zu reduzieren und Kosten zu sparen. Damit will ich aber nicht abstreiten, dass diese Technik nachfolgend auch in anderen Bereichen eingesetzt wird.
+Wie kommen Sie eigentlich zu Ihrem Schluss, dass immer größer und höher zu unwissenschaftlicheren Anlagen führt? Das höre ich zum ersten mal. War das ein spontaner Gedankengang oder haben Sie da auch Belege für. Das würde mich ernsthaft interessieren.
+Erklären Sie doch mal, was man denn bei Windmühlen noch signifikant verbessern kann und warum Windmühlen mit 9 MW Nennleistung effizienter sein können als solche mit 100 kW Nennleistung?
+Ich gehe mal davon aus, daß Sie nicht wissen, was Sache in Physik und Meteorologie ist.
+Für diese Erkenntnisse brauch man keinen Dr. in Physik oder Mereorologie.
+Und ja, Wind weht nicht immer und nachts strahlt keine Sonne. Mit ging es hier um die technologische Entwicklung
+„Für diese Erkenntnisse brauch man keinen Dr. in Physik oder Mereorologie.“ Stimmt, es reichen die Kenntnisse eines math.-nat. Abiturs + Ökonomiestudium.
+Aber da Sie nicht wissen, daß z.B. die Massen der Rotorblätter proportional zur Längenerhöhung mit einer Potenz von 3,3 anwachsen, die Rotorfläche aber nur quadratisch mit r, ist das wohl nix mit Kostensenkung durch Größenwachstum. Turm- und Fundamentmassen wachsen auch nicht mit einer Potenz von 2 sondern mit einer zwischen 3 und 4. Die E-126 in HH hat irgendwo eine Turm- und Fundamentmasse zwischen 7 und 9 Tausend Tonnen.
+Aber Sie können gerne vorrechnen, daß die Anlagen billiger und effizienter wurden. Können Sie es nicht, haben Sie sich selbst als Nachplapperer von Propaganda entlarvt.
+Mit der Leistungssteigerung der WKA findet keine proportionale Kostensenkung, aufgrund der von Ihnen beschriebenen Punkte, statt.
+Sie glauben aber im Ernst, dass eine alte WKA mit 1 MW und 1.400 Vh/a den Strom zum selben Preis (in ct/kWh) produziert wie eine heutige 3,x MW-Anlage? Glauben Sie die Projektierer wählen größere Anlagen, weil diese einfacher zu genehmigen sind? Letztendlich kommt es (fast) nur auf die ct/kWh an und nicht auf die €/kW. (Genauere Info’s zu den Kosten: hier
+In den letzten 15 Jahren wurde immer gesagt, dass eine WKA aus den von Ihnen beschriebenen Gründen nicht größer werden kann als xxx kW. Und immer wieder wurden diese Thesen von der Realität eingeholt. Und die Anlagen wurden sicherlich nicht größer nur um zu zeigen, dass man es kann.
+Die 9 Megawatt-Anlage mit 5000 Vollaststunden im Jahr möchte ich sehen. Wahrscheinlich wird die von einem Dieselaggregat angetrieben. Repräsentativ ist das auf keinen Fall.
+Aber auch bei Ihren 5000 Vollaststunden gibt es da, großflächig, immer wieder null Stunden, null Stunden, null Stunden usw.
+Jetzt mal ganz ohne Nutzenrechung, wo ist da Ihrer Meinung nach der Sinn?
+Mit was dürfen Sie morgen denn Ihr Brötchen belegen? Das ist übrigens auch von immenser Wichtigkeit.
+Und haben Sie schon Ihren Vegetariertag eingelegt?
+Wenn Sie diese Grünvorlagen freiwillig befolgen, haben Sie den richtigen Weg eingeschlagen. Das Klima wird es Ihnen danken.
+HALLELUJA!
+Wollen Sie ein Stromsystem nur mit Windkraft aufbauen? Das wird nicht funktionieren! Warum haben Sie anscheinend schon erkannt.
+Der Rest ihres Kommentares ist mir zu wirr.
+17. FEBRUAR 2017 UM 13:23
+„Die Anlagen werden weiterhin größer, höher und die Volllastanden werden erhöht.“
+Ist Ihnen klar, daß damit die „Ausbeute“ reduziert wird?
+MfG
+Beim Repowering wird der Ertrag eines Windparks (als kWh je ha Bodenfläche) gesteigert. Auch bei Einsatz von „Schwachwindanlagen“. Zumindest soweit mir bekannt.
+Die entscheidenen Ausbeuten (je WKA, je ha Grundfläche, kWh je € Invest) steigen nach meiner Ansicht also.
+Für weitere Erkenntnisse wäre ich Ihnen dankbar.
+MfG
+Das ändert aber nichts daran, daß eine Schwachwindanlage in Summe weniger weniger Energie liefert.
+„Die entscheidenen Ausbeuten (je WKA, je ha Grundfläche, kWh je € Invest) steigen nach meiner Ansicht also.“
+Nö! Was steigt sind die Vollaststunden. Und das deßhalb, weil der Wert für Vollast reduziert wird.
+Solange die abgelieferte KWh bezahlt wird, sinken die Einnahmen.
+Sollte eine Art Kontinuitätsfaktor hinzukommen, würde sich das ev. ändern.
+Bis dahin verstehe ich das Ganze als Marketinggag.
+MfG
+Weniger Energie als was? Eine größe und höhere Anlage produziert immer mehr Strom als eine merkbar kleinere Anlage am selben Standort. Hierdurch steigen die Einnahmen. Dies gilt auch für eine Schwachwindanlage. Nicht weil es eine Schwachwindanlage ist, sondern weil diese größer und höher ist.
+Sie haben aber Recht, dass eine Schwachwindanlage mit gleicher Höhe und gleichem Durchmesser am selben Standort egal wo, immer weniger Strom produziert als eine Starkwindanlage mit größerem Generator, also auch weniger Einnahmen bringt.
+Wenn dieser Unterschied bei den Einnahmen so gering ist (auch durch geringeren Börsenwert), dass diese nicht die Mehrkosten für den größeren Generator, massiveren Rotoren, stärkeren Turm, stabileren Fundament und den teureren Netzanschluss rechtfertigen, dann ist eine Schwachwindanlage im Vorteil gegenüber eine Standard-WKA.
+Auch wenn der Name es suggeriert, ist eine Schwachwindanlage aber kein Allheilmittel und braucht auch einen relativ guten Windstandort und sie braucht auch immer eine höhere Vergütung (c/kWh) als eine Anlage an der Küste.
+Auch wenn Sie persönlich das vermutlich nicht wahrhaben wollen: Ihre Zahlen sind Vergangenheit. China wird seine Windenergie-Investitionen in nächster Zeit erheblich drosseln, das geht schon länger durch die Presse. Im Bereich Kernkraft sind die Planungen so umfangreich, dass man dort jetzt erstmal in zusätzliche Ausbildungskapazitäten für Nuklearfachleute investieren muss, um später genügend Spezialisten für die vielen neuen Anlagen sowie für die Entwicklung neuer Technologien zu haben.
+Mfg
+grosser Realitätsverlust bei Ihnen?
+Ihre Zahlenangaben zu den Kosten eines AKW beziehen sich auf ein einziges Beispiel, bei dem ein besonders hoher Risikozuschlag einkalkuliert werden musste.
+Für andere neue KKW ist von ca. 4-5 ct./ kWh auszugehen. Oder halten Sie die Planer in Indien, China, Russland, Saudi-Arabien sowie zahlreichen anderen Ländern für Volltrottel und nur Sie haben die einzige ewige Wahrheit gepachtet?
+Die wollen eine Stromversorgung, die dann funktioniert, wenn sie gebraucht wird, und keine Stotterstromerzeugung durch PV oder Wind.
+Ihre Ausführungen sind typisch für einen Privatier, der noch nie Gesamtverantwortung für eine kleinere oder grössere wertschöpfende Organisation zu übernehmen hatte. Ich bezweifle stark, dass Sie auch nur eine Pommesbude wirtschaftlich erfolgreich führen könnten.
+Ausserdem haben Sie „vergessen“, dass bei Stotterstromerzeugern enorme Kosten für Systemintegration und neue Leitungen erforderlich werden. Allein die Nord-Süd-Trasse wird mit ca. 10 Mrd. € veranschlagt. Diese Leitung wäre völlig unnötig, wenn man die bisherigen Kraftwerke weiterverwenden würde.
+Mfg
+Ein chinesisches KKW wird heute für 3500 $/MWel gebaut. Da die Brennstoffkosten so gut wie nicht ins Gewicht fallen, stimmen Ihre Zahlen Herr Fred Mueller.
+Heute sind alles nur noch Katastrophenmeldungen, damit der Staat beim Normalbürger das Abkassieren bequem durchsetzen kann.
+Quelle:
+„Die Erde wird dieses Jahr zerstört: „Die Elite bereitet sich schon auf das Ende vor““
+http://tinyurl.com/zfgujba
+„Die US-Weltraumbehörde hatte den Asteroiden erst im November 2016 entdeckt, weil seine Oberfläche sehr dunkel ist und kaum das Sonnenlicht reflektiert. Seine Herkunft ist unbekannt aber man weiß, dass er zwischen 500 und 1.000 Meter groß sein müsste.
+Gemäß der NASA stelle er aber keine Gefahr dar, da er die Erde am 25. Februar mit einem Abstand von rund 51 Millionen Kilometern passieren wird. Doch genau das bezweifelt Dr. Zakharovich.“ https://is.gd/rqpbGo [pravda-tv.com]
+Siehe auch https://is.gd/wvd6xp [scienceblogs.de]
+1. Die Erde generiert mehr Methan, Erdöl und Steinkohle als jemals verbraucht werden kann. Damit wäre alles andere überflüssig.
+Siehe Buch von Thomas Gold – Biosphäre der heißen Tiefe
+2. Die USA verfügen über drei Vakuum-Energie-Konverter für unbegrenzte elektrische Leistung. Sie wissen nur nicht, wie diese Dinger mit irdischen Mitteln hergestellt werden können. Einige Elemente gibt es hier nicht.
+Siehe serpo.org – Suchergebnisse „Crystal Rectangle“: https://is.gd/GtMPqW
+Alles andere sind Lügen und Nebelkerzen, weil 99 Prozent aller Menschen einen stark beschränkten geistigen Horizont haben. Sie sind jederzeit bereit, die Wissenden totzuschlagen. So ist das halt auf der Menschenfarm.
+Warum hat man ausgewählte Erfindungen von Nicola Tesla zerstört?
+2016 erschien das ins Deutsche übersetzte Buch „Die geheime Reise zum Planet Serpo: Die wahre Geschichte einer interplanetaren Reise“ von Len Kasten. Es ist kein Roman, sondern eine Dokumentation offizieller freigegebener Regierungsdokumente und Zeugenaussagen von Regierungsmitarbeitern.
+http://www.dzig.de/UFOs_Warum-wird-die-Existenz-vertuscht
+sind Lügen 🙂
+Die sogenannten „billigen fossilen Treibstoffe“ wurden über viele Jahre durch Preisabsprachen und Anstreben möglichst monopolähnlicher Strukturen, in verbrecherischer Art, weit, weit über Preis auf den Markt gebracht.
+Das ist besonders leicht bei der Rohölförderung sichtbar. Es führte dazu, das die Förderer fossiler Energieträger auf derart großem Fuß leben, dass, bei noch immer überzogenen Preisen, das Einkommen von denen nicht mehr ausreicht.
+Für die Wirtschaft und den Endverbraucher kam endlich eine Entlastung, da schon alleine Fracking zu einer ernsten Konkurrenz führte.
+Mit der Einführung des EEG wurde der Endverbraucher von der Entlastung wieder entlastet und die Industrie fing an die Koffer zu packen.
+Auch, wenn uns die fossilen Energieträger noch sehr lange zur Verfügung stehen, wird die zukünftige Nutzung der Kernenergie, vor allem aus wirtschaftlicher Sicht, immer vielversprechender. Die fossilen können, auf anderen Gebieten, einen wichtigen Stellenwert behalten.
+Die Frage aus der Überschrift wird sich, in der Form, in Zukunft nicht stellen.
+„Auch, wenn uns die fossilen Energieträger noch sehr lange zur Verfügung stehen, wird die zukünftige Nutzung der Kernenergie, vor allem aus wirtschaftlicher Sicht, immer vielversprechender.“
+Herr Bernhard Bühner,
+kleiner Realitätsverlust oder wie soll ich das verstehen?
+Das kWh aus einem neuen AKW kostet um die 11 Cent + Inflationsausgleich + 35 Jahre Einspeisevergütung.
+Das kWh aus einem neuen Größeren PV-Kraftwerk kostet noch 5,38 Cent (nach EEG) ohne Inflationsausgleich und auch nur 20 Jahre Einspeisevergütung.
+Da ist das kWh aus den AKW ca. 3 X so teuer über die Laufzeit wie das kWh von der PV-Anlage.
+In der Zeit wo die PV-Anlagen was abliefern können die AKWs Pause machen.
+Das sind bei 900 bis 1000 Vollaststunden die sich aus ca. 3000 bis 3500 Lieferstunden verteilen, nur noch an ca. 5700 Stunden wo die AKWs punkten können.
+Jetzt kommt noch die Windkraft um die Ecke mit 1500 bis 4000 Vollaststunden, da bleiben für die AKWs noch 1000 bis 2000 Stunden im Jahr.
+Reichen die ca. 2000 bis 4000 Volllastsunden im Jahr um einen AKW Neubau zu refinanzieren?
+AKWs haben keine Chance gegen Wind und PV in weiten Teilen der Welt, vom kWh Preis.
+Gruß
+Ihr Beitrag enthielt jede Menge Codes. Bitte anderen Texteditor verwenden.
+Die Effizienz der heutigen Kernkraftwerke liegt um das 18-fache höher als bei Windkraftanlagen. Man darf die Kernkraftwerke nur nicht vom Netz nehmen, wie Sie das gerne Sehen.
+Geschrieben habe ich allerdings über die Entwicklung in der Zukunft. Kleine Leseschwächen oder wie soll ich das verstehen?
+Da ist, heute, bei Wind schon lange die Luft raus. Zukunft bei Wind, null.
+Ich bin jeden Tag im Windpark. Mal abgesehen von den Standzeiten, kann man froh sein, wenn bei den Großanlagen mal zwischen 10 % bis 15 %, von der Nennleistung, als Ausbeute herauskommen.
+Wenn Sie nun die von mir eindeutig festgestellte Realität als Realitätsverlust darstellen, empfehle ich Ihnen, vollen Ernstes, schnellstens einen Psychiater aufzusuchen. Ich mache mir wirklich Sorgen um Sie!
+Mit freundlichem Gruß
+ein besorgter Mitmensch

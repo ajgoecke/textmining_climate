@@ -1,0 +1,157 @@
+Welcher interessierte Zeitgenosse hat es nicht schon angesichts der oft surrealen Klimameldungen der Medien selber erlebt: er möchte den Unsinn gerne überprüfen, weiß aber nicht, wo und wie er an die zugehörigen Daten herankommt. Nebenbei, wissen es die für den Klima-Unsinn verantwortlichen Redakteure von ARD, ZDF, SPIEGEL, ZEIT, Süddeutscher usw. natürlich noch weniger, denn Recherche nach den Fakten ist im heutigen Haltungsjournalismus unter die Räder gekommen.
+Ein britischer Blog schafft nun etwas Abhilfe bei diesem Problem, sein Name „Wood for trees„. Er spielt an auf das bekannte „den Wald vor lauter Bäumen nicht mehr sehen“. WoodForTrees beabsichtigt, die Problematik der Recherche nach Klimadaten zu verringern. Der Blog ist unabhängig und für Benutzer kostenlos. Damit erfüllt es die gleichen Kriterien wie auch die deutschen Klima-Blogs EIKE, die Kalte Sonne und der englischsprachige, in Deutschland beheimatete Blog NoTricksZone. Natürlich werden die genannten Kriterien viele Leute nie begreifen, weil sie sich nach eigener Blasen-Logik sagen „Ich würde nie etwas umsonst machen, ergo können die Macher solcher Blogs doch nur von der US-Ölindustrie finanziert sein“. Ist aber falsch und beruht auf dem Missverständnis, die eigene Charakterschwäche pauschal auf alle Mitmenschen zu projizieren.
+Wieder zurück zu WoodForTrees! Um mit WoodForTrees schnell und einfach umgehen zu können, hat sich Sebastian Lüning die Mühe eines speziellen Einführungsvideos gemacht. Es ist ihm nach Auffassung des Autors dieser Zeilen toll gelungen. In dem Video wird an Hand von Beispielen die Gewinnung und auch Übertragung von eigenen Daten exemplarisch beschrieben. Hier das Video, genießen Sie es!
+Herr Dietze, Sie schrieben : „Herr Keks, Sie scheinen sich weder über die irdischen -18 Grad ohne Gegenstrahlung noch über die Hitze auf der Venus (bei etwa 90 bar CO2) Gedanken gemacht zu haben. Weder die grössere Nähe zur Sonne noch ein vielleicht vor langer Zeit eingeschlagener Himmelkörper können dafür eine hinreichende Erklärung liefern.“ Sie vergessen dabei, dass sich die Aktivität der Sonne im Verlauf der Geschichte unseres Sonnensystems stark verändert hat. Vor über 1 Milliarde Jahre war die Sonnenaktivität wesentlich geringer als heutzutage, weshalb einige Experten auch vermuten, dass es früher flüssiges Wasser auf der Venus gab. Weiterhin darf man den CO2-Gehalt der Venus bei einem wesentlich höheren Atmosphärendruck nicht mit den 0,004 % in der Erdatmosphäre vergleichen. Hinzuzufügen ist außerdem, dass für den hohen CO2-Gehalt der Venus keine anthropogenen CO2-Emissionen verantwortlich waren. Spass beiseite, wenn einige Möchtegern-Wissenschaftler den Einfluss von Vulkanismus auf den CO2-Gehalt eines Planeten verneinen, darf ich mir auch solche Bemerkungen erlauben. Ich weiß auch, dass Sie ein Experte in Sachen Klima sind, Herr Dietze und mir somit 100 %ig zustimmen ! Vielen Dank dafür !
+neue-forschungsergebnisse-zum-ursprung-atmosphaerischen-co2-mit-prof-dr-murry-salby
+Nach Prof. Salby ist die Global-gemittelte-Temperatur nicht abhängig vom CO2-Gehalt der Athmosphäre (Manua Loa), es ist genau umgekehrt. Der CO2-Gehalt ist abhängig von der Temperatur!
+Hier die Berechnung:
+1. Die Integration der Temperatur über die Zeit ergibt den CO2-Gehalt:
+Bevor Integriert wird, benötigt die Temperatur einen Offset (Parameter1) und eine Skalierung(Parameter2). Nach der Integration wird noch ein Startwert (Parameter3) (Integrationskonstante) addiert um die Kurve entsprechend zu verschieben. Die Parameter 1 bis 3 sind so ausgewählt dass die Kurven von Messwert und Integration gut zueinander passen.
+https://www.woodfortrees.org/plot/hadcrut4gl/from:1958/offset:0.57/integral/scale:0.1666/offset:315/plot/esrl-co2
+Umkehrung der Berechnung:
+2. Bei Bildung der Ableitung des CO2-Gehaltes über die Zeit, lässt sich die Änderungsrate des CO2 in Abhängigkeit von der Temperatur darstellen:
+Die Parameter sind die selben wie bei der Integration. Zur besseren Lesbarkeit sind die Kurven jeweils geglättet.
+https://www.woodfortrees.org/plot/hadcrut4gl/from:1959/mean:5/offset:0.57/plot/esrl-co2/mean:12/derivative/mean:6/scale:6
+Es könnte der Einwand vorgebracht werden, dass die Verwendung der Paramater dazu dient das gewünschte Ergebnis zu erhalten. Dass Prof. Salby aber prinzipiell richtig liegt, lässt sich z.B am Verlauf der Ableitung im Jahr 1998 erkennen. Die Temperatur ist hoch und gleichzeitig steigt auch der CO2-Gehalt der Atmosphäre mit einer höheren Geschwindigkeit. Bei niedrigerer Temperatur , geht auch die Steigerungsrate des CO2-Gehaltes zurück. Bei der Verwendung von anderen Datensätzen für die Temperatur ist das ebenfalls zu sehen. Es sind dann zur besseren Darstellung eventuell geringe Anpassungen der 3 Parameter notwendig.
+Das Ergebnis von Prof. Salby entspricht auch den Proxidaten der letzten 400.000 Jahre. Erst steigt oder fällt die Temperatur, dann folgt das CO2
+Der anthropogene Ausstoß von CO2 hat scheinbar keinen Einfluss auf den CO2-Gehalt der Atmosphäre.
+Sind Maßnahmen notwendig um den Ausstoß von CO2 zu reduzieren, damit das 1,5-Grad-Ziel erreicht werden kann? Ist es sinnvoll zur Änderung der „Globalen“Temperatur das CO2 aus der Atmosphäre zu entfernen? Kann der CO2-Gehalt der Atmosphäre überhaupt von Menschen beeinflusst werden und lässt sich damit das Klima ändern?
+Herr Lang,
+da irrt Prof. Salby. Zwar hängt der ppm-Anstieg wegen erwärmungsbedingter ozeanischer Ausgasung bzw. verringerter CO2-Absorption auch ein wenig von der überwiegend solar bedingten Temperatur der oberen Mischungsschicht ab, das ergibt rechnerich seit vorindustrieller Zeit aber nur knapp +10 ppm (weshalb es in den Modellen meist vernachlässigt wird). So bleibt für den anthropogenen Anstieg durch bisher etwa emittierte 450 GtC noch 400-280=120 ppm übrig. Der Senkenfluss pro Jahr beträgt insgesamt etwa +1 GtC pro Anstieg um 20 ppm, also heute etwa (410-10-280)/20=6 GtC. Genaueres zur realistischen C-Modellierung finden Sie unter http://www.fachinfo.eu/dietze2020.pdf
+Die Senkenflüsse sind zwar konzentrationsabhängig, aber alle auch Temperaturabhängig.
+„Zwar hängt der ppm-Anstieg wegen erwärmungsbedingter ozeanischer Ausgasung bzw. verringerter CO2-Absorption auch ein wenig von der überwiegend solar bedingten Temperatur der oberen Mischungsschicht ab, das ergibt rechnerich seit vorindustrieller Zeit aber nur knapp +10 ppm (weshalb es in den Modellen meist vernachlässigt wird).“
+Bei der Ausgasung berücksichtigen sie die Temperatur , bei allen anderen Prozessen nicht. Wie Groß ist denn der Anteil der Ausgasung am gesamtgeschehen?
+Bei den Stoffströmen des CO2 gibt es Prozesse die eine Temperaturabhängigkeit haben. Die Auswaschung von CO2 aus der Atmosphäre durch Regen ist temperaturabhängig. Bei der Verdunstung von Wasser gelangt das darin gelöste CO2 ebenfalls in die Atmosphäre. Die Verdunstung ist Temperaturabhängig und somit der gesamte Prozess.Wo berücksichtigen sie diese Umstände in Ihren Berechnungen?
+In Ihrem PDF verweisen sie auf zwei Webseiten:
+https://kaltesonne.de/die-sonne-im-juli-2019-die-erde-wird-gruener-die-ausbleibende-katastrophe/
+https://kaltesonne.de/zur-co2-neutralitaet/
+Es ist dort jeweils ein Diagramm vom „Global Carbon Project“ mit der Überschrift „Balance of sources and sinks“ abgebildet. In dem Diagramm steht: „Total estimated sources do not match total estimated sinks. This imbalance reflects the gab in our understanding.“ Auf deutsch: „Die geschätzten Gesamtquellen stimmen nicht mit den geschätzten Gesamtsenken überein. Dieses Ungleichgewicht spiegelt die Lücke in unserem Verständnis wider.“
+Die Erkenntnisse von Prof. Salby erklären aber genau diese „Lücke“ im Verständnis.
+Etwas handlicher sind die Grafiken auf dieser Seite.
+https://bit.ly/31a2m5T
+Aber die Grafiken zeigen natürlich das Gleiche. Die globale Erwärmung von ca. 1 °C seit den 1960er Jahren ist Realität. Da ist kein Zweifel möglich. Wer das nicht wahrhaben will, der diese Tatsache nur noch Leugnen.
+Silke Kosch
+Ich habe den Verdacht, dass Sie irgendwie bei der seriösen Klimadiskussion noch nicht angekommen sind, bitte lesen Sie auch meine lange Erklärung auf Ihren Kommentar unten vom 15. Okt. Wir fragen nach den vielfältigen Gründen der Erwärmung.
+Dass wir gerade erfolgreich das Experiment durchführen, welches die schon vor über einem Jahrhundert vorhergesagte Erwärmung der unteren Atmosphäre durch Zunahme der Treibhausgase beweist, ist Ihnen nicht bewusst? Es ist wie beim Higgs-Boson; lange richtig vorhergesagt und jetzt ist der Beweis erbracht. CO2-Gehalt steigt – Temperatur steigt – keine andere Energiequelle als alternative Theorie in Sicht.
+Würden
+Fourier (der formulierte, dass die Atmosphäre die Erde erwärmt),
+Tyndall (der bewies, dass Gase Wärme absorbieren können, davon Wasserdampf und CO2 besonders gut) und
+Arrhenius (der erstmals die Auswirkung einer Verdoppelung des CO2-Gehaltes der Luft mit 5°C recht zutreffend abschätze)
+noch leben würden, hätten die sicher auch Tränen in den Augen.
+Herr Kowatsch, Sie scheinen mir unzufrieden damit zu sein, dass sich die Verbrennung fossiler Energieträger durch die Menschheit als Grund für die gerade zu beobachtenden globale Erwärmung erwiesen hat. Warum? Das ist doch die beste aller Varianten. Wir sind Ursache, also haben wir es in der Hand , diese Ursache abzustellen. Wir sind sogar in der komfortablen Lage, dies ohne große Beeinträchtigung unserer Lebensweise zu tun. Strom stellen wir auch ohne Verbrennung fossiler Energieträger her, Häuser bekommen wir auch durch gute Wärmedämmung bei deutlich weniger Energieaufwand warm und ob ein Auto nun elektrisch oder mit Diesel/Benzin fährt, ist doch schnuppe.
+Stellen Sie sich nur die Katastrophe vor, Sie fänden etwas als Ursache des Klimawandels, was wir nicht beeinflussen könnten. Gut, Sie bekämen dann einen Nobelpreis in Physik, aber die Menschheit ist dann wieder beim Medizinmann, der uns den Regen herbeitanzen soll oder noch schlimmer bei Tier und Menschenopfern, wenn jahrelang die Ernten ausbleiben.
+Silke Kosch
+Frau Kosch, weil Sie denken dass es „die beste aller Varianten“ ist, ziehen Sie die Schlussfolgerung, dass man auch etwas gegen die Erwärmung tun kann. Wenn sich gegen die Erwärmung nichts unternehmen lässt, sind alle Versuche die Temperatur zu beeinflussen umsonst.
+„Stellen Sie sich nur die Katastrophe vor, Sie fänden etwas als Ursache des Klimawandels, was wir nicht beeinflussen könnten. Gut, Sie bekämen dann einen Nobelpreis in Physik,…“
+Lesen Sie meinen Beitrag weiter oben. (16. Okt 21:41)
+Hat Prof. Dr. Murry Salby dann möglicherweise den Nobelpreis verdient?
+Die Menschheit hat bisher nicht überlebt weil sie die Natur an ihre Bedürfnisse angepasst hat, die Menschen haben sich immer an die Natur angepasst.
+Ganz nach Darwin: „survival of the fittest“ = „Überleben des Angepasstesten“
+Vorab, ich komme aus der Elektrotechnik, bin kein Naturwissenschaftler.
+Auch solche Leute bekommen etwas naturwissenschaftliches Handwerkszeug.
+Sie glauben offensichtlich, dass CO2 die Erde erwärmt.
+CO2 ist mehr oder minder ein Inertgas, wird teilweise auch als Schutzgas benutzt.
+Neon ist ein Gas, was vergleichbare Eigenschaften wie CO2 hat.
+Beide Gase lassen sich extern anregen, Neon leuchtet dann schön orange.
+Sie kennen bestimmt Neonlämpchen, z.B. anzutreffen bei Lichtschaltern Treppenhaus.
+Bitte nicht mit Leuchtstofflampen verwechseln, manchmal als Neonröhre bezeichnet.
+Das Neon kann nur die Energie abgeben, die ihm zuvor zugeführt wurde.
+Beim CO2 ist es recht ähnlich, leuchtet nur nicht im sichtbaren Bereich.
+Da liegt die Wellenlänge bei ca. 15 µm, etwa Faktor 30 zu sichtbarem Licht.
+Das CO2 kann nicht erwärmen, es müsste ja dann Energie abgeben!
+Würde CO2 radioaktiv zerfallen, wäre eine Energieabgabe gegeben.
+Chemisch ist CO2 weitestgehend neutral, geht ungern chemische Reaktionen ein.
+Eine recht interessante chemische Reaktion ist die Photosynthese.
+Aus CO2 entstehen andere Verbindungen, sonst gäbe es keine Pflanzen.
+Bei der Photosynthese muss jedoch Energie zugeführt werden, nicht umgekehrt.
+Das heißt im Klartext, CO2 entzieht der Umgebung bei der Reaktion Energie.
+Oder anders ausgedrückt, CO2 wirkt in dem Moment kühlend!
+Wäre dem nicht so, würde beim Verbrennen von z.B. Holz keine Wärme entstehen.
+Beim Verbrennen entsteht dann wieder als Endprodukt CO2.
+Ich hoffe, Sie denken über meine recht einfach geschriebenen Zeilen nach.
+Für Admin (Steuerzeichen), Text im Editor Mousepad geschrieben.
+Wunderbar, keine Steuerzeichen.
+Frau Kosch, diesmal muss ich Sie loben ! Sie kennen das Higgs-Boson, auch „Gottesteilchen“ genannt, 1964 von Peter Higgs vorhergesagt und 2012 am CERN nachgewiesen. Interessant ist in diesem Zusammenhang übrigens das Meißner-Ochsenfeld Experiment ! Aber wissen Sie auch, warum vor langer Zeit auf der Venus höchstwahrscheinlich sogar Ozeane existierten und heute nicht mehr ? Dies hat mit der Aktivität der Sonne zu tun, die irgendwann einmal in ferner Zukunft als Weißer Zwerg enden wird – für einen Neutronenstern oder gar ein Schwarzes Loch reicht es nicht !
+Herr Kowatsch,
+Der Wert ECS ist – mit 1 Grad seit vorindustriell, wie beobachtet – ziemlich einfach aus dem ppm-Verhältnis zu bestimmen, wenn man (wie u.a. auch Regressionsanalysen ergeben) von einem CO2-bedingten Anteil von etwa 25% ausgeht sowie davon dass der transiente Anstieg etwa 70% des Gleichgewichtswerts beträgt:
+deltaT =1 Grad/0,7*0,25 = ECS*ln(410/280)/ln(2) ergibt ECS =0,65 Grad
+Werte von etwa 0,6 Grad ergeben sich auch mit MODTRAN sowie durch strahlungsphysikalische Berechnung (HITRAN) mit Korrekturen für Wolken, Wasserdampfüberlappung und Feedback. Der von IPCC fälschlich benutzte „best guess“ für CO2-Verdoppelung von 3±1,5 Grad wurde aus Eisbohrkern-Analysen (Ausgasungssensitivität) abgeleitet und hat mit ECS *nichts* zu tun.
+täglich grüßt das Murmeltier.
+Es gibt keine Sensitivität des Klimas bezüglich CO2.
+In Deutschland wird es laut den Daten des DWD aber erst seit 1989 wärmer.
+Mittlere Jahrestemperatur in D von 1881 bis 1988: 8,09°C (Standardabweichung 0,62°C)
+Mittlere Jahrestemperatur in D von 1989 bis 2019: 9,28°C (Standardabweichung 0,69°C)
+Woran liegt das? Befindet sich Deutschland auf einem anderen Planeten?
+Für Deutschland gilt.
+Die 1970er Jahre waren im Mittel wärmer als die 1960er Jahre.
+Die 1980er Jahre waren im Mittel wärmer als die 1970er Jahre.
+Die 1990er Jahre waren im Mittel wärmer als die 1980er Jahre.
+Die 2000er Jahre waren im Mittel wärmer als die 1990er Jahre.
+Die 2010er Jahre waren im Mittel wärmer als die 2000er Jahre.
+Die 2020er Jahre waren im Mittel wärmer als die 2010er Jahre.
+Seit über einem halben Jahrhundert wird es auch in Deutschland nachweislich wärmer. Das hat nichts mit Glauben zu tun, sondern das ergibt sich aus den Messergebnissen.
+Diese Entwicklung stimmt mit der globalen Entwicklung überein.
+Warum soll man über eine Tatsache diskutieren? Sollten wir unsere Zeit nicht lieber dazu nutzen, den als Ursache erkannten CO2-Ausstoß durch Verbrennung fossiler Energieträger zu beseitigen?
+Das ist doch nun wirklich Aufgabe genug.
+Silke Kosch
+Wer hat die Ursache erkannt?
+Du???
+Ich lach mich schlapp
+In Safari auf iOS14.0.1 wird der Film nicht angezeigt. Es ist nur eine Leerraum zu sehen.
+Tut mir leid, bei mir mit Safari auf Mac OS 10.15.6 ging es.
+Selbes gilt für den neuen Naomi Seibt Beitrag.
+Danke für das Feedback!
+Der Michel denkt sog. „Schwarze Löcher“ würde es nur im Universum geben. Irrtum. Der CERN-Teilchenbeschleuniger beispielsweise hat den Beinamen: Das schwarze Loch für Steuergelder.
+Ein kleiner Steinmarder genügte um den weltgrößten Teilchenbeschleuniger lahmzulegen. Welch eine heldenhafte Tat. Nicht alle waren vom Helden begeistert. Hat das den Steinmarder gekümmert? Mitnichten.
+Wäre ich Physiker und/oder Konstrukteur, würde ich mich in eine (nicht zurück verfolgbare) Piraten-Drohne mit einem hinreichend starken Laser „verwandeln“. Eine Kleinigkeit. Was kriminelle linke Nerds können, kann ein kluger Physiker schon lange. Es genügt WKA an wenigen Punkten zu bearbeiten und schon ist der Gigant außer Gefecht gesetzt. 😉 Wenn Recht zu Unrecht wird, und das ist hier längst der Fall, dann […]. Das GG selbst, stellt diese klare Forderung an die Bürger.
+Und warum sieht das Wasser dann nicht kohlpechrabenschwarz aus?
+Der Film ist auch wirklich gut….. sehr schön sachlich und mit Fakten und jetzt kommt das große Aber…..
+Aber: wen interessieren im bunten dummen giftig grünen Beute- und Blödland schon Fakten? Die „indoktrinierte Faktenlage“ ist hier doch „Der Klimawandel tötet uns alle, CO2 muß weg, Windräder sind die Lösung“ und viel korrekter wäre doch wohl (alle Aussagen um 180 Grad umdrehen) „Die Erde wird ihr Klima ständig ändern, CO2 ist vollkommen wurscht und Windkraft tötet alles Leben im Umkreis von 25 Kilometern, im Meer noch über hunderte Kilometer, das ist der Grund für die vielen toten Wale“. (Offenbarung, Kap. 8 – so meine Vermutung und auch die Deagel-Liste, danach verliert Deutschland 2/3 der Bevölkerung bis 2025 – ich halte diese Liste nicht für Fake, die Agenda läuft….)
+Wie wollen Sie dieses schöne Video an die grün-Verblendeten bringen? Ich persönlich mache Zwangsinformationsbeglückung zum Thema Windkraft – ist schwierig, aber nicht unmöglich, ich habe einleitend den Satz entwickelt „der Grund, warum hier so viele Menschen sterben, sind die Windräder, sie sind im Umkreis von 15-25 Kilometern schädigend für Menschen“ und tatsächlich habe ich schon echt gute grüne Menchen erreicht und gedreht – auch, wenn das 1 Jahr dauert, ich gebe niemals auf! Wenn der gute grüne Mensch vor 1 Jahr noch gesagt hat „Wir brauchen Speicher“ und ich „Nein, die Windräder müssen sofort gesprengt werden!“ und der Gutgrün mir 1 Jahr später recht gibt, ist der Kampf gewonnen!
+Andere Strategien müssen her! Irre Strategien, sonst wird´s nix!
+Welche?
+Die geschilderte „Holzhammermethode“ wirkt vmtl. bei Leuten, die es derb mögen und bei denen es nicht so genau auf stimmige Einzelheiten ankommt. Und bei Leuten, die sich wenig für das Klima interessieren und denen die Klimakatastrophe wurscht ist – ein fast beneidenswerter Zustand!
+Ein generelles Problem ist, dass etwa 75% der Wähler unter gar keinen Umständen AfD wählen wollen. Und das wird von allen Seiten kräftigst geschürt. Für die Etablierten die bequemste und sicherste Methode, mit dem CO2- und Klima-Irrsinn ungestört und ungerührt munter weiter zu machen. So, als gäbe es nicht die geringsten Zweifel an diesem grünen Irrweg – siehe zuletzt Dumm-Söder…
+Mal schaun, wie sich die bevorstehenden CO2-Steuererhöhungen auswirken werden. Vielleicht regt sich dann endlich Widerstand!
+Ist es nicht die Aufgabe der Juristen der Wahrheitsfindung zu dienen?
+Ich oute mich mal und bekenne, dass ich mich zu denen zählen muss. Und wenn ich „muss“ schreibe, dann bedeutet das, dass ich es gleichzeitig zutiefst bedauere. Das meine ich ernst, keine Ironie! Bei all dem, wofür ich die AfD schätze (speziell auch für das hier vordringlich behandelte Thema), kann ich es mit meinem Gewissen nicht vereinbaren, diese Partei zu wählen, solange Neonazis wie ein Herr Höcke Mitglied sind und nicht unbeträchtlichen Einfluss ausüben. Würde es gelingen, solche Typen auszuschließen – wofür es leider keine große Wahrscheinlichkeit gibt – müsste ich nicht lange nachdenken.
+Schau ich mir die Blendgranaten innerhalb der Altparteien an, schneidet die AfD in ihrer Personalstruktur hervorragend ab.
+Der Blog WoodForTrees ist nicht brandneu, sondern hat sich seit mindestens 10 Jahren bewährt. Zu kritisieren ist dass die meisten aufgeführten Zeitreihen Indizes oder Anomalien sind (Ausnahmen Sonnenflecken, TSI, CO2). Eine Anomalie hängt auch von der Wahl des Referenz-Zeitintervalls ab. Die Aussagekraft ist deshalb manipulierbar. Beispiel September-Temperatur München 2020 (GHCNv4qcu) 16,25°C. Die Anomalie bezüglich 1961-1990 beträgt 1,3 °C, 1827-1856 3,8°C und 1781-1810 2,6 °C. Meiner Meinung nach sind Anomalien nur aussagekräftig, wenn man auch den Absolutwert kennt. Wasser gefriert bei 0°C. Es gibt Ausnahmen. Diese sind aber durch die Reinheit bestimmt, weniger durch Anomalien.
+https://wattsupwiththat.com/2019/04/25/uah-rss-noaa-uw-which-satellite-dataset-should-we-believe/
+vielleicht können wir uns auf Folgendes einigen.
+Etwas, was man bei Licht sehen kann, absorbiert niemals „die gesamte Strahlung“.
+Und als ich letztens an der Ostsee war, habe ich die gesehen.
+Silke Kosch
+da schon lange eindeutig belegt ist, dass Wärmeinseln im Zuge des anthropogenen Klimawandels die gleiche Erwärmung zeigen, wie die Umgebung, liegen Sie mit Ihrem Steckenpferd (dem Wärmeinseleffekt) falsch.
+https://bit.ly/3nTRLWr
+Die größte Erwärmung ist über der Arktis, Alaska, dem Norden Kanadas, Sibirien und Mittelasien nachgewiesen. Also Flächen, die keinesfalls ein UHI – Effekt aufweisen.
+Silke Kosch
+2) Ihren link können Sie also vergessen, zumal in besagten Gebieten keine Wetterstationen am selben Fleck wie vor 150 Jahren standen, so dass man den WI-effekt, also die zunehmende Bebauung um die Wetterstation herum untersuchen könnte. Wir (Kowatsch/Kämpfe) haben nach solchen Wetterstationen gesucht und nur eine in Virginia/USA auf dem Lande bei einer Farm gefunden. Es ist die drittälteste US-Station, und die älteste in Virginia, die heute noch die Temperaturen am selben Ort ohne große wärmende Umgebungsveränderung mißt. Ergebnis: gar keine Erwärmung seit 1880 dort am Standort. Das heißt aber nicht, dass es überall so sein müßte.
+Fazit: Das Farbengeschmotze aus ihrem link ist zunächst mal wertlos, er muss mit nachprüfbaren Messstationen und Daten hinterlegt sein, außerdem müßten entsprechende Standortstationsbeschreibungen von 1850 und heute dabei sein. Hätten sich die Standorte nicht verändert, – also die Station Fairbanks noch so wie 1850 – dann hätte die Erwärmung natürliche Ursachen und kaum WI-effekt Ursachen. Bitte machen Sie sich auf die Suche.
+Wir (Kowatsch/Kämpfe) weisen ausdrücklich darauf hin, dass die angenehme Erwärmung seit dem Ende der kleinen Eiszeit neben der Zunahme der Ausbreitung der Wärmeinseln um die Stationsstandorte auch natürliche Ursachen hat, aber nicht CO2.
+Frau Kosch, Sie sehen, dass der Autor ihres links vollkommen falsche Rückschlüsse zieht, ( ein Mangel an schulisch naturwissenschaftlicher Bildung?) wobei ich selbst aufgrund meiner Forschungsarbeit bezweifle, ob es in diesen Regionen überhaupt vergleichbare Messungen bis 1850 zurück gibt.
+Weiterhin würde ich Ihnen empfehlen sich damit auseinander zu setzen, wie Temperaturverläufe auch in den Epochen ermittelt werden, wo noch keine Wetterstationen existierten. Wir können das sehr zuverlässig.
+Und noch eins: Die globale Temperaturentwicklung seit 3000 Jahren bis Mitte des vergangenen Jahrhunderts ist global gesehen recht langweilig. Da passierte nichts besonders Aufregendes, was wir heute als globale Erwärmung bezeichnen würden. Erst ab den 1960er Jahren wurde es interessant und da waren Messstationen schon sehr gut über den Globus verbreitet.
+Und noch ein Zweites: Das „Farbengeschmotze“ in meinem link zeigt sehr gut, dass sich in Virginia kaum etwas in Sachen Erwärmung getan hat. Das kann also so schlecht nicht sein, wie Sie glauben.
+Silke Kosch
+Farbengeschmotze: Gut, in Virgina keine Erwärmung, da keine Farben, obwohl dort CO2 doch auch von 280 auf 415 ppm zugenommen hat. Farbengeschmotze in Sibirien und um den Pol: Entweder Computerspielchen oder natürliche Erwärmung oder Wärmeinseleffekte seit 1850 oder alle drei Punkte zusammen. Jedenfalls keine CO2-Treibhauserwärmung, was in Virginia nichts bewirkt kann auch nicht in anderen Regionen der Verurusacher sein.
+Sie sind ein richtiger „Scherzkeks“ mit Lust zum Veralbern.
+„Warum sollten Meteorologen eine Wetterstation, die langfristig zur Bestimmung von Temperaturverläufen über viele Jahrzehnte genutzt wird, von einer kühlen Stelle an einen offensichtlich wärmeren Standort verlegt werden, ohne dass man diese Verlegung berücksichtigt?“
+Genau das frage ich mich auch immer neu. Denn es wird regelmäßig gemacht und zwar selbst bei ganz wichtigen, schon lang existierenden Messstationen deren einheitliche Zeitreihen damit beendet und für viele Auswertungen verloren sind. Schauen Sie nur in die DWD-Datenbank. Es wimmelt von gestückelten und abgebrochenen Messreihen. Man hat fast den Eindruck, die (gemessene) Vergangenheit soll bewusst „zerstört“ werden. Und dass beim Verlegen die Reihen auf eine ausreichende Genauigkeit harmonisiert werden (können) glauben wohl nur Sie. Bei einer abgerochenen Station (und das sin ausnehmend viele) finden Sie sowieso keine weiterführende, harmonisierte Reihe.
+„Die globale Temperaturentwicklung seit 3000 Jahren bis Mitte des vergangenen Jahrhunderts ist global gesehen recht langweilig. Da passierte nichts besonders Aufregendes“
+Damit meinen Sie sicher den Hockeystick? Schauen Sie mal in die Studie Büntgen et al. 2020, an der sogar das PIK miteschrieben hat. Die dort gezeigte Sommer-Temperaturreihe der letzten 2000 Jahre strotzt nur so von „aufregenden“ – weil höheren als aktuellen – Temperaturwerten. Deutlich sieht man darin auch, dass es um a. 500 ein Erwärmungsanstieg begann, der den aktuellen weit in den Schatten stellt Und man sieht man darin endlich (weil auch darin noch durchgeführt), dass die Proxis keine Übererwärmung zeigen und diese ausschließlich durch das Ergänzen mit Messwerten erzeugt wird.
+„Temperaturverläufe auch in den Epochen ermittelt werden, wo noch keine Wetterstationen existierten. Wir können das sehr zuverlässig.“
+Wer schon einmal in das angeblich so zuverlässige Pages2k-Temperaturermittlungs-Projekt geschaut hat, glaubt das schon lange nicht mehr (doch, Herr Rahmstorf noch). Lesen Sie ruhig meinen Artikel, der die katastrophalen Temperaturermittlungen durch Proxis an exemplarischen Beispielen zeigt: EIKE 11.05.2016: Die Problematik der Temperaturrekonstruktion Eine beispielhafte Sichtung dazu anhand des Projektes PAGES2k
+„Die globale Temperaturentwicklung seit 3000 Jahren bis Mitte des vergangenen Jahrhunderts ist global gesehen recht langweilig. Da passierte nichts besonders Aufregendes, was wir heute als globale Erwärmung bezeichnen würden.“
+Also in Zentral-England ist die Jahrestemperatur zwischen 1660 und 1700 um ca. 1°C gefallen. Danach ist sie zwischen 1700 und 1740 um ca. 2°C gestiegen. Ich finde das aufregend. Aber die Briten waren schon immer etwas „speziell“. Deshalb: Psssst!
+Worin sehen Sie ein Problem?
+Wenn es im 1700 Jahrhundert tendenziell niedrige Temperaturen gegeben hat, habe ich kein Problem damit, das zu akzeptieren. Ich akzeptiere doch auch, dass Grönland im Mittelalter unter schwierigen Bedingungen aber immer bewohnbar war.
+Es ist nachgewiesen, dass solche örtlichen Temperaturschwankungen in den vergangenen 3000 Jahren kein globales Phänomen war. Erst Seit Mitte des 20. Jahrhunderts hat sich wirklich etwas Bemerkenswertes getan.
+Die Ursache ist bekannt. Es ist die Anreicherung der Atmosphäre mit CO2. Exxon weis das seit einem halben Jahrhundert und schürte dennoch lange Zweifel an dieser Tatsache:
+https://bit.ly/347qQ1q
+Also wenn die es wissen, dann wüsste ich nicht was uns antreiben sollte, diese Tatsache abzustreiten.
+Silke Kosch
+Dieser Klassiker der AGW-Lügenbande ist nun wirklich dutzendfach widerlegt.
+Was soll der Quatsch?
+Allerdings gibt es außer WI noch viele weitere Einflüsse wie Ozeanische Oszillationen, Sonne samt Verstärkung und Milleniumszyklen, die wegen der zyklischen Natur sowohl temperaturerhöhend (wie offenbar wahrend der letzten Jahrzehnte) als auch temperatursenkend wirken. Ziemlich unklar ist bisher, wie sich der Luftverkehr auswirkt, durch den viele Aerosole und Wasserdampf in die untere Stratosphäre gelangen, und der ganz überwiegend auf der Nordhalbkugel stattfindet. Ferner wirkt (unregelmäßig auftretender) Vulkanismus kühlend.
+Und noch eins: Bei den (vergleichsweise geringeren) Temperaturanstiegen über den Ozeanen, ebenfalls von Satelliten gemessen, können WI keine Rolle spielen. Zu den Unterschieden bei den Temperaturunteranstiegen über Ozeane und Land dürften neben den Land-WI die Temperaturträgheit der Ozeane und die geringere Verdunstungskühlung über Land beitragen.

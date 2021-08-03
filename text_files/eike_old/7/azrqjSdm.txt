@@ -1,0 +1,98 @@
+Also klickte ich ach den entsprechenden Satelliten-Aufzeichnungen der University of Colorado. Aber nach dem Plot erkannte ich, dass man im Jahre 2018 aufgehört hatte. Nirgendwo konnte ich auf der Website eine Begründung dafür finden.
+Ich wollte aktuellere Aufzeichnungen und fand die AVISO-Website. Das ist die französische Gruppe,welche die Original-Satellitenmessungen aufzeichnet.
+Ich musste jedoch lachen, als ich auf der AVISO-Website suchte und die folgende Graphik fand:
+HILFE! Ich hatte wirklich keine Ahnung, dass es so schlimm war. Es scheint, als ob die guten Leute in Colorado einfach ein paar passende Aufzeichnungen obiger Gruppe herausgepickt und sie zusammengeschweißt hätten und das dann eine valide Aufzeichnung passend für alle Zwecke genannt haben.
+Ich andererseits würde sagen, dass hier genug Daten vorliegen, um uns vielleicht einen Trend mit viel Unsicherheit zu zeigen … aber aus diesem Mischmasch eine Beschleunigung heraus kitzeln? Dass ich nicht lache.
+Wie auch immer, ich beschloss, noch einen Blick auf den „Referenz“-Datensatz von AVISO zu werfen. Dieser ist oben grün eingezeichnet. Er ist im Wesentlichen identisch mit dem Datensatz aus Colorado, läuft aber bis Ende 2019. Also analysierte ich ihn.
+Nun habe ich jüngst mit einem selbst entwickelten Analyse-Verfahren bzgl. des Meeresspiegels gearbeitet. Es basiert auf einer Analyseart mit der Bezeichnung „Complete Ensemble Empirical Mode Decomposition“ (CEEMD). Mehr dazu in diesem Beitrag von mir.
+Das CEEMD-Verfahren dient dazu, Stück für Stück die zugrunde liegenden Zyklen der zu analysierenden Datensätze zu erkennen und zu entfernen. Danach bleibt etwas übrig, das man „Residuum“ nennt. Alle identifizierbaren Zyklen sind dann entfernt.
+Natürlich lassen sich mit diesem Verfahren keine Zyklen erkennen, die so lang wie der Datensatz oder noch länger sind. Bei meiner letzten Analyse beispielsweise betrachtete ich 40 bis 50 Jahre lange Datensätze. Hier ein Beispiel über 44 Jahre:
+Wie man sieht, ist ein Zyklus über 33 Jahre nicht entfernt worden – er ist zu lang, um in einem 44 Jahre langen Datensatz aufgelöst zu werden.
+Und dies belegt ein riesiges Problem, wenn man zu ergründen versucht, ob sich die Rate des Meeresspiegel-Anstiegs beschleunigt. Man weiß, dass die Tidendaten sehr langzeitliche Zyklen von 50 Jahren oder mehr aufweisen. Aber wie schon in meinem Beitrag mit dem Titel „Accelerating The Acceleration“ beschrieben, haben die Personen, welche die „US Sea Level Report Card” erstellten, die Tidendaten beschnitten. Alles vor dem Jahr 1969 wurde entfernt … was garantiert, dass das Signal immer noch Zyklen enthält. Und dies wiederum garantiert, dass jedwede Schlussfolgerungen von ihnen bedeutungslos sind.
+Das andere Problem ist, dass man in der „US Sea Level Report Card” nicht einmal versucht, die Tidenzyklen zu entfernen. Sie scheinen närrischerweise zu glauben, dass man einfach nur schauen muss, ob sich in den Rohdaten eine Beschleunigung zeigt … aber stattdessen machen sie nichts anderes als einfach irgendwelche langzeitlichen Tidenzyklen zu messen.
+Nach diesem Prolog möchte ich mir jetzt die längsten Zeitreihen mit Aufzeichnungen des Meeresspiegels vornehmen. Es gibt einige wenige mit Zeitreihen von 100 bis über 150 Jahren. Das ist lang genug, um die meisten der langzeitlichen Zyklen zu entfernen. Wie oben zog ich das CEEMD-Verfahren heran, um die Zyklen zu entfernen, was lediglich das zugrunde liegende Residuum zurücklässt. Als Erstes nahm ich mir die Aufzeichnung von Cuxhaven vor, die sich über 176 Jahre erstreckt.
+Welche längerzeitlichen Meeresspiegel-Zyklen werden mit dem CEEMD-Verfahren entfernt? Hier folgen die empirisch erkannten Gruppen von Zyklen, welche die Zeitreihe von Cuxhaven ausmachen:
+Wie zu erwarten war, ergibt sich eine Anzahl kurzfristiger Zyklen zwischen 1 und 5 Jahren. Energie steckt auch in Zyklen über 8, 17 und 29 Jahren oder so. Man beachte, dass einer der größten Zyklen fast 50 Jahre umfasst … und das unterstreicht die Dummheit, a) die persistenten langzeitlichen Zyklen nicht zu entfernen und b) die Verwendung von Datensätzen kurzer Zeiträume beim Versuch zu bestimmen, ob sich eine Beschleunigung zeigt.
+Und schließlich zeigt sich auch immer noch etwas Energie in über 50 Jahre langen Zyklen. Darum braucht man sehr lange Zeitreihen, um festzustellen, ob es eine Beschleunigung gibt.
+Was also bleibt als Residuum übrig, wenn man all diese Zyklen aus den Cuxhaven-Daten entfernt? Das hier:
+Wie man sieht, zeigen sich keinerlei Anzeichen einer Beschleunigung in den Cuxhaven-Daten. Man rufe sich ins Gedächtnis, dass wir während der letzten 30 Jahre davor gewarnt worden waren, dass der Anstieg des Meeresspiegels sich beschleunigen würde und Städte versinken würden … jedoch sieht es so aus, als hätte der Ozean das nicht mitbekommen.
+Ich möchte nochmals demonstrieren, wie sehr man in die Irre geführt wird bei der Verwendung kurzer Zeitreihen und ohne die zugrunde liegenden Tidenzyklen aus den Originaldaten zu entfernen. Hier noch einmal die vorige Graphik, zusätzlich mit einer Gauss-Glättung in Blau der Originaldaten nach dem Jahr 1950:
+Also, falls alles, was wir haben, die 68 Jahre nach 1950 sind und außerdem keinerlei Zyklen in den Daten entfernt worden sind, dann betrachten wir die blaue Gauss-Glättung und gehen nach Hause mit der ziemlich festen Überzeugung, dass der Anstieg des Meeresspiegels von 1950 bis etwa 1975 gleich blieb und sich seitdem beschleunigt hat … und nichts davon entspricht der Wahrheit. Es handelt sich lediglich um eine der längerzeitlichen Tiden-Schwingungen, welche mittels des CEEMD-Verfahrens entfernt worden waren. Und unglücklicherweise verwechseln viel zu viele Wissenschaftler auf der ganzen Welt diese Schwingungen mit einer zugrunde liegenden Beschleunigung.
+Aber ich wollte hier nicht aufhören und betrachtete einige andere langzeitliche Meeresspiegel-Datensätze. Wie zu erwarten war, stammen die meisten aus Europa. Hier z. B. ein 170 Jahre umfassender Datensatz von Wismar:
+Und auch hier: kein Anzeichen irgendeiner Beschleunigung in den Daten aus Wismar.
+Und hier folgen jetzt ohne große Kommentare weitere langzeitliche Meeresspiegel-Datensätze. In allen Fällen markiert die schwarz-weiße Linie mit Punkten die Originaldaten:
+Ich erkenne einfach nicht die gerüchteweise ausgestreute Beschleunigung in diesen Daten. Ich würde außerdem sagen, dass die frühen Daten aus Ijmuiden in den Niederlanden sehr komisch aussehen … aber schauen wir auf ein paar Aufzeichnungen aus den USA:
+Man beachte den stärkeren Trend in Baltimore, von dem bekannt ist, dass er die Folge vom Absinken des Landes ist, wie sie an den meisten Abschnitten der US-Ostküste beobachtet wird:
+Und zum Schluss dieses Abschnitts folgt hier der längste ununterbrochene Datensatz, den ich kenne, nämlich der von Stockholm in Schweden – 217 Jahre lang:
+Man erkennt, wie sich Skandinavien immer noch davon erholt, von Billionen Tonnen Eis bedeckt gewesen zu sein während der jüngsten großen Vereisung. Das Land hebt sich tatsächlich schneller als der Ozean steigt.
+Das also ist die Mehrheit langzeitlicher Tiden-Datensätze. Ich muss sagen, ich sehe einfach nicht die von den Eierköpfen behauptete Beschleunigung. Ich weiß nicht, wie sie ihre Ergebnisse berechnet haben, aber die besten langzeitlichen Datensätze, die es gibt, zeigen einfach nicht die Beschleunigung, die gefunden zu haben sie behaupten.
+Zum Schluss möchte ich den Kreis schließen zum Anfang dieses Beitrags, also zu den zusammen geschusterten AVISO-Satellitendaten. Was AVISO und die Colorado-Leute in Kombination als ihre finalen Daten ausgeben, sieht so aus:
+Sehr merkwürdig … die Meeresspiegel-Satellitendaten sollen angeblich bis auf ein tausendstel Millimeter pro Jahr genau sein – warum gibt es dann so große Differenzen zwischen den verschiedenen Satelliten-Aufzeichnungen?
+Wie auch immer, hier noch einmal die gleichen Daten, diesmal mit einer schwarzen Linie, welche ihren finalen Datensatz markiert, wie er sich aus der Kombination der vier Datensätze ergibt:
+Nun ja … und hier schließlich die CEEMD-Analyse jener kombinierten Aufzeichnung:
+Und nun – gibt es eine Beschleunigung in jener Aufzeichnung?
+Nun, hinsichtlich der Frage, ob sich eine Beschleunigung in jenem zusammengefügten Satelliten-Datensatz zeigt, möchte ich die vier gewichtigsten Worte sagen, die ein Wissenschaftler sagen kann:
+Wir. Wissen es. Nicht.
+Wir wissen es aus mehreren Gründen nicht. Erstens, es handelt sich um einen zusammengefügten Datensatz, und Änderungen der Trendlinie zeigen sich durchweg nur bei und nach den Zusammenfügungen. Das ist schon ziemlich verdächtig, besonders angesichts der Differenzen in den initialen individuellen Datensätzen.
+Zweitens, die Aufzeichnung umfasst nur 27 Jahre, so dass es einfach nicht genug Daten sind, um viele Folgerungen zu ziehen. Dies gilt vor allem, weil die Variationen einer Linie ziemlich klein sind.
+Drittens, der Anstieg erfolgte genau entlang der linearen Trendlinie bis zum Jahr 2005. Vorher zeigte sich also keinerlei Beschleunigung. Dann begann die Rate um das Jahr 2005 abzunehmen … Verlangsamung anstatt Beschleunigung? Warum? Und dann – dem zusammengefügten Datensatz zufolge begann ein rascherer Anstieg um das Jahr 2011. Warum? Jene drei Phänomene, also erst eine gerade Linie, dann Verlangsamung, dann Beschleunigung, dürften kaum einem monotonen CO2-Anstieg geschuldet sein. Auch gehen sie in keiner Weise konform mit irgendeiner erwarteten Beschleunigung.
+Und schließlich, wie bei vielen oben gezeigten Tidenaufzeichnungen scheinen die Satellitendaten über und unter die Trendlinie zu springen. Nirgendwo in der Aufzeichnung zeigt sich eine eindeutige Beschleunigung.
+Diskussion und Schlussfolgerungen
+Die Langzeit-Tidendatensätze stimmen alle darin überein, dass es keine Beschleunigung gibt, weder in der Anfangs- noch in der Endzeit der Aufzeichnungen. Ja, sie schwanken oftmals ein wenig um die Trendlinie, aber es gibt keinerlei Belege für eine CO2-induzierte Beschleunigung der Rate des Meeresspiegel-Anstiegs.
+Der Satelliten-Datensatz andererseits ist eine Zusammenfügung von vier aus neun verfügbaren Datensätzen des Meeresspiegels. Die Trendänderungen scheinen in Verbindung zu stehen mit den Nahtstellen. Unglücklicherweise ist diese gekittete Aufzeichnung einmal zu kurz und zum Anderen zu unterbrochen, um irgendwelche Erkenntnisse bzgl. Beschleunigung zu gewinnen.
+Link: https://wattsupwiththat.com/2020/03/08/looking-for-acceleration-in-all-the-wrong-places/
+Übersetzt von Chris Frey EIKE
+======================================================================
+Anmerkung/Ergänzung der EIKE-Redaktion :
+… und so sieht es an der Deutschen Nordsee-Küste aus :
+======================================================================
+https://www.sciencedirect.com/science/article/abs/pii/S0378383913000082
+https://www.degruyter.com/downloadpdf/j/nleng.2020.9.issue-1/nleng-2020-0007/nleng-2020-0007.pdf
+https://iopscience.iop.org/article/10.1088/1748-9326/10/8/084024/pdf
+https://www.heise.de/newsticker/meldung/Klimawandel-Eisschmelze-in-Groenland-und-Antarktis-viel-staerker-als-befuerchtet-4681764.html?fbclid=IwAR1Jyz3OQ0YSZ-k9gLS5YT-dNYE2Pclhm0S0Juy-kyDz2AmRnWqvsgGt96M
+https://de.statista.com/statistik/daten/studie/1056576/umfrage/hoehe-des-meeresspiegels/
+Das kann auch mit „Hausmittel“ überprüft werden ob die Angaben OK sind.
+https://searise.correctiv.org/de/explore
+Die Pegel steigen in der Summe und das ziemlich zügig.
+Die Dummheit der klimapaniker steigt wesentlich stärker
+Schauen sie sich mal den Pegel von Borkum an oder Tarifa.
+Ihrer Angabe einer zügigen Pegeländerung kann man nur zustimmen.
+In Borkum stieg der Pegel zwischen 1963 und 1967 um 196 mm. Danach sank er bis 2016 um 5 mm.
+Tarifa hat aehnlich kaum einen Anstieg verzeichnet. 3 mm Anstieg von 1948 bis 2018.
+Die Wahl des Anfangsjahres scheint willkürlich und wie oben demonstriert hat es eine grossen Einfluss auf das Resultat.
+Die Standardantwort „Es ist wahrscheinlich, dass Überschwemmungen hier zunehmen und Stürme größere Schäden verursachen werden.“
+Gilt scheinbar auch für die Steilküsten der Erde.
+„Die Wahl des Anfangsjahres scheint willkürlich und wie oben demonstriert hat es eine grossen Einfluss auf das Resultat.“
+Und Herr besso keks ist der Meinung:
+„Die Dummheit der klimapaniker steigt wesentlich stärker“
+Nun sind die Anfangsjahre willkürlich ?
+Erst mal nachdenken Herr Werner Schulz!
+Sind alle Pegelmessstellen im selben Jahr weltweit in Betrieb gegangen ?
+In Cuxhaven wir seit ca. 1850 gemessen und in z.B. Borkum seit 1963 sind nun die Anfangsjahre willkürlich oder real?
+ich habe nochmal nachgeschaut, die Tabelle hat als Wert „Start Jahr“.
+Die Quelle verbirgt sich jetzt hinter einer Paywall. Insofern glaube ich ihnen mal, das „Start Jahr“ der Anfang der Pegelmessung war und nicht der Anfang der bezüglichen Daten.
+Übrigens demnach misst Cuxhafen seit 1943.
+Dessen unbeachtet ist es weiterhin so das in Borkum der Pegel zwischen 1963 und 1967 um 196 mm stieg. Danach sank er bis 2016 um 5 mm.
+Wie erklären sie den sehr steilen Anstieg in den Sechziger Jahren? Und die schwache Absenkung danach?
+„Übrigens demnach misst Cuxhafen seit 1943.“
+In Cuxhafen gibt es einige Messstellen und die vom Herr Hans-Jürgen Heuen ist von Cuxhaven 2.
+In Cuxhaven wird auch seit 1918 bis heute gemessen und rund +20cm ist da der Meeresspiegel angestiegen.
+Quelle Bundesamt für Seeschifffahrt und Hydrographie
+https://www.bsh.de/DE/DATEN/Wasserstand_Nordsee/Meeresspiegelschwankungen/meeresspiegelschwankungen_node.html
+Die Änderung des relativen Meeresspiegels am Pegel Cuxhaven Steubenhöft liegt damit in der Größenordnung des globalen Meeresspiegelanstiegs.
+Die Angabe für Cuxhafen bezog sich ausschließlich auf den diskutierten Datensatz.
+Wenn es noch andere Messungen gab, dann ist davon auszugehen, das diese aus bestimmte Gruenden keinen Einklang in den besprochenen Daten fanden.
+Danke fuer den Link zum BSH. Der Datensatz ist insofern interessant als das er auch die Pegelanderungsbeschleuningung und -entschleunigung angibt,
+Demnach ist das ein ausgemachtes Auf und Ab, aber es gibt nicht den Hauch einer immer größer werdenden Beschleunigung.
+• Wenn Skandinavien sich hebt, um wieviel steigt allein deshalb der Meeresspiegel woanders wegen der Wasserverdrängung durch die gehobene Landmasse?
+• Da sich Land überall mehr oder weniger hebt bzw. senkt, wie lässt sich eine Null-Ebene der Meereshöhe als sehr langfristige Bezugsgröße überhaupt definieren?
+• Wie wird bei der Messung der Meereshöhe der Fehler durch den Wellengang, Wind- und Meeresströmungen eliminiert, die alle einen Einfluss auf die Höhe des Meeressspiegel haben, so dass die Meereshöhe mit einer Genauigkeit von 1 Tausendstel Millimeter angegeben werden kann?
+Zur Berechnung eines GMSL aus Altimeterdaten müssen sehr viele Annahmen getroffen werden. Letztlich ist der GMSL ein geodätisches Konstrukt, welches für die politische Diskussion nichts taugt.
+Was Politiker vom Meeresspiegelanstieg halten, zeigen Immobilienkäufe an Stränden (Obama, Gore…)
+Es wird gelogen, bis der Arzt kommt!
+https://climatism.blog/
+Seitdem sich die Wissenschaft von der Politik missbrauchen lässt, sehe zumindest ich die Gefahr von zukünftiger Manipulation.
+Die Meerspiegelanstieg-Panikmacher könnte man auch mal fragen, warum denn eigentlich der Meerespiegel beschleunigt ansteigen sollte. Abgesehen von nicht nachprüfbaren Behauptungen kommt da nichts Gescheites.
+Der mögliche zukünftige Schwund des verbliebenen Landeises ist so klein, dass der Nachweis einer Beschleunigung des Anstieges selbst in den nächsten 10 bis 20 Jahren kaum gelingen wird.
+Nur heute legen es die westlichen Klimadogma-Staaten den irgendwie betroffenen Drittweltstaaten geradezu in den Mund, dafür Klima-Ausgleichszahlungen einzufordern…
+Gibt es denn den Beweis eines gemessenen Temperaturanstiegs seit Beginn der Messungen vor ca. 130 Jahren in den USA und Europa? Oder könnte es sein, daß die Temperaturen mal rauf gehen und dann wieder runter und dann wieder rauf? Und wie ist das mit Wassertemperaturen der Ozeane. Und wird das nicht eichtig kalt wenn die Sonnenflecken ausbleiben und schön warm wenn die ihr Maximum erreicht haben im Laufe der Jahrhunderte?

@@ -1,0 +1,53 @@
+Nun fährt die Bahn schon seit ewigen Zeiten auch elektrisch. Doch bisher bekommen Loks den Strom über Leitungen und nicht aus Akkus, obwohl Oberleitungen wirklich viel Geld kosten. Aber was will man machen, wenn Akkubetrieb technisch nicht sinnvoll ist. Es gibt aber Betriebseinsätze in nicht voll elektrifizierten Bahnhofsbereichen, wo der leisere Elektrobetrieb und das Fehlen von Abgasen angeraten wäre – was dann wiederum Akkubetrieb benötigt.
+Es ist deshalb bestimmt eine gute Idee der Bahn, auch dieses Problem (innerhalb städtisch gelegener Bahnhöfe) im Sinne der Anwohner zu lösen, was sie nun auch versucht. Allerdings gibt es in Deutschland etwas, das ist wirklich „immer und überall“: Der Klimawandel – und deshalb darf er auch bei dieser Maßnahme nicht fehlen:
+BR14, 30.11.2016: Bahn testet Hybridloks im Rangieralltag
+Wenn es nach der Bahn geht, fahren Hybridfahrzeuge in Zukunft auch auf der Schiene. Die deutschlandweit ersten fünf Loks mit Elektro-Diesel-Kombiantrieb werden in Nürnberg und Würzburg getestet.
+Das Dieselaggregat werde nur eingeschaltet, wenn die Batteriespannung nicht mehr ausreiche, erläuterte Bahn-Umweltchef Andreas Gehlhaar. … „Damit sparen allein diese fünf Lokomotiven jährlich 400 Tonnen CO₂, so viel wie 200 Pkw in einem Jahr ausstoßen.“
+Der Testlauf ist Teil eines 10 Millionen Euro teuren Modellprojekts, das die Alltagstauglichkeit der von der Firma Alstom entwickelten Hybridloks unter Beweis stellen soll. Insgesamt 19 Unternehmen der Bahnbranche sind daran beteiligt. Das Land Bayern fördert das Projekt mit 675.000 Euro, 1,7 Millionen Euro kommen von der Deutschen Bahn.
+Es ist eine geradezu gewaltige Aktion. welche die Bahn da gestartet hat und wegen der Wichtigkeit seit ca. vier Jahren immer neu publiziert [1][2][3], nachdem sie diesen November begann:
+5 Lokomotiven werden 8 Jahre lang getestet, um die Eignung eines Akku-Fahrbetriebes festzustellen. Und diese Großtat ist für die Bahn so teuer, dass sie noch erheblich vom Steuerzahler subventioniert werden muss. Und natürlich das Wichtigste: Es spart jährlich 400 Tonnen CO2 ein.
+Geht man davon aus, dass der Steuerzahler für den (künftigen) Klimanutzen seinen Obulus beizusteuern hatte, dann würde dieser zu den folgenden Ergebnissen führen:
+– Während der 8 Testjahre werden mit den 5 Testloks dem Klima insgesamt 3.200 Tonnen CO2 erspart.
+– Diese eingesparte CO2-Menge verringert die CO2-Dichte der Atmosphäre um 0,000004 ppm und ergibt damit den folgenden Klimanutzen:
+– Beim unrealistischen IPCC-Forcingwert von 3 °C (realistisch wären maximal 1 °C) zum Projektende 4,43E-08 °C Temperatur-Verringerung (4,43 mit 8 Nullen vor dem Komma).
+Die Klimaschutz-Erfolgsrechnung mit der vom Bürger eingesetzten Zuzahlung ergibt zum Schluss:
+Als Ergebnis bezahlt der Steuerzahler für eine fiktive Temperaturvermeidung von 0,01 °C die Summe von 1522 … 4566 Milliarden EUR
+Mancher Bürger mag sich überlegen, ob das lohnend, beziehungsweise noch bezahlbar ist. Die Politiker, welche es genehmigen und einweihen, machen sich solche Überlegungen nicht, denn es ist ja nicht ihr Geld. Selbstverständlich macht es auch nicht die Energie- und Klimaberaterin der Kanzlerin, Frau Kemfert, denn In ihrem (Des-)Infoblog steht dazu:
+klimaretter.info: E-Loks sollen fürs Klima rollen
+… Ein weiterer Vorschlag, der die Emissionen des Güterverkehrs senken kann: Der Staat soll die Anschaffung von Hybridloks fördern, denn Dieselloks können auch auf elektrifizierten Strecken nicht mit Strom fahren. Zwar kostet eine Hybridlokomotive eine Million Euro mehr als eine herkömmliche Diesellok. „Aber für das Klima wäre mehr getan, wenn der Staat die Anschaffung von Hybridloks fördert, als mit der Kaufprämie für E-Autos„, sagt Hecht. Dem Experten zufolge sind die Kosten für die E-Auto-Prämie pro vermiedener Tonne Kohlendioxid 13-mal so hoch wie bei der Förderung der Mehrkosten von Hybridloks.
+Bezüglich der von „klimaretter“ so nebenbei erwähnten über-Verzehnfachung der CO2-Vermeidungskosten durch die hoch gelobten E-Autos mag man sich schon nicht mehr aufregen, denn es nutzt ja nichts.
+Doch wie so oft, sind „Fachmedien“ ja auch nicht besser:
+Eurailpress.de: Lokomotiven: DB Regio Franken setzt auf Hybridantrieb
+… stellten der Bayerische Innen- und Verkehrsstaatssekretär, Gerhard Eck, und Hilmar Laug, Geschäftsleiter DB Regio Franken, in Würzburg die erste der insgesamt fünf neuen Hybrid-Rangierlokomotiven der DB Regio Franken vor. … Der Einsatz erfolgt im Rahmen eines Förderprojektes des Freistaates Bayern zum Thema „Energiewende Bayern“ mit der Schaffung einer „Modellregion Franken für Hybrid-Rangierloks“ als Leuchtturmprojekt im Cluster Bahntechnik des Freistaates Bayern.
+Für dieses Geld wurde dafür aber echtes, reines Elektroauto-High-Tech verwendet
+… denkt man.
+Die Hybridloks fahren nur kurze, sensible Teilstrecken mit Akkustrom. Für mehr ist der Akkusatz mit einer Dimensionierung von 100 kWh [1] nicht geeignet. Einen wesentlichen Teil fährt man deshalb weiterhin mit Diesel.
+Die Akkus werden aber im Depot vorgeladen – denkt man. Das ist (wegen der mickrigen Akkukapazität) gar nicht vorgesehen, sie werden mit dem Diesel der Lok aufgeladen:
+[3] Im Gegensatz zu den bei Lokomotiven seit langem verwendeten dieselelektrischen Antrieben, bei denen ein Dieselmotor direkt einen Elektromotor betreibt, lädt beim Hybridantrieb der Diesel nur einen Akku. Der wiederum bewegt per Elektromotor die Lok.
+Es werden moderne Akkus verwendet, deren Gebrauchsfähigkeit sich im Elektroautobereich bewährt – denkt man: Verwendet werden (für den Normalbürger verbotene) NiCd-Akkus.
+Der Autor wollte noch etwas mehr Daten „verrechnen“. Die Firma Alstom war auf eine Anfrage aber nicht bereit, mehr als ein „mickriges“ Datenblatt herauszurücken (schließlich waren die begeisterten Medien auch mit den wenigen Pressedaten voll zufrieden).
+Wenn man liest, dass unsere weise Regierung auch den Lasterverkehr Akku-elektrifizieren will, ahnt man, welche Illusionen und pure Unwissenheit bei unseren Politikern und deren BeraterInnen vorliegen. Vielleicht sind die Fachleute der Bahn nur klug und fangen auch deshalb nur gaaaaaaaaaanz langsam mit der Akkuelektrifizierung an.
+Erklärung: Aufgrund der sehr mageren Datenlage mögen einige Angaben nicht genau stimmen, oder sich zwischenzeitlich geändert haben. Das Schätzergebnis der Klimawirkung dürfte sich dadurch jedoch kaum verändern.
+Quellen
+[2] Frankfurter Allgemeine, 24.09.2014: Bahn testet Rangierloks mit Hybrid-Antrieb
+[3] BR, 30.11.2016 : Bahn testet Hybridloks im Rangieralltag
+http://www.br.de/nachrichten/mittelfranken/inhalt/hybrid-lok-nuernberg-wuerzburg-test-100.html
+„Während der 8 Testjahre werden mit den 5 Testloks dem Klima insgesamt 3.2000 Tonnen CO2 erspart.“
+Also wenn die Testloks in einem Jahr 400t einsparen, dann sind es in 8 Jahren 3200 Tonnen.
+Wie sieht es mit der restlichen Rechnung dann aus?
+Danke für die Aufdeckung des Rechenfehlers. Und für die restliche Rechnung. Rechnen Sie es nach.
+„Der durch den Rekuperator gewonnene elektrische Strom wird in Lithium-Ionen-Batterien gespeichert, die auf dem Dach des Triebwagens installiert sind. Die Montage dort ist kein Zufall: Hier können die Akkus durch den Fahrtwind gekühlt werden. Die in den Dach-Akkus gespeicherte elektrische Energie kann dann zum Anfahren und Beschleunigen genutzt werden, außerdem versorgt er das Bordnetz des Zuges.“
+http://tinyurl.com/japnq4s
+Dieselzüge fahren meist diesel-elektrisch. Schaltgetriebe wären aber energiesparender. Deshalb hat VW ja auch ein Automatik-Schaltgetriebe mit zwei Kupplungen entwickelt.
+Noch besser ist es wie in Schottland – die Schotten sind ja wie die Schwaben angebliche Sparfüchse – die Bahnhöfe auf hohen Bahndämmen zu errichten. Kein Bremsen mehr und Wirkungsgrad fast 100%. Man kann natürlich auch die Strecken tiefer legen.
+Und die Kosten – bah. Ich erinnere mich an eine Umfrage unter Bundestagsabgeordneten, wieviel Nullen eine (bin mir nicht sicher) Milliarde oder Billion hat, konnte keiner richtig beantworten. Ist ja auch nicht so wichtig, das Volk zahlt! Auch diese Nullen!
+Sie können auch Polisten fragen, wo eine Geschwindigkeitsbegrenzung von 60 oder 70 km/h innerorts endet. ca. 50 bis 70% wissen das nicht.
+Wenn Sie mit dem Begriff „Grünlokomotiven“ das grün/rot/schwarze Deppengesindel in unseren Parlamenten meinen ist Ihr Ansatz durchaus erwägenswert…
+Bei Einführung dieser grünen BahnCard, bei der mir auf dem Fahrschein versichert wird, dass ich im ICE mit 100% Öko-Strom fahre, hatte ich nachgebohrt. Aber dass es die Öko-Subventionen sind, die das möglich machen, mochte man nicht zugeben. Und in windstillen Nächten? Kein Problem, hieß es, man fahre ohnehin nur mit Strom aus Wasserkraft. – Ich bezweifle allerdings, ob der für alle ICEs ausreicht, die jeweils 8 MW Dauerleistung brauchen.
+Ich auch mal mit so einem Bahn-Fuzzy diekutiert. Der konnte mir nicht erklären, wie der Wasserkraftstrom aus dem Süden, nur da gibt es solche Laufwasserkraftwerke, nach Norden kommt. Das Minimum der Stromerzeugung liegt bei 17,7 TWh/a.
+Das Hochspannungsbahnnetz wird mit 110 kV betrieben. Damit handelt man sich nette Verluste über längere Strecken ein. 12 TWh beträgt der Stromverbrauch der Bahn. Rein rechnerisch würde in der Tat die Menge reichen. In physikalisch könnten die auch jede Lok und jede Lampe damit versorgen. Das Netz ist ja wegen der niedrigeren Frequenz nicht mit dem UCTE-Netz direkt gekoppelt. Mir ist allerdings nicht bekannt, daß über die Elbe eine 110 kV-Leitung der Bahn führt. Schleswig-Holstein und Hamburg dürften demnach nicht mit Wasserkraftstrom fahren können.
+Aber was soll man schon von den Bahntypen erwarten. Die schaffen es ja noch nicht einmal ihre Züge pünktlich fahren zu lassen.
+Ich gehe nicht von einem IPCC-Forcingwert von 3 ° C, oder dem nach Kompromiss stinkenden 1 ° C aus. Bis, verdammt noch einmal, die Klimawirksamkeit von CO2 nachgewiesen ist, gehe ich von der Tatsache aus, das CO2 Klimaneutral ist.
+Wenn sich der Elektroantrieb, auch bei der Bahn, rechnet und sozialverträglich ist, dann her damit! DAS IST ABER NICHT SO!
+Es wird höchste Zeit, unsere Entscheidungsträger, zum Wohle des Bürgers, zur Rechenschaft zu ziehen.
+Aber es wird sich nichts ändern. Die nächste Wahl kommt und der Bürger wählt seine eigenen Henker. Das gibt wieder ein Freudenfest. Und schlau fühlt er sich dann auch noch.

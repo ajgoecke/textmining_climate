@@ -1,0 +1,63 @@
+Dies ist ein gutes Mittel, welches ausgezeichnete Gelegenheiten bietet, Temperaturanomalien rund um den Globus zu plotten. Schaut man aber genauer auf das Gitternetz, erheben sich jedoch einige Fragen.
+Abbildung 1: Plot der Arktis und des Nordatlantiks für Oktober 2017
+Abbildung 1 zeigt die Daten des Monats Oktober 2017 mit der Ostküste von Grönland im Zentrum. Es zeigt sich, dass ganz Grönland eine Temperaturanomalie aufweist, die relativ hoch ist. Wenn man das Gitternetz jedoch zugrunde legt, wird offensichtlich, dass dies ausschließlich das Ergebnis der Dichte der Gitterpunkte ist und des Mittelungs-Verfahrens bei der Erstellung der Plots. Dies kann man in Abbildung 2 erkennen, wenn man auf Grönland zoomt:
+Abbildung 2: Plot vom Oktober 2017. Er zeigt das Gitternetz und die Lage der Datenpunkte um Ostgrönland.
+Abbildung 2 zeigt die gleichen Daten wie Abbildung 1, aber mit hinzugefügtem Gitternetz und Datenpunkten. Falls wir Grönland unter die Lupe nehmen, wird nur zu offensichtlich, dass die Temperatur in den meisten Gebieten über dem Inlandeis in diesem Modell bestimmt wird durch eine Messung an der Ostküste des Landes und einer Reihe von Messpunkten in der Mitte der Baffin Bay zwischen der Westküste des Landes und dem nordöstlichen Kanada. Keinerlei Notiz wird genommen von den Temperaturen im Inneren von Grönland, welche oftmals erheblich unter den Temperaturen an der Küste liegen.
+Abbildung 2 zeigt auch, dass es dort einen großen Teil des Arktischen Ozeans gibt ohne jeden Messpunkt, so dass die wenigen Messpunkte darum herum im Endeffekt die geplotteten Werte im gesamten Gebiet festlegen.
+Ähnliche Effekte sind auch aus den südlichen Extremitäten des Planeten bekannt, wie Abbildung 3 zeigt. Es gibt nur zwei Messpunkte im Inneren der Antarktis und relativ wenige Punkte um die Küste. Für den größten Teil der Antarktischen Halbinsel, von wo wir oft Geschichten über abnormale Erwärmung hören, gilt eindeutig, dass die dort geplotteten Temperaturanomalien abgeleitet sind aus einem Messpunkt nahe dem Südpol und zwei Punkten in einiger Entfernung nördlich der Halbinsel im Meer. Das kann keinen genauen Eindruck der wahren Verteilung der Temperatur (-Anomalie) über diesem sensitiven Gebiet vermitteln.
+Abbildung 3: Gitternetz und Lage der Datenpunkte in der Antarktis im Oktober 2017
+Eine andere geographische Region mit sehr wenigen echten Messungen und gewaltigen Abständen, über welche die Daten gemittelt werden, ist Afrika, wie aus Abbildung 4 hervorgeht. Es gibt einen breiten Korridor von Ägypten und Libyen an der Nordküste bis nach Südafrika ohne einen einzigen Datenpunkt. Mittelwerte für dieses Gebiet werden aus den relativ wenigen Messpunkten in den umgebenden Gebieten ermittelt. Gleiches gilt für die meisten Gebiete von Südamerika und China (wo die meisten Messpunkte in dicht bevölkerten Gebieten zu liegen scheinen).
+Abbildung 4: Daten und Gitternetz in Afrika im Oktober 2017
+Auf der Grundlage der Repräsentation dieser Daten wird offensichtlich, dass es riesige Gebiete gibt, in denen die Seltenheit von Daten und Mittelungsverfahren falsche Ergebnisse liefern. Oftmals werden die Temperaturanomalien dieser Gebiete, besonders Grönland und die Östliche Antarktische Halbinsel herangezogen, um zu zeigen, dass diese sensitiven Gebiete des Globus‘ Schauplatz einer außerordentlichen Erwärmung sind, die unsere gesamte Lebensweise bedroht. Derartige Schlussfolgerungen sind ungültig und ausschließlich das Ergebnis des sehr dünnen Vorhandenseins guter Daten und statistischer Verfahren.
+Link: https://wattsupwiththat.com/2017/11/10/meshing-issues-on-global-temperatures-warming-data-where-there-isnt-any/
+Übersetzt von Chris Frey EIKE
+https://www.ncdc.noaa.gov/sotc/global/201710
+Dort sind auch die kältesten Gebiet auch nur in einer Abweichung von bis zu 1,5 Grad gegenüber dem Referenzzeitraum.
+Wenn Sie auf die verlinkte Seite von Nick Stokes gehen, können Sie sehen, dass die Skala bis -1 geht. Und wenn Sie dann das Gitternetz aktivieren und mit gedrückter Shift-Taste auf die Knoten klicken, finden Sie auch Punkte mit z.B. -1,4 (Lushi, China).
+Bei den Ozeanen wurde doch schon immer die Wassertemperaturen gemessen.
+Welche Probleme ergeben sich daraus nun konkret bei der Bestimmung der Anomalien? Das einzige wäre das die Wassertemperaturen verzögert und auch mit geringeren Änderungen auf Änderungen reagieren als die Lufttemperaturen.
+Nicht nur das! Wassertemmperaturen reagieren völlig anders als die Lufttemperaturen. Z.T. sogar manchmal gegenläufig. Hinzu kommt, dass die Messtiefe der SST Probennahme (definiert wurde um 1850 bis ca. 1 m) völlig undefiniert und auch undokumentiert ist. Statt des früher vielfach verwendeten Probeneimers unterschiedlichster Bauart, mit völlig unterschiedlichem Zeitverhalten zwischen Probennahme und Temperatur Messung, wurde später mehr und mehr die Temperatur des einlaufenden Maschinenkühlwassers verwendet mit Probentiefen von wenigen bis vielen Metern, je nach Größe und Ladung des Schiffes. Diese konzentrierten sich naturgemäß auch noch auf die Hauptschifffahrtsrouten. Die Schiffe sollten ja Geld verdienen. Summa summarum: Die SST Messungen dürften nach normalen Messvorschriften eigentlich nicht verwendet werden. Wenn Sie mehr dazu wissen wollen, dann schauen Sie mal hier rein. Da steht das alles haarklein drin mit vielen Quellen.
+leider wurde mir die lange Replik von der Software gelöscht. ich habe keine Zeit, das alles nochmal zu schreiben, daher die Kurzversion: Die Physik der Energieabsorption und des Rücktransfers in die Atmosphäre ist beim Wasser grundlegend anders als über Land. Wenn Sie das nicht wissen – was Sie als Meteorologin eigentlich sollten – dann kann man Ihnen nicht helfen. Ernst nehmen kann man Sie dann jedoch nicht. Jeder Physiker und Messtechnik-Spezialist weiss das, und Sie müssten es auch wissen, wenn Sie vorgeben, Welt-Mitteltemperaturen könnten auf diese Weise ermittelt werden.
+Mfg
+http://berkeleyearth.lbl.gov/auto/Global/Land_and_Ocean_complete.txt
+Darin sind folgende globale Mitteltemperaturen zu finden:
+Estimated Jan 1951-Dec 1980 global mean temperature (C)
+Using air temperature above sea ice: 14.720 +/- 0.047
+Using water temperature below sea ice: 15.305 +/- 0.047
+Daraus schließe ich dass die globale Mitteltemperatur ohne Meereis um 0,6 °C höher wäre allein aufgrund der verwendeten Messvorschriften.
+Als nächstes der peruanische Bauer, der RWE verklagt. Völlig idiotischer Bericht, ABER mit einem highlight. Wir lernen: RWE ist für ein halbes Prozent des gesamten co2 Austosses der kompletten Welt verantwortlich???!!!… (die blenden total aus, daß 96% NATÜRLICH passieren)
+Die „international renomierte“ Anwaltskanzlei scheint schwerstens überfordert, argumentiert diese doch, es sei keineswegs bewiesen, daß genau dieser Gletscher „bedroht“ sei.
+Herr Limburg, übernehmen Sie!!! Sie können sich unsterblich machen, als freiwilliger Gutachter für RWE, der den Mythos „AGW – menschengemachter Klimawandel“ dekonstruiert & hoffentlich bald mit all seinen horrenden Naturzerstörungen & Wahnsinnskosten beerdigt…
+Würde ich gerne. Schlagen Sie mich oder jemand anders von EIKE mal vor. Vielleicht suchen die gerade jemanden, statt das Ganze einfach abzuwarten und dann zu bezahlen. Deren Portokasse ist ja nicht mehr so prall gefüllt.
+Sehr geehrter Vorstand der RWE!
+Vor einigen Tagen wurde berichtet, dass der peruanische Bauer, der Sie aufgrund des angeblich „menschengemachten Klimawandels“ (AGW) auf 20.000,- verklagt, einen Etappensieg errungen habe. Falls Sie diesen Prozess verlieren sollten, wäre dies ein Präzedenzfall & fast jeder Mensch könnte Sie in Haftung nehmen. Dies wäre finanziell kaum zu stemmen.
+Nach Rücksprache mit Herrn Dipl-Ing. Michael Limburg, schlage ich Ihnen vor, sich mit:
+EIKE e.V
+Postanschrift: PF 110111, 07722 Jena
+Geschäftsstelle: Unstrutweg 2, 07743 Jena
+Dipl. Ing. Michael Limburg; Vizepäsident (Medien & Politik)
+Telefon +49 (0) 33201 31132, Mail m.limburg(at)eike-klima-energie.eu
+Dipl. Meteorologe Klaus-Eckart Puls; Pressesprecher
+Telefon +49 (0)4745 -93 17 57
+Prof. Dr. rer. nat. Horst-Joachim Lüdecke; Pressesprecher
+Telefon +49 (0) 6221-781052
+in Verbindung zu setzen. Herr Limburg sowie seine Mitstreiter haben sich bereit erklärt, als unabhängige, freiwillige Gutachter, zur Verfügung zu stehen.
+Diese geballte Kompetenz kann Ihnen helfen, den Mythos „menschengemachter Klimawandel“ zu dekonstruieren & den Beweis anzutreten, daß der Hauptklimatreiber die Sonne ist.
+Nur zur Klarstellung: das Klima (=statistischer Messwert aus 30 Jahren Wetter!!) wandelt sich seit Milliarden Jahren!
+Des weiteren (etwas poelmisch):
+Die immer wiederkehrende CO2-Lüge
+Im Netz fand ich einen interessanten Beitrag „zu den unumstößlichen Fakten“: Nur 0,038 Prozent (380ppm) CO2 sind in der Atmosphäre enthalten; davon produziert die Natur 96 Prozent, den Rest, also nur vier Prozent, der Mensch. Das sind dann vier Prozent von 0,038 Prozent, also 0,00152 Prozent.
+Der Anteil Deutschlands hierbei sind 3,1 Prozent. Damit beeinflußt Deutschland mit gewaltigen 0,0004712 Prozent des CO2 in der Luft.
+Wer sich mit CO2 einmal ganz seriös beschäftigt, diesem wunderbaren, Leben spendenden Gas, erkennt rasch, daß die CO2-Lüge nur einigen wenigen nützt. Die Erde pendelt derzeit lediglich die kleine Eiszeit vor 150 Jahren aus. Die elliptische Laufbahn der Erde um die Sonne ist nämlich nicht ganz zentrisch! Dämmert’s?“
+co2 ist zudem „Pflanzenfutter“, ohne daß es keine Photosynthese, keinen Sauerstoff UND SOMIT KEINERLEI LEBEN gäbe. Die Sahelzone breitet sich in den letzten Jahren zB massiv aus…
+Bitte scheuen Sie sich nicht die o.g. Herren zu kontaktieren!!!
+Mit besten, konstruktiven Grüßen aus
+Ich war auch überrascht, als ich mal recherchiert habe. Es geht bei diesem Verfahren nur finanziell um ca. 20.000 Euro, mehr nicht. Für die RWE doch ein Klacks. Aber um Geld geht es den Aktivisten von GERMANWATCH ja auch gar nicht. Es geht denen vielmehr darum, sich juristisch bestätigen zu lassen, dass RWE (als CO2-Klimasünder) SCHULD ist, am angeblich durch CO2-versursachten Schaden des Peruaners, um damit ein Referenz-Urteil auch für weitere Gerichtsverfahren – die dann sicher kommen werden – gegen weitere, angebliche CO2-Klimasünder in der Hand zu haben.
+Genau! Das wäre dann ein Präzedenzfall. Und darauf kommt es denen an. Und nur 20.000 € haben dem Charme die Gerichts- und Anwaltskosten gering zu halten.
+https://www.youtube.com/watch?v=WNGF6NceyK8
+https://www.youtube.com/watch?v=7ODlVOBjOQ4
+https://www.youtube.com/watch?v=PjbUFrbyr8M
+In der Grafik wird die Differenz zum Durchschnittswert von 1961-1990 dargestellt – es geht nicht um einen Trend. Ich habe es jetzt nicht direkt nachgerechnet, sondern nur Überschlagsmäßig abgeschätzt. Da liegt die Durchschnittstemperatur für Deutschland irgenwo um 8°C und die Oktobertemperaturen bei 11,1°C. Das wird auf der Karte dann natürlich als positive Anomalie gezeigt. Wenn man da Widerspruch erheben will, sollte man das zumindest mit konkreten Zahlen untermauern.
+Mfg
+Diesbezüglich lohnt sich ein Blick auf die Kommentare zum Originalartikel, dort wird unter anderem diese Frage beantwortet.
+Werden Sie mal spezifisch. Copy & paste müsste doch gehen.

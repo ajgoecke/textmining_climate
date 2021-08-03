@@ -1,0 +1,231 @@
+Obere Grenzfrequenz
+Die obere Grenzfrequenz – auch Nyquist-Frequenz genannt – ist in der Messtechnik wohlbekannt und besagt, dass ein analoges Signal mit der höchsten enthaltenen Frequenz fmax nur dann digital rekonstruiert werden kann, wenn es mit einer Frequenz größer als 2*fmaxabgetastet wurde.
+Ein Sinussignal der Frequenz 50 Hz kann also nur dann nachgewiesen werden, wenn es mit mehr als 100 Hz abgetastet wird.
+Umgekehrt gilt: Ein Signal der (Perioden-)Dauer x kann nur dann nachgewiesen werden, wenn die Messreihe eine zeitliche Auflösung von besser als x/2 hat. Für den Nachweis eines Sinussignals der Frequenz 50 Hz (d.h. der Periodendauer 0,02 s) muss die Abtastschrittweite kürzer als 0,01 s sein. Angewendet auf Zeiträume, die für die Klimaforschung wichtig sind: Um eine Variation von Größen wie Temperatur oder Meeresspiegel über einen Zeitraum von beispielsweise 30 Jahren zu erfassen, müssen Messreihen eine zeitliche Auflösung von weniger als 15 Jahren aufweisen.
+Ist die zeitliche Auflösung (also die Abtastschrittweite) einer Messreihe schlechter als die halbe Dauer eines Ereignisses, so ist dieses Ereignis in der digitalen Aufzeichnung prinzipiell nicht rekonstruierbar. Beispiel: Sinussignal der Periodendauer 100 (Einheit beliebig, z.B. Millisekunde, Sekunde oder Jahrzent).
+Periode=100; Dauer=600; Abtastintervall=1:
+Bei einer Abtastschrittweite von einem Viertel der Periodendauer ist das Signal gut rekonstruierbar:
+Periode=100; Dauer=600; Abtastintervall=25:
+Auch mit einer Abtastschrittweite von einem Drittel der Periodendauer ist die Periodizität gut nachweisbar:
+Periode=100; Dauer=600; Abtastintervall=33:
+Bei einer Abtastschrittweite minimal kürzer als die Hälfte der Periodendauer sind zwar die Amplituden stark verfälscht, ein Nachweis der Periodendauer gelingt dennoch.
+Periode=100; Dauer=600; Abtastintervall=49:
+Bei einer gröberen Abtastung ist die Periodendauer nicht mehr nachweisbar. In dem abgetasteten Signal können sogar Schein-Frequenzen auftreten. Bei einer Abtastschrittweite von 2/3 der Periodendauer wird eine doppelt so große Periode (also halbe Frequenz) wie im ursprünglichen Signal „nachgewiesen“:
+Periode=100; Dauer=600; Abtastintervall=67:
+Bei einer Abtastung mit der Schrittweite von ¾ der Signalperiode entsteht eine Schein-Periode der 3-fachen Dauer:
+Periode=100; Dauer=600; Abtastintervall=75:
+Dieser Effekt wird „Aliasing“ genannt.
+Fassen wir zusammen:
+Phänomene (d.h. Signale) einer bestimmten Dauer bzw. Periodizität können nur dann nachgewiesen werden, wenn deren Messung mit einer zeitlichen Auflösung von weniger als der halben Dauer erfolgt.
+Paradebeispiele für die Verletzung dieses Prinzips sind die Publikation „A Reconstruction of Regional and Global Temperature for the Past 11,300 Years“ von Marcott et al. und deren Diskussion im Blog von Prof. Rahmstorf.
+In der Arbeit wurde der regionale und globale Temperaturverlauf während des Holozäns untersucht. Dieser wurde anhand von Sedimentschichtungen bestimmt. Der Leitautor Marcott bemerkte hierzu:
+„We showed that no temperature variability is preserved in our reconstruction at cycles shorter than 300 years, 50% is preserved at 1000-year time scales, and nearly all is preserved at 2000-year periods and longer“
+Daraus ist zu schließen, dass die Abtastrate gröber als 150 Jahre war, in 50% der Fälle sogar zwischen als 500 und 1000 Jahren lag. Dies ist bemerkenswert, vergleichen die Autoren diesen rekonstruierten Temperaturverlauf doch mit dem Temperaturverlauf einiger Jahrzehnte des 20. Jahrhunderts, dessen zeitliche Auflösung typischerweise bei einem Monat liegt. Dazu schreibt Prof. Rahmstorf:
+„Entscheidend ist vielmehr, dass der rasche Anstieg im 20. Jahrhundert im ganzen Holozän einmalig ist.“
+Diese Behauptung ist wissenschaftlich nicht haltbar, da aufgrund der geringen zeitlichen Auflösung der Sedimentdaten ein potentieller abrupter Temperaturanstieg analog zum 20. Jahrhundert prinzipiell nicht nachweisbar ist. Sedimentdaten sind für eine solche Analyse ungeeignet.
+Eine Grafik wie in Abb. 1 von Rahmstorfs Diskussion stellt wegen massiv unterschiedlicher zeitlicher Auflösung keinen seriösen Vergleich zweier Messreihen dar und dient eigentlich nur zur Stimmungsmache.
+Merke:
+Immer dann, wenn behauptet wird, dass augenblickliche Veränderungen oder Trends einmalig in der Geschichte seien, sollte man sehr genau hinschauen, mit welchen historischen Aufzeichnungen verglichen wird und ob ein solcher Vergleich überhaupt statthaft ist. Nicht immer werden Publikationen bzw. deren Schlussfolgerungen wissenschaftlichen Standards gerecht.
+Untere Grenzfrequenz
+Die untere Grenzfrequenz basiert auf der Gesamtdauer einer Messreihe. Eine solche Messreihe der Dauer T kann prinzipiell keine periodischen Vorgänge (bzw. Oszillationen) erfassen, deren Periodendauer größer ist als T. Dies bedeutet, dass zumindest eine volle Periode eines zyklischen Vorgangs in der Messreihe enthalten sein muss, um diesen zu erfassen. Wird eine Analyse über einen kürzeren Zeitraum durchgeführt, so wird diese Periode nicht zu erkennen sein. Beispiel: Sinussignal der Periodendauer 100 (Einheit beliebig, z.B. Millisekunde, Sekunde oder Jahrzehnt). Wird ein Signal der Periodendauer T hinreichend lange gemessen, d.h. die Messdauer beträgt mindestens T, so lässt sich die Periode nachweisen:
+Ist die gesamte Messdauer kürzer, so lässt sich die Periodizität nicht rekonstruieren. Bei zu kurzer Messdauer können aus periodischen Vorgängen Schein-Trends ermittelt werden, die zu absurden Schlussfolgerungen führen. Erfolgt die Messung entlang des absteigenden Astes eines solchen Sinussignals, so ergibt sich – rein zufällig – ein negativer Trend:
+Bei einer Messung entlang des aufsteigenden Astes, wird – bei identischem Signal – ein positiver Trend ermittelt:
+Es ist unschwer zu erkennen, dass die Ermittlung von Langzeittrends aus zu kurzen Messkampagnen zu unsinnigen Ergebnissen führt. Seit Ende der Kleinen Eiszeit ist ein Anstieg der globalen Temperatur zu verzeichnen. Dieser ist überlagert durch multidekadische Oszillationen mit Periodendauern von 50-70 Jahren (u.a. die Atlantische Multidekaden-Oszillation = AMO):
+Quelle: http://woodfortrees.org/plot/best/mean:12/plot/esrl-amo/mean:12
+Übertragen auf unser fiktives Beispiel erhalten wir folgende Grafik:
+Erfasst die Messkampagne nur den absteigenden Ast der Oszillation (rote Teilkurve), so wird fälschlicherweise ein – wenn auch abgeschwächter – negativer Trend des gesamten Signals ermittelt. Bei Messung über den ansteigenden Ast (grüne Teilkurve) hinweg wird ein viel zu großer positiver Trend ermittelt.
+Die Satellitenaufzeichnungen begannen 1979 bzw. 1980, dauern also bisher ca. 38 Jahre an. Dies ist etwa die halbe Periodendauer der Atlantischen Multidekaden-Oszillation. Zufälligerweise umfasst die Messdauer den ansteigenden Ast von AMO. Der seit Ende der Kleinen Eiszeit andauernde globale Temperaturanstieg wird in diesem Zeitraum durch diese ansteigende Phase verstärkt. Den daraus resultierenden Trend beispielsweise auf das Jahr 2100 zu extrapolieren, ist offensichtlich absurd. Aus der Analyse der Satellitendaten können multidekadische Oszillationen, deren Periode größer ist als 38 Jahre, prinzipiell nicht nachgewiesen und damit für Trendrechnungen auch nicht berücksichtigt werden.
+Dass solche Analysen dennoch – entgegen der Prinzipien der Signalanalyse – durchgeführt werden, sieht man beispielsweise an der Publikation „Climate-change–driven accelerated sea-level rise detected in the altimeter era“ von Nerem et al.
+Die Autoren unternehmen genau diese diskutierte Analyse für den Anstieg des Meeresspiegels, dessen Trend durch die ansteigende AMO-Phase verstärkt wurde. Dabei analysierten sie Satellitendaten, die bis 1993 zurückreichen, also über einen Zeitraum von lediglich 25 Jahren. Die daraus abgeleitete Prognose zum Meeresspiegelanstieg für das Jahr 2100 hält daher wissenschaftlichen Standards nicht stand. Ein anderes Beispiel für eine ungenügend lange Messdauer sind die Satellitenaufzeichnungen des arktischen Meereises, die ebenfalls seit 1979 stattfinden. Während der bisher 38-jährigen Analyse zeigte sich durchaus ein signifikanter Rückgang der eisbedeckten Fläche. Eine Extrapolation dieses negativen Trends in die Zukunft verbietet sich aber aus dem gleichen Grund.
+Der Beitrag erschien zuerst bei Die Kalte Sonne hier
+Vermutlich ist Dr. Kramm ein Fachmann in seinem Gebiet und weiß sicherlich sehr viel mehr über Meteorologie als ich. Das gestehe ich ihm gerne zu.
+Was er meinem Eindruck zufolge aber nicht weiß, ist, wie man argumentative Auseinandersetzungen am effektivsten führt.
+Wenn ein Prof. Rahmstorf behauptet:
+dann ist es wenig hilfreich, darauf hinzuweisen dass es so etwas wie ein globales Klima gar nicht gibt oder dass man mindestens einen Zeitraum von 30 Jahren betrachten muss, um überhaupt über Klima reden zu können. Das wird doch überhaupt nicht bestritten. Nur was will man mit dieser Argumentation erreichen? Diese wird doch mit einem Schulterzucken abgetan und diese wissenschaftlich unhaltbare Behauptung steht weiter im Raum und wird auch so von der Öffentlichkeit wahrgenommen.
+Was nutzt die Aufzählung von Kramms Fähigkeiten und Erfahrung, wenn in einer Publikation wie der von Nerem et al. aus dem Verlauf des Meeresspiegelanstiegs der letzten 25 Jahre eine Extrapolation bis zum Jahr 2100 durchgeführt wird?
+Es geht in der Argumentation nicht daraum, dass man möglichst viel Wissen und Fakten aufzählt, sondern darum, die Ansichten des jeweiligen Kontrahenten mit möglichst einfachen, prägnanten und verständlichen Argumenten zu widerlegen. Und wie sollte dies hier besser und einfacher gehen als zu zeigen, dass die diskutierten Fälle im Widerspruch stehen zu den essentiellen Randbedingungen der Signalanalyse? Für die Widerlegung muss man gar nicht so weit ausholen wie Dr. Kramm meint.
+Deshalb ist dieser Artikel in seinen Grundlagen sehr einfach gehalten.
+Viele Leser haben das sofort verstanden.
+Rahmstorf koennen Sie nicht damit widerlegen, dass Sie die Begriffe von Rahmstorf uebernehmen und versuchen, mit Nyquist-Frequenz und Aliasing-Effekte Rahmstorf zu widerlegen.
+Was Klima ist, ist seit 1935 definiert. Ich habe auf die Definition der WMO verwiesen. Wenn andere von Klima reden, aber sich nicht an diese Definition halten, dann muss man die Leute darauf aufmerksam machen, ihnen aber nicht folgen.
+Trends in der global gemittelten Oberflaechentemperatur sind keine Begruendung fuer einen Klimawandel.
+Beispiel: Audio mit 44 kHz bzw. 48 kHz bei 20 kHz höchster vorkommender Signalfrequenz.
+Sollte es also im Klimageschehen anteilige Periodizitäten mit z. B. 11 Jahren geben, dann ist zu deren Erfassung eine Abtastrate von mindestens 5,5 Jahren erforderlich. Wenn man eine Abtastrate von 150 Jahren hat, dann haben die höchstfrequenten reproduzierbaren Anteile eine Wellenlänge von 300 Jahren.
+Zusätzliches Augenmerk ist auf eine „Lautstärkenänderung“ zu richten, also wenn sich die Amplitude während des Abtastvorgangs ändert. Bei einer einfachen Sinusschwingung kann man erst nacheilend bei der nächsten Abtastung nach Änderungsbeginn die Änderung feststellen. Daher tastet man in Wirklichkeit mit etwas höheren Frequenzen ab, als rein theoretisch notwendig (Audio 44 oder 48 kHz).
+Ob man bei Welttemperaturverläufen mit wechselnden Amplituden einzelner Anteile zu rechnen hat, wissen Klimatologen wie z. B. Hr. Dr. Kramm sicher ganz genau.
+Sehr geehrter Herr Strasser,
+um das Problem der Rekonstruktion von Klimazeitreihen darzustellen, ist es wohl anschaulicher, die Abtastung nicht zu mathematisch anzugehen. Das darf man, da die Rekonstruktion den Sinn hat, eine möglichst aussagekräftige Verlaufsrekonstruktion im Zeitbereich zu rekonstruieren. Das Spektrum interessiert (hier) nicht.
+Die Abtasttheorie geht erst einmal davon aus, dass die abgetastete Schwingungsdauer von minus- bis plus Unendlich reicht. Ist die abgetastete Schwingungsdauer deutlich kürzer, muss man zum Rekonstruktionsversuch eine Fensterfunktion darüber legen. Je kürzer das Signal dauert, umso weniger gelingt es damit jedoch und die Methode versagt.
+In meinem Beispiel hatte ich es erklärt.
+Praktisch: Der Temperaturverlauf ist an einer Stelle zufällig sinusförmig mit einer Periodendauer von 99 Jahren. Davor und danach bricht diese Periode jedoch typisch ab, weil es ein Einzelereignis war. Eine Abtastung nach Nyquist mit 5o Jahren Abtastzeit lässt nun zwar die Periode erkennen, die Amplitude bleibt aber vollkommen unbekannt. Es kann sein, dass zufällig 0 oder auch der Maximalwert abgetastet wurde. Daraus lässt sich aber keinerlei Rückschluss auf den wirklichen Maximalwert vornehmen. Erst wenn über viele weitere Perioden abgetastet werden kann (und das Signal dabei stabil bleibt), lässt sich nach und nach die Amplitude sicherer bestimmen.
+Der aktuelle, „noch nie dagewesene“ Anstieg kann (wird) eine solche Einzelschwingung sein. Um eine solche Einzelschwingung im historischen Verlauf zu entdecken, oder umgekehrt, im Vergleich der Amplitudenverläufe ausschließen zu wollen, muss man wesentlich schneller abtasten, als nach dem Nyquist-Kriterium.
+Damit bleibt es (ich) dabei: mit den geschilderten Abtastraten sind vergleichbar schnelle Anstiege als Einzelereignisse in historischer Zeit nicht detektierbar und können somit auch nicht ausgeschlossen werden.
+Mich wundert immer neu, welche extremen Messgenauigkeiten die „Klimawissenschaft“ hervorbringt. Dort gilt anscheinend die „Alte-Herren-Mathematik und -Physik“ nicht.
+Vielleicht wurden diese Sprünge auch simuliert (und die Simulationen oszillieren gerne). Ich bezweifle jedoch stark, dass man die Möglichkeiten hat, anhand wirklicher Proben von vor über drei Millionen Jahren die Auflösung einzuhalten, für solche Sprünge das Abtasttheorem – inclusive der erforderlichen Überabtastung – einzuhalten.
+Ich bin ganz bei Ihnen, was ich geschrieben habe steht dazu aber nicht im Widerspruch. Ich meinte auch nicht, die Klimavergangenheit wäre ein Spektrum, welches überwiegend aus periodischen Vorgängen besteht.
+Man versucht einerseits, die Klimavergangenheit so genau es eben geht abzutasten und das Ergebnis dann Fourier- bzw. anderen Mustererkennungsanalysen zu unterziehen, um eben festzustellen, was ist Stochastik und wo sind ggfs. periodische Anteile. Und wenn periodische, welche Wellenlänge haben sie und womit würden die ev. korrelieren? Bei diesen Analysen spielen dann die hier diskutierten Gegebenheiten eine Rolle.
+Ich vermute, es wird lokale Regionen geben (z. B. Alpen), wo man zumindest bis zur letzten Eiszeit rel. gute Reproduktionen schafft, allgemein dürfte es aber wohl schwieriger sein, und ein Weltklima gibt es sowieso nicht.
+Wenn ich mir die Abtastraten ansehe:
+kleiner/gleich 50: 12.33% kleiner/gleich 100: 38.36%,
+dann bedeutet dies, dass über 60 % eine Abtastweite von größer 100 Jahren haben.
+Dabei unterschätze man nicht die teils erheblichen Datierungsmängel, wie man sie oft findet, und die zusätzlich ein erhebliches Jittern erzeugen. Was bedeutet dies:
+Klimawandelbeginn soll um 1880 gewesen sein.
+Wäre das ein Nulldurchgang und die erste Abtastung 1880, käme der nächste im Jahr 1980, und dann folgt einer im Jahr 2080. Damit kann man vielleicht einen vermuteten Zyklus ahnen, hat aber noch keinerlei auch nur entfernt auswertbare Amplitude.
+Weit! über 60 % der historischen Zeit lässt sich also weder der Kurvenverlauf, schon gar nicht die Amplitude einer Änderung, wie sie der „Klimawandel“ angeblich erzeugt hat, überhaupt (von „brauchbar“ gar nicht zu reden) bestimmen. Und es kommen bei diesen „nicht gemessenen“ Amplituden noch die erheblichen Proxi-Messfehler dazu.
+Mit diesen offensichtlichen Unmöglichkeiten will man nun einen historischen Verlauf der Globaltemperatur ableiten, der es erlaubt, den aktuellen (zu hoch ausgewiesenen) Anstieg als unnatürlich zu belegen?
+Das ist nicht möglich – und alle meine Sichtungen dazu zeigen es auch.
+Es wird oft übersehen, dass das Nyquist-Kriterium nur das Faltungsproblem (Vorspiegeln nicht vorhandener Frequenzen) verhindert. Nur deshalb haben Digitaloszilloskope so „wahnsinnig“ hohe Abtastraten.
+Es sagt aber überhaupt nichts über die Qualität des rekonstruierten Zeitverlaufes. Um eine brauchbare Verlaufsrekonstruktion zu erhalten, muss man weit, weit über der Nyquistfrequenz abtasten. Ganz grob geschätzt, würde ich eine vielleicht brauchbare Abtastrate nicht einmal über 10 % des angegebenen Proxizeitraums annehmen.
+Folgerung: Über 90 % des „rekonstruierten“ Zeitverlaufs ist ein Vergleich / Bewertung mit dem aktuellen Temperatur-Anstieg mit einem solchen Proxyverfahren wahrscheinlich nicht möglich.
+So lange das kein Leser widerlegt, bin ich dieser Meinung.
+Normal
+0
+21
+Falls Sie sich mal mit der Meßtechnik befassen, sehr geehrter Herr Kramm, erkennen Sie, daß beim Messen immer Meßfehler gemacht werden. Denn die zu messende Temperatur muß zuerst in etwas übertragen werden, das man anzeigen kann, z.B. in eine Flüssigkeitssäule (Außentemperaturmesser zuhause) oder in einen Strom (elektrisch) oder in ein Strahlungspyrometer (Stahlwerk) oder sonstwas. Alle diese „Meßgeräte“ sind vorher zu kalibrieren/eichen, alle haben einen Meßfehler, der sich zeitabhängig ändert. Dabei ist ein Meßfehler von +/-0,5% schon ein fabelhaft guter Wert (z.B. beim Temperaturanzeiger mit Widerstandsthermometer über Meßwiderstand). Und jetzt messen Sie einmal eine Temperatur über nur 10 Jahre an der selben Stelle, immer unter gleichen Bedingungen: Was meinen Sie, wie groß der kleinste überhaupt erreichbare Meßfehler sein kann? 0,1? oder 0,5? oder 1? oder 2 K?, immer +/- vor den Temperaturfehlern. Na bitte, Sie dürfen raten. Freundlich grüßt
+H. Liesegang
+Sie muessen mit nichts ueber Messtechnik erzaehlen, denn ich beherrsche auch das Handwerkszeug meines Fachgebiets. Dazu zaehlen nicht nur Thermo-Sensoren, sondern auch Anemometer aller Art, Hygrometer aller Art, Drucksensoren, Windfahnen, Pyranometer, Pyrgeometer etc. Und neben der Aufnahme der Sensorcharakteristik durch die Kalibrierung ist auch das dynamische Verhalten von Sensoren zu bestimmen, was sich in den sog. Zeitkonstanten niederschlaegt. Je nach Traegheit der Sensoren muessen z.B. der Profile von Radiosondenaufstiegen korrigiert werden, denn es handelt sich um eine bewegte Messplattform. Das gleiche gilt bei Flugzeugmessungen, wozu auch die seit einiger Zeit verwendeten UAV-Messungen zaehlen (UAV = unmanned aircraft vehicle) zaehlen.
+Auch die Annalyse der Zeitreihen von meteorologischen Feldgroessen gehoert zum Handwerkszeug meines Fachgebiets. Man lernt normalerweise bereits waehrend des Praktikums des Grundstudiums, was Nyquist-Frequenz und Aliasing bedeuten.
+so ist es. Die mathematische Signalanalyse (z.B. Fourier-Analyse, Wavelet-Analyse) dient dem Zweck funktionale Zusammenhaenge zu erkennen. Im allgemeinen ist es doch so, dass Zeitreihen geglaettet werden, um solche Zusammenhaenge erkennen zu koennen. Es stehen also im allgemeinen viel mehr Messdaten zur Verfuegung, denn sonst wuerde ein Glaetten keinen Sinn machen. Welches Verfahren man dabei auswaehlt, haengt vielfach von der Zielsetzung ab.
+Nur sollte man z.B. in einer Arbeit oder einem Bericht begruenden, warum man welches Verfahren zur Datenanalyse verwendet hat. Dazu gehoert auch eine gesunde Theorie.
+Gibt es einen bestimmten Grund, indirekt auf die Abtastrate zu schliessen? Die Daten der Studie sind doch verfügbar und man kann direkt nachsehen, welche Abtastrate vorliegt. Im einfachsten Fall kuckt man einfach ins „Supplementary Materials“, Table S1. List of data sets used in the global temperature stack. Dort sind die Auflösungen aufgeführt. Einige Zeilen über dem zitierten Text steht auch die durchschnittliche Auflösung und die ist kleiner als die hier „geratenen“ 150 Jahre.
+Wenn die Autoren des Papiers die Grenzen dessen aufgezeigt haben, was sie aus der Rekonstruktion entnehmen können – wie haben sie da das Prinzip verletzt? Sie geben doch explizit die Grenzen dessen ab, was sie da gemacht haben…
+Die Verletzung des Prinzips ist beispielsweise in Fig. 1 (http://content.csbs.utah.edu/~mli/Economics%207004/Marcott_Global%20Temperature%20Reconstructed.pdf) zu erkennen, in der der zeitliche Verlauf der Proxydaten modernen hochaufgelösten Temperaturmessungen gegenübergestellt wird.
+„Welchen Grund sollte es geben, nicht den Leitautor zu zitieren? Er gibt doch klare Auskunft über die zeitliche Auflösung.“
+Nein, Sie ziehen Schlüsse über die zeitliche Auflösung aus seiner Aussage zur globalen Rekonstruktion. Die tatsächlichen zeitlichen Auflösungen der einzelnen Reihen stehen im Papier. Und die sehen prozentual wie folgt aus:
+kleiner/gleich 50: 12.33%
+kleiner/gleich 100: 38.36%
+kleiner/gleich 150: 60.27%
+kleiner/gleich 200: 76.71%
+kleiner/gleich 250: 82.19%
+kleiner/gleich 300: 94.52%
+kleiner/gleich 350: 94.52%
+kleiner/gleich 400: 95.89%
+kleiner/gleich 450: 95.89%
+kleiner/gleich 500: 98.63%
+kleiner/gleich 550: 100.00%
+Etwa 60% sind kleiner als 150 Jahre, nur etwa 4% liegen zwischen 500 und 550 Jahren, keine hat eine Auflösung größer 550 Jahre. Das ist weit entfernt von Ihren geratenen „Abtastrate gröber als 150 Jahre war, in 50% der Fälle sogar zwischen als 500 und 1000 Jahren“.
+(Das Kommentarplugin ist irgendwie kaputt. Keine Formatierungsknöpfe mehr, Schrift weiss auf Hellgrau, …)
+ich weiß nicht, was Sie mit Ihrer Argumentation bezwecken. Jedenfalls ist Ihre prozentuale Aufschlüsselung der Einzelproxys nicht hilfreich. Es geht in den Schlussfogerungen der Arbeit überhaupt nicht um die individuellen 73 Proxys, die über die ganze Erde verstreut sind und deren Länge meist nur einen (kleinen) Teil des Holozäns umfassen. Vielmehr wird letztendlich ein (fehlerbehafteter) zeitlicher globaler Temperaturverlauf gezeigt, der aus der Überlagerung dieser Proxys gebildet wird, wobei die Stützpunkte dieser Einzelproxys ihrerseits eine zeitliche Unsicherheit aufweisen.
+Deshalb sollten Sie den Angaben von Marcott folgen. Die zeitliche Auflösung stammt aus seiner „Feder“. Meine Schlussfolgerung ist nur die fiktive Abtastrate gemäß dem Abtasttheorem.
+Im übrigen retten Sie auch über die bessere zeitliche Auflösung der Einzelproxys Ihren Versuch nicht, die Autoren argumentativ zu stützen.
+Nur ein Drittel der Proxys haben eine zeitliche Auflösung von 1oo Jahren oder besser, nur ein Achtel eine Auflösung von 50 Jahren oder besser. Wie wollen Sie damit einen 20- bis 30-jährigen globalen Temperaturanstieg wie zu Anfang des 20. Jhdts oder zum Ende des 20. Jhdt. rekonstruieren?
+Aber wie gesagt – die zeitliche Auflösung einzelner Proxys erlaubt keine direkten Schlussfolgerungen über die zeitliche Auflösung der Gesamtkurve.
+Damit klinke ich mich aus der Diskussion aus. Das Thema „Randbedingungen der Signalanalyse“ sehe ich als hinreichend beleuchtet an.
+Das kommt in Ihrem Text aber nicht rüber. Der ist so formuliert, dass man denkt, die verwendeten Proxies hätten eine zu geringe Abtastrate. Zusammen mit dem Vorwurf ensteht dann der Eindruck, die Autoren hätten etwas falsch gemacht, was mit der Abtastrate zusammenhängt.
+Schaut man dann nach, sieht man, dass die Abtastraten nicht dem entsprechen, was Sie geschrieben haben. Darüber hinaus haben die Autoren nicht nur die Abtastraten sondern auch noch andere Aspekte der Proxy-Reihen herangezogen, um dann zu zeigen, auf welchen Zeitskalen man Variabilität in ihrer Rekonstruktion erkennen kann. Sie haben da also schlicht ein falsches Bild gezeichnet. Darauf wollte ich hinweisen.
+Zum Kommentar von Werner Kohl über Gerhard Kramm, 8. APRIL 2018 UM 11:40: „Das, worüber Sie sich lang und breit auslassen, führt nur dazu, die wesentlichen Punkte zu verwischen.“ Das ist eine Aussage von großer allgemeiner Gültigkeit. Wenn es um die Frage geht, wärmt oder kühlt CO2. ist die Homepage von EIKE sehr weitgehend eine solche Verwischung dieses wesentlichen Punktes. Deshalb steht über meiner Homepage dieses Zitat eines Nobelpreisträgers: “The simple is the seal of the true.”
+Eine konkrete Antwort auf die CO2 – Frage gebe ich in diesem Video:
+https://drive.google.com/file/d/1cFNtzcq78-CiHLCAiTkfru1NBPcM_qwW/view?usp=sharing
+Der Vortrag fand am 26. Februar 2018 statt. Die öffentliche Einladung erfolgte durch den Kreisvorsitzenden der AfD Main-Kinzig.
+Die Verarbeitung von Zeitreihen der meteorologischen Groessen ist in einer Vielzahl von Lehrbuechern der Meteorologie beschrieben. Stellvertretend dafuer sei das Lehrbuch „The Structure of Atmospheric Turbulence“ von Lumley & Panofsky aus dem Jahr 1964 erwaehnt. Da dieses Lehrbuch ueber 2000 mal zitiert wurde, koennen Sie davon ausgehen, dass dieses Wissen in meteorologischen Kreisen allgemein bekannt ist.
+Sehr geehrter Herr Dr.Gerhard Stehlik,
+vielen Dank für den Hinweis in Ihrem Kommentar .Sie fassen zusammen mit der Bemerkung:
+Zitat: „[…] Deshalb steht über meiner Homepage dieses Zitat eines Nobelpreisträgers:“The simple is the seal of the true.” […].“
+Ihr freundlicher Hinweis auf den aktuellen Erkenntnisstand ihrerseits, habe ich intensiv studiert.
+Dazu eine Frage , wäre ich bei dem Vortrag dabei gewesen.
+Welchen Einfluss haben die Stickstoff- und Sauerstoffmoleküle auf die gemessene Temperatur mit einem Quecksilberthermometer oder einem Thermoelement PT 100 ?
+Mit herzlichem Glückauf
+Sehr geehrter Herr Tengler,
+ich geh jetzt einfach mal davon aus, dass Herr Stehlik oder ein anderer naturwissenschaftlich ausgebildeter Mensch, diese Antwort so gegeben hätte.
+Der Hinweis auf die möglichen Fehlerquellen war für mich auch interessant,aber dazu vielleicht später mehr.
+Mir ging es bei der Frage darum,was passiert mit der kinetischen Energie der Luftmoleküle,wenn die Sonneneinstrahlung sich ändert.
+Wenn sich die Sonneneinstrahlung erhöht,wird sich die kinetische Energie auch erhöhen.
+Bei einer Verringerung der Sonneneinstrahlung wird die kinetische Energie weniger.
+Jedoch können diese Moleküle keine Energie in Form von Strahlung abgeben.
+Da halte ich es wie sein Freund Wolfgang Thüne. Die Energie ist einfach weg.
+Mit herzlichem Glückauf
+die üblichen Temperaturfühler werden meist in Flüssigkeits-Umwälzthermostaten, in denen es „dunkel“ ist, an mehreren Temperatur-Punkten kalibriert. Strahlungseinflüsse gibt es nicht bzw. heben sich auf, weil die Wände der Thermostaten auch die Badtemperatur haben. Die Fühlerdaten müssen eine gewisse Toleranz einhalten bzw. werden in der Weiterverarbeitung individuell berücksichtigt. Bei Fühlern mit Messstrom ist ggf. auch an die Eigenerwärmung zu denken.
+Luft ist ja überwiegend für Sonnenstrahlung durchlässig. Erwärmt wird sie erst durch bestrahlte Oberflächen durch Wärmeleitung und Konvektion (Beim Laserschweißen wird die allermeiste Energie auch erst beim Auftreffen auf absobierende Oberflächen freigesetzt). Es ist also doch recht kompliziert, halbwegs objektiv Temperaturen für Wetter und Klima zu ermitteln. Wir „Messknechte“ sagen da immer „Wer misst misst Mist“ oder „Messen geht irgendwann in Religion über“, weil man irgendwann die Messwerte glauben muß.
+Ein hervorragender Artikel, in dem die begrenzte Aussagefähigkeit von Klimamodellen mit Hilfe der Signalanalyse klar und deutlich herausgearbeitet worden ist. Es ist daher sehr schade, dass ein solch fundierter Ansatz, der eine breite öffentliche Aufmerksamkeit verdient hätte, in einzelnen Kommentaren durch fachlich-vordergründiges „friendly Fire“ und „ad-hominem“-Angriffe abgewertet wird.
+Schließlich dürfte jedem Leser klar geworden sein, auf welche Art von „klimawissenschaftlichen“ Hochrechnungen dieser Artikel abzielt. Die sogenannten Klimarealisten sind und bleiben halt ein kleines zänkisches Völkchen, dem es insbesondere an gegenseitiger Akzeptanz mangelt…
+Womit dieser Beitrag nichts zu tun hat, sind die Ergebnisse von Klimaprojektionen mit Hilfe von numerischen Modellen der allgemeinen Zirkulation. Das sind deterministische Modelle, die auf der Umsetzung grundlegender physikalischer Gleichungen mit Hilfe numerisch stabiler Rechenverfahren beruhen. Dasss die Ergebnisse realitaetsfern sind, ist auf die inhaerente Ungenauigkeit der Parameterisierungsschemata zurueckzufuehren, die zur Berechnung subskaliger Prozesse unabdingbar sind.
+für Sie mag der Beitrag von Herrn Kohl wertlos sein, jedoch nicht für jemanden, der kein Fachexperte in Meteorologie ist, sich aber eine objektivere Meinung über das Thema Klima bilden möchte jenseits der meisten deutschen Medien und sonstigen angstmachenden Institutsveröffentlichungen. Insofern ist der Beitrag von Herrn Kohl für mich sehr wertvoll, da auf verständliche Art gezeigt wird, welche falschen Behauptungen von Klimaexperten gemacht werden.
+Da Sie über hohe Kompetenz bei diesem Thema verfügen – was ich sehr schätze –, wären sicher viele Leser dieses Blogs interessiert und gespannt, wenn von Ihrer Seite ab und zu ein Beitrag erscheinen würde, der auch für Nichtexperten auf einfachere und verständlichere Weise Falschmeldungen und inkorrekte Behauptungen widerlegt.
+Und dass in einem Lehrbuch von 1964 bereits auf die Verarbeitung von Zeitreihen eingegangen wird, hilft uns als interessierte Leser nicht weiter, aber ein Beitrag wie der von Herrn Kohl!
+Nach der Definition der World Meteorological Organization (WMO), die 1992 nochmals bekraeftigt wurde, ist Klima jedoch als
+„Synthesis of weather conditions in a given area, characterized by long-term statistics (mean values, variances, probabilities of extreme values, etc.) of the meteorological elements in that area“
+aufzufassen.
+Klimamodell? Was ist das?
+Welche Aussagefähigkeit hat überhaupt ein Modell?
+Ich möchte Donnerstag eine längere Radtour unternehmen.
+Das ICON des DWD sagt: Kein Niederschlag, das GFS der USA sagt zwischen 15 und 1800 Uhr GMT Schauer voraus.
+Welchen Schluß ziehen Sie daraus? Regencape mitnehmen oder nicht?
+Ich hatte gelernt, dass eine Periode sich nur dann sicher nachweisen lässt, wenn die Messdauer dopplt so lange ist wie die Periodendauer.
+Ihre Erinnerung trügt. Sicher ist es besser, die Messkampagne möglichst lange durchzuführen. Aber die Mindestmessdauer ist die Periodendauer.
+Der Faktor 2 taucht bei der Berechnung der Nyquist-Frequenz auf.
+Heute sind elektronische Registrierungen der Lufttemperatur im Minutenabstand leicht durchzufuehren. Fuer ein Tagesmittel kann man also auf 1440 Temperaturmessungen zurueckgreifen. Fuer ein Jahresmittel stehen dann mindestens 525600 Temperaturmessungen zur Verfuegung. Und wenn man mindestens 30 Jahre betrachtet, dann sind das etwa 15,8 Millionen Temperaturmessungen. Solche Datensaetze kann man mit einem simplen FORTRAN-Programm rasch verarbeiten.
+Nur ein Hinweis. Im Rahmen von Turbulenzmessungen werden die Messungen des Windvektors mit einer Frequenz von mindestens 20 Hz und die von Temperatur, Feuchte und CO2-Konzentration mit einer Frequenz von mindestens 10 Hz durchgefuehrt. Es fallen also pro Tag mindestens 7,8 Millionen Daten an. Nimmt man noch den Luftdruck hinzu und misst diesen ebenfalls mit 10 Hz, dann erhoeht sich diese Zahl weiterhin. Eine Turbulenz-Feldmesskampagne von einem Monat liefert also ein Vielfaches an Daten, was im Rahmen der Klimastatistik zu verarbeiten ist. Dabei sind die Turbulenzdaten auch noch nach diversen Kriterien zu ueberpruefen wie z.B. das Stationaritaetskriterium. Lineares bzw. nicht-linerares Detrending gehoeren dabei zum Handwerkszeug.
+xxxxxxxxx
+nach der Dauer einer Periode hat man über die erforderlichen, zwei Nulldurchgänge gemessen. Die Wahrscheinlichkeit, damit die Basisfrequenz f = 1 / T zu „kennen“, ist sehr hoch, beziehungsweise es ist die Forderung dafür. Das Messen über zwei (der noch mehr) Perioden verringert nur das Fehlerband der gemessenen Periodendauer.
+Oder täusche ich mich da?
+Herr Rahmstorf zeigt in seinem Blog eine Grafik, in welcher die maximale Temperaturänderung der letzten 10.000 Jahre +-0,4 Grad beträgt.
+In der Schrift der Enquette-Komission von 1988 steht dazu: „In vorgeschichtlicher Zeit hat sich das Klima häufig relativ rasch geändert. Temperaturänderungen von 3 bis 5° C in einem Zeitraum von einhundert Jahren oder weniger konnten für die vergangene Eiszeit gut fünfzehn Mal nachgewiesen werden“.
+Eine von beiden Expertisen liegt damit falsch. Meine Vermutung: Herr Rahmstorf.
+Für die Pages2k Reproduktion dürfte das „Vergessen“ des Nyquist-Kriteriums allerdings nicht die Fehlerursache sein, denn die einzelnen Proxys zeigen teils erstaunliche Ausschläge, allerdings in völlig verschiedene Richtungen. Sieht man sich diese Proxyspaghetty an (https://tinyurl.com/y75fny97), ist klar, dass diese beim „Zusammenwerfen“ im Wesentlichen ein Rauschen erzeugen. Und dieses ergibt gemittelt immer eine Gerade.
+Die Lösung wären bessere Proxyrekonstruktionen und Personen, welche diese mit Überlegung zusammenfassen. Man hat den Eindruck, das Überlegen fehlt und blinden Computern wurde das Zusammenfassen überlassen. Dem Ergebnis wird ohne zu Überlegen geglaubt, weil es der Ideologie so herrlich entspricht. Dass es vollkommen unwirklich ist, hat letztmals die Kommission um 1988 feststellen können. Seitdem sind solche – noch Wissen berücksichtigende Bewertungen – verpönt.
+bitte tun Sie mir einen Gefallen, studieren Sie wenigsten die Grundlagen der Klimatologie.
+Nach der Definition der World Meteorological Organization (WMO), die 1992 nochmals bekraeftigt wurde, ist Klima als
+„Synthesis of weather conditions in a given area, characterized by long-term statistics (mean values, variances, probabilities of extreme values, etc.) of the meteorological elements in that area“
+aufzufassen. Diese Definition beinhaltet, dass ein globales Klima gar nicht existiert, denn das globale Mittel beruht nicht auf einem statistischen Mittel, was die stochastische Verteilung der Daten voraussetzt, sondern auf der Definition des Flaechenmittels. Schon der Ursprung des Wortes Klima weist darauf hin, dass ein globales Klima ein Widerspruch in sich ist, denn das aus dem Griechischen stammende Wort Klima bedeutet Neigung bzw. Inklination. Damit ist der maximale Sonnenhoechststand ueber dem Horizont gemeint, der eine Funktion der Flaechennormalen und folglich eine Funktion des Ortes ist.
+Der Begriff „long-term statistsics“ beinhaltet, dass eine Klimaperiode mindestens 30 Jahre umfasst, weil sonst die statistische Forderung der stochastischen Verteilung von Daten gar nicht zu erfuellen ist. Wenn also ein Klimawandel zu diagnostizieren ist, dann sind mindestens zwei sich nicht ueberlappende Klimaperioden erforderlich, wovon eine als Referenzzustand dient. Folglich sind Zeitreihen der meteorologischen Groessen, die sich ueber mindestens 60 Jahre erstrecken, erforderlich, um zwei Klimaperioden bestimmen zu koennen. Wer mit Trends argumentiert, der weiss nicht, wovon er schwadroniert. Ein Trend hat mit der Forderung nach einer statistischen Beschreibung nichts zu tun. Man kann einen Trend auch dann berechnen, wenn die Forderung der stochastischen Verteilung gar nicht erfuellt ist.
+Zieht man die Tagesmitteltemperaturen zur Berechnung fuer einen Ort oder Region heran, dann betraegt die Zahl der Tagesmittelwerte fuer eine Klimaperiode von 30 Jahren mindestens 10950. Frueher hat man mit einfachen empirischen Formeln die Tagesmitteltemperaturen berechnet. Herr Limburg hat solche Formeln in seinem Beitrag „NEW SYSTEMATIC ERRORS IN ANOMALIES OF GLOBAL MEAN TEMPERATURE TIME-SERIES“ von 2014 aufgelistet (https://www.eike-klima-energie.eu/wp-content/uploads/2016/07/E___E_algorithm_error_07-Limburg.pdf). Aber man darf nicht vergessen, dass das zeitliche Mittel einer Groesse M folgendermassen definiert ist:
+{M} = (1/T) INT(0,T) M(t) dt
+worin {M} der zeitliche Mittelwert, T die Mittelungsdauer, INT(0,T) ein Integral mit den unteren und oberen Grenzen 0 und T, und M(t) der Integrad ist. Tages-, Monats- und Jahresmittelwerte sowie Mittelwerte fuer eine Klimaperiode von mindestsens 30 Jahren koennen nach dieser Definition des zeitlichen Mittels berechnet werden. Bedeutete das im Falle der Thermographen noch umfangreiche Arbeit, so ist das heute in einfacher Weise zu bewerkstelligen, wobei man schon seit Jahrzehnten weiss, welche Abtastraten erforderlich sind, um den jeweiligen Mittelwert mit ausreichender Genauigkeit berechnen zu koennen. Das Beruecksichtigen von „Nyquist-frequency“ und „aliasing effects“ gehoert zum Handwerkzeug. Offensichtlich haben Sie noch nie etwas von Messungen zur atmosphaerischen Turbulenz gehoert.
+Ich habe selbst die HadCRUT4-Daten (Morice et al., 2012, updated) Fourier-analysiert und dabei auch lineares und nicht-lineares „Detrending“ vorgenommen. Die ermittelten „multi-decadal oscillations“ (MDOs) differieren nicht nur in der Periodendauer (60 und 65 Jahre), sondern auch in der Amplitude. Aber man darf nicht vergessen, dass diese MDOs nur einem linearen bzw. nicht-linearen Trend ueberlagert sind. Setzt man die jeweiligen Trends und die zugehoerigen ueberlagerten MDOs wieder zusammen, dann ergibt sich die gleiche geglaettete Kurve, die sich nur zu Beginn und am Ende der Zeitreihe schwach unterscheiden. Aber wie bereits zuvor dargelegt, hat ein Trend hat mit der Forderung nach einer statistischen Beschreibung nichts zu tun.
+Ihre Behauptung:
+„Es ist unschwer zu erkennen, dass die Ermittlung von Langzeittrends aus zu kurzen Messkampagnen zu unsinnigen Ergebnissen führt. Seit Ende der Kleinen Eiszeit ist ein Anstieg der globalen Temperatur zu verzeichnen.“
+dokumentiert folglich nur Ihre Unwissenheit.
+Ich fürchte, Sie haben die Intention meines Artikels nicht verstanden.
+Es war NICHT Intention,
+– den Begriff Klima, seine Definitionen und Interpretationsprobleme zu diskutieren.
+– Möglichkeiten der Datenanalyse zu diskutieren.
+– Möglichkeiten der Trendberechnung zu diskutieren.
+Der Artikel beschrieb die Randbedingungen für die Datenanalyse:
+– eine obere Grenzfrequenz (Nyquist-Frequenz), die durch die zeitliche Auflösung der Messung(en) bedingt ist.
+– eine untere Grenzfrequenz, die durch die Messdauer bedingt ist.
+Punkt.
+Das, worüber Sie sich lang und breit auslassen, führt nur dazu, die wesentlichen Punkte zu verwischen.
+Es ist kontraproduktiv, alle möglichen Aspekte in die Ausführungen hineinzupacken, die primär nichts mit den Grundlagen der Signalanalyse zu tun haben.
+Ganz gleich, welche Daten für Analysen verwendet wurden, wie und wo sie gewonnen wurden, welchen systematischen oder zufälligen Fehlern sie unterliegen, für alle gelten die im Artikel beschriebenen Randbedingungen. Analysen, die diese Randbedingungen verletzen, verletzen wissenschaftliche Standards.
+Im übrigen interpretiere ich Ihre Ausführungen als unhöflich. Deshalb werde ich die Diskussion mit Ihnen nicht fortsetzen.
+Unhöflichkeit gehört zu Dr. Kramm. Anders kann er nicht, jedenfalls solange nicht, solange er – egal wobei- anderer Meinung ist. Nehmen Sie es ihm bitte nicht übel.
+Stattdessen redet sich Dr. Kramm immer mehr in Rage und bemerkt dabei überhaupt nicht, dass er das Thema völlig verfehlt. Er regt sich darüber auf, dass ich Meteorologen angeblich irgendetwas unterstelle.
+Wie bitte?
+Wo, bitteschön, ist in dem Artikel die Rede von Meteorologie? Wo habe ich behauptet, Meteorologen würden irgendwelche Größen falsch messen? Wo habe ich Meteorologen überhaupt etwas unterstellt?
+Eine einfache Textsuche nach dem Begriff „Meteor…“ auf dieser Seite hätte ihm gezeigt, dass die einzige Person, die diesen Begriff verwendet, er selbst ist.
+Es geht um Randbedingungen der Signalanalyse. Um nichts anderes.
+Und ich lasse mir von einem Dr. Kramm keine Themen aufdrücken, die nicht Gegenstand dieses Artikels sind.
+Ich habe meinen Artikel zwar nicht bei EIKE zur Veröffentlichung eingereicht, habe aber nichts dagegen, dass er hier repostet wird.
+Jedoch verwahre mich gegen die unsachlichen Attacken von Dr. Kramm.
+Wenn er glaubt, mit der Erwähnung von FORTRAN-Programmen Eindruck schinden zu können, dann kann ich nur darauf hinweisen, dass ich bereits in den 70er Jahren mit FORTRAN programmiert habe, dieses Werkzeug aber Ende der 80er Jahre in den verdienten Ruhestand geschickt habe, weil es bereits damals veraltet war und für die sichere Entwicklung großer Programme nicht wirklich geeignet ist. (Der einzige sachliche Grund, FORTRAN weiter zu verwenden, ist m.E., dass kaum jemand dazu bereit ist, Jahrzehnte alte Bibliotheken neu zu schreiben. Das aber nur am Rande.)
+Bereits Anfang der 80er Jahre habe ich FFT-Routinen programmiert und später im Rahmen der Messtechnik Frequenzanalysen mithilfe von FFT und Wasserfällen entwickelt. Dabei musste ich mich zwangsläufig mit den Randbedingungen auseinandersetzen. Mich hier daher als fachfremd darzustellen, empfinde ich etwas dreist.
+Oder redet Dr. Kramm von fachfremd in Bezug auf Meteorologie? Mag sein. Das interessiert aber nicht. Das ist nicht Thema dieses Artikels.
+Wir hatten zuvor bei Kalte Sonne Dr. Lüning um Genehmigung angefragt und diese bekommen. Im Übrigen teile ich Ihre Einschätzung zu 100 %
+was Sie hier verbreiten, ist seit vielen Jahrzehnten in der meteorologischen Messtechnik bekannt und wird selbstverstaendlich auch beruecksichtig. XXXXXXXXXx
+Wenn Sie meinen Hinweis, dass Sie wenigsten die Grundlagen der Klimatologie studieren sollen, als Unhoeflichkeit empfinden, dann weise ich Sie darauf hin, was Sie – offenbar als Fachfremder – mit Ihrem Beitrag suggerieren wollen, naemlich dass die Meteorologen nicht wissen, wie meteorologische Groessen zu messen sind. Wenn Sie meine Berufskollgenen mit Ihren „Weisheiten“ blosstellen wollen, dann muessen Sie damit rechnen, dass jemand darauf hinweist, was Ihre Weisheiten wert sind.
+Dass der admin unter dem Schutz seines Pseudonyms gegen mich auskeilt, zeigt auf, was bei EIKE alles moeglich ist.
+Bei EIKE ist möglich, dass konträre Meinungen ausgetauscht werden können, auch über Kommentare!
+Was möglich aber nicht zulässig ist, ist sich schlecht zu benehmen und andere persönlich zu verunglimpfen. Leider entwerten Sie Ihre häufig wertvollen Fachbeiträge durch ihre oft nicht beherrschte und diffamierende Aggressivität gegenüber Leuten, die andere Meinung sind als Sie. Sie wissen das wir wissen das. Lassen wir es dabei bewenden.
+Es heisst z.B. in den Regeln:
+Bitte geben Sie Ihren Namen an (Benutzerprofil) – Kommentare „von anonym“ werden gelöscht.
+Aber als admin treten Sie anonym auf.
+Das ist nun wirklich absurd!
+Geht man zurück auf die Ursprünge der Intention der CO2-Fetischisten, nämlich eine physikalische Ursache für die „periodisch“ auftretenden Eis- und Warmzeiten zu finden, ist der Begriff „globales Klima“ ideal zur Täuschung.
+Wenn man dann genauer hinschaut, findet man in der Menschheitsgeschichte „Neger“,“ Araber“, „Gelbe“, „Rote“, „Weiße“, „Juden“, „Christen“ … . Wer die Mengenlehre irgendwann einmal hatte, weiß, wie die einzelnen Mengen zusammengesetzt sind.
+Es ist ja nicht lange her, noch nicht einmal 75 Jahre, da wurden Induviduen industriell beraubt und ermordet, weil irgendein Teufel es geschafft hatte eine der obigen Mengen als globale „Menschheitsschädlinge“ zu verurteilen. Ziel: Raub und Bereicherung. Beweis für die „Schädlichkeit“ obiger übrigens nicht definierbarer Menge? Nicht nötig.
+Genauso funktioniert das mit der „gefährlichen“ globalen Klimaveränderung. Die „Individualität“ der Klimata ist größer als die mathematisch ermittelten Globalwerte.
+Den Rest werden die oristen ja dann noch selbst erkennen können, wie man Raub und Bereicherung im gesellschaftlichen Kollektiv damals durchsetzen konnte und es heute genauso macht.
+H. Liesegang
+In einer Empfehlung der WMO von 1971 (WMO-No. 8. TP. 3) wird fuer die sog. Prandtl-Schicht (bis 30 m ueber der Oberflaeche) folgendes empfohlen:
+± 0.1 K would be required in some investigations, e.g., over oceans, but for many purposes over land ± 0.5 K would be sufficient
+Von 0,01 K ist also ueberhaupt nicht die Rede.
+Die gesamte Diskussion, die Kohl hier losgetreten hat, folgt nur dem Schnittmuster der AGW-Aktivisten. Diese Herrschaften argumentieren mit Trends in der globalen Mitteltemperatur. Nur hat das ueberhaupt nichts mit Klima zu tun. Nach der Definition des Klimas durch die WMO existiert ueberhaupt kein globales Klima. Und wenn man sich die Koeppen-Geiger-Klimaklassifikation anschaut (siehe z.B. https://people.eng.unimelb.edu.au/mpeel/koppen.html), dann kann man feststellen, dass darin fast 30 verschiedene Klimate veranschaulicht werden. Und diese verschiedenen Klimate beruhen auf Intervallen der Temperatur und des Niederschlags.
+Und was sagt uns das über die erreichte Genauigkeit? Wenn ich es richtig verstehe: Gar nichts.
+das sind absolute Genauigkeiten, die bei der Messung der Lufttemperatur in Oberflaechennaehe einzuhalten sind, was mit kalibrierten und gewarteten Sensoren (Widerstandsthermometer, Hg-Thermometer, Thermistoren etc.), leicht moeglich ist. Mit einem Wert von 0,01 K, wovon der Forist Liesegang sprach, hat das nichts zu tun.
+Wenn Sie nun behaupten:
+„Und was sagt uns das über die erreichte Genauigkeit? Wenn ich es richtig verstehe: Gar nichts.“
+dann kann man nur noch den Kopf schuetteln. Es scheint so, als seien heute die statistischen Auswerteverfahren und Fehlerfortpflanzungsrechnungen der Physik, der Geophysik und der Meteorologie nicht mehr allgemein bekannt zu sein.
+Für den lokalen Alpenraum ermittelte Prof. Patzelt von der Uni Innsbruck den Verlauf zwischen -8000 und + 2000 noch detaillierter und stellte in dem durchgängigen Berg der Rahmstorf-Darstellung ca. sieben Kaltperioden fest, die einige Male die Tiefstwerte der „Kleinen Eiszeit“ erreichten.
+Dazu stellt sich auch die Frage, kann man heute den Verlauf einer „globalen Weltmitteltemperatur“ seit der letzten Eiszeit überhaupt feststellen? Heute macht man es rein mathematisch, nur der errechnete Wert hat keinerlei reale Entsprechung irgendwo auf der Erde.
+Kann man nicht. Aber das weiß doch das gemeine Volk nicht, verteten in indoktriniert durch die fachlich inkomptenten Journalisten.
+Wie hießen die Indoktrinationsblätter noch? Stürmer, Vorwärts …??

@@ -1,0 +1,152 @@
+Mit einfachem Dreisatz kommt man doch zu einem Ergebnis
+Wie wurden die 0,36 % „mit SARS-CoV-2“ berechnet? Man nimmt die „positiv getestet“, zieht die „davon genesen“ und die „Todesfälle“ ab und erhält übrig gebliebene 303.163 „positive Fälle“ als 0,36 % von 83.166.711 Einwohnern mit SARS-CoV-2
+Leider hat diese Rechnung einen Haken: Sie ist grottenfalsch und somit auch das Ergebnis.
+Warum das so ist, sei anbei gezeigt.
+Versuch einer statistischen Abschätzung
+Daraus errechnet sich ein Deutschland-Inzidenzwert von:
+7-Tage-Inzidenz = (Neuinfektionen / Einwohnerzahl) x 100.000
+Inzidenzwert 193,66 = (160.735 / 83.000.000) x 100.000
+Dieser Inzidenzwert „behauptet“, dass 0,194 % der Einwohner von Deutschland innerhalb der KW 15 zusätzlich Corona-Positiv geworden wären.
+Betrachtet man die tabellierten PCR-Tests nun als „Stichprobe“, ergibt die Berechnung:
+Mittelwert neu Infizierter = Anzahl neu Positiver / Anzahl Tests
+MW: 12,41 % = 160.735 / 1.295.635
+Diese „Stichprobe“ weist aus, dass der Mittelwert neu Positiver (in der Stichprobe) 12,4 % beträgt.
+Weil der Stichprobenumfang extrem hoch ist, gilt das mit einem geringen Fehler von unter +-1 % auch für die Grundgesamtheit Deutschland.
+Über diese „Stichprobe“ gerechnet, beträgt der wahre Inzidenzwert von Deutschland allerdings:
+Inzidenzwert 12.410 = (10.300.300 / 83.000.000) x 100.000
+und weicht damit schon etwas arg vom amtlich berechneten Wert 193,66 ab.
+Nun lässt sich mit gutem Recht behaupten, dass die gemeldete Anzahl an PCR-Testungen keine Stichprobe wäre und vor allem nicht den wahren Testumfang spiegelt.
+Deshalb nehmen wir einfach den doppelten Testumfang an (bei gleichbleibendem Positivergebnis). Dann beträgt die Anzahl neu Infizierter in der Stichprobe und damit wieder auch in der Grundgesamtheit immer noch 6,2 % und parallel der wahre Inzidenzwert 6.205. Beim dreifachen Testumfang sind es immer noch 4,13 % und parallel der wahre Inzidenzwert 4.137.
+Unabhängig davon, wie hoch man den „wahren“ Stichprobenumfang annimmt, das Ergebnis bleibt immer meilenweit von den zwei anderen Werten (0,37 %; 193,66) entfernt und der wahre Inzidenzwert hat zudem durchgängig Größenordnungen, bei deren Nennung alle „Coronafachpersonen“ und politischen Entscheider sofort einen Herzkasper bekommen würden.
+Welcher Wert stimmt nun
+Für die Anzahl „Coronabefallenen“ haben wir nun drei Werte:
+Insgesamt Positive in der Grundgesamtheit (Bild 1): 0,36 %
+Neu Positive der KW15 (7-Tage Inzidenz): Inzidenzwert 193,66; beziehungsweise 0,194 % neu Positive
+Neu Positive der KW15 statistisch abgeschätzt: Irgendwo zwischen 4,13 … 12,4 %
+Welches Ergebnis stimmt nun? Kein Ergebnis von den dreien.
+Bleibt die Frage: Welches ist am Wahrscheinlichsten?
+Und da ist der Autor überzeugt: Es werden die statistisch abgeschätzten, irgendwo zwischen 4 … 12 % neu Positiven in der Grundgesamtheit Deutschland sein und die anderen beiden Angaben sind grottenfalsch, aber regelmäßig publiziert und vor allem maßnahmenrelevant.
+Vielleicht erklärt dieses einfach ermittelte Ergebnis jedoch, warum die Lockdown-Maßnahmen kaum Wirkungen haben, die Inzidenzwerte trotzdem teils rasant steigen (aber auch wieder abnehmen) und selbst in mittelgroßen Städten niemand weiß, wo die Infektionen wirklich stattfinden, da das Geschehen so „diffus“ sei (nicht nur eine Aussage in der Lokalzeitung des Autors):
+Bild 3 „Diffuses“ Corona-Infektionsgeschehen in Heilbronn. Gesundheitsamt Heilbronn, 07.03.2021: Allgemeinverfügung zur Eindämmung der weiteren Verbreitung des neuartigen Corona-Virus (SARS-CoV-2) im öffentlichen Raum, „Nächtliche Ausgangsbeschränkung“
+Der Inzidenzwert gibt innerhalb der gleichen Kommune linear die Anzahl Testungen an
+Ein Inzidenzwert von 100 besagt, dass in einer Gemeinde mit 100.000 Einwohnern innerhalb von 7 Tagen 100 neue Positivtestungen, also +0,1 %, vorlagen.
+Seine vollständige Berechnungsformel lautet:
+7-Tage-Inzidenz = (Neuinfektionen / Einwohnerzahl) x 100.000
+Wird nun innerhalb der gleichen Kommune/Landkreis getestet und dafür der Inzidenzwert berechnet, ändert sich die Variable „Einwohnerzahl“ mit dem Multiplikator 100.00 zu einer gemeinsamen Konstanten und die Inzidenzformel reduziert sich auf eine Variable:
+Inzidenzformel: Inzidenzwert = Anzahl Neuinfektionen
+Bleibt die Anzahl neu Positiver in der Kommune gleich, wird aber vermehrt getestet, erhöht sich der Inzidenzwert alleine aufgrund und mit der Anzahl Testungen. Wird weniger getestet, verringert er sich entsprechend.
+Man benötigt demnach weit mehr als Mut, zu behaupten, dass der Inzidenzwert bei der heutigen Teststrategie eine Aussage über die „Coronabelastung“ einer Gemeinde erlauben würde.
+Er gibt wirklich nur an, dass aktuell x Positive neu „herausgetestet“ wurden und die Behörde diese Anzahl nachverfolgen sollen. Zwischen verschiedenen Kommunen werden damit auch nicht die „Coronabelastungen“ verglichen, sondern die „Arbeitsbelastungen“ der kontaktverfolgenden Behörden.
+Mehr Aussage erlaubt die Formel nicht.
+Anmerkung: In [Link] EIKE 13.04.2021: Inzidenzwert-Ermittlung und dessen Anwendung unter einem „Aluhut“ betrachtet,
+wurde das Gleiche Ergebnis – der Inzidenzwert hängt vorwiegend von der Anzahl Testungen ab – über einen anderen Weg hergeleitet.
+Der Inzidenzwert, ein My(nis)sterium
+Und nun lese man, wer die wichtigen und einschneidenden Grenzwerte dafür festgesetzt hat. Bestimmt eine Gruppe unabhängiger Fachpersonen, oder doch nicht?
+[Link] Spiegel 11.11.2020: Die fragwürdige Macht des Inzidenzwertes
+… Das RKI sei an der Entscheidung für diesen konkreten Grenzwert nicht beteiligt gewesen, heißt es auf Anfrage des SPIEGEL. Eine Anfrage beim Bundesgesundheitsministerium ergibt, dass die Bundesregierung selbst die Inzidenzwerte festgelegt hat …
+Macht nichts. Wichtig ist, dass die unsere über Lockdownmaßnahmen entscheidenden Politiker beratenden Fachpersonen wissen, was richtig ist.
+Herr Lauterbach zum Beispiel weiß darüber:
+Spiegel 11.11.2020: … (Herr Lauterbach:) „Wir können nur den Wert der Neuinfektionen in der Allgemeinbevölkerung beeinflussen und dadurch wiederum die Risikogruppen schützen.“ In den vergangenen Monaten habe man gelernt, dass der Inzidenzwert als epidemiologische Orientierung hilfreich und sinnvoll sei.
+Denn wie viele Menschen auf der Intensivstation landen und wie viele dort sterben, hängt allein von der Inzidenzzahl und der Altersverteilung ab.
+… Man habe mit dem Wert eine Größe, um das Infektionsgeschehen in Landkreisen oder Städten miteinander zu vergleichen
+Dass das Vergleichen zwischen verschiedenen Kommunen mit dem Inzidenzwert nicht wirklich möglich ist, obwohl es Herr Lauterbach behauptet, wurde vorher gezeigt.
+Aber auch sein: „wie viele Menschen auf der Intensivstation landen und wie viele dort sterben, hängt allein von der Inzidenzzahl und der Altersverteilung ab“, lässt sich bezüglich der Inzidenzzahl alleine schon mit dem folgenden Bild als anzweifelbar zeigen:
+In diesem Artikel wurde lediglich ergänzend zum vorhergehenden, EIKE 13.04.2021: Inzidenzwert-Ermittlung und dessen Anwendung unter einem „Aluhut“ betrachtet
+eine weitere statistische Betrachtung vorgenommen.
+Bei einer Gesamtbetrachtung kommen noch weitere, nicht weniger gravierende Ungereimtheiten dazu:
+[Link] Achgut, 21.04.2021: Inzidenz-Zahlen: Regierungs-Magie und Wirklichkeit
+Es bleibt weiterhin ein Rätsel, wie ein ganzes Land ihre vernichtenden Lockdownmaßnahmen immer noch einzig über einen solch mindestens extrem strittigen Wert entscheidet. Der Herdentrieb in Deutschland muss wirklich grenzenlos sein …
+Ist nicht erst ein Inzidenzwert über 350 der wirkliche Startwert für Maßnahmen?
+Immer wieder muss daran erinnert werden, dass der Inzidenzwert ausschließlich als Arbeitsschutzmaßnahme für Behörden gedacht war.
+[Link] Correctiv schreibt dazu: … Überschreiten die neuen Fälle pro 100.000 Einwohner bestimmte Grenzwerte, ist das mit strengeren Corona-Schutzmaßnahmen verknüpft, wie genau das geregelt ist, kann in jedem Bundesland unterschiedlich sein. Den Grund hatte Bundeskanzlerin Angela Merkel am 6. Mai 2020 in einer Pressekonferenz erklärt: Man arbeite mit dem Schwellenwert von 50 neuen Fällen pro 100.000 Einwohnern, weil man glaube, bei dieser Menge die Infektionsketten noch nachverfolgen zu können.
+Darauf folgt ein Auszug von Frau Merkels typischem Geschwurbel mit einer Grammatik, an der man verzweifeln kann:
+(Bild 5:) „Wir glauben, dass man das bei bis zu 50 akut Infizierten pro Tag – wenn man es über sieben Tage mittelt – und 100.000 Einwohner erreichen und leisten kann, und auf dieser Grundlage gab es da heute keine große Diskussion … “
+Sofern sich dieser Satz an der ursprünglichen, deutschen Sprache orientiert, sprach Frau Merkel davon, dass fünf mal fünf (da für 100.000 Einwohner), also 20 in den Behörden Kontakte verfolgende Personen, pro Tag 40 neu Positive „nachverfolgen“ können sollten. Und das zu einer Zeit, als man noch nicht eingearbeitetes Personal und außer einem Telefon dafür keine weitere Digitalisierung zur Verfügung hatte.
+Entweder hat Frau Merkel ihren Satz (und vielleicht auch das Problem) selbst nicht ganz verstanden, oder die „Coronawächter“ kamen mit ihrer Grammatik nicht zurecht. Zumindest wurde ihre Aussage nie so umgesetzt, weswegen ihre deutschen Untertanen sich seitdem vielleicht alleine wegen nicht verstandener „Schwurbelgrammatik“ versehentlich mit 7-fach falschen Grenzwerten „traktiert“ sehen.
+Corona offenbart das Niveau nach 16 Jahren Merkel
+Doch bei „Corona“ sind viele unserer Politiker nur noch irrlichternd. Auf keine ihrer Aussagen kann man sich verlassen, denn sie stochern selbst nach so langer Zeit immer noch im Coronanebel:
+Wolfgang Kubicki kritisiert Angela Merkels Corona-Politik | The European
+Entweder ist die Kanzlerin verwirrt oder sie will die Bevölkerung auf den Arm nehmen
+Wolfgang Kubicki 29.03.2021
+In ihrer Regierungserklärung im Deutschen Bundestag am 25.März 2021 hat Angela Merkel ausgeführt:
+„Ich will an dieser Stelle einmal sagen: Wir sind ein föderaler Staat. Es ist keinem Oberbürgermeister und keinem Landrat verwehrt, das zu tun, was in Tübingen und Rostock getan wird. Alle können das machen, und der Bund wird immer unterstützend tätig sein.“
+Bei Anne Will am Sonntag, sagte sie das genaue Gegenteil. Die Infektionszahlen gäben eine Lockerung derzeit nicht her. „Das ist nicht der Zeitpunkt, so etwas ins Auge zu fassen.“ Und weiter: „Ich weiß wirklich nicht, ob Testen und Bummeln, wie es in Berlin heißt, die richtige Antwort auf das ist, was sich gerade abspielt.“
+Unser Gesundheitsminister entpuppt sich ebenfalls zunehmend als „Frühstücksonkel“ mit leeren Phrasen. Seit Twittern groß in Mode gekommen ist, bekommt man es erst richtig mit.
+Unsere Staatsministerin für Digitalisierung hätte sich mit „Corona“ bewähren können. Schließlich sind die Inzidenzgrenzwerte direkte Maßzahlen für „Arbeitsgeschwindigkeiten“, vom Thema Schulen und Digitalisierung ganz abgesehen. Schaut man in einen Artikel zu ihrer Ernennung, muss man sagen dass der damalige Verfasser eine Art Vorsehung hatte:
+[Link] Handelsblatt, 12.03.2018: Digitalministerin Dorothee Bär ist eine Luftnummer
+Die designierte Digitalministerin ist mit wenig Kompetenzen ausgestattet. Sie ist vor allem eine Meisterin der Selbstdarstellung.
+… Die gute Nachricht: Viel Schaden wird die designierte Staatsministerin für Digitalisierung in der neuen Großen Koalition unter Kanzlerin Angela Merkel nicht anrichten können. Sie ist als Quotenfrau der CSU in der neuen Bundesregierung eine politische Luftnummer. Bär ist nicht mit den entsprechenden Zuständigkeiten ausgestattet, um viel zum digitalen Aufbruch beitragen zu können. Manche in der deutschen Medienbranche meinen angesichts ihrer Kompetenzen: das ist auch gut so.
+Dennoch sollte die CSU-Politikerin nicht unterschätzt werden. Mit ihrem konservativ-katholisch-digitalen Profil und ihrer rustikalen Sprücheklopferei kann sie es in der an starken Frauen so armen CSU noch weit bringen. Die riesige Kluft zwischen Wort und Tat stellt im populistischen Zeitalter ohnehin kein Problem mehr dar.
+Bild 8
+Während sich die Staatsministerin für Digitalisierung um das Wohlergehen ihres Mentors „kümmert“, interessieren sich andere für das Funktionieren im öffentlichen System. Und da sieht es recht düster aus.
+[Link] nordbayern, 23.04.2021: Meldeverzug: Wie sehr verzerrt er den Inzidenzwert?
+Stadt Nürnberg meldet seit Ende Oktober keinen Erkrankungsbeginn
+Anbei das Bild auf dem RKI-Corona-Dashboard für Fürth. Deutlich sind die gelben und blauen Balken zu sehen.
+In der gleichen Darstellung von Nürnberg fehlen seit Oktober die blauen Balken.
+Was ist da passiert?
+Nordbayern: … Auf Nachfrage verweist das LGL auf die Nürnberger Behörde: „Im vorliegenden Fall ist es den uns vorliegenden Informationen nach so, dass die entsprechenden Daten seitens des Gesundheitsamtes nicht übermittelt wurden“, heißt es in einer E-Mail-Antwort des Landesamts. Nürnbergs Gesundheitsreferentin … begründet die fehlenden Krankheitsdaten mit einem zu hohen Aufwand: „Wir übermitteln an das LGL nur nach Meldedatum, weil der Aufwand bei jedem Datensatz in der Datenbank nachzusehen und den Krankheitsbeginn zu ermitteln sehr hoch ist. Für die Berechnung der Sieben-Tage-Inzidenz ist das Meldedatum maßgeblich.“
+Wir haben laut Frau Merkel derzeit eine „Jahrhundertpandemie“, in welcher bedenkenlos Wirtschaft und öffentliches Leben kaputt gemacht werden. Für solche Entscheidungen sind Daten über das Geschehen wichtig. Trotzdem entscheidet ein Gesundheitsamt eigenmächtig, ob welche „erforderlich“ sind, oder nicht.
+Sind sie nicht erforderlich, sollten doch alle Gesundheitsämter darauf verzichten und den „sehr hoch“ angegebenen Aufwand für sinnvollere Tätigkeiten verwenden. Alternativ stellt sich die Frage, warum es für so etwas Aufwendiges wie „jeden Datensatz in der Datenbank nachzusehen“ nach über einem Jahr Pandemie noch keine digitale Lösung gibt.
+Dazu die Darstellung, warum es allgemein so „hapert“:
+Nordbayern: … Personalmangel, alte Software, Faxprobleme
+Doch wie kann es sein, dass die Behörden bei einem Wert, an den derart wichtige politische Entscheidungen geknüpft sind, und der nun sogar ins neue Infektionsschutzgesetz aufgenommen wurde, oft nachhinken? … der beruflich häufig mit amtlichen Daten aus verschiedenen Bereichen zu tun hat, sagt … : “Meiner Erfahrung nach liegt so etwas fast immer an Personalmangel, veralterter und nicht standardisierter Software oder Faxproblemen.“
+Da wundert es auch niemanden, dass man beim Betreten von Geschäften immer noch händisch seine Daten und Uhrzeit auf einen Zettel schreiben muss. Schnell und vorbildlich gelöst wurde zwischenzeitlich nur die Bestrafung bei Falschangaben.
+Merkel hat es in den 16 Jahren geschafft, das Niveau der sie „Umgebenden“ so durchgängig auf das der GRÜNEN niederzuringen, dass der mit der nächsten Wahl wohl kommende Übergang ziemlich nahtlos erfolgen kann. Inzwischen gilt das auch für die CSU.
+Aktualisierung aus aktuellem Anlass (28. April 2021):
+Die gleitende Inzidenzformel der Kanzlerin
+Welchen Wahnsinn man mit der Inzidenz treiben kann – dem unsere ebenfalls wahnsinnig gewordenen Ministerpräsident*innen auch noch zustimmen -, hat unsere Kanzlerin gerade wieder bewiesen.
+Regierungshomepage Die Bundeskanzlerin (Datum fehlt): Mitschrift Pressekonferenz Gemeinsame Pressekonferenz von Bundeskanzlerin Merkel, dem Regierenden Bürgermeister Müller und Ministerpräsident Söder im Anschluss an die Besprechung der Bundeskanzlerin mit den Regierungschefinnen und Regierungschefs der Länder zum Thema „Impfen“
+… Das heißt, wenn wir 50 Prozent doppelt Geimpfte haben, von denen kein Infektionsrisiko mehr ausgeht, die restlichen 50 Prozent der Bevölkerung aber noch nicht geimpft sind, dann bedeutet im Grunde eine Inzidenz von 100 in der Gesamtbevölkerung, dass für die nicht Geimpften – nur diese sind dann ja von der Erkrankungswahrscheinlichkeit betroffen – im Grunde eine Inzidenz von 200 besteht. Das heißt, wir haben dann immer noch ein erhebliches Risiko für unser Gesundheitssystem und müssen auf der einen Seite eben schauen, welche Rechte Geimpfte bekommen, müssen auf der anderen Seite aber auch im Blick haben, dass noch nicht jedem ein Impfangebot gemacht werden konnte. Wir müssen dann also schauen: Was bedeutet das mit Blick auf die Infektionsgefahr für den noch nicht geimpften Teil der Bevölkerung? Das wird sich über den Sommer, wenn jeder sein Impfangebot hatte, natürlich in eine Mehrheitssituation umwandeln, und irgendwann kommen wir an den Punkt, dass nur noch diejenigen betroffen sind, die sich nicht impfen lassen wollen.
+Was hat Frau Merkel mit ihrem Geschwurbel nun gesagt?
+Die Grundgesamtheit besteht nicht wie bisher aus allen Personen. Man muss davon die Geimpften abziehen und bekommt so die neue „Corona-Grundgesamtheit“. Neu wird die Inzidenz nun nur noch auf die „Corona-Grundgesamtheit“ hochgerechnet.
+Die Folge hat Frau Merkel selbst mit einem Beispiel erklärt:
+Bisher
+Kommune 1.000.000 Einwohner, davon 1.000 Meldefälle
+Ergibt eine Inzidenz von (1.000 / 1.000.000) x 100.000 = 100
+Neu
+Nun errechnet sich die Inzidenz nach einer neuen Formel:
+Inzidenz gleitend = (Anzahl Meldefälle / (Einwohner – Geimpfte)) x 100.000
+In der Kommune sind jetzt 50 % geimpft.
+Von diesen soll also kein Infektionsrisiko mehr ausgehen. Wobei man sich dann fragt, warum sie weiter alle bestehenden Regeln zum Infektionsschutz einhalten müssen. Doch wohl viele Bürger haben es sowieso längst aufgegeben, hinter den Maßnahmen einen Sinn zu erkennen.
+Der Meldewert betrage weiterhin 1000 Positive.
+Jetzt gibt es zwei Inzidenzwerte:
+– den bisherigen: (.1000 / 1.000.000) x 100.000 = 100
+– den merkelschen, gleitenden Inzidenzwert: (1.000 / (1.000.000 – 500.000)) x 100.000 = 200
+Das kann man nun weiter treiben:
+Bei der „Merkelformel“ fällt auf:
+– Der ursprüngliche (einzige) Sinn des Inzidenzwertes – die Belastung der Gesundheitsbehörde bei der Nachverfolgung darzustellen – ist vollkommen verloren gegangen
+– der Inzidenzwert verliert auch seinen (angeblichen) zweiten Sinn: Die Belastung des Gesundheitswesens darzustellen.
+Anmerkung: Dies hat er noch nie dargestellt, aber Herr Lauterbach als „Fachperson“ behauptet es
+– die Gruppe der nicht geimpften kann sich vor Coronamaßnahmen nicht mehr „retten“
+– die Coronamaßnahmen werden endlos weitergeführt, da selbst die kleinste Gruppe als Gefahr hochgerechnet wird und es unwahrscheinlich ist, Corona vollständig ausrotten zu können.
+– die nicht-Geimpften werden nun offiziell so lange diskriminiert, bis sie „verschwunden“ sind.
+Was sagen eigentlich die Ethikkommissionen dazu? Wahrscheinlich werden es wieder Richter der unteren Ebenen Bewerten müssen und ja nach Mut entscheiden, mit der Gefahr, dann Hausdurchsuchungen zu bekommen.
+Prof. Braun meint die Anzahl der Teste hat absolut keinen Einfluss auf die Inzidenzwerte und Herr Huber hat die einzige Fallkonstellation genannt, die zeigt, dass die Anzahl der Tests den Inzidenzwert verändert.
+Es gibt stattdessen 5 Infizierte (nicht alle sind infiziert) und man macht 2 Tests. Wenn man Glück hat kann man damit maximal 2 positiv finden. Wenn man 700 Tests macht, dann hat man alle 5 gefunden. Die Anzahl der Tests spielt also für Sie absolut keine Rolle und Herr Huber hat die einzige Fallkonstellation präsentiert? Hinzu kommt, dass immer mehr falsch positive Ergebnisse entstehen, wenn man viel testet. Man zählt dann auch gesunde Menschen zu den Infizierten wenn zu viel getestet wird.
+Das sind die Professoren, die unsere Grundrechte außer Kraft setzen, um uns angeblich zu schützen und mit diesen Inzidenzwerten wird in den Medien gelogen.
+https://youtu.be/so2vhri5uvg
+Hier können Sie sich dazu belesen.
+„Positive PCR-Tests sind KEINE Neuinfektionen.
+Die in den Nachrichten und Medien immer wieder angegebene Zahl sog. „Neuinfektionen“ oder „Corona-Fälle“ gibt somit NUR an, wie viele Menschen einen positiven PCR-Test haben. Aus einem positiven PCR-Testergebnis aber lässt sich nicht ableiten, ob diese Menschen tatsächlich krank sind und auch nicht, ob sie das Virus weitergeben können, also ansteckend sind.
+Wenn daher immer wieder mitgeteilt wird, es habe am Vortag soundsoviele neue Corona-Fälle oder Neuinfektionen gegeben, so ist das falsch! Es müsste heissen: Gestern wurden soundsoviele Menschen positiv getestet.
+Auch die sog. „Aktiven Fälle“ sind nicht zwangsläufig Menschen, die mit Symptomen im Bett liegen. Die aktiven Fälle werden mehr schlecht als recht errechnet – und zwar indem man einfach von der Zahl der positiv Getesteten die Zahl der Todesfälle und die Zahl der Genesenen abzieht. Da die Zahl der Genesenen aber geschätzt wird (vom Robert-Koch-Institut), handelt es sich bei der Zahl der aktiven Fälle keinesfalls um eine exakte Zahl.“
+https://www.zentrum-der-gesundheit.de/news/gesundheit/covid-19/pcr-test-unzuverlaessig
+oder von der AFD die Pressemitteilung:
+PCR-Test ist nicht zur Diagnose geeignet.
+https://andywinhart.de/presse/2021/01/pcr-test-nicht-zur-diagnose-geeignet-who-entzieht-corona-massnahmen-der-regierenden-die-grundlage/
+Was bitte schön testen wir überhaupt? Haben Sie sich schonmal darüber Gedanken gemacht? Einen Virus ganz sicher nicht ! Wir testen nur Genreihen und das ist weder eine Erkrankung noch ein Virus. Damit haben die Inzidenzzahlen überhaupt keine Bedeutung, weil es keine Infizierte sind.
+Sie können Virusinfektionen nur über Genschnipsel oder über Antikörperantworten nachweisen. Beides ist indirekt.das liegt in der Natur der Biologie.
+Dass Diagnose und Klinik auseinandergehen, ist bei jeder Erkrankung der Fall. Ein schlechter Blutwert in einem Blutbild in einem Patienten ohne Symptome zeigt auch keine Krankheit an, aber er dient als Indikator dafür, dass etwas nicht stimmt. Aber Sie werden heilfroh sein, wenn ein Arzt einem schlehten Blutwert nachgeht und nicht pauschal sagt, dass Ihnen ja gar nichts fehlt.
+Natürlich sind PCR-Tests kein Allheilmittel für die Diagnose und Pandemiebekämpfung. Aber ohne dieses Mittel wären wir weit schlechter dran.
+Davon zu trennen ist der richtige Punkt, den Sie anführen, dass man die Art des Tests hinterfragen und einordnen muss und v.a. der Punkt, dass man unterschiedliche Positionen und v.a. Kritik zulassen muss. denn das recht auf freie Meinungsäußerung und der freie Diskurs stehen bei uns leider zur Debatte, was eine gewaltige Sauerei ist.
+Wenn es sich jedoch nicht um das Genom eines Virus handelt, dann kann man damit auch kein Virus identifizieren. Das ist hierbei der Fall. Deswegen kann man hier auch pauschal sagen, dass der PCR Test gar nichts bringt. Der ist ja schon mit Coca Cola positiv.
+Mit den Schnelltests ist es nicht anders. Die zielen zwar auf Antikörper, aber was ist, wenn man ohne es zu merken Corona symptomfrei „durchgemacht“ hat und deswegen Antkörper hat??? Einem Arbeitkollegen meines Sohnes ist das passiert, wollte unbedingt zur Impfung, Schnelltest positiv, halbe Firma nach Hause. Der folgende PCR war seltsamerweise negativ. Wat nu? Tagelange Panik in der Firma um nix! Und das passiert in D schon über ein ganzes Jahr.
+Ich leugne nicht, dass es Coronaviren gibt und man davon schlimm erkranken kann, bei Influenza aber auch (siehe die 25000 Toten der Grippezeit vor zwei Jahren).
+Was soll der Zirkus also? Um unsere Gesundheit geht es wohl nicht …..
+„Ich leugne nicht, dass es Coronaviren gibt und man davon schlimm erkranken kann, bei Influenza aber auch (siehe die 25000 Toten der Grippezeit vor zwei Jahren).“
+Gut dass Sie das erwähnt haben sonst hätten Sie Ihre Legitimation ausspielen bzw. sich outen können. -Ironie off-
+Sie dürfen aber leugnen, dass es keine Coronaviren gibt genauso wie die anderen Viruserkrankungen. Sie haben die Erlaubnis dafür. Vogelgrippe ist wieder verschwunden, Schweinegrippe ist weg und nun gibt es komischerweise auch kein Influenza mehr. Influenza ist auch weg und ganz ohne Impfung. Die 25 000 Toten wegen Influenza stimmen übrigens auch nicht. Man subtrahiert einfach die Todeszahlen in Winter von den Todeszahlen in Sommer und nennt die Differenz – Influenzatoten.
+Es gibt keine symptomfreie Erkrankung. Wenn man keine Symptome hat, dann ist man auch gesund. Sonst müsste man „krank sein“ neu definieren. Die Antikörpertests sind genauso unzuverlässig wie der PCR Test. Kein Mensch hat eine Viruserkrankung durchgemacht. Ihr seit wie immer einfach nur gesund.
+Die Behauptung diese bestimmten Sequenzen wären Bestandteil eines wie immer gearteten Virus ist vollkommen unwissenschaftlich: Sprich für diese Behauptung gibt es keinerlei Evidenz. Diese Behauptung ist in meinen Augen schlicht Humbug.
+Was der PCR-Test tatsächlich misst, weiß im Augenblick kein Mensch.
+Mit sehr hoher Wahrscheinlichkeit jedoch nicht das Vorhandensein eines ansteckenden Erregers.

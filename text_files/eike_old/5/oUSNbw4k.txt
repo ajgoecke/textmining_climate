@@ -1,0 +1,309 @@
+Ein seit ca. 1850 von Klimawissenschaftlern weltweit beobachteter Temperaturanstieg von ca. 1.2 K wird auf den Ausstoß von Treibhausgasen, allen voran auf CO2 zurückgeführt.
+Vom IPCC gesammelt veröffentliche Computer Szenarien basieren auf Modellen mit einem atmosphärischen Treibhauseffekt von 33 K. Diesen formulierte als einer der ersten in den 1980-ziger Jahren der NASA Wissenschaftler B. Barkstrom mit Kollegen auf Grundlage von selektiv ausgesuchten Satellitenmesswerten (ERBE Satellitenprogramm der NASA, Messung der ein/abgestrahlten Energie).
+In ihrer energetischen Bilanzbetrachtung der Erde wurde die solare Einstrahlung von 1368 W/m² der Sonne, wie so oft, auf die gesamte Erdhülle über den Faktor 1/4 (da die Sonne auf eine virtuelle Kreisfläche strahlt, und die Kugeloberfläche mit dem gleichen Radius 4 x größer ist) verteilt. Die Wissenschaftler Kiehl und Trenberth übernehmen das Modell und verfeinern es.
+Bei diesem Vorgehen kann aber nur etwa die Hälfte der vorhandenen Messwerte (BSP. ERBS Satellit des ERBE Programm) im Modell dargestellt werden. Aber selbst die wenigen im Modell verwendeten Werte, weichen zusätzlich noch von den Satellitenwerten in erheblichen Umfang ab, beispielsweise Modellwert und Messwert der Albedo, obwohl sich ihre Modelle auf Satellitenmesswerte, insbesondere das ERBE NASA Programm berufen.
+Bereits kleine Abweichungen haben aber große Auswirkungen. Die Folge des Ansatzes von nur eines Teils, weil lediglich der Hälfte der Messwerte, verursacht daher in derartigen Bilanzmodellen ein erhebliches Energiedefizit. Die fehlende Energie führt zu einer sehr geringen Abstrahleistung der Erde von nur 235 W/m². Diese entspricht über das Stefan Boltzmann Gesetz einer Temperatur von -18 Grad Celsius in der oberen Atmosphäre. Gibt es keine Strahlungsbehinderung in der Atmosphärenhülle, so müssste die Erdoberfläche auch auf -18 Grad Celsius abkühlen und die Erde ein Eisball sein. Wir „messen“ aber global ca. +15 Grad Celsius.
+Um diesen offensichtlichen Widerspruch logisch aufzulösen, postulierte oder rief Barkstorm einen sogenannten atmosphärischen Treibhauseffekt von 33 Grad Celsius aus. Dieser soll von unsymmetrischen Gas-Molekülen durch eine Gegenstrahlung von 324 W/m² verursacht werden. Tatsächlich werden in geringem Maße unsymmetrische atmosphärische Molekühle von Strahlung angeregt. Durch Stöße oder auch Abstrahlung geben sie diese Energie wieder ab.
+Man kann zeigen, um +15 Grad Celius im Modell als Oberflächentemperatur zu erreichen, verändern Kiehl und Trenberth jedoch hierzu die physikalisch/chemischen Eigenschaften von CO2. Sie machen aus einem Gas, ein diskontinuierlicher Abstrahler, einen Kontinuums- oder Festkörperstrahler mit einer Abstrahlleistung von bis zu 32 W/m². Dies ist nach Meinung des Autors nicht richtig, da hierbei nicht strahlende Bereiche für den gesamten Temperaturbereich von -18 bis +15 Celsius im Abstrahlspektrum mit eingerechnet wurden.
+Außerdem bezieht die 1/4 Verteilung der solaren Einstrahlung auf die gesamte Atmosphärenhülle stets die kalte Nachtseite mit ein und entspricht einem solaren Modell mit 2 Sonnen, halber Abstrahleistung und die Erde in Ihrer Mitte. Zusätzlich widerspricht dies der korrekten Anwendung des Stefan-Boltzmann Gesetzes.
+Ein Modell mit dem Verteilungsfaktor 1/2, auf Basis der Energiebeträge der gesamten Messreihe des Satelliten ERBS im 5-jährigen Durchschnitt, liefert hingegen eine deutlich höhere Abstrahlleistung der Erde von durchschnittlich 500 W/m². Es gibt bei diesem Verteilungsansatz daher keine Strahlungsbehinderung der Atmosphäre, wie von Barkstorm seinerzeit postuliert. Damit entfällt die Notwendigkeit eines Treibhauseffektes von 33K und die Kopplung der Temperatur an den CO2 Gehalt.
+CO2 strahlt, aber vernachlässigbar wenig. Da IPCC Szenarien den barkstormschen Treibhauseffektes nachmodellieren, errechnen diese am Computer zwangsläuffig Horrorszenarien mit weitreichenden, politischen Auswirkungen. Ein Modell mit dem Verteilungsfaktor 1/2 führt die globale Erwärmung von ca. 1.2 Grad Celsius auf eine langfristige Bewölkungsänderung von ca. 3.6 % zurück. Dies zeigen die Messwerte der Satelliten TERRA und AQUA und finden in den langen Zeitreihen der Albedo für Europa (Quelle Deutscher Wetterdienst) auch für Europa ihre Bestätigung.
+Setzte man dann in das Modell von Kiehl und Trenberth, 1997, mit 1/4 Verteilung und unter Ansatz der Gegenstrahlung von 324 W/m², statt der Modellalbedo von 0.31, den Albedo Satellitenmesswert von ERBS mit 0.27 ein, so errechnete sich, statt 14.8 Grad Celsius, eine mittlere Globaltemperatur von 17,6 Grad Celsius. Dies aber wäre falsch und führt bereits den Pariser Klimaakkord ad absurdum, obwohl dort keine eine Bezugstemperatur für die Begrenzung der Erderwärmung genannt ist.
+Die obige Darstellung wird mit umfangreichen mathematisch physikalischen Nachweisen im angehängten Artikels Verlinkung zur PDF Datei ausführlich begründet
+Langversion des Artikels Kritisches Hinterfragen des IPCC Basis Modell KT97 von A.Agerius 2020.
+Folgt man dieser, dann besteht für Klima Alarmismus nach Meinung des Autors kein Anlass.
+Nach dem Kirchhoff´ schen Gesetz wäre die Gegenstrahlung in KT97 auf maximal 125 W/m² begrenzt und damit CO2 für die Reemission maximal auf 32W/m² limitiert. Von der Sonne kommen in KT97 66W/m² in FIG. 7. erwärmend. Somit stünden für die Erde lediglich 191 W/m² (66 W/m² + 125 W/m²) als temperaturwirksame Strahlung zur Verfügung. Dies entspricht -32.2 0 C = √√ (191 W/m² / 5,67040 /1E-8 W/m²) K – 273.15 K. Unsere Erde hat, ob mit wie auch immer gemittelter Temperatur aus Messstationen oder aus dem Temperaturgradient oder int. Höhenformel ca. 15 0C. Damit sind die 125 W/m² falsch und hieraus sind auch 32 W/m² für CO2 falsch. Wie in hier im Blog #1 u. 2 in Verbindung mit der Langversion des Artikels und seiner Quellen, gibt es keinen Treibhauseffekt von 33K. Für CO2 bleibt nur noch eine sehr geringe Strahlungsgröße auch bei CO2- Verdopplung übrig.
+Der Hubertus Beckert heisst Hans
+Sie treffen es genau auf den Punkt. Kiehl und Trenberth integrieren über den gesamten Wellenlängenbereich „Integrating over all wavelengths“ [KT97, S.201 rechte Spalte, 2 Absatz, 1.Satz] aller IR-aktiven Gase. Da die beiden über Bereiche integrieren, die nicht strahlen, siehe mein Artikel Skizze zu FIG. 2 und Skizze, machen sie so aus Gasen – über alle Wellenlängen betrachtet – Festkörper, graue Körper mit Kirchhoff´schen Eigenschaften. Mag auch hierin ein kleines Stück Wassertröpfen enthalten sein und in einem gewissen Bereich bei CO2 die Absoptionslinien sehr eng stehen, aus Gasen Festkörper zu machen, widerspricht der Physik. Die nicht strahlenden Bereich mitzunehmen triggert CO2 in der Folge dann so hoch.
+Das ist die eine Seite.
+Die andere ist, daß Gasen neben der Entspannung des Anregungszustandes über Abstrahlung auch noch die Entspannung per Stoß zur Verfügung steht.
+Und da sind wir wieder bei der (wie ich meine falschen) Rechnung von Herrn Holtz.
+Im Zweifel hilft da nun ein Besuch bei der Realität – in diesem Fall die Beachtung und richtige Bewertung des Versuches von Herrn Ordowski.
+Das Ergebnis zeigt: Gase MÜSSEN NICHT per Abstrahlung entspannen, es geht auch (abhängig vom Druck!) per Stoß.
+Das will aber hier niemand wissen…
+Auf dieser Grundlage zu diskutieren wäre Zielführend.
+Ziel ist es doch von der unsäglichen CO2 Hypothese weg zu kommen.
+Deshalb sollte von allen diese Langversion über alle nur irgentwie erreichbaren Medien verbreitet werden. Auch einfachere Erklärunen die auf diesem Model basieren wären sinnvoll.
+Ziel sollte sein, dass dies jedem Politiker,jedem Lehrer, jedem Elternteil, jedem Schüler …. nahegebracht wird.
+Dazu müsste die Natur mit ihren Gesetzen eine andere sein…
+Naturwissenschaftlich ist per Physik der Zusammenhang gesettled – wie das immer so reizvoll ausgedrückt wird. Dass sich einige Laien aus ideologischen Gründen widernatürliche Zusammenhänge einbilden und glauben, Wünsche würden real werden, wenn man nur fest genug deran glaubt, ist eine Randerscheinung.
+Ich würde vorsichtiger formulieren: „Per Physik besteht zwischen CO2-Konzentration in der Atmosphäre und Oberflächen-Temperatur ein Zusammenhang. Größe und Details sind aber noch nicht bekannt.
+Genau, so ist es! Denn basically ist die Basis die Grundlage des Fundaments…
+Wer solchen Stuss von sich gibt, kann von Naturwissenschaft keine Ahnung haben.
+Advocatus diaboli: Was bedeutet es, CO2 würde tatsächlich mit 32W/m² (clear sky mit überlappenden Effekten) strahlen? Nach J.T. Kiehl und K.E Trenberth 1997, Earth´s Annual Global Mean Energy Budget, für CO2 aus TABLE 3 errechnet bei clear sky: CO2 zu 26% = (29 + 3 = 32)/125 x 100 und cloudy sky: CO2 zu 28% = (22 + 2 = 24)/86 x 100. CO2 hätte danach eine Absorption im clear sky 32 W/m² = 0.26 x 125 W/m² und im cloudy sky: 24 W/m² = 0.28 x 86 W/m². Was bedeutet dies für die Gegenstrahlung oder Reemission von CO2? Im clear sky: 84 W/m² = 0.26 x 324 W/m² und im cloudy sky 91 W/m² = 0.28 x 324 W/m² Die Reemission ist im clear sky 2.63- fach = 84/32 und im cloudy sky 3.79- fach = 91/24, so hoch wie die Absorption. Ich gehe davon aus, dass das Kirchhoff´ sche Gesetz niemand in Frage stellt. Danach kann nicht mehr Strahlung reemitiert werden als absorbiert werden kann. Damit ist Gegenstrahlung von 324 W/m² ausgeschlossen. Die gesamte Modellierung von KT97 mit CO2 ist falsch, siehe auch Aufsatz von Dr. Rainer Link (2011), „Warum die Klimamodelle des IPCC fundamental falsch sind“. Dieser Aufsatz im Netz als pdf abrufbar. KT97 ist die Basis der IPCC-Klimamodelle geworden.
+zum Blogbeitrag vom 11.02.20. Die Modellierung von Herrn Holtz, bei der bestimmte Randbedingungen festgelegt werden, folgt teils auch Annahmen [“Geht man von einer mittleren freien Weglänge … aus“], liefert für CO2 eine mittlere Lebensdauer tau(rad) des angeregten Zustandes von 3.5*10^-11 s. Die Lebensdauer des angeregten Zustandes wird so gegen Null modelliert. Als Ergebnis strahlt das CO2 des Herrn Holtz wie in KT97 mit rund 32 W/m². Die absorbierte Strahlung wird nun zu 100% reemittiert. Kiehl und Trenberth machen dies mit allen unsymmetrischen Atmosphärengasen und führen wie Herr Holtz indirekt einen zwingenden Strahlungserhaltungssatz in die Physik ein. Dr. Heinz Hug, 2012, Der anthropogene Treibhauseffekt – eine spektroskopische Geringfügigkeit, Veröffentlichung vom 10. August 2012, S.15, zum Kirchhoff´schen Gesetz: „Danach ist das Emissionsvermögen eines Körpers genau so groß wie sein Absoptionsvermögen. […] Es existiert kein Strahlungsenergieerhaltungssatz“.
+Wobei aus meiner Sicht noch die Frage zu stellen wäre, ob Gase „Körper“ im Kirchhoff’schem bzw. Planck’schem Sinne sind…
+Meinen Sie…
+Ist aber nicht so!
+Dann meine ich daß ein Anregungszustand abhängig vom Aggregatzustand auf unterschiedliche Weise abgeregt werden kann.
+Und zuletzt glaube ich, daß an diesen Aussagen nichts revolutionäres ist.
+Die Strahlstärke wird in W/m2 angegeben.
+Die Gasstrahlung kommt aus einem Volumen und ändert sich mit der Höhe/Tiefe der Gasschicht.
+Herr Petersens Wissen ist sichtbar rudimentär.
+Das Lügen und Abkassieren geht munter weiter.
+Wie verhält es sich mit der unheimlich hohen ‚Eigenenergie‘ der Erde, die in Tiefen liegt aber auch der Oberfläche nahe kommt? Spielt die überhaupt keine Rolle?
+Diese Eigenenergie,wie Sie es nennen hat in der Sprache der Physik den Begriff Innere Energie.
+Davon wollen aber viele Menschen nichts von wissen.Die geothermische Tiefenstufe beginnt in unseren Breiten bei ca. 100 Meter unter der Erdoberfläche.Ab dieser Teufe nimmt die Temperatur kontinuierlich nur noch zu.Oberhalb gibt es Wärmeströme in beide Richtungen(vertikal)Ähnlich ist es bei den Ozeanen(71% der Erdoberfläche) und hier kommen noch nennenswerte Wärmeströme in horizontaler Richtung zum Tragen.
+Es soll aber strahlen,weil es so wissenschaftlich klingt.Deshalb wird diese Innere Energie ignoriert.
+Eine entscheidende Rolle spielt diese Innere Energie.Nur zur Beschreibung der Wärmetransportvorgänge braucht man physikalische Größen mit der Einheit Watt/Kelvin und da versagt bei den meisten die eigene Formelsammlung.
+doch sie spielt eine Rolle! Leider hört der Planet bei den Atmosphärenforschern und besonders bei den Klimafolgeforschern an der Oberflaeche auf, dort wo der Planet eigentlich erst richtig anfängt!
+Die Atmosphäre der Erde kennzeichnet ein äußerst komplexes nichtlineares Verhalten, das sich in seiner Gesamtheit jeder mathematischen Modellierung entzieht. Veränderungen verlaufen daher für den Beobachter sogar scheinbar chaotisch. Trotzdem sollen Rechenmodelle die aktuelle politische Frage nach einem vorgeblich gefährlichen Einfluss des Kohlendioxids auf ein zukünftiges Klima quantitativ beantworten.
+In der Realität erreicht das Signal der Sonne – ihre elektromagnetische Strahlung – nach einer Laufzeit von 8 Minuten die Erde und wird von ihrer Materie zum Teil reflektiert, zum Teil absorbiert. Als Folge der Durchflusszeit absorbierter Solarenergie erhöht sich z. B. an 71% der Erdoberfläche die Wassertemperatur der Ozeane um mehr als 250 °C, lokale Wassertemperaturen bewegen sich gegenwärtig zwischen -2°C und (nach oben offen) +30°C.
+Mit seiner energetischen Rückkopplung des Signals der Sonne erhöht der atmosphärische Treibhauseffekt die Durchflusszeit der Solarenergie und trägt mit deutlich mehr als 33°C zur Größe des vorgenannten „Temperatur Signals“ bei. (Im theoretischen Grenzfall würde sich die Emissionstemperatur der Sonne einstellen, wenn die Verzögerung des Durchflusses der Solarenergie gegen unendlich ginge.)
+Ignoriert wird der atmosphärische Wasserkreislauf. Die sog. „Hydrometeore“ – nur teilweise sichtbar als Wolken, Nebel oder Dunst – schließen ein im Modell gewöhnlich impliziert postuliertes offenes atmosphärisches Fenster für Wärmestrahlung in den Weltraum nahezu vollständig. Als Folge wird jede mengenabhängige Veränderung des ohnehin sehr kleinen CO2 Beitrages zur energetischen Rückkopplung des Treibhauseffektes von den Hydrometeoren gegenläufig kompensiert. Das Kohlendioxid ist daher wetter- und klimaneutral.
+nur eine kurze INFO:
+Aulus Agerius war im römischen Klageformular der Platzhalter für den Namen des Klägers, vergleichbar unserem heutigen „Max Mustermann“.
+Der Artikel widerspricht damit eigentlich den Regeln von EIKE.
+Ganz abgesehen davon halte ich es für absolut unglaubwürdig, wenn ein anonymer Schlaumeier daherkommt, der meint, es den Atmosphärenphysikern dieser Welt mal so richtig zu zeigen. Das ist alberne Bauernfängerei und das Lesen eines solchen Artikels ist Zeitverschwendung.
+Ich wünsche einen schönen Tag in einem Februar, der in Deutschland bisher fast 5°C über dem langjährigen Mittel liegt.
+Silke Kosch
+Ich wünsche einen schönen Tag in einem Februar, der in Deutschland bisher fast 5°C über dem langjährigen Mittel liegt.
+Na sowas!
+Da stimme ich Ihnen voll zu. Ich habe die angenehmen Temperaturen sehr genossen und dabei auch Heizkosten gespart. Da dies mit der momentanen Groß-Wetter-Lage zusammenhängt, bin ich mir bewusst, dass dies im nächsten Jahr auch wieder anders sein kann.
+Der größte Unsinn kann hier unter Pseudonym veröffentlicht werden, ohne die geringste redaktionelle Prüfung.
+Wie berechnet man die durchschnittliche Strahlungsleistung der Sonne pro Quadratmeter Erdoberfläche?
+Das ist einfache Geometrie.
+Eintreffende Strahlung = E0 x Pi x r^2
+Oberfläche der Erde = 4 x Pi x r^2
+Durchschnittliche Strahlung pro Quadratmeter Erdoberfläche = E0/4
+A. Agerius beherrscht nicht mal Mittelstufengeometrie.
+Ihr “ 4 x Pi x r^2 “ scheint dem alten Römer bekannt zu sein. Es wird sogar in diesem zusammenfassenden Artikel darauf hingewiesen….
+Sein Ansatz ist aber eben ein anderer, und genau das wird wird begründet. Sie hätten es halt lesen müssen, bevor gepoltert wird.
+Für mich ganz entscheidend Neues stand in Abschnitt 17, dass es nämlich erhebliche messtechnische Zweifel an der bisher kolportierten CO2-Klimasensitivität gibt, sie sei sehr sehr viel niedriger!! Lässt sich das bestätigen?
+Wenn das stimmt, müssten die Diffamierer und Scheuklappen-Alarmisten auf dem Tafelberg endgültig einpacken!
+Nur, ich stimme einigen hier zu, der größte Irrsinn aller Zeiten ist dank unserer „unglaublich fähigen“ Politiker und dank der Mithilfe unseren rotgrünen Verblödungsmedien so gut wie unumkehrbar.
+Immerhin, vielleicht sind wir gerade dabei, unseren Schildbürgern schon jetzt das Denkmal zu errichten, während sie gerade beginnen, das Licht hinauszutragen…
+In Abschnitt 17 des Langartikels wird folgende Arbeit zitiert:
+Infrared absorption of atmospheric carbon dioxide
+F. K. Reinhart, Swiss Federal Institute of Technology, Lausanne, zu finden unter:
+http://www.entrelemanetjura.ch/BLOG_WP_351/wp-content/uploads/2017/01/2017.01-20-FKR-sur-CO2.pdf
+Der kompetente Autor macht dort eine Abschätzung des Maximalwertes für die CO2-Klimasensitivität. Die Arbeit wirkt zumindest bei der ersten Durchsicht sorgfältig, klar und glaubwürdig und ist sogar für mich als Nicht-Spektroskopiker größtenteils nachvollziehbar und überzeugend. Die maximale Klimasensitivität von CO2 errechnet sich dann zu kleiner 0,24 Grad C, kann aber aufgrund der getroffenen Annahmen noch niedriger liegen.
+Ich wundere mich, dass diese Arbeit nicht mehr Beachtung findet – oder habe ich da etwas versäumt? Das PIK müsste kopfstehen. Oder ist die Peinlichkeit so groß, dass der Mantel des Schweigens drüber gebreitet wird?
+Allerdings sieht der Autor kein Grund zur Entwarnung. Bei ihm steigt, es sei ihm verziehen, das CO2 in der Atmosphäre ohne nähere Begründung immer weiter, vermutlich sogar mit zunehmenden Raten…
+In einem Punkt stimme ich ihm zu: Solange die jährlichen Zuwachsraten des CO2 in der Atmosphäre noch nicht das Maximum erreicht haben (siehe Mauna Loa-Seite), geschweige denn überschritten, bleibt hier eine gewisse Unsicherheit. Die sich allerdings mit einer Klimasensitivität von weniger als 0,24 Grad C sehr in Grenzen hält!
+Hinzu kommt, dass Gase nicht nur Bandenstrahler sind, sondern sich auch im Gemisch mit anderen Gasen ganz anders verhalten, als in Reinform.
+Atmospheric Radiation and the “Greenhouse” Effect
+https://scienceofdoom.com/roadmap/atmospheric-radiation-and-the-greenhouse-effect/
+die Emission nahe 2 sein sollte, was verdünntem CO2 entsprechen würde, aber tatsächlich in der Atmosphäre nach
+Der anthropogene Treibhauseffekt – eine spektroskopische Geringfügigkeit
+https://www.eike-klima-energie.eu/2012/08/20/der-anthropogene-treibhauseffekt-eine-spektroskopische-geringfuegigkeit/
+diese weit geringer ist,
+kann die ganze Argumentation bezüglich der Gegenstrahlung nur als Fake aufgefasst werden. Mit
+http://www.entrelemanetjura.ch/BLOG_WP_351/wp-content/uploads/2017/01/2017.01-20-FKR-sur-CO2.pdf
+oder auch
+Impact of Linewidth Narrowing on Climate Sensitivity
+van Wijngaarden, William; Happer, Will
+https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.2820V/abstract
+versucht man sich aus de Nummer herauszureden. Aber noch nicht mal das ist in den deutschen Medien angekommen.
+„After an absorption event, the CO2 molecule is in an excited state with an estimated lifetime, tau(rad) = (uj / Duj)^2 / n ≈ 6 μs for the 15 μm lines.“
+So ein Unsinn, noch nicht eimmal einer einfachen Plausibilitätüberprüfung hält dieses „Werk“ stand.
+Die Doppler-Verbreiterung einer Linie ist nur von der Temperatur abhängig und nicht vom Druck. Für eine Temperatur von 288K ergibt sich für CO2 der 15µm-Bande (20 THz) folgende Dopplerbreite:
+df = 2*f0*sqrt[2*ln(2)*kB*T/(m*c^2)] = 2*20*10^12*sqrt[2*ln(2)*1,38*10^-23*288/(44*1,66*10^-27*(3*10^8)^2)] = 36,62 MHz
+Daraus erhält man eine mittlere Lebensdauer tau(rad) des angeregten Zustandes für die Doppler-Verbreiterung von tau(rad) = 1/[2*pi*df] = 4,3*10^-9 s.
+Eine komplexer Betrachtung (Doppler/Druck) der Fremd-/Eigenverbreiterung und -Verschiebung unter oberflächen-nahen atmosphärischen Bedingungen ergibt einen Messwert der Peak-Halbwertsbreite von df = 4,58 GHz (Laut Theorie oder in der HITRAN Datenbank findet man einen Wert von df = 4,48 GHz). Das ergibt eine mittlere Lebensdauer tau(rad) des angeregten Zustandes von tau(rad) = 1/[2*pi*df] = 3,5*10^-11 s für die 15µm-Bande vom CO2.
+Die mittlere Stoßzeit der Luft-Teilchen unter den Bedingungen der oberflächen-nahen Atmosphäre beträgt t = 1,5*10^-10 s. Ein Stoß kann nicht nur die Schwingungsenergie, sondern auch zur Erhöhung/Abnahme der Translationsenergie und/oder der Rotationsenergie führen oder auch gar nichts bewirken. Da alle Energieformen die gleiche Verteilungs-Wahrscheinlichkeit besitzen, ist noch der Faktor von 2/7 für das CO2 erforderlich (3 Translations-, 2 Rotations- und 2 Schwingungs-Freiheitsgrade). Somit ergibt sich eine realistische Stoßzeit tau(stoß) für die Aktivierung bzw. Deaktivierung der Biege-Schwingung vom CO2 Molekül von tau(stoß) = 1,5*10^-10 s / (0,08*2/7) = 6,6*10^-9 s.
+Die gemessenen Spektren für synthetische Luft unter oberflächen-nahen atmosphärischen Bedingungen können Sie übrigens von der Ruprecht-Karls-Universität Heidelberg Fachbereich Physik oder Ruhr-Universität Bochum, Institut für Experimentalphysik V bekommen.
+Mfg
+Werner Holtz
+Ich werde Ihnen das mal in drei Teilen darstellen. In einem Post wird das zu lang, da meckert auch der EIKE Admin.
+## 1.Teil
+Die Geschwindigkeit mit der eine Anregung der Biege-Schwingung der 15µm-Bande vom CO2 Molekül unter oberflächen-nahen atmosphärischen Bedingungen möglich ist, bestimmt sich aus: h*f = 1/2*µ*v^2 -> v = sqrt(2*h*f/µ) = sqrt(2*6,6*10^-34*2*10^13/48*10^-27) = 743 m/s, wobei die mittlere Masse vom Gas-Gemisch Luft µ = (0,8*28 + 0,2*32)*1,66*10^-27 kg = 48*10^-27 kg ist. Mit dieser Geschwindigkeit von 743 m/s ergibt sich aus der Geschwindigkeits-Verteilung ein Prozentsatz an stoßfähigen Teilchen zur Schwingungs-Anregung/Abregung von 8%.
+Für die Biege-Schwingung der 15µm-Bande vom CO2 in Luft (oberflächen-nahe atmosphärische Bedingungen) ergibt sich für die mittlere Lebensdauer tau(rad) des angeregten Zustandes folgendes Bild:
++ natürliche Linienbreite: df = 300 Hz (Peak-Halbwertsbreite – Messwert) -> tau(rad) = 1/[2*pi*df] = 5,3*10^-4 s
++ Dopplerverbreiterung: df = 36,1 MHz (Peak-Halbwertsbreite – Messwert) -> tau(rad) = 1/[2*pi*df] = 4,4*10^-9 s
++ Druckverbreiterung: df = 6,08 GHz (Peak-Halbwertsbreite – Messwert) -> tau(rad) = 1/[2*pi*df] = 2,6*10^-11 s
+Eine komplexer Betrachtung (Doppler/Druck) der Fremd-/Eigenverbreiterung und -Verschiebung unter oberflächen-nahen atmosphärischen Bedingungen ergibt einen Messwert der Peak-Halbwertsbreite von df = 4,58 GHz (Laut Theorieoder in der HITRAN Datenbank findet man einen Wert von df = 4,48 GHz). Das ergibt eine mittlere Lebensdauer tau(rad) des angeregten Zustandes von tau(rad) = 1/[2*pi*df] = 3,5*10^-11 s.
+Hier mal ein ansprechendes Bild, wie diese Druckverbreiterung wirkt:
+http://www.astro.uu.se/~ulrike/Spektroskopie/PPT/Druckverbreiterung.GIF
+Die Druckverbeiterung (bzw. das Spektrum) wird von den „nicht-löschenden“ Stößen erzeugt, wobei die Vorbei-Flüge der Teilchen untereinander und die „nicht-löschenden“ Stöße das CO2 Molekül zwingen seinen Energiezustand der Teilchenumgebung schneller anzupassen, dadurch reduziert sich die mittlere Lebensdauer des angeregten Zustandes erheblich.
+Die Dämpfung einer elektromagnetischen Schwingung wird durch zwei Mechanismen hervorgerufen, einmal durch Abstrahlung elektromagnetischer Wellen und zum anderen, durch stoßbedingte Energieweitergabe an benachbarte Teilchen.
+Die effektive Dämpfung 1/{[300Hz]/[6GHz]} = 2*10^7 der CO2 Biege-Schwingung ist sehr groß (starke Dämpfung: Peak breit & flach; schwache Dämpfung: Peak schmal & hoch) und berut auf der Verteilung der Energie auf Schwingungs-Rotations-Übergänge (Grund-, Ober-, Unter- und Kombinationsübergänge mit deren Kombinations- und Differenzbanden), sodass der Großteil der Energie der angeregten CO2 Moleküle durch Stöße weitergegeben wird. Die Dämpfung charakterisiert den Vorgang der Dissipation der Energie. Dieser Umstand verleitet dazu, anzunehmen, daß das CO2 Molekül keine Strahlung emittieren kann – Dies ist ein Trugschluss.
+Die mittlere Stoßzeit der Luft-Teilchen unter den Bedingungen der oberflächen-nahen Atmosphäre beträgt t = 1,5*10^-10 s. Ein Stoß kann nicht nur die Schwingungsenergie, sondern auch zur Erhöhung/Abnahme der Translationsenergie und/oder der Rotationsenergie führen oder auch gar nichts bewirken. Da alle Energieformen die gleiche Verteilungs-Wahrscheinlichkeit besitzen, ist noch der Faktor von 2/7 für das CO2 erforderlich (3 Translations-, 2 Rotations- und 2 Schwingungs-Freiheitsgrade). Somit ergibt sich eine realistische Stoßzeit tau(stoß) für die Aktivierung bzw. Deaktivierung der Biege-Schwingung vom CO2 Molekül von tau(stoß) = 1,5*10^-10 s / (0,08*2/7) = 6,6*10^-9 s.
+Damit eine strahlungslose Relaxation durch inelastische Stöße auftreten kann, muß die Lebensdauer des angeregten Zustandes größer sein als die mittlere Stoßzeit der Teilchen. Die strahlungslose Relaxation ist um so effizienter, je größer das Verhältnis [tau(rad)/tau(stoß)] = [2,6*10^-11/6,6*10^-9] = 0,004 (Prozentsatz 0,4%) von strahlender zu stoßlimitierter Lebensdauer ist. Die strahlungslose Relaxation ist für die „übriggebliebenen angeregten Moleküle“ in diesem Fall vernachlässigbar gering. Auch die Stoßaktivierung kann vernachlässigt werden, solange h*f > k*T ist. Bei Raumtemperatur ist diese Bedingung im nahen (0,78-3µm) und mittleren (3-50µm) Infraroten für die Schwingungsanregung erfüllt.
+Mfg
+Werner Holtz
+## 2.Teil – Fortsetzung
+Die Teilchendichte der Luft beträgt unter oberflächen-nahen atmosphärischen Bedingungen n = 2,5*10^25 1/m^3. Wenn man davon ausgeht, dass die CO2 Moleküle auch emittieren können, dann ergibt sich eine Teilchendichte der strahlenden CO2 Moleküle aus dem Besetzungsverhältnis (erster angeregten Zustand zum Grundzustand) bei 15°C von 1/14 zu n(CO2,rad) = 2,5*10^25*0,0004*5*10^-8*1/14 = 3,6*10^13 1/m^3, wobei der Wert [300Hz]/[6GHz] = 5*10^-8 dem Dämpfungsverhältnis der CO2 Biege-Schwingung bezogen auf alle Wechselwirkungen entspricht.
+Daraus erhält man eine Energiedichte der strahlenden CO2 Moleküle von: E = n(CO2,rad)*h*f = 3,6*10^13*6,6*10^-34*20*10^12 = 4,7*10^-7 J/m^3
+Die Leistungsdichte der Strahlung erhält man aus der Energiedichte der strahlenden CO2 Moleküle und der Thermalisierungszeit t(th): j = E/t(th) = 4,7*10^-7 J/m^3 / [6,6*10^-9 s + 2,6*10^-11 s] = 71 W/m^3.
+Gase sind im allgemeinen Volumenstrahler, deshalb muss man bei Gasen immer die volumenbezogene Energie betrachten.
+Stellt man sich jetzt eine 1m dicke Luftschicht vor, die aus Würfeln der Kantenlänge von 1m besteht, dann verbleibt die seitliche Abstrahlung innerhalb der Schicht und nach oben und unten wird 1/6 der Oberfläche an Strahlung emittiert. Somit strahlt die 1m dicke Luftschicht mit einer Energiestromdichte von 71 W/m^3 * 1/6 m = 11,8 W/m^2 nach oben und unten.
+Geht man von einer mittleren freien Weglänge der Strahlung für die CO2 Biege-Schwingung bei 15µm von 2,7 m in der Atmosphäre aus (siehe: Derrek J. Wilson and Julio Gea-Banacloche, Simple model to estimate the contribution of atmospheric CO2 to the Earth’s greenhouse effect, 2012), dann erhält man eine Energiestromdichte von 11,8 W/m^2 * 2,7m/1m = 32 W/m^2. Ungefähr diesen Wert der Energiestromdichte von 32 W/m^2 müsste man bei einem Emissionssprektrum der Luft für die 15µm-Bande der CO2 Biege-Schwingung unter oberflächen-nahen atmosphärischen Bedingungen erhalten. Zum Vergleich, die Erd-Oberfläche emittiert in dem Wellenlängen-Bereich von 13,8 – 16,1µm der CO2 Biege-Schwingung etwa 42 W/m^2.
+Die Untersuchungen zum Übergang der Doppler- zur Druckverbreiterung vom CO2 für das Gasgemisch Luft zeigen, daß die Druckverbreiterung vom CO2 bei einem Luft-Druck von 2000 +/- 100 Pa einsetzt. Mit diesem Luft-Druck ergibt sich eine Atmosphärenhöhe von ca. 22 km (Stratosphäre) und eine Temperatur in dieser Höhe von ca. 220K. Ab diesen 22km Atmosphärenhöhe kommt man in den stoßfreien Emissionsbereich vom CO2 (siehe: http://www.patarnott.com/atms749/images/dopplerPressureProfiles.gif). Jetzt sollte jedem ein Licht aufgehen, weshalb in den Emissionsspektren von Satelliten die CO2 Spektral-Bande so aussieht. Also nichts mit der unsinnigen postulierten „Abstrahlhöhe“ beim Troposphärenoberrand von ca. 11km oder 5000m, laut Standard-Atmosphäre.
+Siehe – Seite 629 / Figure 13 (b): A Fourier transform spectroradiometer for ground-based remote sensing of the atmospheric downwelling long-wave radiance
+https://www.atmos-meas-tech.net/12/619/2019/amt-12-619-2019.pdf
+Nach diesen atmosphärischen Messungen der Emissionsspektren im oberflächen-nahen Bereich (rot) und am TOA (blau) ergibt sich eine Differenz der Energiestromdichte von 32,3 W/m^2 – 26,5 W/m^2 = 5,4 W/m^2 für die 15µm CO2-Bande. Die Differenz von 5,4 W/m^2 ergibt einen Effektivtemperaturunterschied von rund 1K für die Oberfläche zum TOA. Dieser Effekt ist also verschwindend gering.
+Hier ein Spektrogramm für die AERI-Messstation in Köln, wo der PWV relativ klein war.
+http://gop.meteo.uni-koeln.de/~hatpro/jue/aeri/2017/01/06/AERI_jue_170106_1.png
+Dabei muss für CO2 wie folgt gerechnet werden: j = pi*(725 – 620)*Averagewert/1000 = 32,9 W/m^2. Wie man sieht ist der Wert der Energiestromdichte in Chile (Cerro Toco Höhe: 5600 Meter) 32,3 W/m^2 und Köln (Höhe: 118 Meter) 32,9 W/m^2 fast gleich.
+Der Grund für diese „Gleichheit“ in der Energiestromdichte liegt in der Totalabsorption vom CO2 begründet (kommt im 3.Teil), welche bis zu einer Atmosphärenhöhe von ungefähr 20km wirkt.
+Mfg
+Werner Holtz
+## 3.Teil – Fortsetzung
+++ Totalabsorption und Sättigung
+Eine Sättigung und eine Totalabsorption einer Spektral-Bande sind zwei grundlegend verschiedene Sachverhalte.
+Bei der Absorption von terrestrischer IR-Strahlung durch CO2 in der Atmosphäre kommt es nicht zu einer Sättigung, sondern zur Totalabsorption (optische Absorption -> optische Dicke -> Extinktion) nach einer genügend langen Wegstrecke (Lambert-Beer-Gesetz). Das ist deswegen der Fall, weil immer noch genügend Moleküle vorhanden sind, die sich im Grundzustand befinden.
+Theoretisch kann man Wegstrecken zwischen 500 – 600 m für eine Totalabsorption bei der 15µm-Bande vom CO2 in der Atmosphäre ermitteln. Das heißt, daß bei ca. 500 – 600 m über der Erd-Oberfläche die Transmission der 15µm-Bande vom CO2 nur noch bei ca. 10^-31 liegt. Bei ca. 30 m Wegstrecke werden bereits 90% der IR-Strahlung vom CO2 in der Atmosphäre absorbiert. Das Transmissionsfenster für die Strahlung der 15µm-Bande vom CO2 in der Atmosphäre wäre bei ca. 100 m praktisch geschlossen, somit kann keine Strahlung der 15µm-Bande vom CO2 aus höheren Atmosphären-Schichten die Erd-Oberfläche direkt erreichen, sondern nur aus diesem 100m-Bereich der Totalabsorption.
+Eine Sättigung wäre nur erreichbar, wenn die Strahlungsintensität der Sättigungsintensität Isat der Spektral-Bande entspricht, so hoch ist aber die terrestrische IR-Intensität nicht. Würde die 15µm-Bande vom CO2 gesättigt sein, hätten die Absorptions- und Emissionspektren ein völlig anderes Aussehen. Bei kleinen Intensitäten (I Isat) verschwindet der Absorptionskoeffizient vollständig, man sagt, die Probe bleicht komplett aus. Mit steigender Intensität werden zunehmend auch Linien angeregt, deren Wellenlängen/Frequenzen weiter entfernt von der Wellenlänge/Frequenz der Zentral-Bande liegen. Eine Sättigung erreicht man, wenn die Besetzungsdichte bzw. -verhältnis des angeregten Zustandes gegen 1/2 geht. Es tritt also eine Gleichbesetzung zwischen Grundzustand und angeregtem Zustand auf.
+Das Besetzungsverhältnis nimmt mit der Temperatur ab, folgende Werte findet man in der Literatur CO2(15µm,15°C): N/N0 = 1/14; CO2(15µm,0°C): N/N0 = 1/17; CO2(15µm,-20°C): N/N0 = 1/22; CO2(15µm,-44°C): N/N0 = 1/33.
+Ein mehr eines Absorbers führt unterhalb der Sättigungsintensität der Spektral-Bande auch zu mehr Absorption. Im Bereich unterhalb der Totalabsorption der zentralen Wellenlänge der Bande verhält sich die absorbierte Energie linear mit der Konzentration. Erreicht man Totalabsorption, so absorbieren nur noch die Flanken der Zentral-Bande. In diesem Fall wächst die absorbierte Energie nur noch mit der Wurzel der Konzentration, d.h., bei einer Verdoppelung der Konzentration wächst die Absorption in den Flanken um einen Faktor von sqrt(2). Einfach mal hier schauen (zweites Spektrogramm): http://vpl.astro.washington.edu/spectra/co2hitran2004imagesmicrons.htm, die 15µm-Bande vom CO2 geht dort von ca. 8 – 22µm für Bedingungen unterhalb der Sättigungsintensität und Totalabsorption.
+Hier ein Funktions-Diagramm der relativen Konzentration von der Absorption bis zur Totalabsorption: https://share-your-photo.com/3089bf6525
+Das Verhalten im Diagramm kann man mit der Gültigkeit vom Lambert-Beer-Gesetz erklären, dessen Einfluss sich mit zunehmender optischer Dicke bzw. Konzentration verstärkt. Man wählt dabei den Ansatz, daß der Lambert-Beer-Absorptionskoeffizient proportional zum Gauß-Profil der Absorption der Spektral-Bande ist:
+I/I0 = e^{-c*l*β*e^[-(f – f0)^2/(2*σ^2)]}
+hierbei ist I bzw. I0 die Strahlungsintensität hinter bzw. vor dem Absorptionsbereich, c die Konzentration im Absorptionsbereich, l die Länge vom Absorptionsbereich, β die Proportionalitätskonstante, f0 die Frequenz vom Bandenursprung und σ die Breite der Gaußverteilung.
+Siehe:
+Wolfgang Demtröder, Experimentalphysik 3 – Atome, Moleküle und Festkörper, Springer Spektrum Verlag, 1998
+Wolfgang Demtröder, Laserspektroskopie 1 – Grundlagen, Kapitel 3: Linienbreiten und Profile von Spektrallinien, 6. aktualisierte Auflage, Springer Verlag Heidelberg, 2011
+Mfg
+Werner Holtz
+Herr Holtz vergleich die Abstrahlung an TOA in Brasilien mit der bodennahen Abstrahlung in 5000m Höhe in Chile und 118m Höhe im Januar in Köln, statt die Abstrahlung des Bodens in Brasilien mit der Abstrahlung an TOA in Brasilien zu vergleichen. Es soll Leute geben, die das für einen Vergleich von Äpfeln mit … Orangen halten.
+Das einzige positive: Herr Strasser könnte mal ein Spektogram der bodennahen Strahlung sehen, von der er denkt, die gäbe es nicht. Ob er das zur Kenntnis nimmt?
+Vielen Dank für die umfassende Nachhilfe! Bis etwa zu der Errechnung der Anregungsenergie/m3 in Teil2 konnte ich einigermaßen folgen, danach ein paar kleinere Fragen:
+Warum 1/6 (Würfelmodell)? Warum bleibt man nicht bei 0,5 (eine Hälfte nach unten, eine nach oben)?
+Die mittlere freie Strahlungsweglänge von 2,7 m ist die niedrigste, die hier bisher genannt wurde. (Kommt meiner ursprünglichen Vorstellung eines lokalen Gleichgewichts entgegen: Stoß- und Strahlungsaustausch gleichwertig nach allen Richtungen, eine Vorzugsrichtung nur gemäß Temperaturgradient und 2. Hauptsatz. Zusätzlich natürlich Wasserdampf, Wolken, Konvektion, latente Wärme etc.).
+Es ist nicht so ganz trivial, weshalb man mit den 2,7 m multipliziert, um die 32 W/m2 Energiestromdichte zu bekommen. Allerdings trägt man auf diese Weise der abnehmenden Dichte Rechnung… Gäbe man das Würfelmodell auf, also 0,5 statt 1/6, wäre da der Faktor 2,7 m nicht entbehrlich?
+Die Leistungsdichte der Strahlung wird nach Ihren Ausführungen durch die Geschwindigkeit der Energieabgabe für die Stoß-Aufheizung der nicht-strahlenden Gase bestimmt. Offenbar auch, weil die „Wiederaufladung“ durch Strahlung für alle CO2-Moleküle ungleich schneller erfolgt. Stimmt das nicht auch mit Aussagen in der kritisierten Arbeit überein, auch wenn die dort genannten Anregungszeiten falsch sind?
+TOA = Top of Outer Atmosphere? PWV = Pressure of Water Vapour?
+Jetzt aber noch eine Frage zu Teil 3 Ihrer Antwort: Ein Mehr an absorbierendem CO2 kann demzufolge etwas mehr IR-Erdstrahlung zur Aufheizung der Atmosphäre „umleiten“ – und dies vorwiegend in der unteren Troposphäre. Irgendwelche Rückstrahlung von weiter oben ist nicht beteiligt. Ergeben sich auch Schlussfolgerungen für die CO2-Klimasensitivität, die üblicherweise mit etwa 1,1 Grad C /CO2-Verdoppelung angenommen wird?
+vorzüglich beschrieben und ich habe mir ihre 3-teilige Erklärung gleich mal archiviert.
+Ich habe dem Admin schonmal vorgeschlagen eine Art Wissensforum einzurichten was er mangels Kapazitäten ablehnte. Vielleicht gäbe es ja einen Weg, etwas ähnliches hier verlinkt aufzustellen. Was sagt der Admin???
+Wie gesagt, das lesen auch wenn´s länger ist mehr Leute als man so denkt- schätze ich so ein…..
+Mit freundlichen Grüßen!
+Christian Möser
+Zimmerer
+Bei CO2 hängt es davon ab, ob CO2 z. B. als reines CO2 in einer Gasflache mit z. B. 100°C Gastemperatur vorkommt oder als Einzelmolekül im Atmosphärenmix 2500:1, wo eine eventuelle Anregung durch ein empfangenes Photon aufgrund der riesigen Zahl umgebender Luftmoleküle thermodynamisch ausgeglichen wird. Heißes reines CO2 kann seine Wärme überwiegend nicht thermodynamisch abgeben und strahlt daher.
+Prof. Alfred Schack wies bereits im vorigen Jahrhundert nach, daß der Anteil der Strahlung am Wärmeübergang von CO₂ bei atmosphärischen Temperaturen vernachlässigt werden kann, also Wärme so gut wie ausschließlich thermodynamisch empfangen oder abgegeben wird!
+Wäre das anders, müßte eine rel. starke 15 Mikrometerstrahlung von oben nach unten meßbar sein, was ganz offensichtlich nicht der Fall ist.
+soweit alles korrekt und doch beim Vergleich der Nächte (klar / bewölkt) so unvollständig.
+Gedanklich sich hier wieder auf die Unterschiede innerhalb der Strahlungsvorgänge zu reduzieren führt zu keiner, der Komplexibilität der Troposphäre entssprechenden, Erklärung bzw. dem Verständnis der in sich grundverschiedenen Vorgänge.
+Aufschlußreich ist hier als Beispiel die Betrachtung der Vertikalbewegungen innerhalb der 700 hpa Ebene. Über am Erdboden gemessenem Tiefdruck steht ein Hochdruck der oberen Troposphäre.
+Entscheidend für die gegenseitige Beeinflussung der Luftmassen am Boden und in der Höhe bleibt der molare Austausch und der Sättigungsgrad an Wasserdampf bzw. wann und wo es kondensiert, also der Taupunkt erreicht ist. So kann eine Temperaturinversion (in der Höhe wärmer), unterschiedliche Auswirkungen für die Betrachtung und den Vergleich verschiedener Nächte bedeuten. Auch eine verlängerte Nacht würde daran nichts ändern. Zusammengenommen mit dem längeren Tag würde es allerdings im geviertelten Schnitt der Gesamtbilanz der Erde doch wieder kälter.
+Mit freundlichen Grüßen!
+Christian Möser
+Zimmerer
+Frage an die Redaktion: Ich habe seit geraumer Zeit nicht mehr den Balken für das einfügen von verlinkungen bzw. smilies???
+ich beschränkte mich auf Gegenstrahlung, also Strahlungsprozesse und habe mit keinem Wort behauptet, daß es keine weiteren Prozesse gäbe, die ggfs. eine Rolle spielen könnten.
+Es ist aber richtig, daß meine Aussage „… daß sie nie absolut erwärmend wirken kann, sondern nur die Abkühlgeschwindigkeit reduziert.“ nur dann stimmt, wenn man annimmt, die Tröpfchentemperatur der Wolke hat als Ursache die Abstrahlung von der Erdoberfläche. In dem Moment, wo durch zufällige Wetterprozesse (z. B. Südströmung, Föhn, …) höhere Wolkentemperaturen eintreten, als die Oberfläche aufweist, kann es natürlich zu einer Wärmeübertragung per Strahlung von der Wolke zum Erdboden kommen. Zu Fragen, welche thermodynamischen Prozesse ggfs. begleitend sonst noch eine Rolle spielen, will ich mich nicht äußern, weil mir dazu die Kompetenz fehlt.
+Eines scheint mir jedenfalls gesichert, die stärkste Strahlungsabkühlung der Oberfläche findet bei klarem Wetter statt. Dadurch bildet sich im Winter Reif und im Sommer Betauung. Vorhandene Wolken verändern die Abkühlcharakteristik in Richtung weniger starke Abkühlung der Oberfläche aufgrund von Gegenstrahlung und die oberflächennahe Luft in 2 m Höhe, wo gemessen wird, folgt der Oberfläche zeitverzögert thermodynamisch, sofern nicht auch hier überlagerte andere Wetterprozesse mitspielen.
+Es ging mir mehr um das was hier im Kommentarbereich bei derartigen Artikeln immer wieder zu Tage tritt, eben die Reduzierung auf die Betrachtung der Strahlungsvorgänge, welche eben nicht der alles steuernde Energiefluß in der unteren Troposphäre ist und genau deswegen mit der Temperatur die wir messen und welche für den „Treibhauseffekt“ bei der Berechnung „die“ entscheidene Rolle spielt.
+nochmal sorry, wenn´s persöhnlich rüberkam….
+Eine Gegenstrahlung gibt es nicht. Ein Gas emittiert entsprechend seines Emissionsgrades und seiner Temperatur wie jeder andere Körper auch (Plasma, Flüssigkeit, Festkörper). Zusammenstöße von Photonen kann man vernachlässigen. Gegen-Verkehr gibt es nur auf der Straße.
+Zur Fixierung hier auf Strahlung: Es ist immer die Frage, worum es geht. Wenn ich die (angebliche) CO2-Klimasensitivität quantifizieren möchte, komme ich um Strahlungsvorgänge nicht herum. Erst danach kann ich mich mit der Relation zu anderen wichtigen Wärmetransportmechanismen incl. Rückkopplungseffekten auseinandersetzen. Interessiert mich hingegen das Gesamtgeschehen, ist es natürlich unsinnig, mit der kleinsten Größe (CO2) anzufangen, was die Temperaturbeeinflussung anbelangt. Aber dummerweise ist diese kleinste Größe menschgemacht und lässt heute die Welt verrückt spielen…
+Da kann ich nur sagen:
+“ Du sollst nicht alles glauben, was du denkst!“
+Dabei sind doch einige Dinge relativ einfach – auch in der Physik!
+Eine kleine Aufgabe an unsere Denker:
+Betrachten wir einen Würfel Luft, direkt über dem Boden, 1 m Kantenlänge (1 m³)!
+Lufttemperatur 25 Grad C, Erdtemperatur ca 28 Grad C, Meereshöhe = 1 013,25 hPa ≈ 1 bar.
+Nun,sind folgende Fragen zu beantworten:
+1) Wieviel CO2 Moleküle sind in diesem Würfel?
+2) Wie groß ist die Energie eine Photons im 15 mikrometer Bereich ?
+3) Wieviel Photonen werden ,in diesem Wellen-Bereich, vom Erdboden/sek. abgestrahlt?
+(1 m²)?
+4) Wieviel Photonen sind in einer Höhe von ca 1.5 m noch zu erwarten?
+5) Um wieveil Grad C erwämen die Photonen die Luft in diesem Würfel?
+6) Wie groß ist die Anregungsenergie für ein CO2 Molekül, damit ein Elektron in eine höhere Energiebahn wechselt?
+7) Wieviel CO2 Moleküle wären davon betroffen?
+8) Wie groß ist die kinetische Energie von den N2 Molekülen?
+9) Können die N2 Moleküle über Stösse die CO2 Moleküle so anregen, dass auch hier ein Elektron in eine höhere Energiebahn wechselt?
+10) Wie lange verharrt das Elektron auf dieser Bahn?
+11) Wieviel Stösse erhält diese Molekül während dieser Zeit?
+Ich glaube, hier gibt es sehr viele Experten, die diese Fragen eindeutig benatworten können.
+Um dann diese Berehnungen experimentell zu überprüfen, brauchen wir einen schönen Sommertag (bei höheren Temperaturen sind die Resultate besser zu beobachten), und 3 Glasscheiben!
+Bin gerne behilflich, wenn Fragen auftauchen!
+Zum Vergleich: Die Strahlungsstärke der Sonne im erdnahen Weltall (Solarkonstante) beträgt im Mittel 1367 W/m². (Am Boden kommen bei klarem Wetter ca. 75 % dieser Energie an)“.
+75% = 1 025 W/m2
+Ich kuke jetz „Kiehl Trenberth 97“ und kann die 1 00W/m2 nicht finden.
+Gelten für Solaranlagen andere Gesetze?
+Ich frage schon zweite mall: Kann mir es jemand erklären?
+auf dieser Seite ist erklärt wann man die 1000 W/m2 theoretisch auf unser Erde in der Nähe des Erdbodens erwarten kann.http://tinyurl.com/utbjebs
+Lesen Sie den Text in Ruhe durch,dann dürfte die Unstimmigkeit erledigt sein.
+https://www.youtube.com/watch?v=pxLx_Y6xkPQ
+(Trinkt man in Potsdam kein Sprudelwasser aus der Eifel?)
+Es scheint alle die Fragen treffen den Kern der Sache und die Antworten waren auch richtig. Das sehen die beiden Herren nicht so?
+Das Cyankali eine Chemische Wirkung ist aber CO2 und Strahlung eine physikalische Wirkung ist, ist Teil des großen Missverständnisses dieser Beiden.
+Ab 11.30 min wirds spannend, weil da gibt Herr Rahmstorff zu das er keinen Zugang zu einer korrekten Grundtemperatur hat. Er gibt weiterhinzu, das man diese nicht messen kann und schwafelt das man ja die Veränderungen nimmt. Er sagt weiterhin das man dabei grundsätzlich weiträumige Aussagen treffen kann, obwohl wie er weiter zugibt die Temperaturen sich lokal sehr unterscheiden können.
+Bei 7.50 min diskreditiert er noch die wissenschaftliche Arbeit an den Thulebohrkernen als lokal und keine Aussagefähigkeit obwohl man die Veränderungen die es schon immer gegeben hat deutlich an der Temperaturkurve ablesen kann.
+Er widerspricht sich damit selber. Die Glaubwürdigkeit dieses Mannes und seine wissenschaftliche Fähigkeiten werden weit übertroffen von seiner Unfähigkeit koherent mit sich selber zu Argumentieren.
+Ein Energiedefizit, welches aus nicht dargestellten Satellitenmesswerten herrührt, verursacht daher im Modell KT97 ein Temperaturdefizit.
+Aus einer „Null“, also aus sich selbst heraus, wird dem Modell Energie zugeführt. Das ist aber nur ist ein mathematischer, bilanzneutraler Effekt. Er widerspricht auch dem 1.HS der Thermodynamik. Ferner widerspricht die Wärmestrahlung in einer Höhe 324 W/m² von kalt nach warm dem 2.HS der
+Thermodynamik.
+Das Klimamodell des IPCC widerspricht den Hauptsätzen der Thermodynamik und ALLE daraus abgeleiteten Modelle sind somit physikalischer Nonsens. Die Politik des „Klimaschutzes“ ist eine Geisterdebatte und eine Katastrophe für die Europäische Wirtschaft und Gesellschaft. Mal sehen wie lange der Klima-Irrsinn noch weiter geht, ich befürchte bis zum bitteren Ende….
+Gase wie Wasserdampf und CO2 sind Gasstrahler und strahlen nur in den Absorptions-/ Emissionbaden wie Schwarze Strahler. Die Strahlungsleistung kann man dort direkt ablesen.
+Ich verweise diesbezüglich wieder auf Fritz Möllers Lehrbuch von 1973.
+https://www.youtube.com/watch?v=39uXgb5o9wI
+„CO2 strahlt, aber vernachlässigbar wenig.“
+Bei 15 Mikrometer strahlt es wie ein Schwarzer Strahler mit Emissionsgrad 1.
+Emissionsgrade von CO2 bei unterschiedlichen Umgebungsbedingungen finden sich in Lehrbüchern für Wärmetechniker und Heiztechniker. Natürlich auch für Wasserdampf.
+Diese sind seit den 1930er Jahren bekannt.
+Zitat von A. Agerius aus seiner Langversion von Seite 12:
+„Anmerkung: Bei TABLE 3. muss man sehr genau hinsehen. Man ist geneigt, ihre Daten für echte Messwerte zu halten. K. und T. hatten in ihrem Modell das diskontinuierliche Linienspektrum der Fingerprints bzw. der stehenden Linien der unsymmetrischen Gase zu einer kontinuierlichen Planck-Linie verbunden. In FIG.2. sehen wir nur noch eine schwache Zick-Zack Linie. Die stehenden Linien selbst, mit nicht strahlendem Zwischenraum, die für ein Gas typisch sind, sind bei der Darstellung als Linie in FIG.2. verschwunden. Die Gase als Gemisch strahlen daher wie ein Festkörper! Durch die von KT vorgenommener „Integrating over all wavelength“38 wurden alle leeren, nicht strahlenden Zwischenbereiche von jedem Molekül mitgerechnet. Das Ergebnis kann daher nur falsch sein.“
+ALSO NOCHMAL IN LEICHTER SPRACHE SPEZIELL FÜR HERRN KRÜGER: Kiehl&Trenberth hatten ein Linienspektrum zu einer Planck-Linie verbunden. Und das ist falsch.
+Bei Herrn Michael Krüger weiß man eben nie, ob er’s absichtlich macht (vexator fororum utgardensis SCIENCESCEPTICAL) oder den kritisierten Text überhaupt nicht gelesen/nur nicht verstanden hatte…
+Wie gesagt Gasstrahler haben ein Bandenspektrum aufgrund der Druckverbreiterung, dass in Teilbereichen wie ein Schwarzer Strahler strahlt, mit Emissionsgrad bis 1.
+Was sollen Planck-Linien sein?
+Nehmen Sie einfach ein Abstrahlungsspektrum ins All, Z.B. hier climatemodels.uchicago.edu/modtran/ und lesen dort die Abstrahlungs-Leistung ab. Können Sie anhand der Fläche unter dem Spektrum machen. Die sollte bei 15°C-Bodentemperatur und mittlere Wolkenbedeckung bei -18°C liegen. (240 W/m2).
+Nur sollte man auch dort beachten, das die Strahlung vom CO2 nicht kontinuierlich in dem Spectrum erfolgt. Richtiger wäre es jede einzelne Absorptionslinie zu berechnene. Aber auch als kontinuierliches Spektrum ist was vom kommt CO2 nicht überwältigend.
+Übrigens wird das Abstrahl-Spektrum aus der Sahara einen Wert von -2 bis 65 Grad C annehmen. Sie können auch warten bis es gerade 15 Grad C hat, aber das ist genau so, als wenn eine Uhr die stehen geblieben ist zwei mal am Tage die richtige Zeit anzeigt.
+Besser kann man jedenfalls sein Nicht-Verstehen-Wollen/Können nicht dokumentieren: Man kapriziert sich mit starrsinnigen Wiederholungen auf eine angeblich unverstandene Erklärung in leichter Sprache; für das direkt darüber stehende Originalzitat von A. Agerius hatte es wohl „zeitlich“ nicht mehr ganz gereicht.
+http://www.klimaschwindel.net
+Schöne Seite – Glückwunsch!
+Was noch fehlt ist die Erklärung, warum die Politik in vielen Ländern auf den Betrügerzug mit aufgesprungen ist…
+1. Eine Erde mit völlig transparenter Atmosphäre würde ca. 278K annehmen, da Absorptions- und Emissiongrad der Oberfläche nahezu identisch sind.
+2. Durch die teilweise Intransparenz der Atmosphäre liegen die Temperaturen ca. 10K höher. Dazu tragen anteilig „Treibhausgase“, Aerosole und vor allem Wolken bei.
+3. Ganz wichtig: Wolken erwärmen die Erde. Treibhausgase haben also nur einen Anteil an diesen 10K Treibhaus- oder Atmosphäreneffekt, ca. 5K.
+4. CO2 alleine erwärmt die Erde um nicht mehr als 1K. Seine Rolle als THG ist somit sehr gering, seine Anreichung irrelevant und kann zu keiner messbaren Erwärmung führen.
+5. Hochgradig relevant für das Klima sind hingegen künstliche Wolken in der oberen Troposphäre, auch bekannt als Kondensstreifen. Sie erklären die GESAMTE (!) anthropogene Erderwärmung.
+6. Eben deshalb zeigt sich eine autonome Erderwärmung, also unabhängig von der Sonnenaktivität, erst seit den 1970ern. Diese skaliert seit dem perfekt mit der Zunahme des Flugverkehrs.
+7. Logischer Weise erwärmt sich somit hauptsächlich die nördliche Hemisphäre, da hier der meiste Flugverkehr stattfindet. Die Erwärmung der südlichen Hemisphäre ist dementsprechend schwächer ausgeprägt. Schließlich und endlich gibt es keinerlei Erwärmung der Antarktis, da es dort (praktisch) keinen Flugverkehr gibt.
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+Und noch wichtiger:
+Das ist falsch!
+Denn:
+es gibt Tag und Nacht, hohe und tiefe Wolken…
+Im Übrigen liegt der Anteil der sog. Treibhausgase bei 0%.
+Nur während der Nacht…
+Am Tag erhöhen sie die Rückstrahlung ins All und reduzieren den Energiezufluß zum Boden
+So ein generelle Aussage und soagar falsch.
+Es gibt keine Einheitstemperatur der Erde.
+Soll die Annahme der Temperatur fuer die Atmoshaere gelten oder die Oberflaeche? Sicher nicht beides.
+Ohne strahlende Gase heizt sich die Atmosphaere auf, kann sich nicht abkuehlen und demzufolge wird sie waermer werden. Das ergibt sich rein logisch und sollte jeder verstehen.
+Treibhausgase alias Gase die in gewissen Baendern aufgrund ihrer Molekuelkonstruktion elektromagnetische Strahlung abgeben koennen, so wie CO2, kuehlen die Atmosphaere.
+Das ist selbstverständlich richtig, sonst würde ich es nicht sagen. Wie konkludent aus der Formulierung hervorgeht gilt das selbstverständlich für die Oberfläche.
+„Es gibt keine Einheitstemperatur der Erde.“
+Wer zur Fraktion „man darf Temperaturen nicht mitteln“ gehört, dem kann ich nicht helfen.
+„Ohne strahlende Gase heizt sich die Atmosphaere auf, kann sich nicht abkuehlen und demzufolge wird sie waermer werden. Das ergibt sich rein logisch und sollte jeder verstehen.“
+Das ist allerdings völlig falsch.
+„Treibhausgase alias Gase die in gewissen Baendern aufgrund ihrer Molekuelkonstruktion elektromagnetische Strahlung abgeben koennen, so wie CO2, kuehlen die Atmosphaere“
+Zum Teil ja, zum anderen Teil das Gegenteil. Es wäre vielmehr ein Nullsummenspiel wenn da Dinge so verkürzt betrachtet.
+Bitten geben sie an auf welche Weise die Atmosphäre kühlt.
+Nur durch Strahlung. Waermeleitung zum Boden kann ich noch anbieten. Konvektion zum Boden geht auch wenn die Atmosphaere dann schon viel waerme ist als der Boden.
+Gegenstrahlung ist eine Fiktion.
+In der Realität strahlen Gase bodennah nicht, da sie per Stoß entspannen.
+Leute, merkt euch doch das endlich mal.
+Das ganze Rumgerechne ist völlig überflüssig!
+-18°C ist die effektive Abstrahlungstemperatur der Erde, die man gemäß S-B berechnen kann und mit CERES auch messen kann.
+Zudem ist die Wärmeabstrahlung vom Erdboden/ Strahlungstemperatur höher als die gemessene Temperatur in Wetterhütten über den Erdboden, oder auf See, unter der Meeresoberfläche.
+Und ERBE ist lägst außer Betrieb, CERES ist aktuell.
+CERES zeigt -18°C Abstrahlungstemperatur im Jahresmittel, was dem -18°C aus S-B gemäß Theorie entspricht.
+Ich habe die DWD-Albedo-Werte der Oberfläche für Europa mit denen von CERES verglichen. Die CERES-Daten erscheinen mir plausibler. Für CERES 2001-2018 erhalte ich für Winter(12-2) 22%, Trend -1,4% pro Dekade, für Sommer (6-8) 12%, Trend -0,1% pro Dekade. Ursache des großen negativen Trends im Winter ist wohl die abnehmende Schneebedeckung.
+Spätestens ab 2015 haben die Klimahysteriker die Diskussionen abgewürgt – „Die Zeit des „Palavers“ sein vorbei, jetzt ist es Zeit, zu handeln!“
+Genau das geschieht gerade – wir Realisten haben keine Chance – die Gesetze sind in Stahl gegossen!
+Wir werden wohl das Tal der Tränen durchqueren müssen – im Wissen, die guten Zeiten werden wieder kommen, auch wenn viele von uns diese nicht mehr erleben werden!
+Ja, leider müssen wir uns an die Öko-Kommunisten gewöhnen, denn die besten Ideen und sichersten Beweise von EIKE interessiert diese Bande nicht im geringsten. Wo wir heute stehen, zeigte IM Erika bei der Abwahl des neuen Thüringer Präsidenten. DDR 2.0, das sagt alles.
+Man braucht nur die Erdoberfläche, die real nie und nimmer einer glatten Kugel entspricht, durch eine rauhe Oberfläche ersetzen, etwa indem man sich lauter kleine dreiseitige Pyramiden gleicher Kantenlänge vorstellt. Damit steigt die angenäherte Größe der Oberfläche etwa aufs dreifache. Damit müßte man die Solarkonstante nicht durch 4 sondern durch 4×3=12 teilen. Also 1368/12=114 W/m², davon dann noch 30% Albedo reduzieren ergibt 114 x 0,7 also ca. 80 W/m² und das entspricht etwa minus 79°C. Mitteltemperatur ist +15°C, also ergibt sich unter realitätsnäherer Rechnung der Oberflächengestalt ein Treibhauseffekt von satten 94°C.
+Diese Kontrollrechnung zeigt, daß an dieser Art der Rechnung rein garnichts stimmt! Und ganz wichtig, in dieser Rechnung kommt nirgends CO2 oder ein anders Gas vor!
+Die Einsicht, das es Hokuspokus ist würde ne Menge Leute arbeitslos machen und den üppigen Fluß von Vermögen versiegen lassen.
+Mit freundlichen Grüßen!
+Christian Möser
+Zimmerer
+Eher gar nicht!
+„Wir „messen“ aber global ca. +15 Grad Celsius.“
+Gemessen wird zwar, dann wird hingefummelt.
+Viel Spaß mit Ihrem CO2 Strahler, gibt es nächste Woche im Aldi. Soll bei Verspannungen im Nackenbereich helfen.
+Wenn man mit Spectral Calc https://www.spectralcalc.com/blackbody_calculator/blackbody.php prueft bei 15 Grad C kommen aus dem Band 15 µm (Breite 14-16 µm) 11.6676 W/m2/sr x PI = 36.6 W/m2
+(Schwarzkoerper hat 390.929 W/m2)
+Bei -18 Grad C sind es 7.47773 W/m2/sr x PI = 23.48 W/m2 (Schwarzkoerper hat 240.329 W/m2)
+Das verglichen mit Schwarzkoerperstrahlung sind also nur 10% die CO2 zurueckhaelt. Und der Unterschied zwischen Oben und Unten sind ganze 13 W/m2.
+Haette die Atmosphaere also nur CO2 wuerden also 90% der Strahlung vom Erdboden direkt in den Weltraum gehen. Und der sogenannte Strahlungsantrieb durch CO2 sind 13 W/m2. Das sind in etwa 3.5 Grad C „Erwaermung“.
+Und ohne CO2 waere die Atmosphaere viel waermer, weil dann die Strahlungskuehlung durch das CO2 fehlen wuerde.

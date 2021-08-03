@@ -1,0 +1,335 @@
+…Lassen Sie mich ein paar der Missverständnisse ausräumen und dann anhand der wichtigsten Anwendungsfelder von Stromspeichern erläutern, warum wir meines Erachtens fast überall noch mehrere Jahrzehnte von ihrem großtechnischen Einsatz entfernt sind – wenn dieser denn jemals kommt.
+Erstens: Stromspeicher produzieren nichts und verdienen per se kein Geld. Speicher optimieren ein Energieversorgungssystem an anderer Stelle. Ob die Optimierung durch Speicher bspw. zur Erhöhung der Versorgungssicherheit volkswirtschaftlich sinnvoll ist, hängt davon ab, ob die nächstbesten Lösungen teurer sind oder nicht. So waren die Pumpspeicherkraftwerke in Deutschland jahrzehntelang Gelddruckmaschinen für die Energieversorger, weil die Bereitstellung von Spitzenlaststrom durch andere Kraftwerke noch teurer war. Und die Preisunterschiede beim Strom zwischen Nacht und Mittagsspitze waren so groß, dass mit der Differenz gute Gewinne erwirtschaftet werden konnten. (Pumpspeicherkraftwerke pumpen mit "überschüssigem" Strom Wasser von einem Talsee hoch zu einem Bergsee. Wenn Strom benötigt wird, wird Wasser über Turbinen wieder heruntergelassen. Die Seen werden in der Regel künstlich angelegt. Dass Pumpspeicherkraftwerke heutzutage kein Geld mehr verdienen können, werden wir weiter unten noch diskutieren.)
+Zweitens hängt die Wirtschaftlichkeit von Stromspeichern empfindlich vom Anspruch an sie ab. Um sich zu Hause in den Sommermonaten mithilfe einer Photovoltaikanlage und einem Speicher für einige Zeit vom Stromnetz abkoppeln zu können, reicht ein Speicher mit wenigen Kilowattstunden an Kapazität. PV-Anlage und Speicher kosten zusammen einen deutlich fünfstelligen Betrag, der sich derzeit noch nicht rechnet, dennoch aber von manchen innovativ gesinnten Hausbesitzern ausgegeben wird. Würde man sich aber das ganze Jahr vom Stromnetz unabhängig machen wollen, benötigte man mehrere Tausend kWh an Speichern für einen Gegenwert einer Villa im Grünen. Die Kosten für Speicher schnellen also exponentiell in die Höhe, wenn man von 30% Selbstversorgung aus Wind- bzw. Solarkraftwerken auf vollständige Autarkie kommen möchte und überfordern uns wirtschaftlich und technisch. Dies gilt sowohl für einzelne Hausbesitzer als auch für die gesamte Volkswirtschaft.
+Daraus folgt übrigens unmittelbar, dass es keinen profitablen Pfad zu einer Vollversorgung Deutschlands mit speicherüberbrückten Wind- und Solarkraftwerken geben wird. Solange thermische Kraftwerke benötigt werden, um sonnen- und windarme Zeiten zu überbrücken, wird es sich vorbehaltlich massiver staatlicher Eingriffe nicht rechnen, zusätzliche Speicher zu bauen, die um die gleichen Produktionsstunden konkurrieren.
+Drittens kommt es bei Stromspeichern stark auf ihren Wirkungsgrad an. Da man Strom in nennenswerten Mengen nicht direkt speichern kann, muss man die elektrische Energie in Lageenergie (wie beim Pumpspeicherkraftwerk) oder chemische Energie (Batterien und Gase) umwandeln und bei Bedarf wieder zurück in elektrische Energie. Dies gelingt nie vollständig, sondern bei jeder Umwandlung von Energie in eine andere Form fallen Verluste an – mal mehr, mal weniger. Am Ende zählt der Gesamtwirkungsgrad, also wie viele Kilowattstunden am Ende herauskommen pro eingesetzter Kilowattstunde an Energie. Zuvor sind Verluste aus Umwandlung einer Energieform in die andere, ggf. Verdichtung und Kühlung, Transport und Lagerung abzuziehen. Bei guten Batterien und modernen Pumpspeicherkraftwerken liegt man im Gesamtwirkungsgrad bei über 80 Prozent, ein guter Wert. Bei allen mir bekannten Power-to-Gas-Technologien (P2G, d.i. die Umwandlung von elektrischer in chemisch gebundene Energie) liegt der Gesamtwirkungsgrad für die Wiederverstromung aber bei 10-20 Prozent je nach Technologie, wenn man ehrlich rechnet. Dies zeigt die enorme Herausforderung, vor denen die Ingenieure stehen, um P2G-Technologien für die Stromwirtschaft nutzbar zu machen.
+Viertens sind vor einer technischen und wirtschaftlichen Planung eines Speichereinsatzes viele Daten zu den wahrscheinlichen Einsatzbedingungen zu erheben. Manche dieser Daten werden schwer verfügbar sein. Wenn Stromspeicher aber elektrische Energie so puffern sollen, dass sie immer ausreichend zur Verfügung steht, sollte ein genaues Verständnis des Lastverhaltens und des wetterbedingten Produktionsprofils von Wind- und Solarkraftwerken bereitstehen, bevor investiert und gebaut wird. Die raum-zeitlichen Eigenschaften der Witterung auf einer Zeitskala von Tagen bis Monaten und für kontinentale Gebiete wurden aber bislang noch nie systematisch untersucht, obwohl dies für die Planung der Energiewende mit Wind, Sonne und Speichern notwendig gewesen wäre. Solche Analysen werden in der Meteorologie jetzt erst begonnen, von einem hinreichenden theoretischen Verständnis der Wirtschaftlichkeit von Stromspeichern sind wir aber noch weit entfernt. Dies gilt sowohl für die volkswirtschaftliche Betrachtung ganzer Energienetze als auch für einzelne Insellösungen wie einsam gelegene Hotelanlagen.
+Als gescheitert darf man beispielsweise ein Experiment auf der kanarischen Insel El Hierro betrachten. Dort wurden bis Frühjahr 2015 Wind-, Solar- und Speicherkraftwerke errichtet, um sich von der Stromproduktion aus Dieselaggregaten komplett unabhängig zu machen und die gesamte Insel mit Strom zu versorgen. Dies gelang nicht einmal ansatzweise, nach einem Jahr stammten zwei Drittel des Stroms aus Diesel und er kostete durchschnittlich mehr als einen Euro je Kilowattstunde. Der Hauptgrund für dieses grandiose Scheitern ist, dass es auch auf den Kanaren lange windarme und bewölkte Perioden gab, die in der Planung nicht berücksichtigt wurden.
+Wenn man heute über den Einsatz von Stromspeichern nachdenkt, sollten diese vier Missverständnisse berücksichtigt werden. Was bedeutet das nun für die sechs typischen Anwendungsfälle von Speichern?
+Der Einsatz von Speichern in mobilen Kleingeräten vom Mobiltelefon bis zum Roboter-Rasenmäher ist technisch gut verstanden, weniger kostenkritisch und soll daher hier nicht weiter betrachtet werden. Ein neuer Anwendungsfall für Speicher ist die dezentrale Stromnetzstabilisierung mit Batteriespeichern. Dies ist ein Anwendungsfall, den es vor wenigen Jahren noch nicht gab, was ein wenig erläuterungsbedürftig ist. Um ein Stromnetz stabil zu betreiben, muss neben der Spannung auch Frequenz und Phase kontrolliert werden. Die Elektrotechniker sprechen von bereitzustellendem "Blindstrom". Weil Generatoren von Großkraftwerken große rotierende Massen haben, können kleine Instabilitäten in Phase und Frequenz durch die Trägheit der rotierenden Massen ausgeglichen werden, ein Stromnetz mit Großkraftwerken ist also in Teilen selbstregulierend. Erst die Abschaltung von Großkraftwerken zu Gunsten von kleinen, dezentralen Stromerzeugungskapazitäten hat es erforderlich gemacht, an vielen Stellen das Stromnetz auf zu stabilisieren. Beispielsweise wurde das stillgelegte Kernkraftwerk Biblis zu einer großen Schwungmasse umgebaut. Daneben gibt es viele Projekte, um dezentral Blindstrom über Batteriesysteme bereitzustellen. Ökonomisch wäre es angezeigt, die Verursacher der Netzinstabilitäten, also die Eigentümer von Wind- und Solaranlagen, an diesen Kosten angemessen zu beteiligen, statt sie über Netzentgelte zu sozialisieren….
+Weiterlesen beim Deutschen Arbeitgeber Verband hier
+ich kann mich nicht erinnern, den EEs irgendwo das Wort geredet zu haben. Daß Solarstrom – gerade in unseren Breiten – bescheuert, Windstrom bestenfalls fragwürdig und die gesamte Energiewende eine einzige Katastrophe ist, ist mir völlig bewußt. Ich will allerdings nicht verstehen, daß man hier die konventionelle Energieerzeugung/-verteilung, so wie sie gegenwärtig praktiziert wird, für das NonPlusUltra hält, obwohl es dort noch genügend Potenzial zur Effizienzsteigerung gäbe. Hätte man die gesamte Subventionskohle in diesen Bereich gesteckt, wären wir da deutlich weiter. Und egal, was man von den EEs hält, das Zeug ist nun mal installiert und niemand wird es wieder abreißen. Also sollte man doch auch dort bemüht sein, damit wenigstens so schlau wie möglich umzugehen. Ich kann mir nicht vorstellen, daß dies ein intelligenter Mensch in Abrede stellt.
+Gruß
+Sie sollten nochmal mit sich selbst in Klausur gehen. Nur soviel will ich ihnen auf ihren Weg zur Selbsterkenntnis noch mitgeben…
+Ein Kraftwerkspark erzeugt bedarfsgenau den Strom für unser modernes Wohlstandsleben. Eine Windmühle und ein Solarmodul weht und scheint = Energieträger nur nach Lust und Laune und kann somit den Bedürfnissen einer modernen Wohlstandsgesellschaft nicht gerecht werden. Mangel und Armut = modernerer Wohlstandsverlust wird somit die Welt der sog. Erneuerbaren Energien kennzeichnen.
+Und noch was…wenn Sie den Überschuss-Windstrom in Wärme wandeln wollen, dann haben Sie drei Prozessschritt (Kosten), die sie durchlaufen müssen. Von der Wind-Strom-Wärme.
+Der Transport des Energieträger Wind ist zwar kostenlos aber eben nicht disponierbar. Weder in der benötigten Menge noch in der benötigten Qualität. Und eine Wertschöpfunglinie (Disposition) entfällt beim Wind auch noch. Somit dient der Wind auch nicht unbedingt der volkswirtschaftlichen Mehrwertschaffung durch qualifizierte und wohlstandschaffende (gut bezahlte) Arbeitsplätze.
+#40 ist nicht von mir.
+Es geht mir ganz allgemein darum, „Abfallenergie“ in Form von gespeicherter Wärme weiter zu nutzen.
+„- Das einzig was Sie da machen können ist eine Kraft-Wärme-Kopplung. Hier muss aber die Infrastruktur in Form von großen Wärmebeziehern passen und diese müssen auch noch nah am Kraftwerk stehen. -“
+Fernwärmenetze, die auch jede Menge private Abnehmer versorgen, sind ja nun nichts Neues. Bei einem entsprechend großen Verbund, könnten dort – gegen Endgeld – auch andere „Abfallproduzenten“ eintragen.
+„- Ein Kraftwerkmixpar aus Uran, Kohle, und Gas benötigt keine Speicher, weil die Speicher schon im Energieträger mit integriert ist. -“
+Was bringt das, wenn von der eingesetzten Energie ca. 50% ungenutzt ins Weltall entfleuchen?
+„- Die zusätzliche Infrastruktur will ja auch noch Geld sehen und auch hier nur mit einer Rendite…alles vom Stromverbraucher zu bezahlen. -“
+Nein, die Kosten trägt natürlich der Wärmekunde.
+@W.Fritz #43
+„- Leider gibt es die Spaßbremse in Form des 2. Hauptsatzes der Thermodynamik. -“
+Der 2. Hauptsatz verbietet es nicht, überflüssigen Strom ,z.B. mittels eines intelligenten Tarifsystems, in meine Heizung oder ein Wärmenetz zu pumpen. Das ist allemal schlauer, als ihn tagsüber an die Österreicher zu verschenken und ihn nachts teuer zurückzukaufen.
+„Wenn es einen saisonalen Ausgleich gibt, muß ein Speicher zu Beginn und Ende des Berechnungsjahres (Beginn unter 365(6) Tagen frei wählbar) identisch gefüllt sein. Das ist aber nicht der Fall.“
+Das wäre ein vollständiger Ausgleich. Der ist aber gar nicht notwendig. Es geht darum, dass Energie über Monate (Sommer zu Winter) ausgeglichen wird.
+Ein vollständiger Ausgleich ist immer dann möglich, wenn die erzeugte Energie (Wind+PV) gleich der benötigten Energie über den Betrachtungszeitraum ist, unabhängig davon, ob der Verlauf der benötigten Energie kontinuierlich oder diskontinuierlich ist.
+Nett, daß Sie einen Tippfehler gefunden haben. Sie können den behalten.
+Was irgendwelche Leute aufgrund von politischen und ökonomischen Abhängigkeiten daherlabern ist unbrauchbar.
+Was Sie praktizieren ist das gigo-Prinzip:
+Garbage in = garbage out. Müll wird nicht dadurch zu neuem Material, weil er von den Müllwerkern zurück zur Tonne gebracht wird.
+Wenn es einen saisonalen Ausgleich gibt, muß ein Speicher zu Beginn und Ende des Berechnungsjahres (Beginn unter 365(6) Tagen frei wählbar) identisch gefüllt sein. Das ist aber nicht der Fall.
+Also lassen Sie das Nachplappern unsubstantiierter Aussagen von Lobbyisten.
+Zur Vollständigkeit hätte es jedoch gehört, auf die Studie der Deutschen Physikalischen Gesellschaft von 2010 hinzuweisen, die zur Elt- Speicherung in der Zusammenfassung die PtG- Technologie wegen der Einschätzung „energetisch uninteressant“ unter den genannten 13 anderen Verfahren nicht einmal mehr erwähnte. Dort wurde jedoch die „Redox- Flow- Technologie“ als evtl. möglich bezeichnet, da hier die Speicherung in zwei getrennten Elektrolyten erfolgt und Speicher und Energieumwandlung (im Gegensatz zu Akkus) räumlich voneinander getrennt sind. Hierfür gibt es konkrete Geräte- Entwicklungen zur Energie- Umwandlung vom Oberhausener Fraunhofer- Institut „Umsicht“, mit dem ich früher ein energietechnisches Verbundprojekt mit bearbeitet hatte. Die Ökonomie dieses Verfahrens ist jedoch offensichtlich auch nicht gegeben.
+Der von Werner Müller zitierte 50 Hertz- Chef Boris Schucht ist ein „Energie- Scharlatan“, da er behauptet, Windräder könnten Regelenergie liefern. Bei Abfall der Frequenz im Verbundnetz würde er wohl die Windräder mit riesigen Ventilatoren anblasen wollen?
+Im aktuellen „SPIEGEL“ 37/2016 findet man:
+„Seltsame Zeiten sind dies, in denen Wahrheiten weniger Einfluss auf die poltische Wirklichkeit haben als Stimmungen und Gefühle“ (S. 6);
+…gegen den Willen vieler Anwohner: „die Windräder kommen“, …für Thielke der Beweis, dass die Bürger nicht mehr gehört werden. Und seine Erklärung für den Erfolg der AfD (S. 17).
+Windkraft, Nordsee mit Flaute: …An neun Tagen herrschte weitgehend Flaute, am 17. August wurde zeitweise kein Megawatt Leistung gemessen….(S. 60)
+Energietechnisch bedeutet das: „Deutschland schafft sich ab“
+„Bevor ich 1m³ Wasser 400m der Berg raufpumpe, heiße ich es doch lieber um 1°C auf, oder nicht?“
+Leider gibt es die Spaßbremse in Form des 2. Hauptsatzes der Thermodynamik.
+Wenn Sie einen Kraftwerkspark in Betrieb haben, dann brauchen Sie keine Wärmespeicher. Das einzig was Sie da machen können ist eine Kraft-Wärme-Kopplung. Hier muss aber die Infrastruktur in Form von großen Wärmebeziehern passen und diese müssen auch noch nah am Kraftwerk stehen.
+Ein Kraftwerkmixpar aus Uran, Kohle, und Gas benötigt keine Speicher, weil die Speicher schon im Energieträger mit integriert ist. Wenn man jetzt Speicher aufbaut, dann wird es für unsere Volkswirtschaft und für uns Endverbraucher unendlich teuer. Speicher wollen schließlich auch gebaut und instandgehalten werden und schließlich wollen die Betreiber auch eine Rendite sehen.
+Die zusätzliche Infrastruktur will ja auch noch Geld sehen und auch hier nur mit einer Rendite…alles vom Stromverbraucher zu bezahlen.
+Miserable Wirkungsgrade bei der Umwandlung sind ja nur deshalb ein Problem, weil ein Großteil der Energie ungenutzt als Abwärme verpufft. Stünde dem Stromnetz ein adäquates (Hochtemperatur?-)Fernwärmenetz zur Seite, sähe die Bilanz deutlich besser aus. Zudem erhielte man einen Energiespeicher riesigen Ausmaßes. Bevor ich 1m³ Wasser 400m der Berg raufpumpe, heiße ich es doch lieber um 1°C auf, oder nicht?
+Um ob die Sonne ein Rechnung schickt oder nicht und nicht ob man eine 10 oder 100% Stromversorgung mit PV realisieren kann, erst lesen, dann verstehe, dann schreiben.
+Auch die Aussage ist nicht richtig „dass die Sonne nur zu weniger als 10 % des Jahres Strom liefert“
+Von einem kWp bekomme ich (über) 1000kWh im Jahr(entspricht ca. 1000 Vollaststunden), verteilt auf 3000 bis 4000 Stunden im Jahr, das sind um die ca. 40% der Zeit wo Energie von den PV-Modulen kommt.
+Der direkte Eigenverbrauch in Deutschland liegen bei ca. 30 bis 35% vom Gesamtstromverbrauch bei den Leuten die was mit PV-Eigenverbrauch machen (ohne Akku).
+Wie soll das möglich sein 1/3 vom Stromverbrauch mit PV zu decke wenn unter 10% der Zeit nur was kommt von den PV nach ihrer Aussage?
+#28: T. Heinzow sagt:
+„Was den von Ihnen behaupteten „saisonalen Ausgleich“ betrifft, sind Sie beweispflichtig. Die Daten des Netzbetreibers 50-Hertz zeigen was Anderes.“
+Boris Schucht, Chef des Netzbetreibers 50Hertz sagt:
+http://t1p.de/9qwr
+Herr T. Heinzow,
+bevor Sie mit neuen Behauptungen kommen Lössen Sie erst mal ihre alten Behauptungen auf.
+#18: T. Heinzow sagt:
+„Um die Stromversorgung allein in D zu 100% aus Wind- und Solarstrom zu decken, bedarf es einer Kapazität von 6 Seen mit 400m effektivem Höhenunterschied vom Volumen des Bodensees. Drei Oberbecken und drei Unterbecken.
+Allein für die NBL + HH (50-Hertz-Netzgebiet) benötigt man eine Speicherkapazität von ca. 40 GWh. „
+Volumen des Bodensees bei drei Oberbecken und drei Unterbecken und Höhe 400m sind nach meiner Überschlagsrechnung um die ca. 20.000 GWh und keine 40GWh, das ist ja das 500 fache.
+Wie kommen Sie auf die 3 X Bodensee in 400m Höhe im Zusammenhang mit den 40GWh?
+#30: Chris Frey sagt:
+„Ach? Wer hat denn Kohle, Gas und Öl in die Erde gebracht? Welche Firma hat dafür kassiert?“
+LKW, Schiff, Pipeline, Zug usw. ist doch klar und von denen die das erledigen bekommen die Kraftwerksbetreiber eine Rechnung oder liefern die für 0 € ?
+#30: Chris Frey sagt:
+„Das Zeug war ja schon lange vor den Menschen in der Erde. Wer hat dafür wen bezahlt?“
+Habe ja bereits verraten, solange das Zeug im Boden liegt kommt auch keine Rechnung, erst wenn sich jemand berufen fühlt das Zeug zu nutzen kommt derjenige eine Rechnung nach der anderen und es bleibt nicht nur bei der Anfangsinvestitionen und Unterhaltung und Rückbaukosten die ja PV auch haben genauso wie Kohlekraftwerke, Gaskraftwerke, Kernkraftwerke usw.
+Sobald das einer z.B. 1 kWh aus einem Kohlekraftwerk haben möchte muss er erst mal 2 bis 3 kWh „Heizenergie“ einkaufen.
+Mit einer PV hat man an ca. 360 Tagen Strom von Sonnenaufgang bis Sonnenuntergag.
+Die PV-Leistungsabgabe ist aber sehr unterschiedlich, je nach Strahlungsintensität.
+Dafür ist aber die Sonnenenergie (Sonnenstrahlen) kostenlos und ohne zusätzliche Arbeitsleistung zu bekommen, nach den Anfangsinvestitionen.
+Wobei die Anfangsinvestitionen bei PV/kW Leistung nur ca. 30 bis 50% von einem Kohlekraftwerk und nur ca. 10% bis 15% von einem Kernkraftwerk betragen.
+Bei den kosten für das kWh ist PV ca. -30% günstiger als Strom aus einem Kernkraftwerk.
+Beim Kohlekraftwerk ist ziemlich gleichstand mit leicht günstigeren kWh Preisen bei PV, das ist aber der Zwangsweisen Verfeuerung den PV-Module durch die EU geschuldet.
+(Dumpingzölle von 53,4 Prozent und die Anti-Subventionszölle von 11,5 Prozent auf PV)
+Würde die EU nicht schützend die Hand über die Konventionellen Stromerzeugung halten gingen noch schneller die Lichter aus, aber nicht bei den PV-Leuten in der Nacht sondern bei den konventionellen Kraftwerken in der EU.
+(Alle Angaben beziehen sich auf Neubauten und innerhalb der EU und nicht auf Kleinanlagen, Leistungen über 1MW)
+Jetzt ist doch jeden Investor klar der in ein z.B. Kohlekaftwerk oder AKW investierend, dass sobald was von z.B. der Sonne oder Wind kommt er sein Kohlekraftwerk oder AKW herunterfahren muss.
+Er kann ja den kWh Preis den er braucht um seine Kosten zu decken nicht auf dem Strommarkt erzielen.
+Deshalb sind ja auch die seit Jahren geplanten Kohle-Erzeugungskapazitäten (Weltweit) zwischen Januar und Juli von 1090 auf 932 Gigawatt (GW) gesunken. Das Minus von ca.-158 GW oder ca. -14% entspricht.
+Das ist in etwa den gesamten Kohlekraftwerks-Kapazitäten in der EU, die sich auf ca. 162 GW belaufen.
+Bei neuen PV-Anlagen sind Preis von 0,0291 US $ / kWh (2,6 Cent/kWh) möglich und stellt einen neuen Rekord auf bei den niedrigste Preisen für Solarstrom in der Geschichte, auf globaler Ebene.
+Der bisherige Rekord wurde bei 0,0299 US $ / kWh festgelegt, für einen Solarpark in Dubai.
+#36: Gerald Pesch sagt:
+„Und damit das bisschen PV-Strom überhaupt an die Steckdose kommt brauchen Sie Kupfer, Kunststoffe, Aluminium, Silicium… und das wächst alles definitiv nicht „kostenlos“ in ihrem Garten.“
+Auch für z.B. Kohlekraftwerke brauchen Sie Kupfer, Kunststoffe, Aluminium usw. da sehe ich keinen Unterschied.
+Anfangsinvestitionen sind bei PV, Kohle oder auch AKWs erforderlich, entscheiden ist die Höhe der Anfangsinvestitionen und die Langfristigen und wiederkehrenden Kosten und die „Berechenbarkeit“ der Brennstoffkosten da sind z.B. Kohlekraftwerke unterlegen.
+#32: Frank Barth sagt:
+Zieh’n Sie mal ein Update:
+http://tinyurl.com/hlc7v4f
+Wo stehen den eine 100% Stromversorgung in den Vorgaben für Deutschland?
+In ihren
+http://tinyurl.com/hlc7v4f
+werden nicht die politische Vorgaben der Bundesregierung gezeigt sondern die Vorstellung von ca. 14 MdB und der Bundestag hat ca. 630 Mitglieder da stellen die 14 nicht die Mehrheitsmeinung dar.
+#32: Frank Barth sagt:
+„Jetzt haben Sie aber nicht an die bösen auf Grundlage fossiler Rohstoffe arbeitende Kraftwerke gedacht?
+Aber konkret: Wo sind die Speicher, die nennenswert das Stromnetz stabil halten?
+Und wie halten Sie mit PV und Wind das Stromnetz stabil?“
+Kraftwerke die mit fossiler Rohstoffe arbeitenden wird es ja auch in Zukunft geben und weshalb sollen die den nicht Strom Produzieren.
+Deren Anteil wird nur zurückgehen, egal ob auf 10 % oder 50% ob das in 10 Jahren geschieht oder in 30 Jahren ist nebensächlich.
+Bereits heute ist in teilen der Welt das kWh aus neuen EE-Quellen günstiger als aus neuen Konventionellen und Kernkraftwerken.
+Die Konventionellen und Kernkraftwerke müssen es eben schaffen bei verringerten Vollaststunden eine wirtschaftlichen Betrieb zu erreichen.
+Mit freundlichen Grüßen
+Das mit der Kontinuitätsgleichung haben Sie offenbar nicht begriffen. Ist so ähnlich wie das gigo-Prinzip.
+Wissen Sie denn wenigstens was das ist?
+„Und womit beschäftigen sich Meteorologen hauptsächlich?“
+Ich hoffe doch nicht mit Kaffeesatz.
+In #18 schrieben Sie:
+„Das ist falsch, denn die kann jedermann mit Hilfe der Daten der Netzbetreiber und der Kontinuitätsgleichung selbst erstellen.“
+Die Netzbetreiber liefern zeitabhängige Leistungsdaten für ihre räumlichen Gebiete. Die kann man leicht auswerten. Nur erschließt sich mir nicht, inwiefern man dazu die Kontinuitätsgleichung benötigt. Deshalb meine eigentlich höflich gestellte Frage, die Sie bisher nicht beantwortet haben.
+Und womit beschäftigen sich Meteorologen hauptsächlich?
+am Donnerstag, 08.09.2016, 23:06
+Herr Chris Frey, nur die Hälfte in #24 verstanden ?
+#24 Zitat:
+„Kohlepreis in 5, 10 , 20 oder in 40 Jahren ?
+Das wird spannend, von der Sonne kommt zumindest keine Rechnung“
+Kohle und Gas gibt es nicht im eigenen „Garten“ kostenlos, da kommt auch eine Rechnung, auch ist die Höhe in der Zukunft heute noch nicht bekannt.
+Heute kostet die T Kohle z.B. 60 €, im 10 Jahren kann die T für 30€ zuhaben sein aber auch für 200€/T, nur kostenlos werden die T auch in z.B. 10 Jahren nicht angeliefert.
+Mit freundlichen Grüßen
+#################################################,
+Die Energiedichte der Sonnenstrahlung in ihrem Garten, je nach Wetterlage, Jahreszeit und Tageszeit, reicht noch nicht einmal für das nackte Überleben im Winterhalbjahr. Und damit das bisschen PV-Strom überhaupt an die Steckdose kommt brauchen Sie Kupfer, Kunststoffe, Aluminium, Silicium… und das wächst alles definitiv nicht „kostenlos“ in ihrem Garten.
+Nur weil einem im eigenen Garten die Sonne kostenlos auf den Kopf scheint, kann man daraus noch lange keinen „Strom für umsonst“ generieren. Aber so viel Durchblick fehlt in der Deutschen „Energiewende“, statt dessen ganz viel „wir schaffen das“…
+Die Kontinuitätsgleichung ist ein wohldefinierter Begriff aus der Strömungsmechanik. Da musss ich nicht suchen.
+die einzig richtige und EINFACHE Antwort.
+Auch hier war es DIE SONNE mit der Fotosynthese,
+nebenbei natürlich wesentlich effektiver als diese technische Solar-Dingsbums auf Dächern und Feldern.
+„Wo stehen den eine 100% Stromversorgung in den Vorgaben für Deutschland, sind irgendetwas um die ca. 45% in einem überschaubaren Zeitfenster von den Politik vorgegeben, aber keine 100%.“
+Zieh’n Sie mal ein Update:
+http://tinyurl.com/hlc7v4f
+Warum sagt denn ein Netzbetreiber 50 Hertz,:
+(Mensch, Herr Müller, wir sind hier nicht in der Medizin, die heißen „50 Hertz“ und nicht „50 Herz“)
+„dass 70 bis 80% EEG Strom sind möglich ohne großflächig Speicher zu bauen.“
+An wessen Busen nährt sich der Netzbetreiber 50 Hertz? Und auch die anderen?
+„Auch steht ja nicht nur PV, Wind und Speicher zur Verfügung um das Stromnetz stabil zu halten.“
+Jetzt haben Sie aber nicht an die bösen auf Grundlage fossiler Rohstoffe arbeitende Kraftwerke gedacht?
+Aber konkret: Wo sind die Speicher, die nennenswert das Stromnetz stabil halten?
+Und wie halten Sie mit PV und Wind das Stromnetz stabil?
+„Regelenergie“ – Koste es, was es wolle und auf Kosten der Natur.
+Herr Müller,
+gehen Sie doch diesem ganzen Ungemach aus dem Weg.
+Kaufen Sie sich noch das ein oder andere PV-Paneel und ein paar Speicherzellen und dann wird alles gut.
+Vergessen Sie nicht, Ihrem Stromversorger zu kündigen und den Hausanschluss zurückbauen zu lassen.
+Und falls Sie bei Ihrer Familie dann auf einiges Unverständnis stoßen und mit dem einen oder anderen „netten“ Tierchen bezeichnet werden – den Weg zum Arzt schaffen Sie doch mit dem Fahrrad.
+Schummeln gilt nicht.
+Naja, und falls Sie dann mit dem Hausanschluss und des nachts doch ein bisschen schummeln, dann vergegenwärtigen Sie sich Ihren Netzbetreiber 50 Hertz.
+Die schummeln auch bisschen bei Ihren Aussagen.
+Man hört es halt so gern und schließlich braucht es einiges Geld seitens der Regierung für den Netzausbau – viel Geld.
+Und weil Sie von Größenordnungen so viel Ahnung haben, können Sie auch abschätzen – wieviel Geld.
+Und das dieses viele Geld auch ihres ist, was da verbrannt wird.
+Die Rohstoffkosten sind die geringsten Kosten. Teuer wird es erst dann, wenn der Gierige Staat mit seinen Steuer- Öko- und Abgabengesetzen zuschlägt.
+Das Problem in unserer Marktgesellschaft sind politisch motivierte Gesetze, die der Gesellschaft mehr schaden als den Nutzen und damit Wohlstand mehren.
+Mit politischen Gesetzen, Vorschriften, Abgaben kann ich die gesamte freie Marktwirtschaft und damit den freien Bürger steuern. Siehe nur die gesetzlich (ideologisch) festgelegten CO2 Abgasgrenzwerte.
+Die Politik mit ihren Gesetzen und Vorschriften spielt ein perverses Spiel mit uns Bürgern. Es wird Zeit für Veränderungen! Es wird Zeit, dass der Bürger diese-seine POLITIK wieder selbst in die Hände nimmt. Dazu muss er aber erst einmal aus seinen Hamsterrad aussteigen und die etablierten Machenschaft-Lobbyparteien im Deutschen Bundestag zum Teufel jagen. Die EU gehört gleich mit abgeschafft. Nur dann kann man mit den Bürgern zusammen auf einen weißen Blatt Papier seine bürger- und marktfreundlichen Gesetze und Rahmenbedingungen aufzeichnen. Danke!
+Ach? Wer hat denn Kohle, Gas und Öl in die Erde gebracht? Wellche Firma hat dafür kassiert? Und vor allem: Das Zeug war ja schon lange vor den Menschen in der Erde. Wer hat dafür wen bezahlt?
+Na?
+Chris Frey
+#24 Zitat:
+„Kohlepreis in 5, 10 , 20 oder in 40 Jahren ?
+Das wird spannend, von der Sonne kommt zumindest keine Rechnung“
+Kohle und Gas gibt es nicht im eigenen „Garten“ kostenlos, da kommt auch eine Rechnung, auch ist die Höhe in der Zukunft heute noch nicht bekannt.
+Heute kostet die T Kohle z.B. 60 €, im 10 Jahren kann die T für 30€ zuhaben sein aber auch für 200€/T, nur kostenlos werden die T auch in z.B. 10 Jahren nicht angeliefert.
+Mit freundlichen Grüßen
+Sie sollen ja nicht mit der Kontinuitätsgleichung rechnen.
+Was den von Ihnen behaupteten „saisonalen Ausgleich“ betrifft, sind Sie beweispflichtig. Die Daten des Netzbetreibers 50-Hertz zeigen was Anderes.
+Die von mir für den Hessischen Landtag verwendeten Daten des MI der Uni-Hamburg übrigens auch. Muß ja auch so sein wegen der Kontinuitätsgleichung.
+Lieber Hr. Müller,
+in Ihrer Rechnung und Ihrer Argumentation haben Sie vergessen, dass die Sonne nur zu weniger als 10 % des Jahres Strom liefert. Für den Rest sollen wir wohl im Hamsterrad laufen, so ganz rechnungsfrei, oder wie stellen Sie sich vor, wie man nachts ein Krankenhaus betreiben oder eine Stadt heizen und beleuchten soll?
+Sie müssen ihre Mitmenschen schon für sehr dumm halten, dass Sie hier mit solchem Schwachsinn auflaufen. Es zeigt aber Ihr Weltbild: Profit, Profit, Profit, alles für mich und auf Kosten der Allgemeinheit.
+Mfg
+Kontinuitätsgleichung? Kaufen Sie sich ein gutes Physikbuch. Oder nutzen Sie einfach ihre bevorzugte Suchmaschine.
+„Das wird spannend, von der Sonne kommt zumindest keine Rechnung.“
+Ach nee! Kohle, Gas und Öl schicken doch auch keine Rechnung!
+Oder?
+Chris Frey
+„Motoren und PV-Module wachsen Ihrer Meinung nach anscheinend auf dem Acker und benötigen keinerlei Rohstoffe, Fabrikationsprozesse, entsprechende Energie etc. pp bis hin zur sachgerechten Entsorgung nach Ende der Funktionsfähigkeit?“
+Herr Fred F. Mueller weder PV-Module noch Motoren wachsen auf dem Acker.
+Auch die Schaufelradbagger, Gaspipeline, Uranaufbereitungsanlagen usw. wachsen auch nicht auf dem Acker da ist man bei der Anfangsinvestition gleichstand und entsorgt müssen auch die Konventionelle und der AKWs werden.
+Nur sobald man das erste kWh aus z.B. einem Kohlekraftwerk haben möchte muss man 2 bis 3 kWh an „Kohleenergie“ einwerfen und das kostet „Kohle“ und noch die nächsten 20 bis 40 Jahre auch noch.
+Kohlepreis in 5, 10 , 20 oder in 40 Jahren ?
+Das wird spannend, von der Sonne kommt zumindest keine Rechnung.
+#22: Frank Barth sagt:
+„Da sollten Sie dann ganz schnell ein paar mehr Windrädl aquirieren als für die Deckung der Stromversorgung in Dt. mit 100% aus Wind- und Solarstrom erforderlich sind, damit das Wasser wieder dort ist, wo Sie es vor der nächsten Flaute brauchen.
+Haben Sie eine Vorstellung, welche Größenordnung so eine Druckpumpe pro min. aus dem Netz nimmt?“
+Hallo Herr Frank Barth,
+Wo stehen den eine 100% Stromversorgung in den Vorgaben für Deutschland, sind irgendetwas um die ca. 45% in einem überschaubaren Zeitfenster von den Politik vorgegeben, aber keine 100%.
+Selbst die Netzbetreiber 50 Herz sagt das 70 bis 80% EEG Strom sind möglich ohne großflächig Speicher zu bauen.
+Auch steht ja nicht nur PV, Wind und Speicher zur Verfügung um das Stromnetz stabil zu halten.
+Ich habe so den Eindruck Sie haben keine Vorstellungen von den Größenordnungen.
+Herr Barth, Sie haben auch nicht verstanden was die Leute mit dem Naturstromspeicher erreichen wollen, weder eine 100% Stromversorgung für Deutschland noch eine nur auf PV + Wind beruhende 100% Stromversorgung.
+Naturstromspeicher soll „Regelenergie“ zur Verfügung stellen, so lese ich das in den Veröffentlichungen, keine 100% Stromversorgung an 365 Tagen.
+Auch ihre veröffentlichen Zahlen sind nicht Korrekt:
+„#42 Mit Ihren 6 Bodenseen mit 400m effektivem Höhenunterschied wäre ich mir auch nicht so ganz sicher, weil die Ihnen während einer etwas länger anhaltenden Flaute so nach erzeugten 40 GWh (ich übernehme mal Ihre Angaben so) leer sind.“
+6 Bodenseen mit 400m effektivem Höhenunterschied.
+Das sind ca. 40.000 GWh und keine 40GWh.
+„Allein für die NBL + HH (50-Hertz-Netzgebiet) benötigt man eine Speicherkapazität von ca. 40 GWh.
+Der Autor Peters hat fälschlich behauptet, daß noch keine Untersuchung zur Frage der zeitlichen und räumlichen Verfügbarkeit von Wind- und Solarstrom gäbe. Das ist falsch, denn die kann jedermann mit Hilfe der Daten der Netzbetreiber und der Kontinuitätsgleichung selbst erstellen. Physiker müssen sowas können.“
+Herr Heinzow,
+Sie meinen sicher 40 TWh. Versucht man Ihre Zahlen, für ganz D wären das etwa 200TWh, nachzuvollziehen, kommt man zu den Ergebnis, dass Sie die Energiemenge, die für etwa 100 Tage benötigt wird, als Speicherkapazität annehmen. Selbigen Wert bekommt man auch aus der Drucksache ULA-KB-063, des Hessischen Landtages heraus, in dem Sie eine Speicherkapazität für die Substitution eines 1GW-Grundlastblockes angeben.
+Rechnet man aber mit den viertelstündlichen Daten der Netzbetreiber (Erzeugung Wind+PV und Verbrauch), kommt man auf viel weniger als 200 TWh. Es ist schon ein Unterschied, ob man die Energiemenge VON(!) 100 Tagen speichern muss oder ob man Energie ÜBER(!) 100 Tage speichern muss; zweiteres ist realistisch, da saisonaler Ausgleich.
+Was wollen Sie mit der Kontinuitätsgleichung in diesem Fall berechnen? Zumindest scheint mir das recht umständlich, wenn man zeitdiskrete Daten hat, die man mit den vier Grundrechenarten verknüpfen kann, um zu einem Ergebnis zu kommen.
+Seufz, seufz, . . . was machen wir denn mit Ihnen?
+#18: T. Heinzow
+a) das ist nicht das einzige PSK der Schweiz und auch nicht das einzige zuverlässig Strom erzeugende Kraftwerk und
+b) argumentierte ich mit EINER „Batterie im Berg“ (Leistung: 1.000 MW, Kosten: ca. 2,1 Mio / inst. MW) und verband das unmittelbar mit in Dt. recht umfangreich geförderten Traumbatterien á la PSK an WKA (Leistung: ca. 16 MW, Kosten: min. 50 Mio / inst. MW)
+(Verstehen Sie, was ich zum Ausdruck bringen möchte?)
+Mit Ihren 6 Bodenseen mit 400m effektivem Höhenunterschied wäre ich mir auch nicht so ganz sicher, weil die Ihnen während einer etwas länger anhaltenden Flaute so nach erzeugten 40 GWh (ich übernehme mal Ihre Angaben so) leer sind.
+Da sollten Sie dann ganz schnell ein paar mehr Windrädl aquirieren als für die Deckung der Stromversorgung in Dt. mit 100% aus Wind- und Solarstrom erforderlich sind, damit das Wasser wieder dort ist, wo Sie es vor der nächsten Flaute brauchen.
+Haben Sie eine Vorstellung, welche Größenordnung so eine Druckpumpe pro min. aus dem Netz nimmt?
+Herrn Müllers PV-Modul wird da nicht viel helfen.
+Es lässt sich der Eindruck nicht leugnen, dass zwischenzeitlich ganze Bevölkerungsschichten verdrängen, dass die Größenordnungen einer zuverlässigen Stromversorgung eines Industrielandes oder Noch-Industrielandes wie Dt. nicht mit einer Gartenteichbeleuchtung vergleichbar ist. Dt. lässt sich nicht auf LED umstellen und dann ist alles gut.
+Gut ist es max. für die Leuchtmittelhersteller – sogar besser.
+„Der Autor Peters hat fälschlich behauptet, daß noch keine Untersuchung zur Frage der zeitlichen und räumlichen Verfügbarkeit von Wind- und Solarstrom gäbe. Das ist falsch, denn die kann jedermann mit Hilfe der Daten der Netzbetreiber und der Kontinuitätsgleichung selbst erstellen.“
+Wozu benötigen Sie die Kontinuitätsgleichung, bzw. was verstehen Sie unter Kontinuitätsgleichung?
+„Was wir meiner Meinung nach benötigen, ist ein grundsätzlicher Neustart in der Energiepolitik, der geeignet ist, bis zum Ende des Jahrhunderts den Ausstieg aus fossilen Rohstoffen zu bewältigen. Die Aufgabe wäre, „echte“ Alternativen zu den fossilen Rohstoffen zu entwickeln. Vielleicht ergibt sich nach der nächsten Bundestagswahl dazu eine Chance.“
+Ende des Jahrhunderts: Noch 80 Jahre!
+Was für einen Sinn macht es, über so lange Zeitabstände zu planen?
+An was für „echte Alternativen“ denkt er denn?
+Kernfusion? Fraglich, ob es jemals gelingen wird. Vielleicht auch einfach nur ein Irrweg, aber Grundlagenforschung sollte betrieben werden.
+Ole Peters stellt in seinem Artikel zwar treffend fest, dass falsche Hoffnungen geweckt werden was Energiespeicher betrifft, nur um dann später selber diese Hoffnungen anzufachen, indem er meint dass „in einigen Jahrzehnten es vielleicht gelingen kann“
+Ich glaube nicht, dass er selber daran glaubt, aber dann ist er ja schon tot vermutlich.
+Vielleicht muss man einen Artikel ja auch so entschärfen, um in Deutschland nicht als reiner Ketzer zu gelten, ich weiss es nicht.
+Lieber Hr. Müller,
+Motoren und PV-Module wachsen Ihrer Meinung nach anscheinend auf dem Acker und benötigen keinerlei Rohstoffe, Fabrikationsprozesse, entsprechende Energie etc. pp bis hin zur sachgerechten Entsorgung nach Ende der Funktionsfähigkeit?
+Mann, haben Sie ein schön simples Weltbild, darum sind Sie zu beneiden. Sie kommen bestimmt im Himmel gleich zu den Seligen, denn selig sind die …..
+Mfg
+„In dem Fall lässt sich wirklich schon mal von nennenswerter Speicherung oder einer „Batterie im Berg“ sprechen.“
+LOL
+Um die Stromversorgung allein in D zu 100% aus Wind- und Solarstrom zu decken, bedarf es einer Kapazität von 6 Seen mit 400m effektivem Höhenunterschied vom Volumen des Bodensees. Drei Oberbecken und drei Unterbecken.
+Allein für die NBL + HH (50-Hertz-Netzgebiet) benötigt man eine Speicherkapazität von ca. 40 GWh.
+Der Autor Peters hat fälschlich behauptet, daß noch keine Untersuchung zur Frage der zeitlichen und räumlichen Verfügbarkeit von Wind- und Solarstrom gäbe. Das ist falsch, denn die kann jedermann mit Hilfe der Daten der Netzbetreiber und der Kontinuitätsgleichung selbst erstellen. Physiker müssen sowas können.
+„(Rechtsgutachten Humboldtuni. http://tinyurl.com/hmhoyv3) “
+Man muß wissen, daß das Rechtssystem von Willkür beherrscht wird, die Juristen zu den am schlechtesten ausgebildeten Akademikern gehören (zum Bestehen der Prüfungen muß massiv Geld in Repititoren investiert werden) und die Richter in Hinterstuben der Parlamente handverlesen werden.
+Im €-Vertrag steht drin, daß Staaten nicht für die Schulden anderer Staaten haften. Hat die Ossi-Tante aus Mäck-Pommes nicht interessiert und die obersten Richter haben es abgesegnet.
+Daß das EEG einen schwerwiegenden Eingriff in die Privatautonomie bedeutet und eine verbotene Subvention darstellt ebensowenig.
+Auch die körperliche Unversehrtheit der Anwohner – hat Verfassungsrang ganz oben – wird ignoriert.
+Es stellt sich die Frage, welcher sinnvollen Verwendung man das Papier, auf dem die Gesetze gedruckt werden, man zuführen sollte, einschließlich dessen, was der Bundestag so produziert.
+„„Die Sonne schickt keine Rechnung.“ – Machen Kohle, Uran oder Erdgas i.d.R. auch nicht.“
+O.K.
+Die Sonne schickt seine Strahlen auf die Erdoberfläche und ich kauf ein PV-Modul und eine Gleichstrommotor und lege die PV auf die Erdoberfläche.
+Bei Sonnenschein läuft der Motor heute, morgen und auch noch in 10 Jahren da kommt keine weitere Rechnung.
+Kohle, Uran oder Erdgas schickt auch keine Rechnung solange die Sachen 100 bis 6000m unter der Erdoberfläche liegen das ist richtig.
+Dann muss man die Sache erst mal ausgraben, veredeln, transportieren und das Tag für Tag aufs neue bevor man einen Motor laufen lassen kann.
+Läuft der Motor sind danach die Sachen verbraucht und man braucht Nachschub, jeden Tag wieder neu.
+Mit freundlichen Grüßen
+Ich gebe Ihnen da uneingeschränkt Recht.
+Und die Kostenverteilung auf die Schultern der Allgemeinheit beschränkt sich nicht mehr nur auf uns Deutschen, sondern inzwischen auch auf unsere europäischen Nachbarn.
+Offensichtlich wird das am Bsp. Linth-Limmern (Grimsel 3 wurde ja sistiert – die Schweizer haben dafür immer so schöne Worte):
+2,1 Milliarden Franken Investition mit dem Wissen:
+„Ob sich das rechnet, lässt sich heute nicht sagen.“
+Und das ist ja kein Kinderkram wie PSK an WKA – mit denen einige Deutsche glauben, die Energiewende zu retten.
+„Pro Sekunde schlenzt die Pumpe nun 46 Kubikmeter Wasser 630 Meter hinauf in den Muttsee.“
+Voll Inbetriebgenommen laufen 4 Pumpen parallel.
+Damit lässt sich in Spitzenlast schon mal 1 GW Strom bereitstellen.
+Und das nicht nur ein paar Minuten, denn der Muttsee wurde auf 23 Millionen Kubikmeter erweitert.
+In dem Fall lässt sich wirklich schon mal von nennenswerter Speicherung oder einer „Batterie im Berg“ sprechen.
+Umso schlimmer, dass deutsche Weltenrettungsambitionen selbst sinnvolle Projekte im Ausland ruinieren und schädigen.
+Die Schweizer sollten sich daran erinnern, wenn sich in Deutschland der Wind zur Sonne des Nachts ins Bett legt und unsere KKWs zu Schwungmassen umfunktioniert wurden.
+Danke für die Ergänzung. Ich teile aus vielen Gründen die Vorteilhaftigkeit und Notwendigkeit von PSW in der Marktwirtschaft. Ursache der derzeitigen lokalen Unwirtschaftlichkeit von PSW (Oberhasli AG) liegt nicht in den eigenen Kostenstrukturen der PSW, sondern weil „der Gesetzgeber … also die Art der Produkte (Grün-Strom) und die darauf bezogene Nachfragepflicht gesetzlich vorgibt. Das aber ist keine Preisregelung sondern staatlich initiierter Mittelfluss, der den Markt für Grünstromanlagen entstehen lässt und ihn zugleich auf den Schultern aller Letztverbraucher, d.h. der Allgemeinheit, gegenfinanziert.“ (Rechtsgutachten Humboldtuni. http://tinyurl.com/hmhoyv3)
+„Die wirtschaftlichsten mir bekannten Forschungsprojekte für großtechnische Speicher werden die Kosten heutiger Pumpspeicherkraftwerke (ca. 150 EUR/kWh) höchstens um die Hälfte unterbieten können, auch perspektivisch in den nächsten Jahrzehnten.“
+Bei einer Angabe zu Kosten der Arbeit von Pumpspeicherkraftwerke wäre schon das zugrundeliegende Zeitintervall interessant.
+„das heutige Erdgasnetz kann Gas für mehrere Monate speichern“
+Speziell im Winter wäre ich da bisschen vorsichtig.
+Das derzeit verfügbare Speichervolumen von ca. 1/5 des Jahresverbrauchs steht ja auch nicht vollständig zur Verfügung.
+„Ich halte es für den wichtigsten Denkfehler der Energiewende zu glauben, dass Stromspeicher vor der Jahrhundertmitte eine wesentliche Lösung bei ihrer Umsetzung spielen könnten.“
+Die 3 wichtigsten Denkfehler der Energiewende sind zu glauben, Strom aus Wind und Solar:
+– könnten bedarfsgerecht zur Verfügung gestellt werden (z.B. unterem dem Motto: Irgendwo weht immer Wind.)
+– hätten nur annähernd auch nur den Schein der Energiedichte fossiler Energieträger, insbesondere auch Energieträger der kerntechnischen Nutzung und
+– würde nichts kosten, (weil „Die Sonne schickt keine Rechnung.“ – Machen Kohle, Uran oder Erdgas i.d.R. auch nicht.)
+Insgesamt ein recht schwacher und sich in Allgemeinplätzen verlierender Artikel.
+Da lassen sich nach einer Recherche auf diesem Portal in kurzer Zeit wesentlich aussagekräftigere, besser recherchierte und faktenbasierte Artikel finden.
+„Da Sonnenenergie aber im Winter und Sommer stark unterschiedlich anfällt, ersetzt die Mittags-Photovoltaik-Erzeugung Pumpspeicherwerke nur halb. Photovoltaik macht also auf das Jahr betrachtet weder einen konventionellen Kraftwerkspark noch die noch vorhanden Pumpspeicherwerke bei der Versorgung der Mittagsspitzenlast überflüssig.“
+Überflüssig nicht, aber unwirtschaftlich.
+Wer heute Pumpspeicherwerke noch als sinnvolle Unternehmung betrachtet, unterstellt, dass diese vor dem massiven Zubau von Wind- und Solar-Stromerzeugungsanlagen Gewinne von 50% und mehr realisiert haben.
+Wunschdenken.
+Fragen Sie mal die Schweizer, speziell z.B. den Verwaltungsrat der Kraftwerke Oberhasli AG zum Thema Grimsel 3.
+Dort sitzen noch Leute, die Mathematik nicht in der 4. Klasse abgewählt hatten und bereits 2013 festgestellt hatten:
+„Doch der Wind- und vor allem der Sonnenstrom brechen diese Preisspitze, weil sie mittags im Überfluss vorhanden sind. Das Geschäftsmodell der Pumpspeicher sei «nahezu wirkungslos geworden», beklagte sich kürzlich denn auch KWO-Chef Gianni Biasiutti.“
+Oder nehmen Sie Linth-Limmern – aktuell im Probebetrieb.
+Mit dem Fazit:
+„2,1 Milliarden Franken hat die Axpo dafür in Linth-Limmern investiert. Ob sich das rechnet, lässt sich heute nicht sagen. Geplant wurde der Bau 2005, als noch von einer «Stromlücke» die Rede war, der Neubau eines AKW erwogen wurde und das Geschäft mit dem Pumpstrom lukrativ war. Inzwischen herrscht durch den subventionierten Ausbau der Solar- und Windenergie in Europa Stromschwemme, und die Preise für Spitzenstrom sind eingebrochen. «Unter heutigen Bedingungen würden wir das nicht mehr bauen», sagt Huwyler (Leiter Hydro- Energie beim Stromkonzern Axpo). Das Stromsystem sei aus dem Lot, und zu gross wäre das unternehmerische Risiko. Von einem Investitionsflop will er aber nicht sprechen. «Linth-Limmern ist eine riesige Batterie, die Strom lagerfähig macht», sagt er. Vor allem die Flexibilität sei ein Trumpf. In zwei bis zehn Minuten kann das Werk von Turbinieren auf Pumpen wechseln und die Pumpleistung stufenlos steuern. So kann es die schwankende Produktion von Wind- und Solarstrom glätten und die Versorgung sichern. «Wir sehen das als langfristige Investition, die sich über 80 Jahre rechnen muss. Niemand weiss, wie sich Produktion und Preise in den nächsten Jahrzehnten entwickeln.»
+„80 Jahre“ !!! – ohne Kommentar
+Ökonomisch wäre es sinnvoller das EEG ersatzlos zu streichen. Der ökonomisch sinnvollste Betriebszustand von Windmühlen ist der Stillstand.
+Allerdings kann man von einem Diplom-Physiker nicht erwarten, daß er die Ökonomie des EEG und der Windmühlen begreifen kann.
+„Die raum-zeitlichen Eigenschaften der Witterung auf einer Zeitskala von Tagen bis Monaten und für kontinentale Gebiete wurden aber bislang noch nie systematisch untersucht, obwohl dies für die Planung der Energiewende mit Wind, Sonne und Speichern notwendig gewesen wäre.“
+Das ist kompletter Unfug, denn diese Untersuchungen haben stattgefunden. Nur hat die ERgebnisse niemand publiziert, weil es politisch nicht erwünscht ist, daß bekannt wird, daß die Speichertechnologie nicht finanzierbar ist. Der Strompreis dürfte dann in etwa bei 1 € liegen. Es darf auch nicht übersehen werden, daß die teuren Anlagen mit Hilfe des teuren sog. Ökostroms“ hergestellt werden müßten, statt mit Hilfe der billigen fossilen Energieträger.
+So einfach ist Elektrotechnik leider nicht.
+Scheinleistung PS gibt es nur bei Wechselstromsystemen. PS ist das Produkt von Strom und Spannung. Bei Phasengleichheit ist PS = PW (Wirkleistung). Strom I und Spannung U sind mit Ausnahme eines Sonderfalles nicht in Phase, wenn auch Kapazitäten und Induktivitäten im Stromkreis sind. PW ist dann U x I x cos(phi) mit phi als Winkel zwischen Strom und Spannung. Die kap. und ind. Blindleistungen PB(ind) und PB(kap) sind entsprechend zu berechnen. Bei Drehstromsystemen kommt auch noch Wurzel(3) ins Spiel.
+Kabelverbindungen zur Leistungsübertragung sind kapazitiv und müssen zum Funktionieren mit kapazitiver Blindleistung gefüttert werden. Freileitungsverbindungen sind je nach Belastungszustand neutral, kapazitiv oder induktiv. Entsprechend müssen sie gefüttert werden, und zwar augenblicklich.
+Generatoren der old-fashioned Kraftwerke sind so ausgelegt, dass sie zur Freude der Netzbetriebsführungen in weiten Bereichen fast verzögerungslos zwischen kapazitiver und induktiver Produktion gefahren werden können. Damit können preiswert und zuverlässig die für die Netz-Systemdienstleistung „Spannungshaltung“ erforderlichen Blindleistungen erbracht werden, was auch die Stromkunden erfreute.
+Die für den Netzbetrieb erforderlichen Blindleistungen sind nicht speicherbar. Sie müssen augenblicklich produziert werden, wenn die Spannungshaltung es erfordert. Im Gegensatz zu den Leistungen der Systemdienstleistung „Frequenzhaltung“ müssen die Blindleistungen regional immer dort zur Verfügung gestellt werden, wo der augenblickliche Bedarf ist. Und der verändert sich ständig.
+Der heutige Netzbetrieb ist viel komplizierter und aufwendiger, als zu den old-fashioned Zeiten. Das betrifft besonders die Systemdienstleistungen Frequenzhaltung und Spannungshaltung. Daneben betrifft es auch noch die Beherrschung der Lastflüsse, die ungewollt nicht über Grenzen schwappen sollen.
+Das alles zu behandeln, würde auch als Kompaktversion eine Vorlesungsreihe dauern. Hier wäre es leider zu lang.
+Seufz.
+Blindanteile von Strom und Leistung (die Spannung auf der Generatorseite ist im Stromversorgungsnetz eingeprägt hinsichtlich Amplitude und zeitlichem – nämlich harmonischem – Verlauf, d.h. bezüglich Frequenz und Nullphasenwinkel) entstehen durch induktive (i.d. Praxis hauptsächlich) und kapazitive lineare Verbraucher, durch nicht-lineare Verbraucher sowie durch entsprechenden parasitären Eigenschaften des Stromversorgungsnetzes.
+Blindanteile in Verbrauchern können tatsächlich „vor Ort“ (Einzel-, Gruppen-, Zentralkompensation) kompensiert werden. Dennoch muss das Netz in der Lage sein Blindströme zu liefern bzw. aufzunehmen. Das Netz ist prinzipiell leicht induktiv, es wird absichtlich nicht zu 100% „ohmsch“ kompensiert.
+Bei „Inselgeneratoren“ gibt es dieses Problem auch: hier sorgen kapazitive (!) Blindelemente im Generator (im einfachsten Fall schaltbare Kondensatorbaugruppen) dafür, dass die Last induktiv (!) sein darf (z.B. Motoren).
+Ach ja, die Physik, die Elektrotechnik und die komplexe Rechnung als symbolische Methode (bei nicht-linearen Elementen auch Fourier …)
+Können sie mir vielleicht aufzeigen, wie Sie auf folgenden wert kommen:
+nach einem Jahr stammten zwei Drittel des Stroms aus Diesel und er kostete durchschnittlich mehr als einen Euro je Kilowattstunde.
+Denn ich bin der Meinung, das es, wenn die Strompreise hier wegen den EEG weiter steige, bald billiger ist einen eigenen Dieselgenerator (bzw. besser einen Gas-Generator) im Keller zu haben. Hier eine grobe Rechnung:
+Dauerleistung 4.200 W
+Tank: 16 Liter
+8h betrieb bei 2/3 Leistung.
+4200W * 2/3 = 2777W
+2777W * 8h = 22,216KWh
+22,216/KWh / 16l = 1,388KWh/l
+Das entspricht 0,72l Diesel pro KWh und das sind dann auch ungefähr 72cent / KWh und nicht 1€. Und das bei einem billigen Baumarktgerät. Ich vermute mal bei einem größeren Generator wie er auf El Hierro vermutlich eingesetzt wurde, sollten 50cent/KWh kein Problem sein.
+http://tinyurl.com/h9wjr3w
+Über die diversen Projekte dieser deutsch- chinesischen Allianz darf relativ häufig ein hauptsächlich von der GmbH Verlagsgruppe Handelsblatt GmbH & Co. KG (gehört zum Machtbereich von Medienzar Dieter von Holtzbrinck ) abhängiger “freier Journalist“ Wolfgang Kempkens berichten.
+Kempings ist studierter Elektrotechniker und hat auch schon mal über die Transmutation von Atommüll berichtet.
+Siehe z.B. diesen m.E. durchaus lesenswerten, nicht zuletzt weil auch flott geschriebenen Artikel aus seiner Tastatur:
+http://tinyurl.com/z9nqloz
+Vermutlich kann er jedoch mit Artikeln über dieses Sujet seinen Lebensunterhalt eher schlecht als recht finanzieren.
+Muß er deshalb vielleicht seine Arbeitskraft an den im Hintergrund agierenden Medienzar Dieter von Holtzbrinck verkaufen?
+Im Vergleich mit Liz Mohn und Friede Springer, den beiden einflussreichen Freundinnen von Angela Merkel ( oder den derzeitigen HauptakteurInnen im politischen Marionettentheater ?? ) ist Dieter von Holtzbrinck zwar wohl nur ein relativ kleines Licht, aber sein Einfluss auf die mediale Berichterstattung über die deutsche Energiewende (“ins Nichts“ !! ) ist m.E. doch beachtenswert.
+BTW: http://tinyurl.com/zyygkpq :
+“Eine Marionette ist eine Gliederpuppe, die von einem Marionettenspieler mit Hilfe von Fäden bewegt wird, die an den einzelnen Gliedern befestigt sind. Das Baumaterial war früher in der Regel Holz. Für die Köpfe wurde häufigLindenholz verwendet, da es eine feine Maserung aufweist, weich genug ist, um einfach bearbeitet zu werden, und hart genug, um langlebig stabil und bruchfest zu bleiben. …“
+Bei mir hat die von Herrn Dieter von Holtzbrinck gesteuerte Presse- Berichterstattung ( Informationspolitik ) jedenfalls bewirkt, dass ich nach sehr vielen Jahren mein Abo der VDI –Nachrichten (ebenso wie das beim gedruckten Spiegel) gekündigt habe.
+Eine Zeitschrift, die sich heute zum Sprachrohr von solchen Leuten macht, muß nicht nur für Ingenieure sondern für jeden einigermaßen gebildeten, erwachsenen Staatsbürger zu einer unerträglichen Zumutung werden:
+http://tinyurl.com/h6pn97k
+PS (als Denk-Anregung für alle EIKE- Mitleser, die sich selber noch etwas in das vertiefen möchten, was ich aus gegebenem Anlass wohl nur hier bei EIKE unzensiert mal ansprechen darf. ) nur noch zwei Links:
+http://tinyurl.com/ozw4d59
+http://tinyurl.com/h3mawqt
+Eine Sache die gerne verschwiegen wird, neben den o.g. Wirkungsgraden der Speicher, kommen die Kosten für den Betrieb der Hardware: Bau, Service und Rücklagen, für Erneuerung (z.B. Batterien). Außerdem, die Energie von Wind und PV bekommen die Betreiber der Speicher auch nicht kostenlos – notwendige Infrastruktur wird wie üblich verlegt, der Verbraucher muss ja zahlen.
+Wenn ich dann Power-to-Gas überschlägig rechne: 1 kWh Windstrom 10 ct, plus „Transport“ 10 ct, plus P-t-Gas ETA 20% – d.h. mal 5, Betrieb 10 ct [keine Ahnung ob das reicht] – Infrastruktur 5 ct ergibt 75ct je kWh. Sonnenstrom kommt noch teurer.
+Aufgabe wäre, „echte“ Alternativen zu den fossilen Rohstoffen zu entwickeln.
+Vielleicht ergibt sich nach der nächsten Bundestagswahl dazu eine Chance.“ Herr Dr. Peters, warum müssen wir denn überhaupt bis zum Ende des Jahrhunderts den Ausstieg aus den fossilen Rohstoffen bewältigen? Glauben Sie etwa die Lüge vom AGW durch anthropogenes CO2? Und was stellen Sie sich unter einer „echten“ Alternative zu den fossilen Rohstoffen, präziser gesagt, zu den fossilen Brennstoffen vor? Gibt es die nicht bereits seit langem in Form der Kernenergie?
+Zwei, Drei Anmerkungen noch…
+1. Obwohl die Pumpspeicherkraftwerke für die Energieversorger vor der marktfeindlichen Energiewende/EEG ein gutes Geschäft waren hat auch der Bürger über niedrige Stromkosten davon profitiert. Eine Win-Win Situation so zu sagen.
+2. Wenn die Grün-Sozialistische Politik davon ausgeht, dass sich in Zukunft jeder seinen eigenen Stromspeicher anschafft, dann zeigt dies nur wie egoistisch und asozial diese Grün-Sozialisten denken. Wie will man die Millionen von Geringverdiender und Sozialhilfeempfänger dazu bringen in ein private EE-Speichersystem zu investieren desen Anschaffungskosten sich auf ein Gegenwert einer Villa belaufen.
+3.Die Zeitskala des Lastverhalten fängt nicht bei Tagen, Stunden oder Monaten an sondern bei Sekunden.

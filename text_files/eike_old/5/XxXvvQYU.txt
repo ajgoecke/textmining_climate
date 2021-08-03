@@ -1,0 +1,128 @@
+Nachbildung
+Die Studie zeigte eine Gleichung der Nachbildung durch GCMs, in welcher diese lineare Beziehung ausgedrückt wird, zusammen mit extensiven Demonstrationen des unveränderten Erfolgs.
+In der Studie werden die GCMs als Blackbox behandelt. Antrieb durch Treibhausgase geht ein, Projektionen der Lufttemperatur kommen heraus. Um diese Ergebnisse geht es hier. Was innerhalb der Blackbox passiert, ist irrelevant.
+In der Nachbildungs-Gleichung der Studie geht der Treibhausgas-Antrieb ein und erfolgreich nachgebildete Projektionen der Lufttemperatur kommen heraus. Genau wie es in GCMs immer der Fall ist. In jedem Falle sind GCM und Nachbildung der Lufttemperatur eine lineare Extrapolation des Treibhausgas-Antriebs.
+Im jüngsten Beitrag von Nick Stokes liest man: „Mit einer gegebenen Lösungs-Funktion f(t) kann man es tatsächlich perfekt nachbilden mit einer gewaltigen Variation von Differentialgleichungen“. Dies, so sagt er, ist eine Kritik an der linearen Nachbildung in der Studie.
+Allerdings müsste in jede Einzelne jener Differentialgleichungen der Treibhausgas-Antrieb eingehen und eine lineare Extrapolation des minimalen Treibhausgas-Antriebs müsste herauskommen. Sollten sich die Differentialgleichungen nicht linear verhalten, wäre die Nachbildung der Lufttemperatur nicht erfolgreich.
+Es würde keine Rolle spielen, welcher Differential-Loop in Nicks Differentialgleichungen auftaucht zwischen Eingangs- und Ausgangssignal. Die Ausgangssignale der Differentialgleichungen müssen notwendigerweise eine lineare Extrapolation des Eingangssignals sein. Wo das nicht der Fall ist, würden die Nachbildungen scheitern.
+Jene notwendige Linearität bedeutet, dass die gesamte gewaltige Variation der Differentialgleichungen von Nick Stokes lediglich ein Satz von unnötig komplizierten Beispielen ist, welche die lineare Nachbildungs-Gleichung in meiner Studie validieren müssten.
+Nicks Differentialgleichungen wären lediglich lineare Emulatoren mit irrelevanten Differential-Quellen; unwesentliche Dekorationen, angeheftet aus künstlichen, oder in seinem Fall polemischen, Gründen.
+Nick Stokes‘ Differentialgleichungen sind kaum mehr als auf komplizierte Art und Weise die gleiche Einsicht wie in der Studie zu zeigen: dass nämlich Projektionen der Lufttemperatur seitens der GCMs lediglich lineare Extrapolationen des bruchteilhaften Treibhausgas-Antriebs sind.
+Seine Differentialgleichungen tragen nichts zu unserem Verständnis bei. Auch widerlegen sie nicht die Aussagekraft der originalen linearen Nachbildungs-Gleichung.
+Die Nachbildungs-Gleichung erfasst die gleichen physikalischen Variablen wie die GCMs, bearbeitet sie auf die gleiche, physikalisch relevante Art und Weise und erzeugt die gleichen extrapolierten Werte. Ihr Verhalten dupliziert all die bedeutenden Qualitäten der Parameter eines jedweden GCMs.
+Die Nachbildungs-Gleichung zeigt die gleiche Sensitivität bzgl. Antriebs-Eingangssignale wie die GCMs. Daher zeigt sie auch die gleiche Sensitivität der physikalischen Unsicherheit in Verbindung mit genau jenen Antrieben.
+Die Gleichheit der Sensitivität der Nachbildung und der GCMs bzgl. der Eingangssignale bedeutet, dass die Nachbildungs-Gleichung notwendigerweise die Zuverlässigkeit der GCMs zeigen muss, wenn man die Gleichung heranzieht für die Verbreitung der Unsicherheiten in den Eingangssignalen.
+Kurz gesagt, eine erfolgreiche Nachbildungs-Gleichung kann verwendet werden, um vorherzusagen, wie sich das GCM verhält; etwas, das direkt gezeigt wird durch die Sensitivitäts-Gleichheit der Eingangssignale. Beide, Emulator und GCM, sind lineare Extrapolations-Maschinen.
+Noch einmal, die Nachbildungs-Gleichung zeigt die gleiche Sensitivität bzgl. eingehender Antriebe wie die GCMs. Daher weist sie die gleiche Sensitivität wie die GCMs auf hinsichtlich der Unsicherheit, welche mit jenen genau gleichen Antrieben einhergehen.
+Fortpflanzung nicht-normaler systematischer Fehler
+In meinem ganz oben verlinkten Beitrag habe ich aus der relevanten Literatur der Bedeutung und des Verfahrens der Fehler-Fortpflanzung beschrieben. Die meisten dieser Studien stammen aus Ingenieurs-Journalen.
+Das kommt nicht unerwartet angesichts der extrem kritischen Aufmerksamkeit, welche Ingenieure der Genauigkeit widmen müssen. Ihre Arbeitsergebnisse müssen sich effektiv verhalten unter dem Spagat zwischen Sicherheit und ökonomischem Überleben.
+Allerdings kommt der Studie von Vasquez und Whiting spezielle Aufmerksamkeit zu. Sie untersuchen die Fehler-Analyse in komplexen, nicht-linearen Modellen.
+Folgendes längere Zitat ist der Erwähnung würdig:
+…Systematische Fehler sind verbunden mit Verzerrungen bei Kalibrierung der Verfahren und der Ausrüstung … Experimentatoren haben den Auswirkungen von Zufallsfehlern bei der Fortpflanzung von Unsicherheiten bzgl. chemischer und physikalischer Eigenschaften immer besondere Aufmerksamkeit gewidmet. Obwohl jedoch das Konzept systematischer Fehler klar ist, gibt es einen überraschenden Mangel von Verfahren, um der Analyse der Fortpflanzung systematischer Fehler Rechnung zu tragen. Letzteres kann bedeutender sein als normalerweise angenommen.
+…
+Normalerweise wird angenommen, dass der Wissenschaftler systematische Fehler auf ein Minimum reduziert hat, aber es gibt immer nicht reduzierbare Schätzungen systematischer Residual-Fehler. Andererseits gibt es eine psychologische Hemmschwelle, dass die Erwähnung der Schätzung systematischer Fehler Glaubwürdigkeit und Qualität der experimentellen Messungen beeinträchtigt. Dies erklärt, warum Bias-Fehlerschätzungen kaum jemals in der Literatur zu finden sind.
+…
+Von besonderem Interesse sind die Auswirkungen möglicher Kalibrierungs-Fehler bei experimentellen Messungen. Diese Ergebnisse werden analysiert mittels kumulativer Wahrscheinlichkeits-Verteilungen (cdf) für die Output-Signale der Variablen des Modells.
+…
+Wie schon von Vasquez und Whiting (1998) bei der Analyse thermodynamischer Daten angemerkt, sind die erkannten systematischen Fehler nicht konstant und neigen dazu, eine Funktion der Größenordnung der gemessenen Variablen zu sein.
+Wenn verschiedene Quellen systematischer Fehler erst einmal erkannt sind (Unsicherheiten aufgrund systematischer Fehler) wird vorgeschlagen, beta zu berechnen als ein Mittel des Bias‘ oder als Korrekturfaktoren wie folgt:
+beta = sqrt[sum over(theta_S_i)²],
+wobei „i“ die Quellen der Bias-Fehler definiert und „theta_S“ die Bandbreite des Bias‘ innerhalb der Fehlerquelle „i“ bezeichnet.
+Das heißt, dass die Unsicherheit aufgrund systematischer Fehler in nicht-linearen Modellen sich als root-sum-square fortsetzt.
+Dies ist die korrekte Berechnung der Gesamt-Unsicherheit in einem Endergebnis, und genau dieses Verfahren wende ich in meiner Studie an.
+Die Bedeutung von ±4 W/m² langwelliger Wolken-Antriebsfaktor (LWCF)
+Diese Illustration könnte die Bedeutung von ±4 W/m² der Unsicherheit im jährlichen mittleren LWCF klären.
+Die Frage, die man sich jetzt stellen muss, lautet: Welche Genauigkeit im simulierten Wolken-Antriebsfaktor ist notwendig, um den jährlichen Einfluss des CO2-Antriebs herauszufiltern?
+Wir wissen seit Lauer und Hamilton (2013), dass der mittlere jährliche ±12,1%-Fehler des von den CIMP5 berechneten Wolkenanteils (CF) einen mittleren jährlichen Fehler von ±4 W/m² im langwelligen Wolken-Antrieb (LWCF) erzeugt.
+Wir wissen außerdem, dass die jährliche mittlere Zunahme des CO2-Antriebs etwa 0,035 W/m² beträgt.
+Unter der Annahme einer linearen Relation zwischen dem Fehler des Wolkenanteils und dem LWCF-Fehler ist der mittlere CF-Fehler von ±12,1% proportional verantwortlich für den mittleren jährlichen LWCF-Fehler von ±4 W/m².
+Dann kann man das notwendige Niveau der GCM-Auflösung abschätzen, um den jährlichen mittleren Anteil des Wolken-Antriebs als Reaktion auf den CO2-Antrieb beschreiben als
+(0.035 W/m^2/±4 W/m²)*±12.1% Wolken-Anteil = 0.11%
+Das heißt, ein GCM muss in der Lage sein, eine Änderung des Wolken-Anteils um 0,11% aufzulösen, um in der Lage zu sein, die Reaktion der Wolken auf die jährliche mittlere Zunahme des CO2-Antriebs um 0,035 W/m² zu erkennen.
+Ein Klimamodell muss die Reaktion der Wolken auf 0,11% genau simulieren, um den Wolken-Antrieb von den jährlichen Auswirkungen der CO2-Emissionen auf das Klima trennen zu können.
+Die Wolken-Rückkopplung auf einen jährlichen CO2-Antrieb von 0,035 W/m² muss bekannt und in der Lage sein, mit einer Auflösung von 0,11% des CF simuliert zu werden, um zu wissen, wie die Wolken auf den jährlichen CO2-Antrieb reagieren.
+Hier folgt ein alternatives Verfahren. Wir wissen, dass die gesamte Wolken-Rückkopplung in der Troposphäre der globalen Wolkenbedeckung von 67% etwa -25 W/m² beträgt.
+Noch einmal, der jährliche troposphärische CO2-Antrieb beträgt etwa 0,035 W/m². Das CF-Äquivalent dieses Rückkopplungs-Energieflusses wird wieder linear geschätzt als:
+(0.035 W/m²/|25 W/m²|)*67% = 0.094%.
+Das heißt, dass das zweite Ergebnis lautet, dass der Wolken-Anteil bis zu einer Auflösung von 0,094% simuliert wird, um die Rückkopplungs-Reaktion von Wolken auf den jährlichen CO2-Antrieb von 0,035W/m² zu zeigen.
+Die Annahme der linearen Schätzungen ist vernünftig. Beide Verfahren zeigen, dass etwa 0,1% CF in der Modell-Auflösung gebraucht werden, um die jährliche Wolken-Rückkopplungs-Reaktion auf das Klima bei einem jährlichen CO2-Antrieb von 0,035 W/m² zu simulieren.
+Dies ist der Grund, warum die Unsicherheit der projizierten Lufttemperatur so groß ist. Die benötigte Auflösung muss 100 mal besser sein als die verfügbare Auflösung.
+Um das erforderliche Niveau der Auflösung zu erreichen, muss das Modell akkurat Wolkentyp, Wolkenverteilung und Wolkenhöhe simulieren, ebenso wie Niederschlag und tropische Gewitter – alles mit einer Genauigkeit von 0,1%. Diese Erfordernis zu erreichen ist unmöglich.
+Der jährliche 12,1%-Fehler der CMIP5 GCMs im simulierten CF ist die untere Grenze der Auflösung. Diese untere Grenze ist noch 121 mal größer als das Limit einer Auflösung von 0,1%, welches erforderlich ist, die Wolken-Rückkopplung zu simulieren auf den jährlichen CO2-Antrieb von 0,035 W/m².
+Diese Analyse illustriert die Bedeutung des LWCF-Fehlers von ±4 W/m² der Auswirkungen troposphärischer Rückkopplungen der Wolkenbedeckung.
+Die Kalibrierungs-Unsicherheit im LWCF reflektiert die Unfähigkeit der Klimamodelle, den CF zu simulieren. Das wiederum belegt das allgemeine Niveau der Ignoranz bzgl. Wolken-Reaktion und -Rückkopplung.
+Die CF-Ignoranz bedeutet, dass der troposphärische thermische Energiefluss nie besser bekannt sein kann als ±4 W/m², ob nun ein Antrieb durch CO2-Emissionen existiert oder nicht.
+Wenn ein Antrieb durch CO2-Emissionen vorhanden ist, können die Auswirkungen desselben nicht in einer Simulation erkannt werden, welche die Auflösung der Wolken-Rückkopplung nicht besser modellieren kann als bis auf ±4 W/m² genau.
+GCMs können einfach die Wolken-Reaktion nicht auf 0,1% genau simulieren. Sie können dieselbe nicht auf 1% genau simulieren – oder auf 10% genau.
+Nimmt die Bewölkung mt CO2-Antrieb zu? Oder nimmt sie ab? Ändert sich die Wolkenart? Bleibt sie gleich?
+Was ist mit tropischen Gewittern? Werden sie stärker, schwächer, oder was? Nimmt der Niederschlag zu oder ab?
+Nichts davon kann simuliert werden. Nichts davon ist derzeit bekannt. Die Auswirkungen von CO2-Emissionen auf das Klima sind für die derzeitigen GCMs unsichtbar.
+[Hervorhebung vom Übersetzer]
+Die Antworten zu all diesen Fragen liegen sehr weit unterhalb der Auflösungs-Limits jedes einzelnen heutigen GCMs.
+Die Antworten sind nicht einmal empirisch verfügbar, weil Satelliten-Beobachtungen nicht besser sind als ±10% bei CF.
+Bedeutung
+Die derzeitigen Klimamodelle können nicht simulieren, wie die Wolken auf einen CO2-Antrieb reagieren. Angesichts der geringen Durchdringung [perturbation] des jährlichen CO2-Antriebs scheint es unwahrscheinlich, dass die GCMs in absehbarer Zukunft jemals in der Lage sein werden, eine Reaktion der Wolken zu simulieren.
+Der CF-Fehler in den GCMs stammt aus einer fehlerhaften physikalischen Theorie. Daher ist es für kein einziges GCM möglich, die Auswirkungen von CO2-Emissionen auf die Temperatur aufzulösen oder zu simulieren, falls es diese Auswirkungen überhaupt gibt.
+Theoretische Fehler schleichen sich in jeden Schritt einer Simulation ein. Theoretischer Fehler heißt, dass ein zugrunde liegendes, sich im Gleichgewicht befindendes Klima eine irrige Repräsentation des korrekten Klima-Energie-Zustandes darstellt.
+Nachfolgende Klimazustände mittels einer stufenweisen Simulation sind weiter verzerrt durch Anwendung einer fehlerhaften Theorie.
+Die Simulationen beginnen falsch und werden immer schlimmer.
+Wenn ein GCM sich durch eine Klima-Simulation hangelt für eine Projektion der Lufttemperatur, geht das Wissen über den globalen CF als Folge eines gestiegenen CO2-Gehaltes so ziemlich gegen Null im ersten Simulations-Schritt.
+GCMs können die Reaktion der globalen Bewölkung auf den CO2-Antrieb nicht simulieren und damit auch nicht die Wolken-Rückkopplung – überhaupt nicht, in keinem Schritt.
+Dies gilt für jeden Einzelschritt einer Simulation. Und die schrittweise Unsicherheit bedeutet, dass sich die Unsicherheit bei der Projektion der Lufttemperatur akkumuliert, wie Vasquez und Whiting anmerken.
+In Zukunfts-Projektionen kann weder das Signal noch die Größenordnung des wahren Fehlers bekannt sein, weil es keine messbaren Größen gibt. Aus diesem Grunde wird stattdessen die Unsicherheit berechnet mittels des Kalibrierungs-Fehlers eines Modells.
+Totale Ignoranz hinsichtlich der simulierten Lufttemperatur ist die notwendige Konsequenz einer Wolken-Reaktion, die um das ±120-fache unter dem Auflösungs-Limit der GCMs liegt, welches für eine Simulation der Wolken-Reaktion auf den jährlichen CO2-Antrieb erforderlich ist.
+Auf der Grundlage jährlicher Mittelwerte ist die Unsicherheit der CF-Rückkopplung in den LWCF ±114 mal größer als die aufgelöste Durchdringung.
+Die CF-Reaktion ist so wenig bekannt, dass selbst schon der erste Simulationsschritt in eine Terra Incognita führt.
+Die Unsicherheit der projizierten Lufttemperatur nimmt deswegen so dramatisch zu, weil sich das Modell Schritt für Schritt von einem ursprünglichen Wissen um die Lufttemperatur zum Startzeitpunkt der Projektion (t = 0) entfernt – weiter und immer weiter in die totale Ignoranz.
+Die Schritt-für-Schritt-Reise der GCMs in immer tiefere Ignoranz bietet die physikalische Rationale für das schrittweise Wurzel-Summen-Quadrat der Fortpflanzung des LWCF-Fehlers.
+Die Fortpflanzung der LWCF-Kalibrierungs-Fehlerstatistik im GCM und die große daraus resultierende Unsicherheit bzgl. der projizierten Lufttemperatur ist eine direkte Manifestation dieser totalen Ignoranz.
+Die Lufttemperatur-Projektionen der gegenwärtigen GCMs haben keinerlei physikalische Bedeutung.
+Link: https://wattsupwiththat.com/2019/09/19/emulation-4-w-m-long-wave-cloud-forcing-error-and-meaning/
+Übersetzt von Chris Frey EIKE
+Lächerlich! Mit meinem IR-Thermometer messe ich z.B.:
+26.07.19 17:20h
+8/8 Clouds: 401,6 W/m² Downstream
+25.09.19 07:40
+3/8 Clouds & 5/8 Sky: 256,1 W/m² Downstream gemittelt
+Einige wenden ein, der Treibhauseffekt würde gegen die Regeln der Thermodynmik verstoßen, was so nicht stimmt. Korrekt ist das nur in Bezug auf diverse autonome „Strahlungsantriebe“ die irgendwas aufheizen sollen. Die gibt es in der Tat nicht!
+Der Treibhauseffekt, so dumm die Bezeichnung auch sein mag, kommt aber letztlich ganz ohne Strahlungsantriebe aus. Funktionieren tut er tatsächlich so, wie das sehr viele „Konsensler“ im Prinzip ganz korrekt beschreiben, wie hier zB…
+https://www.youtube.com/watch?v=hUFOuoD3aHw
+Die (Höhe der) Photosphäre und der atmosphärische Wärmegradient sind die relevanten Faktoren. Gegenstrahlung oder „Strahlungsantriebe“ spielen hingegen keinerlei Rolle und wir verdanken sie nur mangelnder Intelligenz. Offenbar tun sich sehr viele schwer zu erkennen, dass solche Umgebungsstrahlung ja eine Funktion der Umgebungstemperatur sind, und nicht umgekehrt.
+Wäre beispielsweise die Oberflächentemperatur niedriger, gäbe es logischer Weise weniger Gegenstrahlung. Das gleiche gilt für höhere Oberflächentemperaturen. Es macht also wenig Sinn die Oberflächentemperatur mit der Gegenstrahlung zu erklären, da beide logisch verschränkt sind und dieser Umstand letztlich nur das S-B Gesetz wiedergibt.
+Stellen wir uns vor ein Vielflieger würde in der Business Class eines Airliners aufwachen und wäre etwas verwirrt. Er fragt die Stewardess wohin er als Gast der Business Class denn fliegt, und diese antwortet: dorthin, wo die Economy Class auch fliegt. Er fragt nach: wohin fliegt nun also die Economy Class? Und sie: dort wohin auch die Business Class fliegt.
+Das Beispiel zeigt zweierlei Fehler auf. Erstens zeigt es den Zirkelschluss auf den Strahlungsdiagrammen bzw. Strahlungshaushalten zu Grunde liegt, und in dem Sinne wie ich das schon erklärt habe. Zweitens aber hat unser Vielflieger einfach eine blöde Frage gestellt und deshalb eine blöde Antwort erhalten. Hätte er die Frage einfach gehalten, wäre ihm die schnippige Antwort erspart geblieben. Wählt man den falschen Einstiegspunkt hängt man schnell fest.
+Die Vorstellung von „Strahlungsantrieben“, die jenseits von Raumschiff Enterprise unmöglich sind, ist eine solch falsche Fragestellung. Sie verwirrt die Sinne und führt suggestiv ins Verderben. Weder begründen sie einen Treibhauseffekt, noch falsifiziert ihre physikalische Unmöglichkeit einen solchen.
+Wie das mit dem Treibhauseffekt wirklich funktioniert, und vor allem welche Rolle insbesondere Wolken darin spielen, lässt sich von höchst kompetenter Seite her hier nachlesen:
+https://de.scribd.com/document/414175992/CO21
+wuerden sie sagen der THE hat was mit der Masser der Atmosphaere zu tun?
+Das Video ist sehr lang und ehrlich ich kann nicht erkennen an welcher Stelle die „wirkliche“ Erklaerung zum THE anfaengt und wo die falschen Erklaerungen aufhoeren.
+Mit Sicherheit darf man nicht davon ausgehen, das nur die Atmosphaere die von der Sonne erhaltend Energie wieder abstrahlt. Der Anteil der von der Oberflaeche direkt im Atmosphaerischen Fenster abstrahlt sollte immer mit beruecksichtigt werden.
+Daher koennen atmosphaerischen Erklaerungen und Abstrahlhoehen mitnichten als alleinige Wahrheit gelten.
+Bei der Formel fuer den THE in ihrem zweiten Link hat sich eine Fehler eingeschlichen. Die Solar Irradiance ist laut NASA 1366 W/m2. Der Durchschnitt verteilt auf die Einstrahlflaeche ist 70% von der Haelfte 478 W/m2. Eine weitere Mittelung der Solaren einstrahlung als bestrahlstaerke ueber die Erdoberflaeche ist unzulaessig. Um die Energie zu mitteln, sollte man die Einheit der Betrahlung waehlen in J/m2 da die Flaechenrelevante Leistung sich nicht auf die Nachtseite beziehen kann.
+Wie man das richtig rechnet kann man sich bei einigen Anbietern von Solaranlagen anschauen. Die Angaben in kWh oder kWh pro Flaeche macht da mehr Sinn.
+Mfg Werner
+https://www.youtube.com/watch?time_continue=1059&v=rmTuPumcYkI
+So wurde der „Wolken-Korrekturfaktor“ von +/- 4 W/m2 laut dem Autor des entsprechenden Artikels nicht als jährlicher Fehler errechnet und seine Verwendung ist in diesem Zusammenhang aus wissenschaftlicher Sicht sinnlos. Der hier zitierte Artikel unter Anderem deshalb somit ebenfalls. Bitte bilden Sie sich mit obigem Video Ihre eigene Meinung.
+MfG
+Echt genial! Man muss nur darauf kommen!
+A Climate Modeller Spills the Beans
+a href=“https://quadrant.org.au/opinion/doomed-planet/2019/09/a-climate-modeller-spills-the-beans/“>A Climate Modeller Spills the Beans
+Nein: wenn es nach den Wissenschaften ginge, wäre als nächstes eine Entkräftung dran (formelle Eingabe an Journal).
+Aber die IPCC-Sektenanhänger werden das wohl wie bisher weiterhin in Medien-Kampagnen vorantreiben, zu denen auch Forentrolle zu erwarten sind.
+wattsupwiththat.com/2019/09/11/critique-of-propagation-of-error-and-the-reliability-of-global-air-temperature-predictions/
+ansehen. So wie ich das verstanden habe, hängt das Fehlerfortschreiten vom Typ des Systems ab. Ist in ihm keine Selbstkorrektur vorhanden, dann ergibt sich tatsächlich eine so starke Fehlerausbreitung. Es ist so, als wenn ein chaotisch gesteuertes Fahrzeug eine schräge Ebene hinabrollt. Die Streubreite der möglichen Wege wird mit den Zeitfortschritt immer größer.
+Ist dagegen eine Art „Selbstkorrektur“ in dem System vorhanden, wie es bei einer Atmosphäre der Energiefluß von eingestrahlter Sonnenenergie bis zur abgestrahlten Infrarotenergie ist, dann ähnelt das Verhalten eher einem chaotisch gesteuerten Fahrzeug in einer schräg abwärts laufenden Rinne, weil auftretende Energieungleichgewichte immer eine Rückkehr in die Nähe eines „Gleichgewichtes“ erzwingen. Um dieses Gleichgewicht, quasi der Talsohle der Rinne, wird sich das Fahrzeug bzw. die Modellergebnisse bewegen, auch wenn die Fehler im System relativ groß sind.
+Ob allerdings die Klimamodelle richtige Ergebnisse erbringen, ob also in ihnen die „Rinne“ richtig einprogrammiert ist, das ist eine andere Frage und steht auf einem anderen Blatt.
+MfG
+Gerhard Wedekind
+Bei aller Wertschätzung für Roy Spencer, aber er hat das Wesen der Fehlerrechnung nicht verstanden. Es sind ja keine „Selbstkorrekturen“ möglich, weil es sich dabei gar nicht um Energieströme handelt, sondern um schlichte Rechengrößen von Unsicherheiten.Jeder Rechenschritt der Modelle baut auf dem – mit immer größer werdenden Unsicherheiten behaftetem Ergebnis des vorigen Rechenschrittes auf- damit pflanzen sich eben auch die Fehler fort und werden zwangsläufig immer größer.
+… und genau da greift die „Selbstkorrektur“ ein, wenn stochastische Fehler – z.B. fehlerhafte Abschätzung des Wolkeneinflusses – die Energiebilanz verschieben. Sollten sie z.B. zu geringe Abstrahlung der Wolken vorhersagen, dann muß sich das berechnete System (Atmosphäre) aufheizen und folglich die IR-Abstrahlung vergrößern: Der Fehler in der berechneten Temperatur kann dann in Richtung Erwärmung nicht wesentlich weiter propagieren, andernfalls würde der Energiesatz verletzt. Daß die mit dem Fehler berechnete Temperatur des Systems völlig daneben liegen kann, das steht auf einem anderen Blatt. Und der Energieerhaltungssatz m u ß in den Modellen als allererste Randbedingung gewahrt werden, ansonsten könnte man sie sofort in die Tonne werfen!
+Es gibt da ein schönes Kinderspiel „Kakerlaken“, das das Problem gut demonstriert: Batteriegetriebene Kakerlaken rennen da völlig wild und chaotisch auf der Ebene herum und fallen dann zufällig in irgend eines der Löcher. Sie sind ein gutes Beispiel für eine solche stochastische Fehlerausbreitung, wie Sie sie ansprechen. Auf einer Ebene funktioniert das so, aber in einer Schale rennen sie immer um den tiefsten Punkt herum: Hier gibt es eine Art „Selbstkorrektur“.
+Oder reden wir von zwei völlig verschiedenen Dingen? Das ist mir nicht ganz klar.
+MfG
+Gerhard Wedekind
+Hätte Wasserdampf den behaupteten Verstärkungseffekt wäre die Temperatur in den Tropen weit über den 25 bis 30°C.
+Es ist Schwachsinn hoch 3 den Energiegehalt der Atmosphäre über die Temperatur zu bestimmen.
+https://www.epochtimes.de/genial/wissen-genial/fehleranalyse-zeigt-unzuverlaessigkeit-globaler-temperaturprognosen-klimamodelle-abweichung-a3012168.html
+Es macht hiernach sogar keinen Sinn es zu versuchen.

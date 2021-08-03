@@ -1,0 +1,347 @@
+Preisbasis Diesel 1,30 Euro pro Liter (davon 65 Prozent Steuern), moderner Diesel mit 4,5 l/100km kostet dann 5,85 Euro/100km.
+- Preisbasis Elektro-Auto im Schnitt 20 kWh/100km, bei einem Haushaltsstrompreis von 30 ct/kWh kostet das E-Auto 6,00 Euro/100km.
+Öffentliche Stromzapfstellen sind heute schon deutlich teurer. So liegt der Strompreis beim größten deutschen Ladenetzbetreiber (Preisbasis 2018) heute schon bei 67 ct/kWh, entsprechend 13,40 €/100km. Damit sind die spezifischen Kosten für den Kraftstoff schon heute beim E-Auto höher.
+Da auf lange Zeit mit einem relativ stabilen Ölpreis zu rechnen ist (neue Fördertechnologien), andererseits aber wegen des Klimaschutzplanes bis 2050 jedwede Nutzung konventioneller Energien eingestellt werden muss, werden die Kosten für den nur noch aus Erneuerbaren Energien erzeugten Strom drastisch ansteigen.
+Neben der reinen Erzeugung aus Wind und Sonne müssen Netze neu gebaut und erheblich überdimensioniert werden, Speicher gebaut und betrieben werden (Strom aus Power-to-Gas zwischen 0,80 bis 2,30 Euro/kWh ohne Steuern und Abgaben, Gaskraftwerke als Fallback in Bereitschaft gehalten werden. Die dann entfallende Steuer auf Mineralöl von derzeit 41 Milliarden Euro wird in gleicher Dimension als zusätzliche Belastung auf den mobilitätsverbundenen Stromverbrauch zukommen.
+Dies wird einen durchschnittlichen Haushaltsstrompreis von mehr als 1 €/kWh und „Kraftstoffkosten“ von mehr als 20 Euro/100km bedeuten. Diese Grenze wird bei weiterem Verfolgen der Ziele des Klimaschutzplans voraussichtlich aber schon deutlich früher erreicht. Eine Untersuchung des Think-Tank-Rheinland zeigt, dass der Preis für die kWh Haushaltsstrom schon 2030 die 0,50 Euro erreichen kann.
+Wer denn glaubt, dass der teurere Stromverbrauch durch weniger Verschleiß oder Wertverlust eines E-Autos aufgewogen wird schaue in die aktuelle ADAC-Motorwelt:
+- Nissan Leaf Acenta, Verbrauch 22,1 kWh/100km, Reichweite mit einer Batteriefüllung 200 km, Kosten pro Monat incl. Wertverlust 612 Euro.
+- Ford Focus 1,5 TDCI, Verbrauch 3,9 l/100 km, Reichweite mit einer Tankfüllung 1.300 km, Kosten pro Monat incl. Wertverlust 593 Euro.
+- Wie rentabel sind Elektroautos fragt der ADAC, die Antworten hier.
+Der öffentliche Personennahverkehr (E-Busse) und der Transportsektor (E-LKW) werden für Kraftstoff- und Gesamtkosten vergleichbar liegen.
+Autor Wilhelm Stock ist Diplom-Ingenieur.
+Der Beitrag erschien zuerst bei ACHGUT hier
+Bei uns und auch deutschlandweit giebt es jede Mengen an kostenlosen Ladestationen die man auch nutzen kann.
+Die Kosten nicht, aber die Preise, denn alles was limitiert ist kostet bei höherer Nachfrage als dem Angebot mehr.
+Jedenfalls wird es nicht genug Busse und Stadtbahnen geben, um die Menschen transportieren zu können, die jetzt noch mit dem Auto fahren können. Vor allen Dingen im Winter wird es eng, weil da die Sonne fast nie scheint und man den übererzeugten Windstrom nicht speichern kann.
+Aber das wissen die Doofies vom Volk nicht, denn die eldabkassierer der sog. „Ökobranche“ sagen es ihnen nicht.
+Thyristoren, IGBTs und FET sind auch „nur Hardware“. Ich nehme an, dass Sie bei der Aussage man brauche „in erster Linie Hardware“ passive Komponenten, wie Kondensatoren und Drosseln gemeint hatten. Diese werden auch bei transitorbestückte B6-Invertern benötigt, aber werden nicht einfach nur zugeschaltet. Die passiven Komponenten sind bei moderner Leistungselektronik für Zeitkonstanten ausgelegt, die sich aus der Taktfrequenz ergeben – also statt 50 Hz entsprechend Frequenzen im Bereich >100kHz. Damit sind die passiven Komponenten nur noch ein Bruchteil so groß. Der Inverter kann dann alle Bruchteile einer Millisekunde entscheiden, ob er nun Strom vor der Spannung (kapazitive Blindleistung) oder nach der Spannung (induktive Blindleistung) bereitstellt. Es wäre theoretisch auch eine Kompensation von Netzoberwellen möglich, was bei PV-Invertern von Kleinanlagen aber nicht praktikabel ist.
+Wie geschrieben: vom Prinzip der Leistungselektronik könnte jeder PV-Inverter ein 50-Hz-230-V-Netz selbst aufbauen, wenn die Software dazu ausgelegt wäre. Dies ist aber nur für ein getrenntes Inselnetz sinnvoll, sonst kriegt der Techniker am Netz eine gewischt, bzw. wohl eher wird der Inverter durch die Menge an Verbrauchern kein Netz aufbauen können. Und dazu muss weitere Hardware verbaut und zertifiziert werden. Entsprechend gibt es günstige Inverter, die als netzgeführt verkauft werden…
+Deswegen lassen die Hersteller die Bänder noch mal kurz richtig anlaufen, damit jeder sieht dass es nichts wird und endlich das Thema Elektromobilität begraben werden kann…
+Es ist nicht die Liebe zum Elektromobil. Es ist der Zwang der EU-Administration, die ab 2021 bei Überschreitung der Flottenverbräuche Strafzahlungen in Höhe von zigtausend Euro pro Auto verhängt, die letzten Endes die Kunden zu tragen haben.
+Wegen besonderer Gewichtung der Elektromobile bei der Berechnung des Flottenverbrauches lassen die Hersteller die Bänder der Elektromobile „noch mal kurz richtig anlaufen“, und nur deshalb.
+Auch Daimlers 2 neue Batteriefabriken sind nur Montagehallen für aus aller Welt herbeigekarrte Komponenten. Ist der Hype vorbei, werden die Hallen leergefegt und sie werden mit Geräten für die Montage der nächsten Hypeartikel gefüllt werden.
+In 10 Jahren werden wir sehen, was aus dem Akku-Elektromobil geworden sein wird. Es könnte auch des Brennstoffzellen-Elektromobil sein, das das Rennen gewinnen wird.
+Dass in 10 Jahren das Brennstoffzellen-Elektromobil das Rennen gewinnt, ist aber aus wirtschaftlicher Sicht weit hergeholt. Es fällt mir schwer die Wirkungsgrade so zusammenzubringen, dass es finanziell und energetisch besser als ein Batterieelektrofahrzeug aussieht:
+-Elektrolyse (<80%),
+-mehrmalige adiabatische Kompression des Treibstoffs (jeweils Verluste von ungerechnet ca. 10..15% der beinhalteten Energie),
+– dazu noch Vorkühlung des Gases beim Tanken auf jenseits von -30°, damit die Dichtungen keine Leckagen erzeugen,
+-zusätzlicher Verbrauch der Nebenaggregate (allein der notwendige Luftkompressor benötigt ca. 10% der erzeugten Leistung),
+Und dabei habe ich die anderen technischen Herausforderungen noch nicht betrachtet (Konditionieren der Zelle am Start und Ende, Vergiftungsprozesse der Zelle, Treibstoffnetz, …).
+Zum anderen ist das Brennstoffzellenfahrzeug aufgrund der trägen Energiebereitstellung immer ein Hybrid und benötigt eine Pufferbatterie von 2..15 kWh. Damit wird der Wirkungsgrad bei dynamischer Nutzung wie im PKW nochmals reduziert. Themen, wie die Materialproblematik („Kinderarbeit“, Rohstoffmangel, etc.) werden durch die Stacks auch eher mehr und nicht weniger.
+Man soll nie nie sagen – aber ist glaube, die Brennstoffzelle wird wohl eher nicht den PKW-Massenmarkt erreichen.
+Dass das Elektrofahrzeug nur ein Hype bleibt, glaube ich nicht. Außer in dem Fall, dass sich die unterschiedlichen Zulieferer, Experten und Hersteller beim bezahlbaren Mittelklassefahrzeug mit realer Reichweite von 500..600km in den nächsten 10 Jahren irren. Nicht dass, ich diese Fahrzeuge vor/um 2025 erwarte – wie beim Ziel von 1 Mio (H)EVs wird es sich um ein paar Jahre verschieben, aber das Ziel ist klar.
+350 W/m2?
+Hinter welchem Mond leben Sie eigentlich? Welche Schrottzellen preisen Sie hier an? Haben Sie noch nie etwas von der quattrodimensionalen Korngrenzen-SiCanNaBis-Struktur gehört, die in multilateralen Subterralabors entwickelt worden sind und die unmittelbar vor der Serienreife stehen?
+Diese Solarzellen sind der absolute Hammer. Selbst bei Neumond um Mitternacht hauen die noch 1.675 W/m2 in die Akkus. Laden um Mitternacht, wenn fliegende Besen zum Blocksberg reiten, ist kein Wunschtraum mehr.
+Aber pssst. Die Öffentlichkeit weiß noch nichts davon. Behalten Sie das Top-Secret-Geheimnis deshalb für sich und schlagen Sie als early Bird zu, wenn die ersten Platten im Baumarkt angeboten werden. Ihre Nachbarn werden neidisch sein.
+Erfahrungsberichte?
+Auch wenn Sie die Räder direkt an den Speicher montieren und Ihre Sitzposition sich auf dem Speicher befindet, es ändert nichts an der Brauchbarkeit.
+Die Dinger sind nicht rationell nutzbar.
+Warum abwarten? Kaufen kann doch jeder, aber nicht auf Kosten der Allgemeinheit.
+Jeder darf E‑Vehikel bauen und kaufen, aber bitte nicht unter Zuhilfenahme staatlich geförderter Scharotzereien.
+Das ist Betrug.
+Es gibt weder eine Dringlichkeit noch einen Grund zur Einführung irgendwelcher E‑Mobile.
+Alle Verbrecher, die diesen Unfug in die Parlamente getragen haben, gehören schnellstens eingelocht.
+Sehr interessant fand ich diese Betrachtung zum Oseburne-Effekt:
+http://morellife.com/wordpress/modelx/2019/03/14/der-osborne-effekt-und-die-automobilindustrie/
+Derzeit liegen wir recht gut in der Vorhersage.
+Haben will man etwas aber nur, wenn man sich davon höheren Nutzen oder Wert verspricht. Erst wenn E-Autos ohne staatliche Verkaufsförderung von selbst nachgefragt werden, wird dieser Zustand erreicht sein. Ob überhaupt bzw. wann das sein wird, wird die nahe Zukunft zeigen.
+Weil es auch unsinnig ist, jetzt riesige Summen in Infrastruktur zu investieren, wenn die Masse der Nutzer erst in 10 oder 20 Jahren (oder nie) auf den Markt kommt. Weil dann sind höchstwahrscheinlich schon neue Technologien und Standards aktuell.
+Wohl kaum!
+Eher ist anzunehmen, dass Sie ein wenig den Kopf in den Sand stecken gegenüber der sich abzeichnenden Umwälzung bei der Mobilität:
+http://morellife.com/wordpress/modelx/2019/03/14/der-osborne-effekt-und-die-automobilindustrie/
+Wieso haben Sie nicht noch etwa 18 Monate Geduld? Dann sollte der VW ID Neo als als direkter Konkurrent des neuen VW Golfs verfügbar sein. Dann wissen wir, ob ein wettbewerbsfähiges Produkt in größeren Stückzahlen in Deutschland verfügbar ist.
+Hermann Müller
+das wird nichts an der Aussage des Beitrages ändern. Warten auf die Wunderwaffe wurde schon immer durch Physik und Ökonomie böse behindert.
+Bis 2050 sollen derzeit nach dem Willen der Regierung 3.000 TWh Primärenergieverbrauch durch EE ersetzt werden. Glauben Sie, dass bei den bescheidenen Beiträgen von Wind und Sonne Individualverkehr oder richtige Autos noch Platz haben?
+Freuen Sie sich auf den Ochsenkarren
+Vielleicht könnten Sie, Herr Mueller, präzisieren:
+1. Welches Elektroauto besitzen Sie? Welche Nutzenergie hat der Akku Ihres Elektroautos? Mit welcher Spannung und mit welchem Strom kann er nach Datenblatt geladen werden?
+2. Welche Fläche hat Ihre PV-Anlage auf dem Garagendach?
+3. Welche Neigung und Ausrichtung hat die PV-Anlage?
+4. Welche Bemessungsleistung, welche Bemessungsspannung hat PV-Anlage?
+5. Welche Bemessungsdaten hat der nachgeschaltete Stromrichter (Spannung und Strom DC- und AC-seitig. AC-seitig: Anzahl Phasen, Leistungsfaktor cos phi, Absicherung)? Ist der Stromrichter netzgeführt oder selbstgeführt?
+6. Wie ist die Verbindung zum Netzbetreiber aufgebaut? Eigenständiger Zähler, eigenständige Abrechnung, eigenständiges Netzkabel bis zum Anschlußpunkt des Netzbetreibers? Wie hoch waren die Kosten, die der Netzbetreiber für die Errichtung des Anschlusses berechnet hat? Wie hoch sind die Miet- und Messkosten des PV-Zählers?
+7. Welche Eigenschaften hat der installierte Speicher, in dem überschüssige PV-Energie tagsüber für PV-schwache Zeiten zwischengespeichert werden kann?
+8. Warum heizen Sie mit Heizöl und machen sich von Weltmarktpreisen abhängig, wenn doch PV nichts bis fast nichts kostet?
+Die Beantwortung aller Punkte würde die Diskussion versachlichen können.
+Rainer Küper stellt verschieden Fragen am 22. Juli 2018 um 14:40 die ich mal so beantworten das für 90% aller Leute passen.
+Antwort zu Nr.1
+E-Auto kann man kaufen, muss man aber nicht, noch nicht,
+Antwort zu Nr.2
+Eine Fertiggarage, Carport oder auch Stellplatz hat eine Grundfläche von ca. 3m * 6m = 18m² und das reicht für die Jährliche Fahrleistung vom E-Auto, sind ja so ca. 3000kWh bei 15000km.
+Als Pultdach kommt man so auf 20m²
+Antwort zu Nr.3
+Neigung und Ausrichtung ist eigentlich ziemlich egal, sollte nur kein Norddach sein, Verschattung ist da wesentlich bedeutsamer.
+Antwort zu Nr.4
+Bemessungsleistung und die Bemessungsspannung kann man ja selber wählen, spielt aber auch keine entscheidende Rolle für was man sich entscheidet. Entscheidend ist nur das man die max. Fläche ausnutzt mit PV.
+Die PV-Platten sind ja extrem günstig, deshalb drauf was aufs Dach, Wand, Fassade, Balkongeländer, als Gartenzaun u.s.w. was so geht.
+Antwort zu Nr.5
+Die Wechselrichter gib es in allen möglichen Ausführungen, man sollte Richtung Inselwechselrichter Möglichkeit tendieren.
+Man sollte sich für einen der Netz und Inselversorgung kann, eine Akkuladesystem und mit den Lademöglichkeiten vom E-Auto kommunizieren kann entscheiden wenn man einen neuen Wechselrichter braucht.
+Vermutlich 95% aller heute im Einsatz sich befindenden Wechselrichter können nur Netzsynchron, gut das E-Auto kann man natürlich auch damit laden.
+Persönlich würde ich das aber Abrechnungstechnisch Optimieren, als so das man auch hauptursächlich nur PV-Strom ins E-Auto schiebt bei den Netzwechselrichtern.
+Antwort zu Nr.6
+Die Verbindung zum Netzbetreiber geht über Kabel, Leitungen, Bezugs und Lieferzähler ist der Vorhanden Hausanschluss, vorhanden Netzanschluss zu den Betrieben.
+Ich persönlich habe keine PV-Einspeisezähler, speise aber auch keine PV-Leistung zurück ins Netz, Einspeisung ist für mich nicht wirtschaftlich.
+Antwort zu Nr.7
+Für die PV-Schwache Zeiten braucht man keinen Zwischengespeicher, macht doch keinen Sinn, noch keinen Sinn.
+Weshalb soll man den PV-Strom in einen Zwischengespeicher als Strom einlagern, gibt doch keinen vernünftigen Grund heutzutage.
+Antwort zu Nr.8
+Kompilation PV + Öl ist das Wirtschaftlichste und als Nebendefekt noch Schadstoffmindern, gibt doch keinen Grund weshalb man komplett auf ÖL bei der Heizung verzichten soll.
+Alle Fragen beziehen sich auf das, was Sie vorspiegeln, zu besitzen: Ihr Elektroauto, Ihre Garage, Ihre PV-Anlage, Ihr Energiespeicher, Ihre Nebenanlagen, Ihr Anschluss an das öffentliche Netz.
+Tatsächlich stapeln Sie hoch. Sie haben überhaupt kein Elektroauto. Sie haben keine Garage. Sie haben keine PV-Anlage. Sie tun nur so, als ob.
+Ihre Kommentare sind Müll. Hauen Sie sie in die Tonne. Achten Sie aber auf korrekte Mülltrennung.
+Damit dürfte die Diskussion mit Ihnen beendet sein – gleich, zu welchem Thema.
+Ich will nicht jeden Punkt aufgreifen…
+Zu 2: Von 20 qm könnte man max. um die 1900 kWh per anno gewinnen und niemals 3000!, und auch nur dann, wenn das Auto zum Laden angschlossen ist, also bei Sonne kein Auto fahren!!! „Zwischenspeichern“ wollen Sie ja auch nicht (Zu 7.). Der „Ertragsgang“ von PV übers Jahr scheint Ihnen auch nicht geläufig zu sein. Was machen Sie mit der E-Kutsche bei Dunkelflaute im Winter???
+Zu 3: Auch keinen Schimmer Ahnung, so wie die allermeisten Anbieter von PV, die ich vor Jahren mal kennengelernt habe.
+Eigentlich hat es keinen Sinn, mit Leuten „Ihres Kalibers“ überhaupt zu kommunizieren….., das ist Hopfen und Malz verloren.
+Na Herr Ulrich Tengler,
+nehmen wir mal eine Stadtartmodulgröße ca. 1m * 1,7m das gibt es z.B. mit 330Watt Leistung, also ca. 0,194 kWp/m².
+Von 1 kWp kommt so im Jahr ca. 1000 kWh im Jahr in Süddeutschland und in Norddeutschland ca. 900 kWh/kWp, gut nehmen wir mal nur 800 kWh/kWp.
+Sind dann bei 20m² ca. 3,88 kWp die man bei 20m² unterbringen kann.
+3,88kWp * 800 kWh/kWp = ca. 3100 kWh die man im Jahr bekommt.
+Na Herr Ulrich Tengler,
+es ist auch unerheblich ob das E-Auto zeitgleich mit der PV-Verbunden ist um für z.B. für 1 Cent/kWh die kWh zu nutzen die von der PV kommen.
+Da wird das E-Auto mit Netzstrom geladen, das belastet den Geldbeutel doch auch nur mit 1 Cent/kWh wenn man eine PV hat.
+Wenn Sie sich mal meinen Link zu Gemüte führen, kommen Sie an die Stelle, wo es um die Finanzierung geht und daraus folgend um die Wirtschaftlichkeit. Egal, welche Kombinationen Sie durchspielen, es kommen ganz regierungsoffiziell immer so um die 17 bis 19 Jahre bis zum theoretischen Break Even heraus, trotz massiver Förderung und Preissubventionen!!! Und auch hier die Voraussetzung: Günstige Ausrichtung der Kollektorfläche (nicht wie bei Ihnen, wo die Himmelsrichtung keine Rolle spielt) und keine Vorkommnisse. Wie Sie dann immer auf einen ct /kWh kommen, das deutet wohl nur auf massive MINT-Defizite bei allen „Buchstaben“ in Ihrer Person hin.
+Aus meiner Sicht ist dieser Link ein eindeutiger Offenbarungseid der Thüringer Landesregierung bezüglich EEG, leider merken die das nicht einmal. Ich weiß nicht, wieviele Bürger darauf hereinfallen, aber solange es zuviele Leute wie Sie, Herr Mueller, gibt, wird die „Energiewende“ wohl „an der Wand“ enden müssen.
+Auf der Seite https://tinyurl.com/y72bc8et, photovoltaik4all, werden Module angeboten für ca. 200 €/Stück mit 315 Watt. Also kommen die 3000 Kwh pro Jahr recht gut hin, evtl. mehr. Greift man tiefer in die Tasche werden 350 Watt erreicht.
+Na Herr Ulrich Tengler,
+da sind die „Ossis“ aber immer noch 20 Jahre hinter der Zeit, wenn man im Osten für 1 kWp noch 10m² braucht an Modulfläche.
+Die „Wessis“ brauchen für 1 kWp nur ca. 5,1 m² bis 6 m².
+Man nimmt z.B. einfach 3 solcher 335Watt Module und man hat ca. 1 kWp auf dem Dach und ca. 900 bis 1000 kWh im Jahr werden eingefangen, sind dann ca. 5,2m² Modulfläche.
+http://www.lg-solar.com/downloads/spec-sheet/DS_NeON2_60cells.pdf
+Deshalb sind ja auch die meisten Firmen im Osten untergegangen, da ist eben die Zeit sehen geblieben, bei Ihnen wohl auch Herr Ulrich Tengler ?
+Was rechnen Sie da?
+Zu unserer Bauzeit hatte ich an diesem Solarquatsch herumgerechnet. Durch mein intensives Hinterfragen stellte sich heraus, dass in der Kalkulation noch nicht einmal alle Verbindungen, bis hin zum Anschluss, berücksichtigt waren. Damals hatte ich sogar schon Energiepreiserhöhungen berücksichtigt. Letztendlich waren die veranschlagten 20 Jahre noch sehr schmeichelhaft gerechnet.
+Damals hatte ich allerdings nicht meinen Beitrag zur Wetter/Klima‑Rettung berücksichtigt. Hätte ich doch in „Solar“ investiert, es gäbe ganz sicher heute keine Klimagefahr!
+Ich bin DER Schuldige!
+„Was rechnen Sie da?
+Zu unserer Bauzeit hatte ich an diesem Solarquatsch herumgerechnet.“
+Hallo Herr Buehner,
+99% aller Leute schaffen das sich heutzutage eine PV zu monieren, montieren lassen wo das kWh 7 bis 10 Cent kostet.
+Es gibt eben auch das eine % das Betriebswirtschaftliche Gesichtspunkte nicht berücksichtigt.
+Die können ja zu 100% auf den günstigen Notstrom für 24 bis 29 Cent/kWh zurückgreifen, auch Okay wenn für Sie Netzstrom das günstigste ist.
+Keiner muss was im EE-Bereich machen aber jeder kann.
+Ihr Beitrag enthielt jede Menge Steuerzeichen. Bitte anderen Browser verwenden.
+Herr Ulrich Tengler,
+von einem PV-Modul mit 330Watt und deiner Fläche von 1m*1,7m = 1,7m² erntet man ca. 330kWh an Strom im Jahr.
+20m² / 1,7m² = 11,8 Module sind das.
+11 * 330kWh = 3630kWh im Jahr die man von den 11 Modulen (18,7m²)geliefert bekommt.
+Sie scheinen nicht nur nichts von physikalischen Gesetzen und betriebswirtschaftlichen Rechengrundregeln zu verstehen, Sie sind ganz offensichtlich auch der deutschen Sprache und deren Regeln nicht mächtig. Herr Küper hatte Ihnen unter anderem folgende Frage gestellt: „Welches Elektroauto besitzen Sie?“ Darauf antworten Sie: „E-Auto kann man kaufen …“ Ich bedauere den armen Menschen, der Sie um Auskunft bittet: „Wieviel Uhr ist es ?“ Und Sie antworten: „Die Straßenbahn hält hier nicht.“ Fällt Ihnen eigentlich nicht auf, dass Sie als Gesprächspartner für eine normale, seriöse Diskussion absolut ungeeignet sind ?
+Mit herzerfrischenden Grüßen.
+Dr. Heinz Schütte
+„Herr Küper hatte Ihnen unter anderem folgende Frage gestellt: „Welches Elektroauto besitzen Sie?““
+Herr Dr. Heinz Schütte,
+wo habe ich den geschrieben das ich ein E-Auto aktuelle habe in meinem Besitz oder E-Auto fahre ?
+Wenn Herr Küper,
+irgendwas erfindet kann ich auch nicht weiter helfen.
+Also Herr Dr. Heinz Schütte,
+bitte verraten Sie wo ich gesagt habe das ich ein E-Auto aktuelle habe in meinem Besitz oder E-Auto fahre ?
+Ihre Antwort auf meinen Hinweis auf die Frage von Herrn Küper hat meine schlimmsten Befürchtungen übertroffen. Aufgrund des intellektuellen Niveaus Ihrer Beiträge ist es verlorene Zeit, sich mit Ihnen auseinanderzusetzen. Da Sie mich aber persönlich angesprochen haben, fühle ich mich verpflichtet, Ihnen zu antworten. Ich wiederhole die Frage von Herrn Küper: „Welches Elektroauto besitzen Sie?“ Falls Sie bereit sind, diese Frage zu beantworten, nenne ich Ihnen als Tipp im Sinn von „Multiple Choice“ die beiden möglichen Antworten. 1.“Ich besitze kein Elektoauto.“ Oder 2. „Ich besitze ein Elektroauto der Marke … .“ Als kleinen Hinweis: An der Stelle der 3 Pünktchen sollten Sie nicht über Herrn Küper oder mich schwafeln sondern für den Fall, dass diese Antwort zutreffen sollte, das Fabrikat des Elektoautos angeben. Falls Sie meine Anregung nicht verstehen sollten, biete ich Ihnen Nachhilfe durch meinen Dackel an, der auf dem Gebiet von „Multiple Choice“ ein ausgezeichneter Experte ist.
+Dr. Heinz Schütte
+Wann kaufen Sie ein Elektroauto und schließen es an Ihre Garagendach-PV-Anlage an?
+Schicken Sie sofort nach dem Kauf ein Photo mit Ihrem Elektroauto, Ihrer Garagendach-PV-Anlage und mit Ihnen davor,
+Wie lange werden wir warten dürfen? 10 Jahre? 20 Jahre?
+Beeilen Sie sich. Der Elektromobil-Hype wird schon bald erloschen sein.
+Denn wie sagte die Bundeskanzlerin am 16.05.2018 im Deutschen Bundestag? „… was nicht sicher ist …“. Und worüber sprach sie? Über die Zukunft des Elektroautos.
+Hier zu lesen und zu sehen: https://tinyurl.com/y7rkfgp5
+Kompilation PV + Öl ist das Wirtschaftlichste und als Nebendefekt noch Schadstoffmindern, gibt doch keinen Grund weshalb man komplett auf ÖL bei der Heizung verzichten soll.“
+Jetzt bekommen Sie 45% Förderung vom Steuerzahler wen Sie die Ölheizung durch eine Wärmepumpe ersetzen.
+Ergänzungen:
+Wasserkraftwerk = Gaskraftwerk = Biomassekraftwerk = PV-Anlage = Windkraftanlage = Sonstige Anlagen zur Erzeugung von Elektrizität = Nein.
+Studium der Elektrischen Energietechnik mit TU-Diplom und > 30 Jahre Elektrizitätswirtschaft = Ja.
+Damit erledigt sich auch die Frage nach netzgeführt oder selbstgeführt. In so gut wie allen verfügbaren privat-nutzbaren Invertern werden die Transistoren im Bereich ein- bis zweistelliger Anzahl an Mikrosekunden geregelt und könnten einem synthetischen Sinus oder einem netzangepassten Sinus folgen. Ob der Inverter und die Software tatsächlich als selbstgeführter Inverter ausgelegt und verkauft wird, liegt eher daran inwiefern eine Trennung des Hausnetz vom äußeren Stromnetz vorgesehen wurde.
+Selbstgeführt hat die Eigenschaft, dass auch während Netzausfällen die Anlage autark betrieben werden kann.
+Ich würde mit auch einen Castor in den Garten stellen, der erzeugt einige zig kW Wärme, die man zum „0-cent – Heizen“ benutzen könnte.
+Ford Focus 1,5 TDCI, Verbrauch 3,9 l/100 km,
+Wieso wird einmal der reale Testverbrauch hingeschrieben und einmal der Normverbrauch?
+Hier die richtigen Werte
+Nissan Leaf Acenta, Normverbrauch: 15,2 kwh/100km, Testverbrauch 22,1 kWh/100km (+ 45%)
+Ford Focus 1,5 TDCI, Normverbrauch 3,8 l/100 km, Testverbrauch 5,7 l/100 km (+50%)
+Zudem: War es nicht gerade der ADAC, der vor ein paar Jahren mit massiver Schummelei von sich Reden machte und deshalb massiv an Vertrauen verloren hat? Und genau von DENEN glauben Sie bestimmte Daten, die völlig intransparent und nicht falsifiztierbar angegeben werden und nehmen sie als Basis für Ihren Vergleich? Muss ich dazu mehr sagen?…
+Sie versuchen hier mangels wirklicher Argumente um des Kaisers Bart zu streiten. Ich fahre auch seit Jahren Diesel. Mein Grandscenic ist mit 4,4 l/100 km nach alter „Bemessung“ angegeben. In der Betriebsanleitung steht, dass man bei Fahrweisen unter 120 km/h weit unter 6 l kommt. Das ist eine ehrliche Aussage, die ich bestätigen kann. Ich war vorige Woche ca. 600 km, meist Autobahn, mal ganz bewußt etwas ruhiger mit max. 130 unterwegs: Mit Klimaanlage 5,3 l/100 km, bei 150 bin ich sonst bei 6,5. Der Ansatz vom Autor ist also sehr real.
+Der ADAC hat freilich geschummelt, aber wohl nicht bei den Verbräuchen, sondern bei der „Lieblingsautowahl“ und wird sich derzeit wohl nicht zu total falschen Aussagen hinreißen lassen. Insofern ist es wohl Ihr eigenens „Vakuum“ an Argumenten, dass Sie auf dem ADAC herumhacken läßt.
+Bei Elektromobilen scheint sie die kollektive Doofheit noch nicht infiziert zu haben, Ausnahmen, wie Niedersachsens Ministerpräsident Weil (SPD), bestätigen die Regel.
+Bei Energiewende, Kernkraftphobie, Klimawandelgläubigkeit, Staatsfunkhörigkeit und beim Glauben an das Gute in allen Hierherkommenden hat sich die kollektive Doofheit jedoch schon unheilbar in die Hirne eingefressen.
+Bei Elektromobilen ist es nur noch eine Frage der Zeit, bis der Infekt explodiert und die Elektromobiliphilie unheilbar wird.
+Die Schwarzgrünrote Einheits-Partei SED hat einen langen Atem und das Volk ist doof, ansonsten hätte es die SED schon längst aus den Regierungspalästen gejagt.
+Na da habe ich doch mal auf AutoScout24 geschaut was so die Ältesten Tesla so kosten.
+################
+Da kommt der Tesla Roadster aus 2012, also die 6 Jahre die auch Herr Klaus Metzger als unverkäuflich einstuft.
+https://www.autoscout24.de/lst/tesla/roadster?sort=standard&desc=0&offer=J%2CU%2CO%2CD&ustate=N%2CU&cy=D&atype=C
+Da gehen die Preise bei ca. 70.000 € an bis ca. 100.000 € bei den gebrauchten aus 2012.
+Nun hat aber das E-Auto 2012 auch ca. 100.000 € gekostet, also ein Wertverlust von ca. -30% innerhalb von ca. 6 Jahren.
+Bei einem Verbrenner hat man die -30% bereits nach 2 bis 3 Jahren an Wertverlust.
+In diesen Beitrag ist einer mit einem Tesla Model S 320.000 Kilometer gefahren, ohne eine neue Aukku.
+Nach 320.000 km ging die Leistung gerade einmal um ca. 6% zurück.
+https://ecomento.de/2016/10/28/320-000-kilometer-im-elektroauto-tesla-model-s/
+Macht dann eine Einsparung von ca. 6 bis 8 €/100km wenn man mit der eignen PV-Anlage größtenteils der Ladevorgängen macht für 320.000 km, macht ein minus von ca. 20.000€ beim „Kraftstoff“ mit einem vergleichbaren Verbrenner Fahrzeug.
+https://www.toyota.de/download/cms/dede/Toyota-Prius_Modellbroschuere_2016-02_M20050_tcm-17-928011.pdf
+Seite 37
+Ein E-Auto ist nach Ablauf der Batterie-Lebensdauer ein wirtschaftlicher Totalschaden!
+Na dann betrachten Sie, Herr Gerald Pesch doch mal die 6 Jahre alten Verbrenner in der 100.000 € Neuwagenklasse da werden teilweise nicht mal mehr 50% vom Neupreis gefordert bei AutoScout24.
+Da ist der Preisverfall dann doch etwas geringer beim E-Auto und ob die 50% beim Verbrenner Tatsächlich gezahlt werden ist ja auch noch nicht in Zement gegossen.
+Tja, nur reden Sie hier von völlig veralteten Technologien und damit veralteten Sichtweisen. Bei der aktuellen Technologie hält der Akku eher länger als das Fahrzeug außenrum, was sich in Dauertests schon klar gezeigt hat.
+Zudem: Was heißt bitte „am Ende“? Ein Akku eines Elektroautos gilt nach offizieller Definition dann als „am Ende“, wenn er nur noch 80% seiner ursprünglichen Kapazität hat. Das heißt also, dass sie in keinster Weise kaputt oder fertig ist, sondern dann lediglich noch 80% der Kapazität speicherbat ist und man damit dann eben 20% weniger Reichweite hat. Und? Bei alten Verbrennern geht gewähnlich auch die Reichweite etwas runter. Da ist das komischerweise kein Problem. Und vor allem: Die Akkus mit nur noch 80% werden immer häufiger danach weiter als Stromspeicher genutzt, sind also nicht verloren und müssen weggeworfen werden. Wo werden bitte Verbrennermotoren am Ende der Lebensdauer des Fahrzeugs systematisch als „Zweitleben“ wiedervewendet? Mir ist kein Fall bekannt.
+„Ein 6 Jahre altes Elektroauto ist damit praktisch unverkäuflich“
+Genau das Gegenteil ist der Fall, da Sie mit ihrer Denkweise über Akkus leider immer nich in der letzten und tels vorletzten Generation feststecken. Geben Sie sich einfach mal einen Ruck und öffnen Sie sich, die aktuelle Akkugeneration und ihre deutlichen Verbesserungen zu erkennen und v.a. zu akzeptieren. Technologien – auch viele andere – ändern sich im Laufe der Zeit bzw. verbessern sich deutlich, so dass ehemalige Nachteile und Vorbehalte dann nicht mehr korrekt sind bzw. nicht mehr existent. Dies gilt es zu beachten und seine persönlichen Sichtweisen auch mit der Zeit anzupassen und zu korrigieren. Wer dies nicht tut, will die sich immer weiter entwickelnde Technik garnicht verstehen.
+das bedeutet
+1. Dass das E-Fahrzeug außenrum wohl schon ab Fabrik Schrott ist
+2. Welche Dauertests? Wie lange wurde da was getestet?
+Ob nach Wegfall der Kern- und Kohlekraft aber überhaupt noch Strom in ausreichender Menge für Autoladungen in der Fläche zur Verfügung stehen wird, den man dann hoch besteuern kann, ist eine zweite Frage. Abgesehen von der Situation, daß man dann mit Haushalts- und Ladestrom zwei unterschiedliche Stromklassen hat, die auch separat gezählt und verrechnet werden müßten.
+Wie macht das der in einer Eigentums- oder Mietwohnung in der Stadt im 1. oder 4. Stock wohnt ? Ne Kabeltrommel aus dem Fenster lassen bis zum Parkplatz oder die Tiefgarage verlegen und dann am Auto einstecken ?
+Nicht mal in der Tiefgarage sind Ladestationen erlaubt wie letzthin eine Eigentümer-gemeinschaft in München sich durchgesetzt hate, wegen evtl. Brandgefahr, für den im Falle des Falles dann alle aufkommen müssen.
+Bei modernen, oder auch schon 30 Jahre alten Reihenhausanlagen stehen die Autos unter der Erde.
+Bei einer gerade neu erstellte Wohnanlage mit 63 Mietwohnungen in Jena, Ostthüringen, wurde keine Ladesäulenplatz eingerichtet.
+Die Umsetzung der E-Mobilität – wenn man sie denn schon will – geht genauso dilettantisch voran wie die Energiewende angepackt wurde. Eine Schande für jeden Ingenieur.
+„Möchten Sie eine Ladeleistung von 22 kW erreichen, muss Ihre Elektroinstallation auf dreiphasiges Laden mit einer Stromstärke von 32 Ampere ausgelegt sein.“
+Damit könnte für eine Batteriekapazität von 85 kWh eine Ladezeit von rund 4 Stunden erreicht werden. Eine ’normale‘ Haushaltssteckdose leistet das mit nur 3.7 kW jedenfalls nicht. Da würde die Ladezeit bis zu 24 Stunden betragen.
+Die Seite ‚top50-solar‘ (https://tinyurl.com/y7fqtscu) nennt als Flächenbedarf für eine PV-Anlage auf einem Satteldach ca. 10 qm pro 1000 Wp. Eine auf einer Garage schräg aufgestellte PV-Anlage mit (günstigstenfalls) 10 qm Fläche würde unter optimalen Bedingungen ohne teueren Zwischenspeicher-Akku nur ein Drittel der an einer Haushaltssteckdose verfügbaren Leistung erbringen.
+Sollten die Fürsprecher der E-Mobilität sich in der realen Welt einmal umschauen, wäre hier bei EIKE vielleicht ein sachkundiger Disput möglich. So aber polemisiert das ‚Pro‘-Lager mit idealisiertem Wunschdenken.
+Die Verteilnetze der EVU’s sind in der Regel so ausgelegt, dass die Strombelastbarkeit der Netze entsprechend DIN VDE zuzüglich einiger Reserven gegeben ist. Die heute von den EVU’s gepushte Installation von Ladestationen läuft bereits über diese Reserve.
+Der Anschluss einer Ladestation von 21 kW oder größer ist daher heute bei Einfamilienhäusern nicht mehr überall möglich, in Mehrfamilienhäusern (Tiefgarage, Garage..) äußerst schwierig. Bei Anschlussleistungen > 12 kW muss das EVU zustimmen. Da muss man schmunzeln, wenn Ladeleistungen > 150 kW versprochen werden.
+Grund ist die Netzdimensionierung, die hierzu komplett verstärkt werden muss, wer soll das Zahlen?
+Kleine überschlägige Rechnung: Bei 40 Mio Haushalten liegt die derzeitige Netzlast nachts bei 40 GW, entsprechend 1 kWh/Haushalt. Würden nun 40 Mio E-Autos mit 1 kW geladen, bräuchte dies zusätzliche 40 GW Kraftwerkskapazität.
+Aber einige Foristen laden ja nachts mit ihrer PV die Autos, die xzehntausend können wir abziehen.
+Noch ein Wort zu den Ladestationen: Die kosten ja nicht wenig, zumal beim Aufbau Handwerksrechnungen hinzukommen. Wenn die aber nur von einem Auto genutzt werden, wie sollen die sich je amortisieren? Schnellladestationen sind ja schön, werden aber mit 20kV angefahren werden müssen, weil sonst die Leitungsquerschnitte zu gross werden. Wieviele Autos müssen täglich mit wieviel kWh geladen werden, damit sich das rechnet? Trafos sind nicht billig! All das ist bisher nicht bedacht worden, man bürdet das alles den Netzbetreibern auf.
+Wenn die Netzbetreiber aber nicht wissen, woher sie den Strom beziehen sollen? Dann werden sie zum Bau von Gaskraftwerken (2GW in Ba-Wü) verpflichtet, die sie aber nur bis zur geplanten Inbetriebnahme der HGÜ (2025) betreiben dürfen und deren Bau nicht vor 2028 fertiggestellt sein dürfte. Irrsinn? Nein, grüne Politik, nachzulesen im Integrierten Klimaschutzkonzept IEKK der Landesregierung.
+Die Verbraucher zahlen jetzt ihre Tankstelle selbst !
+die ausfallenden Energiesteuern wird man aber trotzdem versuchen irgendwie einzutreiben.
+Selbs 3 X 10 Ampere reichen aus wenn man sein sein E-Auto Zuhause aufladen möchte, da ja da Zeit keine Rolle spielt.
+Ergebnis: Kompletter Schwachsinn, was die Politiker der Grünen, CDU/CSU, FDP etc. glauben. Denn eines muß ja hinzukommen: Man muß den Strom speichern können um ihn nicht nur nachts zu den Autoakkus zu transportieren. Da im Sommer nur wenig Windenergie erzeugt werden kann, muß entsprechende Speicherkapazität in Höhe von mindestens 50% des verbrauchten Stroms existieren. Also Stromspeicher in Höhe von 1/5 des derzeitigen Stromverbrauchs allein für den Straßenverkehr.
+Erstaunlich daß das noch niemand von den Politikern der AfD erkannt hat. Oder sind die etwa auch für den e-Auto-Schwachsinn?
+Vom Bundestagsabgeordneten Dr. Dirk Spaniel liegen dazu Videos von Bundestagsreden, von Interviews und von Parteiveranstaltungen z. B. bei YouTube vor.
+Was nützt der Unterricht, wenn er nicht verstanden wird?
+Es mag sein, dass die meisten aktuellen Verbrennungsmotoren einen thermodynamischen Spitzenwirkungsgrad von über 40% erreichen. Für diesen gilt aber:
+(1) Dieser Wirkungsgrad ist im Muscheldiagramm nur in einem engen Drehzahl-Drehmoment-Bereich vorhanden (was bei einer effiezenteren Auslegung zu mehr Getriebestufen führt).
+(2) Er gibt nur den Wirkungsgrad vom Treibstoff zur Kurbelwelle an. Damit sind Reibungsverluste im Lager, mechanische und hydraulische Nebenaggregate, sowie Kuppel-, Massenschwinger- und Getriebeverluste nicht berücksichtigt. Ebensowenig Einspritzen für die thermische Abgasnachbehandlung, Turbolader, Staudruck durch Abgasstrang, Verluste durch die niedrige Bordnetzspannung, pneumatische Tankleckerkennung, … Von den bewusst schlechten Wirkungsgraden im Start, um Verbrenner und Abgasnachbehandlung schneller auf Temperatur zu bekommen und zur Momentenreserve bei dynamischer Fahrt oder wechselnder Last der Nebenaggregate ganz zu schweigen. Beim Benziner fallen außerdem noch Drosselverluste an.
+(3) Beim Verbrennungsmotor kann man sich noch so gut anstrengen, aber es wird beim Bremsen kein neu-produzierter Treibstoff in den Tank zurücklaufen werden. Es ist zwar abzusehen, dass in 5 Jahren kein Auto mehr ohne 48 V System auf die Straße kommen wird. Aber diese werden nur auf den Zyklus und nicht auf die reale Anwendung ausgelegt sein, auch wenn dieser dann WLTP heißt.
+Die Diskrepanz lässt sich auch leicht an dem durchschnittlichen Kraftstoffverbrauch eines PKW in D ablesen: dieser liegt bei 7,2l/100km, Tendenz steigend. Das entspricht durchschnittlich 80kWh auf 100km. Das Durchschnittsauto hat im Übrigen umgerechnet etwa die Leistung eines eGolfs. Dieser käme mit der Energiemenge jenseits der 500km weit.
+Interessant wäre auch nachzulesen, wieviel Ligroin um 1900 hergestellt worden ist und, ob Apotheker und Nahversorger damals für eine Umstellung der Pferdekutschen ausgelegt waren. Vor Lenkrad und Anlasser war das Fahren damals bestimmt ach kein Vergnügen.
+Das wären dann rd. 6,20 Euro für 24 kWh, die Elektromobile, die größer als Sardinendosen sind, pro 100 km an Energie kosten würden.
+5 Liter/100 km-Dieselautos kosten bei 1,30 Euro/Liter 6,50 Euro pro 100 km.
+Ob dann noch die Rechnung aufgeht? Ich habe Zweifel!
+Im Übrigen stört mich bei den Vergleichen, dass man relativ grosse, gut ausgestattete, Mittelklassefahrzeuge mit diesen „überdachten Tretrollern“ von Kleinwagen vergleicht. Ach ja, ich vergass: Da gibt es doch ein Auto, das etwas komfortabler ist. Ja, dann.
+Sehr geehrter Herr Stock,
+als faktenbasiert denkender Mensch freut es mich, dass sie dieses Thema einmal sachlich angehen; doch leider muß ich einschränken, dass sie nur ein Teil der Kosten versucht haben, ins rechte Licht zu rücken. Ohne die genannten einzelnen Ausgangswerte detailliert beurteilen zu wollen, gehört zu den Kosten wesentlich mehr:
+Klare Definition der Ausgangs-Grunddaten (ggf. mit Quellen),
+Kapitalgebundene Kosten ,
+Verbrauchsgebundene Kosten (ihr Beitrag) und
+Betriebsgebundene Kosten.
+Als Ergebnis ergibt sich: € / km Fahrleistung !
+Wenn man das ganze in einer Kalkulationstabelle zusammenfasst, ist es dann einfach, eine Sensitivbetrachtung mit variierenden Preisen aufzustellen.
+Mein Fazit
+Krame ich mal in meinem Schulwissen, dann kann ein komplexes System nur dann funktionieren, wenn alle Elemente desselben optimal aufeinander abgestimmt sind.
+Das kann man nur vom Antrieb – des E-Motors – z.Zt. sagen. Bemühe ich dann noch die physikalische Chemie, dann haben die diskutierten Batteriesysteme alle das gleiche für diesen Anwendungsfall nicht geeignete Wirkprinzip.
+Eine derartige Kalkulation ist auch für eine ökologische Betrachtung sehr hilfreich.
+Dazu kann man das Entropieprinzip bemühen z.B. in Form des Kosten-Energie-Äquivalenzgesetzes.
+MfG Peter Baars
+Der Bürger kann Netzstrom verwenden, muss aber nicht.
+Beim E-Auto kann sich der Bürger leicht den „Kraftstoff“ selber machen mit PV und zwar zu preisen von 0 bis 10 Cent/kWh, also 0 bis 1,70€ für 100km Fahrstrecke.
+Es ist nunmal unumstößlicher Fakt, dass nicht wenige Leute ihr E-Auto zum Teil mit einer eigenen PV-Anlage laden, auch teils über Speicher. Und dies hat ohne Wenn und Aber in eine korrekte und objektive Berechnung mit einzugehen bzw. muss mit berücksichtigt werden.
+Und kleiner Tipp: Wenn Leute nach der Arbeit nach Hause kommen und ihr E-Auto aufladen, geht nicht sofort die Sonne unter! Das soll im Sommer in unseren Breitengraden ja üblicherweise vorkommen. Auch das ist in einem ehrlichen Vergleich mit einzukalkulieren.
+Wem etwas nicht gefällt, sollte es besser machen können. Lamentieren, ist zu wenig.
+Sowas Dummes, sowas Dummes wurde mir lange nicht präsentiert … (nach Richard Germer)
+In meiner Wohnstraße, da wo mein Benziner steht, scheint die Sonne nur mittags aufs Autodach, wenn das Auto da steht. Natürlich auch dann nicht, wenn es unter den vielen Bäumen in den Straßen steht.
+Ich frag mich immer wieder was die Schüler in den letzten 12 Jahren in den Schulen bis rauf zum bitur haben lernen müssen. Ich denke erheblich weniger als unsereiner mit dem Abi im Jahr 1971. Denn sonst würden die nicht solch einen Schwachsinn daherlabern, daß E-Auto-Aufladung für alle Autobesitzer in den Wohnstädten möglich ist.
+Herr Wilhelm Stock,
+Sie haben wohl noch nicht gemerkt das der Ladevorgang und die PV-Stromherstellung nicht zwingend Zeitgleich ablaufen muss um sich den Akku vom E-Auto für 0,00 bis 10 Cent/kWh voll zu machen.
+DAS müssen Sie endlich einmal erklären……
+Sie wohnen in einem 2 oder 4, oder 8 stöckigem Haus. Wo erzeugen Sie dann ihren PV Strom ? Auf dem Autodach ?
+ja, richtig, nur der der ein Eigenheim hat und am besten nicht in einem Reihenhaus wohnt, da kann es mit dem Kabellegen zum Auto bereits Probleme geben.
+Ich find es immer lustig wie jeder Befürworter der E-Autos davon ausgeht dass jeder in seinem eigenen Häuschen wohnt und jederzeit laden kann.
+Also bei ca. 4,5 l/100km sind wir beim Smart, den gibt es als Verbrenner und als E-Auto bei z.B. spritmonitor.de, wollen ja keine Äpfel mit Bieren vergleichen.
+######
+Also brauchen wir zwei baugleich Fahrzeige, einmal als Verbrenner und einmal als E-Auto.
+Mein zusätzlicher Haushaltsstrom für das E-Auto kostet unter 24 Cent/kWh (incl. aller Steuern und Abgaben), die „Grundgebühr“ ist ja bereits vorhanden beim Hausverbrauch, unabhängig ob man ein E-Auto hat oder nicht.
+Also nichts mit 30 Cent/kWh an Zusatzkosten wenn man das E-Auto zuhaue aufladen möchte, sondern nur ca. 24 Cent/kWh.
+Gibt ja jede Menge an kostenlosen Ladestationen, beim Diesel hab ich noch keine Tankstele gefunden die kostenlos Kraftstoff abgibt.
+Da haben wir ja den Smart, den gibt es als Diesel und als E-Auto.
+1. Kraftstoffverbrauch im Verkehr ca. 4,25 Liter /100km Diesel (Durchschnittsverbrauch bei spritmonitor.de)
+Aktueller Dieselpreis ca. 1,24 €/Liter
+Mach dann für 100 km ca. 5,27 € beim Diesel.
+Jahreskosten so ca. 790 € (15.000 km Fahrleistung)
+2. Stromverbrauch im Verkehr ca. 16 kWh gehen über den Stromzähler für 100km (Durchschnittsverbrauch bei spritmonitor.de)
+Aktueller Strompreis (grüner Netzstrom) unter 24 Cent/kWh.
+Mach dann für 100 km ca. 3,85 € beim grünen Netzstrom, also ca.-1,42€/100km (ca. -27%)
+Jahreskosten so ca. 578 € (15.000 km Fahrleistung)
+3. Nun rechen wir mal was die 100 km mit dem E-Smat so kosten von einer neuen PV-Anlage.
+Da haben wir noch kosten von ca. 10 Cent/kWh.
+Mach dann für 100 km ca. 1,60 € bei Solarstromladung (neue PV), also ca.-3,67€/100km (ca. -70%)
+Jahreskosten so ca. 240 € (15.000 km Fahrleistung)
+4. Nun rechen wir mal was die 100 km mit dem E-Smat so kosten von der über 20 Jahre alten PV-Anlage ?
+Da haben wir noch kosten von ca. 1 Cent/kWh.
+Mach dann für 100 km ca. 0,16 € bei Solarstromladung (alte PV), also ca.-5,11€/100km (ca. -97%)
+Jahreskosten so ca. 24 € (15.000 km Fahrleistung)
+So Herr Wilhelm Stock,
+am günstigsten und mit günstig mein ich richtig günstig, fährt man mit PV-Strom von der eigen PV-Anlage.
+Man macht das so, eine PV auf die Fertiggarage mit so ca. 3 kWp (ca.16 bis 18m²) und das koste ca. 4000 € und nach 7 Jahren sind wir bereits bei 1 Cent/kWh.
+Das beste an der Geschichte ist noch das die Akkuladung und PV-Stromgerstellung ja nicht zwingend Zeitgleich erfolgen muss.
+Bei spritmonitor.de wir der Verbrauch in realen Straßenverkehr mit Durchschnittlich ca. 16,2 kWh angegeben die über den Stromzähler gehen.
+Als ca. -26% weniger als Herr Wilhelm Stock veröffentlicht hat.
+https://www.spritmonitor.de/de/uebersicht/33-Nissan/1296-Leaf.html?powerunit=2
+Herr Wilhelm Stock,bei 20 bis 21 kWh/100km sind wir dann bereits in der „Tesla Klasse“ von der Größe.
+Uns schön, dass künftig jeder E-Autofahrer eine Garage mit billiger PV hat, die auch noch nachts funktioniert.
+Bei spritmonitor.de sind das reale Zahlen aus der Praxis über den gesamten Jahresverlauf.
+Beim ADAC braucht das nur sehr kalten Tagen getestet sein und dann ist man auch bei 20 kWh/100km, nur ist das nicht der Durchschnitt übers Jahr.
+Habe wegen Ihrer 22,1 kWh/100km Verbrauch beim Nissan Leaf beim ältester Solarmobil Verein in Deutschland nachgefragt (aktiv seit 1985).
+Die meinten auch das die 22 kWh/100km nicht sein können und irgendwie unrealistisch sind.
+20 kWh/100km, das Schaft man wenn man etwas Sprichwort unterwegs ist, aber 22 kWh ist etwas merkwürdig.
+Herr Wilhelm Stock,
+es geht ja nicht speziell um den Nissan Leaf, sonder wenn man vergleicht sollte man zwei baugleiche Auto-Typen vergleichen einmal mit verbrenner und dann mit E-Antrieb.
+Auch in der Nacht oder auch im Winter bei Dunkelflaute kann man das E-Auto für zusätzliche Kosten von 0 bis 10 Cent/kWh Auflader wenn man eine PV hat.
+Die PV-Stromherstellung muss ja nicht zwingend Zeitgleich ablaufen mit dem Ladevorgand der Akku im E-Auto.
+Auch braucht nicht jeder der ein E-Auto hat eine Garage wenn er Solarstrom nutzen möchte, also sein Ladevorgänge an den Ladestationen verringern möchte.
+Die Geschichte mit dem Auto und dem Solarstrom ohne Garage sollten Sie erläutern. Wie soll das ablaufen?
+Energieverbrauch Verkehr 2017 740 TWh https://www.umweltbundesamt.de/daten/energie/energieverbrauch-nach-energietraegern-sektoren
+Pass wohl was nicht mit Strom für E-Autos auf PV, oder?
+Die PV-Stromherstellung muss ja nicht zwingend Zeitgleich ablaufen mit dem Ladevorgand der Akku im E-Auto.
+Diese Aussage ist so irre, ich weiß nicht ob das ernst gemeint ist (dann zähle ich Sie zu den MINT Versagern) oder nur die übliche Trollerei mit der die EE-Apologethen die Propagandamaschine am Laufen halten.
+Wenn die PV Anlage keinen Strom liefert, kann man trotzdem Ladeleistung abrufen wenn man eine PV hat? Was für ein blühender Unsinn, eigentlich sollte man darauf gar nicht eingehen. Aber wenn die Klugen nachgeben, regieren die Dummen die Welt – wir erleben es gerada bei der „Energiewende“….
+Alles klar! So rechnet sich Klein-Fritzchen die EE-Welt schön.
+wo stelle ich die Fertiggarage bei einer Miet- oder Eigentumswohnung in der Stadt hin ? Bekomme ich da eine Sondergenehmigung für den Bürgersteig von der Gemeinde ?
+Jeder Befürworter für E-Auto geht immer davon aus, dass jeder der Auto fährt auch ein Häuschen hat.
+Auch bin ich ganz klar gegen jegliche Form von Diskriminierung der Verbrennerautos, denn der Elektroantrieb muss sich aus meiner Sicht ohne Wenn und Aber von selbst durchsetzen, wenn er den Anspruch hat, besser zu sein.
+Hier bitte auch immer zu differenzieren, denn das verzerrende und falsche politische Umfeld ist das eine und die reine Technik von Elektroautos eben das andere. Kernkraftwerke sind ja auch nicht schlecht, nur weil sie speziell in Deutschland von Politik und Medien systematisch in Verruf gebracht werden.
+1. Es wird hier nur ein Dieselfahrzeug als Gegenüberstellung angenommen und das noch mit einem äußerst optimistischen Verbrauch von lediglich 4,5l/100km. Erstens frage ich mich, wo hier der Vergleich mit einem Benziner ist und zweitens bringt es nichts, hier unrealistisch mit bekanntlich in der Realität nicht erreichbaren NEFZ-Verbäuchen bzw. unter extrem idealen Bedingungen gefahrenen Verbrauchsfahren zu rechnen. Es zählt die Realität und nur das.
+2. Der Autos nimmt zum Laden des E-Autos den Preis des normalen Haushaltsstroms vom 30 c/kWk an, obwohl auch das so nicht korrekt ist. Denn wenn E-Autos zu Hause geladen werden, dann geschieht dies in der Regel über Nacht, wo man den günstigeren Nachtstrom nutzt. Auch fehlt hier die Einberechnung, dass ein Teil der Nutzer z.B. ihr Solaranlage zum Mitladen des E-Autos nutzen. Nebenbei: Warum steht eigentlich hinter den 30 c/kWh nicht wie beim Diesel der Hinweis, wieviel Prozenz Steuern da drauf sind? Das sollte man korrekt angeben.
+3. Wo hat der Autor bitte genau den Wert von 67 c/kWh an öffentlich Ladesäulen her? Bitte Quelle angeben. Denn es hat den Anschein, dass man sich hier bewusst einfach mal einen Extremwert gesucht hat, der so nicht die allgemeine Realität widerspiegelt. Zudem: Es gibt auch Ladepunkte, wo man entweder garnix zahlen muss (Supercharger) oder andere Abrechnungmodelle hat, die deutlich günstiger sind. Wo sind diese im Vergleich?
+4. Es wird ein langfristig stabilber Ölpreis angenommen. Doch wie sieht es langfristig mit den draufgeschlagenen Steuern und Abgaben aus? Das wird hier garnicht betrachtet, denn es sind zwei Paar Stiefel.
+5. Es wird hier nur einseitig der Aufbau und der Betrieb der Infrastrtuktur für die Stromnetze u.A. auch für Elektroautos betrachtet und dies 1:1 auf E-Autos umgerechnet. Doch wo bleibt eine ebensolche Betrachtung bzw. Berechnung für Verbrennerautos und die dafür nötige Infrastruktur? Bitte beachten: Ich bin klarer Gegner der deutschen Energiewende! Das nur zur Klarstellung.
+6. Es fehlt im Vergleich völlig die Einberechnung der KfZ-Steuer beim Verbrenner, was man aber korrekt tun müsste, wenn man auf der anderen Seite beim E-Auto dies und das mit einrechnet. Wir wollen doch hier eine korrekte und vollständige Kalkulation haben.
+7. Auf welcher Basis hat man hier bitte den Wertverlust bei beiden Autotypen gerechnet? Dazu fehlen die transparenten und falsifizierbaren Parameter, wodurch man nicht nachvollziehen kann, wie hier genau gerechnet wurde.
+8. Man hat hier im Vergleich offenbar ganz bewusst ein Elektroauto genommen mit einer sehr geringen Reichweite und den realen Verbrauch betrachtet, während man dem entgegen ein Dieselfahrzeug stellt und hier auch wieder nur mit der unrealistischen NEFZ-Reichweite annimmt. Mal ehrlich – was soll das? Will man hier korrekt vergleichen oder viel eher bewusst ein völlig verzogenes Ergebnis haben? Es ist wohl Letzteres.
+Fazit: Man kann ja gerne Kritik an Elektroautos äußern und eine ablehnende Meinung dazu haben. Das ist jedem unbenommen, denn wir sind ein freies Land und da darf jeder gerne seine Meinung haben. Nur derartig verfälschende Berechnungen und Vergleiche aufzustellen, um damit seine Meinung zu unterstreichen, ist weder korrekt noch sachlich noch ehrlich – und damit völlig wertlos. Hier bitte ehrlich bleiben, liebes EIKE!
+Wie schon im letzten Diskussionsstrang geschrieben bin ich zwar offen für moderne Elektroautos aber ich bin NICHT gegen Verbrenner und kritisiere massiv die deutsche Energiewende. Ich fordere hier schlicht und einfach eine ehrlichere Diskussionskultur hier zu diesem Thema.
+Ich würde noch ergänzen, dass man bei so einem Artikel nicht drunter schreiben sollte, dass der ein Dipl-Ing ist. Das ist ein flapsiger User-Kommentar. In meiner ganzen Ing-Laufzeit habe ich noch nie so eine undifferenzierte Analyse ohne jeglichen Quellenbezug gesehen.
+Als provokanter User-Kommentar OK, aber als Dipl-Ing würde ich mich schämen.
+darf ich eine Frage stellen? Haben Sie schon ein E-Auto? Dann können Sie ja sehr einfach anhand Ihrer tatsächlichen Kosten beweisen, wie falsch und irreführend die von Herrn Stock genannten Zahlen sind. Falls Sie dazu nicht in der Lage sind, weil Sie noch kein E-Auto haben, frage ich Sie: Warum haben Sie noch kein E-Auto?
+Mit freundlichen Grüßen.
+Dr. Heinz Schütte
+Hier ist ein anderer von 2012, dessen Ergebnisse 2018 bestätigt werden: https://tinyurl.com/yd8evooy
+alle Zahlen sind über entsprechende Links belegt, diese bitte auch nutzen. Das entkräftet viele Ihrer Kritikpunkte. Die Wahl der Werte richtet sich nach vergleichbaren Fahrzeugen, realen Kosten im Betrieb der Autos. Quellen wie der ADAC dürften bei der Angabe der Kosten/km sicherlich alle Aspekte berücksichtigen.
+Sollte ich lieber den Supercharger mit kostenloser Ladung bei Kosten von 1,37 €/km gegen den Focus rechnen? Das wäre unehrlich gegenüber dem E-Auto….
+Ich habe mir die Links sehr genau angesehen. Aber kein einziger davon gibt entsprechende und v.a. falsifizierbare sowie transparente Prämissen, Eingangsgrößen und Berechnungsmethoden wieder. Es werden einfach nur Zahlenwerte genannt ohne Hintergrund und die Angabe, wie genau man dazu kam bzw. wie diese mit welchen Inputfaktoren in welcher Weise errechnet wurde. Dadurch sind die Zahlen weder nachvollziehbar noch falsifizierbar noch transparent – und damit für eine sachlich, objektive Betrachtung völlig wertlos.
+Warum verheimlichen Sie und Ihre Quellen derart auffällig diese wichtigen Daten? Wer so aggiert, hat offenbar was zu verbergen – und/oder will ganz bewusst nur das Ergebnis herausbringen, was man aus rein subjektivem Antrieb haben will. Das ist weder sachlich noch korrekt noch ehrlich und damit absolut unglaubwürdig.
+fragen Sie doch bitte den ADAC, wie er auf diese, Ihrer Meinung nach nicht nachvollziehbare Daten kommt. Was will der ADAC verbergen?
+Nein! Sie als Ersteller dieser Vergleichs müssen es leisten können mir zu sagen, wie Ihre Quellen zu deren Zahlen gekommen sind. Können Sie das nicht, dann zeigt dies, dass Sie Ihren Vergleich auf die Basis von völlig intransparenten, nicht falsifizierbaren und deshalb in keinster Weise nachvollzieharen Zahlenwerten stellen. Sorry, DAS ist bei wissenschaftlichen Arbeiten und anderen Veröffentlichungen ein absolutes NoGo, was Sie also Dipl.Ing. eigentlich wissen müssten!
+„Was will der ADAC verbergen?“
+Eben, was hat der ADAC hier genau zu verbergen? Wie schon gesagt war genau dieser ADAC vor ein paar Jahren noch wegen massiver Schummeleien an Pranger gestanden und hat massiv an Glaubwürdigkeit verloren. Warum sollte man also diesem ADAC genau hier plötzlich wieder trauen? Wer einmal lügt, dem glaubt man eben nicht (mehr). Aus genau diesem Grund ist besagte Transparenz und Falsifizierbarkeit der Zahlen von denen ein absolutes Postulat, diese überhaupt für sachlich-korrekte Vergleich in Betracht zu ziehen. Und weil diese hier wie auch so anders fehlen, sind die Zahlen völlig wertlos.
+Und ich schätze mal, dass ein E-Auto keine 115 km/h fährt (obwohl das schon recht gemütlich ist) ohne seinen Verbrauch merklich und unwirtschaftlich zu erhöhen.
+Eine Studie besagt, wenn ca. 50% der heutigen Autofahrer auf E-Autos umsteigen würde, brauchten wir ca. 45 neue Kernkraftwerke! Das aber wollen sicherlich, die Zappelstromfantasten nicht, da der Strom aus der Steckdose kommt!
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln,
+WOHER sollen die Elektroenergiemengen kommen, um den Strassenvekehr anstelle von „fossiler Energie“ mit Energie zu versorgen? Wie werden die „zwischengelagert“?
+wir müssen uns klar machen, dass mit der Umsetzung des Klimaschutzplans Mobilität oder gar der umweltschädliche Individualverkehr, wie wir sie heute kennen, abgeschafft wird.
+Ansprüche an CO2-Reduzierung und Kosten der Beförderungsmittel werden so hoch, dass nur noch autonomer, nachhaltiger und sozialer Verkehr umsetzbar wird. Die Beförderungsmittel kommen aus China (die können am Besten Massenfertigung), werden per App angefordert. Die Preise für die Beförderung werden entsprechend ihres Wertes (dringend ist teuer, bei kleinem Geld wartet man eben….) gestaltet.
+Da braucht man viel weniger Beförderungsmittel, weniger Energie (wir lernen ja das richtige Verhalten), weniger Netzausbau, weniger Speicher. Was glauben Sie, wieviel Individualverkehr wegfällt, wenn endlich die unselige Industrie aus D weg ist, Lastenfahrräder das Mittel ihrer Wahl und Autobahnen „Fahrradschnellwege“ mit einer Autospur geworden sind?
+Und mit Smart Grid kann dann das wechselnde Angebot; bzw. der Mangel; aus EE so verteilt werden, dass Gerechtigkeit allüberall herrscht
+Mit einem E-Auto wäre ich da nicht weit gekommen und vor allem noch teurer.
+Wobei das nur unter optimalen und nicht unter realen Bedingungen zutrifft! Im Winter, bei Dauerfrost, mit Licht und Heizung sind es noch nicht einmal die Hälfte der versprochenen 200 km! Auch Dieselmotoren verbrauchen in der Praxis mehr als im Katalog angegeben, das ist jedoch nur ärgerlich, schränkt die Mobilität aber nicht ein. Ganz anders bei den E-Autos, wegen der ewigen Ladezeiten ist jeder Reichweitenverlust direkt ein Mobilitätsverlust. E-Mobilität ist ein technischer Atavismus!!
+Wer in Frankreich sicher gehen will, (noch) überall und jederzeit reingelassen zu werden, sollte sich den Aufkleber Crit‘air 1 besorgen, den es für Benzin-Autos mit EU6 gibt. Die Beschaffung geht relativ einfach online über https://www.certificat-air.gouv.fr/de/ . Bezahlung per Kreditkarte, Zusendung per Post. Kosten frei Haus: ca. 5 Euro. Dieselauto werden schlechter eingestuft.
+Zusätzlich bestraft Frankreich CO2-sündige Autos beim Neukauf mit saftigen Umweltgebühren, malus écologique genannt. Ein Auto mit einer CO2-Emission von 140 g/km wird beim Neukauf mit 1.050 Euro bestraft. Bei 150 g/km sind es schon 2.300 Euro. Macron und sein grüner Umweltminister Hulot sind nicht besser, als Mamsell Merkel & Troß.
+Ausnahmsweise der komplette Link: https://droit-finances.commentcamarche.com/faq/20269-malus-automobile-taxe-co2-2018#voiture-d-occasion
+Conduire comme dieu en France ist Geschichte.

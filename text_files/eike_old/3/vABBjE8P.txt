@@ -1,0 +1,70 @@
+Egal wie viel Windkraftkapazität und wie viele Sonnenkollektoren die Deutschen installieren, wenn die Sonne untergeht und Zephyr [griechische Gottheit des Windes] keine Brise mitbringt, bleibt all diese Kapazität im Leerlauf. Es folgt eine Täuschung, denn mit Zertifikaten aus Norwegen (Wasserkraft] kann aus zuverlässigem Kohlestrom grüner Strom gemacht werden.
+Im Laufe der Zeit ist die zuverlässige und abgreifbare Energiekapazität immer weniger vorhanden. Mit noch mehr Abschaltungen, wird die Zukunft katastrophal werden. Wie Paul Homewood berichtet. Einleitung durch den Übersetzer, in Anlehnung an stopthesethings
+Zwei Fallstudien zur Intermittenz der Erneuerbaren
+Not a Lot of People Know That, Paul Homewood, 30. März 2020
+Eine interessante Analyse von Timera Energy zum traurigen Mangel an Backup-Kapazitäten in Europa, basierend auf der Leistung der deutschen erneuerbaren Energien:
+Zwei Fallstudien zur Intermittenz der Erneuerbaren
+Europa ist weltweit führend in der Dekarbonisierung der Strommärkte mit erneuerbaren Energiequellen. Die Dekarbonisierung scheint eine schwierige, aber erreichbare Herausforderung zu sein, Wind- und Solarkapazität ist ausgesucht, die Hauptlast der Energieerzeugung zu liefern.
+In den nächsten 10 Jahren sollen in ganz Westeuropa mehr als 350 GW neuer Wind- und Sonnenenergie online gehen. Gleichzeitig sollen große Mengen an zuverlässig abrufbarer Kern-, Kohle- und Braunkohlekapazität geschlossen werden, mindestens 40 GW bis 2023 und 80 GW bis 2030.
+In einem kürzlich erschienenen Artikel haben wir die Herausforderungen eines sich schnell ändernden europäischen Kapazitätsmixes dargelegt. Dies hat gezeigt, das unserer Ansicht nach ein erheblicher Mangel an flexiblen Kapazitätsinvestitionen besteht, um das wachsende Wind- und Solarleistungsvolumenabzusichern.
+In diesem Artikel den Sie gerade lesen, zeigen wir Ihnen zwei Fallstudien, um die Flexibilität zu veranschaulichen, die erforderlich ist, die Schwankungen der tatsächlich abgegebenen Strommengen der Erneuerbaren im Jahr 2020 im Vergleich zu 2030 auszugleichen, schließlich brauchen fast alle Verbraucher sicher kontinuierlich fließenden Strom in jeder benötigten Menge. Wir betrachten auch die Behauptung, dass diese Schwankungen allein durch Stromspeicher (z. B. Batterien) ausgelichen werden können.
+Den vollständigen Beitrag finden Sie auf Timera Energy.
+Beginnen wir mit dem wichtigsten Fall. Denken Sie daran, dass es sich nur um Deutschland [und Durchschnittswerte] handelt:
+Fallstudie 1: Tag mit geringem Output der erneuerbaren Energien
+Unsere beiden Fallstudien basieren auf den kürzlich in Deutschland tatsächlich beobachteten Last-, Wind- und Solardaten (2019). Anschließend skalieren wir die Wind- und Solarleistung auf der Grundlage des prognostizierten Kapazitätswachstums, das erforderlich ist, um die neuesten deutschen Ziele für erneuerbare Energien bis 2030 zu erreichen. In Abbildung 3 ist unsere Fallstudie für geringen Output der erneuerbare Energien dargestellt.
+Grafik 2: Durchschnittliche, minimale und maximale deutsche Wind- und Sonnenleistung im Jahr 2019
+Grafik 3: Tag der niedrigen erneuerbaren Energien in Deutschland 2020 v 2030
+Der dunkelblau schattierte Bereich am unteren Rand des Diagramms zeigt die projezierte Wind- und Sonnenleistung 2020 bzw. 2030 im Durchschnitt über einen Zeitraum von 24 Stunden. Die durchgezogene blaue Linie zeigt den Strombedarf. Die obere blaue gestrichelte Linie in der Tabelle zeigt die installierte abrufbare Kapazität zuverlässiger Kraftwerke als „Flex“ (Back-up) im Jahr 2020 (knapp 75 GW). Mit anderen Worten, es gibt ein komfortables Volumen an abrufbarer Kapazität, um Tage mit geringer Wind- und Sonnenleistung im Jahr 2020 abzudecken.
+Betrachten wir nun die Schätzung für 2030. Der hellblau schattierte Bereich am unteren Rand des Diagramms zeigt den geringen Anstieg der tatsächlichen Wind- und Solarleistung im Jahr 2030. Trotz des starken Anstiegs der nominalen Anschlussleistung der Erneuerbaren, gibt es nur einen relativ geringen Anstieg der tatsächlich abgebbaren Leistung bei schwachem Wind & Sonnentag.
+Im Gegensatz dazu verringert sich die abrufbare flexible Back-up Kapazität bis 2030 um mehr als 30 GW. Durch Abschaltungen von Kernkraftwerken, Kohle und Braunkohle wird die blaue gestrichelte Linie auf ein Niveau gesenkt, das über den Tag hinweg einen Energieengpass von ca. 500 GWh hinterlässt. (Alle gelieferte und abrufbare Energie zusammen liegen unterhalb des Bedarfs). Dies entspricht 250 GW einer durchschnittlichen Speicherdauer von 2 Stunden (wenn der Speicher vorher voll ist).
+In der Praxis kann nur ein Teil dieser Energielücke durch Speicherung geschlossen werden. Grenzüberschreitende Energie wird ebenfalls eine Rolle spielen, obwohl eine relativ hohe Korrelation der Windmuster in Nordwesteuropa bedeutet, dass sich die deutschen Nachbarmärkte möglicherweise in einer ähnlichen Position befinden. Es besteht jedoch ein erheblicher Bedarf an Investitionen in neue reale Kapazitäten, z. B. in Form von Batterien, Gas-Spitzenkraftwerke und Bedarfssteuerung (Abschaltungen!).
+Wie ich schon öfters betont habe, sind Speicher und Demand Supply Response (DSR – Bedarfssteuerung) für die Deckung der volatilen erneuerbarer Energien von geringem Nutzen.
+Selbst wenn Angebot und Nachfrage täglich innerhalb von 24 Stunden perfekt ausgeglichen werden könnten, müsste Deutschland die fehlenden 500 GWh, was einer Kapazität von 21 GW entspricht, noch nachrüsten. [Obige Überlegungen sind mit Durchschnittswerten gerechnet, dieses kann durchaus Strommangel im Stundenbereich einschließen, wenn gerade keine Wind weht und die Sonnen nicht scheint. Irgendwann muss auch Überschuss da sein, um die immer angedachten Speicher zusätzlich und rechtzeitig(!) zur Bedarf zu füllen, physikalische Verluste eingerechnet].
+Fallstudie 2: Tag mit über dem Bedarf liegendem Output der erneuerbaren Energien
+Die Wind- und Sonnenleistung im Jahr 2020 (der dunkelblau schattierte Bereich) bleibt trotzdem unterhalb der Nachfrage (blaue Linie). An einem Tag mit viel Wind und Sonne im Jahr 2030 steigt die zufällig höhere Ausgangsleistung der Erneuerbaren jedoch deutlich über die Systemnachfrage.
+Dies führt zu einem großen Energieüberschuss (200 GWh / d), der entweder eingeschränkt oder über grenzüberschreitend in benachbarte Märkte gedrängt werden muss. Dies könnte über einen längeren Windzeitraum über mehrere Tage hinweg zu einem Energieüberschuss von über 1,5 TWh führen.
+Die Mengen an überschüssiger Energie sind zu groß, um sie zu speichern, wenn keine wichtige neue Quelle für flexiblen Bedarf vorhanden ist (z. B. Wasserstoffelektrolyse in großem Maßstab, die robust gegen Unterbrechungen sein müsste). Der Export großer Mengen über Verbindungsleitungen ist auch eine Herausforderung, wenn es in benachbarten Märkten korellierte Wind- und Solarmuster gibt.
+Timera fasst zusammen:
+Wir wollen die Rolle der Stromspeicherung, insbesondere von Batterien, nicht herunterspielen. Die Speicherung wird eine Schlüsselrolle bei der Absorption von überschüssiger Energie, der Spitzenabbau und der Bereitstellung eines sehr schnellen Ausgleichs spielen. Die Speicherung ist jedoch ein Nettokonsument (kein Produzent) von Energie, und die derzeitige Technologie (z. B. Batterien mit einer Speicherkapazität für die Dauer von 1 bis 2 Stunden) hat eine begrenzte praktische Anwendung für die Ver-Lagerung großer Energiemengen.
+Die Versprechen auf alleinige oder wesentliche Versorgung mit Erneuerbare, enthält auch immer den Hinweis, auf mehr Flexibilität der Nachfrageseite. [Waschmaschinen, Kochherde und industrielle Bearbeitungscenter mit beliebiger und sofortiger Unterbrechungs-Resistenz!?]. Die Flex-Eigenschaften der nachfrageseitigen Reaktion sind jedoch typischerweise ähnlich wie bei der Speicherung, dh. geringer und bestenfalls netto energieneutral.
+Grenzüberschreitender Stromausgleich könnte dabei helfen, Energie von Standorten mit niedrigeren zu höherwertigen Standorten [mit zuverlässigen Kraftwerken] zu verlagern. Durch den raschen Einsatz erneuerbarer Energien in ganz Europa werden die Nachbarländer jedoch zunehmend mit korrelierten mangelnden oder überschießenden Energiekapazitäten [Strommengen] konfrontiert sein.
+Die derzeitige politische Unterstützung in ganz Europa ist völlig unzureichend, um die erforderlichen Flex-Mengen aus kohlenstoffarmen Quellen zu unterstützen. Selbst heldenhafte Annahmen zu Speicher, Nachfrageantwort und Bereitstellung von grenzüberschreitendem Ausgleich schließen das Flexibilitätsdefizit in Märkten wie Deutschland [und den anderen Ländern] nicht.
+Damit bleibt allein die konventionelle gasbefeuerte Erzeugung bis weit in die 2030er Jahre hinein übrig, um struktureller Flexibilität [back-up], wenn auch bei stetig sinkenden Lastfaktoren. Und das ist kein Ergebnis, das im Widerspruch zu den Netto-Null-Emissionszielen für 2050 steht. Die Energieerzeugung aus Gas verschafft effektiv Zeit für die Kommerzialisierung und den Ausbau von CO2-armen Kapazitäten wie Wasserstoff und längerer Speicherung.
+In Wirklichkeit bleiben Wasserstoff und Speicher mit größerer Kapazität eine Hoffnung im grünen Himmel und sind sicherlich keine Optionen, mit der Sie eine tragfähige Energiepolitik aufbauen könnten.
+Das bringt uns zurück zu Gas [und Kernkraft]
+Not a Lot of People Know That
+https://stopthesethings.com/2020/04/16/power-deficit-wind-powers-hopeless-intermittency-leaves-germans-scrambling-for-reliable-generation/
+Übersetzt durch Andreas Demmig
+Dann aber etwas unvermutet „In Wirklichkeit bleiben Wasserstoff und Speicher mit größerer Kapazität eine Hoffnung im grünen Himmel und sind sicherlich keine Optionen, mit der Sie eine tragfähige Energiepolitik aufbauen könnten.
+Das bringt uns zurück zu Gas [und Kernkraft].“ Ein paar Zahlen zur Untermauerung wären sicherlich hilfreich gewesen. Auch müssen Speicher zweifellos mehr leisten, als die Unterdeckung für einen Tag im Mittel aufzufangen.
+oben übersetzter Bericht ist einfach eine weitere Meinung aus dem Ausland zur Problematik von Wind und Solar Energie.
+Die Speicherprobleme wurden auf Eike auch schon mehrfach angesprochen.
+s.u.a. hier: https://www.eike-klima-energie.eu/2019/07/07/batteriespeicherung-ein-winziger-teil-der-benoetigten-elektrischen-energie/
+oder über Suchfunktion bitte.
+Energiedefizit: Die hoffnungslose Intermittenz der Windkraft sollte die Deutschen nach einer neuen Regierung mit Fachpersonal suchen lassen.
+da bin ich ganz Ihrer Meinung.
+Die nächste (post-„Raute des Grauens“) Regierung könnte hiermit einen gigantischen Wirtschaftsaufschwung initiieren:
+– sofortiger Stopp des Atom-/Kohleausstiegs
+– komplettes Streichen der schwachsinnigen co2-Grenzwerte (inklusive der Strafzahlungen)
+– no2-Grenzwerte auf fachgerechte Werte erhöhen
+– komplettes Austrocknen des GRÜNEN Subventionssumpfes
+– keine co2-Steuer, keine co2-Zertifikate
+– das Prinzip der freien Marktes muss auch in der Energiewirtschaft gelten, d.h. kein EEG, keine Vorrangeinspeisung
+– „Green Deal“ wird ersatzlos gestrichen
+Das würde die Kräfte der freien Marktwirtschaft entfesseln!
+Kosten: keine
+Wäre alles machbar, nur nicht mit den Altparteien, denn dort fehlt das charakterfeste, integre Fachpersonal. Die Werte-Union mit dem exzellenten Klima-Manifest 2020 sei davon ausdrücklich ausgenommen.
+Das sie nebenbei noch Wind- und Solarkraft bauen, o.k. China braucht Energie ohne Ende und nutzt alles.
+Aber deutlicher geht es nicht.
+In China, dem weltweit größten Solarmarkt, liegen die durchschnittlichen Gestehungskosten beim Photovoltaikstrom bei 38 Dollar/MWh.
+Der LCOE neuer Solarparks liegt dort mittlerweile bei nur noch 35 Dollar/MWh, was in etwa dem Niveau der Betriebskosten von alten abgeschriebenen Kohlekraftwerken entspricht, neue Kohlekraftwerke sind ohnehin Chancenlos beim MWh Preis in China.
+In Australien, Chile und den Vereinigten Arabischen Emiraten liegen die Stromgestehungskosten bei 23 bis 29 Dollar/MWh.
+Damit sind sie laut BloombergNEF neue Solaranlagen in der Lage, bestehende fossile Kraftwerke aus dem Markt zu drängen.
+„China baut in derselben Zeit seine Kohlekraftwerke von 1000 GW auf 1400 GW aus.“
+So, also in 10 Jahren +400GW bei der Kohlekraftwerksleistung in China.
+Nur dumm das in China auch jede Menge an alten Kohlekraftwerken abschaltet werden.
+Das gibt noch einen Nettozugbau an Kohlekraftwerksleistung in China nur ist der sehr bescheiden bis 2030.
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+Die – angeblichen – Grünstrombezieher bekommen wirklich nur Grünstrom geliefert.
+Bei wenig Wind im Winter bleibt halt die Küche kalt, und nicht nur die.
+Zur Grundausstattung der grünen Haushalte werden dicke Pelzmäntel, Trockenfutter und ein Esbitkocher gehören, fürs Handyaufladen noch ein Hamster mit Generatorlaufrad.

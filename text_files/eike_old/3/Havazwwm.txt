@@ -1,0 +1,108 @@
+Regelmäßige Leser bei Anthony’s Watts Up With That und EIKE werden wissen, dass ich seit Juli 2013 über Jahre hinweg versucht habe, eine Analyse der Fehler der Klimamodelle zu veröffentlichen.
+Die Analyse zeigt die Fortpflanzungsfehler der Klimamodelle durch Kalibrierung an der Untergrenze ihrer Projektionen der Lufttemperatur. Wer das erkannt hat, kann als Ergebnis vorhersagen: Klimamodelle sind äußerst unzuverlässig. Für eine ausführlichere Diskussion siehe meinen früheren WUWT-Beitrag zu diesem Thema (Danke Anthony).
+Das Endergebnis ist, dass, wenn es zu einem CO 2-Effekt auf das globale Klima kommt, niemand weiß, wovon er redet.
+[[ Eine ganze Passage voll Frust, die ich Ihnen dann doch übersetzt habe – etwas eingerückt. Informationen zur Studie gehen unten (normal formatiert) weiter, der Übersetzer
+Bevor ich fortfahre, möchte ich ein herzliches Dankeschön aussprechen an Anthony, dafür, dass er den Klimaskeptikern eine unzensierte Stimme gibt, gegenüber denen, die sie lieber zum Schweigen bringen würden. Mit „Klimaskeptikern“ meine ich, wissenschaftlich denkende Menschen, die den Fall einer anthropogenen globalen Erwärmung beurteilen und ihre kritische Integrität beibehalten haben. Ich jedenfalls habe kürzlich meine sechste Ablehnung erhalten; diesmal von Earth and Space Science, einer AGU-Zeitschrift. [American Geophysical Union ; Die AGU veröffentlicht 20 hoch angesehene, von Experten begutachtete wissenschaftliche Zeitschriften zur Erforschung der Erd- und Weltraumwissenschaften – Eigenwerbung]
+Die Ablehnung folgte den üblichen zwei Runden von gleichmäßig negativen, aber wissenschaftlich verdienstvollen Bewertungen (mehr dazu später).
+Nach sechs Versuchen in mehr als vier Jahren zweifelte ich nun daran, den Artikel jemals in einem Klimaportal zu veröffentlichen. Die Einsätze sind einfach zu groß. Es sind nicht nur die Billionen von Dollar, die für Nachhaltigkeitstreibende verloren gehen würden.
+Nee. Wenn die Analyse veröffentlicht würde, würde die Karriere jedes einzelnen Klimamodellierers mit James Hansen beginnend, Ihre Kompetenz würde in Frage gestellt. Zuschüsse verschwinden, Universitäten verlieren enormes Einkommen.
+Welcher Konsens-Klimawissenschaftler würde bei all dem Interessenkonflikt möglicherweise eine unpassende Bewertung liefern? Sie werden sich zu Recht bedroht fühlen. Warum sollten sie nicht einen Grund finden, irgendeinem Grund, die Studie abzulehnen?
+Irgendwie scheinen Herausgeber von Journalen zur Klimawissenschaft für diesen offensichtlichen Interessenkonflikt blind zu sein, wenn sie ihre Gutachter auswählen.
+Mit nahezu Hoffnungslosigkeit auf Veröffentlichung habe ich beschlossen, das Manuskript als Samisdat-Literatur weithin verfügbar zu machen [ein System …, um die von der Regierung unterdrückte Literatur heimlich zu drucken und verteilen].
+Das Manuskript mit seinem Hintergrund ist hier uneingeschränkt verfügbar (13,4 MB pdf).
+Bitte beschäftigen Sie sich damit weiter und laden Sie es herunter, prüfen Sie es, kommentieren Sie es und senden Sie es an wen Sie möchten. Ich habe keine Zweifel, dass die Analyse korrekt ist.
+Der analytische Kern des Ganzen:
+Die Projektionen von Lufttemperatur sind in Klimamodellen nur lineare Extrapolationen der Treibhausgasemissionen. Sie unterliegen daher einer linearen Fehlerfortpflanzung.
+Kompliziert, oder nicht? Nun muss ich nur noch auf einen Konsens-Klimawissenschaftler treffen, der dieses Konzept erfassen kann.
+Willis Eschenbach hat im Jahr 2011 gezeigt, dass Klimamodelle nur Linearitätsmaschinen sind, so wie ich es in meinem Skeptic-Paper 2008 und bei CA im Jahr 2006 bereits vorgestellt habe.
+Diese lineare Gleichung …
+… emuliert die Projektion der Lufttemperatur eines Klimamodells nach; fCO2 spiegelt die Klimasensitivität wider [bei angenommener Verdoppelung des CO2 Gehaltes] und “ a “ ist der Offset. Beide Koeffizienten variieren je nach Modell. Der Ausdruck in Klammer ist nur die partielle Veränderung des [CO2 -] Antriebs. Die Projektionen der Lufttemperatur selbst der fortgeschrittensten Klimamodelle sind kaum besser als y = mx + b.
+Das Manuskript zeigt Dutzende erfolgreicher Emulationen wie diese:
+Legende: Punkte sind CMIP5 RCP4.5 und RCP8.5 Projektionen. Grafik ‚a‘ [links] ist das GISS GCM Modell-E2-H-p1. Grafik ‚b‘ ist das GCM Modell 1-1 aus Beijing (BCC-CSM1-1). Die PWM-Graphen sind Emulationen aus der linearen Gleichung.
+Die CMIP5-Modelle zeigen einen inhärenten Kalibrierungsfehler von ± 4 Wm-2 in ihren Simulationen der Langwellen-Wolkenforcierung (LWCF). Dies ist ein systematischer Fehler, der sich aus falscher physikalischer Theorie ergibt. Es pflanzt sich in jedem einzelnen iterativen Schritt einer Klimasimulation fort. Eine ausführliche Diskussion findet sich im Manuskript.
+Die folgende Abbildung zeigt, was passiert, wenn dieser Fehler sich in CMIP5-Lufttemperaturprojektionen (ab 2005) fortpflanzt.
+Legende: Grafik ‚a‘ Punkte sind die CMIP5 Multi-Model Mean Anomaly Projektionen der 5AR RCP4.5 und RCP8.5 Szenarien. Die PWM-Linien sind die linearen Emulationen. In der Grafik ‚b‘ sind die farbigen Linien die gleichen zwei RCP-Projektionen. Die Bandbereite der Unsicherheiten stammen aus der Fortpflanzung des Kalibrierungsfehlers des LWCF Modells.
+Bei RCP4.5 weicht die Emulation ab der mittleren Projektion des Jahres 2050 ab, weil der GHG [Treibhausgas] Antrieb konstant geworden ist.
+Als ein Monument für die außergewöhnliche Inkompetenz, die auf dem Gebiet der Konsens-Klimawissenschaft herrscht, stelle ich die 29 Bewertungen und meine Antworten für alle sechs Vorlagen hier zur öffentlichen Prüfung (44,6 MB Zip-Datei, geprüft mit Norton Antivirus).
+Wenn ich Inkompetenz sage, hier ist was ich damit meine und was Sie finden:
+„Konsens“ Klimawissenschaftler:
+- sie denken, dass Präzision Genauigkeit ist
+- sie denken, dass ein quadratischer Mittelwert-Fehler eine energetische Störung im Modell ist
+- sie denken, dass Klimamodelle zur Validierung von Klimamodellen verwendet werden können
+- sie habe keine Ahnung von Kalibrierung
+- Sie wissen nicht, dass der Kalibrierungsfehler sich in nachfolgenden Berechnungen fortpflanzt
+- sie kennen den Unterschied nicht, zwischen statistischer Unsicherheit und physikalischem Fehler
+- sie glauben, dass eine „±“ [plus/minus] Unsicherheit einen positiven Fehlerversatz bedeutet
+- sie glauben, dass die zufällige Annullierung von Fehlern die physikalisch bedingte Unsicherheit beseitigt
+- sie glauben, dass die Anomalien der Projektionen physikalisch genau sind (das wurde nie bewiesen)
+- sie glauben, dass die Projektionsvarianz über einen Mittelwert mit dem propagierten Fehler identisch ist
+- sie denken, dass eine „± K“ -Unschärfe eine physikalisch reale Temperatur wäre
+- sie denken, dass ein „± K“ -Unschärfebalken bedeutet, dass das Klimamodell selbst heftig zwischen Kältekammer- und Backofen Klima oszilliert
+Punkt 12 ist besonders bezeichnend für die allgemeine Unfähigkeit von Konsens-Klimawissenschaftlern.
+Nicht einer der Doktoren, die diese Annahme machten, bemerkte, dass ein „±“ – Unsicherheitsbalken jeden einzelnen simulierten Temperaturpunkt durchläuft und vertikal durchschneidet. Nicht einer von ihnen hat erkannt, dass ihre „±“ vertikalen Schwingungen bedeuten, dass das Modell die Kältekammer und Backofen Klimazustände gleichzeitig einnehmen muss!
+Wenn Sie sie herunterladen, finden Sie diese Fehler wiederholt und verzweigt in den Bewertungen.
+Meine Manuskriptbegutachter haben diese offensichtlichen Fehler offenbar als gültige Bewertung akzeptiert. Einige [der Gutachter] haben die Erfahrung, um zu erkennen, dass die [meine] Manuskriptanalyse korrekt ist.
+Aus diesem Grund habe ich entschieden, dass ihre Bewertungsleistung Applaus verdient. Es sind:
+- Steven Ghan Journal of Geophysical Research-Atmospheres
+- Radan Huth International Journal of Climatology
+- Timothy Li Earth Science Reviews
+- Timothy DelSole Journal of Climate
+- Jorge E. Gonzalez-cruz Advances in Meteorology
+- Jonathan Jiang Earth and Space Science
+Bitte kontaktieren oder belästigen Sie keine dieser Herren. Denn man kann hoffen, dass manche Veröffentlichung sie dazu bringt, vor Scham zu erröten.
+Nachdem ich meine Antworten eingereicht hatte, die zeigten, dass die Kritiken wissenschaftlich nicht haltbar waren, bat ich einige dieser Redakteure, den Mut eines Wissenschaftlers zu haben und als „verdienstlose Einwände“ zu veröffentlichen. Schließlich werden in der Wissenschaft kritische, analytische Äußerungen oft ignoriert. Keiner von ihnen stellte sich jedoch der Herausforderung.
+Wenn irgendein Redakteur oder Verleger nach der Prüfung meines Manuskripts dieses in wissenschaftlichen Journalen veröffentlichen will, wäre ich sehr dankbar.
+Die oben genannten Zeitschriften vereinbarten, das Manuskript zur Überprüfung zu versenden. Zielstrebige Leser mögen vielleicht die wenigen eigenartigen Geschichten von nichtgeprüften -Rückweisungen im Anhang unten lesen.
+Wirklich seltsam: Mehrere Gutachter haben unabsichtlicher Weise das Manuskript validiert und obwohl sie es ablehnten.
+Zum Beispiel schrieb der dritte Rezensent der JGR Runde 2 [vom Journal of Geophysical Research] (JGR-A R2 # 3), dass,
+„[Emulation] ist nur bei Situationen möglich, in denen das Forcing [der GHG Antrieb] im Wesentlichen linear ist …“ und „[Emulationen] funktionieren nur mit Szenarien, die annähernd linear zunehmende Forcings haben. Jede Stabilisierung oder Addition großer Transienten (wie Vulkane) führt dazu, dass die Fehlanpassung zwischen diesem Emulator und dem zugrunde liegenden GCM offensichtlich ist. „
+Das Manuskript zeigte sofort, dass jede einzelne Klimamodell-Projektion ein lineares Forcing hatte. Die Überprüfung der Linearität durch den Rezensenten ist gleichbedeutend mit einer Validierung.
+Der Gutachter hat aber auch ein Kriterium festgelegt, mit dem die Analyse verifiziert werden kann – eine Projektion mit nichtlinearen Forcierungen nachzuahmen. Offensichtlich überprüfte er seine Aussage nicht, bevor er sie machte (oh, oh!), obwohl er die Emulationsgleichung hatte.
+Meine Antwort beinhaltete diese Grafik:
+Legende: Die Punkte von Jim Hansen 1988 Szenario A , B und C. Alle drei Szenarien beinhalten vulkanische Forcings. Die Linien sind die linearen Emulationen.
+Die vulkanischen Forcings sind nicht linear, aber Klimamodelle extrapolieren sie linear. Die lineare Gleichung emuliert erfolgreich lineare Extrapolationen von nichtlinearen Forcings. Simpel. Die Emulationen von Jim Hansens GISS Model II Simulationen sind so gut wie die eines jeden anderen Klimamodells.
+Der Herausgeber war offenkundig unbeeindruckt von der Demonstration und dass der Rezensent versehentlich die Manuskriptanalyse validiert hatte.
+Die gleiche Inkongruenz von unbeabsichtigten Validierungen trat in fünf der sechs Einreichungen auf: AM R1 # 1 und R2 # 1; IJC R1 # 1 und R2 # 1; JoC, # 2; ESS R1 # 6 und R2 # 2 und R2 # 5.
+In dem Review bei JGR R2 erwähnt Rezensent 3 sofort Informationen, die er nur in der Debatte gefunden haben konnte, die ich mit Gavin Schmidt bei Realclimate führte (und gewonnen hatte). Der Rezensent verwendete auch eine Gavin-ähnliche Ausdrucksweise. Ich vermute also, dass dieser JGR-Rezensent in der Tat Gavin Schmidt war. Das ist nur meine Meinung. Ich kann nicht ganz sicher sein, weil die Begutachtung anonym war.
+Also, nennen wir ihn Gavinoid Schmidt-ähnlich. Drei der Redakteure bemühten diesen Rezensenten. Man erwartet, dass sie die große Waffe auspacken, um den Emporkömmling zu entsorgen.
+Der Gavinoid antwortete mit drei meist identischen Bewertungen. Diese Bewertungen gehörten zu den unfähigsten der 29. Jeder dieser drei enthält den Fehler # 12.
+Hier ist Gavinoids tiefes Denken:
+„Selbst wenn sich die Forcings stabilisiert haben, würde diese Analyse voraussagen, dass die Modelle zwischen den Zuständen „snowball“ [entweder Schneeball = Kälte, oder „expotentiell“ ?] und außer-Kontrolle-laufenden „Gewächshäuser“ immer wilder schwingen werden.“
+Und das ist es. Gavinoid denkt, dass die immer größer werdenden „± K“ -Projektions-Unsicherheitsbalken bedeuten, dass das Klimamodell selbst immer stärker zwischen Eis- und Hitze-Klimazuständen oszilliert. Er denkt, dass eine Statistik eine physikalisch reale Temperatur ist.
+Ein Fehler eines naiven Neulings und der Gavinoid ist zweifellos ein promovierter Klimamodellierer.
+Der Hauptteil von Gavinoids analytischen Fehlern besteht aus den Listenpunkten 2, 5, 6, 10 und 11. Wenn Sie die Studie und die Hintergrundinformationen herunterladen, enthält Abschnitt 10.3 der Hintergrund-Information eine Diskussion des gesamten Hash-Gavinoids aus einer Stefan-Boltzmann-Analyse.
+Und wenn Sie eine außergewöhnlich schlechte Bewertung sehen möchten, sehen Sie sich die ESS-Runde 2-Rezension # 2 an [Earth and Space Science]. Es hat anscheinend die redaktionelle Durchsicht passiert.
+Ich kann nicht enden, ohne das Video von Dr. Patrick Brown zu erwähnen, da welches die Youtube-Präsentation der Manuskriptanalyse kritisiert. Dies war mein Vortrag in 2016 für die Ärzte der Katastrophenvorsorge. Dr. Browns Vortrag wurde auch in „andthentheresphysics“ (aufgeführt ohne Ironie) und auf youtube veröffentlicht .
+Dr. Brown ist Klimamodellierer und Postdoktorand bei Prof. Kenneth Caldiera am Carnegie Institute der Stanford University. Er hat mich freundlich benachrichtigt, nachdem er seine Kritik veröffentlicht hat. Unsere Unterhaltung darüber befindet sich im Kommentarbereich unter seinem Video.
+Dr. Browns Einwände waren der klassischen Klimamodellierer, die Listenfehler 2, 4, 5, 6, 7 und 11.
+Er machte auch den fast einmaligen Fehler, den quadratischen Mittelwert von statistischen Kalibrierungsfehlern [~?- im Original: root-sum-square average of calibration error statistics] mit einem Durchschnitt physikalischer Größen zu verwechseln; fast einzigartig, weil nur einer der ESS-Gutachter denselben Fehler gemacht hat.
+Mr. „andthentheresphysics“ brachte seine eigenen falschen Ansichten sowohl bei Patrick Brown Webseite als auch bei seinen eigenen ein. Seine Blog-Kommentatoren äußerten alberne Unwesentlichkeiten und sein Moderator war mühsam kritisch.
+Das ist alles. Leser, die Kritik an der Analyse vorbringen, werden dringend gebeten, zuerst die Liste und dann die Rezensionen zu konsultieren. Wahrscheinlich finden Sie ihre Einwände kritisch angesprochen.
+Ich habe die Begutachtungen erleichtert, indem ich sie mit einer Zusammenfassung von Überprüfungsfehlern begann. Allerdings schien das den Redakteuren nicht zu helfen.
+Danke, für Ihre Nachsicht, das hier zu lesen.
+Ich fühlte ein echtes Bedürfnis, an die Öffentlichkeit zu gehen, anstatt schweigend zu dulden, was ich als reflexive intellektuelle Ablehnung und als einen schädlichen Verrat an der Wissenschaft durch die Menschen betrachte, die mit ihrem Schutz beauftragt sind.
+Anhang von Journalen mit redaktionellen ABM* -Antworten
+[ABM – anyone but me ~ jeder außer mir]
+Risk Analysis. L. Anthony (Tony) Cox, Chefredakteur; James Lambert, Manuskript-Herausgeber.
+Dies war meine erste Einreichung. Ich hatte ein positives Ergebnis erwartet, weil sie erkennbare Ambitionen im Klimakampf hatten, ihre Website über Kompetenz in der mathematischen Modellierung verfügt und Veröffentlichungen zur Fehleranalyse numerischer Modelle veröffentlicht hat. Was könnte schiefgehen?
+Grund für eine ablehnende Begutachtung: „Der Ansatz ist ziemlich eng gefasst und es gibt wenig Aussicht auf Interesse und Lehren, die sich auf die verschiedenen Disziplinen übertragen, die die Zielgruppe der Zeitschrift RA sind.„
+Chefredakteur Tony Cox stimmte diesem Urteil zu.
+Das Publikum des Online Journals: Risk Analysis, das nicht daran interessiert ist, dass es kein erkennbares Risiko für CO2-Emissionen gibt.
+Genau.
+Asia-Pacific Journal of Atmospheric Sciences, Songyou Hong, Chefredakteur; Sukyoung Lee, Manuskript-Herausgeber.
+Dr. Lee ist Professor für atmosphärische Meteorologie am Penn State, ein Kollege von Dr. Michael Mann [Hockey Stick] und insgesamt bieten sie eine wunderbare Aussicht auf unvoreingenommenes Urteilsvermögen.
+Grund für eine ablehnende Begutachtung: „Modellsimulierte atmosphärische Zustände sind weit davon entfernt, in einem strahlenden konvektiven Gleichgewicht zu sein, wie in Manabe und Wetherald (1967), auf dem Ihre Analyse basiert “ Und weil das Klima komplex und nichtlinear ist.
+Chefredakteur Songyou Hong unterstützte dieses Urteil.
+Das Manuskript handelt von Fehleranalyse, nicht von Klima. Es verwendet Daten von Manabe und Wetherald, basiert aber offensichtlich nicht darauf.
+Dr. Lees Ablehnung folgt entweder einer flachen Analyse oder einem bequemen Vorwand.
+Ich hoffe, sie wurde trotzdem mit Mike’s [Dr. Mann] Wertschätzung belohnt.
+Science Bulletin, Xiaoya Chen, Chefredakteur, unsignierte E-Mail-Kommunikation von „Zhixin“.
+Grund für eine ablehnende Begutachtung: „Wir haben [dem Manuskript] ernsthafte Aufmerksamkeit geschenkt und es sorgfältig gelesen. Die Kriterien für das Science Bulletin zur Beurteilung von Manuskripten sind die Neuheit und Bedeutung der Forschung und ob sie für ein breites wissenschaftliches Publikum interessant ist. Leider erreicht Ihr Manuskript keine Priorität, die für eine vollständige Überprüfung in unserem Journal ausreichend ist. Wir bedauern, Ihnen mitzuteilen, dass wir es nicht weiter zur Veröffentlichung betrachten werden. „
+Eine Analyse, die jede einzelne Klimamodellstudie der letzten 30 Jahre entkräftet – zeigt, dass eine globale Klimawirkung von CO 2-Emissionen, falls vorhanden, gegenwärtig unerkennbar ist und das beweist unbestreitbar die wissenschaftliche Bedeutungslosigkeit des IPCC: „…erreicht keine Priorität ausreichend für eine vollständige Überprüfung im Science Bulletin.
+Na klar.
+Das Science Bulletin fuhr dann tapfer fort, mein E-Mail-Konto sofort zu sperren.
+* * *
+Erschienen auf WUWT am
+Übersetzt durch Andreas Demmig
+https://wattsupwiththat.com/2017/10/23/propagation-of-error-and-the-reliability-of-global-air-temperature-projections/
+2 Bemerkungen

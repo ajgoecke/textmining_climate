@@ -1,0 +1,337 @@
+Teil 3
+1 Pumpspeicher
+1.1 Allgemeine Betrachtung
+Niedersachsen-Studie 2014[1]
+Für einen wirtschaftlichen Betrieb wird meist von einer Mindestfallhöhe von 200 m ausgegangen. Durch ihre kurze Anfahrdauer von ca. ein bis zwei Minuten bis Volllast können PSW sowohl zur Bereitstellung von Regelenergie (zur Aufrechterhaltung der Netzstabilität) als auch zur Speicherung von Energie verwendet werden. Dennoch zählen Pumpspeicherwerke mit einem Wirkungsgrad von ca. 80 % zu den großtechnischen Speichertechnologien mit dem höchsten Wirkungsgrad.
+Trotz der guten Expertise braucht man Pumpspeichersysteme eigentlich nicht weiter zu betrachten.
+Grund: Sie sind in Deutschland nicht im Entferntesten im erforderlichen Maß ausbaubar, in den Alpen ebenso wenig und dass es die Norweger für uns bei sich zulassen würden, kann sich auch als Illussion herausstellen.
+Im VCI Zwischenbericht 2013[7] steht zum Thema Norwegen
+In öffentlichen Diskussionen wird empfohlen, transnationale Kooperationen z.B. mit den Alpenländern oder Skandinavien anzustreben. Bevor diese Speicherkapazitäten jedoch genutzt werden könnten, wäre zuvor ein erheblicher Ausbau der Stromnetze auf der Höchstspannungsebene erforderlich. Dabei sind allerdings die technischen Grenzen der Stromübertragung und der Stromaufnahme zu beachten
+Auch auf der Kraftwerksseite wäre im Ausland eine entsprechende Ausbau notwendig, da die elektrische Leistung der in Norwegen installierten Wasserkraftwerke weniger als 30 GW beträgt, die fast vollständig von Norwegen selbst benötigt wird, so dass die Nutzungsmöglichkeiten für Deutschland entsprechend eingeschränkt sind. Außerdem zeigen die Diskussionen – beispielsweise in Norwegen, dass bei einem weiteren Ausbau mit erheblichem politischem Widerstand zu rechnen sein dürfte.
+Forschungsstand
+Forschung ist nicht mehr erforderlich, da weder Kosten noch Wirkungsgrad signifikant verbessert werden können.
+Bild Wirkungsgrad, Quelle Niedersachsen-Studie 2014[1]
+1.2 Pumpspeicher Speicherkosten
+Hartmann et al.[24] listet:
+Stromspeicherkosten für ein als Tagesspeicher ausgelegtes Pumpspeicherwerk:
+· 9 €ct/kWh bei Strombezugskosten von 4,8 €ct/kWh
+· Eigene Zufügung: ca. 19,25 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Kosten Speicherkraftwerk als „saisonaler Speicher“. Da die Kosten der Speicherbecken je nach örtlichen Gegebenheiten stark variieren können, wird für saisonale Speicher von spezifischen
+Stromspeicherkosten in einem Bereich von:
+· 11 bis 28 €ct/kWh mit Strombezugskosten von 4,8 €ct/kWh ausgegangen.
+· Eigene Zufügung: ca. 21,2 bis 38 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Fazit
+Dieser billigste aller Speicher erhöht den Strompreis deutlich. Bei ungünstiger Betriebsart kann er selbst bei heutigen EEG-Einspeisekosten diese fast verdoppeln. Wird der Ökostrom billiger, erhöht sich der Speicher-Kostenanteil. Vergleicht man die Kosten des aus Pumpspeichern zurück gespeisten Ökostroms mit den Abgabepreisen konventioneller Kraftwerke, sieht man deutlich die Verteuerungen.
+2 Druckluftspeicher
+2.1 Allgemeine Betrachtung
+Niedersachsen-Studie 2014[1]
+Der Wirkungsgrad eines Druckluftspeichers liegt bei einem diabaten System zwischen
+42 bis 54 %. Bei einem adiabaten Druckluftspeicher kann der Wirkungsgrad auf bis zu 70 % erhöht werden. Beide Systeme werden typischerweise als Kurzzeitspeicher ausgelegt und betrieben.
+Anm.: Da beim adiabaten Speicher die Wärme mit hohen Temperaturen von 600 … 800 ºC zwischengespeichert werden muss, funktioniert dies nur bei Kurzzeitspeicherung.
+POTENZIALE
+Niedersachsen-Studie 2014[1]. Salzvorkommen, die sich zur Nutzung als Kavernenspeicher eignen, sind überwiegend in Nord- und Mitteldeutschland gelegen… Eine erste Potenzialabschätzung nennt für die gesamte Speicherkapazität (v. a. in Salzstöcken in Norddeutschland) einen Wert von etwa 3,5 TWh.
+Hartmann et al. 2012 [24]. Durch die Verbesserungen des Wirkungsgrades und die Einsparungen durch den vermiedenen Einsatz von Erdgas in der Turbine wird die adiabate Druckluftspeichertechnologie als zukünftige Alternative zu herkömmliche Pumpspeicherwerken gesehen.
+Forschungsstand
+TAB 2012[21], STAND DER TECHNIK, ENTWICKLUNGSPERSPEKTIVEN
+Ein konventionelles CAES mit 321 MW Leistung, mit einer Speicherkapazität ausreichend für einen maximal zweistündigen Volllastbetrieb, wird seit 1978 in Elsfleth-Huntorf (Niedersachsen) von E.ON betrieben.
+Adiabate CAES (AA-CAES) befinden sich in einem frühen Entwicklungsstadium, da geeignete Wärmespeicher (benötigte Kapazität etwa 1.200 MWh (thermisch) bei 600 °C) noch nicht verfügbar sind und der Kompressor- bzw. der Turbinenstrang noch einer substanziellen Weiterentwicklung bedürfen.
+2.2 Druckluftspeicher Speicherkosten
+Hartmann et al.[24] listet:
+Die Kostenabschätzung bezieht sich dabei auf den Stand heute (2010) für die diabate Druckluftspeichertechnik und auf das Jahr 2030 für die adiabaten Druckluftspeicher.
+Aktuell verfügbare diabate Druckspeicher (Wirkungsgrad 42 .. 54 %)
+Stromspeicherkosten für Druckluftspeicher im Tagesspeicherbetrieb:
+· Stromspeicherkosten ca. 13 €ct/kWh mit Strombezugskosten von 4,8 €ct/kWh
+· Eigene Zufügung: ca. 19,25 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Stromspeicherkosten für Druckluftspeicher im saisonalen Betriebe:
+· Stromspeicherkosten zu 14 €ct/kWh ohne Strombezugskosten
+· 28 €ct/kWh mit Strombezugskosten 4,8 C / kWh
+· Eigene Zufügung: ca. 46,5 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Im Jahr 2030 für adiabate Druckspeicher (Wirkungsgrad 70 %)
+Stromspeicherkosten für Druckluftspeicher im Tagesspeicherbetrieb:
+· 12 €ct/kWh mit Strombezugskosten 4,8 C / kWh
+· Eigene Zufügung: ca. 23,5 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Stromspeicherkosten für Druckluftspeicher im saisonalen Betriebe:
+· 21 €ct/kWh mit Strombezugskosten. 4,8 C / kWh
+· Eigene Zufügung: ca. 32,5 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Fazit
+Auch diese hoffnungsvolle Groß-Speichertechnologie erhöht den Ökostrompreis erheblich. Mindestens führt sie zur Verdopplung und falls der Ökostrom-Bezugspreis einmal in die Nähe von früherem Kraftwerksstrom kommen sollte, zur Vervielfachung.
+3 Wasserstoffspeicher
+3.1.1 Allgemeine Betrachtung
+Niedersachsen-Studie
+Niedersachsen-Studie 2014[1]. Bei einem Einsatz als Langfristspeicher hingegen stellen Wasserstoffspeicher die klar vorteilhafteste Technologie dar. Soll in Zukunft Strom im großen Maßstab über längere Zeit (in Langfristspeichern) gespeichert werden, so geht trotz der unbestritten vorhandenen Nachteile (niedriger Wirkungsgrad und hoher leistungsspezifischer Investitionsaufwand) auch unter ökonomischen Gesichtspunkten kein Weg an Wasserstoffspeichern vorbei.
+Speicherverfahren (P2P)
+Zur Gas-Speicherung mit Rückverstromung verwendet man die folgenden Hauptverfahren:
+· Strom > Wasserstoff > Strom (P2H2). Der Wasserstoff wird in Kavernen gespeichert. Pfad 1
+· Strom > Wasserstoff > Methanisierung > Strom (P2G). Das Methan kann im öffentlichen Gasnetz gespeichert werden. Pfad3
+In der Niedersachsen-Studie 2014[1] werden alle Wasserstoff-Speicherarten beschrieben. In dieser Darstellung beschränken wir uns auf den Wasserstoff-Speicher mit direkter Rückverstromung.
+Forschungsstand
+Niedersachsen-Studie 2014[1]. Der typische Leistungsbereich liegt bei der derzeit einzig kommerziell betriebenen Anlage von Audi bei 6 MW. Es wird davon ausgegangen, dass in Zukunft Speicher mit bis zu 300 MW Leistung realisierbar sind.
+TAB 2012[21]. Die Rückverstromung von reinem Wasserstoff in Gasturbinen ist bislang noch nicht möglich, eine Beimischung von etwa 50 bis 60 % Erdgas ist erforderlich. An der Entwicklung geeigneter Gasturbinen wird derzeit gearbeitet, ab etwa 2017 könnten diese zur Verfügung stehen. Ein zweites wichtiges Feld für Forschung und Entwicklung ist die Steigerung der Effizienz des Elektrolyseurs.
+Wirkungsgrade
+· In Hartmann et al. 2012[24] ist der Wirkungsgrad der Gesamtkette einer Wasserstoffverstromung (P2H2) mit aktuell 42 %, Zukunft 45 % angegeben.
+· Niedersachsen-Studie 2014[1]. Der Wirkungsgrad mit Methanisierung (P2P) ist mit aktuell 21,3 %, in der Zukunft 36 % angegeben.
+3.2 Wasserstoffspeicher Speicherkosten
+Speicherkosten für Verfahren ohne Methanisierung. Basisquelle: Hartmann et al. 2012[24]
+Stand heute
+Tagesausgleich-Betrieb
+· Stromeinspeisungskosten von ca. 26 €ct/kWh mit Strombezugskosten von
+4,8 €ct/kWh
+· Eigene Zufügung: ca. 46 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Saisonal-Betrieb
+· Stromeinspeisungskosten von ca. 27 €ct/kWh mit Strombezugskosten von
+4,8 €ct/kWh
+· Eigene Zufügung: ca. 47 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Stand Zukunft
+Tagesausgleich-Betrieb
+· Stromeinspeisungskosten von 19 €ct/kWh mit Strombezugskosten von 4,8 €ct/kWh
+· Eigene Zufügung: ca. 33 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Saisonal-Betrieb
+· Stromeinspeisungskosten von 20 €ct/kWh mit Strombezugskosten von 4,8 €ct/kWh
+· Eigene Zufügung: ca. 33 €ct/kWh mit Strombezugskosten von 13 €ct/kWh
+Fazit
+Auch das hoffnungsvolle Wasserstoff- Speichern erhöht den Ökostrompreis erheblich. Mindestens führt es zur Verdopplung und falls der Ökostrom-Bezugspreis einmal in die Nähe von früherem Kraftwerksstrom kommen sollte, zur Vervielfachung.
+3.3 Wasserstoff mit Methanisierung, Speicherkosten
+Speicherkosten. Basisquelle: Niedersachsen-Studie 2014[1].
+Stand Zukunft
+Tagesausgleich-Betrieb
+· Stromeinspeisungskosten von 28 €ct/kWh mit Strombezugskosten von 4,8 €ct/kWh
+Saisonal-Betrieb
+· Stromeinspeisungskosten von 29 €ct/kWh mit Strombezugskosten von 4,8 €ct/kWh
+Ergänzungsinfo
+Um zu zeigen, wie erheblich sich die Kostenangaben unterscheiden, Informativ noch eine Kostenangabe, leider ohne nachvollziehbare Detaillierung aus Schnurbein 2012[9]: „Die Speicherung überschüssigen EE-Stroms durch synthetisches Methan“.
+Hinweis.: In den folgenden Kostenangaben sind Strom-Bezugskosten von ca. 12 c / kWh eingerechnet.
+Schnurbein 2012[9]. Das „System SNG“ als Langzeitspeicher für überschüssigen EE-Strom würde bei einer Kapazität von 44 GW und einem Stromoutput zwischen 12,3 und 31,7 TWh – das wären 2-5 % des deutschen Strombedarfs – jährliche Mehrkosten zwischen 25,1 und 28,1 Mrd. € verursachen. Auf die Kilowattstunde SNG-Strom gerechnet ergäben sich für den Verbraucher Mehrkosten zwischen 79 und 228 ct/kWh – zuzüglich Steuern. Somit wäre SNG-Strom um den Faktor 10-20 teurer als Strom aus Erdgas.
+4 Batteriespeicher
+4.1 Allgemeine Betrachtung
+In der Niedersachsen-Studie[1] werden Batteriespeicher gar nicht gelistet, da sie als Mengenspeicher viel zu teuer wären.
+4.2 Mobile Li-Ionen Batteriespeicher (E-Car) Speicherkosten
+Hartmann et al. 2012[24] weist die folgenden Kosten für mobile Li-Ionen-Batteriespeicher aus. Als Investitionskosten sind darin aber nur die reinen Batteriekosten berücksichtigt. Denn man nimmt ja an, dass das E-Auto ein Fahrzeug ist – aber immer, wenn es das Stromnetz „benötigt“ als Stromsenke oder –Lieferant an der Steckdose hängt -.
+Kosten für die Speicherung in mobilen Li-Ionen Batterien [24]:
+Stand heute
+Tagesspeicherbetrieb
+· Stromeinspeisungskosten von 37 €ct/kWh mit Strombezugskosten von
+4,8 €ct/kWh
+Saisonal
+· Stromspeicherkosten: 2.270 €ct/kWh
+· Stromeinspeisungskosten von 2.275 €ct/kWh mit Strombezugskosten von
+4,8 €ct/kWh
+Zukunft
+Tagesspeicherbetrieb
+· Stromeinspeisungskosten auf 19 €ct/kWh mit Strombezugskosten von
+4,8 €ct/kWh
+Saisonal
+· Stromeinspeisungskosten 948 €ct/kWh mit Strombezugskosten von
+4,8 €ct/kWh
+Akkuspeicher für kleine Solaranlagen
+In Energie GmbH 2014[10] ist das folgende Bild (Abbildung 4) mit Kostendarstellungen für kleine Speichereinheiten für Solar-Selbstversorger enthalten. Beachten, dass die Speicherkosten nicht die Kosten des zurückgelieferten Stromes beinhalten, dieser ist zuzurechnen.
+Bild 13.1
+Diese Angaben in Energie GmbH 2014[10] gehen aber davon aus, dass innerhalb von 25 Jahren Akku und Wechselrichter nur 1 x ausgetauscht werden müssen (Seite 19). Das ist aber realitätsfremd.
+Die Studie sagt dazu (Seite 38):
+[10]„An dieser Stelle sei darauf hingewiesen, dass die Ermittlung der Speicherkosten und der Wirtschaftlichkeitsvergleich auf Annahmen und Prognosen beruhen, die in der Realität so nicht eintreffen müssen.“
+Aber selbst mit dieser Annahme kommt die Analyse zu dem Schluss (Seite 22):
+Energie GmbH 2014[10].„Die Untersuchung hat gezeigt, dass bei einem Kalkulationszinssatz von 3,5 % keines der analysierten Produkte Speicherkosten unter den haushaltstypischen Strombezugskosten aufweist“.
+Anmerkung des Verf.: Das sind aber die hohen Stromkosten des Endkunden, nicht die Nettosätze des EEG-Stromes.
+.
+In Pettinger 2013[23] werden für einen 7 kWh Lithium-Ionen Speicher (passend zu privaten 10 kW PV-Anlagen) reine Speicherkosten ohne Stromkosten von 25 ct / kWh angegeben.
+Kostenfazit
+Es scheint realistisch, bei Akkusystemen von Kosten im Bereich 0,3 bis 1 EUR / kWh für den zurückgespeisten Strom auszugehen.
+Forschungsstand
+In F. Endres 2015[8] ist der Stand der Batterieforschung gut dargestellt. Es lohnt sich, das Interview zu lesen. Man kann dann die vielen, oft sehr euphorischen Publizierungen besser einordnen. Auch Heller 2013[22] ist zum Thema realistische Betrachtung der Verbesserungsmöglichkeiten von Akkus lesenswert.
+5 Zusammenfassung Stromspeicher
+Was sagt die Niedersachsen-Studie
+Niedersachsen-Studie 2014[1]. In einem Ausblick für das Jahr 2030 wurden Annahmen getroffen, wie sich die Kennwerte der unterschiedlichen Speichersysteme entwickeln könnten. Diese sind detailliert im entsprechenden Kapitel dargestellt. Als Ergebnis kann festgehalten werden, dass auch 2030 PSW (Anm.: Pumpspeicher-Kraftwerk), gefolgt von AA-CAES (Anm.: Druckluftspeicher) für die Kurz- und Mittelfristspeicherung die kostengünstigste Speichertechnologie ist. Anders als heute schließt jedoch auch in diesen Speicherszenarien der Wasserstoffspeicher auf und verringert den Abstand zu PSW und AA-CAES. Das Bild dreht sich bei einem Einsatz als LFS (Anm.: Langzeitspeicherung). Hier ist 2030 der Wasserstoffspeicher in allen Pfaden die deutlich günstigste Technologie. PSW sind um den Faktor 3 bis 4 teurer.
+Zusammenfassend kann folgendes für die Zukunft festgehalten werden: Kommt es zu den dargestellten technologischen Weiterentwicklungen, so stellen Wasserstoffspeicher im Jahr 2030 die günstigste der untersuchten Speichertechnologien dar.
+Fazit
+Für Ökostrom-bedingte Mehreinspeisung ist in jedem Fall das „Wegwerfen“ des Stromes die weitaus und auch in Zukunft billigste Lösung.
+Für eine Grundlastbereitstellung aus Zwischenspeicherung verdoppelt sich selbst bei der billigsten Speichertechnologie mindestens der Preis für den zurückgelieferten Strom. Ab dann wird es nur teurer.
+Man erkennt gut, warum früher niemand auf die Idee kam, Strom in großem Maßstab zwischenzuspeichern.
+Der Forschungsstand ist bei den verschiedenen Verfahren sehr unterschiedlich. Im Wesentlichen konzentriert er sich auf die Machbarkeit für Volumensverwendung. Die erzielbaren Verbesserungen sind allerdings schon heute gut quantifizierbar (diese chemischen Verfahren haben nirgends – wie Computer alle paar Jahre – einen Quantensprung an Performanceverbesserung, sondern sind froh, in Jahrzehnten wenige % zu erreichen).
+Wer Interesse hat, sich auch über hier nicht gelistete Speichersysteme zu informieren, findet in F. Endres 2015[ 8] eine Übersicht.
+Ausblick
+Dass sich Speicher derzeit und auch in Zukunft nicht lohnen, wird die Politik nicht ruhen lassen. Weil chemische Speicher auch mit viel Forschung nicht wirklich billiger werden (können), wird man EEG-üblich ein Subventionsmodell kreieren unter dem Slogan „Mehrwert ist zu vergüten“ und den Strombezieher bezahlen lassen. Wie Lösungen dazu aussehen, kann man in FENES, OTH 2013[5] und BE e.V. A. Hauer6] schon nachlesen:
+FENES, OTH 2013[5]
+BE e.V. A. Hauer[6].
+Steigende Preise der CO2-Zetifikate würden die Wirtschaftlichkeit von Energiespeichern unterstützen!
+6 Quellen für Teil 1 – 3
+[1]
+Niedersachsen-Studie 2014. Innovationszentrum Niedersachsen GmbH, Juli 2014. Studie 7983P01/FICHT-12919463-v19:“Erstellung eines Entwicklungskonzeptes Energiespeicher in Niedersachsen“
+[3]
+Stellungnahme BUND 2010. BUND, 27. August 2010: „Stellungnahme zur Frage der Stromspeicherung im Rahmen der Netzintegration von Strom aus erneuerbaren Energien“
+[4]
+Bölkow-Studie 2010. Ludwig_Bölkow_Systemtechnik GmbH (LBST), 22. April 2010: „Energiespeicher in Stromversorgungssystemen mit hohem Anteil Erneuerbarer Energien“
+[5]
+FENES, OTH 2013. Regensburg 05.11.13: „Energiespeicher für die Energiewende Zusatzkosten vs. Zusatznutzen? Ringvorlesung Kraftakt Energiewende II“
+[6]
+BE e.V. A. Hauer. Bundesverband Energiespeicher e.V., Andreas Hauer: „Energiespeicher Technologien und Anwendungen“
+[7]
+VCI Zwischenbericht 2013. Ein Zwischenbericht des Verbands der Chemischen Industrie (VCI), 8.Oktober 2013: „Zukunft der Energiespeicher“
+[8]
+F. Endres 2015. TU Clausthal 13.04.2015, Interview mit Prof. Dr. rer. nat. Frank Endres, Institut für Elektrochemie: „Hintergründe zur Energiewende Batterien ohne Power und Windanlagen mit Gesundheitsgefahren“
+http://www.deutscherarbeitgeberverband.de/aktuelles/2015_04_13_dav_aktuelles_interview_energiewende.html
+[9]
+Schnurbein 2012. Vladimir von Schnurbein: „Die Speicherung überschüssigen EE-Stroms durch synthetisches Methan.“
+ENERGIEWIRTSCHAFTLICHE TAGESFRAGEN 62. Jg. (2012) Heft 9
+[10]
+Energie GmbH 2014. Leipziger Institut für Energie GmbH, 29. Januar 2014: Kurzexpertise „Wirtschaftlichkeit Batteriespeicher Berechnung der Speicherkosten und Darstellung der Wirtschaftlichkeit ausgewählter Batterie- Speichersysteme“
+[11]
+Fachausschuss erneuerbare Energien 2010. Fachausschuss ForschungsVerbund Erneuerbare Energien, Juni 2010: „Nachhaltiges Energiesystem 2050 Eine Vision für ein nachhaltiges Energiekonzept auf Basis von Energieeffizienz und 100% erneuerbaren Energien“
+[14]
+BMUB 2004. BMUB, 30.07.2004 Mitteilung Nr. 231/04: Erneuerbare-Energien-Gesetz tritt in Kraft
+http://www.bmub.bund.de/presse/pressemitteilungen/pm/artikel/erneuerbare-energien-gesetz-tritt-in-kraft/
+[15]
+Ahlborn 2013. Dr. – Ing. Detlef Ahlborn 2. Juli 2013: „Wie viele Windräder braucht das Land?“
+[16]
+Ahlborn. Blog Vernunftkraft. Dr. – Ing. Detlef Ahlborn, „Windkraft-Verfügbarkeit“
+[17]
+Agora Energiewende Agorameter: Stromerzeugung und Energieverbrauch
+http://www.agora-energiewende.de/service/aktuelle-stromdaten/?tx_agoragraphs_agoragraphs%5BinitialGraph%5D=powerGeneration&tx_agoragraphs_agoragraphs%5Bcontroller%5D=Graph
+[18]
+ScienceScepticalBlog 2013. ScienceScepticalBlog, 25. März 2013: Fred F. Mueller „Aufwind nur für den Strompreis? Deutschlands Energiewende und die Realität“
+http://www.science-skeptical.de/energieerzeugung/aufwind-nur-fur-den-strompreis-deutschlands-energiewende-und-die-realitat/009573/
+[19]
+BmBF. Bundesministerium für Bildung und Forschung: „Energietechnologien für die Zukunft, Netze und Speicher“.
+http://www.bmbf.de/de/16753.php
+[20]
+NABU 2011. NABU Schleswig-Holstein 5. September 2011. Agrargasanlagen und Maisanbau. Eine kritische Umweltbilanz
+[21]
+TAB 2012. TAB Arbeitsbericht Nr. 147, April 2012: „Endbericht zum Monitoring: Regenerative Energieträger zur Sicherung der Grundlast in der Stromversorgung“
+[22]
+Heller 2013. science-skepticalm Peter Heller, 24. November 2013: „Technikfeindlichkeit am Beispiel Elektromobilität“
+[23]
+Pettinger 2013. Hochschule Landshut 12.08.2013. Prof. Dr. Karl-Heinz Pettinger: „ Batteriespeicherung für Heimanwendungen“
+[24]
+Hartmann et al. 2012. Stuttgart, 2012: „Stromspeicherpotenziale für Deutschland“
+[25]
+WIKIPEDIA: Erneuerbare-Energien-Gesetz
+http://de.wikipedia.org/wiki/Erneuerbare-Energien-Gesetz
+[26]
+science-skeptical 2014. science-skeptical Blog, 19. Dezember 2014 Artikel: „Ein Fazit zu den Erneuerbaren Energien – Produktion 2014 und ein Blick in die Zukunft“.
+http://www.science-skeptical.de/energieerzeugung/windkraft/ein-fazit-zu-den-erneuerbaren-energien-produktion-2014-und-ein-blick-in-die-zukunft/0013226/
+[27]
+EIKE 2015. EIKE Blogbeitrag, 07.03.2015: „Münchner Stadtwerke mal wieder – Burn, burn, Bürgergeld“
+http://www.eike-klima-energie.eu/news-cache/muenchner-stadtwerke-mal-wieder-burn-burn-buergergeld/
+35 bis 40% ist vielleicht der Wirkungsgrad in der politischen Thermodynamik – oder der Fördersatz.
+Der Wirkungsgrad nach klassischer Thermodynamik wird unter 10% liegen, es sei denn sie machen aus den Tanks Druckbehälter…
+„Elektro-Energiespeicherung“
+Herr Ehlig Sie haben sich bei der Frage mit den Ölpreisen im Beitrag verschrieben, es geht um Stromspeicherung, wenn ich das noch richtig im Kopf habe.
+Gruß
+Ich halte das Tanklager nicht einmal theoretisch für Salzschmelzen denkbar, da die Stahlqualität wahrscheinlich nicht den Anforderungen entspricht.
+Schauen Sie mal in die Vergangenheit und die Ölpreise 2008 und 2010…
+Also wer Energie als Wärme speichern will um aus dieser dann wieder elektrische Enrgie zu gewinnen, kommt am Carnot-Wirkungsgrad nicht vorbei. Da sind nun mal 100 °C viel zu wenig um auch nur einen einigermaßen annehmbaren Wirkungsgrad zu erreichen. Also muss die Temperatur höher sein. Mit Wasser geht das aber nur, wenn man es unter Druck setzt, was mit normalen Lagertanks nicht geht. Da bräuchte man dann schon so etwas wie Dampfkessel, die aber mit einem ehemaligen Treibstofflager nicht mehr viel zu tun haben. Den Erfindern würde ich empfehlen in Physik noch einige Nachhilfestunden zu nehmen.
+Was übrigens mindestens theoretisch denkbar wäre, sind Salzschmelzen als Speichermedium. Ob sich so etwas in einem Tanklager realisieren ließe, möchte ich bezweifeln, da eine möglichst perfekte Wärmeisolierung der Tanks auch hier vorauszusetzen wäre.
+Herr Rasim,
+die „Volumensverwendung“ sagt, dass die Studien zugeben, dass diese Verfahren bisher noch nicht im Ansatz für die notwendigen Speichervolumen geeignet sind, geschweige erprobt werden konnten. Die (zukünftige) Verwendbarkeit besteht bisher nur theoretisch, kann aber (lt. Experten) gehofft werden. allerdings sind die Kosten schon abschätzbar.
+Wenn Sie der Niedersachsen-Studie Dilettantismus vorwerfen, tun sie ihr vielleicht etwas unrecht. Wer es darin lesen will, findet auch die Probleme klar dargestellt. Sie wurde aber für einen Grünen Minister erstellt.
+Ich bin (zeitlich und vom Willen her) nicht in der Lage, das gesamte Thema der Speichertechnologien auf Sinn und Unsinn abzuklopfen. Dazu kann man Bücher lesen. Meine Ausführung konzentriert sich deshalb bewusst auf den quasi-offiziellen Sachstand und vor allem dessen Kosten. Mit diesen kann man mit Befürwortern diskutieren, da sie Grün abgesegnet sind.
+niemand will Sie mit einem „Stammtischton“ brüskieren, aber gestatten Sie, wenn Sie 27 Quellen auswerten, häufig unsinnige Aussagen der von energietechnischen Dilettanten verfassten Niedersachsenstudie (1) zitieren und die richtungsweisende 143- seitige DPG- Studie (6/2010) sowie den Sinn- Vortrag nicht kennen, darf ich diese Unterlassung doch mal diskret kritisieren. Die DPG e. V. ….ist die älteste und mit 58 000 Mitgliedern größte physikalische Fachgesellschaft weltweit, …frühere Präsidenten waren u. a. Max Planck und Albert Einstein. Dann räumen Sie noch den technisch/ökon. sinnlosen Verfahren Druckluft und P2P so viel Raum ein, während die DPG diese beiden in der Zusammenfassung (S. 137) nicht einmal mehr erwähnte.
+Der Begriff „Volumensverwendung“ ist für mich trotzdem unklar, meinen Sie damit die vielen Mio. m3 des Erdgasnetzes mit den Poren- und Kavernenspeichern? Dieses System ist doch wegen des Sommer/Winterausgleichs für die Wärmeversorgung und Erdgaskraftwerke weitgehend ausgelastet. Lassen wir doch das „mit dem Hammer auf den Kopf“, und ein Expertenwissen möchte ich mir auch nicht unterstellen lassen. Expertin ist doch die hübsche Frau Kemfert. Ich bin nach 40- jähriger beruflicher Tätigkeit in der Elektro- und Wärmeenergietechnik nur ein wenig fachkundig und kenne den Unterschied zwischen 1 kWh und 860 kcal.
+„..ergeben sich bei einem Blackout weitere Schwierigkeiten. Auf solche Situationen sollte man gefaßt sein, denn: der große Stromausfall kommt!“
+Falls Sie sich darauf vorbereiten wollen, empfehle ich Ihnen das Geld besser in eine Kalaschnikow und Munitionsvorrat zu investieren; alternativ in ein G36, das ja auch um die Ecke schießen kann. Denn das Erste das passieren wird, sind Plünderungen und eine PV-Anlage auf dem Dach oder ein Windrad signalisiert: Da gibt es was zu holen!
+Natürlich ist es richtig was Sie über Autarkie schreiben. Das sollte aber Privatlaute nicht davon abhalten, sich auf kommende Notzeiten respektive längere Stromausfälle vorzubereiten. Wohlgemerkt: ich spreche nicht von der Industrie, sondern von Leuten wie Sie und ich. „Insellösungen“ (ob mit Solar- oder Windenergie bzw. einem Aggregat) sind heute schon recht preiswert zu haben. Schließlich will man doch im Falle eines Falles wenigstens für ein paar Stunden täglich via Satellit die weiteren Entwicklungen in TV und Internet verfolgen.
+Information ist in Notfällen von entscheidender Bedeutung. Und angesichts der Tatsache, daß die Abschaltung analoger UKW-Radiosender bevorsteht, ( siehe hier: http://tinyurl.com/pvu4lzt ) hat auch das kleine, batteriebetriebene Analogradio bald ausgedient. Die Versorgung durch Digitalradio indes ist nicht so einfach wie beim analogen Gegenstück und daraus ergeben sich bei einem Blackout weitere Schwierigkeiten. Auf solche Situationen sollte man gefaßt sein, denn: der große Stromausfall kommt!
+Mit freundlichen Grüßen
+Gerd Schober
+Es handelt sich tatsächlich um eine Art Speicherkraftwerk. Erhitztes Wasser soll wieder in Strom zurückgewandelt werden. Wirkungsgrad vermutlich zwischen 35% und 40%. Preis pro kwh also nicht unter 20 ct falls es überhaupt funktioniert.
+Energiespeicher unter der Erde
+Es gibt neue Pläne für das Tanklager Farge. Auf dem Bundeswehrgelände in Bremen-Nord soll Energie gespeichert werden. Eine Firma aus Süddeutschland will das alte Lager zu einem gigantischen Energiespeicher umbauen. Die Kosten würden bei etwa 250 bis 300 Millionen Euro liegen. Das geplante unterirdische Wärmespeicherkraftwerk wäre das erste seiner Art – weltweit. Die großen Tanks, die unter der Erde liegen, sollen mit Wasser gefüllt werden und dann wie ein riesiger Akku funktionieren.
+“
+Herrliche Zeiten für EEG-Glücksritter, Bauernfänger und Anlagebetrüger. Unter dem Siegel EEG kann man wirklich alles verkaufen.
+Bei dem hier geschilderten Verfahren handelt es sich übrigens nicht um einen Akku sprich Stromspeicher sondern um einen Zusatzspeicher für die Fernwärme. Es gibt einige solcher Projekte, deren Sinnhaftigkeit wohl angezweifelt werden darf. Strom zum Heizen und das bei den hohen NIE-Preisen.
+Auch zu empfehlen fürs Studium über Speicherung:
+das im Beitrag vom 09.06. vorgestellte Buch
+„Speicherung von elektrischem Strom – Voraussetzung jeder Energiewende“
+MfG
+W. Fritz 😉
+Ja, die gibt es schon seit Jahrzehnten in der Luftfahrt; Ni-Cd Battery sind der Standard für größere Flugzeuge.
+Vorteil: Höhere Entladungsströme, längere Lebensdauer sowie größerer Betriebstemperaturbereich (von ?40 to 70 °C) gegenüber Bleiakkus.
+Nachteil: Erfordert intelligente Ladungsgeräte (Messung der Ladungszeit Ah, Überwachung der Zellentemperatur). Hoher Wartungsaufwand.
+Für KFZ zu teuer/unwirtschaftlich) Porscheflopp?!
+Weitere Informationen s.a. http://tinyurl.com/np2t5zo
+MfG
+U.Hildebrandt
+Herr Rasim,
+meine Übersicht geht bewusst nicht auf die notwendigen Speichermengen und damit einhergehenden Problemen ein. Dann wäre es ein Buch geworden und das gibt es schon. Es ging ausschließlich darum, die Kostensituation der Technologien und ergänzend kurz die Machbarkeiten, bzw. Technologiestand darzustellen. Aus diesem Grund musste ich Studien anziehen, welche überhaupt Kosten vernünftig zusammenstellen und listen – und das sind nicht viele.
+Zu den Technologien auch der Hinweis, dass es einem Privatmann mit vertretbarem Aufwand nicht möglich ist, die Darstellungen in (guten) Studien auf Glaubhaftigkeit zu prüfen. Zudem steht in den Studien (die beiden 1 und 24 haben ja in Summe auch 300 Seiten) viel von den angesprochenen Problemen ehrlich gelistet drin.
+Was an meinem Fazit: „…. Im Wesentlichen konzentriert er sich auf die Machbarkeit für Volumensverwendung.“ völlig unverständlich ist, erschließt sich mir nicht.
+Lesen wir einmal beispielhaft die Angabe zum Speicherverfahren P2P: „Der typische Leistungsbereich liegt bei der derzeit einzig kommerziell betriebenen Anlage von Audi bei 6 MW. Es wird davon ausgegangen, dass in Zukunft Speicher mit bis zu 300 MW Leistung realisierbar sind.“
+Natürlich kann man dazu sagen: Und das soll ein hoffnungsvolles, künftiges Großspeicherverfahren sein? Wie viele Forschungsgelder werden dafür wieder nutzlos verbraten. Aber für das EEG kann man gar nicht genug Geld zum Fenster hinausschmeißen. Früher mussten die Glücksritter extra nach Alaska zum Yukon reisen, heute brauchen sie nur Speicherlösungen versprechen.
+Das mag wahr sein, aber trotzdem schreibt man in einer Publizierung nicht mit einem solchen Stammtischton.
+Also bleibt man betont freundlich: „Im Wesentlichen konzentriert er sich auf die Machbarkeit für Volumensverwendung.“ Finde ich trotzdem eindeutig und vermeidet das bei zu harten Formulierungen oft auftauchende Problem: Je stärker man jemandem mit dem Hammer auf den Kopf haut, umso weniger wird dieser für die eigene Position aufgeschlossen sein.
+Aber zur Technik: Sofern Sie das nötige Expertenwissen haben, können Sie gerne einen Faktencheck zu den technischen Realisierungsangaben der Studien machen und an EIKE geben.
+Google suche oder in Google suchen.
+„2008 zum Beispiel ging die internationale Energieagentur davon aus, Batterien für Elektroautos würden im Jahr 2010 etwa 1000 Dollar (900 Euro) pro Kilowattstunde kosten. Tatsächlich boten die Marktführer sie für etwa halb so viel Geld an.“
+Gruß
+Werner
+Würde ich so nicht sagen. Bleiakkus sind auch mit den Jahren preiswerter geworden, nur nicht so deutlich.
+„Wieso sollten andere Batterietechnologien sich da gravierend unterscheiden?“
+Bleiakkus wurden schon über Jahrzehnte massenhaft produziert. Das ist der Unterschied zu anderen Technologien, wie beispielsweise Li-Ionen. Deren Stückzahlen nahm in den letzten Jahren stark zu, was auch zu geringeren Stückkosten führte.
+Die technisch/ökonomische „Unmöglichkeit“ einer wegen der „Erneuerbaren“ nötigen landesweiten Stromspeicherung mit einer Kapazität von 10 bis 20 TWh kommt an vielen Stellen Ihres dreiteiligen Beitrags nicht zum Ausdruck, leider nur zu kurz im allerletzten Fazit und „Ausblick“. Fakten zur o. g. Behauptung gibt es weiterhin in der Studie: „Elektrizität, Schlüssel zu einem nachhaltigen und klimaverträglichen Energiesystem“ (Deutsche Physikalische Gesellschaft DPG; Juni 2010), im Vortrag „Energiewende ins Nichts“ (Prof. Sinn, Dez. 2013 an der LMU München) sowie im Beitrag „Auch Stromspeicher würden diese Energiewende nicht retten“ (Dresdner UniversitätsJournal, Nr. 18, 11. Nov. 2014, S. 4). Eigentlich hat Prof. Endres in (8) und anderen Beiträgen das ganze Dilemma „Energiewende“ bereits treffend beschrieben und diese drei Quellen bestätigt.
+Die Zitate aus der Niedersachsen- Studie: „Bei einem Einsatz als Kurzfrist- und Mittelfristspeicher sind Pumpspeicherwerke heute nach wie vor die günstigste Technologie, dicht gefolgt von adiabaten Druckluftspeichern. Als Langfristspeicher sind adiabate Druckluftspeicher heute die wirtschaftlich vorteilhafteste Speichertechnologie.“ sowie: „Zusammen¬fassend kann folgendes für die Zukunft festgehalten werden: Kommt es zu den dargestellten technologischen Weiterentwicklungen, so stellen Wasserstoffspeicher im Jahr 2030 die günstigste der untersuchten Speichertechnologien dar.“ sind regelrecht volksverdummend.
+Diese Studie gehört damit, so wie von EU- Kommissar Oettinger zum EEG geäußert, in den Mülleimer!
+In der DPG- Studie wird auch die Elt- Speicherung analysiert, die power-to-gas – Technologie als energetisch uninteressant charakterisiert und nicht einmal in der Zusammenfassung (Tabelle mit 13 anderen Speicher- Prinzipien) erwähnt. Der „redox- flow- Technologie“ werden jedoch gewisse Chancen eingeräumt. Völlig unverständlich ist für mich Ihre Äußerung im Fazit: „…. Im Wesentlichen konzentriert er sich auf die Machbarkeit für Volumensverwendung.“
+Die Druckluftspeicherung ist bekanntermaßen großtechnisch sinnlos! Wer kann denn bei der adiabatischen Version die gigantischen Wärmemengen bei über 600 grd. C über mehrere Tage oder Wochen speichern? Es gäbe eine dafür mögliche, ehemals von „Mannesmann- Seifert“ Berlin für Rohre erprobte „Vakuum- Super- Isolation“ (VSI)- Technologie, jedoch wer soll das bezahlen?
+Freundliche Grüße
+Wolfgang Rasim
+Zu #10
+Die Trollos sterben nicht aus.
+Das ist genauso wie mit den Lernkurven bei den Windmühlen. Die Gläubigen sterben da auch nicht aus. Liegt aber daran, daß den meisten Schülern in der Schule nicht beigebracht wird man Kosten von Produkten berechnet. Und dann gibt es Leute, die ackern irgendwelche gekauften Studien durch und schreiben die Propaganda da ab.
+Der Trollo hier weiß ganz genau, daß es nicht möglich ist die Speichertechnik billiger zu produzieren.
+ich finde Ihre entwaffnende Handreichung klasse! Ob der von Ihnen angesprochene Ihr Angebot annimmt?
+Meine schlichte Erkenntnis ist: Nicht alles was (technisch, politisch) machbar ist, ist auch wünschenswert (bezahlbar, ethisch) – nicht alles was wünschenswert ist, ist auch machbar! Nur darum scheren sich schon immer alle mit „höheren Zielen und Weihen“ im Gepäck einen Dreck! Die menschliche Geschichte ist voll davon. Zynisch gedacht na, wenigstens darauf ist Verlass.
+Meine persönliche bittere Bilanz mit an Wunderwaffen-Gläubige ist deren Ignoranz und Unwissen (Lernresistenz) über unerbittliche ökonomische Gesetzmäßigkeiten, die Kosten und Folgen ihrer feuchten Träume, die ursächlich durch politische Weichenstellungen völlig verzerrten Märkte und die katastrophalen Auswirkungen für den gesellschaftlichen Frieden.
+Bitter, weil noch gilt- wer nicht hören will, muss fühlen! Und für die, die meinen, sie würden es besser und richtiger als die anderen wissen und machen gilt (weil ja eine Mehrheit es so macht und die Obrigkeit bzw. medialen Sprachrohre es ja so vorgeben): Hochmut kommt vor dem Fall! Daran ändert auch unsere ach so moderne „aufgeklärte“ Welt nichts. Das Zeitalter der Aufklärung ist einer rückwärtsgewandten Tabuisierung, system- und staatstragenden Heilslehren gewichen.
+Die übelste Lüge ist die halbe Wahrheit. Es ist und bleibt ein massenhafter Selbstbetrug des ideologisch überzeugten, saturierten, ökonomisch falsch und ungebildeten Wohlstandsbürgers. Dabei kann man den meisten nicht einmal den Vorwurf machen, wo wir doch jahrzehntelang tagtäglich und zu „besonderen Anlässen“ in der Werbung, in den Medien, in den staatlichen Bildungseinrichtungen , gar vom Papst neuerdings, von den Evangelen sowieso, über Unternehmen, staatliche Institutionen und Gesetze, volkserziehende NGOs und selbsternannte Weltenretter die immer gleichen aufbereiteten Funken Wahrheit hören, sehen und lesen. Blöderweise sind an Kosten und Folgen ganz demokratisch legalisiert auch die feste daran beteiligt, die dem massenhaften Wahn nicht folgen wollen. Mitgefangen – mitgehangen.
+„..Die Akku Herstellung ist ja in der Elektronikbranche beheimatet….“
+Herr Müller, Sie machen das sehr geschickt – aber voll daneben!
+Der Preisverfall der Elektronik der letzten Jahrzehnte ist auf den Übergang von Elektronenröhren auf diskrete Transistoren/Halbleiter und weiter auf hochintegrierte Schaltkreise (ICs) zurück zu führen. Jedes Mobilphone hat heute viel mehr Rechenkapazität als alle Rechner der NASA 1969 beim Mondflug.
+Aber wo sehen Sie da Parallelen zur Batterietechnologie außer dem Prinzip Hoffnung?
+Bei diesen Satz….
+In planbar sonnenreichen Gegenden kann es durchaus sinnvoll sein, dass anstelle von Großkraftwerken jeder seine PVA-Anlage mit Speicherbatterie betreibt, ggf. auch eine Kleinwindanlage – wenn man es sich leisten kann.
+…. muss ich Ihnen widersprechen.
+Es ist IMMER ein Rückschritt, wenn man von den Energieträger Kohle, Gas, Oel und Uran auf die Energieträger Wind und Sonne zurückgeht.
+Und es wird einen sonnreichen Afrikanischen Land auch aus seiner Armut nicht raushelfen, wenn dieses Land auf Sonne und Wind als Energieträger setzt.
+Unser moderner-westliche Wohlstand, unsere Arbeitsplätze, unsere Innovationen in der IT und anderen Bereichen ist OHNE die Energieträger Kohle, Gas, Oel und Uran NICHT zu haben.
+Wer von diesen Energieträger (Kohle, Gas, Oel und Uran) abschied nehmen will und sich auf die Sonne und Wind als Energieträger abhängig macht, der will nur eines….die Wohlstand vernichten und eine Mangel und Armutsgesellschaft herbeiführen.
+Die sog. Erneurbaren Energien sind viel zu schwach auf der Brust (zu wenig Energiedichte und unzuverlässig verfügbar) um es mit den reichlich vorhandenen fossilen Energieträger (Kohle, Gas, Oel und Uran/Thorium) aufnehmen zu können. Und jede mit Verstand und Vernunft gewählte Volkswirtschft = Regierung wird weiter, zum Wohl seiner Gesellschaft, die Energieträger Kohle, Gas, Oel und Uran/Thorium, für sich und seine Kinder nutzbar machen bzw. halten.
+das kann doch jeder selber entscheiden ob und ab wann der Strom aus den Akkus günstiger ist als vom Netz.
+Die Akku Herstellung ist ja in der Elektronikbranche beheimatet.
+Betrachtet man sich den Preisverfall bei Produkten in der Elektronikbranche wird’s nur noch eine Frage der Zeit sein bis das kWh Akkuspeicherkapazität 100 bis 200 Euro kostet.
+Aktueller Preisverfall ca. 1% im Monat bei Speicherakkus.
+Ist den Netzstrom günstiger, soll er den natürlich auch verwenden, ist ja klar.
+Marktwirtschaftliches Verhalten ist das angesagt keine Planwirtschaft.
+Gruß
+Werner
+PS
+Manche hier im Forum beeindrucken, mit richtigem Fachwissen
+z.B. LKW-Lichtmaschine, Mein Bleiakku usw.
+Da sind ja richtige Spezialisten unterwegs, bei der Stromherstellung und Speicherung.
+Vielen Dank für Ihre gute Zusammenstellung, die sicher viel Mühe machte. Ich habe mir einige Ihrer Literaturstellen heruntergeladen, um sie in Ruhe zu studieren.
+MfG
+G.Wedekind
+Ihr Link soll belegen, dass sich Akkuspeicher wirklich rentieren.
+Man kommt da aus dem Staunen nicht mehr heraus. In einer auf http://www.green.wiwo.de genannten hochaktuellen Studien wird der Preis-Durchbruch für Akkuspeicher verkündet.
+Wie gelang dieser epochale Fortschritt?
+Allen Ernstes steht da sinngemäß: Bisherige Studien haben nur Fachleute befragt. Deshalb kamen immer die gleichen, falschen Ergebnisse heraus. In dieser Studie wurden aber endlich auch die Schätzungen der wirklich die Zukunft Wissenden, wie der Beraterfirmen Roland Berger und McKinsey, Analysen der Deutschen Bank, Zahlen von Industrieexperten; auch in Medien zitierte hochrangige Vertreter von Tesla, Nissan, BMW oder Mitsubishi und nicht zu vergessen der Innovations-Gott der Verlustefirma, Tesla-Chef Elon Musken einbezogen. Und siehe, sofort entsprachen die Zahlen den von der Politik und Interessenverbänden erwarteten Werten.
+Mehr Schmarrn geht nicht. Aber die Redakteure des Artikels sind begeistert.
+Jetzt ahne ich auch, warum zum EEG keine Fachleute mehr gefragt werden. Bestimmt gibt es auch dazu eine hochaktuelle Studie, die belegt, dass das nur zu falschen Angaben führt. Bei den Akkus hat man den Papst ja noch nicht mit einbezogen. Da er das aber beim Klimawandel (mit Unterstützung durch Herrn Schellnhuber – der damit endlich zum Klimagott erhoben ist) schon macht, wird es zum EEG auch nicht mehr lange dauern.
+Lob und Anerkennung für diese perfekte Zusammenfassung der Speicherproblematik bei den EE!
+Ich hätte da noch einen kleinen Zusatz, der immer vergessen geht.
+Scenario, – wir haben dunkle Flaute, beziehen aus Speichern jeder Art 50 GW Strom über eine Woche bei 80 GW Bedarf.
+In der nächsten Woche bläst der Wind und scheint die Sonne, die Speicher müssen wieder mit 50 GW gefüllt werden, damit sie der nächsten Flaute standhalten. Wir haben immer noch einen Bedarf von 80 GW.
+Jetzt muss also das Netz nicht nur die 80 GW verkraften, für die es ausgelegt ist sondern noch 50 GW ZUSÄTZLICH zu den Speichern leiten!
+Viel Vergnügen beim Netzausbau…
+„dass anstelle von Großkraftwerken jeder seine PVA-Anlage mit Speicherbatterie betreibt“
+Ich bin für eine mit Kuhfladen etc. betriebene Dampfmaschine und LKW-Lichtmaschine. Absolut leise und CO2-emissionsvermeidend. Gleichzeitig kann man mit solch einer Maschine auch sauberes Wasser herstellen. Muß natürlich noch mit Mineraltabletten aufgepeppt werden, aber das würde richtig was bringen.
+kWh 1/4 l. Also lohnt es sich bei einem Stompeis von etwa einem 1/4 des Dieselpreises seinen eigenen Strom zu produzieren. Daß das ganze natürlich weder volkswirtschaftlich noch Umwelttechnisch sinnvoll ist steht auf einem anderen Blatt.
+Die einzig Sinnvolle Art überfüssigen Strom zu speichern ist in Form von Wärme zu Heizzwecken. Aber das ist ja wieder nicht gewollt.
+Heinrich Heine…Deutschland wir weben dein Leichentuch..
+In planbar sonnenreichen Gegenden kann es durchaus sinnvoll sein, dass anstelle von Großkraftwerken jeder seine PVA-Anlage mit Speicherbatterie betreibt, ggf. auch eine Kleinwindanlage – wenn man es sich leisten kann. In Deutschland wird dies für Normalverdiener nicht bezahlbar sein.
+Allerdings bin ich für Ideen offen. Vielleicht haben Sie ja die Lösung, die uns noch nicht eingefallen ist? Ich erwarte gerne Ihre Kontaktaufnahme per email.
+Die Dummen sterben wirklich nicht aus. Mein Bleiakku in meinem Töff-Töff hat 12V Spannung und eine Kapazität von 44 Ah. 12V Mal 44Ah macht nach Adam Riese 528 VAh = 528 Wh = 0,528 kWh. Kostenpunkt so um die 50 €.
+Jo, der Tesla-Akku ist wirklich ein Schnäppchen, so wie die PROKON-Genußscheine oder Lehman-Zertifikate.
+Wenn es nicht so traurig wäre würde ich mich schlapplachen.
+Da werden in einigen Jahren einige Leute verwundert die Augen reiben.
+Da sind die Veränderungen am Strommarkt die sich aus PV ergeben nur ein laues Lüftchen.
+http://tinyurl.com/nsa7krb
+Gruß
+Werner

@@ -1,0 +1,25 @@
+Nach längerer Suche fand sich eine nahezu WI- freie Station, die Fisher- Station im Harvard Forest/Prospect Hill Tract bei Petersham/ Massachusetts westlich von Boston, 342 Meter hoch gelegen. Die Monatsmittelwerte der Lufttemperatur sind leider erst seit März 2001 verfügbar; Näheres dazu unter http://harvardforest.fas.harvard.edu:8080/exist/apps/datasets/showData.html?id=hf001 . Ein Foto zeigt die augenscheinlich wärmeinselarme Stationslage ein paar hundert Meter vom Waldrand entfernt (Quelle harvard.edu):
+Es bot sich nun an, die Monats- und Jahreswerte dieser „Forststation“ mit NOAA- Wetterstationen der Umgebung (auch in der CDC- Stationsliste geführt), zu vergleichen. Dies konnte leider nur für die 14 Jahre von 2002 bis 2015 geschehen; zu kurz für abschließende Aussagen. Die erste Grafik zeigt den Jahresgang der Temperaturen im Vergleich zu einer an einem Flughafen gelegenen Kleinstadt- Station:
+Weil Scranton um 1,33 Breitengrade südlicher und gut 50 Meter tiefer liegt, wurde nun als Nächstes eine Reduktion der Scranton- Monatswerte vorgenommen, welche pro Breitengrad nordwärts eine Temperaturabnahme um 0,7 K und je 100 Meter Höhe um 0,65 K annimmt. Die Korrekturwerte wurden bewusst sehr reichlich bemessen, um Irrtümer auszuschließen. Die Grafik 2 veranschaulicht nun die monatsweisen Differenzen Scranton (bereinigt) minus Harvard Forest:
+Nun scheint ein Rückblick auf die Berliner Untersuchungsergebnisse angebracht zu sein. Man erkennt gewisse Ähnlichkeiten beim jahreszeitlichen Gang der Differenzen zwischen den städtischen und ruralen Stationen (Grafik 3):
+Eine Vergleichsstation ist zu wenig, daher wurde die Station Pittsburgh (WMO- ID 72520, 40°31’N, 80°13’W, 361 Meter Höhe) einbezogen. Sie war im Untersuchungszeitraum um 2,8 K wärmer als die Forststation; bereinigt blieben sogar knappe 1,3 K Differenz (Pittsburgh hat gut 300.000 Einwohner). Die nächste Abbildung verdeutlicht die wegen der Kürze des Betrachtungszeitraumes nicht signifikanten Trends der Jahresmittelwerte von Pittsburgh, Scranton und Harvard Forest:
+In unmittelbarer Nähe der Forststation fand sich noch Worcester (WMO- ID 72510, 306 m Höhe, etwa 181.000 Einwohner), dessen Werte leider erst seit April 2010 vorliegen. Hier bestand eine Differenz von knapp 1,1 K, was höhenbereinigt immerhin noch für einen Temperaturunterschied von knapp 0,6 K zwischen Worcester und der Forststation reichte.
+Zusammenfassung
+Auch im Appalachenraum deuten sich merkliche WI- Effekte zwischen städtischen und ländlichen Gebieten an, die aktuell in der Größenordnung von 0,5 bis 1 Kelvin liegen. Dabei befinden sich die WMO- CDC- Vergleichs- Stationen nicht einmal im Zentrum der Städte. Auch wenn es hierzu weiterer Untersuchungen mit mehr und längerfristigen Stationsdaten bedarf, so lässt sich doch sagen, dass die konventionellen Land- Stationen der gemäßigten Breiten (Nordhalbkugel) WI- Effekte von mindestens 0,5 K enthalten, was einen stärkeren Temperaturanstieg vortäuscht, als reell vorhanden.
+Stefan Kämpfe, Diplom- Agraringenieur, unabhängiger Natur- und Klimaforscher
+Ich war da mal und so wie ich mich an die örtlichen Gegegebenheiten erinnere ist der Ort für Temperaturen nicht repräsentativ. Der Flughafen liegt auf einem Plateau.
+Man schreibe mir eine e-mail, und herr Kämpfe oder Herr Kowatsch können meinen korrigierten Datensatz bekommen. Da sind dann auch die groben Fehler beseitigt. Beispielweise wenn die Maximumtemperatur statt 32 °F mit 92 °F aangegeben wurde. der TMN mit TMAX oder TOBS vertauscht wurde.
+Deshalb ist Vorsicht bei onatsmitteln angebracht.
+Zuerst ein kurzer Hinweis zu den Havard-Daten:
+Sie schreiben, dass Sie den Havard Forest Datensatz nur von 2001 ab auswerten konnten.
+Die Shaler Meteorological Station an der Harvard Forest Station ist von 1964-2002 verfügbar.
+Nu zu Ihrem „Forschungsergebnis“:
+Im Falle von Berlin (Grafik 3) haben Sie Stationen verglichen, die räumlich beieinander lagen, dies ist gut nachvollziehbar, besonders wenn am Ihren damaligen Artikel gelesen hat. Die Übertragung dieses Verfahrens auf Stationen die 300 km respektive 700 km auseinanderliegen halte ich für gewagt, zumal wenn ein über 1000m hohes Bergland zwischen diesen liegt.
+Aus Ihrem Artikel erschließt sich mir nicht, wie Sie nun den WI-Effekt von 0,5-1 K ermittelt haben. In welchen Zeitraum hat sich der WI in dieser Größenordnung entwickelt?
+MfG und schöne Weihnachten
+P.S. Sie Schreiben von längerer Suche nach einer WI-freien Station: Ich hatte schon früher auf den LTER Transsect in den Rocky Mountains hingewiesen.
+http://niwot.colorado.edu/
+sind durchaus brauchbar, wenn die gleichen Strömungs- und Umgebungsbedingungen ausgesetzt sind. Hamburg-Fuhlsbüttel mit Cuxhaven oder Bremerhaven (rund 100 km entfernt) zu vergleichen ist unzulässig. Aber man kann die Station Faßberg mit der von Münster-Osnabrück vergleichen und Hannover-Langenhagen auf den WI-Effekt überprüfen. Bremen-Flughafen wäre auch noch zulässig.
+Es kommt immer darauf an …
+Mfg
+Ketterer

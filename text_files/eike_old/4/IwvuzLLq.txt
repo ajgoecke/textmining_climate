@@ -1,0 +1,201 @@
+Wir machen das eigentlich selten, aber dieses Mal nennen wir alle Autoren:
+Pieter Borger, Bobby Rajesh Malhotra , Michael Yeadon , Clare Craig, Kevin McKernan, Klaus Steger, Paul McSheehy, Lidiya Angelova, Fabio Franchi, Thomas Binder, Henrik Ullrich, Makoto Ohashi, Stefano Scoglio, Marjolein Doesburg-van Kleffens, Dorothea Gilbert, Rainer Klement, Ruth Schruefer, Berber W. Pieksma, Jan Bonte, Bruno H. Dalle Carbonare, Kevin P. Corbett und Ulrike Kämmerer.
+Sie alle sind Molekularbiologen, Biochemiker usw., die an verschiedenen Universitäten tätig sind.
+Sie haben einen Beitrag verfasst, der den Titel trägt: “External peer review of the RTPCR test to detect SARS-CoV-2 reveals 10 major scientific flaws at the molecular and methodological level: consequences for false positive results.” Das ist ein sperriger Titel, der den Sprengstoff, der sich dahinter verbirgt, verdeckt.
+Der Sprengstoff lässt sich wie folgt beschreiben: Seit Monaten sind Politiker panisch weil Ihnen aus Labors Zahlen gemeldet werden, Zahlen von Personen, die mit einem Test, dem RT-PCR – Polymerase Chain Reaction – Reverse Transcriptase – Test positiv auf Coronavirus getestet wurden. Diese Zahlen sind falsch. Das ist die zurückhaltendste Formulierung, die sich für die Ergebnisse finden lässt, die Borger et al. (2020) in ihrem Beitrag publizieren. Der Beitrag ist eine Peer Review des Beitrags, “Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR”, der am 23. Januar im Journal “Eurosurveillance” publiziert wurde. Darin wird die Entwicklung eines Tests zur Bestimmung von positiv mit SARS-CoV-2 Infizierten Personen beschrieben, der seither den Standard darstellt, anhand dessen Labors rund um die Welt bestimmen, ob der Nasenabstrich, den sie gerade testen, SARS-CoV-2 enthält. Wer sich bei der WHO Test-Rat holen will, dem wird ein Testprotokoll geliefert, das auf dem Beitrag von Corman, Drosten und anderen basiert. Es findet sich hier. Mit anderen Worten: Labore weltweit nutzen den von Corman, Drosten et al. entwickelten Test, um SARS-CoV-2 in Proben zu identifizieren. Sie bauen auf dem auf, was Corman, Drosten et al. veröffentlicht haben, und das ist falsch.
+Wenn Sie sich gerade im Lockdown befinden, daran gehindert werden, ein normales Leben zu leben, wenn ihr Unternehmen gerade Bankrott gegangen ist, ihre Lebenswerk zerstört wurde, wenn sie gerade an Krebs leiden, aber in Krankenhäusern wegen SARS-CoV-2 nicht behandelt werden können, dann wird es Sie vielleicht trösten, dass alles ein schlechter Scherz gewesen sein kann, dass seit Monaten Personen, die an irgend einem der vielen Coronaviruse erkrankt sind, als COVID-19 Fälle etikettiert und zum Anlass genommen werden, um ihre bürgerlichen Freiheiten einzuschränken, ihr Unternehmen zu zerstören, sie einzusperren.
+Falls Sie sich fragen, welche Coronaviren es eigentlich gibt: Oben finden sie eine Liste. Sie alle können mit PCR-RT “entdeckt”, aber nicht von SARS-CoV-2 unterschieden werden. Sie alle sind normale Vorkommnisse in Winter und Frühling, manche von ihnen sind die normalen Anlässe für Pneumonia, die tödlich verlaufen kann. Sie alle mögen der Grund dafür sein, dass die Sterblichkeit in diesem Jahr nicht über der der letzten Jahre liegt. Es ist alles ein Versehen – vielleicht auch Absicht.
+Beginnen wir mit Besonderheiten.
+Schon am 13. Januar 2020 wird das Protokoll des RT-PCR Tests, den Corman, Drosten et al. am 23. Januar 2020 in Eurosurveillance veröffentlichen werden, als Protokoll zur Feststellung von SARS-CoV-2 auf der Webseite der WHO publiziert, am 17. Januar wird es dort in überarbeiteter Version publiziert. Am 21. Januar 2020 wird der Beitrag von Corman, Drosten et al. (2020), der die Entwicklung des RT-PCR-Tests beschreibt, bei Eurosurveillance eingereicht. Am 22. Januar wird er bereits zur Veröffentlichung angenommen. Am 23. Januar wird er veröffentlicht. Angeblich sind die Texte, die bei Eurosurveillance veröffentlicht werden, Peer Reviewed, in diesem Fall mag es geholfen haben, dass Christian Drosten und Chantal Reusken, die am Corman-Drosten-Paper mitgeschrieben haben, auch gleichzeitig Herausgeber von Eurosurveillance sind, ein Interessenkonflikt, den die beiden vergessen haben, anzugeben, wie Borger et al. (2020) in ihrem Beitrag, in dem sie das Papier von Corman, Drosten et al. nicht nur einer Peer-Review unterziehen, sondern zerstören, anmerken.
+Der Text, den Borger et al. publiziert haben, er findet sich für Interessierte am Ende dieses Beitrags, er ist eine systematische Zerstörung eines – so muss man nach Lektüre des Textes Borger et al. feststellen – dilettantischen Textes von Corman, Drosten et al. der zur vermeintlich wissenschaftlichen Grundlage der gesamten SARS-CoV-2 Pandemie geworden ist.
+Beginnen wir mit der Darstellung der Zerstörung:
+- Es beginnt mit dem Zeitpunkt der Veröffentlichung. Am 21. Januar reichen Corman, Drosten et al. ihr Paper zur Veröffentlichung ein und begründen die Relevanz ihrer Arbeit damit, dass SARS-CoV-2, das neue Virus aus China, eine Herausforderung und ein großes Risiko für die öffentliche Gesundheit darstelle. Zu diesem Zeitpunkt gibt es weltweit gerade einmal 6 Tote. Wieso, so fragen Borger et al., nehmen Corman, Drosten et al. bereits zu diesem Zeitpunkt an, dass SARS-CoV-2 eine Gefahr für die öffentliche Gesundheit darstelle?
+- Wenn ein Test entwickelt wird, der auf das Vorhandensein eines Virus testen soll, dann nimmt man an, dass das Virus, das Genom des Virus, das in Proben gefunden werden soll, Ausgangspunkt der Entwicklung ist. Nicht so bei RT-PCR von Corman, Drosten et al. Der Test wurde nicht auf Basis eines lebenden SARS-CoV-2 Virus entwickelt, er wurde überhaupt nicht auf Basis von genetischem Material für SARS-CoV-2 entwickelt, sondern auf Basis einer Veröffentlichung chinesischer Wissenschaftler, in der die Gensequenz von SARS-CoV-2 enthalten ist und auf Grundlage von SARS-CoV-1, dem Vorgänger von SARS-CoV-2. Allein das macht den Test schon suspekt. Aber das ist noch das geringste der Probleme, die Borger et al. auflisten.
+- Um einen RT-PCR-Test zu starten, werden so genannte Primer benötigt. Sie dienen als Startpunkt für das Enzym “Polymerase”, das zuvor in DNA umgeschriebene RNA so amplifiziert, dass auf das Vorhandensein eines bestimmten Genoms geschlossen werden kann. Normal sind Konzentrationen von 100 bis 200 Nanomol (nM) pro Primer. Corman, Drosten et al. verwenden Primer-Konzentrationen, die mit 600 bis 800 nM um ein Vielfaches höher liegen. Mit höherer Primer-Konzentration geht eine höhere Wahrscheinlichkeit, Junk zu messen und als SARS-CoV-2 auszugeben, einher.
+- Primer formen mit dem genetischen Material in der Probe ein Paar, das indikativ für in diesem Fall SARS-CoV-2 sein soll. Dazu ist es notwendig, alle Paare, die gebildet werden können, zu bestimmen. Beim RT-PCR-Test von Corman, Drosten et al. bleiben 64 Paare unbestimmt. D.h. es gibt 64 Möglichkeiten, SARS-CoV-2 mit dem Test in Proben zu finden, ohne dass SARS-CoV-2 vorhanden wäre. Wenn man die Wahrscheinlichkeit maximieren will, etwas zu finden, was gar nicht da ist, dann geht man wohl so vor.
+- Normalerweise werden Tests, die das Vorhandensein von z.B. einem Virus erfassen sollen, auf Basis von drei Test-Assays durchgeführt. Der RT-PCR-Test sieht nur zwei Test-Assays vor. Weltweit werden Personen auf Grundlage von zwei Test-Assays als SARS-CoV-2 positiv getestet, obwohl zwei Test-Assays nicht ausreichen, vor allem deshalb nicht, weil der einzige Test-Assay, der SARS-CoV-2 zweifelsfrei nachweisen kann, weil das N-Gen von SARS-CoV-2 und SARS-CoV-1 in seiner spezifischen Form nur in diesen beiden Coronaviren zu finden ist, gar nicht durchgeführt wird. Dazu schreiben Borger et al. (2020):
+“So, in order to specifically detect a SARS-CoV1 and SARS-CoV-2 PCR product the above region in the N gene should have been chosen as amplification target”.
+Statt des N-Gens wurde von Corman, Drosten et al. jedoch das E-Gen ausgewählt und für dieses Gen gilt, dass es nicht spezifisch für SARS-CoV-2 ist.
+- Hinzu kommt, dass die Primer, die von Corman, Dorsten et al. als Ausgangspunkt zur wenn man so will, Reproduktion von SARS-CoV-2 gewählt wurden, bestenfalls knapp die Hälfte des Genoms von SARS-CoV-2 abdecken. Das lässt ausreichend Spielraum, um Personen positiv zu testen, die gar nicht mit SARS-CoV-2 infiziert sind. Es maximiert die Anzahl der False Positives. Dazu schreiben Borger et al.:
+“These are severe design errors, since the test cannot discriminate between the whole virus and viral fragments. The test cannot be used as a diagnostic for SARS-viruses”.
+Mit anderen Worten, der Test, der genutzt wird, um die schönen Statistiken bei Worldometer und Johns Hopkins mit den Millionen Infizierten zu generieren, er ist nutzlos, um SARS-CoV-2 festzustellen. Mit noch anderen Worten:
+“The design errors described here are so severe that it is highly unlikely that specific amplification of SARS-CoV-2 genetic material will occur using the protocol of the Corman-Drosten paper.
+RT-PCR misst also irgend etwas, was er misst kann mangels Spezifizität nicht gesagt werden.
+- Um genug genetisches Material für eine Bestimmung im Assay herzustellen, müssen mehrere Zyklen durchlaufen werden. Zuverlässige Ergebnisse können nur unterhalb von 30 bis 35 Zyklen erhalten werden:
+“PCR data evaluated as positive after a Ct value of 35 cycles are completely unreliable.”
+Dessen ungeachtet wird im WHO-Protokoll, das auf dem Corman, Dorsten et al. Paper basiert, behauptet, es sei bis zu 45 Zyklen möglich, reliable Ergebnisse zu erhalten:
+“But an analytical result with a Ct value of 45 is scientifically and diagnostically absolutely meaningless (a reasonable Ct-value should not exceed 30).”
+- Um sicherzustellen, dass ein PCR-Test auch in der Lage ist, genetisches Material des Virus zu produzieren, auf das er testen soll, ist es unablässig auf Grundlage von lebendem Virus zu testen, ob das Testergebnis auch mit dem aktuellen Virus übereinstimmt. Ein solcher Test hat für RT-PCR nie stattgefunden.
+- Es gibt keine Standard-Prozedur, die die Anwendung von RT-PCR beschreibt, ct-Werte festsetzt usw. Alle relevanten Informationen, die die Laborpraxis anleiten, sind vage und machen eine große Vielfalt unterschiedlicher Vorgehensweisen, die dann alle SARS-CoV-2 gefunden zu haben vorgeben, möglich.
+Die Liste der Mängel, Fehler, Auslassungen und Unterlassungen, die Corber et al. zusammengestellt haben, ist so erschreckend, dass man sich fragt, wie ein solches Junk-Paper, wie das von Corman, Drosten et al. jemals veröffentlicht, wie ein solcher Junk-Test jemals Grundlage eines Testprotokolls werden konnte, das die WHO verbreitet. Der Test, der auf Basis schriftlicher Angaben für ein angebliches Genom von SARS-CoV-2 aus China entwickelt wurde, der zu einem Zeitpunkt mit einer Dringlichkeit versehen wurde, die SARS-CoV-2 zu diesem Zeitpunkt sicher nicht hatte, macht eher den Eindruck als sei sein Ziel, die Anzahl der positiv Getesteten insgesamt zu maximieren, wobei positiv getestet, positiv getestet auf Irgendetwas, nicht auf SARS-CoV-2 bedeutet, ganz so als sollte hier eine Basis geschaffen werden, auf der eine Fake-Pandemie inszeniert werden kann.
+Weil der Beitrag von Corman, Drosten et al. (2020) so fehlerhaft und problematisch ist, haben Borger et al. einen Brief an die Herausgeber von Eurosurveillance geschrieben, in dem sie fordern, den Beitrag von Corman, Dorsten et al. zurückzuziehen.
+“Retraction request letter to Eurosurveillance editorial board
+November 28, 2020
+This is the retraction-request letter sent to Eurosurveillance by the main & co-author’s, written by Dr. Peter Borger, enclosed to the extended Review Report submission via the Eurosurveillance online-submission portal. Submission date was 27th November 2020.
+Nov 26th 2020,
+To: Editorial Board Eurosurveillance
+European Centre for Disease Prevention and Control (ECDC)
+Gustav III:s Boulevard 40
+16973 Solna
+Sweden
+Subject: External Review and request to retract the paper of Corman et al, published in Eurosurveillance January 23, 2020.
+Dear editorial board Eurosurveillance,
+We, an international consortium of life-science scientists, write this letter in response to the article “Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR” published in Eurosurveillance (January 23rd, 2020) and co-authored by Victor M Corman , Olfert Landt , Marco Kaiser , Richard Molenkamp, Adam Meijer, Daniel KW Chu, Tobias Bleicker , Sebastian Brünink, Julia Schneider , Marie Luisa Schmidt , Daphne GJC Mulders , Bart L Haagmans , Bas van der Veer , Sharon van den Brink, Lisa Wijsman, Gabriel Goderski, Jean-Louis Romette, Joanna Ellis, Maria Zambon, Malik Peiris, Herman Goossens, Chantal Reusken, Marion PG Koopmans, and Christian Drosten.
+This paper (hereafter referred to as “Corman-Drosten paper”), published by “Eurosurveillance” on 23 January 2020, describes an RT-PCR method to detect the novel Corona virus (also known as SARS-CoV2). After careful consideration, our international consortium of Life Science scientists found the Corman-Drosten paper is severely flawed with respect to its biomolecular and methodological design. A detailed scientific argumentations can be found in our review “External peer review of the RTPCR test to detect SARS-CoV2 reveals 10 major scientific flaws at the molecular and methodological level: consequences for false positive results”, which we herewith submit for publication in Eurosurveillance.
+Further, the submission date and acceptance date of this paper are January 21st and January 22nd, respectively. Considering the severe errors in design and methodology of the RT-PCR test published by “Eurosurveillance”, this raises the concern whether the paper was subjected to peer-review at all.
+A previous request from our side (Dr. P. Borger; email 26/10/2020) to the editors of “Eurosurveillance” to provide the peer review report of the Corman-Drosten paper has not been complied with. We have enclosed your email reply (dated 18/11/2020) indicating that you do not wish to disclose important information to solve this conundrum.
+We are confident that you will take our scientific objections seriously and recognize that there is no alternative but to accept our request to retract the Corman-Drosten paper.
+Sincerely,
+Dr. Pieter Borger (MSc, PhD), Molecular Genetics, W+W Research Associate, Lörrach, Germany
+Prof. Dr. Ulrike Kämmerer, specialist in Virology / Immunology / Human Biology / Cell Biology, University Hospital Würzburg, Germany
+Prof. Dr. Klaus Steger, Department of Urology, Pediatric Urology and Andrology, Molecular Andrology, Biomedical Research Center of the Justus Liebig University, Giessen, Germany
+Prof. Dr. Makoto Ohashi, Professor emeritus, PhD in Microbiology and Immunology, Tokushima University, Japan
+Prof. Dr. med. Henrik Ullrich, specialist Diagnostic Radiology, Chief Medical Doctor at the Center for Radiology of Collm Oschatz-Hospital, Germany
+Rajesh K. Malhotra (Artist Alias: Bobby Rajesh Malhotra), Former 3D Artist / Scientific Visualizations at CeMM – Center for Molecular Medicine of the Austrian Academy of Sciences (2019-2020), University for Applied Arts – Department for Digital Arts Vienna, Austria
+Dr. Michael Yeadon BSs(Hons) Biochem Tox U Surrey, PhD Pharmacology U Surrey. Managing Director, Yeadon Consulting Ltd, former Pfizer Chief Scientist, United Kingdom
+Dr. Kevin P. Corbett, MSc Nursing (Kings College London) PhD (London South Bank) Social Sciences (Science & Technology Studies) London, England, UK
+Dr. Clare Craig MA, (Cantab) BM, BCh (Oxon), FRCPath, United Kingdom
+Kevin McKernan, BS Emory University, Chief Scientific Officer, founder Medical Genomics, engineered the sequencing pipeline at WIBR/MIT for the Human Genome Project, Invented and developed the SOLiD sequencer, awarded patents related to PCR, DNA Isolation and Sequencing, USA
+Dr. Lidiya Angelova, MSc in Biology, PhD in Microbiology, Former researcher at the National Institute of Allergy and Infectious Diseases (NIAID), Maryland, USA
+Dr. Fabio Franchi, Former Dirigente Medico (M.D) in an Infectious Disease Ward, specialized in “Infectious Diseases” and “Hygiene and Preventive Medicine”, Società Scientifica per il Principio di Precauzione (SSPP), Italy
+Dr. med. Thomas Binder, Internist and Cardiologist (FMH), Switzerland
+Dr. Stefano Scoglio, B.Sc. Ph.D., Microbiologist, Nutritionist, Italy
+Dr. Paul McSheehy (BSc, PhD), Biochemist & Industry Pharmacologist, Loerrach, Germany
+Dr. Marjolein Doesburg-van Kleffens, (MSc, PhD), specialist in Laboratory Medicine (clinical chemistry), Maasziekenhuis Pantein, Beugen, the Netherlands
+Dr. Dorothea Gilbert (MSc, PhD), PhD Environmental Chemistry and Toxicology. DGI Consulting Services, Oslo, Norway
+Dr. Rainer Klement, PhD. Department of Radiation Oncology, Leopoldina Hospital Schweinfurt, Germany
+Dr. Ruth Schrüfer, PhD, human genetics/ immunology, Munich, Germany,
+Dr. Berber W. Pieksma, General Practitioner, The Netherlands,
+Dr. med. Jan Bonte (GJ), Consultant Neurologist, the Netherlands,
+Dr. Bruno H. Dalle Carbonare (Molecular biologist), IP specialist, BDC Basel, Switzerland
+Es ist somit möglich, dass die Pandemie, die SARS-CoV-2 Pandemie, eine Inszenierung, ein Schein, ein Fake ist, der letztlich auf falschen Testergebnisse basiert, die wiederum mit Toten, die es auf Intensivstationen rund ums Jahr gibt, die nur niemand zählt, ergänzt werden, um Eingriffe in Grundrechte und -freiheiten zur rechtfertigen, die ohne Pandemie wohl nur mit Panzern und Gewalt durchsetzbar gewesen wären.
+Mehr dazu gibt es hier: CORMAN-DROSTEN-REVIEW REPORT
+Wir müssen diesen Text jetzt erst einmal verdauen.
+Wer den gesamten Text vor Borger et al. nachlesen will, der kann das nun tun
+Zuerst erschienen bei Sciencefiles.
+Seitenlange Fakten und Argumentation mit einem ad-hominem-Halbsatz abgeschmettert. Bravo. Und so überzeugend…
+Ich weiß. Pseudowissenschaftler und Verschwörungstheoretiker mögen es nicht, wenn man ihnen aufzeigt, wo Sie Unsinn reden.
+Prof. Dr. Andreas Beyer
+Letztmaliger Hinweis: Bitte anderen Texteditor verwenden.
+“ Pseudowissenschaftler und Verschwörungstheoretiker mögen es nicht, wenn man ihnen aufzeigt, wo Sie Unsinn reden. “
+Und als „Nachweis“ bringen Sie ausschließlich Ihre PERSÖNLICHE Schrift und die Bemerkung, die Gegenmeinung sei „fake Science und Verschwöruingstheorie, die Autoren sind kein Team von Wissenschaftlern.“
+So haben meine Professoren im Studium nie argumentiert! Sie müssen sich von mir die Frage gestatten lassen, ob Sie Ihren Titel Prof. im Lotto gewonnen haben. Wissenschaftliche Argumentation erkenne ich bei ihnen nicht, so etwas sieht anders aus!
+MfG
+Peter Georgiev, Dipl. Ing.
+Mein Titel schreibe ich zu ersten mal bei Eike dazu, es sollen meine Argumente sprechen, nicht meine Titel. Bei Ihnen scheint es umgedreht zu sein!
+Mein Blick in die Zukunft: Nach dem Frühjahr und im Sommer gehen die Zahlen naturgemäß ja wieder nach unten und die Koalition wird sich auf gewonnene Wahlen im Herbst freuen können und schon kurz vorher den Sieg über Corona ausrufen. Ich frage mich nur wie sie danach z.B. mit Situationen wie 2017/2018 mit statistisch 25.000 Toten und 95/96 mit 30.000 Toten umgehen. Welchen Namen das verursachende Virus trägt sollte ja egal sein. Wenn man so um uns besorgt ist wie momentan dann wären doch unsere Volksvertreter doch geradezu verpflichtet das ganze Füllhorn von Gemeinheiten wieder über uns auszuschütten. Diese Situationen werden ja wiederkommen, das ist so sicher wie das Amen in der Kirche. Steht uns dann das ganze Spiel wieder bevor? Von ihrer Denke her müsste sich die Politik doch mittlerweile eingestehen dass sie die Situation schon 2017/18 unterschätzt hat und sich das auf keinen Fall wiederholen darf. Meine Meinung…düstere Aussichten!!!
+Die Öffnung der Steuerkassen aller Volkswirtschaften weltweit, diente als letzte Karte im Spiel ausschließlich den Großen Unternehmen, den Konzernen. Aber dazu brauchte man schon einen plausiblen Grund. So einfach kann man die Steuern öffentlich nicht vergeben bzw. verschenken. Ergo gibt es seit Januar 2020 eine Viruspandemie, die die gesamte Menschheit bedroht, um die Maßnahmen der Steuerkassenöffnung für Konzerne zu rechtfertigen.
+Die meisten Kreditmilliarden werden nicht in die Steuerkassen zurück gelangen, weil die Antragsteller ihre schon vorbereiteten Insolvenzanträge zügig nachgereicht haben, und die Kreditmilliarden, meist als Boni für die Führungsebenen verbraucht, vergeben, zur Insolvenzmasse umgeformt worden sind.
+Mit dem Auftauchen des Covid 19 Virus, der seit einem Jahr das zentrale Denken des Bürgers bestimmen soll, ist dieser Bürgerbetrug fest zugedeckelt und für die Mehrheit der Bürger nicht erkennbar.
+Was immer der Bürger kritisiert: Der Virus Covid 19 und die Pandemie sind Schuld an dem Untergang der Volkswirtschaften. Und: Einen Virus kann man eben nicht vor den Kadi ziehen.
+Und das ist Politik der übelsten Machart.
+ich kann es nicht so gut ausformulieren wie Sie, bin aber schon lange überzeugt, dass die eigentliche Urasache für die Pandemie der unausweichliche Crash ist. Nun ist er verschoben, da alle Zentralbanken mit der SARS-Ausrede die Schleusen geöffnet haben.
+Ich gehe sogar einen Schritt weiter und gehe davon aus, dass das Virus menschliche Manipulation enthält, in den USA gezüchtet wurde und in Wuhan ausgesetzt wurde, um genau das zu erzielen, was wir erleben.
+Über den letzten Absatz bin ich nicht hundertprozentig überzeugt, aber halte es für sehr wahrscheinlich.
+Die Reichsten sind durch die Corona-Krise noch reicher geworden, war kürzlich bei n-tv zu lesen….
+Ihre Annahme der (Gen?) Manipulation des Virus ist nicht abwegig, macht die Sache aber makaberer, noch menschenverachtender.
+Kleine Ergänzung:
+Ich habe die Analysen der Börsenkenner/Fachweilt über eine längere Zeit regelmäßig verfolgt. Die Börsen sind vom Realmarkt abgekoppelt worden und nicht bezogen auf den letzt genannten. Die virtuellen Finanzmärkte (Börsen) reagieren auf positiv und negativ Nachrichten ausschließlich.
+Trifft nun ein besonderes negatives Ereignis plötzlich, unerwartet ein, kann in Folge darauf der Wert im freien Senkrechtfall auf Null gehen. Die Gefahr besteht. Es bedeutet im schlimmsten Fall, dass die Währungen nach kurzer Hyperinflation zerbrechen voran der US Dollar, weil Hysterie am Finanzmarkt Massenverkäufe auslöst, das virtuelle Geld dann den Realmarkt flutet mit Folge eines rapiden Werteverfalls.
+Die zweite These ist eine fortdauernde Hyperinflation, die alle Werte (Bargeld und in „Papier“ angelegtes Geld bis auf wenige Sachwerte (z.B. Immobilie) stetig aber kontrolliert über einen längeren Zeitraum abwertet, endlich nullt heißt zerstört. Die Gesellschaft würde dann mehrheitlich über lange Zeit regelrecht am Hungertuch hängen, ein Siechtum haben, wie es genannt wird.
+Man wünscht sich, keines der beiden Szenarien wird eintreffen, doch die Fakten sprechen dafür, insbesondere mit dem Argument, dass man Volkswirtschaften nicht 1 Jahr lang fast gen Null fahren kann, ohne sie zu ruinieren.
+Was danach die Zukunft bringt ist offen. Dazu habe ich momentan noch keine Vorstellung. Man muss abwarten. Diesbezogen existiert nur Spekulation.
+COVID 19: Wenige der Nachrichten habe ich gelesen, weil es mir nach überzogener Überfrachtung der Bürger von Meldungen aussah. Da ich immer mit den Krankheiten (davon gibt es sehr viele) der Mitmenschen konfrontiert wurde in der Sozialarbeit, bin ich nicht so ängstlich. Auf mich wirken die Medien wie Hysteriker. Mir fehlt auch häufig die Sachlichkeit bei dem Thema COVID 19 in der Öffentlichkeit.
+Pflegt man selbst bewusst sein Immunsystem, beachtet die allgemeinen Hygieneregeln, ist man nicht wirklich gefährdet.
+Zu dem Impfangebot in spe: Kein Vertrauen, ist mir suspekt, obwohl ich keine Impfgegnerin bin. Ich habe etliche Impfungen.
+MfG
+Gast
+Ihre Analysen entsprechen exakt meinen Überlegungen. Ich möchte gern einige Details aus meinen Erfahrungen ergänzen:
+Beginnen möchte ich mit der Binsenweisheit, „wer das Geld hat, hat die Macht“. Die Macht des Kaisers wurde u. A. dadurch konsolidiert, dass er als einziger das Recht hatte, Münzen zu prägen. In der BRD war lange die Bundesbank unter Aufsicht des Parlaments Herrscher des Geldes. Die Rufe nach „Unabhängigkeit“ der Zentralbank EZB bei der Gründung der Währungsunion habe ich Jahrzehnte später verstanden. Durch die Abkopplung von der Parlamentskontrolle ist die EZB wie schon früher die FED zu Erfüllungsgehilfen der Wallstreet geworden. Die Börse hat die Kontrolle über das Geld und damit die Macht, die Zentralbanken haben nur ein Ziel: Das Casino muss sich so schnell und so lange wie möglich drehen.
+Die Auswirkung sieht man im langfristigen Chart aller Indizes: 50-60 Jahre fast waagerecht, die letzten Jahrzehnte exponentiell nach oben, völlig abgekoppelt von der Realwirtschaft. Und ist ein Indikator dafür, dass vor allem der Westen über seine Verhältnisse lebt. Die Staatschulden, Firmenschulden und Privatschulden haben Größenordnungen erreicht, die eine Rückzahlung ausschließen. Und man macht munter weiter. Griechenland wurde z.B. dadurch gerettet, dass die Rückzahlung von fälligen Schulden um 80 Jahre (falls mein Gedächtnis ein Jahrzehnt daneben liegt bitte ich um Nachsicht), was aus kaufmännischer Sicht einem vollständigen Schuldenerlaß gleichkommt. Über die 12-stelligen Summen mit der Corona-Ausrede brauchen wir über Tilgung gar nicht nachdenken.
+Den Hauptakteuren in diesem Billionenspiel ist die Situation durchaus bewußt. Es gibt auch Beispiele, wie man das ganze beendet: Deutschland Mitte des letzten JH, Währung wurde für ungültig erklärt und jeder bekam 40 DM Startgeld. So etwas ähnliches wird als „Great Reset“ mit Digitalwährung vorbereitet, wobei jeder schein vom „Drucken“ bis zum momentanen Besitz lückenlos verfolgt werden kann. Damit wären wir komplett Leibeigene der Geldherrscher. Da sind mir Ihre Szenarien lieber.
+Es gibt aber noch eins, das schlimmste Szenario, das allerdings immer funktioniert: Krieg!
+Wir können nur hoffen, dass wir glimpflich davon kommen. Es gibt paar wertbeständige Dinge wie u. a. Gold. Böse Zunge behaupten, wenn der Crash kommt, braucht man 3 Sorten Metall: Gold zum bezahlen, Eisen in Form von Konserven und Blei um beides zu verteidigen.
+Bezüglich Viren bin ich bei Ihnen. Meine Kinder haben natürlich alle wichtige Impfungen erhalten. Bei Grippe dagegen habe ich mich nur erfolgreich auf mein Immunsystem verlassen, bei Covid tue ich es auch. Der Zwang durch die Hintertür wird kommen, bald darf man nicht mal mehr ins öffentliche Klo ohne Impfnachweis.
+Es ist bezeichnend, dass niemand die Antwort auf die Frage sucht, „wieso verläuft die Krankheit mehrheitlich sehr mild und in wenigen Fällen am Rande des Todes?“ Wenn man die Antwort kennt wäre die Impfung überflüssig und damit big Pharma und die Börse um Milliarden Gewinne gebracht….
+MfG
+Peter Georgiev
+Jep!
+Mit etwas Mathematik und den Original-RKI-Daten läßt sich für jeden nachvollziehbar, die Richtigkeit dieses Fachbeitrages bestätigen:
+Die Positive-Quote der täglichen Neuinfektionen in der KW-38 bis KW-48 hat laut RKI-Doku, Tabelle 4: Anzahl der SARS-CoV-2-Testungen in Deutschland, wird immer mittwochs veröffentlicht, folgende Werte (in %):
+{1,2 1,2 1,7 2,5 3,5 5,5 7,2 7,9 9,0 9,3 9,3}
+Numerische Integration dieser Werte über KW-38 bis KW-48:
+(1,2 +1,2 +1,7 +2,5 +3,5 +5,5 +7,2 +7,9 +9,0 +9,3 +9,3) * 7 = 58,3 * 7 = 408,1 %
+Über 400 % (!!) der deutschen Bevölkerung habe sich laut Dr?osten-China-PCR-Test schon infiziert. Wir sind aber erst am Anfang der Grippe-Saison. Die schweren Monate Dezember/Januar/Februar kommen noch dazu! Damit kommt man locker auf 1000% (!!). Das ist mit einem einzigen Virus-Typ nicht zu schaffen! Dazu braucht man mindestens 10, besser 20 verschiedene Corona-Virus-Typen. Ob jetzt das SARS-CoV-2 dabei ist oder nicht, ist unerheblich.
+Im Jahr 2019 verstarben in Deutschland insgesamt 939.520 Menschen. Das sind ca. 18.000 pro Woche. Laut RKI sind in der Woche vom 28.11.2020 bis zum 04.12.2020 genau 2069 Menschen an COVID-19 verstorben. Das ergibt einen Anteil von 2069/18000 = 11,5 %. Heute (5.12.2020) beträgt die offizielle Positive-Quote der Neuinfektionen 12,43 % (!!!) Berechnung: 23.318 / (1.312.802 / 7)
+Eine Positive-Quote von über 25 % Neuinfektionen/Tag in den nächsten Wochen ist wahrscheinlich, wie jedes Jahr um diese Zeit.
+Wann wachen die Politiker endlich auf? Oder ist es Absicht?
+Ist es wirklich so, dass wenn jemand „Dr?osten-China-PCR-Test“-positiv ist, er automatisch an COVID-19 verstorben ist?
+Ist schon ziemlich heftig, was in diesem Fachbeitrag steht.
+— KORREKTUR-ANFANG —
+———————————————————————————————————
+———————————————————————————————————
+Mit etwas Mathematik und den Original-RKI-Daten läßt sich für jeden nachvollziehbar, die Richtigkeit dieses Fachbeitrages bestätigen: >>> Das ist nicht möglich! <<<
+Dummerweise habe ich die täglichen Meldungen „Neuinfektionen pro Tag“ ungeprüft verinnerlicht, und dieses Signal mit der Einheit [Neuinfektionen/Tag] versehen. Das ist FALSCH, die Einheit ist [Neuinfektionen] (ohne Tag). Die numerische Integration ergibt richtigerweise als Einheit [% Tage] und NICHT „%“ !! Die Bedeutung wäre Infektionstage/100 und ist uninteressant.
+— KORREKTUR-ENDE —
+Im Jahr 2019 verstarben in Deutschland insgesamt 939.520 Menschen. Das sind ca. 18.000 pro Woche. Laut RKI sind in der Woche vom 28.11.2020 bis zum 04.12.2020 genau 2069 Menschen an COVID-19 verstorben. Das ergibt einen Anteil von 2069/18000 = 11,5 % Heute (5.12.2020) beträgt die offizielle Positive-Quote der Neuinfektionen 12,43 % (!!!) Berechnung: 23.318 / (1.312.802 / 7)
+Eine Positive-Quote von über 20 % Neuinfektionen/Tag in den nächsten Wochen ist wahrscheinlich, wie jedes Jahr um diese Zeit.
+Wann wachen die Politiker endlich auf? Oder ist es Absicht?
+Ist es wirklich so, dass wenn jemand – aus welchen Gründen auch immer – im Sterben liegt und „Drosten-PCR-Test“-positiv ist, er automatisch an COVID-19 verstorben ist?
+Als Wiedergutmachung für meinen Fehler habe die 7 Viren, die der Drosten-PCR-Test mit „positiv“ bewertet, aus dem Referenzdokument von diesem Fachbeitrag herauskopiert, und eine kurze Beschreibung der Symptome aus Wikipedia angehängt.
+Auf diese 7 Viren reagiert der „Goldstandard“ Drosten-PCR-Test mit „positiv“:
+1.) HCoV-229E
+https://de.wikipedia.org/wiki/Humanes_Coronavirus_229E
+„Das Virus wurde erstmals 1965 durch Dorothy Hamre an der University of Chicago nachgewiesen.[8] In seltenen Fällen können auch schwere Infektionen der unteren Atemwege auftreten, einschließlich Pneumonie und Bronchiolitis, vor allem bei Säuglingen, älteren Menschen und immungeschwächten Personen.“
+2.) HCoV-NL63
+https://de.wikipedia.org/wiki/Humanes_Coronavirus_NL63
+„HCoV-NL63 tritt hauptsächlich bei kleinen Kindern, älteren Menschen und immungeschwächten Patienten mit akuten Atemwegserkrankungen in Erscheinung. In den gemäßigten Klimazonen gibt es eine saisonale Assoziation. In einer in Amsterdam durchgeführten Studie wurde das Vorhandensein von HCoV-NL63 bei etwa 4,7 % der häufigsten Atemwegserkrankungen geschätzt.“
+3.) HCoV-OC43
+https://de.wikipedia.org/wiki/Humanes_Coronavirus_OC43
+„Wie auch HCoV-229E, einem Virus aus der Gattung der Alphacoronaviren, verursacht HCoV-OC43 Erkältungskrankheiten. Beide Virenarten können darüber hinaus schwere Infekte der Atmungsorgane verursachen, darunter Lungenentzündungen bei Säuglingen, betagten Menschen und immungeschwächten Personen, wie etwa Patienten unter Chemotherapie oder HIV-Infizierten.“
+4.) HCoV-HKU1
+https://de.wikipedia.org/wiki/Humanes_Coronavirus_HKU1#Epidemiologie
+„Beim Menschen führt eine Infektion zu einer Erkrankung der oberen Atemwege mit Symptomen der Erkältung, kann jedoch auch zu Lungenentzündung und Bronchiolitis führen. Das Virus stammt ursprünglich von infizierten Mäusen.[3][4] Es wurde erstmals im Januar 2005 bei zwei Patienten in Hongkong entdeckt.[5][6][7] Nachfolgende Untersuchungen ergaben, dass es eine globale Verbreitung aufweist und schon früher entstanden sein muss.
+Äußere Systematik
+HCoV-HKU1 ist eines von sieben bekannten Coronaviren, die Menschen infizieren, neben HCoV-229E, HCoV-NL63, HCoV-OC43, MERS-CoV, dem ursprünglichen SARS-CoV (oder SARS-CoV-1) und SARS-CoV-2 (dem Erreger von COVID-19).“
+5.) MERS-CoV
+https://de.wikipedia.org/wiki/MERS-CoV
+„MERS-CoV (englisch Middle East respiratory syndrome-related coronavirus) ist ein im Jahr 2012 erstmals identifiziertes Virus aus der Familie der Coronaviren, das beim Menschen eine schwere Infektion der Atemwege, Lungenentzündung und Nierenversagen verursachen kann.“
+6.) SARS-CoV-1
+https://de.wikipedia.org/wiki/SARS-CoV
+„SARS-CoV[3][4] (englisch severe acute respiratory syndrome coronavirus,[3][4][5] SARS-Coronavirus,[6] früher auch SCV[7]) bezeichnet den Verursacher des schweren akuten Atemwegssyndroms (SARS).“
+7.) SARS-CoV-2
+https://de.wikipedia.org/wiki/SARS-CoV-2
+„Das Virus SARS-CoV-2 (Abk. für englisch severe acute respiratory syndrome coronavirus 2,[3] deutsch „schweres akutes respiratorisches Syndrom“-Coronavirus-2[5]), umgangssprachlich (neuartiges) Coronavirus genannt, gehört zur Familie der Coronaviren. Eine Infektion mit diesem Virus kann die Atemwegserkrankung COVID-19 (Abk. für Corona virus disease-19), die Coronavirus-Krankheit-19, verursachen.“
+Coronaviren sind weltweit verbreitet und verursachen 10–15 % aller Erkältungskrankheiten. Die Infektionshäufigkeit zeigt saisonale Muster, die meisten Infektionen treten dabei in den Wintermonaten auf.
+Die Gretchenfrage ist: wie hoch ist der Anteil von „SARS-CoV-2“ an diesem „Viren-Mix“? Das sollte man schon wissen, bevor man in einigen Wochen mit der Massenimpfung eines kaum getesteten Impfstoffes beginnt. Phase III fehlt noch !!!!!
+Bitte unbedingt in Zukunft kürzer fassen.
+Weil die ganzen Maßnahmen auf diesen Test basieren und man gedacht hat, dass die positiv getesteten „Infiziert“ sind, hat man alles eingeleitet. Nun müssen die Lockdown Maßnahmen, Masken, Einschränkungen der Grundrechte, Einschränkungen des öffentlichen Lebens und die Impfung rückgängig gemacht werden. Frau Merkel, Herr Spahn, Herr Söder, Herr Lauterbach, Herr Wieler, Herr Drosten und viele Andere müssen sich für ihre Taten und Panikmache entschuldigen.
+Ob eine Entschuldigung reicht ist eine andere Frage.
+z.B.: „Powell legt Beweise vor: Gefälschte Stimmzettel aus China in USA verschickt“ aus:
+https://www.epochtimes.de/politik/ausland/powell-legt-beweise-vor-gefaelschte-stimmzettel-aus-china-in-usa-verschickt-a3397837.html
+Irgendwann knallt es gewaltig, weil die weltweite Bevölkerung die „Schnauze gestrichen voll hat“, dauernd belogen und betrogen zu werden. Die USA mit US-Präsident Trump werden zeigen, dass es möglich ist, die Lügen/Korruptions-Mafia zu besiegen!
+Das Waffenarsenal, das China, aber auch unsere Regierung so fürchtet:
+Demokratie, Frieden, Freiheit, Vernunft, freie Marktwirtschaft, Gerechtigkeit, Wahrhaftigkeit, Vertrauen, gegenseitiger Respekt und das Bewahren der eigenen Kultur, nur das zählt!
+Wenn dieser PCR-Test nicht eindeutig dem Sars-CoV 2 identifizieren kann sondern die gesamte „Corona-Familie“ (Virus) identifiziert als Sars-CoV 2 stimmen doch alle genannten Fallzahlen nicht, weder die infizierten, die Todesfälle und die Erkrankten nicht.
+Nach der Darstellung im Artikel ist die ganze Pandemie über das Virus ein riesen großer Schwindel ein Betrug am Volk auf das man die Gesetze durchbringen kann die man sich ohne „einer großen Kriese“ nicht getraut hätte.
+Alles nur eine Verschwörungstheorie ;-)) Ironie off.
+Alles andere ist dem untergeordnet. Keine Macht den Sozialisten!
+Demokratie, Frieden, Freiheit, Vernunft, freie Marktwirtschaft, Gerechtigkeit, Wahrhaftigkeit, Vertrauen, gegenseitiger Respekt und das Bewahren der eigenen Kultur, nur das zählt!
+Keine Querdenker? Nun, die haben keine deutschen Namen. Mit etwas Gugeln findet man schnell Videos zu großen Protesten. Nebenbei: Merkel lobt die Demonstrationslosigkeit in China.
+Mit dem Regieren eines demokratischen Rechtsstaates hat es nicht im Entferntesen etwas zu tun.
+Ärzteschaft
+PCR-Test auf SARS-CoV-2 zeigt hohe klinisch-diagnostische Sensitivität von nahezu 100 Prozent
+Montag, 30. November 2020
+Heidelberg – Die Gesellschaft für Virologie (GfV) hat auf die hohe Zuverlässigkeit des PCR-Tests (Polymerase Chain Reaction) in der Diagnostik von SARS-CoV-2 hingewiesen. Die Sensitivität des Verfahrens liegt danach bei nahezu 100 Prozent.
+https://www.aerzteblatt.de/nachrichten/118870/PCR-Test-auf-SARS-CoV-2-zeigt-hohe-klinisch-diagnostische-Sensitivitaet-von-nahezu-100-Prozent
+Das interessiert wenig. Sie haben den Artikel wohl nicht gelesen, der zeigt wo die Fehler liegen.
+Was noch schlimmer ist als ungesetzliche Quarantänen: die bevorstehende Impfung zu der wir, trotz des aufgedeckten Betrugs, alle gezwungen werden sollen.
+Ich fürchte, hier werden sehr finstere Pläne umgesetzt, koste es was es wolle.
+Wir müssen uns wehren – koste es was es wolle!
+JA!
+Was ist das für ein Institut in Lörrach vom Hauptautor? W+W? Das muss wohl so bekannt sein, dass mans nicht finden kann..
+Und wenn nun der damalige Drostentest damit kippen würde, was ist mit den hunderten anderen PCR Tests die in den Labor genutzt werden? Der „Drostentest“ ist doch in sogut wie keinem Labor in Verwendung, sondern selbst entwickelte Tests auf dem Kochrezept davon (anderes Temperaturegime, andere Zielgene, andere Zyklenanzahl, …). Da hat selbst die so gut ausgestattete Bundeswehr einen selbst gebastelt.
+Beruhigend ist dann auch, dass die Intensivstationen und Beatmungsmöglichkeiten in Berlin, Ruhrgebiet, Belgien etc endlich wieder leer werden, wenn dann endlich klar wird, dass das alles ein fake war..
+Udo di Fabio gibt die Antwort (Interview am 20. Juli 2020):
+„Wenn ich in Deutschland einen Staatsstreich machen wollte, dann würde ich eine Corona-Pandemie erfinden.“
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+http://ag-evolutionsbiologie.net/html/2021/drosten-pcr-borger-corona-kreationismus.html
+und
+http://ag-evolutionsbiologie.net/pdf/2021/Drosten-PCR-Borger-Report.pdf
+Prof. Dr. Andreas Beyer, Westfälsiche Hochschule

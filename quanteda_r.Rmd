@@ -70,14 +70,24 @@ To open the website text file we downloaded previously via trafilatura, we need 
 #setwd("/Users/anna/Documents/textmining/textmining_climate")
 
 # Climate Activists
+
+#english
 fff_texts <- readtext("text_files/pro/fff_texts/*")
+
+#german
 fff_de_texts <- readtext("text_files/pro/fff_de_texts/*")
 ikem_texts <- readtext("text_files/pro/ikem_texts/*")
 klimarep_texts <- readtext("text_files/pro/klimareporter_texts/*")
 klimafakten_texts <- readtext("text_files/pro/klimafakten_texts/*")
+zero_texts <- readtext("text_files/pro/germanzero_texts/*")
+komma_texts <- readtext("text_files/pro/komma_texts/*")
 
+```
+
+```{r}
 # Climate Change Deniers
-eike_texts <- readtext("text_files/contra/eike_subset/*")
+eike_texts <- readtext("text_files/contra/eike_texts/*")
+ffh_texts <- readtext("text_files/contra/ffh_texts/*")
 ```
 
 ```{r}
@@ -87,21 +97,103 @@ eike_texts <- readtext("text_files/contra/eike_subset/*")
 #klimarep_texts <- readtext(paste0(DATA_DIR, "/txt/klimareporter_texts/*"))
 ```
 ### Building a Corpus
+```{r}
+# build corpus for each text with "origin" tag
 
-Next step is to build a corpus from the readtext object and have a look at it
-```{r}
-fff_corpus <- corpus(fff_texts)
-summary(fff_corpus, 5)
-```
-```{r}
-eike_corpus <- corpus(eike_texts)
-summary(eike_corpus, 5)
-```
-```{r}
+# activists
+fff_de_corpus <- corpus(fff_de_texts)
+docvars(fff_de_corpus, "origin") <- "fff_de"
+
+ikem_corpus <- corpus(ikem_texts)
+docvars(ikem_corpus, "origin") <- "ikem"
+
 klimarep_corpus <- corpus(klimarep_texts)
-summary(klimarep_corpus, 5)
+docvars(klimarep_corpus, "origin") <- "kr"
+
+klimafakten_corpus <- corpus(klimafakten_texts)
+docvars(klimafakten_corpus, "origin") <- "kf"
+
+zero_corpus <- corpus(zero_texts)
+docvars(zero_corpus, "origin") <- "zero"
+
+komma_corpus <- corpus(komma_texts)
+docvars(komma_corpus, "origin") <- "gk"
+
+# sceptics
+eike_corpus <- corpus(eike_texts)
+docvars(eike_corpus, "origin") <- "eike"
+
+ffh_corpus <- corpus(ffh_texts)
+docvars(ffh_corpus, "origin") <- "ffh"
+
 ```
 
+```{r}
+# build a pro corpus for all pro texts with "pro" group
+pro_corpus <- fff_de_corpus+ikem_corpus+klimarep_corpus+klimafakten_corpus+zero_corpus+komma_corpus
+docvars(pro_corpus, "group") <- "activists"
+
+# sceptics corpus with "sceptics" group
+contra_corpus <- eike_corpus+ffh_corpus
+docvars(contra_corpus, "group") <- "sceptics"
+```
+
+```{r}
+summary(pro_corpus, 10)
+```
+```{r}
+summary(contra_corpus, 10)
+```
+
+```{r}
+# get random sample corpus for activists
+pro2000 <- corpus_sample(pro_corpus, size=2000)
+
+# get random sample corpus for sceptics
+contra2000 <- corpus_sample(contra_corpus, size=2000)
+```
+```{r}
+#summary(pro2000, 10)
+summary(contra2000,10)
+```
+
+```{r}
+full_corpus <- pro2000+contra2000
+```
+
+```{r}
+summary(full_corpus,5)
+```
+```{r}
+# save corpus as .rds file for later use
+saveRDS(full_corpus, "full_corpus.rds")
+saveRDS(pro_corpus, "pro_corpus.rds")
+saveRDS(contra_corpus, "contra_corpus.rds")
+saveRDS(pro2000, "pro2000.rds")
+saveRDS(contra2000, "contra2000")
+
+# activists
+saveRDS(fff_de_corpus, "fff_de_corpus.rds")
+saveRDS(ikem_corpus, "ikem_corpus.rds")
+saveRDS(klimarep_corpus, "klimarep_corpus.rds")
+saveRDS(klimafakten_corpus, "klimafakten_corpus.rds")
+saveRDS(zero_corpus, "zero_corpus.rds")
+saveRDS(komma_corpus, "komma_corpus.rds")
+
+# deniers
+saveRDS(eike_corpus, "eike_corpus.rds")
+saveRDS(ffh_corpus, "ffh_corpus.rds")
+```
+
+
+
+```{r}
+# To load files 
+y = readRDS("full_corpus1.rds")
+```
+```{r}
+summary(y, n=5)
+```
 
 To extract texts from a corpus, we simply coerce this to a plain character type, using as.character().
 
@@ -123,21 +215,7 @@ if (requireNamespace("tm", quietly = TRUE)) {
     summary(fff_corpus, 5)
 }
 ```
-```{r}
-docvars(fff_corpus, "origin") <- "FFF"
-docvars(fff_corpus, "language") <- "en"
-summary(fff_corpus, 5)
-```
-```{r}
-docvars(eike_corpus, "origin") <- "EIKE"
-docvars(eike_corpus, "language") <- "de"
-summary(eike_corpus, 5)
-```
-```{r}
-docvars(klimarep_corpus, "origin") <- "Klimareporter"
-docvars(klimarep_corpus, "language") <- "de"
-summary(klimarep_corpus, 5)
-```
+
 ### Exploring the Corpus 
 To explore the corpus you can use the `kwic` function (keyword-in-context) which performs a search for a word an allows us to view the contexts in which it occurs
 
@@ -223,28 +301,23 @@ de_stopwords <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "mal",
 ```
 
 ```{r}
-fff_dfm <- dfm(fff_corpus, remove = en_stopwords, stem = FALSE, remove_punct = TRUE, remove_numbers=TRUE)
-fff_dfm
-```
-```{r}
-eike_dfm <- dfm(eike_corpus, remove = de_stopwords, remove_punct = TRUE, remove_numbers=TRUE)
-eike_dfm
-```
-
-```{r}
-klimarep_dfm <- dfm(klimarep_corpus, remove = de_stopwords, remove_punct = TRUE, remove_numbers=TRUE)
-klimarep_dfm
+pro_dfm <- dfm(pro2000, remove=de_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
+contra_dfm <- dfm(contra2000, remove=de_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
 ```
 The dfm can be inspected with respect to multiple features. To access a list of most frequently occurring features, we can use `topfeatures()`:
 
 ```{r}
-fff_top50 <- topfeatures(fff_dfm, 50) #top 50 words
-eike_top50 <- topfeatures(eike_dfm, 50)
+pro_tf <- topfeatures(pro_dfm, 50) #top 50 words
+contra_tf <- topfeatures(contra_dfm, 50)
+
+pro_tf
+contra_tf
 ```
-FFF DFM
+
+PRO DFM
 ```{r}
 #To sort DFM: n = number of documents, nf = number of features 
-head(dfm_sort(fff_dfm, decreasing=TRUE, margin = "features"))
+head(dfm_sort(pro_dfm, decreasing=TRUE, margin = "features"))
 ```
 EIKE DFM
 ```{r}
@@ -535,7 +608,6 @@ ggplots(freqs) +
   coord_flip()
 
 ```
-
 
 
 

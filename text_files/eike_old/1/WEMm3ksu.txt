@@ -1,0 +1,133 @@
+Das Virus selbst betrifft nur die wenigsten Menschen – es tötete maximal 0,1% der Bevölkerung in den am schwersten betroffenen Regionen. Ein Zehntel eines einzigen Prozentes*.
+[*In den Nachrichten hören wir von Massensterben z. B. in New York. Dabei werden aber nie Prozentzahlen von der Gesamtbevölkerung genannt. Zu recherchieren, ob es hochgerechnet auf die USA also wirklich nur 0,1% sind, fehlt mir die Zeit. Andererseits muss man natürlich die Panikmache in den Mainstream-Medien hierzulande abziehen. – Anm. d. Übers.]
+Nun gut, das sind nur die Todesfälle. Aber was ist mit den Einweisungen ins Krankenhaus? Nun, diese Zahl liegt in den am schwersten betroffenen Gebieten etwa drei mal so hoch, also etwa ein Drittel der Bevölkerung. Immer noch nicht einmal 1 Prozent.
+Aber andererseits – über 30 Millionen Arbeiter in den USA sind arbeitslos. Das macht etwa 20% der Anzahl von Voll- und Teilzeitbeschäftigten aus. Und diese Arbeitsplatzverluste betreffen alle Haushalte, nicht nur die Arbeiter.
+Und dabei sind noch nicht die Sterbefälle durch zunehmende Selbstmorde und verzögerte medizinische Behandlungen anderer Fälle enthalten – ebensowenig wie die Tatsache der Erwartung, dass etwa 20% der verloren gegangenen Arbeitsplätze nicht wieder geschaffen werden können. Und die Notrufe bei Hotlines mentaler Probleme schießen in den Himmel, häusliche Gewalt ebenso. Es ist höchste Ironie, dass wir Krankenhäuser und Ärzte haben, die vor dem Bankrott stehen, sowie Tausende Krankenschwestern, die beurlaubt werden, weil „nicht notwendige“ Behandlungen verboten sind. Und noch gar nicht zu erahnen sind die finanziellen Verluste, sowohl für die Wirtschaft als auch für die Regierungen.
+Und in einem lehrbuchhaften Kreislauf haben wir Billionen über Billionen Dollars, die sich die Regierung geliehen hat, um einigen der Schäden zu begegnen, die ebendiese Regierung angerichtet hat … diese Lockdowns sind weit, weit destruktiver als das Virus. Der Schaden durch das Virus ist kurzfristiger Natur, aber wir und unsere Kinder werden noch Jahrzehnte für die Dummheit bezahlen müssen, die Ökonomie zur Strecke gebracht zu haben.
+…
+[An dieser Stelle findet sich im Original eine treffende Karikatur, die aber wegen des unklaren Copyrights hier nicht gezeigt werden kann. Anm. d. Übers.]
+Man lasse mich ein Beispiel nennen. Das ist die gleiche Idiotie wie einer Mücke, die sich auf jemandes Hand gesetzt hat, mit einem Vorschlaghammer zu Leibe zu rücken.
+Ergo: die erste Lektion des Ausnahmezustandes lautet: Man fahre niemals seine Ökonomie an die Wand, nur um ein paar Todesfälle mehr zu vermeiden. Es ist durchaus möglich, die Ausbreitung des Virus‘ aufzuhalten, ohne die Wirtschaft zum Entgleisen zu bringen.
+Die nächste Lektion des Ausnahmezustandes lautet: Man sollte nie den Computermodellen zu viel Vertrauen schenken.
+Lektion Nummer drei des Ausnahmezustandes: man sollte nie Ärzten als Ökonomie-Entscheidungsträger einsetzen. Vor allem nicht Dr. Fauci. Er lag hinsichtlich der meisten Aspekte dieses gesamten Prozesses falsch. Falls man jemanden ein Krankenhaus betreiben lassen will, sollte man allgemein keinen Arzt dazu küren.
+Lektion Nummer vier: Die extreme Bedeutung des Eids des Hippokrates, von dem Dr. Fauci offenbar noch nie etwas gehört hat: „Primum non nocere“ mit der Bedeutung „Zuallererst, richte keinen Schaden an!“.
+Lektion Nummer fünf: Man stelle die Kranken unter Quarantäne und schütze die Verwundbaren – aber man stelle NIEMALS die Gesunden unter Quarantäne. Das ist reine Verrücktheit.
+Aber zurück zum COVID-19-Ausnahmezustand. Der von allen gefürchtete Ausnahmezustand wurde veranschaulicht durch die Realität in manchen Ländern, in denen das medizinische System durch die Anzahl der COVID-19-Fälle überfordert war. Ursache hierfür war der Umstand, dass die Fälle zu rasch auftraten – die höchste Zahl von Krankenhaus-Einweisungen und Todesfällen trat innerhalb von ein oder zwei Wochen auf. Zu Beginn der Pandemie führte diese Spitzenbelastung des medizinischen Systems in Italien dazu, dass es teilweise zusammengebrochen war.
+Um diese Spitze zu umgehen und dafür zu sorgen, dass es das medizinische System nicht in die Knie zwingt, wurde in vielen Ländern beschlossen zu versuchen, die „Kurve abzuflachen“, um die Ausbreitung des Virus‘ zu verlangsamen. Erklärtes Ziel war, die Anzahl von Neu-Infektionen pro Tag zu senken, aber nicht die Gesamtzahl von Neu-Infektionen.
+In dieser Hinsicht würde sich der scharfe Spitzenwert medizinischer Behandlungen tatsächlich abflachen und das medizinische System hoffentlich nicht überwältigt werden.
+Und … hat das funktioniert? Das ist im Moment noch schwer zu beurteilen. Allerdings gibt es ein Beispiel eines modernen Landes, welches seiner Wirtschaft NICHT einem Shutdown aufgedrückt hat: Schweden. Wie ist es dort gelaufen? Hier der Vergleich:
+Wie man klar sieht, liegt Schweden ziemlich in der Mitte aller Verläufe – ein wenig besser als in UK oder der Schweiz, etwa gleich wie in den Niederlanden und Irland und etwas schlechter als in den USA und Frankreich.
+Falls also die Lockdowns und die „Bleibt-zu-Hause“-Anordnungen irgendwelche Auswirkungen haben, kann man diese nicht am Beispiel Schweden erkennen.
+Aber zurück zum Komplex, den Spitzenwert zu erniedrigen und die Kurve abzuflachen. Hier folgen die Ergebnisse aus einer Anzahl von Ländern. Ich beginne mit Schweden und den Niederlanden, da sich diese laut Abbildung 2 in gleicher Größenordnung bewegen. Ich habe das Complete Ensemble Empirical Mode Decomposition (CEEMD)-Verfahren angewendet, um die Fluktuationen durch Datenlücken an Wochenenden zu beseitigen. Mehr zum CEEMD-Verfahren gibt es hier und hier.
+Der Verlauf in Deutschland sieht so aus:
+[Es folgen die entsprechenden Verläufe für Belgien, Spanien, Italien, Frankreich, die Schweiz und UK, für die wegen der durchweg sehr ähnlichen Verläufe auf das Original verwiesen wird.]
+Soviel zu den europäischen Ländern. In den USA ergibt sich folgender, den europäischen Nationen ähnelnder Verlauf:
+Alle haben ihren Spitzenwert schon seit einem Monat hinter sich gelassen. Wie sieht es nun in den US-Staaten im Einzelnen aus?
+Die Spitze in den Daten von New York kommt zustande durch eine Reihe von „übersehenen“ Todesfällen in Pflegeheimen, die alle an einem einzelnen Tag gemeldet wurden. Bizarrerweise hat Gouverneur Cuomo angeordnet, dass COVID-19-Patienten in Pflegeheimen aufgenommen werden müssen … wie man sich leicht vorstellen kann, wurden die absolut vorhersehbaren Todesfälle in Pflegeheimen verschwiegen, bis es nicht mehr ging.
+(In passing, let me note that Georgia started loosening the lockdown on April 20th, and there’s no sign of a “second peak” of deaths.)
+Those are the hardest-hit states. However, not all of the hardest-hit states are past their peak. Here are the two states of the hardest-hit that are not past their peak.
+…
+[Hier folgen die Verläufe aus vielen der am meisten betroffenen US-Staaten, für die ebenfalls auf das Original verwiesen wird. Das Gesamtbild ist ziemlich eindeutig. Aber es gibt auch wenige Ausnahmen. Anm. d. Übers.]
+Im US-Bundesstaat Georgia wurde der Lockdown bereits ab dem 20. April gelockert, und doch zeigt sich keinerlei Anzeichen einer „zweiten Spitze“ von Todesfällen.
+Soweit die am stärksten betroffenen US-Staaten. Allerdings haben nicht alle stärker betroffenen Staaten die Spitzen bereits hinter sich, wie der Verlauf in den Staaten Florida und Illinois zeigt:
+Und bevor wir in eine Diskussion von all dem einsteigen, hier noch zu guter Letzt zwei Graphiken der weltweiten Todesfälle, eine mit und die andere ohne China. In der zweiten Graphik habe ich China weggelassen, weil a) die chinesischen Zahlen sehr hoch sind und b) ich den Zahlen von dort kein bisschen vertraue. Beim betrachten dieser beiden – hier folgenden – Graphiken stellt sich heraus, dass das Auslassen der Zahlen aus China kaum einen Unterschied macht:
+Nun also, was können wir aus all dem folgern?
+Und, am Wichtigsten ist: Falls die medizinische Versorgung an einigen Orten durch das Virus überfordert worden und der Notfall eingetreten war, dann ist der Höhepunkt des Ausnahmezustandes jetzt vorüber. Ja, es mag noch einige Regionen geben, welche den Höhepunkt noch nicht überschritten haben. Aber im Großen und Ganzen und vor allem für die am stärksten betroffenen Länder ebenso wie für die ganze Welt gilt, dass der Höhepunkt der Belastung der Gesundheitsdienste durch die Pandemie vor etwa einem Monat durchlaufen worden ist.
+Und das bedeutet für jene Staaten und Länder, dass die Chance, die wir zur „Abflachung der Kurve“ hatten, VORÜBER ist. In den meisten Gebieten der Welt ist die Abflachung der Kurve Historie.
+Und da man uns diese ganze Palette von Wohltaten auf der Grundlage der „Abflachung der Kurve“ aufgedrückt hatte und da die Möglichkeit der entsprechenden Einwirkung vorüber ist, sollte man die Restriktionen aufheben. Oder was ich schon seit Wochen predige: „Beendet den amerikanischen Lockdown jetzt sofort!“
+Natürlich wollen die lokalen Klein-Tyrannen, welche im Zuge des „Ausnahmezustandes“ so enorm mehr Macht gewonnen haben, diesen Lockdown beibehalten. Also sagen sie jetzt, dass wir etwas Neues fürchten müsse, nämlich ein „Wiederaufleben“ oder eine „zweite Spitze“ … was mich betrifft, ich glaube, dass wir höchstens ansatzweise eine zweite Spitze erleben werden, wenn überhaupt eine – aus einem einfachen Grund:
+Wie Schweden vorgeführt hat, lacht das Virus über unsere pathetischen „Bleibt-zu-Hause“-Anordnungen nach westlicher Art.
+Zu viele Menschen in „wesentlichen“ Jobs, zu viele Dienstleister, zu viele Menschen in den Haushalten. Man kombiniere das mit einem sehr ansteckenden Virus, und derartige Anordnungen werden kaum etwas bewirken … und wenn das so ist, dann wird die Aufhebung dieser Anordnungen ebenfalls kaum etwas bewirken.
+Mein Argument ist Folgendes: Die verschiedenen lokalen totalitären Herrscher erhalten ihre Macht durch den Ausnahmezustand. Aber der Notfall ist Vergangenheit, wir können die Kurve jetzt nicht mehr abflachen. Darüber sind wir hinaus, und das bedeutet, dass es keinen weiteren Notstand gibt. An dem Ausnahmezustand trotzdem festzuhalten ist unrechtmäßig und illegal. In manchen Fällen widerspricht es auch der Verfassung.
+Bildinschrift: All jene, die nach einer Fortdauer des Shutdowns rufen, sollten bitte die folgenden Fragen beantworten:
+1)Wie viele Kinder sollten hungern, damit man sich sicher fühlt?
+2)Wie viele Familien müssen noch bankrott gehen, damit man sich sicher fühlt?
+3)Wie viele Geschäftsinhaber sollten alles verlieren, für das sie gearbeitet haben, damit man sich sicher fühlt?
+4)Wie viele Menschen müssen noch ihren Arbeitsplatz verliere, ihre Gesundheitsversicherung, ihre Lebens-Ersparnisse, damit man sich sicher fühlt?
+Nennt die Anzahl der Menschen, welche eurer Meinung nach ihr Leben aufgeben sollen, damit IHR euch sicher fühlt!
+Meine Empfehlungen sind Folgende:
+● In allen Ländern, die ihren Höhepunkt bereits hinter sich gelassen haben, sollte man den Ausnahmezustand für beendet erklären und alles wieder öffnen, und man widerrufe sämtliche Notfall-Anordnungen! Diese sind nur für die Dauer des Ausnahmezustandes gültig.
+● Man erhalten eine gewisse Anpassung sozialer Distanz aufrecht – auf freiwilliger Basis
+● Es gibt in bestimmten Orten ein Aufflackern, sogar auch trotz aller Vorschriften. Es wird auch nach Widerruf derselben Aufflackerungen geben. Man gewöhne sich daran. Ein Aufflackern ist keine zweite Spitze.
+● Die persönliche Vorsorge wie das Tragen von Masken oder regelmäßiges Händewaschen sollten beibehalten werden – auch auf freiwilliger Basis.
+● Ist der Höhepunkt der Pandemie-Todesfälle erst einmal überschritten, sollte man Testverfahren etablieren und Kontakte listen, um den Weg des Virus‘ zu verfolgen.
+● Man teste einreisende Menschen. So weit ich weiß, werde ich öfter medizinisch untersucht als Menschen, die in die USA kommen.
+● Man sollt genau die Zahle überwachen, um rechtzeitig zu erkennen, ob sich nicht doch eine Art „zweite Spitze“ entwickelt. Falls und wo es dazu kommt, dann sorge man in den Gebieten, in denen es Schwierigkeiten hinsichtlich der ersten Spitze gab, dafür, dass die Wirtschaft nicht getötet wird, und um alles in der Welt, man stelle die Kranken und nicht die Gesunden unter Quarantäne!
+● Man bewege den Risikogruppen dazu (Ältere Menschen mit Vorerkrankungen z. B.), sich selbst etwas zu isolieren bis zu einem noch bequemen Ausmaß, besonders wachsam Menschenansammlungen auszuweichen und an einem hohen Niveau der persönlichen Vorsorge festzuhalten.
+Leute, die hässliche Realität lautet, dass jeder Tag, an dem wir noch an den jetzt sinnlosen lockdowns festhalten, für einen großen Teil der Bevölkerung einen weiteren Tag des Elends bedeutet. COVID-19 ist jetzt Teil der allgemeinen Virus-Landschaft. Holen wir uns die Macht von den Größenwahnsinnigen auf allen Ebenen der Regierung zurück, die derzeit noch eine Vorschrift nach der anderen anordnen und von uns Gehorsam erwarten.
+MAN BEENDE JETZT DEN amerikanischen LOCKDOWN!
+Link: https://wattsupwiththat.com/2020/05/13/attention-citizens-the-covid19-emergency-is-over/
+Übersetzt von Chris Frey EIKE
+erstaunlichen Ergebnissen.
+Das Video zeigt eine öffentliche Rede des Präsidenten Magufuli in
+Tansania. Dort wurde Proben genommen von Motoröl, diversen Früchten und
+Pflanzen, sowie vielen Tieren. Die Proben wurden mit Fantasienamen
+beschriftet und im Labor auf Covid-19 bzw. SARS-COV2 getestet.
+Interessanterweise kam es in vielen Fällen zu positiven Resultaten. Es
+wird hier nach der Zuverlässigkeit der Tests gefragt und es werden
+Forderungen an die WHO gestellt, hier für eine entsprechende
+Zuverlässigkeit zu sorgen.
+Große Zweifel bestehen am internationalen Vorgehen und es wird auch
+kritisiert, oder gemutmaßt, dass die Teststäbchen bereits verunreinigt
+ausgeliefert werden, um falsche Ergebnisse zu erzeugen. Ihr erinnert
+euch bestimmt daran, dass auch in UK im März bereits Testsysteme
+versendet wurden, in denen diese RNA bereits enthalten war.
+Ich werte das nicht, ich kann die Zuverlässigkeit nicht überprüfen aber
+ich finde die Idee nachvollziehbar und auch sinnvoll. Viele Fragen
+sollte man sich selbst stellen.
+Bei Corona-Viren ist es so, dass sie im Herbst bis Frühjahr aktiver sind als im Frühjahr bis Herbst.
+Eine zweite und dritte Welle kann durchaus ab Herbst noch kommen, da der Großteil der Menschheit auf der Nordhalbkugel lebt.
+zu Lektion 2: Um die Gefahr durch den Virus zu erkennen, braucht man kein Computermodell. Es reicht ein Taschenrechner und grundlegende Ahnung von exponentiellem Wachstum (z.B. Zinseszinsrechnung).
+zu Lektion 3: Kein Arzt hat entschieden, den Lockdown durchzuführen. Sie haben ihre Meinung zur Gefahr mitgeteilt und die Politiker haben entschieden. Im Endeffekt spricht Herr Eschenbach Politikern wie dem US-Präsidenten jede ökonomische Vernunft ab.
+zu Lektion 4: Das ist ein klass Strohmannargument. Hippikrates sagt: „Meine Verordnungen werde ich treffen zu Nutz und Frommen der Kranken, nach bestem Vermögen und Urteil; ich werde sie bewahren vor Schaden und willkürlichem Unrecht.“ Es geht also um eine Nutzen-Schaden-Abwägung und nicht um die Vermeidung jeden Schadens. Dann dürfte kein Arzt eine Spritze setzen!
+zu Lektion 5: Hier bezeichnet Herr Eschenbach alle Regierungen (außer Schweden und Brasilien) als verrückt. Ja klar, nur er ist normal! Erinnert mich an die Geisterfahrerproblematik.
+Nun zum angeblich nicht vorhandenen Nutzen des Lockdowns am Beispiel Schweden:
+Hier hat Herr Eschenbach das CEEMD-Residual für Schweden falsch berechnet, weil er den wöchentlichen Rhythmus ignoriert hat. Hätter er korrekter Weise die Tage 51-53 mit beachtet (s. tinyurl.com/y88yvnqv ), wäre die gelbe CEEMD-Residual-Linie ab Tag 35 waagerecht. Der Nutzen des Lockdowns wäre für jedermann erkennbar!
+Es gab in Schweden zwar keine „Bleibt zu Hause Anordnung“, die Bevölkerung hat aber trotzdem ihr Verhalten geändert. Auf folgender Webseite kann sich jeder selbst davon überzeugen:
+https://www.apple.com/covid19/mobility
+Es zeigt nur, dass die Lockdown-Entscheidung in anderen Ländern eindeutig falsch war und ist. Der Staat ist ein Idiot und unfähig komplexe Aufgaben „effizient“ zu lösen. Das kann nur der schwedische Bürger und millionenmal besser.
+Ich trage mein Handy selten mit mir herum. Ergo? Ihr Apple-Seite impliziert einige Annahmen, die nicht überprüfbar sind.
+Die Lockdown-Entscheidung ist weiterhin falsch, absolut dumm. Milliarden an Werten werden jeden Tag entweder nicht geschaffen oder vernichtet.
+Was auch Sie verschweigen. Schweden wird von der linken Lügenpresse nur deshalb angegriffen, unter die Lupe genommen, um den Bunker Berlin, zu verteidigen, besser dastehen zu lassen.. Aber, das ist albern, denn wer glaubt der Lügenpresse FAZ und SZ noch ein Wort? Nur wer seine Tassen sowieso nicht mehr im Schrank haben kann. Diese Lügen müssen aufhören. Jedes Gericht haßt Lügen und diese werden hart bestraft. Was erlaubt sich dann diese Regierung? Gar der ÖR oder das ÖF?
+Sie irren also, Ihr Beweis zeigt nicht das, was Sie sich wünschen. Der Weg Schwedens war richtig. Auch kehren Sie Ursache und Wirkung um. Zahlen können einiges verdecken.
+Taiwan ist weiterhin das Maß aller Dinge. Auch dort, kein Lockdown. Kennen Sie den Fall Taiwan? Warum reden die FAZ und die SZ nicht darüber? Weil sie den Buckel vor Rotchina machen? Keine Pressefreiheit mehr? Vor Rotfaschisten in den Staub versinken?
+Jeder Tag Lockdown mehr ist schlimmer und schlimmer. Kennen Sie den Verlauf einer Exponentialfunktion? Millionen Schicksale stehen vor dem wirtschaftlichen Ruin. Das ist kein albernes Brettspiel, sondern tödlicher Ernst. In Berlin sitzen kriminelle Zocker, die auf unser Grundgesetz spucken. Die achten es nämlich nicht.
+die Verbreitung in der Bevölkerung können Sie sich auf wikipedia für fast jedes Land anschauen.
+Die Rate der Erkrankungen bei positivem Test liegt rein biologisch (Immunreaktion) bei über 95%.
+Zur Frage, wieviel Tote tatsächlich „ursächlich / primär“ (schöne Formulierung!) an Corona gestorben sind, mache ich mal 2 Fragen daraus:
+1) Wie viel % der „Corona-Toten“ sind ihrer Meinung nach falsch gezählt worden, sind also nicht „ursächlich / primär“ an Corona gestorben?
+2) Wie viele Menschen sind an Corona gestorben und nicht mitgezählt worden?
+Ich würde bei beiden Fragen den „Fehler“ zu den offiziellen Corona-Zahlen als unter 10% einschätzen – und Sie?
+Die Demokratie ist eine Diktatur der Dummen, weil sie das FREIWILLIG mit Wahlkreuz gewünscht haben.
+Eine Besicherung von Krediten führt man besser mit Gütern durch, die dem Menschen wiederkehrenden Nutzen bringen.
+Giralgeld und Bankenkredite gab es damals genau so wie heute.
+Weil Frankreich genug Lagerräume für Gold hatte und seine U-Boote über den Teich schickte, um es zum Schnäppchenpreis zu erwerben, immerhin kostet die Unze aktuell 1588 USD.
+Auch hatte ich nicht Privatschulden gemeint, sondern jene, die der Staat in unserem Namen macht, weswegen wir uns „Bürger“ nennen dürfen, weil wir für die Fehlinvestitionen dieser „Experten“ mit unserem Privatbesitz haften.
+Es liegt also an unserem ReGIERungssystem, denn bisher sind ALLE Demokratien pleite gegangen, oder werden es bald sein. Auch die Schweiz. Amerika war vor der Gründung der Fed schon dreimal so weit.
+Ich möchte auch noch das Buch „Crashkurs Geld“, von Andreas Marquart empfehlen.
+Frankreich hatte damals seine Dollarreserven gegen den zugesicherten Wert in Gold tauschen wollen, weil denen der Dollar unsicher erschien.
+Der Goldpreis steht derzeit hoch aber schauen wir Mal was das in der Deflation wert ist.
+Alle pyramidal aufgebauten Geldsysteme gehen Bankrott, mit oder ohne Goldstandard. Wir stehen mal wieder kurz davor, meine aber, dass es noch einen Zykluslauf geben wird.
+Die Geldsysteme gehen nicht bankrott. Jedes Geldsystem hat seine Vor- und Nachteile. Und das ist sehr gut so. Es ist (immer nur) der Mensch, der jedes System zum Absturz bringt. Nur dieser. Weil der Mensch, das Gebot „Du sollst nicht lügen!“ ständig mißachtet. Am Anfang lügen nur einige, dann immer mehr. Bis zu dem Punkt, wo die Lüge fällt.
+An den Geldsystemen hat es noch nie gelegen. Ist das ein wichtiger Punkt? Es ist der Entscheidende.
+An den Unis wird nicht reflektiert. Es wird nur aufgesogen. Missioniert. Ich habe lange suchen müssen, bis ich einen fähigen Wirtschaftswissenschaftler fand, der Keynes gekonnt in den Boden stampfte und diesem die „Wirbelsäule“ brach. Und dieser wird hierzulade noch nicht einmal beachtet. Die wissen noch nicht einmal, dass es ihn gibt, diesen klugen Autor.
+Die Linken machen alles kaputt. In Portugal beispielsweise, haben sich die Sozialisten, im Parlament damit gebrüstet, die Schulden an Deutschland und anderen, niemals zurückzahlen zu wollen. Ist noch nicht lange her. Allein diese Denkweise führt zu anderen gravierenden Nebenwirkungen.
+Die Grudsätze von Carl Menger verraten uns noch heute, warum sich so viele ohne Fachwissen in wirtschaftliche Belange einmischen. Die Politik, schlechte Politik macht sehr vieles kaputt, was man dann der Wirtschaftstheorie in die Schuhe schiebt, fälschlich, natürlich. Wirtschaft und Politik sind oft so eng ineinander verwoben. Eine Trennung schwierig. Die Schuldigen leugnen, machen die Fliege, kassieren ab.
+Es gibt halt gute Chefs und inkompetente. Genau wie heute. Die Linke ist durch und durch unfähig und bekämpft aktiv und massiv alle, die ihr Konkurrenz machen können, mit brutaler Gewalt. Etc.
+Oder denken wir an die organisierte Kriminalität, die zig Milliarden bewegt, sich überall einkaufen kann und von der (korrupten) Justiz unbehelligt bleiben darf. Das zerstört eine jede Gesellschaft. Mexiko und die Drogenkartelle. Und so fort.
+Unsere Justiz ist keine, die diesen Namen mehr verdient. Unsere Justiz ist käuflich, in Teilen.
+Warum will Facebook eine eigene Währung? Warum gibt es Bitcoin? Alles linke Erfindungen. Im Silicon Valley (USA) wird knallhart diskriminiert. Echter linker Rassismus hoch Zehn. Dort sind nur Esel die programmieren können, gefragt. Eine falsche politische Äußerung und man ist dort weg vom Fenster.
+Oder betrachten wir Rotchina. Die Elite dort ist durch Ausbeutung des eigenen Volkes sehr reich geworden. Die halten sich für griechische Götter und für unangreifbar. Die betrügen und intrigieren wie sie wollen. Nur ein Mann stellt sich diesen Verbrechern in den Weg: Trump.
+Es gäbe noch so viel zu sagen. Am Geld, am Geldsystem hat es noch nie gelegen. Rotchina ist deshalb eine besondere Gefahr, weil sie doppelte Standards anwendet. Rotchina tut im Ausland das, was sie dem Ausland in Rotchina verbietet. Das ist krank, ungesund. Rotchina nutzt unsere systemischen Schwächen brutal aus. Das kann nicht gut gehen.
+Der US-Dollar verdient immer mehr Vertrauen, als jede andere Währung. Das kann man logisch erklären.
+Ich spare 3 Philharmoniker und leihe sie dann meinem Nachbarn, weil der eine Dönerbude aufmachen will.
+Der Zins ist der Wert des Geldes.
+Was hat ein Kredit für einen Wert, für den ich heute dank Negativzinsen beschenkt werde??
+Finde es sehr interessant und passend, was Sie schreiben, würde mich gern mit Ihnen über dieses und ähnliche Themen austauschen, wenn das auch in Ihrem Sinne ist, freue ich mich über eine Antwort.
+wenn ich diese Diagramme sehe, dann stellt sich mir die Frage ob überhaupt ein Problem mit einem Virus vorhanden war!
+mfg
+Häh? Ein Drittel sind 33 Prozent. Irgendetwas stimmt hier nicht.
+Dieser Satz ist unklar; gemeint ist wohl ein Bezug auf die am schwersten betroffenen Gebiete – dort ist es ein Drittel der Bevölkerung. Bezogen auf die GESAMTbevölkerung ist das dann 1% ?
+wie kommen Sie zu diesem Urteil? Haben Sie die Argumente von Herrn Eschenbach überprüft (also z.B. die CEEMD-Residual-Werte überprüft) und dann versucht zu falsifizieren oder kommt Ihre Einschätzung nur daher, weil sich Herr Eschenbach so viel Mühe gegeben hat?
+MfG
+Wo ist denn Ihre Überprüfung?

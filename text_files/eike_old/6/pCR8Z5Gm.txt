@@ -1,0 +1,110 @@
+Der Autor will dies an einem Beispiel zeigen. Entweder er blamiert sich fürchterlich, weil „sein“ Excel nicht richtig rechnet, oder etwas ist weiterhin „faul im Staate Strommarkt“.
+Energie wird innogy
+Die neue (alte) auf einen RWE-Kern basierende Firma innogy wirbt mit einem super-Angebot für potente Selbstversorger, bestehend aus den Solarpaneln, einem Akkuspeicher, Steuerung (incl. einer Haussteuerung) und Montage / Inbetriebnahme:
+Und investieren so in die Zukunft Ihrer Familie
+Dieser Satz (der Kapitelüberschrift) steht in der innogy-Werbung [2], wie auch die folgende Darstellung über die Sonne, welche zwar zum Thema nichts beiträgt, aber wohl an den schon in die Welt(Unsinns)Historie eingegangenen Spruch des Obergrünen Franz Alt anlehnen soll, dass die Sonne keine Rechnungen stellt.
+Ansonsten verspricht die Werbung:
+[2] Eine Photovoltaikanlage von innogy macht Sie vom reinen Stromverbraucher zum echten Erzeuger von sauberem Solarstrom. Und mit einem Batteriespeicher genießen Sie sogar nachts die Kraft der Sonne.
+innogy, Dortmund/Essen, 20. März 2017: … Alle Solaranlagen können bei der Installation oder später mit einem maßgeschneiderten Batteriespeicher von Mercedes-Benz und der intelligenten Haussteuerung innogy SmartHome kombiniert werden. So lässt sich mehr Sonnenstrom vom eigenen Dach selbst im Haus nutzen … Hausbesitzer mit Solaranlage lassen den Sonnenstrom so einfach rein in den Tank.
+Das zergeht richtig auf der Zunge und man bekommt neben dem Versprechen, innovativ, nachhaltig und klimarettend zu sein, auch technische Möglichkeiten, deren Zwang sich zwar aus einem Mangel ergeben, aber der Frau fürs Kaffeekränzchen gleich den Doppelbeleg „nachhaltig innovativ“ zu sein liefert, vor allem wenn sie ihr Elektroauto auch noch an der eigenen Wallbox aufgeladen hat und nicht auf der Suche nach einer kostenlosen, kommunalen war (im Heimatort des Autors ist das noch so, weil das Verrechnen technisch zu aufwendig sei und man die „Elektrofahrer“ auch belohnen muss):
+innogy: … Wenn viel anfällt, schaltet das intelligente Energiemanagement automatisch Batteriespeicher, Waschmaschine und Trockner dazu – oder lädt das Elektroauto an der passenden innogy Ladebox
+Wer der Werbung bis hierher gefolgt ist, steht vielleicht kurz davor, das Angebot anzunehmen – bis man die Zahlen unter die Lupe nimmt und eine kleine Excel-Tabelle „drüber laufen“ lässt.
+Bei innogy wird die mit dieser Basiskonfiguration erwartbare Stromausbeute mit 2.000 kWh/Jahr angegeben, ein Portal gibt auch etwas niedrigere „Solar-Erntemengen“ an:
+Photovoltaik.org: So ist zum Beispiel wichtig zu wissen, dass pro kWp in Deutschland durchschnittlich im Jahr 800 bis maximal 1.000 Kilowattstunden Strom erzeugt werden können.
+Der Jahres-Ertragswert der innogy-Basisinstallation dürfte deshalb zusätzlich abhängig vom Standort zwischen 1.664 … 2.048 kWh / pa liegen. Für die folgende Abschätzung werden die oberen 2.000 kWh / pa angenommen, obwohl diese die Wenigsten erreichen werden.
+Lass die Sonne rein – und des Verkäufers Herz erfreun
+In der folgenden Tabelle ist eine Basisinstallation anhand der innogy-Angaben mit einfachsten Annahmen berechnet. Dabei hat sich der Autor erlaubt, dem Akkusatz nur 50 % Verschleißkosten über die (für Akkus) sehr lange Laufzeit von 20 Jahren zuzurechnen, obwohl dies bei einer fast täglichen Lade- / Entlade-Zyklen-Belastung bestimmt viel zu wenig ist. Die 2 % Verzinsung sind, sofern man noch laufende, sonstige Kosten mit einbezieht, auch auf keinen Fall zu viel angenommen. Man denke nur daran, dass die GRÜNEN Eigenverbrauch mit zusätzlichen Abgaben belegen wollen.
+Worin liegt der Sinn, wenn der selbst erzeugte Strom das Doppelte des Bezugspreises kostet?
+Die Tabelle mit der Kostenabschätzung zeigt, dass selbst bei einem aktuellen Privatbezugspreis von 30 ct / kWh sich das Invest in 20 Jahren gerade einmal zur Hälfte amortisiert hat – das aber nur infolge der sehr gutwillig gerechneten Kostenschätzung. Umgedreht ausgedrückt: Der selbst erzeugte Solarstrom kostet mindestens 60 ct / kWh und lehnt sich damit gut an das in einer früheren Artikelreihe [3] vermittelte an.
+Damit ist aber auch klar, wer alleine von dem Deal wirklich profitiert.
+Doch das Erfolgsmodell lässt sich nicht aufhalten
+Das was innoggy praktiziert und von vielen großen Firmen kopiert wird, haben auch lokale Versorger auf ihre Fahne geschrieben. „Wenn es das Einkommen als Vorstand mehrt, ist einem Vorstand der Kunde nichts mehr wert“, hat der Autor schon mehrmals angeprangert. Für ihn ist es eher ein Vorzeigebeispiel für die beim EEG übliche Desinformation der Verbraucher – welche auch von kommunalen EVUs inzwischen aus reinem Eigennutz ebenfalls massiv betrieben werden [4] [5] – und ein gutes Beispiel, zu welchen Konsequenzen das Speicherproblem wirklich führt und entgegen allen gegenteiligen Beteuerungen eklatant vorhanden ist.
+Stromausfälle werden erforderlich
+Nachdem sich solche Systeme noch für längere Zeit nicht entfernt amortisieren können, müssen andere Lösungen her. Im Artikel: EIKE 13.05.2017: [1] Wie dank SPD-Super Martins genialer Idee die Energiewende gerettet wird,
+hat es die SPD Energie-Verantwortliche deutlich gemacht, wie solche aussehen: Die konventionelle Erzeugung muss ganz drastisch verteuert werden – leider ein Argument, dem alle etablierten Parteien anhängen.
+Doch gelingt dies über eine CO2-Zertifikateverteuerung nicht schnell genug. In dieser Not hilft ein mit Bestimmtheit kommendes EEG-Problem: Der Strom muss häufig ausfallen! Nur dann „erkennt“ der Bürger den „Wert“ eines eigenen Stromspeichers so drastisch und schnell, dass das erwünschte Vermarktungsszenario starten kann.
+Es wird deshalb ein Treppenwitz der Energiegeschichte werden, dass das Land mit der weltweit (beneideten) stabilsten Energieversorgung Wert darauf legt, diese selbst zu zerstören – und alle dabei begeistert mitmachen. Doch nachdem es dank einer jahrelangen Medienkampagne gelungen ist, alle Probleme der konventionellen Energiegewinnung zur Last zu legen (konventioneller Strom verstopft die Leitungen, durch die der Ökostrom sonst problemlos fließen könnte) und den Bürgern sogar weis zu machen, dass Strom über das Internet verteilbar wäre (die über Smartphone geregelten „Nachbarschaftsmodelle“):
+EIKE 26.08.2016: In Brooklyn beginnt gerade die Revolution der Energiewende, welche inzwischen auch in Deutschland gefordert werden [1], verdient „jeder“ daran, nur eben nicht der private Stromkunde.
+Früher war das Netzt aufgrund des von Fachleuten geplanten Aufbaus in sich stabil, heute muss es intelligent werden, um nicht sofort zusammenzubrechen. Wie pflege-, kostenaufwendig und mindestens zeitweise unstabil – auch angreifbar [11] – diese gelobte „Intelligenz“ ist, zeigt Microsoft jedem Nutzer fast täglich.
+Doch die Hersteller verdienen prächtig daran:
+EIKE: Intelligente Stromzähler für Dummerchen jetzt Pflicht
+EIKE 06.08.2016: Wenn statt billigem Strom der teure Servicespezialist kommt und man beim Kontingent-Überschreiten an seinen Nachbarn Strafgebühr bezahlt – nennt sich das Energie-autark
+EIKE 01.01.2016: Die neuen Energien im Jahr 2015 und im Jahr 2050 für Dummies Teil 2 intelligente Versorgungsnetze
+Und zum großen Glück wird dies aufgrund des EEG-Ausbaus automatisch erfolgen, wie es Australien kürzlich anschaulich vorgemacht hat [6]). Als Folge dieser Erwartung sind die gesetzlichen Regelungen auch in Deutschland bereits vorbereitet, was zeigt, dass die Politik irgendwann immer eine „Lösung“ anbietet:
+EIKE 02.11.2016: [7] Verwundert, weil ihr Stadtteil dank EEG zeitweise keinen Strom bekommt? Auf unserer Homepage wurde doch darüber informiert!
+Um die Blackouts auch ganz sicher zu stellen, wird dazu die Mär verbreitet, dass ein Leitungsausbau nicht wie geplant erforderlich ist, da eine regional bezogene Erzeugung und Versorgung doch viel „zukunftsträchtiger“ wäre, wie immer unterstützt durch willige „Wissenschaftler“ [10].
+Wer sich also bisher wunderte, warum es in den verantwortlichen Kreisen „niemanden interessiert“, wie unser Versorgungssystem immer konsequenter in die Katastrophe „geschleust“ wird (E.ON Vorstand Theyssen fand es sogar „sexy“), findet bestimmt darin eine (zumindest teilweise) Erklärung.
+Das gewünschte (instabile) Versorgungsnetz der Zukunft
+Wie es vorbereitet wird und aussehen soll, hat der Autor bereits In einem früheren Artikel aufs Korn genommen (Auszug):
+N-ERGIE [4] Nachgefragt: Ein lokaler Versorger bricht die Macht der Stromgiganten
+… In einer Präsentation erklärte darin der Vorsitzende des Vorstands des lokalen Versorgers wie er sich die EEG-Zukunft unter seiner Führung vorstellt und dass das „Zerschlagen“ der bisher bewährten Energiestruktur und Firmen vorteilhaft wäre, weil im Gegenzug die lokalen Versorger „ .. an Einfluss gewinnen“.
+In der Einleitung des Artikels hieß es dazu: „Die Energiewende ist nicht nur ein Riesenprojekt, sie ist auch ein Riesengeschäft – und davon hätte die Nürnberger N-Ergie gerne ein großes Stück.“
+Das neue Geschäft lautet: Errichte ein lokales Energienetz. Sorge dafür, darüber „Alleinherrscher“ zu werden, indem die Außenverbindungen so schwach bleiben, dass keine Konkurrenz von extern darüber möglich ist. Verkaufe dies dann der Politik und den Medien als Innovation und vor allem als Klimarettung und niemand wird einen daran hindern, es durchzuführen, auch, da diese Idee den gegen Trassen opponierenden Bürgen und Politikern entgegen kommt.
+Allerdings benötigt man für ein solches Vorhaben „technische Expertisen“, welche die Realisierung als innovative Lösung versprechen. Auf klimaretter.info lassen sich viele nachlesen, da die Energieberaterin unserer Regierung selbst eine glühende Verfechterin davon ist. Was global gelang, gelingt natürlich auch auf unterer, mehr lokaler Ebene. Zum Beispiel hat die Prognos AG, unterstützt von der Erlanger Friedrich Alexander Universität im Auftrag der N-ERGIE eine solche Studie erstellt:
+Studie: [10] Dezentralität und zellulare Optimierung – Auswirkungen auf den Netzausbaubedarf
+Dazu die N-Ergie Pressemitteilung (Auszüge): [8][9] Energiewende mit weniger HGÜ-Trassen möglich
+„Die heutige Netzausbauplanung wird den vielen technischen Entwicklungen zur Integration der erneuerbaren Energien nicht gerecht“, versichert Josef Hasler, Vorstandsvorsitzender der N-ERGIE Aktiengesellschaft. „Der weitere Ausbau erneuerbarer Energien in Deutschland lässt sich auch mit der Hälfte der im Netzentwicklungsplan vorgesehenen HGÜ-Trassen realisieren.“
+Die Forscher konzentrierten sich in der Studie auf die Parameter, die in der heutigen Netzentwicklungsplanung wenig beachtet werden. Dazu zählen
+• die Ansiedlung der Erneuerbare Energien-Anlagen,
+• die Flexibilität von Verbrauchern,
+• Verteilung der KWK-Anlagen und
+• ein optimales Einspeisemanagement für die erneuerbaren Energien.
+Aus volkswirtschaftlicher Gesamtperspektive ist die regionale Ansiedlung von EE-Anlagen mit einem hohen Wohlfahrtsgewinn von 1,7 Mrd. Euro pro Jahr verbunden, wenn man sie kombiniert mit der Einführung eines wohlfahrtsoptimierten Einspeisemanagements, dem Redispatch, der kostenoptimalen räumlichen Ansiedlung von KWK und Power to X (Gas/Heat).
+Die Studie zeigt zudem, dass keine Notwendigkeit besteht, den Ausbau erneuerbarer Energien zu dämpfen. Im Gegenteil: Bei Einsatz der vorgeschlagenen Maßnahmen lässt sich dieselbe erneuerbare Erzeugung mit wesentlich weniger Netzausbau realisieren.
+Hasler plädiert deshalb für einen zellularen Ansatz, in dem Energie entsprechend dem Subsidiaritätsprinzip soweit möglich auf der lokalen und regionalen Ebene erzeugt, gespeichert und verbraucht wird.
+Einer der wichtigsten Vorschläge in dieser Studie ist allerdings der, den überflüssigen und die Netze gefährdenden EEG-Strom besser konsequent „wegzuschmeissen“, anstelle die von der Politik gewollte Zwangsverwendung mit viel unnützem Kostenaufwand weiter zu betreiben. Darüber zu informieren, wurde in der Presseerklärung des Auftraggebers allerdings „vergessen“:
+[10] Empfehlungen Optimale EE-Abregelung. Die Vorhaben zur markt- und systemgetriebenen Abregelung von EE-Erzeugung sollten konsequent weitergedacht werden. Anstelle einer Kappung der Erzeugungsspitzen sollte eine Abregelung bei negativen Strompreisen und im Rahmen des Redispatches treten, wo dies die günstigste Alternative darstellt. Durch die Koppelung des Abregelungsvorgangs an Preissignale ist gewährleistet, dass genau in den Momenten abgeregelt wird, in denen dies aufgrund der Angebots- und Nachfragekonstellation aus Gründen der Kosteneffizienz geboten erscheint.
+Fazit
+Mit dieser neuen Konstellation von finanziellen Abhängigkeiten und Forderungen wird eine Lösung des EEG-Problems wieder in eine weite Ferne verschoben, beziehungsweise unmöglich gemacht. Es wird (soziologisch) interessant werden, ob es gelingt, die Maßnahmen dazu wie in der Pressemitteilung dem immer noch (gut-)gläubigem Volk als „Wohlfahrtsgewinn“ zu verkaufen.
+Quellen
+[1] EIKE 13.05.2017: Wie dank SPD-Super Martins genialer Idee die Energiewende gerettet wird
+[2] innogy, Werbung: für zu hause
+[3] EIKE 18.06.2015: Elektro-Energiespeicherung, Notwendigkeit, Status und Kosten. Teil 3 (Abschluss)
+[4] EIKE 06.02.2016: Nachgefragt: Ein lokaler Versorger bricht die Macht der Stromgiganten
+[5] EIKE 30.11.2016: Ökostrom verschieben zur Lösung der EEG-Blockade Ein lokaler Versorger ist innovativ und löst das Speicherproblem – Koste es was es wolle
+[6] EIKE: Die Realität schlägt zurück: „Grüne“ Träumer kämpfen um Süd-Australiens gescheitertes Experiment mit Windenergie
+[7] EIKE 02.11.2016: Verwundert, weil ihr Stadtteil dank EEG zeitweise keinen Strom bekommt? Auf unserer Homepage wurde doch darüber informiert!
+[8] N-Ergie Pressemitteilung, 07.10.2016: Studie zur Dezentralität: Energiewende mit weniger HGÜ-Trassen möglich
+https://www.n-ergie.de/header/presse/mitteilungen/studie-zur-dezentralitaet-energiewende-mit-weniger-hg–trassen-moeglich.html
+[9] photovoltaik 10.10.2016: Energiewende braucht weniger HGÜ-Trassen:
+http://www.photovoltaik.eu/Archiv/Meldungsarchiv/Energiewende-braucht-weniger-HGUe-Trassen,QUlEPTczNDg5MSZNSUQ9MTEwOTQ5.html
+[10] FAU und Prognos AG, Studie Langfassung: Dezentralität und zellulare Optimierung – Auswirkungen auf den Netzausbaubedarf
+[11] EIKE 31.08.2016: Kann man bald per App Deutschland „den Saft“ abdrehen
+Meine Berechnung:
+PV 9,9 kWp mit 14,4kWh Speicher für 18.300 €
+Mit Montage sind das 20.000€ bis 21.000€
+http://greenakku.de/PV-Komplettpakete/AllinOne-PV/AllinOnePV-3-Phasen-Hybrid-9-9-kWp-mit-14-4kWh-Pylontech-LiFePO4-Hochvolt-Speicher::1564.html
+PV 9,9 kWp * 970 kWh/kWp = 9500 kWh stehen jährlich zur Verfügung.
+9500 kWh * 20 Jahre = 190.000 kWh
+(21.000€ + 10.000€) / 190.000 = ca. 16 Cent/kWh kostet Solarstrom mit Speicher.
+Netzstrom kostet heute ca. 30 Cent/kWh
+Neues Auto gekauft: 30000.- Euro
+Nach 10 Jahren und 100000 Kilometern für 10000.- Euro verkauft.
+Dann kostet jeder Kilometer einen Wertverlust von 20 Cent. Dazu kommen Verschleiß (Reifen, Bremsen), Inspektionen, Benzin oder Diesel, Reparaturen, so dass sich über die betrachtete Laufzeit als grobe Schätzung 40 Cent/Km ergeben (bitte die Zahlen nicht einzeln anzweifeln, war nur ein Beispiel am Biertisch, kilometerunabhängige Parameter wie Steuern und Versicherung nicht berücksichtigt).
+Da kam als Antwort: Wenn das so teuer ist, kann sich ja keiner mehr Autofahren leisten. Diskussion beendet, die Zahlen wurden einfach weggewischt.
+Es ist bei diesen Anlagen nämlich so, dass sie einmal gekauft werden und der Anschaffungspreis dann vergessen wird. Aber bei Gesprächen kann man als Besitzer eines solchen Schwachsinns noch Punkte machen, indem man einfach behauptet, dass einen der Strom gar nichts mehr kostet. Ganz schlimm wird es wenn der Besitzer noch ein Elektrofahrzeug besitzt. Dieses fährt dann nämlich angeblich komplett kostenlos weil er ja mit dem eigenen Strom fährt.
+Deshalb: Wer die Bürger von einer vernünftigen Energiepolitik überzeugen will, der verbreitet lieber Berichte über krebskranke Kinder in den Fördergebieten der seltenen Erden. Ist der gleiche Unsinn wie verstrahlte Babys in Fukushima, aber die Leute wollen so etwas halt hören…
+Will sagen…das erste Elektroteil, dass bei mir im Haushalt abgeschafft wird, wenn die Strompreise (kwh) nicht mehr bezahlbar ist, ist die Geschirrspülmaschine, der Radiowecker, die Dunstabzugshaube….die Abschaffung der Waschmaschine und des Herd wird dann am Ende stehen. Und das Staubsaugen….das wird dann durch das Kehren und Wischen ersetzt.
+Sie haben bei 400V Drehstrom und 30A nicht nur 12kVA sondern 400V x 30A x Wurzel(3) = 21kVA!
+Am Rande: Welche Speicherkapazität benötigt der die Welt rettende Gutmensch, um einen typischen Winter zu überstehen?
+überschlägige Abschätzungen, die ich auf der Grundlage der Last- und Erzeugungsdaten für das jahr 2016 durchgeführt habe, ergeben, dass bei konsequenter Fortsetzung der „Energiewende“ ein voraussichtlicher Pufferspeicherbedarf deutlich oberhalb von 100 Terawattstungen, möglicherweise sogar ein Mehrfaches von 100 TWh erforderlich würde. Optimisten sollten Lithiumaktien und Pessimisten Uranaktien kaufen.
+Mfg
+Ich kann Ihnen nur recht geben. Sie und Ihre Kollegen wurden von der Politik ohne Not, ohne Grund und ohne Berechtigung ins Abseits geschoben und um ihre Zukunft betrogen. Und die Manager der EVU´s haben nichts, aber auch gar nichts getan, um das zu verhindern, sondern haben stets und ständig mit den Wölfen geheult, und feige versucht durch Appeasement für sich es nicht so schlimm werden zu lassen. Denn dazu hätte Mut gehört, Mut und Verantwortung der bei jeder Festrede der Manager als Grund dafür genannt wird, dass man so hoch bezahlt wird. Der Mut fehlte völlig und die Bereitschaft Verantwortung für den dadurch angerichteten Schaden zu übernehmen ebenso.
+Ein ganz typisches Beispiel für diese opportunistische Haltung ist Ihr Kollege Andreas Brabeck Dipl. Ing und damals Leiter Corporate Affairs der RWE (Jedenfalls 2015). Der meinte auf der Podiumsdiskussion als RWE Leitlinie:
+Das ist natürlich der zunächst bequeme Weg. Von Churchill stammt das Zitat:
+Vielleicht wurde Herr Brabeck ja noch nicht gefressen.
+Leser Heinze kommentierte dieses Versagen der RWE (EVU) Manager so:
+Recht hat er.
+Und deswegen die Flucht nach vorm, nur müssen die Manager wieder mal zur Kenntnis nehmen, wer den Staat als Umsatz- und Gewinnbringer nutzen will, ist auch von den Launen des Staates abhängig.
+Nachtrag:
+Zur Ehrenrettung von Herrn Brabeck ist nachzutragen, dass er das Dilemma voll erkannt hat. Allerdings wird das zuvor Geschriebene dadurch voll bestätigt. In seinem Kommentar schieb er:
+mfG
+M.L.
+Das unsere Chefs lieber mit den Wölfen heulen anstatt sich gegen eine unsinnige Energiepolitik zu stellen ist bequemer da der Rubel ja für sie rollt… Und wenn er nicht mehr rollt, dann wechselt man zum Hersteller von Zahnpastatuben… Warum unser (RWE) ex Chef Terium wohl nach Innogy gewechselt ist …???
+was mir bei dieser Diskussion noch fehlt ist die Rolle der Gewerkschaft. Die Geschäftsführung kann immerhin noch für sich in Anspruch nehmen, sie versuche durch Stillschweigen zusätzliche Nachteile für das Unternehmen und damit auch für ihre Mitarbeiter zu vermeiden. Die Gewerkschaft hat diese Ausrede nicht, sie ist ausschliesslich der Arbeitnehmerschaft verpflichtet. Herr Vassiliadis ist aus meiner Sicht eine verachtenswerte Figur. De Facto macht er sich der Unterstützung eines Verbrechens gegen die Menschlichkeit schuldig. Genau das, was man heute der Generation unserer Väter und Grossväter zum Vorwurf macht.
+Mfg
+Was ist das denn für eine jämmerliche Einstellung. Mit so einer Einstellung kann ein DDR – Grenzer auch auf einen Flüchtling schiessen, denn die „Grundsatzdiskussion“ müssen ja andere führen und die SED wurde ja mit 99% der Stimmen gewählt!
+Mich erinnern solche Aussagen an Ärzte, die laut ihrem hippokratischen Eid dem menschlichen Leben verpflichtet sind, in ihren Krankenhäusern aber Abtreibungen durchführen. Sie selber sind ja dagegen und gute Katholiken, aber wenn es der „Kunde“ eben so fordert wird es auch gemacht…
+Nicht berücksichtigt haben Sie, das Innogy nur einen Eigenbedarf von 70-80% angibt, für 20% (8000KWh) wird man also nur eine geringere Einspeisevergütung von ca. 13Cent erhalten.
+Wie ist es eigentlich, müssen neue PV Analgen nicht auch die EEG-Umlage für Eigenverbrauch zahlen, oder erst ab einer bestimmten Größe? Dann wären es nur 24 Cent, Statt 30.
+Die 2% Zinsen, Versicherung und Wartungskosten würde ich auch so sehen. Am Anfang vermutlich erst mal weniger, aber wenn nach 5 Jahren mal ein Modul kaputt geht kann es schnell mehr werden.

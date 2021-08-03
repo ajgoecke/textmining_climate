@@ -1,0 +1,335 @@
+Vorspann
+Die Betrachtung der Energiewende reicht von Enthusiasmus über den deutschen Startup zur neuen Weltrettung vor der drohenden Energiearmut und Umsetzung einer alleine klimarettenden Dekarbonisierungsverpflichtung bis zur Resignation über den größten Schwachsinn der deutschen Nachkriegs-Technikgeschichte.
+In manchen Artikel ist die Energiewende kritisch beschrieben
+[1] Die Ökonomie der »Energiewende« in Deutschland ist so bizarr, dass man denken könnte, sie sei von einem »Expertengremium« der DDR erdacht worden, bevor im Jahre 1989 die Mauer fiel. In Deutschland wurden inzwischen rund 100 Milliarden Euro an Subventionen für Erneuerbare verbrannt; gegenwärtig belaufen sich die Energieabgaben auf etwa 56 Millionen Euro pro Tag. Und: Das Subventionslevel für Wind und Solar lässt die Deutschen 20 Milliarden Euro pro Jahr zahlen für eine Energiemenge, die an der Strombörse lediglich für zwei Milliarden Euro verkauft werden kann.
+Verschwendung von 18 Milliarden Euro pro Jahr für Energie – über die Deutschland aus bedeutenden Quellen reichlich verfügt – hat eine faire und vernünftige Frage aufgeworfen: Wie viel Energie bekommen denn nun die Deutschen für die Milliarden von Euro, mit denen sie um sich geworfen haben – und dies für Wind und Solar auch weiterhin tun?
+Die Antwort lautet: NICHT VIEL: Die Deutschen geben Hunderte Milliarden Euro für ihre »Energiewende« aus und bekommen im Gegenzug aus diesen Quellen lediglich drei Prozent ihres Energiemixes (hier).
+Von anderen wird sie als wegweisend begrüßt
+KLIMARETTER.INFO, immerhin von namhaften Persönlichkeiten wie Herrn Prof. Grassl und Professorin C. Kemfert herausgegeben, sieht das wie üblich vollkommen gegensätzlich und verkündet die Lobeshymne auf die Ökoenergie – garniert mit Bildern die zeigen, dass die Natur noch immer nicht vollständig „windgespargelt“ ist und weiterhin zu schließende Lücken bestehen.
+[2] Neuer deutscher Stromrekord
+Der Überschuss beim Stromexport steigt auf 50 Milliarden Kilowattstunden: Während 2015 die Windkraft boomte, drosselten die Kohlekraftwerke ihre Produktion nicht. Erneuerbare decken jetzt 32 Prozent des Strombedarfs.
+Damit sich jeder selbst ein Bild machen kann, hat der Autor eine Jahresscheibe Ökoenergie analysiert und stellt die Auswertung hiermit vor. Leider endet diese mit dem November (schließt aber den Dezember des Vorjahres mit ein), aber so ein Artikel ist nicht in 5 Minuten erstellt und er sollte zum Jahreswechsel erscheinen.
+Verwendeter Datensatz und Daten-Genauigkeit
+Information dazu findet sich im Anhang.
+Leistung und Energie (anbei eine ergänzende Erklärung, weil im Blog sonst seitenlang diskutiert wird)
+Alle Ganglinien-Darstellungen zeigen differentielle Werte, also die Leistung (typisch MW; GW). Man kann diese nun mit einer Stunde gedanklich multiplizieren und erhält dann die für diese Stunde geltende Energie-Einspeisung (typisch MWh; GWh). Der Zahlenwert bleibt dabei gleich, obwohl es sich um zwei vollkommen unterschiedliche Bedeutungen handelt.
+Beispiel: Im Bild 1 sieht man im Nov. 2015 kurz beim Verbrauch Werte von 80 GW. Genau genommen ist dies ein Verbrauchs-Leistungswert von 80 GW zu diesen Zeitpunkten. Gleichzeitig kann man den Zeitraum, an dem diese Leistung abgerufen wurde (gedanklich) in Stundenbereiche aufteilen und dann sagen, dass für diesen Zeitraum im November 2015 ein (differenzieller) Energie-Verbrauch von 80 GW x 1 h, also 80 GWh vorlag – aber beachten: für 2 h sind es bereits 2 x 80 = 160 GWh Energieverbrauch, während die angebotene Leistung mit 80 GW gleich bleibt -.
+Umgangssprachlich redet niemand „geschwollen“ von einem (differenziellen) Verbrauchs-Leistungswert, sondern wie im Bild von Agora angegeben von Stromverbrauch oder Energieverbrauch. Da ist die Umgangssprache unpräzise und damit bezüglich dieser Begriffe fehleranfällig.
+Für die Einspeisung gilt das Gleiche. Bild 1 zeigt die anliegende Leistung (GW). Im Artikel wird dies durchgängig als „Bereitstellung“ bezeichnet. Trotzdem kann man auch hier mit einer fiktiven Stunde multiplizieren und erhält dann mit GWh den gleichen Zahlenwert für die innerhalb einer Stunde zu dieser Zeit eingespeiste Energie, nach zwei Stunden allerdings auch wieder das Doppelte und so weiter.
+Fazit: Bei Zahlenangaben wird im Artikel penibel auf die richtigen Dimensionierungen und Benennungen geachtet. Damit der Text für nicht-Energietechniker aber nicht zu holprig wirkt, wird in Erklärungen umgangssprachlicher formuliert.
+Der aktuelle Jahresverlauf von Dezember 2014 bis November 2015
+Den auf Agora Energiewende dargestellten Verlauf der Ökoleistungs- Bereitstellung und Stromverbrauch zeigt Bild 1.
+Bild 1 Stromverbrauch und angebotene Ökoleistung von Dez. 2014 bis Nov. 2015 (Quelle Agora-Energiewende)
+Den (unbedeutenden) Anteil Solar – der 50 % der gesamten EEG-Kosten verursacht – zeigt deutlicher Bild 2.
+Bild 2 Verbrauch und angebotene Solarleistung von Dez. 2014 bis Nov. 2015 (Quelle Agora-Energiewende)
+Den Anteil Windkraft zeigt Bild 3.
+Bild 3 Verbrauch und angebotene Windleistung von Dez. 2014 bis Nov. 2015 (Quelle Agora-Energiewende)
+Fazit
+Um anhand dieser Bilder unter Betrachtung der horrenden Kosten von einem „Boom“ an Ökoenergie zu reden, muss man sehr begeisterungswillig sein. Zumindest konnte die Ökoenergie noch nichts wirklich an adäquater Energie liefern. Die als Leuchtturm-Projekte gelobten „Energie-autarken“ Dörfer haben damit schon einen sehr potemkinschen Charakter und stellen nicht im Ansatz in der Breite realisierbare Wirklichkeiten, sondern eher Beispiele ökogerechtfertigter Dorfzerstörungen dar. Interessierte Leser sollten dazu den EIKE-Artikel "Die Nassauer von Feldheim" von Herrn Limburg ansehen.
+Bild 4 Bild aus dem EIKE Artikel "Die Nassauer von Feldheim"
+Detaildarstellungen
+Die Bilder von Agora sind schön geglättet. Anbei deshalb der Verlauf, was sich im Versorgungsnetz wirklich abspielt. Bild 5 zeigt die Summenwerte von Bild 1 in höherer Zeitauflösung und mit weniger Glättung. Die Differenz zwischen Verbrauch und Ökostromeinspeisung müssen aufgrund der Vorrangeinspeisung alleine die konventionellen Kraftwerke ausregeln. Übrigens lasse man sich nicht täuschen. Zu keinem 15-Minuten Zeitpunkt war in der Deutschland-Summe eine Ökoenergie-Einspeisung höher als der Verbrauch.
+Bild 5 Energieverbrauch (schwarz) und Ökostrom-Leistungsbereitstellung (rot) in hoher Auflösung (MW)
+Energieeinspeisung
+Bild 6 zeigt die Einspeisungen der verschiedenen Ökoenergie-Erzeuger über den Jahresverlauf. Man sieht deutlich, wie weit der Abstand zwischen Strombedarf und Ökoenergiebereitstellung wirklich ist. Aber die gekennzeichnete, fehlende Leistung würde noch längst nicht reichen, denn bei der Ökoenergie müssen neben dem Bedarf zusätzlich die Speicher zur Überbrückung der Flautezeiten gefüllt werden. Ganz deutlich wird, dass die mit 50 % des EEG-Budgets vollkommen übersubventionierte Solartechnik überhaupt keinen sinnvollen Beitrag leistet. Das führt aber nicht zu (Er-)Kenntnissen, sondern zu Aussagen wie:
+[3] Dirk Becker, Mitglied des dt. Bundestages (SPD-Fraktion)
+"Gerade die Entwicklung der Solarenergie verdeutlicht, wie sehr die Energiewende von den Bürgerinnen und Bürgern getragen wird. Damit das auch so bleibt, braucht die Politik Partner wie den BSW- Solar."
+[3] Günther Cramer, Solarpionier und Gründer der SMA Solar Technology AG †
+"Die Photovoltaik ist auf dem besten Wege, eine starke Säule der Energieversorgung weltweit zu werden.
+Bild 6 Verbrauch und Ökoenergie-Einspeisungen
+Berechnete Einspeisungen an Öko-Energie vom 1.12.2014 – 30.11.2015 (Bild 6):
+Wind: 76.000 GWh
+Solar: 34.350 GWh
+Biogas und Wasser: 60.560 GWh
+Verbrauch ohne Import / Export: 478.000 GWh (Daten entso-e, Erklärung siehe Anlage)
+Verbrauch mit Import / Export: 522.000 GWh (Daten entso-e, Erklärung siehe Anlage)
+Nun die Auswertung, wie verfügbar die Leistung der Haupt-Ökoenergie-Quellen Windkraft und Solar über ein Jahr ist. Bezug: Installierte Gesamtleistung Windkraft und Solar: 80.528 MW (Jahres-Mittelwert)
+Bild 7 Leistungsangebot von Windkraft und Solar über anteilige Jahreszeiträume bezogen auf die Nennleistung
+Bild 8 (korrigiert) Tabellierung von Bild 7. Leistungsangebot von Windkraft + Solar über anteilige Jahreszeiträume
+Man muss bedenken, dass die gesamte Netz-Infrastruktur für die installierte Leistung ausgelegt werden muss. Benötigt wird die Infrastruktur dann nur zu Bruchteilen (z.B. 50 % der Zeit wurden durchgehend weniger als 13,4 % der installierten Leistung angeboten, die gelisteten 13,3 % sind der maximal in dieser Zeitspanne erreichte Angebotswert).
+Der Kampf gegen neue Stromtrassen hat damit seine Berechtigung. Nur müssten diese Bürger, Bürgermeister, Landräte und Politiker dann auch gegen die Energiewende protestieren. Dass sie das nicht machen zeigt, dass diese Proteste keine wirkliche Wissensbasis haben sondern vorwiegend emotional geführt werden.
+Wie sieht es im Jahr 2050 aus, wenn alle konventionellen Kraftwerke abgeschaltet sind?
+Extra zur Energiewende gegründete Forschungseinrichtungen wie das Fraunhofer IWES (Homepage: Mehr als 500 Mitarbeiterinnen und Mitarbeiter arbeiten auf den Forschungsgebieten Windenergie und Energiesystemtechnik des 2009 gegründeten Instituts) forschen? zur Energiewende und sind zu sehr positiven Ergebnissen gekommen[4]. Das muss so sein, denn was eine deutsche Regierung (diesmal über Fördermittel) vorgibt, ist nicht anzuzweifeln, sondern zu unterstützen. In der Einleitung zum IWES Strategiebericht neue Energien von 2012 heißt es deshalb:
+[4] Die eindeutigen Erkenntnisse zum Klimawandel und seinen Folgen, die ökonomischen Risiken einer weitgehend von fossilen Energieimporten abhängigen Energieversorgung, die Kenntnis um die wachsenden ökologischen Gefährdungen durch die immer aufwändiger werdende Gewinnung weiterer fossiler Energierohstoffe und die nach wie vor ungelösten Fragen einer sicheren Endlagerung von Kernbrennstoffen und der Beherrschung der Risiken einer ausgeweiteten Kernenergienutzung sollten es eigentlich erleichtern, immer mehr gesellschaftliche und wirtschaftliche Akteure für den notwendigen Transformationsprozess der Energieversorgung in Richtung deutlicher Effizienzsteigerung und erneuerbare Energien zu gewinnen. Mit dem Energiekonzept der Bundesregierung sind richtige Schritte in diese Richtung gemacht worden. Es besteht jetzt vor allem ein weitgehender Konsens darüber, dass erneuerbare Energien „eine tragende Säule der zukünftigen Energieversorgung“ sein müssen und sich längerfristig zur dominierenden Energiequelle entwickeln müssen.
+Die Österreicher sind aber auch (wieder) nicht klüger. In der Publizierung „Die österreichische Strategie zur Anpassung an den Klimawandel Teil 2“ steht:
+[11] Stabilisierung des Transport- und Verteilnetzes durch entsprechende klimaangepasste Systemplanung
+Ziel: Reduktion der Störungsanfälligkeit von Transportnetzen sowie die Vermeidung von Überlastung oder Versorgungsengpässen aufgrund der zu erwartenden klimatischen Veränderungen.
+In dem Fraunhofer IWES Bericht[4] wird dann ausgeführt, warum neue Energien immer gewinnen (werden). Wie man dabei in den Vorhersagen daneben liegen kann, zeigt das folgende Beispiel von Bild 9:
+Bild 9[4] Preisentwicklung für Rohöl (Darstellung zum aktuellen Preis vom Autor zugefügt)
+Um die Ökoenergie zu rechtfertigen und einen Vorteil zu berechnen, werden die konventionellen wie üblich zusätzlich mit hohen Gefahrenkosten für das Weltklima beaufschlagt:
+[4] Würde man die bisher nicht internalisierten Folgekosten des Klimawandels in der betriebswirtschaftlichen Kalkulation von Stromgestehungskosten berücksichtigen (hier mit einem Kostenwert in Höhe von 75 €/t CO2 charakterisiert), so läge bereits heute das ökologisch „korrekte“ Kostenniveau um 10 ct2009/kWhel. Die große Diskrepanz zu den heute tatsächlich betriebswirtschaftlich kalkulierten Kosten zeigt, dass die aus Umweltgesichtspunkten falschen Preissignale rasch und deutlich korrigiert werden müssen, wenn dauerhaft ein unter Klimagesichtspunkten akzeptables Energiesystem unter dem Regime von „korrekten Marktpreisen“ entstehen soll.
+Danach werden die 0,003 °C welche Deutschland am Weltklima durch 3,5 Gt nicht emittiertes CO2 einsparen will (siehe EIKE KLimanarren) mit 262 Milliarden EUR bewertet. Nun beträgt die Messgenauigkeit einer sorgfältig errichteten DWD Klimastation +-0,2 °C. Um den Mess-Toleranzbereich einer Station von 0 aus zu überschreiten und damit die Wirksamkeit wenigstens an einem Ort „belegen“ zu können, hätte Deutschland bereits 8750 Milliarden EUR ausgegeben.
+Aber endlich lässt sich damit die Klimaschädigung durch das unselige Leben jedes Bürgers auf den Cent genau mit Schadenskosten beziffern. Man atmet im Jahresmittel 0,4 t CO2 aus und schädigt so das Klima mit genau 30,00 EUR. Vielleicht werden diese bald von jedem Bürger wie die Zwangs-Fernsehgebühren indirekt vom Staat dann jährlich aufgrund eines Klima-Bürgerpflichtgesetzes von Greenpeace oder Germanwatch eingezogen.
+Da muss man weinen, aber aus anderen Gründen als unsere Umweltministerin Frau Hendricks zum Abschluss des letzten Klimagipfels[5].
+Denn die Kostenbilanz ist desaströs, wie es das folgende Bild 10 mit der Gegenüberstellung von EEG-Zwangsvergütung und wahrem Energiewert (Spottpreis) zeigt. Wobei zur EEG-Förderung parallel noch die erforderlichen Netz-, Infrastruktur- und Speicherkosten auflaufen.
+Bild 10[9] EEG-(Zwangs-)Vergütung und wirklicher Energie-Marktwert
+Zurück zum IWES Bericht. Darin ist die Ausbauplanung der Ökoenergie bis 2050 gelistet.
+Die Ökoenergie-Ausbauziele für 2050
+Neue Energien im Planjahr 2050
+Die Ausbauplanung weist für 2050 die folgenden Ausbaufaktoren aus (Quelle: Fraunhofer IWES 29. März 2012, Bericht: BMU – FKZ 03MAP146, Tabelle 4-3, Scenario 2011 A[4]):
+· Windenergie: Faktor 2,25
+· Solarenergie: Faktor 1,75
+· Wind + Solar: Faktor 2
+Mit diesen Faktoren ermittelt sich die zum Jahr 2050 geplante Gesamtleistung von Wind + Solar zu 187,6 GW (Anm.: Dieser Wert ist höher als in der IWES-Studie für das Szenario 2011 A gelistet, da der aktuelle Ausbau den damals für 2015 vorhergesehenen übersteigt). Der mittlere Bedarf wird als ungefähr gleich angenommen, obwohl unsere Regierung Verbrauchs-Reduzierungen als Zwangsmaßnahme plant.
+Mit dem ursprünglich geplanten Ausbau kann die Ökoenergie im Jahr 2050 bereitstellen:
+Bild 11 Energiedaten 2015 und Hochrechnung für 2050 nach [4]
+Der ursprünglich geplante Ausbau auf 80 % Bedarfsdeckung reicht im Jahr 2050 – sofern es sich wie das Jahr 2015 verhält – trotz aktuell überplanmäßigem Ausbau nur zur Deckung von 64 % des Verbrauchs. Die Energiehöffigkeit wurde also viel zu hoch angesetzt (weshalb einige Windparks kurz vor der Pleite stehen). Trotzdem wird vom Umweltbundesamt inzwischen für das Jahr 2050 eine Bedarfsdeckung von 100 % gefordert[10].
+Um im Jahr 2050 die vom Umweltbundesamt geforderte Ökoenergie zu liefern, sind die im Bild 12 gelisteten Ausbaufaktoren erforderlich (nach Szenario 2011A gerechnet):
+Bild 12 Ausbaufaktoren für 2050 nach Uba-Forderung
+Es stellt sich die Frage wie das gehen soll und vor allem auch, wer das noch bezahlen kann. Die Industrie (und wie Pilze aus dem Boden geschossenen Öko-Forschungseinrichtungen) sagen auch dazu nichts Kritisches (Gier frisst Hirn). Vorstände und Inhaber werden durch die notwendigen, exorbitanten Investitionen reich. Dass die Mitarbeiter diese bezahlen müssen und dann pleite sind, interessiert nicht.
+Die Ganglinien im Jahr 2050
+Das folgende Bild 13 zeigt die simulierten Ganglinien von Verbrauch und Ökostrombereitstellung beim Ausbaufaktor für 100 % netto-Bedarfsdeckung. Bild 14 zeigt dazu den Verlauf der Residuallast (Differenz zwischen Last und Einspeisung aus erneuerbaren Energien zu jedem Zeitpunkt, beachten: Positive Residuallast = Deckungslücke der Ökostromeinspeisung, also Energiemangel).
+Bild 13 Simulierte Ganglinien von Verbrauch (schwarz) und Ökostrombereitstellung (rot) im Jahr 2050 bei 100 % Bedarfsdeckung (der Offset resultiert aus der konstant einspeisenden Wasserkraft und Biogas)
+Bild 14 Jahr 2050. Simulierte Ganglinien der Residuallast mit Anzeige von positiver in Rot (da Energiemangel) und negativer in Grün (da Energieüberschuss) bei 100 % netto-Bedarfsdeckung
+Anhand von Bild 14 kann man ahnen, dass solche Einspeiseverläufe welche zwischen dem positiven und negativen Bereich „beliebig“ und in extremen Dimensionen hin- und herpendeln – was es im bisher durch Großkraftwerke dominierten Versorgungssystem nicht gab -, völlig neue und vor allem teure und sehr kritische Anforderungen an das Versorgungsnetz stellen. Auch sieht man recht lange Zeiten mit Energiemangel, welche zur Überbrückung Speichervolumen im (nicht im Ansatz vorhandenen) Großmaßstab oder parallel mit- laufende, konventionelle Kraftwerke erfordert. Was das bedeutet wird im Teil 2 erklärt.
+Ergänzende EIKE-Artikel vom Autor
+Zum Nachsehen der elektrotechnischen Begriffe und Detailerklärung der Ganglinienbilder
+· Ökostrom erklärt für DUMMIES anhand der Wind und Solareinspeisung im November 2015* V2 23.12.2015
+Zur Energiespeicherung
+· Elektro-Energiespeicherung, Notwendigkeit, Status und Kosten. Teil 3 (Abschluss)
+Darstellungen, wie auch ein CSU-regiertes Bundesland inzwischen die Vernunft abgibt
+· Der Wind bläst stetig – die Sonne steht still – wenn mein starker Arm es will oder warum gehen in Bayern die Lichter (noch) nicht aus
+· Das Positionspapier des CSU-Arbeitskreises Energiewende Keine Vernunft mehr, nirgendwo
+Anlage
+Datensatz
+Leider gibt es zur elektrischen Energie in Deutschland keine aktuellen „amtlichen“ und vor allem keine vollständigen Daten. Will man welche erhalten, muss man sich diese selbst aus Rohdatensätzen der Netzbetreiber zusammenstellen (oder kaufen). Diese basieren zu einem erheblichen Teil aus Hochrechnungen von Stichproben und Schätzungen und werden deshalb von verschiedenen Institutionen – wie z.B. Agora Energiewende – nach eigenen Verfahren korrigiert. Dies gilt auch für die Ermittlung der Verbrauchsdaten, für die eine genaue Zurechnung des Strom-Import / -Exports praktisch nicht möglich ist. Bei Agora Energiewende ist bei der Verbrauchswertanzeige der Import / Export mit enthalten, weshalb es in dieser Artikelreihe ebenfalls so gehandhabt wird. Der wahre Verbrauch liegt jedoch wohl irgendwo zwischen dem Nettowert (Load) und dem Wert zuzüglich Import / Export.
+Der für diesen Artikel verwendete Datensatz wurde von Herrn Schuster aus den entsprechenden Rohdaten zusammengestellt und dem Autor freundlicher Weise zur Auswertung überlassen. Er beinhaltet keine Korrekturen. Der Autor hat sich entschieden, die Auswertung trotz möglicher Datenmängel mit den privaten, aber aktuellen Daten (und nicht denen von Agora von 2014) durchzuführen. Es können sich zu Darstellungen anderer Institutionen damit erhebliche Abweichungen ergeben. Auf die Tendenzen haben diese allerdings keinen Einfluss. Zudem stimmt dieser privat recherchierte Datensatz mit den Angaben von Agora Energiewende ausreichend überein.
+Quellen
+[1]
+Kopp Verlag 25.08.2015: Windenergie-Flutwellen aus Deutschland werfen seine Nachbarn in die Dunkelheit
+http://info.kopp-verlag.de/hintergruende/enthuellungen/redaktion/windenergie-flutwellen-aus-deutschland-werfen-seine-nachbarn-in-die-dunkelheit.html
+[2]
+KLIMARETTER.INFO Dienstag, 22. Dezember 2015: Neuer deutscher Stromrekord
+http://www.klimaretter.info/energie/hintergrund/20355-neuer-deutscher-stromrekord
+[3]
+Bundesverband Solarwirtschaft, Homepage
+https://www.solarwirtschaft.de/ueber-uns/stimmen.html
+[4]
+Fraunhofer IWES 29. März 2012: BMU – FKZ 03MAP146, Langfristszenarien und Strategien für den Ausbau der erneuerbaren Energien in Deutschland bei Berücksichtigung der Entwicklung in Europa und global – Schlussbericht
+[5]
+EIKE 22.12.2015: Klimanarren und die Lügenpresse DER SPIEGEL
+http://www.eike-klima-energie.eu/news-cache/klimanarren-und-die-luegenpresse-der-spiegel/
+[6]
+Michael Fette Dresden, Februar 2014: Das Spannungsfeld zwischen Netzdynamik, dezentraler Erzeugung von Elektroenergie und deren Speicherung
+[7]
+energiespektrum 18. DEZEMBER 2015: Intelligentes Stromnetz
+http://www.energiespektrum.de/index.cfm?pid=1706&pk=89040#.VnQwQVnZ1Ec
+[9]
+Technische Universität Berlin, September 2011 Studie: Kosten des Ausbaus der erneuerbaren Energien
+[10]
+Umweltbundesamt: Energieziel 2050 100% Strom aus erneuerbaren Quellen
+http://www.umweltbundesamt.de/publikationen/energieziel-2050
+[11]
+Anpassungsstrategie_Aktionsplan_23-10-2012: Die österreichische Strategie zur Anpassung an den Klimawandel Teil 2 – AKTIONSPLAN Handlungsempfehlungen für die Umsetzung
+ich trau mich mal zu klatschen.
+Die Aussagekraft im Diagramm nach Ihrer Bastelstunde ist für mich „griffiger“.
+Herr Kuntz will aber mit der Tabelle denselben Sachverhalt schildern.
+Es wird noch eine gewisse Zeit dauern,bis es sich herumspricht, dass die EE-Wandler aus dieser Schmuddelecke nicht herauskommen.
+So einfach ist Naturwissenschaft.
+Mit herzlichem Glückauf
+leider geben Sie uns keine Bastelanleitung dazu,
+wie man aus Tabelle 8 eine Häufigkeitsverteilung
+macht. Gegen meine zwei Versuche Ihnen zu helfen,
+haben Sie, und auch die anderen Leser, nicht Einspruch
+eingelegt, obwohl die Grafiken nicht richtig waren.
+Hier ist nun die Anleitung:
+Aus Tabelle 8 isolieren wir acht Kategorien
+der Leistungswerte in % der Nennleistung
+und berechnen die Häufigkeit in % der Jahresstunden.
+Kategorien Zeitanteil
+Leistung
+1. 0 – 5 % 16,7 %
+2. 5 – 10 % 23,3 %
+3. 10 – 13,3 % 10 %
+4 13,3 – 20 % 18,5 %
+5. 20 -30 % 19,5 %
+6. 30 – 40 % 10 %
+7. 40 – 50 % 2 %
+8. 50 – 100 % 0 %
+100 %
+Daraus basteln wir dann eine Grafik. Sie befindet sich
+auf folgendem Link :
+http://tinyurl.com/hq2gqth
+Sie sollten Bild 7 entfernen und auch den rechten Teil
+von Bild 8.
+Ich hoffe allen eine Freude gemacht zu haben.
+MfG.
+Horst Maler
+selbst nach Jahren Ihrer Kommentare im Blog gelingt es mit nicht zu erkennen, was Sie damit aussagen wollen. Vor Kurzem gab es einen Eintrag von Ihnen, den man verstand – ich dachte schon, eine Premiere, K. Meinhardt schreibt und man versteht es – leider war das ein Traum.
+Texten Sie doch versuchsweise zwei Mal: Für Normalbürger die gerade denken, und dann für Esoteriker und angehende Philosophen.
+wo bleibt Ihr Protest.
+Ich helfe Ihnen etwas und anderen Lesern und den Dummies :
+http://tinyurl.com/jfaazbz
+MfG Horst Maler
+Bild 14 ist an Aussagekraft kaum zu übertreffen! Vielen Dank.
+mfg
+G. Liehr
+„Deschner ist flau. Niemand kritisiert Priester & Co. härter als der Originaltext selber.“
+Ich habe noch nicht gehört, daß der Bischof zu Rom äh Papst zu seinen Kardinälen und Bischöfen gesagt hat: „Ihr Heuchler“. Und daß es darunter auch Kriminelle gegeben haben soll ist wohl auch nur ein Gerücht.
+In der Bibel steht jedenfalls:
+„Weh euch, Schriftgelehrte und Pharisäer, ihr Heuchler, die ihr gleich seid wie die übertünchten Gräber, welche auswendig hübsch scheinen, aber inwendig sind sie voller Totengebeine und alles Unflats! Also auch ihr: von außen scheint ihr den Menschen fromm, aber in wendig seid ihr voller Heuchelei und Untugend.“
+Deschner formuliert die Realität der Vergangenheit eben zeitgemäßer.
+Und je mehr Sichtweisen, desto kompletter wird das Bild der Handelnden.
+Das mit der „Bewahrung der Schöpfung“ zeigt wie Recht Deschner hat, denn während historisch der Raub durch die Priesterkasten noch für jeden durchschaubar war, ist das heute nicht mehr der Fall. Die Kriminellen haben dazugelernt, wie man die Armen dazu bringt ohne Murren der eigenen Beraubung auch noch den Segen zu geben.
+ich helfe Ihnen etwas und anderen Lesern und den Dummies :
+http://tinyurl.com/zd2jrtp
+MfG Horst Maler
+a. Welche Frage, wollen wir eigentlich (nochmal) beantworten, mit Bezug auf den dummen Deschner? Sie sollten etwas mehr Achtung und Respekt vor dem weniger gut informierten Leser haben wollen. [Blink! Blink!] oder anders gesprochen: 😉
+Der Witz an Ihrer Argumentation ist ja auch der, Sie wollen den Leser zu einer weiteren illegalen Schlußfolgerung ermuntern, (die nur dem trügerischen Schein nach, logisch sein soll, aber es nicht sein kann,) die Sie sich so offen zu sagen, nicht getrauen?
+b. Wieso würde?
+Mein lieber Herr Gesangsverein, darf ich Sie höflich daran erinnern, was Tatsachen sind, sein müssen, nur sein können?
+Tatsache ist, das einzige Kriterium des Originaltextes, ist ja genau die Figur Jesus. Hier geht es nicht um Atome oder komische Hähne. Die Figur Jesus ist die Verdichtung allen menschlichen Wissens, in allen Bibliotheken der Welt, bis heute.
+Der Originaltext sagt, es gibt nur zwei Möglichkeiten, für den Menschen. Für ihn oder gegen ihn sein.
+Der Originaltext sagt, wer aufrichtig ist, wer gerecht ist, wer den anderen achten will, wer Respekt vor dem Nächsten haben will, wer (echte) Wissenschaft liebt, wer die Weisheit sucht, wer die Klugheit achtet, hat nur eine Wahl. Nur eine. Für ihn.
+Wieso würde? Im Originalext steht, Jesus kennt sogar die exakte Anzahl Ihrer Kopfhaare.
+Deschner ist flau. Niemand kritisiert Priester & Co. härter als der Originaltext selber. Und Deschner hat wen noch einmal kritisiert? Und was hat das mit Gerechtigkeit zu tun? Absolut nix. Sie sind ungerecht, tollkühner Propagandist. 🙂 Dadurch, dass Deschner, lügend oder nicht, etwas kritisiert, ist noch gar nichts geschehen. Absolut nix. Seine Ungerechtigkeit muss auch gesühnt werden. Wenn?
+Mit siegreichen und freundlichen Grüßen
+1. Die Sache mit der flachen Erdscheibe ist den dekadenten römischen Amateuren in die Schuhe zu schieben. Wieso wissen das die Schüler von Kant nicht?
+2. Der Originaltext hält jeder streng(st)en Prüfung stand.
+3. Kants Texte halten einer heutigen wissenschaftlichen Prüfung NICHT mehr so ohne weiteres stand und müssen Federn lassen (da haben wir auch einen falschen Hahn. Und was für einen.).
+4. Und viele weitere Argumente. Leider ist das EIKE-Forum, nicht hierfür geeignet, gemäß eigener Definition. Somit erfüllt sich das Wort von Thomas S. Kuhn. Man bleibt (lieber) dem eigenen Teller (Paradigma) verhaftet.
+EIKE dient ja nicht dazu Vorlesungen abzuhalten, sonderen den freien Menschen, zu einer klugen Entscheidung zu verhelfen: einem NEIN zur Energiewende und zu diesem schweren Erbe von Galileo und Kant, dem unsäglichen Wetter. Galileo war ein hirnloser Meßfanatiker. Und Kant, ein klarer Feind des Metaphysischen.
+Nur, jetzt sitzt die Pseudo-Wissenschaft in der Falle. Verbunden mit der bösen Neigung des Menschen, dem Verstand nach Kant und den vielen Meßapparaten, hat der Berg eine gefährliche und gefräßige Maus geboren.
+Dabei geht es nur um eine sehr simple Entscheidung. Jede Omi kann sie richtig treffen, mit einem klaren NEIN, zu all diesen modernen und atheistischen Verrücktheiten. Denn, die Wohlstandskinder von heute, sind alle Atheisten und unchristlich, von ganz wenigen Ausnahmen abgesehen, die keine Rolle spielen dürften.
+T. Heinzow,
+da stimme ich mit Ihnen mal überein. Leider sind Deschners Bücher zu dem Thema recht schwer zu lesen, sonst wären diese vielleicht etwas bekannter. Aber für Leute die darüber wirklich etwas wissen wollen, sind sie unersetzbar.
+„Pfeifen Sie auf den dummen Deschner.“
+Der Mann hat doch recht, wenn er sagt (Abermals krähte der Hahn): Würde Jesus im Grabe liegen, würde er rotieren, wenn er mitbekäme, was in seinem Namen so alles verkündet wird.
+Ausplünderung der Armen ist das, was in der Kriminalgeschichte des Christentums zutreffend aufgezeigt wird. Jetzt kommen die Pfaffen und reden bei der Ausplünderung der Armen von der Bewahrung der Schöpfung“.
+Deschner sagt die Wahrheit, nicht immer aber sehr oft. Sie müssen den Mann loben. Der paßt nämlich durchs Nadelöhr.
+wissen Sie, warum ich Sie (auch) so sympathisch finde?
+a. In der Physik können Sie sich sehen lassen, gute Arbeit. Alle Achtung. Ehre wem Ehre gebührt.
+b. In der Nicht-Physik sind Sie ein Überflieger, auf dem falschen Planeten. Keine Ehre! Nix. Absolut nix.
+c. Ich schätze Ihre Weitsicht, denn, Sie sind der klare Beleg, dass Sie sich still und heimlich die strenge Prüfung auch (!) herbeisehnen, früher auch professionell als Inquisition, bezeichnet. Eine halbe Stunde Applaus, für Eure Gnaden. Wo Sie Recht haben, haben Sie Recht.
+Mit sehr ernsten Grüßen
+1. Sie sind sehr viel katholischer als sehr viele Katholiken, mein Lieber Herr Gesangsverein. Bravo. Weiter so. Lassen Sie sich nicht beirren. Pfeifen Sie auf den dummen Deschner. Hören Sie lieber auf Jean-Paul Sartre, Ihren Sargnagel!!
+2. Gemäß der Erkenntnistheorie, wissen Sie bis heute, nicht das Etikett zählt, sondern der Inhalt der kostbaren Weinflasche. Und ihre wenigen Fehler, können Sie immer noch durch einen Richtungsschwung locker ausbügeln.
+Echt wissenschaftliche Definitionen werden von rechts nach links gelesen. Rechts und links sind immer (!) gleichwertig. Die linke Seite ist nur eine Abkürzung, für die rechte Seite, ohne Informationsverlust (vgl. Kritischer Rationalismus. Kant war UNKRITISCH, Sie irrender Reiter).
+Willkommen, verehrter Herr T. Heinzow. Nur, haben Sie mehr Verständnis und Achtung für Ihre Nächsten. Nur wenn Sie Ihre Äuglein zumachen werden, erst dann wird sich zeigen KÖNNEN, wie klug Sie wirklich haben sein wollen. Vorher ist alles nur Lobbyismus. 🙂
+Lang lebe die Inquisition. 🙂
+Lieber ein irrender Reiter, als ein reitender Irrer, nicht wahr, falscher Bischof?
+Sehr geehrter Herr Heinzow,
+Ihr Frust über das EEG scheint grenzenlos. Sie werden das aber nicht beeinflussen, indem Sie Begriffe wie „Ökostrom“ und „erneuerbare Energie“ aus dem deutschen Sprachraum verbannen – was sowieso nicht gelingt.
+geben Sie doch bitte für die Dummies, an die sich
+ihr Beitrag wendet, eine Anleitung dazu, wie man aus Tabelle 8 eine Häufigkeitsverteilung bastelt.
+Ein Zusatz wäre erleuchtend :
+Die Häufigkeitsverteilung der Leistung eines
+Kernkraftwerks.
+MfG
+Horst Maler
+„Der urschwäbische, rationale Verstand ist sozusagen durch die Windräder geschreddert worden.“
+Der ist schon lange vorher geschreddert worden. Die Windmühlen sind nur der Beweis dafür, daß das Volk verdummt ist. Das Abitur war immer der Nachweis für die Berechtigung an allen Hochschulen alle Fächer studieren zu dürfen. Inzwischen ist das Papier ziemlich wertlos geworden. Mathe, Physik, Chemie, Biologie sind Fächer, die der heutige Abiturient nicht mehr beherrschen können muß. Und um Richter werden zu können reicht in den Staatsexamen eine Punktzahl von 50% dessen, was erreicht werden kann. Dementsprechend schlecht ist die Rechtsprechung und auch die Gesetzgebung. Man muß sich nur anschauen, was die Parlamentarier so alles absegnen müssen: Mal ein Komma hier, mal ein a oder b oder c da und hier ein Halbsatz und da ein neuer Absatz. Die Halbwertszeit der Gültigkeit der Gesetze hat rapide abgenommen, aber die Parlamentarier wissen gar nicht, was das naturwissenschaftlich bedeutet. Physik? Kann ich nicht ==> also abgewählt. Und so kommt es, daß es plötzlich „erneuerbare Energie“ und Ökostrom gibt, was selbst ein Ingenieur in Ordnung und dem Zeitgeist geschuldet findet.
+Vielleicht findet jemand im Blog noch eine für alle unmissverständliche Beschreibung zu Bild 7 und Tabelle 8. Aber Ihrer Interpretation kann ich nicht ganz folgen.
+Ich finde die Grafik von Bild 7 eindeutig, nur die Klassifizierung in Tabelle 8 daraus ist etwas schwierig zu erklären. Allerdings habe ich diese nun so geändert, dass man sie jetzt von beiden Seiten lesen kann.
+Zu Ihren Angaben. Ich würde es wie folgt formulieren:
+– Der maximal im Jahr (100 % der Zeit) vorkommende Leistungswert waren 50 % der installierten Leistung.
+– Der minimale Leistungswert, bzw. 0 kommt in der Grafik nicht vor, denn diese beginnt bei ca. 5 %. Das Minimum lag demnach irgendwo zwischen 0 und 5 %
+– Der häufigste Leistungsanteil lag zwischen 0 und 14 % (für über 50 % der Zeit)
+Eventuell würde eine Häufigkeitsverteilung das Geschehen besser darstellen. Das kann aber jeder an allen Details Interessierte aus der Grafik von Bild 7 auch selbst machen. Die Frage ist, ob das noch wirklichen Erkenntnisgewinn bringt. Die Anzahl Werte in Tabelle 8 ist doch eher zu viel als zu wenig.
+„Ich würde dafür plädieren bei zukünftigen Artikeln diesen Energieträger aus der Bilanz herauszunehmen. Dito Müllverbrennung und Wasserkraft. Die ist so alt wie Methusalem.“
+Das wäre unehrlich und fatal. Wenn es nach Sinn und Nutzen ginge, müssten Windkraft und Solar auch herausgenommen werden. Nur wenn alles ehrlich definiert wird kann man auch echte Kritik üben. Das Lügen sollte man den anderen überlassen.
+am Montag, 28.12.2015, 09:46
+„Bild 1 – grüne Linie, Biogas. Das kann man getrost streichen, denn das Agrogas wird nur aus propagandistischen Gründen den „Erneuerbaren“ zugerechnet. Die Agro-Industrie ist Ölbasiert und ihre Produkte können somit nicht „nachhaltig“ im Sinne der Öko-Kirche sein. Aber ohne diesen Selbstbetrug Kämen ja die Jubelzahlen nicht zustande….“
+Wirkungsgrad von Biogasanlagen: zwischen 25% und 35% je nach Anlagengrösse. Nehmen wir 30% Wirkungsgrad als Durchschnitt (die allerwenigsten Biogasanlagen laufen in Kraftwärmekopplung).
+Von 100 ha Ackeranbaufläche (z.B. Mais) werden 70 ha in der Luft verheizt. Erdöl in Form von Traktoren, LKWs, Dünger etc. fallen auf jeden Fall an. Biogasanlagen sind in der Tat ein nachhaltiger Betrug und dienen ausschliesslich dazu die Bilanz der „Erneuerbaren“ zu beschönigen.
+Ich würde dafür plädieren bei zukünftigen Artikeln diesen Energieträger aus der Bilanz herauszunehmen. Ditto Müllverbrennung und Wasserkraft. Die ist so alt wie Methusalem.
+Aber, der Frau muss der Doktortitel entzogen werden. Die verdient ihn nicht. Der Inhalt (Margarine) ist einem Doktor nicht würdig.
+MfG
+aus Grafik 7 lese ich jetzt das während 100% der Laufzeit die Leistung bis 50% der Nennleistung betrug.
+Die Maximalleistung war also 50% der Nennleistung.
+Die Minimalleistung war also 0% der Nennleistung.
+Das ist aber nicht aussagekräftig, da eine Klassifizierung der Leistungsstufen erforderlich ist. Die besagt, dass die Leistung 0 am häufigsten und die Nennleistung am wenigsten vorkommt.
+MfG
+Horst Maler
+Sehr geehreter Herr Kuntz,
+ich meine, die Tabelle 8 sollte weiter korrigiert werden. Es muss grundsätzlich heißen „weniger als“ und nicht „bis zu“.
+Z. B. Die Aussage an 98% des Jahres kamen bis zu 40% der Nennleistung vor ist doch irreführend und logisch gesehen falsch. Mir ist schon klar, was Sie damit sagen wollen, aber ein unbedarfter Leser zieht exakt den verkehrten Schluß daraus.
+mfG
+Willy Fritz
+Ein „dicker Kopf“ sind Sie nicht. Anders gesprochen. Hier sind Dickköpfe ausdrücklich erwünscht. Wir haben schon gewonnen. Die sind ohne jegliche Chance. Jetzt geht es nur noch darum, zu welchem Preis, wir unseren Kampf gewinnen werden.
+Es geht nur um die Höhe. 🙁
+Traurig, das alles.
+MfG
+Dickköpfe, die nur Tatsachen und die Wahrheit verteidigen wollen, sind ÜBERALL sehr gerne gesehen. 100 Prozent.
+Mal sehen, wie hoch der zu zahlende Preis werden wird. 🙁
+„Diese Aussage der, sich dauernd primitiv äußernden, Barbara Hendricks ist so etwas von falsch und bösartig, dass man an deren Verstand zweifeln kann.“
+Ich habe, mit Verlaub, den „gleichen“ Gedanken wie Sie ihn haben wollten, in ein Wort zusammenfassen wollen. Der verehrte Admin hat mich dafür zensiert. 🙂 Sie sind klüger heran gegangen. Bravo. Herzlichen Glückwunsch.
+Wenn man wissen tut, wievielen Menschen, absolut unnötig das Leben erschwert wird, zur „Hölle“ gemacht wird, dann kann diese Person, keinen gesunden Geist haben. Das ist absolut unmöglich. Stromarmut ist eine Schande für dieses wunderschöne und einzigartige Land. Dass ältere Braunkohlemeiler so günstig Strom produzieren und diese Person mit ihrem Anhang dies so schnell wie nur möglich beenden will, ist ein weiteres Verbrechen. Verfluchte Umwelt.
+Anders gesprochen. Die Frau Hendricks handelt absolut rational. Innerhalb ihrer Vernunft wurde jedoch eine Annahme eingefügt, die alles verschiebt. Die Umwelt soll, hat einen höheren Stellenwert als der (angeblich) vom Affen abstammende Mensch. Sie hält das für eine Tatsache, was die Wissenschaft, ihr da erzählen will, durch unzählige Studien. [Studien, von denen wir genau wissen, die sind entweder getürkt oder methodisch falsch! Dank der wertvollen Arbeit der vielen guten Fachleute, auch von EIKE!!]
+Für sie, Hendricks, ist es die Wissenschaft.
+Wir wissen, es ist die Pseudo-Wissenschaft.
+Mit sehr freundlichen Grüßen
+P.S.: Das Handeln der Hendricks & Co. ist objektiv mörderisch. Sie zerstört unermeßlichen Wohlstand. Die meisten kapieren das nicht.
+Sehr geehrter Herr Maier,
+Sie haben es richtig gesehen. Da darf nicht 1,8 sondern muss 98 % stehen. Wird berichtigt.
+Danke Frau Katrin Meinhardt, Sie sind mir zuvorgekommen!
+Die Hendricks verdreht ganz einfach die Tatsachen: „Zu Überkapazitäten kommt es nicht durch plötzlich erzeugte Energie von den sogenannten „erneuerbaren“, sondern durch unsere Grundlastträger“.
+Diese Aussage der, sich dauernd primitiv äußernden, Barbara Hendricks ist so etwas von falsch und bösartig, dass man an deren Verstand zweifeln kann.
+Leider ist es so, dass die meisten Leser nichts hinterfragen und so einen Blödsinn glauben.
+Ich merke täglich, dass sich die Fronten verhärten. Es ist bald so weit, mit Verbreitung von Tatsachen und der Wahrheit, an den Pranger gestellt zu werden. Sogar Freunde wenden sich ab.
+Egal – ich kann ein Dickkopf sein!
+Was ist nur mit dem „Spiegel“ los? Vor langer Zeit haben die da auch mal Recherche betrieben.
+tragen Sie mal in Grafik 7 den Breich
+„1,8% kamen bis zu 40% vor “ (Zeile 5)
+in die Grafik ein.
+MfG Horst Maler
+am Montag, 28.12.2015, 19:59
+@ #4
+Ganz ähnlich sieht das wohl auch Dr.phil. Barbara Hendricks.
+Hier zeigt sich mal wieder das einfache Weltbild dieser Umwelt-Philologin mit Margarinehintergrund.
+Schuld am zu hohen Stromexport sind die bösen Kraftwerkbetreiber mit ihren dreckigen Kohlekraftwerken.
+Die wollen ja unbedingt noch was verdienen und nicht nur Verluste machen und fahren deshalb ihre bösen Kraftwerke nicht bei jedem lauen Lüftchen runter sondern lassen die durchlaufen.
+Eventuell könnte man ihr das Warum an einem simplen Beispiel erklären, das auch einer Margarinefachfrau verständlich sein könnte (oder auch nicht).
+Man stelle sich vor, ein Kaminofenbesitzer heizt seinen Ofen morgens an. Wie jeder Ofenbesitzer weiß, ist der Anheizvorgang immer der aufwendigste Teil, der Ofen ist noch kühl und meist muss man nachhelfen, bis das Ding ordentlich seine Dienst tut. Wenn er aufgeheizt ist, genügt es, ab und zu ein Scheit nachzulegen.
+Frau Hendricks würde jetzt wahrscheinlich folgendes tun: Jedesmal, wenn die Sonne in ihr Wohnzimmer scheint und zusätzliche Wärme gibt, geht sie mit dem Feuerlöscher hin und bläst den Ofen aus. Wenn sich eine Wolke vor die Sonne schiebt, zündet sie ihn wieder an und so weiter und so fort. Nach der Hälfte der Heizperiode dürfte sie dann bemerken, dass sie, anstatt zu sparen, doppelt so viel Holz wie normal gebraucht hat und der Holzvorrat aufgebraucht ist. Fraglich ist allerdings, ob sie erkennt, warum das so ist. Wahrscheinlich gibt sie dem Holzlieferanten die Schuld, weil er schlechte Ware geliefert habe und verklagt ihn.
+Ihre Aussage, dass die Stromkonzerne ja nur Geld verdienen wollten, wenn sie die Kraftwerke durchlaufen lassen, entspringt jenem sozialisten Neidkomplex gegenüber Leuten, die es durch Ihre Fähigkeiten zu etwas gebracht haben oder insbesondere gegenüber „Konzernen“, Geld verdienen geht gar nicht. Dieses „Argument“ wurde ja auch gegen die Kernkraft eingesetzt, um sie zu diskreditieren. Dass die bösen Konzerne überwiegend dem Staat gehören, kam diesen Agitatoren nicht in den Sinn. In BW flennen jetzt die oberschwäbischen Landkreise, die zu 45% an der EnBW beteiligt sind. Zu Kernkraftzeiten durften sie jährlich hunderte Millionen EUR einsacken, heute Null. Aber komischerweise gibt es kaum Kritik an der Energiewende, die zuständigen Landräte (meist CDU) sind auch schon so auf Linie gebracht, dass die Schuld bei allem anderen gesucht wird, nur nicht beim Hauptschuldigen. Der urschwäbische, rationale Verstand ist sozusagen durch die Windräder geschreddert worden.
+„Man kann nicht einfach gängige Begriffe aus der Sprache vollkommen verbannen, sonst schreiben wir noch „korrekt“ vom Zerknallgastreibling.“
+Sie benutzen schlichtweg gängige Propagandabegriffe und behaupten damit, daß diese korrekt sind.
+Sie kämen mit Sicherheit nicht auf die Idee „körperlich und geistig“ behinderte enschen als „lebensunwertes Leben“ und Slawen als „Untermenschen“ zu bezeichnen, denn das war das goebbelsche Vokabular der Propaganda. War damals übrigens gängig diese Begriffe zu benutzen, wie auch „planwirtschaftliche Maßnahmen“ für Massenmord.
+Wer derartige Begriffe ohne entsprechenden Hinweis auf ihren wahren Charakter benutzt, der identifiziert sich mit der darin enthaltenen Unwahrheit und den Zielen der Verschleierung der Wahrheit.
+„Schreiben Sie doch einen kleinen EIKE-Artikel zum Thema in Ihren Worten.“
+Warum sollte ich das tun? Weil Sie Propagandabegriffe übernehmen ohne sich damit über Ihre Identifikation mit der Propaganda im Klaren zu sein? Es sollte doch wohl reichen Sie darauf hinzuweisen, daß man Propaganda als solche auch zu kennzeichnen hat, wenn man deren Begriffe benutzt.
+Oder können Sie die Schäden, die die hier in Rede stehenden Strombereitstellungstechniken im Bereich der Flora und Fauna verursachen, nicht qualifizieren? Die Erkenntnis, daß wegen der Fehlallokation der ökonomischen Ressourcen noch weitere gravierendere Folgen zu verzeichnen sind, erwarte ich von Ihnen noch nicht einmal, da Sie ja Ingenieur sind und die ökonomischen Folgen in ihrer gesamten Konsequenz nicht erfassen können.
+Sehr geehrter Herr Maler,
+auch mich würde interessieren, was an der Grafik und der zugehörigen Tabelle „nicht passt“. Das etwas „nicht passt“ kann immer vorkommen. Ich habe das „nicht“ aber auch beim Nachsehen nicht gefunden.
+Also bitte konkrete Angaben dazu.
+Sehr geehrter Herr Heinzow,
+so ganz kann ich Ihre Einwände nicht mehr nachvollziehen. Wer in dem Artikel Propaganda fürs EEG sehen will muss schon leicht sektiererisch lesen. Man kann nicht einfach gängige Begriffe aus der Sprache vollkommen verbannen, sonst schreiben wir noch „korrekt“ vom Zerknallgastreibling.
+Schreiben Sie doch einen kleinen EIKE-Artikel zum Thema in Ihren Worten. Ich lese ihn dann aufmerksam und schaue, was ich an Wortwahl übernehmen kann.
+was ist mit Bild 7 und 8 los.
+Da passt etwas nicht !
+Hendricks kritisiert massiven Anstieg der Stromexporte
+Deutschlands Stromexporte sind 2015 auf ein neues Rekordhoch gestiegen. [Eigentlich eine sehr gute Nachricht.] Viel stammt aus Kohlekraftwerken. Gerade ältere Braunkohlemeiler erzeugen so günstig Elektrizität, dass sich ihr Betrieb auch bei einem Überangebot und entsprechend niedrigen Strombörsenpreisen rechnet.
+[Zusammengesetzte Sätze, außer eckiger Klammer, aus Spiegel Online, 28. Dez. 2015, Thema: Klimaschutz.)
+Man wähnt sich in einem Horrorfilm.
+Quelle: http://tinyurl.com/gtamdgr
+Die neuen Energien
+die Daten der Ökoenergie
+eine Jahresscheibe Ökoenergie analysiert
+Damit der Text für Nicht-Energietechniker aber nicht zu holprig wirkt, wird in Erklärungen umgangssprachlicher formuliert.
+Ökoleistungs- Bereitstellung und Stromverbrauch
+„Boom“ an Ökoenergie
+Die Differenz zwischen Verbrauch und Ökostromeinspeisung
+die Einspeisungen der verschiedenen Ökoenergie-Erzeuger
+denn bei der Ökoenergie
+Berechnete Einspeisungen an Öko-Energie vom 1.12.2014 – 30.11.2015
+Um die Ökoenergie zu rechtfertigen und einen Vorteil zu berechnen
+Die Ökoenergie-Ausbauziele
+Energiehöffigkeit
+Ökostrombereitstellung
+Einspeisung aus erneuerbaren Energien
+Simulierte Ganglinien von Verbrauch (schwarz) und Ökostrombereitstellung
+Kennt der Autor die beiden genannten Personen eigentlich? Und was ist seine Beurteilungsgrundlage?
+Ganz ähnlich sieht das wohl auch Dr.phil. Barbara Hendricks.
+http://tinyurl.com/gtamdgr
+Wo ist das Problem? Das da oben entspricht der Wahrheit. Man muß nur die Akteure einer politischen Herkunftsanalyse unterziehen und die Fakten wissenschaftlich bewerten.
+Mit wem begann die „Klimaforschung“ in Hamburg?
+Wer war IM Tulpe? Und was hat dieser Mann in Gang gesetzt?
+Wer gilt als Erfinder des Vorläufers des EEG?
+Die desaströsen Folgen der Überproduktion werden dagegen oft vergessen. Bereits heute – und bei weiterem Ausbau steigend – wird mehr Strom produziert, als er verkauft werden kann. Über das EEG ist es den Stromproduzenten egal, was der Markt aufnehmen kann.
+Alle anderen Produzenten im In- und Ausland geht das allerdings an die Substanz, denn die Marktpreise werden dadurch empfindlich unter die Wirtschaftlichkeitsgrenze gedrückt.
+Egal ob ein Kohlekraftwerk systemrelevant ist, französisches oder tschechisches KKW kostendeckend arbeiten will, oder das Geschäftsmodell der Pumpspeicherkraftwerke wegbricht: Die wirtschaftlichen Folgen für die EU-Partner ist angesichts der EEG-Dumping-Preise untragbar. Ich wundere mich, warum die jeweiligen Betreiber noch keine Klage dazu eingereicht haben.
+„Wie sieht es im Jahr 2050 aus, wenn alle konventionellen Kraftwerke abgeschaltet sind?“
+Dann wird die EU zusammen mit Nord-Korea in Personal-Union regiert, und nur Rohstoff-Gigant Russland liegt als marktwirtschaftliches Paradies dazwischen. Durch den natürlichen Klimawandel wurden Gebiete in Nord-Russland und Sibirien besiedelbar, wo es vorher zu kalt war. Die EUdSSR hat daher im Osten eine Europäische Mauer als antikapitalistischen Schutzwall errichtet, damit nicht Millionen Flüchtlinge in den gelobten Osten ins Russische Reich abwandern. Das Mittelmeer wird auch militärisch kontrolliert und Flüchtlinge werden aufgegriffen, nicht damit sie nicht nach Europa einwandern, sondern damit die Einwohner Europas nicht abwandern. Es herrscht der Schießbefehl. Nur die sunnitischen Muslime in Europa sind noch als anti-öko-sozialistische Widerstandsgruppen aktiv, die insgeheim von der erdölreichen Arabischen Union unterstützt werden. Im Nahen Osten und Nord-Afrika toben seit Jahrzehnten Stellvertreterkriege zwischen dem grünen Europa und dem marktwirtschaftlich orientierten umgebenen Staaten. Die Russische Union hat seit langem ein Zweckbündnis mit fast allen islamischen Staaten geknüpft.
+Die USA haben wegen dieser Spannungen in der alten Welt einen neuen Isolationismus an den Tag gelegt und haben sich über den Atantik zurückgezogen, deren Aktivitäten werden mehr und mehr in Richtung Pazifischer Raum abgewickelt. In Lateinamerika hat Rohstoffgigant Brasilien das Regiment übernommen, doch trotz kolonialer Interessen und Spannungen zwischen vielen Staaten bleibt der amerikanische Erdteil demokratisch geprägt, im Gegensatz zur alten Welt: ein öko-sozialistisches Europa, ein islamischer Orient, hinduistisches Indien und ein kommunistisch- nationalistisches China….
+Liege ich wirklich so falsch?

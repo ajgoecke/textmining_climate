@@ -1,0 +1,452 @@
+Insbesondere die viel bekannten, oft zitierten, oft interviewten Klimaforscher wie z.B. der bekannte Professor Stefan Rahmstorf verweisen bei ihren öffentlichen Vorträgen gern auf die strenge Wissenschaftlichkeit ihres Tuns.
+So auch hier in seinem Vortrag in Mainz anlässlich der Reihe „Physik im Theater“ der Uni Mainz am 2.11.19 und anderswo. Sind sachkundige Leute im Saal, dann kommt gelegentlich die Frage, wie es denn möglich sei, eine globale Mitteltemperatur auf 2 Stellen hinter dem Komma, mit nur ± 0,05 ° Unsicherheit zu berechnen, wenn die ursprünglichen Daten selber nicht nur eine sehr viel größere Messunsicherheit von bestenfalls ± 0,5 ° brächten, aber auch vielfältige systematische Fehler diese weit in den Bereich von mehreren Grad verschöben.
+Die Antwort darauf ist eigentlich immer dieselbe. Sie lautet, weil man Differenzen (im Jargon: Anomalien) aus zwei Absolutwerten bilde, also den aktuellen Wert von einem Referenzwert abzöge, seien diese sehr viel genauer, weil, und das wird impliziert, wenn auch selten dazu gesagt, sich dann die Fehler von selbst aufhöben, weil ja beide Werte denselben Fehler trügen.
+So auch Stefan Rahmstorf in besagtem Vortrag. Er sagte, dass nun mal die Anomalien sehr viel genauer seien, als die Absolutwerte, das sei wissenschaftlich klar belegt, und verwies in diesem Zusammenhang auf seine Website Spectrum.de Scilogs,wo er dieses ausführlich erklärt hätte.
+Nun, schaut man dort nach, dann wird zwar ausführlich erläutert, dass es – seiner Meinung nach- nur auf die Veränderung, also die Anomalie, ankäme, aber, obwohl er vorher versprach „Licht ins Dunkle zu bringen“ lässt er seine Leser weiterhin im Dunkeln, behält also die versprochen Erleuchtung für sich und erklärt nichts.
+Stattdessen wird dem Leser wortreich mitgeteilt, wie und auf welche Weise die meteorologischen Rohdaten weltweit – wenn auch sehr spärlich in Raum und Zeit verteilt – gewonnen wurden, und weiter erklärt, dass verschiedene Institute sich weltweit mit deren Auswertung beschäftigten, was natürlich einen gebührenden Eindruck beim Leser hinterlässt, um dann noch stolz zu betonen, dass deren Ergebnisse „dabei in hohem Maße..“ übereinstimmten.
+Dazu wird die Grafik (s.o) in Abbildung 2 gezeigt.
+Die Übereinstimmung ist in der Tat gut, wie jeder sehen kann, erklärt aber immer noch nicht, warum die Anomalien genauer sein sollten als die Absolutwerte, zumal jede Unsicherheitsangabe in der Grafik fehlt. Und beschreibt damit eigentlich auch nur die Selbstverständlichkeit, dass wissenschaftliche Auswertungen von immer denselben Daten auch zu sehr ähnlichen, bis exakt gleichen Ergebnissen führen müssen. Bspw. muss jede Messung der Erdanziehung, egal wie sie durchgeführt wird, immer auf einen Wert von 9,81 m/s2kommen. Kleine Unterschiede, bedeuten dann entweder Fehler oder sind Hinweise auf geologische Anomalien.
+Dann, etwas weiter im Text, verspricht Rahmstorf sich der eigentlichen Frage zu stellen:
+„Warum sind Differenzen genauer als Absolutwerte?“
+lautet zunächst vielversprechend die Überschrift des nächsten Absatzes.
+Aber wiederum zeigt er dann nur, dass er wohl bis heute selber nicht verstanden hat, was er den Lesern da eigentlich erzählt. Denn als einzigen Beweis stellt er die Behauptung auf:
+„Wohl jeder Wissenschaftler ist damit vertraut, dass man in vielen Fällen Differenzen bzw. Veränderungen einfacher bzw. genauer messen kann als Absolutwerte.“
+Nun muss noch mal erwähnt werden, dass nur Absolutwerte gemessen und Differenzen aus eben diesen nur errechnet werden können. Doch das begreift Rahmstorf wohl nicht, denn als Beispiel führt er an:
+„Um in Paris zu bleiben: gehe ich auf dem Eiffelturm eine Treppenstufe hinauf, kann ich leicht mit einem Lineal messen, wieviel höher ich dann stehe – aber wie viele Meter über dem Erdboden ich insgesamt bin, lässt sich schon schwerer feststellen.“
+Das ist zwar eine schöne Metapher, aber erklärt nun wahrlich nicht, warum Differenzen einfacher bzw. genauer gemessen werden können als Absolutwerte. Denn was er so nett beschreibt ist exakt die Messung des Absolutwertes der Höhe dieser Treppenstufe.
+Nichts anderes.
+Und die hat natürlich die üblichen Fehler einer Messung mit einem Lineal im Zentimeterbereich.
+Doch in einem hat er recht, von der Höhe der Treppenstufe lässt sich nun wirklich nicht ableiten, egal mit welcher Genauigkeit, wie hoch sich diese über Grund befindet. Dazu fehlt die zweite wichtige Angabe, nämlich deren absolute Höhe über Grund. Und die kann, ebenso wie die, die der Treppenstufe selber, nur absolut bestimmt werden.
+Offensichtlich hat er bis heute nicht begriffen, dass er mit diesem Vergleich seine eigene Argumentation ad absurdum führt. Nämlich, indem er wieder einen Absolutwert bestimmt, und diesen jetzt fälschlich zur Differenz erklärt. Differenzen müssen nun mal aus den Absolutwerten gerechnet und können nicht gemessen werden, da beißt nun mal die Maus keinen Faden ab. Und dazu braucht man von den Grundrechenarten die Subtraktion A-B = C. C wird errechnet und enthält somit nach der Fehlerfortpflanzung die Summenfehler von A und B. Genauer, die Wurzel der Summe der Quadrate der Fehler von A+B.
+Niemand misst die meteorologische Differenztemperatur in einer Wetterhütte.
+In dem er also die Höhe der Treppenstufe misst, schafft er das Problem nicht aus der Welt, er vernebelt es nur.
+Das allerdings tut er im Folgenden sehr wortreich. Zwischendurch konzediert er zwar, eher beiläufig, dass die Wetterstationen weltweit .. den Absolutwert der Temperatur, also z.B. 13,1 °C oder –5,4 °C“messen, lenkt dann aber die Aufmerksamkeit des Lesers auf, in diesem Zusammenhang völlig unwichtige, Nebenkriegsschauplätze. Und merkt das vermutlich nicht einmal selber.
+Um dann, statt Klärung und Beweis auf diesen allein wichtigen Punkt einzugehen, einfach so zu behaupten,..
+„Die klimatischen Veränderungen der Temperatur kann man dagegen viel genauer bestimmen: schon für die Monatsmittelwerte der globalen Temperatur auf plus oder minus einige Hundertstel Grad genau. Das liegt einfach daran, dass Abweichungen der Monatsmitteltemperatur großräumig korreliert sind: wie Datenanalysen ergeben haben über einen Radius von mehr als eintausend Kilometern (Hansen et al. 1999).“
+Abbildung 2: Verteilung der einbezogenen GHCN Messstationen nach Hansen & Lebedeff von 1870 bis 1960 sowie deren postulierte Abdeckung
+Das war’s. Kein Beweis, keine Herleitung. Nur eine Behauptung.
+Nun sind Korrelationen und Datenunsicherheiten zwei paar Schuhe, und der von ihm zitierte Herr Hansen hat sicher viel für die Klimapanik weltweit getan, aber in dessen hier zitierter Arbeit wird mit keinem Wort nachgewiesen, dass Anomalien genauer wären, als die ihnen zugrunde liegenden Absolutwerte. Es findet sich nichts darin, gar nichts, sondern nur mehrfache Verweise auf eigene frühere Arbeiten, insbesondere auf Hansen und Lebedeff 1987[1].
+Doch auch dort haben sie zwar die sehr kühne Behauptung aufgestellt, dass Wetterstationen, die bis zu 2400 km (1200 km Radius,) entfernt voneinander stünden, das ist immerhin die Entfernung Berlin – Malaga, immer hoch korrelierte Trends aufwiesen. Um im Umkehrschluss dann kühn zu folgern, dass deshalb nur einige wenige dieser Stationen ausreichten, um die globalen Trends der (Mittel-)Temperatur extrem genau zu berechnen. Und das, wie Rahmstorf seine Leser und Zuhörer glauben machen will „auf einige hundertstel Grad genau“. Aber auch dazu wiederum findet sich kein Wort, warum Anomalien genauer sein sollen, als ihre jeweiligen Bezugs- und Rechengrößen.
+In einem meiner früheren Artikeln zum Thema (hier) in dem ich diese Aussage untersuchte, schrieb ich deshalb:
+„Hansen ist auch derjenige, der 1988 dem amerikanischen Senat bei drückend heißem Wetter und unter tatkräftiger Mithilfe seines Kumpels -des Politprofis Al Gore- die Nachteile der künftigen vermutlich katastrophalen Erwärmung näherbrachte.
+In einem Aufsatz von 1987 [3] im damals noch angesehenen JOURNAL OF GEOPHYSICAL RESEARCH durften die Autoren „peer reviewed“ verkünden, dass es dank ihrer Forschung möglich sei, aus der Not eine Tugend zu machen. Nämlich aus der Not keine flächenmäßig ausreichende Abdeckung mit Klimamessstationen zu haben, die Tugend, diese auch gar nicht zu brauchen. Und nur deswegen, weil man nun die Vorzüge von Korrelationen für unbekannte Trends einzusetzen imstande sei.“
+…und über Fehler bzw. deren Größe und Korrektur findet man nur:
+„In der Zusammenfassung des Aufsatzes steht:
+“..Wir zeigen, dass die Temperaturen von Messstationen mittlerer und hoher Breite über 1000 km miteinander hoch korreliert sind. Bei Stationen in niederer Breite fällt die Korrelation mit der Entfernung stärker ab“
+Und etwas später ebenda:
+“.. Fehlerabschätzungen basieren in Teilen auf Studien wie genau die derzeitigen Stationsverteilungen in der Lage sind Temperaturänderungen in einem globalen Datensatz zu repoduzieren, die von einem dreidimensionalen GCM (General Circulation Model) mit realistischer Variabilität erzeugt wurden.“
+In diesem hochtrabenden, etwas verschwurbelten Satz steht also im Klartext:
+“ Wir haben eine Fehlerabschätzung (in Teilen? Welche Teile?) gemacht, indem wir die Ergebnisse mit Modellen, die „realistische“ Temperaturvariationen zuvor errechnet hatten, verglichen haben.“
+Also nix mit Realitätsvergleich, nix mit Überprüfung der Daten der einbezogenen Stationen, sondern stattdessen Überprüfung mit Modellen! Der künftige modellverliebte Kurs der Klimaforschung des IPCC wurde hier schon vorgezeichnet. „
+Und in diesem Beitrag „von Korrelationen und Anomalien“wird dann nochmals im Detail nachgewiesen, dass auch die Behauptung über die Nutzbarkeit von Korrelationen zur Trendbestimmung weit entfernter Stationen mit fehlerhaften Messungen absoluter Humbug ist.
+Zitat (Willis Eschenbach) daraus
+„Hansen und Lebedeff lagen richtig damit, dass die jährlichen Temperatur-Historien von weit auseinander liegenden Messstationen dazu neigen, gut korreliert zu sein. Allerdings lagen sie nicht richtig mit ihrer Meinung, dass dies für die Trends der gut korrelierten Temperatur-Historien gälte. Deren Trends können völlig ungleich sein. Im Ergebnis ist die Extrapolation von Trends aus einer bis zu 1200 km entfernten Messstation ein unzulässiges Verfahren ohne jegliche mathematische Basis.
+Soweit der pfiffige, misstrauische Willis Eschenbach.“
+Doch da Rahmstorf immer wieder denselben Unsinn erzählt, kann man wohl davon ausgehen, dass er vielleicht gelegentlich bei den Grundrechenarten etwas Nachhilfe benötigt, und von Fehlerrechnung – und -fortpflanzung auch nicht viel Ahnung zu haben scheint.
+Denn Böswilligkeit, um mittels bewusst falscher Behauptungen seine Ideen zu verbreiten, will man ihm ja nun wirklich nicht unterstellen.
+In diesem Zusammenhang möchte ich noch auf das ausgezeichnete Video vom Team Klimamanifest von Heiligenroth aufmerksam machen das den bezeichnenden Titel trägt
+Das #Verwirrspiel des Stefan @Rahmstorf (V3a)
+und sich intensiv mit der Verneblungstaktik im Wesentlichen von S. Rahmstorf beschäftigt, um nicht zugeben zu müssen, dass das Pariser Zweigradziel auf tönernen Füßen steht, bzw. ohne jede Grundlage ist. Es lohnt die Zeit zu investieren und es sich in ganzer Länge anzuschauen.
+[1]Hansen, J. and Lebedeff, S., Global Trends of Measured Surface Air Temperature, J. Geophys. Res., 1987, 92 (D11), 13345-13372.
+Zitat: „Differenzmessungen von Temperaturen stammen selbst stets aus Absolut-Messungen durch Thermometermessungen mit 0 °C als festem Bezugspunkt. “
+Schön, wenn schon der erste Satz grundsätzlich Falsches enthält, dass man sicher sein kann: Da kommt nichts mehr.
+Messungen in Kelvin, in Fahrenheit, in Rankine oder in Réaumur sind also böse und dürfen nicht zur Ermittlung von Differenzen herangezogen werden???
+Man braucht einen festen Bezugspunkt??? Falsch! Die Differenz von 1 nach 2 ist genauso groß wie von 8 nach 9 oder von -8 nach -7. Man sollte sich nur auf eine Einheit einigen.
+Temperaturänderung interessieren doch eh nur dann, wenn sich daraus spürbare Auswirkungen ergeben.
+Wenn sich meine Körpertemperatur von 37°C nach 40°C verändert, bin ich schwer krank. Das wird auch nicht besser (oder schlechter), wenn ich das in Fahrenheit (98.6 °F nach 104 °F), in Kelvin (310.15 K nach 313.15 K) oder in Rankine (558,27000 °Ra nach 563,67000 °Ra) oder in Réaumur (29,6 ºRé nach 32.0 ºRé) gesagt bekomme.
+Schönen Gruß
+Silke Kosch
+Auch die Kelvin-Skala verwendete bis vor kurzem (2018) als einen Fixpunkt den Tripelpunkt des Wassers, der bei 0,01°C liegt.
+“ Restlaufzeit“ zu kurz!
+Das Wort kommt wohl wie so vieles aus dem Amerikanischen, wo – in der Meteorologie (Klimatologie) der 30 jährige Mittelwert gern zum „normal“ ernannt wird, und die Abweichung davon streng logisch dann „Anomalie“ genannt wird.
+Unsere merkwürdigen Fernsehmeteorologen haben das natürlich gern übernommen (genau wie alle anderen „modernen“, so die starken Adjektive wie lieben und hassen – I love it – richtig übersetzt : ich mag es, oder „I hate it“ – „ich mag es nicht“ 1:1 mit ich „liebe es“ oder ich hasse es“ übernommen haben, daher auch der Unfug von „hatespeech“ Hassrede etc.) und reden gern davon, wie die Temperatur oder die Regenmengen etc. nicht mehr „normal“ sind.
+Und vergessen dabei, dass das einzig „normale“ beim Wetter die Veränderung ist.
+was ist so schwer daran zu verstehen, dass ein gemittelter Absolutwert relativ ungenau ist und eine gemittelte Anomalie sehr genau?
+Diese Tatsache findet sich doch in vielen Erkenntnissen.
+– Wir können feststellen, ob sich ein Gebiet im Mittel um wenige Millimeter hebt, sind aber nicht in der Lage, eine mittlere Höhe dieses Gebietes auf einen Dezimeter genau anzugeben
+– Wir können bei regelmäßigen Wiegen auf wenige Gramm genau feststellen, ob und wieviel wir zugenommen oder abgenommen haben. Das exakte absolute Gewicht anzugeben gelingt höchstens auf 500 Gramm genau.
+Und genauso ignorieren manche Leute, dass wir nicht in der Lage sind, eine halbwegs genaue absolute Durchschnittstemperatur anzugeben. Wo ist das Problem? Ein absolute Durchschnittstemperatur liegt irgendwo bei 14°C oder 15°C und wird mal so, mal so genannt.
+Schon der erste Satz im oben geschriebenen Artikel zeigt das Dilemma.
+„Immer wieder behaupten Klimafolgenforscher, dass Differenzen (Anomalien) viel genauer seien, als die zu ihrer Bildung zwingend erforderlichen Absolutwerte.“
+Falsch, man benötigt zur Ermittlung von Differenzen (Anomalien) keine Absolutwerte. Absolutwerte sind irrelevant, wenn man Veränderungen festzustellen will. Im Fall eines klassischen Thermometers muss ich nur wissen, welchen Temperaturabstand die Striche haben. Es muss keine einzige Zahl auf dem Thermometer stehen. Beträgt der Abstand zwischen den Strichen 1°C bedeutet eine Messung 2 Striche höher eine Veränderung von 2°C.
+Auch bei dieser Diskussion können die Leugner der globalen Erwärmung nur verlieren.
+Schönen Gruß
+Silke Kosch
+Und schwups haben Sie wieder gerechnet.
+Von einem fehlerhaften Wert auf den nächsten fehlerhaften Wert. Nur Ihre Differenz hat keinen Fehler. Sie kommen aus dem Wunderland.
+Der Gedanke hat seine Berechtigung, er paßt nur nicht auf die Ermittlung einer globalen Mitteltemperatur.
+Man/frau/div kann sich selbst über ein halbes Jahr täglich mit der selben Waage wiegen, hat damit auch immer einen ähnlichen systematischen Fehler (z.B. in der Federkonstante der Waage).
+Das ist aber nicht analog zur Ermittlung einer globalen Mitteltemperatur, für die
+* eine Menge von unterschiedlich fehlerbehafteten Thermometermessungen verrechnet werden müssen
+* über eine geringe, noch dazu stark zeitabhängige Stationsabdeckung beachtet werden muß
+und
+* Begleitumstände wie Urbanisierung von Meßstationen und die Errichtung von Asphaltbahnen bei Flugplatzstationen beachtet werden müssen.
+Es ist wie die durchschnittliche Massenzunahme der Menschen eines Landes berechnen zu wollen, wobei nur 100 Menschen sich im Zeitraum gewogen haben mit unterschiedlich fehlerbehafteten Waagen und von denen ein wachsender Teil die Katze mit auf die Waage stellt.
+Hier noch ein Zitat des Thermodynamikprofessors Ingo Müller:
+„Man kann nur soviel zunehmen, wie man auch ißt.“
+Bein meinen Thermometern verhält es sich ähnlich, ich muß den Vortageswert wissen, um ihn in Relation zu heute setzen zu können.
+In den Temperaturaufzeichnungen wurden früher keine Differenzwerte sondern absolute Temperaturen abgelesen und eingetragen. Was also soll dieses ganze „Anomalie – Geschwurbel“ ?
+Spricht man über Absolutwerte wäre es auch für den Laien ein Leichtes, dieses Lügenmärchen zum Einsturz zu bringen. Da fragt sich dann nämlich der Laie,was denn so dramatisches dran ist, wenn die März-Temperatur z.B. statt 5,5°C jetzt 5,7°C beträgt ? Reicht Beides, um zu frieren 😀
+wenn ich Ihren Ausführungen folge, gehören Sie zu denjenigen Menschen, die keine Brief-waage in ihrem Haushalt benötigen. Sie stellen sich einfach einmal auf Ihre Waage ohne Brief und dann anschließend mit Brief. Und siehe da, Sie wissen genau, ob dieser nun 19g oder 21g wiegt, damit Sie die richtige Marke aufkleben können.
+Es erübrigen sich Ausführungen, warum die so gemessene Anomalie (Gewicht des Briefes) keine bessere Genauigkeit hat als die Ihrer absolut messenden Waage. – Ganz einfach, probieren Sie es doch einmal aus! Gerne können Sie hier Ihre Ergebnisse und Erkenntnisse mitteilen.
+Falsch Frau Kosch.
+hier noch „mein Senf“ zu einigen Punkten.
+Zitat Admin: „Von einem fehlerhaften Wert auf den nächsten fehlerhaften Wert. Nur Ihre Differenz hat keinen Fehler.“
+Richtig. Oder anders ausgedrückt. Obwohl ich eine fast fehlerfreie Differenz habe, bekomme ich grob fehlerbehaftete Werte heraus, wenn ich versuche zu bestimmen, von welchem Absolutwert zu welchem Absolutwert sich etwas infolge einer Differenz verändert.
+Zitat H. Puschner: „Sie stellen sich einfach einmal auf Ihre Waage ohne Brief und dann anschließend mit Brief. Und siehe da, Sie wissen genau, ob dieser nun 19g oder 21g wiegt, damit Sie die richtige Marke aufkleben können.“
+Auch da sind wir uns völlig einig. Auch mit einer Waage, die eine Fehlertoleranz von 5% hat, kann man auf ein Gramm genau das Gewicht eines Briefes ermitteln.
+Wir sind uns also einig: Differenzen sind sehr genau zu ermitteln, obwohl die absoluten Werte große Ungenauigkeiten haben können.
+Die Aussage:
+„Ich habe mich einmal mit und einmal ohne Brief auf die Waage (Fehlertoleranz 5%) gestellt und ermittelt, dass der Brief 20 Gramm wiegt.“ ist sehr exakt.
+Die Aussage:
+„Ich habe mich einmal mit und einmal ohne Brief auf die Waage (Fehlertoleranz 5%) gestellt und ermittelt, dass sich das Gesamtgewicht von 100,000 kg auf 100,020 kg erhöht hat“ ist offensichtlich Unfug, da ich mein Gewicht mit dieser Waage nur auf 5 kg genau ermitteln kann.
+Der Wunsch, die Klimaforscher sollen doch gefälligst einfach sagen, von welchem Startwert aus die ermittelte globale Temperaturänderung zu rechnen sei, kann nicht seriös erfüllt werden. Eine solche Angabe wird höchstens mal im populärwissenschaftlichen Bereich gemacht, um interessierten Laien ein Gefühl zu geben, in welchem Bereich sich die Durchschnittstemperatur der Erde bewegt. Man kann dann auch einordnen, wie sich die Durchschnittstemperatur des eigenen Landes im Vergleich zum globalen Mittel steht.
+Eine sehr genau bekannte mittlere Temperaturänderung auf sehr ungenau ermittelte absolute globale Durchschnittstemperaturen zu beziehen, ist wissenschaftlich falsch und wird darum von Wissenschaftlern in der Regel nicht gemacht.
+Schönen Gruß
+Silke Kosch
+Sie gehen wohlweislich nicht auf den Kommentar von Herrn Gans ein.
+https://www.eike-klima-energie.eu/2020/06/23/von-den-grundrechenarten-ihrer-nutzung-in-der-klimafolgenforschung-und-herr-prof-dr-rahmstorf/#comment-253239
+Dabei ist das schon alles was man zum Thema wissen muss, falls sie weiter mit der Vorstellung leben wollen, das man Absolutwerte nicht braucht.
+Aber wenn es so schwer ist einen Startwert zu ermitteln, so wie sie as angeben, wie will man also die Aenderung ermitteln?
+Wie soll man ihrer Meinung nach die Durchschnittstemperatur in Deutschland mit einer nicht ermittelbaren Durschnittstemperatur der Erde vergleichen?
+Was sie sagen macht keinen Sinn.
+Am Ende sind die Temperaturaenderungen unbekannt und man muss sie aus einer Vielzahl von Werte herrausfiltern und berechnen. Wenn die ermittelte absolute globale Durchschnittstemperaturen ungenau sind, das geben sie oben genau so an, dann kann auch die Temperaturaenderung nicht besser ermittelt werden.
+Als Laie haben sie scheinbar keine Vorstellung wie das geht.
+Werner
+vorab, auch dieser Kommentar wird Sie nicht überzeugen können.
+Temperaturdaten von verschiedenen Stationen können Sie für den Zeitraum von 1991 bis 2019 z.B. Beispiel auf wetterkontor.de abrufen.
+Für die Zugspitze und für Münster habe ich das einmal gemacht.
+Die lineare Temperatur-Trendlinie zeigt für diesen Zeitraum von 30 Jahren bei der Zugspitze einen Anstieg von ca. 1°C;
+für Münster ca. 1,2°C.
+Die mittlere Temperatur auf der Zugspitze betrug über den betrachteten Zeitraum – 3,9°C.
+Die mittlere Temperatur in Münster 10,3°C.
+Jetzt haben Sie die Aufgabe, aus diesen Angaben einen Temperaturtrend und eine absolute Durchschnittstemperatur für ganz Deutschland zu bestimmen. Welches Ergebnis wird nach Ihrer Meinung genauer sein?
+Schönen Gruß
+Silke Kosch
+Ich weiss was sie meinen. Sie wollen sagen, dass man anhand von zwei Stationen keinen sinnvollen Mittelwert als Absolutwert ausgedrückt zum Beispiel für Deutschland und dann auch wohl nicht fuer die Welt errechnen kann. Da stimmen wir sogar überein. Da passt es aber nicht, das im Laufe der Zeit immer weniger Stationen bei der Mittelwertberechnung berücksichtigt worden sind. https://mehr-freiheit.blogspot.com/2010/04/manipulative-verminderung-der-anzahl.html
+Sie meinen, dass man anhand von wenigen Stationen im Vergleich der einzelnen Trendlinien feststellen kann, welche Änderung es gegeben hat und sie sagen, dass die qualitative Aussage dafür besser ist!
+Das sehe ich zum einen nicht so, weil sie bei wenigen Stationen nur lokale Einflüsse feststellen. Und ohne Betrachtung von Niederschlägen und Sonnenscheindauer und Windverhältnissen können sie alleinig durch Temperaturdaten sowieso keine Aussage zu einem Klimawandel machen. Abgesehen davon dass sie Einflüsse von Großwetterlagen und natürlichen Variationen kennen müssen, um eventuell einen menschlichen Einfluss feststellen zu können.
+Falls sie an einem weltweiten Messwerk interesse haben das Absolutwerte und die Differenzen angibt, gucken sie hier: http://temperature.global/
+Was sie aber mit ihrer Aufgabe nicht beantworten können ist die Gretchenfrage bei der Temperaturbestimmung, und da sehe ich auch keine Angaben bei Wetterkontor.
+Die Frage ist doch mit welcher Genauigkeit die Temperaturen bestimmt worden, wie die Fehlerbetrachtung aussieht und schlussendlich welcher Fehler für den Trend von 1 Grad C anzugeben ist.
+Ich sehe, dass die Seite auch Angabe für Sonnenscheindauer aufzeichnet. Wie wirkt sich das auf die Temperaturen aus? Haben sie die Daten ausgewertet? Ich vermute die heissen Tag sind sonning und trocken!
+Auch eine sehr interessante Aufgabe wäre die Trends für die Max und Min Temperaturen zu bestimmen.
+Ich wäre zum Beispiel etwas skeptisch wie die Mittelwertbildung stattgefunden hat.
+Die Mittelwertlinie ist ja nicht exakt in der Mitte von Höchst- und Tiefstwerten.
+Sie haben noch etwas Arbeit vor sich!
+Meinen Sie die DWD-Wetter-Station 01766 Münster/Osnabrück 52,13°N 7,70 °O, Höhe 48 m? Für 2019 erhalte ich folgende Jahres-Mittel-Temperaturen (°C)
+Münster 48 m;11,24;9,9
+Deutschland 317 m; 10,28;10,28
+Zugspitze 2964 m; -3,20; 10,0
+Deutschland hat eine mittlere Höhe von 317 m. Um die Stations-Temperaturen auf diese Höhe zu reduzieren habe ich einen Temperaturgradienten von 5 °C/km angenommen (Winter-Inversion!). Die reduzierten Werte sind in Spalte 3 zu finden. Die Übereinstimmung ist gut. (Anmerkung: Die Station 01766 hat an vielen Tagen keine Messwerte).
+Mal zum Begriff *Fehlertoleranz*: Bezeichnet die Fähigkeit eines technischen Systems, trotz Fehlern in Teilsystemen in der Gesamtheit zu funktionieren. Es ist ein Begriff, der mir aus der Meßtechnik unbekannt ist.
+Sie meinen wahrscheinlich einen relativen Fehler. Ein relativer Fehler ist aber keine Kennzeichnung bzw. Gütekennzeichen eines Meßgeräts, sondern ein Begriff für die Größe eines Fehlers zur Bezugsgröße.
+Im Anschluß an diese Ausführungen verwechseln Sie auch noch Anzeigegenauigkeit und Meßgenauigkeit und versteigen sich zu dem Schluß, mit einer Personenwaage auch einen Brief wiegen zu können. Das alles hat schon von Grunde her zu wenig *Hand und Fuss*, um noch näher darauf einzugehen.
+also das war bisher die schwächste Antwort. Ich interpretiere das jetzt einmal so, dass Sie sehr genau wissen, das meine Ausführungen richtig sind, aber weil Sie das hier nicht zugeben wollen, schwadronieren Sie etwas von nach Ihrer Meinung nicht richtig genutzten Begrifflichkeiten.
+Auch das ist eine bekannte Möglichkeit, sich nicht mit Inhalten beschäftigen zu müssen, bzw. von ihnen abzulenken. Kommt gleich hinter „Erneuerbare Energien gibt es nicht.“
+Schönen Gruß
+Silke Kosch
+Schönen Tag, Frau Kosch.
+Tatsächlich setzt der Gedanke (und Herr Prof. Puschner hat diesen nicht im Ernst ausgesprochen) voraus, daß es ein strenges Gewichtskraft- Zeiger*Innenausschlags-Gesetz (welches am besten noch linear ist) gibt, welches auch bei kleinen Massendifferenzen wirkt.
+Dem ist aber nicht so, da alle Waagen eine Mechanik besitzen, die „klemmen“ kann.
+Bei einer rein mechanischen Waage ist das am deutlichsten, wenn man/frau/div sich vorstellt, daß der/die Zeiger*In hängen bleibt. Waagen mit elektronischem/r Meßaufnehmer*In wohnt das Problem *Inne, daß Ladungen nicht vollständig abfließen (Piezo-Druckaufnehmer*In) oder daß sich Leiter*Innen beim Stromdurchfluß erwärmen und somit die 0 nicht genau erreicht wird nach Ende der ersten Messung.
+ps: zur besseren Lesbarkeit wurde die Gendersprache beibehalten, aber die Rechtschreibverschlimmbesserung nicht beachtet.
+Typisch Frau? Sehr wahrscheinlich, denn in der Wissenschaft gibt es keine Leugner.
+Lügner und Leugner gibt es hauptsächlich in der Politik und unter den "Freunden" der Politiker.
+Die Frau möge doch mal einen Blick auf die täglichen Temperaturdaten mitten in den USA fernab der Städte und Flüsse werfen. Ob die da erkennen wird, daß von 1880 bis 1930 die Temperaturen nach oben gingen und nach 1950 wieder nach unten? Erwärmung da? Nicht der Fall.
+Schönen Gruß
+Silke Kosch
+Spaß beiseite, in der Wissenschaft gibt es Abstreiter*Innen, die eine These bezweifeln, mit mehr oder weniger guten Gründen. Man/frau/div kann z.B. abstreiten, daß viele der schlimmen Krankheiten von den kleinen Tierchen unter dem Mikroskop herrühren. Damit liegt man/frau/div sogar *Innerhalb des Konsenses – allerdings von dem vor 1847. Angenommen jemand (Semmel-)weist auf eine Beinahegleichzeitigkeit von:
+a) Leichensektionen
+b) Kindbettfieberfällen
+hin. Dann kann der Konsens nicht mehr gehalten werden, zumindest nicht für lange.
+Wenn man/frau/div weiterhin feststellt, daß die Kindbettfieberfälle immer NACH den Leichensektionen auftreten und nicht umgekehrt…
+Ich empfehle Ihnen für den Anfang, daß Sie sich zwei Diagramme anschauen auf der (nicht gerade klimaskeptischen) Seite klimareporter*In.info:
+Fieberkurve des Planeten:
+https://www.klimareporter.de/erdsystem/die-fieberkurve-des-planeten
+Sintflut 2.0
+https://www.klimareporter.de/erdsystem/sintflut-2-0
+Ihnen müßte etwas auffallen ……
+Wenn ich eine Differenz zu einem Reverenzwert eines definierten Zeitraumes ermittle, ist da zunächst einmal nichts verkehrtes. Dann sollte man nachschauen wie dieser Reverenzwert zu Stande kam, Messen war mit Sicherheit dabei. Und zu behaupten, weit auseinander liegende Messstationen haben eine gute Korrelation in ihren Trends, ist einfach eine kühne Behauptung.
+Absolute mittlere globale Temp.werte wurden wie Standarten ins Feld getragen u. heute lässt man sie dort zurück. Eine „hingerechnete“ mittlere Temp. gibt man als natürlichen Treibhauseffekt aus. Mal liegt diese bei 15°, mal bei 14°. Man führt Stefan-Boltzmann an u. weiß, dass die Erde kein idealer Strahler ist… Und dann kommt man mit: Na ja, so genau können wir die globale Mitteltemp. ja gar nicht bestimmen (das ist so ziemlich die einzig wahre Aussage!), aber ist ja auch egal, wir wissen ja, dass es wärmer wurde… hm und woher? Na aus der Differenzbildung. Ach so, na dann …
+Primitiver geht es nicht. Und Hansen hat mal eben seine globalen Mitteltemp. von 15,.. auf 14,.. geändert. Aber das ist egal, „an den Grundaussagen ändert das ja nichts“ O-Ton Mr.R.
+Die historische Chronologie kurz-und-knapp, aber korrekt zusammengefasst. GENAUSO hat sich der Schwindel seit über 30 Jahren abgespielt.
+Testen wir einmal die Behauptung von Willis Eschenbach am Beispiel der Jahres-Mittel-Temperaturen von Deutschland und England (CET) im Zeitraum 1950-2019.
+Trend (mit Autokorrelation und systematischem Fehler von 0,1 °C)
+Deutschland 0,26 +/- 0,05 °C/Dekade
+England 0,17 +/- 0,06 °C/Dekade
+Anomalien Basis (1961-1990)
+Deutschland 2,05 °C
+England 0,84 °C
+Temperaturen 2019
+Deutschland 10,3 °C
+England 10,3 °C
+Je nachdem wie man die Zahlen betrachtet kann man behaupten Eschenbach hat recht bzw. unrecht. Für die Beurteilung der Lage reichen mir die beiden letzten Temperaturwerte völlig aus – frei nach Shakespeare “ Viel Lärm um Nichts“.
+So ist es. Und alle beten das nach.
+Bei seinen, in 2 Sprüngen über einen Abgrund, hat Rahmstorf noch einiges vor sich:
+Von den 15° unseres Sommerplaneten (in vorsätzlich falscher Relation zu -18° eines halluzinierten Eisplaneten) betreffen 17° die Meeresoberfläche und 10° die Landoberfläche.
+99,9 % des Wärmetransports findet in den Ozeanen statt, aber die 0,1 % in der Atmosphäre werden dennoch vorsätzlich falsch modelliert: jedes ppm des Giftgases soll eine apokalyptische Zunahme der ozeanischen Wärme [-menge,-zirkulation] verursachen.
+Nun zu seinem abenteuerlichen Stufenvergleich auf dem Eiffelturm. Fragen wir doch den Herrn Rahmstorf einmal folgendes: Die obere Treppenstufe ist von der Sonne beschienen und die darunter liegende ist im Schatten. Mit welchem Wunderthermometer, Herr Rahmstorf, können Sie jetzt die Differenztemperatur, das entspricht Ihrer Anomalie, zwischen der unteren und der oberen Stufe messen? Haben Sie ein Thermometer mit zwei Enden entwickelt, ein Ende für die untere Stufe, das andere für die obere Stufe? Und dann sagt Ihnen Ihr Wunderthermometer, ohne zu wissen ob es Winter oder Sommer ist, zwischen beiden Stufen ist ein Temperaturunterschied z. B. von 2,318°C?!
+Herr Rahmstorf, was Sie mit Ihren Händen in den Hosentaschen erzählen, ist Lüge und Betrug. Betrug deshalb, weil Sie ähnlich einem Sektenführer Gläubige um sich versammeln wollen, die Ihnen einen solchen Mist abnehmen (Irrtumserregung) und Ihnen zu weiteren unverdienten Forschungsgeldern verhelfen sollen, sich als zahlende Mitmenschen also selbst schädigen. Meinen Vorwurf bin ich bereit zurückzunehmen, wenn Sie mir Ihr Wunderthermometer erklären oder auch eine Patentschrift hierzu benennen. Wenn nicht, bleibt es dabei. Sie gefallen sich darin, Ihr Publikum als Professor und im Namen und unter Missbrauch der Wissenschaft zu belügen. – Überlegen Sie doch einfach einmal, wie weit Sie von einem Albert Einstein oder Stephen Hawking oder auch Albert Schweitzer entfernt sind. – Oder anders ausgedrückt: Versuchen Sie einfach, Ihre Anomalie zu verantwortungsvollen Menschen zu bestimmen! Wo Sie absolut stehen, will ich besser gar nicht wissen!
+Trotzdem fällt auf, dass Rahmstorf bei dem ganzen Vortrag sehr nervös wirkt. Es ist deutlich zu erkennen, dass er sehr grossen Wert darauf legt, kein falsches Wort zu sagen und überhaupt ist seine Stimme während des gesamten Vortrages ungewohnt zittrich. Rahmstorf wirkt irgendwie „angezählt“.
+Der Vergleich bezieht sich nicht auf die Messung von Temperaturen mittels Thermometer.
+Selbst bei Vorliegen fehlerfreier, lückenloser absoluter Temperaturmessungen in einem dichten Stationsnetz bleibt das von Rahmstorf anhand der Eiffelturmmessung verdeutlichte „Kartierungsproblem“ bestehen. Es liegt an der topographisch und klimatologisch bedingten Variabilität der absoluten Temperatur über den Globus. Die Variabilität der Anomalien ist hingegen viel kleiner.
+Das Kartierungsproblem ist ein weiteres, dass Rahmstorf mit seinem Exkurs auf Hansen meinte beseitigt zu haben. Dem ist aber nicht so. Die grundlegende Arbeit dazu die von Hansen & Lebedeff von 1987 ist – wie im Text angemerkt – Kokolores.
+Schließlich verstehen dies viele Blogteilnehmer offensichtlich nicht und im Artikel ist es falsch dargestellt!
+Das ist völlig falsch. Was haben Sie sich angeschaut und/oder gelesen? Das im Artikel behandelte kann es nicht sein.
+Denn Rahmstorf bezog sich anfangs ausschließlich auf die Genauigkeit der Anomalien vs Absolutemperatur, fügte eine Behauptung an die andere, verwies als Beweis auf Literatur, bei der ein solcher Beweis nicht erbracht wird, aber dann auch noch ablenkend auf Korrelationen weit entfernter Messstationen verwiesen wird, von denen fälschlich behauptet wird, deren Trendverläufe seien – dank Korrelationen bis runter auf 0,3- sehr ähnlich.
+Komisch, so gut wie alle verstehen das, nur Sie, Herr Dreßen, und Herr Aigner nicht.
+Kann nur am Artikel liegen. So einfach ist das.
+Woher wissen Sie das, lieber Admin? Ich habe hier im Thread lediglich einen Kommentator darauf aufmerksam gemacht, dass bei der Anwendung des Fehlerfortpflanzungsgesetzes die Voraussetzungen beachtet werden müssen, zu Rahmstorfs Beitrag und ihren Ansichten darüber habe ich überhaupt nichts geschrieben.
+Ist schon lustig, was man hier im Kommentarforum erleben kann.
+Aber wo Sie mich darauf ansprechen, Sie schreiben im Artikel:
+„Das ist zwar eine schöne Metapher, aber erklärt nun wahrlich nicht, warum Differenzen einfacher bzw. genauer gemessen werden können als Absolutwerte. Denn was er so nett beschreibt ist exakt die Messung des Absolutwertes der Höhe dieser Treppenstufe.“
+Da fällt mir auf, dass Sie die Analogie nicht verstanden haben. Ich verzichte aber gerne auf weitere Diskussionen hier.
+https://www.netdoktor.de/symptome/tremor/
+Außerdem kann man das Zittern je nach Frequenz und Intensität in verschiedene Formen einteilen:
+niederfrequenten, vergleichsweise ausladenden Tremor mit einer Frequenz von weniger als vier „Ausschlägen“ pro Sekunde (4 Hz)
+mittelfrequenten Tremor mit Zitterbewegungen von 4 bis 7 Hz
+hochfrequenten Tremor, der sich als feines Zittern mit bis zu 15 Hz äußert
+Der Wahnsinn hat doch Methode. Das machen doch alle Meteorologen. Der astronomische Sommer wird umbenannt in meteorologischen Sommer.Ist das Wetter Anfang Juni in Deutschland nicht gerade sommerlich, sucht man ihn in Indien oder in Sibirien. Der astronomische Sommer beginnt jedoch überall zur gleichen Zeit. Ist der Sommer in Deutschland da sucht man sofort nach der Deutschen Hitzewelle mit Hilfe von Vorzeige-Wetter-Stationen. Da ist der sprachliche Übergang von Temperatur zu Temperatur-Anomalie doch auch nur eine Treppenstufe zur Spitze des Eiffelturms. Andere Stufen sind die irreführende Verwendung des Begriffes „forcing“. Der Begriff „forcing“ basiert auf der Beschreibung kleiner Abweichungen vom Gleichgewicht. Dies ermöglicht mathematisch gesehen eine Linearisierung der Probleme. Allerdings sind die jahreszeitlichen Abweichungen vom Gleichgewicht keineswegs klein. Da kriegt man nicht nur einen Schweiß-Ausbruch, sondern auch Bauchschmerzen.
+24. JUNI 2020 UM 18:15
+Ich beziehe mich hierauf im Artikel:
+„So auch Stefan Rahmstorf in besagtem Vortrag. Er sagte, dass nun mal die Anomalien sehr viel genauer seien, als die Absolutwerte, das sei wissenschaftlich klar belegt, und verwies in diesem Zusammenhang auf seine Website Spectrum.de Scilogs,wo er dieses ausführlich erklärt hätte.“
+Er schreibt darin:
+„war das Jahr 2017 um 0,90 ± 0,05 °C wärmer als der Mittelwert über den Zeitraum 1951-1980. …Der Grund dafür ist, dass sich die Veränderungen der globalen Temperatur wesentlich präziser messen lassen (auf ein Zehntel Grad genau) als ihr Absolutwert (der nur auf rund ein Grad genau bekannt ist). Und bei den Auswirkungen der globalen Erwärmung auf Mensch und Natur kommt es auch nur auf diese Veränderung an. …“
+Also geht es offensichtlich um die globalen Mittelwert absolut vs. Abweichung und nicht um die Genauigkeit von Thermometerablesungen.
+Es ist wirklich ermüdend:
+Wie sollen denn Mittelwerte genauer werden, als die ihnen zugrunde liegenden Einzelwerte? Von echten zufälligen Fehlern abgesehen, sind ja immer noch die systematischen Fehler da. Die verschwinden doch nicht. Ist das so schwer zu verstehen?
+Und Rahmstorf bringt dann noch das Gleichnis von der Treppenstufe des Eifelturms. Ein typischer Einzelwert. Singulärer geht nicht.
+Wie muss man gestrickt sein, um diese einfachen Zusammenhänge so offensichtlich falsch umzuinterpretieren.
+Arbeiten Sie vielleicht für eine NGO im Politik Bereich? Das würde manches erklären.
+Sie zitieren nun aus Rahmstorfs Beitrag:
+„Der Grund dafür ist, dass sich die Veränderungen der globalen Temperatur wesentlich präziser messen lassen (auf ein Zehntel Grad genau) als ihr Absolutwert (der nur auf rund ein Grad genau bekannt ist). Und bei den Auswirkungen der globalen Erwärmung auf Mensch und Natur kommt es auch nur auf diese Veränderung an. …“
+Hier geht es unbestreitbar um globale ,also räumliche Mittelwerte. D.h. hier geht es alleine darum, wie gut man aus punktweise über den Globus verteilten Temperaturreihen von absoluten Temperaturen an Stationen und über eine Umrechnung dieser Werte auf ein globales Netz letztlich eine Temperaturkarte des Globus zu jedem Zeitpunkt der Reihe bekommt. Daraus ergibt sich dann per Integration über den Globus das globale Mittel.
+Um von den an diskreten Punkten (Stationsorten) auf kontinuierlich über den Globus verteilte Temperaturen (Temperaturkarte) zu kommen, muss für jeden Punkt auf dem Globus aus den vorhandenen Stationswerten eine Temperatur abgeschätzt werden, die für diesen Punkt höchstwahrscheinlich zutrifft. Wie bei jeder Kartierung (egal welcher Parameter, kann auch die Höhenlage oder Cs137-Aktivität etc. sein) setzt man dazu Optimierungsverfahren ein, die die Gewichtungsfaktoren (0…1) für die Daten der umliegenden Stationswerte ermitteln, die für diesen Punkt optimal sind und aus denen sich der Schätzwert an diesem Punkt durch gewichtete Summation der Stationswerte ergibt. Ein Schritt dabei ist das Korrelationsverfahren. Das ist nun keine Hexerei, sondern Standard für jeden Kartographen.
+Der Punkt von Rahmstorf ist allein, dass dieses Verfahren für Anomalien zu höherer Genauigkeit führt als für absolute Temperaturwerte, denn diese haben eine größere geographische Variabilität. Das schrieb ich schon und auch Rahmstorf hat es erklärt. Es geht also alleine darum. Und das Eiffelturm Beispiel bezog sich alleine darauf, und NICHT auf die Temperaturmessung an den Stationen! Bei Eiffelturm geht es nicht um Messfehler bei der Temperaturmessung, sondetn um die Unsicherheiten der Ermittlung eines absoluten globalen Temperaturmittels im Vergleich zur entstrechende Anomalie, denn bei den Anomaliedaten der Stationen werden die topographisch und lokalklimatologisch bedingte systematischen (!!) Unterschiede zwischen den Temperaturreihen verschiedener Stationen bereits bei der Anomaliebildung rausgerechnet, denn diese schlagen sich im unterschiedlichen Stationsmittelwert nieder!
+„Wie sollen denn Mittelwerte genauer werden, als die ihnen zugrunde liegenden Einzelwerte?“
+Diese Frage wurde bei Rahmstorf gar nicht behandelt, denn es ging um die Genauigkeit von globaler Anomalie verglichen mit globaler absoluter Temperatur, die 10x ungenauer ist.
+„Und Rahmstorf bringt dann noch das Gleichnis von der Treppenstufe des Eifelturms. Ein typischer Einzelwert. Singulärer geht nicht.“
+Nein, eben nicht! Die Treppenstufe ist eben kein Gleichnis für einen Einzelwert, sondern für die Anomalie des GLOBALEN. Im ganzen Text geht es niemals um die Genauigkeit von Einzelwerten an Stationen, sondern nur um die Genauigkeit der globalen Kartierung auf Basis von diskreten Stationsdaten von absoluten vs. relativen Werten.
+PS
+Ist leider etwas langgeworden, aber es wäre wichtig, diesen Punkt einfach mal zu klären und Blogteilnehmer nicht zu mit falschen Schlußfolgerungen zu hinterlassen. Ich hoffe, Sie veröffentlichen dies.
+Wenn Sie sich statt mit sophistischen Überlegungen zur vermeintlichen Rahmstorfschen Gedankenwelt mit der tlw. zitierten Originalliteratur beschäftigt hätten, dann wüssten Sie, dass es einzig und allein darum geht, wie man aus den Millionen von Einzelmessungen der Absolutwerte zu lokalen tausenden von Anomalien gelangt, in der falschen Annahme, dass sich bei Bildung der Anomalie die Fehler ausgleichen.
+Da haben wir also immer
+1. die Einzelwerte über der Zeit
+2. die Berechnung der Anomalien aus denselben
+3. die Berechnung des globalen Mittels
+mit der falschen Genauigkeit.
+Das ist nun mal so, und eigentlich auch vernünftig, mit der Einschränkung, dass man zur Kenntnis nehmen muss, dass nur die wirklich zufälligen Fehler verschwinden, alle anderen sich aber gem. dem Fehlerfortpflanzungsgesetz auch in der globalen Anomalie abbilden, weil man sie zwar qualitativ kennt aber quantitativ nicht, und deshalb auch nicht korrigieren kann.
+Solange Herr Petersen u.a. nicht begreifen, dass diese Verfahren gegen elementare Fakten der Metrologie verstossen, ist jegliche Debatte sinnlos. Wenn sich durch diese wundersame Weise Messfehler verkleinern ließen, wäre das Messwesen schon längst drauf gekommen: Man mißt nur häufig genug und alle Fehler mitteln sich durch Geisterhand und Taschenrechner mit vielen Nach-Kommastellen wech, egal was für eine Gurke meine Referenz ist …. , schöne heile Klimatologenwelt. Und wenn es trotzdem nicht passt, wird „justiert“ ….
+So sehe ich das auch. Wenn er sich nicht besinnt und dazu sapere audet verwendet ist Hopfen und Malz verloren.
+„Herr admin, ich fände es einen wahren Fortschritt, diesen Punkt wirklich zu klären!“
+Herr Petersen,
+kennen Sie eigentlich die Haupt-Fehlerquellen bei der Bestimmung der globalen Temperatur-Anomalie?
+(1) Flächen-Elemente mit unbekannter Temperatur: Hauptfehler: es werden unbekannte Land-Temperaturen mit Hilfe von Ozean-Temperaturen geschätzt.
+(2) Veränderung der Meereis-Bedeckung: bei Meer-Eis zählt die Luft-Temperatur in 2 m Höhe bei Wasser die Wasser-Temperatur. Nach Berkeley Earth ist die globale Jahres-Mittel-Temperatur 2019 für Meereis:=Wasser-Temperatur 15,5°C, für Meer-Eis:=Luft-Temperatur 14,5 °C
+Ich bezweifele jedenfalls, dass der Fehler der globalen Jahres-Mittel-Temperatur-Anomalien nur etwa 0,05 °C (Gistemp) sein soll. Hier wird schön gerechnet. Im übrigen sagen Temperatur-Anomalien nichts aus. Herr Rahmstorf gibt doch implizit zu dass er das Temperatur-Profil der Erd-Oberfläche nicht kennt. Ein Armutszeugnis für einen Wissenschaftler, wenn er sich mit Notlösungen zufrieden gibt.
+Das schreibt ein Sverre Petersen.
+Der Herr scheint nicht zu wissen, daß man aus realen Punktwerten keine Flächenwerte bilden kann, die der Realität entsprechen. Der Mann kennt auch nicht die Meßgenauigkeit der Schiffsbesatzungen. Woher auch. Selbst gemacht in offizieller Mission und verglichen mit Messungen von höchster Genauigkeit haben es nur wenige Menschen, z.B. die Teilnehmer an der internationelen Studie GATE im Jahr 1974 im Mittelatlantik auf ca. 30° W und 10° N. Und wer hat denn schon am Nordkap und um zu ebenfalls Meteorologie betrieben?
+Zuverlässige Meßwerte über den Ozeanen in hinreichender Auflösung gibt es immer noch nicht.
+Bereits an Land sind die Meßstationen teilweise absurd hingestellt. Die Station Lübeck kann sich jedermann von der Straße im Westen des Flughafens anschauen.
+„Veränderungen der globalen Temperatur “ kann man nicht messen. Erkennen sie nicht mal den Hauptfehler in der Aussage von Herrn Rahmstorf?
+Sie verlieren jedwede Glaubwuerdigkeit, wenn sie den Unsinn von Herr Rahmstorf so verteidigen.
+Zitat: Mit welchem Wunderthermometer, Herr Rahmstorf, können Sie jetzt die Differenztemperatur, das entspricht Ihrer Anomalie, zwischen der unteren und der oberen Stufe messen?
+Das „Wunderthermometer“ heißt Differential-Thermometer und kennt eigentlich jeder gute Heizungsbauer.
+Mfg
+Werner Holtz
+das ist spitzfindig. Geht aber auch an der Sache vorbei!
+Wecken sie mich wenn die metereologischen Dienste anfaengen Temperaturen nur noch als Differenzen zu messen!
+das von Ihnen angeführte Wunderthermometer wird zwar unter Differential-Thermometer angeboten und gehandelt, ist aber tatsächlich ein 2-kanaliges Gerät, welches zwei absolute Temperaturen misst. Wenn man die dann voneinander abzieht hat man eine Differenz. Das ist aber nicht die Rahmstorf’sche Anomalie. Sie beschreiben genau das, was Sie tun müssten, wenn Sie für die Treppenstufenmessung kein Lineal hätten, mit welchem Sie einen Bezug zur unteren Stufe herstellen können. Das Heizungsbauer-Thermometer entspräche der Messung von 2 Werten über dem Grund. Was der gute Heizungsbauer also kennt, sind 2 Sensoren mit 2 Messwerterfassungen mit ihren jeweils eigenen Fehlern, die natürlich untereinander nicht wissen können, dass ihre Ergebnisse einmal mathematisch zu einer Differenz verknüpft werden. Wenn man das dann Anomalie nennt, verringern sich die Messfehler der beiden unabhängigen Messsysteme natürlich nicht.
+Einfach ausgedrückt: Es gibt kein Temperaturmessgerät, dem man sagen kann, was du jetzt misst merkst du dir als Nullpunkt, und was du später misst, misst du einfach als Differenz zu dem gemerkten Wert. Bei Spannungsmessungen sieht das ganz anders aus. Wenn Sie auf eine 1000V-Batterie noch eine Knopfzelle mit 1,2V draufsatteln, können Sie einmal die Spannung zwischen 0V und den 1000V messen und zum anderen die Spannung zwischen 0V und 1000V + 1,2V messen. Sie können aber auch die Spannung der Knopfzelle von 1,2V direkt messen, falls die Knopfzelle Ihre Anomalie darstellen soll.
+Damit aus den absoluten Temperaturmessungen eine Anomalie abgeleitet werden kann, hat man beim PIK eine Methode entwickelt, die mit „Adjustieren“ bezeichnet wird. Das kling sehr wissenschaftlich, dient aber einzig dazu, Messfehler der absoluten Messungen zu verkleinern, was aber nun wirklich nicht geht. Vielleicht ist das eine Art künstliche Intelligenz (KI), wenn die eigene nicht ausreicht und man die gewünschten alarmistischen Werte nicht erhält, falls man die erprobten messtechnischen Lehren anwendet.
+Ganz kurz: Das von Ihnen mit Differenzial-Thermometer bezeichnete Heizungsbauer-Gerät ist nicht das, was es durch seinen Namen verspricht. Es misst keine Differenzen, sondern 2 absolute Temperaturen, die erst nach der Messung zur Differenzbildung herangezogen werden. Da ist das Lineal des Herrn Rahmstorf schon ein Stück weiter. Es misst den Treppen-abstand so, wie ein Spannungsmesser die vorab erwähnte Knopfzellen-Spannung. Der Betrug liegt darin, dass er das als gemessene Anomalie wie bei Temperaturmessungen verkaufen will. Armselig, was dieser Mensch sich so alles ausdenkt, um seine Sekte zu vergrößern.
+Super, man stürzt sich gleich auf das „Differential-Thermometer“ vom Heizungsbauer.
+Schauen Sie bei Leslie Differential-Thermometer oder Rumford Differential-Thermometer das Prinzip ist das Gleiche. Ein Differential-Thermometer hat immer zwei Messpunkte, sonst könnte man keine Differenz messen. Die elektronischen Differential-Thermometer arbeiten mit der Thermospannung als Differenzindikator.
+Mfg
+Werner Holtz
+Zitat: ..wissen Sie welche Toleanzen und Messfehler Thermoelemente haben?
+Ja, habe jahrelang mit und für die PTB gearbeitet.
+Und um die Toleanzen und Messfehler geht es primär erstmal nicht. Die Präzision-Differential-Thermometer schaffen es eine Genauigkeit von ±0,1 mK über einen weiten Temperaturbereich zu halten und haben eine Ansprechzeit (Response Time) von 2-5 Sekunden.
+Zitat: Der Prof. hat völlig recht mit seinen Ausführungen.
+Nein, hat er nicht.
+Ein Thermometer, das sich Differential-Thermometer nennen darf, muss die physikalischen Spezifikationen (Norm) eines Differential-Thermometers erfüllen, muss also einen Differenzindikator für die zwei Messpunkte haben. Wäre dem nicht so, würde man das gar nicht als Differential-Thermometer von der Technischen Normungs-Stelle lizenziert und abgenommen bekommen, müssten Sie als Ingenieur doch wissen.
+Beim Differential-Thermometer für die Heizungsbauer, zum Beispiel für das Therma Differential Kit mit digitaler Anzeige für das Thermometer, dabei kann man zwei Thermoelement Typ K-Sonden gleichzeitig nutzen. Die Anzeige der Temperatur kann auf Sonde T1 oder T2 oder den Unterschied zwischen den Sonden T1 und T2 (T1-T2) umgeschaltet werden.
+Mfg
+Werner Holtz
+gerade stelle ich mir vor, wie Herr Rahmstorf mit dem Leslie Differential-Thermometer und über die Differenzdrücke von zwei Glaskugeln umfassten Luftvolumen sein Anomalien erzeugt. Nach Ihren Vorstellungen ist das wohl ganz einfach. Um die Anomalie in der Temperatur der Luft gestern um 12.00h und heute um 12.00h zu bestimmen, nimmt man die linke Glaskugel für „gestern“ und versteckt am besten die rechte Glaskugel irgendwo. Dann wartet man den nächsten Tag „heute“ ab und versteckt die linke Glaskugel, die sich ja nach Ihren Vorstellungen die Temperatur von gestern gemerkt hat, und lässt auf die rechte Glaskugel die Umgebung einwirken. Und dann haben Sie die Anomalie zwischen gestern und heute. Glauben Sie wirklich, dass das funktioniert?
+Sie könnten ja mal Herrn Rahmstorf fragen, wie er seine Anomalien misst. Das muss für ihn doch ganz einfach zu erklären sein auch ohne so blöde Beispiele wie Treppenstufen des Eiffelturms oder die Hütte auf dem Berg.
+Also, mich können Sie mit Wikipedia Einträgen nicht mal eben überzeugen, da erwarte ich schon nachvollziehbare Erklärungen, wie man eine Temperaturanomalie misst. Man bleibt dann am besten auch bei dem Parameter Temperatur und nicht bei mit dem Lineal gemessenen Treppenstufen-Abständen. Einverstanden?
+Auch bei den hochauflösenden Differenzthermometern gibt es Toleranzen und Messfehler. Auflösungen von 0,1 mK sagen immer noch nix über Messunsicherheiten, ist Ihnen das nicht klar? Und wie würden Sie diese Thermometer in der Meteorologie einsetzen???
+Auch Ihre Angaben zur Ansprechzeit zeugen auch nicht unbedingt von Fachkompetenz! Zu solchen Angaben gehört immer das Medium und die Strömungsgeschwindigkeit sowie eine Angabe zur Zeitkonstante (z.B. T50, T63 oder T90 usw.), ansonsten eine wertlose Angabe, Sie verstehen?
+Die „Messgurken“ der Heizungsbauer sind mir bekannt, meist auch noch als Anlegefühler ausgeführt (sehr wackelige Messungen…). Die prinzipiellen Eigenarten der Thermoelemente in Bezug auf erzielbarer kleinster Messunsicherheit scheinen Ihnen nicht bekannt zu sein. Und meist sind auch noch Ausgleichsleitungen mit im Spiel, die den Fehler verdoppel können. Dazu die Unsicherheiten bei den Vergleichsstellen …., da kommmen in Summe u.U. schnell mehrere K zusammen. Nicht umsonst hat man früher TE erst ab ca. 300°C eingesetzt, weil erst ab da der relative Fehler erträglich wurde.
+Es ist es völlig offensichtlich, dass man mit einem Lineal die Stufenhöhe zweier aufeinanderfolgender Stufen Nr. n und n+1 genauer messen kann (Anomalie) als die Differenz in ihren beiden absoluten Höhen = die absolute Höhe über dem Erdboden von Stufe n+1 minus der von n.
+Die Stufenhöhe von n auf n+1 lässt sich am Lineal auf vielleicht 2 mm genau ablesen (Genauigkeit der Anomalie).
+Nehmen wir man an, Stufe n länge in einer absoluten Höhe von etwa 200 m über dem Erdboden. Dann müsste man den genauen Wert dieser Höhe mit dem Lineal auf 2 mm genau ablesen, also auf 0,001%, um die gleiche Genauigkeit wie die der Anomalie zu erzielen. Statt das Lineal rund 1000x hintereinanderzulegen (das geht sicher schief) sollte man lieber gleich ein Maßband von 250 m Länge mit Millimetereinteilung nehmen. Man kann sich jetzt überlegen, wie genau dieses Maßband senkrecht von den Stufen n und n+1 zum Boden ausgerichtet werden muss, um die absolute Höhe auf 2 mm genau zu messen (da stellt sich dann die Frage, was eigentlich senkrecht heißt, lotsenkrecht oder geometrisch senkrecht zum Boden, da alleinkann schon Unterschiede von mm geben). Das ist reproduzierbar für Stufe n schon schwer möglich. Und dann spannt man es nochmal ab Stufe n+1 neu zum Boden aus. Wer ist eigentlich so blöd und tut sich dies an? Jeder würde das Band gleichzeitig über beide Stufen spannen und einfach die Differenz ablesen, also die Anomalie.
+Niemand anders wuerde solche obskuren Messmethoden vorschlagen und behaupten er kann mit dem Massband eine Anomalie messen, die aber eigentlich eine normale Messgroesse ist.
+Wie ich schon Herrn Aigner vorgeschlagen habe. Der richtige Vergleich zwischen der Temperaturmessung und dem Eifeltumr ist, wenn sie die Ober und Unterkante der Treppe in Relation zu ihrer gewaehlten Referenz, Normal Null oder Strassenlevel messen und dann die Hoehe der Stufe daraus rechnerisch bestimmen.
+So ist das!
+Diese Diskussion hatten wir erst vor ein paar Wochen. Gut das sie es hier wiederholen.
+Da können Sie die Treppe messen, so viel Sie wollen.
+Besser, Sie messen 10 – 12 Treppenstufen, haben einen Durchschnittswert und zählrn die Anzahl der Stufen, dann haben Sie absolute Höhe und Anomalie. Alles Andere ist Augenwischerei.
+Wir haben
+auf der einen Seite eine durch falsche Anwendung der Stefan Boltzmanngesetze und eines hirnrissigen zwei Sonnenmodels mit je halber Solarkontanten errechnete “ mittlere globale Solltemperatur “
+Auf der anderen Seite eine obskure “ gemessene Globaltemperatur „.
+Eine daraus errechnete Differenz versuchen wir irgendwie zu erklären
+( z B mit einem CO2 Treibhauseffekt )
+Berücksichtigen wir neueste Satelittendaten ( Albedo usw )
+Ergibt sich bei gleichen Berechnungsmodellen schon ein Ergebnis das alle bisherigen Annamen ad absurdum erscheinen lässt.
+Ersetzen wir dann noch das unsägliche Zweisonnemodell durch ein der Realität angemessenes Einsonnenmodell,
+dann lösen sich alle unsere Probleme in Wohlgefallen auf.
+https://www.klimamanifest-von-heiligenroth.de/wp/wp-content/uploads/2020/06/Klimamanifest_Unterschied_Treibhauseffekt_Globale_Mitteltemperatur_20200607.pdf
+Den „natürlichen Treibhauseffekt“ fälschlich mit der Globaltemperatur gleichzusetzen ist der jahrelange perfide Trick der Klima(folgen)forscher, den auch die deutschen Journalisten und auch die Politiker bis heute als solchen „Trick“ leider nicht begriffen haben. Mit dem Pochen auf die Globale Absoluttemperatur lässt sich dieser perfide „Trick“ und auch deren Schwindel mit der Gefährlichen Erderwärmung aber entlarven. Deshalb will Rahmstorf von der globalen Absoluttemperatur nix wissen und er wettert wie ein kleines Kind, dem man droht, ein wichtiges Spielzeug wegzunehmen.
+Ich möchte noch ein Beispiel anführen. Ich habe viele Thermometer und alle zeigen etwas anderes an. Aber wenn es etwas wärmer wird, zeigen alle mit viel mehr Übereinstimmung, dass es z.B. 1°C wärmer geworden ist. Bei Differenzen hat man nicht das Problem der genauen Bezugsgröße. solange man immer die gleiche nimmt, rechnet sich der Fehler bei der Differenzbildung heraus (von 20°C auf 21°C ist die gleiche Differenz an einem Thermometer wie von 22°C auf 23°C an einem anderen).
+Das ist doch gut zu verstehen. Und außerdem kommt es doch gar nicht auf eine absolute Temperatur an, sondern darauf, dass Änderungen im Klima an jeder Stelle der Erde nicht zu schnell erfolgen sollen, damit Natur und Mensch sich anpassen können. New York hat man dort gebaut wo die Küste war. Wenn sich dies schneller ändert, als die Stadtinfrastruktur erneuert werden muss, heißt das , dass intakte Infrastruktur, die noch nicht abgeschrieben ist, untergeht oder mit viel Aufwand vor höherem Hochwasser geschützt werden muss.
+Darum geht es eigentlich überhaupt nicht. Sie haben ja keine Bezugsgröße, das wird ja expressiv verbis für nicht notwendig erklärt.
+Und nun stellen Sie sich bitte die folgenden Fragen und versuchen Sie sie hier zu beantworten:
+1. Wie ermitteln Sie die Differenztemperatur Ihrer verschiedenen Thermometer?
+2. Wie groß ist dann der Gesamtfehler der Differenz?
+eine Frage, wenn sie die Treppenstufe am Eifelturm messen, wissen sie dann wie hoch der Eifelturm ist?
+Wenn sie Fieber messen lassen, aber nur die Höhe der Temperaturaenderung gesagt bekommen, woher wollen sie wissen, ob sie ueberhaupt Fieber haben?
+Lesen sie noch mal aufmerksam den Artikel, weil dort steht was der Unterschied zwischen einer Messung und der Bestimmung der Differenz.
+Die direkte Messung der Treppenstufe ist keine Differenz. Eine Differenz waere es, wenn sie die Hoehe ueber Normal Null von der Unterkante bestimmen, dann die Hoehe der Oberkante ueber Normal Null betimmen und daraus die Hoehe der Treppenstufe bestimmen.
+Waere interessant wie sie da die Fehlerbetrachtung machen wuerden!
+mfg Werner
+Ja und was machen wir denn, wenn wir feststellen, dass Ihre ‚Hoehe über Normal Null“ zuerst einmal über Differenzen bestimmt wurden?!?
+Duck und weg…
+Es gibt da eine Brücke …. https://www.spiegel.de/panorama/planungspanne-rheinbruecke-mit-treppe-54-zentimeter-hoehenunterschied-a-281837.html
+Sie sehen, es ist nicht ganz so einfach mit der Messerei.
+Was er macht wenn er fesstellt, dass die Referenzgroesse auch fehlerbehaftet ist, werden wir nie erfahren!
+Vielleicht noch mal messen, wieder messen, messen und dann noch mal messen?
+Oder das Messverfahren aendern? Wenn man beim Thema bleiben will und der Andekdote von Niels Bohr folgen will, nimmt Herr Ketterer gleich mal die barometrische Hoehenformel und Ermittelt anhand der Temperatur die Hoehe der Treppenstufe.
+https://www.eike-klima-energie.eu/2020/06/23/von-den-grundrechenarten-ihrer-nutzung-in-der-klimafolgenforschung-und-herr-prof-dr-rahmstorf/#comment-252878
+Danke Herr Ulrich fuer eine gute Referenz.
+Wenn notwendig würde ich ein Nivellier benutzen, das würde aber ein Niveau voraussetzen.
+Dieses fehlt hier bei so manchem ‚ad hominem‘ Kommentar.
+Sehr gut!
+Wo liegen die Fehlerursachen und wie genau koennen sie die Hoehe der Treppenstufen ermitteln?
+Wo wollen sie das Nivellier aufstellen?
+Bei einem Rahmstorf, diesem Oberdiffamierer und -Alarmisten, gehe ich inzwischen von dummdreister Publikumsverarxxxe aus. So auch der Vergleich mit den Eiffelturm-Treppenstufen. Traurig, wenn er selbst einfachste Fehlerrechnung immer noch nicht kapieren will!
+Und da ihm deutsche Klimagläubige alles abnehmen, was nur halbwegs nach Klima-Panikmache riecht, weiß er natürlich, dass ihm selbst der größte Mist noch willfährig abgenommen wird. Daher begrüße ich die Akribie, mit der die Leute vom Klimamanifest diese Alarmtänzer und Computerspieler mit konkreten Details bloßstellen. Denn es ist geradezu grotesk, wenn ständig mit irgend welchen einzuhaltenden Temperaturzielen gedroht wird, man aber bereits bei der Referenztemperatur herumeiert bis zum geht nicht mehr! Und unsere Klimadeppen in Politik und Medien machen das alles klaglos mit!
+„Das Eiffelturmbeispiel finde ich sehr griffig. Wenn man mit einem Lineal versuchen würde die Höhe des Turms zu messen (oder auch mit einem Meterstab) wäre die Genauigkeit kaum auf Millimeter zu halten. Die eine Treppenstufe kann aber sicher auf 1mm genau bestimmt werden und ganz sicher ist die Treppenstufe ein Höhenunterschied von einem Höhenniveau zum nächsten.“
+Warum sollte der prozentuale Fehler bei zwei Messungen (Eiffelturm und Treppenstufen) mit dem selben Lineal verschieden sein?
+Das Problem ist (in gedanklicher Übertragung auf die weltweiten Temperaturmeßwerte), mit einem Lineal auch die Differenzen der Stufenoberkante(n) VERSCHIEDENER Gebäude ZUEINANDER angeblich (genauer als deren Absoluthöhen!) bestimmen zu können.
+…. sondern?
+Ich saß mit zwei angehenden Maschinenbauingenieuren zusammen. Einem habe ich geholfen, sein Studium erfolgreich zu beenden. Dem Anderen gelang es ein oder zwei Semester später.
+Den Treibhauseffekt (CO2) hat keiner von denen kapiert. Den tödlichen Unterschied zwischen einem Laborexperiment und einem freien Experiment haben beide nicht verstanden. Deswegen meinte der eine Student, kurz vor Ende seines Studiums, CO2 führe automatisch zum Treibhaus. Das ist natürlich Unsinn. Er verwechselte die Erdatmosphäre mit einem hermetisch abgeriegelten Gewächshaus, eine Art Riesenglocke.
+Der Erste bekam Super-Noten, obwohl er nur Unsinn im Kopf hatte. Zum anderen (der mit dem Gewächshaus) kann ich nix sagen. Wir verloren uns dann aus den Augen.
+Was lernen wir daraus? Wir müssen die 87-Prozent-MINT-Leute entmachten und wieder die Omis entscheiden lassen, alleine. Die achten den Menschen noch und plädieren für billige Energie und pfeift auf das Klima und die Umwelt. So billig wie möglich. Reichtum statt Armut. Wissenschaft ist das eine, eine gute Führung, etwas völlig anderes.
+warum verbreiten Sie so viel Unsinn um Panik zu machen?
+Es kommt immer auf die Temperatur an, da sie sich während eines Jahres viel stärker ändert als die Anomalie. In diesem Frühjahr sind in vielen Deutschen Gärten Pflanzen erfroren. Wegen der Temperatur oder wegen der Temperatur-Anomalie? Haben Sie sich eigentlich informiert wie stark der Meeresspiegel in New York ansteigt und warum? Link:
+https://sealevelrise.org/states/new-york/
+„The sea level off New York’s coast is up to 9 inches higher than it was in 1950.1 This increase is mostly due to the slowing of the Gulf Stream and New York’s sinking land, and it’s causing major issues.“
+Welche Auflösung haben denn Ihre Thermometer, die Sie als Beispiel anführen? Wenn Sie die Temperatur zur Differenzbildung zwei mal ablesen, haben Sie den Ablesefehler z.B. zwei mal. Dazu kommen noch die Grundfehler des Thermometers bei den beiden verschiedenen zu messenden Temperaturen. Und Sie meinen Differenzen genauer messen zu können???
+Gruß
+Pippi
+Er ist ein Experte darin, sich selbst, auch über die Jahre, immer wieder selbst zu widersprechen und zu widerlegen!
+Er ging auch Jahrzehnte mit den „globalen Durchschnittstemperaturen“ hausieren.. will heute davon aber nichts mehr wissen!
+Dazu fällt mir nur Hanlon#s Razor ein: „Schreibe nicht der Böswilligkeit zu, was durch Dummheit hinreichend erklärbar ist“ (englisch: Never attribute to malice that which can be adequately explained by stupidity). Oder kürzer: „Geh nicht von Böswilligkeit aus, wenn Dummheit genügt“ (englisch: Never assume malice when stupidity will suffice). (Wikipedia)
+Beispiel in Analogie zu Rahmstorfs *Treppenstufe*: Die maßlichen Differenzen mehrerer Bauteile mit einer Feinzeiger- Meßschraube. Man kann die Meßflächen ans Bauteil anlegen bis der Zeiger ausschlägt und mit derselben Einstellung das nächste Bauteil messen. Die Differenz wird in µm angezeigt. Im allg. Sprachgebrauch würde man sagen: *genau* angezeigt, ohne den *wahren* Absolutwert zu kennen (zu dessen Bestimmung die Stellung der Meßtrommel herangezogen wird, der kann in der Praxis schon um ±0,02mm schwanken). Man könnte jetzt also mtw. die maßlichen Veränderungen mehrerer Bauteile über eine (Produktions)Zeit *genau* beobachten.
+Dasselbe würde gelten, wäre die Skala eines Thermometers im Verhältnis zum Glaskolben verrutscht. Der angezeigte *wahre* Temperaturwert wäre unbekannt, die Differenzen der Temp. über die Zeit dennoch *genau* bestimmbar.
+Allerdings gelten diese Prämissen nur, wenn 1. dasselbe Meßgerät benutzt wird, der Fehler also *systematisch* (hier ein *referenzfehler*) ist 2. die zu Grunde liegende Verschiebung des Meßgeräts -wenn auch unbekannt- fix (also systematisch) bleibt.
+Bei längeren Zeitreihen ist beides nicht der Fall. Bei Verwendung mehrerer Meßgeräte auf diese Art sind die Fehler dieser zufällig verteilt und damit auch die Fehler in den Differenzmessungen nicht kleiner als die Fehler zu den (wahren) Absolutwerten.
+Das Treppenstufen- Beispiel wäre in der Praxis treffender so zu beschreiben, als ob die Stufen des Kölner Doms, des Eiffelturms und mtw. des Kyffhäuser- Denkmals mit den verschiedensten Meßmitteln jeweils *genau* vermessen und dann verglichen werden.
+um dann dann noch stolz zu betonen
+und Herr Prof. Dr. Rahmstorf
+muß lauten:
+um dann noch stolz zu betonen
+und Herrn Prof. Dr. Rahmstorf
+Bitte korrigieren
+Danke, ist erledigt.
+f(x_1,x_2 )
+Diese hängt von den Messwerten
+x_1,x_2
+ab, welche mit Messfehlern
+∆x_1,∆x_2
+Behaftet sind. Nach dem Fehlerfortpflanzungsgesetz ergibt sich in erster Näherung für den Fehler der Funktion f:
+∆f(x_1,x_2 )=√((∂f/(∂x_1 ) ∆x_1 )^2+(∂f/(∂x_2 ) ∆x_2 )^2 )
+Im konkreten Fall werden aus absoluten Temperaturen Temperaturdifferenzen berechnet. Die Funktion f lautet daher:
+f(x_1,x_2 )=x_1-x_2
+Damit ergeben sich die partiellen Ableitungen in der Form:
+∂f/(∂x_1 )=1,∂f/(∂x_2 )=-1
+Eingesetzt in das Fehlerfortpflanzungsgesetz ergibt das:
+∆f(x_1,x_2 )=√((1∙∆x_1 )^2+(-1∙∆x_2 )^2 )=√(〖∆x_1〗^2+〖〖∆x〗_2〗^2 )
+Da beide Variablen Temperaturmessungen sind, die in gleicher Weise gewonnen werden, sind sie mit dem gleichen Fehler behaftet. Damit vereinfacht sich diese Gleichung zu:
+∆f(x_1,x_2 )=√2 ∆x≈1,4∆x
+Betrachtet man nun das Fehlerverhältnis zwischen den Messwerten und dem Ergebnis (=Anomalie), so erhält man:
+∆f(x_1,x_2 )/∆x≈1,4
+1,4 ist aber definitiv größer als 1. Damit sind die berechneten Anomaliewerte um den Faktor 1,4 ungenauer als die ursprünglichen Messwerte. Das entspricht dem Erfahrungssatz, dass man die Differenz zweier annähernd gleich großer Messwerte aufgrund des damit verbundenen erheblichen Fehlers mit sehr großer Vorsicht betrachten sollte. Q. e. d.
+Danke.
+Nur ein kleine Ergänzung.
+Wenn sie schreiben „Da beide Variablen Temperaturmessungen sind, die in gleicher Weise gewonnen werden, sind sie mit dem gleichen Fehler behaftet. Damit vereinfacht sich diese Gleichung zu“ dann trifft diese Annahme für meteorologische Messungen über den Erdball verteilt, leider nicht zu. Die Messwerte haben viele verschiedene systematische Fehler, deren Typus zwar häufig bekannt ist, aber weder deren Größe, Zeitverhalten und Dauer.
+Aber in erster Näherung kann man sich dem Problem so nähern.
+Verschiedene Temperaturen an verschiedenen Orten sind ja keine systematischen Messfehler, sondern klimatisch bedingt. Sie haben bei Rahmstorfs Eiffelturm Beispiel nicht gemerkt, dass er dies als Analogie zur Bestimmung des globalen Mittels und nicht einer Stationstemperatur bezogen hat. Kommt aber im Text klar raus. Die Schwierigkeit einer absoluten globalen Mitteltemperatur liegen ja nicht allein an den zugrundeliegenden Stationsdaten, sondern an ihrer räumlichen Vergleichbarkeit, denn die Stationen zeigen ja aufgrund topographischer und klimatologischen Gründen unterschiedliche Stationstemperaturen, ihre Anomalien sind hingegen vergleichbarer.
+„Aber in erster Näherung kann man sich dem Problem so nähern.“
+Falsch. Das ist keine Näherung, sondern nur ein Teilaspekt.
+Da bin ich jetzt überrascht, was man alles aus Ihren Beiträgen lernen kann! Dass die unterschiedliche Werte bei Temperaturmessungen klimatisch bedingt sind! Darauf wäre nun keiner gekommen.
+Dass jede Messwert innerhalb der Fehlertoleranz liegt und damit nicht eine absolute Wahrheit darstellt, könnte man eigentlich wissen.
+Diese Aussage ist in ihrer Verkürzung falsch und irreführend. Richtig müsste sie heißen:
+Verschiedene Temperaturen an verschiedenen Orten sind klimatisch bedingt, deren Messwerte verschiedenen systematischen Fehlern unterliegen.
+Die folgende Aussage ist ebenso falsch, daher auch Ihre Textinterpretation
+Denn sowohl im Text als auch im Vortrag macht R. klar was er meint. Nämlich, dass man – als Beispiel – die Höhe einer Treppenstufe eben viel genauer messen kann, als die Höhe der Treppe selber. Steht direkt unter der Überschrift „„Warum sind Differenzen genauer als Absolutwerte?“. Das geht aus dem Text klar hervor und aus dem Vortrag auch.
+Diese Aussage stimmt sogar, nur ist sie so irreführend, dass sogar Leute wie Sie darauf reinfallen (wollen).
+Denn Temperaturdifferenzen werden in diesem Zusammenhang nicht und niemals wie bei der Stufe gemessen, sondern immer aus einem aktuellen Wert und einem Referenzwert berechnet.
+Und mit dieser falschen Analogie von Treppenstufe zur Temperaturdifferenz begründet er dann wie der Mittelungsprozess die Unsicherheit verringert, sprich die Genauigkeit erhöht.
+Doch auch das ist in seiner Schlichtheit falsch, denn die einzige Verringerung der Unsicherheit ergibt sich aus dem Verschwinden echt gleichverteilter -also zufälliger – Fehler, die mit 1/Wurzel (Anzahl) kleiner werden. Bei autokorrellierten Zeitreihen hingegen, wie sie bei den Stationszeitreihen vorliegen erzeugt die Autokorrelation aber selbst bei diesen Fehlern einer systematische Komponente, die die Unsicherheit wieder erhöht. (ca. 0,4 bis 0,6 K).
+Ich habe das Ihnen gegenüber schon des öfteren belegt.
+Wie begründen Sie, dass dies hier erfüllt ist?
+Vielleicht weil der Fehler der an meiner Wetterstation festgestellten Temperatur unabhängig vom dem Fehler ist, mit dem man in der Arktis – oder am PIK – die Temperatur registriert (falls man das dort tun wollte 🙂 ?
+Es handelt sich nicht um den Fehler der Differenzen zwischen z.B. Maximal- und Minimaltemperaturen, die ich an meiner Wetterstation ablese.
+RF
+PS: Bei korrelierten Fehlern kommt die Korrelationsmatrix ins Spiel, die man natürlich so hintricksen kann, daß die summierten Fehler kleiner werden können – zumindest in den Kreisen, in denen man solche Vodoo-Wissenschaft beherrscht.
+Nun werden Anomalien aber immer mit demselben Standort bestimmt, ihr Argument ist also keines.
+Und selbst, wenn es so wäre: Umstellung von der Min-/Max-Methode auf heutige Verfahren, Änderungen der Ablesemethoden o.ä. produzieren überall auf der Welt ähnliche, systematische Fehler, die überall in dieselbe Richtung zeigen.
+Es ist also falsch, mit dem Fehlerfortpflanzungsgesetz zu argumentieren.
+ich fürchte Sie merken nicht, dass Sie im Irrtum sind. All das was Sie unterstellen ist leider falsch.
+Schauen Sie sich die – selten gut genug bekannten – Stationshistorie an. Jede Station hat ihre Messbedingungen – selten dokumentiert – ständig verändert.
+Das alles erzeugt systematische Fehler, die die Messergebnisse verfälschen. Insofern nützt die Anomalienbestimmung immer am selben Ort nichts.
+Und noch problematischer ist es bei den höchst unsicheren SST Bestimmung, wo weder Ort noch Zeit festliegen.
+Und das ist noch nicht alles.
+Das Fehlerfortpflanzungsgesetz gilt immer, aber auch darum ging es im Beitrag eigentlich nicht, sondern allein um die Tatsache dass Temperaturdifferenzen nicht gemessen werden, sondern immer nur berechnet werden müssen.
+Insofern ist der Vergleich mit einer gemessenen Stufe am Eifelturm irreführend. Meteorologische Temperaturdifferenzen können nicht gemessen werden, sie brauchen daher immer Tref und Tact als absolute Werte um die Differenz zu bestimmen.
+und erst dann kommt die Fehlerrechnung zum Tragen, wobei die vielleicht vglw. geringen Fehler der jeweiligen Absoluttemperatur, in Bezug auf die viel viel kleinere Differenz ein sehr viel größeres Gewicht hat.
+Das ließe sich leicht klären: Man zitiere aus einem Mathematiklehrbuch, dass das Fehlerfortpflanzungsgesetz für systematische Fehler gilt.
+Ich habe in solchen Büchern bislang nur gelesen, dass es für unabhängige Fehler gilt. Wozu streiten? Fakt ist das, was im Lehrbuch steht.
+Was nennen Sie denn unabhängige Fehler?
+Ich kenne nur zufällige und systematische Fehler. Sie müssen allerdings bedenken, dass die Messeinheit sich ständig wandelt. D.h. die jeweiligen Fehler sind also in Bezug auf die Vergangenheit fast immer unabhängig.
+Aber da finden Sie sicher auch ein Lehrbuch was das erklärt.
+Sie schreiben: „Fakt ist das, was im Lehrbuch steht.“ Kürzer kann man kaum ausdrücken, dass man keine Ahnung davon hat, was Wissenschaft ist.
+MfG
+was soll ihr Kommentar bedeuten? Dass es für die Diskussion hier egal ist, was in Mathematik-Lehrbüchern über die Voraussetzungen der Gültigkeit des Fehlerfortpflanzungsgesetzes steht?
+Wenn Sie das meinen, dann verzichte ich auf weitere Diskussion. Ich werde übrigens hier auch nicht lang und breit diskutieren, was die Voraussetzungen sind. Ich habe sie genannt, und das kann jeder prüfen.
+Normal wäre nun eine Diskussion, welche Arten von unabhängigen (auch zufälligen genannt) und systematischen Fehlern bei der Anomalienbildung auftreten. Aber das werde ich hier sicherlich nicht erleben, es wirkt so, als sträube man sich hier gegen jeglichen Erkenntnisfortschritt.
+Dazu bräuchten Sie nur in die erwähnten links zu schauen, die im Artikel unterlegt sind. Da wird ausführlich über diese Fehler und ihre Wirkung in Zeitreihen von Anomalien diskutiert.
+Weil Sie nicht mal daran denken sich dieser Quellen zu bedienen, sie zu lesen und hoffentlich auch zu verstehen, und dann erst die Diskussion zu beginnen sind Sie derjenige der sich jedem Erkenntnisfortschritt verweigert.
+Wir brauchen hier nicht immer wieder bei Adam und Eva anfangen. Die Bringeschuld haben Sie.
+besser kann man messtechnisches Nichtwissen nicht dokumentieren …., sorry ….., Ihr Niveau ist leider wahrscheinlich auch nur das von R ……
+Meßwert M2 +/- Meßfehler F2 (globale Mitteltemperatur)
+sogenannter `Meßwert‘ DM = M1 – M2
+‘Meßfehler‘ DF = wurzel(F1*F1 + F2*F2)
+DF >= max(F1,F2) !!!
+Wer das zu meiner Zeit nicht verinnerlicht hatte, der hätte nicht das physikalische Anfängerpraktikum bestehen können!
+Dito, wenn er in dieser Diskussion den zentralen Grenzwertsatz der Statistik bemüht hätte! Man hätte ihm empfohlen, lieber Politiker zu werden. Für die gelten nämlich keine Naturgesetze.
+Heute kann man damit offensichtlich Professor werden.
+R.F.
+PS: Es gibt allerdings Labor Meßverfahren, in denen die Skala eines(!) Meßgeräts die Differenz zweier Signale anzeigt, die jede für sich eine physikalische Größe repräsentieren. In der Tat sind diese in der Lage den einen Meßwert(!) (M1 – M2) mit einem größeren Signal/Rausch-Verhältnis zu ermitteln. ( Man beachte die ‚!‘ )
+http://www-lehre.inf.uos.de/~wvogt/content/Physik.html
+Vielleicht ist sie schon bekannt.
+Eine köstliche Geschichte. Passt irgendwie, auch wenn Nils Bohr nicht die Fehler jeder Methode angeben musste.
+In der Schule, im (geschwätzwissenschaftsfernen) Physik-LK, haben wir diese Messung mit einem Fadenpendel gemacht. Wir haben auch immer eine Fehlerbetrachtung dazugeschrieben.
+Es wäre nun ein leichtes, eine mittlere globale Erdbeschleunigung mit Hilfe von weiteren Physik-LKs …..
+https://pbs.twimg.com/media/EbDnNAGXYAAcv1g?format=jpg&name=medium
+„Denken kommt vor Messen und Rechnen.“
+„In der Messtechnik gilt der Grundsatz, dass Messwerte nur dann eine Aussagekraft besitzen, wenn der gesamte einfließende Messfehler zusammen mit dem Ergebnis angegeben wird.“
+„Jeder Messtechniker hat gelernt, dass der sogenannte „Wahre Wert“ durch eine Messung niemals festgestellt werden kann. Der gesuchte wahre momentane Wert ist der Zahlenwert der Messgröße zum Zeitpunkt der Messung, wie er sich ohne Messung darstellen würde.“
+Wenn also ein Messgerät bspw. zeigt: 14,9 °C, dann sind der Gerätemessfehler und der systematische Fehler zu addieren und zusammen mit dem Messwert (14,9 °C) anzugeben. Die korrekte Aussage, die dann gemacht werden kann ist (bspw., wenn beide Fehler addiert plusminus 0,8 °C ergeben): Der wahre Wert liegt zwischen 14,1 und 15,7 °C. Genauer geht es nicht!
+Klugscheißmodus aus.
+Dazu kommt, dass es bei den manuellen Ablesungen der Wetterhütten-Thermometer aufgrund der laufenden Änderungen der Umgebungstemperatur immer nur einen „Versuch“ gab, mit allen damit verbundenen und in den Zeitreihen nie wieder „beseitigbaren“ Unwägbarkeiten von „Brille vergessen“, zuviel Punsch … usw. …. 😉
+Nein, da irren Sie sich gewaltig, so meine Einschätzung!
+Es ist im Grunde noch viel schlimmer, der gute Rahmstorf hat gemerkt, er kann „seinem“ Publikum erzählen was er will, es wird alles kritiklos geglaubt!
+Somit kann er alles in die Welt setzen, seine treuen Vasallen, die überall an der Macht sind, verteidigen auch jeden Unsinn – ich glaube, der lacht sich über solche Bemühungen, wie hier, schier krank!
+Man denke nur an diesen Satz:“Wir haben die Kontrolle über das Klima verloren!“
+Es gab kein donnerndes Gelächter, rund um den Globus – nein, fast alle streuten sich Asche aufs Haupt und jammerten!

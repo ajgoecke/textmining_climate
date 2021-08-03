@@ -1,0 +1,5 @@
+Sehr starke graphische Beweise für den Stillstand (Teil 2)
+Sheldon Walker
+Dies ist der 2. Teil eines Beitrags von mir. Der 1. Teil findet sich hier, auf Deutsch beim EIKE hier.
+Ich habe ein neues Verfahren entwickelt zur Analyse von globaler Erwärmung (und anderer Dinge). Es wird Multi-Trend-Analyse MTA genannt. Dabei werden die Daten in einem Zeitintervall analysiert, indem der Trend berechnet wird zwischen jedem möglichen Punktepaar in dem Intervall. Der Trend umfasst auch alle Datenpunkte zwischen jedem Datenpaar. Dies kann eine Menge Trends umfassen. Die Analyse des Intervalls Januar 1975 bis Dezember 1999 umfasst 16.290 Trends. Ein Trend ist im Grunde eine lineare Regression.
+Neueste Kommentare

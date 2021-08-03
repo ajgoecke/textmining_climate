@@ -1,0 +1,224 @@
+Uli Weber
+Die Fragen in meinem Artikel auf EIKE, „Noch ein paar Fragen zum „natürlichen“ atmosphärischen Treibhauseffekt“, wurden zwar nicht beantwortet, aber dafür wurde der Artikel wieder einmal sehr kontrovers diskutiert. Ich nehme den dankenswerten Vorschlag eines Kommentators daher diesmal gerne auf, um ihn einmal über die tatsächlichen physikalischen Grundlagen aufzuklären. Denn eine solche Darstellung grundlegender physikalischer Zusammenhänge könnte schließlich auch noch weiteren Kommentatoren aufs Pferd helfen.
+Also schaunmerdiesmal bitte ganz konzentriert hin:
+Das Stefan-Boltzmann-Gesetz ist keine simple Rechenanleitung, sondern ein physikalisches Gesetz. Und das dort enthaltene Gleichheitszeichen ist kein mathematisches Gleichheitszeichen, sondern eine zwingende physikalische Bedingung.
+Man kann dieses Gesetz also nicht einfach als mathematische Formel missbrauchen, um beliebige Durchschnittstemperaturen in irgendeine Strahlungsleistung umzurechnen oder umgekehrt. Vielmehr ist nach diesem Gesetz eine ganz konkrete Temperatur ganz ausschließlich einem bestimmten Strahlungswert zugeordnet. Und das Gleichheitszeichen zwischen Strahlung und Temperatur steht als zwingende Bedingung dieses Gesetzes für ein gemeinsames thermisches Gleichgewicht genau zwischen diesen beiden physikalischen Größen.
+Das bedeutet, das Gleichheitszeichen im Stefan-Boltzmann-Gesetz bezieht sich auf einen gleichzeitigen Zusammenhang zwischen Strahlung und Temperatur, nämlich Temperatur erzeugt Strahlung oder Strahlung erzeugt Temperatur, und zwar jetzt, hier, in diesem Augenblick – und nicht erst später auf der Nachtseite der Erde. Und genau deshalb heißt dieser physikalische Zusammenhang ja auch Stefan-Boltzmann-Gesetz und nicht etwa Stefan-Boltzmann-Gleichung.
+Die geometrischen Verhältnisse für die Sonneneinstrahlung auf unserer Erde sind eigentlich ganz einfach zu verstehen (beide nachfolgenden Abbildungen aus meinem neuen Buch „Klima-Mord“):
+Das Sonnenlicht trifft praktisch als ebene Wellenfront auf die Atmosphäre unserer Erde. Daraus ergeben sich dann die nachfolgend dargestellten geometrischen Verhältnisse:
+- Die Strahlung der Sonne trifft mit einer Kreisfläche von (pR²) auf die Erde,
+- Diese Strahlung verteilt sich auf der Tagseite der Erde, also auf einer Halbkugel mit (2pR²)
+- Die Gesamtfläche der Erde ist eine Kugeloberfläche mit (4pR²)
+Die beteiligen Flächen haben also das Verhältnis von 1 : 2 : 4.
+Wie wir in der Erklärung des Stefan-Boltzmann-Gesetzes gesehen haben, kann man nach diesem Gesetz nur diejenigen Größen ins Verhältnis setzen, die direkt in einem gleichzeitigen thermischen Verhältnis miteinander stehen. Gleichzeitig beteiligt an der Temperaturgenese auf unserer Erde sind aber ausschließlich die einfallende Sonnenstrahlung mit (pR²) und die Tagseite der Erde mit (2pR²). Für die ursprüngliche Sonneneinstrahlung von 1.367 [W/m²] ergibt sich daher der Divisor 2 für den Strahlungsdurchschnitt auf der Tagseite der Erde.
+Hier auf der Tagseite der Erde, und nur hier, gilt das Stefan-Boltzmann-Gesetz. Die Nachtseite der Erde hat mit der S-B Gleichgewichtstemperatur auf der Tagseite überhaupt nichts zu tun, weil sie ja keine temperaturgenerierende Sonnenstrahlung erhält.
+Und jetzt widmen wir uns einmal dem Mond, der ja argumentativ immer wieder gerne als ein Beispiel für einen idealen atmosphärelosen Schwarzkörper herangezogen wird und, im Vergleich zur Erde, auch als Beweis für den „natürlichen“ atmosphärischen Treibhauseffekt herhalten muss. Ich zitiere einen Kommentar zu meinem Artikel auf EIKE:
+„Die Apollo 15 Landestelle hat eine ungefähre Durchschnittstemperatur von 252 K, Tmassah, das auf ähnlicher Breite, aber auf der Erde (Sahara) liegt, hat 295 K Durchschnittstemperatur.
+Macht einen „Atmosphäreneffekt“ vom 43K. Oder liege ich mit meinem Ansatz falsch?“
+Meine Antwort: Ja, Sie machen da etwas grundsätzlich falsch, denn Sie stellen hier einen unzulässigen Vergleich an. Die von Ihnen genannten Durchschnittstemperaturen beziehen nämlich die Nachtseiten von Mond und Erde mit ein. Und die Nachtseite des Mondes hat nun einmal ein ganz anderes Temperaturverhalten als die Nachtseite der Erde. Nach den oben beschriebenen Randbedingungen des Stefan-Boltzmann-Gesetzes kann man nämlich nur die entsprechenden Tagestemperaturen miteinander vergleichen.
+Aberschaunmereinfachmalgenauernach: In einem älteren Artikel auf EIKE wurden die am Landeplatz von Apollo 15 gemessenen Mondtemperaturen in einer Grafiküber drei Mond-Tage (= 3 x 29,5 Erdtage) dargestellt:
+Abbildung: Oberflächentemperatur auf dem Mond am Landeplatz von Apollo 15 (lila/blau)
+Aus einem Artikel auf EIKE, Primärquelle WUWT
+Nach dieser Abbildung schwanken die Temperaturen über den Mond-Tag (=29,5 Erdtage) an der Landestelle von Apollo 15 zwischen etwa +90 °C und – 190 °C.
+Wenn man jetzt für die Landeposition von Apollo 15 einmal die Stefan-Boltzmann Gleichgewichtstemperatur berechnet, dann erhält man einen ziemlich ähnlichen Temperaturverlauf wie die oben dargestellten Messwerte (Abbildung vom Autor):
+Eckwerte dieser Berechnung:
+Landepunkt von Apollo 15: Mond @ 26° 7′ 55.99″ N 3° 38′ 1.9″ E
+Solarkonstante: 1.367 [W/m²]
+Albedo des Mondes: 0,11
+Temperaturwirksame Solarstrahlung: 1.217 [W/m²]
+dito bei 26,125° geogr. Breite: 1.092 [W/m²]
+Effektive Solarstrahlung Seff für α = [0° – 360°]: IF SIN α >0 THEN Seff = SIN α* 1.092 [W/m²]
+IF SIN α <0 THEN Seff = 0 [W/m²]
+Und wenn man diese beiden Abbildungen dann übereinander projiziert, ergibt sich eine ganz erstaunliche Übereinstimmung:
+Kombination der beiden vorherigen Abbildungen WUWT/Weber:
+Die gemessene und die mit S-B berechnete Temperatur am Landepunkt von Apollo 15 stimmen bei Tage hervorragend überein, während die minimalen (Nacht-) Temperaturen um etwa 70 bis 90 Grad differieren. Diese Differenz ist aber eher ein Problem zwischen Theorie und Praxis, denn in der S-B Berechnung wird für die Nachtseite des Mondes streng mit 0 [W/m²] gerechnet, während die Nachtseite in der Realität gestreute Sonneneinstrahlung von der Erde erhält, deren Albedo immerhin 30% betragt.
+Abschätzung: Eine Temperatur von -196 °C entspricht nach Stefan-Boltzmann einer Strahlung von 2 {W/m²], dafür dürfte die Rückstrahlung der Erde von etwa 418 [W/m²] allemal ausreichen.
+Warum schwankt aber nun die Temperatur auf der Erde so viel weniger als auf dem Mond?
+Erde und Mond unterscheiden sich zunächst einmal durch ihre Tageslängen von 24 Stunden und 29,5 Erdtagen. Die Erde unterscheidet sich vom Mond weiterhin durch die thermische Speicherfähigkeit ihrer globalen Zirkulationen (Atmosphäre und Ozeane). Die kurze Tageslänge der Erde und ihre Wärmespeicher sorgen also für eine geringe Nachtabkühlung, während die durchschnittliche Nachttemperatur auf dem Mond schnell in den 3-stelligen Minusbereich absinkt.
+Der Mond ist daher ein stark vereinfachtes Modell der Erde ohne Atmosphäre und Ozeane.
+Was herkömmlich als „natürlicher“ atmosphärischer Treibhauseffekt bezeichnet wird, ist also lediglich der Wärmeinhalt der globalen Zirkulationen auf der Erde. Allein diese Wärmespeicher verhindern eine nächtliche Auskühlung unserer Erde in derselben Größenordnung, wie wir sie beim Mond beobachten können. Während nun aber der Mond ohne Atmosphäre und Ozeane auf seiner Tagseite die S-B Gleichgewichtstemperatur annähernd erreicht, wird auf unserer Erde ein Teil dieser Energie für die thermische Aufladung der globalen Zirkulationen „abgezweigt“. Und wegen dieser Wärmespeicher sinkt die Minimaltemperatur der Erde über Nacht dann wiederum höchstens um einige Dekagrad ab. Wenn man also auf der Erde überhaupt von einem Atmosphäreneffekt sprechen will, dann besteht dieser in einer Dämpfung der örtlichen Temperatur gegen maximale Schwankungen der solar verursachten Temperaturgenese, wie wir sie auf dem Mond beobachten können. Für eine Ortslage in mittlerer geographischer Breite auf der Erde (Potsdam) werden in der nachstehenden Abbildung die im Zeitraum zwischen 1890 und 2013 gemessenen maximalen Monatstemperaturen und die S-B Gleichgewichtstemperatur im Strahlungszenit der Sonne dargestellt:
+Abbildung: Temperaturvergleich in °C für Potsdam über ein Jahr
+Blau: Rechnerische S-B Temperatur im solaren Zenit @Potsdam
+Rot: Gemessenes Monatsmaximum in Potsdam im Zeitraum
+1890-2013
+Anmerkung: Die S-B Gleichgewichtstemperatur im solaren Zenit wurde unter Berücksichtigung der durchschnittlichen globalen Albedo mit netto 780 W/m jahreszeitabhängig berechnet
+Daten von: https://www.pik-potsdam.de/services/klima-wetter-potsdam/wetterextreme
+Wie diese Abbildung zeigt, bleibt die örtlich gemessene Maximaltemperatur auf der Erde im jeweiligen Sommerhalbjahr deutlich unter der berechneten S-B Gleichgewichtstemperatur. In den Wintermonaten ist in mittleren und höheren Breiten dann der Wärmetransport der globalen Zirkulationen gegenüber der S-B Gleichgewichtstemperatur deutlich zu erkennen, hier noch verstärkt durch die vom Golfstrom verursachte Nordverschiebung der geographischen Klimazonen. Auf der Erde erhöht sich also treibhausmäßig gar nichts, sondern unsere Atmosphäre und die Ozeane wirken vielmehr wie ein natürlicher Pufferspeicher gegen sehr hohe und sehr niedrige Gleichgewichtstemperaturen aus der direkten solaren Einstrahlung.
+So, damit ist jetzt hoffentlich endgültig geklärt, dass es gar keinen „natürlichen“ atmosphärischen Treibhauseffekt auf unserer Erde geben kann. Vielmehr lassen sich die gemessenen Temperaturen auf der Erde und auf dem Mond ganz allein aus der natürlichen Sonneneinstrahlung herleiten.
+Am Ende habe ich es also meinen schärfsten Kritikern zu danken, dass ich hier, ausgehend von den Temperaturen am Landeplatz von Apollo 15, die Richtigkeit meines hemisphärischen Stefan-Boltzmann Ansatzes mit dem Mond als Kronzeugen nochmals überzeugend nachweisen konnte.
+Anmerkung der EIKE Redaktion
+EIKE versteht sich auch als Diskussionsforum für Sonder-Hypothesen. Dies bedeutet nicht, dass EIKE mit dem Inhalt solcher Beiträge einverstanden ist. Wir überlassen die Diskussion dem Kommentar-Bereich.
+Das Stefan-Boltzmann-Gesetz hat keinerlei Ortsabhängigkeit. Oder sehen Sie in den von Ihnen verlinkten Folien irgend eine Abhängigkeit vom Ort? Eigentlich müssen Sie sich nur die Folien und die Formeln darin ansehen und Sie sollten merken, das dort nur ein Zusammenhang zwischen Temperatur, Emissionsfaktor und Abstrahlung beschrieben wird. Nichts anderes, kein Ort, keine Einstrahlung, ….
+Dazu müssten Sie etwas mehr dazu schreiben, wie Sie zu Ihren Ansichten kommen Die Folien, die Sie verlinkt haben, stützen diese Ansichten nicht. Die beschreiben wie gesagt genau das, was man allgemein unter dem Stefan-Boltzman-Gesetz versteht und stehen in direktem Widerspruch zu dem, was Herr Weber hier postuliert …
+Der Eisenwürfel mit einer Kantenlänge von 10cm strahlt bei 400°C auf einer Seite 110Ws in einer Sekunde ab.Das wird doch berechnet mit dem Stefan-Boltzmann-Gesetz.Was passiert denn mit der Abstrahlung auf den verbleibenden 5 Seiten?
+Und wenn dieser Zustand nach einer Stunde nochmals gemessen wird, ist doch bestimmt die Temperatur gesunken.Oder wird die ganze Energie wieder zurück ins Weltall abstrahlen?
+Wenn ich Sie richtig verstanden habe, hat das auf die Bedeutung des Stefan-Boltzmann-Gesetzes als Grundlage zur Ermittlung des Treibhauseffektes keinen Einfluss.
+Mit herzlichem Glückauf
+auch von meiner Seite möchte ich Ihnen danken, sich der mathematischen und physikalischen Grundlagen des in den Raum gestellten Treibhauseffektes zu widmen.Mit dem Ziel, dieses Märchen zu entlarven.
+Das Stefan-Boltzmann-Gesetz gibt Auskunft über die von einem Schwarzen Körper auf allen Frequenzen insgesamt abgegebene Strahlungsleistung.
+Das bedeutet für den Erdbewohner, den Zahlenwert der Solarkonstanten von 1367 Watt/m² beim Eintritt in die Atmosphäre.
+http://tinyurl.com/y9dqsafq
+Mit dieser Aussage, ist die Bedeutung des Stefan-Boltzmann-Gesetzes erschöpft.
+Eine der zwingend notwendigen Rahmenbedingungen ist die Gleichzeitigkeit von Temperatur des schwarzen Strahlers und der zu erwartenden Energie an einer beliebigen Stelle, mit der Gesamtfläche A um diesen Strahler herum.Eine Kugelfläche bietet sich aus mathematischen Gründen für diese Überlegung an.
+Eine zweite Randbedingung ist die Ausbreitung der elektromagnetischen Strahlung im Vakuum.
+Somit ist die Gültigkeit des Stefan-Boltzmann Gesetzes für die Betrachtung der Energieumwandlung in der Erdatmosphäre und auf der gesamten Erdoberfläche nicht geeignet.
+Mit herzlichem Glückauf
+Die Folien, die Sie verlinkt haben, enthalten diese Aussage nicht. Sie machen im Gegenteil klar, dass man aus der Temperatur und der Emissivität die Strahlung ableiten kann. Wie kommen SIe also auf Ihre Aussage. Haben Sie die Folien wirklich gelesen oder versehentlicht den falschen Link hier reingestellt?
+im ersten Schritt geht es geht um die Seiten 8,9,10 und 11 der Präsentation.
+http://tinyurl.com/ybpwz49s
+-was versteht man unter den Begriffen Absorptionsgrad und Emissionsgrad?
+-wann ist von Temperaturstrahlung die Rede?
+-mit welcher Strahlungsleistung ist zu rechnen, wenn Absorption und gleichzeitige Emission stattfindet?
+Bei der Berechnung der zu erwartenden Temperaturstrahlungsleistung nach dem Stefan-Boltzmann-Gesetz muss man die Gesamtfläche kennen, wo Absorption und Emission stattfinden könnten.
+Beantwortet man sich diese Fragen in Bezug auf den Solaren Antrieb , dann landet man am oberen Rand der Atmosphäre (TOA).
+Allerdings läuft der Motor noch ohne Kupplung !!!
+Mit der Powerpoint-Präsentation wird leider nur der didaktische Part der Wissensvermittlung greifbar.
+Bei der eigentlichen Vorlesung käme der pädagogische Anteil durch den Dozenten noch dazu.
+Soweit sind die Damen und Herren in München aber noch nicht, auch das passende Video zu veröffentlichen.
+Mit herzlichem Glückauf
+Letzteres steht genau nicht da. Kann es sein, dass Sie Absorptions- und Emissionsgrad mit Absorption und Emission verwechseln? Nur für Absorptions- und Emissionsgrad zeigen die von Ihnen verlinkten Folien eine Gleichheit. Die Berechnungsbeispiele auf Folie 11 und 12 berechnen die Abstrahlung unabhängig von irgendeiner vorhandenen Einstrahlung nur basierend auf Temperatur und Emissionsgrad …
+das haben Sie jetzt richtig erkannt.
+Doch sagen Sie mir wo auf dieser Welt steht der Würfel und wie lange behält er die Temperatur von 400°C.
+An diesem Standort können Sie nach Herzens Lust das Stefan-Boltzmann-Gesetz anwenden.
+Wenn ich da was verwechseln sollte, wäre es fair mir es zu erklären.
+Mit herzlichem Glückauf
+Hoffentlich nicht 2 m über dem Boden. ☺
+Das Gesetz, das ich kenne, beschreibt einen Zusammenhang zwischen der Temperatur eines Körpers und der von ihm abgestrahlten Leistung. Da steht nichts von „Strahlung erzeugt Temperatur“. Ist hier ein anderes Gesetz gemeint?
+Die Annahme, es gäbe auf der Nachtseite keine Abstrahlung, ergibt irgendwie keinen Sinn. Man sieht die Wirkung dieser Abstrahlung gut an der Temperaturkurve des Mondes. Die sinkt nämlich relativ linear ab, da der Mond kontinierlich Energie abstrahlt und damit kühler wird.
+Nimmt man an, dass Herrn Webers Interpretation stimmt, müßte sich ein Gegenstand verschieden verhalten, wenn ich ihn auf der Tag- bzw. Nachseite erwärme. Auf der Tagseite fängt er an zu glühen, wenn er warm genug wird, Nachts glüht (strahlt) er laut Herrn Weber nicht, da man dort das Stefan-Boltzmann-Gesetz nicht gilt. Das klingt irgendwie absurd.
+Und damit bleibt es irgendwie bei der Kritik, die bei jedem Artikel von Herrn Weber gebracht wird: Man kann nicht einfach so tun, als würde auf der Nachtseite keine Energie abgestrahlt. KJeder Körper, der eine von 0K verschiedene Temperatur hat, strahlt Energie ab …
+Wie wir in der Erklärung des Stefan-Boltzmann-Gesetzes gesehen haben, kann man nach diesem Gesetz nur diejenigen Größen ins Verhältnis setzen, die direkt in einem gleichzeitigen thermischen Verhältnis miteinander stehen. Gleichzeitig beteiligt an der Temperaturgenese auf unserer Erde sind aber ausschließlich die einfallende Sonnenstrahlung mit (pR²) und die Tagseite der Erde mit (2pR²). Für die ursprüngliche Sonneneinstrahlung von 1.367 [W/m²] ergibt sich daher der Divisor 2 für den Strahlungsdurchschnitt auf der Tagseite der Erde.
+Hier auf der Tagseite der Erde, und nur hier, gilt das Stefan-Boltzmann-Gesetz. Die Nachtseite der Erde hat mit der S-B Gleichgewichtstemperatur auf der Tagseite überhaupt nichts zu tun, weil sie ja keine temperaturgenerierende Sonnenstrahlung erhält.
+Man kann doch nicht eine spezielle Situation der Anwendung des Stefan-Boltzmann Gesetzes herzuziehen, um die Physik der Erde umzukrempeln.
+Vergessen wir mal den Boltzmann. Tatsache ist: Nicht die Erdoberfläche, sondern die Oberfläche der Atmosphäre erhalten durchschnittlich 1367 W/m² auf die Kreisfläche des Erdschattens. Umgelegt auf die Halbkugel sind das 683 W/m² Abstrahlen tut aber die gesamte Oberfläche der Atmosphäre. Tag und Nacht. Also die gesamte Kugelform und damit die doppelte Fläche. Und daher mit der halben Leistung = 342 W/m².
+Innerhalb der Atmoshäre und auf der Erde selbst geschehen viele Prozesse. Es kommen auf jeden Fall weniger als die erwähnten Wattzahlen auf der Erdoberfläche.
+Und auch die Unterscheidung in Tag-und Nachtseite ist nicht nötig. Die Erde dreht sich und wird dauerhaft beschienen. Sie empfängt eine bestimmte Ernergie und strahlt diese langfristig und durchschnittlich wieder ab. Um das zu erkennen, dazu braucht man keinen Boltzmann.
+Das eine Problem von Herrn Weber ist, dass er sich auf einen Standort der rotierenden Erde und des Mondes konzentriert. Da gibt es die tageszeitlichen Schwankungen. In der Realität aber wird durch die Drehbewegung Längengrad für Längengrad recht gleichmäßig erwärmt. Im gesamten Erdumfang – aber mit unterschiedlicher Intensität, je nach Temperatur der Atmosphärenoberfläche- geschieht die Abstrahlung. Immer die ganze Fläche.
+Wenn man ein Hähnchen grillt, dann konzentriert man sich ja auch nicht auf die Strahlungverhältnisse, die auf den Bürzel oder eine Flügelspitze auftreffen, sondern auf das gleichmäßige Ergebnis der Bräunung des ganzen Tieres.
+Und dann 70 – 90° Temperaturabweichungen bei seinen Berechnungen nachts einfach wegzuerklären, Da geht alles Wissenschaftliche den Bach runter. Die Strahlungsleistung steigt und fällt mit der Viererpotenz zur Temperatur. (Ich denke, das ist auch eine Boltzmann-Gleichung).
+Wie immer scheitert hier Herr Weber an seinem Denkmodell, das in diesem Fall keine Abstrahlung der Erde auf der Nachtseite erlaubt.
+Das andere Problem von Herrn Weber ist anscheinend, dass er nur die Anwedung des SB-Gesetzes in der Situation zweier sich anstrahlender Flächen kennt.
+Ich bin kein Fachmann, nehme aber an, dass man das Gesetz auch auf eine Gleichung des Energiehaushaltes eines Körpers anwenden kann, der Strahlungsenergie empfängt und sie aussendet – egal woher sie kommt und wohin sie geht.
+„Tatsache ist: Nicht die Erdoberfläche, sondern die Oberfläche der Atmosphäre erhalten durchschnittlich 1367 W/m² auf die Kreisfläche des Erdschattens. Umgelegt auf die Halbkugel sind das 683 W/m² Abstrahlen tut aber die gesamte Oberfläche der Atmosphäre. Tag und Nacht. Also die gesamte Kugelform und damit die doppelte Fläche. Und daher mit der halben Leistung = 342 W/m².“
+Das sind ganz sicherlich keine Tatsachen, da:
+-die 1367 auf Erdoberfläche und Atmosphäre verteilt werden – und das in höchst unterschiedlichen Maß, je nach geographischer Lage, Bewölkung, Aerosole etc.
+-Abstrahlung erfolgt von Atmosphäre UND Boden
+-das mit der „halben Leistung“ weß auch keiner, da nicht vollflächig zu messen und zu mitteln.
+Ein angenommenes Gleichgewicht ist außerdem eine reine Spekulation, da die Wärmekapazität der Erde so groß ist, daß sich Strahlungsungleichgewichte erst nach sehr langen Zeiträumen in Temperaturänderungen auswirken würden.
+„In der Realität aber wird durch die Drehbewegung Längengrad für Längengrad recht gleichmäßig erwärmt.“
+Ach was!
+Sahara: 65°C, Ozeanflächen ?????
+„Wenn man ein Hähnchen grillt, dann konzentriert man sich ja auch nicht auf die Strahlungverhältnisse, die auf den Bürzel oder eine Flügelspitze auftreffen, sondern auf das gleichmäßige Ergebnis der Bräunung des ganzen Tieres“
+Richtig!
+Daher ist die dem Hörensagen nach diffuse Gegenstrahlung so ideal zum Hähnchengrillen geeignet, da Hitzespitzen nicht nur an Bürzel bzw. an den Flügelspitzen prinzipiell nicht auftreten können…
+Diese Woche ist beim Discounter ein Döner- und Hähnchengrill für 49,90€ im Angebot. Vielleicht können Sie mal erste Versuche damit machen.
+ich stelle hiermit amtlich fest, daß Sie es immer noch nicht kapiert haben:
+Ich grille mit 1 KW Strahlungsleistung auf das Hähnchen.
+Ich grille nicht mit W/qm und schon gar nicht mit 300 von denen 😉
+wenn ich sie richtig verstanden habe, ist ihre ständig wiederholte Aussage folgende:
+“Wenn es die Gegenstrahlung gäbe, dann könnte man damit Hähnchen grillen.”
+Die aus der Atmosphäre abgestrahlte IR-Stahlung wird mit durchschnittlich 333 W/m² gemessen. die Erdoberfläche strahlt mit ca. 400 W/m² Richtiung Atmosphäre. Wir haben also in Nähe der Erdoberfläche einen Nettofluss der Energie Richtung Weltall.
+Doch selbst wenn man mal die Strahlung der Oberfläche weglässt, mit 333 W/m² lässt sich nichts grillen. Ein Hähnchen bietet eine Einstrahlungsfläche von 20 cm x 25 cm = 500cm², also 1/20m (0.05m²).
+333 / 20 = 17Watt, die auf das Hähnchen treffen. Damit sollte problemlos eine Salmonellenzucht mögich sein. Nur in Wirklichkeit straht ein Hähnchen bei Raumtemperatur mehr als die Atmosphäre.
+Sie grillen das Hähnchen auf einem Grill mit 1000 Watt, die auf die besagten 500cm² auftreffen. 1000W / 0,02m² = 20.000 W/m². Das macht die Sache knusprig.
+Wogegen ihr unterstellter Gegenstrahlungsgrill eine Luftnummer ist. Außer sie leben in einer Weltgegend, in der man keine für Energie keine Größenzuordnungen braucht. Dann kann man sogar bei Mondschein grillen, bei der gewaltigen Energie, die der Mond Richtung Erde strahlt..
+Ihr Kommentar zeigt von völliger Unkenntnis der konzeptionellen Grundlagen des Gegenstrahlungshähnchengrills.
+Ich habe es schon viele Male erklärt, bitte bemühen Sie hier die Suchfunktion.
+Ganz kurz:
+Die Gegenstrahlung wird mittels Parabolspiegel mit speziellem Profil für diffuse Strahlung konzentriert.
+Bei einem Fokussierwirkungsgrad von 30% benötige ich 10m² Spiegelfläche, was einem Spiegeldurchmesser von etwa 3,5 m entspricht.
+Der Spiegel wird senkrecht nach oben ausgerichtet und ist dann Tag und Nacht grillbereit.
+Falls Sie sich zur Anschaffung der leider etwas teureren Variante mit Mondlichtkugel entscheiden können, kann der Spiegeldurchmesser aufgrund des gesteigerten Fokussierungswirkungsgrades kleiner gewählt werden.
+Sie haben die Wahl…
+P.S.:
+http://www.deutschlandfunk.de/500-meter-teleskop-in-china-die-groesste-radioschuessel-der.732.de.html?dram:article_id=334752
+Der Link zeigt in Wirklichkeit eine Versuchsanlage der Chinesen, der Artikel ist nur Ablenkung ;-).
+Sie können sich selbst ausrechnen, welche Leistung bei 300m Durchmesser anfällt.
+(Falls nicht: ~7MW!!!)
+Damit dürfte auch das Grillen von Elefanten oder Flußpferden problemlos in kurzer Zeit möglich sein.
+Mit etwas, das es nicht gibt und nicht funktioniert, zu beweisen dass es etwas, was Sie anzweifeln, nicht gibt?
+Wohl etwas aus der Abteilung für sinnfreie geistige Freistilübungen…
+Ich will gar nichts beweisen ich will verkaufen und Kohle machen.
+Zielgruppe:
+Besonders kluge Gegenstrahlungsgläubige mit genug Kleingeld für ökologisch vorbildhaftes
+Freizeitvergnügen ohne Geruchsbelästigung der Nachbarn durch Spiritus- und Holzkohlegestank.
+Vom eingesparten CO2 gar nicht zu reden.
+Produkt: Gegenstrahlungshähnchengrill.
+Damit kann sich jeder, der an die 330W/qm Gegenstrahlung glaubt, jederzeit (Tag/Nacht, Sommer/Winter)
+mit der Gegenstrahlung ein Hähnchen grillen.
+Ganz ohne bösen Atom/Kohlestrom.
+Zum Nulltarif.
+Wollen Sie nun einen oder nicht?
+Worauf warten Sie?
+Daß Ihr Nachbar vor Ihnen einen hat?
+3. Juli 2017
+Eugen Ordowski
+Ich glaube, es ist der gleiche Nonsens, den viele auch hier verbreiten – die nennen es nur „Treibhauseffekt“!
+Herr Orodowski, man kann das Kind – den sog. Treibhauseffekt – nennen wie mal will.
+Ein Name ändert nichts an der Tatsache, dass Wasserdampf- und CO2-Moleküle in bestimmten Wellenlängen in alle Richtungen IR abstrahlen – auch in Richtung Erdoberfläche.
+Auch wenn Sie das behaupten, ändert sich nichts an den Fakten.
+Gasmoleküle können bei den bodennahen Temperaturen u. Drücken nicht strahlen!
+Wasserdampf in Form von Tröpfchen, kann nicht strahlen, nur reflektieren!
+CO2 strahlt seine Energie in einer Höhe von ca 11 km, ca -54 Grad C u. einem Druck von ca 0.2 Bar ab.
+Haben Sie sich einmal überlegt, was der Golfstrom mit dem mitteleuropäischen Klima macht???
+Schickt er hier einen besonderen „Treibhauseffekt“ zu uns?
+Wasserdampf und CO2 strahlen in bestimmten Wellenlängen, auch über dem Erdboden bei Normaldruck.
+Oder gibt es einen Nachweis für ihre Behauptung?
+Wassertropfen sind nicht Wasserdampf, sondern Wasser.
+Wolken, die aus Wassertröpfchen bestehen, haben die Eigenschaften eines Schwarzen Strahlers – sie absorbieren und strahlen im gesamten Spektrum.
+„In der Realität aber wird durch die Drehbewegung Längengrad für Längengrad recht gleichmäßig erwärmt.“
+Ach was!
+Sahara: 65°C, Ozeanflächen ?????
+Natürlich haben Sie hier recht, Herr Keks. Die Erdeoberfläche resp. der Ozean werden nicht gleichmäßig erwärmt.
+Nur die Zuführung der Energie Längengrad pro Längengrad ist relativ gleichmäßig – sobald es die Wolken und Albedo zulassen.
+Das ändert aber nichts daran, dass die auf die halbe Oberfläche der Atmosphäre auftreffende Strahlungsleistung diese auch auf die ganze Atmosphären-Oberfläche verteilt wieder verlässt – entweder als IR-Strahlung oder als kurzwelliges reflektiertes Licht.
+Dass Herr Weber mittels des Stefan-Boltzmann-Gesetzes die Wärmeabstrahlung der halben Erdkugel (Nachtseite) incl. Atmosphäre verbieten will, ist einfach hahnebüchen.
+Aber es gibt natürlich auch Menschen, die Wasserdampf- und CO2-Molekülen verbieten, in Richtung Erdoberfläche abzustrahlen, weil das angeblich gegen den Thermodynamischen Hauptsatz verstößt.
+Und auch solche Zeitgenossen, die behaupten, dass ein bestimmter Atmosphärischer Druck auch unter statischen Zuständen immer dieselbe Temperatur erzeugt, unabhängig ob dabei Energie zugeführt wird oder nicht.
+Heißer Tipp: Man kann durch Beobachtungen bestimmte Gesetzmäßigkeiten erkennen. Nur sind das keine Gesetze, mit denen man andere physikalische Eigenschaften polizeilich verbieten kann.
+Wenn er das tut, ist es das.
+„Aber es gibt natürlich auch Menschen, die Wasserdampf- und CO2-Molekülen verbieten, in Richtung Erdoberfläche abzustrahlen, weil das angeblich gegen den Thermodynamischen Hauptsatz verstößt.“
+Auch so ein Dummschwätz, der nicht tot zu kriegen ist:
+Niemand behauptet es könne nicht Richtung Oberfläche gestrahlt werden, die Frage lautet ob diese Strahlung den Boden erwärmen/am Abkühlen hindern kann.
+„Und auch solche Zeitgenossen, die behaupten, dass ein bestimmter Atmosphärischer Druck auch unter statischen Zuständen immer dieselbe Temperatur erzeugt, unabhängig ob dabei Energie zugeführt wird oder nicht.“
+Er hat bewiesen, dass es total wurscht ist, ob die Erde eine Atmosphäre hat oder nicht – zumindest was die Erdtemperatur betrifft.
+Und zwar, weil er Temperaturmessungen der Apollo-Raumfähre auf dem Mond mit Messungen auf der Erde (Potssdam) vergleicht – mitttelst der Stefan-Boltzmann-Gleichung.
+Inzwisschen hat er zumindest mal verstanden, dass die auf die Erde auftreffende Energie die der Fläche einer Kreisscheibe entspricht, die sich auf eine Hälfte der Erdkugel verteilt.
+Wenn da noch der Boltzmann dazukommt, schwindet mein Verstehen vollends dahin. Mir fehlt der Zusammenhang.
+Ich weiß nur eins: Die Energie, die auf die Oberfläche der Atmosphäre einstrahlt, wird von ihr auch auch wieder abgestrahlt, sonst würde es schnell extrem heißer werden.
+Die Atmosphäre hat eine ganze Menge von Eigenschaften.
+-sie reflektert einen Teil der Sonneneinstrahlung
+-sie lässt kurzwellige Strahlung nach unten durch
+-sie lässt langwellige Strahlung vom Boden nur in bestimmten Wellenlängen durch.
+-sie erwärmt sich durch langwellige Strahlung
+-sie transportiert Wärme durch Strahlung, Kontakt und Konvektion.
+-sie strahlt alle Wärme durch langwellige IR-Strahlung ins Weltall ab.
+Zusätzlich hat die Erde noch die Albedo von Wasser, Schnee und Eis. Dann das vierfach so hohe Speichervermögen von Wasser. Dann noch Wolken, die auch Albedo haben und Gegenstrahlung nach unten erzeugen. Okay, dann noch die Ozonschicht und andere atmosphärische Schichten.
+Das hat laut Weber alles keinen Einfluss auf die Erdtemperatur, und ist bewiesen durch die Messungen von Apollo, Potsdam und einer speziellen Auslegung von Stefan-Boltzmann.
+Es ist ja gut, wenn die EIKE-Redaktion auch mal andere Meinungen kommen lässt. Nur schafft sie es nicht, einmal ihre Stellung dazu für Laien verständlich darzustellen.
+Möglicherweise gibt es sogar keine einheitliche Meinung.
+Nur wie soll ich da als bayerischer Hauptschüler eine Orientierung bekommen?
+Und die anderen Foristen hier scheinen Herrn Weber mehr oder weniger zuzustimmen, lasssen aber auch nur tröpfchenweise Informationen dazu raus.
+Wer will, bei all den Mittelwerten, von denen immer geschrieben wird, mathematisch die Oberflächenbeschaffenheit der Erde (z. B. Berge, Täler, Meere, Stein, Sand usw., usw.) einbeziehen können? Auch wenn ich keine Ahnung habe, behaupte ich: „Das ist nicht möglich.“
+Es ist ja ganz interessant zu sehen, welche Ergebnisse, je nach Wunsch und Ziel, dabei herauskommen. Wer aus all diesen Schätzungen, Errungenschaften und Annahmen die Behauptung aufstellt, das einzig richtige Ergebnis gefunden zu haben und daraus ableitet, die Verpflichtung zu haben, die Menschheit zu reglementieren, ist in meinen Augen nicht ganz richtig im Kopf.
+Genau das machen die CO2‑Jünger, wohl angeleitet durch Menschen mit unlauteren Vorhaben, übernommen von den Politikern, die offensichtlich korrupt sind und überhaupt keine Ahnung haben, was wohl der Karriere zuträglich ist. Wer hinterfragt, wird nicht protektioniert.
+Mich wundert auch immer – wie z.B. das MPI für Meteorologie in Hamburg zum Vergleich eine Erde ohne Atmosphäre meint zum Vergleich verwenden zu dürfen. Ohne Atmosphäre gibt´s keinen THE, also auch kein vorher nachher.
+Zitat:
+So einfach wie solche Gleichungen aussehen, kann man auch leicht danebentappen, wenn man nicht richtig aufpaßt. Da tragen zwei Männer ein Ruderboot zu Wasser, einen schnittigen Zweier, der auf ruhigem See mit der Geschwindigkeit c = 15 km/h dahinflitzt. Beide haben sich ausgerechnet, daß sie die 2 km lange Strecke in genau 8 min zurücklegen.
+Heute aber wird auf der Elbe trainiert. Die Strömung des Wassers macht v = 5 km/h aus. Um ihren Einfluß zu beseitigen, beschließt man daher, einen Kilometer hin und wieder zurückzurudern. Dann müßte sich der stromaufwärts entstehende Zeitverlust gerade wieder ausgleichen; denn man fährt ja gegen den Strom mit der auf das Ufer bezogenen Geschwindigkeit (c – v) = (15 – 5) km/h = 10 km/h und mit dem Strom (c + v) = (15 + 5) km/h = 20 km/h, was ohne Zweifel den richtigen Mittelwert von 15 km/h ergeben sollte.
+Natürlich stimmt der Mittelwert auch — leider nicht die Fahrzeit, auf die es gerade ankommt!
+Denn für den Hinweg brauchen sie die Zeit s/v1 = 1 km x 60 min / 10 km = 6 min und für die Rückfahrt s/v2 = 1 km x 60 min / 20 km = 3 min. Das macht zusammen nicht 8, sondern 9 Minuten! Eine ganze Minute werden sie länger brauchen, als sie sich vorgestellt hatten. Die Rückfahrt ist nicht schnell genug, den hinwärts entstandenen Zeitverlust wieder auszugleichen.
+Ende
+Carsten
+—
+„Steht das Schwein auf einem Bein, ist der Schweinestall zu klein”
+Hat wirklich jemand mit den Temperaturen der Nachtseiten von Mond und Erde den THE beweisen wollen, wie von Ihnen zitiert? Scheinbar steht es um das naturwissenschaftliche Niveau in diesem Land noch schlimmer als ich befürchtet habe.
+1) Die Erde befindet sich zu keinem Zeitpunkt im thermischen Gleichgewicht!
+Die Annahme: zugeführte Strahlungsleistung = abgegebene Strahlungsleistung
+ist falsch u. führt zur nicht existierenden Schlüssen!
+2) Die Erde ist ein Körper, der zyklisch erwärmt wird u. sich wieder abkühlt.
+Aus der zugeführten Energiemenge kann man nicht auf seine tatsächliche Temperatur schließen!
+3) Alle Berechnungen mit Mittelwerten sind sinnlos, da sie nicht die Realität abbilden!
+4) Da es auf der Tagseite der Erde keinen „Treibhauseffekt“ geben kann (s. oben),
+kann er auch nachts nicht plötzlich auftauchen (2.HT)
+5) Das CO2 Molekül kann bei den bodennahen Temperaturen u. Drücken nicht strahlen! ( siehe Thermodynamik der Gase.)

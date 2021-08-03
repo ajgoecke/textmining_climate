@@ -1,0 +1,574 @@
+Zusammenfassung
+Die Unsicherheit der instrumentallen Messungen ist in früheren Schätzungen des globalen Oberflächen-Temperaturmittels noch nie vollständig behandelt worden. Der geschätzte durchschnittliche Messstationsfehler von ±0.2 C wurde fälschlicherweise als zufällig betrachtet und der systematische Fehler aus freien Variablen ist ständig vernachlässigt worden. Die systematischen Messfehler von drei ideal positionierten und gewarteten Temperatursensoren werden hier berechnet. Kombiniert mit dem durchschnittlichen Messstationsfehler von ±0.2 C wurde eine repräsentative untere Unsicherheitsgrenze von ±0.46 C für jede globale jährliche Oberflächentemperatur-Anomalie gefunden. Diese ±0.46 C zeigen, dass der Trend der globalen jährlichen Oberflächentemperatur-Anomalie von 1880 bis einschließlich 2000 statistisch nicht von 0 C unterschieden werden kann, er stellt daher eine untere Grenze der Kalibrierungs-Unsicherheit für Klimamodelle dar und für jede voraussichtliche physikalisch gerechtfertigte Proxy-Rekonstruktion von Paläo-Temperaturen. Die Rate und das Ausmaß der Erwärmung im 20. Jh. sind daher nicht bestimmbar. Behauptungen eines noch nie dagewesenen Trends in der globalen Termperatur im 20. Jh. können nicht aufrecht erhalten werden.
+Einführung
+Die Rate und das Ausmaß der Klimaerwärmung im vergangenen Jahrhundert geben zu erheblicher internationaler Besorgnis und Forschung Anlaß [1, 2]. Die veröffentlichten Auswertungen der Quellen der Unsicherheit in den Aufzeichnungen der globalen jährlichen Oberflächentemperaturen sind bisher auf Ortsveränderungen der Messstationen gerichtet gewesen, auf räumliche Inhomogeneität der Messstationen, auf Instrumentenaustausch und auf Veränderungen in der Landnutzung und auf die Verstädterung.
+Überprüfungen der Datenqualität von Landmessstationen und Anpassungen der Zeitreihen, die zur Unterstützung eine geschätzten Unsicherheit von etwa ±0.2 C bei einer globalen Anomalie im Jahrhundertdurchschnitt von etwa +0,7 C angewendet worden sind, haben das Messungsrauschen nicht richtig beachtet und sie haben noch nie die unabhängigen Umweltvariablen beachtet, die die Auflösungsgenauigkeit der Sensoren im Feld beeinflussen. Die Auflösungsgenauigkeit im Feld bezieht sich auf die Fähigkeit eines Sensors zwischen ähnlichen Temperaturen, dem wirksamen Einfluß der Umwelt und den verschiedenen Quellen von Instrumentenfehlern zu unterscheiden.
+In einer neuen Abschätzung globaler jährlicher Oberflächentemperaturen und deren Unsicherheiten haben Brohan et al. [11], hier folgend mit B06 zitiert, das Messgeräterauschen als vernachlässigbar beurteilt. Sie schreiben: „Der zufällig Fehler bei einer einzigen Thermometer-Ablesung beträgt etwa 0.2 C (1Standardabweichung) [Folland,et al., 2001] ([12]); der Monatsdurchschnitt beruht auf mindestens zwei Ablesungen pro Tag während der gesamten Monatsdauer, wodurch 60 oder mehr Werte gewonnen werden, die zur Durchschnittsbildung herangezogen werden. Daher beträgt der Fehler im Monatsdurchschnitt höchstens 0.2 /Quadratwurzel 60 = 0.03 C und dieser Wert wird nicht mit dem Wert einer anderen Station oder mit dem Wert für einen anderen Monat korreliert.
+Ziffer [29] von B06 begründet diesen statistischen Ansatz damit, dass die monatlichen Temperatur-Aufzeichnungen der Bodenmessstationen als Summe aus einem konstanten Mittelwert plus Wetter-Rauschen verstanden werden. “Die Messstationstemperatur jedes Monats während der Normalperiode kann als die Summe zweier Komponenten betrachtet werden: einem konstanten Stationsnormalwert (C) und einem zufälligen Wetterwert (w, mit der Standardabweichung ?i).“ Diese Beschreibung und der Ansatz einer Reduktion von 1 / Quadratwurzel 60 als Messungsrauschen zusammen bedeuten, dass hier statistisch eine Mittelwertbildung des Signals der monatlichen Temperaturen vorgenommen wird.…
+..Die „Freiwilligen“ und ich werden erwähnt (Anm. d. Ü.: Es handelte sich um ein Freiwilligen- Team, das unter Anthony Watts Anleitung die meisten U.S.-amerikanischen Bodenwetterstationen auf mögliche verfälschende Umwelteinflüsse untersuchte):
+Die Güte einzelner Bodenmessstationen wird für die Vereinigten Staaten vielleicht am besten durch die empfehlenswerten und ausgezeichneten unabhängigen Auswertungen durch Anthony Watts und sein Freiwilligenkorps untersucht. Die Ergebnisse sind öffentlich zugänglich unter: http://www.surfacestations.org/. Ihr Ausmaß umfaßt das gesamte Netz der USHCN Bodenmessstationen. Danach verdienten 69% der USHCN Stationen eine Stationsbewertung von “schlecht” (poor) und weitere 20% nur ein “ausreichend” (fair) [26]. Aus dieser und begrenzteren veröffentlichten Untersuchungen von Stationsmängeln [24, 27-30] geht hervor, wie weit entfernt von „ideal“ die Güte der Stationsmessungen in den Vereinigten Staaten sind. In Europa hat eine kürzliche weitflächige Analyse der Güte von Stationsdatenreihen im Rahmen des European Climate Assessment [31] überhaupt keine Untersuchung der individuellen Stations-Sensorabweichungen erwähnt und ausgesagt: “es kann nicht garantiert werden, dass jede Temperatur- und Niederschlagsserie für Dezember 2001 genügend homogen ist in Bezug auf die tägliche Mittelwertbildung und Abweichung.“
+…
+Also, es hat offensichtlich nie eine Auswertung weder der Abweichung des Temperatursensor-Rauschens noch der stationsbezogenen Abweichungen stattgefunden für diejenigen Messstationen stattgefunden, deren Messungen in die globale Mittelwertbildung eingehen. Schlechte Stationsgüte wurde größtenteils denjenigen Stationen bescheinigt, die unabhängig untersucht worden sind. Schließlich haben Lin und Hubbard nachgewiesen [35], dass variable Bedingungen im Feld eine nicht-lineare systematische Auswirkung auf das Messverhalten der Sensorelektronik ausüben. Das deutet auf wahrscheinliche nicht-stationsbezogene Rauschvarianzen in den Zeitreihen der Temperaturmessungen der jeweiligen Bodenstationen hin.
+…
+4. Zusammenfassung und Ergebnisse
+Die Annahme eines globalen stationseigentümlichen Sensor-Rauschens ist empirisch noch nicht überprüft worden und noch nicht bestätigt. Die geschätzte Unsicherheit im Rauschens setzt sich eher mit fort als mit . Die Unsicherheit in den monatlichen Mittelwerten würde außerordentlich vermindert, wenn die Positionierung der Bodenmessstationen verbessert würde und die Varianzen des Sensor-Rauschens bekannt, überwacht und empirisch als stationseigentümlich verifiziert würden.
+…
+Die Untergrenze der Unsicherheit von ±0.46 C zeigt, dass der Trend der gemittelten globalen Temperatur-Anomalien zwischen 1880 und 2000 statistisch nicht von 0 C auf der 1? – Ebene unterschieden werden kann. Daher ist die Schlussfolgerung unabweisbar, dass es derzeit unmöglich ist, einen globalen Erwärmungstrend des Klimas seit 1880 zu quantifizieren.
+Das Papier kann vom Verlag Multi-Science bezogen werden:
+Ich bitte jeden, der diese Arbeit schätzt und mehr wissen will, den Verlag durch den Kauf einer Kopie des Papiers über die oben angegebene Adresse zu unterstützen.
+Glückwünsche an Herrn Frank für sein schwere Arbeit und die erfolgreiche Publikation. Ich bin sicher, dass seine Arbeit noch zitiert werden wird.
+Bei Jeff Id bei Air Vent gibt es eine technische Diskussion darüber, die einen Besuch wert ist.
+Antony Watts
+Zu einer vergleichbaren Aussage kommt R. Lindzen bei seiner Aussage vor dem Senatsausschuss 2007: (Seiten 10,11 & 12)
+Die Übersetzung besorgte Helmut Jäger
+„dass ich auch nur Hobbymeteorologe bin“,
+das erklärt vieles,
+ich empfehle da z.B. den Profi-Meteorologe Marcel Leroux, der die „Mobile Polar High“ (MPH) gefunden hat und damit z.B. die El-Niño´s erklären kann.
+Der hält übrigens gar nichts von dem „Treibhaus Effekt“,
+eher denkt er wie ich, dass das ein Kühl-Effekt ist.
+danke fuer Ihre ehrliche Antwort. Die Diskussion mit Herrn Paesler hat Ihren hoffentlich gezeigt, dass auch eine vermeindtlich trivial Datenanalyse Fallstricken haben kann. Nun war das erst ein kleiner Einblick in die heutige kLimatologische und meteorologische Forschung.
+Unabhaengig davon schrieb ich ja schon, dass ich auch nur Hobbymeteorologe bin, ich mache beruflich auch etwas ganz anderes. Dennoch kann man aus eigenen Messdaten und einer Analyse, die wissenschaftliche Methoden benutzt, jede menge schlussfolgern kann.
+Sehr geehrter Herr Baecker,
+vorweg, nicht die Meteorologie ist mein Hobby, das wäre mir ehrlich gesagt zu langweilig (sollte keinesfalls eine Abwertung sein, aber um das Wetter zu beeinflussen ist mein Arm zu kurz). Vielmehr sind für mein Hobby meteorologische Vorhersagen wichtig. Jede unzutreffende Vorhersage wird umgehend „quittiert“ – das prägt deutlich mehr als irgend ein Graph. Sehr einprägsam wird es an der Behaglichkeitsgrenze.
+Die ursprüngliche Frage war die Vergleichbarkeit alter Messwerte mit neuen Messwerten durch veränderte Randbedingungen.
+Herr Paesler hat Ihnen dazu eine wirklich treffende meteorologisch/historische Stadtführung gegeben.
+Sicherlich haben Sie selbst genug Möglichkeiten dieses Thema im Massstab 1:1 untersuchen. Man muss manches selbst getan/gemessen/entdeckt haben, damit es ein „Selbstläufer“ wird.
+Mit Ihrem meteorologischen Background könnten Sie mit Sicherheit viel mehr aus den Messwerten herauslesen als ich es kann. Beobachten Sie. Vergleichen Sie Einzelmesswerte. Wenn Sie wissen was diese wert sind, dann erspart Ihnen das viel Streiterei um die Mittelwerte. Nur umgekehrt geht es nicht.
+Mit freundlichen Grüßen
+Paul Gogo
+ich bat Sie um bespielhafte Messwerte, die Ihr Problem verdeutlichen. Haben Sie solche oder basieren Ihre Argumente nur auf theoretischen Überlegungen, die Sie aus Erfahrungen im Labor in die Atmosphäre übertragen haben?
+„sondern um den „Dreckeffekt“ eines ganzen Ortes“
+Woran machen Sie dies fest? Geben Sie einfach mal konkret an, in welchem Bereich Ihre Luftemperatur variiert, sofern Sie die Regeln in #60 weitgehend befolgt haben. Außerdem können Sie an den Messungen von Wetterstationen (Wetterdienste oder viele Hobbymeteorologen mit guten Instrumenten und messtechnischem Knowhow), dass die aktuelle Lufttemperatur von Luftmassen über einige zig km recht homogen ist (1-2 Grad Abweichung)
+„auch von der Intensität der Sonnenstrahlung UND der Windrichtung und der Windstärke abhängig.“
+Schließen Sie damit trotz Ihrer Massnahmen auf einen dominanten Messfehler durch Sonneneinstrahlung und Wind oder stört Sie die Tatsache, dass die Lufttemperatur vom Wetter (Ostwind im Winter: tendenziell kälter, Sonnenschein im Sommer, tendenziell wärmer, im Winter: tiefe Minima) abhängt 😉 ? Ich verstehe nicht, was Sie damit aussagen wollen!
+Entweder Sie haben Störungen bei der korrekten Messung der Lufttemperatur nicht genügend eliminiert, oder Sie haben eine absurde Vorstellung davon, was Sie messen wollen. Können Sie das genauer erklären, ich verstehe Sie nicht?
+„Selbstverständlich muss der Begriff Mikroklima definiert werden.“
+„Wie suchen Sie handwerklich richtig – ohne das Mikroklima zu kennen?“
+Eine Definition findet Sie im klassischen Werk von Geiger. Ich schrieb Ihnen bereits oben, was man darunter versteht. Das Mikroklima wollen wir also beide nicht messen, und daher sucht man sich also Orte, deren Klima dem grossräumigen Klima entspricht und nicht von mikroklimatischen Besonderheiten dominiert wird. Ich schrieb Ihnen schon, dass es um die Temperaturmessung von LUFTMASSEN geht, deren Temperatur über mehrere zig- km nicht mehr als 1-2 Grad abweicht, wie Sie leicht verfolgen können, wenn Sie sich mal die Messungen von Wetterstationen angucken. Oder wollen Sie behaupten, dass diese stets zufällig ähnliche Werte liefern?
+„Warum wollen Sie den „Dreckeffekt Haus“ beruecksichtigen anstatt sich einen meteorologisch repraesentativen Ort zu suchen, oder interessiert Sie das Mikroklima?“
+Sehr geehrter Herr Baecker,
+Ihre Antworten #58 und #59 sind eng gekoppelt.
+Es geht hier weniger um den Dreckeffekt eines „einzelnen Hauses“, sondern um den „Dreckeffekt“ eines ganzen Ortes und dieser ist in genanntem Beispiel auch von der Intensität der Sonnenstrahlung UND der Windrichtung und der Windstärke abhängig.
+„Dreck“ wird es aber dann wenn diese „verdreckten“ Messwerte als repräsentativ für die umgebenden „100“qkm verwendet werden.
+Angenommen, Erfahrung ist etwas objektives und Bauchgefühl ist etwas, was sich von Vorurteilen bis hin zum Spiritistischen erstreckt, dann ist Ihre Suche nach einem meteorologisch repräsentativen Ort – ohne Validierung eine Suche nach dem Bauchgefühl und der Vorschlag der messtechnischen Ermittlung des Mikroklimas zur Bestimmung eines repräsentativen Messortes ein Ergebnis der Erfahrung (man muss nicht aus dem 22. Stockwerk springen um zu erfahren, dass die Folgen gravierend sein können – obwohl man noch eine Handbreit über dem Boden objektiv unverletzt sein wird). Wenn Sie das Innenleben z.B. eines Tower PCs meteorologisch betrachten würden, könnten Sie erkennen, dass genau die von mir beschriebene Thematik von den Entwicklern berücksichtigt wurde. Selbstverständlich ist das auch bei einem Notebook und bei jedem anderen Gerät so, in dem die gezielte Abfuhr von Verlustleistung überlebensnotwendig ist – nur schwieriger zu erkennen. Sie könnten möglicherweise ein Notebook im Massstab 100000:1 modellieren und dann mit Ihnen vertrauten Geräten messen.
+Das soll aber nicht gleichzeitig heissen, dass die PC Entwickler deshalb bessere Meteorologen sind. Mit der Temperaturerfassung sind sie Ihnen aber etwas voraus. Der Grund ist ganz einfach. Wenn z.B. Graphikkarten nach 3 Monaten gehäuft sterben, werden die Entwickler vom „Markt genommen“. Die Evolution braucht das möglichst frühzeitige Aussondern! Bei den Meteorologen fällt dagegen nichts aus – ausser vielleicht die prognostizierte „Heisszeit“ – behaupten kann ich das aber nicht.
+Überdenken sie bitte Ihre Aussage: Sie dichten mir immer Interesse am Mikroklima an, während Sie nach einem meteorologisch repräsentativen Ort suchen.
+Wie suchen Sie handwerklich richtig – ohne das Mikroklima zu kennen? Selbstverständlich muss der Begriff Mikroklima definiert werden. Nicht dass Sie annehmen ich meine Picoklima und ich annehme Sie meinen Centiklima.
+MfG
+Paul Gogo
+hier aus der „Richtlinie Klimastationen“ vom DWD. Wenn Sie dies befolgt haben, so sollten Ihre Messungen schon mal gute Standortvoraussetzungen für repräsentative Messungen der Lufttemperatur haben.
+„2.1.3 Anforderungen an die Aufstellung der Sensoren zur Messung
+meteorologischer Elemente
+2.1.3.1 Lufttemperatur (2 m)
+Die Lufttemperatur wird in 2 m Höhe über Grund gemessen.
+Die Messung erfolgt in einer strahlungs- und witterungsgeschützten Hütte.
+Die Hütte soll auf natürlichem Untergrund, möglichst auf einer Rasenfläche stehen und
+der Luftströmung ungehindert ausgesetzt sein. Am besten eignet sich hierfür ein freier
+Platz oder ein locker mit niedrigen Bäumen und Sträuchern bewachsenes Gelände
+(ausgedehnter Garten) in möglichst ebenem Gelände.
+Der Luftraum, in dem gemessen wird, darf nicht durch Mauern, Bretterzäune, Hecken,
+dicht stehendes Strauchwerk oder dicht wachsende höhere Pflanzenkulturen abgeschlossen
+sein.
+Hindernisse (Gebäude, Bewuchs) müssen so weit von der Hütte entfernt
+sein, daß der Messplatz – mit Ausnahme der Sonnenauf- und
+Sonnenuntergangszeiten – von der Sonne beschienen werden kann,
+mindestens jedoch über Mittag. Das heißt, die Hinderniswinkel
+müssen im Süden – auch im Winter – unterhalb des höchsten
+Sonnenstandes liegen, in Abhängigkeit von der geographischen
+Breite also zwischen 12° und 19°.
+In der Folgezeit ist darauf zu achten, daß Bäume und Büsche unter dem angegebenen
+Winkel bleiben.
+Das gilt auch für benachbarte Grundstücke und für Bauten, die neu errichtet werden
+sollen.
+Mauern (auch Hauswände) müssen wegen der Reflexion und/oder
+der Abgabe von Wärmestrahlung mindestens 10 m entfernt sein.
+Läßt sich dies nicht realisieren, kann die Mauer ggf. durch Buschwerk verdeckt werden.
+Wärmequellen (z.B. Gewächshäuser), Feuchtequellen (z.B. Springbrunnen)
+und Erschütterungsquellen (z.B. Straßen mit Schwerlastverkehr)
+sollen möglichst weit entfernt sein.
+Eine Aufstellung auf dem Hausdach, auf einer Terrasse oder einer (Beton-) Plattform ist
+nur in Ausnahmefällen (z.B. an Bergstationen) zulässig.“
+„Damit Sie mich aber nicht wieder missverstehen, das Thermometer selbst wird nicht von der Sonne bestrahlt, die umgebenden qkm schon.
+Deshalb auch der veranschlagte lange Zeitraum um einen Messort vollständig zu validieren. Es gibt dafür m.E. keine einfache Lösung“
+den Zusammenhang zwischen Bestrahlung des Standortes und des Validierungszeitraumes kann ich nicht nachvollziehen.
+Ok, Sie versuchen moeglichst ohne Strahlungsfehler die temperatur zu messen und der Standort liegt in der Sonne. Beides sind Voraussetzungen fuer eine repraesentative meteorologische Temperaturmessung. Und wie gehen ie nun fuer Ihre Validierung vor, was bestimmt Anzahl, Aufstelung der sensoren und der Validierungszeitraum? Wovon sind diese Massgaben abhaengig, haben Sie messtechnische Erfahrungen, die dies notwendig machen, weil es mit weniger nicht geht, oder ist es Bauchgefuehl?
+haben Sie mal an verschiedenen Orten in Ihrem Garten gemessen und verglichen? Warum wollen Sie den „Dreckeffekt Haus“ beruecksichtigen anstatt sich einen meteorologisch repraesentativen Ort zu suchen, oder interessiert Sie das Mikroklima?
+„ich glaube wir missverstehen uns. Vielleicht klaeren wir erstmal einen Punkt. Sie schrieben, dass Sie je nach Windrichtung und Bestrahlung unterschiedliche Temperaturen messen. Was haben Sie denn dafuer getan, dass Sie auch wirklich die Lufttemperatur messen und nicht zusaetzlich „Dreckeffekte“, haben Sie einen Strahlungsschutz und wie, wo haben Sie das Thermometer aufgestellt (Untergrund, Hoehe, Umgebung)?“
+Sehr geehrter Herr Baecker,
+entschuldigen Sie bitte die späte Antwort.
+Ob es Dreckeffekte sind, hängt von der Definition „Dreck“ ab. Selbstverständlich wird die Temperatur durch die Bebauung beeinflusst. Das wird sie fast überall, mal vernachlässigbar, mal nicht. Dass man diese Temperaturerhöhung berücksichtigen muss erscheint mir selbstverständlich – nur vergleichen mit Messungen, aus einer Zeit mit geringerer Bebauung, darf man sie nicht. Es wäre auch nicht nur ein Vergleich der Temperaturmesswerte, sondern auch der Randbedingungen wie hier Windrichtung und Sonneneinstrahlung.
+Damit Sie mich aber nicht wieder missverstehen, das Thermometer selbst wird nicht von der Sonne bestrahlt, die umgebenden qkm schon.
+Deshalb auch der veranschlagte lange Zeitraum um einen Messort vollständig zu validieren. Es gibt dafür m.E. keine einfache Lösung.
+MfG
+Paul Gogo
+ich glaube wir missverstehen uns. Vielleicht klaeren wir erstmal einen Punkt. Sie schrieben, dass Sie je nach Windrichtung und Bestrahlung unterschiedliche Temperaturen messen. Was haben Sie denn dafuer getan, dass Sie auch wirklich die Lufttemperatur messen und nicht zusaetzlich „Dreckeffekte“, haben Sie einen Strahlungsschutz und wie, wo haben Sie das Thermometer aufgestellt (Untergrund, Hoehe, Umgebung)?
+„Lieber Herr Gaga,
+„“Ihre Antwort ist genial: Nicht messen!“
+„Wo sollte ich das geschrieben haben, hm?““
+Sehr geehrter Herr Baecker,
+Sie müssten sich eigentlich noch daran erinnern was Sie geschrieben haben:
+In #49 z.B:
+„Tja, da haben Sie wohl ein Messproblem. Sie können gerne den Aufwand mit Ihren 100 Messfühlern treiben, aber diese Diskrepanzen sollten man mit mehr meteorologischem Verständnis auch mit weniger Aufwand reduzieren können.“
+dann weiter in #49:
+„Sie können mit Ihren Messfühlern ja gerne die mikroklimatischen Besonderheiten Ihres Standortes ermitteln, aber am einfachsten ist es, wenn sie sich einfach einen geeigneteren Standort suchen, der eben durch diese mikroklimatischen Abweichungen nicht gestört ist.“
+Im ersten Fall bedeutet das: Ich würde zuviel messen wollen (und zuwenig glauben).
+Sie ersetzen einen Teil der Messtechnik durch mehr meteorologisches Verständnis.
+Im zweiten Fall bedeutet das: Ich muss überhaupt nicht mehr messen (sondern nur noch glauben).
+Sie ersetzen die Messtechnik vollständig durch die Suche nach meteorologischen Gesichtspunkten (suchen nach was? nach welchen Kriterien?)
+Sie ersetzen Objektives durch Subjektives.
+In #54 wiederholen Sie das nochmals:
+„Indem man sich einfach meteorologisch auskennt und den Standortregeln für meteorologische Messungen bestmöglich folgt und nicht irgendeinen Blödsinn misst, nur weil man nicht weiß, wie man einen Temperatursensor für ausschließlich Temperaturmessungen einsetzt.“
+Hier verwechseln Sie auch die Temperatur welche der Messfühler misst mit der repräsentativen Temperatur des Messortes, die Sie nicht kennen.
+Blödsinn (gemessene Temperatur) wird es, wenn Sie Wahrheit (repräsentative Temperatur am Messort) für nicht relevant erachten oder gar nicht wissen wollen!
+Sie verwechseln wieder Wunsch mit Wirklichkeit, Aufgabe mit Ergebnis.
+„Wenn Sie einen dämlichen Ort wählen, können Sie sich das Validieren sparen. Suchen Sie sich eine 1 ha große trockene Wiese, stellen Sie eine Hütte gemäß Anleitung auf, dann können Sie validieren und kommen zu den Schluß, dass die Messung im Monatsmittel nicht mehr als 1 Grad von dem einer ebenso aufgestellten Hütte ein paar km entfernt ist (Höheneffekt müssen Sie rausrechnen). Bei nicht so günstigen Bedingungen müssen Sie eben die mikroklimatischen Bedingungen rausfinden.“
+Oberflächlich betrachtet haben sie mit dem letzten Satz dazugelernt.
+Ich verstehe Sie so, dass im Normalfall Sie die Eignung eines Messortes beurteilen können ohne zu messen. Nur in schwierigen Fällen muss man die Bedingungen mikroklimatisch vermessen.
+Ob es günstige oder ungünstige Bedingungen sind, das wissen Sie erst, nachdem Sie den Messort messtechnisch untersucht haben. Oder sind Glaube und Wissen(schaft) für Sie dasselbe. Sie verwechseln wieder die Aufgabe mit dem Ergebnis.
+Messorte sind fast immer „dämlich“. Das ist Alltag in der Messtechnik. Die wenigsten Messaufgaben finden an idealen Orten statt. In vielen technischen Produkten sind deshalb Messpunkte hineinkonstruiert um repräsentative Messergebnisse zu erhalten. In meinem Beitrag #47 stand der Topf voller Eiswasser für eine relativ günstige Bedingung.
+„Falsch und nun nochmal zum hinter-die-Ohren- schreiben zum x-ten Mae:
+Klimatologen und Meteorologen wollen mit einem Thermometer die Lufttemperatur der Luftmasse und nur die messen, klar?“
+Klar, aber es geht nicht nur um das messen wollen, sondern auch ein wenig um das richtig messen können.
+Aber was wollen Sie Herr Baecker?
+„Messungen sind immer nur Näherungen und werden durch die Angabe des Fehlers quantifiziert, was für eine Genauigkeit schwebt Ihnen denn vor?
+Wie quantifizieren Sie die Messfehler ohne die Randbedingungen nach Art, Anzahl, Betrag usw. zu kennen und woher bekommen Sie Ihre richtige Temperatur um den Fehler bewerten zu können?
+Die Genauigkeit ist ein Resultat aus dem Validierungsprozess.
+Das hatte ich schon in #47 beschrieben.
+Sie verwechseln wieder Ursache und Wirkung.
+MfG
+Paul Gogo
+„Ihre Antwort ist genial: Nicht messen!“
+Wo sollte ich das geschrieben haben, hm?
+„Sie sind vielleicht lustig. Mir werfen Sie zu wenig meteorologisches Verständnis vor (zurecht auch), um die Eignung eines Messortes nachzuweisen, mit dem Argument, dass das gar nicht wichtig ist!???????????“
+Wo sollte ich das geschrieben haben, hm?
+„Merken Sie die Unlogik in Ihrer Argumentation nicht selber?“
+Nun das war schon suffisant, Aber Sie gaben einen zu schöne Vorgabe. Ich finde es lustig wie auch erbärmlich, dass Sie in Ihrem Cyberspace mit dem Begriff der Lufttemperatur Probleme haben. Wenn ich Sie richtig verstanden habe, können Sie sich nicht vorstellen, dass man die Temperatur eines Gases mit Sachverstand auch korrekt messen kann. Nun, wenn Sie Ihren Sensor der Sonne aussetzen und es bei Ihnen nicht Klick macht, wenn der auch noch abhängig von der Windrichtung Werte liefert, so ist bei Ihnen messtechnisch wohl Hopfen und Malz verloren. Ihnen fehlt anscheinend das Bewußtsein für Fehlerquellen bei Messungen.
+„Wie wollen Sie bitte einen Standort als geeignet freigeben, obwohl Sie die mikroklimatische Charakteristik desselben nicht kennen?“
+Indem man sich einfach meteorologisch auskennt und den Standortregeln für meteorologische Messungen bestmöglich folgt und nicht irgendeinen Blödsinn misst, nur weil man nicht weiß, wie man einen Temperatursensor für ausschließlich Temperaturmessungen einsetzt.
+„1. Sie wollen eine für den Standort repräsentative Temperatur.“
+Falsch und nun nochmal zum hinter-die-Ohren- schreiben zum x-ten Mae:
+Klimatologen und Meteorologen wollen mit einem Thermometer die Lufttemperatur der Luftmasse und nur die messen, klar? Diese hat nämlich im Kilometerscale einheitliche Temperatur, die nicht um meherere Grad schwankt! Wenn man an einer austauscharmen Stelle (schlecht belüftete Hütte, irgendwo an einer Wand etc) misst, so misst man die lokal durch die Umgebung beeinflusste Luft, und die ist nicht repräsentativ für den Kilometer-scale, kapiert?
+„2. Sie müssen deshalb den (vorläufig) gewählten Messort validieren.“
+Wenn Sie einen dämlichen Ort wählen, können Sie sich das Validieren sparen. Suchen Sie sich eine 1 ha große trockene Wiese, stellen Sie eine Hütte gemäß Anleitung auf, dann können Sie validieren und kommen zu den Schluß, dass die Messung im Monatsmittel nicht mehr als 1 Grad von dem einer ebenso aufgestellten Hütte ein paar km entfernt ist (Höheneffekt müssen Sie rausrechnen). Bei nicht so günstigen Bedingungen müssen Sie eben die mikroklimatischen Bedingungen rausfinden.
+Wenn Sie das nicht hinbekommen, so haben Sie dies entweder mal wieder nicht gelesen, nicht verstanden oder haben dies nicht realisiert.
+„3. Sie haben keine Referenztemperatur.“
+Was verstehen Sie darunter? Eine noch genauer gemessene Temperatur?
+„4. Selbst bei guter Planung, grosser Sorgfalt und hohem Aufwand kann das Ergebnis in diesem Fall nur eine Näherung sein – mehr oder weniger weit entfernt von dem was die Messhardware zu liefern vermag.“
+Messungen sind immer nur Näherungen und werden durch die Angabe des Fehlers quantifiziert, was für eine Genauigkeit schwebt Ihnen denn vor? Die erreichbare in der Meteorologie und Klimatologie liegt bei wenigen Zehntel Grad im Monatsmittel.
+„5/6. Jeder Messort weist eine individuelle Charakteristik auf.“
+Eben, deswegen nehmen Sie die mit einer ähnlichen.
+Wow Herr Gogo,
+Respekt. Hätte nicht gedacht mal mit Ihnen auf einer „Linie“ zu sein.
+Der Liebe Herr Dr. Nico Baecker hat aber leider von Messtechnik und richtigem messen soviel Ahnung wie der Papst vom ähhh – nein, ok ähm wie Herr Dr. Popp vom Erdbau!
+Tschuldigung der musste sein, ;-)) .
+Selbst wenn er sein Manko erkennen würde, würde er dies niemals zugeben weil er dann sein „Gesicht“ verlieren würde.
+Vielleicht aber ist er während des Studiums auch nur zu oft mit dem Kopf aufs Pult aufgeschlagen, nachdem er einschlief, und hat sich dabei eine Schädigung des dorsolateralen Cortex zugezogen, der Bedauernswerte. Würde zumindest einen Großteil der ab und an doch recht wunderlichen Reaktionen erklären.
+Herr Dr. Paul wird mir da sicher beipflichten, dass eine Störung des SAS nicht auszuschließen ist. Ohne vollständige Anamnese natürlich lediglich stochern im Nebel, wie die Klimatologie auch 😉 !
+MfG
+Karl Rannseyer
+Das Wort war: lacht
+vielen Dank, dass Sie Ihre Probleme mal konkreter geschildert haben. Ihr dilettantisches Vorgehen schlaegt meine argsten Erwartungen – wie wissen ja nicht, das Sie tun!
+Wenn Sie Ihr Thermosensor neben der Lufttemperatur auch noch auf Sonnne und Wind reagiert, so setzen Sie unbewusst Ihren Thermossensor nicht nur zur Messung der Lufttemperatur, sondern missbrauchen ihn nach als Kingsche Sonde fuer Windmessungen, und als Pyrometer fuer Strahlung. Das die Ablesung in Grad dann keine Temperatur mehr angigt, ist doch klar. Oder sind Sie einer von denen, die meinen, dass es im Schatten kuehler ist?
+„Nur ist in seiner betrachtung der einfluss des tagesganges der temperatur nicht berücksichtigt.“
+Sehr geehrter Herr m.,
+danke für diese wichtige Ergänzung. Das wollte ich eigentlich Herrn Baecker überlassen. Unter Berücksichtigung einer einfachen (vermutlich drahtlosen) Messwertübertragung zum Datenlogger bzw. Controler, einer überschaubaren Datenmenge und geringem Energiebedarf usw, kann man von jeder Messstelle z.B. 1 Messungen/s anbieten. Das ist praktisch Echtzeit. Herr Baecker hat dann genug „Temperaturen“ und die Qual der Wahl.
+Die Randbedingungen wie Sonne, Bedeckung, Wind, Niederschlag müssten ebenfalls repräsentativ im entsprechenden Zeitraster zur Verfügung stehen.
+#49: NicoBaecker sagt:
+„Merken sie die Unlogik in Ihrer Argumentation nicht selber? Sie vermischen Fehler der Einzelmessung mit dem des Mittels und außerdem nehmen Sie stillschweigend an, dass die 2 Stellen hinter dem Komma signifikant sind.“
+Sehr geehrter Herr Baecker,
+allein Windrichtung und Bedeckung haben einen enormen Einfluss auf die Temperaturunterschiede an den geschilderten Messorten. Bei Ostwind und Sonne zeigt meine Messstelle grundsätzlich eine höhere Temperatur an (bis mehrere Grad). Bei andauernder Bedeckung sind die Unterschiede nicht mehr erkennbar. Es wäre vermutlich möglich die Abweichung der Temperaturen als Funktion der Windrichtung darzustellen. Wenn an 15 Tagen eines Monats Ostwind weht und gleichzeitig viel Sonne scheint und in einem anderen Monat an 0 Tagen Ostwind weht, dann ergeben sich beträchtliche Unterschiede. Was ist in diesem Fall systematisch und was zufällig?
+Ziel war, auf die Bedeutung der Randbedingungen hinzuweisen und dass ein noch so genaues Thermometer keine Garantie für repräsentative Messwerte bietet!
+„Tja, da haben Sie wohl ein Messproblem. Sie können gerne den Aufwand mit Ihren 100 Messfühlern treiben, aber diese Diskrepanzen sollten man mit mehr meteorologischem Verständnis auch mit weniger Aufwand reduzieren können.“
+Ja Herr Baecker, da gebe ich Ihnen recht, ich hätte da ein Messproblem – wie jeder andere auch, der richtig messen wollte.
+Ihre Antwort ist genial: Nicht messen! Wer nicht misst, hat keine Messfehler!
+Sie sind vielleicht lustig. Mir werfen Sie zu wenig meteorologisches Verständnis vor (zurecht auch), um die Eignung eines Messortes nachzuweisen, mit dem Argument, dass das gar nicht wichtig ist!???????????
+„Sie können mit Ihren Messfühlern ja gerne die mikroklimatischen Besonderheiten Ihres Standortes ermitteln, aber am einfachsten ist es, wenn sie sich einfach einen geeigneteren Standort suchen, der eben durch diese mikroklimatischen Abweichungen nicht gestört ist.“
+Merken Sie die Unlogik in Ihrer Argumentation nicht selber? Sie vermischen hier Cyberspace mit Wirklichkeit, Aufgabe mit Ergebnis, Problem mit Problemlösung usw.
+Wie wollen Sie bitte einen Standort als geeignet freigeben, obwohl Sie die mikroklimatische Charakteristik desselben nicht kennen?
+Nochmals:
+1. Sie wollen eine für den Standort repräsentative Temperatur.
+2. Sie müssen deshalb den (vorläufig) gewählten Messort validieren.
+3. Sie haben keine Referenztemperatur. Der gewählte Messort und das installierte Messsystem schweigen darüber.
+4. Selbst bei guter Planung, grosser Sorgfalt und hohem Aufwand kann das Ergebnis in diesem Fall nur eine Näherung sein – mehr oder weniger weit entfernt von dem was die Messhardware zu liefern vermag.
+5. Jeder Messort weist eine individuelle Charakteristik auf.
+6. Es gibt relativ konstante Messorte und es gibt sehr „hektische“ Messorte.
+7. Bringen Sie das alles unter einen Hut.
+MfG
+Paul Gogo
+„Nur ist in seiner betrachtung der einfluss des tagesganges der temperatur nicht berücksichtigt.
+Allein durch die anzahl der verwendeten messungen pro tag beeinflusse ich den zugehörigen mittelwert und damit auch die aussagekraft des mittelwertes.“
+Haben Sie dazu nun Fakten zum präsentieren, oder ist das nun bare Theorie?
+Ich bekomme z.B. Unterschiede in den Monatsmitteln von einigen Zehntel Grad (0,0 bis 0,3 Grad), wenn ich statt 24 stdl. Temperaturwerte die 3 Werte der Mannheimer Stunden verwende. Das Jahresmittel dazwischen weicht unter 0,1 Grad dazwischen ab!
+Die Tagesmittel können wie gesagt einige Grad abweichen.
+Wie auch schon erwähnt, muss man also in langen Zeitreihen oder beim Vergleich verschiedener die ggf. unterschiedlichen Definitionen des Tagesmittels berücksichtigen und ggf. korrigieren.
+Wenn Sie das nicht auch etwa hinbekommen, haben sie sich offensichtlich verrechnet oder messen „Mist“!
+PS: die Unterschiede zwischen 24 stdl. und dem Min-Max Mittel sind größer und systematischer, da weicht das Jahresmittel einige Zehntel ab.
+ja schön, solche Erfahrungen habe ich auch schon im Labor gemacht, aber es geht wie schon geschrieben (lesen Sie meine Beiträge nicht?) um Klimamessungen von Luftmassen und nicht darum, ein räumlich stark durch WW mit Grenzfläcehn variierendesTemperaturfeld zu messen!
+„Wenn man aber aus „1000“ Messwerten ein Mittel bildet, das mit >“1 Dutzend“ verschiedenartiger Einflüsse, teils mitgekoppelt oder gegengekoppelt ist, teils unabhängig oder in Kombination wirkt, teils systematisch oder zufällig fehlerbehaftet ist und das Ergebnis dann „2-stellig“ hinter dem Komma präsentiert wird, dann ist das Scheingenauigkeit. “
+Merken sie die Unlogik in Ihrer Argumentation nicht selber? Sie vermischen Fehler der Einzelmessung mit dem des Mittels und außerdem nehmen Sie stillschweigend an, dass die 2 Stellen hinter dem Komma signifikant sind. Sind Sie nicht, und dies wird auch nicht verschwiegen. Der Fehler in der globalen Klimaanomalie eines Jahres wird bei GISS mit plus-minus 0,05 Grad (2 Sigma) angegeben! Also bitte sachlich bleiben!
+„Die Temperaturdifferenzen zwischen den beiden Stationen sind gewaltig, bis zu mehreren K. Die Differenz schwankt je nach Tag, Nacht, Sonne, Bedeckung, Windrichtung, Windstärke, Jahreszeit usw.“
+Tja, da haben Sie wohl ein Messproblem. Sie können gerne den Aufwand mit Ihren 100 Messfühlern treiben, aber diese Diskrepanzen sollten man mit mehr meteorologischem Verständnis auch mit weniger Aufwand reduzieren können. Wie schon dutzend mal gesagt, die messe bereits seit Jahrzehnten mit einer Wetterstation und ich habe z.B. bei meiner Station KEINE Probleme mit Abweichungen von mehreren Kelvin, die sich nicht standortbedingt erklären ließen! Und meine Monats- und Jahresanomalien weichen nicht mehrere Kelvin von den Gebietsanomalien des DWDs ab. Und wie gesagt, sehen Sie zu, dass Sie das messen, was gemessen werden soll, nämlich die recht einheitliche Temperatur der Luftmasse, die schwankt nicht um Kelvin im Kilometer-scale!
+Sie können mit Ihren Messfühlern ja gerne die mikroklimatischen Besonderheiten Ihres Standortes ermitteln, aber am einfachsten ist es, wenn sie sich einfach einen geeigneteren Standort suchen, der eben durch diese mikroklimatischen Abweichungen nicht gestört ist.
+Lieber Herr m,
+„da gebe ich ihnen recht! Ich habe und werde die klimastatistik niemals verstehen, so wie sie in diesem zusammenhang praktiziert wird.
+„Aber ich verstehe u.a. etwas vom messen und messunsicherheitsbetrachtungen.“
+Nun, mag sein, dass Sie messen können, aber die Fehlerechnung und Interpretation der Ergebnisse überlassen Sie lieber Ihrem Vorgesetzen 😉
+„Da brauch ich nicht mal lang darüber nachzudenken, um zu sehen das für den messort repräsentative messunsicherheiten im niedrigen zehntelgradbereich, unter den vorherschenden bedingungen, fachlich falsch sind.“
+Sehen Sie, dass kommt daraus, wenn man nicht lang genug nachdenkt: Unspezifischer Mischmasch.
+„Nur ist in seiner betrachtung der einfluss des tagesganges der temperatur nicht berücksichtigt.
+Allein durch die anzahl der verwendeten messungen pro tag beeinflusse ich den zugehörigen mittelwert und damit auch die aussagekraft des mittelwertes.“
+Völlig richtig, die Abweichungen zwischen den Methoden können gut 1 Grad betragen. Eine Umrechnung der Monatmittel von der einen auf die andere Methode ist jedoch sehr gut möglich, wie Sie selber überprüfen sollten.
+„Auch den einfluss dieser differenz zwischen den einzelmesswerten müssen sie berücksichtigen, da sie sonst die standardabweichung unterschätzen.“
+Daher sollte man Monatsmittel nach verschiedenen Methoden nicht vermischen, sondern erst homogenisieren und dann die Statistik machen, ist logisch, gell?
+„im sinne der ‚klimastatistik‘ mögen sie also durchaus richtig argumentieren aber unter metrologischen gesichtspunkten müssten sich ihnen eigtl. die fußnägel aufrollen :)“
+Verstehe ich nicht, die Statistik können Sie vergessen, wenn die Messdaten nicht das widergeben, was gemessen werden soll. Also metrologisch sollten Sie sicherstellen, dass Sie die Lufttemperatur der Luftmasse repräsentativ messen und die „Dreckeffekte“ reduzieren.
+am Samstag, 05.02.2011, 10:51
+Lieber Herr m,
+Sie scheine das mit der Klimastatistik noch nicht ganz kapiert zu haben. Differenzen von 20 grad koennen bei der Lufttemperatur selbstverstaendlich auftreten. Nur was hat das mit der Genauigkeit von Monatsmitteln zu tun? Ich denke, Soe haben da noch nicht zuende gedacht.
+[/quote]
+da gebe ich ihnen recht! Ich habe und werde die klimastatistik niemals verstehen, so wie sie in diesem zusammenhang praktiziert wird.
+Aber ich verstehe u.a. etwas vom messen und messunsicherheitsbetrachtungen.
+Da brauch ich nicht mal lang darüber nachzudenken, um zu sehen das für den messort repräsentative messunsicherheiten im niedrigen zehntelgradbereich, unter den vorherschenden bedingungen, fachlich falsch sind.
+Paul gogo hat in #47 einen sehr guten überblick über die probleme beim ‚richtigen‘ messen von temperaturen aufgezeigt.
+Nur ist in seiner betrachtung der einfluss des tagesganges der temperatur nicht berücksichtigt.
+Allein durch die anzahl der verwendeten messungen pro tag beeinflusse ich den zugehörigen mittelwert und damit auch die aussagekraft des mittelwertes.
+Auch den einfluss dieser differenz zwischen den einzelmesswerten müssen sie berücksichtigen, da sie sonst die standardabweichung unterschätzen.
+herr baecker, im sinne der ‚klimastatistik‘ mögen sie also durchaus richtig argumentieren aber unter metrologischen gesichtspunkten müssten sich ihnen eigtl. die fußnägel aufrollen 🙂
+„ich habe nicht geschrieben, dass klimatologische Messungen trivial sind. Ich habegeschrieben, dass man ein Monatsmittel wenn man sich messtechnisch nicht zu dummm anstellt, auf einige Zehntel genau angeben kann.
+Sehr geehrter Herr Baecker,
+geschrieben haben Sie:
+„Und finden Sie es nicht reichlich albern und weltfremd, aus so etwas Trivialem wie einer Temperaturmessung ein Problem zu konstruieren?“
+Dieser Satz ist nach wie vor nicht trivial.
+Ich habe sehr viel Respekt vor Temperaturmessungen.
+Weil diese nicht so einfach ist, deshalb stirbt z.B. die halbe Elektronik an Fieber, obwohl sie (fast)unsterblich sein sollte – falsch gemessen, falsch simuliert, am falschen Ort betrieben und schon wird die 10° Regel unbarmherzig wirksam. Es heisst nicht umsonst „wer misst misst Mist.“
+Selbst ein intakter und kalibrierter Messschieber mit 1/1000 mm Auflösung, misst oft nur dann auf +/-1/10mm richtig, wenn die Anpresskraft der Messspitzen, die Aufstandsfläche derselben, die Winkel, die Temperatur, die Kontaminierung der sich berührenden Flächen, die Elastizität des Prüflings usw. richtig sind. Richtig bedeutet innerhalb der Spezifikation. Wenn es dann +/-0,01mm sein sollten, muss schon sehr viel richtig sein.
+Und als Referenz gibt es Endmasse. Damit kann man, wenn man Glück hat, feststellen, dass ein gültiges Kalibrierzeugnis vor Defekten weder schützt, noch warnt.
+Es gibt heute genügend Firmen, welche hervorragende Messgeräte und Temperatursensoren bauen, die hinsichtlich Genauigkeit und Drift keine Wünsche offen lassen. Man muss die Firma „Hewlett&Packard“, (hier als Erfinder der modernen Messtechnik stellvertretend für all die Anderen genannt) nicht bezüglich präzises, genaues und richtiges Messen anzweifeln. Die Messgeräte sind meist sehr viel besser als die Konfiguration in der diese eingesetzt werden. Man braucht eigentlich nur ein Stück „bekannten Drahtes“ und ein Multimeter und dann kann man im Prinzip auf „0,001“K richtig messen. Wenn man nur Temperaturen in einem eingeschränkten Bereich messen will, dann kostet sehr gute Messtechnik auch kaum mehr in der Herstellung als 2 x Fastfood. Preistreiber ist vor allem der Zeitaufwand für die Kalibrierung. Ihre Messgeräte im oberen „Amateurlevel“ sind ohne jede Kritik.
+Wenn man aber aus „1000“ Messwerten ein Mittel bildet, das mit >“1 Dutzend“ verschiedenartiger Einflüsse, teils mitgekoppelt oder gegengekoppelt ist, teils unabhängig oder in Kombination wirkt, teils systematisch oder zufällig fehlerbehaftet ist und das Ergebnis dann „2-stellig“ hinter dem Komma präsentiert wird, dann ist das Scheingenauigkeit. Es interessiert ja nicht irgend eine Temperatur am Messfühler, sondern eine für den Messort repräsentative Temperatur. Auf Anhieb hätte ich schon ein grosses Probleme systematisch und zufällig eindeutig abzuhandeln. 1000 schlechte Messwerte + Statistik = richtiges Ergebnis? Das darf hinterfragt werden.
+Jeder Messort müsste deshalb validiert werden, damit man den Wert der Messwerte kennt.
+Eine Wetterstation eines Wetterdienstes misst an einem prinzipiell gut geeigneten Messort in ein paar km Entfernung zu meinem Messort.
+Mein Messort liegt an einem Ortsrand und ist weniger gut geeignet, aber immer noch besser als zig andere „DWD & Co“ Messorte die ich vorort oder auf Bildern gesehen habe.
+Die Temperaturdifferenzen zwischen den beiden Stationen sind gewaltig, bis zu mehreren K. Die Differenz schwankt je nach Tag, Nacht, Sonne, Bedeckung, Windrichtung, Windstärke, Jahreszeit usw.
+Wollte ich die beiden Messorte validieren, würde ich im Umkreis von etwa 0,5 km um den gut geeignete Messort >20 Messfühler nach Ihren Anweisungen positionieren und um meinen weniger geeigneten Messort im Umkreis von 2km >100 Messfühler.
+Nach etwas mehr als einem halben Jahr (Dezember – July) könnten Sie die Daten erstmals auswerten. Aufgrund der Ergebnisse würden Korrekturen an der Messkonfiguration vorgenommen werden. Nach einem weiteren
+Jahr könnten Sie dann versuchen die Abhängigkeiten herauszuarbeiten und den Scharen von Temperaturverläufen und Verteilungen einen Sinn geben. Nach 5 Jahren könnten Sie z.B. die NAO aus den Fehlerabschätzungen heraus erkennen und eine Validierungsrichtlinie für Messstationen verabschieden – unter der Voraussetzung, dass sich ein Messort mit seinem Umfeld nicht spezifisch verändert (Rodung, Trockenlegung, Neubau, Rückbau, Wärmeeintrag).
+Es ist hoch interessant zu jedem einzelnen Messpunkt bezüglich der Güte der Messwerte eine FMEA zu erstellen.
+Wenn man allein diese beiden Messorte modellieren wollte, wäre der Aufwand schon beträchtlich.
+Sie sollten den Aufwand nicht als übertrieben ansehen. Eine Messanordnung muss grundsätzlich auf Richtigkeit, Plausibilität und Brauchbarkeit der Messergebnisse untersucht werden.
+Versuchen Sie mal Temperaturmessungen gemäss der Beschreibung in einem Laborbericht nachzuvollziehen. Das gelingt überraschend häufig nicht, wenn es sich nicht gerade um siedendes Wasser oder schmelzendes Eis in reichlicher Menge handelt.
+Ich wollte nur mein Erstaunen über meine Beobachtungen ausdrücken und kann nur empfehlen selbst zu messen.
+Zurück zum Schleuderthermometer an einer sehr langen Schnur! Das ersetzt viel Statistik……
+MfG
+Paul Gogo
+eine WINDGESCHÜTZTE Lage des Messensors wäre fatal!
+Das Thermometer soll ja im Austausch mit der umgebenden Luft stehen! Wenn Sie das Thermometer an einen windgeschützten Ort stellen, so ist der Austausch reduziert, und man misst lokale Effekte.
+Stellen Sie sich vor, man hätte das Thermometer 2 m über Grund gestellt und der Boden wäre noch an der Stelle gefroren (z.B. weil dort geschützt vor Strahlung noch Schnee oder Eis liegengeblieben ist), die Luftmasse aber schon 5 Grad warm (so etwa wie Ende letzter Woche). Dann entzieht der Boden der Luftmasse mehr Wärme (turbulenter Austausch über den vertikalen Temperaturgradienten) als an den schon stärker erwärmten Stellen des Bodens. Wenn nun dort die Luft nur schwach horizontal ausgetauscht wird (WINDGESCHÜTZTE Lage), wird die Wärme einem kleinen Luftvolumen entzogen, was sich entsprechend stärker abkühlt. Wenn der Sensor dagegen belüftet wird, verteilt sich der Wärmeentzug auf ein viel größeres Luftvolumen und damit ist der Abkühlungseffekt kleiner, also der Messfehler (= Temperatur der Luftmasse – gemessene Temperatur) kleiner. Aus analogen Gründen ventiliert man die Thermometerhütte noch zusätzlich, um unabhängig vom Wind immer ein ähnliches Luftvolumen pro Zeiteinheit am Sensor vorbeiströmen zu lassen. Denn trotz Strahlungsschutz erwärmt sich das Innere der Hütte. Damit ist auch klar, dass man entsprechend der Zeitkonstanten des Temperatursensors und dem Volumenstrom der Luft sowieso eine räumlich gemittelte Lufttemperatur misst, was ja auch Ziel ist: die gemessene Luft soll NICHT im stationären Gleichgewicht mit der Stationsumgebung sein. Eine kleine Zeitkonstante des Messensors ist nicht von Nachteil, aber man misst dann jede durch Turbulenz verbreitete Temperaturfluktuation, die durch lokale Thermik etc. am Sensor vorbeiströmt. Da man aber am räumlichen Mittel der Luftmasse im Kilometer-scale interessiert ist, würde man diese Messungen sowieso wieder bei der Datenangabe für z.B. stündliche Terminwerte numerisch Mitteln (über 1 min, das entspricht ventiliert etwa räumliches Mitteln über einige 100 Meter). Dieses Mitteln erreicht man auch durch eine größere Zeitkonstante (wie z.B. bei Quecksilberthermometern), wobei dies signaltheoretisch nicht ganz äquivalent ist, den Fehler dadurch kann man sich aber ausrechnen. Die Zeitkonstante darf natürlich auch nicht zu groß sein, denn Luftmassenwechsel wie z.B. bei einem Kaltfrontdurchgang (Temperaturänderungen von 5 Grad in wenigen Minuten) will man schon genau messen, dafür muss der Sensor eine Zeitkonstante von nicht größer als 30 s haben. Damit bleibt der Fehler im Stundenmittel auch unter 0,1 °C also unterhalb der Messgenauigkeit.
+ich habe nicht geschrieben, dass klimatologische Messungen trivial sind. Ich habegeschrieben, dass man ein Monatsmittel wenn man sich messtechnisch nicht zu dummm anstellt, auf einige Zahntel genau angeben kann. Dazu ist noetig, dass man die mikroklimatischen Besonderheiten des Standortes sowie die Hoehe kennt und dies beruecksichtigt. meine Etterstation ist nun keine DIN kalibrierte Station, sondern besteht aus kommerziellen Geraeten der oberene Amateurliga. Und ich ueberpruefe Strahlungsschutz, Drift etc. meiner Temperatursensoren nicht allzu oft, sonddern vieelicht zweimal im Jahr. Aber ich bin in der Lage, die mikroklimatischen Und standortbedingten besonderheiten soweit zu beruecklichtigen, dass meine Monatsmittel nur 1-4 Zehntel vom Flaechenmittel des DWD Netzes und anderer Amateurnetze abweichen.
+Zu den Unterschieden bei Hernn Wanninger, wie gesagt, dies ist nicht untypisch. Ich hatte Herrn Wanninger meines Wissens schon damals erklaert, dass man diese Unterschiede rausrechnen muss. Zur Referenztemperatur, das ist dann in der Tat die Frage. Nun die meteorologisch “ richtige ist die Temperatur, die die Luftmasse hat. Klar ist, dass grossraumig (100x km) eine Luftmasse eine weitgehend einheitliche Temperatur mit Temperaturabweichungen von unter 1 Grad hat. Abweichungen trten mikroklimatisch auf, wenn die Luft mit dem Untergrund in WW tritt (WI Effekt im mehrere km scale, mikroklimatische Effekte im Meter scale, mesoklimatologische (Vegetation, Orographie,…) im Meter bis km scale. Das Ausmass dieser lokalen Effekte nimmt mit der Hoehe naturlich ab.
+Ich ahbe damals schon geschrieben, dass eine permaente temperaturabweichung von 2 Grad in 20 km Distanz kein Merkmal der Luftmasse ist, sondern durch Wahl der Standorte bedingt ist. Denn offensichtlich existieren keine permanenten Luftmassengrenzen. Denn um eine solche handelt es sich, wenn Luftmassen sich um einige Grad unterscheiden.
+Es gibt also Referenzstationen, die die Temperatur einer Luftmasse messen koennen, im Prinzip sind dies Stationen, die im laendlicher Umgebung mit ausreichendem Starhlungsschutz messen. beim morgentlichen Wetterbericht koennen Sie mitverfolgen, wie die aktuellen Temperaturen an solchen zig 10-100 km entfernten Stationen um nur 1-2 Grad unterschiedliche Temperaturen zeigen, wenn diese in der gleichen Luftmasse stehen und die Temperaturabnahme mit der Hoehe rausgerechnet wird.
+Natuerlich existieren Spezifikationen und Qualitaetskontrollen von Wetterstationen, ob diese immer exakt eingehalten werden, ist eine andere Frage, nur muss man eben wissen, welche Stationen die entsprechende Genauigkeiten haben, die man fuer die klimatologische Untersuchung benoetigt, haben, und ggf. korrigieren (was im Skeptikerslogan unter “ faelschen“ lauft).
+„Herr Werner, #25
+wie wäre es, wenn Sie sich mal um konkrete Ergebnisse zur Sache kümmern als hier den notorischen Bedenkenträger zu spielen?
+Man kann eine Untersuchung immer weiter verfeinern und weitere Störeffekte berücksichtigen. Es ist jedoch halbherzig, nur stets darauf hinzuweisen, dass es da noch einen Effekt gibt, der nicht berücksichtigt wurde ohne diesen konkret zu quantifizieren. Also, entweder Sie ziehen die Sache nun komplett durch und liefern Fakten oder Sie bleiben im substanzlosen Motzmodus.
+Und finden Sie es nicht reichlich albern und weltfremd, aus so etwas Trivialem wie einer Temperaturmessung ein Problem zu konstruieren? Jeder Hobbymeteorologe mit messtechnischen Erfahrungen ist imstande, einen systematischen Fehler von einigen Zehntel Grad im Monatsmittel zu identifizieren und korrigieren.“
+Sehr geehrter Herr Baecker,
+vor längerer Zeit war eine ähnlich Diskussion zur Temperaturmessung.
+Herr Wanninger berichtete folgendes:
+„Ich betreibe seit vielen Jahren eine eigene Temperaturmessstation. Sie entspricht keinerlei Normen, der Sensor ist aber in knapp 2m Höhe und vor direkter Sonenstrahlung und direktem Windeinfluss geschützt. Intention war dabei keine meteorologische Datenerfassung bezüglich Klimaänderungen oder sonstigen Gründen, es handelte sich einfach nur um eine Spielerei als Abfallprodukt bzw. Prototyp für eine Mikrocontroller-Anwendung. Die gleiche Station besitzt ein Kollege, mit dem das Projekt erarbeitet wurde. Er wohnt knapp 20km entfernt, knapp 100 Höhenmeter tiefer gelegen. Die Differenzen, die wir (vornehmlich im Winter) feststellen, zeigen, dass unmöglich von seinem Ort auf meinen und umgekehrt die Temperatur rückgeschlossen werden kann. Weder im Tages-, Monats noch im Jahresmittel! Es sei denn, Sie sind mit 2 Grad Fehlerbalken einverstanden.
+Neben dieser örtlichen Variation, kann ich Ihnen auch schön zeigen, dass sie die Tagesmittel um über 1 Grad variieren können, je nachdem aus wieviel Stichproben Sie das Tagesmittel bestimmen, das ist auch deutlich Wetterabhängig.“
+Ich berichtete seinerzeit über ähnliche Beobachtungen.
+Was nützt Wissenschaft, wenn das Handwerk,im betroffenen Fall die Messtechnik zumindest mangelhaft, vielleicht auch ungenügend ist
+So trivial scheint das Thema ja nicht zu sein, wie aus Ihrem Beitrag zu entnehmen ist.
+Es ist vermutlich so, dass das was man messen will, man gar nicht messen kann. Sie benötigen nämlich ein Modell des Mikroklimas des Messortes und seiner Umgebung – und das von jedem Messort. Das „netteste“ an dieser Messaufgabe ist, dass man zu keinem Zeitpunkt die Abweichung von der Temperatur, die man messen möchte, genau kennt.
+Man muss den Messort validieren und das ist eine langwierige Prozedur. Dazu bräuchte man eine Spezifikation zur Erfassung der repräsentativen Temperatur eines Messortes. Existiert diese Spezifikation?
+Zumindest 1 Jahr lang sollte man sehr genau „hinschauen“, um halbwegs zu wissen was das „Thermometer“ bei welchen Randbedingungen anzeigt und die Abweichungen können enorm hoch sein. Da geht es nicht 1/10°C, sondern um volle °C.
+Keiner der derzeitigen Messorte würde auch nur annähernd eine Auditierung nach QS9000 (oder Derivaten davon) überstehen.
+Jeder Messort müsste kalibriert werden. Gibt es ein Modell oder gar eine Spezifikation dafür. Und in den seltensten Fällen dürfte das Verhalten eines Messortes in unserer zersiedelten Landschaft auf einen anderen Messort übertragbar sein.
+Da geht es nicht um 1/10°C, sondern um mehrere Grad. Die lokalen, wahrscheinlich auch die globalen Oszillationen würden vermutlich aus den Messfehlern, wenn man eine Referenz hätte, erkennbar sein.
+Es gibt aber keine Referenztemperatur.
+MfG
+Paul Gogo
+Sie scheine das mit der Klimastatistik noch nicht ganz kapiert zu haben. Differenzen von 20 grad koennen bei der Lufttemperatur selbstverstaendlich auftreten. Nur was hat das mit der Genauigkeit von Monatsmitteln zu tun? Ich denke, Soe haben da noch nicht zuende gedacht.
+am Mittwoch, 02.02.2011, 14:07
+Aber Sie wollen doch nicht behaupten, dass Sie nicht in der Lage sind, das Monatsmittel eines Standortes auf ein paar Zehntel Grad genau zu ermitteln könenn, oder?
+Wenn Sie das nicht hinbekommen, liegt das möglicherweise daran, dass Sie einen der von Ihnen aufgelisteten „messtechnischen Fallstricke“ nicht beachtet haben. Daneben kommen dann auch noch mikroklimatische, standortspezifische Gründe infrage (Repräsentationsproblem), die man übersehen haben könnte.
+[/quote]
+öhm, dies tatsächlich unmöglich. Dies ist einfach darin begründet, das der temperaturverlauf eines standortes genaugenommen instationär ist!
+An einem standort können am tag/monat/jahr/… problemlos temperaturdifferenzen von 20K und mehr auftreten!
+Das das mitteln von temperaturen unter thermodynamischen gesichtspunkten zumindest fragwürdig ist, ist uns allen glaube ich bewusst. Jedoch mag dies für zumindest stationäre prozesse ein adäquates hilfsmittel sein (um es vereinfacht auszudrücken).
+Wie sie allerdings eine mittlere temperatur mit einer messunsicherheit von ‚ein paar zehntel grad‘ bestimmen wollen, wenn die zu messende temp. Im 2-stelligen kelvinbereich schwanken kann ist mir ein rätsel!
+Nur damit sie einen eindruck vom ‚wahren leben‘ bekommen,…
+In der industrie (energetische und verfahrenstechnische bewertung von prozessen) werden mitunter stationaritätsbedingungen gefordert, in denen die temperaturschwankungen
+am Mittwoch, 02.02.2011, 14:07
+Lieber Herr michael m., #27
+„Aber daran sieht man, dass sie vomn messen und messtechnik null ahnung haben.
+Temperaturmessung besteht halt nicht nur darin ein thermometer abzulesen.“
+Richtig, man muss sicherstellen, dass man die Lufttemperatur misst. Aber Sie wollen doch nicht behaupten, dass Sie nicht in der Lage sind, das Monatsmittel eines Standortes auf ein paar Zehntel Grad genau zu ermitteln könenn, oder?
+Wenn Sie das nicht hinbekommen, liegt das möglicherweise daran, dass Sie einen der von Ihnen aufgelisteten „messtechnischen Fallstricke“ nicht beachtet haben. Daneben kommen dann auch noch mikroklimatische, standortspezifische Gründe infrage (Repräsentationsproblem), die man übersehen haben könnte.
+[/quote]
+habe ich einen wunden punkt getroffen oder warum interpretieren sie etwas in meine aussage, was nicht einmal im ansatz so geschrieben steht?
+Nur zur info, u.a. mit dem präzisen messen von temperaturen und deren einflüsse auf prozessgüten verdiene ich mein geld. Basierend auf den ergebnisen dieser messungen leite ich verfahrenstechnische und energetische kenngrößen ab. Würde ich dies in der selben qualität tun, wie zum bsp. bei der viel zitierten ermittlung globaler mitteltemperaturen dann bekäme ich regelmäßig meine arbeit um die ohren gehaun und würde schäden in verursachen, welche leicht einige millionen euro betragen.
+Also, über messtechnik und der ‚richtigen‘ interpretation von messwerten brauchen sie mir nichts zu erzählen 😉
+lg
+micha
+PS:
+@admin
+versuch nr 4 🙂
+„Offensichtlich haben Sie trotz aller Diskussionen nicht gemerkt, dass meine Homogenisierung der Münchner T-Reihe hauptsächlich gerade darin bestand, systematische Fehler auszumerzen!“
+Doch, und dies habe ich Ihnen auch schon mehrfach versichert, übersehen? Eben deshalb, meinte ich auch diese nicht! Sie brauchen sich nichts einbilden!
+„Und eine Homogenisierung der Münchner Stadtstation(en) habe ich nie gemacht und auch nicht angefangen, vor allem aus Zeitgründen. “
+Ja, und es steht immer noch Ihre Antwort aus, ob dies denn überhaupt Sinn machen. Denn bei der Stadtstation darf man m.E. über die Jahhrzehnte einen systematischen Repräsentationsfehler gegenüber der ländlichen Umgebung finden. Nur darauf bezog sich mein Hinweis!
+Herr Paesler, wie gesagt, ich schätze Ihre Kenntnisse, aber ich habe den Eindruck, dass Sie das gerne praktizieren, was Sie anderen unterstellen, nämlich manche Themen auszublenden und zu schweigen. Dazu neigen Sie mir zu oft zu ad hominem Argumenten.
+Verehrter Herr Paesler,
+Respekt, bitte weiter so!
+wir wollen hier einfach nur die Realität hören.
+Die Wahrheit wird sich auf Dauer eh nicht unterdrücken lassen,
+schade nur, dass es erst kälter werden muss,
+bis auch der letzte Blödmann ein „Skeptiker“ wird.
+richtig, von den Wissenschaftlern, die die Fälschungen der AGW aufdecken.
+Wissenschaft ist schließlich nur einer einzigen Instanz verpflichtet:
+der WAHRHEIT.
+Wie man Menschen nennen soll, die etwas behaupten, was sie selbst trotz großzügiger staatlicher Hilfe (=Steuerzahler) in der Realität nicht messen können, sollten Sie sich selbst fragen!!!
+Da ist mir „ein einfacher Metereologe“, der sich bemüht, exakt zu messen, 1000 mal lieber, als so ein Datenschwindler.
+Es ist unerträglich, dass man Menschen nicht strafrechtlich belangen kann, die wissentlich die Unwahrheit behaupten wie Sie, Herr Fischer!
+Glauben Sie ernsthaft Ihre grottenfalschen Modellprognosen sind vergessen ???:
+“ „Die jährlichen Mitteltemperaturen in Europa werden wahrscheinlich schneller steigen als das globale Mittel. Am stärksten wird die Erwärmung in Nordeuropa im Winter, im Mittelmeergebiet im Sommer ausfallen. Die niedrigsten Wintertemperaturen in Nordeuropa werden wahrscheinlich rascher steigen als die Mitteltemperatur des Winters, und die höchsten Sommertemperaturen werden wahrscheinlich schneller steigen als die Mitteltemperatur im Sommer in Zentral- und Südeuropa.“
+Schämen Sie sich, Sie NICHT-WISSENSCHAFTLER
+es gibt keinen Gegensatz zwischen Skeptikern und dem was Sie Wissenschaft nennen. Alles nur Menschen. Die AGW-ler haben allerdings ihren guten Ruf ruiniert und werden jetzt hinter der „Wissenschaft“ versteckt. Die aber beruht auf von Menschen manipulierten Grundlagen um den Erwartungen der Politik zu entsprechen. Der rethorische Trick soll ja nur vertuschen,daß es Ihnen nur um Umverteilung von der ersten zur dritten Welt geht.MaW ,Sie versuchen unehrlicherweise mit Wissenschaft Politik zu machen.Werden Sie ehrlich, stellen Sie sich einer Wahl.Bei der angeblichen riesigen Mehrheit,die Sie hinter Ihren Zielen sehen,können
+Sie doch locker Klimakanzler werden.
+Michael Weber
+Genau diese Art systematischen Fehler habe ich ja auch Paesler ……
+Witzig, witzig! Oder besser traurig, traurig!Offensichtlich haben Sie trotz aller Diskussionen nicht gemerkt, dass meine Homogenisierung der Münchner T-Reihe hauptsächlich gerade darin bestand, systematische Fehler auszumerzen! Und eine Homogenisierung der Münchner Stadtstation(en) habe ich nie gemacht und auch nicht angefangen, vor allem aus Zeitgründen. Der Versuch, die jetzigen Verhältnisse zurückzurechnen, ist natürlich keine Homogenisation, sondern eben nur ein Versuch, möglichst gute Kenntnisse über die Klimaverhältnisse der Vergangenheit zu erhalten, den gewissen Unsicherheitsfaktor stets im Auge behaltend! Auch die Veränderung der Mittelbildung ab 2001 müsste natürlich berücksichtigt werden; ich habe das gemacht, der DWD natürlich nicht, macht ja Arbeit und bindet Personal, das man nicht hat…
+Was natürlich besonders witzig ist: Her Baecker hat mir vorgeworfen…. Ein absoluter Laie, dessen klimatologische Kenntnisse auf PIK-Niveau verharren, wirft mir was auch immer vor…..
+Noch ein Hinweis für alle Nichtfachleute hier, die vielleicht nur ahnen, wie es um die „Wissenschaft“ bestellt ist: das Buch „Das Kapitalismus-Komplott“ von Oliver Janich hab ich ja schon empfohlen, hier also nochmal, dazu auch noch „Das Feuer des Heraklit“ von Erwin Chargoff. Vor allem für unsere PIK-gläubigen Komiker wäre das eine viel sinnvollere Tätigkeit, als die blog-Tätigkeit auf Baumschulniveau hier.
+Und nochne Bemerkung #27 michael m.: Das Problem der Anonymität ist bei meinen (Ex-)Kollegen sicher noch größer, schließlich waren oder sind sie noch beim DWD mit seinen Maulkorb-Erlassen. Auffällig, dass gerade die Pensionäre so eifrige „Klimaskeptiker“ sind? Wohl kaum, die dürfen ja, während die aktiven Kollegen (alles diplomierte oder promovierte Meteorologen) mit überwältigender Mehrheit den Klima-Schwachsinn, der uns eingetrichtert werden soll, als das erkennen, was er ist – ideologischer Schwachsinn halt, es aber in der Öffentlichkeit nicht vertreten dürfen!
+der UHI-Effekt wurde nicht von Skeptikern entdeckt, er ist von der Wissenschaft gefunden worden und wird berücksichtigt.
+Wenn Sie der Meinung sind, der Effekt sei unzureichend berücksichtigt, dann müssen Sie logischerweise argumentieren, warum und wo die Kompensation fehlerhaft.
+Das Beklagen des Fehlens einer Kompensation, wo diese doch durchgeführt wird, ist sinnfrei.
+„Aber daran sieht man, dass sie vomn messen und messtechnik null ahnung haben.
+Temperaturmessung besteht halt nicht nur darin ein thermometer abzulesen.“
+Richtig, man muss sicherstellen, dass man die Lufttemperatur misst. Aber Sie wollen doch nicht behaupten, dass Sie nicht in der Lage sind, das Monatsmittel eines Standortes auf ein paar Zehntel Grad genau zu ermitteln könenn, oder?
+Wenn Sie das nicht hinbekommen, liegt das möglicherweise daran, dass Sie einen der von Ihnen aufgelisteten „messtechnischen Fallstricke“ nicht beachtet haben. Daneben kommen dann auch noch mikroklimatische, standortspezifische Gründe infrage (Repräsentationsproblem), die man übersehen haben könnte.
+„das Szenario von Watts ist dann ja ganz einfach von den Klimaforschern zu entkräften, indem man die Kalibirierfunktionen der Temperatursensoren mit den statistischen Parametern (Test auf Varianzhomogenität im Meßbereich, Reststandardabweichung, Verfahrensstandardabweichung, Konfidenzintervall usw.) und die Protokolle über die in regelmäßigen Zeitabständen durchgeführten Validierungen veröffentlicht.
+Ich hoffe ja doch, dass bei diesem wichtigen Thema die gängigen Qualitätsstandards für Prüfmittel eingehalten werden.“
+Ja, mich wundert auch, dass dies noch nie ein Skeptiker geprüft hat….
+Aber dar Frank-Artikel hat trotzdem noch methodische Sonderbarkeiten.
+ich kenne mich mit mathematischer Statistik aus, Sie sagen mir da nichts Neues. Also, bitte keine Allgemeinplätze, sondern Konkretes.
+„Deshalb kommen die einen auf +/- 0,2 und die anderen auf +/- 0,46 Abweichnung.“
+Die Diskrepanz zwischen Folland und Frank liegt nicht an verschiedenen Quantilen, sondern an einer anderen Fehlertheorie Franks, die IMHO auf fehlerhafter Anwendung der Fehlerrechung beruht.
+„Die Gleichungen der Magneto-Hydro-Dynamik (Fluiddynamik), die in den Klimamodellen stecken, ermöglichen übrigens gar keine Wahrscheinlichkeitsinterpretation, weil sie deterministisch sind.“
+Was soll der Themenwechsel? Es ging in dem blog um die Analyse empirischer Temperaturmessungen, um nichts anderes!
+Aber dennoch:
+Der Magneto-Teil der Gleichungen wird sogar Null gesetzt. Wenn die Randwertbedingungen einer probabilistischen Vetrteilung folgen, so folgt dies auch für die Ergebnisse, obwohl diese eindeutig aus den Randbedingungen determiniert folgen.
+„Nur ist die Natur oder die Realität selbst nicht deterministisch, sondern adaptiv-dynamisch.“
+Den Begriff „adaptiv-dynamisch“ kenne ich nicht. Was soll das bedeuten?
+Als Naturwissenschaftler folge ich den Erfahrungen der Naturwissenschaften, und danach sind viele Prozesse in der Natur im Rahmen gewisser Genauigkeiten deterministisch beschreibbar. Die Kunst ist, die Genauigkeiten zu ermitteln und nicht den Kopf wegen selbstauferlegter a priori nicht erfüllbarer Ansprüche an grenzenlose Exaktheit in den Sand zu stecken.
+wie Sie selber überprüfen können, ist die Formel für die Gesamtvarianz nicht auf Gaussverteilungen beschränkt, sondern gilt allgemein für wie auch immer verteilte unkorrelierte Zufallsvariable.
+Bei den Fehlern der Temperaturmessungen wird oft unterstellt, dass ein „zu hoher“ bias einfach nur die Skala nach oben verschiebt, dann aber, wenn das Messgeraet ansonsten korrekt misst, dennoch den Temperatur-Auftrieb richtig wiedergibt. Dies ist aber aus MINDESTENS zwei Gruenden so nicht richtig:
+1) Wenn ein Thermometer an einer „zu warmen“ Stelle steht, dann meist dort, wo aufgrund Wirtschaftswachstums, hoeherem Verkehrsaufkommen usw. (Flughaefen), die Umgebungstemperatur kuenstlich von Jahr zu Jahr erhoeht wird. Man misst dann also einen (durchaus anthropogenen) Temperaturanstieg vor Ort selbst dann, wenn die klimatisch bedingte Temperatur gefallen waere!
+2) Zudem gibt es an solchen kuenstlich beheizten Stellen einen Sommer/Winter-Bias: im Winter wird geheizt, im Sommer nicht. Wenn die Sonde dann im Sommer (vielleicht!) die korrekte Temperatur misst, so wird sie im Winter systematisch eine zu hohe Temperatur ausweisen, denn, je kaelter es tatsaechlich wird, desto mehr wird mit Heizen dagegen gehalten, d.h. fallende Temperaturen werden weniger stark in die Messreihen eingehen wie steigende, da sie umso staerker abgefedert werden, je mehr die Temperatur tatsaechlich sinkt!
+Fazit: das ganze ist Kurks, um es mal ebenso wissenschaftlich auszudruecken.
+Sie wissen doch, es gibt keine dummen Fragen NUR dumme Antworten.
+Als normalverteilt kann man Zufallsgrößen ansehen, die durch Überlagerung einer großen Zahl Einflüssen entstehen, wobei jede einzelne Einflussgröße nur einen im Verhältnis zur Gesamtsumme unbedeutenden Beitrag liefert.
+Hätten Sie mir den zentralen Grenzwertsatz der Statistik an den Kopf geworfen, der besagt, dass, wenn man nicht mehr eine einzelne Zufallsgröße betrachtet, sondern die Summe mehrerer unabhängiger, identisch verteilter Zufallsgrößen, die Verteilung dieser Summe gegen eine Normalverteilung konvergiert, wenn man die Zahl der Summenglieder immer weiter vergrößert, und zwar unabhängig von der Ausgangsverteilung. Zum Beispiel, wenn Mittelwerte berechnet werden – etwa die Temperatur nicht an einem Tag, sondern der Durchschnitt in einem Monat einer Region.
+Allgemein: Eine Normalverteilung hat etwa 2/3% ihrer Wahrscheinlichkeit innerhalb 1 Standardabweichung und 95% ihrer Wahrscheinlichkeit innerhalb von 2 Standardabweichungen vom Mittelwert entfernt.
+Deshalb kommen die einen auf +/- 0,2 und die anderen auf +/- 0,46 Abweichnung.
+Die Gleichungen der Magneto-Hydro-Dynamik (Fluiddynamik), die in den Klimamodellen stecken, ermöglichen übrigens gar keine Wahrscheinlichkeitsinterpretation, weil sie deterministisch sind. Nur ist die Natur oder die Realität selbst nicht deterministisch, sondern adaptiv-dynamisch.
+Aber wie hat der langjährige Deutsche-Bank-Chef Hermann Josef Abs einmal gesagt:
+„Die Statistik ist wie eine Laterne im Hafen. Sie dient dem betrunkenen Seemann mehr zum Halt als zur Erleuchtung.“
+Die Analogie des Seemanns zu Ihnen ist natürlich frei erfunden.
+Grüße
+das Szenario von Watts ist dann ja ganz einfach von den Klimaforschern zu entkräften, indem man die Kalibirierfunktionen der Temperatursensoren mit den statistischen Parametern (Test auf Varianzhomogenität im Meßbereich, Reststandardabweichung, Verfahrensstandardabweichung, Konfidenzintervall usw.) und die Protokolle über die in regelmäßigen Zeitabständen durchgeführten Validierungen veröffentlicht.
+Ich hoffe ja doch, dass bei diesem wichtigen Thema die gängigen Qualitätsstandards für Prüfmittel eingehalten werden.
+Liegen diese Daten nicht vor, fehlen die notwendigen Prämissen für die angewendete Statistik und Sie schätzen mit Ihrer Formel die Standardabweichung des Temperaturmittelwertes viel zu klein.
+Zur Bestimmung des Temperaturmittelwertes eines Hauses:
+Wenn Sie mit 1100 Temperaturmeßstationen die globale Mitteltemperatur bestimmen können, müßten Sie imo auch die Mitteltemperatur eines Hauses mit 2 Thermometer messen können.
+Gruß
+R.H.
+man man man, so eine überhebliche person habe ich lange nicht mehr erlebt!
+Aber daran sieht man, dass sie vomn messen und messtechnik null ahnung haben.
+Temperaturmessung besteht halt nicht nur darin ein thermometer abzulesen.
+Temperaturmessung setzt eine umfangreiche kenntnis der thermodynamik und messtechnik voraus.
+Man muss wissen, wie man wann welches temperaturmessgerät einsetzt, messbereiche auswählen, die messung kalibrieren, systematische einflüsse und deren auswirkungen auf den messwert erkennen und gegebenfalls korrigieren können(was im übrigen nicht so trivial ist wie sie es hier darstellen). Man muss wissen wo und wie ich das messinstrument installiere,…
+Sie sollten mal mit den standards arbeiten, welche in der industrie an präzisionsmesswerte gestellt werden, inkl. der konsequenz bei nur leicht fehlerhaften daten u.u. schäden in millionenhöhe zu verursachen.
+Aber solche probleme und deren folgen scheinen sie ja nicht zu kennen.
+@ admin:
+meine namensschreibweise steht nicht im wiederspruch zu ihren forenregeln 🙂
+[quote]1. Bitte geben Sie Ihren Namen an – Kommentare „von anonym“ werden gelöscht.
+[/quote]
+ich weiss das ist krümmelkackerei, aber da kommt der ingenieur in mir durch :p
+michael m. ist nun mal mein name. Aber ich bin nicht bereit meinen nachnamen voll auszuschreiben, da ich so u.u. berufliche nachteile zu befürchten habe. Die holding meines unternehmens, in dem ich arbeite hat sich nun mal dem klimaschutz verschrieben, auch wenn das gros der ingenieure, techniker usw. die blödsinnigkeit dieses unterfangens erkannt hat (zumindest alle mit denen ich bis jetzt zu tun hatte. Und das sind nicht wenige, inkl. diverser entscheidungsträger). Nur leider kann man es sich in der heutigen zeit im moment nicht erlauben öffentlich dagegen vorzugehen.
+Schadet dies nicht mir, hat spätestens das unternehmen nachteile, wenn die meinungen der mitarbeiter, welche konträr zur unternehmensstrategie und dem in den medien vermittelten meinunsbildern sind, in der öffentlichkeit bekannt werden. Und damit ist auch niemandem geholfen.
+Sie sollten daher bitte noch einmal die interpretation ihrer forenregel 1.) überdenken.
+Sollten sie diese regel wie gehabt auslegen bin ich natürlich auch gern bereit mir einen fantasienamen auszudenken 😉
+lg
+micha
+ps: versuch nr. 2
+wie wäre es, wenn Sie sich mal um konkrete Ergebnisse zur Sache kümmern als hier den notorischen Bedenkenträger zu spielen?
+Man kann eine Untersuchung immer weiter verfeinern und weitere Störeffekte berücksichtigen. Es ist jedoch halbherzig, nur stets darauf hinzuweisen, dass es da noch einen Effekt gibt, der nicht berücksichtigt wurde ohne diesen konkret zu quantifizieren. Also, entweder Sie ziehen die Sache nun komplett durch und liefern Fakten oder Sie bleiben im substanzlosen Motzmodus.
+Und finden Sie es nicht reichlich albern und weltfremd, aus so etwas Trivialem wie einer Temperaturmessung ein Problem zu konstruieren? Jeder Hobbymeteorologe mit messtechnischen Erfahrungen ist imstande, einen systematischen Fehler von einigen Zehntel Grad im Monatsmittel zu identifizieren und korrigieren.
+Hallo Herr Baecker,
+„Diese seien gaussverteilt mit den Erwartungswerten m_i und den Varianzen s^2_i (Standardabweichung = sigma = s_i).“
+Sie wissen doch gar nicht, wie die Verteilung der werte ist (oder Hellseher). Die Verteilung ist rein willkürlich oder zufällig.
+Grüße
+O.W.
+ich folgte folgenden Zusammenhängen:
+Man habe N Zufallsvariable X_i, i = 1,…,N vorliegen. Diese seien gaussverteilt mit den Erwartungswerten m_i und den Varianzen s^2_i (Standardabweichung = sigma = s_i).
+Man bildet die neue Zufallsgröße Y = a_1*X_1 +…a_N*X_N. Mit a_1,…, a_N beliebige feste Koeffizeinten. Dann ist die Zufallsgröße Y auch gaussverteilt, um zwar mit dem Erwartungswert m = a_1*m_1 +…a_N*m_N und der Varianz s^2 = a^2_1*s^2_1 +…a^2_N*s^2_N.
+Sei s_1 = …s_N = s_i alle gleich.
+Fall 1 a_1 = … = a_N = 1. Dann ist Y die Summe von X_1+…+X_N. Es gilt m = m_1 + … + m_N und s^2 = N*s^2_i, s = wurzel (N)*s_i
+Fall 2 a_1 = … = a_N = 1/N. Dann ist Y also der Mittelwert von X_1+…+X_N. Es gilt m = Mittelwert(m_1, …,m_N) und s^2 = N*(1/N^2)*s^2_i = S^2_i/N, s = s_i/wurzel (N).
+Fall 2 ist gleichermaßen auf Messungen von Größen mit verschiedenen Erwartungswerten (Temperaturen an verschiedenen Zeitpunkten oder Orten) anzuwenden also auch bei der wiederholten Messung bei einem konstanten Erwartungswert (mehrmals schnell hintereinander zu einem Zeitpunkt). Wichtig ist dabei nur, dass der Erwartungswert eben derjenige der Messung ist.
+Der Wattsche Ansatz ist jedoch anders (soweit ich diese Sekundärliteratur zum Frank-paper interpretiere). Denn hier wird angenommen, dass die Thermometer einen bias gegenüber dem wahren Messwert haben. Wenn dieser bias nach Gauss verteilt mit dem Erwartungswert Null um den wahren Messwert und einer Standardabweichung, die die Messgenauigkeit wiedergibt, ist, so ergibt sich folgendes: Wenn man an einem Ort die Temperatur messen will, so streuen die Messergebnisse verschiedener Thermometer entsprechend der Gaussverteilung um den wahren Messwert. Mehrfachmessung mit diesem Satz von Thermometern erhöht aber nicht die Genauigkeit, die wahre Temperatur zu messen, sondern nur, die Genauigkeit den bias der einzelnen Thermometer zu ermitteln. Durch Mehrfachmessung verifiziert man nur die bias-Verteilung und die Messgenauigkeit (siehe Formel bei Watts aus dem paper rauskopiert). Die Monats- und Jahresmittel einzelner Thermometer sind also auch entsprechend dem bias verschoben. Wenn man annimmt, dass der bias tatsächlich um die 0,5 °C liegen würde, so wäre auch klar, was das hieße: Klimakarten wären unmöglich. Das bekannte Bild von meteorologisch bedingten geographischen Veränderungen in den Monatsanomalien von ein paar Zehntel Grad pro 100 km würde mit einem verrauschtes Muster entsprechend der bias-Verteilungen der einzelnen Messsensoren überlagert sein, was typische Klimaanomalien stark verrauschen würde. M.a.W. solche Messungen ohne Korrektur um den bias sind unbrauchbar.
+Zu Ihrem Haus. Die Antwort erübrigt sich offensichtlich. Wenn Sie mal genauer nachdenken würden, kämen Sie auch auf den Grund, warum die Erfassung der Temperaturverteilung anhand nur zweier Thermometer ziemlicher Blödsinn ist und wo der Unterschied zur Klimamessung ist.
+Ihre Rechnung stimmt so nicht.
+Man muß vor dem Wurzelziehen, also auf der Ebene der Varianzen, die Summe der Varianzen (n*Einzelvarianz) durch (n-1)-Freiheitsgrade teilen. Die Wurzel daraus ergibt dann die Standardabweichung des Mittelwertes und entspricht der Formel von Watts.
+Die andere Formel (sigma/Wurzel(n)) ist meines Erachtens zur Berechnung der Standardabweichung des zeitlichen Temperaturmittelwertes nicht richtig, da in diesem Fall jedes Meßergebnis als Zufallsgröße aufgefasst werden muß, die um den gleichen (unbekannten) wahren Wert verteilt ist. Der wahre Wert muß also konstant und nicht wie hier variabel sein. Eigentlich müßte das doch jeder Naturwissenschaftler wissen.
+Aber die Nachlässigkeit der Klimaforscher in Sachen Statistik wurde ja bereits von McIntyre und McKitrick bewiesen, siehe:
+http://tinyurl.com/482so95
+Dort kann man auch schön nachlesen, dass eine Veröffentlichung in Science bzw. Nature überhaupt kein Kriterium für den Wert oder die Richtigkeit einer wissenschaftlichen Arbeit ist. Die Chefredakteure sind bekennende Klimaalarmisten.
+Aber da ich Sie schon mal da habe, einige Fragen:
+Ich habe ein ähnliches Problem wie die Klimaforscher. Die globale Jahresmitteltemperatur wird ja nur aus den Meßwerten von ca. 1100 Temperaturmeßstationen ermittelt.
+Nehmen wir mal an, ich will jetzt die Jahresmitteltemperatur unseres Einfamilienhauses messen, habe aber nur 2 Thermometer mit Ablesegenauigkeit von 1°C.
+-Wo muß ich die Thermometer platzieren (Keller, Erdgeschoß oder 1. Stock) um ein repräsentatives Ergebnis zu erhalten?
+-Wie oft sollte ich am Tag messen und zu welchen Tageszeiten, damit der Mittelwert mit einer Genauigkeit von 0,1°C angegeben werden kann?
+Falls Sie mir eine schlüssige Antwort liefern, trete ich vielleicht in die Klimaalarmisten-Sekte ein. Aber natürlich heimlich, weil nachdem das letzte Kohlekraftwerk geschlossen und die letzte Automobil-Firme ihre Pforten in Deutschland geschlossen hat, werden Sündenböcke gesucht werden. Wenn Sie wissen, was ich meine….;-)
+Gruß
+R.H.
+kann man seinen Lebensunterhalt zur Gänze durch Lobbyistentätigkeit verdienen oder muss man nebenher noch arbeiten ?
+Viele Grüße
+In der Statistik berechnet man mit dieser Formel die Standardabweichung eines Mittelwertes, der durch die wiederholte Messung einer konstanten, unabhängigen und als fehlerfrei angenommenen Größe (hier Temperatur) ermittelt wird. Die Formel darf also nur angewendet werden, wenn mit einem Thermostaten die Temperatur konstant gehalten würde und 60 mal im Monat der Sensor abgelesen wird.
+Im vorliegenden Fall ist die Temperatur jedoch variabel, so dass es sich um eine Aneinanderreihung von Einzelmessungen einer nichtkonstanten Größe handelt. Die Varianzen müssen in diesem Fall aufaddiert werden. Als erste Abschätzung (alle Statistikfunktionen sind nur Schätzungen!)würde sich nach dieser Betrachtungsweise (Annahme:Meßwerte sind unabhängig gleich normalverteilt) die Standardabweichung des Mittelwertes der Meßreihe berechnen nach:
+Wurzel(N)*Standardabweichung der Meßwertsumme
+das ungefähre 95%-Konfidenzintervall ergibt sich durch Verdopplung des Ergebnisses.
+Die Formel von Watts ist nach meiner Meinung also näher an der Realität, was einem eigentlich schon der gesunde Menschenverstand sagt, da im anderen Falle ein ungenauer Temperatur-Sensor einfach durch Erhöhen der Meßfrequenz (bei veränderlicher Temperatur!!!!!)
+verbessert werden könnte.
+Gruß Robin H.
+Hallo Hr. Heller
+Sehr guter Einwand!
+Das dies noch keinen aufgefallen ist, ist wirklich kein gutes Zeugnis.
+RICHTIG: Man befindet sich nämlich bei der „Schätzung der Standardabweichung von Stichproben“.
+Sind die x(i) unabhängig identisch verteilte Zufallsvariablen, also beispielsweise eine Stichprobe, so wird die Standardabweichung s(X) der Grundgesamtheit bestimmt. s(X) ist aber kein erwartungstreuer Schätzer für die Standardabweichung, da die Quadratwurzel eine konkave Funktion ist folgt aus der Jensenschen Ungleichung, dass dieser Schätzer die Standardabweichung der Grundgesamtheit unterschätzt.
+Ein Aspekt ist die anteilige Auswirkung (Gewichtung) der Stichproben. Wenn man z.B. die Annahme trifft, das bis 1970 alle Temperatur-Daten mit einer Genauigkeit von 1 Grad und ab 1970 mit einer Genauigkeit von 0,5 Grad ermittelt wurden, ergibt sich die Schätzung der Standardabweichung der absoluten Werte der Gesamtheit der Stichproben zu S(X) = 1,064*0.7 + 0,511*0.3 = +/-0,89. Die Schätzung der Standardabweichung auf die relativen Funktions-Werte ergibt sich dann zu +/- 0,44, also ungefähr den oben angebenen Wert von +/- 0,46.
+Der Menschenverstand sagt einen auch, wenn man von 1000 Werten, 700 Werte mit einer Genauigkeit von 1 und 300 Werte mit einer Genauigkeit von 0,5 hat, das natürlich die Einflüsse der 700 Werte stärker ausgeprägt sind bzw. die Gesamtheit der Funktions-Werte bestimmen.
+Grüße
+Mit Ihrer zweiten Formel wird die Standardabweichung (sigma) der SUMME von Zufallsvariablen berechnet. Fuer den Mittelwert muessen Sie noch durch die Anzahl N der Zufallsvariablen teilen und damit landen Sie wieder bei der ersten Formel. Ausserdem muss sich Ihre erste Formel ja als Spezialfall auf der zweiten ergeben. Dies waere bei Ihren Formeln nicht der Fall.
+Aus
+Wurzel(N)*Standardabweichung der Einzelmessung
+errechnet sich natürlich die Standardabweichung der Meßwertsumme und nicht des Mittelwerts.
+„stellen Sie sich doch nicht dumm.
+Es wurde versäumt, eine solche Arbeit früher zu machen, so schwer war das doch nicht!
+Mir geht es dabei weniger um das Ergebnis, als um die prinzipielle Seriosität einer wissenschaftlichen Aussage.“
+Entschuldigung, aber das verstehe ich noch weniger. Im Quellenverzeichnis des papers von Frank sind doch schon einige Arbeiten aufgeführt, die sich mit diesem Thema beschäftigt haben.
+Dass diese Arbeiten zu anderen Ergebnissen kamen, überrascht nicht (siehe mein Beitrag #7).
+Carl Sagan hat auch Appelle zur vernuenftigen und ernstzunehmenden Behandlung des Treibhauseffektes gemacht. Bekannt wurde er durch eine Approximation der Strahlungstransfergl.
+http://tinyurl.com/24boghg
+Bei youtube finden sich jede Menge videos.
+natuerlich kenne ich die Unterschiede zwischen statstischen (= zufaelligen) und systematischen Fehlern. Aber bei den verlinkten Artikeln habe ich nicht den Eindruck, dass die Autoren dazwischen sauber unterscheiden. Ich werde mich aber nicht weiter zur Sekundaerliteratur zum paper aeussern, sondern abwarten bis ich das paper selber vorliegen habe.
+Nun, mit dem peer-reviewed gebe ich ihnenrecht. Aber wir reden hier von Wissenschaft, deren Resultate alle betreffen. Fuer mich ist peer-reviewed jedoch nur eine notwendige Bedingung, wichtiger fuer die Relevanz einer Arbeit ist nicht nur, dass Sie peer- reviewd wurde, sondern, wie oft Sie in der Wissenschaftswelt von anderen papern zitiert wird.
+Lieber Herr Bäcker,
+„Watts &Co Zeigen doch eindruecklich, dass sie nicht wissen, wie man den Fehler in Messdaten und daraus den Gesamtfehler in einer abgeleiteten Groesse berechnet.“ – das können Sie doch nicht allen Ernstes wirklich meinen?! Ich schätze an Ihnen ansonsten, dass Sie bemüht sind, mit Fakten aufzuwarten und argumentativ agieren. Ja, andererseits lässt sich trotzdem beobachten, dass Sie mitunter eigentlich mehr oder weniger streitwürdige Behauptungen als Fakten in den Raum stellen nach dem Motto: vielleicht merkt`s niemand oder vielleicht verstummt der Rest der Opponenten ob der Wahrheit und Objektivität vorschützenden Art und Weise Ihres Vortrages. Für meine Begriffe haben Sie es dieses Mal übertrieben. Sie wissen doch, was systematische und zufällige Fehler sind. Sie wissen auch haargenau, dass alle Physiker, Chemiker, alle anderen Naturwissenschaftler und solche, die ein wenig Berührung mit Mathematik und Physik haben, alle Ingenieure von Hause aus wissen, worum es sich dabei handelt. Sie wissen auch haargenau, dass die moderne Industrie ohne die genaue Kenntnis der Fehlerrechnung nicht auskommt, dass dies das A und O für jedes Qualitätsmanagement in der modernen Produktion von Gütern darstellt usw.
+Seriöserweise bedürften solche schweren Beschuldigungen bzw. Behauptungen eines hieb- und stichfesten Beweises. Erbrächten Sie diesen nicht und hielten dabei Ihre Behauptung aufrecht, könnte dies nur ein Hinweis auf unbesonnene Fahrlässigkeit sowie eine überhebliche Unterschätzung des Restes der Welt darstellen. Oder wollten Sie nur sticheln, provozieren und Öl ins Feuer gießen? Eigentlich kenne ich Sie aus dem Netz als Person, die sich „warm anzieht“ – aber dann dürften Sie auch nicht von „statistischen Fehlern“ (was sollen das für Fehler sein?) reden, nebenbei gesagt. Sie verwirren mich. Na, ja…
+Obwohl ich die Aussage über Fehler in den Klimadaten natürlich nicht selbst nachgeprüft habe (wofür ich eh keine Zeit, Muße geschweige denn Lust hätte)haut mich die Grundaussage des Beitrages doch nicht um. Jedenfalls würde ein solches Herangehen des unkritischen Umgangs mit Fehlern in der Wirtschaft schnell zum Gesichtsverlust, zur Pleite oder gar mitunter zum Verlust von Menschenleben führen. In den Klimawissenschaften ist dies primär natürlich nicht der Fall. Mich wundert es so oder so nicht: Auch bspw. aus den Umweltwissenschaften, wo es auch nicht primär um Gesichtsverlust oder rasch drohenden Pleiten geht, ist mir allzu geläufig, dass bspw. Stoffgehalte z. B. im ppm- und ppb-Bereich, die zu unterschiedlichen Zeiten von unterschiedlichen Labors mit modernster Technik ermittelt wurden, fleißig und unkritisch in einen Sack geworfen werden, was ich so gut wie ausnahmslos aus dem ganzen Land so und nicht anders kenne. Von den unterschiedlichen Methodiken der Entnahme von Proben und deren nachfolgender Aufbereitung zur Analyse möchte ich gar nicht weiter reden…Dieses unzulässige Herangehen liegt zumindest an der Unprofessionalität der Auswerter dieser Daten.
+Und noch eine Bemerkung:
+Mich persönlich nervt es auf Dauer, wenn ständig zur Bewertung von wissenschaftlichen Aussagen und deren Qualität herangezogen wird, ob diese Aussagen aus einem „peer reviewten“ Journal stammen oder nicht. Mein Gott, die überwiegende Mehrheit der wissenschaftlichen Zeitschriften – darunter sind weltweit auch sehr viele angesehene und traditionsreiche, besteht aus solchen, die nicht über so gut klingende Namen wie bspw. „Nature“ oder „Science“ verfügen. Sollen etwa alle anderen Wissenschaftler, die nicht in „peer reviewten“ Journalen publizieren konnten (ihre große Mehrheit), ihre getroffenen Aussagen sowie die entsprechenden Zeitschriften unglaubwürdig und unseriös sein..? Einfach unvorstellbar!
+Mit freundlichen Grüßen
+Bernd Hartmann
+Sie haben ja schon Limburgs Irrtum in seinem Kommentar zu #3 dankswerterweise in #6 erklaert.
+Zeitabhaengige systematische Fehler kennt man in der klimatologie auch schon laenger und diese werden dann natuerlich soweit wie moeglich
+korrigiert.
+Genau diese Art systematischen Fehler habe ich ja auch Paesler bei seiner Homogenisierung auf die Muenchener Stadtstation vorgeworfen.
+Ich bezweifle jedoch, dass die Fehlerfortpflanzung aufgrund solcher fehler ei er Gesetzmaessigkeit wie in der Gleichung unter „4 summary“ folgt. Wo findet man die gesamte Veroeffentlichung, die verlinkten Texte oben sind zu dilettantisch?
+Buch-Tip: Carl Sagans Buch „Der Drache in meiner Garage oder die Kunst der Wissenschaft, Unsinn zu entlarven“
+Zitat: Unter Kapitel „LOGISCHE IRRTÜMER UND RHETORISCHE TRUGSCHLÜSSE“
+— Die empirische Auswahl. Die Beschränkung auf die günstigen Umstände, oder wie es Sir Francis Bacon ausdrückte, man zählt die Treffer und vergißt die Fehlschüsse. Beispiel: Ein Staat rühmt sich der Präsidenten, die er hervorgebracht hat, verschweigt aber seine Serienmörder.
+— Die Statistik der kleinen Zahlen. Der empirischen Auswahl nah verwandt. Beispiel: »Es heißt, schon jeder fünfte Mensch sei Chinese. Wie ist das möglich? Ich kenne Hunderte von Menschen, aber kein einziger davon ist Chinese.«
+— Das Wesen der Statistik mißverstehen. Beispiel: »Präsident Eisenhower war erstaunt und beunruhigt, als er erfuhr, daß die Hälfte aller Amerikaner eine unterdurchschnittliche Intelligenz haben.«
+Aus meinen alten Vorlesungs-Script der Grundsatz: „Mit Statistik kann man nichts beweisen!“
+Aber zum Thema – Messungen:
+Man messe mit einem Thermometer die Temperatur am Ort A, dann lasse man sich 40 km an den Ort B „beamen“ und messe dort die Temperatur mit demselben Thermometer. Die Differenz der Temperaturen von Ort A und Ort B ist der „wahre“ bzw. „quasi-wahre“ Wert der Temperatur-Differenz, da man mit demselben Instrument gemessen hat.
+Und das Beispiel mal mit Zahlen veranschaulich:
+1.Thermometer vom Ort A: 18,5 Beam Up -> (Ort B) 17,5
+2.Thermometer vom Ort B: 16,5 Beam Up -> (Ort A) 17,5
+Wenn man jetzt die Differenz zwischen Ort A und Ort B mit demselben Thermometer vergleicht, dann beträgt diese immer 1 Grad. Wenn man jetzt aber die beiden Ort mit unterschiedlichen Thermometern (Mess-Instrumenten) vergleicht, dann liegt die Differenz bei 0 und 2 Grad. Das macht einen prozentualen Fehler der Temperatur-Differenz/Anomalie von 100% aus.
+Auch die Daten-Differenz/Anomalie ist für einen Ort und ein Mess-Instrument nicht immer gleich, weil bestimmte Mess-Bereiche unterschiedliche Mess-Genauigkeiten aufweisen.
+z.B.:
+Pt100 – 0°C – 15°C – Genauigkeit: +/-0,4 Grad
+Pt100 – 16°C – 30°C – Genauigkeit: +/-0,2 Grad
+Pt100 – 31°C – 45°C – Genauigkeit: +/-0,3 Grad
+und hier die Satelliten-Mess-Instrumente für die Temperatur
+Gerät: AIRS
+Spektrometertyp: Gitterspektrometer
+Spektrale Bandbreite (TIR): 6.20 – 8.22, 8.80 – 15.5 µm
+Spektrale Auflösung: ca. 1.0 cm^-1
+NE dT: 0.5 K @ 250 K
+Räumliche Auflösung (Boden): 13.5 × 13.5 km^2
+Einsatz: Ab 2000 (EOS Aqua)
+Gerät: IASI
+Spektrometertyp: Interferometer
+Spektrale Bandbreite (TIR): 3.62 – 15.5 µm
+Spektrale Auflösung: ca. 0.50 cm^-1
+NE dT: 0.29 K @ 250 K
+Räumliche Auflösung (Boden): 12.0 × 12.0 km^2
+Einsatz: Ab 2003 (METOP-1)
+Sobald sich Daten nicht auf dasselbe Mess-Instrument und/oder Lokalität und/oder Zeit beziehen, müssen die Genauigkeits-Intervalle/Fehler angeben bzw. einbezogen werden. Es spielt in diesem Zusammenhang keine Rolle ob die lokal gemessenen Daten-Differenzen exakt bzw. quasi-exakt sind, denn diese lokalen Differenzen/Anomalien können mit anderen Mess-Instrumenten ganz anders ausfallen. Damit spielt zwangsläufig
+die Fehler-Belastung der aus den lokalen Differenzwerten berechneten globalen Werte eine erhebliche Rolle.
+Ein entsprechendes quantitatives Maß für die Richtigkeit der Messung ist die systematische Abweichung. Je kleiner die systematischen Abweichungen, desto richtiger ist das Messergebnis. Die Richtigkeit wird auch als äußere Genauigkeit (bzw. Treffergenauigkeit) bezeichnet. Kennt man den wahren Wert nicht (und auch keinen Soll-Wert), so kann man defnitionsgemäß auch nichts über die Richtigkeit der Messungen sagen, sondern nur über die Präzision.
+Die Auflösung eines Messgerätes oder Messverfahrens ist schließlich der kleinste Messwert, den das Messgerät gerade noch vom nächsten, eng beieinander liegenden Messwert unterscheiden kann.
+Die ersten Messungen mit einer Temperaturmessgenauigkeit von bis zu 0,01°C wurden von Beckmann 1905 mit einen „Beckmann-Thermometer“ erreicht (Fieberthermometer 1857 mit einer Auflösung von 0,1°C). Bis in die 70-er Jahre hinein wurde mit einer Genauigkeit von 1°C die Temperatur der Wetterstationen abgelesen. Mathematisch bedeutet das, dass die relative Fehlertoleranz bei +/- 0.5°C liegt. Damit sind alle Temperaturdifferenz/Trend-Betrachtung unter einem Wert von 0,5°C wegen des relativen Fehlers der Messungen sowieso wenig sinnvoll. Erst ab Mitte der 70-er Jahre wurden Thermometer mit einer Messgenauigkeit von 0,5°C in den Wetterstationen eingeführt.
+Das Normierung/Referenz-Problem:
+Schon bei Druckmessungen (gilt natürlich auch für Temperatur-Messungen) hat man Probleme die Druckvariationen (Lasteffekte) zu bestimmen, obwohl der Luftdruck relativ genau bestimmt werden kann.
+Éin offzielles Statement vom DWD:
+„Die großräumigen Druckvariationen werden durch die Differenz vom mittleren barometrischen Druck im Umkreis von 2000km und dem barometrischen Referenzdruck ermittelt. Die kleinräumigen Druckvariationen werden durch die Differenz vom lokalen barometrischen Druck und dem barometrischen Referenzdruck berechnet. Da für dieses Modell Informationen über den lokalen und den regionalen barometrischen
+Druck benötigt werden, ist es nur mit größerem Aufwand anwendbar (Rabbel und Zschau, 1985).“
+Grüße
+stellen Sie sich doch nicht dumm.
+Es wurde versäumt, eine solche Arbeit früher zu machen, so schwer war das doch nicht!
+Mir geht es dabei weniger um das Ergebnis, als um die prinzipielle Seriosität einer wissenschaftlichen Aussage.
+Will man etwas über „Erwärmung“ aussagen, muss man sich zunächst mit der „Genauigkeit“ der Thermometer beschäftigen.
+Ist diese Genauigkeit geringer als eine behauptete Veränderung der Temperatur,
+so ist eine solche Aussage schlicht UNWISSENSCHAFTLICH.
+Da solche Aussagen jedoch von einer gewissen Gruppe von „Wissenschaftlern“ gemacht werden, sehe ich das als Beleg dafür, Sie eingeschlossen, dass hier vorsätzlich die Unwahrheit verbreitet wird.
+Und das nannte ich skandalös
+„Finden es nicht auch skandalös, dass so eine wichtige Basisarbeit wie die von Frank bisher versäumt wurde???“
+Verstehe ich nicht, meinen Sie etwa mich?
+Die Arbeit von Frank ist gerade mal ein paar Tage online und wie Sie meinem Beitrag #7 entnehmen können, kannte ich sie schon (im Unterschied z.B. zu ihnen) und meine auch, Fehler gefunden zu haben. Oder glauben Sie, ein paper überfliegt man mal rasch in 5min und weiß gleich, was schief läuft??
+Von mir jedenfalls wurde die Arbeit nicht versäumt, allerdings bereue ich, für sie überhaupt Zeit verschwendet zu haben. Genau das ist der Grund, dass E&E einen schlechten Ruf genießt, das ist nicht das erste Mal nun.
+Finden es nicht auch skandalös, dass so eine wichtige Basisarbeit wie die von Frank bisher versäumt wurde???
+Oder ist es etwa das Prinzip der AGW-XXXX, die Realität zu ignorieren?
+Ignoriert sie vielleicht die Realität (z.B. durch massive Reduktion der Messstationen), weil diese gegen die AGW spricht???
+Sie haben Recht, zurück zum Autor Frank und seinem paper:
+Wie schon angemerkt, wurde es in einem wenig renommierten Journal veröffentlich.
+Vielleicht könnte ein Grund sein, dass der Autor „Mittelwert des Fehlers“ und „Fehler des Mittelwerts“ verwechselt, wie im paper passiert (s. Gl.9 S.976 und 3b).
+Oder dass er auf S.982 einen ungeeigneten Wert nür N benutzt.
+Oder dass er behauptet, der Fehler hätte für ein 30-Jahres-Mittel ähnliche Werte wie für ein Monatsmittel (!!).
+„…und zweitens fallen systematische Fehler nicht heraus, wie jeder der sich mit Fehlerfortpflanzung und Statistik etwas auskennt, bestätigen kann.“
+Stimmt zwar im allgemeinen, hier speziell aber nicht.
+Nehmen wir an, Sie haben einen systematischen Fehler bei der Temperaturbestimmung einer Station, diese misst ständig +1°C zu viel.
+Dieser Fehler wird nicht kleiner, wenn man mit diesem Thermometer 100x misst und dann das Mittel bildet, da haben Sie schon recht.
+Übersehen haben Sie aber, dass die TemperaturANOMALIE mit diesem Thermometer gemessen wird.
+Vor 10 Jahren ein Wert, der um 1° zu hoch liegt.
+Heute ein Wert, der ein klein wenig höher ist, aber ebenfalls 1° zu hoch.
+Bei der Differenzbildung fällt dann dieser systematische Fehler weg.
+(Nota bene: Es geht in Herrn Bäckers Beitrag nicht um systematische Fehler, die variabel sind. Diese müssen natürlich berücksichtigt werden, z.B. bei der Kompensation des UHI-Effekts.)
+um in wissenschaftlichen Zeitschriften publizieren zu koennen, sollte man zumindest nicht demonstrieren, dass man die Unterschiede zwischen der Fehlerfortpflanzung systematischer und statistischer Fehler nicht kennt.
+Watts &Co Zeigen doch eindruecklich, dass sie nicht wissen, wie man den Fehler in Messdaten und daraus den Gesamtfehler in einer abgeleiteten Groesse berechnet.
+Wenn die Thermometer an verschiedenen Stationen wie angenommen eine konstante systematische Abweichung zeigen, so faellt diese Abweichung bei der Homogenisierung automatisch (zusammen mit den anderen systematischen Unterschieden wie durch Hoehenlage etc) weg. Man berechnet schliesslich nur die Anomalien.
+Jetzt hat Herr Frank also mit seiner Arbeit die jahrzehntelange Forschung von hunderten bis tausenden von Wissenschaftlern widerlegt. Wieso, frage ich mich, veröffentlicht er dies in „Energy & Environment“, einem nicht wirklich peer-reviewten Journal mit denkbar schlechtem Ruf, und nicht in einem angesehenen Journal wie zum Beispiel Nature? Wenn seine Überlegungen einer kritischen Überprüfung standhielten stände dem doch eigentlich nichts im Wege?
+Peter Hartmann
+http://tinyurl.com/5vbqdsu
+Kernaussagen:
+eine genaue Temperaturrekonstruktion der letzten 1000 Jahre ist unmöglich
+eine Zahlenangabe der „globalen Temperatur” ist nicht seriös möglich
+Wem Lord Oxburgh nichts sagt: Er war für eine der Untersuchungen zu Climategate zuständig.
+Klimwandel, ob kalt oder warm : CO2 steigt (und damit ist es für irgendwas schuld) muss runtergefahren werden. Diese Botschaft ist beim Bürger engebrannt – und das ist wichtig !!
+weitere Weichen werden bereits gestellt, während man sich hier um des Kaisers Bart streitet.
+Ökonomen aus Göteborg fordern :
+CO2 Steuern auf Fleisch und Milch, 60 €/to. Das hoch subventionierte Postdamer Institut greift dies natürlich auf. „So was haben wir noch nicht“. Sie finden eine Besteuerung von Lebensmitteln zur Rettung des Klimas dringend geboten. Die Forscher kommen zu dem Schluss, dass Nahrungsmittel ein Klimakiller sind. Also sollten sich die Ernährungsgewohnheiten ändern. Rindfleisch durch Hühnerfleisch ersetzen oder Bohnen. Und weniger Milch. Außerdem würden dann Landflächen frei um Biokraftstoffe anzubauen. Die derzeitigen bedrohlichen folgen dieses Anbaues leugnen sie.
+„Rindfleisch : Kaviar der Zukunft“ meint die UN nahe Organisation FAO.
+Näheres auf mmnews.de
+Der Blödsinn mit dem Klima ist noch lange nicht zu Ende.
+Für H. Fischer wären die 60€ bestimmt noch um eine 0 zu wenig.
+Zitat:“und nicht in einem angesehenen Journal wie zum Beispiel Nature“
+Vielleicht hat das angesehene Journal die Annahme dieses Artikel verweigert, warum auch immer. Gründe dafür, ohne das entsprechende Hintergrundwissen redaktioneller Natur, kennen wir nicht, insofern ist ihre Frage danach obsolet.

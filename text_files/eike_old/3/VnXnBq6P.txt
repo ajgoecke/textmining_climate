@@ -1,0 +1,213 @@
+Der aktuelle Netzzustand
+Der Verlauf der Ökoenergie-Einspeisung im Jahr 2015 (Bild 1) zeigt im Grunde ein „friedliches“ Versorgungssystem. Deutschland-weit ist der Bedarf immer höher als die Ökostrom-Einspeisung. In Folge können (besser: müssen) die von den EEG-Befürwortern noch nicht ganz verbotenen konventionellen Kraftwerke das Netz durch Regelung ihrer Einspeisung stabil halten. Das funktioniert, weil (noch) selten und vor allem nur lokal kurzzeitig Überangebote vorkommen und deshalb das „Wegwerfen“ von Strom z.B. durch Verschenken oder sogar mit Zuzahlung fürs Abnehmen ins Ausland möglich ist.
+Trotzdem sind bereits bei diesem aktuell noch „paradiesischen“ Zustand enorme Maßnahmen nötig, um die lokalen Probleme nicht ausufern zu lassen[12].
+Bild 1 Stromverbrauch und angebotene Ökoleistung von Dez. 2014 bis Nov. 2015 (Quelle Agora-Energiewende)
+Kurze Wiederholung aus Teil 1
+Das folgende Bild 2 zeigt die simulierten Ganglinien von Verbrauch und Ökostrombereitstellung beim Ausbaufaktor für 100 % netto-Bedarfsdeckung im Planjahr 2050 und Bild 3 zeigt dazu den Verlauf der Residuallast (Differenz zwischen Last und Einspeisung aus erneuerbaren Energien zu jedem Zeitpunkt (beachten: Positive Residuallast = Deckungslücke der Ökostromeinspeisung, also Energiemangel).
+Bild 2 Simulierte Ganglinien von Verbrauch und Ökostrombereitstellung im Jahr 2050 bei 100 % Bedarfsdeckung
+Bild 3 Jahr 2050. Simulierte Ganglinien der Residuallast mit Anzeige von positiver Ökostrombereitstellung (negative Residuallast) und negativer Ökostrombereitstellung (positive Residuallast) bei 100 % netto-Bedarfsdeckung
+Damit niemand meint, die Simulation liegt völlig falsch, mit Bild 4 die entsprechende Darstellung aus der Fraunhofer-Studie[4]. Zu beachten ist, dass darin die Planzahlen von 2012 und deshalb ein erheblich niedrigerer Ausbau simuliert sind (die Information dazu kam im Teil 1).
+Bild 4[4] Simulation des Jahres 2050 aus Daten und Ausbaufaktoren Stand 2012
+Anhand von Bild 3 sieht man, dass die neuen Einspeiseverläufe zwischen dem positiven und negativen Bereich „beliebig“ hin- und herpendeln – was es im bisher durch Großkraftwerke dominierten Versorgungssystem nicht gab -, und damit vollkommen neue (und vor allem teure und sehr kritische) Anforderungen an das Versorgungsnetz stellen.
+Bei einer Erhöhung auf ca. 150 % wie es wirklich erforderlich wird, um ohne die dann verbotenen konventionellen Kraftwerke (Stichwort: Forderung unserer Umweltministerin und führender Weltrettungs- NGOs nach einer Dekarbonisierung Deutschlands) eine positive Einspeisung zu garantieren, werden zusätzlich Energiespeicher im Großmaßstab erforderlich. Diese zusätzliche – und wirklich gewaltige Problematik – ist aber nicht Gegenstand dieser Reihe. Ein Einstieg dazu ist im EIKE-Artikel des Autors Elektro-Energiespeicherung nachlesbar.
+Der Stromsee
+Eine der genialsten Marketingschöpfungen der EEG-Zunft ist der Stromsee. Bei den Münchner Stadtwerken – die dank ihren massiven Ökostrom-Investitionen erstmals in ihrer Geschichte Verluste schreiben – kann man das Prinzip nachlesen "Das Modell des Stromsees". Leider hat dieses herrlich anschauliche Modell einen Haken: Dieses Sammelbecken für Strom bildet das Versorgungsnetz nicht – die Physik lässt es auch im „Grünstromland“ nicht zu. Wenn allerdings Politiker nach solch falschen Modellen entscheiden, hat das Auswirkungen auf das Ergebnis.
+Das konventionelle Versorgungs-Paradies
+Im bisherigen konventionellen Versorgungssystem speisen wenige Kraftwerke in das Netz. Diesen stehen viele Verbraucher aber kaum einspeisende Quellen gegenüber. Damit ist die Kraftwerks-Einspeisung „dominant“. Die Konsequenz ist ein überschaubares und leicht beherrschbares Versorgungsnetz.
+Erklärung
+Wenn der Verbrauch immer niedriger ist als die planbar zur Verfügung stehende Leistungsreserve können Lastspitzen durch Hochfahren der Planleistung sicher und stabil versorgt werden. Dazu gibt es ein über Jahrzehnte ausgeklügeltes System von Primärregelung, Sekundärregelung und Minutenreserve. Minderverbrauch kann durch gezieltes Herunterfahren und eventuellem Zuschalten weniger Verbrauchern wie Pumpspeicher ausgeglichen werden. Durch sorgfältiges Abstimmen der Einspeise- und Lastpunkte fließt der Strom immer vom Versorger zum Verbraucher – siehe die hellgrüne Linie „Last“ in Bild 5 – und die Spannungspegel auf den Netzsegmenten sind einfach auf die zulässigen +- 10 % einhaltbar.
+Dieses im Wesentlichen zentral gespeiste System kann mit wenig Regelaufwand das Netz „führen“ und die Verbrauchsveränderungen auch im Verbund sicher ausregeln.
+Bild 5[6] Spannungsbänder im Versorgungsnetz. Konventionelles System: grüne Linie „Last“ (mit Ergänzungen durch den Autor)
+Bekannt ist (besser: war) diese Technologie als „sicherstes und stabilstes Versorgungsnetz der Welt“.
+Das Grünstrom-Chaos
+Anmerkung: Es folgt eine stark vereinfachte und nie richtige Darstellung, da die Bedingungen durch Gesetze und Verordnungen laufend und beliebig verändert werden.
+Im neuen Grünstrom-Versorgungssystem gibt es die „dominante Einspeisung“ und die planbar verfügbare Leistung nicht mehr. Auch das gezielte Herunterregeln ist entfallen (Anm.: inzwischen muss jedoch jede Anlage ab 100 kW in Stufen von 0; 30; 60; 100 % fern-schaltbar sein). Jeder kann an jeder Stelle einspeisen und gleichzeitig verbrauchen. Zusätzlich legte das EEG mit der Vorrangeinspeisung fest, dass sich Ökoenergie nicht um den Bedarf kümmern muss, sondern bedarfs-unabhängig und vorrangig einspeisen darf (Anm.: Vorrangeinspeisung bedeutet, dass ein Netzbetreiber zuerst allen anliegenden Grünstrom annehmen muss, bevor er konventionellen Strom einspeisen darf).
+Bild 6 zeigt die Veränderung im Versorgungssystem in technischer Darstellung mit den zusätzlichen je nach Anschlussleistung in verschiedenen Spannungsebenen einspeisenden Grünstrom-Lieferanten (Wind, Solar usw.). Im Bild 5 zeigt der rote Verlauf die auftretenden Spannungserhöhungen in den Netzsegmenten, eine Folge daraus zeigt Bild 7. Diese Erhöhungen können so groß werden, dass auch Rückspeisungen in höhere Netzspannungsebenen erfolgen.
+Bild 6[6] Vergleichende Darstellung der konventionellen und der Grün-Energie-Netzstruktur (mit Ergänzungen durch den Autor)
+Bild 7 [15] Brand in einer Kompaktstation. Quelle: Osnabrücker Zeitung, 25.11.2013
+Anforderungen an das Versorgungsnetz der Öko-Zukunft
+Unser Grünstrom-Netz wird bei weiterem Ausbau Prinzip-bedingt unstabil, weil un-planbar und unkontrolliert mehr Energie eingespeist werden kann als verbraucht wird. In Netz-Segmenten ist dies bereits heute der Fall, das Gesamtnetz trifft es noch.
+Die Parole: Die Sonnenfinsternis 2015 hat das Netz mit Bravur bestanden und damit belegt, dass es stabil bleibt "Sonnenfinsternis beamt Stromnetz ins Jahr 2030" ist einfach nur hanebüchen – man kann mit gutem Gewissen sagen: auch gegen besserem Wissen. EIKE dürfte so etwas nie bringen – der Blog würde es zerreißen -, aber wenn es „Experten“ sagen und unsere seriösen Zeitungen berichten, stimmt es eben.
+Die Angaben eines Netzbetreibers (Bild 8) zeigen, wie sich die Probleme innerhalb weniger Jahre schon durch den aktuell noch niedrigen Zubau verschlimmert haben.
+Bild 8 Daten der Netzeingriffe 2012 und 2015 (beide Jan. – Nov.) des Netzbetreibers 50hertz (mit Ergänzungen durch den Autor)
+Auf jeden Fall hat man nun nur noch die Wahl, das Versorgungsnetz stabil zu zwingen – die andere, es stabil zu belassen verhindern unsere Politiker -. Wie das geht, zeigen wendige Militärflugzeuge. Diese werden bewusst instabil gebaut (Flügel mit negativem Winkel). Als Folge kann sie der Pilot nicht mehr selbst stabil halten – was deshalb eine Regelung sicherstellen muss – und sie fallen genau deshalb verblüffend oft von selbst herunter.
+Wie so ein „Herunterfallen“ des Versorgungsnetzes durch völliges Versagen aller geplanten Schutzmaßnahmen aussieht, zeigte der Vorfall einer Großstörung am 4. November 2006. Und da war noch keine Green-Energie im Spiel.
+Beschreibung der Großstörung [16]:
+Am späten Abend des 4. November 2006 um etwa 22:10 Uhr kam es zu einer Großstörung im UCTE-System, bei der etwa 15 Mio. Haushalte in Europa von Stromausfällen betroffen waren. Die Ursache war die in ihren Konsequenzen unzureichend durchdachte Abschaltung einer einzelnen Übertragungstrasse zwischen Deutschland und den Niederlanden (Conneforde-Diele). In der Folge kam es zu einer Systemauftrennung in drei Gebiete: der westliche Teil Europas (Area 1, Abb. V.3) brach wegen einer Unterdeckung mit Erzeugungsleistung großflächig zusammen. Im nordöstlichen Teil (Area 2, Abb. V.3) gelang es, eine Versorgungsunterbrechung trotz massiver Überspeisung und daraus folgender Frequenzerhöhung zu vermeiden. Im südöstlichen Europa (Area 3, Abb. V.3) war die Leistungsbilanz zum Zeitpunkt der Störung nahezu ausgewogen und das System konnte stabilisiert werden. Nach 38 Minuten konnte die Synchronisierung wiederhergestellt werden, bis zur Rückkehr zum Normalbetrieb vergingen etwa 2 Stunden (UCTE 2007).
+Manche denken sicher, die bisherigen Ausführungen wäre nur die Beschreibung eines unverbesserlichen Kritikers, aber niemand sonst sieht das so. Doch solche Beschreibungen gibt es sowohl in Amtsdeutsch:
+[11 Während bislang Stromnetze mit zentraler Stromerzeugung dominieren, geht der Trend hin zu dezentralen Erzeugungsanlagen, insbesondere bei der Erzeugung aus erneuerbaren Quellen (wie z. B. Photovoltaikanlagen, Windkraftanlagen und Biogasanlagen). Dies führt zu einer wesentlich komplexeren Struktur, primär im Bereich der Lastregelung und zur Aufrechterhaltung der Netzstabilität. Deshalb sind Stromnetze, welche durch ein abgestimmtes Management mittels zeitnaher und bi-direktionaler Kommunikation zwischen Netzkomponenten, Erzeugern, Speichern und Verbraucherinnen/Verbrauchern einen energie- und kosteneffizienten Systembetrieb unterstützen, auf zukünftige Anforderungen („Smart Grids“) anzupassen. Als eine Möglichkeit zur Visualisierung und besseren Kontrollmöglichkeit für den Strombedarf werden Smart Meters diskutiert. Sie sollen dazu beitragen, das Zusammenspiel von Erzeugung (aus diversen Quellen) und Verbrauch bei wechselndem Angebot und Nachfrage zu optimieren. Stromabnahmen, die während Verbrauchsspitzen nicht unbedingt notwendig sind, könnten verschoben werden auf Zeiten geringeren Stromverbrauchs und guten Stromangebotes (zu niedrigeren Preisen). Damit sollen über Zähler durch Preisanreize günstigere Lastverteilungen erwirkt werden.
+Und es gibt sie auch als aktuellen Zeitungsbericht. Man beachte, dass die Probleme diskriminierungsfrei verteilt werden – ein Lob für die an alles denkende Gesetzgebung.
+Neue Wetzlarer Zeitung „Die Zukunft kann düster werden".
+Zitate: [13] Wenn es künftig zu Hause zappenduster wird, könnte die Ursache im Energiewirtschaftsgesetz stecken. Um großflächige Stromausfälle auszuschließen, sind Netzbetreiber wie die Enwag verpflichtet worden, einzelne Verbraucher oder sogar ganze Stadtteile abzuschalten.
+Die Wahrscheinlichkeit des großen Blackouts steigt mit der stark wachsenden Stromerzeugung aus Wind und Sonne. Längst sehen Experten dadurch die Stabilität der Stromnetze gefährdet.
+Ist der Überlast durch das Abschalten von Wind- und Solaranlagen oder Umleitungen nicht mehr beizukommen, dann werden Verbraucher künftig abgeschaltet oder komplette Stromtrassen vorübergehend stillgelegt. Ob es sich dabei um einzelne größere Abnehmer oder gleich ganze Stadtteile handelt, wird von der Größe der Überlast abhängen.
+Leidtragende einer Abschaltung, die schnell vier bis acht Stunden dauern kann, sind ganz klar die Kunden, die den Ausbau der Anlagen über die EEG-Umlage finanzieren.
+"Schwieriger wird es für Kunden, die aus medizinischen, technischen, sicherheitsrelevanten oder sonstigen Gründen zwingend auf eine unterbrechungsfreie Stromversorgung ihrer Geräte angewiesen sind", sagte Stein. Diese sollten bereits jetzt für den Ernstfall vorsorgen. Vorsorgen heißt, über die Anschaffung eines Stromspeichers nachdenken. Eine solche "Batterie" kann mit Installation aber schnell 5000, 7000 oder auch 25 000 Euro kosten – je nach Größe und Leistung. Arztpraxen könnten künftig kaum mehr ohne Stromspeicher auskommen, sagte der Enwag-Geschäftsführer.
+Die Abschaltungen müssen "diskriminierungsfrei" erfolgen. Egal ob Unternehmen oder Privatkunden – alle müssen gleichbehandelt werden.
+Das folgende Bild 9 aus einem aktuellen Bericht für den Bundestag zeigt, welche Problematik dahinter steckt und dass diese gerade erst begonnen hat. Dabei geht diese Darstellung nur bis zum Jahr 2030 und die Werte entsprechen der alten (noch moderaten) Ausbauplanung. Man darf sich gar nicht vorstellen, was bei der Umsetzung der aktuellen Forderung des Uba nach 100 % Green-Energieausbau bis 2050 passiert. Interessant ist, dass im Bericht der Einsatz von Speichern sehr kritisch gesehen wird und zudem als eine Lösung das Abregeln empfohlen wird. Anm. des Autors: der Bericht [16] ist für Interessierte zu empfehlen. Er beschreibt alle Aspekte umfassend und realistisch.
+[16] Die Abregelung der EE-Erzeugung und ein netzgetriebener Einsatz von dezentralen Speichern reduzieren den Investitionsbedarf um immerhin fast 20 %, wohingegen der marktgetriebene Speichereinsatz einen kontraproduktiven Effekt hat: Der Netzausbaubedarf erhöht sich um fast 35 %!
+Bild 9[16] Darstellung der Überspannungsproblematik im Verteilnetz durch Greenstrom-Einspeisung (Hinzufügungen durch den Autor)
+Die rettende Idee
+Zur Lösung kam man auf die Idee, dem Versorgungsnetz die Stabilität durch Aufpfropfen einer übergreifenden, vermaschten mehrfach unterlagerten Regelung aufzuzwingen. Weil so eine Idee jedem erfahrenen Regelungstechniker den kalten Angstschweiß auf die Stirn treibt, wurde diese neue Wunderregelung als „intelligent“ definiert. Die Neusprech-Begriffe dafür waren schnell gefunden und lauten: „Smart-Grid“ und „intelligente Netze“.
+Seitdem geht dazu ein Boom durchs deutsche Land. Firmen welche versprechen, diese „Schulung des Netzes“ zu stemmen, haben Hochkonjunktur. Und die dafür benötigten Investitionen sind enorm.
+[7] Deutsche Energieversorger verpassen Megatrend
+Bis 2030 werden Investitionen in Höhe von rund 400 Mrd. € für neue, intelligente Stromnetze in Europa notwendig werden – so eine Schätzung der Europäischen Kommission. Mit Hilfe dieser Smart Grids lassen sich künftig erneuerbare Energien klug in die Stromnetze einspeisen oder Strom dann abrufen, wenn er am billigsten ist.
+Diese Mitteilung muss man sich genau durchlesen, dann bemerkt man des Kaisers neue Kleider, welche der Bürger zu bezahlen hat. Aber wenn die Europäische Kommission es sagt, zieht der Kaiser die Kleider an und die Bürger stehen Spalier zum Bejubeln. Kritik:
+· „… künftig erneuerbare Energie klug in die Stromnetze einspeisen“.
+Wie wollen Smart Grids der Sonne beibringen, dann zu scheinen, wenn ihre Energie gebraucht wird? Und beim Wind dürfte das Problem ähnlich sein. Zudem ist dieser Satz in diesem Kontext eine reine Tatsachenverdrehung: klug speiste man im konventionellen System ein, un-klug macht man es erst im EEG-Netz.
+· „… Strom dann abrufen, wenn er am billigsten ist“.
+Einmal gibt es zu keinem Zeitpunkt billigen Ökostrom. Denn er wird vom Privatkunden aufgrund des EEG immer mit der festen Einspeisevergütung an den Lieferanten bezahlt. Es gibt ausschließlich den billigen „Grün-Wegwerfstrom“ an der Börse. Doch dieser kann nicht anstehen, wenn der Bürger gerade Strom benötigt, denn dann wäre er ja nicht billig. Und an der Strombörse diesen Grün-Wegwerfstrom privat beziehen, gelingt schon gar nicht.
+Beschrieben wird also die künftige Strom-Mangelverwaltung: Der Bürger bekommt ihn nur noch, wenn es ihm „erlaubt“ ist, ansonsten bezahlt er als Lehrgeld einfach horrende Preise.
+Man könnte sich vorstellen, ein pfiffiges örtliches EVU würde für seine Kunden den billigen Börsenstrom beziehen. Einmal benötigt es dafür Speicher, die den Strompreis mindestens verdoppeln "Elektro-Energiespeicherung Teil3". Und dann kommt schnell das Problem, dass zwar der Börsenpreis des Überschussstromes niedrig ist, die Differenz aber über die EEG-Umlage trotzdem vom Kunden „eingetrieben“ wird. Nur so lange es nur wenige EVUs machen (dürften), hätte das wenig Einfluss.
+Also werden sich die Versorger mit ihrer Sachkenntnis gegen diesen Unsinn wehren – denkt man. Nicht so in Deutschland. Was wir machen, machen wir total. Beispiel:
+ENERGIE und TECHNIK 10.10.2014
+RWE-Projekt: Die Eifler Stromnetze werden intelligent
+RWE Deutschland macht die Stromnetze des nördlichen Rheinland-Pfalz intelligent. Über 100 Millionen Euro nahm der Konzern in die Hand, um die Netze für die volatile Energiezukunft zu optimieren.
+Ansonsten strotz der Artikel nur so von Öko-Neusprech. Die „neue Intelligenz“ löst einfach alles.
+Zitate: »Wir wollen die Stromversorgung von morgen regenerativ, wirtschaftlich und energieeffizient gestalten. Dafür investieren wir in unsere Netze und bereiten sie auf die zunehmende Einspeisung von Wind- und Sonnenstrom vor. Der Einsatz von intelligenter Netztechnik spielt dabei eine maßgebliche Rolle«,
+…. »Dazu gehört auch, dass wir unsere Stromnetze intelligenter machen. Unsere Modellprojekt Smart Country in der Eifel ist ein Beispiel, welches die Innovationskraft von RWE belegt«
+…… In diesem Forschungsprojekt werden ein Biogasspeicher und intelligente Spannungsregler genutzt, um das Spannungsniveau im Stromnetz trotz starker Einspeisung aus EEG-Anlagen auf zulässigem Niveau zu halten.
+… Im Niederspannungsbereich zieht ebenfalls intelligente Netztechnik ein.
+Wie sieht so ein Intelligenzbeispiel in der Praxis aus
+Nach dem "intelligenten Lichtschalter" kommt nun auch der intelligente Transformator. Diese bahnbrechende Intelligenz entpuppt sich beim genaueren Hinsehen als Elektromotor, der Spulenanzapfungen schalten kann (früher hieß das einfach „Stufentransformator mit Schaltmotor“) und einer Fernschaltverbindung zum Versorger.
+Natürlich lässt sich das in Grün-Neusprech begeisterungsvoller beschreiben:
+Quelle: etz 2012
+Zusammenfassung
+Die Netzstation der Zukunft wird grundsätzlich eine intelligente Netzstation sein und durch eine intelligente Vermaschung mit übergeordneten Schaltstationen und Umspannwerken den wirtschaftlichen und störungsfreien Netzbetrieb garantieren.
+Das Wundergerät dazu zeigt Bild 10. Man sieht den Blechtopf, unter dem der mittels Elektromotor mit (wenigen) Stufen fern-schaltbare Stufenschalter sitzt.
+Bild 10 (Quelle: etz 2012) Regelbarer Ortsnetztransformator.
+Was macht dieser regelbare Ortsnetztransformator als „Intelligenz“ im Ortsnetz?
+Aufgrund der unkontrollierten Ökostrom-Einspeisung hebt sich der Spannungspegel in davon betroffenen Ortsnetzen (im Bild 5 als rote Linie unter „Einspeisung heute“ zu sehen). Richtige Konsequenz wäre nun, diese Einspeisung abzuschalten (Abregeln) – die teurere Konsequenz wäre, für die Einspeisespitzen Speicher anzulegen.
+Noch macht das aber noch kein EVU gerne. Wobei die „Hemmungen“ aber bald vorbei sein dürften – wie der Nürnberger Versorger stolz zeigt "N-Ergie nimmt Zwei-Zonen-Speicher in Betrieb"-, nachdem es sich bei EVU-Vorständen herumgesprochen hat, dass die Verluste der Münchner Stadtwerke nicht zu Protesten der betrogenen Kunden führten, sondern als vorbildliche Ausgaben gelten "Ausbauoffensive Erneuerbare Energien". Und nichts scheint ja einfacher, als Speicher im Großmaßstab einzurichten wie es das Bild 11 suggeriert.
+Bild 11 (Quelle VDE) Darstellung zur Energiespeicherung
+Weil man beim Abregeln die dann nicht eingespeiste Energie aber trotzdem bezahlen muss (und oft auch der Versorger selbst an der einspeisenden Grün-Energie beteiligt ist) erscheint es günstiger (und ist politisch gewollt), das Problem im Ortsnetz zu „reparieren“.
+Das lässt sich zudem ideal als Ökoinitiative verkaufen und gibt dem häufig mit im Aufsichtsrat sitzenden, örtlichen Bürgermeister die Möglichkeit, sein Klimaschutz- und Ökoengagement in der Lokalzeitung zu präsentieren – und die darauf basierenden Verluste des Versorgers als wichtige, nachhaltige Zukunftsinvestition anzupreisen.
+Man hebt und senkt also in Ortsnetz-Segmenten durch Umschalten von Trafoanzapfungen den Spannungspegel und hofft, dass der zu viele Strom die Chance hat, von Netzbereichen mit angehobener Spannung in solche mit niedrigerer Spannung zu fließen. Wer sich mit Elektrotechnik auskennt weiß, dass dieses Verfahren nur sehr eingeschränkt funktionieren kann – denn man muss weiterhin zwingend im +- 10 % Toleranzband bleiben – und vollkommen versagt, wenn einfach keine ausreichenden Lasten vorhanden sind. Es wird also nur angewandt, weil man dem Problem inzwischen vollkommen hilflos gegenüber steht und jeder Strohhalm ergriffen werden muss.
+Einem elektrotechnischen Laien kann man das Prinzip so erklären:
+Hochintelligente Netzregelung erklärt für Dummies
+Die Autobahn ist überlastet und alle stehen im Stau. Das intelligente Leitsystem informiert nun alle Fahrer: Ab sofort mit höherer Geschwindigkeit fahren und dazu keinen Sicherheitsabstand mehr einhalten. So passen mehr Autos auf die Autobahn und der Durchsatz wird erhöht.
+Es ist so, als hätte ein Bombenhagel in das Versorgungsnetz eingeschlagen
+Firmen welche diese Technik herstellen helfen natürlich mit Begeisterung. Alleine ein solcher „Blechtopf mit Grün-IQ“ kostet ca. das 2- bis 3-Fache eines herkömmlichen und vor allem muss auch ein Großteil der bisherigen durch solche ersetzt werden, denn es funktioniert ja nur im Verbund. Zudem ist es mit diesem IQ-versorgten Ortsnetztransformator alleine nicht getan. Er benötigt in erheblichem Umfang Messtechnik, Kommunikationsmittel und eine aufwendige IT-Struktur im Hintergrund (Bild 12 und 13). Mit etwas Glück muss man dazu auch noch lokale Speicher (Akkus) zurüsten, wodurch das Invest nochmals zunimmt. Das ist so schön, als hätte ein Bombenhagel von Green-Dschihadisten gerade Deutschlands Stromnetze zerstört und man darf dieses mit erheblich teurerem Gerät ganz neu aufbauen. Der Bundestagsbericht [16] schätzte dafür konservativ bis zum Jahr 2030 noch 230 Milliarden EUR, bis zum Jahr 2050 dürften die von der EU genannten 400 Milliarden EUR aufgrund des höheren Ausbaus nicht zu niedrig angesetzt sein – nur haben die übersehen, dass diese Kosten nicht für die EU, sondern für Deutschland gelten.
+Unsere Versorger sehen es gelassen. Bezahlen muss es sowieso der Kunde. Der Versorger kann sich aber mit Leitstellen und neuem IT-Personal beliebig aufblähen, was ver.di gefällt (mehr Mitglieder und damit Beiträge) und dem Versorger-Vorstand auch, weil mehr Mitarbeiter grundsätzlich mehr Salär bedeuten.
+Bild 12 [14] Intelligente Ortsnetz-Trafostation mit Systemumgebung
+Bild 13 [16] Geschätzter Versorgungsnetz- Ausbaubedarf bis 2030 (Summe 230,8 Milliarden EUR)
+Warum wird es vielleicht nicht (ganz) so schlimm kommen?
+Nicht, weil noch Vernunft herrschen würde. Das wäre viel zu viel Ehre für das Verhalten der aktuell dafür Verantwortlichen in Politik, „Wissenschaft“ und Industrie. Es wird einfach nicht schnell und konsequent genug gelingen, das bisher noch Funktionierende in die „Neue intelligente Energiewelt“ zu transformieren. Damit werden die Lücken füllbar bleiben und bei Überlast kann man ja alle grüne Energieeinspeisung auch einfach mal wegschalten. Was aber auf jeden Fall und un-stopp-bar ganz schlimm kommen wird – sind die Kosten.
+Dass sich aber bereits Versorger darauf vorbereiten „wie schlimm“ es doch kommen kann zeigt der (bereits in einem vorherigen Kapitel zitierte) aktuelle Artikel „Die Zukunft kann düster werden" in der Neuen Wetzlarer Zeitung.
+Irgendwie hofft man, dass doch noch irgendwo wenigstens ein kleines Vernunftpflänzchen keimen würde. Fällt es wirklich niemandem auf, was die „Leuchtturmprojekte der Energieautarkie“ belegen? Nicht einmal mit dem größten technischen- und (mit hohem Anteil aus Fördermitteln bezahltem) Kostenaufwand schaffen es diese kleinen Gemeinden, wirklich autark zu werden.
+[17] Mit rund 21 Gigawattstunden produziert die Insel Pellworm jährlich dreimal so viel Strom wie sie verbraucht. Trotzdem sind die 1.200 Einwohner von Stromlieferungen über zwei 20‐Kilovolt‐Seekabel vom Festlandnetz abhängig. Mit einer Kombination aus Windkraft-, Photovoltaik- und Biogasanlagen mit Großspeichern, Haushaltsspeichern und intelligenter Messtechnik kann die Insel nun nahezu Selbstversorger mit Strom werden.
+Das Leuchtturmprojekt wird mit einem Investitionsvolumen von fast zehn Millionen Euro von einem Innovationsverbund aus Industrie und Wissenschaft durchgeführt. Die Bundesregierung trägt 4,1 Millionen Euro der Förderung.
+Ein Nebeneffekt
+Die immer größeren Mengen an Überflüssigem Strom welche Deutschland an die Nachbarn zu Niedrigpreisen verscherbelt, verschenkt oder sich gar mit Strafgebühren abnehmen lassen muss beeinflussen auch dort die Kostenstrukturen der Betreiber. Man kennt dies aus Entwicklungsländern, denen man durch jahrelanges Schenken von bei uns Überflüssigem zum „guten Zweck“ die eigene Erzeuger-Infrastruktur kaputt gemacht hat. So Schlimm ist es bei unseren Nachbar sicher noch nicht, aber es geht denen schon gewaltig „auf den Keks“ und erste Maßnahmen sind bereits in Arbeit "Deutschland nervt Polen mit der Energiewende".
+Zum Abschluss zusammenfassend die ganze Technik und EEG-Historie inclusive der Zukunftsvision in nicht ganz wissenschaftlich präziser Darstellung beschrieben. Erklärt wird anstelle der Stromsee-Darstellung mit dem Modell des Strom-Flusses.
+Das EEG und die Versorgungsnetzthematik anhand der Stromversorgung von Green-Schildburg erklärt für Dummies
+Bei Green-Schildburg fließt ein Strom. Mehrere große und energiestarke Kraftwerke speisen ihn, so dass er recht konstant fließt und nie Gefahr läuft auszutrocknen. Im Frühjahr bei Hochstrom lassen sich die Kraftwerke drosseln so dass der Strom nie überläuft.
+Nicht verbrauchter Strom ist leider verloren, denn er fließ einfach weiter (z.B. aktuell durch Verschenken ins Ausland). Das geschieht aber äußerst selten, denn die Kraftwerke lassen sich regeln und reduzieren frühzeitig die Einspeisung. Es geschieht schon aus Eigeninteresse, denn nicht benötigter Strom wird auch nicht bezahlt.
+Über viele, viele Jahrzehnte funktionierte dies stabil und problemlos
+Green-Aktivisten gefiel das nicht. Sie befanden unter anderem, dass die Kraftwerksinhaber zu viel Geld verdienten und verlangten die Abschaltung der großen Kraftwerke und Ersatz durch möglichst viele Bürgerquellen. Ihr Argument war: Wenn Bürger Strom erzeugen, wird er billig werden. Damit sich das Erzeugen für die Bürger lohnt, wurde beschlossen: Der Bürgerstrom wird immer zu vollem Preis vergütet, auch wenn er nicht benötigt wird. Er darf zudem in beliebiger Menge und zu beliebiger Zeit in den Stromfluss eingeleitet werden – wobei im Gegenzug dann die großen bösen Kraftwerke gedrosselt werden müssen, sofern sie nicht bereits zwangsweise abgeschaltet sind.
+Recht bald stellten sich bisher noch nie gekannte Probleme ein
+Auf ein Mal gab es auch zu viel Stromfluss und der Strom trat über die Ufer und dann gab es Zeiten, wo gar kein Strom floss.
+Nun kamen die Green-Schildbürger auf die Idee, nutzlos vorbei-fließenden Strom in einem Stromsee zu speichern und damit die früher nicht gekannten Probleme zu beheben. Dazu sperrten sie den Strom-Abfluss und (er-)warteten, dass sich der Stromfluss staut und damit speichern ließe. Zu ihrem Erstaunen erhöhte der Strom aber sofort seine Spannung und trat als Folge unkontrollierbar über die Ufer, wobei er sein Flussbett und die Strom-Entnahmestellen der kleinen Leute zerstörte.
+Nachdem dies immer öfter vorkam befragten die Green-Schildbürger jemanden, der das Verhalten von Strom noch kannte. Dieser erzählte den staunenden Green-Schildbürgern, dass es elementare physikalische Unterschiede zwischen Wasser und elektrischem Strom gibt und man Strom deshalb nicht in einem Stromsee durch Absperren speichern kann.
+Weiter erzählte er ihnen, dass die Möglichkeiten den Stromfluss zu bändigen ausschließlich die Folgenden sind:
+· Man darf zu jedem Zeitpunkt nur genau so viel Strom einspeisen wie gebraucht wird, sonst erhöht der Stromfluss sofort seine Spannung (siehe die Homepage "Energie-Wissen", Kapitel: Strom muss im selben Augenblick erzeugt werden, in dem er gebraucht wird).
+· Wenn man an die großen Quellen als Haupt-Zufluss wegnimmt und stattdessen viele kleine, ungesteuerte Zuflüsse im Verlauf einrichtet, treten ganz schnell lokale Spannungsüberhöhungen auf. Es passiert sogar, dass die Stromspannung an solchen Stellen den Stromfluss „zurückschiebt“ also quasi bergauf fließen lässt.
+· Wenn man vorbeifließenden, überflüssigen Strom speichern will, muss man den Strom abschöpfen und in eine „Speicherform“ umwandeln. Denn nur in speziellen „Speicherformen“ lässt er sich lagern. Um daraus wieder Strom zu erhalten, muss man die „Speicherformen“ in Strom zurück-wandeln.
+· Er vergaß nicht zu erwähnen, dass die zur Umwandlung in „Speicherform“ bisher bekannten Verfahren für den erforderlichen Großeinsatz noch gar nicht erprobt sind und zudem sehr teuer wären. Seines Wissens wäre das vorbei-fließen lassen immer billiger, als die Speicher-Umwandlung (siehe "Elektrospeicherung – Kosten" ).
+Nachdem die Green-Schildbürger das gehört hatten, fragten sie ihren Bürgermeister was zu tun wäre.
+Sie bekamen zur Antwort:
+Entscheidungen deutscher Regierungen waren noch nie falsch und die unserer aktuellen Regierung sind zudem alternativlos. Mit viel Geld haben wir zudem viele der sonst arbeitslosen Akademiker(-Schwemme) in Strom-Forschungseinrichtungen untergebracht. Diese und die Industrie sind sich sicher, dass es keine Probleme gibt und stehen gerade vor dem green-technologischen Durchbruch.
+Zudem habt ihr Wichtiges übersehen. Was der Fachmann gesagt hat, gilt nur für dreckigen, konventionellen Strom. Dieser Dreck verstopft das Strombett, blockiert es und erzeugt damit beim Stauen solche Effekte. Der neue Greenstrom hat diese Eigenschaften nicht. Sonst hätten unsere Politiker ja nie über das EEG bestimmt, dass Greenstrom mit Vorrangeinspeisung beliebig und ungeregelt in den Stromfluss münden darf. Und zudem sorgt unser Green-EEG dafür, durch Abschalten aller konventionellen und billigen Energien die Welt vor dem CO2-Tod zu retten.
+Die Green-Schildbürger waren zufrieden weil so fürsorglich und vor allem auch für die Bedürfnisse weit in der Zukunft geborener Generationen regiert wird.
+Sie wunderten sich zwar, dass der Strom immer teurer wurde, immer häufiger ausfiel und zum Schluss verfügt wurde, dass er nur in Kontingenten und wenn die Regierung es für zulässig hielt, verbraucht werden darf. Dann begann die Regierung sogar, die Stromverbraucher in den Haushalten fern-zu-schalten und unerlaubtes Benutzen zu überwachen, was mit fehlender Bürgerintelligenz, die nun das green-intelligente Stromnetz übernommen habe, begründet wurde. Leider brach das hochintelligente Netz immer häufiger zusammen und die absolut sicheren Notfallpläne der extra geschaffenen Erstellungs-, Betreuungs-, Überwachungs-, Betriebs- und Kontrollbehörden entpuppten sich als Makulatur.
+Aufgrund der Probleme verfügte die Regierung, dass Bürger welche Strom verbrauchen Energieräuber wären und an Räuber kein Green-Versorger Strom liefern muss. Strom hat der Bürger selbst herzustellen und die, welche auf das öffentliche Stromnetz angewiesen sind, dürfen nur noch Geräte ohne Stromverbrauch verwenden.
+Zum Schluss führte es dazu, dass davon nicht wenige in einem kalten Winter erfroren, weil in den nur noch zugelassenen 0-Energie-Häusern alle Lüftungsanlagen stillstanden und die Bewohner die fest montierten Fenster einschlagen mussten, um Luft zu bekommen.
+Weil aber bald eine EEG-Mauer um sie gebaut wurde bekam niemand mit, dass außerhalb von Green-Schildburg mit konventionellem und vor allem auch atommodernem Strom keines der in Green-Schildburg alltäglich gewordenen Probleme vorhanden war.
+Das Green-Schildbürger Volk war inzwischen arm wegen der Energiekosten, schien aber glücklich – zumindest wählte es immer wieder die gleichen Regierungsparteien. Obwohl, es gab auch Reiche, die einen Energiepark nach dem anderen errichteten und die Politiker sorgten auch dafür, nicht selbst darben zu müssen. Laufend wurden – immer gut dotierte – Forschungseinrichtungen gegründet welche immer neu belegten, dass nur dieser Weg der richtige sei. Ein Wind-Marx, ein Solar-Engel und erst neuerdings wieder ein Tritt-Ihn hätten dies unwiderlegbar bewiesen. Deshalb würde bald Strom im Überfluss kommen, so wie es von verschwundenen Arbeiterparadiesen erzählt wird, in denen nie Mangel herrschte.
+Ergänzende EIKE-Artikel vom Autor
+Zum Nachsehen der elektrotechnischen Begriffe und Detailerklärung der Ganglinienbilder
+· Ökostrom erklärt für DUMMIES anhand der Wind und Solareinspeisung im November 2015* V2 23.12.2015
+Zur Energiespeicherung
+· Elektro-Energiespeicherung, Notwendigkeit, Status und Kosten. Teil 3 (Abschluss)
+Darstellungen, wie auch ein CSU-regiertes Bundesland inzwischen die Vernunft abgibt
+· Der Wind bläst stetig – die Sonne steht still – wenn mein starker Arm es will oder warum gehen in Bayern die Lichter (noch) nicht aus
+· Das Positionspapier des CSU-Arbeitskreises Energiewende Keine Vernunft mehr, nirgendwo
+Quellen (Teil 1 und 2)
+[1]
+Kopp Verlag 25.08.2015: Windenergie-Flutwellen aus Deutschland werfen seine Nachbarn in die Dunkelheit
+http://info.kopp-verlag.de/hintergruende/enthuellungen/redaktion/windenergie-flutwellen-aus-deutschland-werfen-seine-nachbarn-in-die-dunkelheit.html
+[2]
+KLIMARETTER.INFO Dienstag, 22. Dezember 2015: Neuer deutscher Stromrekord
+http://www.klimaretter.info/energie/hintergrund/20355-neuer-deutscher-stromrekord
+[3]
+Bundesverband Solarwirtschaft, Homepage
+https://www.solarwirtschaft.de/ueber-uns/stimmen.html
+[4]
+Fraunhofer IWES 29. März 2012: BMU – FKZ 03MAP146, Langfristszenarien und Strategien für den Ausbau der erneuerbaren Energien in Deutschland bei Berücksichtigung der Entwicklung in Europa und global – Schlussbericht
+[5]
+EIKE 22.12.2015: Klimanarren und die Lügenpresse DER SPIEGEL
+http://www.eike-klima-energie.eu/news-cache/klimanarren-und-die-luegenpresse-der-spiegel/
+[6]
+Michael Fette Dresden, Februar 2014: Das Spannungsfeld zwischen Netzdynamik, dezentraler Erzeugung von Elektroenergie und deren Speicherung
+[7]
+energiespektrum 18. DEZEMBER 2015: Intelligentes Stromnetz
+http://www.energiespektrum.de/index.cfm?pid=1706&pk=89040#.VnQwQVnZ1Ec
+[9]
+Technische Universität Berlin, September 2011 Studie: Kosten des Ausbaus der erneuerbaren Energien
+[10]
+Umweltbundesamt: Energieziel 2050 100% Strom aus erneuerbaren Quellen
+http://www.umweltbundesamt.de/publikationen/energieziel-2050
+[11]
+Anpassungsstrategie_Aktionsplan_23-10-2012: Die österreichische Strategie zur Anpassung an den Klimawandel Teil 2 – AKTIONSPLAN Handlungsempfehlungen für die Umsetzung
+[12]
+ENERGIE und TECHNIK 10.10.2014, Artikel: RWE-Projekt: Die Eifler Stromnetze werden intelligent
+[13]
+Wetzlarer Neue Zeitung 28.12.2015: Die Zukunft kann düster werden
+http://www.mittelhessen.de/lokales/region-wetzlar_artikel,-Die-Zukunft-kann-duester-werden-_arid,613216.html
+[14]
+Dr. Ing. Peter Birkner, FfM. Nov. 2012 Vortragsfoliensatz: Smart Grid eines kommunalen Versorgers im Querverbund
+[15]
+egrid applications & consulting GmbH, Vortragsfoliensatz: Energiewende im Griff
+[16]
+Deutscher Bundestag 08.09.2015 Drucksache 18/5948: Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung
+[17]
+ENERGIE SPEICHER Forschungsinitiative der Bundesregierung. News 12.9.2013 SmartRegion Pellworm: Intelligentes Stromnetz steigert Eigenverbrauch der Insel
+SZENARIO »LOKAL AUTARK«
+Im Ergebnis zeigte sich, dass eine lokale autarke Stromversorgung in den ländlichen Siedlungsstrukturen machbar erscheint. In Süddeutschland muss hierfür (wegen der schlechteren Windbedingungen) eine höhere Erzeugungs- und Speicherleistung installiert werden als in Norddeutschland. Treten nicht nur Haushalte, sondern auch Gewerbe und Industrie als Stromverbraucher auf, kann eine autarke Versorgung nicht mehr erreicht werden. Dasselbe gilt für städtische Siedlungsstrukturen, in denen eine autarke Versorgung unter den beschriebenen Randbedingungen nicht dargestellt werden kann (UBA 2013, S. 96 ff.).
+Allerdings muss betont werden, dass hier lediglich die technische Machbarkeit untersucht wurde, nicht jedoch die wirtschaftliche Umsetzbarkeit. Selbst im günstigsten der präsentierten Fälle (ländlich, Norddeutschland, 50 % Elektromobilität, nur Haushalte) muss eine erhebliche elektrische Speichergröße von 97 MWh installiert werden. Das bedeutet, dass für jeden der 3.850 Einwohner eine Speicherkapazität von ca. 25 kWh installiert werden müsste. Im hier betrachteten Beispiel von Blei-Akkus entspricht das einem ca. 800 kg schweren Speicher zum Preis von ca. 2.500 Euro je Einwohner.
+Hinzu kommt, dass zur Absicherung der Versorgung, die Erzeugungsanlagen überdimensioniert werden müssen, sodass in der Gesamtbilanz nicht unerhebliche Strommengen nicht genutzt werden können. Im zitierten Beispiel wird mehr als doppelt so viel Strom erzeugt, wie tatsächlich genutzt werden kann (UBA 2013, S. 44).
+Gut Herr Burowski, da frag ich mich warum sich alles aufregt über den vielen unnötigen Strom, der sooft es geht ins Ausland verschenkt wird.
+Wie schafft diese Energie den Weg über einen Trafo im Leerlaufmodus?
+Werden wir da auch belogen, was den Energietransport angeht.
+In den letzten zwei Tagen weht in den Neuen Bundesländern nur mässig Wind und trotzdem sind die Kuppelleitungen nach Polen an Ihrem Kapazitätslimit.
+Da stimmt doch irgend etwas nicht.
+Mit herzlichem Glückauf
+Werter Herr Peters,
+„Es sollte heißen in #4: Die Einspeisung in der Spannungsebene darf nur bis zur max. Nennleistung des Netztransformators erfolgen.“
+Genauso habe ich Sie auch verstanden.
+„Wie Sie die Realität beschreiben,würde bei optimaler Nutzung der EE-Wandler der Netzfrafo im Leerlauf arbeiten.“
+Richtig, genau so ist es. Natürlich kann man eine Rückspeisung ins Teilnetz der höheren Spannungsebene bis zur maximalen Nennleistung des Netztrafos zulassen. Nur das kann meiner Meinung nach nicht Sinn einer dezentralen Stromversorgung sein, dass der Strom von „unten nach oben“ fließt.
+Verehrter Herr Burowski, bevor wir uns streiten möchte ich mich in meinem letzten Kommentar korrigieren.
+Es sollte heißen in #4: Die Einspeisung in der Spannungsebene darf nur bis zur max. Nennleistung des Netztransformators erfolgen.
+Wie Sie die Realität beschreiben,würde bei optimaler Nutzung der EE-Wandler der Netzfrafo im Leerlauf arbeiten.
+Mit herzlichem Glückauf
+„Die Einspeisung in der Spannungsebene darf nur bis zur max. Nennleistung erfolgen.Das ist der Kompromiss zwischen Vernunft und Habgier.“
+Nein, sie darf maximal nur der Leistung entsprechen, die dem augenblicklichen Verbrauch im Teilnetz der Spannungsebene entspricht. Dann erfolgt kein Rückfluss in die höhere Spannungsebene.
+Wird die Leistung überschritten, müssen alle PV/WKAs des Teilnetzes entsprechend proportional ihrer Nennleistung abgeregelt werden.
+mit diesem Artikel ist Ihnen ein großer Wurf gelungen.
+Zeigt er doch sehr anschaulich, die Problematik der EE-Wandler bei der Einspeisung in das vorhandene Elektrische Netz.
+Völlig unabhängig, wie sich die Veränderung in diesem Netz entwickelt, bleibt das Grundprinzip und die Wirkungsweise gleich.
+Und dieses Grundprinzip wird die Befürworter solcher Machenschaften zur Vernunft bringen.
+Die Konsequenz haben Sie im Bild7 zur Ansicht, vielleicht sogar zur Einsicht,wunderbar hervorgehoben.
+Solche Ereignisse passieren, wenn der Netzbetreiber(Bilanzverantwortlicher) nicht richtig gerechnet hat,oder die Wartungsarbeiten einsparen wollte.
+Die Einspeisung in der Spannungsebene darf nur bis zur max. Nennleistung erfolgen.Das ist der Kompromiss zwischen Vernunft und Habgier.
+Mit herzlichem Glückauf
+Nicht, wenn man fest in ideologischer Verblendung verwurzelt ist. Intelligenz wird dann lediglich dazu verwendet, falsche Legenden zu produzieren. Auch bei kommenden Blackouts sind die Medienberichte, die vor allem die Energiewende-Gegner verantwortlich machen, leicht zu erahnen. Vielleicht werden diese bereits schon vorproduziert, dass man lediglich das Datum nachtragen muss.
+Die breite Öffentlichkeit hat sich als erstaunlich leichtgläubig erwiesen. Propaganda verfängt nach wie vor blendend.
+“Die nächsten Crashs in den Uebertragungsnetzen sind nur eine Frage der Zeit.“
+Durch Schaden wird man klüger. Und je früher man klüger wird, desto besser wird es auch hier sein !
+besten Dank für diese gut dokumentierte Beschreibung des Dilemmas, in das unser Stromversorgungssystem immer weiter hineingetrieben wird.
+Eine wichtige Hintergrundinformation möchte ich noch einbringen: Der katastrophale Blackout von 2006 war entgegen der „offiziellen“ deutschen Statements auch bereits in erheblichem Masse durch zuviel eingespeisten Windstrom bedingt. Das stand allerdings nicht in deutschen Stellungnahmen, sondern etwas versteckt im internationalen Bericht der damaligen UCTE, heute ENTSO-E (Das ist der europaweite Zusammenschluss der Uebertragungsnetzbetreiber). In der fraglichen Nacht hatte man in Norddeutschland 10.000 MW an Windmühlenstrom zuviel am Netz, wofür man in südlichen Ländern entsprechend viel Leistung abregeln musste. Die Netzverbindungen waren dementsprechend bereits nahezu am Anschlag belastet. Als dann die an sich unkritische Umschaltung erfolgte, geriet die Situation aufgrund kleinerer Fehler ausser Kontrolle. Diese Fehler wären bei normaler Last aller Wahrscheinlichkeit nach folgenlos geblieben. Der UCTE -Bericht wies klar darauf hin, dass das europäische Verbundnetz gar nicht dafür ausgelegt ist, so enorme grossräumige Ungleichgewichte zu bewältigen.
+Die Politik hat dafür gesorgt, dass „Grünstrom“ die Netze immer mehr an ihre Grenzen bringt, und macht damit unbeirrt weiter. Da hilft auch ein irre teures „Südlink“ nichts. Die nächsten Crashs in den Uebertragungsnetzen sind nur eine Frage der Zeit.
+Hintergrundinformationen dazu findet man im Buch „Strom ist nicht gleich Strom“ von Michael Limburg und mir (Kapitel 1, 2 und 30).
+Mfg

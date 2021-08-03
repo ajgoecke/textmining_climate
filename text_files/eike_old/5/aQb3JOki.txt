@@ -1,0 +1,783 @@
+Es lebe das Plasma
+So ziemlich alles was uns umgibt besteht aus Molekülen, wobei letztere nichts anderes sind, als Atome, die sich nach bestimmten Regeln zusammengerottet haben. Moleküle bauen einen festen Gegenstand auf, so wie die Ziegelsteine ein Haus: sie haben dort einen angestammten Platz und geben dem Ganzen seine Gestalt.
+Im Gegensatz zu Ziegeln aber zittern die Moleküle unentwegt vor sich hin. Für dieses Zittern sind wir Lebewesen mit Sensoren ausgestattet: bei Berührung empfinden wir Wärme. Es kommt nun vor, dass Moleküle so sehr zappeln, dass sie ihren Platz verlassen und sich auf die Reise machen. Der Gegenstand verliert dadurch seine Gestalt, er schmilzt.
+Wird die Bewegung noch wilder, dann fangen die Moleküle an zu fliegen, und wir haben es mit einem Gas zu tun. Da sausen die Teilchen in der Gegend herum, prallen aufeinander wie Pingpong-Bälle, und wenn sie auf eine Oberfläche stoßen, dann üben sie eine Kraft aus, genannt „Druck“. Das Maß für die Bewegung der Atome oder Moleküle ist die Temperatur.
+Erhitzen wir das Gas weiter, dann gehen zunächst die Moleküle kaputt und wir haben nur noch einzelne Atome vor uns, und bei einigen 10.000 Grad °C fangen die Elektronen an, sich von ihrem Kern zu trennen, aus dem Gas wird jetzt ein „Plasma“.
+Nackte Atomkerne und freie Elektronen fliegen jetzt wirr durcheinander. Gehen wir mit der Temperatur noch höher, sagen wir zehntausend Mal so hoch, dann kann es vorkommen, dass Kerne so stark aufeinanderprallen, dass sie miteinander verschmelzen. Bei dieser „Kernfusion“ werden enorme Mengen an Energie frei, mehrere Millionen mal so viel wie bei Verbrennung von Kohle oder Gas. So erzeugt die Sonne ihre Energie.
+Die kleine Sonne
+Mit einer kleinen Sonne auf Erden könnten wir unseren Energiehunger stillen und wären alle Sorgen los. Aber da gibt es ein Problem. Während wir ein Stück Metall auf den Tisch stellen, Flüssigkeit in eine Schale gießen und Gas in eine Flasche einsperren können müssen wir beim Plasma darauf achten, dass es mit der Wandung seines Behälters nicht in Berührung kommt. Da würde es sich abkühlen und wäre dann kein Plasma mehr.
+Die Sonne hält ihr Plasma durch die eigene Schwerkraft zusammen. Aber was sollen wir machen? Da gibt es nun einen Trick: Magnetismus. Die Atomkerne und Elektronen sind ja elektrisch geladen und sie bewegen sich sehr schnell. Magnetische Felder lenken sie von ihrer Flugbahn ab, und zwar immer quer zur momentanen Bewegung und quer zu den Magnetlinien, so dass sie sich letztlich im Kreis bewegen oder auf einer Spirale.
+Anders ausgedrückt: nur parallel zu Magnetlinien können die Atome und Elektronen ungestört geradeaus fliegen. Man nehme also ein Rohr, lege es längs in ein Magnetfeld, und jetzt kann das Plasma nur ganz mühsam an die Wände des Rohres driften, während es sich in Längsrichtung frei bewegen kann. Wenn das Plasma allerdings an die Stirnflächen des Rohres stößt, dann hat die Magie ihr Ende. Dumm gelaufen.
+Kluge Forscher haben nun so ein Rohr zu einem Ring gebogen und die offenen Enden zusammengeschweißt. Das sah dann so aus wie eine leckere Fleischwurst, ohne die abgeschnürten Zipfel, dafür aber mit einem kreisförmigen Magnetfeld. Das waren russische Forscher und sie nannten das Ganze „toroidalnaya kamera s‘magnitnym polem“, abgekürzt Tokamak.
+Die Mutter aller Tokamaks
+In solch einen Tokamak füllt man also etwas Gas, legt ein Magnetfeld an, heizt das Ganze auf 50 oder hundert Millionen Grad und wartet auf die Kernfusion. Seit sechs Jahrzehnten wurden bisher in verschiedenen Ländern mehrere Dutzend solcher Maschinen gebaut. „Und“, werden Sie jetzt fragen „hat man tatsächlich Kernfusion bekommen? Hat es geklappt?“
+Im Prinzip ja, allerdings hat man immer weniger Energie herausbekommen, als man zum Heizen des Plasmas reingesteckt hat. Dieses Verhältnis, der Q-Faktor, war immer kleiner als eins. Dennoch hat man die Hoffnung nicht aufgegeben. Man hat gelernt, dass die Chancen umso besser sind, je größer man das Ding macht, so groß, dass eine Nation alleine das Projekt nicht mehr stemmen konnte.
+1985 dann initiierten zwei recht vernünftige Männer, Michail Gorbatschowund Ronald Reagan, ein Projekt zum Bau des Jumbos unter allen Tokamaks, der hoffentlich kein weißer Elefant wird. Die EU und viele weitere Nationen folgten dem Projekt und 2008 starten die Erdbewegungen für das ITER genannte Projekt in Cadarache in Südfrankreich.
+Die Physik hinter dem Projekt
+Wenn dann also alles gut geht und der Drache eines Tages Feuer speit, dann passiert Folgendes:
+Das auf 150 Millionen Grad aufgeheizte Plasma besteht aus den Kernen von Wasserstoff – Deuterium (D) und Tritium (T), die sich als besonders fusionsfreudig geoutet haben. Das sind Wasserstoff-Atomkerne, tragen aber im Gegensatz zur landläufigen Sorte noch ein bzw. zwei Neutronen mit sich herum. D besteht also aus einem Proton und einem Neutron, also 1p1n und T ist 1p2n. Die Fusion sieht dann so aus:
+1p+1n0 + 1p+2n0 → 2p+2n0 + 1n0 + Energie
+Das Fusionsprodukt 2p2n ist der Atomkern des Gases Helium, das wir auch auf der Sonne finden, und n ist ein einzelnes Neutron, welches mit mörderischer Geschwindigkeit davon fliegt und den Löwenanteil der Energie E mit sich nimmt.
+Einstein-Fans behaupten nun, dass bei diesem Prozeß Materie in Energie verwandelt würde. Stimmt nicht: vor und nach der Fusion haben wird insgesamt zwei Protonen und drei Neutronen, nichts ging verloren, zählen Sie selbst nach. Würden wir allerdings die Teile vor und nach der Fusion wiegen, dann wäre da ein Unterschied! Die Energie die bei dem Prozeß frei wurde ist jetzt nicht mehr in den Kernen vorhanden. Diese Energieverlust hat selbst eine Masse: m = E/c2 und die fehlt jetzt auf der Waage; es ist der „Massendefekt“.
+Dem freien Neutron können die wahnsinnigen Magnetfelder, die das Plasma im Torus gefangen halten, gestohlen bleiben; es ist nämlich, wie der Name schon sagt, elektrisch neutral und fühlt nichts von dem ganzen Magnetismus. So fliegt es also geradeaus bis es auf eine Barriere trifft, die es abbremst. Diese Barriere heizt sich dann auf und die Hitze kann man irgendwie, eines Tages, dazu benutzen um Turbinen anzutreiben und Elektrizität zu gewinnen.
+Das ist aber bei ITER noch nicht geplant. Die Anlage hat nur das Ziel, ein Plasma aufzubauen, welches 1000 Sekunden lang mehr Energie durch Fusion erzeugt, nämlich 500 Megawatt, als die die Heizung des Plasmas verbraucht, nämlich 50 MW. ITER soll ein „Proof of Concept“ sein; der Beweis, dass das Verfahren „Kernfusion“ einen netto Gewinn an Energie bringen kann.
+Und wann bekommen wir endlich den sauberen Strom?
+Vergleichen wir den Weg zur kleinen Sonne auf Erden mit der Entwicklung der Luftfahrt. Von ersten bescheidenen Gleitflügen Otto Lilienthals zu Ende des 19. Jahrhunderts dauerte es 60 Jahre, bis das Jet- Zeitalter durch die Boeing 707 eingeläutet wurde. Der aktuelle Entwicklungsstand der Fusion entspricht in dieser Analogie der Phase zwischen den ersten Motorflügen der Gebrüder Wright und der Nonstop-Überquerung des Atlantik durch Charles Lindbergh. Das war sozusagen der „Proof of Concept“ für die Luftfahrt und dem entsprächen die 1000 Sekunden Fusion in unserem ITER. Vom Jet-Zeitalter, d.h. vom routinemäßigen Betrieb industrieller Fusionskraftwerke, sind wir noch ein gutes Stück entfernt.
+Erste Bauarbeiten für ITER begannen 2013 und man plant, dass 2025 zum erstem Mal Plasma zwischen den Magnetfeldern der Anlage wabert, das ist der Meilenstein “First Plasma“.
+Warum so langsam alles? Nun, der Torus hat zwar nur zwölf Meter Durchmesser, er würde also gut in Ihr Wohnzimmer passen, aber mit all dem Drum und Dran wird daraus dann doch wieder eine komplizierte Angelegenheit, wie hier gut zu sehen ist.
+Das oben erwähnte „First Plasma“ heißt aber nicht, dass dann schon Kernfusion stattfindet. Dafür sind ja viel höhere Temperaturen nötig. Diese Arbeiten sollen ab 2035 stattfinden, also ein halbes Jahrhundert nach dem Reagan – Gorbi Deal. Nehmen wir an, dass wiederum zehn Jahre später, also 2045, so eine Deuterium – Tritium Fusion stattfindet und für 1000 Sekunden aufrecht erhalten werden kann, dann hätte ITER seine Schuldigkeit getan, dann hätte man den Atlantik überquert. Im nächsten Schritt würde dann eine erste experimentelle Anlage gebaut, die Strom erzeugt, aber noch nicht ins Netz einspeist. Falls das klappt würden die Erfahrungen aus dieser Anlage die Basis für das erste industrielle Fusionskraftwerk, gewissermaßen der Einstieg ins Jet Zeitalter.
+Vorsichtig gerechnet könnten also nach 2045 noch mal 25 plus 25 Jahre vergehen, bis sauberer Fusions-Strom aus der Steckdose kommt. Mit anderen Worten, liebe Leserin, lieber Leser, weder Sie noch ich werden in diesen Genuß kommen! Tut mir leid, aber meine Schuld ist es nicht.
+Und noch ein Wermutstropfen: So ganz sauber ist die Fusion nicht, denn die erwähnten schnellen Neutronen können allerlei Unheil anstellen. Wenn sie auf Materie treffen können sie radioaktive Substanzen erzeugen, und das Tritium selbst, die eine Hälfte des Treibstoffs, ist von Haus aus schon radioaktiv, mit einer Halbwertszeit von zwölf Jahren; allerdings mit harmloser Strahlung, nicht zu vergleichen mit den Spaltprodukten unserer heutigen Reaktoren.
+Quo Vadis?
+Neben den technologisch – wissenschaftlichen Herausforderungen lauert da noch eine ganz andere Gefahr. Es könnte sein, dass nachdem viele Milliarden Dollars, unendliche Stunden an Geisteskraft und der lebenslange Einsatz brillanter Professionals schließlich zum Erfolg geführt haben, wenn die Sonne auf Erden dann also angeknipst wird, dass dann eine Stimme ertönt: „Fusionskraft – nein danke“. Und dass auch dann, am Ende des 21. Jahrhunderts, die Vernunft sich von Ideologie geschlagen gibt und die mühsam errichteten Anlagen verschrottet werden.
+Einen zögerlichen Versuch, dem zuvorzukommen hat es schon gegeben. Man erkannte, dass die Bezeichnung des gigantischen Vorhabens „International Thermonuclear Experimental Reactor“ ein rotes Tuch für Atomkraft Gegner sein musste; es war eine Ansammlung offensiver Vokabeln und eine Zumutung für die zarte grüne Seele. Eine pfiffige Mitarbeiterin kam dann darauf, dass das Akronym ITER das lateinische Wort für „der Weg“ ist.
+So wurde die von unsensiblen Ingenieuren in den achtziger Jahren zusammengeschraubte Bezeichnung uminterpretiert in: „iter, der Weg, für die Menschheit“. Stellt sich nur noch die Frage, wohin der führen soll. Quo Vadis humanitas?
+Dieser Artikel erschien zuerst bei www.think-again.org und im Buch „Grün und Dumm“ https://think-again.org/product/grun-und-dumm/
+Solarmodule auf das Dach und man hat bereits für wenige hundert Euro schnell und preisgünstig Strom von der Kernfusion.
+Aber mal im Ernst, Solarzellen reflektieren ein großen Teil des Lichts und der Wärmestrahlung wieder Richtung Himmel (viel mehr als nur der Boden). Auch Windkraft nimmt dem (poetische genannten) Wind Energie und bringt viel unruhe in dieses System.
+Und interessanterweise gibt es plötzlich und unerwartet Dürren in D? Der Kohlestrom und solch „dreckigen“ Sachen gab es schon vor vielen Dekaden, aber gefühlt gibt es erst seit kurzem wenig Regen, geschweigeden Schnee im Winter! Oder????
+Auch der BIO-Gas-Dreck ist nichts gutes. Bei uns in BB werden ganze Felder gemäht und slles in die Meische-Buden gebracht. Und dann holen wir unser Getreide für Nahrungsmittel aus dem Ost der EU, da dort ja noch „dreckiger“ „Strom“ „hergestellt“ wird und die Landwirtschaft für Nahrungsmittel da ist.
+Klima. Hört lieber auf Fleisch zu essen, abgesehen von den vielen klimaschädlichen Fürzen braucht man für die Ernährung eines Tiers 3mal so viel Energie (pflanzen in der Landwirtschaft) wie man aus dem Tier gewinnen kann!!!
+Grüße ein vernunft begabter Mitbürger
+Bitte hier nur unter vollem Klarnamen posten, siehe Regeln.
+Warme Luft nimmt mehr Feuchte auf. Die spektrale Absorption durch H2O in der Atmosphäre ist nicht fast gesättigt wie bei CO2. Damit begründet das IPCC den „Verstärkungsfaktor“ in deren Modell. Die Erwärmung durch CO2 ist jedoch höchst fraglich. Nachgewiesen ist die Erwärmung durch große Städte und Windparks und auch PV-Parks bei Sonnenschein. Die höhere Luftfeuchte sorgt für eine sehr weite Ausdehnung und Trockenheit – auch in 1.000 km Entfernung. Die US auf Windenergie umzustellen bewirkt dort 0,24°C Erwärmung und weniger Regen. Deutschland hat die 7fache Bevölkerungsdichte. GRÜN bekämpft hier diese Erwärmung mit E-Autos statt eine entsprechende Studie in der EU durchzuführen.
+Nicht jeder Boden der für Tierfutter (Gras) gut ist eignet sich auch für Obst und Gemüse. Da ist dann der Umweg über Fleisch und Milch der Tiere die einzige Möglichkeit zur Nahrungsproduktion.
+sollte mit Plasmafokus Kernfusionsgeneratoren in 10 Jahren oder weniger machbar sein.
+Weltweit wird in einigen Labors darüber geforscht.
+Wir arbeiten selbst auch daran, mit. Break even etwa zum Jahreswechsel (2020/2021 für alle grünen Besserwisser im Blog, nicht wahr Herr Dräger, Herr Herrera. Sie müssen keine 100 Jahre warten.).
+Am 25. Juni 2011 haben die fanatischen religiösen „Grünisten“ (Ähnlichkeit mit Islamisten ist nicht zufällig)
+in Berlin beschloßen, die Entwicklung neuer Technologien wie Kernfusion und Transmutation, zu hintertreiben.
+Statt Lösungen für die Probleme der Welt (Energie) zu entwickeln, werden lieber „Lösungen“ wie Bevölkerungskontrolle bevorzugt. Bevölkerungskontrolle ist im Klartext Bevölkerungsreduktion, also Völkermord wie schon zu Kolonialzeiten erfolgreich praktiziert.
+Achtung: Fanatische Sektierer tendieren auch gerne mal zu Gewalt.
+Ich kann überhaupt nicht verstehen, wieso derart erbittert darüber gestritten wird?
+Es ist doch eine gute Sache, wenn jemand die Möglichkeit hat, mittels Solarzellen auf seinem Haus seine Stromrechnung zu vermindern.
+ABER: Nicht jedem steht diese Möglichkeit offen, sehr viele wohnen (wie auch ich) in einer Mietwohnung. Oft ist auch die Richtung und Neigung der möglichen Fläche ungünstig oder große Bäume beschatten das Dach, oder höhere Berge begrenzen die möglichen Sonnenstunden…
+Eine ganz andere Frage ist doch, inwieweit „Sonnenstrom“ zur Energieversorgung eines Landes wie D einen wichtigen Beitrag leisten kann. Wenn man sich das Agorameter anschaut, so könnte man auf den ersten Blick sagen, das der gar nicht mal so gering ausfällt. Beim zweiten Blick erst wird der Unsinn deutlich:
+Flächenverbrauch aufgrund der geringen Energiedichte, Fluktuation auch abseits vom Wetter (Tag/Nacht), subventionsabhängig, „Verklappung“ bei Überangebot, parallele konventionelle Erzeugung durch Generatoren wegen Frequenzstabilität unabdingbar… wurde ja alles hier schon ausführlich dargelegt.
+Die Solarstromnutzung privat und die Versorgung eines Landes mit seiner Industrie etc sind zwei ganz unterschiedliche Paar Schuhe.
+Anders wäre es, wenn sie für den Backup Strom aus der Steckdose eine angemessene Versicherungsgebühr (20ct/kWh) bezahlen würden.
+Dann wären sie faire Marktteilnehmer, die sich ihr Hobby Klimarettung eben etwas kosten lassen.
+So aber sind sie nur Schmarotzer.
+„Anders wäre es, wenn sie für den Backup Strom aus der Steckdose eine angemessene Versicherungsgebühr (20ct/kWh) bezahlen würden.“
+Und die anderen Stromverbraucher ohne Solar die ständig auf
+Backup-Leistung zugreifen ?
+Paul Höß die wo auf die Konfusion waten nehmen doch auch ständig
+Backup-Leistung in Anspruch oder nicht ?
+Paul Höß bei Solarstrom sind private Solarstromnutzer
+bei 6 oder 7 Cent/kWh und das bereits heute.
+Bei der Konfusion sind das über xx Cent/kWh
+aber erst in 50 nein in 50 plus xx Jahren.
+Nur soviel, die anderen Stromverbraucher zahlen den vollen Preis für volle Versorgung.
+Wer sich als Schmarotzer dem vollen Preis entziehen möchte, muß eben eine Gebühr für die Versicherung zahlen, ganz einfach!
+Es wäre auch schön, wenn sie sich Mühe geben würden, in einem verständlichen Deutsch zu schreiben.
+Also:
+Die Summe der Ausgaben für die asoziale Energiewende beträgt etwa 30 Milliarden € im Jahr. Dividiert durch 984 Millionen „KopfMonate“ (82 Millionen Mitbürger mal 12 Monate) ergibt 30 € pro Kopf und Monat.
+Asoziale Energiewende deshalb, weil der einzig messbare Effekt dieses Projekts eine gigantische Vermögensverschiebung von Arm nach Reich ist.
+Ironischerweise von Sozen und Grünen durchgeführt.
+Nur den erhöhten Strompreis als Basis zu nehmen, ergibt ein geschöntes falsches Ergebnis von etwa 10 € pro Kopf und Monat.
+Da aber alle Vorlieferanten (Edeka, Aldi, VW, Thyssen, …) die im Strompreis versteckte Kopfsteuer auch zahlen müssen, müssen sie diese in ihren Preisen berücksichtigen!
+Andernfalls fallen sie bald als Steuerzahler aus, weil sie Pleite gehen.
+Herr Dräger, sie halten ihre „Qualifikation“ weiterhin geheim. Meine Frage vom 26. Mai 2020 um 20:04 (Sind sie beim Umweltministerium in BW angestellt) haben sie nicht beantwortet.
+Ihr starker Glaube (=Meinung) läßt mich an einen eventuellen Religionslehrer denken?
+Zitieren sie bitte die Quellen ihrer Meinungen.
+Zum Thema Meinungen gibt es einen schönen Satz, der Sokrates zugeschrieben wird:
+„Wenn du etwas weißt, erzähl es mir bitte. Wenn du mir nur deine Meinung sagen willst, halt einfach die Klappe.“
+Auf EIKE überwiegt ernsthafte wissenschaftliche Debatte glücklicherweise gegenüber trollhaftem „Meinungsaustausch“. Ich hoffe, daß das so bleibt.
+Es gibt auch Ausnahmen,
+Luis Herrera am 28. Mai 2020 um 16:35
+„Und die Kernfusion ist bereits gestorben
+mit 0 Watt die nächsten 50 +XX Jahre.“
+Ach Herr Herrera, ich bewundere ihr gottgleiches Allwissen so sehr! Oder einfach mit Sokrates: Shut up.
+„Da aber alle Vorlieferanten (Edeka, Aldi, VW, Thyssen, …) die im Strompreis versteckte Kopfsteuer auch zahlen müssen, müssen sie diese in ihren Preisen berücksichtigen!“
+Deshalb sind bei den „ALDI“ Hallen bei uns in der Gegend Solaranlagen verbaut und kein Kernfusionsreaktor und das was „ALDI“ kann können Millionen von Firmen und Bürger machen und sehr schnell.
+Da die alle rechen können und diese Preise auch die Netzstrompreise im Vergleich zum PV-Strompreis berücksichtigen.
+Herr Paul Höß,
+Kernfusion und auch Strom aus neuen Kernkraftwerken sind Chancenlos sobald die Sonne aufgeht oder ein laues Lüftchen weht.
+Kernfusion wird auch 2050 noch kein einziges kWh an Strom irgendwo auf der Welt in das Netz eingespeist haben.
+Nur in Deutschland wird mit Solar bereits 46.000.000.000 kWh Strom in das Stromnetz übergeben aber im Jahr !
+Asoziale Energiewende ohne Speicher funktioniert nicht, asoziale Energiewende mit Speicher ist nicht bezahlbar.
+30.000 Milliarden Euro ist schon eine imposante Zahl, auch wenn sie versuchen, die auf 10.000 Milliarden Euro herunterzuhandeln.
+Lieber Herr Rinkert
+„Kernfusion wird auch 2050 noch kein einziges kWh an Strom irgendwo auf der Welt in das Netz eingespeist haben.“
+Glauben sie einfach mal jemandem, der was besser weiß. Mit ihrem Wissen scheint es nicht zu weit her zu sein.
+Wissen ersetzen sie durch grünfundierten tiefreligiösem Glauben.
+Nochmal zum Nachlesen:
+1000MW Großanlagen in China und Südkorea in den 2040er Jahren und kompakte 5MW Kernfusionsgeneratoren in USA und Deutschland vielleicht schon in den
+2030er Jahren oder früher.
+„bei den „ALDI“ Hallen bei uns in der Gegend Solaranlagen verbaut“ — für von von TrittIhn und Gabriel fehlgeleitete Schmarotzer ist es eine angenehme
+Einnahmequelle. Es hat zwar keinen nennenswerten CO2 Effekt, trotzdem werden 120€ pro Monat von der Musterfamilie (Vater, Mutter, 2 Kinder) kassiert. Der einzig
+wirksame Effekt ist die Verdopplung der Mietnebenkosten.
+„.. sobald die Sonne aufgeht oder ein laues Lüftchen weht“ und was ist, wenn nicht? Für sie natürlich kein Problem, weil sie dann einfach den Strom aus der
+Steckdose nehmen.
+„Netzstrompreise im Vergleich zum PV-Strompreis“. Was wäre wenn Markus Estermeier am 28. Mai 2020 um 18:57 recht hätte?
+Verantwortungslose Schmarotzer kassieren Geld (120€ pro Monat! von einer 4-köpfige Musterfamilie als versteckte Nebenkosten zur Miete) für 46.000.000.000 kWh
+Strom die das Stromnetz in den letzten Jahren zunehmend destabilisiert und damit die Blackoutgefahr deutlich erhöht haben.
+46.000.000.000 kWh die großteils ins Ausland verklappt wurden.
+Verantwortungsbereite Menschen machen sich rechtzeitig Gedanken um eine gangbare Zukunft:
+China hat 2015 am Parteitag der KP beschlossen ein 1000MW Fusionskraftwerk ans Netz anzuschließen.
+Die machen das!
+2049 ist schließlich das 100-jährige Jubiläum der Gründung der VR China.
+Die haben das Geld, innerhalb von 10 Jahren wurden 25.000 km Eisenbahnen mit 400km/h Höchstgeschwindigkeit gebaut. Deutschland baut in der gleichen Zeit
+vielleicht 200km der Strecke MUC -> BLN.
+Absurdistan im angenehmen Tiefschlaf.
+Es ist hilfreich eine passende Ausbildung absolviert zu haben, Religions- und Biolehrer oder Philosophen und Politologen sind in dieser Diskussion eher nicht so
+hilfreich. Das Netz ist der Speicher und Kobolde schaufeln den Strom aus der Batterie.
+Es gibt Menschen die gerne Wasser bergauf laufen lassen, wenn es nur ihrer Argumentation dient.
+Auch wenn sie hier ihren tiefen grünreligiösen Glauben noch so laut hinausschreien, macht das ihre Argumente nicht gültiger.
+Physik wäre eine interessante Alternative.
+Nur Selbstbetrug. Was ist daran Polemik, außer natürlich von der EE Fraktion.
+Unser Energiemix:
+Laufkraftwerke
+Pumpkraftwerke – ja wir lassen das Wasser bergauf laufen
+Biomasse
+Geothermie – Wärmepumpen
+Solarthermie – Unterstützung für Warmwasseraufbereitung
+Fotovoltaik
+Wind
+sowie natürlich fossile Brennstoffe – für Strom nur noch rd. 20%
+Schritt für Schritt geht es in Richtung mehr EE.
+Ob und wann man 100% erreicht, ist eine andere Frage. Ich mag die 100% Diskussion prinzipiell nicht. Es geht zuerst einmal darum, was kurz- und mittelfristig zu tun respektive erreichbar ist.
+Und ja, Energieeffizienz und Energiesparen gehören natürlich auch dazu. Ev. später rd. 10% – 15% Desert Tec Strom, aus vielen verschiedenen Staaten (zwecks Vermeidung von Abhängigkeit).
+Gut, das war meine pöhse, linksextreme, dumme, realitätsferne Polemik…
+ein Kernfusionsreaktor wir weder in China, USA oder in Südkorea in den den nächsten 50 bis 100 Jahre was an Strom abliefern.
+Errichten Sie eine Solarstromanlage das geht in einen in zwei oder auch in 5 tagen dann haben Sie für 7 Cent/kWh Strom und das wurde bereits Millionenfach gemacht auf der Welt.
+Selbst wenn ein Kernfusionsreaktor Strom abliefert hat er keine Chance gegen eigenen Solarstrom.
+Nur die Stromübertragung vom Kernfusionsreaktor zum Endverbraucher kostet ca. 9 Cent/kWh in Deutschland und eigener Solarstrom nur 7 Cent und ist erst man die Solaranlage refinanziert kostet eigener Solarstrom zwischen -3 bis 2 Cent.
+Sobald die Solaranlagen was an Strom abgeben ist der Kernfusionsreaktor raus.
+Das mit der der Kernfusion als Stromlieferant erleben alle die hier schrieben und lesen nicht mehr.
+Woher WISSEN sie das so genau, bitte um Zitat.
+Kant hat schon gesagt, daß Glauben nur was für Dumme sei, da war das Wort noch nicht politically incorrect.
+Das ist das Argument grüner Dorftrottel.
+Denn in der Nacht haben Sie keinen Strom. Wenns regnet auch keinen.
+Wenns nur bewölkt ist, auch nicht.
+Sie müssen zu den 7ct noch die Kosten für die Energiespeicher dazu rechnen.
+Plus die Kosten für die Überkapazität um sonnenlose Tage abpuffern zu können.
+Tun Sie das nicht, sind Sie bloß ein armseliger Schmarotzer.
+Keine Sorge, das ist heutzutage aber nicht mehr ehrenrührig, die Parlamente sind voll vom dem Gesocks…
+1. Juni 2020 um 21:35
+„Sie müssen zu den 7ct noch die Kosten für die Energiespeicher dazu rechnen.“
+Weshalb Solarstrom speichern ?
+Der Solarstrom wird zeitgleich verbraucht.
+Möchte man Solarstrom als Strom Speichen fallen nochmal 10 bis 15 Cent an immer noch weniger als die 30 Cent bei Netzstrom.
+Das Speichern von Solarstrom als Energie z.B. als Wärme kostet unter 0 Cent/kWh.
+hören sie bitte auf zu trollen.
+„Weshalb Solarstrom speichern ?
+Der Solarstrom wird zeitgleich verbraucht.“
+Was soll diese Äußerung?
+Gibt es jetzt nachts kein Strom mehr?
+Der Solarstrom wird zeitgleich verbraucht.“
+Wird ja immer besser…
+Für was?
+Was machen Sie wenn die Anlage (wie meist) nicht liefert???
+Schmarotzen?
+Der Solarstrom wird zeitgleich verbraucht.“
+Das ist Ihr grundlegendes Verständnisproblem: In einem gescheit organisierten Stromnetz folgt die Erzeugung dem Verbrauch (der Last). Verbrauch, der einer sporadischen Erzeugung folgen kann, ist technisch immer problembehaftet, braucht auch auf jeden Fall das komplette Backup der herkömmlichen Kraftwerke.
+Zitat: “ Das Speichern von Solarstrom als Energie z.B. als Wärme kostet unter 0 Cent/kWh. “
+Das ist dann so ähnlich wie *verklappen*, man weiss halt nicht wohin damit, schaltet nen Heizstab an…
+Dafür gibts Solarthermie, da ist sogar der Wirkungsgrad etliches höher.
+„Denn in der Nacht haben Sie keinen Strom. Wenns regnet auch keinen.
+Wenns nur bewölkt ist, auch nicht.“
+besso keks auch bei regen und Bewölkung liefert unsere PV was an Strom.
+Die Kernfusions-Reaktoren bringen keinen Strom weder bei regen noch bei Bewölkung noch bei Sonnenschein und in der Nacht kommt auch nichts.
+31. Mai 2020 um 17:31
+„Verantwortungslose Schmarotzer kassieren Geld (120€ pro Monat! von einer 4-köpfige Musterfamilie als versteckte Nebenkosten zur Miete) für 46.000.000.000 kWh“
+Die Verantwortungslose Schmarotzer der Kernfusion kassieren Geld ( X€ pro Monat! von einer 4-köpfige Musterfamilie als versteckte Nebenkosten zur Miete) für 0 kWh Strom und das noch die nächsten 50 bis 100 Jahre.
+Die 4-köpfige Musterfamilie bekommt für die 120€ pro Monat ca. 400kWh Strom also den kompletten Stromverbrauch geliefert.
+Sie erinnern sich Herr Höß ?
+Bei der Kernfusion sind das 0 kWh an Strom !
+PS
+Die Hoffnung stirbt nicht zuletzt bei der Kernfusion
+die ist bereits gestorben.
+Wird noch eine Weile dauern, bis es (woanders) läuft.
+Deutschland wird lange bevor 10.000 Milliarden Euro für AE verschleudert werden, pleite sein.
+Nix mehr Rente und so.
+@Fabian Landmann
+Verantwortungslose Schmarotzer der asozialen Energiewende kassieren 30 Milliarden Euro pro Jahr.
+Noch Fragen?
+Wäre schön, wenn mal jemand aus der grünreligösen Fraktion Fakten brächte.
+Bis dahin sind mir die geifernden Glaubenbekenntnisse bis auf weiteres wurscht.
+1. Juni 2020 um 17:42
+„Verantwortungslose Schmarotzer der asozialen Energiewende kassieren 30 Milliarden Euro pro Jahr.“
+„Noch Fragen?“
+Für die 30 Milliarden Euro pro Jahr werden aber auch ca. 210.000.000.000 kWh an Strom geliefert.
+Für die 0,15 Milliarden Euro pro Jahr bei der Kernfusion werden genau 0 kWh an Strom geliefert und das noch die nächsten 50 +XX Jahre.
+Ihre 30 Milliarden Euro kosten 0.14 Euro pro kWh.
+Ich dachte Solarstrom kostet nur 7 Cent die kWh.
+Wer steckt sich bitte die andere Hälfte in die Tasche?
+„Ich dachte Solarstrom kostet nur 7 Cent die kWh.“
+„eigener Solarstrom nur 7 Cent“
+Werner Schulz Sie müssen lesen und verstehen was Herr Rinkert geschrieben hat.
+31. Mai 2020 um 17:31
+„Die machen das!
+2049 ist schließlich das 100-jährige Jubiläum der Gründung der VR China.“
+Es gibt doch keinen Zusammenhang mit dem 100-jährige Jubiläum der Gründung der VR China und das bis dahin die Serienreife-Stromerzeugung mit der Kernfusion klappt.
+Und bis 2049 sind des noch runde 30 Jahre das erleben Sie gar nicht.
+Strom aus einer PV-Anlage können Sie sich bereits in einigen Tagen realisieren und das zu einer extrem kleinen kWh Preis.
+Einfach nachdenken! Auch wenns anstrengt.
+Eine Atombombe zu bauen ging schneller als das Apolloprogramm.
+Hat irgendwas mit Geld und Wollen zu tun.
+Immer wieder, Fakten zu ihren Aussagen wären interessant.
+Glauben ist was für Kinder.
+Fakten, Fakten, Fakten.
+Lesen sie erst mal meine Posts vom 14. Mai 2020 um 20:19 und 20:38.
+Steht alles drin.
+31. Mai 2020 um 17:31
+„Die haben das Geld, innerhalb von 10 Jahren wurden 25.000 km Eisenbahnen mit 400km/h Höchstgeschwindigkeit gebaut. Deutschland baut in der gleichen Zeit“
+China hat ca. 1.400.000.000 Einwohner macht ca. 0,0018 m/Einwohner neue Eisenbahn im Jahr.
+Als Deutschland die Ersterschließung der Eisenbahn gemacht hat so um die Jahrhundertwende hatten wir ca. 55.000.000 Einwohner
+55.000.000 Einwohner * 0,0018 m/Einwohner = 99 km Eisenbahn im Jahr analog zu China.
+Nur was haben wir tatsächlich je Einwohner im Jahr an Eisenbahnkilometer fertiggestellt ?
+Ca. das 10-fache was die Chinesen schaffen.
+Da haben wir um 1900 10 mal mehr km gebaut und das bei technisch wesentlich geringerer Ausstattung als heute die Chinesen einsetzen.
+Nur von 1900 bis 1905 sind die Eisenbahnkilometer um ca. 5980 km angestiegen das sind 0,021m/Einwohner im Jahr und die Chinesen kommen bei moderner Technik nur auf ca. 0,0018 m/Einwohner.
+https://de.wikipedia.org/wiki/Geschichte_der_Eisenbahn_in_Deutschland
+Dummschwätz^3
+1. Juni 2020 um 0:33
+„Dummschwätz^3“
+Ja das sind Sie!
+Solarstrom von der eigenen PV kostet ca. 7 Cent/kWh und nur die Neunutzung kostet bereits ca. 9 Cent/kWh bis das kWh Strom von der Kernfusion beim Verbraucher ist.
+Dann klemm dich vom Stromnetz ab und genieße deinen billigen Strom
+„…und nur die Neunutzung kostet bereits ca. 9 Cent/kWh bis das kWh Strom von der Kernfusion beim Verbraucher ist.“
+Hä???
+Was du meinen???
+10ct-20ct an Versicherungsgebühr pro kWh fände ich gerecht, der Steckdosenstrompreis für Schmarotzerhaushalte läge dann etwa bei 40 bis 50ct.
+So könnte man es machen, dann wären Solaris Idealisten und keine Schmarotzer.
+Die Solaranlagen auf den Aldi- Dächern sind überdimensioniert für den Eigenverbrauch. Es geht um das Abgreifen der EEG- Umlagen, die jeder Aldi- Kunde zahlt, Eigenverbrauch ist nur Bonus. Parasitisch, schmaraotzend.
+„Kernfusion und auch Strom aus neuen Kernkraftwerken sind Chancenlos sobald die Sonne aufgeht oder ein laues Lüftchen weht.“
+Ahnungslos ist derjenige, der lauen Lüftchen eine nennenswerte Energieausbeute andichtet. Energieausbeute hängt in der dritten Potenz mit der Windgeschindigkeit zusammen. Derjenige, der nicht mal dieses weiss, sollte nicht über die Chancen der kernfusion reden.
+„Nur in Deutschland wird mit Solar bereits 46.000.000.000 kWh Strom in das Stromnetz übergeben aber im Jahr !“
+Das Einzige, was Solarenergie manchmal wirklich leistet, ist die Abfederung der Mittags- Verbrauchsspitze, bei der Abend- Verbraucsspitze versagt sie bereits, im Winter ist die Ausbeute marginal. Das taten früher die Pumpspeicherwerke. Zuverlässig. Immer. Ein zweites, teures, unzuverlässiges System aufzubauen, welches subventionsgestützt das vorhandene, dennoch unverzichtbare System unwirtschaftlich macht, parasitiert, ist solch ein Nonsens, dass es wirklich nicht zu fassen ist.
+Noch eine Frage: Unter wieviel Namen treten Sie hier auf?
+„Die Solaranlagen auf den Aldi- Dächern sind überdimensioniert für den Eigenverbrauch.“
+Man soll Solaranlagen immer überdimensioniert für den Eigenverbrauch.
+Da die Solaranlagen ja nur wenn alles passt die Nennleistung abgeben das ist nur ab und zu im Jahr so.
+Wen der Aldi-Makt ca. 10 bis 15 kW max. aus dem Stromnetz zieht dann sollte Aldi min. ca. 30 kWp auf das Dach machen.
+Auf dem Aldi bei uns sind ca. 360 Module verbaut rechnet man mit 0,28 kWp/Modul sind das ca. 100kWp Nennleistung.
+Die denken da praktisch fast immer den Hausverbrauch ab sobald die Sonne aufgegangen ist auch bei Bewölkung.
+Bei 100kWp ist die Einspeisevergütung je kWh überschaubar, interessant ist der Eigenverbrauch und die Absenkung der Lastspitzen die ja auch Kosten verursachen würden.
+Bisher nur laut angedacht, aber wenn Politiker mal zu denken anfangen hören sie damit nur vorzeitig auf wenns ein lautes Protestgeschrei gibt.
+Der Grundgedanke ist, daß mit jedem kWh Eigenverbrauch rund 20 Cent an Steuern und Abgaben in den öffentlichen Kassen fehlen. Das geht ja nun mal gar nicht. Also will man daß der Solarist nur noch 100% zu den bekannten Konditionen einspeisen darf, und der Eigenbedarf zu 100% zu den allgemeinen Netzkosten bezogen werden muß.
+„Die Solardachfraktion hat anscheinend noch nicht begriffen daß da was am köcheln ist, was ihnen gar nicht schmecken wird.“
+Ja die EU-Eigenverbrauchrichtlunien muss bis zu 30.062021umset werden.
+– EE Richtlinie gibt jedem ein Bürger das Recht
+– Erzeuger zu werden und
+– selbst den Strom zu verbrauchen und
+– den Strom auch zu verkaufen.
+– ohne dass sie dabei mit diskriminierenden Vorgaben, unverhältnismäßigen bürokratischen Hindernissen oder Abgaben und Umlagen belastet werden dürfen.
+Dies hat das Europäische Parlament am 13. November 2018 im Rahmen der Neufassung der Erneuerbare-Energien-Richtlinie (EE-Richtlinie) beschlossen.
+– Damit ist es nicht zulässig Anlagen über 10 kWp mit eeg umlage von zur Zeit 40 % zu belasten
+– Die EE-Eigenversorgung aus Anlagen mit einer Leistung unter 30 Kilowatt muss von allen Abgaben, Umlagen und Gebühren freigestellt werden.
+1. Juni 2020 um 11:35
+„Die verbrauchsabhängigen Einnahmen an Steuern und Abgaben fehlen in den öffentlichen Kassen und müßen über kurz oder lang auf anderem Weg ausgeglichen werden. Wir werden sehen was man sich zu diesm Dilemma einfallen läßt.“
+Das eine CO2 Bepreisung kommt ist gesetzt.
+„Die Richtlinie ist von 2018. Aus bisheriger Erfahrung, wie lange haben politische Beschlüße Gültigkeit?“
+Die Umsetzung der EU Erneuerbare-Energien-Richtlinie von 2018 muss noch bis zum 30.06.2021 in nationales Recht umgesetzt werden.
+Interessant ist das bis 30kWp bei Solar (Eigenverbrauch) von allen Abgaben frei zu stellen sind.
+Grüne Schlägertrupps haben die Verlegung vom NH Hotel in den Wappensaal in Riem erzwungen.
+Lieber Herr Dräger, lieber Herr Herrera, Südkorea hat die ursprüngliche Zeitplanung für ITER ernstgenommen, also auf die angebliche Inbetriebnahme 2018 seine weiteren Pläne aufgebaut.
+Es ist aber keine Eile, man muß nicht sinnlos Geld vernichten. Deshalb hat Südkorea den Zeithorizont eben um 7 Jahre nach hinten verschoben. Es ist einfach zu schön, fürn Appel und ein Ei (1.5Mrd. €) das vollständige Knowhow über Kernfusion auf dem Präsentierteller geschenkt zu bekommen.
+Und wir machen derweil eine asoziale Energiewende, Arzttöchter machen mal eben so aus 30.000 € innerhalb von 20 Jahren satte 120.000€.
+Dafür zahlt jeder Deutsche 30€ im Monat, auch die Oma mit 300€ Rente im Monat.
+Der Herr Trittihn kann sich natürlich locker auch eine Eiskugel leisten, die 30 € kostet.
+China wird ganz sicher am Plan, vor 2049 fertigzuwerden, festhalten. Whatever it takes, 2049 ist 100-jähriges Jubiläum der Gründung der VR.
+Lieber Herr Dräger, ich habe ihr Zitat inzwischen selber gefunden, es war nicht bei EIKE, sondern bei der unsäglichen „Diskussion“ des Herrn Hubertus Grass über „Energiezukunft“.
+Sind sie beim Umweltministerium in BW angestellt, bin ich dort auf einer „schwarzen“ Liste?
+„Es ist aber keine Eile, man muß nicht sinnlos Geld vernichten. Deshalb hat Südkorea den Zeithorizont eben um 7 Jahre nach hinten verschoben.“
+Eine Solaranlage hat sich nach 3 bis 4 Jahren selbst refinanziert wen man den PV-Stron selber verbraucht.
+In 7 Jahren hat man nicht nur die PV-Anlage kostenneutral auf dem Dach und noch die nächsten 3 bis 4 Jahre den PV-Strom kostenlos und nach 7 Jahren stellt aber die PV nicht das arbeiten ein da kommen noch weiter 10 bis 20 Jahre was an PV-Strom für so gut wie Null €.
+Null weil das eigentliche Problem natürlich auf St. Nimmerlein vertagt wird. Wie mache ich aus dem Plasma Strom oder Fernwärme? Konstant effizient und industriell verwertbar.
+Das war bei AKWs inherent klar, bei Plasma inherent unmöglich. Es braucht schlicht enorme Abstände um die Materie am verdampfen zu hindern. Das funzt bei der Sonne ganz gut, die hat auch den nötigen Abstand. Deshalb werden die Forscher auch niemals länger als Picosekunden ihr Plasma aufrecht erhalten. Sonst ist ihr schöner Reaktor und das schöne Leben verdampft.
+China treibt das voran, super. Der nächste Bereich in dem nach der Raumfahrt (Space X) nachgewiesen wird wie faul und korrupt westliche Akademiker und die ganze Forschung ist.
+Erst dachte ich sie reden über die Klimafolgenforschung.
+Aber dann haben sie mich ueberrascht mit dem Vergleich Space (X) und Raumfahrt.
+Das hat Substanz. Sie sollten jetzt nicht aufhören mit dem Schreiben. Wo zielen wir hin? NASA, ESA India, China?
+mfg Werner
+Ja,
+bis Mitte 2100 so um das Jahr 2150 !
+Nur hat mein Nachbar am letzten Samstag innerhalb von nur einem Tag eine Fotovoltaikanlage errichtet und noch am Samstag ist bereits der erste Fotovoltaik-Strom gekommen.
+Und Sie Herr Höß warten noch 50 … 100 … 150 Jahre auf den ersten Strom aus der Kernfusion.
+„..etwa anfang bis Mitte 1000MW am Netz“ muß natürlich „..etwa anfang bis Mitte der 40er Jahre 1000MW am Netz“ heißen.
+Können Sie lesen?
+Wie hoch war die Leistung um 22:00?
+Oder kochen Sie das Essen um 22:00Uhr oder waschen Sie da die Wäsche ?
+Bei der Kernfission ist die abgegebene Leistung in den nächsten 50 Jahre, tendenziell die nächsten 100 Jahre.
+um 00:00 Uhr = 0 Watt
+um 01:00 Uhr = 0 Watt
+um 02:00 Uhr = 0 Watt
+um 03:00 Uhr = 0 Watt
+um 04:00 Uhr = 0 Watt
+um 05:00 Uhr = 0 Watt
+um 06:00 Uhr = 0 Watt
+um 07:00 Uhr = 0 Watt
+um 08:00 Uhr = 0 Watt
+um 09:00 Uhr = 0 Watt
+um 10:00 Uhr = 0 Watt
+um 11:00 Uhr = 0 Watt
+um 12:00 Uhr = 0 Watt
+um 13:00 Uhr = 0 Watt
+um 14:00 Uhr = 0 Watt
+um 15:00 Uhr = 0 Watt
+um 16:00 Uhr = 0 Watt
+um 17:00 Uhr = 0 Watt
+um 18:00 Uhr = 0 Watt
+um 19:00 Uhr = 0 Watt
+um 20:00 Uhr = 0 Watt
+um 21:00 Uhr = 0 Watt
+um 22:00 Uhr = 0 Watt
+um 23:00 Uhr = 0 Watt
+Nicht nur das die Kernfission die nächsten 400.000 bis 1.000.000 Stunden kein einziges kWh Strom abliefert die Kernfission ziehen noch jede Menge an kWh aus dem Netz.
+22:00 = 0 Watt
+Bedarf (Last): > 0
+Fazit:
+Solaranlage ist für eine sichere Versorgung nicht geeignet. q.e.d.
+Keiner von euch Solarhelden baut sich eine solche Anlage ohne Förderung.
+Keiner führt eine Netztrennung durch.
+Eure Anlagen funktionieren nur durch die Erzeugungsarten, die Ihr belächelt und bekämpft. Ohne Fossilenergie wären die Module nicht einmal herstellbar!
+Ihr wisst es, aber Ihr seid eben gierig. Ihr bemäntelt das, wähnt euch auf der *guten* Seite. Dabei seid ihr Parasiten.
+Da müssen dann auch Konditionen gelten, die für zuverlässige Lieferung wie bei echten Kraftwerken gelten.
+Positive Strompreise nur bei positiver Lieferverpflichtung zu einem vertraglich festgelegten Lieferzeitpunkt (z.B. um 22:00 Uhr, wie sie den beschaffen ist ihr Problem;-)). Lieferverzug plus Strafgebühr muß mit Folgelieferungen verrechnet werden.
+Stromverklappung zu unbrauchbaren Zeitpunkten darf nur gegen negativen Strompreis abgenommen werden!
+Können sie mir Literatur zu ihren lächerlichen Behauptungen über Kernfusion zukommen lassen.
+Vielleicht outen sie sich einfach und beschreiben ihre berufliche Qualifikation, Religionslehrer?
+Im übrigen gehe ich davon aus, daß ihre Denkfähigkeit von grün religioser Sektierei korrumpiert ist.
+Ihr Nachbar (oder sie?) sind wohl eher Schmarotzer der asozialen Energiewende.
+Stromverklappung zu untauglichen Zeiten und dafür von Rentnern und Hartzern jeden Monat 30€ Kopfsteuer abkassieren.
+SUPER!!!
+„Solaranlage ist für eine sichere Versorgung nicht geeignet. q.e.d.“
+Die Kernfusion ist nicht geeignet eine sichere Stromversorgung zu machen nicht mal eine ab und zu Stromversorgung schafft die Kernfusion.
+Mit Solar kann man sich bereits nächste Woche Solarstrom holen mit der Kernfusion weder in der nächsten Woche noch in den nächsten 50 Jahren.
+Ja, „holen“ Sie mal ein paar Kisten. Man soll ja ab und an sogar Geld dafür kriegen, wenn man ein paar Kisten mitnimmt…
+Ihre Meinung zur Kernfusion ist eben nur dieses: Die Meinung eines Laien.
+Mir geht es aber nicht um die Fusion, sondern um Solar (und Wind)
+Die Untauglichkeit von Solarenergie als Energiequelle einer Volkswirtschaft ist aber nachgewiesen. Durch die Fluktation eben dieser, durch die zwingende Null- Energiebereitstellung in der Nacht, durch die miese Energieausbeute bei niedrigem Sonnenstand im Winter, durch fehlende Speichermöglichkeiten.
+Das ist die technische Seite. Die ökonomische Seite ist noch viel schlimmer. Sebst 20 Jahre nach Einführung der Förderung hat es die Solarbranche nicht geschafft, ihre Produkte bzw. die Vermarktung des Solarstromes so zu verbessern, dass sie abseits von Anschubfinanzierungen ohne permanente Förderung marktfähig wären. Würden Einspeisevorrang und garantierte Vergütungen weit oberhalb der Marktpreise gestrichen, wäre der Kaiser nackt, würde nicht eine einzige dieser Anlagen mehr installiert. Mausetod wäre dieses Umverteilungs- karussell. Und es wäre gut so.
+Die Geschäftsmodelle hätten längst zu marktwirtschaftlichen Prämissen geändert werden müssen.
+„Die Meinung eines Laien.
+Mir geht es aber nicht um die Fusion, sondern um Solar (und Wind)“
+Der Laie sind aber Sie Herr Müller.
+Die Überschrift ist doch:
+„Kernfusion: die Hoffnung stirbt zuletzt“
+Und die Kernfusion ist bereits gestorben
+mit 0 Watt die nächsten 50 +XX Jahre.
+Lesen sie einfach meine Kommentare.
+D-T in China und Südkorea etwa anfang bis Mitte 1000MW am Netz.
+Plasmafokus fast sicher in maximal 10 Jahren.
+Ich bin mir allerdings bewusst, daß sie das alles um vieles besser wissen!
+Übrigens, „Let there be light“ ist ein ausgezeichneter 80-minütigen Film der ITER, Wndelstein, General Fusion und LPP Fusion vorstellt.
+Er sollte über einen der nachfolgenden Links zu sehen sein.
+Achtung: Dropbox ersetzt das lange Original gerne mit einer 15-minütigen „Demoversion“.
+Sicherheitshalber besser zuerst auf eine lokale Platte runterladen und dann mit Mediaplayer anschauen.
+Der 1. Link:
+https://www.dropbox.com/login?cont=https%3A%2F%2Fwww.dropbox.com%2Fpreview%2FPublic%2FErneuerbare_Energiedebatte%2FKernfusion%2FFocus%2520Fusion%2FMP4%2520Videos%2FLET%2520THERE%2520BE%2520LIGHT%2520-%2520by%2520Mila%2520Aung-Thwin%2520%2526%2520Van%2520Royko%2520von%2520EyeSteelFilm.3gp%3Frole%3Dpersonal
+Der 2. Link:
+https://www.dropbox.com/s/4xqhygly4rey66e/LET%20THERE%20BE%20LIGHT%20-%20by%20Mila%20Aung-Thwin%20%26%20Van%20Royko%20von%20EyeSteelFilm.3gp?dl=0
+Zunächst ist ersteinmal die Wärme da. Technische Konzepte zu deren Abfuhr scheint es zu geben.
+Mich wundert eher bei den Wind und Solarjüngern, das diese sich zwar für die Abschaltung aller Thermischen Kraftwerke einsetzen, aber der Wegfall der Wärmeversorgung (Prozesswärme für die Industrie, aber auch Fernwärme für die Haushalte) so gut wie nie ein Thema ist.
+Sie kennt offensichtlich die pB11 Reaktion nicht!
+Mit dieser Reaktion lassen sich extrem kleine Generatoren bauen.
+5000kW, so klein wie ein Kühlschrank.
+ICEs, Schiffe, Großflugzeuge, alles mit einem kleinen Generator zu betreiben!
+In dem Zusammenhang möchte ich unsere Arbeit in München erwähnen, die eine wesentliche Verringerung der Energieprobleme Afrikas zur Folge haben wird.
+Zuerst kurze Infos über Plasmafokus, wir arbeiten an der Startphase desselben Ansatzes.
+Als Einstieg über „alternative“ Kernfusion können Sie sich 2 kurze Videos von und über LPPFusion ansehen.
+Das erste erklärt innerhalb von 3 Minuten Aufbau und Funktion der Energieerzeugung basierend auf der pB11 Reaktion mittels eines Plasmafokusaufbaus.
+Der Link dazu:
+http://lppfusion.com/lassoed-lighting/
+Es gibt auch Facebook: https://www.facebook.com/LPPFusion
+Die derzeit erreichte Temperatur ist etwa 250 keV, also knapp 3000 Millionen Grad.
+In einem Interview der New York Times vom 15. Juli erwartet Eric Lerner (CEO LPPFusion) einen Break Even schon in 2021!
+Ambitioniert aber wahrscheinlich nicht absolut unmöglich.
+Den Ausschnitt (2 Minuten) mit Lerner gibt es direkt bei mir , der vollständige 8-Minuten Beitrag über den Stand der Technik in der Kernfusion kann abgerufen werden unter:
+https://www.njtvonline.org/news/video/could-a-jersey-lab-be-the-key-to-unlocking-the-suns-energy-on-earth/
+Auf unserer Webseite ist ein Beitrag über Lerner zu finden unter:
+https://stanfordcomputeroptics.com/applications/metrology/fusion-reaction-diagnostic.html
+Wir haben hier in München eine 1:1 Kopie des Aufbaus und untersuchen die Symmetrierung der Startphase.
+Mein Mitstreiter Armin Azima hat bis August 18 wie Herr Zohm nur TAE als Betreiber der Plasmafokusforschung gekannt und Vorträgen und Veröffentlichungen genannt.
+Nach einem Anruf von mir hat er sich an meiner Forschung mit beteiligt, siehe Seite 6 im Anhang „19-05-21 Fusion_2019-1_20190423_2230 (1).pdf.
+Nochmal ein kurzer Überblick:
+Grundsätzlich gibt es 2 Varianten von Kernfusion:
+1. die „altbekannte“ D-T Fusion bei der ein Neutron als Ergebnis der Fusion die Energie nach außen trägt. Damit kann man nur Wasser kochen und man gelangt zu Konzepten wie ITER. Dort findet die Fusion in einem Plasmaschlauch (analog zu einem Fahrradschlauch) mit einem großen Durchmesser von 30m und einem kleinen Durchmesser von 10m statt.
+Als Ergebnis bekommt man ein Fusionskraftwerk mit 1000 MW elektrischer Leistung, China und Südkorea (Samsung) sind gerade dabei uns zu überholen.
+Beide planen Fusionskraftwerke spätestens 2050 am Netz zu haben!
+2. Bei der Bor-Wasserstofffusion (pB11) entstehen (geladene) Alphateilchen, die Reaktionsenergie wird direkt in Geschwindigkeit dieser Teilchen übersetzt. Dies entspricht einem gepulsten Strom der mit sehr hohem Wirkungsgrad direkt über eine Spulenwicklung – ähnlich einem Transformator – als Sekundärstrom entnommen werden kann.
+He3 vom Mond, wie von China vorgeschlagen, ist wie 2., aber viel aufwendiger zu gewinnen, da dieses nennenswert eben nur am Mond zu finden ist. Ein zu 10% Bor(11)-haltiges Waschmittel können Sie in jedem amerikanische Drogeriemarkt zu US$ 17.50 für 62 Ounces kaufen, Deutschland könnte mit diesen 62 Ounces mindestens 5 Minuten lang mit Strom versorgt werden.
+Der entscheidende Vorteil der Variante 2 ist die Kompaktheit!
+Im US Patent 7,482,607 wird durchgerechnet, daß etwa 5MW als Ausgangsleistung einer Reaktionseinheit (-gefäß) mit etwa 700 ccm Nettovolumen erwartet werden könnten.
+Das Bauvolumen inklusive des Zubehörs könnte etwa von Kühlschrankgröße bis einige cbm betragen.
+Die Material- und Fertigungskosten sollten bei einigen 100k EUR liegen, selbst eine Million wäre relativ nicht teuer.
+Ein ICE3 bräuchte weniger als 1 Gramm Treibstoff pro Tag. Auch fliegen könnte (wird wohl) elektrifiziert werden, ein A380 hätte einen Verbrauch von etwa 10g von MUC nach SFO. Kostet etwa 1US$.
+Sie können uns gerne jederzeit gerne auch besuchen, Ihre Neugierde würde mich sehr freuen.
+Für weitere Infos ist Telefonkontakt unabdingbar, würden Sie mir bitte Ihre Nummer mitteilen? Der Novo Mitarbeiter hat sie leider nicht mitgeteilt.
+Mit freundlichen Grüßen
+Paul Höß
+Paul Höß KG
+phoess@stanfordcomputeroptics.com
+http://www.stanfordcomputeroptics.com
+Tel: 089/652029
+Fax: 089/654817
+Entenbachstr. 14
+81541 München
+Unbedingt kürzer fassen.
+Sie wird sicherlich die pB11 Fusionsreaktion auch kennen, aber offensichtlich nicht den Stand der Technik in der Forschung an Plasmafokusaufbauten!
+Haben Sie eigentlich Ihre Versuche bei der entsprechenden Behörde gemäss Atomgesetz angemeldet und wird das, wie vorgeschrieben, überwacht?
+Er hat damals vor allem Vernunft und Bildung als Lösung angeführt.
+Ihr Kommentar beweist, daß sie meine vorherigen Texte nicht gelesen oder nicht verstanden haben.
+Ein paar kleine Hinweise möchte ich anfügen:
+Reagan und Gorbatschov waren zwar die Initiatoren des ITER Projekts, Planungen für vergleibare Experimente gab schon deutlich früher.
+Während meiner Diplomarbeit 1980 am IPP erfuhr ich von einem Vorgänger INTOR (International Tokamak Reaktor) mit 4 Partnern, USA, Europa, Rußland und Japan. In meinen Unterlagen von damals sehe ich, Mitte der 70er geplant, einen praktisch baugleichen Vorläufer von ITER.
+Das folgende Diagramm wurde 1978 am MIT verfaßt: Seither haben wir es geschafft, zuverlässig weniger auszugeben, als dort für das Projekt „Fusion never“ ausgewiesen wurde.
+https://www.dropbox.com/sh/msj056s52o6e64i/AADVkrZnrc-MfDm7EVEJhl64a/NicePics/Fusion%20spending%201976%20-%20now.jpg?dl=0
+12m Durchmesser, ihr Wohnzimmer ist etwas großzügiger als meines. 😉
+Was in Ihrer Beschreibung völlig abgeht, ist die Darstellung der Situation in China und Südkorea.
+Die Roadmaps von China und Südkorea sind auch in meiner Dropbox zu finden, beide planen deutlich vor 2050 fertig zu werden.
+Fertig werden heißt, ein 1000MW Fusionskraftwerk ans Netz zu bringen.
+Eine komprimierte Roadmap Chinas zeigt der nachfolgende Link:
+https://www.dropbox.com/sh/db54fd1q8tksuol/AACIL-EmQ475GwvW4DTxwlFfa/Erneuerbare_Energiedebatte/Kernfusion/13-06-13%20%20R%26D%20Activities%20towards%20China%20Fusion%20DEMO%20part%20%20ThO1-2Wu.pdf?dl=0
+In Korea ist besonders auch Folie 7 interessant, SAMSUNG ist mit 3 Unterfirmen beteiligt, warum nicht auch SIEMENS in ähnlicher Art an deutschen Projekten?
+Die vollständige Version des koreanischen Vortrags ist zu lang für eine Email, Sie können diese aus meiner Dropbox laden:
+https://www.dropbox.com/sh/db54fd1q8tksuol/0CGf0K7rvR/Erneuerbare_Energiedebatte/Kernfusion/13-06-12%20%20Korean%20Fusion%20Roadmap%20p.7%20%2B%20p.20%20–12-06-13–%20%20WPL-2Lee.pdf
+Auf dem Parteitag der KP Chinas von 2015 wurde ein strategischer Entwicklungsplan beschlossen. Darin wurden 10 Schlüsselfelder definiert, in denen China bis 2049 Weltspitze sein will. Dazu gehört auch ein Plan 2000 junge Fusionsforscher bis 2021 auszubilden, Europa hat vielleicht 200 davon.
+Der Spiegel übersetzt das chinesische Original fast richtig. Bei den 10 Schlüsselfeldern auf S. 71 müssen Sie allerdings Informationstechnologie durch artificial intelligence und Energietechnik durch nuclear fusion ersetzen. Dann erhalten sie den Parteitagsbeschluß von 2015 wie im Original der chinesischen Niederschrift.
+https://www.dropbox.com/sh/msj056s52o6e64i/AAAirh6EOumI_y2oF65HSYMQa/NicePics?dl=0&preview=18-05-19+Spiegel+China-aufholen-und-ueberholen_derSpiegelNr21-180519-gekuerzt.pdf&subfolder_nav_tracking=1
+Unter
+https://www.dropbox.com/sh/db54fd1q8tksuol/TZsiJsdOBe/Erneuerbare_Energiedebatte
+ist der Eingang zu allen Dropbox Einträgen.
+Unter
+http://www.cesifo-group.de/de/ifoHome/events/seminars/Muenchner-Seminare/Archive/mucsem_20120423_Guenther.html
+war ein Vortrag der IPP Direktorin Sibylle Günther vom April 2012 verfügbar.
+Jetzt unter https://www.ifo.de/node/41619 Einleitung
+https://www.ifo.de/node/41620 Vortrag
+https://www.ifo.de/node/41618 Diskussion
+zugänglich. Funktioniert nur in wenigen Browsern, z.B Firefox.
+In dem Vortrag erzählt Frau Günter etwa ab Minute 35 aufschlußreiche Details über Chinas Pläne und nochmals ab der 20. Minute in der Diskussion.
+Auf Minute 2:45 zeigt sie auf Nachfrage des Herrn Thallemer, daß nichts über Plasmafokus pB11 weiß. Kannte ich damals auch noch nicht.
+Ab Minute 7:48 auf Frage von Frau Pittel erzählt sie vom Umfeld in das Kernfusion eingebettet werden muß. Ab 10:20 Apollo Programm, ab 11:00 die Frage nach Dauer und Kosten:
+20 Jahre, 20 Milliarden, wir könnten schon in kaum über 10 Jahren fertig sein, wenn wir es denn wollten.19:35, taz: Hightech muß grundsätzlich gefährlich sein …
+26:50 Für China ist EU zu lahm, wollen nicht nur schwatzen … machen DEMO lieber in vernünftigem Tempo selber …
+Die grüne Kernphobie hindert uns daran:
+Kernkraft, Kernfusion, Kernobst, alles gleich teuflisch….
+Unter
+https://www.youtube.com/watch?v=KkpqA8yG9T4#t=86.201088 hält Dennis Whyte vom MIT einen Vortrag über die Pläne des MIT.
+Sollten Links nicht funktionieren, so kontaktieren Sie mich bitte.
+Mit freundlichen Grüßen
+Paul Höß
+http://www.stanfordcomputeroptics.com
+Was ist mit diesen innovativen Entwicklungen?:
+– LENR(Low Energie Nuclear Reaction) auf Basis von Rossi’s Cold-Reactor
+https://coldreaction.net/lenr-die-unendliche-und-saubere-energie-kommt-frueher-als-gedacht.html
+oder
+– Neutrino Energie
+https://neutrino-energy.com/#won
+Nicola Tesla hat ja wohl die Neutrinos als das Ende aller Energieprobleme bezeichnet.
+In einen Vortrag hat man mit 3 übereinander gelegten Folien auf Nano-Technikbasis eine LED zum Leuchten Leuchten gebracht. Die Folien waren Briefmarkengroß. Leider finde ich den Link dazu nicht mehr.
+Ich vermisse einleuchtende Erklärungen dafür, dass im dem mit rund 16 Mio Kelvin angenommenem Kern der Sonne ein Plasma mit weit über 100 Mio Kelvin aktiv bleiben kann. Gravitation soll das möglich machen?
+Und wer hat je die bei einer permanenten Fusion frei werdenden Neutrinos nachgewiesen?
+Mir scheint, wenn ernsthaft nach anderen Erklärungen für die Sonnenenergie gesucht würde, könnte man die vergeblichen Versuche, einen imaginären „Sonnenreaktor“ zu kopieren, beenden – und das Geld für aussichtsreichere Projekte verwenden.
+„Nirgens“ ist nicht richtig:
+https://youtu.be/s1UPORMPgqw?list=PL1lUiaQg0SKuojC4rYXmWB-Nven7P6j7M
+https://youtu.be/ygQIl-JaUUc
+MfG
+Und besonderen Dank an Herrn Joseph Hausmann für die zu Herzen gehende Würdigung staatlich lenkender Eingriffe ins Wirtschaftsleben! Auch danke für den Fliegenschiss!
+Ich denke, wir wissen, welche zweite Welle schon bald auf uns zukommt!
+Um den Strom von Kernfusion-, Thorium-, DFR-Kraftwerk zum Endkunden zu bekommen werden ca. 10 Cent/kWh für die Netzbenutzung aufgerufen.
+Bei den privaten Solaranlagen werden Preise von 6 bis 7 Cent/kWh für eigenen Solarstrom aufgerufen.
+Bis ein Kernkraftwerksprojekt das erste kWh, MWh oder GWh liefert vergehen über 15 Jahre in der EU.
+Bei den Solaranlagen kommt bei klein Solaranlagen noch am selben Tag das erste kWh an Strom.
+Die Baukosten sind bei den Kernkraft 8000€/kW bis 10000€/kW Leistung in der EU
+Bei Solar können sich die Leute bereits für unter 1000€/kW Solarleitung ein „Solarkraftwerk“ errichten in der EU.
+…und dann begeistert durch die Gegend hüpfen, wenn die Anlage mal was liefert.
+Oder schnell die Waschmaschine einschalten und das Essen für 5 Wintermonate vorkochen…
+Und das Essen dann einfrieren? Aber wie, ohne Strom?
+Quelle:
+https://www.youtube.com/results?search_query=k%C3%BChlschrank+ohne+strom
+Interessant ist jedoch das Resultat jahrelanger Gehirnwäsche. Man beugt sich dem Lügner und den Lügen, man kämpft nicht mehr für seine Freiheit. Strom war einmal billig, könnte es heute noch sein. Man durchschaut die Lüge nicht mehr. Nur kriminelle Politiker verteuern Strom. Das hat große Implikationen, in der nahen Zukunft. Die, die alles schon haben, sind dieser Dinge überdrüssig und wollen nicht mehr so arbeiten, wie die Eltern früher. Dass die Armen andere Sorgen haben, kommt diesen abgehobenen Menschen nicht mehr in den Sinn.
+Wir werden es erleben, wie die Masse mit solchen gefährlichen Albernheiten zurechtkommt.
+Die letzte kleine Penicillin-Fabrik in Europa produziert noch in Österreich, via Novartis. Doch, die wollen jetzt schließen. Die konkreten Gründe kenne ich (noch) nicht. Die uns die Freiheit raubenden Rotchinesen werden jubeln.
+14. Mai 2020 um 12:23
+„Und das Essen dann einfrieren? Aber wie, ohne Strom?“
+Ja bei der Nutzung der Kernfusion können Sie das die nächsten 50 besser gesagt die nächsten 100 Jahre nicht machen.
+>>> Bei Solarstrom können Sie das jeden Tag machen. <<<
+Auf die heutigen Mainstream-Fusionskonzepte würde ich auch nicht warten wollen. Die dort verblasenen Milliarden würde man besser in Eiscreme investieren.
+Aber es gibt ja bereits alternative Fusionskonzepte, die ihre Tauglichkeit nachgewiesen haben
+„Aber es gibt ja bereits alternative Fusionskonzepte, die ihre Tauglichkeit nachgewiesen haben“
+100% Zustimmung
+Das alternative Fusionskonzept, die ihre Tauglichkeit nachgewiesen haben sind Solarmodule die die Fusion der Sonne auf der Erde in Strom umwandeln.
+Joo!
+Blöde ist nur, daß man nicht weiß wann und wieviel.
+Aber sonst ist das natürlich großartig…
+…und dann begeistert durch die Gegend hüpfen, wenn die Anlage mal was liefert.
+Oder schnell die Waschmaschine einschalten und das Essen für 5 Wintermonate vorkochen…
+Essen wird oftmals um die Mittagszeit gekocht auch im Winter und um diese Uhrzeit herum liefern die Solaranlagen auch die meiste Energie, auch im Winter.
+Die Waschmaschine schaltet sich auch automatisch ein, wenn Solarstrom da ist da muss keiner „schnell die Waschmaschine einschalten“.
+Das macht auch die Gefriertruhe so und verwendet vorrangig Solarstrom für 7 Cent/kWh.
+besso keks das kWh aus den neuen Kernkraftwerks-Projekten kostet auch über 20 Cent an Ihrer Waschmaschine oder beim Essen kochen !
+Solarstrom nur ca. 1/3 vom „Kernstrom“ !
+Wat ’n Quatsch!
+„Das macht auch die Gefriertruhe so…“
+Klar…
+“ kWh aus den neuen Kernkraftwerks-Projekten kostet auch über 20 Cent an Ihrer Waschmaschine oder beim Essen kochen !“
+A) warum?
+B) Was kostet der andere Quatsch, Vollkosten gerechnet?
+C) Worin liegt der Vorteil im Vergleich zur Stromversorgung vor 30 Jahren???
+Benennen Sie mir doch mal die kompletten Investitions- und Betriebskosten für 20 Jahre, Zinssatz derzeit 2%. Nicht vergessen, daß die Dinger auch komplett verschrottet und umweltfreundlich beseitigt werden müssen.
+Als Ökonom ist mir allerdings bekannt, daß die meisten Bürger die Kostenrechnung nicht beherrschen. Die elektronischen Schwachsinnautos würden die nämlich nicht kaufen. Und ein Akkuauto ohnehin nicht. Akkus verlieren nämlich auch ohne Leistungsabgabe Energie. So an die 0,5 bis 1% der gespeicherten Energie. Und ein Akku hat auch nur eine geringe Lebensdauer. In meinem PKW ist bereits der 4. Akku drin. Und das ist ein Benziner. Der braucht das Ding nur zum Anlassen und das Stillstandslicht der Scheinwerfer und Rücklichter.
+Aber inzwischen ist die naturwissenschaftlich-technische Bildung in D Laternenpfahl ganz unten geworden. Mußte mit meinen Studies sogar in die Bibliotheken gehen und denen erklären wie man da Literatur findet.
+Ihre echte Aufgabe ist es jedoch denen, das Denken beizubringen. Dann sind Sie ein echter Glücksfall für diese formbare Masse: Erkenntnistheorie ist Pflicht. Erst dann auf die Bibliothek loslassen. Ohne echte Erkenntniswege ertrinken die in sinnlosem Material. Bibliotheken sind gigantisch. Weil, irgendwann wird auch die Sonne ausgeknipst. 😉 Das wissen die Grünen nicht.
+„Zinssatz derzeit 2%. Nicht vergessen, daß die Dinger auch komplett verschrottet und umweltfreundlich beseitigt werden müssen.“
+Ein bekannter errichtet gerade einen Neubau incl. Solarstromanlage und der bezahlt über alle Kredite gerechnet nur um die 1% an Zinsen.
+419 Grundversorger haben nach Angaben des Vergleichsportals Check24 die Preise zum Jahreswechsel 2019/2020 angehoben.
+Das sind mehr als jeder zweite Grundversorger in Deutschland.
+Durchschnittlich wird Strom demnach um 5,4 Prozent teurer und das nur in einem Jahr.
+Nicht zu vergessen Herr T.Heinzow,
+die Leute haben ja auch Geld und auf der Bank gibt es ohnehin nicht nennenswertes an Zinsen.
+Bei Solar kann man mit je 100€ Investition 25€ bis 30€ an Strohkosten vermeiden und das jährlich, wie sieht da die Verzinsung aus?
+Die Entsorgung ist in der Regel Kostenlos.
+Zuständig für die Entsorgung sind in der Regel die Hersteller und Importeure der Solarmodule bzw. müssen sie sich nach den Vorgaben des Elektro- und Elektronikgerätegesetzes (ElektroG) als Erstinverkehrbringer bei der Stiftung ear registrieren bevor sie die Solarmodule in Verkehr bringen.
+Die Entsorgung von Solarmodulen ist auch bei z.B. den Wertstoffhöfen kostenlos möglich.
+Solarmodule wurden in das Elektroschrottgesetz 2015 aufgenommen und die können wie andere Elektrogeräte in den Wertstoffhöfen abgegeben werden.
+Man kann auch noch nutzbarem Module für etwa 20 bis 40 Euro verkaufen und für den Eigentümer springt noch was heraus an Geld.
+Ohne EEG zu beanspruchen baut keiner von euch Sprücheklopfern eine Solaranlage auf! Ohne die herkömmliche Netzversorgung als Back- Up zu beanspruchen, ebenfalls nicht!
+„Dass es Leute gibt, bei denen am Ende des geldes noch Monat übrig ist, dass es welche gibt, die nach 2 Wochen Umsatzausfall auch kein geld mehr haben, hatten Sie das mitbekommen? Das 300 000 Stromkunden jährlich abgeklemmt werden?“
+Deshalb ist es eben schlau wen man eine Solaranlage im Einsatz hat.
+Die ist bereits bezahlt selbst wenn man im Monat nach 2 Wochen Umsatzausfall kein Geld mehr hat interessiert das die PV-Anlage nicht und liefert weiter Strom.
+Auch die 300 000 Stromkunden denen jährlich der Strom abgeklemmt wird sollte drüber nachdenken nicht nur den teuren Netzstrom zu nutzen.
+Zinsen sind sehr günstig um eine Solaranlage zu finanzieren und bei Eigenverbrauch ist bei Solarstrom 25% bis 30% Kapitalrückfluss über die vermiedenen Netzstromkosten zu machen.
+So kann man Ihre Empfehlung eigentlich nur verstehen: „Wenn sie kein Brot kaufen können, dann sollen sie doch Kuchen essen“ ….
+„Wenn sie kein Brot kaufen können, dann sollen sie doch Kuchen essen“
+Wenn sie kein Brot (Netzstrom) kaufen können, dann sollen sie doch Kuchen (Solarstrom) essen (verbrauchen).
+Wenn „Brot“ Netzstrom das Vierfache vom „Kuchen“ Solarstrom kostet sollte man zumindest ab und zu auch „Kuchen essen“ und eigenen Solarstrom verwenden !
+13. Mai 2020 um 23:26
+„…und dann begeistert durch die Gegend hüpfen, wenn die Anlage mal was liefert.“
+…und dann begeistert durch die Gegend hüpfen, wenn die Kernfusion-Anlage mal was liefert im Jahre 2049 oder auch erst in 2100 ?
+>>> Solarstrom können Sie bereits heute und das jeden Tag nutzen und nicht erst 2100 Herr Keks. <<<
+Klar, 24/7!
+Hab Sonne im Herzen…
+Der Beweis der Machbarkeit ist erbracht, die Frage ist ob gewisse Lobbys billige Energie für alle zulassen werden
+„Solar jeden Tag was“
+Genau!
+Wobei „was“ für den Betrag zwischen „null“ und „irgendwas“ steht.
+Na dann viel Spaß…
+„Wobei „was“ für den Betrag zwischen „null“ und „irgendwas“ steht.
+Na dann viel Spaß…“
+„null“ und „irgendwas“ ?
+Bei Solaranlagen sind auch unter „null“ je kWh-Solarstrom möglich bei einer Sektkopplung.
+Vermeidung von anderen Energieausgaben
+bei z.B. Kraftstoff bei Wärme bei ….
+Vermeidung von anderen Energieausgaben
+bei z.B. Kraftstoff bei Wärme bei ….“
+Okay alles verstanden ? NEIN
+Die Menschen und Firmen brauchen nicht nur Strom ganzjährig.
+Beispiel:
+Wärme wird in wesentlich größeren Umfang ganzjährig gebraucht.
+Macht man nun z.B. mit einer Widerstandsheizung oder auch Wärmepumpe aus Überschuss-Solarstrom Wärme da werden Kosten in anderen Sektoren vermieden, deshalb kommt man dann für den Solarstrom auf unter „Null“.
+Kleiner Tipp:
+eine Heilung vom „Erneuerbare Energienwahn“ ist möglich über eine Berechnung des Mengengerüstes…
+mit einer Solarstromanlage kann man auf weniger als „Null“ €/kWh an Kosten kommen je genutzter kWh Solarstrom, wenn man das so macht wie Herr Meuer das beschrieben hat.
+Einfach Ausgaben in anderen Bereichen durch Solarstrom vermeiden oder verringern.
+Die woertliche Aussage laesst auch keinen Zweifel mehr offen:
+Mit Solaranlagen kann man auf Kosten kommen! Solaranlagen werden einem auch offen auf der Strasse hinterhergeworfen.
+Sicherlich vermeiden Solaranlagen keine Kosten durch anfallende Speichernotwendigkeiten.
+Was ist eigentlich aus kochen mit Gas geworden? Sehr nuetzlich bei Stromausfall, wie man immer wieder feststellen kann.
+Mit Solaranlagen kann man auf Kosten unter „Null“ kommen!
+Solaranlagen werden einem auch offen auf der Strasse hinterhergeworfen und mit ca. 1000€ kommt man auf eine Verringerung der Kosten für Netzstrom von ca. -300€ im Jahr.
+Letztens sind einem die Oelfaesser hinterhergeworfen worden, Solaranlagen habe ich aber noch nicht geschenkt gesehen.
+Ohne Solaranlagen kommt man auch auf Kosten unter Null!
+Da fallen saemtliche Finanzierungskosten weg!
+Gelle!
+Können Sie mir bitte sagen, wo sie als Privatperson Öl – in was auch immer welcher Form – zum Nulltarif bekommen haben?
+Dass, der Ölpreis kurzfristig stark im negativen Bereich war, hat mit Besonderheiten – Irrsinn? – des amerikanischen Ölmarktes zu tun.
+Warum auch ueber was anderes reden. Gesamtversorgung ist was von gestern, jeder fuer sich! Alles klar!
+Also Windanlagen sind dann also doch passee, der Kernreaktor nicht, Fusion dann eher auch nicht.
+Solar braucht man aber eigentlich auch nicht, weil der Strom kommt ja aus der Dose, ne ich meine von den Solarmodulen.
+Bleiben also doch nur die Finanzkosten, das Problem die Waschmaschine zum laufen zu bringen, da die Solaranlage mit dem Anlaufstrom nicht klarkommt, der Kuehlschrank der nicht laeuft wenn keine Sonne scheint.
+Vielleicht doch lieber Diesel? Dann geht man schon mal auf dem Schnaeppchenmarkt nach Öl gucken!
+Muss ja nicht immer reiner Diesel sein.
+Was soll diese reine Polemik? Ist ja nicht einmal witzig geschrieben…
+Dass bei JEDER Investition die Fixkosten – Abschreibung, Finanzkosten und Sonstiges – sowie die variablen Kosten einzuberechnen sind, ist wohl klar.
+Dass Öl nie verschenkt werden kann, sollte ebenfalls bekannt sein (Fixkosten und variable Kosten der Ölproduzenten). Egal ob an Privatpersonen, Firmen, oder den Staat geliefert wird.
+Irgendwelche Spekulationsidiotien sind eine andere Sache…
+sie haben recht. Ich habe wohl etwas Polemik verwendet.
+Nur die Lektion ueber Investition und Kosten koennen sie Herrn Draeger verpassen.
+„Bleiben also doch nur die Finanzkosten, das Problem die Waschmaschine zum laufen zu bringen, da die Solaranlage mit dem Anlaufstrom nicht klarkommt, der Kuehlschrank der nicht laeuft wenn keine Sonne scheint.“
+Bleiben also doch nur die Finanzkosten, das Problem die Waschmaschine zum laufen zu bringen, da die Kernfission Milliarden von Euro über 50 +XX Jahre vorfinanzieren muss um mal ab z.B. 2100 eine Waschmaschine zum laufen zu bringen.
+Auch der Anlaufstrom der der Waschmaschine ist für
+PV-Strom / Wechselrichter kein Thema Herr Werner Schulz.
+Herr Werner Schulz die Sonne muss nicht direkt scheinen es reicht die Helligkeit am tage aus um PV-Strom zu bekommen.
+Jetzt 30.05.2020 um 7:48Uhr bringt das kWp Solaranlage 96Watt und der Himmel ist bewölkt.
+Bei 10kWp PV sind das 960 Watt und das reicht aus um die Waschmaschine zum laufen zu bringen.
+Entwerter vollständig oder es werden noch einige Watt aus den Stromnetz dazu genommen.
+Die Menschen die keine PV-Anlage haben müssen immer 100% aus dem Stromnetz entnehmen und auch bezahlen.
+Fuer den Anlaufstrom duerfen sie gerne bei 960 W alle anderen Verbraucher abstellen und dann hoffen sie!
+Und dann fuegen einfach mal das 10 fache an Investition hinzu! Klasse!
+Die Menschen, die Ihrem Rat folgen, haben nachts keinen Strom, kein Geld und keine Ahnung was sie zuerst machen sollen.
+Auto laden, Waesche waschen, Kuehlschrank anschliessen, Computer ausmachen wenn der Kochherd an ist.
+Aber schauen wir mal was die Solarexperten so sagen:
+https://www.photovoltaikforum.com/thread/104032-belastbarkeit-von-insel-wechselrichtern/
+Die Menschen die bisher Strom aus dem Netz genommen haben, und sie sicher inklusive, profitieren von der staendigen Verfuegbarkeit von genug Strom.
+Das man das bezahlt ist doch klar. Die Solaranlage muss man auch bezahlen.
+Täte er das, wäre er ökonomisch beurteilt saublöd. Umwelttechnisch wäre er das übrigens auch, denn Windmühlen und Solarzellen sind extreme Tier- und Umweltschädlingstechnik.
+Daß die Dinger auch noch die private Ökonomie der Bürger in extremem Umfang schädigen, sollte ja inzwischen bekannt sein.
+Da müssen dann auch Konditionen gelten, die für zuverlässige Lieferung wie bei echten Kraftwerken gelten.
+Positive Strompreise nur bei positiver Lieferverpflichtung zu einem vertraglich festgelegten Lieferzeitpunkt. Lieferverzug plus Strafgebühr muß mit Folgelieferungen verrechnet werden.
+Stromverklappung zu unbrauchbaren Zeitpunkten darf nur gegen negativen Strompreis abgenommen werden!
+Stromverklappung zu unbrauchbaren Zeitpunkten darf nur gegen negativen Strompreis abgenommen werden!“
+Endlich mal jemand, der es kapiert hat.
+Willkommen im Widerstand!
+Die sog. *EE* aus Sonne und Wind parasitieren unser konventionelles System. Sie sind ohne dieses nicht lebensfähig. Sie könnten ohne herkömmliche, auch fossile Energiequellen nicht einmal hergestellt und errichtet werden. Sie sind im Betrieb auch 20 Jahre nach massenhafter Errichtung beständig auf Subventionen angewiesen und haben deshalb ihre Marktuntauglichkeit NACHGEWIESEN. Ohne Subventionen wird nicht EINE Anlage neu gebaut werden.
+Das herkömmliche Stromnetz funktioniert nun einmal so, dass die Erzeugung der Netzlast FOLGT. Sekundengenau. Millisekundengenau. Und nicht umgekehrt. Flukturierende, zufällig einspeisende Erzeuger destabilisieren dieses System. Je mehr es anteilig gibt, umso mehr destabilisieren sie es. Eben prasitisch.
+Die Möglichkeiten, die Last (Verbrauch) der Erzeugung folgen zu lassen sind technisch, organistorisch begrenzt, Smart Grids, Smartmeters und Kobolden zum Trotze. Sie sind zeitlich eng begrenzt (Speichermöglichkeit, auch als Wärme).
+Ohne Sonne und ohne Wind funktioniert unser System auch jetzt noch.
+Ohne konventionelle Kraftwerke sind sofort die Lichter aus.
+bauen Sie sich doch Ihre Solaranlage. Ohne Einspeisevorrang, ohne EEG- Umlage zu beanspruchen und versorgen Sie sich selbst. Nur zu.
+mit 300€ für eine 0,31kWp Solar Anlage ……..
+https://greenakku.de/selfPV/selfPV-Komplettpaket-310Wp::2774.html
+Und kommen jährlich ca. 300kWh an Solarstrom das bei Netzstromvermeidung einer Ersparnis von ca. 90€ entspricht.
+Über die nächsten 20 Jahren werden Kosten für Netzstrom von ca. 2000€ vermieden, noch Fragen Herr Hagen Müller?
+klein PV für unter 1000€/kWp
+14. Mai 2020 um 21:16
+Sie sind nicht in der Lage, die Fakten von @Höß, @Hagen Müller, @keks ff. zu begreifen. Aber nur zu: PV aufs Dach, aber ohne Förderung, und sofort abklemmem vom E-Netz! Viel Spass dabei ;-)))
+Ich „preppere“ ein wenig und habe eine 250 Wp-PV – Inselanlage für die kommenden Blackouts, damit ggf. wenigstens ein paar 12 V – LED funzen. In „Friedenszeiten“ speise ich ein. Ich habe dazu Messtechnik verbaut und zeichne täglich auf. Jahresertrag 2019: 214 kWh. Im Winter manchmal tagelang so gut wie nix!!! Da wäre nix mit Kühlschrank oder Waschmaschine …., aber das können oder wollen Sie wohl nicht begreifen ……
+Ach ja…: Wenn ich nur den reinen Materialwert rechne von Modulen und Wechselrichter habe ich einen Break-Even nach bestenfalls 8 Jahren. Da fehlen aber noch die Arbeitskosten, Halter, Verkabelung usw.. Wie Sie da auf 7 cent für die kWh kommen kann nur mit einer MINT-Schwäche´zu tun haben.
+Antwort: ob sie es verstehen oder nicht, ohne das Netz ist der Stromkreis sofort tot, da nichts das Zappeln von Frequenz bzw. Leistung ausregeln kann.
+Die einzige Funktion, die ich mir vorstellen kann, ist Glühlampen anschließen, die mit dem Schwankungen der Stromlieferung schwankendes Licht liefern. Ob das Sinn macht, bei viel Sonne helle Leuchten und nachts keine leuchten zu haben… ich weiß nicht, bei mir ist es umgedreht.
+Die Leut sind halt froh, wenn überhaupt mal irgendwann ihnen ein Lichtlein aufgeht.
+15. Mai 2020 um 14:52
+„Die einzige Funktion, die ich mir vorstellen kann, ist Glühlampen anschließen“
+Hallo Georgiev,
+nur „Spezialisten“ schlißen heutzutage noch eine Glühlampe an.
+Eine 9 Watt LED ersetzt eine 60Watt Glühfunzel.
+Die 60 Watt Glüh-Funzel verbraucht in der Stunde ca. für ca. 1,8 Cent Strom in 1000 Stunden sind wir bei 18€ für Netzstrom.
+Die 9 Watt LED-Funzel verbraucht in der Stunde ca. für ca. 0,3 Cent Strom in 1000 Stunden sind wir bei 3€ für Strom + 1€ für die Anschaffung sind 4€ an Kosten.
+Immer noch -14€ an Ausgaben und das nur bei einer Glüh-Funzel.
+Okay die 9Watt LED kostet keinen Euro sind nur 0,80 €/Stück.
+Die 9 Watt LED-Funzel verbraucht in der Stunde ca. für ca. 0,3 Cent Strom in 1000 Stunden sind wir bei 3€ für Strom + 1€ für die Anschaffung sind 4€ an Kosten.
+Immer noch -14€ an Ausgaben und das nur bei einer Glüh-Funzel.“
+Noch so’n Genie!
+Was machen Sie, wenn Sie nicht zur Mittagszeit, sondern ausnahmsweise abends mal Licht brauchen und der Wind schon eingeschlafen ist (wie es regelmäßig abends der Fall ist)?
+Kerze anzünden und um Wind beten???
+Zur Mittagszeit braucht man richtig was an Leistung, essen kochen, Wäsche waschen, Spülmaschine u.s.w. und da ist auch z.B. Solar bei der Leistungsabgabe an stärksten.
+Bei Fotovoltaikanlage passt Erzeugung und Verbrauch so tendenziell zusammen.
+https://www.energy-charts.de/power_de.htm?source=all-sources&year=2020&week=20
+Immer um die Mittagszeit ist der Stromverbrauch auch deutschlandweit am größten.
+Nun in der Nacht brauch man bei der LED nur 9 Watt beim E-Herd um die Mittagszeit auch mal 3000 Watt das 333-fache an Leistung von der LED und genau bei der maximalen Stromnachfrage leistet Solar am meisten.
+Nun man hat bei den erneuerbaren nicht nur Wind und Solar im Einsatz z.B. für die Nacht !
+Schön für Sie, daß Sie mittags zu Hause sind und gleichzeitig Essen kochen Geschirr abwaschen und Wäsche waschen.
+Ich kann mich aber an einzelne Tage/Wochen/Monate erinnern, an denen die Sonnen nicht gescheint hat – aber Sie haben vermutlich irgendwo einen Esbit-Kocher liegen. Campen im eigenen Haushalt macht ja auch mal Spaß, insbesondere im Winter…
+„Bei Fotovoltaikanlage passt Erzeugung und Verbrauch so tendenziell zusammen“
+Schmunzel, schmunzel…
+„Nun in der Nacht brauch man bei der LED nur 9 Watt“
+Advent, Advent, ein Lichtlein brennt.
+Allerdings bleibt der Herd kalt und gewaschen wird,wenn Strom zugeteilt werden kann.
+Schöne neue Ökoidiotenwelt!
+„Ich kann mich aber an einzelne Tage/Wochen/Monate erinnern, an denen die Sonnen nicht gescheint hat“
+Nur so speziell für Herr besso keks,
+Solaranlage liefen auch Strom bei Bewölkung oder Regen und immer um die Mittagszeit das jeweilige Maximum.
+besso keks
+„Schön für Sie, daß Sie mittags zu Hause sind und gleichzeitig Essen kochen Geschirr abwaschen und Wäsche waschen.“
+Man muss nicht mittags zu Hause sein das der Geschirrspüler abwäscht oder die Wäsche gewaschen wird oder die Wärmepumpe was in das Hauswärmesystem einlagert.
+Das geht heutzutage automatisch
+das kann man so „einstellen“ Herr besso keks.
+Und ist man nicht zuhause um die Mittagszeit
+so braucht man auch kein Essen kochen um die Mittagszeit.
+Joo!
+Dumm nur, wenn das „Maximum“ nahe Null liegt!
+„Man muss nicht mittags zu Hause sein das der Geschirrspüler abwäscht oder die Wäsche gewaschen wird oder die Wärmepumpe was in das Hauswärmesystem einlagert.
+Das geht heutzutage automatisch
+das kann man so „einstellen“ Herr besso keks.“
+Na klar!
+Jetzt müssen Sie blos noch den Schalten finden, mittels dessen Sie die Sonne einstellen können. Sonst kommen Sie abends heim und nix ist passiert.
+„Und ist man nicht zuhause um die Mittagszeit
+so braucht man auch kein Essen kochen um die Mittagszeit.“
+Wohl wahr.
+Blöd nur, daß abends dann die verfügbaren 9W von Ihrer LED beansprucht werden. Kochen, Waschen, Duschen, Blödsehen gucken, Heizen etc. fällt dann wohl aus
+Nein, keine mehr. Ich habe Ihre Denke begriffen und fasse sie so zusammen: „Wir sparen mit jedem Pfennig, koste es, was es wolle!“
+„Ich „preppere“ ein wenig und habe eine 250 Wp-PV – Inselanlage
+Schwachsinn im System hat einen Namen.
+Ist eine „preppere“ 250 Wp-PV – Inselanlage was zum Geld verdienen
+oder zum Geld verbrennen ?
+Eine „preppere“ 250 Wp-PV – Inselanlage ist doch nur Geldvernichtung in Perfektion.
+oder zum Geld verbrennen ?
+Eine „preppere“ 250 Wp-PV – Inselanlage ist doch nur Geldvernichtung in Perfektion.“
+Hier sieht man die nur aufs Ich bezogene Denkweise der Solar- und Windjünger.
+Die ganzen EE- Geschichten um Solar und Wind sind eine riesige Geldvernichtungsmaschine, die uns volkswirtschaftlich KOSTET und nichts an wertschöpfung unterm Strich bringt. Das Einzelne daran sich einen goldenen Arsch verdienen, widerspricht dieser Aussage nicht. Wir zahlen drauf. In Suumme mitlerweile 300 Mrd. €.
+Z. Z. bereits über 30 Mrd. pa, die nicht nötig wären.
+Da ist mir der Prepper mit seinem Inselchen zum Handy- Laden tausendmal lieber. Der verlangt von mir keine reichlich 8ct EEG- Zulage plus Offshore- Haftung, plus Umlage Netz, plus Umlage KWK, plus Umlage abschaltbare Lasten…. Der hat seine Anlage selbst bezahlt und geht mir nicht auf den Geist.
+Kennen sie denn den Unterschied nicht?
+„dagegen ein Fliegenschiß“ – Oh Gottogott! Das war doch nicht etwa ein Zitat?
+Wobei noch nicht einmal die erforderliche Speichertechnik in Sicht ist. Doch wer kann schon ergründen, was Grünideologen sich noch alles an Dummheiten ausdenken…
+Wie früher: Staat zahlt den Bau zum Großteil; danach liefert das Werk billigsten Strom über 50 Jahre.
+Die Siemens-Werke usw. wurden von Strauß u.a. subventioniert, weil sie sonst nicht gebaut hätten. Betreiber blieb der E-Konzern.
+Beginnen wird es mit den sog. Gaskraftwerken. Es bleibt gar nichts anderes übrig, wenn an den Ausstiegsplänen der Kernkraft bzw. der Kohle u. an den *Erneuerbaren* wie bisher festgehalten wird. Unter den jetzigen politischen Bedingungen investiert NICHT EIN Privatunternehmen in D. im fossilen Kraftwerksbereich. Mit der bereits spürbaren Folge, dass Technologie und Wissen, Fertigungskapazitäten und Manpower verloren gehen.
+Ab 2023 gehen erste Kohlekraftwerke vom Netz. Dann gehts bergab. Ab 2038 oder schon 2030, wie die Grünen und Freitagshüpfer wollen, haben wir im Falle einer Dunkelflaute noch eine Leistung von ca. 38 GW am Netz + möglicherweise etwas Import… gebraucht werden könnten aber über 80…
+Aber vllt. ist alles auch ganz easy, wir vertreiben die Industrie in den nächsten jahren ganz und kommen dann mit den bisher installierten leistungen von Wasser, Biogas und Erdgaskraftwerken aus.
+15. Mai 2020 um 15:26
+„Ab 2023 gehen erste Kohlekraftwerke vom Netz.“
+>>> Erst ab 2023 ? Es gehen doch ständig welche vom Netz in D <<<
+2019 -1,1GW bei der Kohle und -1,4GW bei der Kernkraft
+Datenquelle:
+https://www.energy-charts.de/power_inst_de.htm?year=2019&period=annual&type=inc_dec
+95% der Kraftwerke und die gesamte zugehörige Infrastruktur war bis in die 1970er Jahre kommunales Eigentum. Wer also glauben Sie hat das bezahlt bevor es privatisiert wurde?
+Man sollte sich nicht über Subventionen für Wind und Solar aufregen, diese aber für andere Elektrizitätserzeuger einseitig fordern. Siemens, Airbus und Co. sind Unternehmen, die insbesondere durch ihrer Mitarbeiterzahl Lohnsteuerrückflüsse in weit anderen Größenordnungen zurückzahlen, als dass die Mitarbeiter eines Kernkraftwerkes je erwirtschaften werden. Wenn die Kosten 2015 für das Kraftwerk Olkiluoto 9 Mrd. EUR betrugen, es heute nach fast 20 Jahren Bauzeit immer noch nicht funktioniert kann mir keiner nachvollziehbar erklären, wie das Geld für den Bau mit dem Strompreis erwirtschaftet und die Zinsen und Tilgung für die aufgenommene Fremdfinanzierung abzahlt werden soll. Von möglichen Gewinnerzielungsabsichten ganz abgesehen.
+Vielleicht verdoppelt sich die Inkubationszeit dafür auch noch?
+Ungeachtet Ihrer sonst häufig sehr guten Beiträge liegen Sie hier falsch.
+Bei Kernfusion gibt es auch ein Preisschild. Wenn Sie nur auf ein Goggomobil (Trabant) sparen, dürfen Sie sich nicht beklagen, wenn Sie nach 10 Jahren keinen Porsche
+(Rolls Royce) bekommen.
+Details siehe:
+https://www.dropbox.com/sh/msj056s52o6e64i/AADVkrZnrc-MfDm7EVEJhl64a/NicePics/Fusion%20spending%201976%20-%20now.jpg?dl=0
+Ich bin mir sicher, dass ich es nicht mehr erlebe.
+Ob es meine Kinder erleben, von Vorschul bis Studentenalter…. weiß ich nicht.
+Ich bin mir sicher, dass es meine, noch ungeborene Enkelkinder, es erleben werden.
+15. Mai 2020 um 14:40
+„Ich bin mir sicher, dass es meine, noch ungeborene Enkelkinder, es erleben werden.“
+>>> Solarstrom können Sie bereits heute und das jeden Tag nutzen und nicht erst 20XX. <<<
+Ich weiß, wovon ich spreche.
+Sie scheinen mir ein hochprofessioneller deutscher Bedenkenträger zu sein.
+3mal täglich 50kg Bedenken in den fünften Stock tragen,das tut gut.
+„Mit Verlaub, mit Atomenergie kann man im Winter nicht heizen.“ (mit dem anschließenden Zusatz: „Man sollte uns auch nicht für blöder verkaufen, als wir im Schnitt sind!“) – Nach einer Klausurtagung der Grünen am 8. Januar 2009 [Zeuge:] Die Welt.
+Quelle: https://de.wikiquote.org/wiki/Claudia_Roth
+Fusion?
+Gibt’s schon!
+Glauben Sie!
+Kommt drauf an wer es macht!
+China wird sicher vor 2049, dem hundertsten Jahrestag der VR Gründung, das erste
+1000 MW Fusionskraftwerk am Netz haben.
+Südkorea eher früher, da sie nicht gleichzeitig noch Transmutation erforschen.
+Dann können sie bei SAMSUNG ein Fusionskraftwerk kaufen, so wie sie vor Urzeiten ein Kernkraftwerk bei SIEMENS kaufen konnten.
+Tempora mutantur.
+14. Mai 2020 um 14:30
+„China wird sicher vor 2049, dem hundertsten Jahrestag der VR Gründung, das erste 1000 MW Fusionskraftwerk am Netz haben.“
+>>> Solarstrom können Sie bereits heute und das jeden Tag nutzen und nicht erst 2049. <<<
+Und wie ist das in der Nacht?
+Aber da kommt ja feinster fossiler und AKW-Strom aus der Steckdose.
+Ich sag da eher schmarotzen dazu.
+Wenn wir uns halbwegs fair verhalten, müssen wir halt noch etwas warten.
+Mit Hilfe einer asozialen Energiewende die Aussteuerversicherung von Landarzttöchtern in eine 7% rentierlichen Wiederanlage zu ermöglichen, macht für die aus 30.000€ stolze 120.000€.
+Finanziert wird das mit einer Kopfsteuer, als Stromkostenzuschlag getarnt und damit elegant die EU Subventionsbestimmungen ausgetrickst (danke Jürgen, danke Sigmar), die jeden Deutschen derzeit 30€ monatlich! kostet.
+30Mrd.€ EEG geteilt durch 82Mio. Deutsche und 12 Monate, d.h. auch jede Oma mit nicht mal 300€ Rente zahlt 30€, jede 4-köpfige Familie mit zwei 3- und 5-jährigen Kindern zahlt 120€ im MONAT nur für Strom, 10€ offen über die Stromrechnung und dann noch 20€ verdeckt für die Stromrechnung von Supermarkt, Tankstelle, alle Anderen!
+SUPER !!!
+Im Land selber gibt es nur wenige aus Marketinggründen,für naive Ausländer, seht her wir nutzen die auch selbst.
+Die Solarmodule werden vermutlich genauso wenig am Netz sein wie ihre Windräder (Quelle: New York Times vom 15. 1.2017),
+„https://www.dropbox.com/s/ogzbvpqkxtznbwu/2017-01-15%20NYT%20It%20Can%20Power%20a%20Small%20Nation.%20But%20This%20Wind%20Farm%20in%20China%20Is%20Mostly%20Idle.%20-%20The%20New%20York%20Times.html?dl=0“
+einfach nur um die Netze vor Flatterstrom zu schützen.
+„Südkorea eher früher, da sie nicht gleichzeitig noch Transmutation erforschen.“
+Herr Paul Höß schreibt vor 6 Jahren
+„In Südkorea ist beabsichtigt bis 2036 einen 1000 MW Fusionsreaktor zur Serienreife zu bringen!“
+Das klappt nicht in 16 Jahren die ersten Fusionsreaktoren zur Serienreife zu bringen.
+Woher wissen SIE das so genau?
+Inzwischen haben die Koreaner ihre Pläne in die 40er Jahre verschoben. Gezwungenermaßen, weil die ITER Bürokraten alles um mindestens 5 Jahre verschleppt haben.
+Siehe dazu ARTE „Let there be light“ am 11.3.18, kürzlich wiederholt.
+Arbeiten sie am IPP, wissen sie überhaupt, was das ist.
+Der Wechsel im Managment wird auf Let there be ab 44’45“ beschrieben, auch Günter kommt in ihrem Vortrag auf das Management Thema zu sprechen.
+Wenn ITER dann um 5 Jahre verschleppt wird, dann warten sie halt so lange.
+Nicht jeder muß das Rad immer wieder neu erfinden.
+Nebenbei, wo haben Sie diesen alten Kommentar gefunden, wäre echt neugierig.
+„In Südkorea ist beabsichtigt bis 2036 einen 1000 MW Fusionsreaktor zur Serienreife zu bringen!“
+Und nun kommt Paul Höß mit
+„Nebenbei, wo haben Sie diesen alten Kommentar gefunden, wäre echt neugierig.“
+10 Sekunden Google und ich habe das gefunden, zumindest das sollt man können wen man 5000kW aus einen Kühlschrank großen Teil bekommt und behauptet
+„Ich weiß, wovon ich spreche.“
+Okay „Sind sie im Hauptberuf Komiker?“
+Herr Paul Höß sie haben das mit
+„2036 einen 1000 MW Fusionsreaktor zur Serienreife zu bringen!“
+in der 10.KW 2014 geschrieben,
+erinnern Sie sich ?
