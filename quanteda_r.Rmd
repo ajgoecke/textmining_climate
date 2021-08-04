@@ -103,29 +103,47 @@ ffh_texts <- readtext("text_files/contra/ffh_texts/*")
 # activists
 fff_de_corpus <- corpus(fff_de_texts)
 docvars(fff_de_corpus, "origin") <- "fff_de"
+docvars(fff_de_corpus, "origin") <- textcat(fff_de_corpus)
 
 ikem_corpus <- corpus(ikem_texts)
 docvars(ikem_corpus, "origin") <- "ikem"
+docvars(ikem_corpus, "language") <- textcat(ikem_corpus)
 
 klimarep_corpus <- corpus(klimarep_texts)
 docvars(klimarep_corpus, "origin") <- "kr"
+docvars(klimarep_corpus, "language") <- textcat(klimarep_corpus)
 
 klimafakten_corpus <- corpus(klimafakten_texts)
 docvars(klimafakten_corpus, "origin") <- "kf"
+docvars(klimafakten_corpus, "language") <- textcat(klimafakten_corpus)
 
 zero_corpus <- corpus(zero_texts)
 docvars(zero_corpus, "origin") <- "zero"
+docvars(zero_corpus, "language") <- textcat(zero_corpus)
 
 komma_corpus <- corpus(komma_texts)
 docvars(komma_corpus, "origin") <- "gk"
+docvars(komma_corpus, "language") <- textcat(komma_corpus)
 
 # sceptics
 eike_corpus <- corpus(eike_texts)
 docvars(eike_corpus, "origin") <- "eike"
+docvars(eike_corpus, "language") <- textcat(eike_corpus)
 
 ffh_corpus <- corpus(ffh_texts)
 docvars(ffh_corpus, "origin") <- "ffh"
+docvars(ffh_corpus, "language") <- textcat(ffh_corpus)
 
+```
+
+```{r}
+summary(ikem_corpus, n=10)
+```
+
+
+```{r}
+#try to filter out all german items per corpus for later use
+ikem_corpus$language
 ```
 
 ```{r}
@@ -141,9 +159,6 @@ docvars(contra_corpus, "group") <- "sceptics"
 ```{r}
 summary(pro_corpus, 10)
 ```
-```{r}
-summary(contra_corpus, 10)
-```
 
 ```{r}
 # get random sample corpus for activists
@@ -151,49 +166,69 @@ pro2000 <- corpus_sample(pro_corpus, size=2000)
 
 # get random sample corpus for sceptics
 contra2000 <- corpus_sample(contra_corpus, size=2000)
-```
-```{r}
-#summary(pro2000, 10)
-summary(contra2000,10)
-```
 
-```{r}
+# get "full" corpus with pro and contra sample 
 full_corpus <- pro2000+contra2000
 ```
 
 ```{r}
-summary(full_corpus,5)
-```
-```{r}
 # save corpus as .rds file for later use
-saveRDS(full_corpus, "full_corpus.rds")
-saveRDS(pro_corpus, "pro_corpus.rds")
-saveRDS(contra_corpus, "contra_corpus.rds")
-saveRDS(pro2000, "pro2000.rds")
-saveRDS(contra2000, "contra2000")
+saveRDS(full_corpus, "corpora/full_corpus.rds")
+saveRDS(pro_corpus, "corpora/pro_corpus.rds")
+saveRDS(contra_corpus, "corpora/contra_corpus.rds")
+saveRDS(pro2000, "corpora/pro2000.rds")
+saveRDS(contra2000, "corpora/contra2000.rds")
 
 # activists
-saveRDS(fff_de_corpus, "fff_de_corpus.rds")
-saveRDS(ikem_corpus, "ikem_corpus.rds")
-saveRDS(klimarep_corpus, "klimarep_corpus.rds")
-saveRDS(klimafakten_corpus, "klimafakten_corpus.rds")
-saveRDS(zero_corpus, "zero_corpus.rds")
-saveRDS(komma_corpus, "komma_corpus.rds")
+saveRDS(fff_de_corpus, "corpora/fff_de_corpus.rds")
+saveRDS(ikem_corpus, "corpora/ikem_corpus.rds")
+saveRDS(klimarep_corpus, "corpora/klimarep_corpus.rds")
+saveRDS(klimafakten_corpus, "corpora/klimafakten_corpus.rds")
+saveRDS(zero_corpus, "corpora/zero_corpus.rds")
+saveRDS(komma_corpus, "corpora/komma_corpus.rds")
 
-# deniers
-saveRDS(eike_corpus, "eike_corpus.rds")
-saveRDS(ffh_corpus, "ffh_corpus.rds")
+# skeptics
+saveRDS(eike_corpus, "corpora/eike_corpus.rds")
+saveRDS(ffh_corpus, "corpora/ffh_corpus.rds")
 ```
 
-
+## Start here to load existing corpora: 
 
 ```{r}
-# To load files 
-y = readRDS("full_corpus1.rds")
+# load corpus files 
+full_corpus = readRDS("corpora/full_corpus.rds")
+pro_corpus = readRDS("corpora/pro_corpus.rds")
+contra_corpus = readRDS("corpora/contra_corpus.rds")
+pro2000 = readRDS("corpora/pro2000.rds")
+contra2000 = readRDS("corpora/contra2000.rds")
+
+fff_de_corpus = readRDS("corpora/fff_de_corpus.rds")
+ikem_corpus = readRDS("corpora/ikem_corpus.rds")
+klimarep_corpus = readRDS("corpora/klimarep_corpus.rds")
+klimafakten_corpus = readRDS("corpora/klimafakten_corpus.rds")
+zero_corpus = readRDS("corpora/zero_corpus.rds")
+komma_corpus = readRDS("corpora/komma_corpus.rds")
+eike_corpus = readRDS("corpora/eike_corpus.rds")
+ffh_corpus = readRDS("corpora/ffh_corpus.rds")
+```
+
+## Corpus Cleaning
+Todo: 
+- extract english texts and delete from corpus (should probably be done in a step at the very beginning)
+- idea: do this via trafilatura beforehand!
+```{r}
+head(klimarep_corpus)
 ```
 ```{r}
-summary(y, n=5)
+ikem_texts
 ```
+
+```{r}
+dfm <- dfm(ikem_corpus, remove=de_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
+
+```
+
+
 
 To extract texts from a corpus, we simply coerce this to a plain character type, using as.character().
 
@@ -608,7 +643,6 @@ ggplots(freqs) +
   coord_flip()
 
 ```
-
 
 
 
