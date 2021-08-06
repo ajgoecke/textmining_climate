@@ -1,0 +1,115 @@
+---
+title: "Empirical Work - Climate Change Discourse Corpora"
+output: html_notebook
+---
+
+## Loading Libraries
+```{r}
+# load libraries
+
+library(quanteda)
+library(readtext)
+library(wordcloud)
+library(RColorBrewer)
+library(wordcloud2)
+library(tidyverse)
+library(tm)
+library("textcat")
+library("quanteda.textplots")
+library("quanteda.textstats")
+```
+
+## Start here to load existing corpora: 
+
+```{r}
+# load corpus files 
+full_corpus = readRDS("corpora/full_corpus.rds")
+full_corpus_sents = readRDS("corpora/full_corpus_sents.rds")
+
+pro_corpus = readRDS("corpora/pro_corpus.rds")
+contra_corpus = readRDS("corpora/contra_corpus.rds")
+
+pro2000 = readRDS("corpora/pro2000.rds")
+pro900 = readRDS("corpora/pro900.rds")
+contra2000 = readRDS("corpora/contra2000.rds")
+contra900 = readRDS("corpora/contra900.rds")
+
+fff_de_corpus = readRDS("corpora/fff_de_corpus.rds")
+ikem_corpus = readRDS("corpora/ikem_corpus.rds")
+klimarep_corpus = readRDS("corpora/klimarep_corpus.rds")
+klimafakten_corpus = readRDS("corpora/klimafakten_corpus.rds")
+zero_corpus = readRDS("corpora/zero_corpus.rds")
+komma_corpus = readRDS("corpora/komma_corpus.rds")
+eike_corpus = readRDS("corpora/eike_corpus.rds")
+ffh_corpus = readRDS("corpora/ffh_corpus.rds")
+```
+
+# Exploring the corpus
+## Corpus statistics
+```{r}
+# to get index number 
+#id_pro = 1:ndoc(pro900)
+```
+
+# Plotting Number of Sentences
+```{r}
+pro2000_sum <- summary(pro2000, ndoc(pro2000))
+contra2000_sum <- summary(contra2000)
+
+#to get id as x axis
+#id_pro[1:100]
+#contra900_sum$id
+
+ggplot(pro2000, aes(id_pro[1:2000], Sentences, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Sentences Pro2000")
+
+ggplot(contra2000_sum, aes(id_pro[1:100], Sentences, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Sentences Contra2000")
+
+```
+```{r}
+ggplot(pro900_sum, aes(pro900_sum$id, Tokens, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Tokens Pro900")
+
+ggplot(contra900_sum, aes(contra900_sum$id, Tokens, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Tokens Contra900")
+
+```
+```{r}
+ggplot(pro900_sum, aes(pro900_sum$id, Types, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Types Pro900")
+
+ggplot(contra900_sum, aes(contra900_sum$id, Types, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle("Types Contra900")
+
+```
+```{r}
+ggplot(pro900_sum, aes(Tokens, Types, group=1, label= id)) +
+  geom_smooth(method = "lm", formula ="y ~ x", se = FALSE) +
+  geom_text(check_overlap = T) +
+  ggtitle("Type-Token-Relation Pro900")
+
+ggplot(contra900_sum, aes(Tokens, Types, group=1, label= id)) +
+  geom_smooth(method = "lm", formula ="y ~ x", se = FALSE) +
+  geom_text(check_overlap = T) +
+  ggtitle("Type-Token-Relation Contra900")
+```
+

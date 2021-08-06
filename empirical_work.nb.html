@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Empirical Work - Climate Change Discourse Corpora</title>
+
+
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+#rmd-source-code {
+  display: none;
+}
+</style>
+
+
+
+
+
+<style type="text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+<style type="text/css">
+.kable-table {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: auto;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-bottom: 20px;
+  max-height: 350px;
+}
+
+.kable-table table {
+  margin-bottom: 0px;
+}
+
+.kable-table table>thead>tr>th {
+  border: none;
+  border-bottom: 2px solid #dddddd;
+}
+
+.kable-table table>thead {
+  background-color: #fff;
+}
+</style>
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div id="header">
+
+<div class="btn-group pull-right float-right">
+<button type="button" class="btn btn-default btn-xs btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu dropdown-menu-right" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+<li role="separator" class="divider"></li>
+<li><a id="rmd-download-source" href="#">Download Rmd</a></li>
+</ul>
+</div>
+
+
+
+<h1 class="title toc-ignore">Empirical Work - Climate Change Discourse Corpora</h1>
+
+</div>
+
+
+<!-- rnb-text-begin -->
+<div id="loading-libraries" class="section level2">
+<h2>Loading Libraries</h2>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyBsb2FkIGxpYnJhcmllc1xuXG5saWJyYXJ5KHF1YW50ZWRhKVxubGlicmFyeShyZWFkdGV4dClcbmxpYnJhcnkod29yZGNsb3VkKVxubGlicmFyeShSQ29sb3JCcmV3ZXIpXG5saWJyYXJ5KHdvcmRjbG91ZDIpXG5saWJyYXJ5KHRpZHl2ZXJzZSlcbmxpYnJhcnkodG0pXG5saWJyYXJ5KFwidGV4dGNhdFwiKVxubGlicmFyeShcInF1YW50ZWRhLnRleHRwbG90c1wiKVxubGlicmFyeShcInF1YW50ZWRhLnRleHRzdGF0c1wiKVxuYGBgIn0= -->
+<pre class="r"><code># load libraries
+
+library(quanteda)
+library(readtext)
+library(wordcloud)
+library(RColorBrewer)
+library(wordcloud2)
+library(tidyverse)
+library(tm)
+library(&quot;textcat&quot;)
+library(&quot;quanteda.textplots&quot;)
+library(&quot;quanteda.textstats&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+</div>
+<div id="start-here-to-load-existing-corpora" class="section level2">
+<h2>Start here to load existing corpora:</h2>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyBsb2FkIGNvcnB1cyBmaWxlcyBcbmZ1bGxfY29ycHVzID0gcmVhZFJEUyhcImNvcnBvcmEvZnVsbF9jb3JwdXMucmRzXCIpXG5mdWxsX2NvcnB1c19zZW50cyA9IHJlYWRSRFMoXCJjb3Jwb3JhL2Z1bGxfY29ycHVzX3NlbnRzLnJkc1wiKVxuXG5wcm9fY29ycHVzID0gcmVhZFJEUyhcImNvcnBvcmEvcHJvX2NvcnB1cy5yZHNcIilcbmNvbnRyYV9jb3JwdXMgPSByZWFkUkRTKFwiY29ycG9yYS9jb250cmFfY29ycHVzLnJkc1wiKVxuXG5wcm8yMDAwID0gcmVhZFJEUyhcImNvcnBvcmEvcHJvMjAwMC5yZHNcIilcbnBybzkwMCA9IHJlYWRSRFMoXCJjb3Jwb3JhL3BybzkwMC5yZHNcIilcbmNvbnRyYTIwMDAgPSByZWFkUkRTKFwiY29ycG9yYS9jb250cmEyMDAwLnJkc1wiKVxuY29udHJhOTAwID0gcmVhZFJEUyhcImNvcnBvcmEvY29udHJhOTAwLnJkc1wiKVxuXG5mZmZfZGVfY29ycHVzID0gcmVhZFJEUyhcImNvcnBvcmEvZmZmX2RlX2NvcnB1cy5yZHNcIilcbmlrZW1fY29ycHVzID0gcmVhZFJEUyhcImNvcnBvcmEvaWtlbV9jb3JwdXMucmRzXCIpXG5rbGltYXJlcF9jb3JwdXMgPSByZWFkUkRTKFwiY29ycG9yYS9rbGltYXJlcF9jb3JwdXMucmRzXCIpXG5rbGltYWZha3Rlbl9jb3JwdXMgPSByZWFkUkRTKFwiY29ycG9yYS9rbGltYWZha3Rlbl9jb3JwdXMucmRzXCIpXG56ZXJvX2NvcnB1cyA9IHJlYWRSRFMoXCJjb3Jwb3JhL3plcm9fY29ycHVzLnJkc1wiKVxua29tbWFfY29ycHVzID0gcmVhZFJEUyhcImNvcnBvcmEva29tbWFfY29ycHVzLnJkc1wiKVxuZWlrZV9jb3JwdXMgPSByZWFkUkRTKFwiY29ycG9yYS9laWtlX2NvcnB1cy5yZHNcIilcbmZmaF9jb3JwdXMgPSByZWFkUkRTKFwiY29ycG9yYS9mZmhfY29ycHVzLnJkc1wiKVxuYGBgIn0= -->
+<pre class="r"><code># load corpus files 
+full_corpus = readRDS(&quot;corpora/full_corpus.rds&quot;)
+full_corpus_sents = readRDS(&quot;corpora/full_corpus_sents.rds&quot;)
+
+pro_corpus = readRDS(&quot;corpora/pro_corpus.rds&quot;)
+contra_corpus = readRDS(&quot;corpora/contra_corpus.rds&quot;)
+
+pro2000 = readRDS(&quot;corpora/pro2000.rds&quot;)
+pro900 = readRDS(&quot;corpora/pro900.rds&quot;)
+contra2000 = readRDS(&quot;corpora/contra2000.rds&quot;)
+contra900 = readRDS(&quot;corpora/contra900.rds&quot;)
+
+fff_de_corpus = readRDS(&quot;corpora/fff_de_corpus.rds&quot;)
+ikem_corpus = readRDS(&quot;corpora/ikem_corpus.rds&quot;)
+klimarep_corpus = readRDS(&quot;corpora/klimarep_corpus.rds&quot;)
+klimafakten_corpus = readRDS(&quot;corpora/klimafakten_corpus.rds&quot;)
+zero_corpus = readRDS(&quot;corpora/zero_corpus.rds&quot;)
+komma_corpus = readRDS(&quot;corpora/komma_corpus.rds&quot;)
+eike_corpus = readRDS(&quot;corpora/eike_corpus.rds&quot;)
+ffh_corpus = readRDS(&quot;corpora/ffh_corpus.rds&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+</div>
+<div id="exploring-the-corpus" class="section level1">
+<h1>Exploring the corpus</h1>
+<div id="corpus-statistics" class="section level2">
+<h2>Corpus statistics</h2>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyB0byBnZXQgaW5kZXggbnVtYmVyIFxuI2lkX3BybyA9IDE6bmRvYyhwcm85MDApXG5gYGAifQ== -->
+<pre class="r"><code># to get index number 
+#id_pro = 1:ndoc(pro900)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+</div>
+</div>
+<div id="plotting-number-of-sentences" class="section level1">
+<h1>Plotting Number of Sentences</h1>
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxucHJvMjAwMF9zdW0gPC0gc3VtbWFyeShwcm8yMDAwLCBuZG9jKHBybzIwMDApKVxuY29udHJhMjAwMF9zdW0gPC0gc3VtbWFyeShjb250cmEyMDAwKVxuXG4jdG8gZ2V0IGlkIGFzIHggYXhpc1xuI2lkX3Byb1sxOjEwMF1cbiNjb250cmE5MDBfc3VtJGlkXG5cbmdncGxvdChwcm8yMDAwLCBhZXMoaWRfcHJvWzE6MjAwMF0sIFNlbnRlbmNlcywgZ3JvdXA9MSkpICtcbiAgZ2VvbV9saW5lKCkgKyBcbiAgZ2VvbV9wb2ludCgpICtcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoYW5nbGU9MCwgdmp1c3Q9MSwgaGp1c3Q9MSkpICsgXG4gIGdndGl0bGUoXCJTZW50ZW5jZXMgUHJvMjAwMFwiKVxuXG5nZ3Bsb3QoY29udHJhMjAwMF9zdW0sIGFlcyhpZF9wcm9bMToxMDBdLCBTZW50ZW5jZXMsIGdyb3VwPTEpKSArXG4gIGdlb21fbGluZSgpICsgXG4gIGdlb21fcG9pbnQoKSArXG4gIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlPTAsIHZqdXN0PTEsIGhqdXN0PTEpKSArIFxuICBnZ3RpdGxlKFwiU2VudGVuY2VzIENvbnRyYTIwMDBcIilcblxuYGBgIn0= -->
+<pre class="r"><code>pro2000_sum &lt;- summary(pro2000, ndoc(pro2000))
+contra2000_sum &lt;- summary(contra2000)
+
+#to get id as x axis
+#id_pro[1:100]
+#contra900_sum$id
+
+ggplot(pro2000, aes(id_pro[1:2000], Sentences, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle(&quot;Sentences Pro2000&quot;)
+
+ggplot(contra2000_sum, aes(id_pro[1:100], Sentences, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle(&quot;Sentences Contra2000&quot;)
+</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KHBybzkwMF9zdW0sIGFlcyhwcm85MDBfc3VtJGlkLCBUb2tlbnMsIGdyb3VwPTEpKSArXG4gIGdlb21fbGluZSgpICsgXG4gIGdlb21fcG9pbnQoKSArXG4gIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlPTAsIHZqdXN0PTEsIGhqdXN0PTEpKSArIFxuICBnZ3RpdGxlKFwiVG9rZW5zIFBybzkwMFwiKVxuXG5nZ3Bsb3QoY29udHJhOTAwX3N1bSwgYWVzKGNvbnRyYTkwMF9zdW0kaWQsIFRva2VucywgZ3JvdXA9MSkpICtcbiAgZ2VvbV9saW5lKCkgKyBcbiAgZ2VvbV9wb2ludCgpICtcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoYW5nbGU9MCwgdmp1c3Q9MSwgaGp1c3Q9MSkpICsgXG4gIGdndGl0bGUoXCJUb2tlbnMgQ29udHJhOTAwXCIpXG5cbmBgYCJ9 -->
+<pre class="r"><code>ggplot(pro900_sum, aes(pro900_sum$id, Tokens, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle(&quot;Tokens Pro900&quot;)
+
+ggplot(contra900_sum, aes(contra900_sum$id, Tokens, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle(&quot;Tokens Contra900&quot;)
+</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KHBybzkwMF9zdW0sIGFlcyhwcm85MDBfc3VtJGlkLCBUeXBlcywgZ3JvdXA9MSkpICtcbiAgZ2VvbV9saW5lKCkgKyBcbiAgZ2VvbV9wb2ludCgpICtcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoYW5nbGU9MCwgdmp1c3Q9MSwgaGp1c3Q9MSkpICsgXG4gIGdndGl0bGUoXCJUeXBlcyBQcm85MDBcIilcblxuZ2dwbG90KGNvbnRyYTkwMF9zdW0sIGFlcyhjb250cmE5MDBfc3VtJGlkLCBUeXBlcywgZ3JvdXA9MSkpICtcbiAgZ2VvbV9saW5lKCkgKyBcbiAgZ2VvbV9wb2ludCgpICtcbiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoYW5nbGU9MCwgdmp1c3Q9MSwgaGp1c3Q9MSkpICsgXG4gIGdndGl0bGUoXCJUeXBlcyBDb250cmE5MDBcIilcblxuYGBgIn0= -->
+<pre class="r"><code>ggplot(pro900_sum, aes(pro900_sum$id, Types, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle(&quot;Types Pro900&quot;)
+
+ggplot(contra900_sum, aes(contra900_sum$id, Types, group=1)) +
+  geom_line() + 
+  geom_point() +
+  theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
+  ggtitle(&quot;Types Contra900&quot;)
+</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KHBybzkwMF9zdW0sIGFlcyhUb2tlbnMsIFR5cGVzLCBncm91cD0xLCBsYWJlbD0gaWQpKSArXG4gIGdlb21fc21vb3RoKG1ldGhvZCA9IFwibG1cIiwgZm9ybXVsYSA9XCJ5IH4geFwiLCBzZSA9IEZBTFNFKSArXG4gIGdlb21fdGV4dChjaGVja19vdmVybGFwID0gVCkgK1xuICBnZ3RpdGxlKFwiVHlwZS1Ub2tlbi1SZWxhdGlvbiBQcm85MDBcIilcblxuZ2dwbG90KGNvbnRyYTkwMF9zdW0sIGFlcyhUb2tlbnMsIFR5cGVzLCBncm91cD0xLCBsYWJlbD0gaWQpKSArXG4gIGdlb21fc21vb3RoKG1ldGhvZCA9IFwibG1cIiwgZm9ybXVsYSA9XCJ5IH4geFwiLCBzZSA9IEZBTFNFKSArXG4gIGdlb21fdGV4dChjaGVja19vdmVybGFwID0gVCkgK1xuICBnZ3RpdGxlKFwiVHlwZS1Ub2tlbi1SZWxhdGlvbiBDb250cmE5MDBcIilcbmBgYCJ9 -->
+<pre class="r"><code>ggplot(pro900_sum, aes(Tokens, Types, group=1, label= id)) +
+  geom_smooth(method = &quot;lm&quot;, formula =&quot;y ~ x&quot;, se = FALSE) +
+  geom_text(check_overlap = T) +
+  ggtitle(&quot;Type-Token-Relation Pro900&quot;)
+
+ggplot(contra900_sum, aes(Tokens, Types, group=1, label= id)) +
+  geom_smooth(method = &quot;lm&quot;, formula =&quot;y ~ x&quot;, se = FALSE) +
+  geom_text(check_overlap = T) +
+  ggtitle(&quot;Type-Token-Relation Contra900&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+</div>
+
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiRW1waXJpY2FsIFdvcmsgLSBDbGltYXRlIENoYW5nZSBEaXNjb3Vyc2UgQ29ycG9yYSIKb3V0cHV0OiBodG1sX25vdGVib29rCi0tLQoKIyMgTG9hZGluZyBMaWJyYXJpZXMKYGBge3J9CiMgbG9hZCBsaWJyYXJpZXMKCmxpYnJhcnkocXVhbnRlZGEpCmxpYnJhcnkocmVhZHRleHQpCmxpYnJhcnkod29yZGNsb3VkKQpsaWJyYXJ5KFJDb2xvckJyZXdlcikKbGlicmFyeSh3b3JkY2xvdWQyKQpsaWJyYXJ5KHRpZHl2ZXJzZSkKbGlicmFyeSh0bSkKbGlicmFyeSgidGV4dGNhdCIpCmxpYnJhcnkoInF1YW50ZWRhLnRleHRwbG90cyIpCmxpYnJhcnkoInF1YW50ZWRhLnRleHRzdGF0cyIpCmBgYAoKIyMgU3RhcnQgaGVyZSB0byBsb2FkIGV4aXN0aW5nIGNvcnBvcmE6IAoKYGBge3J9CiMgbG9hZCBjb3JwdXMgZmlsZXMgCmZ1bGxfY29ycHVzID0gcmVhZFJEUygiY29ycG9yYS9mdWxsX2NvcnB1cy5yZHMiKQpmdWxsX2NvcnB1c19zZW50cyA9IHJlYWRSRFMoImNvcnBvcmEvZnVsbF9jb3JwdXNfc2VudHMucmRzIikKCnByb19jb3JwdXMgPSByZWFkUkRTKCJjb3Jwb3JhL3Byb19jb3JwdXMucmRzIikKY29udHJhX2NvcnB1cyA9IHJlYWRSRFMoImNvcnBvcmEvY29udHJhX2NvcnB1cy5yZHMiKQoKcHJvMjAwMCA9IHJlYWRSRFMoImNvcnBvcmEvcHJvMjAwMC5yZHMiKQpwcm85MDAgPSByZWFkUkRTKCJjb3Jwb3JhL3BybzkwMC5yZHMiKQpjb250cmEyMDAwID0gcmVhZFJEUygiY29ycG9yYS9jb250cmEyMDAwLnJkcyIpCmNvbnRyYTkwMCA9IHJlYWRSRFMoImNvcnBvcmEvY29udHJhOTAwLnJkcyIpCgpmZmZfZGVfY29ycHVzID0gcmVhZFJEUygiY29ycG9yYS9mZmZfZGVfY29ycHVzLnJkcyIpCmlrZW1fY29ycHVzID0gcmVhZFJEUygiY29ycG9yYS9pa2VtX2NvcnB1cy5yZHMiKQprbGltYXJlcF9jb3JwdXMgPSByZWFkUkRTKCJjb3Jwb3JhL2tsaW1hcmVwX2NvcnB1cy5yZHMiKQprbGltYWZha3Rlbl9jb3JwdXMgPSByZWFkUkRTKCJjb3Jwb3JhL2tsaW1hZmFrdGVuX2NvcnB1cy5yZHMiKQp6ZXJvX2NvcnB1cyA9IHJlYWRSRFMoImNvcnBvcmEvemVyb19jb3JwdXMucmRzIikKa29tbWFfY29ycHVzID0gcmVhZFJEUygiY29ycG9yYS9rb21tYV9jb3JwdXMucmRzIikKZWlrZV9jb3JwdXMgPSByZWFkUkRTKCJjb3Jwb3JhL2Vpa2VfY29ycHVzLnJkcyIpCmZmaF9jb3JwdXMgPSByZWFkUkRTKCJjb3Jwb3JhL2ZmaF9jb3JwdXMucmRzIikKYGBgCgojIEV4cGxvcmluZyB0aGUgY29ycHVzCiMjIENvcnB1cyBzdGF0aXN0aWNzCmBgYHtyfQojIHRvIGdldCBpbmRleCBudW1iZXIgCiNpZF9wcm8gPSAxOm5kb2MocHJvOTAwKQpgYGAKCiMgUGxvdHRpbmcgTnVtYmVyIG9mIFNlbnRlbmNlcwpgYGB7cn0KcHJvMjAwMF9zdW0gPC0gc3VtbWFyeShwcm8yMDAwLCBuZG9jKHBybzIwMDApKQpjb250cmEyMDAwX3N1bSA8LSBzdW1tYXJ5KGNvbnRyYTIwMDApCgojdG8gZ2V0IGlkIGFzIHggYXhpcwojaWRfcHJvWzE6MTAwXQojY29udHJhOTAwX3N1bSRpZAoKZ2dwbG90KHBybzIwMDAsIGFlcyhpZF9wcm9bMToyMDAwXSwgU2VudGVuY2VzLCBncm91cD0xKSkgKwogIGdlb21fbGluZSgpICsgCiAgZ2VvbV9wb2ludCgpICsKICB0aGVtZShheGlzLnRleHQueCA9IGVsZW1lbnRfdGV4dChhbmdsZT0wLCB2anVzdD0xLCBoanVzdD0xKSkgKyAKICBnZ3RpdGxlKCJTZW50ZW5jZXMgUHJvMjAwMCIpCgpnZ3Bsb3QoY29udHJhMjAwMF9zdW0sIGFlcyhpZF9wcm9bMToxMDBdLCBTZW50ZW5jZXMsIGdyb3VwPTEpKSArCiAgZ2VvbV9saW5lKCkgKyAKICBnZW9tX3BvaW50KCkgKwogIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlPTAsIHZqdXN0PTEsIGhqdXN0PTEpKSArIAogIGdndGl0bGUoIlNlbnRlbmNlcyBDb250cmEyMDAwIikKCmBgYApgYGB7cn0KZ2dwbG90KHBybzkwMF9zdW0sIGFlcyhwcm85MDBfc3VtJGlkLCBUb2tlbnMsIGdyb3VwPTEpKSArCiAgZ2VvbV9saW5lKCkgKyAKICBnZW9tX3BvaW50KCkgKwogIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlPTAsIHZqdXN0PTEsIGhqdXN0PTEpKSArIAogIGdndGl0bGUoIlRva2VucyBQcm85MDAiKQoKZ2dwbG90KGNvbnRyYTkwMF9zdW0sIGFlcyhjb250cmE5MDBfc3VtJGlkLCBUb2tlbnMsIGdyb3VwPTEpKSArCiAgZ2VvbV9saW5lKCkgKyAKICBnZW9tX3BvaW50KCkgKwogIHRoZW1lKGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlPTAsIHZqdXN0PTEsIGhqdXN0PTEpKSArIAogIGdndGl0bGUoIlRva2VucyBDb250cmE5MDAiKQoKYGBgCmBgYHtyfQpnZ3Bsb3QocHJvOTAwX3N1bSwgYWVzKHBybzkwMF9zdW0kaWQsIFR5cGVzLCBncm91cD0xKSkgKwogIGdlb21fbGluZSgpICsgCiAgZ2VvbV9wb2ludCgpICsKICB0aGVtZShheGlzLnRleHQueCA9IGVsZW1lbnRfdGV4dChhbmdsZT0wLCB2anVzdD0xLCBoanVzdD0xKSkgKyAKICBnZ3RpdGxlKCJUeXBlcyBQcm85MDAiKQoKZ2dwbG90KGNvbnRyYTkwMF9zdW0sIGFlcyhjb250cmE5MDBfc3VtJGlkLCBUeXBlcywgZ3JvdXA9MSkpICsKICBnZW9tX2xpbmUoKSArIAogIGdlb21fcG9pbnQoKSArCiAgdGhlbWUoYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoYW5nbGU9MCwgdmp1c3Q9MSwgaGp1c3Q9MSkpICsgCiAgZ2d0aXRsZSgiVHlwZXMgQ29udHJhOTAwIikKCmBgYApgYGB7cn0KZ2dwbG90KHBybzkwMF9zdW0sIGFlcyhUb2tlbnMsIFR5cGVzLCBncm91cD0xLCBsYWJlbD0gaWQpKSArCiAgZ2VvbV9zbW9vdGgobWV0aG9kID0gImxtIiwgZm9ybXVsYSA9InkgfiB4Iiwgc2UgPSBGQUxTRSkgKwogIGdlb21fdGV4dChjaGVja19vdmVybGFwID0gVCkgKwogIGdndGl0bGUoIlR5cGUtVG9rZW4tUmVsYXRpb24gUHJvOTAwIikKCmdncGxvdChjb250cmE5MDBfc3VtLCBhZXMoVG9rZW5zLCBUeXBlcywgZ3JvdXA9MSwgbGFiZWw9IGlkKSkgKwogIGdlb21fc21vb3RoKG1ldGhvZCA9ICJsbSIsIGZvcm11bGEgPSJ5IH4geCIsIHNlID0gRkFMU0UpICsKICBnZW9tX3RleHQoY2hlY2tfb3ZlcmxhcCA9IFQpICsKICBnZ3RpdGxlKCJUeXBlLVRva2VuLVJlbGF0aW9uIENvbnRyYTkwMCIpCmBgYAoK</div>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+$(document).ready(function () {
+  $('.knitsql-table').addClass('kable-table');
+  var container = $('.kable-table');
+  container.each(function() {
+
+    // move the caption out of the table
+    var table = $(this).children('table');
+    var caption = table.children('caption').detach();
+    caption.insertBefore($(this)).css('display', 'inherit');
+  });
+});
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeSourceEmbed("empirical_work.Rmd");
+  window.initializeCodeFolding("show" === "show");
+});
+</script>
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

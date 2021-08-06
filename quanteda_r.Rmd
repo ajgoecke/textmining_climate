@@ -58,6 +58,7 @@ library(RColorBrewer)
 library(wordcloud2)
 library(tidyverse)
 library(tm)
+library("textcat")
 library("quanteda.textplots")
 library("quanteda.textstats")
 ```
@@ -103,36 +104,50 @@ ffh_texts <- readtext("text_files/contra/ffh_texts/*")
 # activists
 fff_de_corpus <- corpus(fff_de_texts)
 docvars(fff_de_corpus, "origin") <- "fff_de"
-docvars(fff_de_corpus, "origin") <- textcat(fff_de_corpus)
+docvars(fff_de_corpus, "language") <- textcat(fff_de_corpus)
+fff_de_corpus <- corpus_subset(fff_de_corpus, language == "german", drop_docid = TRUE)
 
 ikem_corpus <- corpus(ikem_texts)
 docvars(ikem_corpus, "origin") <- "ikem"
 docvars(ikem_corpus, "language") <- textcat(ikem_corpus)
+ikem_corpus <- corpus_subset(ikem_corpus, language == "german", drop_docid = TRUE)
+
 
 klimarep_corpus <- corpus(klimarep_texts)
 docvars(klimarep_corpus, "origin") <- "kr"
 docvars(klimarep_corpus, "language") <- textcat(klimarep_corpus)
+klimarep_corpus <- corpus_subset(klimarep_corpus, language == "german", drop_docid = TRUE)
+
 
 klimafakten_corpus <- corpus(klimafakten_texts)
 docvars(klimafakten_corpus, "origin") <- "kf"
 docvars(klimafakten_corpus, "language") <- textcat(klimafakten_corpus)
+klimafakten_corpus <- corpus_subset(klimafakten_corpus, language == "german", drop_docid = TRUE)
+
 
 zero_corpus <- corpus(zero_texts)
 docvars(zero_corpus, "origin") <- "zero"
 docvars(zero_corpus, "language") <- textcat(zero_corpus)
+zero_corpus <- corpus_subset(zero_corpus, language == "german", drop_docid = TRUE)
+
 
 komma_corpus <- corpus(komma_texts)
 docvars(komma_corpus, "origin") <- "gk"
 docvars(komma_corpus, "language") <- textcat(komma_corpus)
+komma_corpus <- corpus_subset(komma_corpus, language == "german", drop_docid = TRUE)
+
 
 # sceptics
 eike_corpus <- corpus(eike_texts)
 docvars(eike_corpus, "origin") <- "eike"
 docvars(eike_corpus, "language") <- textcat(eike_corpus)
+eike_corpus <- corpus_subset(eike_corpus, language == "german", drop_docid = TRUE)
+
 
 ffh_corpus <- corpus(ffh_texts)
 docvars(ffh_corpus, "origin") <- "ffh"
 docvars(ffh_corpus, "language") <- textcat(ffh_corpus)
+ffh_corpus <- corpus_subset(ffh_corpus, language == "german", drop_docid = TRUE)
 
 ```
 
@@ -140,44 +155,73 @@ docvars(ffh_corpus, "language") <- textcat(ffh_corpus)
 summary(ikem_corpus, n=10)
 ```
 
-
-```{r}
-#try to filter out all german items per corpus for later use
-ikem_corpus$language
-```
-
 ```{r}
 # build a pro corpus for all pro texts with "pro" group
 pro_corpus <- fff_de_corpus+ikem_corpus+klimarep_corpus+klimafakten_corpus+zero_corpus+komma_corpus
 docvars(pro_corpus, "group") <- "activists"
+#docvars(pro_corpus, "id") <- paste(1:ndoc(pro_corpus))
 
 # sceptics corpus with "sceptics" group
 contra_corpus <- eike_corpus+ffh_corpus
 docvars(contra_corpus, "group") <- "sceptics"
+#docvars(contra_corpus, "id") <- paste(1:ndoc(contra_corpus))
+
 ```
 
+### Filter out "Long" Documents
 ```{r}
-summary(pro_corpus, 10)
+# idea: first calculate mean score for sentences of the corpora and compare?
+#sents = summary(contra2000, n=ndoc(contra2000))$Sentences
+#mean(sents)
+
+# get "Sentences" info from summary
+p_sents <- summary(pro_corpus, n=ndoc(pro_corpus))$Sentences
+# create subset from all entries with 10 or more sentences
+pro_sents <- corpus_subset(pro_corpus, p_sents >= 10, drop_docid=TRUE)
+
+# get "Sentences" info from summary
+c_sents <- summary(contra_corpus, n=ndoc(contra_corpus))$Sentences
+# create subset from all entries with 10 or more sentences
+contra_sents <- corpus_subset(contra_corpus, c_sents >= 10, drop_docid=TRUE)
 ```
 
 ```{r}
 # get random sample corpus for activists
-pro2000 <- corpus_sample(pro_corpus, size=2000)
+pro2000 <- corpus_sample(pro_corpus, size = 2000)
+
+# and for long docs
+pro900 <- corpus_sample(pro_sents, size = 900)
 
 # get random sample corpus for sceptics
-contra2000 <- corpus_sample(contra_corpus, size=2000)
+contra2000 <- corpus_sample(contra_corpus, size = 2000)
+
+# and for long docs
+contra900 <- corpus_sample(contra_sents, size = 900)
 
 # get "full" corpus with pro and contra sample 
 full_corpus <- pro2000+contra2000
+full_corpus_sents <- pro900+contra900
+
+# get id number for corpus
+docvars(pro2000, "id") <- paste(1:ndoc(pro2000))
+docvars(pro900, "id") <- paste(1:ndoc(pro900))
+docvars(contra2000, "id") <- paste(1:ndoc(contra2000))
+docvars(contra900, "id") <- paste(1:ndoc(contra900))
 ```
 
 ```{r}
 # save corpus as .rds file for later use
 saveRDS(full_corpus, "corpora/full_corpus.rds")
+saveRDS(full_corpus_sents, "corpora/full_corpus_sents.rds")
+
 saveRDS(pro_corpus, "corpora/pro_corpus.rds")
 saveRDS(contra_corpus, "corpora/contra_corpus.rds")
+
 saveRDS(pro2000, "corpora/pro2000.rds")
+saveRDS(pro900, "corpora/pro900.rds")
+
 saveRDS(contra2000, "corpora/contra2000.rds")
+saveRDS(contra900, "corpora/contra900.rds")
 
 # activists
 saveRDS(fff_de_corpus, "corpora/fff_de_corpus.rds")
@@ -192,15 +236,22 @@ saveRDS(eike_corpus, "corpora/eike_corpus.rds")
 saveRDS(ffh_corpus, "corpora/ffh_corpus.rds")
 ```
 
+# FROM HERE WE WORK IN ANOTHER NOTEBOOK FILE -> "EMPIRICAL WORK"
+
 ## Start here to load existing corpora: 
 
 ```{r}
 # load corpus files 
 full_corpus = readRDS("corpora/full_corpus.rds")
+full_corpus_sents = readRDS("corpora/full_corpus_sents.rds")
+
 pro_corpus = readRDS("corpora/pro_corpus.rds")
 contra_corpus = readRDS("corpora/contra_corpus.rds")
+
 pro2000 = readRDS("corpora/pro2000.rds")
+pro900 = readRDS("corpora/pro900.rds")
 contra2000 = readRDS("corpora/contra2000.rds")
+contra900 = readRDS("corpora/contra900.rds")
 
 fff_de_corpus = readRDS("corpora/fff_de_corpus.rds")
 ikem_corpus = readRDS("corpora/ikem_corpus.rds")
@@ -211,24 +262,6 @@ komma_corpus = readRDS("corpora/komma_corpus.rds")
 eike_corpus = readRDS("corpora/eike_corpus.rds")
 ffh_corpus = readRDS("corpora/ffh_corpus.rds")
 ```
-
-## Corpus Cleaning
-Todo: 
-- extract english texts and delete from corpus (should probably be done in a step at the very beginning)
-- idea: do this via trafilatura beforehand!
-```{r}
-head(klimarep_corpus)
-```
-```{r}
-ikem_texts
-```
-
-```{r}
-dfm <- dfm(ikem_corpus, remove=de_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
-
-```
-
-
 
 To extract texts from a corpus, we simply coerce this to a plain character type, using as.character().
 
@@ -643,6 +676,5 @@ ggplots(freqs) +
   coord_flip()
 
 ```
-
 
 
