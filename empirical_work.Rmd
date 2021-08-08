@@ -44,6 +44,8 @@ eike_corpus = readRDS("corpora/eike_corpus.rds")
 ffh_corpus = readRDS("corpora/ffh_corpus.rds")
 ```
 
+
+
 # Exploring the corpus
 ## Corpus statistics
 ```{r}
@@ -53,20 +55,20 @@ ffh_corpus = readRDS("corpora/ffh_corpus.rds")
 
 # Plotting Number of Sentences
 ```{r}
-pro2000_sum <- summary(pro2000, ndoc(pro2000))
-contra2000_sum <- summary(contra2000)
+pro2000_sum <- summary(pro2000, n=100)
+contra2000_sum <- summary(contra2000, n=100)
 
 #to get id as x axis
 #id_pro[1:100]
 #contra900_sum$id
 
-ggplot(pro2000, aes(id_pro[1:2000], Sentences, group=1)) +
+ggplot(pro2000_sum, aes(id, Sentences, group=1)) +
   geom_line() + 
   geom_point() +
   theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
   ggtitle("Sentences Pro2000")
 
-ggplot(contra2000_sum, aes(id_pro[1:100], Sentences, group=1)) +
+ggplot(contra2000_sum, aes(id, Sentences, group=1)) +
   geom_line() + 
   geom_point() +
   theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
@@ -74,6 +76,10 @@ ggplot(contra2000_sum, aes(id_pro[1:100], Sentences, group=1)) +
 
 ```
 ```{r}
+pro900_sum <- summary(pro900, n=100)
+contra900_sum <- summary(contra900, n=100)
+
+
 ggplot(pro900_sum, aes(pro900_sum$id, Tokens, group=1)) +
   geom_line() + 
   geom_point() +
@@ -111,5 +117,201 @@ ggplot(contra900_sum, aes(Tokens, Types, group=1, label= id)) +
   geom_smooth(method = "lm", formula ="y ~ x", se = FALSE) +
   geom_text(check_overlap = T) +
   ggtitle("Type-Token-Relation Contra900")
+```
+# Word Frequencies
+
+
+## 1. Step: Create DFM, Load Stoplists 
+```{r}
+# stoplists
+de_stopwords <- stopwords::stopwords("de", source="snowball")
+en_stopwords <- stopwords::stopwords("en", source="snowball" )
+custom_stopwords <- read.table("de_complete.txt", header=F, sep="\n")
+
+# add own stopwords 
+full_stopwords <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "|", "m", "kommentare", "neueste", "gepostet", custom_stopwords, en_stopwords)
+
+
+
+# create dfm
+dfm_p2000 <- dfm(pro2000, remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
+dfm_c2000 <- dfm(contra2000, remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
+```
+
+## Corpus Cleaning: Lemmatization -> new lemmatized dfm
+```{r}
+# pro 
+sp_pro2000 <- spacy_parse(pro2000, pos=FALSE, entity=FALSE, dependency=FALSE)
+sp_pro2000$token <- sp_pro2000$lemma
+
+sp_dfm_p2000 <- as.tokens(sp_pro2000)%>%
+  dfm(remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE, tolower=TRUE)
+
+# contra
+sp_contra2000 <- spacy_parse(contra2000, pos=FALSE, entity=FALSE, dependency=FALSE)
+sp_contra2000$token <- sp_contra2000$lemma
+
+sp_dfm_c2000 <- as.tokens(sp_contra2000)%>%
+  dfm(remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE, tolower=TRUE)
+```
+
+```{r}
+dfm_p2000
+dfm_c2000
+```
+
+## 2. Step: Check Topfeatures of DFM -> most frequently occuring terms
+```{r}
+topfeatures(sp_dfm_p2000, n=50)
+topfeatures(sp_dfm_c2000, n=50)
+```
+
+```{r}
+tf_p2000 <- topfeatures(sp_dfm_p2000, n=50)
+tf_c2000 <- topfeatures(sp_dfm_c2000, n=50)
+```
+```{r}
+textstat_frequency(sp_dfm_p2000, n=50)
+```
+
+## Plotting word frequencies
+
+```{r}
+klima_p2000 <- dfm_select(sp_dfm_p2000, pattern="klima*")
+klima_c2000 <- dfm_select(sp_dfm_c2000, pattern="klima*")
+
+
+```
+
+```{r}
+freq_p2000 <- textstat_frequency(sp_dfm_p2000, n=50)
+freq_c2000 <- textstat_frequency(sp_dfm_c2000, n=50)
+
+plot_p2000 <- with(freq_p2000, reorder(feature, -frequency))
+plot_c2000 <- with(freq_c2000, reorder(feature, -frequency))
+
+#create plot for eike klima words frequencies
+plot1 <- ggplot(freq_p2000, aes(x=feature, y=frequency)) + 
+  geom_point()+ggtitle("P2000 Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+#ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
+plot1
+
+#create plot for klimareporter klima words frequencies
+plot2 <- ggplot(freq_c2000, aes(x=feature, y=frequency)) + 
+  geom_point()+ ggtitle("C2000 Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1)) 
+  
+#ggsave(plot=plot2, width = 10, height = 5, dpi=300, filename="klima_klimarep_plot.jpeg" )
+plot2
+```
+## Same Plot for "Klima" Words
+```{r}
+freq_klima_p2000 <- textstat_frequency(klima_p2000, n=50)
+freq_klima_c2000 <- textstat_frequency(klima_c2000, n=50)
+
+freq_klima_p2000$feature <- with(freq_klima_p2000, reorder(feature, -frequency))
+freq_klima_c2000$feature <- with(freq_klima_c2000, reorder(feature, -frequency))
+
+#create plot for eike klima words frequencies
+plot1 <- ggplot(freq_klima_p2000, aes(x=feature, y=frequency)) + 
+  geom_point()+ggtitle("P2000 Klima Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+#ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
+plot1
+
+#create plot for klimareporter klima words frequencies
+plot2 <- ggplot(freq_klima_c2000, aes(x=feature, y=frequency)) + 
+  geom_point()+ ggtitle("C2000 Klima Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1)) 
+  
+#ggsave(plot=plot2, width = 10, height = 5, dpi=300, filename="klima_klimarep_plot.jpeg" )
+plot2
+```
+## Plot TF-IDF (not working yet!!!)
+```{r}
+# weighted words
+p2000_weight <- dfm_weight(sp_dfm_p2000, scheme="prop")
+c2000_weight <- dfm_weight(sp_dfm_c2000, scheme="prop")
+
+relfreq_p2000 <- textstat_frequency(p2000_weight, n=50)
+relfreq_c2000 <- textstat_frequency(c2000_weight, n=50)
+
+#tfidf
+p2000_tfidf <- dfm_tfidf(sp_dfm_p2000)
+c2000_tfidf <- dfm_tfidf(sp_dfm_c2000)
+
+#plot3 <- with(relfreq_p2000, reorder(feature, -freqency))
+relfreq_p2000$feature <- with(relfreq_p2000, reorder(feature, -frequency))
+plot3 <- ggplot(relfreq_p2000, aes(x=feature, y=frequency)) + 
+  geom_point()+ggtitle("P2000 Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+#ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
+plot3
+```
+
+
+```{r}
+topfeatures(p2000_tfidf, n=20)
+topfeatures(c2000_tfidf, n=20)
+#p2000_weight
+
+#textstat_frequency(p2000_tfidf, n=10)
+```
+
+### Comparison of Groups/Origin
+```{r}
+dfm_weight_origin <- full_corpus %>%
+  #corpus_subset(origin > 2000) %>%
+  tokens(remove_punct = TRUE) %>%
+  tokens_remove(full_stopwords) %>%
+  dfm() %>%
+  dfm_weight(scheme = "prop")
+
+# Calculate relative frequency by president
+freq_weight <- textstat_frequency(dfm_weight_origin, n = 10, 
+                                  groups = dfm_weight_origin$group) # change to "origin" here to see for all websites 
+
+ggplot(data = freq_weight, aes(x = nrow(freq_weight):1, y = frequency)) +
+     geom_point() +
+     facet_wrap(~ group, scales = "free") +
+     coord_flip() +
+     scale_x_continuous(breaks = nrow(freq_weight):1,
+                        labels = freq_weight$feature) +
+     labs(x = NULL, y = "Relative frequency")
+```
+# Collocations
+```{r}
+p_coll <- textstat_collocations(pro2000, min_count=100)
+arrange(p_coll, desc(count))
+```
+```{r}
+# remove entries involving stopwords 
+p2000_coll_clean <- p2000_coll %>%
+  dplyr::filter(!str_detect(collocation, de_stopwords))
+
+#p2000_coll_clean
+arrange(p2000_coll_clean, desc(count))
+```
+
+```{r}
+# collocations mit vorherigem stopwords removal
+p2000_toks <- tokens(pro2000)
+p2000_toks_sw <- tokens_select(p2000_toks, pattern=full_stopwords, selection="remove")
+
+p2000_coll <- textstat_collocations(p2000_toks_sw, min_count=3)
+arrange(p2000_coll, desc(count))
+```
+
+
+
+
+
+```{r}
+col <- tokens(klimarep_corpus) %>%
+  tokens_select(pattern = "^[A-Z]", valuetype = "regex", case_insensitive = TRUE, padding = TRUE) %>% 
+  textstat_collocations(min_count = 5, tolower = FALSE)
+
+col
 ```
 
