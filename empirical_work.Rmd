@@ -147,7 +147,7 @@ custom_stopwords <- read.table("de_complete.txt", header=F, sep="\n")
 
 # add own stopwords 
 full_stopwords <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "|", "m", "kommentare", "neueste", "gepostet", custom_stopwords, en_stopwords)
-de_stopwords1 <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "|", "m", "kommentare", "neueste", "gepostet")
+de_stopwords1 <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "\\|","|", "m", "kommentare", "neueste", "gepostet", "admin", "cookies", "inhalte", "inhalt", "newsletter", "posten", "zugriff", "passwort", "geschützt", "seite", "website", "webseite", "and", "0", "1", "2", "3","4","5","6","7","8","9", "mfg","w","t","wer")
 
 # create dfm
 dfm_p2000 <- dfm(pro2000, remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
@@ -265,7 +265,40 @@ plot3 <- ggplot(relfreq_p2000, aes(x=feature, y=frequency)) +
 #ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
 plot3
 ```
+```{r}
+sp_contra2000
+```
 
+
+```{r}
+pro_freq_tfidf <- p2000_tfidf %>%
+  textstat_frequency(n=10, force=TRUE)
+
+con_freq_tfidf <- c2000_tfidf %>%
+  textstat_frequency(n=10, force=TRUE)
+
+tplot_tfidf_p2000 <- ggplot(data=pro_freq_tfidf,
+                      aes(x=factor(nrow(pro_freq_tfidf):1),
+                          y=frequency)) +
+  geom_point() +
+  coord_flip() +
+  scale_x_discrete(breaks=factor(nrow(pro_freq_tfidf):1),
+                   labels=pro_freq_tfidf$feature) +
+  labs(x=NULL, y="tf-idf")
+
+tplot_tfidf_p2000
+
+tplot_tfidf_c2000 <- ggplot(data=con_freq_tfidf,
+                      aes(x=factor(nrow(con_freq_tfidf):1),
+                          y=frequency)) +
+  geom_point() +
+  coord_flip() +
+  scale_x_discrete(breaks=factor(nrow(con_freq_tfidf):1),
+                   labels=con_freq_tfidf$feature) +
+  labs(x=NULL, y="tf-idf")
+
+tplot_tfidf_c2000
+```
 
 ```{r}
 topfeatures(p2000_tfidf, n=20)
@@ -280,7 +313,7 @@ topfeatures(c2000_tfidf, n=20)
 dfm_weight_origin <- full_corpus %>%
   #corpus_subset(origin > 2000) %>%
   tokens(remove_punct = TRUE) %>%
-  tokens_remove(full_stopwords) %>%
+  tokens_remove(de_stopwords1) %>%
   dfm() %>%
   dfm_weight(scheme = "prop")
 
@@ -322,7 +355,7 @@ arrange(p2000_coll_clean, desc(count))
 ```
 
 ```{r}
-# collocations mit vorherigem stopwords removal
+# collocations mit vorherigem stopwords removal: not working
 p2000_toks <- tokens(pro2000)
 p2000_toks_sw <- tokens_select(p2000_toks, pattern=full_stopwords, selection="remove")
 
@@ -357,20 +390,163 @@ ggplot(freqs) +
   ggtitle("Word Frequencies") + 
   xlab("") + ylab("Wortfrequenz") + 
   coord_flip()
+
+freqs.act 
+freqs.scept
 ```
-comment: 
-- hier noch lemmatisierung versuchen
-- Legende anzeigen lassen!
+```{r}
+
+de_klima_pro <- dfm_select(sp_pro2000_dfm, pattern ="klima*")
+de_relfreq_pro <- dfm_weight(de_klima_pro, scheme="prop")
+de_freqs_pro <- textstat_frequency(de_relfreq_pro)
+
+de_klima_con <- dfm_select(sp_con2000_dfm, pattern ="klima*")
+de_relfreq_con <- dfm_weight(de_klima_con, scheme="prop")
+de_freqs_con <- textstat_frequency(de_relfreq_con)
+
+
+#plotting 
+freqs.act <- filter(de_freqs_pro) %>% as.data.frame() %>% select(feature, frequency)
+freqs.scept <- filter(de_freqs_con) %>% as.data.frame() %>% select(feature, frequency)
+freqs <- left_join(freqs.act, freqs.scept, by = "feature") %>% head(30) %>% arrange(frequency.x) %>% mutate(feature = factor(feature, feature))
+p <- ggplot(freqs) +
+    geom_segment(aes(x=feature, xend=feature, y=frequency.x, yend=frequency.y), color="grey") +
+    geom_point(aes(x=feature, y=frequency.x, colour="Activists"), size = 3) +
+    geom_point(aes(x=feature, y=frequency.y, colour="Sceptics"), size = 3 ) +
+    ggtitle("Word Frequencies") + 
+    xlab("") + ylab("Frequency") +
+    coord_flip()
+
+p+labs(colour="Group")
+
+```
+
+
+```{r}
+# to get lemmatized dfm 
+sp_pro2000_dfm <- as.tokens(sp_pro2000) %>%
+  dfm()
+
+sp_con2000_dfm <- as.tokens(sp_contra2000) %>%
+  dfm()
+
+```
+
+
+
+```{r}
+dfm_weight_corp <- full_corpus %>%
+  tokens(remove_punct = TRUE) %>%
+  tokens_remove(de_stopwords1) %>%
+  dfm() %>%
+  dfm_weight(scheme = "prop")
+
+# Calculate relative frequency by president
+freq_weight <- textstat_frequency(dfm_weight_corp, n = 10, 
+                                  groups = dfm_weight_corp$origin)
+
+ggplot(data = freq_weight, aes(x = nrow(freq_weight):1, y = frequency)) +
+     geom_point() +
+     facet_wrap(~ group, scales = "free") +
+     coord_flip() +
+     scale_x_continuous(breaks = nrow(freq_weight):1,
+                        labels = freq_weight$feature) +
+     labs(x = NULL, y = "Relative frequency")
+```
+```{r}
+summary(full_corpus, n=10)
+```
+
+## Keyness
+```{r}
+# Create a dfm grouped by president
+corp_dfm <- tokens(full_corpus, remove_punct = TRUE) %>%
+  tokens_remove(de_stopwords1) %>%
+  tokens_group(groups = group) %>%
+  dfm()
+
+# Calculate keyness and determine Trump as target group
+result_keyness <- textstat_keyness(corp_dfm, target = "activists")
+
+# Plot estimated word keyness
+textplot_keyness(result_keyness, margin=0.2, n=10) 
+```
+## Comparison Cloud
+```{r}
+full_corpus %>%
+    tokens(remove_punct = TRUE, remove_numbers=TRUE) %>%
+    tokens_remove(de_stopwords1) %>%
+    dfm() %>%
+    dfm_group(groups = group) %>%
+    dfm_trim(min_termfreq = 5, verbose = FALSE) %>%
+    textplot_wordcloud(comparison = TRUE, max_words=100)
+                       #,color=c("lightblue","blue"))
+```
+```{r}
+textplot_xray(
+    kwic(tokens(pro2000), pattern = "klima*"),
+    kwic(tokens(contra2000), pattern = "klima*"))
+```
+# Topic Modeling
+```{r}
+library(tidytext)
+library(topicmodels)
+```
+
+```{r}
+dfm_full <- dfm(full_corpus, remove=de_stopwords1, remove_punct=TRUE, remove_numbers=TRUE)
+dfm_full
+
+tm_full<-convert(dfm_full, to="topicmodels")
+
+topicModel <- LDA(tm_full, k=5, method="Gibbs", control=list(iter = 500, verbose = 25))
+terms(topicModel, 10)
+```
+
+
+```{r}
+ap_lda <- LDA(tm_full, k=5, control=list(seed=1234))
+
+ap_topics <- tidy(ap_lda, matrix="beta")
+
+ap_lda
+
+
+ap_top_terms <- ap_topics %>%
+  group_by(topic) %>%
+  slice_max(beta, n = 10) %>% 
+  ungroup() %>%
+  arrange(topic, -beta)
+
+ap_top_terms %>%
+  mutate(term = reorder_within(term, beta, topic)) %>%
+  ggplot(aes(beta, term, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  scale_y_reordered()
+
+```
+- try lemmatized version for topic modeling 
 
 
 Ideas:
-Wordcloud Plot of Comparison Group:
-https://quanteda.io/articles/pkgdown/examples/plotting.html
+DONE: Wordcloud Plot of Comparison Group:
+      https://quanteda.io/articles/pkgdown/examples/plotting.html
 
 Lexical Dispersion Plot (X-Ray)
 -> could be done for keywords "klima*"
 
-Calculate "Corpus Similarity"
+Next:
+- Calculate "Corpus Similarity"
+- Klimawörter Liste mit Group und Counts abspeichern -> welche Klimawörter gibt es wo und wie oft
+- alles mit der "Sents" Version testen
+- Analyse der Ergebnisse
+- Literatur-Recherche zu den Textmining Themen
+
+Topic Modeling
+https://www.tidytextmining.com/topicmodeling.html
+
+
 
 
 
