@@ -4,6 +4,7 @@ output: html_notebook
 ---
 
 ## Loading Libraries
+
 ```{r}
 # load libraries
 
@@ -17,9 +18,13 @@ library(tm)
 library("textcat")
 library("quanteda.textplots")
 library("quanteda.textstats")
+library("gsubfn")
+library("spacyr")
+
+spacy_initialize(model = "de_core_news_sm")
 ```
 
-## Start here to load existing corpora: 
+## Start here to load existing corpora:
 
 ```{r}
 # load corpus files 
@@ -47,16 +52,21 @@ ffh_corpus = readRDS("corpora/ffh_corpus.rds")
 
 
 # Exploring the corpus
+
 ## Corpus statistics
+
 ```{r}
 # to get index number 
 #id_pro = 1:ndoc(pro900)
 ```
 
 # Plotting Number of Sentences
+
 ```{r}
-pro2000_sum <- summary(pro2000, n=100)
-contra2000_sum <- summary(contra2000, n=100)
+pro2000_sum <- summary(pro2000, ndoc(pro2000))
+contra2000_sum <- summary(contra2000)
+pro900_sum <- summary(pro900, ndoc(pro900))
+contra900_sum <- summary(contra900, ndoc(contra900))
 
 #to get id as x axis
 #id_pro[1:100]
@@ -75,6 +85,7 @@ ggplot(contra2000_sum, aes(id, Sentences, group=1)) +
   ggtitle("Sentences Contra2000")
 
 ```
+
 ```{r}
 pro900_sum <- summary(pro900, n=100)
 contra900_sum <- summary(contra900, n=100)
@@ -93,8 +104,9 @@ ggplot(contra900_sum, aes(contra900_sum$id, Tokens, group=1)) +
   ggtitle("Tokens Contra900")
 
 ```
+
 ```{r}
-ggplot(pro900_sum, aes(pro900_sum$id, Types, group=1)) +
+ggplot(pro900_sum, aes(pro900_sum$id, Types, group=1)) + 
   geom_line() + 
   geom_point() +
   theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
@@ -106,7 +118,9 @@ ggplot(contra900_sum, aes(contra900_sum$id, Types, group=1)) +
   theme(axis.text.x = element_text(angle=0, vjust=1, hjust=1)) + 
   ggtitle("Types Contra900")
 
+
 ```
+
 ```{r}
 ggplot(pro900_sum, aes(Tokens, Types, group=1, label= id)) +
   geom_smooth(method = "lm", formula ="y ~ x", se = FALSE) +
@@ -118,6 +132,7 @@ ggplot(contra900_sum, aes(Tokens, Types, group=1, label= id)) +
   geom_text(check_overlap = T) +
   ggtitle("Type-Token-Relation Contra900")
 ```
+<<<<<<< Updated upstream
 # Word Frequencies
 
 
@@ -128,10 +143,11 @@ de_stopwords <- stopwords::stopwords("de", source="snowball")
 en_stopwords <- stopwords::stopwords("en", source="snowball" )
 custom_stopwords <- read.table("de_complete.txt", header=F, sep="\n")
 
+
+
 # add own stopwords 
 full_stopwords <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "|", "m", "kommentare", "neueste", "gepostet", custom_stopwords, en_stopwords)
-
-
+de_stopwords1 <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "|", "m", "kommentare", "neueste", "gepostet")
 
 # create dfm
 dfm_p2000 <- dfm(pro2000, remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
@@ -282,13 +298,24 @@ ggplot(data = freq_weight, aes(x = nrow(freq_weight):1, y = frequency)) +
 ```
 # Collocations
 ```{r}
-p_coll <- textstat_collocations(pro2000, min_count=100)
+# to remove special chars from corpus
+pro2000 <- gsub("\\|", "", pro2000)
+pro2000 <- gsub("=", "", pro2000)
+
+# convert into collocation dataframe
+p_coll <- textstat_collocations(pro2000, min_count=50)
 arrange(p_coll, desc(count))
 ```
 ```{r}
-# remove entries involving stopwords 
-p2000_coll_clean <- p2000_coll %>%
-  dplyr::filter(!str_detect(collocation, de_stopwords))
+# transform stoplists for dplyr::filter function (why?)
+de_stps <- paste0(de_stopwords, collapse = "\\b|\\b")
+en_stps <- paste0(en_stopwords, collapse = "\\b|\\b")
+
+# remove entries involving stopwords: NOT WORKING YET!
+p2000_coll_clean <- p_coll %>%
+  dplyr::filter(!str_detect(collocation, de_stps),
+                !str_detect(collocation, en_stps),
+                !str_detect(collocation, "="))
 
 #p2000_coll_clean
 arrange(p2000_coll_clean, desc(count))
@@ -302,16 +329,48 @@ p2000_toks_sw <- tokens_select(p2000_toks, pattern=full_stopwords, selection="re
 p2000_coll <- textstat_collocations(p2000_toks_sw, min_count=3)
 arrange(p2000_coll, desc(count))
 ```
-
-
-
-
-
 ```{r}
-col <- tokens(klimarep_corpus) %>%
-  tokens_select(pattern = "^[A-Z]", valuetype = "regex", case_insensitive = TRUE, padding = TRUE) %>% 
-  textstat_collocations(min_count = 5, tolower = FALSE)
-
-col
+summary(full_corpus, n=5)
 ```
+
+## Comparison Plots
+```{r}
+#create input
+corp <- dfm(full_corpus)
+
+# lemmatisierung versuchen:
+
+
+
+de_klima <- dfm_select(corp, pattern ="klima*")
+de_relfreq <- dfm_weight(de_klima, scheme="prop")
+de_freqs <- textstat_frequency(de_relfreq, groups=group)
+
+#plotting 
+freqs.act <- filter(de_freqs, group == "activists") %>% as.data.frame() %>% select(feature, frequency)
+freqs.scept <- filter(de_freqs, group == "sceptics") %>% as.data.frame() %>% select(feature, frequency)
+freqs <- left_join(freqs.act, freqs.scept, by = "feature") %>% head(30) %>% arrange(frequency.x) %>% mutate(feature = factor(feature, feature))
+ggplot(freqs) +
+  geom_segment(aes(x=feature, xend=feature, y=frequency.x, yend=frequency.y), color="grey") +
+  geom_point(aes(x=feature, y=frequency.x), color = "red", size = 3 ) +
+  geom_point(aes(x=feature, y=frequency.y), color = "lightblue", size = 3 ) +
+  ggtitle("Word Frequencies") + 
+  xlab("") + ylab("Wortfrequenz") + 
+  coord_flip()
+```
+comment: 
+- hier noch lemmatisierung versuchen
+- Legende anzeigen lassen!
+
+
+Ideas:
+Wordcloud Plot of Comparison Group:
+https://quanteda.io/articles/pkgdown/examples/plotting.html
+
+Lexical Dispersion Plot (X-Ray)
+-> could be done for keywords "klima*"
+
+Calculate "Corpus Similarity"
+
+
 
