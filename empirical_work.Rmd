@@ -59,7 +59,7 @@ ffh_corpus = readRDS("corpora/ffh_corpus.rds")
 
 ```{r}
 # to get index number 
-#id_pro = 1:ndoc(pro900)
+#id_pro = 1:ndoc(pro900) 
 ```
 
 # Plotting Number of Sentences
@@ -201,6 +201,11 @@ klima_c2000 <- dfm_select(sp_dfm_c2000, pattern="klima*")
 ```
 
 ```{r}
+klima_terms_p2000 <- topfeatures(klima_p2000, n=100)
+klima_terms_c2000 <- topfeatures(klima_c2000, n=100)
+```
+
+```{r}
 freq_p2000 <- textstat_frequency(sp_dfm_p2000, n=50)
 freq_c2000 <- textstat_frequency(sp_dfm_c2000, n=50)
 
@@ -245,6 +250,13 @@ plot2 <- ggplot(freq_klima_c2000, aes(x=feature, y=frequency)) +
 #ggsave(plot=plot2, width = 10, height = 5, dpi=300, filename="klima_klimarep_plot.jpeg" )
 plot2
 ```
+```{r}
+# to save lists of klima-words 
+# w/o "$feature" it saves the whole table as text file (with frequency info etc.)
+#capture.output(list(freq_klima_p2000$feature), file = "terms_pro.txt")
+#capture.output(list(freq_klima_c2000$feature), file = "terms_contra.txt")
+```
+
 ## Plot TF-IDF (not working yet!!!)
 ```{r}
 # weighted words
@@ -255,8 +267,8 @@ relfreq_p2000 <- textstat_frequency(p2000_weight, n=50)
 relfreq_c2000 <- textstat_frequency(c2000_weight, n=50)
 
 #tfidf
-p2000_tfidf <- dfm_tfidf(sp_dfm_p2000)
-c2000_tfidf <- dfm_tfidf(sp_dfm_c2000)
+p2000_tfidf <- dfm_tfidf(sp_dfm_p2000, scheme_tf = "prop")
+c2000_tfidf <- dfm_tfidf(sp_dfm_c2000, scheme_tf = "prop")
 
 #plot3 <- with(relfreq_p2000, reorder(feature, -freqency))
 relfreq_p2000$feature <- with(relfreq_p2000, reorder(feature, -frequency))
@@ -266,10 +278,6 @@ plot3 <- ggplot(relfreq_p2000, aes(x=feature, y=frequency)) +
 #ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
 plot3
 ```
-```{r}
-sp_contra2000
-```
-
 
 ```{r}
 pro_freq_tfidf <- p2000_tfidf %>%
