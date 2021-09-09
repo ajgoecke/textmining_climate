@@ -1,6 +1,8 @@
 ---
 title: "Empirical Work - Climate Change Discourse Corpora"
-output: html_notebook
+output:
+  html_notebook: default
+  pdf_document: default
 ---
 
 ## Loading Libraries
@@ -63,7 +65,6 @@ ffh_corpus = readRDS("corpora/ffh_corpus.rds")
 # Plotting Number of Sentences
 
 ```{r}
-pro2000_sum <- summary(pro2000, ndoc(pro2000))
 contra2000_sum <- summary(contra2000)
 pro900_sum <- summary(pro900, ndoc(pro900))
 contra900_sum <- summary(contra900, ndoc(contra900))
