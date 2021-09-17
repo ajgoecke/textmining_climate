@@ -50,10 +50,12 @@ komma_corpus = readRDS("corpora/komma_corpus.rds")
 eike_corpus = readRDS("corpora/eike_corpus.rds")
 ffh_corpus = readRDS("corpora/ffh_corpus.rds")
 ```
-
-
-
 # Exploring the corpus
+
+```{r}
+summary(pro2000, n = 10)
+summary(contra2000, n=10)
+```
 
 ## Corpus statistics
 
@@ -66,8 +68,10 @@ ffh_corpus = readRDS("corpora/ffh_corpus.rds")
 
 ```{r}
 contra2000_sum <- summary(contra2000)
+pro2000_sum <- summary(pro2000)
 pro900_sum <- summary(pro900, ndoc(pro900))
 contra900_sum <- summary(contra900, ndoc(contra900))
+
 
 #to get id as x axis
 #id_pro[1:100]
@@ -144,11 +148,10 @@ de_stopwords <- stopwords::stopwords("de", source="snowball")
 en_stopwords <- stopwords::stopwords("en", source="snowball" )
 custom_stopwords <- read.table("de_complete.txt", header=F, sep="\n")
 
-
-
 # add own stopwords 
 full_stopwords <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "|", "m", "kommentare", "neueste", "gepostet", custom_stopwords, en_stopwords)
 de_stopwords1 <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "\\|","|", "m", "kommentare", "neueste", "gepostet", "admin", "cookies", "inhalte", "inhalt", "newsletter", "posten", "zugriff", "passwort", "geschützt", "seite", "website", "webseite", "and", "0", "1", "2", "3","4","5","6","7","8","9", "mfg","w","t","wer")
+
 
 # create dfm
 dfm_p2000 <- dfm(pro2000, remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE)
@@ -169,6 +172,13 @@ sp_contra2000 <- spacy_parse(contra2000, pos=FALSE, entity=FALSE, dependency=FAL
 sp_contra2000$token <- sp_contra2000$lemma
 
 sp_dfm_c2000 <- as.tokens(sp_contra2000)%>%
+  dfm(remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE, tolower=TRUE)
+```
+```{r}
+sp_full <- spacy_parse(full_corpus, pos=FALSE, entity=FALSE, dependency=FALSE)
+sp_full$token <- sp_full$lemma
+
+sp_dfm_full <- as.tokens(sp_full) %>%
   dfm(remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE, tolower=TRUE)
 ```
 
@@ -196,8 +206,6 @@ textstat_frequency(sp_dfm_p2000, n=50)
 ```{r}
 klima_p2000 <- dfm_select(sp_dfm_p2000, pattern="klima*")
 klima_c2000 <- dfm_select(sp_dfm_c2000, pattern="klima*")
-
-
 ```
 
 ```{r}
@@ -237,14 +245,14 @@ freq_klima_c2000$feature <- with(freq_klima_c2000, reorder(feature, -frequency))
 
 #create plot for eike klima words frequencies
 plot1 <- ggplot(freq_klima_p2000, aes(x=feature, y=frequency)) + 
-  geom_point()+ggtitle("P2000 Klima Frequencies")+
+  geom_point()+ggtitle("P2000 Klimawörter Frequencies")+
   theme(axis.text.x = element_text(angle=90,hjust=1))
 #ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
 plot1
 
 #create plot for klimareporter klima words frequencies
 plot2 <- ggplot(freq_klima_c2000, aes(x=feature, y=frequency)) + 
-  geom_point()+ ggtitle("C2000 Klima Frequencies")+
+  geom_point()+ ggtitle("C2000 Klimawörter Frequencies")+
   theme(axis.text.x = element_text(angle=90,hjust=1)) 
   
 #ggsave(plot=plot2, width = 10, height = 5, dpi=300, filename="klima_klimarep_plot.jpeg" )
@@ -317,6 +325,11 @@ topfeatures(c2000_tfidf, n=20)
 #textstat_frequency(p2000_tfidf, n=10)
 ```
 
+```{r}
+dfm_klima <- dfm_select(dfm_weight_origin, pattern ="klima*")
+dfm_klima
+```
+
 ### Comparison of Groups/Origin
 ```{r}
 dfm_weight_origin <- full_corpus %>%
@@ -330,6 +343,9 @@ dfm_weight_origin <- full_corpus %>%
 freq_weight <- textstat_frequency(dfm_weight_origin, n = 10, 
                                   groups = dfm_weight_origin$group) # change to "origin" here to see for all websites 
 
+# use this line instead of the one above to get "klima" terms 
+freq_weight <- textstat_frequency(dfm_klima, n=15, groups=dfm_weight_origin$origin)
+
 ggplot(data = freq_weight, aes(x = nrow(freq_weight):1, y = frequency)) +
      geom_point() +
      facet_wrap(~ group, scales = "free") +
@@ -337,6 +353,8 @@ ggplot(data = freq_weight, aes(x = nrow(freq_weight):1, y = frequency)) +
      scale_x_continuous(breaks = nrow(freq_weight):1,
                         labels = freq_weight$feature) +
      labs(x = NULL, y = "Relative frequency")
+
+ggsave("figure_PLOT.png", dpi=300, dev='png', height=10, width=15, units="in")
 ```
 # Collocations
 ```{r}
@@ -349,6 +367,11 @@ p_coll <- textstat_collocations(pro2000, min_count=50)
 arrange(p_coll, desc(count))
 ```
 ```{r}
+de_stps
+```
+
+
+```{r}
 # transform stoplists for dplyr::filter function (why?)
 de_stps <- paste0(de_stopwords, collapse = "\\b|\\b")
 en_stps <- paste0(en_stopwords, collapse = "\\b|\\b")
@@ -357,10 +380,57 @@ en_stps <- paste0(en_stopwords, collapse = "\\b|\\b")
 p2000_coll_clean <- p_coll %>%
   dplyr::filter(!str_detect(collocation, de_stps),
                 !str_detect(collocation, en_stps),
-                !str_detect(collocation, "="))
+                !str_detect(collocation, "="),
+                !str_detect(collocation, "00"),
+                !str_detect(collocation, "30"),
+                !str_detect(collocation, ">"),
+                !str_detect(collocation, "newsletter"),
+                !str_detect(collocation, "anmelden"),
+                !str_detect(collocation, "\\+"),
+                !str_detect(collocation, "40"),
+                !str_detect(collocation, "81"),
+                !str_detect(collocation, "erneuerbarer"))
 
 #p2000_coll_clean
 arrange(p2000_coll_clean, desc(count))
+```
+```{r}
+
+c_coll <- textstat_collocations(contra2000, min_count=50)
+
+# remove entries involving stopwords: NOT WORKING YET!
+c2000_coll_clean <- c_coll %>%
+  dplyr::filter(!str_detect(collocation, de_stps),
+                !str_detect(collocation, en_stps),
+                !str_detect(collocation, "="),
+                !str_detect(collocation, "00"),
+                !str_detect(collocation, "30"),
+                !str_detect(collocation, ">"),
+                !str_detect(collocation, "newsletter"),
+                !str_detect(collocation, "anmelden"),
+                !str_detect(collocation, "\\+"),
+                !str_detect(collocation, "40"),
+                !str_detect(collocation, "81"),
+                !str_detect(collocation, "erneuerbarer"),
+                !str_detect(collocation, "kommentare"),
+                !str_detect(collocation, "\\|"),
+                !str_detect(collocation, "\\^"),
+                !str_detect(collocation, "grüßen"),
+                !str_detect(collocation, "geehrter"),
+                !str_detect(collocation, "globalen"))
+#p2000_coll_clean
+arrange(c2000_coll_clean, desc(count))
+```
+
+
+```{r}
+p2000_coll_clean$collocation <- with(p2000_coll_clean, reorder(collocation, -count))
+plot <- ggplot(p2000_coll_clean, aes(x=collocation, y=count)) + 
+  geom_point()+ggtitle("P2000 Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+#ggsave(plot=plot1, width = 10, height = 5, dpi=300, filename="klima_eike_plot.jpeg" )
+plot 
+
 ```
 
 ```{r}
@@ -404,7 +474,15 @@ freqs.act
 freqs.scept
 ```
 ```{r}
+# to get lemmatized dfm 
+sp_pro2000_dfm <- as.tokens(sp_pro2000) %>%
+  dfm()
 
+sp_con2000_dfm <- as.tokens(sp_contra2000) %>%
+  dfm()
+```
+
+```{r}
 de_klima_pro <- dfm_select(sp_pro2000_dfm, pattern ="klima*")
 de_relfreq_pro <- dfm_weight(de_klima_pro, scheme="prop")
 de_freqs_pro <- textstat_frequency(de_relfreq_pro)
@@ -429,20 +507,6 @@ p <- ggplot(freqs) +
 p+labs(colour="Group")
 
 ```
-
-
-```{r}
-# to get lemmatized dfm 
-sp_pro2000_dfm <- as.tokens(sp_pro2000) %>%
-  dfm()
-
-sp_con2000_dfm <- as.tokens(sp_contra2000) %>%
-  dfm()
-
-```
-
-
-
 ```{r}
 dfm_weight_corp <- full_corpus %>%
   tokens(remove_punct = TRUE) %>%
@@ -474,12 +538,26 @@ corp_dfm <- tokens(full_corpus, remove_punct = TRUE) %>%
   tokens_group(groups = group) %>%
   dfm()
 
+#corp_dfm_klima <- dfm_select(corp_dfm, pattern ="klima*")
+
+
 # Calculate keyness and determine Trump as target group
 result_keyness <- textstat_keyness(corp_dfm, target = "activists")
 
 # Plot estimated word keyness
 textplot_keyness(result_keyness, margin=0.2, n=10) 
 ```
+```{r}
+corp_dfm_klima <- dfm_select(corp_dfm, pattern ="klima*")
+
+# Calculate keyness and determine Trump as target group
+result_keyness <- textstat_keyness(corp_dfm_klima, target = "activists")
+
+# Plot estimated word keyness
+textplot_keyness(result_keyness, margin=0.2, n=15) 
+```
+
+
 ## Comparison Cloud
 ```{r}
 full_corpus %>%
@@ -547,8 +625,7 @@ Lexical Dispersion Plot (X-Ray)
 
 Next:
 - Calculate "Corpus Similarity"
-- Klimawörter Liste mit Group und Counts abspeichern -> welche Klimawörter gibt es wo und wie oft
-- alles mit der "Sents" Version testen
+- DONE: Klimawörter Liste mit Group und Counts abspeichern -> welche Klimawörter gibt es wo und wie oft
 - Analyse der Ergebnisse
 - Literatur-Recherche zu den Textmining Themen
 
