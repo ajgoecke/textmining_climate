@@ -524,13 +524,13 @@ p <- ggplot(freqs) +
     geom_segment(aes(x=feature, xend=feature, y=frequency.x, yend=frequency.y), color="grey") +
     geom_point(aes(x=feature, y=frequency.x, colour="Activists"), size = 3) +
     geom_point(aes(x=feature, y=frequency.y, colour="Sceptics"), size = 3) +
-    ggtitle("Comparison 'Klima' Word Frequencies per Group") + 
-    xlab("") + ylab("Frequency") +
+    ggtitle("Comparison 'Klima' Weighted Word Frequencies per Group") + 
+    xlab("") + ylab("Relative Frequency") +
     coord_flip()
 
 p+labs(colour="Group")
 
-ggsave("comparison_klima_freqs.png", dpi=300, dev='png', height=8, width=12, units="in")
+ggsave("comparison_klima_freqs.png", dpi=300, dev='png', height=6, width=12, units="in")
 
 ```
 ### Word Context
@@ -598,7 +598,7 @@ plot9 <- ggplot(p2000_colls, aes(x=collocation, y=count)) +
   theme(axis.text.x = element_text(angle=90,hjust=1))
 plot9 
 
-ggsave(plot=plot9, width = 10, height = 5, dpi=300, filename="p2000_colls.jpeg")
+ggsave(plot=plot9, width = 10, height = 5, dpi=300, filename="p2000_colls.png")
 
 c2000_colls$collocation <- with(c2000_colls, reorder(collocation, -count))
 plot10 <- ggplot(c2000_colls, aes(x=collocation, y=count)) + 
@@ -606,7 +606,7 @@ plot10 <- ggplot(c2000_colls, aes(x=collocation, y=count)) +
   theme(axis.text.x = element_text(angle=90,hjust=1))
 plot10
 
-ggsave(plot=plot10, width = 10, height = 5, dpi=300, filename="c2000_colls.jpeg")
+ggsave(plot=plot10, width = 10, height = 5, dpi=300, filename="c2000_colls.png")
 ```
 ## Keyness
 ```{r}
