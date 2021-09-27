@@ -610,7 +610,7 @@ ggsave(plot=plot10, width = 10, height = 5, dpi=300, filename="c2000_colls.png")
 ```
 ## Keyness
 ```{r}
-# Create a dfm grouped by president
+# Create a dfm grouped by community
 group_dfm <- tokens(full_corpus, remove_punct = TRUE) %>%
   tokens_remove(de_stopwords1) %>%
   tokens_group(groups = group) %>%
@@ -618,7 +618,7 @@ group_dfm <- tokens(full_corpus, remove_punct = TRUE) %>%
 
 group_dfm_klima <- dfm_select(group_dfm, pattern ="klima*")
 
-# Calculate keyness and determine Trump as target group
+# Calculate keyness and determine activists as target group
 result_keyness <- textstat_keyness(corp_dfm_klima, target = "activists")
 
 # Plot estimated word keyness
