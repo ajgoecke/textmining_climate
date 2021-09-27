@@ -23,6 +23,7 @@ To open and use this file you need to install the following:
 #install.packages("quanteda.textmodels")
 #install.packages("quanteda.textstats")
 #install.packages("quanteda.textplots")
+#install.packages("broom")
 ```
 
 ## 1. Web Scraping with Trafilatura
@@ -53,6 +54,7 @@ library("quanteda.textplots")
 library("quanteda.textstats")
 library("gsubfn")
 library("spacyr")
+library(broom)
 
 spacy_initialize(model = "de_core_news_sm")
 ```
@@ -338,7 +340,7 @@ topfeatures(sp_dfm_c2000, n=50)
 ```
 Since those lists are not easy to handle, we will create a plot of the information in the following sections. 
 
-### Plotting Frequencies
+## Plotting Frequencies
 To plot the most frequent words of each corpus, let's run the following code:
 ```{r}
 # get frequencies of a sample of 50 words from the corpora
@@ -392,12 +394,12 @@ plot4
 
 ```
 In the following step we retrieve lists of the terms which only appear in one of the Top50 lists. 
+For activists group:
 ```{r}
 # get list of climate change compounds only appearing in top50 for activists 
 setdiff(freq_klima_p2000$feature, freq_klima_c2000$feature)
 ```
-
-
+For sceptics group:
 ```{r}
 # get list of climate change compounds only appearing in top50 for activists 
 setdiff(freq_klima_c2000$feature, freq_klima_p2000$feature)
@@ -413,7 +415,7 @@ relfreq_p2000 <- textstat_frequency(p2000_weight, n=50)
 relfreq_c2000 <- textstat_frequency(c2000_weight, n=50)
 
 #tfidf
-p2000_tfidf <- dfm_tfidf(sp_dfm_p2000, scheme_tf = "prop", scheme_df = "inverse", normalize=TRUE)
+p2000_tfidf <- dfm_tfidf(sp_dfm_p2000, scheme_tf = "prop", scheme_df = "inverse")
 c2000_tfidf <- dfm_tfidf(sp_dfm_c2000, scheme_tf = "prop", scheme_df = "inverse")
 
 #plot3 <- with(relfreq_p2000, reorder(feature, -freqency))
@@ -425,42 +427,243 @@ plot3 <- ggplot(relfreq_p2000, aes(x=feature, y=frequency)) +
 plot3
 
 ```
-
 ```{r}
-p2000_tfidf <- tfidf(sp_dfm_p2000, normalize=TRUE)
+# weighted words
+p2000_klima_weight <- dfm_weight(klima_p2000, scheme="prop")
+c2000_klima_weight <- dfm_weight(klima_c2000, scheme="prop")
 
-topfeatures(p2000_tfidf, n=50)
+relfreq_p2000 <- textstat_frequency(p2000_klima_weight, n=50)
+relfreq_c2000 <- textstat_frequency(c2000_klima_weight, n=50)
+
+#tfidf
+p2000_tfidf <- dfm_tfidf(sp_dfm_p2000, scheme_tf = "prop", scheme_df = "inverse")
+c2000_tfidf <- dfm_tfidf(sp_dfm_c2000, scheme_tf = "prop", scheme_df = "inverse")
+
+relfreq_p2000$feature <- with(relfreq_p2000, reorder(feature, -frequency))
+plot7 <- ggplot(relfreq_p2000, aes(x=feature, y=frequency)) + 
+  geom_point()+ggtitle("P2000 Klima Words - Relative Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+plot7
+
+relfreq_c2000$feature <- with(relfreq_c2000, reorder(feature, -frequency))
+plot8 <- ggplot(relfreq_c2000, aes(x=feature, y=frequency)) + 
+  geom_point()+ggtitle("C2000 Klima Words - Relative Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+plot8
+
+```
+```{r}
+p2000_tfidf <- dfm_tfidf(klima_p2000, scheme_tf = "prop", scheme_df = "inverse")
+c2000_tfidf <- dfm_tfidf(klima_c2000, scheme_tf = "prop", scheme_df = "inverse")
+
+
+pro_freq_tfidf <- p2000_tfidf %>%
+  textstat_frequency(n=20, force=TRUE)
+
+con_freq_tfidf <- c2000_tfidf %>%
+  textstat_frequency(n=20, force=TRUE)
+
+tplot_tfidf_p2000 <- ggplot(data=pro_freq_tfidf,
+                      aes(x=factor(nrow(pro_freq_tfidf):1),
+                          y=frequency)) +
+  geom_point() +
+  ggtitle("P2000 'Klima' Words - Relative Frequencies")+
+  coord_flip() +
+  scale_x_discrete(breaks=factor(nrow(pro_freq_tfidf):1),
+                   labels=pro_freq_tfidf$feature) +
+  labs(x=NULL, y="tf-idf")
+
+tplot_tfidf_p2000
+
+tplot_tfidf_c2000 <- ggplot(data=con_freq_tfidf,
+                      aes(x=factor(nrow(con_freq_tfidf):1),
+                          y=frequency)) +
+  geom_point() +
+  ggtitle("C2000 'Klima' Words - Relative Frequencies")+
+  coord_flip() +
+  scale_x_discrete(breaks=factor(nrow(con_freq_tfidf):1),
+                   labels=con_freq_tfidf$feature) +
+  labs(x=NULL, y="tf-idf")
+
+tplot_tfidf_c2000
+```
+## Comparison of Groups/Origin
+Additionally, let's have a look at the climate change terms for each website we created our corpora from. All except from EIKE are used to construct the activists corpus. 
+```{r}
+dfm_weight_origin <- full_corpus %>%
+  tokens(remove_punct = TRUE) %>%
+  tokens_remove(de_stopwords1) %>%
+  dfm() %>%
+  dfm_weight(scheme = "prop")
+
+dfm_klima <- dfm_select(dfm_weight_origin, pattern ="klima*")
+
+# use this line instead of the one above to get "klima" terms 
+freq_weight <- textstat_frequency(dfm_klima, n=10, groups=dfm_weight_origin$origin)
+
+ggplot(data = freq_weight, aes(x = nrow(freq_weight):1, y = frequency)) +
+     geom_point() +
+     facet_wrap(~ group, scales = "free") +
+     coord_flip() +
+     scale_x_continuous(breaks = nrow(freq_weight):1,
+                        labels = freq_weight$feature) +
+     labs(x = NULL, y = "Relative frequency")
+
+#ggsave("figure_PLOT.png", dpi=300, dev='png', height=10, width=10, units="in")
+```
+The following plot provides a lot of information about the usage of terms between both groups - activists and sceptics. 
+```{r}
+freqs_pro <- textstat_frequency(p2000_klima_weight)
+freqs_con <- textstat_frequency(c2000_klima_weight)
+
+#plotting 
+freqs.act <- filter(freqs_pro) %>% as.data.frame() %>% select(feature, frequency)
+freqs.scept <- filter(freqs_con) %>% as.data.frame() %>% select(feature, frequency)
+freqs <- left_join(freqs.act, freqs.scept, by = "feature") %>% head(30) %>% arrange(frequency.x) %>% mutate(feature = factor(feature, feature))
+p <- ggplot(freqs) +
+    geom_segment(aes(x=feature, xend=feature, y=frequency.x, yend=frequency.y), color="grey") +
+    geom_point(aes(x=feature, y=frequency.x, colour="Activists"), size = 3) +
+    geom_point(aes(x=feature, y=frequency.y, colour="Sceptics"), size = 3) +
+    ggtitle("Comparison 'Klima' Word Frequencies per Group") + 
+    xlab("") + ylab("Frequency") +
+    coord_flip()
+
+p+labs(colour="Group")
+
+ggsave("comparison_klima_freqs.png", dpi=300, dev='png', height=8, width=12, units="in")
+
+```
+### Word Context
+
+## Collocations
+```{r}
+# transform stoplists for dplyr::filter function 
+de_stps <- paste0(de_stopwords, collapse = "\\b|\\b")
+en_stps <- paste0(en_stopwords, collapse = "\\b|\\b")
+
+# calculate collocation via textstat
+p_coll <- textstat_collocations(pro2000, min_count=50)
+c_coll <- textstat_collocations(contra2000, min_count=50)
+
+# remove entries involving stopwords:
+p2000_coll_clean <- p_coll %>%
+  dplyr::filter(!str_detect(collocation, de_stps),
+                !str_detect(collocation, en_stps),
+                !str_detect(collocation, "="),
+                !str_detect(collocation, "00"),
+                !str_detect(collocation, "30"),
+                !str_detect(collocation, ">"),
+                !str_detect(collocation, "newsletter"),
+                !str_detect(collocation, "anmelden"),
+                !str_detect(collocation, "\\+"),
+                !str_detect(collocation, "40"),
+                !str_detect(collocation, "81"),
+                !str_detect(collocation, "erneuerbarer"),
+                !str_detect(collocation, "\\|"),
+                !str_detect(collocation, "OWLIT"))
+
+#p2000_coll_clean
+p2000_colls <- head(arrange(p2000_coll_clean, desc(count)), n=50)
+
+c2000_coll_clean <- c_coll %>%
+  dplyr::filter(!str_detect(collocation, de_stps),
+                !str_detect(collocation, en_stps),
+                !str_detect(collocation, "="),
+                !str_detect(collocation, "00"),
+                !str_detect(collocation, "30"),
+                !str_detect(collocation, ">"),
+                !str_detect(collocation, "newsletter"),
+                !str_detect(collocation, "anmelden"),
+                !str_detect(collocation, "\\+"),
+                !str_detect(collocation, "40"),
+                !str_detect(collocation, "81"),
+                !str_detect(collocation, "erneuerbarer"),
+                !str_detect(collocation, "\\|"),
+                !str_detect(collocation, "et"),
+                !str_detect(collocation, "\\´"),
+                !str_detect(collocation, "dass"),
+                !str_detect(collocation, "\\^"))
+
+#p2000_coll_clean
+c2000_colls <- head(arrange(c2000_coll_clean, desc(count)), n=50)
+
+p2000_colls
+c2000_colls
 ```
 
+```{r}
+p2000_colls$collocation <- with(p2000_colls, reorder(collocation, -count))
+plot9 <- ggplot(p2000_colls, aes(x=collocation, y=count)) + 
+  geom_point()+ggtitle("P2000 Collocation Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+plot9 
 
+ggsave(plot=plot9, width = 10, height = 5, dpi=300, filename="p2000_colls.jpeg")
 
+c2000_colls$collocation <- with(c2000_colls, reorder(collocation, -count))
+plot10 <- ggplot(c2000_colls, aes(x=collocation, y=count)) + 
+  geom_point()+ggtitle("C2000 Collocation Frequencies")+
+  theme(axis.text.x = element_text(angle=90,hjust=1))
+plot10
+
+ggsave(plot=plot10, width = 10, height = 5, dpi=300, filename="c2000_colls.jpeg")
+```
+## Keyness
+```{r}
+# Create a dfm grouped by president
+group_dfm <- tokens(full_corpus, remove_punct = TRUE) %>%
+  tokens_remove(de_stopwords1) %>%
+  tokens_group(groups = group) %>%
+  dfm()
+
+group_dfm_klima <- dfm_select(group_dfm, pattern ="klima*")
+
+# Calculate keyness and determine Trump as target group
+result_keyness <- textstat_keyness(corp_dfm_klima, target = "activists")
+
+# Plot estimated word keyness
+textplot_keyness(result_keyness, margin=0.2, n=15, color=c("lightblue", "red")) 
+```
+## Keyword in Context
+```{r}
+kwic_pro <- kwic(pro2000, pattern="klimaschutz", window=5) %>%
+  as_tibble()
+
+head(kwic_pro, n=20)
+
+#write.csv(kwic_pro, "kwic_pro_klimaschutz.csv")
+```
 
 ```{r}
-full_tfidf <- dfm_tfidf(sp_dfm_full, scheme_tf = "prop")
+kwic_con <- kwic(contra2000, pattern="klimaschutz", window=5) %>%
+  as_tibble()
 
-topfeatures(full_tfidf, n=50)
-```
-```{r}
-library(tidytext)
-library(tidyverse)
-library(rmarkdown)
-
+head(kwic_con, n=20)
 ```
 
 ```{r}
-sp_dfm_full
+kwic_con <- kwic(contra2000, pattern="klimakrise", window=5) %>%
+  as_tibble()
+
+head(kwic_con, n=20)
 ```
 
+```{r}
+kwic_con <- kwic(contra2000, pattern="klimahysterie", window=5) %>%
+  as_tibble()
 
+head(kwic_con, n=20)
 
+write.csv(head(kwic_con, n=20), "kwic_con_klimahysterie.csv")
+```
 
+```{r}
+kwic_pro <- kwic(pro2000, pattern="klimakrise", window=5) %>%
+  as_tibble()
 
+head(kwic_pro, n=20)
 
-
-
-
-
-
-
+write.csv(head(kwic_pro, n=20), "kwic_pro_klimakrise.csv")
+```
 
 
