@@ -276,7 +276,6 @@ custom_stopwords <- read.table("de_complete.txt", header=F, sep="\n")
 full_stopwords <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "|", "m", "kommentare", "neueste", "gepostet", custom_stopwords, en_stopwords)
 de_stopwords1 <- c(de_stopwords, "dass", "=", "the", "seit", "ab", "beim", "\n", "mal", "c", "\\|","|", "m", "kommentare", "neueste", "gepostet", "admin", "cookies", "inhalte", "inhalt", "newsletter", "posten", "zugriff", "passwort", "geschützt", "seite", "website", "webseite", "and", "0", "1", "2", "3","4","5","6","7","8","9", "mfg","w","t","wer")
 
-
 # create dfm
 dfm_p2000 <- dfm(pro2000, remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE, tolower=TRUE)
 dfm_c2000 <- dfm(contra2000, remove=full_stopwords, remove_punct=TRUE, remove_numbers=TRUE, tolower=TRUE)
@@ -625,6 +624,8 @@ result_keyness <- textstat_keyness(corp_dfm_klima, target = "activists")
 textplot_keyness(result_keyness, margin=0.2, n=15, color=c("lightblue", "red")) 
 ```
 ## Keyword in Context
+
+## KWIC: "Klimaschutz" Activists Group
 ```{r}
 kwic_pro <- kwic(pro2000, pattern="klimaschutz", window=5) %>%
   as_tibble()
@@ -633,37 +634,74 @@ head(kwic_pro, n=20)
 
 #write.csv(kwic_pro, "kwic_pro_klimaschutz.csv")
 ```
-
+## KWIC: "Klimaschutz" Sceptics Group
 ```{r}
 kwic_con <- kwic(contra2000, pattern="klimaschutz", window=5) %>%
   as_tibble()
 
 head(kwic_con, n=20)
 ```
-
-```{r}
-kwic_con <- kwic(contra2000, pattern="klimakrise", window=5) %>%
-  as_tibble()
-
-head(kwic_con, n=20)
-```
-
-```{r}
-kwic_con <- kwic(contra2000, pattern="klimahysterie", window=5) %>%
-  as_tibble()
-
-head(kwic_con, n=20)
-
-write.csv(head(kwic_con, n=20), "kwic_con_klimahysterie.csv")
-```
-
+## KWIC: "Klimakrise" Activists Group
 ```{r}
 kwic_pro <- kwic(pro2000, pattern="klimakrise", window=5) %>%
   as_tibble()
 
 head(kwic_pro, n=20)
 
-write.csv(head(kwic_pro, n=20), "kwic_pro_klimakrise.csv")
+# write.csv(head(kwic_pro, n=20), "kwic_pro_klimakrise.csv")
 ```
+
+## KWIC: "Klimakrise" Sceptics Group
+```{r}
+kwic_con <- kwic(contra2000, pattern="klimakrise", window=5) %>%
+  as_tibble()
+
+head(kwic_con, n=20)
+```
+## KWIC: "Klimahysterie" Scpetics Group
+```{r}
+kwic_con <- kwic(contra2000, pattern="klimahysterie", window=5) %>%
+  as_tibble()
+
+head(kwic_con, n=20)
+
+# write.csv(head(kwic_con, n=20), "kwic_con_klimahysterie.csv")
+```
+
+### Glossary Enrichment
+Export lists of "Klima" words from both groups for later use in glossary and glossary enrichment. 
+```{r}
+options(max.print=10000)
+
+# retrieve all "Klima" words from both corpora
+pro_klima_list <- list(textstat_frequency(dfm_select(sp_pro2000_dfm, pattern = "klima*"))$feature)
+con_klima_list <- list(textstat_frequency(dfm_select(sp_con2000_dfm, pattern = "klima*"))$feature)
+
+# create combined list
+shared <- Map(c, pro_klima_list, con_klima_list) 
+# lengths(shared)
+
+# to save lists of "Klima" words 
+# w/o "$feature" it saves the whole table as text file (with frequency info etc.)
+capture.output(pro_klima_list, file = "terms_pro.txt")
+capture.output(con_klima_list, file = "terms_contra.txt")
+capture.output(shared, file = "terms_shared.txt")
+```
+
+The activists list contains 826 terms.
+```{r}
+lengths(pro_klima_list)
+```
+The sceptics list contains 2141 terms.
+```{r}
+lengths(con_klima_list)
+```
+The combined list contains 2967 terms.
+```{r}
+lengths(shared)
+```
+
+
+
 
 
